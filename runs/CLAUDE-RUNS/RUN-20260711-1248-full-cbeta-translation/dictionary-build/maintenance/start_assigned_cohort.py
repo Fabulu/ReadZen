@@ -41,7 +41,9 @@ def verify_resumable_gate(args, entries):
     gate = json.loads(args.timegate.read_text(encoding="utf-8"))
     expected_continuation = args.continuation_of or None
     actual_continuation = gate.get("continuationOf")
-    if gate.get("schemaVersion") != "bounded-dictionary-timegate.v2" or \
+    if gate.get("schemaVersion") not in {
+            "bounded-dictionary-timegate.v2",
+            "bounded-dictionary-timegate.v3"} or \
        gate.get("artifactZero") is not True or gate.get("cohort") != args.cohort or \
        gate.get("requiredFloors") != [floor for _, _, floor in entries] or \
        gate.get("adjudicatedCaseLoad") != args.case_load or \
@@ -81,8 +83,10 @@ def run(args: argparse.Namespace) -> None:
             create += ["--reserve-id", identity]
         subprocess.run(create, cwd=ROOT, check=True, env=child_env)
         gate = json.loads(args.timegate.read_text(encoding="utf-8"))
-    if gate.get("schemaVersion") != "bounded-dictionary-timegate.v2":
-        raise RuntimeError("artifact-zero creator emitted a non-v2 receipt")
+    if gate.get("schemaVersion") not in {
+            "bounded-dictionary-timegate.v2",
+            "bounded-dictionary-timegate.v3"}:
+        raise RuntimeError("artifact-zero creator emitted an unsupported receipt")
     launch = [
         sys.executable, str(LAUNCH),
         "--cohort", args.cohort,

@@ -176,7 +176,8 @@ for s in specs:
         authority.append({"EvidenceKey":key,"RelPath":rel,"WorkId":c["workId"],"Tier":tier,
           "SourceClass":"master-authored" if tier==1 else "recorded-sayings",
           "AuthorityReason":"Exact named higher-tier source; complete frame actor-reviewed.",
-          "WitnessFamilyId":family,"DeploymentRole":"original-use"})
+          "WitnessFamilyId":family,
+          "DeploymentRole":(role_meta or {}).get("deploymentRole","original-use")})
         ledgers.append({"Disposition":"keep","Finding":grammar,
           "Reason":"Independent higher-tier family with exact actor and one governed headword span."})
         workids.append(c["workId"]); paths.append(rel)

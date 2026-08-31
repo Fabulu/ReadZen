@@ -121,18 +121,31 @@ def verify_entries(paths: list[Path]) -> dict:
             totals_by_kind[evidence_kind] += 1
             actual = zc.verify(occurrence["RelPath"], occurrence["Kwic"])
             boundary_collision = headword_boundary_collision(source_term, occurrence.get("Kwic"))
+            claim_text = occurrence.get("ClaimText") if evidence_kind == "claim-anchor" else None
+            invalid_claim_text = evidence_kind == "claim-anchor" and (
+                not isinstance(claim_text, str)
+                or not claim_text.strip()
+                or claim_text not in occurrence.get("Kwic", "")
+                or source_term in claim_text
+            )
             if (
                 not actual.get("ok")
                 or actual.get("fromLb") != occurrence.get("FromLb")
                 or actual.get("toLb") != occurrence.get("ToLb")
                 or boundary_collision
+                or invalid_claim_text
             ):
                 failures.append({
-                    "kind": "headword-boundary-collision" if boundary_collision else evidence_kind,
+                    "kind": (
+                        "headword-boundary-collision" if boundary_collision
+                        else "claim-anchor-contract" if invalid_claim_text
+                        else evidence_kind
+                    ),
                     "sense": sense_index,
                     "occurrence": occurrence_index,
                     "expected": {"FromLb": occurrence.get("FromLb"), "ToLb": occurrence.get("ToLb")},
                     "actual": actual,
+                    **({"ClaimText": claim_text, "rule": "exact non-headword substring of Kwic"} if invalid_claim_text else {}),
                     **({"term": source_term, "trap": "山僧+舉揚"} if boundary_collision else {}),
                 })
         results.append({

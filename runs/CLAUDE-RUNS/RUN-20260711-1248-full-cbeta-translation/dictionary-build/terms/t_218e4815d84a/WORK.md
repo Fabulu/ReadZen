@@ -20,3 +20,5 @@ depth-exception: Root authorized six independent families after frozen-candidate
 
 review-correction: Dropped misattributed redundant J25 witness; restored frozen context roles.
 depth-exception: Root authorized six independent families after frozen-candidate exhaustion; X78 duplicates Zhaozhou, B25 duplicates Huanglong, and D51 is excluded Japanese material.
+
+- reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md

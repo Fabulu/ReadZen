@@ -8,15 +8,91 @@
     {
       "SenseKey": null,
       "MasterName": null,
-      "PreferredTarget": "mix mud and blend water",
+      "PreferredTarget": "mix mud and water",
       "AlternateTargets": [
-        "mix mud with water",
-        "mud-and-water mixing"
+        "blend mud with water"
+      ],
+      "SearchAliases": [
+        "mix mud and water",
+        "blend mud with water",
+        "mix into immediate conditions"
       ],
       "Status": "preferred",
       "Validation": "multi-source",
-      "Note": "The sentence decides the appraisal; changes in verdict do not make mud and water into different lexical objects.",
+      "Note": "Huqiu Shaolong and Xuefeng Huikong use the phrase constructively, while Yuanwu Keqin and Shishuang Chuyuan use it critically for entangling accommodation or verbal dilution.",
       "Occurrences": [
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0597b09",
+          "ToLb": "0597c16",
+          "Kwic": "有展托，盡落今時；不展不托，墮坑落塹。直饒風吹不入，雨打不著，點檢將來，自救不了。豈不見道？直似寒潭月影，靜夜鐘聲，隨扣擊以無虧，觸波瀾而不散，此猶是生死岸頭事。拈拄杖畫一畫，云：畫斷生法師多年葛藤點頭石，不覺撫掌大笑。且道笑箇什麼？腦後見腮，莫與往來。上堂曰：目前無法，萬象森然，意在目前，突出難辨。不是目前法，觸處逢渠，非耳目之所到，不離見聞覺知。雖然如是，也須蹈著向上關棙子始得。所以道：羅籠不肯住，呼喚不回頭，佛祖不安排，至今無處所。如是則不勞斂念，樓閣門開，寸步不移，百城俱到。驀拈拄杖畫云：路逢死虵莫打殺，無底籃子盛將歸。僧問：如何是大道真源？曰：和泥合水。曰：便恁麼去時如何？曰：截斷草鞋跟。有云：慕道如渴驥奔泉，應機似怒猊抉石。有云：醯雞處甕中，自得其樂。費長房每見一先生懸壺於肆上，長房謁之，遂同入壺中，乃真神仙境也。贊曰：襟懷秋冷，笑語春溫。垂棘璧櫝藏待價。走盤珠影落無痕。慕少室密傳心，渴驥驟奔岩下水。味碧巖無義語，醯雞自樂甕中天。路長蹈斷草鞋跟，源尋大道。竹密不妨流水過，見豎麤拳。拈起麤糲䔧，點頭石，咲葛藤畫斷。演出一大藏，瞌睡虎，被貫索縈纏。深池劒氣冷含霜，斬癡頑，橫磨石上。古洞桃花紅簇錦，與嬌兒，話別風前。路逢死虵，無底籃盛歸何用？春暄百鳥，曲闌干徙倚無言。東山龍鳳，臨濟兒孫。玉壺塵不染，別是一",
+          "MasterName": "Huqiu Shaolong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huqiu Shaolong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses. Huqiu Shaolong gives the exact phrase as his answer to the monk's question."
+        },
+        {
+          "RelPath": "D/D50/D50n8945.xml",
+          "FromLb": "0020a07",
+          "ToLb": "0022a04",
+          "Kwic": "以為高朽索其如六馬何賴有舀溪長柄杓不妨霜月在松蘿送麥頭送麥頭淵明非達士乞食拙言詞誰知我輩人佳處正在茲所化果何物持來復是誰山前小麥熟行矣今其時乞鹽乞鹽水中鹽味舌頭眼不為無形便謂無試向秦溪溪上問可中大有赤鬚胡與諸友與諸友龍亡大澤蚖蛇出火炎崑山玉石焚百種交煎今盡見一時零落古無聞家居海角荔枝塢書斷江南鴻鴈群記得風前二三月客亭長短我隨君送空兄送空兄空不識宗宗乃通宗不識空空乃同同風更得通風句只這空宗是祖翁衲僧杖子天然別千里萬里一條鐵點著閩山即便回敢保老兄猶未徹過靈石賦頑庵過靈石賦頑庵道人楊岐五世孫曾持鈯斧開雲門屬時多艱眾且去百折千摧君獨存住庵了却行脚債隨緣混入眾生界和泥合水二頃田接待方來一莖菜我初北歸先過君彼此老大言無父長年聽法庵外石𣱵日不藏巖上雲莫嫌家風四立壁應用河沙體堅密客來有以頑自疑三問道人三不知學頑未到頑之孫再拜頑庵求入門當時此老有何說火後莖苐今尚存人貧信是思舊債一飯重尋香積界堂上未曕癡絕翁溪頭已見隨流菜惟頑顯頑分不分以水投水無留文地爐火煖坐自睡金博朝參寒起雲與君相從君莫逆向來不踈今不密明朝山住雲自飛後會有無俱不知亂後入黃龍途中示道伴亂後入黃龍途中示道伴羯胡如鬼馬如風雪刃縱橫到處空生死路頭君自看活人全在死人中送川覺送川覺鯉魚山赤梢鯉辰錦砂未為比吸盡九脉泉透出三峽水上得百尺竿墮在󳳩甕裏桃花浪急禹門高雷動不驚爭奈何送人",
+          "MasterName": "Xuefeng Huikong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuefeng Huikong",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D50/D50n8945.xml). Outer Collection of Monk Xuefeng Kong. Xuefeng Huikong writes the exact phrase in his verse on passing Lingshi and describing Wan'an."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0482a16",
+          "ToLb": "0482b17",
+          "Kwic": "，亦名如意珠，亦號金剛寶劒，要深具信根，信此不從他得，行住坐臥凝神寂照，淨倮倮地無間無斷，自然諸見不生，契此正體，不生不滅、非有非無、無實無虗、離名離相，即是當人本地風光、本來面目也。古德所以揚眉瞬目、拈槌豎拂、行杖行喝、微言妙句、百千億方便，無不令人向此透脫，一纔透得便深徹源，棄却敲門瓦子，了無毫髮當情，三十二十年於中履踐截斷、路布葛藤、閑機破境、翛然無心，乃安樂之歇場也。所以道：即今休去便休去，若覓了時無了時。摩竭掩室，毗耶杜詞，人皆以為極致，殊未夢見渠脚指頭在。大人大見，大智大用，豈拘格量哉？直是痛的的地，恨不兩手分付，那論淺深得失，彼我現量紛紜，和泥合水耶？且如佛未出世，祖師未來，世界未成，虗空未現，向甚處捫摸？要須喪却機心，死却知見，脫去世智，辯聰放下，直如枯木朽株相似，驀地體得到絕氣息處，淡然忘懷，萬年一念，將養保衛，久久純熟。子細返觀，便諳得摩竭淨名來脉也。趙州臨示寂，封一柄拂子送與鎮府大王，云：此是老僧一生用不盡底。原其高識遠見，豈令人滯於相、執於言、縛於葛藤耶？唯直了證則活鱍鱍，有出群作略乃能擔負，如水入水、似金博金也。襄陽郡將王常侍參溈山，大圓得旨。一日，有僧從溈山來，常侍問：山頭老漢有何言句？僧云：人問如何是祖師西來意？溈山豎起拂。常侍云：山中如何領解？僧云：山中商較，即色明心，附物顯理。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin critically contrasts conceptual entanglement with direct realization in his own instruction."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0352b01",
+          "ToLb": "0352c02",
+          "Kwic": "山，飲乳如四大海水。何故？為無智慧，不能了知五蘊本空，都無所實，逐妄受生，貪欲所拘，不得自在。所以世尊云：諸苦所因，貪欲為本。若滅貪欲，無所依止。汝等若能了知幻身虗假，本來空寂，諸見不生，無我、人、眾生、壽者，諸法皆如。故曰：幻化空身即法身。法身覺了無一物，唯有聽法說法，虗玄大道，無著真宗。故曰：本源自性天真佛。又云：五陰浮雲空去來，三毒水泡虗出沒。若如是者，是為度一切苦厄，乃至無量無邊煩惱知解悉皆清淨，是為清淨法身。若到這箇田地，便能出此入彼，捨身受身，地獄天堂，此界他方，縱橫自在，任意浮沉，應物舒光，隨機逗教，喚作千百億化身。與麼說話，可謂無夢說夢，和泥合水，撒屎撒尿，不識好惡。乃呵呵大笑，云：若向衲僧門下，十萬八千未夢見他汗臭氣在。雖然如是，事無一向，但以假名字引導於眾生。喝一喝。藥多病甚，網細魚稠。道吾打皷，四大部洲同參。拄杖橫也，挑括乾坤大地；鉢盂轉也，覆却恒沙世界。且問汝等諸人向甚麼處安身立命？若也知安身立命處，北俱盧洲喫粥喫飯；若也不知，長連牀上喫粥喫飯。卓拄杖。冬至，云：一冬復一冬，一日復一日，五湖參禪人，佳景休拈出。喝一喝。入石霜，云：山青水綠，覩景思人，時代相遙，音容如在。憶昔諸道者住瀏陽菴時，祇代洞山禪客下一轉語，悟本一聞，便知是一千五百人善知識。當年被眾迎出住石霜，後來果如其言，名馳天下",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Imperially Selected Recorded Sayings. Shishuang Chuyuan uses the phrase while criticizing a merely verbal account."
+        },
         {
           "RelPath": "D/D50/D50n8945.xml",
           "FromLb": "0021a07",
@@ -49,7 +125,7 @@
               ]
             }
           ],
-          "AttributionNote": "Source record (X/X69/X69n1357.xml). Foguо Keqin: Mind Essentials. Yuanwu Keqin is the exact actor of the headword-bearing direct-turn layer; Yuanwu authored instruction."
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Foguo Keqin: Mind Essentials. Yuanwu Keqin is the exact actor of the headword-bearing direct-turn layer; Yuanwu authored instruction."
         },
         {
           "RelPath": "X/X78/X78n1554.xml",
@@ -75,32 +151,24 @@
           "AttributionNote": "Source record (X/X78/X78n1554.xml). Five Houses Praise. Huxiu Shaolong is the exact actor of the headword-bearing quoted-original layer; Huxiu great-road exchange actively appraised by Xisou Shaotan."
         }
       ],
+      "ClaimAnchors": [],
       "SourceTexts": [
+        "X/X78/X78n1554.xml",
         "D/D50/D50n8945.xml",
         "X/X69/X69n1357.xml",
-        "X/X78/X78n1554.xml"
+        "X/X68/X68n1318.xml"
       ],
       "RelatedMasters": [
+        "Huqiu Shaolong",
         "Xuefeng Huikong",
         "Yuanwu Keqin",
+        "Shishuang Chuyuan",
         "Huxiu Shaolong",
         "Xisou Shaotan"
       ],
-      "RelatedTerms": [
-        "脚下泥深三尺",
-        "拖泥帶水",
-        "皂白",
-        "三句",
-        "入泥入水",
-        "壁立千仞"
-      ],
-      "SearchAliases": [
-        "mixing mud and blending water",
-        "mix mud with water",
-        "mud-and-water mixing"
-      ],
-      "ClaimAnchors": [],
-      "Explanation": "和泥合水 is used in the reviewed sources as “mix mud and blend water.” Xuefeng Huikong: Xuefeng authored verse. Yuanwu Keqin: Yuanwu authored instruction. Huxiu Shaolong: Huxiu great-road exchange actively appraised by Xisou Shaotan."
+      "RelatedTerms": [],
+      "Explanation": "Mix mud and water is the literal action named by the phrase. Huqiu Shaolong gives it as a compact answer, and Xuefeng Huikong places it beside following circumstances and receiving whoever comes. Yuanwu Keqin and Shishuang Chuyuan also use it critically for conceptual entanglement or an over-accommodating verbal account. Its evaluative force therefore depends on the surrounding use."
     }
-  ]
+  ],
+  "RelatedMasters": []
 }

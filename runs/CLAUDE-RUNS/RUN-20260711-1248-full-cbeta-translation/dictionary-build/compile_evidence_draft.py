@@ -15,6 +15,7 @@ import os
 import re
 from functools import lru_cache
 from pathlib import Path
+from source_authority_contract import validate_source_row
 
 
 GENERIC = re.compile(
@@ -153,7 +154,19 @@ def validate_new_entry_depth(
     ):
         floor = required_depth_floor(exact_count)
         unique_count = len(set(identities))
-        if unique_count < floor:
+        exception = ((sense.get("DraftEvidence") or {}).get("DepthHarvestReceipt") or {}).get(
+            "AuthorizedFloorException"
+        )
+        exception_valid = (
+            isinstance(exception, dict)
+            and exception.get("Decision") == "FROZEN_CANDIDATE_EXHAUSTION"
+            and exception.get("AuthorizedBy") == "root"
+            and exception.get("FrozenCandidateExhausted") is True
+            and exception.get("RetainedIndependentFamilies") == unique_count
+            and isinstance(exception.get("ExcludedReserve"), list)
+            and len(exception["ExcludedReserve"]) >= 1
+        )
+        if unique_count < floor and not exception_valid:
             errors.append(
                 f"sense {index}.Occurrences: {unique_count} unique exact witnesses retained "
                 f"for {exact_count} frozen hits; guide depth floor is {floor}"
@@ -384,14 +397,6 @@ def validate_new_entry_pipeline(
                 f"sense {index}.DraftEvidence.SourceAuthorityRows: one row per retained occurrence required"
             )
             authority_rows = []
-        allowed_classes = {
-            1: {"master-authored"},
-            2: {
-                "recorded-sayings", "discourse-record", "case-commentary-record",
-                "institutional-regulation",
-            },
-            3: {"lamp", "lineage-compilation"},
-        }
         allowed_roles = {
             "original-use", "active-quotation", "commentary",
             "passive-quotation", "recension",
@@ -400,6 +405,7 @@ def validate_new_entry_pipeline(
         families = set()
         higher_tier_families = set()
         tiers = []
+        hierarchy_invalid = False
         for row_number, row in enumerate(authority_rows, 1):
             coordinate = f"sense {index}.DraftEvidence.SourceAuthorityRows[{row_number}]"
             if not isinstance(row, dict):
@@ -413,21 +419,41 @@ def validate_new_entry_pipeline(
             keys.add(key)
             tier = row.get("Tier")
             source_class = row.get("SourceClass")
-            if tier not in allowed_classes or source_class not in allowed_classes.get(tier, set()):
+            if not validate_source_row(
+                tier, source_class, row.get("RawSourceClass"),
+                row.get("SourceClassNormalization"),
+            ):
                 errors.append(f"{coordinate}: Tier and SourceClass do not match the closed hierarchy")
+                hierarchy_invalid = True
             else:
                 tiers.append(tier)
             occurrence_number = int(key[1:]) if re.fullmatch(r"o[1-9][0-9]*", key) else None
             if source_registry is not None and occurrence_number is not None and occurrence_number <= occurrence_count:
                 rel_path = (sense.get("Occurrences") or [])[occurrence_number - 1].get("RelPath")
+                if row.get("RelPath") != rel_path:
+                    errors.append(
+                        f"{coordinate}.RelPath: {row.get('RelPath')!r} must match "
+                        f"retained occurrence {key} source {rel_path!r}"
+                    )
                 authority = source_registry.get(rel_path)
                 if authority is None:
                     errors.append(f"{coordinate}: occurrence source is absent from the authority registry")
                 elif authority.get("Tier") != tier:
-                    errors.append(
-                        f"{coordinate}.Tier: declared {tier!r} does not match "
-                        f"registry tier {authority.get('Tier')!r} for {rel_path}"
+                    container_tier = row.get("ContainerTier")
+                    override_reason = str(row.get("CoordinateTierOverrideReason") or "").strip()
+                    valid_coordinate_downgrade = (
+                        container_tier == authority.get("Tier")
+                        and tier == 3
+                        and authority.get("Tier") in {1, 2}
+                        and bool(override_reason)
                     )
+                    if not valid_coordinate_downgrade:
+                        errors.append(
+                            f"{coordinate}.Tier: declared {tier!r} does not match "
+                            f"registry tier {authority.get('Tier')!r} for {rel_path}; "
+                            "a coordinate downgrade requires the matching ContainerTier, "
+                            "Tier 3, and a nonempty CoordinateTierOverrideReason"
+                        )
             required_text(row.get("AuthorityReason"), f"{coordinate}.AuthorityReason", errors)
             family = required_text(row.get("WitnessFamilyId"), f"{coordinate}.WitnessFamilyId", errors)
             if family:
@@ -442,6 +468,15 @@ def validate_new_entry_pipeline(
                 f"sense {index}.DraftEvidence.SourceAuthorityRows: keys {sorted(keys)} "
                 f"must equal {sorted(expected_keys)}"
             )
+        authority_work_ids = [
+            row.get("WorkId") for row in authority_rows
+            if isinstance(row, dict) and row.get("WorkId")
+        ]
+        if set(draft.get("IndependentWorkIds") or []) != set(authority_work_ids):
+            errors.append(
+                f"sense {index}.IndependentWorkIds: must exactly match the current retained "
+                "SourceAuthorityRows work inventory"
+            )
         validation = sense.get("Validation")
         if validation == "multi-source":
             if len(higher_tier_families) < 2:
@@ -449,7 +484,7 @@ def validate_new_entry_pipeline(
                     f"sense {index}.Validation: multi-source requires two independent Tier 1/2 "
                     "deployment families; supplementary lamps do not count"
                 )
-            if not any(tier in {1, 2} for tier in tiers):
+            if not hierarchy_invalid and not any(tier in {1, 2} for tier in tiers):
                 errors.append(
                     f"sense {index}.Validation: lamp-only evidence cannot earn multi-source"
                 )
@@ -632,6 +667,31 @@ def compile_occurrence(value: dict, coordinate: str, errors: list[str]) -> dict:
     return occurrence
 
 
+def compile_claim_anchor(
+    value: dict, coordinate: str, source_term: str, errors: list[str]
+) -> dict:
+    """Compile an auxiliary claim anchor without letting it impersonate evidence.
+
+    Claim anchors support reader-facing contextual claims.  They are not
+    occurrences of the entry headword and therefore must preserve a real claim
+    from their quoted span rather than merely copying the headword into
+    ``ClaimText``.  This is deliberately a local syntactic check: source
+    selection and semantic adequacy remain author/reviewer decisions.
+    """
+    anchor = compile_occurrence(value, coordinate, errors)
+    claim_text = required_text(anchor.get("ClaimText"), f"{coordinate}.ClaimText", errors)
+    normalized_claim = re.sub(r"\s+", "", claim_text)
+    normalized_headword = re.sub(r"\s+", "", str(source_term or ""))
+    if normalized_claim and normalized_headword and normalized_claim == normalized_headword:
+        errors.append(
+            f"{coordinate}.ClaimText: must contain contextual claim text, not only the source headword"
+        )
+    kwic = str(anchor.get("Kwic") or "")
+    if claim_text and claim_text not in kwic:
+        errors.append(f"{coordinate}.ClaimText: must be an exact substring of Kwic")
+    return anchor
+
+
 def compile_sense(value: dict, index: int, errors: list[str], require_pipeline_v2: bool = False) -> dict:
     sense = dict(value)
     parts = sense.pop("ExplanationParts", None) or {}
@@ -702,20 +762,58 @@ def compile_sense(value: dict, index: int, errors: list[str], require_pipeline_v
         errors.append(f"sense {index}.OpeningClaimEvidenceKeys: opening must name its stored evidence rows")
     occurrences = [compile_occurrence(row, f"sense {index}.occurrence {oi}", errors)
                    for oi, row in enumerate(sense.get("Occurrences") or [], 1)]
-    anchors = [compile_occurrence(row, f"sense {index}.claim anchor {ai}", errors)
+    anchors = [compile_claim_anchor(
+        row, f"sense {index}.claim anchor {ai}", source_term, errors
+    )
                for ai, row in enumerate(sense.get("ClaimAnchors") or [], 1)]
     available = {f"o{n}" for n in range(1, len(occurrences) + 1)} | {f"a{n}" for n in range(1, len(anchors) + 1)}
     unknown = evidence_keys - available
     if unknown:
         errors.append(f"sense {index}.OpeningClaimEvidenceKeys: unknown keys {sorted(unknown)}")
     sense["Occurrences"] = occurrences
+    current_authority_rows = draft.get("SourceAuthorityRows") or []
+    if len(current_authority_rows) == len(occurrences):
+        for oi, (occurrence, authority_row) in enumerate(
+            zip(occurrences, current_authority_rows), 1
+        ):
+            if not isinstance(authority_row, dict) or authority_row.get("RelPath") != occurrence.get("RelPath"):
+                errors.append(
+                    f"sense {index}.DraftEvidence.SourceAuthorityRows[{oi}].RelPath: "
+                    "must match the current retained occurrence source"
+                )
+        current_work_ids = {
+            row.get("WorkId") for row in current_authority_rows
+            if isinstance(row, dict) and row.get("WorkId")
+        }
+        if set(draft.get("IndependentWorkIds") or []) != current_work_ids:
+            errors.append(
+                f"sense {index}.IndependentWorkIds: must exactly match the current retained "
+                "SourceAuthorityRows work inventory"
+            )
+        current_families = {
+            row.get("WitnessFamilyId") for row in current_authority_rows
+            if isinstance(row, dict) and row.get("WitnessFamilyId")
+        }
+        stale_family_findings = [
+            row.get("Finding") for row in (draft.get("HighValueEvidenceLedger") or [])
+            if isinstance(row, dict)
+            and row.get("Disposition") == "keep"
+            and isinstance(row.get("Finding"), str)
+            and ":" in row["Finding"]
+            and row["Finding"] not in current_families
+        ]
+        if stale_family_findings:
+            errors.append(
+                f"sense {index}.DraftEvidence.HighValueEvidenceLedger: retained family ids "
+                f"absent from current SourceAuthorityRows: {stale_family_findings!r}"
+            )
     if anchors or not omit_empty_anchors:
         sense["ClaimAnchors"] = anchors
     else:
         sense.pop("ClaimAnchors", None)
     # Link inventories are derived from structured evidence, not hand-maintained
-    # parallel lists. Preserve explicitly related canonical people, then append
-    # every utterer and contextual master exactly once in evidence order.
+    # parallel lists. Explicit names must remain grounded in the current retained
+    # actor/context rows; stale actors from superseded evidence fail closed.
     explicit_related = sense.get("RelatedMasters") or []
     if not isinstance(explicit_related, list):
         errors.append(f"sense {index}.RelatedMasters: must be a list of master-name strings")
@@ -726,9 +824,7 @@ def compile_sense(value: dict, index: int, errors: list[str], require_pipeline_v
             f"sense {index}.RelatedMasters: values must be nonempty master-name strings; "
             f"got {invalid_related!r}"
         )
-    related = list(dict.fromkeys(
-        name for name in explicit_related if isinstance(name, str) and name.strip()
-    ))
+    evidence_related = []
     for row in [*occurrences, *anchors]:
         names = [row.get("MasterName")]
         names.extend(
@@ -737,8 +833,18 @@ def compile_sense(value: dict, index: int, errors: list[str], require_pipeline_v
             if isinstance(context, dict)
         )
         for name in names:
-            if name and name not in related:
-                related.append(name)
+            if name and name not in evidence_related:
+                evidence_related.append(name)
+    stale_related = [
+        name for name in explicit_related
+        if isinstance(name, str) and name.strip() and name not in evidence_related
+    ]
+    if stale_related:
+        errors.append(
+            f"sense {index}.RelatedMasters: names absent from current retained actor/context "
+            f"evidence: {stale_related!r}"
+        )
+    related = evidence_related
     sense["RelatedMasters"] = related
     derived_source_texts = list(dict.fromkeys(
         row.get("RelPath") for row in [*occurrences, *anchors] if row.get("RelPath")

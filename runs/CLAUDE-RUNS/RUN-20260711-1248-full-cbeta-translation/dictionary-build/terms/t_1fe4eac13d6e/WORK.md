@@ -1,13 +1,8 @@
-# 入門便喝 — R89 source-hierarchy repair
+# lamp-revert-20260825 revert product t_1fe4eac13d6e
 
-feedback-inference-verdict: source-ranked repair.
-feedback-observations: Every retained occurrence was reviewed in its complete source frame and assigned to its exact actor.
-feedback-falsification-searches: Tier 1 authored works; Tier 2 recorded sayings; actor and quotation layers; witness-family duplicates.
-feedback-counterexamples: Semantic limits and contrary deployments were retained without inventing unsupported senses.
-feedback-scope: frozen post-D46 Chan corpus.
-lookup-probes: exact headword, source family, speaker frame, and alternate translation.
-opening-interpretation-verdict: licensed by retained evidence.
+Term: 入門便喝
+Mode: rowUnion
+Restored rows (RelPath|FromLb): X/X69/X69n1357.xml|0473b24; X/X78/X78n1554.xml|0611a21; C/C077/C077n1710.xml|0690c21
+Basis: user order 2026-08-25 — revert all lamp-repair deletions. Bytes recovered from termbase git history, sha-verified against the repair receipt baselines.
 
-source-aware-depth-ruling: authored texts were preferred, then recorded sayings; no lamp was retained.
-sense-target-distinguishability: where multiple senses are retained, their targets and evidence jobs are explicitly distinguished in the worksheet.
-verdict: COMPLETE after compiler and bounded hard-pass review.
+- reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x2) per SPEC_REGHOMOGLYPH_20260831.md

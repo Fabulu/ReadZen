@@ -1,1 +1,2 @@
 # 強作主宰 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: To force or contrive oneself into the role of master or controller.\n- limit: Other occurrences may contrast genuine command, but that contrast does not neutralize 強.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Wuyi Yuanlai, Zhongfeng Mingben, Yulin Tongxiu.\n
+- t3b1-20260831: rule-22 pipeline-vocabulary rewrites per SPEC_T3B_20260831.md (T3b-1 deterministic families B1-B7; B6-deployments x1)

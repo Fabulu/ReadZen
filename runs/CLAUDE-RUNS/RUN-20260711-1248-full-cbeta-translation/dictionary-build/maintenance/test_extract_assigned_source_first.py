@@ -8,7 +8,7 @@ import tempfile
 import unittest
 
 from extract_assigned_source_first import (
-    assigned_cohort_from_output_name, build_documents, extract_rows,
+    assigned_cohort_from_output_name, build_documents, evidence_floor, extract_rows,
 )
 
 HERE = Path(__file__).resolve().parent
@@ -69,7 +69,10 @@ class AssignedSourceFirstTests(unittest.TestCase):
 
     def test_distinct_work_exact_order_and_deterministic_hashes(self):
         selection = [{"identityId": "id", "term": "詞", "requiredFloor": 2}]
-        counts = {"id": {"per_file": [["a", 1], ["a_dup", 1], ["b", 1]]}}
+        counts = {"id": {
+            "hits": 2,
+            "per_file": [["a", 1], ["a_dup", 1], ["b", 1]],
+        }}
         tiers = {"a": 1, "a_dup": 1, "b": 2}
         works = {"a": "work:a", "a_dup": "work:a", "b": "work:b"}
         def find(path, term, **_):
@@ -145,10 +148,40 @@ class AssignedSourceFirstTests(unittest.TestCase):
         self.assertEqual(5, len(row["sourceCandidates"]))
         self.assertEqual(3, row["requiredFloor"])
         self.assertEqual(2, row["researchCandidateReserve"])
-        self.assertEqual(5, row["candidateTarget"])
-        self.assertFalse(row["candidateSupplyExhausted"])
+        self.assertEqual(6, row["candidateTarget"])
+        self.assertTrue(row["candidateSupplyExhausted"])
         retained_after_review = row["sourceCandidates"][2:]
         self.assertEqual(row["requiredFloor"], len(retained_after_review))
+
+    def test_candidate_target_is_never_fixed_six_when_hit_floor_is_higher(self):
+        paths = [f"p{i}" for i in range(12)]
+        selection = [{"identityId": "id", "term": "詞", "requiredFloor": 3}]
+        counts = {"id": {"hits": 500, "per_file": [[path, 1] for path in paths]}}
+        def find(path, term, **_):
+            return [{"window": f"{term}:{path}", "fromLb": "1"}]
+        row = extract_rows(
+            selection, counts, tiers={path: 1 for path in paths},
+            find_fn=find, work_id_fn=lambda path: f"work:{path}",
+            candidate_reserve=3)[0]
+        self.assertEqual(7, evidence_floor(500))
+        self.assertEqual(6, row["baseCandidateTarget"])
+        self.assertEqual(10, row["candidateTarget"])
+        self.assertEqual(10, len(row["sourceCandidates"]))
+        self.assertIsInstance(row["actualHitCount"], int)
+        self.assertEqual(500, row["actualHitCount"])
+
+    def test_supply_below_actual_evidence_floor_is_rejected(self):
+        paths = [f"p{i}" for i in range(6)]
+        selection = [{"identityId": "id", "term": "詞", "requiredFloor": 3}]
+        counts = {"id": {"hits": 500, "per_file": [[path, 1] for path in paths]}}
+        def find(path, term, **_):
+            return [{"window": f"{term}:{path}", "fromLb": "1"}]
+        with self.assertRaisesRegex(RuntimeError, "evidence floor 7"):
+            extract_rows(
+                selection, counts, tiers={path: 1 for path in paths},
+                find_fn=find, work_id_fn=lambda path: f"work:{path}",
+                candidate_reserve=3,
+            )
 
 
 if __name__ == "__main__":

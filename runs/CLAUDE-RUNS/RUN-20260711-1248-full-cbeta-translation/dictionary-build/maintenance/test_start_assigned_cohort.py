@@ -85,7 +85,7 @@ class CanonicalAssignedStarterTests(unittest.TestCase):
                 self.command(gate, output), cwd=ROOT, capture_output=True, text=True)
             self.assertEqual(0, result.returncode, result.stderr)
             doc = json.loads(gate.read_text(encoding="utf-8"))
-            self.assertEqual("bounded-dictionary-timegate.v2", doc["schemaVersion"])
+            self.assertEqual("bounded-dictionary-timegate.v3", doc["schemaVersion"])
             self.assertTrue(doc["artifactZero"])
             self.assertEqual([7, 6, 4], doc["requiredFloors"])
             self.assertEqual(17, doc["adjudicatedCaseLoad"])

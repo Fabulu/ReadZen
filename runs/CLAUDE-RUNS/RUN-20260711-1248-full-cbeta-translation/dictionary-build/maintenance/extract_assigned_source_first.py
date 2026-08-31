@@ -17,6 +17,23 @@ AUTHORITY = json.loads(
     (REPO / "Assets/Data/zen-source-authority.json").read_text(encoding="utf-8"))
 TIERS = {row["RelPath"]: int(row["Tier"]) for row in AUTHORITY["entries"]}
 
+def evidence_floor(hits: int) -> int:
+    if hits <= 0:
+        return 0
+    if hits < 3:
+        return hits
+    if hits < 20:
+        return 3
+    if hits < 100:
+        return 4
+    if hits < 500:
+        return 6
+    if hits < 2_000:
+        return 7
+    if hits < 10_000:
+        return 8
+    return 10
+
 
 def write(path: Path, value: dict) -> None:
     temporary = path.with_name(f".{path.name}.{os.getpid()}.tmp")
@@ -33,7 +50,13 @@ def extract_rows(selection, counts, *, tiers, find_fn, work_id_fn, candidate_res
         identity = row.get("identityId") or row["id"]
         term = row["term"]
         floor = int(row["requiredFloor"])
-        target = floor + candidate_reserve
+        count_row = counts[identity]
+        hit_count = count_row.get("hits", count_row.get("corpusHits"))
+        if isinstance(hit_count, bool) or not isinstance(hit_count, int):
+            hit_count = sum(int(item[1]) for item in count_row["per_file"])
+        actual_floor = evidence_floor(hit_count)
+        base_target = floor + candidate_reserve
+        target = max(base_target, actual_floor + 3)
         ranked = sorted(
             counts[identity]["per_file"],
             key=lambda item: (tiers.get(item[0], 3), item[0]))
@@ -42,14 +65,18 @@ def extract_rows(selection, counts, *, tiers, find_fn, work_id_fn, candidate_res
         seen_families = set()
         for rel_path, _ in ranked:
             tier = tiers.get(rel_path, 3)
+            # Candidate reserve is for additional strong witnesses, not a
+            # license to pad a satisfied Tier-1/2 floor with lamps.
+            if tier == 3 and len(candidates) >= floor:
+                break
             work_id = work_id_fn(rel_path)
             provisional_key = work_id
             if work_id in seen_works or provisional_key in seen_families:
                 continue
-            hits = find_fn(rel_path, term, ctx=500, limit=1)
-            if not hits:
+            source_hits = find_fn(rel_path, term, ctx=500, limit=1)
+            if not source_hits:
                 continue
-            hit = hits[0]
+            hit = source_hits[0]
             context = hit["window"]
             candidates.append({
                 "relPath": rel_path,
@@ -69,15 +96,19 @@ def extract_rows(selection, counts, *, tiers, find_fn, work_id_fn, candidate_res
             seen_families.add(provisional_key)
             if len(candidates) == target:
                 break
-        if len(candidates) < floor:
+        if len(candidates) < actual_floor:
             raise RuntimeError(
-                f"{identity}: only {len(candidates)} independent candidates for floor {floor}")
+                f"{identity}: only {len(candidates)} independent candidates for "
+                f"evidence floor {actual_floor} derived from {hit_count} hits")
         lamp_count = sum(item["tier"] == 3 for item in candidates)
         extracted.append({
             "id": identity,
             "term": term,
             "requiredFloor": floor,
+            "actualHitCount": hit_count,
+            "evidenceFloor": actual_floor,
             "researchCandidateReserve": candidate_reserve,
+            "baseCandidateTarget": base_target,
             "candidateTarget": target,
             "candidateSupplyExhausted": len(candidates) < target,
             "sourceCandidates": candidates,
@@ -149,15 +180,18 @@ def main() -> None:
     viability = json.loads(args.viability_receipt.read_text(encoding="utf-8"))
     if gate.get("schemaVersion") not in {
             "bounded-dictionary-timegate.v2",
-            "bounded-dictionary-timegate.v3"}:
-        raise SystemExit("extractor requires a governed v2/v3 artifact zero")
+            "bounded-dictionary-timegate.v3",
+            "bounded-dictionary-timegate.v4"}:
+        raise SystemExit("extractor requires a governed v2/v3/v4 artifact zero")
     selection = json.loads(selection_path.read_text(encoding="utf-8"))["rows"]
-    counts = {
-        row["id"]: row
-        for row in json.loads(count_path.read_text(encoding="utf-8"))["results"]
-    }
     ids = [row.get("identityId") or row["id"] for row in selection]
     terms = [row["term"] for row in selection]
+    identity_by_term = dict(zip(terms, ids))
+    count_rows = json.loads(count_path.read_text(encoding="utf-8"))["results"]
+    counts = {
+        row.get("id") or identity_by_term[row["term"]]: row
+        for row in count_rows
+    }
     floors = [int(row["requiredFloor"]) for row in selection]
     candidate_reserve = gate.get("researchCandidateReserve")
     if isinstance(candidate_reserve, bool) or not isinstance(candidate_reserve, int) or candidate_reserve < 0:

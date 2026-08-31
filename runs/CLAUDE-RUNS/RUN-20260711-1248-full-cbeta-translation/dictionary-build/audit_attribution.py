@@ -242,7 +242,7 @@ CLOSED_ROLES = {
     "utterer", "respondent", "questioner", "interlocutor", "addressee",
     "section-subject", "record-owner", "person-described", "person-discussed",
     "commentator", "later-raiser", "later-quoter", "teacher", "student",
-    "compiler", "verse-author", "case-figure", "performer", "action-performer",
+    "compiler", "verse-author", "invitation-writer", "case-figure", "performer", "action-performer",
 }
 
 
@@ -938,7 +938,20 @@ def main() -> int:
                             subject = re.sub(r"^(?:the\s+)?unnamed\s+", "", label, flags=re.I).strip()
                             actor_marker = f"The {subject} is unnamed" if subject != label else "The actor is unnamed"
                         elif status == "narrated":
+                            # The guide's note law bans publishing the
+                            # "Compiler narration:" label; guide-compliant
+                            # notes name the narrator-class actor in prose.
+                            # When the banned label is absent, fall back to
+                            # the actor label so the marker-offset scan still
+                            # excludes the work title; the fail-closed
+                            # whole-note scan then only triggers when the
+                            # note genuinely fails to name its actor.
                             actor_marker = "Compiler narration"
+                            if actor_marker not in note:
+                                actor_marker = (
+                                    label if label and label in note
+                                    else public_actor_label(label)
+                                )
                         elif status == "impersonal":
                             actor_marker = "Editorial or procedural text"
                         else:

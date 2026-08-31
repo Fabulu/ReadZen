@@ -20,7 +20,7 @@ from functools import lru_cache
 from pathlib import Path
 
 import zc
-from corpus_manifest import distinct_works
+from corpus_manifest import distinct_works, work_id
 from audit_conformance import BANNED
 
 
@@ -454,6 +454,26 @@ def audit_entry(path: Path, count_info: dict) -> dict:
         if not override_errors:
             reviewed_hits, reviewed_files = computed_hits, computed_files
     floor = evidence_floor(reviewed_hits)
+    floor_exceptions = [
+        ((row.get("DraftEvidence") or {}).get("DepthHarvestReceipt") or {}).get(
+            "AuthorizedFloorException"
+        )
+        for row in worksheet_senses
+    ]
+    authorized_floor_exception = next(
+        (
+            row for row in floor_exceptions
+            if isinstance(row, dict)
+            and row.get("Decision") == "FROZEN_CANDIDATE_EXHAUSTION"
+            and row.get("AuthorizedBy") == "root"
+            and row.get("FrozenCandidateExhausted") is True
+            and row.get("RetainedIndependentFamilies") == effective_occurrence_count
+            and row.get("GuideFloor") == floor
+            and isinstance(row.get("ExcludedReserve"), list)
+            and row["ExcludedReserve"]
+        ),
+        None,
+    )
     hard = []
     review = []
     if count_info.get("countError"):
@@ -488,7 +508,7 @@ def audit_entry(path: Path, count_info: dict) -> dict:
         if override_errors:
             hard.append({"kind": "invalid-depth-count-override", "errors": override_errors})
 
-    if effective_occurrence_count < floor:
+    if effective_occurrence_count < floor and not authorized_floor_exception:
         hard.append(
             {
                 "kind": "below-frequency-floor",
@@ -631,7 +651,30 @@ def audit_entry(path: Path, count_info: dict) -> dict:
         effective_occurrences.extend(
             rows[group[0] - 1] for group in class_row["classes"]
         )
-    source_spread = len(distinct_works(occ.get("RelPath") for occ in effective_occurrences))
+    # A RelPath outside the corpus manifest (e.g. de-canonicalized by a later
+    # curation commit) is a REPORTABLE finding, not a crash: KeyError here would
+    # abort the whole-tree run and hide every subsequent entry's findings.
+    def _in_manifest(rel: str) -> bool:
+        try:
+            work_id(rel)
+            return True
+        except KeyError:
+            return False
+
+    unmapped_relpaths = sorted({
+        str(rel) for rel in (occ.get("RelPath") for occ in effective_occurrences)
+        if rel and not _in_manifest(str(rel))
+    })
+    for rel in unmapped_relpaths:
+        hard.append({
+            "kind": "source-not-in-corpus-manifest",
+            "relPath": rel,
+            "note": "cited file is outside the frozen corpus manifest; row is unverifiable",
+        })
+    source_spread = len(distinct_works(
+        occ.get("RelPath") for occ in effective_occurrences
+        if occ.get("RelPath") and _in_manifest(str(occ.get("RelPath")))
+    ))
     required_spread = min(4, reviewed_files)
     if reviewed_hits >= 100 and source_spread < required_spread:
         hard.append(
@@ -741,6 +784,7 @@ def audit_entry(path: Path, count_info: dict) -> dict:
         "reviewedUsableHits": reviewed_hits,
         "reviewedUsableFiles": reviewed_files,
         "depthCountOverride": depth_override or None,
+        "authorizedFloorException": authorized_floor_exception,
         "evidenceFloor": floor,
         "occurrences": effective_occurrence_count,
         "retainedHeadwordOccurrences": len(headword_occurrences),

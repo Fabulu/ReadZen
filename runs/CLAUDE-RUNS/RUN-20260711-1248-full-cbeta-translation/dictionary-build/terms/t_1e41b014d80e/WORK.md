@@ -11,3 +11,7 @@ opening-interpretation-verdict: licensed by retained evidence.
 source-aware-depth-ruling: authored texts were preferred, then recorded sayings; no lamp was retained.
 sense-target-distinguishability: where multiple senses are retained, their targets and evidence jobs are explicitly distinguished in the worksheet.
 verdict: COMPLETE after compiler and bounded hard-pass review.
+
+- reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md
+
+- t3b1-20260831: rule-22 pipeline-vocabulary rewrites per SPEC_T3B_20260831.md (T3b-1 deterministic families B1-B7; B6-deployments x1)

@@ -34,11 +34,18 @@ mystical or general-Buddhist abstraction.
   is the foundation for translating the whole Zen corpus.
 
 ## 2. The Zen corpus — ALWAYS Zen-scope your searches
-- The prescriptive Zen allowlist is **`Assets/Data/zen-corpus.json`**. For the fresh rebuild it is
-  **frozen at 494 CBETA files representing 487 independent works**, with baseline SHA-256
-  **`42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a`**. The authoritative
-  lock and manifest are `fresh-build/state.json` and `fresh-build/corpus-baseline.json`; a different
-  file count, work count, or hash is a structural blocker, not a baseline to accept silently. The set was filtered
+- The prescriptive Zen allowlist is **`Assets/Data/zen-corpus.json`**. It is
+  **frozen at 489 CBETA files representing 482 independent works**, with baseline SHA-256
+  **`8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff`**. The authoritative
+  lock and manifest are `fresh-build/state.json` and `fresh-build/corpus-baseline.json` — where this
+  prose and the lock files disagree, **the lock files win**. A different
+  file count, work count, or hash is a structural blocker, not a baseline to accept silently. Two
+  retired baselines remain lawful on legacy entries (`legacyCorpusBaselines` in the lock):
+  `aa125d97f0eb402daef67596f649888e27f51e20e5bddf96189344b406ef3bf1` (490 files / 483 works) and
+  `42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a` (494 files / 487 works). An
+  entry still carrying a legacy sha is temporarily accepted ONLY while its retained evidence cites
+  none of the retired sources (`D46n8930`; `G084n2084`, `G084n2086`, `T48n2023`, `X63n1245`).
+  The set was filtered
   from `C:\woodblocks\ZEN_TEXT_WORKLIST.md` (records of masters, minus Pure Land / Vinaya / Tiantai /
   Huayan / sutras / stele inscriptions / eminent-monk bios / chronicles / lexicons / anthologies).
 - **NEVER run a raw concordance over the whole CBETA canon** (`CbetaZenTexts/xml-p5` is ALL 4,990
