@@ -1,0 +1,175 @@
+{
+  "Id": "t_a5ffef8b3f2d",
+  "SourceTerm": "堂頭和尚",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane B evidence-first",
+  "WrittenUtc": "2026-07-15T04:04:40.471839+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "head-of-hall reverend",
+      "AlternateTargets": [
+        "presiding monastery teacher",
+        "resident abbot"
+      ],
+      "SearchAliases": [
+        "head of the hall",
+        "hall-head reverend",
+        "presiding abbot",
+        "monastery abbot",
+        "resident teacher",
+        "presiding Zen master"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Six distinct works distinguish the presiding teacher from attendants, rectors, head seats, and other officers. The title is not assigned as speaker when he is merely addressed or named inside an announcement.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0140c13",
+          "ToLb": "0140c15",
+          "Kwic": "今五祖堂頭和尚，此日幸對人天廣眾，請不悋慈悲，重為顯揚",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Ancestral Guidelines Collection (列祖提綱錄), reception-address section: the address author asks the present head-of-hall reverend at Wuzu to expound before the assembly. The source compiler narrates or documents the headword-bearing clause; represented actor: the unidentified author of the reception address.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the unidentified author of the reception address",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Ancestral Guidelines Collection (列祖提綱錄), reception-address section: the address author asks the present head-of-hall reverend at Wuzu to expound before the assembly.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:28.006495+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1123a03",
+          "ToLb": "1123a03",
+          "Kwic": "請某處堂頭和尚禪師",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Imperially Authorized Baizhang Pure Rules (勅修百丈清規): the regulatory compiler supplies the wording on a formal invitation addressed to the head-of-hall reverend. The source compiler narrates or documents the headword-bearing clause; represented actor: the Baizhang Pure Rules compiler.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the Baizhang Pure Rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Imperially Authorized Baizhang Pure Rules (勅修百丈清規): the regulatory compiler supplies the wording on a formal invitation addressed to the head-of-hall reverend.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:28.006531+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0626c05",
+          "ToLb": "0626c06",
+          "Kwic": "堂司行者即進首座前問訊云：堂頭和尚今晚放參。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): Reserve Pure Rules for the Chan Grove (禪林備用清規): the explicitly identified hall-office attendant announces to the head seat that the head-of-hall reverend cancels evening interview. The source compiler narrates or documents the headword-bearing clause; represented actor: the hall-office attendant.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the hall-office attendant",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Reserve Pure Rules for the Chan Grove (禪林備用清規): the explicitly identified hall-office attendant announces to the head seat that the head-of-hall reverend cancels evening interview.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:28.006552+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0012c04",
+          "ToLb": "0012c05",
+          "Kwic": "此皆堂頭和尚提耳訓育，終始獎諭。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Tianyi Yihuai’s acceptance address: Tianyi attributes his formation and encouragement to the head-of-hall reverend.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "utterer",
+                "person-described"
+              ]
+            }
+          ],
+          "MasterName": "Tianyi Yihuai"
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0139a11",
+          "ToLb": "0139a12",
+          "Kwic": "當山堂頭和尚歬月掩息方丈已寂寂以無言",
+          "Curated": true,
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min (弘覺忞禪師語錄): Hongjue Min (弘覺忞禪師語錄): Hongjue Min says that the present monastery’s head-of-hall reverend died in the abbot’s quarters the previous month.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongjue Min",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Hongjue Min"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X64/X64n1260.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "X/X82/X82n1571.xml",
+        "L/L155/L155n1643.xml",
+        "X/X63/X63n1245.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Tianyi Yihuai",
+        "Hongjue Min"
+      ],
+      "RelatedTerms": [
+        "住持",
+        "方丈",
+        "院主",
+        "維那",
+        "首座",
+        "知事"
+      ],
+      "Explanation": "The head-of-hall reverend is the monastery’s presiding abbot or teacher as named from the community’s institutional side. Pure rules put the title into invitations, announcements, and appointments: a formal notice invites a head-of-hall reverend, a hall attendant announces that he has cancelled evening interview, and a rector cites his instruction when appointing an officer. Reception language asks the head-of-hall reverend at Wuzu to expound before the assembly. Tianyi Yihuai credits the named teaching figure with close formation and encouragement, while Hongjue Min uses the title when announcing the death of the present monastery’s presiding teacher. The Chan bend is institutional rather than symbolic: the named teaching figure of public encounter is named here as the person who presides over the hall and whose word organizes its communal offices and events."
+    }
+  ]
+}

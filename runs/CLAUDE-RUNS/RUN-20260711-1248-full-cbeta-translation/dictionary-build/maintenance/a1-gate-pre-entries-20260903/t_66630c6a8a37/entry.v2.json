@@ -1,0 +1,226 @@
+{
+  "Id": "t_66630c6a8a37",
+  "SourceTerm": "機緣",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "recorded Chan encounter",
+      "AlternateTargets": [
+        "occasioned encounter",
+        "encounter record"
+      ],
+      "SearchAliases": [
+        "Chan encounter",
+        "recorded encounter",
+        "encounter case",
+        "public encounter",
+        "encounter record"
+      ],
+      "Status": "preferred",
+      "Explanation": "A recorded Chan encounter is a public meeting or exchange preserved as a countable lineage case. The compound joins \"occasion, trigger, or responsive capacity\" (機) with \"circumstance or connection\" (緣). It appears as a section heading introducing successive exchanges, in the stable compound \"question-and-answer encounters\" (問答機緣), and in catalogues alongside entering-the-room encounters (入室機緣). One compilation calls the 1,700 old cases \"1,700 encounters\" (一千七百則機緣); the same author asks about \"buddhas' and patriarchs' encounters, commonly called public cases\" (佛祖機緣世稱公案者). The institutional deviation is therefore visible in record structure: an ordinary occasion or connection becomes a countable, titled public exchange preserved and revisited by the lineage.",
+      "Validation": "multi-source",
+      "Note": "This technical sense does not turn every raw match into a formal interview. It preserves the texts' cautions: Zhongfeng Mingben lists seeking in encounters beside seeking in language and the 1,700 entangling vines, and Fangrong Tongxi raises the whisk while setting \"encounter question-and-answer\" aside. Family check: \"question-and-answer\" (問答) is the reciprocal verbal exchange; the individual-questioner turn formula has its own entry; \"enter the room\" (入室) identifies the room setting; \"encounter\" (機緣) is the wider encounter and its record. Fitting occasion or concord is separated below as a different referent. The headword has 1,568 occurrences in 303 allowlisted texts.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0793a11",
+          "ToLb": "0793a12",
+          "Kwic": "及一千七百則機緣。莫不皆是八字打開兩手分付。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). In Zhongfeng Mingben's own address. Zhongfeng Mingben counts the old encounter records as 1,700 encounters.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0798a02",
+          "ToLb": "0798a03",
+          "Kwic": "或問佛祖機緣世稱公案者何耶。幻曰。公案乃喻乎公府之案牘也。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). In Zhongfeng Mingben's own dialogue. Zhongfeng Mingben records and answers a question explicitly relating buddhas' and patriarchs' encounters to what are commonly called public cases.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0229c09",
+          "ToLb": "0229c10",
+          "Kwic": "門庭施設，問答機緣，講學宗徒、禪那衲子，一一吐盡野狐涎",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略). In his own extended instruction, Guting Shanjian opens by naming the establishment of the house, question-and-answer encounters, scholastic followers, and Chan monastics before rejecting their false talk.",
+          "MasterName": "Guting Shanjian",
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0466b22",
+          "ToLb": "0466b23",
+          "Kwic": "入室機緣僧入，師問：「瞎驢滅卻正法眼，後人以何為眼目？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru (萬如禪師語錄). This repeated scene heading for entering-the-room encounters is impersonal textual metadata; it immediately precedes a monk entering and Wanru Tongwei questioning him.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "section heading",
+            "ActorLabel": "entering-the-room-encounters heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword occurs in the repeated noun-phrase heading before the dialogue begins; it has no speech marker or human subject.",
+            "ReviewedBy": "Codex /root/repair_bird_path",
+            "ReviewedUtc": "2026-07-14T10:08:00Z",
+            "HeadingType": "section"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "record-owner",
+                "questioner"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0831a03",
+          "ToLb": "0831a04",
+          "Kwic": "機緣僧禮拜，師云：「何處來？」僧云：「金陵。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi (方融璽禪師語錄). This repeated encounter-scene heading is impersonal textual metadata; it is followed by Fangrong Tongxi asking a monk where he came from.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "section heading",
+            "ActorLabel": "encounter heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword is a repeated noun-phrase heading before the monk bows and Fangrong speaks; it is not part of either person's turn.",
+            "ReviewedBy": "Codex /root/repair_bird_path",
+            "ReviewedUtc": "2026-07-14T10:08:00Z",
+            "HeadingType": "section"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Tongxi",
+              "Roles": [
+                "record-owner",
+                "questioner"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0820a17",
+          "ToLb": "0820a18",
+          "Kwic": "乃驀豎拂子云：「機緣問答且置，會得這箇麼？",
+          "MasterName": "Fangrong Tongxi",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi (方融璽禪師語錄). In Fangrong Tongxi's own memorial public exchange. Fangrong Tongxi raises the whisk and explicitly sets encounter question-and-answer aside before asking whether the assembly understands this.",
+          "ContextMasters": []
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J25/J25nB163.xml",
+        "J/J26/J26nB182.xml",
+        "J/J29/J29nB249.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [
+        "question-and-answer (問答)",
+        "public case (公案)",
+        "enter the room (入室)",
+        "individual questioner turn"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "convergence of circumstances",
+      "AlternateTargets": [
+        "fitting occasion",
+        "accord"
+      ],
+      "SearchAliases": [
+        "convergence of circumstances",
+        "fitting occasion",
+        "circumstances in accord",
+        "affinity in accord"
+      ],
+      "Status": "allowed",
+      "Explanation": "Outside the countable encounter-record use, \"encounter\" (機緣) names circumstances coming together or an accord between people. Zhongfeng Mingben says \"the occasion is touched by chance\" (機緣偶觸). Zhang Hui's preface praises Guting Shanjian's transmission and says his \"capacities and circumstances accorded\" (機緣吻合) before quoting a succession charge. These denote a convergence or fit, not a titled question-and-answer record.",
+      "Validation": "multi-source",
+      "Note": "This sense is split under #0f.8 because a circumstance or accord is a different thing from a countable public encounter and its transcript. The two English targets are not competing interpretations of one usage; they follow two independently anchored constructions within the broader non-record sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0756b04",
+          "ToLb": "0756b05",
+          "Kwic": "久之不懈不廢不失不忘。機緣偶觸則心華燦發矣。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). In Zhongfeng Mingben's own address. Zhongfeng Mingben says the occasion or convergence may be touched by chance.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0224c05",
+          "ToLb": "0224c06",
+          "Kwic": "和尚誠無際之正傳，機緣吻合，際囑曰：「吾居川中，得法之徒十有餘人",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略). The byline names Zhang Hui as author of this preface; Zhang says Guting Shanjian is Wuji's true transmission and that their encounter and affinity accorded.",
+          "MasterName": "Zhang Hui",
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J25/J25nB163.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [
+        "circumstance (緣)",
+        "responsive capacity (機)"
+      ]
+    }
+  ]
+}

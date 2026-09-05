@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "r2-blind-r1-adjudication",
+  "lane": "R2",
+  "round": "r1",
+  "rowsFile": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2-blind-r1-rows-20260903.json",
+    "sha256": "712b7ae204999cb061663915d5b7fa68e32fe58ad4e95b290ddb2395352a5583"
+  },
+  "reviewers": {
+    "reviewer1": {
+      "inputRowsSha256": "712b7ae204999cb061663915d5b7fa68e32fe58ad4e95b290ddb2395352a5583",
+      "verdictsSha256": "49a82f88a75b35b4f2f867170ecb047fd1b2d4e40e1d7d25f5143d9005716f6a",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260903-r2-blind-r1-reviewer-1\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0000": 1,
+        "R0009": 1,
+        "R0010": 1,
+        "R0011": 2,
+        "R0012": 2,
+        "R0013": 1,
+        "R0014": 2,
+        "R0015": 2
+      }
+    },
+    "reviewer2": {
+      "inputRowsSha256": "712b7ae204999cb061663915d5b7fa68e32fe58ad4e95b290ddb2395352a5583",
+      "verdictsSha256": "870722f398196e5b63471232fdba17c8e948ad66f4e408554403687fea067024",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260903-r2-blind-r1-reviewer-2\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0000": 1,
+        "R0007": 1,
+        "R0009": 1,
+        "R0010": 1,
+        "R0011": 2,
+        "R0012": 2,
+        "R0013": 1,
+        "R0014": 2,
+        "R0015": 3
+      }
+    }
+  },
+  "canaries": {
+    "plants": 8,
+    "requiredCaughtBy": "every reviewer",
+    "results": [
+      {
+        "plantId": "P1",
+        "rowId": "R0000",
+        "class": "occ-attribution",
+        "defect": "MasterName kept as fabricated speaker (post slot is null)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P2",
+        "rowId": "R0009",
+        "class": "occ-attribution",
+        "defect": "ContextMasters role corrupted compiler->utterer (post contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P3",
+        "rowId": "R0010",
+        "class": "occ-attribution",
+        "defect": "ActorLabel absent from the new note (label-verbatim law)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P4",
+        "rowId": "R0011",
+        "class": "occ-attribution",
+        "defect": "kwic mutated (post slot contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P5",
+        "rowId": "R0012",
+        "class": "occ-attribution",
+        "defect": "fromLb off-by-one (post slot contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P6",
+        "rowId": "R0013",
+        "class": "searchaliases-add",
+        "defect": "alias target mutated (dropped 顿号; post SearchAliases contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P7",
+        "rowId": "R0014",
+        "class": "note-rewrite",
+        "defect": "fabricated CJK quote injected into Note (not in POST; unanchored)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P8",
+        "rowId": "R0015",
+        "class": "attributionnote-rewrite",
+        "defect": "fabricated compiler string injected into attribution note",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      }
+    ],
+    "misses": []
+  },
+  "honestFlags": [
+    {
+      "rowId": "R0007",
+      "reviewer": "reviewer2",
+      "reason": "B3 as written requires full-string equality: PRE slot(1,3) AttributionNote is 366 chars, before is a 48-char fragment; POST note is 400 chars, after is 82. Under the fragment semantics of B1/B2 (field resolved to slot(1,3).AttributionNote) this row IS byte-consistent with PRE and POST; the flag enforces B3's literal '=='.",
+      "law": "B3",
+      "allLaws": [
+        "B3"
+      ],
+      "row": {
+        "entry": "t_057cc9ea8755",
+        "class": "attributionnote-rewrite",
+        "si": 1,
+        "oi": 3
+      },
+      "oracleMatch": true,
+      "note": "row bytes == engine/materials oracle"
+    }
+  ],
+  "coordinatorRulings": {
+    "file": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2-blind-r1-coordinator-rulings-20260903.json",
+    "refuted": [
+      "R0007@reviewer2"
+    ],
+    "confirmed": [],
+    "unruled": []
+  },
+  "confirmedFindings": [],
+  "problems": [],
+  "verdict": "PASS"
+}

@@ -1,0 +1,92 @@
+{
+  "Id": "t_ab715aa474d5",
+  "SourceTerm": "一日不作一日不食",
+  "CreatedBy": "Codex fresh f002 Lane A evidence-first",
+  "WrittenUtc": "2026-07-15T14:00:00Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a day without work is a day without food",
+      "AlternateTargets": [
+        "if I do not work for a day, I do not eat for a day"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Across the collected corpus the exact saying occurs 8 times in 6 texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1119b01",
+          "ToLb": "1119b02",
+          "Kwic": "至於作務。猶與眾均其勞。常曰。一日不作一日不食。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Baizhang Huaihai. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+          "MasterName": "Baizhang Huaihai",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1144b03",
+          "ToLb": "1144b04",
+          "Kwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+          "MasterName": "Dehui",
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0049c05",
+          "ToLb": "0049c06",
+          "Kwic": "一日不作一日不食。歇者無心穫者力。分明只箇是家風。會得種田博飯喫。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi (宏智禪師廣錄): file T/T48/T48n2001.xml; exact actor: Hongzhi Zhengjue. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "T/T48/T48n2001.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Dehui",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [
+        "作務",
+        "普請",
+        "家風"
+      ],
+      "SearchAliases": [
+        "a day without work is a day without food"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The phrase “A day without work is a day without food” is preserved as Baizhang’s saying, repeated as a communal rule, and versified as the house style of working for food. Literally, “one day not working, one day not eating.” The Chan institutional record attributes the saying to Baizhang and ties it to shared manual labor: the monastic regulations say that even in old age he “shared the community's labor” and regularly said the line. The same regulations later call it “the warning of the ancients” when directing the community to attend communal work. Xutang's record adds that at age ninety-five Baizhang's hoe, cutting tool, rain cape, and bamboo hat never left him. Hongzhi quotes the saying and calls “farming to obtain food to eat” “the house style”. Its Zen deviation is institutional and explicit: a maxim attached to Baizhang becomes the recorded house rule for Baizhang’s and the community’s agricultural labor."
+    }
+  ]
+}

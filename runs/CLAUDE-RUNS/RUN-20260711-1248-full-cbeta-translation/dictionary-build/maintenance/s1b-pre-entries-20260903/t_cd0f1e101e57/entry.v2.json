@@ -1,0 +1,194 @@
+{
+  "Id": "t_cd0f1e101e57",
+  "SourceTerm": "撩起便行",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna154r5 semantic author",
+  "WrittenUtc": "2026-08-09T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "pick oneself up and go at once",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "go at once",
+        "act without hesitation"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Immediate action before discursive delay; later echoes are distinct uses, not automatically Linji speech.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0059c23",
+          "ToLb": "0060a07",
+          "Kwic": "空迸裂。四方八面絕遮攔，萬象森羅齊漏泄。後分座於真乘，出應上封，屢遷名剎。住乾元日，上堂：百千三昧門，無量福德藏。放行也，如開武庫，錯落交輝。把住也，似雪覆蘆花，通身莫辨。使見之者撩起便行，聞之者單刀直入。個個具頂門正眼，人人懸肘後靈符。掃佛祖見知，作叢林殃害。憶得寶壽開堂日，三聖推出一僧，寶壽便打。三聖曰：與麼為人，瞎却鎮州一城人眼去在。且如乾元今日開堂，或有僧出",
+          "MasterName": "Shangfeng Foxin Bencai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shangfeng Foxin Bencai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Complete Five Lamps, Volumes 34–120. Exact speaker: Shangfeng Foxin Bencai."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0261a23",
+          "ToLb": "0261b01",
+          "Kwic": "門便喝，未審還有為人處也無？」師云：「急走，急走。」僧云：「走後如何？」師打，云：「病鳥不離窠內死。」僧喝，師又打，乃云：「德山入門便棒、臨濟入門便喝，總是鹽湯止渴，無風匝匝之波，撩起便行還較些子。若是困魚止濼、病鳥棲蘆，翻成禍事。菩提門下總不與麼，人情若好，喫水也肥。汝等諸人還知渾身坐在水裏麼？」拈拄杖下座，打散，云：「選佛若無如是眼，宗風那得到于今？」授比丘戒，",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending (神鼎雲外澤禪師語錄): Recorded Sayings of Yunwai Xingze. Exact speaker: Yunwai Xingze."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0694b16",
+          "ToLb": "0694b17",
+          "Kwic": "五百，原是一貫；會得撩起便行，不會重添公案。那個",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師語錄): Recorded Sayings of Juelang Daosheng. Exact speaker: Juelang Daosheng."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0188b09",
+          "ToLb": "0188b18",
+          "Kwic": "為爾道破。」卓拄杖云：「者裡親薦取，獨步任西東。」示眾。僧纔出，師便打。又僧出，師云：「三十棒。」僧無語。師云：「蒼天！蒼天！」乃云：「拄杖子橫打豎打，不曾打著一個。還有向未拈棒前撩起便行底麼？」因侍者有省，示眾。師云：「禪不屬參，道不屬悟，佛亦不成，眾生不做。向這裡摸著鼻孔，一任隨緣放曠，任性逍遙，拗折拄杖，放下腰包。其或未然，一狐疑了一狐疑，江北江南問王老。」示",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu (大休珠禪師語錄): Recorded Sayings of Daxiu Zhu. Exact speaker: Daxiu Zhu."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0723c17",
+          "ToLb": "0723c25",
+          "Kwic": "看夜半鳥啼，日輪杲杲。寶先居士向定光童子深探淵源，就闕里真人別開生面，今年閏夏聚首祗園，問釅茶三四碗于佛日夾山，敘交遊八九人于子瞻山谷，未幾分袂，遽遠毘耶。掉頭不顧，知現影之無常；撩起便行，但抽身之太早。兩公子特請山僧到來，欲借那九歌九辨，招屈原天上之魂；更假此一詠一彈，留叔夜雲中之駕。昭昭朗朗，遍界難藏；巍巍堂堂，呼之欲出。見麼？見麼？」以拂子拂一拂，云：「寶先居",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄): Recorded Sayings of Langting Ting. Exact speaker: Langting Ting.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified-unlinked-master",
+            "ActorLabel": "Langting Ting",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The memorial address and record title assign the headword-bearing sentence to Langting Ting.",
+            "ReviewedBy": "u1 post-current500 lane A",
+            "ReviewedUtc": "2026-07-20T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0123b02",
+          "ToLb": "0123b11",
+          "Kwic": "如是，和尚何得教人看話，百計搜尋？南云：若不教儞如此究尋，到無心處自見自肯，即吾埋沒汝也。示眾云：知幻即離，不作方便；離幻即覺，亦無漸次。釋迦老子千門萬戶一時擊開，靈利漢纔聞舉著，撩起便行，更若踟蹰，君往西秦，我之東魯。示眾云：有句無句，如藤倚樹，且任諸方點頭。及乎樹倒藤枯，上無衝天之計，下無入地之謀，靈利漢這裏著得隻眼，便見七縱八橫。乃舉拂子云：太陽溢目，萬里不挂",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要): United Lamp Record. Exact speaker: Huitang Zuxin."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "X/X64/X64n1260.xml",
+        "J/J33/J33nB280.xml",
+        "X/X81/X81n1568.xml",
+        "J/J25/J25nB174.xml",
+        "J/J27/J27nB192.xml",
+        "J/J33/J33nB294.xml",
+        "X/X79/X79n1557.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Shangfeng Foxin Bencai",
+        "Yunwai Xingze",
+        "Juelang Daosheng",
+        "Daxiu Zhu",
+        "Huitang Zuxin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0261a23",
+          "ToLb": "0261b01",
+          "Kwic": "門便喝，未審還有為人處也無？」師云：「急走，急走。」僧云：「走後如何？」師打，云：「病鳥不離窠內死。」僧喝，師又打，乃云：「德山入門便棒、臨濟入門便喝，總是鹽湯止渴，無風匝匝之波，撩起便行還較些子。若是困魚止濼、病鳥棲蘆，翻成禍事。菩提門下總不與麼，人情若好，喫水也肥。汝等諸人還知渾身坐在水裏麼？」拈拄杖下座，打散，云：「選佛若無如是眼，宗風那得到于今？」授比丘戒，",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending (神鼎雲外澤禪師語錄): Recorded Sayings of Yunwai Xingze. Exact speaker: Yunwai Xingze.",
+          "ClaimText": "Yunwai Xingze contrasts it with delay"
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0188b09",
+          "ToLb": "0188b18",
+          "Kwic": "為爾道破。」卓拄杖云：「者裡親薦取，獨步任西東。」示眾。僧纔出，師便打。又僧出，師云：「三十棒。」僧無語。師云：「蒼天！蒼天！」乃云：「拄杖子橫打豎打，不曾打著一個。還有向未拈棒前撩起便行底麼？」因侍者有省，示眾。師云：「禪不屬參，道不屬悟，佛亦不成，眾生不做。向這裡摸著鼻孔，一任隨緣放曠，任性逍遙，拗折拄杖，放下腰包。其或未然，一狐疑了一狐疑，江北江南問王老。」示",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu (大休珠禪師語錄): Recorded Sayings of Daxiu Zhu. Exact speaker: Daxiu Zhu.",
+          "ClaimText": "Daxiu Zhu asks who can do it before the staff is raised"
+        }
+      ],
+      "Explanation": "Pick oneself up and go at once names immediate action before discursive delay. Across the retained complete cases, the phrase consistently denotes picking oneself up and going at once; actor and quotation layers were resolved case by case."
+    }
+  ]
+}

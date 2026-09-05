@@ -1,0 +1,254 @@
+{
+  "Id": "t_cb3571346f22",
+  "SourceTerm": "釋迦",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Śākyamuni",
+      "AlternateTargets": [
+        "Shakyamuni"
+      ],
+      "SearchAliases": [
+        "Shakyamuni",
+        "Shakyamuni Buddha",
+        "Sakyamuni",
+        "Able and Benevolent"
+      ],
+      "Status": "preferred",
+      "Explanation": "Śākyamuni, the name by which the Chan corpus identifies the buddha of its founding cases. The Ancestral Hall Collection gives the in-corpus name gloss: “Śākyamuni: translated, it says ‘Able and Benevolent’” (釋迦者，譯言能仁也). The record then bends the name through case and appraisal. It names Śākyamuni as the one who holds up the flower before Kāśyapa’s smile and as the one who mounts the seat before Mañjuśrī strikes the sounding block. It also makes him the subject of public questions: Yunmen answers “What is Śākyamuni’s body?” (如何是釋迦身) with “a dry shit-stick” (乾屎橛). Other recorded appraisals are equally direct: Guoqing Feng calls Śākyamuni “an ox-headed jailer” (牛頭獄卒), and Shaoshan describes him as “the general of a defeated army” (敗軍之將), alongside Kāśyapa as “a man who has lost his life” (喪身失命底人). Nantái Yungong says, “Śākyamuni has already perished; Maitreya has not yet been born” (釋迦已滅，彌勒未生), then raises the whisk and locates the handling of the buddha-teaching in that day’s teaching seat. The deviation is this range: the proper name is not protected as a remote sacred biography; it is a recurrent actor in the flower and seat cases, a subject put into public questions, and a figure whom masters openly compare, re-stage, and appraise.",
+      "Validation": "multi-source",
+      "Note": "The 6,608 exact matches occur in 395 allowlisted files. “Śākyamuni” is the name-form. “The World-Honored One” is a title used heavily in the flower, seat, and silence cases; “old man Śākyamuni” is a longer familiar form with its own strongly marked Chan deployment. Matches inside the longer form overlap mechanically but do not erase that lexical distinction.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0306a14",
+          "ToLb": "0306a14",
+          "Kwic": "姓釋迦。釋迦者，譯言能仁也。",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). The compiler's narrative explains that the royal line took the surname Shakya and directly glosses Shakya as 'Able and Humane.'",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler's narrative",
+            "ActorLabel": "compiler's narrative",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The definition is third-person historical and translation prose following the king's quoted exclamation; no speech marker assigns it to the king or a master.",
+            "ReviewedBy": "Codex hard-w2-b1",
+            "ReviewedUtc": "2026-07-14T07:30:00Z"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 釋迦 spans sit in the compiler's one continuous definition prose: the surname statement and the gloss sentence are the same narrative voice without any speech cue."
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0668b25",
+          "ToLb": "0668b26",
+          "Kwic": "當時釋迦拈花何等直捷？迦葉微笑何等快便？",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove (紫竹林顓愚衡和尚語錄). Inside Zhuanyu Guanheng's instruction to Kuanju Yong, Shakyamuni Buddha is the exact actor who holds up the flower, paired with Mahakasyapa's smile as a direct and rapid exchange.",
+          "MasterName": "Shakyamuni Buddha",
+          "ContextMasters": [
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0550b15",
+          "ToLb": "0550b15",
+          "Kwic": "問如何是釋迦身。師云。乾屎橛。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen (雲門匡真禪師廣錄). Yunmen Wenyan answers the public question “What is Śākyamuni's body?” with “A dry shit-stick.”",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0072c01",
+          "ToLb": "0072c03",
+          "Kwic": "問：如何是佛法大意？師云：釋迦是牛頭獄卒，祖師是馬面阿傍。",
+          "MasterName": "Guoqing Feng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Guoqing Feng section: Guoqing Feng answers a question about the main meaning of the buddha-teaching by calling Śākyamuni an ox-headed jailer and the ancestral teacher a horse-faced attendant.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0465a16",
+          "ToLb": "0465a17",
+          "Kwic": "我道釋迦是敗軍之將。迦葉是喪身失命底人。",
+          "MasterName": "Shaoshan Huanpu",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Shaoshan Huanpu calls Śākyamuni the general of a defeated army and Kāśyapa a man who has lost his life. This is Shaoshan's recorded appraisal.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0135c19",
+          "ToLb": "0135c20",
+          "Kwic": "何謂釋迦已滅，彌勒未生？拈起拂子云：正當今日，佛法盡在山僧拂子頭上放行把住，一切臨時。",
+          "MasterName": "Nantai Yungong",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Nantai Yungong section: Nantai Yungong says that Śākyamuni has already perished and Maitreya has not yet been born, raises the whisk, and locates that day's releasing and holding at its tip.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0475c11",
+          "ToLb": "0475c12",
+          "Kwic": "豈不見釋迦陞座，文殊白椎，馬祖陞堂，百丈捲席",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi (二隱謐禪師語錄). In Eryin Mi's address appointing officers, Shakyamuni Buddha is the exact actor who mounts the seat, paired with Manjusri's sounding the gavel; Eryin sets this beside Mazu mounting the hall and Baizhang rolling the mat.",
+          "MasterName": "Shakyamuni Buddha",
+          "ContextMasters": [
+            {
+              "MasterName": "Manjusri",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0010a21",
+          "ToLb": "0010a22",
+          "Kwic": "衲僧家高揖釋迦，不拜彌勒，未為分外。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In Fayun Faxiu's own hall address, Fayun Faxiu says it is not extraordinary for a patch-robed monk to salute Shakyamuni from a distance and decline to bow to Maitreya.",
+          "MasterName": "Fayun Faxiu",
+          "ContextMasters": [
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0006b22",
+          "ToLb": "0006b23",
+          "Kwic": "問：一塵一佛國，一葉一釋迦。學人如何下足？師曰：大地草漫漫。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Caoshan Baoji Xiong section: an unnamed questioner says that each leaf has a Shakyamuni and asks where to set foot; Caoshan Baoji Xiong answers that grass covers the earth. All six attribution rungs leave the questioner personally unnamed; this is not Caoshan Benji's section.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed monk questioning Caoshan Baoji Xiong",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex /root/feedback_lexicography",
+            "ReviewedUtc": "2026-07-14T07:10:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Caoshan Baoji Xiong",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB421.xml",
+          "FromLb": "0558b07",
+          "ToLb": "0558b08",
+          "Kwic": "釋迦之為釋迦，非增也；木石之為木石，非滅也。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB421.xml). Recorded Sayings of Chan Master Hefeng (鶴峰禪師語錄). In his ascent-of-seat address, Hefeng says Shakyamuni being Shakyamuni is no increase and wood and stone being themselves no decrease.",
+          "MasterName": "Hefeng",
+          "ContextMasters": [],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 釋迦 spans are the two halves of Hefeng's single parallel aphorism under one 之為 frame; no second actor or speech boundary intervenes."
+          }
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0144.xml",
+        "J/J28/J28nB219.xml",
+        "T/T47/T47n1988.xml",
+        "X/X79/X79n1557.xml",
+        "T/T51/T51n2076.xml",
+        "J/J28/J28nB212.xml",
+        "X/X82/X82n1571.xml",
+        "J/J38/J38nB421.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Guoqing Feng",
+        "Shaoshan Huanpu",
+        "Nantai Yungong"
+      ],
+      "RelatedTerms": [
+        "佛",
+        "世尊",
+        "釋迦老子",
+        "迦葉",
+        "拈花",
+        "乾屎橛",
+        "陞座"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+== Step 0: material sha256 pins ==
+  post/t_351fa42d396b.json: OK (computed 9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d, pinned 9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d)
+  post/t_ab715aa474d5.json: OK (computed 39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe, pinned 39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe)
+  pre/t_351fa42d396b.json: OK (computed 81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a, pinned 81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a)
+  pre/t_ab715aa474d5.json: OK (computed 38b82ff0f398e0a6cb69938e44b4b1066c99f8b851a74c7584c69f9140bdd84a, pinned 38b82ff0f398e0a6cb69938e44b4b1066c99f8b851a74c7584c69f9140bdd84a)
+rows in file: 10
+
+== Law A: occ-attribution rows ==
+-- R0000 t_ab715aa474d5 si=1 oi=2
+  A1 ok
+  FLAG R0000 / A2: POST MasterName None != newMasterName 'Dongyang Dehui'
+  A3 ok
+  A4 ok
+-- R0001 t_ab715aa474d5 si=1 oi=2
+  A1 ok
+  A2 ok
+  A3 ok
+  A4 ok
+-- R0002 t_351fa42d396b si=1 oi=1
+  A1 ok
+  FLAG R0002 / A2: POST ContextMasters [{'MasterName': 'Dongyang Dehui', 'Roles': ['compiler']}] != newContextMasters [{'MasterName': 'Dongyang Dehui', 'Roles': ['utterer']}]
+  A3 ok
+  A4 ok
+-- R0003 t_351fa42d396b si=1 oi=1
+  A1 ok
+  A2 ok
+  A3 ok
+  A4 ok
+-- R0004 t_ab715aa474d5 si=1 oi=2
+  A1 ok
+  FLAG R0004 / A2: POST ActorAttribution != newActorAttribution (differs in: ['ActorLabel']; POST ActorLabel="the monastic code's institutional voice" vs row "the code compiler's editorial voice")
+  A3 ok
+  FLAG R0004 / A4: ActorLabel "the code compiler's editorial voice" not inside row newAttributionNote
+-- R0006 t_351fa42d396b si=1 oi=1
+  FLAG R0006 / A1: PRE Kwic '二時上粥飯。三時上茶湯。大眾諷經' != row '二時上粥飯。三時猫茶湯。大眾諷經'
+  FLAG R0006 / A2: POST Kwic '二時上粥飯。三時上茶湯。大眾諷經' != row '二時上粥飯。三時猫茶湯。大眾諷經' [first divergence at char 8: A[2:16]='上(U+4E0A) 粥(U+7CA5) 飯(U+98EF) 。(U+3002) 三(U+4E09) 時(U+6642) 上(U+4E0A) 茶(U+8336) 湯(U+6E6F) 。(U+3002) 大(U+5927) 眾(U+773E) 諷(U+8AF7) 經(U+7D93)'  B[2:16]='上(U+4E0A) 粥(U+7CA5) 飯(U+98EF) 。(U+3002) 三(U+4E09) 時(U+6642) 猫(U+732B) 茶(U+8336) 湯(U+6E6F) 。(U+3002) 大(U+5927) 眾(U+773E) 諷(U+8AF7) 經(U+7D93)']
+  A3 ok
+  A4 ok
+
+== Law B: explanation-rewrite rows ==
+-- R0008 t_351fa42d396b si=1 field=Explanation oi=None
+  FLAG R0008 / B1: POST Explanation contains after 0 times (need exactly 1)
+  FLAG R0008 / B2: PRE Explanation with before->after != POST Explanation; first divergence at char 165: A[159:173]='  D e h u i   ( 非(U+975E) 粥(U+7CA5) 非(U+975E) 飯(U+98EF) ) ,'  B[159:173]='  D e h u i ,   s c h e d u'
+-- R0009 t_351fa42d396b si=1 field=Explanation oi=None
+  B1 ok
+  B2 ok
+
+== Law B4: prose anchoring (once per touched (entry, si)) ==
+-- (t_351fa42d396b, si=1) rows ['R0008', 'R0009']; 3 kwics
+  all CJK runs anchored (6 runs checked)
+
+== Law C: relatedmasters-rename rows ==
+  roster name parsed from laneLaw.t48n2025Class: 'Dongyang Dehui'
+-- R0005 t_ab715aa474d5 si=1 'Dehui' -> 'Dongyang Dehui'
+  C1 ok
+  C2 ok
+-- R0007 t_351fa42d396b si=1 'Dehui' -> 'Dongyang Dehui'
+  C1 ok
+  C2 ok
+
+== Law E: lane law (both entries) ==
+  t_351fa42d396b: E1/E2/E3 checks run (anchor row R0002)
+  t_ab715aa474d5: E1/E2/E3 checks run (anchor row R0000)
+
+== rowSha exploratory (not a law; canonical form unspecified) ==
+  R0000: matching canonicalizations: none
+  R0001: matching canonicalizations: none
+  R0002: matching canonicalizations: none

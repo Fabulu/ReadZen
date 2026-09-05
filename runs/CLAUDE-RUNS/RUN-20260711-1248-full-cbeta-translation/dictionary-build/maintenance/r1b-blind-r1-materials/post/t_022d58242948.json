@@ -1,0 +1,156 @@
+{
+  "Id": "t_022d58242948",
+  "SourceTerm": "毘尼",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex precept next-wave author",
+  "WrittenUtc": "2026-07-21T16:40:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Vinaya",
+      "AlternateTargets": [
+        "disciplinary code"
+      ],
+      "SearchAliases": [
+        "monastic discipline"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Vinaya names the disciplinary code and its field of study; masters invoke it as an institutional authority and test what attention to it accomplishes.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1985.xml",
+          "FromLb": "0500b14",
+          "ToLb": "0500b20",
+          "Kwic": "是之流總是野狐精、魅、魍、魎，被他好學人嗌嗌微笑，言瞎老禿奴惑亂他天下人。「道流！出家兒且要學道，秖如山僧往日曾向毘尼中留心，亦曾於經論尋討。後方知是濟世藥表顯之說，遂乃一時拋却，即訪道參禪。後遇大善知識，方乃道眼分明，始識得天下。老",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1985.xml). Recorded Sayings of Chan Master Huizhao of Linji, Zhenzhou (鎮州臨濟慧照禪師語錄). Speaker: Linji Yixuan."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0142b13",
+          "ToLb": "0143a05",
+          "Kwic": "僧喝師𠊳打進云若非透過金剛眼空教垂髮白如絲師又打問大徹底人本脫生𣦸因甚命根不斷師云正要闍𥠖疑著大修行人當遵佛制因甚不守毘尼師云山僧得自由佛祖公案只是一箇道理因甚有明與不明師云穿過鼻孔杲日當空因甚被片雲遮卻師擊拂子云還見麼人人有箇景子",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min (弘覺忞禪師語錄). Speaker: the unnamed monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic questioner",
+            "ActorLabel": "the unnamed monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex precept next-wave author",
+            "ReviewedUtc": "2026-07-21T16:40:00Z",
+            "GrammarEvidence": "An unnamed monk asks why Vinaya is not observed; Muchen Daomin owns the response, not the headword-bearing question."
+          }
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0666a10",
+          "ToLb": "0666a16",
+          "Kwic": "進王宮不得覆頭犯者突吉羅後弟子輩以此語請益師師曰此土以衣冠為重惟罪人至公庭須除帽匍匐以見當事官長世尊具一切智設隨方毘尼若此拘泥則開遮之㫖全晦亦何能識如來之所制者乎按一百應當學法第五十四不得為覆頭人說法除病寶華山止持中釋義云覆頭者",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Speaker: Yulin Tongxiu."
+        },
+        {
+          "RelPath": "J/J38/J38nB408.xml",
+          "FromLb": "0280c29",
+          "ToLb": "0281a04",
+          "Kwic": "超語嘿，靜閱古今，此是吼萬闍黎實際履地。吼闍黎！我與你同入海幢，斬艸開荒，十五年來綢繆畢備，叢林芳規多所匡正，毘尼法壇多所輔弼，純德無疵，為一眾所愛，外手足而內腹心。我於此地只是拮据不遑，志大材疏，時時抱病，尚不知稅駕，你一旦竟",
+          "MasterName": "Azi Jinwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Azi Jinwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Azi Jinwu of Haichuang (海幢阿字無禪師語錄). Speaker: Azi Jinwu."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0948b05",
+          "ToLb": "0948b10",
+          "Kwic": "明白。」舉杖示眾，云：「見麼？若向者裏離見見，戒可得一半。」以杖一卓，云：「聞麼？若向者裏離聞聞，準入初地乘。漸登階級毘尼法，只得勞吾兩片唇，乞戒一齊誠諦聽，次第從頭理葛藤。」依文作法竟，下座。上堂。云：「說法利生，招罪惹愆；殺豬宰羊",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Konggu Daocheng (空谷道澄禪師語錄). Speaker: Konggu Daocheng."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1985.xml",
+        "L/L155/L155n1643.xml",
+        "B/B27/B27n0152.xml",
+        "T/T48/T48n2023.xml",
+        "J/J38/J38nB408.xml",
+        "J/J39/J39nB471.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Muchen Daomin",
+        "Yulin Tongxiu",
+        "Guishan Lingyou",
+        "Azi Jinwu",
+        "Konggu Daocheng"
+      ],
+      "RelatedTerms": [
+        "戒",
+        "律",
+        "戒律",
+        "清規"
+      ],
+      "Explanation": "Vinaya is the monastic disciplinary code and the learning attached to it. Linji Yixuan asks whether his hearers have ever attended to it, setting the question beside their study of scriptures and treatises. In Muchen Daomin's hall an unnamed monk asks why practitioners do not observe Vinaya; the ensuing exchange tests whether named observance has reached the matter at hand. Yulin Tongxiu calls adaptive discipline ‘Vinaya according to the place.’ Guishan Lingyou's Admonitions names a formal Vinaya seat, while Azi Jinwu and Konggu Daocheng speak of a Vinaya platform and its graded forms. The word therefore marks a concrete disciplinary institution, not a free-floating synonym for virtue, even where masters turn it into a question."
+    }
+  ]
+}

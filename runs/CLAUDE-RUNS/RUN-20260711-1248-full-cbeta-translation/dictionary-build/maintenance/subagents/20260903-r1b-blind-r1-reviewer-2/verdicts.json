@@ -1,0 +1,60 @@
+{
+ "reviewer": 2,
+ "materialsPinsOk": true,
+ "rowsChecked": 54,
+ "flags": [
+  {
+   "rowId": "R0000",
+   "reason": "law b: pre[t_022d58242948].Senses[1].Occurrences[4].RelPath = 'T/T48/T48n2023.xml' but row.relPath = 'X/X63/X63n1245.xml'. (Row is otherwise consistent: kwic/master match the material occurrence and post == pre minus oi 4.)"
+  },
+  {
+   "rowId": "R0013",
+   "reason": "law b/c: pre[t_022d58242948].Senses[1].Occurrences[5] is RelPath 'J/J38/J38nB408.xml', MasterName 'Azi Jinwu', Kwic starting '超語嘿，靜閱古今，此是吼萬闍黎實際履地...'; row claims relPath 'T/T48/T48n2023.xml', masterName 'Guishan Lingyou', and the oi-4 Guishan kwic. law d: post == pre minus oi 4, not oi 5 (post[3].RelPath 'J/J38/J38nB408.xml' vs expected 'T/T48/T48n2023.xml')."
+  },
+  {
+   "rowId": "R0016",
+   "reason": "law a: pre[t_0c53a5a2243b].Senses[2].Occurrences has only 1 element, so Occurrences[3] does not exist. law e: post Senses[2] RelPaths = ['J/J26/J26nB182.xml'] but row.postOccurrenceRels lists 5 rels (copy of R0004's sense-1 post list) and row.postOccurrenceCount=5 != 1."
+  },
+  {
+   "rowId": "R0032",
+   "reason": "law c: row.removedKwic differs from pre[t_13951a5b5260].Senses[1].Occurrences[1].Kwic at char 81: material has '殿主鐘頭' where the row has '殿猫鐘頭' (R0006's identical row carries the correct kwic and passes)."
+  },
+  {
+   "rowId": "R0035",
+   "reason": "law a: post[t_50d75aeeeef1].Senses[1].Note is '5 exact occurrences from 5 distinct works are stored.' and does not contain row.after '6 exact occurrences from 5 distinct works'. law c: after states 6 exact occurrences but the live post sense has 5 occurrences (and 5 distinct RelPaths). (R0018 is the matching, correct rewrite of the same before-string.)"
+  },
+  {
+   "rowId": "R0038",
+   "reason": "law d: entry t_d7725cb0c8c0 si 1 has two removal rows (R0038 oi1 X63n1245 + R0039 oi3 T48n2023); pre rels ['X/X63/X63n1245.xml','X/X63/X63n1250.xml','T/T48/T48n2023.xml','T/T48/T48n2025.xml'], post rels ['X/X63/X63n1250.xml','T/T48/T48n2025.xml'] = pre minus BOTH indices, so post != pre minus oi 1 alone (expected len 3 vs post len 2; pre-minus-1[1].RelPath 'T/T48/T48n2023.xml' vs post[1] 'T/T48/T48n2025.xml'). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0039",
+   "reason": "law d: same two-removal entry as R0038 (t_d7725cb0c8c0 si 1): post (len 2) == pre (len 4) minus BOTH oi 1 and oi 3, so post != pre minus oi 3 alone (pre-minus-3[1].RelPath 'T/T48/T48n2023.xml' vs post[1] 'T/T48/T48n2025.xml'). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0044",
+   "reason": "law d: entry t_ef5beb628603 si 1 has two removal rows (R0044 oi3 X63n1245, R0045 oi4 T48n2023); pre has 4 occurrences, post has 2 = pre minus both indices, so post != pre minus oi 3 alone (len 2 vs 3). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0045",
+   "reason": "law d: same two-removal entry as R0044 (t_ef5beb628603 si 1): post == pre minus oi 3 AND oi 4, so post != pre minus oi 4 alone (len 2 vs 3). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0046",
+   "reason": "law d: entry t_f0cb4dcfc70c si 1 has two removal rows (R0046 oi1 X63n1245, R0047 oi2 X63n1245); pre has 7 occurrences, post has 5 = pre minus both indices, so post != pre minus oi 1 alone (post[0].RelPath 'T/T48/T48n2025.xml' vs pre-minus-1[0] 'X/X63/X63n1245.xml'). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0047",
+   "reason": "law d: same two-removal entry as R0046 (t_f0cb4dcfc70c si 1): post == pre minus oi 1 AND oi 2, so post != pre minus oi 2 alone (post[0].RelPath 'T/T48/T48n2025.xml' vs pre-minus-2[0] 'X/X63/X63n1245.xml'). Laws a/b/c/e hold."
+  },
+  {
+   "rowId": "R0048",
+   "reason": "law b: row.relPath 'T/T47/T47n1985.xml' is NOT one of header retiredRels ['T/T48/T48n2023.xml','X/X63/X63n1245.xml'] (the pre oi-1 occurrence does exist at T/T47/T47n1985.xml with the row's Linji kwic/master, i.e. a real occurrence that must NOT be removed). law d: post[0].RelPath is still 'T/T47/T47n1985.xml'; expected pre-minus-1[0] = 'L/L155/L155n1643.xml'."
+  },
+  {
+   "rowId": "R0051",
+   "reason": "law c: pre[t_5306489d35c6].Senses[1].Occurrences[2].MasterName is null but row.masterName = '虛構禪師' (relPath and kwic match; R0019 is the identical row with the correct null master)."
+  }
+ ],
+ "notes": "All 86 pinned material files (43 pre + 43 post) recomputed to their header sha256; no unpinned or missing files, so materialsPinsOk=true and every contradiction below is grounded in pinned bytes. 54 rows over 43 entries checked. Two flag families: (1) seven content-corrupt rows — R0000 wrong relPath, R0013 wrong index/removal claim, R0016 sense-2 index out of range, R0032 kwic mutated 主->猫 at char 81, R0035 fabricated after-note (states 6 vs live 5), R0048 removal of a NON-retired relPath (T/T47/T47n1985.xml), R0051 fabricated masterName '虛構禪師'; each is a duplicate/mutation of a sibling row (R0001, R0006, R0004, R0018, R0019) that passes. (2) six rows (R0038/R0039/R0044/R0045/R0046/R0047) on three entries that legitimately have one occurrence removed from EACH retired source: the frozen post equals pre minus BOTH rows' indices, so the per-row law d ('post == pre minus exactly oi') is unsatisfiable for such pairs even though laws a/b/c/e hold and the pair is jointly exact; these are structural law-coverage failures, not evidence of bad edits, and the coordinator should adjudicate law d for two-removal entries. Informational: every row's rowSha verifies as sha256 of its payload (sorted-key JSON, rowId/rowSha excluded), so the corrupt rows were signed as-is, not tampered after signing."
+}

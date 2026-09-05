@@ -1,0 +1,246 @@
+{
+  "Id": "t_2a4b0fb8318b",
+  "SourceTerm": "石火電光",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a spark from struck stone and a flash of lightning",
+      "AlternateTargets": [
+        "flint-spark and lightning-flash"
+      ],
+      "SearchAliases": [
+        "lightning fast",
+        "flash like flint and lightning"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Langye quotes Linji’s judgment that even flint-spark and lightning are slow, then adds his own challenge.",
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1297.xml",
+        "X/X79/X79n1557.xml",
+        "C/C078/C078n1720.xml",
+        "X/X64/X64n1260.xml",
+        "X/X68/X68n1318.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Huitang Zuxin",
+        "Guizong Zhichang",
+        "Langye Huijue"
+      ],
+      "RelatedTerms": [
+        "電光石火",
+        "掣電之機，徒勞佇思"
+      ],
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0034a02",
+          "ToLb": "0034a10",
+          "Kwic": "看。上堂：過去諸佛已滅，未來諸佛未生。正當現在，佛法委付黃龍。放行則恍恍惚惚，其中有物。把住則杳杳冥冥，其中有精。且道放行即是？把住即是？竿頭絲線從君弄，不犯清波意自殊。上堂：虎頭生角人難措，石火電光須密布。假饒烈士也應難，懵底那能善回互。手擎日月，背負須彌，擲向他方，其中眾生不覺不知。其中眾生騎驢入諸人眼裏，諸人亦不覺不知。會麼？將此身心奉塵剎，是則名為報佛恩。上堂：一漚未發，古帆未征。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Exact actor: Huitang Zuxin says that flint-spark and lightning must be closely arrayed.",
+          "MasterName": "Huitang Zuxin"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0645c14",
+          "ToLb": "0646a01",
+          "Kwic": "動用不動如諸方斈人來山僧此間作三種根器断如中下根器來我便奪其境而不除其法或中上根器來我便境法俱奪如上上根器來我便境法人俱不奪如有出格見觧人來山僧此間便全体作用不歷根器大德到這裏斈人著力處不通風石火電光即過了也斈人若眼定動即沒交涉擬心即差動念即乖有人觧者不離目前大德你檐鉢囊屎檐子傍家走求佛求法即今与麼馳求底你還識渠麼活撥撥地秪是勿根株擁不聚撥不散求著即轉遠不求還在目前靈音属耳若人不信徒勞百年",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Exact actor: Linji Yixuan says the moment passes like flint-spark and lightning before fixed looking or thought can reach it.",
+          "MasterName": "Linji Yixuan"
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0354b01",
+          "ToLb": "0354b12",
+          "Kwic": "芥子，渤則不疑；芥子納須彌，莫是妄談否？師曰：人傳史君讀萬卷書，是否？曰：不敢。師曰：身如椰子大，萬卷書向什麼處著？李俛首而已。放開日月明，把定乾坤黑；一劄不回頭，滿地生荊棘。龍宮海藏兮非多，石火電光兮非急；君不見？紫霄峰下墨池邊，八駿如風追不及。萬卷詩書，一時頭角，纔跨宗門，便施謀略。古歸宗，真老作，祇顧滿彎弓，不知誰見雙鵰落？絕毫絕釐，如山如岳，堂堂氣宇冠儒林，浩浩清風播寥廓。宗鑑法林",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the later verse commentator on Guizong",
+            "ActorLabel": "the unnamed later verse commentator on Guizong",
+            "ActorRole": "commentator",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (宗鑑法林; X/X66/X66n1297.xml). the later verse commentator on Guizong owns the exact headword-bearing unit; this is a case-specific full-context decision, not compilation fallback.",
+            "ReviewedBy": "Codex reviewer8 repair author",
+            "ReviewedUtc": "2026-07-15T15:23:40.704485+00:00"
+          },
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. Exact actor: an unnamed later verse commentator on Guizong says flint-spark and lightning are not fast enough."
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0087b08",
+          "ToLb": "0087b16",
+          "Kwic": "山僧此間作三種斷：如中下根器來，我便奪其境而不除其法；或中上根器來，我便境法俱奪；如上上根器來，我便境法人俱不奪。如有出格道人來，山僧此間便全體作用不歷根器。大德，到這裏，學人著力處不通，風石火電光即過了也。學人若眼目定動，即沒交涉，擬心即差，動念即乖，有人解者，不離目前。大德！儞擔鉢囊、屎擔子傍家走，求佛求法，只今與麼馳求底，儞還識渠麼？活撥撥地，祇是沒根株，擁不聚，撥不散，求著即轉遠，不求還在目前。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Linji Yixuan",
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp. Exact actor: Linji Yixuan says the moment passes like flint-spark and lightning before fixed looking or thought can reach it."
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0625a15",
+          "ToLb": "0625b04",
+          "Kwic": "老到文殊強出頭負累釋迦猶可事至今千古閙啾啾銀蟾皎潔豈容摸剛被文殊強塗糊千古兒孫無覔處三條椽下觜盧都金槌影動寶劒光寒百萬之眾齊着眼看瞿曇按指文殊據令漏泄天機一槌打正正令付全提不存凡聖機牢關百雜碎石火電光輝古皇前化超羣檄無事印文明劃劃今時衲子若當陽徃徃半千成五百法王法令沒周遮一片󷄅凝絕點瑕槌下不開諸聖眼幾多騏驥困塩車見成活計莫周遮椎下分踈事轉差若是咬人師子子何須牙上更安牙道泰時清才子貴家肥國富",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "an anonymous verse author in the Tongji collection",
+            "ActorLabel": "the unnamed anonymous verse author in the Tongji collection",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The uninterrupted 石火電光 verse in the Linked-Pearls collection has no adjacent author label; the reviewed actor is therefore its unnamed verse author.",
+            "ReviewedBy": "Codex reviewer8 repair author",
+            "ReviewedUtc": "2026-07-15T15:23:40.704485+00:00"
+          },
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases. Exact actor: an unnamed verse author uses the flash in a verse on Wenshu and the Buddha. Named case figures: Wenshu and Shakyamuni Buddha.",
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Wenshu",
+              "Roles": [
+                "case-figure",
+                "person-discussed"
+              ],
+              "GrammarEvidence": "The complete case explicitly names this invoked figure in the headword-bearing exchange."
+            },
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Shakyamuni Buddha",
+              "Roles": [
+                "case-figure",
+                "person-discussed"
+              ],
+              "GrammarEvidence": "The complete case explicitly names this invoked figure in the headword-bearing exchange."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0052c08",
+          "ToLb": "0052c24",
+          "Kwic": "是，更須知有拄杖頭上一竅。若也不會，拄杖子穿燈籠，入佛殿，撞著釋迦，磕倒彌勒，露柱拊掌，呵呵大笑。你且道笑箇甚麼？卓拄杖，下座。上堂，拈拄杖曰：盤山道，向上一路滑。南院道，壁立千仞嶮。臨濟道，石火電光鈍。琅邪有定乾坤底句，各各高著眼，高著眼。卓拄杖，下座。列祖提綱錄卷第七列祖提綱錄卷第八武林十八㵎理安禪寺住持婁東行悅集五參提綱大愚芝禪師。上堂：大愚相接大雄孫，五湖雲水競頭奔。競頭奔，有何門",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "later-quoter",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs. Exact actor: Linji Yixuan says that flint-spark and lightning are slow; Langye Huijue quotes him and then supplies his own line.",
+          "MasterName": "Linji Yixuan"
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0355a10",
+          "ToLb": "0355a23",
+          "Kwic": "涉路布，未過新羅棒便揮，達者途中亂指注。第三句，維摩示疾文殊去。對談一默震乾坤，直至而今作笑具。三玄三要三玄三要第一玄，三世諸佛擬何宣。垂慈夢裏生輕薄，端坐還成落斷邊。第二玄，刢利衲僧眼未明。石火電光知是鈍，揚眉瞬目涉關山。第三玄，萬象森羅宇宙寬。雲散洞空山嶽靜，落花流水滿長川。第一要，豈話聖賢妙。擬議涉長途，擡眸七顛倒。第二要，峯頭敲楗召神通。自在來，多聞門外呌。第三要，起倒令人笑。掌內",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "an anonymous author of the three-mysteries verse sequence",
+            "ActorLabel": "the unnamed anonymous author of the three-mysteries verse sequence",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (續古尊宿語要; X/X68/X68n1318.xml). an anonymous author of the three-mysteries verse sequence owns the exact headword-bearing unit; this is a case-specific full-context decision, not compilation fallback.",
+            "ReviewedBy": "Codex reviewer8 repair author",
+            "ReviewedUtc": "2026-07-15T15:23:40.704485+00:00"
+          },
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Exact actor: an unnamed author of the three-mysteries verse sequence says that knowing flint-spark and lightning is already slow."
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0034a02",
+          "ToLb": "0034a10",
+          "Kwic": "看。上堂：過去諸佛已滅，未來諸佛未生。正當現在，佛法委付黃龍。放行則恍恍惚惚，其中有物。把住則杳杳冥冥，其中有精。且道放行即是？把住即是？竿頭絲線從君弄，不犯清波意自殊。上堂：虎頭生角人難措，石火電光須密布。假饒烈士也應難，懵底那能善回互。手擎日月，背負須彌，擲向他方，其中眾生不覺不知。其中眾生騎驢入諸人眼裏，諸人亦不覺不知。會麼？將此身心奉塵剎，是則名為報佛恩。上堂：一漚未發，古帆未征。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Exact actor: Huitang Zuxin says that flint-spark and lightning must be closely arrayed.",
+          "MasterName": "Huitang Zuxin",
+          "ClaimText": "The baseline reader explanation is anchored to this retained exact occurrence."
+        }
+      ],
+      "Explanation": "A spark struck from stone and a flash of lightning are images of extreme speed. Linji Yixuan says the moment has already passed like flint-spark and lightning before a student can fix the eyes or form an intention. Langye Huijue later quotes Linji as saying that even flint-spark and lightning are slow. Huitang Zuxin demands that they be closely arrayed, while three verse writers use the pair to make horses, thought, or recognition look slower still."
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "a1-gates",
+  "lane": "A1",
+  "cloneHead": "20c9011",
+  "products": 35,
+  "attribution35": {
+    "failureRows": 0,
+    "kinds": []
+  },
+  "depth": {
+    "entries": 35,
+    "improved": [],
+    "regressed": [],
+    "flagDiffs": []
+  },
+  "zc": {
+    "anchorsChecked": 1,
+    "bad": 0
+  },
+  "determinism": {
+    "checked": 35,
+    "nondeterministic": false
+  },
+  "confinement": {
+    "checked": 35,
+    "mismatch": []
+  },
+  "byteDiff": {
+    "escaped": [],
+    "empty": [],
+    "changedPathsPerEntry": {
+      "t_057cc9ea8755": 1,
+      "t_0b56e6349db2": 4,
+      "t_1793c3514a69": 2,
+      "t_1b76e4ae53f0": 3,
+      "t_2e77bc793d0c": 2,
+      "t_351fa42d396b": 4,
+      "t_38e49b09cf9d": 5,
+      "t_3c1e31a193cd": 3,
+      "t_42162fbd382d": 2,
+      "t_4aa29a0183ae": 2,
+      "t_4cf045deab37": 3,
+      "t_4e3f766f716c": 1,
+      "t_4f088a7a7f47": 2,
+      "t_539b931c442a": 5,
+      "t_57145bc70a8d": 1,
+      "t_66630c6a8a37": 2,
+      "t_8f89b12a0cc0": 4,
+      "t_968a2f97c9ff": 3,
+      "t_972b8e6cebdd": 3,
+      "t_9bddb36dfcaf": 1,
+      "t_9e7c2fb12ad9": 3,
+      "t_b437e79a4646": 2,
+      "t_b95cbb303b12": 4,
+      "t_ba6668ef3e6e": 5,
+      "t_bb19ed0e0fab": 3,
+      "t_bc9b4740f883": 2,
+      "t_c875e45fbb9d": 11,
+      "t_cb3571346f22": 7,
+      "t_cc6b4c4e9ba8": 5,
+      "t_e34e9defcb79": 1,
+      "t_e4b1a839b06d": 4,
+      "t_e62a6a10b2f9": 3,
+      "t_e69d7df930ca": 6,
+      "t_f6631a24e33e": 1,
+      "t_f758d1e27978": 1
+    }
+  },
+  "offWorklist": {
+    "entriesBefore": 4504,
+    "entriesNow": 4504,
+    "changed": [
+      "t_057cc9ea8755",
+      "t_0b56e6349db2",
+      "t_1793c3514a69",
+      "t_1b76e4ae53f0",
+      "t_2e77bc793d0c",
+      "t_351fa42d396b",
+      "t_38e49b09cf9d",
+      "t_3c1e31a193cd",
+      "t_42162fbd382d",
+      "t_4aa29a0183ae",
+      "t_4cf045deab37",
+      "t_4e3f766f716c",
+      "t_4f088a7a7f47",
+      "t_539b931c442a",
+      "t_57145bc70a8d",
+      "t_66630c6a8a37",
+      "t_8f89b12a0cc0",
+      "t_968a2f97c9ff",
+      "t_972b8e6cebdd",
+      "t_9bddb36dfcaf",
+      "t_9e7c2fb12ad9",
+      "t_b437e79a4646",
+      "t_b95cbb303b12",
+      "t_ba6668ef3e6e",
+      "t_bb19ed0e0fab",
+      "t_bc9b4740f883",
+      "t_c875e45fbb9d",
+      "t_cb3571346f22",
+      "t_cc6b4c4e9ba8",
+      "t_e34e9defcb79",
+      "t_e4b1a839b06d",
+      "t_e62a6a10b2f9",
+      "t_e69d7df930ca",
+      "t_f6631a24e33e",
+      "t_f758d1e27978"
+    ],
+    "changedIsExactlyWorklist": true
+  },
+  "fleet": {
+    "preFailingPairs": 3099,
+    "postFailingPairs": 3057,
+    "newlyFailingPairs": [],
+    "resolvedPairs": [
+      [
+        "t_057cc9ea8755",
+        "dangling_chinese"
+      ],
+      [
+        "t_0b56e6349db2",
+        "missing_utterer_context"
+      ],
+      [
+        "t_1793c3514a69",
+        "vague_attributor"
+      ],
+      [
+        "t_1b76e4ae53f0",
+        "missing_utterer_context"
+      ],
+      [
+        "t_2e77bc793d0c",
+        "action_performer_context_missing"
+      ],
+      [
+        "t_2e77bc793d0c",
+        "claim_text_absent_from_kwic"
+      ],
+      [
+        "t_351fa42d396b",
+        "missing_utterer_context"
+      ],
+      [
+        "t_38e49b09cf9d",
+        "missing_utterer_context"
+      ],
+      [
+        "t_3c1e31a193cd",
+        "missing_utterer_context"
+      ],
+      [
+        "t_42162fbd382d",
+        "missing_utterer_context"
+      ],
+      [
+        "t_4aa29a0183ae",
+        "missing_utterer_context"
+      ],
+      [
+        "t_4cf045deab37",
+        "missing_utterer_context"
+      ],
+      [
+        "t_4e3f766f716c",
+        "action_performer_context_missing"
+      ],
+      [
+        "t_4f088a7a7f47",
+        "missing_utterer_context"
+      ],
+      [
+        "t_539b931c442a",
+        "missing_utterer_context"
+      ],
+      [
+        "t_57145bc70a8d",
+        "missing_utterer_context"
+      ],
+      [
+        "t_66630c6a8a37",
+        "missing_utterer_context"
+      ],
+      [
+        "t_8f89b12a0cc0",
+        "missing_utterer_context"
+      ],
+      [
+        "t_968a2f97c9ff",
+        "identified_unlinked_master_unsupported_identity"
+      ],
+      [
+        "t_968a2f97c9ff",
+        "incomplete_actor_attribution"
+      ],
+      [
+        "t_972b8e6cebdd",
+        "missing_utterer_context"
+      ],
+      [
+        "t_9bddb36dfcaf",
+        "missing_utterer_context"
+      ],
+      [
+        "t_9e7c2fb12ad9",
+        "missing_utterer_context"
+      ],
+      [
+        "t_9e7c2fb12ad9",
+        "vague_attributor"
+      ],
+      [
+        "t_b437e79a4646",
+        "missing_utterer_context"
+      ],
+      [
+        "t_b437e79a4646",
+        "vague_attributor"
+      ],
+      [
+        "t_b95cbb303b12",
+        "missing_utterer_context"
+      ],
+      [
+        "t_b95cbb303b12",
+        "vague_attributor"
+      ],
+      [
+        "t_ba6668ef3e6e",
+        "missing_utterer_context"
+      ],
+      [
+        "t_bb19ed0e0fab",
+        "missing_utterer_context"
+      ],
+      [
+        "t_bc9b4740f883",
+        "missing_utterer_context"
+      ],
+      [
+        "t_c875e45fbb9d",
+        "missing_utterer_context"
+      ],
+      [
+        "t_cb3571346f22",
+        "missing_utterer_context"
+      ],
+      [
+        "t_cc6b4c4e9ba8",
+        "missing_utterer_context"
+      ],
+      [
+        "t_cc6b4c4e9ba8",
+        "vague_attributor"
+      ],
+      [
+        "t_e34e9defcb79",
+        "missing_utterer_context"
+      ],
+      [
+        "t_e4b1a839b06d",
+        "anonymous_monk_question_assigned_to_master"
+      ],
+      [
+        "t_e62a6a10b2f9",
+        "missing_utterer_context"
+      ],
+      [
+        "t_e69d7df930ca",
+        "missing_utterer_context"
+      ],
+      [
+        "t_e69d7df930ca",
+        "vague_attributor"
+      ],
+      [
+        "t_f6631a24e33e",
+        "action_performer_context_missing"
+      ],
+      [
+        "t_f758d1e27978",
+        "vague_attributor"
+      ]
+    ],
+    "postRowsOnWorklist": 0
+  },
+  "verdict": "CLEAN",
+  "problems": []
+}

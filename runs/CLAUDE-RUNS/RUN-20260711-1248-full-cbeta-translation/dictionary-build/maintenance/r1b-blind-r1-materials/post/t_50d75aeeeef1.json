@@ -1,0 +1,161 @@
+{
+  "Id": "t_50d75aeeeef1",
+  "SourceTerm": "香火",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex fresh construction Lane C",
+  "WrittenUtc": "2026-07-17T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "incense offerings",
+      "AlternateTargets": [
+        "incense service",
+        "memorial incense offerings"
+      ],
+      "SearchAliases": [
+        "incense offerings",
+        "incense service",
+        "temple offerings",
+        "memorial offerings"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "5 exact occurrences from 5 distinct works are stored.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0666a12",
+          "ToLb": "0666a14",
+          "Kwic": "年二十歲時來武陵，進德山禮祖塔，慨聖道場地殿宇荒涼，香火寥寥，遂下住腳向僧寮中借一小室棲身。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Zhuanyu Guanheng: The biographer says that the young monk found Deshan's halls desolate and their incense offerings sparse. Exact actor: the unnamed record biographer.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narrative",
+            "ActorLabel": "the unnamed record biographer",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biographer says that the young monk found Deshan's halls desolate and their incense offerings sparse.",
+            "ReviewedBy": "Codex construction Lane C positions 13-15 takeover",
+            "ReviewedUtc": "2026-07-17T04:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0038c02",
+          "ToLb": "0038c03",
+          "Kwic": "旨下建顯化寺，歲度僧以奉香火。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps: The lamp-record biographer says an imperial order established Xianhua Monastery and annually ordained monks to maintain its incense offerings. Exact actor: the unnamed lamp-record biographer.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narrative",
+            "ActorLabel": "the unnamed lamp-record biographer",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The lamp-record biographer says an imperial order established Xianhua Monastery and annually ordained monks to maintain its incense offerings.",
+            "ReviewedBy": "Codex construction Lane C positions 13-15 takeover",
+            "ReviewedUtc": "2026-07-17T04:45:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB384.xml",
+          "FromLb": "0256b18",
+          "ToLb": "0256b19",
+          "Kwic": "應真輩出，香火斯饒。",
+          "Curated": true,
+          "MasterName": "Hanxiu Ruqian",
+          "AttributionNote": "Source record (J/J37/J37nB384.xml). Posthumous Resonances of Hanxiu Ruqian: Hanxiu Ruqian's commemorative verse says that accomplished monks emerged and the incense offerings became abundant.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0876b04",
+          "ToLb": "0876b10",
+          "Kwic": "忠國師堂內有魚軍容像蓋國師別長安時代宗令軍容送歸南陽其後國師因尋壽宂軍容善地理乃指白崖山為勝處且願侍香火於其傍國師然之所以香嚴至今齋粥二時念誦先為肅代二宗次為國師軍容是四人者周而復始山僧雖非忠國師而無相居士大勝軍容何故昔者軍容求進而不",
+          "Curated": true,
+          "MasterName": "Dahui Zonggao",
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Addresses of Dahui Zonggao: Dahui Zonggao recounts that Yu Junrong wished to attend National Teacher Zhong's incense offerings and explains the continuing memorial sequence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0418b17",
+          "ToLb": "0418b20",
+          "Kwic": "諸人若能常懷此心，無有間斷，即是觀音大士現無量神變、放無量光明，覆護眾生了也，自然天步常亨，皇威遠震，萬󳬛納欵，四海同文，又何待致香火之敬、效祝誦之勞耶？",
+          "Curated": true,
+          "MasterName": "Yongjue Yuanxian",
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Extended Record of Yongjue Yuanxian: Yongjue Yuanxian tells the assembly that carrying this mind continuously would make formal incense reverence and congratulatory recitation unnecessary.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB219.xml",
+        "X/X63/X63n1245.xml",
+        "X/X82/X82n1571.xml",
+        "J/J37/J37nB384.xml",
+        "M/M59/M59n1540.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Zhuanyu Guanheng",
+        "Hanxiu Ruqian",
+        "Dahui Zonggao",
+        "Yongjue Yuanxian"
+      ],
+      "RelatedTerms": [
+        "拈香",
+        "燒香"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Incense offerings are the maintained ceremonial service of a monastery, shrine, memorial, or inherited seat; the records measure that service as sparse, abundant, arranged, funded, continued, or unnecessary. Rules of Purity for Chan Monasteries orders incense arranged before the bell and assembly, while lamp biographies describe imperial or private support that keeps a memorial site's offerings going. Hanxiu Ruqian calls abundant incense service a result of flourishing successors; Dahui Zonggao and Yongjue Yuanxian bring the same institution into public addresses, one recounting memorial attendance and the other questioning the need for formal reverence. The compound does not mean that every occurrence concerns a spoken teaching; biographies and regulations often use it as institutional narration."
+    }
+  ]
+}

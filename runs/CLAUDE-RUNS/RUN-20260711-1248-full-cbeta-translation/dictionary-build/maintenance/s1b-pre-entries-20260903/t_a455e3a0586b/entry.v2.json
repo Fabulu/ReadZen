@@ -1,0 +1,66 @@
+{
+  "Id": "t_a455e3a0586b",
+  "SourceTerm": "近山無柴燒，近水無水喫",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra r2 correction",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "PreferredTarget": "near the mountain there is no firewood to burn and near the water there is no water to drink",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "near water without water to drink"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "No Tier 1 or Tier 2 transport survives. The best useful lamp is retained as provisional last-resort support.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0518a23",
+          "ToLb": "0518a24",
+          "Kwic": "此子向後若有箇住處，近山無柴燒，近水無水喫。",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. The lamp transmits Guishan Lingyou’s prediction."
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "ClaimText": "此子向後若有箇住處",
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0518a19",
+          "ToLb": "0518b05",
+          "Kwic": "此子向後若有箇住處，近山無柴燒，近水無水喫。",
+          "MasterName": "Guishan Lingyou",
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. The lamp transmits Guishan Lingyou’s prediction.",
+          "Curated": true
+        }
+      ],
+      "SourceTexts": [
+        "X/X66/X66n1297.xml"
+      ],
+      "RelatedMasters": [
+        "Guishan Lingyou"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Near the mountain there is no firewood to burn and near the water there is no water to drink is Guishan Lingyou’s prediction about a future residence, not geographic advice. Only a lamp recension survives in the collected corpus, so it remains provisional."
+    }
+  ]
+}

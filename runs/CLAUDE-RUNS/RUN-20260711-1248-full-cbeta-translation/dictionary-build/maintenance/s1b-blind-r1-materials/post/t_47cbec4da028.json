@@ -1,0 +1,103 @@
+{
+  "Id": "t_47cbec4da028",
+  "SourceTerm": "箭鋒相拄",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "arrowheads meeting point to point",
+      "AlternateTargets": [
+        "two arrowpoints brace each other"
+      ],
+      "SearchAliases": [
+        "arrowheads meet",
+        "arrow point exchange",
+        "matched responses",
+        "point to point"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained cases support one encounter-image sense; quoted formulas and related compounds do not create an additional headword sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0045a20",
+          "ToLb": "0045a21",
+          "Kwic": "臨安慈雲道清禪師臨安慈雲道清禪師嘗垂語四則：一曰箭鋒相拄底，應機乃絲毫無差，邊方人語不相諳，如何辨他子細？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): the record explicitly introduces the first of four public test-sayings by Ciyun Daoqing; he is the exact headword utterer.",
+          "ContextMasters": [
+            {
+              "MasterName": "Ciyun Daoqing",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "MasterName": "Ciyun Daoqing"
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0732b03",
+          "ToLb": "0732b03",
+          "Kwic": "箭鋒相拄。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo (圓悟佛果禪師語錄): Yuanwu Keqin utters the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Yuanwu Keqin"
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0147b26",
+          "ToLb": "0147b27",
+          "Kwic": "法眼下謂之箭鋒相拄。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄): Compiler narration owns the exact headword-bearing compiler narrative.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the 箭鋒相拄-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents 箭鋒相拄 in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:31:08.939246+00:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "T/T47/T47n1997.xml",
+        "T/T48/T48n2003.xml"
+      ],
+      "RelatedMasters": [
+        "Ciyun Daoqing",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [
+        "一鏃破三關"
+      ],
+      "Explanation": "Arrowheads meeting point to point is an image for two encounter turns matching with no gap between their active points. Ciyun Daoqing sets it in a test saying, and Yuanwu Keqin’s recorded sayings and Blue Cliff commentary preserve the compact phrase in case discussion. The image names the close fitting of the exchange, rather than a separate doctrine or a literal weapon scene."
+    }
+  ]
+}

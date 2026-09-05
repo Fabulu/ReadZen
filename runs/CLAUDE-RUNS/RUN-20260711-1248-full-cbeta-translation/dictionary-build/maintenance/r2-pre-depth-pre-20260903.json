@@ -1,0 +1,179 @@
+{
+  "generatedUtc": "2026-09-03T22:03:45.133406+00:00",
+  "results": {
+    "t_057cc9ea8755": {
+      "entryId": "t_057cc9ea8755",
+      "sourceTerm": "攝心",
+      "entrySha256": "b24c013ead5d10295f3c82b4da62c99b5620438cb119c124a754e076226b70ee",
+      "corpusHits": 141,
+      "corpusFiles": 75,
+      "reviewedUsableHits": 141,
+      "reviewedUsableFiles": 75,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": true,
+      "hardFlags": [],
+      "reviewFlags": []
+    },
+    "t_968a2f97c9ff": {
+      "entryId": "t_968a2f97c9ff",
+      "sourceTerm": "一不成，二不是",
+      "entrySha256": "611ee7b63ee0591f352bf65a01f6d1e2c6f74ca44dfabc50b9981d163ea95968",
+      "corpusHits": 64,
+      "corpusFiles": 37,
+      "reviewedUsableHits": 64,
+      "reviewedUsableFiles": 37,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 10,
+      "retainedHeadwordOccurrences": 10,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 10,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ],
+            [
+              9
+            ],
+            [
+              10
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 10,
+      "sourceTexts": 10,
+      "senseCount": 1,
+      "hardPass": true,
+      "hardFlags": [],
+      "reviewFlags": []
+    },
+    "t_ea2a427c7aba": {
+      "entryId": "t_ea2a427c7aba",
+      "sourceTerm": "坐禪",
+      "entrySha256": "71a07bafc6058e65b2b90a1980477582c9c094bc12dfa6dd05ac7c8bc98b5fda",
+      "corpusHits": 1207,
+      "corpusFiles": 265,
+      "reviewedUsableHits": 1207,
+      "reviewedUsableFiles": 265,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 12,
+      "retainedHeadwordOccurrences": 12,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 9,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ],
+            [
+              9
+            ]
+          ]
+        },
+        {
+          "senseIndex": 2,
+          "count": 3,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 12,
+      "sourceTexts": 8,
+      "senseCount": 2,
+      "hardPass": true,
+      "hardFlags": [],
+      "reviewFlags": []
+    }
+  }
+}

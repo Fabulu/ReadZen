@@ -1,0 +1,191 @@
+{
+  "Id": "t_aa45c307e9f1",
+  "SourceTerm": "頭首",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
+  "WrittenUtc": "2026-07-16T16:39:48.237507+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "senior monastic officers",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a senior monastic officer"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "7 distinct work IDs selected after complete-context review; four substantive clauses replace contents fragments.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0531b13",
+          "ToLb": "0531b15",
+          "Kwic": "頭首者謂首座書記藏主知客浴主。竝同已前和會知事之法。受禮作賀一一如之。請同座僧眾伴送入寮。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): Editorial or procedural text: (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): the source compiler states the headword-bearing institutional rule; no human actor utters it.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic rule",
+            "ActorLabel": "the source compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulation defines which five offices count as head officers and prescribes their invitation, congratulations, and escort into their quarters.",
+            "ReviewedBy": "Codex Lane-B C-review repair author",
+            "ReviewedUtc": "2026-07-16T14:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0622b23",
+          "ToLb": "0622b24",
+          "Kwic": "頭首下地聖僧前問訊。領眾出堂，上法堂座前一字立，問訊，歸立西班。大眾鴈列于后。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): Editorial or procedural text: Chan Grove Ready-Reference Pure Regulations (禪林備用清規): the source compiler states the headword-bearing institutional rule; no human actor utters it.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic rule",
+            "ActorLabel": "the source compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulation assigns the head officers the task of leading the assembly out, lining up before the Dharma seat, and returning to the west rank.",
+            "ReviewedBy": "Codex Lane-B C-review repair author",
+            "ReviewedUtc": "2026-07-16T14:45:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a26",
+          "ToLb": "1113a28",
+          "Kwic": "頭首下床。聖僧前問訊領眾出堂。至法座前。列一行問訊歸西序立。大眾雁列于後。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Editorial or procedural text: Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the source compiler states the headword-bearing institutional rule; no human actor utters it.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic rule",
+            "ActorLabel": "the source compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulation makes the head officers lead the assembly and expressly calls taking position before they arrive improper.",
+            "ReviewedBy": "Codex Lane-B C-review repair author",
+            "ReviewedUtc": "2026-07-16T14:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0078c04",
+          "ToLb": "0078c06",
+          "Kwic": "玉泉皓禪師示眾曰：一夜雨霶烹，打倒蒲萄棚。知事頭首，行者人力，拄底拄，撐底撐，撐撐拄拄到天明，依舊可憐生。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Yuquan Hao is the exact headword speaker. Yuquan Hao addresses stewards, head officers, work attendants, and laborers together after the grape trellis falls.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuquan Hao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yuquan Hao"
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0303c15",
+          "ToLb": "0303c19",
+          "Kwic": "正當十五日，明暗雙忘，體用俱寂。譬如千燈洞照一室，光光交羅，各不相借。且道是知事分上事？頭首分上事？諸人分上事？莫有道得底麼？拈拄杖卓一下，云：蟭螟睫上放元宵，狸奴倒上菩提樹。上堂，僧問：天不能蓋，地不能載時如何？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu (了菴清欲禪師語錄): Liao'an Qingyu is the exact headword speaker. The complete source unit places the exact headword-bearing wording in Liao'an Qingyu’s own speech or authored comment.",
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Liao'an Qingyu"
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0132c20",
+          "ToLb": "0132c24",
+          "Kwic": "市。月生三，冰生於水，青出於藍。驀拈拄杖，橫按顧視曰：文殊堂裏萬菩薩，夜來盡向此中參謝知事頭首。上堂：一新一舊，跳出窠臼。一出一入，胡餅裏呷汁。一擒一縱，開眼作夢。一照一用，鱔魚走入麻油甕。所以道，若論此事，直須揮",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Mian Xianjie is the exact headword speaker. X/X82/X82n1571.xml. Exact actor: Mian Xianjie. The complete source unit places the exact headword-bearing wording in Mian Xianjie’s own speech or authored comment.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mian Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Mian Xianjie"
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0221c16",
+          "ToLb": "0221c22",
+          "Kwic": "渾是鐵。舜若多神笑點頭，驕梵鉢提長吐舌。上堂：舉一不得舉二，放過一著，改旦令辰。恭惟知事．頭首．耆舊．大眾，各各道體起居萬福。左顧如冰如霜，右盻如金如玉。鵠白烏玄，松直棘曲。山僧返復更思量，六六元來三十六。上堂：瞿",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan (無準師範禪師語錄): Wuzhun Shifan is the exact headword speaker. Recorded Sayings of Chan Master Wuzhun Shifan (無準師範禪師語錄), in the section headed 'Fojian Chan Master's recorded sayings from his first residence at Qingliang Monastery in Qingyuan Prefecture' (佛鑑禪師初住慶元府清凉禪寺語錄): Wuzhun Shifan addresses the stewards, senior monastic officers, elders, and assembly and wishes each of them well. Here Fojian is Wuzhun Shifan's title; the record later self-identifies him as (師範) and names him (佛鑑範公).",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Wuzhun Shifan"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X63/X63n1250.xml",
+        "T/T48/T48n2025.xml",
+        "X/X64/X64n1260.xml",
+        "X/X71/X71n1414.xml",
+        "X/X82/X82n1571.xml",
+        "X/X70/X70n1382.xml"
+      ],
+      "RelatedMasters": [
+        "Changlu Zongze",
+        "Daiweng Yue",
+        "Liao'an Qingyu",
+        "Mian Xianjie",
+        "Wuzhun Shifan",
+        "Yuquan Hao"
+      ],
+      "RelatedTerms": [
+        "兩序"
+      ],
+      "Explanation": "The head officers are the monastery's senior west-rank officers. One regulation names the category's offices—chief seat, secretary, librarian, guest prefect, and bath prefect—and prescribes how they are invited and escorted into their quarters. Other rules make them lead the assembly and forbid the assembly from taking position before them; public addresses distinguish them from the stewards while calling both groups to act."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Id": "t_5ab995298e4e",
+  "SourceTerm": "法嗣書",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex construction worker B; manifestLane=B",
+  "WrittenUtc": "2026-07-17T12:34:53.744306+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "lineage-successor letter",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "lineage-successor letter"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The witnesses cover delivery, public receipt, a catalogue title, and a hall occasion; they identify a document rather than a distinct teaching formula.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0783c13",
+          "ToLb": "0783c19",
+          "Kwic": "𣗳子洞山麻三斤雲門超佛越祖之談五祖亦有頌任運不知名輕輕著眼𦗟水上青青綠元來是浮萍。四面專使文詳持法嗣書到師於法座前受書拈起問專使云這箇是四面底闍梨底在什麼處使云驗在目前師云幾不問過遂陞座云好事難逢何",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Records of the Ancient Worthies: Wuzu Fayan receives the succession letter on the teaching seat and raises it before questioning its courier.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1041c24",
+          "ToLb": "1042a01",
+          "Kwic": "禪師小參褒禪山慧空禪師輪藏記慈照聰禪師住石門查待制為撰僧堂記應菴華禪師答詮長老法嗣書怡山然禪師發願文開善密菴謙禪師答陳知丞書司馬溫公解禪偈仰山飯白侍郎六讚偈并序天台圓法師自誡卷第七芙蓉楷禪師小參黃蘗",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitions for the Monastic Gate: Editorial or procedural text; the catalogue lists Ying'an's Reply to Elder Quan, a succession letter.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "contents-catalogue compiler narration",
+            "ActorLabel": "the catalogue compiler",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword is part of a work title in the contents list, not a spoken turn.",
+            "ReviewedBy": "Codex construction tail B5 direct full-case review",
+            "ReviewedUtc": "2026-07-17T12:34:53.744306+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0665a02",
+          "ToLb": "0665a07",
+          "Kwic": "雲門超佛越祖之談。五祖亦有一頌。任運不知名。輕輕著眼聽。水上青青綠。元來是浮萍。四面專使文詳。持法嗣書到。師於法座前授書。拈起問專使云。這箇是四面底。闍梨底在什麼處。使云。驗在目前。師云。幾不問過。",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Fayan: Wuzu Fayan receives and raises the letter before the public exchange with its courier.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0010c07",
+          "ToLb": "0010c16",
+          "Kwic": "遠天野水一般秋。衲僧歇到茲時節。坐照寒光湛不流。諸禪德祖師道。心隨萬境轉。轉處實能幽。且作麼生是轉處。還會麼。解報山家六戶曉。須知雲樹一聲雞。真州天寧琳長老。下法嗣書。師上堂云。五葉一花。不是尋常春力。十方一色。何曾特地莊嚴。瑠璃地上轉機。明月堂前移步。正恁麼時。子有就父之功。資有合師之道。諸人還體悉得麼。良久云。玉籠放出千",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extended Record of Hongzhi: Hongzhi Zhengjue delivers a hall address when Elder Lin sends down a succession letter.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0783c13",
+          "ToLb": "0783c19",
+          "Kwic": "𣗳子洞山麻三斤雲門超佛越祖之談五祖亦有頌任運不知名輕輕著眼𦗟水上青青綠元來是浮萍。四面專使文詳持法嗣書到師於法座前受書拈起問專使云這箇是四面底闍梨底在什麼處使云驗在目前師云幾不問過遂陞座云好事難逢何",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Records of the Ancient Worthies: Wuzu Fayan receives the succession letter on the teaching seat and raises it before questioning its courier.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ClaimText": "師於法座前受書拈起"
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2023.xml",
+        "T/T47/T47n1995.xml",
+        "T/T48/T48n2001.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [
+        "法嗣"
+      ],
+      "Explanation": "A succession letter is a concrete document concerning lineage succession. Two versions record Wuzu Fayan receiving one on the teaching seat, raising it, and questioning the courier; a catalogue preserves another such letter as a titled work; Hongzhi gives a hall address when Elder Lin sends one down."
+    }
+  ]
+}

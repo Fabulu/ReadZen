@@ -1,0 +1,195 @@
+{
+  "Id": "t_2a207e0e8c96",
+  "SourceTerm": "不風流處也風流",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "elegant even where there is no elegance",
+      "AlternateTargets": [
+        "stylish where style is absent"
+      ],
+      "SearchAliases": [
+        "elegant without elegance",
+        "grace in the graceless",
+        "stylish where not stylish",
+        "unexpected elegance"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The saying praises force or aptness appearing precisely where conventional polish is absent; masters also cap exchanges with it or fold it into criticism.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0050c02",
+          "ToLb": "0050c03",
+          "Kwic": "曰：有意氣時添意氣，不風流處也風流。師曰：甘露乃蒺蔾之園。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps. Speaker: the unnamed questioning monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "questioning monk",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the unnamed questioning monk: 曰 continues the monk’s capping line; 師曰 begins Dongshan Fanyan’s reply.",
+            "ReviewedBy": "Codex lane A packet full-case review",
+            "ReviewedUtc": "2026-07-18T07:28:21.869567Z"
+          }
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0035a04",
+          "ToLb": "0035a05",
+          "Kwic": "僧云有意氣時添意氣不風流處也風流師云洪州腰帶",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Speaker: the unnamed questioning monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "questioning monk",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the unnamed questioning monk: 僧云 assigns the saying to the monk; 師云 begins Foyan Qingyuan’s answer.",
+            "ReviewedBy": "Codex lane A packet full-case review",
+            "ReviewedUtc": "2026-07-18T07:28:21.869567Z"
+          }
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0039a22",
+          "ToLb": "0039b01",
+          "Kwic": "玉林琇禪師。幻有師翁忌日設供，師指真云：兀坐嘴盧，都教人沒柰何。箇老漢慣得其便，者裏透得過的，如龍得水、似虎靠山，有意氣時添意氣，不風流處也風流。",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs. Speaker: Yulin Tongxiu."
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0375a03",
+          "ToLb": "0375a04",
+          "Kwic": "孤峰絕頂垂綸坐，不風流處也風流。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. Speaker: the unidentified author of the retained inherited verse.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source-identified participant",
+            "ActorLabel": "the unidentified author of the retained inherited verse",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the unidentified author of the retained inherited verse: 古德云 introduces an inherited verse whose author remains unidentified after all six attribution rungs.",
+            "ReviewedBy": "Codex lane A packet full-case review",
+            "ReviewedUtc": "2026-07-18T07:28:21.869567Z"
+          }
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0017a16",
+          "ToLb": "0017a18",
+          "Kwic": "古德云：伽藍雖是常清淨，丫角懷胎不識羞。無意氣時添意氣，不風流處也風流。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Collection of Verses on Old Cases. Speaker: the unidentified author of the retained inherited verse.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source-identified participant",
+            "ActorLabel": "the unidentified author of the retained inherited verse",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the unidentified author of the retained inherited verse: 古德云 introduces an inherited verse whose author remains unidentified after all six attribution rungs.",
+            "ReviewedBy": "Codex lane A packet full-case review",
+            "ReviewedUtc": "2026-07-18T07:28:21.869567Z"
+          }
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0393c05",
+          "ToLb": "0393c06",
+          "Kwic": "不風流處也風流。放過一著，落在第二。",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Chan Master Zhenjing’s Recorded Sayings. Speaker: Zhenjing Kewen."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "D/D48/D48n8939.xml",
+        "X/X64/X64n1260.xml",
+        "X/X66/X66n1297.xml",
+        "X/X67/X67n1299.xml",
+        "X/X68/X68n1318.xml"
+      ],
+      "RelatedMasters": [
+        "Foyan Qingyuan",
+        "Zhenjing Kewen"
+      ],
+      "RelatedTerms": [
+        "風流",
+        "有意氣時添意氣",
+        "落在第二"
+      ],
+      "Explanation": "Lack of polish becomes the very place where an encounter can display its style. Questioning monks offer it after forceful answers, while later masters use it for inherited cases, a raised staff, or Zhaozhou’s handling. The line can praise but does not guarantee approval: several replies immediately counter it."
+    }
+  ]
+}

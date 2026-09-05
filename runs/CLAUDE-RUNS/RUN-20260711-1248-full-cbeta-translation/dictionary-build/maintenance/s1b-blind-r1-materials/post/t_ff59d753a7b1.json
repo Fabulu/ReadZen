@@ -1,0 +1,238 @@
+{
+  "Id": "t_ff59d753a7b1",
+  "SourceTerm": "逍遙",
+  "CreatedBy": "luna168r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "roam at ease",
+      "AlternateTargets": [
+        "wander freely",
+        "range freely"
+      ],
+      "SearchAliases": [
+        "roam freely",
+        "wander at ease",
+        "wander freely",
+        "range freely",
+        "free roaming"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The lexical, person, and place referents are separate senses.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2013.xml",
+          "FromLb": "0394c09",
+          "ToLb": "0394c10",
+          "Kwic": "如是則乃可逍遙山谷。放曠郊𮠔。遊逸形儀。",
+          "MasterName": "Yongjia Xuanjue",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2013.xml). Yongjia Collection of the Chan School (禪宗永嘉集): Yongjia's Collection of the Chan School (禪宗永嘉集), in the letter headed Master Yongjia's Reply to Master Lang and signed by Xuanjue, records Yongjia Xuanjue writing that one may roam through mountains and valleys, range through the outskirts, and let the bearing wander freely. This exact syntax distinguishes motion through terrain from the Mount Xiaoyao place name.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjia Xuanjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0516c02",
+          "ToLb": "0516c03",
+          "Kwic": "拄杖子豈不逍遙自在。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄): The Recorded Sayings of Tianyin Heshang (天隱和尚語錄), spoken by Tianyin Yuanxiu in his own hall address. Tianyin Yuanxiu raises the staff, asks whether it is not roaming at ease and unbound, makes a writing gesture, plants the staff, and leaves the seat.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0417c11",
+          "ToLb": "0417c22",
+          "Kwic": "無始刼來，習氣深重，未能頓除，故保任之功，不可或疎。然所謂保任者，非假造作有為之法，不過嘗惺惺地，不為凡心所雜而已。昔天皇悟囑龍潭信曰：任性逍遙，隨緣放曠，但盡凡心，別無聖解。任性逍遙，隨緣放曠二句，切莫錯認，將縱恣放逸，無所忌憚當之。須知所謂逍遙放曠者，乃是於一切妄境，超然不著，如鳥飛空，而毫無所牽繫，如龍出海，而毫無所障礙者也。若聞聲為聲所牽，見色為色所牽，見財為財所礙，見勢為勢所碍，則縛著拘滯甚矣，豈曰放曠逍遙哉？凡若此者，皆為未盡凡心之故也。凡心者何？一有是非之心，凡心也；一有取舍",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄): The Extensive Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄), in Yongjue Yuanxian's own general address, records his direct definition and its tethering/obstruction contrast. The full exact anchor preserves every image and predicate used in the explanation.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 4,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The widened verified source unit repeats 逍遙 4 times inside the already adjudicated uninterrupted turn of Yongjue Yuanxian; it is retained to anchor the exact prose quotation."
+          },
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2013.xml",
+        "J/J25/J25nB171.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Yongjia Xuanjue",
+        "Tianyin Yuanxiu",
+        "Yongjue Yuanxian"
+      ],
+      "RelatedTerms": [
+        "逍遙自在",
+        "放曠逍遙",
+        "任性逍遙",
+        "隨緣放曠",
+        "逍遙物外",
+        "逍遙遊",
+        "雲水"
+      ],
+      "Explanation": "To roam at ease is to move or remain without obstruction in the cited wording. Yongjia Xuanjue pairs it with roaming mountains and valleys; Tianyin Yuanxiu says a staff is ‘at ease and free’; Yongjue Yuanxian contrasts it with being caught by sights, sounds, wealth, or power. These uses concern the action, not either of the two names below."
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Master Xiaoyao",
+      "AlternateTargets": [
+        "Xiaoyao Heshang"
+      ],
+      "SearchAliases": [
+        "Master Xiaoyao",
+        "Xiaoyao",
+        "Xiaoyao Heshang",
+        "Xiaoyao master"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional",
+      "Note": "The source preserves the title but no personal name.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0262b24",
+          "ToLb": "0262b24",
+          "Kwic": "逍遙和尚逍遙和尚。一日師在禪床上坐。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Editorial or procedural text: Document heading or editorial metadata heads the biography of the monk styled Xiaoyao. Named context: Xiaoyao Heshang.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "title, contents, or essay metadata",
+            "ActorLabel": "the document compiler",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword appears in documentary metadata or editorial prose, not a personal speech turn.",
+            "ReviewedBy": "Codex root-revision repair",
+            "ReviewedUtc": "2026-07-14T23:55:00Z"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 逍遙 to the document compiler; no independently extractable one-headword turn exists and no intervening speech cue transfers an occurrence to another actor."
+          },
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Xiaoyao Heshang",
+              "Roles": [
+                "section-subject"
+              ],
+              "GrammarEvidence": "The source names Xiaoyao Heshang, but that exact identity is not a roster node."
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T51/T51n2076.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "拂子",
+        "禪床"
+      ],
+      "Explanation": "Master Xiaoyao is the title in the heading for a successor of Jiashan Shanhui at Gao'an. The record supplies no personal name beyond the title, so this is a person-reference rather than the action ‘roam at ease.’"
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Mount Xiaoyao",
+      "AlternateTargets": [
+        "Xiaoyao Mountain"
+      ],
+      "SearchAliases": [
+        "Mount Xiaoyao",
+        "Xiaoyao Mountain",
+        "Xiaoyao Shan",
+        "Xiaoyao mount"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional",
+      "Note": "The heading names Huaizhong with Mount Xiaoyao.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0332b12",
+          "ToLb": "0332b12",
+          "Kwic": "江西逍遙山懷忠禪師江西逍遙山懷忠禪師。",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "HeadingType": "biography",
+            "ActorLabel": "the document’s editorial heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword is an impersonal biographical heading naming Mount Xiaoyao and Xiaoyao Huaizhong; it is not uttered by the master.",
+            "ReviewedBy": "Codex heading-hygiene Lane A complete-case review",
+            "ReviewedUtc": "2026-07-16T19:51:48.937017+00:00"
+          },
+          "ContextMasters": [],
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): The headword is an impersonal biographical heading naming Mount Xiaoyao and Xiaoyao Huaizhong; it is not uttered by the master.",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 逍遙 to narrated master-and-place heading; no independently extractable one-headword turn exists and no intervening speech cue transfers an occurrence to another actor."
+          },
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Xiaoyao Huaizhong",
+              "Roles": [
+                "section-subject"
+              ],
+              "GrammarEvidence": "The source names Xiaoyao Huaizhong, but that exact identity is not a roster node."
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T51/T51n2076.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "Explanation": "Mount Xiaoyao is the mountain named in the heading for Huaizhong. It is a place-reference, distinct from Master Xiaoyao and from roaming at ease."
+    }
+  ]
+}

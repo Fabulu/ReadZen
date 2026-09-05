@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "s1b-blind-r1-adjudication",
+  "lane": "S1-b/R",
+  "round": "r1",
+  "rowsFile": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\s1b-blind-r1-rows-20260903.json",
+    "sha256": "0a0bb7d020e9c94bcded0fbe075048a9cd42fbff9f5c13aa840da10da5e49655"
+  },
+  "reviewers": {
+    "reviewer1": {
+      "inputRowsSha256": "0a0bb7d020e9c94bcded0fbe075048a9cd42fbff9f5c13aa840da10da5e49655",
+      "verdictsSha256": "811e0bb261df65b83516889d50a23bb72f6e2519149f651f01d2a75c4ce5a51c",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\subagents\\20260903-s1b-blind-r1-reviewer-1\\verdicts.json"
+    },
+    "reviewer2": {
+      "inputRowsSha256": "0a0bb7d020e9c94bcded0fbe075048a9cd42fbff9f5c13aa840da10da5e49655",
+      "verdictsSha256": "49cd9b808c4516b326a4261a4b60757906d605ff652a28bfad260a78c7842a6e",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\subagents\\20260903-s1b-blind-r1-reviewer-2\\verdicts.json"
+    }
+  },
+  "canaries": {
+    "plants": 7,
+    "requiredCaughtBy": "every reviewer",
+    "results": [
+      {
+        "plantId": "P1",
+        "rowId": "R0000",
+        "class": "anchor-remove",
+        "defect": "removed kwic mutated (contained in no pre anchor / post kwic)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P2",
+        "rowId": "R0011",
+        "class": "anchor-remove",
+        "defect": "coveredBy holder does not contain the removed kwic",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P3",
+        "rowId": "R0022",
+        "class": "anchor-remove",
+        "defect": "removedClaimText mismatches the pre anchor at (si, aidx)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P4",
+        "rowId": "R0033",
+        "class": "anchor-remove",
+        "defect": "postSurvivorClaimTexts lists a survivor the post materials lack",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P5",
+        "rowId": "R0065",
+        "class": "anchor-remove",
+        "defect": "aidx off-by-one (points at the wrong pre anchor)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P6",
+        "rowId": "R0076",
+        "class": "anchor-remove",
+        "defect": "si off-by-one (points at the wrong sense)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P7",
+        "rowId": "R0087",
+        "class": "anchor-remove",
+        "defect": "claims the well-formed partial-sense survivor was removed",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      }
+    ],
+    "misses": []
+  },
+  "honestFlags": [],
+  "coordinatorRulings": {
+    "file": null,
+    "refuted": [],
+    "confirmed": [],
+    "unruled": []
+  },
+  "confirmedFindings": [],
+  "problems": [],
+  "verdict": "PASS"
+}

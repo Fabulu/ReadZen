@@ -1,0 +1,240 @@
+{
+  "Id": "t_968a2f97c9ff",
+  "SourceTerm": "一不成，二不是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra Luna178 r2 source-hierarchy and actor-boundary repair",
+  "WrittenUtc": "2026-08-09T12:53:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one fails and two is not it",
+      "AlternateTargets": [
+        "one fails, two is wrong"
+      ],
+      "SearchAliases": [
+        "one fails, two is wrong",
+        "一不成、二不是"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Two independent recorded-sayings sources carry the pair: Yunmen uses it to answer a question about the transmission outside the three vehicles, and Jinsu Zhi sets it in a verse; the pair also appears in transmission-record recensions.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0544a06",
+          "ToLb": "0544a08",
+          "Kwic": "問：「如何是三乘教外別傳底事？」師云：「你若不問，我即不答。你若問，我即朝到西天，暮歸唐土。」僧云：「乞師指示。」師云：「一不成，二不是。」",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Yunmen Wenyan is the direct speaker in the question-and-answer exchange; the headword is his answer to the monk's request for instruction."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0260a07",
+          "Kwic": "僧問：「昔日靈鷲，今日菩提，未審是同？是別？」師云：「一不成，二不是。」",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwai Xingze of Shending, residence at Puti temple in Qizhou: asked whether the old Vulture Peak and today’s Puti are the same or different, Yunwai Xingze answers with the paired refusal.",
+          "ToLb": "0260a08"
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0479a22",
+          "Kwic": "進云：「今朝吹玉管，幾箇是知音？」師云：「一不成，二不是。」",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu, residence at Taiping temple in Pengshui: asked, with the jade flute played that day, how many truly know its sound, Minshu Ruxiang answers with the paired refusal.",
+          "ToLb": "0479a23"
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0398a20",
+          "ToLb": "0398a21",
+          "Kwic": "一不成，二不是，火雲堆裏秋風起。堪笑耘田車水翁，手脚忙亂同兒戲。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named Chan master",
+            "ActorLabel": "Jinsu Zhi",
+            "ActorRole": "utterer",
+            "GrammarEvidence": "The governing section heading reads 金粟智和尚語, the record of Jinsu Zhi, followed by 上堂; the exact headword opens the verse in that address.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "A1 attribution repair gates + blind r1",
+            "ReviewedUtc": "2026-09-02T08:10:44Z"
+          },
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. The section heading identifies Jinsu Zhi, who is not roster-linked; the exact expression opens his verse."
+        },
+        {
+          "RelPath": "X/X79/X79n1559.xml",
+          "FromLb": "0317a06",
+          "ToLb": "0317a11",
+          "Kwic": "總不恁麼，錯！錯！上堂：吞却乾坤大地，開口何處出氣？永嘉一宿曹溪，至今猶未瞥地。上堂：十目視，十手指。一不成，二不是。會麼？寒鷹未舉首，俊󳬲已冲霄。僧問：昔年雲外人皆委，今日當場略借看。曰：山僧愛嗔不愛喜？云：斬新日月，特地乾坤。曰：恰似不相逢。",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record. Baiyun Shouduan is the speaker governed by the immediately preceding speech marker in candidate case 3; the headword-bearing clause occurs before that turn closes."
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0112b04",
+          "ToLb": "0112b08",
+          "Kwic": "塔主：祇如塔中和尚得第幾句？主無對。師曰：你問我。主便問。師曰：不快即道。主曰：作麼生是不快即道？師曰：一不成，二不是。問直歲：甚處去來？曰：刈茆來。師曰：刈得幾箇祖師？曰：三百箇。師曰：朝打三千，暮打八百。東家杓柄長，西家杓柄短。又作麼生？",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25). Yunmen Wenyan is the speaker governed by the immediately preceding speech marker in candidate case 1; the headword-bearing clause occurs before that turn closes."
+        },
+        {
+          "RelPath": "X/X83/X83n1574.xml",
+          "FromLb": "0281c12",
+          "ToLb": "0281c17",
+          "Kwic": "師曰：森羅萬象，明暗色空，日夜舉揚。趙州古佛，不是不知，只為貪程。速急！上堂：楊岐眼中睛，臨濟頂中髓，一不成，二不是，點著不來，白雲萬里佛成道。上堂：錯！錯！六載草繩空自縛。了！了！開得眼來天大曉。古今天地，古今日月，古今星辰。拍膝云：劒去久矣，切忌刻舟。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X83/X83n1574.xml). Expanded Collection: Continued Transmission of the Lamp Record. Dongshou Zhongying is explicitly named by the source heading or local naming formula and utters the headword in candidate case 4; the recut ends before the next voice.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named lamp-record master",
+            "ActorLabel": "Dongshou Zhongying",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Dongshou Zhongying is explicitly named by the source heading or local naming formula and utters the headword in candidate case 4; the recut ends before the next voice.",
+            "ReviewedBy": "Codex fresh semantic author lane C repair",
+            "ReviewedUtc": "2026-07-18T10:04:34.216581Z"
+          }
+        },
+        {
+          "RelPath": "X/X84/X84n1579.xml",
+          "FromLb": "0042b16",
+          "ToLb": "0042b20",
+          "Kwic": "著。師曰：森羅萬象，明暗色空，日夜舉揚。趙州古佛不是不知，只為貪程太速。○上堂：楊岐眼裏睛，臨濟頂中髓。一不成，二不是。點著不來，白雲萬里。臨安靈隱大川普濟禪師臨安靈隱大川普濟禪師明州奉化人。上堂，舉睦州和尚因僧問：如何是祖師西來意？州曰：一",
+          "MasterName": "Jingci Ming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingci Ming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X84/X84n1579.xml). Continuation of the Record Pointing at the Moon. Jingci Ming is the speaker governed by the immediately preceding speech marker in candidate case 7; the headword-bearing clause occurs before that turn closes."
+        },
+        {
+          "RelPath": "X/X84/X84n1583.xml",
+          "FromLb": "0440c10",
+          "ToLb": "0440c14",
+          "Kwic": "曰：祇如三聖道，你恁麼為人，瞎却鎮州一城人眼，又作麼生？師曰：錦上鋪華又一重。問：行脚逢人時如何？師曰：一不成，二不是。曰：行脚不逢人時如何？師曰：虎咬大蟲。曰：祇如慈明道釣絲絞水，意作麼生？師曰：水浸鋼石卵。問：三聖道：我逢人即出，出則不為",
+          "MasterName": "Yuanji Yancen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanji Yancen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp. Yuanji Yancen is the speaker governed by the immediately preceding speech marker in candidate case 5; the headword-bearing clause occurs before that turn closes."
+        },
+        {
+          "RelPath": "X/X84/X84n1585.xml",
+          "FromLb": "0673b04",
+          "ToLb": "0673b08",
+          "Kwic": "二同大事？師曰：一毛頭上定乾坤。曰：如何是三總同參？師曰：蝦蟇蚯蚓，跛鼈盲龜。曰：如何是四同真智？師曰：一不成，二不是。曰：如何是五同徧普？師曰：大地撮來無寸土。曰：如何是六同具足？師曰：猶欠一著。曰：如何是七同得失？師曰：入泥入水。曰：如何",
+          "MasterName": "Po'an Zuxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Po'an Zuxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X84/X84n1585.xml). Drafts for the Continuation of the Lamp. Po'an Zuxian is the speaker governed by the immediately preceding speech marker in candidate case 6; the headword-bearing clause occurs before that turn closes."
+        }
+      ],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "J/J33/J33nB280.xml",
+        "J/J39/J39nB450.xml",
+        "X/X68/X68n1318.xml",
+        "X/X79/X79n1559.xml",
+        "X/X81/X81n1568.xml",
+        "X/X83/X83n1574.xml",
+        "X/X84/X84n1579.xml",
+        "X/X84/X84n1583.xml",
+        "X/X84/X84n1585.xml"
+      ],
+      "RelatedMasters": [
+        "Baiyun Shouduan",
+        "Jingci Ming",
+        "Po'an Zuxian",
+        "Yuanji Yancen",
+        "Yunmen Wenyan"
+      ],
+      "RelatedTerms": [
+        "一不成"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The records use this paired refusal as a compact answer and as a line in formal addresses: the first count does not succeed, and the second is not right either. Yunmen answers a request concerning the transmission with the paired refusal. Jinsu Zhi opens a verse with the same line. The phrase itself supplies no positive third member."
+    }
+  ]
+}

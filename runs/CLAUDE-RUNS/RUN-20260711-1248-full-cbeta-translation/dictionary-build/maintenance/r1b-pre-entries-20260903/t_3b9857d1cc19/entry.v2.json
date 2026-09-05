@@ -1,0 +1,196 @@
+{
+  "Id": "t_3b9857d1cc19",
+  "SourceTerm": "退院",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane C evidence-first",
+  "WrittenUtc": "2026-07-15T04:51:38.590663+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "retire from the abbacy",
+      "AlternateTargets": [
+        "leave the monastery office"
+      ],
+      "SearchAliases": [
+        "retire as abbot",
+        "leave office",
+        "resign monastery",
+        "abbot retirement"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0004b24",
+          "ToLb": "0005a01",
+          "Kwic": "經補經營建劈草開基立磉竪柱上梁挂寺額落成鑄鑊結竈進火法座成建寶塔上塔珠寶索相輪合尖建壽塔定基開基立石開閉請行橋并謝開田并謝看卷三十退院辭眾退院載歸為住持遷化佛事鎻龕法堂挂真舉哀奠茶湯大夜對靈小參起龕全身入塔闍維奠茶湯秉炬卷三十一秉炬安骨起骨轉骨煆骨靈骨入塔撒骨入祖堂安牌估唱下遺書兩序請兩堂首座留首座請藏",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Exact actor: the source compiler or recorder. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact spans remain together because all repeated spans occur in the same indivisible clause governed by the same exact actor; no independently unique single-span recut exists in this source."
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0100b02",
+          "ToLb": "0100b02",
+          "Kwic": "師曰：和尚疑時，退院別參去。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Exact actor: Huazang Anmin. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huazang Anmin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Huazang Anmin"
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522c11",
+          "ToLb": "0523a17",
+          "Kwic": "點通眾煎點燒香法置食特為謝茶看藏經中筵齋出入警眾馳書發書受書將息參堂第七卷大小便利亡僧請立僧請尊宿尊宿受疏尊宿入院尊宿住持尊宿遷化退院第八卷龜鏡文坐禪儀自警文一百二十問誡沙彌第九卷沙彌受戒文訓童行第十卷勸檀信齋僧儀百丈規繩頌重雕補註禪苑清規目錄No.1245重雕補註禪苑清規第一卷受戒受戒三世諸佛皆曰出家",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): Exact actor: the source compiler or recorder. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0005a12",
+          "ToLb": "0005a12",
+          "Kwic": "退院，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄): Exact actor: the source compiler or recorder. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0576c03",
+          "ToLb": "0576c03",
+          "Kwic": "退院，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao (寒松操禪師語錄): Exact actor: the source compiler or recorder. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0636c29",
+          "ToLb": "0636c29",
+          "Kwic": "弁山退院，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu (百愚禪師語錄): Exact actor: the source compiler or recorder. Full-case review separates the headword-bearing turn from questions, replies, action narration, and documentary ownership.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X64/X64n1260.xml",
+        "X/X82/X82n1571.xml",
+        "X/X63/X63n1245.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB392.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Huazang Anmin"
+      ],
+      "RelatedTerms": [
+        "入院"
+      ],
+      "Explanation": "To retire from the monastery is for an abbot to leave office, with prescribed addresses and procedures distinct from ordinary travel. Rules catalogue retirement rites, while encounter records can challenge the presiding figure to retire and seek further instruction."
+    }
+  ]
+}

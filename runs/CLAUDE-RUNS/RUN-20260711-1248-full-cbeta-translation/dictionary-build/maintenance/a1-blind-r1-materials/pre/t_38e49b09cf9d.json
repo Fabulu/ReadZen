@@ -1,0 +1,245 @@
+{
+  "Id": "t_38e49b09cf9d",
+  "SourceTerm": "爪牙",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the school's interview claws and fangs",
+      "AlternateTargets": [
+        "sharp interview moves",
+        "the school's pressing and releasing moves"
+      ],
+      "SearchAliases": [
+        "interview claws and fangs",
+        "sharp interview moves",
+        "pressing and releasing",
+        "public interview tools",
+        "school's sharp moves",
+        "claws and fangs of Zen"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Explanation": "The school's interview claws and fangs are its sharp moves of pressing, releasing, seizing, and testing in public exchange. Qianyan Yuanzhang explicitly says that one press and one squeeze, one release and one taking-away are called the school's claws and fangs and also its handle. Xueguan Zhiyin appraises Huangbo Xiyun's calling and questioning of Pei Xiu as skillful use of them. Tianyin Yuanxiu contrasts two elders who expose them without harm with contemporaries who injure their own edge and hand. Feiyin Tongrong directs beginners who wish to disclose the inherited claws and fangs to question the new head monk. Qianyan also rejects several candidates that each claim the title but remain within the four propositions. The record therefore defines a public-interview family and tests its use rather than praising every sharp answer automatically.",
+      "Note": "Five anchors across four independent records establish the Zen-loaded interview referent. It is distinct from people called the school's claws and fangs and from animal anatomy.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0213c19",
+          "ToLb": "0213c20",
+          "Kwic": "一挨一拶，一縱一奪，宗門中謂之爪牙，亦謂之巴鼻",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan (千巖和尚語錄). Qianyan Yuanzhang defines pressing, squeezing, releasing, and taking-away as the school's claws and fangs and also its handle.",
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0472c03",
+          "ToLb": "0472c04",
+          "Kwic": "拈曰：黃檗老人善用宗門爪牙，如蒼鷹攫兔，見即生擒",
+          "MasterName": "Xueguan Zhiyin",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan (雪關禪師語錄). Xueguan Zhiyin comments on the complete Huangbo-Pei Xiu turn and says Huangbo skillfully used the school's claws and fangs like a hawk seizing a rabbit.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0518b26",
+          "ToLb": "0518b28",
+          "Kwic": "二大老一衝一撞，如兩虎相見各露爪牙，無有一毫虧損處，不媿同參，足為模範。不若今時人，纔露爪牙先自傷鋒犯手",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄). Tianyin Yuanxiu contrasts two elders exposing claws and fangs without loss with contemporaries who injure their own edge and hand.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 爪牙 spans stay inside Tianyin Yuanxiu's single evaluative contrast between the two elders and present-day students; the whole window is his commentary voice."
+          }
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0212b11",
+          "ToLb": "0212b12",
+          "Kwic": "如上所明，各各自謂宗門中爪牙，檢點將來，不出四句所攝",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan (千巖和尚語錄). Qianyan Yuanzhang says that the preceding candidates each claim to be the school's claws and fangs but remain within the four propositions.",
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0121a28",
+          "ToLb": "0121a29",
+          "Kwic": "後學初心若要透漏從上宗門爪牙，不妨問取堂中新座元。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin (費隱禪師語錄). Feiyin Tongrong tells beginners who wish to disclose the inherited school's claws and fangs to question the new head monk in the hall.",
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J32/J32nB273.xml",
+        "J/J27/J27nB198.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Qianyan Yuanzhang",
+        "Xueguan Zhiyin",
+        "Huangbo Xiyun",
+        "Pei Xiu",
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [
+        "問答",
+        "機緣",
+        "徵",
+        "巴鼻",
+        "挨拶"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "people called the school's claws and fangs",
+      "AlternateTargets": [
+        "the school's capable agents",
+        "teachers who are the school's claws and fangs"
+      ],
+      "SearchAliases": [
+        "school's claws and fangs",
+        "capable agents of the school",
+        "leading teachers",
+        "lineage's champions",
+        "teachers called claws and fangs"
+      ],
+      "Status": "allowed",
+      "Validation": "multi-source",
+      "Explanation": "The same animal pair can denote people praised as the school's capable agents. A signed petition from the Jingshan Xingsheng community calls Huanyu Ben and Mizang Daokai the school's claws and fangs and outstanding figures of the teaching cavern. In a separate signed preface, Chaoyuan Danya calls Zhuofeng Jue an outstanding figure of the teaching cavern and the school's claws and fangs. Named people are a different referent from the sharp moves they display.",
+      "Note": "Two independent documents directly predicate the epithet of named teachers. The sense does not duplicate the interview-move sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB118.xml",
+          "FromLb": "0040a08",
+          "ToLb": "0040a09",
+          "Kwic": "號稱飽參，寔宗門之爪牙；卓有實行，蓋法窟之頭角。",
+          "MasterName": "Jingshan Xingsheng community",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Chan Master Micang Kai (密藏開禪師遺稿). In a petition, the named Jingshan Xingsheng community calls Huanyu Ben and Mizang Daokai the school's claws and fangs and the teaching cavern's outstanding figures.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J39/J39nB444.xml",
+          "FromLb": "0339a07",
+          "ToLb": "0339a07",
+          "Kwic": "卓峰和尚，法窟頭角，宗門爪牙，繼席慶雲，恢弘祖道",
+          "MasterName": "Chaoyuan Danya",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB444.xml). Recorded Sayings of Chan Master Zhuofeng Jue (卓峰玨禪師語錄). Chaoyuan Danya calls Zhuofeng Jue an outstanding figure of the teaching cavern and the school's claws and fangs.",
+          "ContextMasters": []
+        }
+      ],
+      "SourceTexts": [
+        "J/J23/J23nB118.xml",
+        "J/J39/J39nB444.xml"
+      ],
+      "RelatedMasters": [
+        "Huanyu Ben",
+        "Mizang Daokai",
+        "Zhuofeng Jue",
+        "Chaoyuan Danya"
+      ],
+      "RelatedTerms": [
+        "宗門",
+        "法窟之頭角"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "an animal's claws and fangs",
+      "AlternateTargets": [
+        "claws and teeth",
+        "predatory claws and fangs"
+      ],
+      "SearchAliases": [
+        "animal claws and fangs",
+        "claws and teeth",
+        "tiger's claws",
+        "tiger's fangs",
+        "predator's claws and fangs"
+      ],
+      "Status": "allowed",
+      "Validation": "multi-source",
+      "Explanation": "Claws and fangs also denote the concrete anatomy of a predatory animal. Foguo's address pictures a sleeping tiger's claws and fangs hidden in a cold crag and secluded valley. Jie Weizhou's verse pictures a hungry tiger suddenly opening its claws and fangs. Sleeping, hiding, hunger, and opening belong to the animal image rather than to a person-epithet or interview moves.",
+      "Note": "Two independent records establish the anatomical animal referent.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D51/D51n8948.xml",
+          "FromLb": "0003a05",
+          "ToLb": "0003a06",
+          "Kwic": "有時寒巖幽谷深蔵睡虎爪牙大眾退後忽然開眼禍事禍事",
+          "MasterName": "Foguo",
+          "Curated": true,
+          "AttributionNote": "Source record (D/D51/D51n8948.xml). Recorded Sayings of Chan Master Foguo (佛國禪師語錄). Foguo pictures a sleeping tiger's claws and fangs hidden in a cold crag and secluded valley, then warns the assembly that it may open its eyes.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J28/J28nB205.xml",
+          "FromLb": "0239a05",
+          "ToLb": "0239a06",
+          "Kwic": "萬里無雲瞥地荒，忽逢飢虎爪牙張，進前莫問歸家路，直下翻身去不妨。",
+          "MasterName": "Jie Weizhou",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou (介為舟禪師語錄). Jie Weizhou's verse pictures a hungry tiger suddenly opening its claws and fangs.",
+          "ContextMasters": []
+        }
+      ],
+      "SourceTexts": [
+        "D/D51/D51n8948.xml",
+        "J/J28/J28nB205.xml"
+      ],
+      "RelatedMasters": [
+        "Foguo",
+        "Jie Weizhou"
+      ],
+      "RelatedTerms": [
+        "虎",
+        "獅子"
+      ]
+    }
+  ]
+}

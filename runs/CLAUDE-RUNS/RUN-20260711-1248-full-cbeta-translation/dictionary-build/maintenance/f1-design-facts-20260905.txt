@@ -1,0 +1,162 @@
+﻿== A/B: installed R2 ea2 repaired rows ==
+{
+  "RelPath": "T/T48/T48n2025.xml",
+  "FromLb": "1143a07",
+  "ToLb": "1143a12",
+  "Kwic": "於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。",
+  "MasterName": null,
+  "Curated": true,
+  "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records the rebuke of sitting with closed eyes as a black mountain ghost cave",
+  "ContextMasters": [
+    {
+      "MasterName": "Dongyang Dehui",
+      "Roles": [
+        "compiler"
+      ]
+    }
+  ],
+  "ActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+    ],
+    "ReviewedBy": "R2 external-review correction lane author",
+    "ReviewedUtc": "2026-09-03T23:26:00+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 坐禪. The passage is serialized procedural regulation — posture directions to the assembly with no dialogue frame and no first person; the closing rebuke anecdote is quoted precedent, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+  }
+}
+{
+  "RelPath": "T/T48/T48n2025.xml",
+  "FromLb": "1113a21",
+  "ToLb": "1113a22",
+  "Kwic": "集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。",
+  "MasterName": null,
+  "Curated": true,
+  "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongyang Dehui (元 德煇重編), assembles the community in the hall, states that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds",
+  "ContextMasters": [
+    {
+      "MasterName": "Dongyang Dehui",
+      "Roles": [
+        "compiler"
+      ]
+    }
+  ],
+  "ActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+    ],
+    "ReviewedBy": "R2 external-review correction lane author",
+    "ReviewedUtc": "2026-09-03T23:26:00+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 坐禪. The passage is an announced hall procedure: it prescribes the assembly's collective orientation on an audible signal — the register of institutional directive, not reported speech. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+  }
+}
+== D: precedent t_3f7a6ab74b68 (context block only) ==
+{
+  "RelPath": "X/X78/X78n1554.xml",
+  "FromLb": "0582b12",
+  "MasterName": null,
+  "ContextMasters": [
+    {
+      "MasterName": "Yantou Quanhuo",
+      "Roles": [
+        "person-described"
+      ]
+    },
+    {
+      "MasterName": "Deshan Xuanjian",
+      "Roles": [
+        "section-subject"
+      ]
+    }
+  ],
+  "ActorAttribution": {
+    "Status": "narrated",
+    "Kind": "biographical narration",
+    "ActorLabel": "the biographical narrator",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+    ],
+    "GrammarEvidence": "The location phrase precedes 曰 and is part of the compiler's third-person narration, not Yantou's quoted speech.",
+    "ReviewedBy": "Sol Luna113 independent final integration",
+    "ReviewedUtc": "2026-08-02T21:00:00Z"
+  }
+}
+== C: roster ==
+Dongyang Dehui in roster: False
+== E: F1 target current bytes (terms side) ==
+t_ab715aa474d5 s1 o2: {
+  "RelPath": "T/T48/T48n2025.xml",
+  "FromLb": "1144b03",
+  "ToLb": "1144b04",
+  "Kwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+  "MasterName": "Dehui",
+  "ContextMasters": [
+    {
+      "MasterName": "Dehui",
+      "Roles": [
+        "utterer"
+      ]
+    }
+  ],
+  "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects."
+}
+t_ab715aa474d5 s1 RelatedMasters: ['Baizhang Huaihai', 'Dehui', 'Hongzhi Zhengjue']
+t_351fa42d396b s1 o1: {
+  "RelPath": "T/T48/T48n2025.xml",
+  "FromLb": "1127c04",
+  "ToLb": "1127c10",
+  "Kwic": "二時上粥飯。三時上茶湯。大眾諷經",
+  "MasterName": "Dehui",
+  "ContextMasters": [
+    {
+      "MasterName": "Dehui",
+      "Roles": [
+        "utterer"
+      ]
+    }
+  ],
+  "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances."
+}
+t_351fa42d396b s1 RelatedMasters: ['Baizhang Huaihai', 'Dehui', 'Zhaozhou Congshen', 'Baoning Renyong']
+351fa s1 Dehui sentence:  The Imperially Revised Baizhang Monastic Code, redacted by Dehui, schedules gruel and rice at two times and tea and hot water at three (二時上粥飯。三時上茶湯。).
+== F: fleet census of MasterName 'Dehui' on T48n2025 ==
+[
+  [
+    "t_ab715aa474d5",
+    1,
+    2,
+    "T/T48/T48n2025.xml",
+    "1144b03"
+  ],
+  [
+    "t_351fa42d396b",
+    1,
+    1,
+    "T/T48/T48n2025.xml",
+    "1127c04"
+  ]
+]
+count: 2

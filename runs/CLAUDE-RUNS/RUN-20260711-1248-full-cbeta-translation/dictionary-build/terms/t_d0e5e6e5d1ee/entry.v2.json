@@ -1,0 +1,121 @@
+{
+  "Id": "t_d0e5e6e5d1ee",
+  "SourceTerm": "一轉語",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra semantic author luna155r4",
+  "WrittenUtc": "2026-08-09T15:26:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a turning word",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a turning word",
+        "one turning phrase"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "A requested or supplied reply that turns the handling of the immediate case or encounter; the records do not treat it as a fixed reusable formula.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0012a19",
+          "ToLb": "0012a24",
+          "Kwic": "盡眾生界空，無有眾生名字，我乃發菩提心。薦福，懷云：臨危不變，真大丈夫。諸仁者！作麼生着得一轉語與黃面老子出氣？尋常神通妙用、智慧辯才都使不著，盡閻浮大地人無不愛佛，到者裏何者是佛？何者是魔？還有人辯得麼？良久，云：",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集): Tianyi Yihuai directly asks for a turning word that can answer the Buddha-and-demon contrast.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Tianyi Yihuai",
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0579c05",
+          "ToLb": "0580a11",
+          "CharOffset": null,
+          "Kwic": "悟，作禮曰：某已脫野狐身，住在山後，敢乞依亡僧津送。師令維那白槌告眾：食後送亡僧。食後，師領眾至山後巖下，以杖挑出一死狐，乃依法火葬。司馬頭陀自湖南來，見師云：溈山奇絕，可聚千五百眾。師曰：老僧欲住，可乎？陀云：非和尚所住。師曰：何也？陀曰：和尚是骨人，彼是肉山，設居之徒不盈千。師曰：吾眾中莫有人住得不？陀曰：待歷觀之。師令侍者喚第一座來。師曰：此人如何？陀令謦欬，行數步，曰：此人不可。又令喚典座來，陀曰：此正是溈山主也。師是夜召祐入室，囑曰：吾化緣在此，溈山勝境，汝當居之，嗣續吾宗，廣度後學。時華林聞之曰：某甲忝居上首，祐公何得住持？師曰：若能對眾下得一轉語，出格當與住持。即指淨瓶問曰：不得喚作淨瓶，汝喚作什麼？華曰：不可喚作木揬。師不肯，乃問祐，祐踢倒淨瓶。師咲云：第一座輸却山子也。祐遂往焉。師作清規贊曰：出格胚腪，鈞陶巧匠。瘦骨稜稜玉削成，碧眸冏冏星流樣。脫野狐不昧因果。知歷代贊幾何罵幾何。鬪水鴨落盡便宜，走歸家哭一上笑一上。淨瓶踢倒，放山子，荷钁入千峯。拂子拈來，恠馬師，平地埋青嶂。一生鼻頭痛，刻骨冤，不易消融。三日耳朵聾，入心毒，卒難洗蕩。共游惡業蛟龍窟，子黃蘗，友龐公。同奪生獰虎兕胎，兄南泉，弟知藏。清規井井，深掘陷人坑。華胄繩繩，密布縵天網。䇿奇勛、不減叔孫通，與老臊胡作。萬古城池，阿誰近傍。趙",
+          "ClaimText": "下得一轉語",
+          "ApproxDate": null,
+          "Curated": true,
+          "MasterName": "Baizhang Huaihai",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "case-figure",
+                "student"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses: Baizhang Huaihai makes supplying 一轉語 the test for appointment at Guishan; Guishan Lingyou is the successful case figure.",
+          "ContextActors": []
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0618b07",
+          "ToLb": "0618b13",
+          "Kwic": "云某甲於過去迦葉佛時曾住此山有學人問大脩行底人還落因果也無對云不落囙果墮在野狐身今請和尚代一轉語師云汝但問老人便問大脩行底人還落囙果也無師云不昧囙果老人於言下大悟告辝師云某甲已免野狐身住在山後乞依亡僧燒送師令維那白槌",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): the unnamed old man in the wild-fox case asks Baizhang Huaihai to provide a turning word; Baizhang is the marked respondent.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed case figure",
+            "ActorLabel": "an unnamed old man in the wild-fox case",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The old man explicitly asks Baizhang to supply 一轉語; Baizhang answers 不昧因果.",
+            "ReviewedBy": "Codex f004 lane A manual full-case repair author",
+            "ReviewedUtc": "2026-07-15T12:45:00Z"
+          },
+          "MasterName": null,
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "X/X78/X78n1554.xml",
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyi Yihuai",
+        "Baizhang Huaihai",
+        "Guishan Lingyou"
+      ],
+      "RelatedTerms": [
+        "轉語"
+      ],
+      "Explanation": "A turning word is a reply sought at the pivot of an encounter, one that changes how the case is handled rather than a fixed formula. Tianyi Yihuai asks for one when the usual Buddha-and-demon contrast has reached its limit. In the wild-fox case, an unnamed old man asks Baizhang Huaihai for one, and Baizhang’s answer settles the question. Baizhang also makes supplying one the test for appointment at Guishan. The phrase names that practical job in the exchange."
+    }
+  ]
+}

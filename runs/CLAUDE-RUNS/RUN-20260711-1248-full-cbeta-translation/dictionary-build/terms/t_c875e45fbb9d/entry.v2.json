@@ -1,0 +1,412 @@
+{
+  "Id": "t_c875e45fbb9d",
+  "SourceTerm": "世尊",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T19:54:10Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the World-Honored One",
+      "AlternateTargets": [
+        "the Honored One"
+      ],
+      "SearchAliases": [
+        "World Honored One",
+        "World Honoured One",
+        "the Buddha",
+        "Shakyamuni",
+        "Shakyamuni Buddha"
+      ],
+      "Status": "preferred",
+      "Explanation": "The World-Honored One is the Buddha as the Chan record repeatedly stages him: a public actor in cases who holds up a flower and entrusts it, mounts and leaves the teaching seat, pauses in an interview, points to or displays things, and is repeatedly re-raised and challenged by later masters. Those recurring acts define the invoked Zen figure here; the entry does not substitute an outside sacred biography. In the flower case, the World-Honored One holds up a flower before the assembly, Mahakasyapa smiles, and the World-Honored One entrusts him with the treasury of the true teaching eye, the wondrous mind of complete extinction, the subtle teaching gate beyond written words. In the teaching-seat case, the World-Honored One mounts the seat; Manjusri strikes the sounding block and tells the assembly to observe the teaching king's teaching; the World-Honored One then leaves the seat. When an outsider asks for neither speech nor no speech, the World-Honored One pauses for a while. He later tells Ananda that the outsider moved like a fine horse at the sight of the whip's shadow. The birth case is also repeatedly public: the World-Honored One points one hand upward and one downward, walks seven steps, looks in the four directions, and declares that he alone is honored. Yunmen Wenyan's separately attributed response is that he would have struck him dead, fed him to a dog, and thereby valued peace throughout the world. Other retained cases show the World-Honored One commanding Manjusri to bring a woman out of composure, naming Wangming Bodhisattva when Manjusri cannot, pointing to the ground for a temple before Indra plants one blade of grass, and displaying a color-changing jewel while questioning five heavenly kings. Later masters do not merely preserve a biography. Zhenjing Kewen recites the flower case, raises his staff, questions his own assembly, and strikes the incense table; Zhanran Yuancheng compares the World-Honored One's mounting and silence with the same visible acts by the people before him. Each named response or re-raising remains its own speaker's evidence and is not assigned to the World-Honored One.",
+      "Validation": "multi-source",
+      "Note": "The allowlisted corpus contains 8,093 exact substring matches in 406 files. The title consistently names one invoked figure across the reviewed cases; different acts do not create different referents. Eleven primary anchors preserve the World-Honored One's own narrated actions or attributed speech. Eight actor-pure contrast anchors preserve Mahakasyapa, Manjusri, Yunmen Wenyan, Wangming Bodhisattva, Indra, Zhenjing Kewen, and Zhanran Yuancheng without letting their turns buy primary depth. Related entries cover buddha, Shakyamuni, old man Shakyamuni, Mahakasyapa, Ananda, holding up the flower, mounting the seat, leaving the seat, and pausing for a while.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0031a07",
+          "ToLb": "0031a07",
+          "Kwic": "世尊在靈山會上。拈華示眾。",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact actor who holds up a flower before the assembly on Vulture Peak.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0483b12",
+          "ToLb": "0483b14",
+          "Kwic": "上堂。僧問：「如何是古龍家風？」師云：「雲飛山有勢。」問：「世尊陞座，文殊拍椎，意如何？」師云：「好段真風。」進云：「拍椎下座，誰是誰非？」師云：「分身兩處看。」",
+          "MasterName": "Minshu Ruxiang",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). In an upper-hall exchange a monk asks Minshu Ruxiang the meaning of the World-Honored One mounting the seat and Manjusri striking the sounding block; Minshu answers 'a fine stretch of true wind,' and to who is right and wrong after the strike and the descent, 'watch the one body in two places.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0031a08",
+          "ToLb": "0031a10",
+          "Kwic": "世尊曰。吾有正法眼藏。涅槃妙心。實相無相。微妙法門。不立文字。教外別傳。付囑摩訶迦葉。",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact speaker who says he entrusts Mahakasyapa with the treasury of the true teaching eye, the wondrous mind of complete extinction, the subtle teaching gate beyond written words.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0481c01",
+          "ToLb": "0481c01",
+          "Kwic": "世尊陞座",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). Raises the teaching-seat case: The Buddha is the exact actor who mounts the seat. The later Minshu commentary is not assigned to him.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0487b20",
+          "ToLb": "0487b22",
+          "Kwic": "故我佛世尊興大慈悲，從兜率天降入皇宮，以至出胎，略露一線，於諸人通箇消息，周行七步，目顧四方云：『天上天下，惟吾獨尊。』",
+          "MasterName": "Minshu Ruxiang",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). In a general address Minshu Ruxiang narrates that our Buddha, the World-Honored One, stirred by great compassion, descended from Tusita heaven into the palace, and that at his birth he walked seven paces, looked to the four quarters, and said: 'Throughout heaven and earth, I alone am honored.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0481c02",
+          "ToLb": "0481c02",
+          "Kwic": "世尊便下座。",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). Raises the teaching-seat case: The Buddha is the exact actor who immediately leaves the seat after Manjusri's announcement.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0014a15",
+          "ToLb": "0014a15",
+          "Kwic": "世尊良久",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Records the outsider interview: after the unnamed outsider asks for neither speech nor no speech, The Buddha is the exact actor who pauses for a while.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0014a17",
+          "ToLb": "0014a18",
+          "Kwic": "世尊曰：如世良馬，見鞭影而行。",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Completes the outsider interview: The Buddha is the exact speaker who answers Ananda that the outsider moved like a fine horse on seeing the whip's shadow.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0582b14",
+          "ToLb": "0582b15",
+          "Kwic": "世尊初生時，一手指天，一手指地，周行七步，目顧四方，云：『天上天下，惟我獨尊。』",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi (浮石禪師語錄). Raises the birth case: The Buddha is the exact actor who points upward and downward, walks seven steps, looks in the four directions, and declares that he alone is honored.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0582b15",
+          "ToLb": "0582b17",
+          "Kwic": "雲門云：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』」師云：「世尊創業垂統，道化萬方，那慮後人之顛覆？",
+          "MasterName": "Yunmen Wenyan",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi (浮石禪師語錄). Explicitly attributes the response to Yunmen Wenyan: Yunmen says that had he seen the newborn figure, he would have struck him dead, fed him to a dog, and thereby valued peace throughout the world. This is Yunmen's appraisal, not The Buddha's intention.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0509a22",
+          "ToLb": "0509a22",
+          "Kwic": "世尊命文殊出",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). Raises the woman-in-composure case: The Buddha is the exact speaker who commands Manjusri to bring her out.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0510c10",
+          "ToLb": "0510c13",
+          "Kwic": "上堂。「犬吠山前，鴉鳴殿後。廚庫僧堂，足蹈手舞。無位真人，隨例抖擻。拔出眼中楔，抽卻腦後釘。一任自怡自悅，自拈自弄。堪笑文殊普賢起佛見法見，被世尊貶向二鐵圍山。不知自後更敢也無？」",
+          "MasterName": "Huiyue Xu",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). In an upper-hall address Huiyue Xu laughs at Manjusri and Samantabhadra for raising views of Buddha and dharma and being banished by the World-Honored One to the two iron-ring mountains, and asks whether they have dared do it again since.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0509a23",
+          "ToLb": "0509a23",
+          "Kwic": "世尊曰：『下方有罔明菩薩出得。』",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). Raises the woman-in-composure case: The Buddha is the exact speaker who says that Wangming Bodhisattva below can bring her out.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0514a15",
+          "ToLb": "0514a18",
+          "Kwic": "乃顧眾曰：「諸昆仲苦逼山僧，有何所需？世尊四十九年說法，一字不有；達磨九年面壁，一事無成。若謂有佛法可商量，誑惑人不少。」",
+          "MasterName": "Huiyue Xu",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). Turning to the assembly, Huiyue Xu says that the World-Honored One taught for forty-nine years without a single word and Bodhidharma faced the wall for nine years without accomplishing a single thing; to claim there is Buddha-dharma to discuss, he says, cheats people no little.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB165.xml",
+          "FromLb": "0289b22",
+          "ToLb": "0289b23",
+          "Kwic": "世尊與眾行次，以手指地上云：『此處宜建梵剎。』",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei (大巍禪師竹室集). Raises the grass-temple case: The Buddha is the exact actor who points to the ground while walking with the assembly and says that a temple should be built there.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB165.xml",
+          "FromLb": "0292a05",
+          "ToLb": "0292a06",
+          "Kwic": "舉世尊臘月八日明星出時，忽曰：「奇哉！一切眾生具有如來智慧德相，但以妄想執著不能證得。」",
+          "MasterName": null,
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei (大巍禪師竹室集). Dawei raises the awakening case: on the eighth of the twelfth month, at the rising of the morning star, Shakyamuni Buddha suddenly exclaimed that all sentient beings possess the Tathagata's wisdom and virtuous marks, obscured only by deluded thinking and attachment.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "awakening exclamation",
+            "ActorLabel": "Shakyamuni Buddha",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "J25nB165 0292a05-06: the case runs 舉世尊臘月八日明星出時，忽曰：「奇哉！一切眾生具有如來智慧德相，但以妄想執著不能證得。」 the headword opens the World-Honored One's sudden exclamation (忽曰) inside the case Dawei raises; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify the exclaimer as Shakyamuni Buddha, not a roster-linked master, and Dawei is only the later raiser named in prose.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0029b20",
+          "ToLb": "0029b21",
+          "Kwic": "世尊一日示隨色摩尼珠。問五方天王。此珠而作何色。",
+          "MasterName": "The Buddha",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact actor who displays a color-changing jewel and asks the five heavenly kings what color it makes.",
+          "ContextMasters": [
+            {
+              "MasterName": "The Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0035c14",
+          "ToLb": "0035c16",
+          "Kwic": "上堂：世尊拈花，迦葉微笑。乃拈起拄杖曰：洞山拈起拄杖子，你諸人合作麼生？遂擊香卓。",
+          "MasterName": "Zhenjing Kewen",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In Zhenjing Kewen's explicit section: Zhenjing Kewen is the exact teaching-seat speaker who recites the flower case, raises his staff, questions his assembly, and strikes the incense table. This later re-raising is not assigned to The Buddha and does not buy primary depth.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0775a03",
+          "ToLb": "0775a04",
+          "Kwic": "且如世尊陞座，你諸人也陞座；世尊默然，你諸人也默然。",
+          "MasterName": "Zhanran Yuancheng",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄). Zhanran Yuancheng is the exact speaker who compares the World-Honored One's mounting and silence with the assembly's own mounting and silence. This later comparison does not buy primary depth.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 世尊 spans form the two halves of Zhanran Yuancheng's one parallel comparison sentence; the shared 且如 frame and the balanced 也 clauses bind them to his single turn."
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "J/J39/J39nB450.xml",
+        "X/X66/X66n1296.xml",
+        "J/J26/J26nB185.xml",
+        "J/J38/J38nB418.xml",
+        "J/J25/J25nB165.xml",
+        "X/X82/X82n1571.xml",
+        "X/X72/X72n1444.xml"
+      ],
+      "RelatedMasters": [
+        "The Buddha",
+        "Mahakasyapa",
+        "Manjusri",
+        "Yunmen Wenyan",
+        "Wangming Bodhisattva",
+        "Indra",
+        "Zhenjing Kewen",
+        "Zhanran Yuancheng"
+      ],
+      "RelatedTerms": [
+        "佛",
+        "釋迦",
+        "釋迦老子",
+        "迦葉",
+        "阿難",
+        "拈花",
+        "陞座",
+        "下座",
+        "良久"
+      ]
+    }
+  ]
+}

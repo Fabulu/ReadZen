@@ -1,0 +1,162 @@
+{
+  "Id": "t_b437e79a4646",
+  "SourceTerm": "對機",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "respond to the occasion",
+      "AlternateTargets": [
+        "meet the occasion",
+        "occasion-matching exchange"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, to face or match the occasion. In Chan records it names responsive encounter rather than a private state. One early lamp compilation makes “encounters responding to the occasion” a section heading for recorded cases. A later questioner says that during “questioning and discrimination in responding to the occasion” his responses are not free-flowing, and asks where the fault lies; Zhanran Yuancheng's answer examines him rather than treating interview performance as optional. A recorded dialogue asks where the three vehicles and twelve divisions of teaching were obtained, and Muzhou Daoming answers, “they were obtained in responding to the occasion.” Hongzhi speaks of “an eye for responding to the occasion in engaging the world,” followed by the claim that the many conditions cannot bury it. The same verb extends to audience-responsive speech: Gu Xue records that those of sharp capacity are told to investigate Chan and those of middling or lower capacity to invoke buddha, calling this “speaking in response to the occasion,” then asks what is right or wrong. The corpus also uses the term in titles such as collections of hundreds of encounters, in appraisals of the respondent's answer, and in compounds with answering and reception. Thus the ordinary graph “occasion” or “capacity” (機) is bent toward the live occasion or capacity presented by another: “respond to the occasion” (對機) means meeting it in an answer, action, exchange, or address preserved by the record.",
+      "Validation": "multi-source",
+      "Note": "“Occasion” keeps the range of the graph “occasion/capacity” (機) without importing a mystical faculty. The heading, question-and-discrimination phrase, direct answer, and “eye” collocation all require an interpersonal responsive sense. Compare “meet the occasion”, “occasion of encounter”, “question-and-answer”, and “responsive engagement”; none is simply synonymous.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0647b01",
+          "ToLb": "0647b02",
+          "Kwic": "對機門廬陵清原山行思禪師第八世",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). The dialogue-with-the-occasion section heading is the exact impersonal actor: (對機門) labels the document division preceding the lineage notices and biographies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "document-section",
+            "ActorLabel": "the dialogue-with-the-occasion section heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The token 對機 occurs in the repeated heading 對機門 before the lineage and biography begin, without a speech verb or personal grammatical subject.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex hard-w1-remaining300",
+            "ReviewedUtc": "2026-07-14T00:00:00Z",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0816b10",
+          "ToLb": "0816b11",
+          "Kwic": "對機問辨之次，未能痛快，不知過在何處？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄). The source personally names Director of Education Fu Shangpan as the exact questioner: Fu says he has long exerted himself in Chan and had an awakening, but is not fluent when questioning and discriminating in response to the occasion, and asks where the fault lies. Zhanran answers him.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fu Shangpan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Fu Shangpan"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0656a14",
+          "ToLb": "0656a15",
+          "Kwic": "問三乘十二分教從何而得師云對機故得",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Muzhou Daoming is the exact speaker answering (對機故得).",
+          "MasterName": "Muzhou Daoming",
+          "ContextMasters": [
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0075a09",
+          "ToLb": "0075a10",
+          "Kwic": "通一綫有應世對機底眼。的的不墮。萬緣埋沒不得。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi (宏智禪師廣錄). In Hongzhi Zhengjue's discourse: Hongzhi Zhengjue names an eye for engaging the world and responding to the occasion.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0360b19",
+          "ToLb": "0360b20",
+          "Kwic": "遇上根利智教伊參禪，中、下二機即令念佛，對機說法。何是？何非？",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Guxue Zhenzhe is the exact speaker: he describes assigning Chan inquiry to sharp higher-capacity students and buddha-recitation to middle and lower capacities as teaching in response to the encounter.",
+          "MasterName": "Guxue Zhenzhe",
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0388c04",
+          "ToLb": "0388c05",
+          "Kwic": "僧便問：「和尚什麼處去？」師云：「四維上下，對機設教去。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen (雲門匡真禪師語錄). Asked by a monk where he is going, Yunmen Wenyan (雲門) answers that he goes to teach in every direction according to the encounter (對機設教).",
+          "MasterName": "Yunmen Wenyan",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X78/X78n1556.xml",
+        "X/X72/X72n1444.xml",
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2001.xml",
+        "J/J28/J28nB208.xml",
+        "J/J24/J24nB138.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "機",
+        "機緣",
+        "當機",
+        "當機一句",
+        "問答",
+        "問辨",
+        "應酬",
+        "劍刃"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

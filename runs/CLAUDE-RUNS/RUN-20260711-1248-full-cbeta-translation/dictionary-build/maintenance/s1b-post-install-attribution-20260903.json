@@ -1,0 +1,25 @@
+{
+  "counts": {
+    "entries": 53,
+    "senses": 56,
+    "occurrences": 230,
+    "actor_narrated": 32,
+    "attribution_notes": 231,
+    "named_occurrences": 145,
+    "deferred_non_roster": 3,
+    "pending_roster_master": 2,
+    "context_master_links": 207,
+    "deferred_non_roster_context": 5,
+    "pending_roster_context_master": 4,
+    "actor_reviewed_unnamed": 22,
+    "context_actor_identities": 11,
+    "actor_identified_non_master": 6,
+    "actor_identified_unlinked_master": 21,
+    "chinese_strings": 13,
+    "anchored_chinese": 13,
+    "actor_impersonal": 5,
+    "claim_anchors": 1
+  },
+  "hardFailures": 0,
+  "failures": []
+}

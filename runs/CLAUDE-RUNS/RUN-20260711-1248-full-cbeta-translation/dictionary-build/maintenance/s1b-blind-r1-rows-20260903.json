@@ -1,0 +1,2145 @@
+{
+ "schemaVersion": "s1b-blind-r1-rows",
+ "materialsDir": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\s1b-blind-r1-materials",
+ "materials": {
+  "pre/t_002c7f0ec57e.json": "7bced23d73c16ebc08905196112504a57cd8da7e8fd4046a67590b6e674e5b43",
+  "post/t_002c7f0ec57e.json": "485d45f78a6c922280e33af8b62642ffe53812246fc81b31fcb7221cc2306335",
+  "pre/t_00d347279628.json": "71fa2039a02d67cc266a3f77dd6ffb0a27cf341b5ff382d9a3d32dd71683da3b",
+  "post/t_00d347279628.json": "57fd610fd3c81a06e2c1fc85b5fd45d1b314eed5029e956efc3e350450cb62dc",
+  "pre/t_0899655df243.json": "8b04e44691ebe4fad69abda1c7351919238d4c770cb161687f68e3ac08892ecf",
+  "post/t_0899655df243.json": "2b3b218a5359a09905db06d88dda3e0736612a094d546ed3339107f5bb32d625",
+  "pre/t_2a207e0e8c96.json": "645f3b60aa1388d0be4747e29791da3d6716b0d254bb2cddf69b450b704a440d",
+  "post/t_2a207e0e8c96.json": "554850f5a6bb1ed2883a82f80eeb035d255c702f850862c774d0c6f1c8b4de53",
+  "pre/t_2a4b0fb8318b.json": "583140c399e3173504125d1d0f71e85966cad6c3e57b2b2d268a7c000af6454d",
+  "post/t_2a4b0fb8318b.json": "420a7955504177d14c020e0d5cbe99049960a07205bb05fbb9b0d6519e293286",
+  "pre/t_2ada35bdd55b.json": "d14e345b23bf2914c60a498409a76f9d61d6c2a488c9d4fc5f8734d33f1632fc",
+  "post/t_2ada35bdd55b.json": "44436b8e5ffd8580474aa2cfcd3dcf21b61007103ba52bcb9ef30ff3c27e7919",
+  "pre/t_2b657c0d219b.json": "51fb3a7ccee23605d25efed230d951d3935df755d0ab3f90b52a8c621c8d268e",
+  "post/t_2b657c0d219b.json": "578e634cbdb15144920e6c2f281581506f2df9d69714710eca9d6643651d4e26",
+  "pre/t_2be9faa53fce.json": "a8e0443041602481c4780db457c14432620f2d9d47d0f7039b513de2833e6c84",
+  "post/t_2be9faa53fce.json": "8c470dae31997d375e11559beb4e23fe5ae4c2025ff402de7fcc9b1b5ecabe93",
+  "pre/t_2e2a108b9147.json": "666f4d19b68dc6bacc6be3d20c0587724d974f73af8ab59b5d53c835a1ec59d0",
+  "post/t_2e2a108b9147.json": "7ae65487e90ae636aaf7ca9dc1c309a910f2f04713e335b1730bd539c8f546cb",
+  "pre/t_2f97445940bc.json": "f32a121b42b4e0239e18f4d0ee23f7d153df0219bcdd4498bd45bdc8fef8bb52",
+  "post/t_2f97445940bc.json": "3024905c1557331678cc8842aa0f7932f6feb5e2640baf3c3edc2f72a5e495ab",
+  "pre/t_461377f9b1da.json": "a4a7c08437fc5f0a935473fb079f96a270893debc27f9276eb961c6ae699e0a6",
+  "post/t_461377f9b1da.json": "0d05c9c6a1726a46a5cea0258d722aafb992e171581a380467727275d7f5e3a7",
+  "pre/t_46aeabad0025.json": "611d2f249bbeb660e6795bfd53753c31ce0b850c0bf30ead5cc6e0f57914c62b",
+  "post/t_46aeabad0025.json": "24dd0fb27bfd3582e80d0199b83e17eee2647fcc9962ece773c65b2e8e73d390",
+  "pre/t_47cbec4da028.json": "5cfc0c1fce5f7305dc19fe90b724ae236a8f1b55163b6013db5eb8e490728f6b",
+  "post/t_47cbec4da028.json": "4aa0f0adf75cbb8180db72dcf2f7765504a8e5c136aa5dd67c6832c9f8c52189",
+  "pre/t_49100bcb7049.json": "30a13ecf63055bf1afb8293ebf5a1eb1e3385ede575757fa299394c9685f03b7",
+  "post/t_49100bcb7049.json": "6dd29dec00da6d5cae461e9e71bafe0521bc5b740282e18022d11942e12904d2",
+  "pre/t_4952f5caca1f.json": "e13c5348ecbb959d7b909b6156cb83da0a626800c247bbce3bc31886b899ce6a",
+  "post/t_4952f5caca1f.json": "9758860082d0c1d8c876bc8a874438703470a1be48e3ee5e8cb2696ed268a7ee",
+  "pre/t_49849d404fcb.json": "d6334dcafc1fcb2417b107a24651ac5e0a486265f77a55d13d21dd85206dffc3",
+  "post/t_49849d404fcb.json": "7ceafd4263c268ebdb67f43b4c0c1a0f23902177720b504e3b99774bbe9fb8e0",
+  "pre/t_499e85249dfe.json": "565d2a192db4477e866f04f2aaab6ca071bef0a50ae4f97e235cbe840553db33",
+  "post/t_499e85249dfe.json": "7188f9bc4eb9ba7e440eac4f744f443615ccea0228b588edfddd31ab32256196",
+  "pre/t_4c1e5a42155d.json": "b264ce82a7acce1fb770c82a3120f6e2f68be1640fe8ff8c42e5c6036a24491f",
+  "post/t_4c1e5a42155d.json": "b536196632d4dccd86bcb6d5f12eb4eb690830142889eec68152b539d59eb73c",
+  "pre/t_4c3f44abf01c.json": "b08bc3b00054950058b70f55ea3381f576e856a1e7aa025ee56c0c04fef3d1cf",
+  "post/t_4c3f44abf01c.json": "9975e7ab2ba5f74669b6810b6060b6662285214457c8b6cb766302f7226ab306",
+  "pre/t_5452569f1034.json": "186f37610d0eac09c0d189569cb3f1d65cb5062388dfe3b890abffc77fb54cfd",
+  "post/t_5452569f1034.json": "ad404a6f748a726ef6294e59b3078e1a5b499d4813062922e3a141089d055f8e",
+  "pre/t_5892b09b6e92.json": "d7caf303d948fc00c9d226ba55aa4eca99554234665a84616af5358fe06a0b1d",
+  "post/t_5892b09b6e92.json": "ae683a30afdf0c03e31a81b36220f23d1623414d2dfcb6ae77221dbf515e9850",
+  "pre/t_58b2886dbb1b.json": "64243bba74332d03ce835e4de90f168c973ec2362be12f13f5fc40c1cc91db53",
+  "post/t_58b2886dbb1b.json": "0649223659a3ac954a82fb39073baccc3a4b597905ba80052d5a2587c5ba3487",
+  "pre/t_5ba8bf9d83f2.json": "589148aa43283bcfb92f6402c2bc4706f4b1fbb41d8ca8eec195033d18a702f8",
+  "post/t_5ba8bf9d83f2.json": "a3ce68a7599b3facefba9e49b90226d53509ebb8b8832b6f3f08436a0bcde7e6",
+  "pre/t_5bc3a00e975d.json": "0658dc353dcc155f10579761b2765e870af2c9f25417e0ea81895a1edc6d6954",
+  "post/t_5bc3a00e975d.json": "872d89c57a5bc1d0d832a3efc987eb2d83feb6c466ff7950017693c768b48159",
+  "pre/t_5da65e2989a0.json": "4d4b16b9cea4a2638ae445fc262fa7fa8eee92e4148728bfe0d59589b51608c3",
+  "post/t_5da65e2989a0.json": "f427c72c7abf3b282fcc7dfed12ca9588b3f52d16b7cb77ad380b61571956acf",
+  "pre/t_5fc9c3f10015.json": "64ef33848228b1f69e84dd8472133e0c2044d39b3eac0710b95d7ffe49b156ea",
+  "post/t_5fc9c3f10015.json": "cfc09849e824bef99d7461ef93f2cf7e7f3192eb674aa20bc8b549d758c0aaed",
+  "pre/t_5fd1f5818029.json": "120439bacc90427998044a3b92ffed8f8136adbdfb3fe6d266008cd9a1c1ccd0",
+  "post/t_5fd1f5818029.json": "44b3dc211fbe49cf46ce840dd45c5f6bc3c381da48960c722565c15a05c27272",
+  "pre/t_5fd1f6f01c88.json": "fe3d136ff4ce4db5c3420387dab3778f0644c122b100076dc8f1a463888fd020",
+  "post/t_5fd1f6f01c88.json": "9163724df56cabea2ca6561a7d9058a3cb56394e60f557903adf13c628734909",
+  "pre/t_63db926ae33c.json": "20e783be455b3e365b065fbcc4e220e48081fb5bd2a8fad61ab37d05852227ef",
+  "post/t_63db926ae33c.json": "91cde53a4fb72a97b283e4206cbc2f7ecff2b9481230063e340797a0ba1aef9e",
+  "pre/t_6ab54c86eefc.json": "cb818ce397d1c8261e09685d68c4e8409cf671408c03f85e894848abca05f337",
+  "post/t_6ab54c86eefc.json": "b5a3b8ce93d80779ae29e3db37f808449a5677b416dcbf7263163e1e609fedd9",
+  "pre/t_a455e3a0586b.json": "fc14427439d70d4a5fd734bc8eb29dacffb0813dc5671626143e3ff34e6425a9",
+  "post/t_a455e3a0586b.json": "b10001cf4b76aee796fc039ce4028b4b9fae7eb49105e2bed64de0be722204f6",
+  "pre/t_b5754435ca0e.json": "c58d55cbf530f14a5b4293ce1ff97d4c8dce6772546678c6bb177a437b821700",
+  "post/t_b5754435ca0e.json": "56a7b0a11eb39016e8c10dff6b7cc958d5812f4dfade140a1f637d8808a3d6ff",
+  "pre/t_b5aef6159856.json": "6938f982f0019d15d29cc0c4963980d1ae1e29e4e93e919659ade11129312ec4",
+  "post/t_b5aef6159856.json": "169f2762aa303552287a780af05566375c705294b530aa67500b4dc58e26160e",
+  "pre/t_baaf8fde82d2.json": "51fafe749e004949609a9f0643a03724036ecd3953b2224b88bd17904bc5ab54",
+  "post/t_baaf8fde82d2.json": "d2422dee9767fc8c3c5e0c10cb6f70168770cbbd57d37d41998387d76f1fd3cd",
+  "pre/t_c100443a64c1.json": "fc5f534ceed7142e3a8f2e90f2df88d24cea7e644c7ed98eca09c8bc3ca5ea6c",
+  "post/t_c100443a64c1.json": "ea98b17a39897bfdef9e828580aa19a5b7aee73759e1cab8f05fd770c191d034",
+  "pre/t_c212062774f9.json": "b9b8e634f42719ff118f8d1bd911397b69a2c09eb2480ac79ac57fe5b08e5359",
+  "post/t_c212062774f9.json": "1b11107d40992553b293b33d30f2caf835d1a3d221e76c0f082f11048ab30949",
+  "pre/t_c6d2394bc8f8.json": "2af7676666670969de0d62e9ca3713f50c0e81bfad9b12f0c3c9a093d4d0587f",
+  "post/t_c6d2394bc8f8.json": "b2cfa0c8e325b137ce87693287459e6b30f9e77a59b633bb63d246ed62593fa2",
+  "pre/t_caee400e45ce.json": "0081e3842f59a9d1502cecb25095a4def6c5e0a9c9364003ff12e39fbe630220",
+  "post/t_caee400e45ce.json": "72cce520407f28ce5273acb8ffb6b014e7a98f44ef52229f75e2459bfbe563f7",
+  "pre/t_cccc25e4103f.json": "e02dfa2b6e43133c3bd157265c1184c2ba09861d54a28a09fbec42ff697fbaeb",
+  "post/t_cccc25e4103f.json": "da548a1d651a81c0aa10140817a41003d45002d4bc89dea006b3a878869150aa",
+  "pre/t_cd0f1e101e57.json": "1ecf5d48859b8590518630cf18ddff861df199ccbc4e6b0ceafc1cc9b4dbd68c",
+  "post/t_cd0f1e101e57.json": "e4f2353fadbd4df62e3db62cd93454ea81d09cd7f51086d1c68b670f681198d8",
+  "pre/t_ceacbd92cb86.json": "5dbe048e9923aa2ccb3a6ffc9a9557bd2d1d25cbf21b5424f1ae4181d0930c88",
+  "post/t_ceacbd92cb86.json": "f874d47c1fe1a2415a578e90fee3808529f6f04342a01e2bdcb2a1cead07b6b8",
+  "pre/t_cec588fa8b06.json": "6c7e78a2fc456a4e22de207802231d4e8aeaf373ea054df105f5f4fa623572f5",
+  "post/t_cec588fa8b06.json": "43693e0c3ed574e0f8d9d914f8d1e62ac8bb7fa2ce2a8ebb1a44a81b63365cf1",
+  "pre/t_cf0513be4012.json": "0dc1a5e52a7578a6f37201d098a5e8657de44861daeeeca0e08b651cf1c876cd",
+  "post/t_cf0513be4012.json": "1604a40c296ee97fe2db90aa1d3ba1d16651c69c9e995cb17ebefcb2ed46410e",
+  "pre/t_cf6aac2f936b.json": "8556c621705e1942fe45c67be9be043baef0b6e9f6a7a30a3f4e98694e8b2878",
+  "post/t_cf6aac2f936b.json": "5b930b2cbdba436d654a91927cf9d9d205bd0d1090bd50138faa3958551f28c2",
+  "pre/t_cf9506b17745.json": "0fb53054466d5cb1a530e0c50548b7143ff60ad27a91f8564ebd87974b2f9c7c",
+  "post/t_cf9506b17745.json": "e1e32fee1d4432970749a223c8fcf8265ca789f73c13e8932a2c390ddbcf075b",
+  "pre/t_d055e572dc64.json": "17fb65584a43b42d1eaca4cb85e6300aca0f05073d1c89fe81a94c27937a5db8",
+  "post/t_d055e572dc64.json": "bab586352f29c8bc21ad0f0643cbecc0f8de18da138c4035b9c55d29a23d43ed",
+  "pre/t_d076804616d6.json": "d9fbc1c80b239b5c96ca8588c94a79cbec12a0d4e21712c87d2abff63347ae75",
+  "post/t_d076804616d6.json": "3c8924d4749372f233d67c871586e76d8cad79ef05d398191611e5eb674f2bb4",
+  "pre/t_d0e5e6e5d1ee.json": "b5f45f4dddd59967dcdf37e332bdbe08e409d75cc7d682b4b585d3e9d513d796",
+  "post/t_d0e5e6e5d1ee.json": "7ef820fe7f36d125e3992175816ebc0860178a87de02b4253a048394c27d3e27",
+  "pre/t_eeb3c71567a1.json": "05d85b2dbc648e5616d901c05cdd2a849e8f7e8f6466389df580ba42bd0e0a11",
+  "post/t_eeb3c71567a1.json": "393c0ec31119e4527313b8aeec95aef32c6fa8552cd27c24401ed92a45297791",
+  "pre/t_fe8d4efe588f.json": "5b90d0db5529251f7ea4d50f63a142ac2f97c3eb87d9502cd054d36052ba3679",
+  "post/t_fe8d4efe588f.json": "0886614e9411352a04dd952ab831da5c651545f29200511a06848d2f58de91e4",
+  "pre/t_ff59d753a7b1.json": "07155539bab2dd241769ccb4f8d30249ae4bb07bd86deede680828adf35d44bf",
+  "post/t_ff59d753a7b1.json": "906c614026f38ff05ccd52fbb0190643267f626fb5926c0b9ce1fb4578fd5091",
+  "pre/t_ff7bd0937cb0.json": "26c17b974526a341405142ec3d424b4455a642b6365ffe2c34f4a06b187ed072",
+  "post/t_ff7bd0937cb0.json": "88724991f16d29f7aafe5449c0962ebecb0a354bf94a2716d36ad0471ce6dad5",
+  "pre/t_ff91d085da8d.json": "968d2644df0134c5547e14a20d7a77e4b5f9619ef1d62bfb3dfe8488ea9963aa",
+  "post/t_ff91d085da8d.json": "0d7037fb4f85795074150941decd1aab3c046fe04af38d2c3a7c65a2a148bc67"
+ },
+ "rows": [
+  {
+   "entry": "t_002c7f0ec57e",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "祖塔",
+   "removedKwic": "教人恨五更風。」掃晟祖猫，櫟山和尚請上堂。拈",
+   "coveredBy": [
+    {
+     "relPath": "J/J39/J39nB454.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0000",
+   "rowSha": "dad6b742969cb532cbb4e9565a98e6d519d946d9d17079d2ff3be82ed3379876"
+  },
+  {
+   "entry": "t_002c7f0ec57e",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "祖塔",
+   "removedKwic": "教人恨五更風。」掃晟祖塔，櫟山和尚請上堂。拈",
+   "coveredBy": [
+    {
+     "relPath": "J/J39/J39nB454.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0001",
+   "rowSha": "71f6bf54fcabe437a348612d7d9a52ad04eeb2cd8b54d45a71d0ed175d1869ee"
+  },
+  {
+   "entry": "t_00d347279628",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "蕭何",
+   "removedKwic": "三界大師，尚墮在識情數量，合喫二十棒。梵志雖然悟去，亦未出得識情數量，合喫二十棒。北山恁麼批判，且道有過無過？蕭何制律。棲霞成云：三界大師不合將閨閣中物搬出，返被梵志看破。若是壽昌待道：我今兩手皆空，更教放下個甚麼？便與痛棒打出。何故？不見道：殺人須用殺人刀，活人",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": "Beishan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0002",
+   "rowSha": "919a2edd81778e2c7279f71584883531d3b719eb0c54dfcce0b1be5567a6426f"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "次。直下絕安排。雖然立處皆真。緫是顯奇。惑眾。昔",
+   "removedKwic": "以為全牛。彷彷彿彿不得受用。矧乎又有向影子上覔影子。敢保終其身不見全牛也必矣。政興此歎。忽規上人出紙求語。故信筆以似之。規曰。敢問全牛今在何處。余於是投筆。附夜航而之武林矣䟦天目禮禪師墨迹䟦天目禮禪師墨迹天目和尚七歲時。󵈢籃侍母採桑次母戲之曰。携籃者誰。豁爾開悟。今觀其餞侍僧省母。有施為動靜憑誰力之句。大似螟蛉之子殪而逢蜾臝祝之曰。類我類我。烏乎多見伊不自知其醜也。䟦牛腰佛頌軸䟦牛腰佛頌軸佛身無為。遍在牛腰馬腹。智體不動。誰分蟻穴蜂房。一切處示現受生。一切處成等正覺。紫金聚沈潜水牯。赤肉團無位真人。從前話󰚁已行。即今面目現在。本來無位次。直下絕安排。雖然立處皆真。緫是顯奇。惑眾。昔唐文宗愛食蛤蜊。忽遇一蛤蜊砧杵不壞。尋而解開乃見觀音像於中顯現。召惟政禪師問其事。師曰應以菩薩身得度者即現菩薩身而為說法。帝曰。菩薩既已現身。惟未聞其說法。師曰。陛下見此信耶不信耶。帝曰。焉敢不信。師曰。說法已竟。文宗大悅。此話垂五百年矣。大德丁未杭之臨安縣里人。買二牛腎剖其一。中得佛像一軀高寸許。非金非石結跏趺坐眉目可覩。遂累石樹󷘳奉藏之。若見若聞咸生異信。其廣長舌相流布法音。霆震雷轟卒未之已也。公恕施君。󵈢諸方頌軸。訪予窮山俾為著語。因筆前說以似之。復為說偈。無位真人赤肉團牯牛腰內緫相瞞法雷震地通身口若要親聞著眼觀䟦梁楷畫妙峯禪師",
+   "coveredBy": [
+    {
+     "relPath": "B/B25/B25n0145.xml",
+     "masterName": "Zhongfeng Mingben"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0003",
+   "rowSha": "dca2cc2aa0a529da8792906f9470c920c78b8a762c7f67dfbcfe5b856d7ce36d"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "漢。』爾且隨處作主，立處皆真，境來回換不得，縱有",
+   "removedKwic": "字中求意度佛法，天地懸殊。道流！山僧說法，說什麼法？說心地法，便能入凡、入聖，入淨、入穢，入真、入俗。要且不是爾真俗凡聖能與一切真俗凡聖安著名字，真俗凡聖與此人安著名字不得。道流！把得便用，更不著名字，號之為玄旨。山僧說法與天下人別，秖如有箇文殊、普賢出來，目前各現一身問法，纔道咨和尚，我早辨了也。老僧穩坐，更有道流來相見時，我盡辨了也。何以如此？秖為我見處別，外不取凡聖、內不住根本，見徹更不疑謬。」師示眾云：「道流！佛法無用功處，秖是平常無事——屙屎、送尿、著衣、喫飯、困來即臥……。愚人笑我，智乃知焉。古人云：『向外作工夫，總是癡頑漢。』爾且隨處作主，立處皆真，境來回換不得，縱有從來習氣、五無間業，自為解脫大海。今時學者總不識法，猶如觸鼻羊逢著物安在口裏，奴郎不辨、賓主不分，如是之流邪心入道，鬧處即入不得，名為真出家人，正是真俗家人。夫出家者，須辨得平常真正見解——辨佛、辨魔，辨真、辨偽，辨凡、辨聖……。若如是辨得，名真出家。若魔、佛不辨，正是出一家入一家，喚作造業眾生，未得名為真出家。秖如今有一箇佛魔同體不分，如水乳合鵝王喫乳。如明眼道流，魔、佛俱打。爾若愛聖憎凡，生死海裏浮沈。」問：「如何是佛？魔？」師云：「爾一念心疑處是魔；爾若達得萬法無生，心如幻化，更無一塵、一法，處處清淨是佛。然佛與魔是染、淨二境，",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1985.xml",
+     "masterName": "Linji Yixuan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0004",
+   "rowSha": "743fcef316099f28507385c58b65828639027a34ea91c1d76aac23d6e0096ea7"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "不受人惑，隨處作主，立處皆真，但有來者皆不得受。",
+   "removedKwic": "直要不受人惑，隨處作主，立處皆真，但有來者皆不得受。",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1985.xml",
+     "masterName": "Linji Yixuan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0005",
+   "rowSha": "0c40f502966e5f64068191ff54ca9bd19ab3b2b88d2be83f17ba94fe763b4b50"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 4,
+   "removedClaimText": "道無動靜法本隨緣。立處皆真隨方作主。",
+   "removedKwic": "道無動靜法本隨緣。立處皆真隨方作主。",
+   "coveredBy": [
+    {
+     "relPath": "T/T51/T51n2077.xml",
+     "masterName": "Jingtu Huimin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0006",
+   "rowSha": "1013fe8b2b4a184ad387937ce5077f96058cca6df0ea791f4898f503360e96b6"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 5,
+   "removedClaimText": "觸目無滯，拈來便用，立處皆真",
+   "removedKwic": "若能取捨俱忘，觸目無滯，拈來便用，立處皆真",
+   "coveredBy": [
+    {
+     "relPath": "X/X79/X79n1559.xml",
+     "masterName": "Huayan Zujue"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0007",
+   "rowSha": "614ce21e505ca9de828fe999fef434cb0a693f4cab948ea53a1ea6e4a8605145"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 6,
+   "removedClaimText": "師西來意，把來便用，立處皆真。",
+   "removedKwic": "我這裏是活祖師西來意，把來便用，立處皆真。",
+   "coveredBy": [
+    {
+     "relPath": "X/X79/X79n1559.xml",
+     "masterName": "Zhenjing Kewen"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0008",
+   "rowSha": "3fa7e63d9976e4a2beb9a9d39dd716f430a05bebeb6c26e5c28dcfbb50628d3a"
+  },
+  {
+   "entry": "t_2a207e0e8c96",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "曰：有意氣時添意氣，不風流處也風流。師曰：甘露乃蒺蔾之園。",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0009",
+   "rowSha": "27c7532b3625ebfcaef48d7dbd57ff51952c41c0fad55d52f3273da52d8a7abe"
+  },
+  {
+   "entry": "t_2a4b0fb8318b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "看。上堂：過去諸佛已滅，未來諸佛未生。正當現在，佛法委付黃龍。放行則恍恍惚惚，其中有物。把住則杳杳冥冥，其中有精。且道放行即是？把住即是？竿頭絲線從君弄，不犯清波意自殊。上堂：虎頭生角人難措，石火電光須密布。假饒烈士也應難，懵底那能善回互。手擎日月，背負須彌，擲向他方，其中眾生不覺不知。其中眾生騎驢入諸人眼裏，諸人亦不覺不知。會麼？將此身心奉塵剎，是則名為報佛恩。上堂：一漚未發，古帆未征。",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": "Huitang Zuxin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0010",
+   "rowSha": "784200a2202aba7155679b03d82b4d6e45ef549cc66347690f1471b5af41d2a7"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "漢。』爾且隨處作主，立處皆真，境來回換不得，縱有",
+   "removedKwic": "字中求意度佛法，天地懸殊。道流！山僧說法，說什麼法？說心地法，便能入凡、入聖，入淨、入穢，入真、入俗。要且不是爾真俗凡聖能與一切真俗凡聖安著名字，真俗凡聖與此人安著名字不得。道流！把得便用，更不著名字，號之為玄旨。山僧說法與天下人別，秖如有箇文殊、普賢出來，目前各現一身問法，纔道咨和尚，我早辨了也。老僧穩坐，更有道流來相見時，我盡辨了也。何以如此？秖為我見處別，外不取凡聖、內不住根本，見徹更不疑謬。」師示眾云：「道流！佛法無用功處，秖是平常無事——屙屎、送尿、著衣、喫飯、困來即臥……。愚人笑我，智乃知焉。古人云：『向外作工夫，總是癡頑漢。』爾且隨處作主，立處皆真，境來回換不得，縱有從來習氣、五無間業，自為解脫大海。今時學者總不識法，猶如觸鼻羊逢著物安在口裏，奴郎不辨、賓主不分，如是之流邪心入道，鬧處即入不得，名為真出家人，正是真俗家人。夫出家者，須辨得平常真正見解——辨佛、辨魔，辨真、辨偽，辨凡、辨聖……。若如是辨得，名真出家。若魔、佛不辨，正是出一家入一家，喚作造業眾生，未得名為真出家。秖如今有一箇佛魔同體不分，如水乳合鵝王喫乳。如明眼道流，魔、佛俱打。爾若愛聖憎凡，生死海裏浮沈。」問：「如何是佛？魔？」師云：「爾一念心疑處是魔；爾若達得萬法無生，心如幻化，更無一塵、一法，處處清淨是佛。然佛與魔是染、淨二境，",
+   "coveredBy": [
+    {
+     "relPath": "B/B25/B25n0145.xml",
+     "masterName": "Zhongfeng Mingben"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0011",
+   "rowSha": "47de711700a790c3eb10f72d7fc496d614758d321c7c35e17d64bf47d688a9ec"
+  },
+  {
+   "entry": "t_2ada35bdd55b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "空蕭索。非蕭索，作者好求無病藥。章敬道是南泉非，逆水之波透出誰？可憐箇漢皮無血，駕與青龍不解騎。是是，放",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1297.xml",
+     "masterName": "Chushi Fanqi"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0012",
+   "rowSha": "70f64f692d36b866b995c57ce476c382cfdf0610ef6592ce46381ba69e66762c"
+  },
+  {
+   "entry": "t_2b657c0d219b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "楊為寫七佛殿額，乃問：七佛重出世時如何？",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0013",
+   "rowSha": "9811ea1e02cb9b9c529b4b4b178f09707e83d74704d9001ccb1424a45d488ccb"
+  },
+  {
+   "entry": "t_2be9faa53fce",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "法無多子，正眼瞎驢滅。驀拈拄杖曰：妙嚴突出拄杖，三人證龜成鼈。以拄杖卓一卓曰：拄杖子，善甄別。硬却脊梁，莫教",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": "Liangshan Kuoan Ze"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0014",
+   "rowSha": "aa9278c3d3ad9098b145298f4beb6b918924088f3d8a697539091667598ec8e4"
+  },
+  {
+   "entry": "t_2e2a108b9147",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "溈山問仰山此二尊宿意作麼生仰山云和尚作麼生溈山云養子方知父慈仰山云不然溈山云子又作麼生仰山云大佀勾賊破家。師",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Guishan Lingyou"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0015",
+   "rowSha": "efde8415bac9d03d272f7be0f7075a3b287cabe96f4a693d146d6ebf81dec5dd"
+  },
+  {
+   "entry": "t_2f97445940bc",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "處。倒一說分一節同死同生為君訣八萬四千非",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Xuedou Chongxian"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0016",
+   "rowSha": "45a5364abda7129937987a4b3d90493b28a475566e6b1b6a47d4f990b53c6ca7"
+  },
+  {
+   "entry": "t_461377f9b1da",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "師有時顧視僧曰：「鑒。」僧擬對之，則曰：「咦。」叢林因目師為顧鑒咦。",
+   "removedKwic": "師有時顧視僧曰：「鑒。」僧擬對之，則曰：「咦。」叢林因目師為顧鑒咦。",
+   "coveredBy": [
+    {
+     "relPath": "J/J24/J24nB138.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0017",
+   "rowSha": "414a5ebeb116e60ecc4e6fceaddea0e5c232aa0816cef1d363ae9d99e46f27cf"
+  },
+  {
+   "entry": "t_461377f9b1da",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "僧問：覿面相逢處，如何顧鑒咦？乞師垂半偈，免使後人疑。",
+   "removedKwic": "僧問：覿面相逢處，如何顧鑒咦？乞師垂半偈，免使後人疑。",
+   "coveredBy": [
+    {
+     "relPath": "X/X85/X85n1593.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0018",
+   "rowSha": "e5da6899a6f8bf451283f328ce08aa2f6264c9b3c704b09b91b4ac6902b3863c"
+  },
+  {
+   "entry": "t_46aeabad0025",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "然雖如是，鍼眼魚吞卻嘉州大象即不問，你觀世音菩薩將錢買胡餅，放下手為甚麼卻是饅頭？不到烏江畔，知君未肯休。",
+   "removedKwic": "然雖如是，鍼眼魚吞卻嘉州大象即不問，你觀世音菩薩將錢買胡餅，放下手為甚麼卻是饅頭？不到烏江畔，知君未肯休。",
+   "coveredBy": [
+    {
+     "relPath": "J/J28/J28nB208.xml",
+     "masterName": "Guxue Zhenzhe"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0019",
+   "rowSha": "9e228dd952c0b33be6cd8dc96ff83556f8f3aff6fcb7c8a189141ef692050fb9"
+  },
+  {
+   "entry": "t_46aeabad0025",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "師云：「你道陝府鐵牛因甚吞卻嘉州大象？」進云：「鐵牛且置，祇如世尊今辰降誕，和尚還有慶贊句子也無？」師云：「向日荷新卷。」",
+   "removedKwic": "師云：「你道陝府鐵牛因甚吞卻嘉州大象？」進云：「鐵牛且置，祇如世尊今辰降誕，和尚還有慶贊句子也無？」師云：「向日荷新卷。」",
+   "coveredBy": [
+    {
+     "relPath": "J/J28/J28nB208.xml",
+     "masterName": "Guxue Zhenzhe"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0020",
+   "rowSha": "aa3be89635080ef13776f6cc635e64948deefd2b8c662943078d69c58b42d52f"
+  },
+  {
+   "entry": "t_47cbec4da028",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "箭鋒相拄。",
+   "removedKwic": "箭鋒相拄。",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1997.xml",
+     "masterName": "Yuanwu Keqin"
+    },
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0021",
+   "rowSha": "5da3da49775fc69c7a2b269aa28cbe69044c10bf4b87e13e218873397ab8dc57"
+  },
+  {
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 6,
+   "removedClaimText": "與原句不同的虛構引文",
+   "removedKwic": "我這裏是活祖師西來意，把來便用，立處皆真。",
+   "coveredBy": [
+    {
+     "relPath": "X/X79/X79n1559.xml",
+     "masterName": "Zhenjing Kewen"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0022",
+   "rowSha": "d6f396bed84f4fba60cc4d0e088eaeb5dede88f598e6fb8a349a1cadddd58236"
+  },
+  {
+   "entry": "t_47cbec4da028",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "法眼下謂之箭鋒相拄。",
+   "removedKwic": "法眼下謂之箭鋒相拄。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0023",
+   "rowSha": "93aad7a2e593285aac429aa53dd20aa177e8fdc2a471e2fb8d816a0a8bfaf8f0"
+  },
+  {
+   "entry": "t_49100bcb7049",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "示光禪人欲得親切，第一不用求，求而得之，已落解會。況此大寶藏，亘古亘今，歷歷虗明，從無始劫來，為自己根本，舉動施為，全承他力。",
+   "removedKwic": "示光禪人欲得親切，第一不用求，求而得之，已落解會。況此大寶藏，亘古亘今，歷歷虗明，從無始劫來，為自己根本，舉動施為，全承他力。",
+   "coveredBy": [
+    {
+     "relPath": "X/X69/X69n1357.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0024",
+   "rowSha": "ec2e0b5f08ae7103a99e0b249fd5c79b157473ecb628ba27df1557b0fea53661"
+  },
+  {
+   "entry": "t_49100bcb7049",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "逸群作異施竭世樞機。未免節外生枝水中捉月。所以諸佛出世罕遇作家。祖師西來承虛接響。向上一路千聖不傳。學者勞形如猿捉影。到這裏不拘格式。不躡前蹤。不昧當機。如何舉唱明眼漢沒窠臼。本分事絕羅籠。幸遇帝道平平皇風蕩蕩。祝嚴聖壽為國開堂。台旆光臨皇華作證。鐘山頂上寶公塔前。八字打開分明顯示去。遂拈起拄杖云。還見麼。諸佛搆不著。祖師提不起。千日並照萬鏡臨臺。不隔纖毫當陽薦取。且不涉諸緣一句作麼生道。八方霢霂無為化。萬國歌謠樂太平。上堂云。不滅不生亘古亘今。圓融無際應用無差。佛祖由茲圓成。人天因其發現。至於千聖萬聖出來。移易一絲毫不得。要識文殊普賢釋迦彌勒觀音勢至。盡在這裏。不起纖毫凡聖情念。不拘得失是非境界。直下全真更非他物。且薦嚴一句作麼生道。還委悉麼。彌陀非外得。遍界是西方。上堂云。一切無收攝。觸處圓成。應用絕參差。莫窮形相。向千聖頂𩕳上。有時露出祖佛莫窮底機關。於一毫端中。有時演出主賓互換底文彩。經天緯地玉轉珠回即且置。舉拂子作點勢云。這一點落在什麼處。海神如貴不知價。留與人間光",
+   "removedKwic": "逸群作異施竭世樞機。未免節外生枝水中捉月。所以諸佛出世罕遇作家。祖師西來承虛接響。向上一路千聖不傳。學者勞形如猿捉影。到這裏不拘格式。不躡前蹤。不昧當機。如何舉唱明眼漢沒窠臼。本分事絕羅籠。幸遇帝道平平皇風蕩蕩。祝嚴聖壽為國開堂。台旆光臨皇華作證。鐘山頂上寶公塔前。八字打開分明顯示去。遂拈起拄杖云。還見麼。諸佛搆不著。祖師提不起。千日並照萬鏡臨臺。不隔纖毫當陽薦取。且不涉諸緣一句作麼生道。八方霢霂無為化。萬國歌謠樂太平。上堂云。不滅不生亘古亘今。圓融無際應用無差。佛祖由茲圓成。人天因其發現。至於千聖萬聖出來。移易一絲毫不得。要識文殊普賢釋迦彌勒觀音勢至。盡在這裏。不起纖毫凡聖情念。不拘得失是非境界。直下全真更非他物。且薦嚴一句作麼生道。還委悉麼。彌陀非外得。遍界是西方。上堂云。一切無收攝。觸處圓成。應用絕參差。莫窮形相。向千聖頂𩕳上。有時露出祖佛莫窮底機關。於一毫端中。有時演出主賓互換底文彩。經天緯地玉轉珠回即且置。舉拂子作點勢云。這一點落在什麼處。海神如貴不知價。留與人間光",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1997.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0025",
+   "rowSha": "5d9344e1161324d79a3caf0cb7e0ffbf282692c639f2b8bced295ad0542f13f6"
+  },
+  {
+   "entry": "t_49100bcb7049",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "實，便請道。靈雲云：三十年來尋劍客，幾迴葉落幾抽枝。自從一見桃花後，直至如今更不疑。師云：甚生桑梓之能。雲云。向道故非外物。師云：如是，如是。雲云。不敢！不敢！師云：諦當甚諦當，敢保老兄未徹在。雲云。是和尚還徹也未？師云：須與麼始得。雲云，亘古亘今。師云：甚好，甚好。遂作偈送靈雲：三十年來只如常，幾迴落葉放毫光。自從一出雲霄外，圓音體性應法王。上堂，云：諸仁者！若有一法，即被一法礙；若斷一法，亦被一法礙。若有一法，於法得自在；若斷一法，亦於法得自在。若斷一法，諸人眼損；若有一法，諸人",
+   "removedKwic": "實，便請道。靈雲云：三十年來尋劍客，幾迴葉落幾抽枝。自從一見桃花後，直至如今更不疑。師云：甚生桑梓之能。雲云。向道故非外物。師云：如是，如是。雲云。不敢！不敢！師云：諦當甚諦當，敢保老兄未徹在。雲云。是和尚還徹也未？師云：須與麼始得。雲云，亘古亘今。師云：甚好，甚好。遂作偈送靈雲：三十年來只如常，幾迴落葉放毫光。自從一出雲霄外，圓音體性應法王。上堂，云：諸仁者！若有一法，即被一法礙；若斷一法，亦被一法礙。若有一法，於法得自在；若斷一法，亦於法得自在。若斷一法，諸人眼損；若有一法，諸人",
+   "coveredBy": [
+    {
+     "relPath": "X/X73/X73n1445.xml",
+     "masterName": "Lingyun Zhiqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0026",
+   "rowSha": "bb30eee3c92e29ce0942330815437e24fb589d3fb2b6e699dc6e8d3753a506a7"
+  },
+  {
+   "entry": "t_4952f5caca1f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "國清英云：趙州南泉大似屋裏販揚州，首座恁麼可知禮也。",
+   "removedKwic": "國清英云：趙州南泉大似屋裏販揚州，首座恁麼可知禮也。",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0027",
+   "rowSha": "794798814ecfb79997af1efb6fb7206bb93b4d4cb73370c2e61eb31e7a03fc95"
+  },
+  {
+   "entry": "t_4952f5caca1f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "天高地厚問端繇，棒喝交馳卒未休，換骨洗腸猶不是，誰知屋裏販揚州？",
+   "removedKwic": "天高地厚問端繇，棒喝交馳卒未休，換骨洗腸猶不是，誰知屋裏販揚州？",
+   "coveredBy": [
+    {
+     "relPath": "J/J27/J27nB197.xml",
+     "masterName": "Wuyi Yuanlai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0028",
+   "rowSha": "4e6fb75810f1729eebd62ca0af9146dded90e42abd534b6767c5f6a85569290d"
+  },
+  {
+   "entry": "t_49849d404fcb",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "及乎被者僧道箇有便見荒亂七手八脚一時俱露",
+   "removedKwic": "及乎被者僧道箇有便見荒亂七手八脚一時俱露",
+   "coveredBy": [
+    {
+     "relPath": "D/D51/D51n8948.xml",
+     "masterName": "Fojian Huiqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0029",
+   "rowSha": "65ed0c6eaca89dbf92c76b17e8444f249143c1effdad30c0aa64853c38fd7615"
+  },
+  {
+   "entry": "t_49849d404fcb",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "師云：七手八脚。",
+   "removedKwic": "師云：七手八脚。",
+   "coveredBy": [
+    {
+     "relPath": "X/X72/X72n1444.xml",
+     "masterName": "Zhanran Yuancheng"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0030",
+   "rowSha": "e6c7f3ba5e8bd4df45bb0b26e25444380a1d3738d0f4dd875a8e2bd278e143ee"
+  },
+  {
+   "entry": "t_499e85249dfe",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "公嘗親見先壽昌默受心印",
+   "removedKwic": "公嘗親見先壽昌默受心印",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB311.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0031",
+   "rowSha": "c59d911e46031861b8c42ca2f815f3b22b68ce505cfc6a3594d040b03f8f5e94"
+  },
+  {
+   "entry": "t_499e85249dfe",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "善拈一片瓦礫置磐石上，曰：『若向者裏下得一轉語，許你親見慈明。』",
+   "removedKwic": "善拈一片瓦礫置磐石上，曰：『若向者裏下得一轉語，許你親見慈明。』",
+   "coveredBy": [
+    {
+     "relPath": "J/J28/J28nB208.xml",
+     "masterName": "Jinluan Shan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0032",
+   "rowSha": "8220e9c87d11da7dabe93efe5aa5d83e1510d406f22edad27c8a072eb7d8d05e"
+  },
+  {
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "故叢林目之。曰一字關云。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2006.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": [
+    "顧鑒咦",
+    "虛構的倖存錨點"
+   ],
+   "rowId": "R0033",
+   "rowSha": "8e2335b4225341025b66dd773df2b1605cfdd9a0608aef6cfdd6af4aba8d0119"
+  },
+  {
+   "entry": "t_4c1e5a42155d",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "前义手而立泉云道不得何不請王老師道師云更有一人居何國土泉云可惜許。師上堂大眾纔集師拈拄杖一時打散復召大眾眾回首師云月似彎弓少雨多風。師一日捏拳謂眾云天下老和尚緫在這裏我若放一線道從汝七縱八橫若不放過不消一捏時有僧問放一線道何師云七縱八橫云不放過時如何師云普裴相國一日請師至郡以所觧一編示師師接置於座略不披󲰥良久曰會麼裴曰未測師曰若便恁麼會得猶較些子若也形於紙墨何有吾宗裴乃贈詩一章曰自從大士",
+   "removedKwic": "前义手而立泉云道不得何不請王老師道師云更有一人居何國土泉云可惜許。師上堂大眾纔集師拈拄杖一時打散復召大眾眾回首師云月似彎弓少雨多風。師一日捏拳謂眾云天下老和尚緫在這裏我若放一線道從汝七縱八橫若不放過不消一捏時有僧問放一線道何師云七縱八橫云不放過時如何師云普裴相國一日請師至郡以所觧一編示師師接置於座略不披󲰥良久曰會麼裴曰未測師曰若便恁麼會得猶較些子若也形於紙墨何有吾宗裴乃贈詩一章曰自從大士",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Huangbo Xiyun"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0034",
+   "rowSha": "8d06ad3b9272faf3dbb54f49df77129c7b0ac687991b38c0653c5c6718fe711b"
+  },
+  {
+   "entry": "t_4c1e5a42155d",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "云：止止不須說，我法妙難思。舍利弗尊者問須菩提：夢中說六波羅密，與覺時是同是異？提曰：此義深遠，吾不能說。會中有彌勒大士，汝往彼問。舍利弗乃問彌勒，彌勒曰：誰名彌勒？誰是彌勒？雪竇顯云：當時若不放過，隨後與一拶，誰名彌勒？誰是彌勒？者便見冰消瓦解。昭覺勤云：夢中說六波羅密，與覺時是同是異？低聲！低聲！此義幽深，吾不能說。爛泥裏有刺，會中有彌勒大士，可往問之，推過別人又爭得？舍利弗問彌勒：",
+   "removedKwic": "云：止止不須說，我法妙難思。舍利弗尊者問須菩提：夢中說六波羅密，與覺時是同是異？提曰：此義深遠，吾不能說。會中有彌勒大士，汝往彼問。舍利弗乃問彌勒，彌勒曰：誰名彌勒？誰是彌勒？雪竇顯云：當時若不放過，隨後與一拶，誰名彌勒？誰是彌勒？者便見冰消瓦解。昭覺勤云：夢中說六波羅密，與覺時是同是異？低聲！低聲！此義幽深，吾不能說。爛泥裏有刺，會中有彌勒大士，可往問之，推過別人又爭得？舍利弗問彌勒：",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": "Xuedou Chongxian"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0035",
+   "rowSha": "160d9d5d950d6bd83d9e77fc0b800d50caf7c0bc632c4b1990cd935a92ef4a74"
+  },
+  {
+   "entry": "t_4c3f44abf01c",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "底人自然合轍。一似安排來相似。不見有一外道。手握雀兒。來問世尊云。且道某甲手中雀兒。是死耶是活耶。世尊遂騎門閫云。爾道我出耶入耶外道無語。遂禮拜。此話便似這公案。古人自是血脈不斷。所以道。問在答處。答在問處。雪竇如此見得透。便道句裏呈機劈面來。句裏有機。如帶兩意。又似問人。又似問境相似。趙州不移易一絲毫。便向他道。東門西門南門北門。爍迦羅眼絕纖埃。此頌趙州人境俱奪。向句裏呈機與他答。此",
+   "removedKwic": "底人自然合轍。一似安排來相似。不見有一外道。手握雀兒。來問世尊云。且道某甲手中雀兒。是死耶是活耶。世尊遂騎門閫云。爾道我出耶入耶外道無語。遂禮拜。此話便似這公案。古人自是血脈不斷。所以道。問在答處。答在問處。雪竇如此見得透。便道句裏呈機劈面來。句裏有機。如帶兩意。又似問人。又似問境相似。趙州不移易一絲毫。便向他道。東門西門南門北門。爍迦羅眼絕纖埃。此頌趙州人境俱奪。向句裏呈機與他答。此",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0036",
+   "rowSha": "e183fcb1e5c77aa9521145cd6bea6e0b45bc2f57f545efd2a560ec18e5f26d47"
+  },
+  {
+   "entry": "t_4c3f44abf01c",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "脫盡簾纖到不知任短任長休剪綴隨高隨下自平治家門豐儉臨時用田地優游信步移三十年前行脚事分明辜負一雙眉師云。宗鏡道。從來迷悟似迷。今日悟迷非悟。所以道。悟了還同未悟人。地藏問時。要知發足道理。法眼答處。亦非謙讓推辭。地藏就便。一提道。不知最親切。法眼大悟元來這不知却親切。臨濟問洛浦甚處來。浦云。欒城來。濟云。有事相借問得否。浦云。某甲不會。濟云。打破大唐國。覓箇不會底不得。臨濟常用殺人刀。",
+   "removedKwic": "脫盡簾纖到不知任短任長休剪綴隨高隨下自平治家門豐儉臨時用田地優游信步移三十年前行脚事分明辜負一雙眉師云。宗鏡道。從來迷悟似迷。今日悟迷非悟。所以道。悟了還同未悟人。地藏問時。要知發足道理。法眼答處。亦非謙讓推辭。地藏就便。一提道。不知最親切。法眼大悟元來這不知却親切。臨濟問洛浦甚處來。浦云。欒城來。濟云。有事相借問得否。浦云。某甲不會。濟云。打破大唐國。覓箇不會底不得。臨濟常用殺人刀。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2004.xml",
+     "masterName": "Wansong Xingxiu"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0037",
+   "rowSha": "d5052a3d282f0ecf18f89af59828ef99faabdc9b9ef68fc8ff935231dc9ec496"
+  },
+  {
+   "entry": "t_5452569f1034",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "若不信之人。對面千里",
+   "removedKwic": "故此一心法門。如鏡頓現。不待次第。如印頓成。更無前後。一見一切見。一聞一切聞。不俟推尋。若待了達而成。皆為權漸。若能觀於心性之一。則是一道甚深。即正道之一。是唯一之一。千佛同轍。今古不易之一道也。亦云一路涅槃門。亦云一道出生死。又名大佛頂首楞嚴王具足萬行。十方如來一門超出。妙莊嚴路。猶如百華共成一蜜。故知萬法同會斯宗。若諦了之。一切在我。昇沈去住。任意隨緣。示聖現凡。出生入死。變化難測。運無作之神通。隱顯同時。闡如幻之三昧。是非冥合。逆順同歸。語默卷舒。常順一真之道。治生產業。不違實相之門。運用施為。念念而未離法界。行住坐臥。步步而常在其中。若不信之人。對面千里。如寒山子詩云。可貴天然物。獨一無伴侶。促之在方寸。延之一切處。汝若不信受。相逢不相遇。如明達之者。寓目關懷。悉能先覺。若未遇之子。可以事知。舉動施為。未甞間斷。如蔡順。字君仲。以孝聞。順少孤。養母。常出求薪。有客卒至。母望順不還。乃嚙其指。順即心動。棄薪馳歸。跪問其故。母曰。有急客來。吾嚙指以悟汝耳。又唐裴敬彝。父為陳王典所殺。敬彝時在城。忽自覺。流涕不食。謂人曰。我大人凡有痛處。吾即不安。今日心痛。手足皆廢。事在不測。遂歸覲。父果已死。又唐張志安。居鄉閭稱孝。差為里尹。在縣忽稱母疾急。縣令問。志安曰。母有疾志安亦病。志安適患心痛。是以知母有疾。令拘之",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2016.xml",
+     "masterName": "Yongming Yanshou"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0038",
+   "rowSha": "b2f0efefc92cf10d526100a4ad816caef0e1de68243a60dcc0acb6ec36086243"
+  },
+  {
+   "entry": "t_5452569f1034",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "佇思停機，對面千里",
+   "removedKwic": "則不懺罪而罪滅河沙，越化城而便登寶所。秪如應物無私，甚處見他端的？即是錦衣公子貴，林下道人高。」復舉：「三祖僧粲大師問二祖云：『弟子身纏風恙，乞師懺罪。』祖云：『將罪來，與汝懺。』粲云：『覓罪性了不可得。』祖云：『與汝懺罪竟。』大眾！古人拔出眼中屑，抽卻腦後釘，雖證得罪福皆空，視身無我，撿點將來，未免猶在半途。今者座前陳公子入山飯僧，請法懺罪，誓明生死大事，冀其進道無魔，且喜身力強壯，氣宇如王，既無罪性可覓，山僧亦不好肉剜瘡，豈不出他古人頭地？為甚如此？端坐受供養，施主常安樂。」除夕，小參。拈拄杖，云：「結交頭，一句子，和盤托出來，不惜拖泥水。佇思停機，對面千里，快鷂俊鷹趁不及，迅雷豈待掩雙耳？」復卓一卓，云：「急薦取，知音何用頻為舉？」元旦，自覺監院募供法衣至，上堂。乃云：「元正啟祚，慶無不宜，衣好是新底，人好是舊底，老盧把住曹溪後，須信人人總有之。大功不宰，大化無為，拈來不費纖毫力，不是苦心人不知。」解制，上堂。「結卻布袋，何處叫屈？更待解開，還遭活埋。不結不解是活埋，不去不住是活埋。踏翻關捩子，透過祖師關，猶是堆上見堆，土上添土。要識山僧落處麼？從來不打禾山鼓。」一揆禪師語錄卷四終一揆禪師語錄卷五嗣法門人成定等編住潭州神鼎資聖禪寺四住潭州神鼎資聖禪寺昱林禪徒廣東募鑄千僧大鍋，到山啟建華嚴勝會，巴陵張仲公開",
+   "coveredBy": [
+    {
+     "relPath": "J/J37/J37nB388.xml",
+     "masterName": "Yikui Yuankui"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0039",
+   "rowSha": "1230184c7d86808f31aa2cc4871902e6dfd7748237e7b372115dae04add4a9f4"
+  },
+  {
+   "entry": "t_5892b09b6e92",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "認定盤星",
+   "removedKwic": "趙州在什麼處。為什麼却教人護惜。五祖先師當說道。垂手來似過爾。爾作麼生會。且道。作麼生是垂手處。識取鉤頭意。莫認定盤星。這僧出來。也不妨奇特。捉趙州空處。便去拶他。既不在明白裏。護惜箇什麼。趙州更不行棒行喝。只道。我亦不知。若不",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0040",
+   "rowSha": "185f27584b18e353bc9c21fe1d3b09cbd1802c5be4c15bb63a0212d36d187098"
+  },
+  {
+   "entry": "t_5892b09b6e92",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "認定盤星",
+   "removedKwic": "來即不問，如何是一色？』淵云：『目前無闍黎，此間無老僧。』僧云：『既不如是，如何曉會？』淵云：『領取鉤頭意，莫認定盤星。』」師云：「開山雖為慈悲之故，要且熱瞞者僧。山僧則不然，或有問：『如何是一色？』但向他道：『龍蛇混雜，凡聖交",
+   "coveredBy": [
+    {
+     "relPath": "J/J37/J37nB388.xml",
+     "masterName": "Yikui Yuankui"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0041",
+   "rowSha": "f2ab75d2640a04dcd7b3264946dca6d89786450ba5469baa17023d81c82c5429"
+  },
+  {
+   "entry": "t_58b2886dbb1b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "一生參學事畢",
+   "removedKwic": "此四句內，有一句能縱、能奪、能殺、能活，有人簡點得出，一生參學事畢。",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB177.xml",
+     "masterName": "Poshan Haiming"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0042",
+   "rowSha": "31afb3246fc38df581725453da1bf48068d355daf3b8036dd6924bdb55820dbd"
+  },
+  {
+   "entry": "t_58b2886dbb1b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "一生參學事畢",
+   "removedKwic": "者裏勘破得來，一生參學事畢。",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0043",
+   "rowSha": "e4bb7e7a1d9eab07a68045f6f81926ee59b9f85ef3afe79265bee22dc698affa"
+  },
+  {
+   "entry": "t_5ba8bf9d83f2",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "天龍一指",
+   "removedKwic": "機溼梁山袈裟。笑俱胝受用天龍一指，怪飲光微笑漏泄鷲嶺，拈",
+   "coveredBy": [
+    {
+     "relPath": "J/J25/J25nB154.xml",
+     "masterName": "Wei'an Deran"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0044",
+   "rowSha": "9e47925df113fe10290a6342892f40744bf0cd9791e27f5862b6fd870c3c6b01"
+  },
+  {
+   "entry": "t_5ba8bf9d83f2",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "天龍一指",
+   "removedKwic": "然，莫將學解為知解，始信天龍一指禪。示涂居士示涂居士頑石",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB177.xml",
+     "masterName": "Poshan Haiming"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0045",
+   "rowSha": "ebc8206906ed2d20391f81760516116a33b2c63b451ef08a8f64d1f43d38c649"
+  },
+  {
+   "entry": "t_5bc3a00e975d",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "更進一步",
+   "removedKwic": "萬法為侶，敢保筭渠不著。更進一步，別有一人在。」良久，顧",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB299.xml",
+     "masterName": "Hanyue Fazang"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0046",
+   "rowSha": "ffca91a0b62c5e55bb99d33901d0b262e6e7121daf8b9e521e5b439de7c8cdae"
+  },
+  {
+   "entry": "t_5bc3a00e975d",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "更進一步",
+   "removedKwic": "徑山杲云：要見長沙，還須更進一步。",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": "Dahui Zonggao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0047",
+   "rowSha": "6e4b146497b5473517dad24e62484ee4eec58060eb17d8b896f19cd8dafe9996"
+  },
+  {
+   "entry": "t_5da65e2989a0",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "夏末",
+   "removedKwic": "問初秋夏末前程忽有人問如何秪對",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0048",
+   "rowSha": "1a15cb7657a170211f33e8c44708062483f77e77cc7a5e8e65d568cbcea347f1"
+  },
+  {
+   "entry": "t_5da65e2989a0",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "夏末",
+   "removedKwic": "上堂舉洞山云。初秋夏末。或東或西。直須向萬里無寸草處去。良久云。祇如萬里無寸草處。又作麼生去。後僧舉問石霜。霜云。出門便是草。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2001.xml",
+     "masterName": "Dongshan Liangjie"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0049",
+   "rowSha": "b7e4e0b9563d3005d0bf82d0d93921194c16b1e81e4a7ab54ee085e15695651f"
+  },
+  {
+   "entry": "t_5fc9c3f10015",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "鐵壁",
+   "removedKwic": "裏一肩荷負得去。便可喚火爐作古鏡喚古鏡作世界。都無異致。如其未爾。火爐與古鏡。世界與話頭。相違不止三千里。何以如此。蓋能所分別作障礙。覿體如銀山鐵壁之堅。只此便是生死輪回根本。故楞嚴謂。根塵同源縛脫無二。識性虛妄猶若空華。由塵發知因根有相。相見無性同於交蘆。這裏無儞動步處。無儞著眼處。昔安楞嚴讀到知見立知即無明本知見無見斯即涅槃。",
+   "coveredBy": [
+    {
+     "relPath": "B/B25/B25n0145.xml",
+     "masterName": "Zhongfeng Mingben"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0050",
+   "rowSha": "b70f6cc56494fbddbc4eee289eb9898b8117fcfb02c5ae747e343635198c828b"
+  },
+  {
+   "entry": "t_5fc9c3f10015",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "鐵壁",
+   "removedKwic": "義庵上堂。師陞座云：「靈機未動，十方剎海冷沉沉；智境纔彰，覿面當陽明歷歷。寸絲不挂，何妨戒定慧以薰修；不立一塵，豈礙萬象森羅而依附。孤迥迥，穿過鐵壁銀山；峭巍巍，透徹金輪水際。其大也，包括虛空；其細也，纖毫無間。坐斷千差路，掃除凡聖名。若能直下承當，始信本來是佛。」遂豎拂云：「會麼？蒼蒼弁嶽摩今古，新新花柳醉遊人。」下座。問荅不錄",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB188.xml",
+     "masterName": "Ruibai Mingxue"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0051",
+   "rowSha": "e5b71e7fd3c404c957bd035c5b63887b6be12d4bb71d5d6d88b2791aa2aff927"
+  },
+  {
+   "entry": "t_5fd1f5818029",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "單刀直入",
+   "removedKwic": "石季玉送關帝像入山，請上堂。豎起拂子，喝一喝，良久，云：「十年磨一劍，霜刃未曾試，今日持贈君，誰有不平事？」喝一喝，云：「此事直須全身鎧甲、八面威風，大刀飛一片冰花、赤馬奮半空雲影，於八萬四千魔軍堆裏馘其酋首猶如拾芥。具如是操略，正好干城正法、震攝魔怨，俾天下太平，使蒼生安樂。還有如是操略者麼？出來道看。」僧纔出，師便喝，進云：「是何宗旨？」師又喝，進云：「單刀直入一句作麼生道？」師以杖旋風打散大眾，歸方丈。上堂。「茫茫宇宙，落落門庭，前不見古人，後不見來者，據個曲彔木床，日與山花水鳥閒訴衷腸，崖瀑松風激揚宗旨。汝諸人但只耳門有竅、眼裏有筋，物物頭頭，何非己分？」以拄杖卓一下，云：「收。」上堂。「唇封兩片皮，齒鍵三條楔，腦後拖舌頭，吐出三丈銕，一道寒芒射斗牛，萬里長江兩岸雪。不是，不是，一二三四五六七。古人曰：『耳朵兩",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB299.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0052",
+   "rowSha": "25f33dab58e263d1cf37fefe0f99cf919bb23afd8eb7406cc0c9b588b0f409b1"
+  },
+  {
+   "entry": "t_5fd1f5818029",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "單刀直入",
+   "removedKwic": "外，引水澆蔬五老前。」上堂。僧問：「銀牆銕壁時，如何是迷中悟？」師云：「你問遮箇繫驢橛作麼？」進云：「瓦解冰消後，如何是悟中迷？」師云：「劍去久矣，你方刻舟。」問：「學人生死不明，乞師一接。」師云：「莫妄想。」進云：「不會。」師云：「卻較些子。」僧禮拜，師便打，乃云：「聰明不了生死，乾慧難脫苦輪。若不真參實悟，打脫業識根由，總無自由分。汝等無論久參初學，皆須單刀直入，掃蕩攙搶，方見太平基業。若只向心窩裏想、本子上尋，以當參學，正如南行北轍，愈行愈遠，生死到來方知不實。近時有一等禪和子，不信真參實究，不是向見聞知覺上認住，便是向無為無事內困著，甚至慣習機鋒，胡談亂作，種種邪謬。病僧久病無力，又舌頭生瘡，不能一一詳舉，所以真實告報諸人道：見聞知覺決定不是，行住坐臥決定不是，坐禪入定決定不是，寒向火、熱乘涼，看孔著楔、捨短從",
+   "coveredBy": [
+    {
+     "relPath": "J/J33/J33nB280.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0053",
+   "rowSha": "4642d12aadffb0aca46cf43474778bb226ba05060ef6a2d5b43b18110f6c75d4"
+  },
+  {
+   "entry": "t_5fd1f6f01c88",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "抽顧",
+   "removedKwic": "生老上不見天下不見地塞却咽喉何處出氣𥬇我者多哂我者少喪時光藤林荒󲅭人意滯肌尫舉不顧即差互擬思量何劫悟咄咄咄力韋希禪子訝中眉𡸁抽顧頌",
+   "coveredBy": [
+    {
+     "relPath": "D/D48/D48n8939.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0054",
+   "rowSha": "11098f497c11a4fe7750715aae1a9c22c32902811cd3b7dc08bcc9f237245f03"
+  },
+  {
+   "entry": "t_5fd1f6f01c88",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "抽顧",
+   "removedKwic": "纖毫修學心這箇喚作全是全不是全是時如何雲門大師有箇顧鑑咦這箇便是擊石火閃電光底祖宗後來雲門見學者去顧字上作道理遂除却顧字謂之抽顧真淨和尚有頌云雲門",
+   "coveredBy": [
+    {
+     "relPath": "M/M59/M59n1540.xml",
+     "masterName": "Dahui Zonggao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0055",
+   "rowSha": "e929185ef566cb071300e75a13b008a9c14867377e2e35e3475a687ae2dff28b"
+  },
+  {
+   "entry": "t_63db926ae33c",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "牛頭橫說竪說猶未知向上關捩子",
+   "removedKwic": "此意方名出家兒方好修行若不信云何明上座走來大𢈔嶺頭尋六祖六祖便問汝來求何事為求衣為求法明上座云不為衣來但為法來六祖云汝且蹔時斂念善𢙣都莫思量明上座乃稟言六祖云不思善不思𢙣正當與麼時還我明上座父母未生時面目來明上座於言下忽然默契便禮拜云如人飲水冷暖自知某甲在五祖會中枉用三十年功夫今日方知不是六祖云如是到此之時方知祖師西來直指人心見性成佛不在言說豈不見阿難問迦葉云世尊傳金襴外別傳何法迦葉召阿難阿難應諾迦葉云倒却門前剎竿著此便是祖師之標牓也甚生阿難三十年為侍者只為多聞智慧被佛呵云汝千日學慧不如一日學道若不學道滴水也難消夫出家人湏知有從上來事分始淂且如四祖下牛頭橫說竪說猶未知向上關捩子有此眼目方辨得邪正宗黨且當人事冝不能體會得但知學言語念向皮袋裏安著到處稱我會禪還替得汝生死麼輕忽老宿入地獄如箭我纔見汝入門來便識得了也還知麼急湏努力莫容易事持片衣口食空過一生明眼人笑汝久後捴被俗漢筭將去在冝自看遠近是阿誰面上事若會即便會若不會即散去󳏃重。問如何是西來意師便打自餘施設皆被上機中下之流莫窺涯涘。唐大中年終於本山諡斷際禪師塔曰廣業。古尊宿語錄卷第三密三古尊宿語錄卷第四密四黃檗斷際禪師宛陵錄黃檗斷際禪師宛陵錄丞相裴公問曰山中四五百人幾人得和尚法師云得者莫測其數何故道在心悟豈在言說言說秪是化童蒙耳問如何是佛師云即心是佛無心是道但無生",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Huangbo Xiyun"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0056",
+   "rowSha": "9abd312f7ecafd68ae3f9189c3cb85bce8059d6385b075b871a43d6b6e5c4153"
+  },
+  {
+   "entry": "t_63db926ae33c",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "三乘十二分教橫說竪說",
+   "removedKwic": "歷掌。進云。如何是默時說。師云嗄。進云。不默不說時如何。師將棒趁問如何是雲門劍。師云祖。問如何是諸佛出身處。師云。更請一問。問如何是露地白牛。師云。覿機無改路。進云。放著什麼處。師云。再舉不逾塵。問如何是塵塵三昧。師云。桶裏水鉢裏飯。問如何是一如體玄。師云。欠爾一問。問如何是玄中的。師云𡎺。進云。如何即是。師云。速退速退。妨他別人問。問如何是非思量處。師云。識情難測。問鑿壁偷光時如何。師云恰。問一言道盡時如何。師云裂破。進云。和尚作麼生下手拈掇。師云。拈取糞箕掃󰆠來。問如何舉唱即得不負來機。師云。道什麼。進云。還可來意也無。師云。且緩緩師云。三乘十二分教橫說竪說。天下老和尚縱橫十字說。與我拈針鋒許說底道理將來看。與麼道早是死馬醫。雖然如此。且有幾箇到此境界。不敢望爾言中有響句裏藏鋒。瞬目千差風恬浪靜。伏惟尚饗。問如何是透法身句。師云。北斗裏藏身。問如何是本來宗。師云。不問不答。問如何是三界唯心萬法唯識。師云。我今日不答話。進云。為什麼不答話。師云。驢年會麼。問如何是吹毛劍。師云骼。又云胔。問如何是內外光。師云。向什麼處問。學云。如何明達。師云。忽然有人問爾。作麼生道。進云。明達後如何。師云。明即且置。還我達來。問如何是切急一句。師云吃。問如何是本來心。師云。舉起分明。問如何是衲僧孔竅。師云。放過一著。進云。請師",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1988.xml",
+     "masterName": "Yunmen Wenyan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0057",
+   "rowSha": "d30b8cd1a67705743033a8ce11b4563ff1685d6d0b4083359078fdcca64e7cbd"
+  },
+  {
+   "entry": "t_63db926ae33c",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "四十九年三百餘會，橫說竪說，費盡口業，終說不到",
+   "removedKwic": "蔣山相聚，自念頭腦不相似，何日得一度牒為僧，以陪廣眾？遂以此意白寶公，庶祈加護。若遂此心，必為蔣山之徒弟。山僧是時適丁旱澇眾少，遂令其入僧堂辨道，其純一無雜，視聽言動無一絲毫不在規矩繩墨之中，雖久歷叢林者，未必如是之專也。山僧亦欲為募緣助成其志，但以旱澇相仍，忍飢不暇，未暇及此，是其用意之專，所以諸聖加護。一旦得三道度牒，遂拈鬮卜受業之所，果拈得蔣山，盖不忘寶公之力也。今晚小參，意欲山僧提持為僧之本末，只如曩時發足南方見尊宿辨此事，且喚什麼作此事？又如何辨？然此事人人本有，各各圓成，不論僧之與道、聖之與凡，無一人不具此事者。是故釋迦老子四十九年三百餘會，橫說竪說，費盡口業，終說不到。末後於百萬大眾中拈一枝花普示大眾，獨有迦葉一人破顏微笑，便與他著一箇名字云：吾有正法眼藏、涅槃妙心，分付摩訶大迦葉。且道正法眼藏、涅槃妙心是箇什麼？便是當日德言做道士時便知有此事底一念，必要為僧以陪廣眾底一念，亦是如今各各當人即今在此挨肩並足立地聽山僧東語西話底一念。此念若明，超凡入聖正在茲時；此念不明，隨物流轉無有了日。迦葉是此一念明底人，釋迦老子遂乃分付正法眼藏、涅槃妙心，且道是有分付無分付？若道有分付，屈辱迦葉尊者；若道無分付，辜負釋迦老子。這裏須是自家一念洞明，分付不分付自然分明，不著問人。所以達磨大師自西天航海而來，向少室",
+   "coveredBy": [
+    {
+     "relPath": "X/X70/X70n1376.xml",
+     "masterName": "Chijue Daochong"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0058",
+   "rowSha": "65ef16a705899795e60d210b1123e9868a5f36ad8e2019ed8b3fc87305d24091"
+  },
+  {
+   "entry": "t_6ab54c86eefc",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "來老僧處受具足戒",
+   "removedKwic": "殊不知貴亦如是，蓋生死貴賤如夢、如幻、如影也，直是就中隱隱濃濃一點靈光不昧，與生死際頭一點用不著，者要分曉得明白。且道者著子分曉處作麼話會？試參看。示含章張夫人示含章張夫人此事只要信得及、把得住，二六時中，茶裏、飯裏，一切處看是阿誰主張。此處看得破，當下無生死可怖，直到那不疑之地，亦無男女相拘、亦無聖凡見隔，淨盡無餘，正好作福以作資糧，漫道老僧又在打妄想也。示尼發聞示尼發聞道本無言，因言論道。然而「道」之一字猶是強立，且所學非朝夕，志在恒遠，則不期然而然，自是與道符合，契取本來面目也。示尼佛然示尼佛然此佛然者，乃吾鄉人也，幸出俗為尼，有志於道，來老僧處受具足戒，臨行欲老僧法語，非老僧吝慈，誠恐道力未堅，況有夫君兒子為累。若必欲老僧一言嘉志，老僧何敢辭之？只有兩句現成公案。何也？三醉岳陽人不識，一朝迥出萬人頭。示尼性空示尼性空出家為尼，務要形端影直，既是千不能、萬不能，正好靜地裏討箇分曉，看是阿誰。行住坐臥中畢竟是誰主張？忽地看破，始信師姑原是女人做。示尼惺惺示尼惺惺人生天地間，若賢、若愚，所貴忠孝有節，即是聖賢不墜之命脈也。試問：二六時中存心向道，覷破此箇關頭，佛也不要做，何況賢良節乎！勉之。示尼若蓮示尼若蓮百華中惟蓮華為最，所喻大道坦平，令一切人行履得若蓮華出自污泥而不染者是也，即成佛克果不二也。勉之。示尼",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB177.xml",
+     "masterName": "Poshan Haiming"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0059",
+   "rowSha": "b0ddf953ec9a994e0decba6e4190ffec04d43e72525ce8a1601e80491b000493"
+  },
+  {
+   "entry": "t_6ab54c86eefc",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "三十五歲，薙髮，復往金粟密老和尚座下，受具足戒",
+   "removedKwic": "到來，將何作主？愁悶日增，以不能參請知識為愧。日夜精勤，長跪佛前，願此生得成正果。父母止生師一人，惜如掌珠，誨勿茹齋。師于是絕飲食，父母憫之，方隨師意。其年二十六歲，參天慈老師，依慈行為師。三十一歲，父喪。三十三歲，往金粟參密老和尚。師問云：「那裏是我安身立命處？」老和尚云：「念汝遠來，放汝三十棒。」師禮拜退。自此以後，只體究「那裏是我安身立命？」亦無入頭處。終日悶悶不樂，自惜空過時光。三十四歲，喪母，決志出家。所有屋產衣飾等，一切俱捨。翁姑兄嫂，留師不住。父母墓傍，向有祠屋，師又增置數楹，棲身參究，立誓不往俗家。三十五歲，薙髮，復往金粟密老和尚座下，受具足戒。師問：「心如杲日時如何？」密云：「你曾悟麼？」師云：「實未究竟，求和尚慈悲開示。」密連打三棒，師禮拜退。往鹽官，參二宮慈菴老師，求開示。菴指參萬法歸一，一歸何處？久無入頭。菴云：「你因緣恐不在我處，可往金粟參石車和尚。」師從之，其年三十有六。粟問：「你一向作甚麼？」師云：「參萬法歸一。」粟云：「一歸何處？」師云：「不會，求和尚開示。」師打云：「你死了、燒了向何處安身立命？」師遂跪粟前討箇落處，粟連打云：「今日畢竟要你還我落處。」師云：「我實不會。」粟云：「你是箇靈利漢，有甚不了？」師云：「只是不會。」粟云：「你參父母未生前本來面目去。」師領話，又參一年",
+   "coveredBy": [
+    {
+     "relPath": "J/J28/J28nB210.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0060",
+   "rowSha": "8675f8e2da1e898459546ae388688ac98f596681de976ad6a1d3739fa87b176c"
+  },
+  {
+   "entry": "t_a455e3a0586b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "此子向後若有箇住處",
+   "removedKwic": "此子向後若有箇住處，近山無柴燒，近水無水喫。",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1297.xml",
+     "masterName": "Guishan Lingyou"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0061",
+   "rowSha": "19755f211a73221b4b6f3f27a19fe7d1ee655292f84abc85f1c0fe02122a9b63"
+  },
+  {
+   "entry": "t_b5754435ca0e",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "本體如然",
+   "removedKwic": "無事坐何曾有人喚。向外覓功夫總是癡頑漢。糧不畜一粒逢飯但知𭚜。世間多事人相趁渾不及。我不樂生天亦不愛福田。饑來喫飯困來即眠。愚人笑我智乃知焉。不是癡鈍本體如然。要去即去要住即住。身披一破衲脚著孃生袴。多言復多語由來反相誤。若欲度眾生無過且自度。莫謾求真佛真佛不可見。妙",
+   "coveredBy": [
+    {
+     "relPath": "T/T51/T51n2076.xml",
+     "masterName": "Nanyue Lanzan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0062",
+   "rowSha": "ae6a87b8b4d589d88d0bd76191b98c395ba90f6c743ede5c757d5f4fc381c668"
+  },
+  {
+   "entry": "t_b5754435ca0e",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "本體如然",
+   "removedKwic": "滿肚。內除戒律精嚴，不學威儀行步。三乘笑我無能，我笑三乘謾做。智人權立階梯，大道本無迷悟。達者不假修治，不在能言能語。披麻目視雲霄，遮莫王侯不顧。道人本體如然，不是知佛去處。生也猶如著衫，死也還同脫袴。生死無喜無憂，八風豈能驚怖。外相猶似癡人，肚裏非常峭措。活計雖無一",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1298.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0063",
+   "rowSha": "fd4f6104457733b1bcfdf2f5f81bf1f4a9ee2b40aff57114eb52d2e69bf50181"
+  },
+  {
+   "entry": "t_b5754435ca0e",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "本體如然",
+   "removedKwic": "湖和尚一日點淨後不赴堂，遂入方丈裏睡。齋後，知事來白云：和尚何不赴堂？鵝湖云：莊上喫油糍來。晚閒，莊主到，云：今日謝和尚喫油糍。大眾！為復是師通妙用，本體如然，平地上剛然揑怪？既不與麼，又作麼生？良久，云：者箇公案一任天下人批判，保寧也無神通妙用，亦無宿命。他心院在江",
+   "coveredBy": [
+    {
+     "relPath": "X/X69/X69n1350.xml",
+     "masterName": "Baoning Renyong"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0064",
+   "rowSha": "3faf1b50e3d9ffa9b9aac43f3b848683805957d17f351c7923c3d66ece295a2d"
+  },
+  {
+   "entry": "t_461377f9b1da",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "僧問：覿面相逢處，如何顧鑒咦？乞師垂半偈，免使後人疑。",
+   "removedKwic": "僧問：覿面相逢處，如何顧鑒咦？乞師垂半偈，免使後人疑。",
+   "coveredBy": [
+    {
+     "relPath": "J/J24/J24nB138.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0065",
+   "rowSha": "904894099697ae08d3e945755c83736f3c617751b921337e9cbd4ea38294ea9f"
+  },
+  {
+   "entry": "t_b5aef6159856",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "轉身處",
+   "removedKwic": "若無透關底眼轉身處。到這裏灼然不柰何。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0066",
+   "rowSha": "a1bae8c44f944714497908264281f14662dbd53ff6ba00f65fe4f6a9e136be1b"
+  },
+  {
+   "entry": "t_b5aef6159856",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "轉身處",
+   "removedKwic": "如何是立乾坤底句。師曰。北俱盧洲長粳米。食者無貪亦無瞋。乃曰。將此四轉語驗天下衲僧。纔見你出來。驗得了也。問。如何是學人著力處。師曰。嘉州打大像。曰。如何是學人轉身處。師曰。陝府灌鐵牛。曰。如何是學人親切處。師曰。西河弄師子。乃曰。若人會得此三句。已辯三玄。更有三要語在。切須薦取。不是等閑。與大眾頌出。三玄三要事難分。得意忘",
+   "coveredBy": [
+    {
+     "relPath": "X/X80/X80n1565.xml",
+     "masterName": "Fenyang Shanzhao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0067",
+   "rowSha": "4e92eb28077620685684aaddb26105494083e04f024d8310e0f7082e10df612a"
+  },
+  {
+   "entry": "t_b5aef6159856",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "轉身處",
+   "removedKwic": "如瓶瀉，只是閙熱門庭在你諸人分上料掉沒交涉。豈不見道：言無展事，句不投機；承言者喪，滯句者迷。擬心即差，動念即乖；不擬不動，立地死漢。故我祖師門下驀劄相逢，無你轉身處；據令而行，無你開口處。跨一步去，銕壁銀山；眨得眼來，電光石火。三世諸佛現前，也只得望崖而退。若是箇生銕鑄就底漢，等閑一擲，抹過太虗，直得南山鱉鼻吞却東海鯉魚、",
+   "coveredBy": [
+    {
+     "relPath": "X/X70/X70n1403.xml",
+     "masterName": "Tianru Weize"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0068",
+   "rowSha": "e1c4d6742d8725aa59c84f0af879775559dccbd9f82eee625062c6fd95692bc1"
+  },
+  {
+   "entry": "t_baaf8fde82d2",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "此六相義。而法眼宗旨具也",
+   "removedKwic": "相也；法與無，兼同相也；無與法判，異相也；首尾輪轉，成相也；各各不到，壞相也。此六相義。而法眼宗旨具也。此所謂五宗攝於一偈，而四七二三之祖莫不了了於此者也。至于馬祖之時，人多情謂每墮文字，故大權方便有鐘樓上念讚、床腳",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB299.xml",
+     "masterName": "Hanyue Fazang"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0069",
+   "rowSha": "d80f712f832a28f7f612605060f47d269b62e5d15bd5219e712cb0cf2c5d558f"
+  },
+  {
+   "entry": "t_c100443a64c1",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "趙州不答話。不為人說。殊不知。當面蹉過。至道無難言端語端一有多種二無兩般天際日上月下檻前山深水寒髑髏識盡",
+   "removedKwic": "趙州不答話。不為人說。殊不知。當面蹉過。至道無難言端語端一有多種二無兩般天際日上月下檻前山深水寒髑髏識盡",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Xuedou Chongxian"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0070",
+   "rowSha": "905fa39e5f6c5864002cfb2f4236e8c9c731aaea096a1b89e0079178b770a1e8"
+  },
+  {
+   "entry": "t_c100443a64c1",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "故鄉田地，猶遭頂上一鎚。上堂：正月孟春猶寒，直下言端語端。拈起衲僧鼻孔，穿開祖佛心肝。知有者，達磨不來東",
+   "removedKwic": "故鄉田地，猶遭頂上一鎚。上堂：正月孟春猶寒，直下言端語端。拈起衲僧鼻孔，穿開祖佛心肝。知有者，達磨不來東",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0071",
+   "rowSha": "07a32ec5b908c206986214d74627084706aef4abd140410c6e035623a5761297"
+  },
+  {
+   "entry": "t_c212062774f9",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "舉趙州和尚一日趙王來不下禪床曰會麼王曰不會州曰自小持齋身已老見人無力下",
+   "removedKwic": "舉趙州和尚一日趙王來不下禪床曰會麼王曰不會州曰自小持齋身已老見人無力下",
+   "coveredBy": [
+    {
+     "relPath": "D/D48/D48n8939.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0072",
+   "rowSha": "a213ea9ff16ec44166d5331a6788118004af62a0ffcb2f05a3d7ba6fcd9202fc"
+  },
+  {
+   "entry": "t_c212062774f9",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "麻谷到參，繞禪床三匝，振錫而立",
+   "removedKwic": "麻谷到參，繞禪床三匝，振錫而立",
+   "coveredBy": [
+    {
+     "relPath": "X/X81/X81n1571.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0073",
+   "rowSha": "4803a59c95caf3967e753a6ed4f087ef914f56d214062daa2fc5683d786aabd2"
+  },
+  {
+   "entry": "t_c6d2394bc8f8",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "未有不依物出來底山僧向此間󴌰頭打手上出來手上打口裏出來口裏打眼裏出來眼裏打未有一箇獨脫出來底皆是上他古人閑機境山僧無一法与人祗是治病觧縛你諸方道流試不依物出來我要共你商量十年五嵗並無一人皆是依草附葉竹木精靈野狐精魅向一切糞塊上亂咬瞎漢枉消他十方信施道我是出家兒作如是見觧向你道無佛無法無修無證秪與麼傍家擬求什麼物瞎漢頭上安頭是你欠少什麼道流是你目前用底與祖佛不別秪麼不信便向外求莫錯向外無",
+   "removedKwic": "未有不依物出來底山僧向此間󴌰頭打手上出來手上打口裏出來口裏打眼裏出來眼裏打未有一箇獨脫出來底皆是上他古人閑機境山僧無一法与人祗是治病觧縛你諸方道流試不依物出來我要共你商量十年五嵗並無一人皆是依草附葉竹木精靈野狐精魅向一切糞塊上亂咬瞎漢枉消他十方信施道我是出家兒作如是見觧向你道無佛無法無修無證秪與麼傍家擬求什麼物瞎漢頭上安頭是你欠少什麼道流是你目前用底與祖佛不別秪麼不信便向外求莫錯向外無",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Linji Yixuan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0074",
+   "rowSha": "0cdb3f8df93a255aac712f82816f0de4c61d64b7984586e596b80f8466e4365f"
+  },
+  {
+   "entry": "t_caee400e45ce",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "上堂良久云鈍置殺人便下座代云不獨因看誌公頌問僧半夜子心住無生即生死古人意作麼生代云不可揔作野狐精見解也或云古人道人人盡有光明在看時不見暗昬昬作麼生是光明代云廚庫三門又云好事不如無。",
+   "removedKwic": "上堂良久云鈍置殺人便下座代云不獨因看誌公頌問僧半夜子心住無生即生死古人意作麼生代云不可揔作野狐精見解也或云古人道人人盡有光明在看時不見暗昬昬作麼生是光明代云廚庫三門又云好事不如無。",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Yunmen Wenyan"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0075",
+   "rowSha": "7af65a95d7275975f27f6b6cdc7c78b3024eb9e2667987f2ef88686c4dfa530f"
+  },
+  {
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "si": 2,
+   "aidx": 1,
+   "removedClaimText": "Yongming Yanshou treatise says to proceed toward it",
+   "removedKwic": "觀若險崖。深生怖畏。正趣中道",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2016.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0076",
+   "rowSha": "029a8449f3173b783ab00909eb8f7990abdd0a2fc6c8c9ae373a0b5bde569768"
+  },
+  {
+   "entry": "t_cccc25e4103f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "Yuanwu Keqin compares the phrase with a mirror",
+   "removedKwic": "一點也瞞他不得。這箇却不是世諦情見。如明鏡當臺。明珠在掌。胡來胡現。漢來漢現。是他知有向上事。所以如此。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2003.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0077",
+   "rowSha": "ca35a5e1c01d5890e26bd9cbe5225c1c4b0d506cad47824d2ca2ae0cd4791473"
+  },
+  {
+   "entry": "t_cccc25e4103f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "Yuanwu Keqin verse uses it as a reward formula",
+   "removedKwic": "作麼生。但願春風齊著力。一時吹入此中來。復頌云。明珠在掌。有功者賞。長老新入院。都盧無伎倆。不立趙州關。",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1997.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0078",
+   "rowSha": "c8d62c758799e47d1b16b8b490ab1e7b1c85d22ee46722854b9ede2df5483043"
+  },
+  {
+   "entry": "t_cccc25e4103f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "Shuzhong Wen uses it for colors cast on what appears",
+   "removedKwic": "喚作釋迦老子，一舉四十九。恕中慍禪師佛誕，上堂：明珠在掌，隨眾色以分輝；寶月當空，逐千江而現影。拈拄杖：",
+   "coveredBy": [
+    {
+     "relPath": "X/X64/X64n1260.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0079",
+   "rowSha": "834eb27735092cb8868843b7e4211d635f2b9ec9e43d84fdb711fb9eb8bc62d7"
+  },
+  {
+   "entry": "t_cd0f1e101e57",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "Yunwai Xingze contrasts it with delay",
+   "removedKwic": "門便喝，未審還有為人處也無？」師云：「急走，急走。」僧云：「走後如何？」師打，云：「病鳥不離窠內死。」僧喝，師又打，乃云：「德山入門便棒、臨濟入門便喝，總是鹽湯止渴，無風匝匝之波，撩起便行還較些子。若是困魚止濼、病鳥棲蘆，翻成禍事。菩提門下總不與麼，人情若好，喫水也肥。汝等諸人還知渾身坐在水裏麼？」拈拄杖下座，打散，云：「選佛若無如是眼，宗風那得到于今？」授比丘戒，",
+   "coveredBy": [
+    {
+     "relPath": "J/J33/J33nB280.xml",
+     "masterName": "Yunwai Xingze"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0080",
+   "rowSha": "012020d107621b1654e7b3c847dabdd90de877e911913d46f508e5ed0ee2b005"
+  },
+  {
+   "entry": "t_cd0f1e101e57",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "Daxiu Zhu asks who can do it before the staff is raised",
+   "removedKwic": "為爾道破。」卓拄杖云：「者裡親薦取，獨步任西東。」示眾。僧纔出，師便打。又僧出，師云：「三十棒。」僧無語。師云：「蒼天！蒼天！」乃云：「拄杖子橫打豎打，不曾打著一個。還有向未拈棒前撩起便行底麼？」因侍者有省，示眾。師云：「禪不屬參，道不屬悟，佛亦不成，眾生不做。向這裡摸著鼻孔，一任隨緣放曠，任性逍遙，拗折拄杖，放下腰包。其或未然，一狐疑了一狐疑，江北江南問王老。」示",
+   "coveredBy": [
+    {
+     "relPath": "J/J27/J27nB192.xml",
+     "masterName": "Daxiu Zhu"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0081",
+   "rowSha": "1127d6f8378b12847d84758aee72e65dfa48307083f92bccb25bd1239b4b6f3d"
+  },
+  {
+   "entry": "t_ceacbd92cb86",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "a lecturer states that he lectures on the Diamond Sutra",
+   "removedKwic": "有座主來參次，師問：「作什摩事業？」",
+   "coveredBy": [
+    {
+     "relPath": "B/B25/B25n0144.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0082",
+   "rowSha": "bf443180bcbc6e4485d7ffdb910806500afb85e866e6db89881e256b9bd8124d"
+  },
+  {
+   "entry": "t_ceacbd92cb86",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "Mazu Daoyi asks what teaching the lecturer transmits",
+   "removedKwic": "師却問曰座主傳持何法",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Mazu Daoyi"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0083",
+   "rowSha": "160a8438dbef1d851619aaeb72bf6aa5356d087a2ef3c1588d3d18b6832cf4f1"
+  },
+  {
+   "entry": "t_ceacbd92cb86",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "Dahui Zonggao recalls Huike former office",
+   "removedKwic": "昔二祖大師元是箇座主",
+   "coveredBy": [
+    {
+     "relPath": "M/M59/M59n1540.xml",
+     "masterName": "Dahui Zonggao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0084",
+   "rowSha": "f678587098449bb8f430a6af6dbd85b1e428c5105e33de2dde8d4ca854333be6"
+  },
+  {
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "Yongming Yanshou treatise says to proceed toward it",
+   "removedKwic": "觀若險崖。深生怖畏。正趣中道",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2016.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0085",
+   "rowSha": "14fb6f95e7ba0f4f81c7328852a98125c1607c4e2b9267f44ecaa0b4dfdf6a73"
+  },
+  {
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "Baizhang Huaihai includes it among acquired learning",
+   "removedKwic": "學空平等中道煩惱",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Baizhang Huaihai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0086",
+   "rowSha": "01f1b49f6b422ad7c1dfd2681b8dd198a2be964231f7485afd1c41ce53b7e55b"
+  },
+  {
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 4,
+   "removedClaimText": "顧鑒咦",
+   "removedKwic": "師有時顧視僧曰：「鑒。」僧擬對之，則曰：「咦。」叢林因目師為顧鑒咦。",
+   "coveredBy": [],
+   "postSurvivorClaimTexts": [],
+   "rowId": "R0087",
+   "rowSha": "ac7e2254b5c9281427095264f896b156f6ac2eaa86b8a7596a812a900f0c1ba4"
+  },
+  {
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "Baozhi verse says not to cling to two sides or it",
+   "removedKwic": "不著二邊中道，翛然非斷非常",
+   "coveredBy": [
+    {
+     "relPath": "X/X83/X83n1578.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0088",
+   "rowSha": "dff7266a75631db116ecd5f12490644710acfadd348939d124b5c7ea895788c9"
+  },
+  {
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "si": 2,
+   "aidx": 1,
+   "removedClaimText": "Huineng biography uses it for stopping midway",
+   "removedKwic": "我求大法。豈可中道而止",
+   "coveredBy": [
+    {
+     "relPath": "X/X80/X80n1565.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0089",
+   "rowSha": "799a63b9e921e9d1112dd01e7fe96d5f9190df9d9e381c39e75f22d2ae2c27dd"
+  },
+  {
+   "entry": "t_cf0513be4012",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "Bodhidharma formula says the robe establishes the purport",
+   "removedKwic": "外付袈裟。以定宗旨。",
+   "coveredBy": [
+    {
+     "relPath": "X/X80/X80n1565.xml",
+     "masterName": "Bodhidharma"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0090",
+   "rowSha": "ee4ed665028c554f374f02a06e16ec564ba3da1a7e750dde3872f61e291b07bd"
+  },
+  {
+   "entry": "t_cf0513be4012",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "a biography says Huanglong purport was understood",
+   "removedKwic": "得悟黃龍宗旨",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0091",
+   "rowSha": "b0cbeaa2afd37d86b25cf4a136edae87447de55dad2ee8b9776b5cafae3d6fc4"
+  },
+  {
+   "entry": "t_cf0513be4012",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "Xu Fang uses it for a collected record",
+   "removedKwic": "乃集大成、乃定宗旨",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB311.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0092",
+   "rowSha": "cda714f91cf72c2ebe61a53834c1c99460451d396ed9e8198dd1fbce524826ae"
+  },
+  {
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "故叢林目之。曰一字關云。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2006.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": [
+    "顧鑒咦"
+   ],
+   "rowId": "R0093",
+   "rowSha": "8557c649c81519bc173a6282181aee4ba7d43463cf2b10f50d43ecb438a3e4e0"
+  },
+  {
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "",
+   "removedKwic": "有人透得此關，許他親見雲門。」頌：「一字關、一字關，何不成雙獨成單？",
+   "coveredBy": [
+    {
+     "relPath": "J/J29/J29nB244.xml",
+     "masterName": "Sanshan Denglai"
+    }
+   ],
+   "postSurvivorClaimTexts": [
+    "顧鑒咦"
+   ],
+   "rowId": "R0094",
+   "rowSha": "af325c4245f546640bb3a480698b50463134e97136fbe731b5e7a36f9d5bf1f8"
+  },
+  {
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "一字關頭透將來",
+   "removedKwic": "：『庭前柏樹子。』僧云：『某甲問祖師西來意，和尚何得將境示人？』趙州云：『我不將境示人。』僧又問：『如何是祖師西來意？』趙州復答云：『庭前柏樹子。』據趙州，見道真、擇法明，信手拈來，用得恰好，者僧用揀擇心隨波逐浪，當陽不薦，覿面蹉過。山僧今日忽有問：如何是祖師西來意？但答云：雨花堂上看繽紛。且道與古人相去多少？」卓拄杖下座。上堂，僧問：「向上機、格外句，拈置一邊，五家宗、端的意，請師舉似。」師云：「逐一問來。」僧云：「喫棒還拳未為英俊，生擒活捉固是作家，如何是臨濟宗？」師云：「一棒一條痕。」進云：「電光影裏穿針手，顧鑒咦中陷虎機，如何是雲門宗？」師云：「一字關頭透將來。」進云：「正偏回互當陽妙，展拓無私猶滯功，如何是曹洞宗？」師云：「明暗相參底時節。」進云：「聲前托出驗來機，師唱資酬盤走珠，鶖子滿慈難眨眼，呵呵笑倒赤鬚胡。如何是溈仰宗？」師云：「圓相暗機任人透。」進云：「萬象森羅，豁開正眼，青山滿目，獨露家風。如何是法眼宗？」師云：「人間無水不朝東。」進云：「宗旨已蒙師指示，覿面全提事若何？」師云：「金剛手裏八稜棒。」進云：「恁麼則信步行山嶽，贏得雨花新。」師云：「且顧腳跟。」乃云：「如何是道鬧浩浩，如何是道靜悄悄，靜悄悄底是為什麼猶有鬧浩浩，鬧浩浩底是為什麼猶有靜悄悄？到者裏，若要一動靜、泯參差，須是悟始得",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB178.xml",
+     "masterName": "Feiyin Tongrong"
+    }
+   ],
+   "postSurvivorClaimTexts": [
+    "顧鑒咦"
+   ],
+   "rowId": "R0095",
+   "rowSha": "407fe433c1d63d9c0a16e2d6d75d7e2133c52294ae2589928e05e08cba3e1c23"
+  },
+  {
+   "entry": "t_cf9506b17745",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "與師一言相契，下榻延之，名師庵曰妙喜。洎後再謁，且囑令見圓悟。師至天寧，一日，聞悟陞堂，舉：僧問雲門：如何是諸佛出身處？門曰：東山水上行。若是天寧即不然，忽有人問：如何是諸佛出身處？只向他道：薰風自南來，殿閣生微涼。師於言下，忽然前後際斷，雖然動相不生，却坐在淨躶躶處。悟謂曰：也不易，你得到這田地，可惜死了不能得活，不疑言句，是為大病。不見道：懸崖撒手，自肯承當。絕後再蘇，欺君不得。須信有這",
+   "coveredBy": [
+    {
+     "relPath": "X/X82/X82n1571.xml",
+     "masterName": "Yuanwu Keqin"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0096",
+   "rowSha": "ea65b4c12b4097400afcd814dcfd6981a1ff725713df6fa0cc3d13440813e4d4"
+  },
+  {
+   "entry": "t_cf9506b17745",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "",
+   "removedKwic": "通方過量人，非但吸盡東海水，猶把秦山一口吞。且道：東海水作麼生吸？秦駐山作麼生吞？大眾還會麼？鶴飛千丈雪，龍起一潭冰。」上堂。「施主一粒米，大如須彌山，若人不了道，披毛戴角還。」卓拄杖，云：「薰風自南來，殿角生微涼。」馬鳴菴，上堂。「本是無形，咸曰神靈；本是無聲，咸曰馬鳴。風來則草偃，水到則渠成，不假半點安排，寧許絲毫湊泊。伶俐漢領在言前、薦於機外，便知長安自鬧，我國晏然；脫或未能，山僧未免",
+   "coveredBy": [
+    {
+     "relPath": "J/J26/J26nB185.xml",
+     "masterName": "Fushi Tongxian"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0097",
+   "rowSha": "9dc26b2503a3a1382200324261c9b7de9daa702bedd62ab9c00ccf5af72b90e4"
+  },
+  {
+   "entry": "t_cf9506b17745",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "",
+   "removedKwic": "淺交涉。然雖如是，只如興化於大覺脫下衲衣，痛與一頓，言下悟得臨濟先師在黃檗處喫棒底道理又作麼生？玅觸宣明佛子住，遺身純覺拂蒿枝。」下座。上堂。師舉諸佛出身處話，云：「東山行水上，雲門坐斷千差；薰風自南來，佛果尋常一味。高峰道：『二老雖具頂門正眼，愨其本源，天地懸隔。』雖然，高峰也是填墨順朱，未解證龜成鱉。須知壁立萬仞處淨裸裸，平田淺艸裏峭危危，十字街頭相逢卻在千峰頂上握手，千峰頂上相逢卻在十",
+   "coveredBy": [
+    {
+     "relPath": "J/J34/J34nB300.xml",
+     "masterName": "Chaozong Tongren"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0098",
+   "rowSha": "feaa34d76b6f5b1da8d1302d9da1685cbfec40225c6d0ba7ee285dcfb04584c2"
+  },
+  {
+   "entry": "t_d055e572dc64",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "却回舉似師。師曰。汝更去問。待他有答。汝便噓兩聲。峯又去。依前問。石頭乃噓兩聲。峯又無語。回舉似師。師曰。向汝道石頭路滑。",
+   "coveredBy": [
+    {
+     "relPath": "X/X80/X80n1565.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0099",
+   "rowSha": "67be00e81df1f5fd9820b60a9fa2b315054f7e8c7aae81e610b2cfac375fe8f1"
+  },
+  {
+   "entry": "t_d055e572dc64",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "",
+   "removedKwic": "其僧到雪峯。一依前語祇對。峯曰。也須是趙州始得。問。如何是出家。師曰。不履高名。",
+   "coveredBy": [
+    {
+     "relPath": "X/X80/X80n1565.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0100",
+   "rowSha": "b5a189aa0d8f334094ae993633da67a0aa2cceefaef404c04a9d67d3910872e4"
+  },
+  {
+   "entry": "t_d055e572dc64",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "",
+   "removedKwic": "見性唯祇自心。認著依前不是。塵中世界無涯。",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1992.xml",
+     "masterName": "Fenyang Shanzhao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0101",
+   "rowSha": "9aaa41abb51144976c01aa266560bc403cd883591f91902dea0f6d36793e2c9b"
+  },
+  {
+   "entry": "t_d055e572dc64",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 4,
+   "removedClaimText": "",
+   "removedKwic": "眨眼滲漏，開口蹉過，計較不成，依前懡㦬。拘那含牟尼佛",
+   "coveredBy": [
+    {
+     "relPath": "X/X68/X68n1318.xml",
+     "masterName": "Zhenxie Qingliao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0102",
+   "rowSha": "782ce89f3789b1e3b06e33d08ec6a1e93999f58845b7c3351ab9debb2f2e9efc"
+  },
+  {
+   "entry": "t_d055e572dc64",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 5,
+   "removedClaimText": "",
+   "removedKwic": "喚爾作菩薩便歡喜。喚爾作賊漢便惡發。依前只是舊時人。",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1998A.xml",
+     "masterName": "Dahui Zonggao"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0103",
+   "rowSha": "a2bd17668c6ad595fe01f62e540a32bb8f16330f8aad84aa4e9ac76be175aff6"
+  },
+  {
+   "entry": "t_d076804616d6",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "嵩山安國師處來。祖曰：什麼物與麼來？師八年後，一日忽省，而告祖師曰：說似一物即不中。祖曰：還假修證否？師曰：修證即不無，只是不污染。祖曰：只遮",
+   "coveredBy": [
+    {
+     "relPath": "X/X78/X78n1556.xml",
+     "masterName": "Nanyue Huairang"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0104",
+   "rowSha": "9a7cd21be0bfc0f26ea0100d8d5acf9688d6d53344877cb6135ae58a5cd79304"
+  },
+  {
+   "entry": "t_d076804616d6",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "",
+   "removedKwic": "答云：「說似一物即不中。」祖云：「還假修證也無？」師云：「修證即不無，染污即不得。」祖云：「只此不污染，乃諸佛之所護念。汝既如是，吾亦如是！」得法後，侍祖一十五載，復居南嶽。頌：「甚麼物與麼來？退參",
+   "coveredBy": [
+    {
+     "relPath": "J/J29/J29nB244.xml",
+     "masterName": "Huineng"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0105",
+   "rowSha": "6c9d16eada3b01479faca3063e2d38bf184ad52c3af7e2edb2f0cd15b9087b52"
+  },
+  {
+   "entry": "t_d076804616d6",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "",
+   "removedKwic": "祖問讓和尚。甚麼處來嵩山安和尚處來。祖云。甚麼物恁麼來說似一物即不堪。祖云。還假修證也無。修證即不無。污染即不得。祖云。只此不污染。是諸佛之護念。汝善護持。因師顧問自何來。報道嵩山意不迴。修證即無",
+   "coveredBy": [
+    {
+     "relPath": "T/T47/T47n1992.xml",
+     "masterName": "Huineng"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0106",
+   "rowSha": "360d1ceb99d3086470eacf0223f0e2c1478e27cc05acdea9d01f19eb4d327018"
+  },
+  {
+   "entry": "t_d076804616d6",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 4,
+   "removedClaimText": "",
+   "removedKwic": "山會上有多端，立雪庭前無二致。甚麼物幾多般，見未分明莫浪傳。甞記寶方言道好，天非高大海非寬。說似一物即不中，多情不用眉毛動。修證即不無，污染即不得。丫角女子髮如銀，病中勘破維摩詰。即此不污染，是諸佛之所護念。粉碎虗空撲地來，百匝千重成一片。諸昆仲，既不似一物，畢竟似箇甚麼？有眼無耳朵，六月火邊坐。任是同胞生，也須更問過。更問過是甚麼？良久，卓拄杖云：拄杖子却辯得。佛誕日，",
+   "coveredBy": [
+    {
+     "relPath": "X/X72/X72n1435.xml",
+     "masterName": "Wuyi Yuanlai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0107",
+   "rowSha": "e61861fd13e8a55deb38acdb754261331e842426bcb15d3b3dc937c492562d49"
+  },
+  {
+   "entry": "t_d0e5e6e5d1ee",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "",
+   "removedKwic": "盡眾生界空，無有眾生名字，我乃發菩提心。薦福，懷云：臨危不變，真大丈夫。諸仁者！作麼生着得一轉語與黃面老子出氣？尋常神通妙用、智慧辯才都使不著，盡閻浮大地人無不愛佛，到者裏何者是佛？何者是魔？還有人辯得麼？良久，云：",
+   "coveredBy": [
+    {
+     "relPath": "X/X66/X66n1296.xml",
+     "masterName": "Tianyi Yihuai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0108",
+   "rowSha": "3d5e2193fb9fe44211712aabe0d330c8084f5fbeab2e3cafa7b852405564c2bb"
+  },
+  {
+   "entry": "t_d0e5e6e5d1ee",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "下得一轉語",
+   "removedKwic": "悟，作禮曰：某已脫野狐身，住在山後，敢乞依亡僧津送。師令維那白槌告眾：食後送亡僧。食後，師領眾至山後巖下，以杖挑出一死狐，乃依法火葬。司馬頭陀自湖南來，見師云：溈山奇絕，可聚千五百眾。師曰：老僧欲住，可乎？陀云：非和尚所住。師曰：何也？陀曰：和尚是骨人，彼是肉山，設居之徒不盈千。師曰：吾眾中莫有人住得不？陀曰：待歷觀之。師令侍者喚第一座來。師曰：此人如何？陀令謦欬，行數步，曰：此人不可。又令喚典座來，陀曰：此正是溈山主也。師是夜召祐入室，囑曰：吾化緣在此，溈山勝境，汝當居之，嗣續吾宗，廣度後學。時華林聞之曰：某甲忝居上首，祐公何得住持？師曰：若能對眾下得一轉語，出格當與住持。即指淨瓶問曰：不得喚作淨瓶，汝喚作什麼？華曰：不可喚作木揬。師不肯，乃問祐，祐踢倒淨瓶。師咲云：第一座輸却山子也。祐遂往焉。師作清規贊曰：出格胚腪，鈞陶巧匠。瘦骨稜稜玉削成，碧眸冏冏星流樣。脫野狐不昧因果。知歷代贊幾何罵幾何。鬪水鴨落盡便宜，走歸家哭一上笑一上。淨瓶踢倒，放山子，荷钁入千峯。拂子拈來，恠馬師，平地埋青嶂。一生鼻頭痛，刻骨冤，不易消融。三日耳朵聾，入心毒，卒難洗蕩。共游惡業蛟龍窟，子黃蘗，友龐公。同奪生獰虎兕胎，兄南泉，弟知藏。清規井井，深掘陷人坑。華胄繩繩，密布縵天網。䇿奇勛、不減叔孫通，與老臊胡作。萬古城池，阿誰近傍。趙",
+   "coveredBy": [
+    {
+     "relPath": "X/X78/X78n1554.xml",
+     "masterName": "Baizhang Huaihai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0109",
+   "rowSha": "4a52519fad2753a709ed95541edbb8fdcca6bfee53c30bd0e6ed9c654b565996"
+  },
+  {
+   "entry": "t_d0e5e6e5d1ee",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 3,
+   "removedClaimText": "",
+   "removedKwic": "云某甲於過去迦葉佛時曾住此山有學人問大脩行底人還落因果也無對云不落囙果墮在野狐身今請和尚代一轉語師云汝但問老人便問大脩行底人還落囙果也無師云不昧囙果老人於言下大悟告辝師云某甲已免野狐身住在山後乞依亡僧燒送師令維那白槌",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0110",
+   "rowSha": "85357dcc9f9e3187c184ffacde2f193a624bbbf803b8fd4f26f8170e1c8a77fe"
+  },
+  {
+   "entry": "t_eeb3c71567a1",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "歷五十暮而符其月日，僧臘以十計者四焉",
+   "removedKwic": "浮渡之鎮，而瀋邸不復南面朝釋子矣。師於紫柏老人後而未往，挂錫薊門，而紫柏示受王難，譸張之徒虎且域。招提大恐，師以空寂我國，晏然作書，抵吾家客部，用先讚嘆紫柏逆行方便，甚難希有！由斯以譚，師之親見紫柏久矣，而山陰錢經國所述兩公鍼芥之語，實傳聞於紫柏之門，知師者何必在弟子耶？居數月，受慈聖請，自寶塔徒居蘆溝之廣慈精藍大建。然師所懷來，故在浮渡。日夜欲有所會，以濟南轅。而慈聖將周三百六十甲子，眾請以首楞嚴法增上祝延，師躊躇數四若將弗克，至同分別業二種妄見，忽下座，告大眾曰：「緣盡矣。」以水灌掌，跏趺而逝，時乙巳之十二月二十四日也。距生乙卯，歷五十暮而符其月日，僧臘以十計者四焉。訃聞慈聖震悼，憫卹有加，賜金返靈骨，塔於浮渡妙高峰之南麓，從師志也。師嘗問蘭公：「和尚知是般事便休，何自苦？」蘭公云：「恁麼則法有住處矣。」師伏膺之。五載修般舟行，以刳正性而違現業，入草驀鼻念佛自呼，終其身脅罕至席。金谷安居，率眾長跽，以華嚴音聲漩澓觀察，而方山之論觸目會心，自是更喜修多羅藏。蘭風一句，不復作奇特想矣。師十二驅烏，十九行腳，三十年一聞家耗，還書慰喻諸法空幻，外了不及。私嘗為余言：今是昨非。相觀末後脫洒，有以也，百身可贖，絕塵而奔，以追六千比丘之鞭影，即彌勒樓閣，彈指立登，何論梵剎哉？初後住處皆曰華嚴，最初所事師、最後所囑大弟",
+   "coveredBy": [
+    {
+     "relPath": "J/J25/J25nB166.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0111",
+   "rowSha": "0c065a1aa0ca012aac26f29c95af743f702cd2b54de8bbbe2aa2ca8d6c6f5767"
+  },
+  {
+   "entry": "t_eeb3c71567a1",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 2,
+   "removedClaimText": "享年七十三歲，僧臘五十三",
+   "removedKwic": "於一簣者，幾希矣。由甲寅以迄辛酉，兵戈頻仍。師處寺中，恬淡如故，暴兵亦無所逞。曾計戊午春與諸同人應試入渝，與師同載。時渝水府宮僧酗酒無賴，師主其家，僧即斷飲茹蔬。或叩之，僧曰：「和尚在我家，何敢如舊時事？」茲非其善氣化暴之明驗歟？所可惜者，鑑物太明，以故不能容物。牛頭山之耕可開也，而法筵不自開；行徒可集也，而龍象不可集。是以支那無可譔述，惟存宗統頌若干則，集為一卷，大抵從木石課工之餘而得者。然其學其識，已可想見一斑矣。總之，師產於豐厚之家，財物無所吝，性甘淡泊，不以一毫自私，治平之成，成以此也。師生於天啟五年乙丑，卒於康熙三十六年丁丑九月，享年七十三歲，僧臘五十三。將卒之前二日，偶示微恙，忽索水沐浴，眾以天寒止之。次日五鼓，囑法屬畢，遂命侍書偈曰：「七十三年如露電，臨行一句阿誰薦？泥牛含月吸秋波，木馬嘶風吞素練。」良久，云：「鑑。」黎明，復問侍僧曰：「甚麼時候？」荅曰：「辰時。」師云：「昨日索浴，今日不洗了。」遂著衣端坐而逝。蓋其勇決之性，至臨終之時猶如此。余自童年來，忠謁鐵公於茅菴內，即師建之以迎鐵公者。迨後交遊日久，故能悉師之生平，然詞不雅馴，亦不能無掛漏處。茲因竺公之命，不敢以鄙陋辭，謹述其初終，如石大君子從而原書闕。",
+   "coveredBy": [
+    {
+     "relPath": "J/J40/J40nB484.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0112",
+   "rowSha": "078c6de44f26242b2445439549fabc7a632317f1b58da726851137d1bdea128a"
+  },
+  {
+   "entry": "t_fe8d4efe588f",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "見處",
+   "removedKwic": "見秖教汝不作佛見不落佛邊不作眾生見不落眾生𨓉不作有見不落有邊不作無見不落無邊不作凢見不落凡𨓉不作聖見不落聖𨓉但無諸見即是無𨓉身若有見處即名外道外道者樂於諸見菩薩於諸見而不動如來者即諸法如義所以云󳇐勒亦如也眾聖賢亦如也如即無生如即無滅如即無見如即無聞如來頂即圓亦無無圓無圓見故不落圓邊所以佛身無為不墮諸數權",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Huangbo Xiyun"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0113",
+   "rowSha": "2fbed4a0e818664d8ed8c27ffa8110769be8548ef8081d54df25bf09ef8afef4"
+  },
+  {
+   "entry": "t_ff59d753a7b1",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "逍遙",
+   "removedKwic": "如是則乃可逍遙山谷。放曠郊𮠔。遊逸形儀。",
+   "coveredBy": [
+    {
+     "relPath": "T/T48/T48n2013.xml",
+     "masterName": "Yongjia Xuanjue"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0114",
+   "rowSha": "97072dd8c50857e8289521a3c6457e9be4183bac95dbf2a587c4ee114ba13340"
+  },
+  {
+   "entry": "t_ff59d753a7b1",
+   "class": "anchor-remove",
+   "si": 2,
+   "aidx": 1,
+   "removedClaimText": "逍遙",
+   "removedKwic": "逍遙和尚逍遙和尚。一日師在禪床上坐。",
+   "coveredBy": [
+    {
+     "relPath": "T/T51/T51n2076.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0115",
+   "rowSha": "23c8cfbb1f81820fa5ae000ea3ff5b1b51274ce41baf1c2fa3db44e60bf8cb59"
+  },
+  {
+   "entry": "t_ff59d753a7b1",
+   "class": "anchor-remove",
+   "si": 3,
+   "aidx": 1,
+   "removedClaimText": "逍遙",
+   "removedKwic": "江西逍遙山懷忠禪師江西逍遙山懷忠禪師。",
+   "coveredBy": [
+    {
+     "relPath": "T/T51/T51n2076.xml",
+     "masterName": null
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0116",
+   "rowSha": "4f9a47ecaaaea30699621edd88dfcd88316694fe1a574ad5b4e46cd57404b73e"
+  },
+  {
+   "entry": "t_ff7bd0937cb0",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "有功者賞",
+   "removedKwic": "云當時入門便棒又作麼生師云莫謗他好進云秪如後代兒孫還有知恩報恩者麼師便打進云箇中若不知端的先宗那得到如今師打云有功者賞問仙客乘雲泛紫畿欣逢聖主話玄微五旬金殿垂恩重又許扁舟渡雪谿未審其中秘密還得大家知也無師云天高地厚進云雷音已震青霄外四海咸聞第一機師云日光月華進云秪如昔日波斯匿王問釋迦老子聖義諦中還",
+   "coveredBy": [
+    {
+     "relPath": "B/B27/B27n0152.xml",
+     "masterName": "Yulin Tongxiu"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0117",
+   "rowSha": "c98ee618944aabab68895c7a64f6927d5a5b63f80cba743f7fe4c722012d1745"
+  },
+  {
+   "entry": "t_ff91d085da8d",
+   "class": "anchor-remove",
+   "si": 1,
+   "aidx": 1,
+   "removedClaimText": "道得",
+   "removedKwic": "問依經觧義三世佛冤離經一字如同魔說時如何師云固守𨔝靜三世佛冤此外別求如同魔說馬祖令人馳書并醬三瓮與師師令排向法堂前乃上堂眾纔集師以拄杖指醬瓮云道得即不打破道不得即打破眾無語師便打破歸方丈。",
+   "coveredBy": [
+    {
+     "relPath": "C/C077/C077n1710.xml",
+     "masterName": "Baizhang Huaihai"
+    }
+   ],
+   "postSurvivorClaimTexts": null,
+   "rowId": "R0118",
+   "rowSha": "78b15bdfa9494e2d2439521499b6f642f8f735aeb3883ea72b55b049c426bced"
+  }
+ ]
+}

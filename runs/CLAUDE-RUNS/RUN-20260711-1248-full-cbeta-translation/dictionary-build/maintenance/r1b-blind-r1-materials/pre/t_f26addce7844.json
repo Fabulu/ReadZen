@@ -1,0 +1,203 @@
+{
+  "Id": "t_f26addce7844",
+  "SourceTerm": "入堂",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-20T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to enter the hall",
+      "AlternateTargets": [
+        "enter the assembly hall",
+        "come into the hall"
+      ],
+      "SearchAliases": [
+        "to enter the hall",
+        "enter the assembly hall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The expression describes entry into the hall as a formal communal setting. The surrounding record determines whether the entry is ceremonial, disciplinary, or ordinary.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a19",
+          "ToLb": "1113a28",
+          "Kwic": "報方丈客頭。先覆住持。次覆侍者。鳴方丈板三下鳴鼓。堂司行者預鳴眾寮前板三下。集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。頭首先集堂外候鼓鳴。即入堂。首座後入就坐。西堂勤舊蒙堂諸寮並外堂坐。住持於鼓初鳴。出寢堂坐。侍者問訊東立。行者問訊西立。轉鼓侍者往法座左側立候眾集。頭首下床。聖僧前問訊領眾出堂。至法座前。列一行問訊歸西序立。大",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source compiler",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In 勅修百丈清規 at 1113a19, the exact 入堂 graphs remain contiguous and the surrounding punctuation and predicate establish witness 1's local syntactic frame.",
+            "ReviewedBy": "Codex U3 full-case author",
+            "ReviewedUtc": "2026-07-20T10:20:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0626a21",
+          "ToLb": "0626b04",
+          "Kwic": "將入僧堂門，聖僧前燒香一炷，自下間至上間，巡堂一帀，歸被位。謂首座曾出世，先上間同住持者，非法。次覆住持坐禪，鳴方丈前板三下，詳緩與首座同。住持入堂，燒香一炷，巡堂一帀，歸位，兄弟方許起身抽脫。又須看上下肩位，或先起者，待回方可起身，免見單位空踈。近日兄弟置袈裟在被上，竟去閑處打雜，相習成風，深為痛借。堂中單位空者，住持、首座須當",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source compiler",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In 禪林備用清規 at 0626a21, the exact 入堂 graphs remain contiguous and the surrounding punctuation and predicate establish witness 2's local syntactic frame.",
+            "ReviewedBy": "Codex U3 full-case author",
+            "ReviewedUtc": "2026-07-20T10:20:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0524a18",
+          "ToLb": "0524a24",
+          "Kwic": "。大展三拜。收坐具。從首座位巡堂一匝。却到聖僧前問訊畢。於前門內南頰牀下版頭第三位次第而坐。維那依戒臘上牀曆訖。令行者箱內托祠部相隨入堂有處維那先於聖僧前燒香。新到起身牀前立。相問訊了。維那次第過祠部訖。於版頭面東南觸禮一拜。新到亦觸禮一拜。維那依戒臘次第掛搭觸禮一拜。維那常占上手如前門北頰維那面東北。如前門南頰即面東南。如後門北",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source compiler",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In (重雕補註)禪苑清規 at 0524a18, the exact 入堂 graphs remain contiguous and the surrounding punctuation and predicate establish witness 3's local syntactic frame.",
+            "ReviewedBy": "Codex U3 full-case author",
+            "ReviewedUtc": "2026-07-20T10:20:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0183a13",
+          "ToLb": "0183a20",
+          "Kwic": "光孝，十八得度受具。初見鐵牛印、少室睦、無際派諸老。後參浙翁於天童，鍼芥雖投，自知未穩。及再參於雙徑，翁笑而問曰：汝來耶？一夕坐簷間，聞更三轉，入堂曳履而蹶，如夢忽醒。翌朝造室，翁舉趙州洗鉢盂話，師將啟吻，翁遽以拳止之，疑情當下冰釋。宋理宗紹定戊子，四明制閫胡公以小淨慈致之。歷住香山、萬壽、雪竇、育王、淨慈、靈隱、徑塢八山。開爐上",
+          "MasterName": "Yanxi Guangwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanxi Guangwen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) with Chinese title (五燈全書(第34卷-第120卷)). Speaker: Yanxi Guangwen."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0271a11",
+          "ToLb": "0271b03",
+          "Kwic": "何謂也？岐曰：渠愛人笑，汝怕人笑。端大悟。五祖演云：吾因茲出一身白汗，便明得下載清風。圜悟云：少年一段風流事，祇許佳人獨自知。虎邱隆謁圜悟。一日入堂，悟問曰：見見之時，見非是見。見猶離見，見不能及。舉拳曰：還見麼？隆曰：見。悟曰：頭上安頭。隆聞，脫然契證。悟叱曰：見箇甚麼？隆曰：竹密不妨流水過。參學人磨裩擦褲，蹋破草鞵，三二十年尋",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection (揞黑豆集). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source compiler",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In 揞黑豆集 at 0271a11, the exact 入堂 graphs remain contiguous and the surrounding punctuation and predicate establish witness 5's local syntactic frame.",
+            "ReviewedBy": "Codex U3 full-case author",
+            "ReviewedUtc": "2026-07-20T10:20:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0326a08",
+          "ToLb": "0326a13",
+          "Kwic": "白椎曰：父母俱喪，請大眾念摩訶般若。眾纔集，便結椎曰：勞煩大眾。寶壽方云：大小荷澤雖然放去較危、收來太速，要莊嚴二親報地猶未可。雪峰則不然，或有報二親俱亡，亦入堂白椎云：父母俱喪，請大",
+          "MasterName": "Cuiyan Shouzhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cuiyan Shouzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: Cuiyan Shouzhi."
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0468a11",
+          "ToLb": "0468a18",
+          "Kwic": "有聲色可得。師曰：汝若了聲色體空，亦信眼耳諸根及與凡與聖平等如幻，抗行回互，其理昭然。寶頓領悟，即日發去，隱於蒙山。一日，鄉信至，報二親俱亡。師入堂白槌曰：父母俱喪，請大眾念摩訶般若。然纔集，師便打槌曰：勞煩大眾。下座。圭峰宗密禪師▲圭峰宗密禪師果州西充何氏子。髫齓通明儒典，弱冠將赴舉，見圓和尚，遽落䰂受具。一日赴府吏任灌齋，以次",
+          "MasterName": "Shenhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenhui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄). Speaker: Shenhui."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "X/X63/X63n1245.xml",
+        "X/X82/X82n1571.xml",
+        "X/X85/X85n1592.xml",
+        "X/X66/X66n1297.xml",
+        "X/X83/X83n1578.xml"
+      ],
+      "RelatedMasters": [
+        "Yanxi Guangwen",
+        "Cuiyan Shouzhi",
+        "Shenhui"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "In these records, the expression describes entry into the hall as a formal communal setting. The retained sources place it in distinct settings while preserving this core meaning; their headings, citations, and encounter passages also delimit its local scope."
+    }
+  ]
+}

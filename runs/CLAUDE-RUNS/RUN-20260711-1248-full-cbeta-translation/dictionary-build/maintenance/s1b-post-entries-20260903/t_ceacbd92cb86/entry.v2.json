@@ -1,0 +1,112 @@
+{
+  "Id": "t_ceacbd92cb86",
+  "SourceTerm": "座主",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna154r5 semantic author",
+  "WrittenUtc": "2026-08-09T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "scripture lecturer",
+      "AlternateTargets": [
+        "lecture master",
+        "teacher of scriptures and treatises"
+      ],
+      "SearchAliases": [
+        "scripture lecturer",
+        "lecture master",
+        "sutra lecturer",
+        "lecturer challenged by a named teacher"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "scripture lecturer names a lecturer whose office is explaining scriptures and treatises. The retained encounters identify the role through the lecturer’s own claim to expound the Diamond Sutra or transmit numerous books.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0357b06",
+          "ToLb": "0357b06",
+          "Kwic": "有座主來參次，師問：「作什摩事業？」",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyang Huizhong",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Patriarchs’ Hall Anthology) (祖堂集). Speaker: the lamp-record compiler.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "full-case exact-headword adjudication",
+            "ActorLabel": "the lamp-record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal narrative boundary “來參次” introduces the lecturer before “師問” opens Nanyang Huizhong’s speech.",
+            "ReviewedBy": "Codex lane C independent-review repair",
+            "ReviewedUtc": "2026-07-20T02:42:07.968833+00:00"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0617a01",
+          "ToLb": "0617a02",
+          "Kwic": "師却問曰座主傳持何法",
+          "MasterName": "Mazu Daoyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Masters (古尊宿語錄). Speaker: Mazu Daoyi."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0791b03",
+          "ToLb": "0791b03",
+          "Kwic": "昔二祖大師元是箇座主",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). Dahui Pujue: General Discourses (大慧普覺禪師普說). Speaker: Dahui Zonggao."
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0144.xml",
+        "C/C077/C077n1710.xml",
+        "X/X80/X80n1565.xml",
+        "M/M59/M59n1540.xml"
+      ],
+      "RelatedMasters": [
+        "Nanyang Huizhong",
+        "Mazu Daoyi",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [
+        "首座"
+      ],
+      "Explanation": "A scripture lecturer is a scripture lecturer or lecture master. Nanyang Huizhong asks one what work he does, and the lecturer answers that he lectures on the Diamond Sutra; Mazu Daoyi answers another lecturer’s question by asking what teaching the lecturer himself transmits. Dahui Zonggao recalls that Huike had formerly occupied this role before seeking Bodhidharma. The exchanges do not merely contrast two institutions. Huizhong asks about the scripture’s opening words, while Mazu presses the lecturer’s account of transmission until the lecturer cannot answer."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "Id": "t_4c1e5a42155d",
+  "SourceTerm": "不放過",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "not let it pass",
+      "AlternateTargets": [
+        "refuse to let it pass"
+      ],
+      "SearchAliases": [
+        "not let it go",
+        "refuse to let it pass"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained witnesses contrast letting a matter pass with pressing it further; no additional lexical sense is claimed.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0629b16",
+          "ToLb": "0629c03",
+          "Kwic": "前义手而立泉云道不得何不請王老師道師云更有一人居何國土泉云可惜許。師上堂大眾纔集師拈拄杖一時打散復召大眾眾回首師云月似彎弓少雨多風。師一日捏拳謂眾云天下老和尚緫在這裏我若放一線道從汝七縱八橫若不放過不消一捏時有僧問放一線道何師云七縱八橫云不放過時如何師云普裴相國一日請師至郡以所觧一編示師師接置於座略不披󲰥良久曰會麼裴曰未測師曰若便恁麼會得猶較些子若也形於紙墨何有吾宗裴乃贈詩一章曰自從大士",
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Exact actor: Huangbo Xiyun. Full-case recovery identifies the named utterer bearing the exact headword and separates surrounding narration, questions, replies, and case figures.",
+          "Curated": true,
+          "MasterName": "Huangbo Xiyun",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact spans remain together because all repeated spans occur in the same indivisible clause governed by the same exact actor; no independently unique single-span recut exists in this source."
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0020c20",
+          "ToLb": "0021a07",
+          "Kwic": "云：止止不須說，我法妙難思。舍利弗尊者問須菩提：夢中說六波羅密，與覺時是同是異？提曰：此義深遠，吾不能說。會中有彌勒大士，汝往彼問。舍利弗乃問彌勒，彌勒曰：誰名彌勒？誰是彌勒？雪竇顯云：當時若不放過，隨後與一拶，誰名彌勒？誰是彌勒？者便見冰消瓦解。昭覺勤云：夢中說六波羅密，與覺時是同是異？低聲！低聲！此義幽深，吾不能說。爛泥裏有刺，會中有彌勒大士，可往問之，推過別人又爭得？舍利弗問彌勒：",
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集): Exact actor: Xuedou Chongxian. Full-case recovery identifies the named utterer bearing the exact headword and separates surrounding narration, questions, replies, and case figures.",
+          "Curated": true,
+          "MasterName": "Xuedou Chongxian"
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0088c10",
+          "ToLb": "0088c11",
+          "Kwic": "師一日揑拳曰。天下老和尚。總在這裏。我若放一線道。從汝七縱八橫。若不放過。不消一揑。",
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): Exact actor: Huangbo Xiyun. Full-case recovery identifies the named utterer bearing the exact headword and separates surrounding narration, questions, replies, and case figures.",
+          "Curated": true,
+          "MasterName": "Huangbo Xiyun"
+        },
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0545b25",
+          "ToLb": "0545b26",
+          "Kwic": "若不放過，不消一喝。",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections) (五家語錄（選錄）): Exact actor: Yunmen Wenyan. Full-case recovery identifies the named utterer bearing the exact headword and separates surrounding narration, questions, replies, and case figures.",
+          "Curated": true,
+          "MasterName": "Yunmen Wenyan"
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1296.xml",
+        "X/X80/X80n1565.xml",
+        "J/J23/J23nB134.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Xuedou Chongxian",
+        "Yunmen Wenyan"
+      ],
+      "RelatedTerms": [
+        "放過"
+      ],
+      "Explanation": "Not letting it pass is to press an encounter instead of granting an opening, dismissal, or unchallenged answer. Huangbo Xiyun contrasts it with allowing a line of escape; Xuedou Chongxian says he would have followed a case with another squeeze; Yunmen Wenyan gives the compact condition in a recorded saying. The phrase keeps the force of refusing to let the matter go unchecked."
+    }
+  ]
+}

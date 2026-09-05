@@ -1,0 +1,59 @@
+{
+ "schemaVersion": "f1-blind-r1-plants",
+ "honestRows": 5,
+ "plants": 5,
+ "slots": [
+  0,
+  2,
+  4,
+  6,
+  8
+ ],
+ "registry": [
+  {
+   "plantId": "P1",
+   "rowSlot": 0,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "d0bac2fe25b57219932679af356d5ecb0e054c06d71c163843325c17d578744f",
+   "entry": "t_ab715aa474d5",
+   "class": "occ-attribution",
+   "defect": "MasterName kept as fabricated speaker (post slot is null)"
+  },
+  {
+   "plantId": "P2",
+   "rowSlot": 2,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "50e67ed9e2942db66852ea4ae19e78db7ab89635e23a788dee3687a40640d5a6",
+   "entry": "t_351fa42d396b",
+   "class": "occ-attribution",
+   "defect": "ContextMasters role corrupted compiler->utterer (post contradicts)"
+  },
+  {
+   "plantId": "P3",
+   "rowSlot": 4,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "81ffc8e17862c4c5c417c7eb7336311e2f70506d53d194409267a0b6842dadaa",
+   "entry": "t_ab715aa474d5",
+   "class": "occ-attribution",
+   "defect": "ActorLabel absent from the new note (label-verbatim law)"
+  },
+  {
+   "plantId": "P4",
+   "rowSlot": 6,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "e04439a2b7bb0928d866ff22e5416cccb04826f402b6e910c081bf7688d7ab00",
+   "entry": "t_351fa42d396b",
+   "class": "occ-attribution",
+   "defect": "kwic mutated (post slot contradicts)"
+  },
+  {
+   "plantId": "P5",
+   "rowSlot": 8,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "96026c00d2e0f8b4035cfd8e8c9e43d1cb2b343b6363f874c61a611eb4a20228",
+   "entry": "t_351fa42d396b",
+   "class": "explanation-rewrite",
+   "defect": "fabricated CJK quote injected into Explanation (not in POST; unanchored)"
+  }
+ ]
+}

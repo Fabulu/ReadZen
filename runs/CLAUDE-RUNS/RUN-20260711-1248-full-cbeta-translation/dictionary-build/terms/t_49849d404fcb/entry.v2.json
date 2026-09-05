@@ -1,0 +1,102 @@
+{
+  "Id": "t_49849d404fcb",
+  "SourceTerm": "七手八脚",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "seven hands and eight feet",
+      "AlternateTargets": [
+        "all hands and feet in a flurry"
+      ],
+      "SearchAliases": [
+        "seven hands and eight feet",
+        "all hands and feet in a flurry"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The one retained lamp verse is useful corroboration; its parallel lamp copy is padding and is not retained as independent support.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D51/D51n8948.xml",
+          "FromLb": "0019a07",
+          "ToLb": "0019a08",
+          "Kwic": "及乎被者僧道箇有便見荒亂七手八脚一時俱露",
+          "ClaimText": "Fojian Huiqin uses seven hands and eight feet for the disorder exposed when the monk answers that there is something.",
+          "MasterName": "Fojian Huiqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D51/D51n8948.xml). Bukkoku Chan Master Recorded Sayings quotes an appraisal by Fojian Huiqin; Fojian Huiqin is the embedded speaker whose appraisal contains the headword."
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0804c06",
+          "ToLb": "0804c06",
+          "Kwic": "師云：七手八脚。",
+          "ClaimText": "An anonymous verse voice gives seven hands and eight feet as its compact answer.",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng explicitly assigns this answer to Zhanran Yuancheng."
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0641a19",
+          "ToLb": "0641a20",
+          "Kwic": "七手八脚神頭鬼面棒打不開刀割不斷",
+          "ClaimText": "Miaozong pairs seven hands and eight feet with a spirit head and ghost face in a deliberately grotesque description.",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). The Complete Collection of Linked Pearls of Chan Capping Verses signs this Diamond Sutra capping-verse series with Yefu Daochuan’s abbreviated Chinese name; Yefu Daochuan is the exact author of the retained line.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "explicit named Chan master",
+            "ActorLabel": "Yefu Daochuan",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The source explicitly assigns the headword-bearing turn to Yefu Daochuan; the read-only canonical roster has no exact node for that identity.",
+            "ReviewedBy": "Codex C044 Lane B finite owner repair",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "D/D51/D51n8948.xml",
+        "X/X72/X72n1444.xml",
+        "C/C078/C078n1720.xml"
+      ],
+      "RelatedMasters": [
+        "Fojian Huiqin",
+        "Zhanran Yuancheng"
+      ],
+      "RelatedTerms": [
+        "拖泥帶水"
+      ],
+      "Explanation": "Seven hands and eight feet depicts conspicuously many-limbed, disorderly activity. Fojian Huiqin uses it in a rebuke, Zhanran Yuancheng gives it as a direct answer, and a preserved capping verse carries the same impossible-body image. The construction is evaluative and figurative in these cases; it does not assert a literal creature with seven hands and eight feet."
+    }
+  ]
+}

@@ -44,6 +44,7 @@ const ID_REPLACEMENTS = new Map([
   ['t_d69c18a98053', 't_bc9b4740f883'], // 吃茶去-derived ID -> canonical 喫茶去 ID
   ['t_d3c00df255f8', 't_d0b8619bf019'], // full-width-comma 雲從龍，風從虎 -> canonical ideographic-comma headword
   ['t_d0b24f7f47f8', 't_15201b52222e'], // unsupported 虎靠山處 headword -> attested 虎逢山勢 headword
+  ['t_1a6cdc16c248', 't_968a2f97c9ff'], // duplicate-SourceTerm 一不成，二不是 legacy id -> canonical ComputeId id (occurrences merged into the survivor)
 ]);
 
 function readJsonSafe(p) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return null; } }
@@ -146,7 +147,17 @@ const normValues = e => {
   return e;
 };
 
-const all = [...byId.values()].map(normKeys).map(normValues).sort((a, b) => String(field(a, 'SourceTerm', 'sourceTerm')).localeCompare(String(field(b, 'SourceTerm', 'sourceTerm'))));
+// Sort by SourceTerm with an explicit Id tie-break. A stable sort alone left
+// duplicate-SourceTerm families in Map order, which is products-first — so
+// which twin came first depended on WHICH entries happened to be products in
+// that install (R1a reordered six duplicate families this way). The Id
+// tie-break makes the published order deterministic per pair regardless of
+// cohort membership.
+const byTermThenId = (a, b) => {
+  const c = String(field(a, 'SourceTerm', 'sourceTerm')).localeCompare(String(field(b, 'SourceTerm', 'sourceTerm')));
+  return c !== 0 ? c : String(field(a, 'Id', 'id') || '').localeCompare(String(field(b, 'Id', 'id') || ''));
+};
+const all = [...byId.values()].map(normKeys).map(normValues).sort(byTermThenId);
 const forbiddenEntries = all.filter(e => FORBIDDEN_ENGLISH.test(JSON.stringify(e)));
 if (forbiddenEntries.length) {
   const terms = forbiddenEntries.map(e => field(e, 'SourceTerm', 'sourceTerm')).join(', ');

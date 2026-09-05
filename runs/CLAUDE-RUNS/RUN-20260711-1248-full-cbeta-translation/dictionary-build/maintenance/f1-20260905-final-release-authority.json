@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "generic-dictionary-final-release-authority.v1",
+  "cohort": "f1-20260905",
+  "authorizedBy": "coordinator (Claude)",
+  "authorizedUtc": "2026-09-05T00:11:00.002535+00:00",
+  "releaseAuthorized": true,
+  "basis": "Lane F1 (the follow-up correction lane for the two sibling [Dehui] rows the user routed here by decision 2026-09-03, with full-case re-reads; SPEC_F1_20260905.md): 5 edit records over 2 entries — t_ab715aa474d5 一日不作一日不食 s1o2 (1144b03): the window sits in the code's 普請 communal-labor section, a directive citing 古人 ('the ancients') — re-attributed from the fabricated speaker 'Dehui' (the Yuan recompiler 東陽德煇, never a speaking master) to editorial/compiler-voice representation (MasterName null; ActorAttribution impersonal / institutional procedure / 'the monastic code's institutional voice', label verbatim in the note with 元 德煇重編 as textual provenance; ContextMasters Dongyang Dehui [compiler]; RelatedMasters 'Dehui' -> roster name 'Dongyang Dehui'); t_351fa42d396b 粥飯 s1o1 (1127c04): the 遷化 funeral-observance scheduling regulation — same representation, plus Explanation 'redacted by Dehui,' -> 'redacted by Dongyang Dehui,' and the RelatedMasters rename; carried rel/lb/kwic/Curated/HeadwordSpanReview byte-identical on both rows. Occurrence counts unchanged (3; 3+6). Machine gates CLEAN: attribution zero rows on the products PRE and POST; depth hardPass 2/2 preserved; retired-rel zero fleet-wide; R2-product protection (t_ea2a427c7aba, t_057cc9ea8755, t_968a2f97c9ff untouched); off-worklist byte-identity over 4,502 files; fleet 8,384 rows zero NEW; census law — zero MasterName 'Dehui' rows anywhere in the termbase after this lane. Blind r1 PASS with 5/5 canaries caught by every reviewer and zero confirmed findings. Public surface: replace-mode for the 2 ids; no adds, no withdrawals; entry count unchanged. Dictionary edits local-only through this install (agent clone, contrib branch); push + main publication follow under the user's 2026-09-04 authorization as one cycle covering R2+F1.",
+  "products": [
+    {
+      "id": "t_ab715aa474d5",
+      "entrySha256": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe"
+    },
+    {
+      "id": "t_351fa42d396b",
+      "entrySha256": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d"
+    }
+  ],
+  "builtOn": {},
+  "withdrawn": []
+}

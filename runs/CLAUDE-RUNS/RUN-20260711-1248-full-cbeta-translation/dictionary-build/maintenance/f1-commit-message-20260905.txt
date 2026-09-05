@@ -1,0 +1,32 @@
+Install dictionary lane F1: follow-up corrections (2 products)
+
+Completes the Dehui speaker-attribution class the 2026-09-03 review
+verdict routed to a dedicated lane (with full-case re-reads):
+
+- t_ab715aa474d5 (一日不作一日不食) s1o2 (T48n2025 1144b03): the
+  window sits in the code's communal-labor (普請) section — a directive
+  citing the ancients (古人), not a speaking turn — re-attributed from
+  the fabricated speaker "Dehui" (the Yuan recompiler 東陽德煇, 元
+  德煇重編, never a speaking master) to editorial/compiler-voice
+  representation: MasterName null, ActorAttribution impersonal /
+  institutional procedure / "the monastic code's institutional voice"
+  (label verbatim in the note, with 元 德煇重編 as textual provenance),
+  ContextMasters Dongyang Dehui [compiler] (the roster name);
+  RelatedMasters "Dehui" -> "Dongyang Dehui". Carried rel/lb/kwic/
+  Curated/HeadwordSpanReview byte-identical; occurrence counts
+  unchanged (3).
+- t_351fa42d396b (粥飯) s1o1 (T48n2025 1127c04): the funeral-
+  observance (遷化) scheduling regulation — serialized scheduling with
+  no dialogue frame — same re-attribution, plus Explanation "redacted
+  by Dehui," -> "redacted by Dongyang Dehui," and the RelatedMasters
+  rename. Counts unchanged (3 + 6).
+
+Machine gates CLEAN (off-worklist byte-identity over 4,502 files; R2
+products byte-identical; fleet 8,384 attribution rows, zero NEW);
+blind r1 PASS (5/5 canaries caught by both reviewers, zero honest
+flags). Census law now holds fleet-wide: zero MasterName "Dehui"
+rows anywhere in the termbase. Local commit only — not pushed yet
+(push + main publication follow under the user's 2026-09-04
+authorization as one cycle covering R2+F1).
+
+Co-Authored-By: Claude <noreply@anthropic.com>

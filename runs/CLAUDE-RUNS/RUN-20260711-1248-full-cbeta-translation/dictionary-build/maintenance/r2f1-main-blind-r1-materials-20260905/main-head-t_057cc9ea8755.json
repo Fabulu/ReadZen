@@ -1,0 +1,144 @@
+{
+  "Id": "t_057cc9ea8755",
+  "SourceTerm": "攝心",
+  "CreatedBy": "R19 clean-regeneration constructor B",
+  "WrittenUtc": "2026-07-30T04:00:00Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "collect the mind",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "hold the mind collected",
+        "restrain the mind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Explanation": "To collect, hold, or restrain the mind rather than let it run after conditions. Hongren says to collect the mind without attaching to visions. Yongjia Xuanjue describes composed conduct as collecting thoughts; Yongming Yanshou also preserves the contrary warning that before entry into the source-mirror, even collecting the mind is mistaken. Elsewhere Yongming distinguishes concentrated contemplation from dedicated recollection. Cheongheo Hyujeong discusses collection of mind as restraint at the root, and Yuanwu Keqin advises a sick recipient to remain collected and unstirred by external conditions.",
+      "Note": "The verb does not by itself specify posture or a particular contemplative system. Its object and purpose are supplied locally, and one retained authored passage explicitly criticizes mere collection of mind.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2011.xml",
+          "FromLb": "0378b02",
+          "ToLb": "0378b08",
+          "Kwic": "則令人成病苦。夜坐禪時或見一切善惡境界。或入青黃赤白等諸三昧。或見身出大光明。或見如來身相。或見種種變化。但知攝心莫著並皆是空。妄想而見也。經云。十方國土皆如虛空。三界虛幻唯是一心作。若不得定不見一切境界者亦不須怪。但於行住",
+          "MasterName": "Hongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongren",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2011.xml). Supreme Vehicle Treatise. Hongren utters the retained headword-bearing line."
+        },
+        {
+          "RelPath": "T/T48/T48n2013.xml",
+          "FromLb": "0392a19",
+          "ToLb": "0392a24",
+          "Kwic": "。五果之報何醻。愛取有以無疵。老死亦何所累。故能翛然獨脫。靜處幽居。觀物變而悟非常。覩秋零而入真道。四儀庠序。攝心慮以恬愉。性好單棲。憩間林而自適。不忻說法。現神力以化他。無佛之世。出興作佛。燈之後焰。身惟善寂。意翫清虛。獨",
+          "MasterName": "Yongjia Xuanjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjia Xuanjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2013.xml). Chan School Yongjia Collection. Yongjia Xuanjue utters the retained headword-bearing line."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0500b16",
+          "ToLb": "0500b22",
+          "Kwic": "乃至八相成道。此是聲聞曲見。故云為劣解眾生。母胎出現。是以入此宗鏡。出語無過。舉念皆真。若未到斯門。說是成非。攝心猶錯。如圓覺經云。動念之與息念。皆歸迷悶。信心銘云。不識玄旨。徒勞念淨融大師云。悟此宗人。道佛不是亦得。若未信",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Zongjing Record. Yongming Yanshou utters the retained headword-bearing line."
+        },
+        {
+          "RelPath": "T/T48/T48n2017.xml",
+          "FromLb": "0968c07",
+          "ToLb": "0968c13",
+          "Kwic": "須具足，此屬大根。八法無瑕，成就上品；如其中下，但具一法，決志無移，亦得下品。」問：「《觀經》明十六觀門，皆是攝心修定，觀佛相好，諦了圓明，方階淨域。如何散心而能化往？」答：「九品經文自有昇降，上下該攝，不出二心：一、定心：",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2017.xml). Myriad Virtues Converge. Yongming Yanshou utters the retained headword-bearing line."
+        },
+        {
+          "RelPath": "X/X63/X63n1255.xml",
+          "FromLb": "0740b22",
+          "ToLb": "0740c03",
+          "Kwic": "，如漏巵求滿；帶妄修禪，如刻糞為香。縱有多智，皆成魔道。此明修行軌則，三無漏學也。小乘稟法為戒，粗治其末。大乘攝心為戒，細絕其本。然則法戒無身犯，心戒無思犯也。婬者斷清淨，殺者斷慈悲，盜者斷福德，妄者斷真實也。能成智慧，縱得",
+          "MasterName": "Cheongheo Hyujeong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cheongheo Hyujeong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1255.xml). Chan Guide. Cheongheo Hyujeong utters the retained headword-bearing line."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0488b16",
+          "ToLb": "0488b21",
+          "Kwic": "知落處去。若以語言詮注語言，只益多知，無緣入得此箇法門解脫境界。諦信！諦信！以悟為則，勿嫌遲晚。疾苦在身，宜善攝心，不為外境所搖，中心亦不起念。常以生死事大，無常迅速為意，不可斯須恣縱。唯嗔一法，於三業為大過患。儻有順違，切",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Foguо Keqin: Mind Essentials. Yuanwu Keqin utters the retained headword-bearing line."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2011.xml",
+        "T/T48/T48n2013.xml",
+        "T/T48/T48n2016.xml",
+        "T/T48/T48n2017.xml",
+        "X/X63/X63n1255.xml",
+        "X/X69/X69n1357.xml"
+      ],
+      "RelatedMasters": [
+        "Hongren",
+        "Yongjia Xuanjue",
+        "Yongming Yanshou",
+        "Cheongheo Hyujeong",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": []
+    }
+  ]
+}

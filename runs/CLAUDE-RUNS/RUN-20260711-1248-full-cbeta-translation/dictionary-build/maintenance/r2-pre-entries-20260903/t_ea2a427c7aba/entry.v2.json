@@ -1,0 +1,324 @@
+{
+  "Id": "t_ea2a427c7aba",
+  "SourceTerm": "坐禪",
+  "CreatedBy": "Codex fresh-build lane C",
+  "WrittenUtc": null,
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the seated Chan procedure",
+      "AlternateTargets": [
+        "regulated sitting Chan",
+        "seated Chan"
+      ],
+      "SearchAliases": [
+        "sitting dhyana",
+        "seated dhyana",
+        "regulated sitting",
+        "Chan sitting",
+        "dhyana procedure"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Across the collected corpus the headword has 1,207 exact occurrences in 265 texts. Nine retained anchors across six sources establish or directly appraise the regulated seated procedure. The instruction-genre falsification survives: titled rules, sequential body directions, hall orientation, and prolonged sitting all occur in the collected corpus. Criticism and rejection remain in this sense whenever their object is the recognizable bodily procedure. Apparent matches formed by the verb sit immediately before the longer noun Chan seat were boundary-screened and do not buy depth.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1143a07",
+          "ToLb": "1143a12",
+          "Kwic": "於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。",
+          "MasterName": "Dehui",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the code's titled Rules for Sitting Chan (坐禪儀) section, redacted by Dehui: the code directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records Fayun Yuantong's rebuke of sitting with closed eyes as a black mountain ghost cave",
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0246a07",
+          "ToLb": "0246a08",
+          "Kwic": "我寧死依古人所教坐禪，決不更改",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略): In the Collected Abridgment of Chan Master Guting's Sayings (古庭禪師語錄輯略), Guting Shanjian says the ancients called years or lives of upright, unbroken sitting Chan, and that he would die rather than change their instruction.",
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0615b22",
+          "ToLb": "0615b22",
+          "Kwic": "師云磨甎既不成鏡坐禪豈能成佛",
+          "MasterName": "Nanyue Huairang",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The Old Recorded Sayings of Venerable Masters (古尊宿語錄), in Nanyue Huairang's record: Huairang tells Mazu Daoyi that if polishing a tile cannot make a mirror, sitting Chan cannot make a buddha",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0091a19",
+          "ToLb": "0091a19",
+          "Kwic": "濟云：不坐禪。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue (松源崇嶽禪師語錄): Recorded Sayings of Chan Master Songyuan Chongyue (松源崇嶽禪師語錄), raising Linji Yixuan's exchange with Wang Changshi: Linji is the exact speaker who says, 'They do not sit Chan.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0450c26",
+          "ToLb": "0450c27",
+          "Kwic": "心王自在翛然。法性本無十纏。一切無非佛事。何須攝念坐禪。",
+          "MasterName": "Baozhi",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Jingde-era Record of the Transmission of the Lamp (景德傳燈錄), Baozhi's Fourteen Section Verses, section 'Phenomena and Principle Are Not Two': Baozhi says the mind-king is free and easy and asks why one should gather thoughts and sit Chan",
+          "ContextMasters": [
+            {
+              "MasterName": "Baozhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0453b15",
+          "ToLb": "0453b17",
+          "Kwic": "示執坐禪者大道分明絕點塵。何須長坐始相親。遇緣儻解無非是。",
+          "MasterName": "Zhaoqing Shengdeng",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Jingde-era Record of the Transmission of the Lamp (景德傳燈錄), in Zhaoqing Shengdeng's named verse 'Showing Those Attached to Sitting Chan': Shengdeng asks why prolonged sitting is needed to become intimate with the clear great way and says that, if conditions are understood, none are otherwise",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaoqing Shengdeng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0772c03",
+          "ToLb": "0772c04",
+          "Kwic": "半昏半醒，坐得一兩炷香，喚作坐禪得定。",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄): In the Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄), Zhanran Yuancheng criticizes being half asleep and half awake for one or two incense sticks and calling it attainment in sitting Chan",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a21",
+          "ToLb": "1113a22",
+          "Kwic": "集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。",
+          "MasterName": "Dehui",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The Imperially Revised Baizhang Monastic Code (勅修百丈清規), redacted by Dehui: the code assembles the community in the hall, says that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds",
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1143a12",
+          "ToLb": "1143a15",
+          "Kwic": "一切善惡都莫思量。念起即覺。常覺不昧不昏不散。萬年一念非斷非常。此坐禪之要術也。坐禪乃安樂法門。而人多致疾者。蓋不得其要。",
+          "MasterName": "Dehui",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the code's titled Rules for Sitting Chan (坐禪儀) section, redacted by Dehui: the code directs thinking neither good nor evil and noticing the moment a thought arises, calls this the essential procedure of sitting Chan and sitting Chan a gate of ease, and notes that many are harmed by missing its essentials",
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The the complete case retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB163.xml",
+        "C/C077/C077n1710.xml",
+        "X/X70/X70n1377.xml",
+        "T/T51/T51n2076.xml",
+        "X/X72/X72n1444.xml",
+        "T/T48/T48n2025.xml"
+      ],
+      "RelatedMasters": [
+        "Guting Shanjian",
+        "Nanyue Huairang",
+        "Mazu Daoyi",
+        "Linji Yixuan",
+        "Baozhi",
+        "Zhaoqing Shengdeng",
+        "Zhanran Yuancheng",
+        "Dehui",
+        "Songyuan Chongyue"
+      ],
+      "RelatedTerms": [
+        "禪床",
+        "坐堂",
+        "坐參",
+        "參禪",
+        "坐禪儀",
+        "坐禪箴",
+        "心如牆壁",
+        "不動尊"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The seated Chan procedure is a regulated bodily activity with an assigned place, posture, duration, and hall orientation. The Baizhang monastic code's titled Rules for Sitting Chan section directs a quiet place, a thick seat, full or half cross-legged sitting, the left palm resting on the right with the two thumbs touching, an upright body with the ears aligned to the shoulders and the nose to the navel, the tongue against the upper palate, and slightly open eyes, and it preserves Fayun Yuantong's rebuke of sitting with closed eyes as a black mountain ghost cave (\"於閒靜處厚敷坐物…謂黑山鬼窟\"). It continues: think neither good nor evil; the moment a thought arises, notice it, ever awake, neither dull nor scattered; this is the essential procedure of sitting Chan, a gate of ease, and those who fall ill from it miss its essentials (\"一切善惡都莫思量。念起即覺…坐禪乃安樂法門\"). Dehui's monastic code gives an observable hall convention: the assembly faces inward as in ordinary sitting Chan, then turns outward when the drum sounds (\"如尋常坐禪向內坐。鼓鳴則轉身向外坐。\"). Guting Shanjian says that sitting upright without lying down for ten or twenty years, even one or two lives, is what the ancients called sitting Chan. Nanyue Huairang's tile exchange, Linji Yixuan's refusal, Baozhi and Zhaoqing Shengdeng's critiques, and Zhanran Yuancheng's attack on half-asleep sitting still target this recognizable seated procedure. They disagree about what it accomplishes or how it is performed; they do not erase the bodily referent. The separate sense below is reserved for passages that explicitly redefine the compound apart from sitting posture."
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "non-postural sitting Chan",
+      "AlternateTargets": [
+        "sitting Chan apart from bodily sitting",
+        "Chan not limited to posture"
+      ],
+      "SearchAliases": [
+        "non-postural sitting dhyana",
+        "dhyana beyond posture",
+        "dhyana not sitting or lying",
+        "sitting dhyana while lying down"
+      ],
+      "Status": "allowed",
+      "Validation": "multi-source",
+      "Note": "Three exact anchors from three independent sources establish the non-postural redefinition. This split is not noun versus verb or approval versus criticism: bodily sitting, breath regulation, and hall orientation are compatible predicates of the first sense, while explicit not-sitting-or-lying and lying-all-day are incompatible with that procedural referent. Huineng supplies the positive non-postural definition rather than an outside explanation.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2008.xml",
+          "FromLb": "0353b18",
+          "ToLb": "0353b20",
+          "Kwic": "何名坐禪？此法門中，無障無礙，外於一切善惡境界，心念不起，名為坐；內見自性不動，名為禪。",
+          "MasterName": "Huineng",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2008.xml). Platform Sutra of the Sixth Patriarch (六祖大師法寶壇經): The Platform Scripture of the Sixth Patriarch (六祖大師法寶壇經) records Huineng asking what is named sitting Chan and defining sitting as thoughts not arising toward outside circumstances and Chan as inwardly seeing one's own nature unmoved",
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0615b24",
+          "ToLb": "0615c01",
+          "Kwic": "又云汝學坐禪為學坐佛若學坐禪禪非坐臥若學坐佛佛非定相",
+          "MasterName": "Nanyue Huairang",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The Old Recorded Sayings of Venerable Masters (古尊宿語錄), continuing Nanyue Huairang's exact turn: Huairang tells Mazu that if he learns sitting Chan, Chan is not sitting or lying, and if he learns a sitting buddha, buddha is not a fixed form",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The the complete case retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+          }
+        },
+        {
+          "RelPath": "X/X69/X69n1335.xml",
+          "FromLb": "0120b06",
+          "ToLb": "0120b06",
+          "Kwic": "持經不動口，坐禪終日臥。",
+          "MasterName": "Fu Dashi",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui (善慧大士語錄): The Recorded Sayings of Shanhui Dashi (善慧大士語錄), in Fu Dashi's Fifteen 'The Road Is Easy' verses: Fu says, 'Holding a scripture, the mouth does not move; sitting Chan, lying down all day.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Fu Dashi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2008.xml",
+        "C/C077/C077n1710.xml",
+        "X/X69/X69n1335.xml"
+      ],
+      "RelatedMasters": [
+        "Huineng",
+        "Nanyue Huairang",
+        "Fu Dashi"
+      ],
+      "RelatedTerms": [
+        "禪非坐臥",
+        "坐禪終日臥",
+        "不動"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Non-postural sitting Chan is the compound explicitly redefined apart from the seated body. Huineng asks what is named sitting Chan and answers with two inward and relational predicates: toward good and bad circumstances outside, thoughts not arising is named sitting; inwardly seeing one's own nature unmoved is named Chan (\"外於一切善惡境界，心念不起，名為坐；內見自性不動，名為禪\"). Nanyue Huairang tells Mazu that if he is learning sitting Chan, Chan is not sitting or lying (\"若學坐禪禪非坐臥\"). Fu Dashi's verse makes the incompatibility visible by saying, “sitting Chan, lying down all day” (\"坐禪終日臥\"). These passages do more than praise, criticize, or reinterpret the seated procedure: they remove bodily sitting as the referent's necessary condition. That non-postural thing is therefore separated from the regulated cross-legged procedure above."
+    }
+  ]
+}

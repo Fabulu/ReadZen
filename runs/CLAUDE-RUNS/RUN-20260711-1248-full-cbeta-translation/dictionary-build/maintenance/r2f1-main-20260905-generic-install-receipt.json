@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "generic-dictionary-publication-install.v1",
+  "cohort": "r2f1-main-20260905",
+  "manifestSha256": "e6d835ffb6123e34d7d2d1622437febe1615d1cc8bbf51d99037ad2999f5ef87",
+  "stageReceiptSha256": "acd7144e3b3340ea5da67f26405145331b7fb8f7ac63aecd551356ada55f06cb",
+  "products": {
+    "t_ea2a427c7aba": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+    "t_057cc9ea8755": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+    "t_968a2f97c9ff": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b",
+    "t_ab715aa474d5": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe",
+    "t_351fa42d396b": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d"
+  },
+  "publicParity": {
+    "count": 4716,
+    "products": 5
+  },
+  "termsInstalled": [
+    "t_ea2a427c7aba",
+    "t_057cc9ea8755",
+    "t_968a2f97c9ff",
+    "t_ab715aa474d5",
+    "t_351fa42d396b"
+  ],
+  "lineageRosterUnchanged": true,
+  "hardPass": true,
+  "installedUtc": "2026-09-05T00:53:14.627292+00:00"
+}

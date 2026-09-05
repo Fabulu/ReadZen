@@ -1,0 +1,216 @@
+{
+  "Id": "t_bb19ed0e0fab",
+  "SourceTerm": "普說",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a general address to the community",
+      "AlternateTargets": [
+        "general address",
+        "to give a general address"
+      ],
+      "Status": "preferred",
+      "Explanation": "A general address is a scheduled public address to the monastic community, announced and staged as its own recorded-sayings event. Chan records give it a placard, venue, occasion, audience, and sometimes questions, making ordinary broad speaking an institution. The Classified Essentials of the Patriarchs lists “ascending the hall, small gathering, address to the assembly, and general address” (上堂、小參、示眾、普說) as separate headings. The monastic code makes its organization explicit: a general-address placard is hung before the monks' hall and common quarters, a venue is prepared, and the drum is sounded after gruel. Records qualify an address by occasion, as in an “incident-related general address” (因事普說), and record masters being requested to give one after questioning or before the summer retreat. Yuejian Shanquan says, “I will give you all one general address” (為諸人普說一上), while another request specifies the subject with “give a general address on this” (普說此). The ordinary wording is thus institutionalized as a placarded public recorded-sayings genre with venue, occasion, audience, and questioning. Event, heading, and delivery are grammatical presentations of the same institution, not different lexical things.",
+      "Validation": "multi-source",
+      "Note": "Allowlist count: 870 hits in 134 texts. Noun and verb constructions denote the same general-address event; the two former targets could not distinguish different referents without their explanations and are merged. The general-address placard (普說牌) names the placard for this genre, not another sense. General address remains distinct from ascending the hall (上堂), small gathering (小參), addressing the assembly (示眾), question-and-answer, and taking up the whisk.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0001a17",
+          "ToLb": "0001a18",
+          "Kwic": "自上堂、小參、示眾、普說，以至隨機拈示，各有科條。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Full-case review identifies Jiexian as the actor.",
+          "MasterName": "Jiexian",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0628d02",
+          "ToLb": "0628d03",
+          "Kwic": "凡普說時，侍者令方丈客頭挂普說牌於僧堂眾寮前，并諸寮鋪設寢堂或法堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). This is a narrator-governed scene state. The Chan Grove Auxiliary Code procedural voice directs placard posting and hall preparation for a general address.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler narrative",
+            "ActorLabel": "Chan Grove Auxiliary Code procedural voice",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The clause is institutional procedure without a speech turn.",
+            "ReviewedBy": "Codex hard-w2-remaining300",
+            "ReviewedUtc": "2026-07-14T07:45:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Yixian",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 普說 spans sit in one impersonal procedural sentence of the auxiliary code; the placard clause and the hall-preparation clause share the single institutional subject."
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0345b22",
+          "ToLb": "0345b23",
+          "Kwic": "因事普說。「留得殷勤請得真，龍驤虎驟各生嗔，須知叢社千秋下。應羨忘軀為法人。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Guxue Zhe gives the explicitly headed incident-related general address (因事普說), opening with a verse on the dispute between those asking him to leave and those asking him to stay.",
+          "MasterName": "Guxue Zhe",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0863a22",
+          "ToLb": "0863a23",
+          "Kwic": "師到雪峯值建菩提會請普說。問話畢乃云。菩提宿將坐重圍。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Exact actor: Dahui Zonggao. Dahui is requested to give a general address at a bodhi assembly; the record explicitly places questioning before the address begins.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0761b20",
+          "ToLb": "0761b21",
+          "Kwic": "遠近禪侶共集，立書記詎藏主請為普說，師云：壓石取油，敲氷覓火。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize (天如惟則禪師語錄). Full-case review identifies Tianru Weize as the actor.",
+          "MasterName": "Tianru Weize",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0272c23",
+          "ToLb": "0272c24",
+          "Kwic": "今日因高麗國晦曇上座請普說此，上座履㐫蹈險，不憚萬里之程",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai (無異元來禪師廣錄). Complete general address by Wuyi Yuanlai: Wuyi says that Senior Huitan from Goryeo requested this general address after traveling ten thousand miles.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1392.xml",
+          "FromLb": "0524a09",
+          "ToLb": "0524a10",
+          "Kwic": "為諸人普說一上，諸人當起難遭之想。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1392.xml). Recorded Sayings of Chan Master Yuejian (月磵禪師語錄). In his announced general address, Yuejian Shanquan says he will give the assembly one general address and they should regard it as rare.",
+          "MasterName": "Yuejian Shanquan",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0353b04",
+          "ToLb": "0353b06",
+          "Kwic": "除夕，普說。「入道不通理，復身還信施，長者八十一，其樹不生耳。眾兄弟！且喚甚麼作理？即汝各各本具、廣大靈明玅淨底心是。",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). On the eve of the new year Guxue Zhenzhe holds a general address (普說), opening with the verse that one who enters the Way without penetrating principle returns the body to the donors, then asks the brothers what 'principle' is and answers: each one's originally possessed, vastly numinous, marvelously pure mind.",
+          "EvidenceRole": "family",
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0628d04",
+          "ToLb": "0628d05",
+          "Kwic": "侍者出寢堂，候眾集入，請住持出據坐。普說與小參禮同。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). This monastic-rule passage prescribes the rite of the general address (普說): the attendant comes out of the hall, waits for the community to gather, and requests the abbot to take the seat, and the rite is shared with the small assembly (小參). Compiled by Yixian as procedural text, it names no speaking master.",
+          "EvidenceRole": "family",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic regulation",
+            "ActorLabel": "monastic-rule procedural text",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X63n1250 0628d04-05: the passage 侍者出寢堂，候眾集入，請住持出據坐。普說與小參禮同。 is procedural rule text of the Chan Grove Ready-Reference Pure Regulations compiled by Yixian; the line, the expanded context, the section header (普說), the book title, the TEI header, and exact and parallel searches name no speaking master — the general address is prescribed, not uttered — so the occurrence stays impersonal monastic-rule procedural text.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X64/X64n1260.xml",
+        "X/X63/X63n1250.xml",
+        "J/J28/J28nB208.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X70/X70n1403.xml",
+        "X/X72/X72n1435.xml",
+        "X/X70/X70n1392.xml",
+        "J/J24/J24nB137.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Jiexian",
+        "Guxue Zhe",
+        "Tianru Weize",
+        "Wuyi Yuanlai",
+        "Yuejian Shanquan",
+        "Zhaozhou Congshen",
+        "Yixian"
+      ],
+      "RelatedTerms": [
+        "上堂",
+        "小參",
+        "示眾",
+        "問話",
+        "問答",
+        "秉拂",
+        "普說牌"
+      ],
+      "SearchAliases": [
+        "general address",
+        "community address",
+        "public community address",
+        "general talk",
+        "address to the community"
+      ]
+    }
+  ]
+}

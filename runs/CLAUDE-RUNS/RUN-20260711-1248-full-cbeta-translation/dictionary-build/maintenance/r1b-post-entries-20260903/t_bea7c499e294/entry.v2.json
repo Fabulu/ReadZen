@@ -1,0 +1,176 @@
+{
+  "Id": "t_bea7c499e294",
+  "SourceTerm": "旦過",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
+  "WrittenUtc": "2026-07-17T11:30:40.463541+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the transient-guest quarters",
+      "AlternateTargets": [
+        "the monastery's short-stay guest office",
+        "transient lodging"
+      ],
+      "SearchAliases": [
+        "monastery guest quarters",
+        "temporary monk lodging",
+        "short stay guest office",
+        "danguo quarters"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Six independent rulebooks and biographies attest the transient-guest quarters through supplies, arrival rules, and lodging events.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1131b11",
+          "ToLb": "1131b16",
+          "Kwic": "然後引上。相見仍照管安下去處。如以次人客。只就客司相款。或欲詣方丈庫司諸寮相訪。令行者引往。其旦過寮床帳什物燈油柴炭。常令齊整。新到須加溫存。維那在假。則攝其行事。僧堂前檢點行益客僧粥飯。遇亡僧同侍者把帳。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The record narrates that the regulatory paragraph assigns beds and supplies to the transient-guest quarters.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "monastic regulation",
+            "ActorLabel": "the Pure Rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulatory paragraph assigns beds and supplies to the transient-guest quarters.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:30:40.463541+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0147c05",
+          "ToLb": "0147c09",
+          "Kwic": "何必九還丹。師嘗遊雲居，夜宿瑤田莊，夢安樂神告曰：師於此山只有一粥之緣。明日午後到山，晚參罷，會旦過，有二僧相毆，新到例遭擯逐。師竊訝之。後數年，雲居虗席，州符起師補處。師忻然承命，且徵前夢。至瑤",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): The biography narrates a fight at the transient lodging after evening consultation.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the lamp-record biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography narrates a fight at the transient lodging after evening consultation.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:30:40.463541+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0646a05",
+          "ToLb": "0646a13",
+          "Kwic": "所恭敬。二時粥飯，理合精豐；四事供需，無令闕少。世尊二千年遺蔭，蓋覆兒孫；白毫光一分功德，受用不盡。但知奉眾，不可憂貧。僧無凡聖，通會十方，既曰招提，悉皆有分，豈可妄生分別，輕厭客僧？旦過寮三朝權住，盡禮供承；僧堂前蹔爾求齋，等心供養。俗客尚猶照管，僧家忍不逢迎？若無有限之心，自有無窮之福。僧門和合，上下同心，互有短長，󳯝相盖覆，家中醜惡，莫使外聞。雖然於事無傷，畢竟減",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): The record narrates that the regulation states the transient-guest quarters permit a three-day temporary stay.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "monastic regulation",
+            "ActorLabel": "the Pure Rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulation states the transient-guest quarters permit a three-day temporary stay.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:30:40.463541+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X84/X84n1585.xml",
+          "FromLb": "0682a24",
+          "ToLb": "0682b08",
+          "Kwic": "曰：意旨如何？縣曰：普請大家看。頌曰：輥毬閙市大家看，一陣清風吹面寒。定亂不須雙刃劍，活人何必九還丹。師甞遊雲居，夜宿瑤田莊，夢安樂神告曰：師於此山只有一粥之緣。明日午後到山𣆶參罷，會旦過，有二僧相毆，新到例遭擯逐，師竊訝之。後數年雲居虗席，州符起師補處，師忻然承命，且徵前夢，至瑤田莊而寂。明州大慈獨菴道儔禪師明州大慈獨菴道儔禪師贈製鞋匠偈曰：透底工夫做已圓，須知密處自",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X84/X84n1585.xml). Drafts for the Continuation of the Lamp (續燈存稿): The biography narrates the same arrival incident at the transient lodging.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the lamp-record biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography narrates the same arrival incident at the transient lodging.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:30:40.463541+00:00"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0691b08",
+          "ToLb": "0691b19",
+          "Kwic": "時覺禪師住焉先是舉道者到瑯琊造方丈覺問近離甚處云兩浙覺云舡來陸來云舡來覺云舡在甚處云步下覺云不涉程途一句作麼生道舉以坐具摵一摵云杜撰長老如麻似粟拂袖便出覺問侍者此是甚人云舉上座覺遂親下旦過堂問莫是舉上座麼勿怪適來相觸忤舉便喝云我在浙江早聞你名元來見解只如此何得名播寰宇覺遂作禮云慧覺罪過及師至瑯琊覺㽞之師為逗遛數日因夜話及之師咲曰舉見處纔能自了覺默然師為作牧童歌曰牧牛童寔",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The biography explicitly names the transient-guest hall where Langya meets Ju.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the ancient-record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography explicitly names the transient-guest hall where Langya meets Ju.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:30:40.463541+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X82/X82n1571.xml",
+        "X/X63/X63n1250.xml",
+        "X/X84/X84n1585.xml",
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "知客",
+        "客寮",
+        "新到",
+        "掛搭"
+      ],
+      "Explanation": "The transient-guest quarters are the monastery's office and lodging for newly arrived or short-stay monks, supplied with beds and provisions and governed by arrival rules. The Pure Rules orders the guest prefect to keep the quarters' bedding, lamps, firewood, and charcoal ready and to treat new arrivals warmly. Other regulations direct a transient guest to ask where the quarters are, unload there, and meet the guest prefect. Lamp biographies use the same institution in arrival narratives: monks meet or fight there, and the rules for new arrivals determine whether they remain. References to the transient-guest hall and its three-day stay retain the same institutional referent."
+    }
+  ]
+}

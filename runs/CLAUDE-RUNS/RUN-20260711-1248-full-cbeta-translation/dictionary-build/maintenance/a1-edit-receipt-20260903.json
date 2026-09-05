@@ -1,0 +1,1434 @@
+{
+  "schemaVersion": "a1-edit-receipt",
+  "cloneHead": "20c9011",
+  "products": [
+    "t_057cc9ea8755",
+    "t_0b56e6349db2",
+    "t_1793c3514a69",
+    "t_1b76e4ae53f0",
+    "t_2e77bc793d0c",
+    "t_351fa42d396b",
+    "t_38e49b09cf9d",
+    "t_3c1e31a193cd",
+    "t_42162fbd382d",
+    "t_4aa29a0183ae",
+    "t_4cf045deab37",
+    "t_4e3f766f716c",
+    "t_4f088a7a7f47",
+    "t_539b931c442a",
+    "t_57145bc70a8d",
+    "t_66630c6a8a37",
+    "t_8f89b12a0cc0",
+    "t_968a2f97c9ff",
+    "t_972b8e6cebdd",
+    "t_9bddb36dfcaf",
+    "t_9e7c2fb12ad9",
+    "t_b437e79a4646",
+    "t_b95cbb303b12",
+    "t_ba6668ef3e6e",
+    "t_bb19ed0e0fab",
+    "t_bc9b4740f883",
+    "t_c875e45fbb9d",
+    "t_cb3571346f22",
+    "t_cc6b4c4e9ba8",
+    "t_e34e9defcb79",
+    "t_e4b1a839b06d",
+    "t_e62a6a10b2f9",
+    "t_e69d7df930ca",
+    "t_f6631a24e33e",
+    "t_f758d1e27978"
+  ],
+  "productsCount": 35,
+  "editClassCounts": {
+    "muc-utterer": 83,
+    "muc-verse-author": 8,
+    "vague-reword": 17,
+    "dangling-anchor": 1,
+    "performer-context-row": 2,
+    "performer-grammar-proof": 1,
+    "anon-monk-restructure": 1,
+    "grammar-evidence-repeat": 1,
+    "reviewed-fields": 1,
+    "anchor-remove": 1
+  },
+  "editRecords": [
+    {
+      "class": "muc-utterer",
+      "entry": "t_0b56e6349db2",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Langting Jingting",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_0b56e6349db2",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Langmu Benzhi",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_0b56e6349db2",
+      "si": 2,
+      "oi": 1,
+      "row": {
+        "MasterName": "Huigong Xiong",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_0b56e6349db2",
+      "si": 3,
+      "oi": 1,
+      "row": {
+        "MasterName": "Mizang Daokai",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_1b76e4ae53f0",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Yingan Tanhua",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_1b76e4ae53f0",
+      "si": 1,
+      "oi": 11,
+      "row": {
+        "MasterName": "Shending Yikui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_1b76e4ae53f0",
+      "si": 1,
+      "oi": 12,
+      "row": {
+        "MasterName": "Deming",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_351fa42d396b",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Dehui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_351fa42d396b",
+      "si": 2,
+      "oi": 2,
+      "row": {
+        "MasterName": "Tiebians Yunshao",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_351fa42d396b",
+      "si": 2,
+      "oi": 3,
+      "row": {
+        "MasterName": "Shiwu Qinghong",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_351fa42d396b",
+      "si": 2,
+      "oi": 5,
+      "row": {
+        "MasterName": "Boshan Wuyi",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_38e49b09cf9d",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Xueguan Zhiyin",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_38e49b09cf9d",
+      "si": 2,
+      "oi": 1,
+      "row": {
+        "MasterName": "Jingshan Xingsheng community",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_38e49b09cf9d",
+      "si": 2,
+      "oi": 2,
+      "row": {
+        "MasterName": "Chaoyuan Danya",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_38e49b09cf9d",
+      "si": 3,
+      "oi": 1,
+      "row": {
+        "MasterName": "Foguo",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_38e49b09cf9d",
+      "si": 3,
+      "oi": 2,
+      "row": {
+        "MasterName": "Jie Weizhou",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_3c1e31a193cd",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Rahulata",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_3c1e31a193cd",
+      "si": 1,
+      "oi": 10,
+      "row": {
+        "MasterName": "Dahong Shousui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_3c1e31a193cd",
+      "si": 2,
+      "oi": 2,
+      "row": {
+        "MasterName": "Baishan Kai",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_42162fbd382d",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Langting Jingting",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_42162fbd382d",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Langting Jingting",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4aa29a0183ae",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Moan Xingdao",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4aa29a0183ae",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Liaoan Yu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4cf045deab37",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Huaiyu Xuan Shouzuo",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4cf045deab37",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Weishan Lingyou",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_4cf045deab37",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Puming",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4f088a7a7f47",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Moan Xingdao",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_4f088a7a7f47",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Liaoan Yu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_539b931c442a",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Yixian",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_539b931c442a",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Yixian",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_539b931c442a",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Cilang",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_539b931c442a",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Guishan Gumei",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_539b931c442a",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Jie'an Wujin",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_57145bc70a8d",
+      "si": 2,
+      "oi": 3,
+      "row": {
+        "MasterName": "Wanfeng Zhishan",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_66630c6a8a37",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Fangrong Tongxi",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_66630c6a8a37",
+      "si": 2,
+      "oi": 2,
+      "row": {
+        "MasterName": "Zhang Hui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_8f89b12a0cc0",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Baichi Yuan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_8f89b12a0cc0",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Changping",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_8f89b12a0cc0",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Guizong Daoquan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_8f89b12a0cc0",
+      "si": 1,
+      "oi": 8,
+      "row": {
+        "MasterName": "Ganzhi",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_972b8e6cebdd",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Ananda",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_972b8e6cebdd",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Ananda",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_972b8e6cebdd",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Ananda",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_9bddb36dfcaf",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Guxue Zhe",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_9e7c2fb12ad9",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Zhengdang Mingbian",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_9e7c2fb12ad9",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Luohan Xinglin Zuyin",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_b437e79a4646",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Fu Shangpan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Renshan Qingxian",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Pin Jixiang",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Guxue Zhe",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_ba6668ef3e6e",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Shakyamuni Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_ba6668ef3e6e",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Yuelin Zongshan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_ba6668ef3e6e",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Mahakasyapa",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_ba6668ef3e6e",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Ananda",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_ba6668ef3e6e",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Shi Zhicheng",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_bb19ed0e0fab",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Jiexian",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_bb19ed0e0fab",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Guxue Zhe",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_bb19ed0e0fab",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Yuejian Shanquan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_bc9b4740f883",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Zifu Zhensui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_bc9b4740f883",
+      "si": 1,
+      "oi": 9,
+      "row": {
+        "MasterName": "Daweishan Cheng",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 8,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 9,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 11,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 13,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 15,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_c875e45fbb9d",
+      "si": 1,
+      "oi": 17,
+      "row": {
+        "MasterName": "The Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Shakyamuni Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Guoqing Feng",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Shaoshan Huanpu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Nantai Yungong",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 7,
+      "row": {
+        "MasterName": "Shakyamuni Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 8,
+      "row": {
+        "MasterName": "Fayun Faxiu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cb3571346f22",
+      "si": 1,
+      "oi": 10,
+      "row": {
+        "MasterName": "Hefeng",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cc6b4c4e9ba8",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Linyang Zhiduan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cc6b4c4e9ba8",
+      "si": 1,
+      "oi": 3,
+      "row": {
+        "MasterName": "Liu Jingchen",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cc6b4c4e9ba8",
+      "si": 1,
+      "oi": 4,
+      "row": {
+        "MasterName": "Shangfang Riyi",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_cc6b4c4e9ba8",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Shakyamuni Buddha",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-verse-author",
+      "entry": "t_e34e9defcb79",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Shiting Zuxun",
+        "Roles": [
+          "verse-author"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e62a6a10b2f9",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Dahong Shousui",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e62a6a10b2f9",
+      "si": 1,
+      "oi": 6,
+      "row": {
+        "MasterName": "Zhean Jingfan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e62a6a10b2f9",
+      "si": 2,
+      "oi": 1,
+      "row": {
+        "MasterName": "Buyan Le",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e69d7df930ca",
+      "si": 1,
+      "oi": 1,
+      "row": {
+        "MasterName": "Jinniu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e69d7df930ca",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Jinniu",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e69d7df930ca",
+      "si": 2,
+      "oi": 1,
+      "row": {
+        "MasterName": "Guxue Zhe",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e69d7df930ca",
+      "si": 2,
+      "oi": 2,
+      "row": {
+        "MasterName": "Zhean Jingfan",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "muc-utterer",
+      "entry": "t_e69d7df930ca",
+      "si": 3,
+      "oi": 1,
+      "row": {
+        "MasterName": "Langting Jingting",
+        "Roles": [
+          "utterer"
+        ]
+      }
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_1793c3514a69",
+      "si": 1,
+      "field": "Explanation",
+      "find": "when a speaker carries a saying, exchange, or disputed comparison into a further interview and asks another master about it",
+      "replace": "when a questioner carries a saying, exchange, or disputed comparison into a further interview and asks the answering master about it"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_1793c3514a69",
+      "si": 1,
+      "field": "Explanation",
+      "find": "to a master, and Jiashan raises the matter",
+      "replace": "to Damei Fachang, and Jiashan raises the matter"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_1793c3514a69",
+      "si": 1,
+      "field": "Explanation",
+      "find": "Another monk raises the staff of Deshan and shout of Linji and asks what side they clarify; the master tells him",
+      "replace": "An unnamed monk raises the staff of Deshan and shout of Linji and asks what side they clarify; Shoushan Xingnian tells him"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_9e7c2fb12ad9",
+      "si": 1,
+      "field": "Explanation",
+      "find": "records a teacher lifting a live cat",
+      "replace": "records Luohan Xinglin Zuyin lifting a live cat"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b437e79a4646",
+      "si": 1,
+      "field": "Explanation",
+      "find": "the master's answer examines him",
+      "replace": "Zhanran Yuancheng's answer examines him"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b437e79a4646",
+      "si": 1,
+      "field": "Explanation",
+      "find": "and the master answers",
+      "replace": "and Muzhou Daoming answers"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b437e79a4646",
+      "si": 1,
+      "field": "Explanation",
+      "find": "in appraisals of a speaker's response",
+      "replace": "in appraisals of the respondent's answer"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "field": "Explanation",
+      "find": "it marks a master putting a question to monks",
+      "replace": "it marks the bestowing master putting a question to monks"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "field": "Explanation",
+      "find": "A monk later recalls a question bestowed",
+      "replace": "An unnamed monk later recalls a question bestowed"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "field": "Explanation",
+      "find": "on a snowy day the master asks why the solitary peak is not white",
+      "replace": "on a snowy day Pin Jixiang asks why the solitary peak is not white"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "field": "Explanation",
+      "find": "none of which the master accepts",
+      "replace": "none of which Guxue Zhe accepts"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_b95cbb303b12",
+      "si": 1,
+      "field": "Explanation",
+      "find": "the master publicly or privately puts the question",
+      "replace": "the bestowing master publicly or privately puts the question"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_cc6b4c4e9ba8",
+      "si": 1,
+      "field": "Explanation",
+      "find": "A monk asks why Radiant Light",
+      "replace": "An unnamed monk asks why Radiant Light"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_e69d7df930ca",
+      "si": 1,
+      "field": "Explanation",
+      "find": "both name the master and preserve the action",
+      "replace": "both name Jinniu and preserve the action"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_e69d7df930ca",
+      "si": 1,
+      "field": "Explanation",
+      "find": "The person belongs on the master roster",
+      "replace": "The person belongs on the roster of masters"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_f758d1e27978",
+      "si": 1,
+      "field": "Explanation",
+      "find": "Another master calls",
+      "replace": "Hanyue Fazang calls"
+    },
+    {
+      "class": "vague-reword",
+      "entry": "t_1793c3514a69",
+      "si": 1,
+      "field": "Note",
+      "find": "differing from a master's newly bestowed question",
+      "replace": "differing from the bestowing master's newly bestowed question"
+    },
+    {
+      "class": "dangling-anchor",
+      "entry": "t_057cc9ea8755",
+      "si": 1,
+      "anchorSha256": "efd071ea0ae1bc74f7fe5c18ad27c6600528f130a4deb9770322edfac8ed5a9c",
+      "strings": [
+        "萬法朗然",
+        "何思何慮",
+        "只此便是攝心處",
+        "攝心處"
+      ]
+    },
+    {
+      "class": "performer-context-row",
+      "entry": "t_4e3f766f716c",
+      "si": 1,
+      "oi": 2,
+      "row": {
+        "MasterName": "Yunyan Tansheng",
+        "Roles": [
+          "case-figure",
+          "action-performer"
+        ]
+      }
+    },
+    {
+      "class": "performer-context-row",
+      "entry": "t_f6631a24e33e",
+      "si": 1,
+      "oi": 5,
+      "row": {
+        "MasterName": "Huitang Zuxin",
+        "Roles": [
+          "case-figure",
+          "action-performer"
+        ]
+      }
+    },
+    {
+      "class": "performer-grammar-proof",
+      "entry": "t_2e77bc793d0c",
+      "si": 1,
+      "oi": 4,
+      "sentence": "Action performer: the unnamed author of the verse after 頌曰, not the embedded 趙州 or 投子 actions (reviewed-unnamed)"
+    },
+    {
+      "class": "anon-monk-restructure",
+      "entry": "t_e4b1a839b06d",
+      "si": 1,
+      "oi": 3,
+      "respondentMaster": "Miyin Zhenchuan",
+      "actorLabel": "the unnamed questioning monk"
+    },
+    {
+      "class": "grammar-evidence-repeat",
+      "entry": "t_968a2f97c9ff",
+      "si": 1,
+      "oi": 4,
+      "label": "Jinsu Zhi"
+    },
+    {
+      "class": "reviewed-fields",
+      "entry": "t_968a2f97c9ff",
+      "si": 1,
+      "oi": 4,
+      "reviewedBy": "A1 attribution repair gates + blind r1"
+    },
+    {
+      "class": "anchor-remove",
+      "entry": "t_2e77bc793d0c",
+      "si": 1,
+      "anchorIndex": 0,
+      "removedRelPath": "T/T48/T48n2003.xml",
+      "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence."
+    }
+  ],
+  "entryShas": {
+    "t_057cc9ea8755": "a314b8aa2fe2c429c89a3d56456771abf0f65c3f83f30394acd3ae5ac59471b0",
+    "t_0b56e6349db2": "74ebdbd25d064bba18f9d39013ce95ec16a852de19a99601cc3cb55de7cda404",
+    "t_1793c3514a69": "a51b7e57ded6532d8a9fe2a6c77a825c2ed5ea6098db50a4b167c4b64478c049",
+    "t_1b76e4ae53f0": "a6b5f44ab87d94a2d82e5df58afbb5bd0e8f9d2f186b1b80f67e9bc05bbba794",
+    "t_2e77bc793d0c": "2721d9391a1edc0ddb7f3e975719317ad86aedf742b37ba2f0bc8b8ee69d85d4",
+    "t_351fa42d396b": "81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a",
+    "t_38e49b09cf9d": "065d5b67b4db64667b728f57dec5ff6d2e318d4bbeabaa039f1a7af59b1ff1f6",
+    "t_3c1e31a193cd": "458bd56ba2cd7bed6d44cfd927274af0c7a9ce959ea562b5a193121b12a997ab",
+    "t_42162fbd382d": "2a12eb068eaab8f2251f29a8b2d4ffba9fb8fff499216bde9aba00f29b14a09f",
+    "t_4aa29a0183ae": "14e5da5daadbfd318ec4afc3e3f10e1cd9702dacbd109ca95f8ddc33be4124d1",
+    "t_4cf045deab37": "85c94c08ca1b632637214e1650b8809669b0895b72145b106333c7ff5e0d302f",
+    "t_4e3f766f716c": "0813b74acb166284a0cf7f2f0803e5bcdbfa612f8a0704eb16538ccbf8a8207c",
+    "t_4f088a7a7f47": "566a149d4b6c2609aff2dbab1fb68d891372a3b58a8402592eaeb27fa667ac9a",
+    "t_539b931c442a": "1d1e2d44ae05febd6a0e5c24fe72f50eba56bb2dc3f49477534887fa7e998a40",
+    "t_57145bc70a8d": "903d6deaea01e7b1f3c50282849083607349772c27bfca9614dbe5e586f503c3",
+    "t_66630c6a8a37": "6a856cd9d2e71e91e9e9a53e7edd8f05fad59e095eec7f119c49d0572a11c0eb",
+    "t_8f89b12a0cc0": "11bfbeab5f40c25f1108c71a3429bd8c56de9aa66951ce9863f07e37f7a2eff9",
+    "t_968a2f97c9ff": "611ee7b63ee0591f352bf65a01f6d1e2c6f74ca44dfabc50b9981d163ea95968",
+    "t_972b8e6cebdd": "a2ca9a6278115dc48cda024d76ffe91c0e5810ac2b98b616bdf42ce89a9e4dd3",
+    "t_9bddb36dfcaf": "c2ff816bee9bc9cb574b9e2faa19c5bab3ab689666fa79be4ae9152c047ba70b",
+    "t_9e7c2fb12ad9": "adbf786c3f36d136120a6d6b3fbd2a06704b901bb5eb804160d01189f16ba332",
+    "t_b437e79a4646": "f5df8d89d8a4811f26ce214f507286c5070e82c17616151e0d1048963fba0dbf",
+    "t_b95cbb303b12": "7451fa2d5f906bb8931c282bc30752814719e29b5c0772093058d2f0036f2031",
+    "t_ba6668ef3e6e": "26e96d401cfe1629b343f268aa56309773811f6341fbed3d108223b185d1ae9e",
+    "t_bb19ed0e0fab": "231cdb42e0aa2dbca391264120f80fd258b799a45c97208263c9748c49656323",
+    "t_bc9b4740f883": "7896a11b06ef67662420368e7db8891beab0f865e9f5d398f2b7d970269181b6",
+    "t_c875e45fbb9d": "b8c2013a884f84f331746aa5aebc53faff4f425e500f68ae9e398d10d6d56a50",
+    "t_cb3571346f22": "97332faf5cbbcb3d50cacf189c693996a978885c8b1d35c8934794de082ca549",
+    "t_cc6b4c4e9ba8": "ea190e747231600f04d15fde581e1dd76d29a10bca8ea8ccaa04a0ac2ecca8c3",
+    "t_e34e9defcb79": "1b0812cce19babcc75b12f1b22cfe2b6e4d1071317bfdcaf38d162692224c76d",
+    "t_e4b1a839b06d": "32f84ce76aed4338f2af21ea98ff16104c59367102e840cccae17c3f9407972e",
+    "t_e62a6a10b2f9": "920cbf315e9000900e2163a32561cc400a186f51ed581f34968d14503083d283",
+    "t_e69d7df930ca": "90bd2dd5eecafb9715d53f1d565077109cca9c542c72df102eaf21d149418200",
+    "t_f6631a24e33e": "32eaf7e217c5d702f4c812c1347daf03b5161c412b179b9674d88a4dd0e626e4",
+    "t_f758d1e27978": "ce1bd1e76e28ead2677ac173d7178075ab299f85047ffa8e1b557695b26b4bbb"
+  },
+  "preStateShas": {
+    "t_057cc9ea8755": "89af5af25328bc96890000cc1b77eb906ccf3569c645690f302ea73ce7eebc9c",
+    "t_0b56e6349db2": "427ae16e4a918f1178b6955298a6c2583e11a4bbeabb6b4acd2bcf9fef1d9c5e",
+    "t_1793c3514a69": "e777643b5793e3cb72eab8815cbfa8aaf1123146b040e7e9d6f54bc93d8354fb",
+    "t_1b76e4ae53f0": "5df452622db642fd511d2351788d036ad99b4f94a8cb214aaa933e1dc1ef7d92",
+    "t_2e77bc793d0c": "810f368adbf4eb2701d021bebd6beb74d29e2430cb1eb3d6a20b111c465d4a8f",
+    "t_351fa42d396b": "320403630edf167d7731ff8b0a50bfb0e7c2bf283d6e138e3b2196a1f37c3259",
+    "t_38e49b09cf9d": "9da814f87811e96fb54815e5fb683568209ccbd940b22875fd4745dc9e4f7e76",
+    "t_3c1e31a193cd": "65e19cb15539e757e6cd9ece8ee162a430449c25769fa133b64cb57dc5ce7f46",
+    "t_42162fbd382d": "d9003bd205d4057f47e3002dbe07a747c2e7e118b8f7c1266c3124e437fbb99f",
+    "t_4aa29a0183ae": "4fece0d5d6ff9c6ecf60e51f1afa0105bcba36042f93c9ab53071a0c9fdcacf4",
+    "t_4cf045deab37": "afe17e8db336893eff6389d69f47d170a628b1f052d7d3feda8fe3dd373b20f6",
+    "t_4e3f766f716c": "8cc7f296e03637e1c6bdefc89bc69d5469c0146f11b6cd12ef10d0de1ac8c4e8",
+    "t_4f088a7a7f47": "b7278fc0fcd10a8c9edf30256587789f09ca4378be3fd820e7b01340a2792759",
+    "t_539b931c442a": "46bcf1089da13d01731fcf98d9e5bcc999a4bf3f8b31be07919fa337581ad7e7",
+    "t_57145bc70a8d": "f6ea0abeb091444fa166831b21a6cfba9f924a57ecb933f734302dc6a4c3a3d1",
+    "t_66630c6a8a37": "56bc8b3cb276bf936a9338719603320ffce24e5965bdc366bc6ef37cab78bac7",
+    "t_8f89b12a0cc0": "11cecdcd978dd30218d0e4aa1311086d9e57672853e8ccd848664560cf3f8f25",
+    "t_968a2f97c9ff": "e9de0b6142dda7f0f946b8aba3747ef690b650c9d5de57a5309506b95df99874",
+    "t_972b8e6cebdd": "09006f33133d79313548ac111c60250c3ba6f35703a1a1d10349fcff327051d8",
+    "t_9bddb36dfcaf": "5a3e8e9c621a6df21baa5a3b9a5ef430b6c765b189c1929c2edde559b634f591",
+    "t_9e7c2fb12ad9": "e87b7b4c9b556acf4a158caca8bb075d08dce66574a1eda25f7830a677acd6df",
+    "t_b437e79a4646": "30878aac4a63b59183b82a48f76f835b54273da04c5ce29f4c178da74ae9726c",
+    "t_b95cbb303b12": "237a1a97d9c353a98c862ca896443093213872c37c501427ceb90cbb73a78cbb",
+    "t_ba6668ef3e6e": "9a8a1335fb41552d607e40f9c9864a8f7c52e4adab1a15202349ce45bd0c155e",
+    "t_bb19ed0e0fab": "fea3697067d6f21ad6b43cc2d7326e9c4882e21eff25c08d843857a8f8db9d1c",
+    "t_bc9b4740f883": "b722eca71ac65fbfe961783a59654d7976cec33317604c35c019393020897606",
+    "t_c875e45fbb9d": "c87e2f21ebd09bb005bf91c658f3cc8bd92262127fd40f64854768f2f963529a",
+    "t_cb3571346f22": "e0683525a801d384af04c720945fee004d81cf1d857ef91080d1fecb4d6e04ed",
+    "t_cc6b4c4e9ba8": "c6719b36384a80226a6699b0e10b21f6f8a22b8160e100369147ca6709920315",
+    "t_e34e9defcb79": "cc0d8ca0b6dd84b60db692f7cc59c4cb66127c6c0bb1a70fa1214f45094ba09a",
+    "t_e4b1a839b06d": "bc0000d025516b968ac028132f52e93f852558a6727e538b8b5292c95a8cea5d",
+    "t_e62a6a10b2f9": "7dcebc82f56b037f65467418686edf1701ef41d79074848b7bad012ae032cd7d",
+    "t_e69d7df930ca": "28b5e8eaeb0d2f905018cb5d88d215a025c3edda9a86bf08f3ad8226e43b4605",
+    "t_f6631a24e33e": "50ed28358900e5b8a48c4b572bb85048588c30000274950dbd1607cf181f386b",
+    "t_f758d1e27978": "c91dc46d0a09f0e1ab06cc2c14fc7401967af848adadc45f838a6c091bfea3a0"
+  },
+  "applied": true
+}

@@ -1,0 +1,340 @@
+{
+  "Id": "t_1b76e4ae53f0",
+  "SourceTerm": "金彈子",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T17:51:32.685Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a gold pellet",
+      "AlternateTargets": [
+        "a gold ball",
+        "a costly gold projectile"
+      ],
+      "SearchAliases": [
+        "gold ball",
+        "golden ball",
+        "gold pellet",
+        "golden pellet",
+        "gold shot"
+      ],
+      "Status": "preferred",
+      "Explanation": "A gold pellet is a small round projectile cast from an expensive metal: it can be thrown at a bird, traded, or launched hard enough to strike a target. Chan records bend this extravagant shot into a portable public image for what named interlocutors offer, refuse to exchange, hammer in a furnace, or send through an opponent's ‘iron face,’ while later comments keep disputing its price and where it lands. Cishou Huaishen supplies the clearest object description: ‘one firing casts a gold pellet, perfectly round without tongs or hammer; take it to a ten-thousand-fathom peak and release it, knocking down the white phoenix at heaven's edge’ (一火鑄成金彈子，團欒都不費鉗鎚／拈來萬仞峯頭放，打落天邊白鳳兒). Shuangshan Yuan preserves the costly hunting scene: a young prince ‘does not stint yellow gold for pellets’ and shoots an oriole beneath flowering crabapple. These casting, roundness, throwing, target, and bird predicates establish an actual gold projectile as the ordinary image rather than a generic shining sphere. Nanquan Puyuan turns its comparative price into a public-interview refusal. A scripture lecturer offers to explain scripture if Nanquan explains Chan; Nanquan answers, ‘one cannot barter a gold pellet for a silver pellet’ (和尚須與某甲說禪／某甲與和尚講經／不可將金彈子博銀彈子去). The turn structure locally places Nanquan's requested explanation on the gold side and the offered lecture on the silver side. Zhengtang Bian's later verse confirms that value and price are at issue—‘people know what is precious but do not know the price’—without making gold a universal word for enlightenment. Fengxue Yanzhao uses the projectile force instead: when asked about flourishing auspicious grass in a desolate waste, he answers, ‘a gold pellet newly out of the red furnace breaks through the ācārya's iron face’ (新出紅爐金彈子，簉破闍梨鐵面皮). Longmen Foyan Qingyuan offers his gold pellets for the workers' clay pellets; Yingan Tanhua says that recognizing either one reveals where the other lands; Shiqi Tongyun points right and left for the two pellets, then says that even knowing through and through leaves one fit to carry bricks and earth. Zixian Jue later laughs that Luopu Yuanan traded Linji Yixuan's gold pellet for Jiashan Shanhui's clay pellet and invokes regret at not taking care at the start. Those named exchanges keep their local rankings and corrections; they do not turn every gold pellet into the same fixed code. Funeral addresses extend the same forged-and-launched object into appraisals of named Chan teachers. Sanyi Mingyu says one night's fire forged the deceased into a yellow-gold pellet to be raised before every quarter and scatter paired birds; Shending Yikui calls the yellow-gold pellet refined a hundred times in the red furnace Ke'an Lizong's lifelong people-facing functioning. Deming, a successor of Daxiu Zhu, throws one in a signed verse and says it breaks the trace from before Awesome Sound. Across interview, verse, funeral, and old-case commentary, the Zen bend is therefore observable action: a costly projectile becomes something Nanquan can refuse to trade and other named speakers can forge, point out, throw, or use to breach a hardened face. The corpus does not equate the pellet itself, or gold everywhere, with enlightenment.",
+      "Validation": "multi-source",
+      "Note": "The apparatus-clean concordance contains 83 exact matches in 61 texts. One sense covers the same imagined object under casting, roundness, trading, throwing, shooting, striking, and funeral-forging predicates; those are actions and appraisals, not different things. The separately written gold-ball term is a different lexical object whose rolling and reflection scenes do not buy depth here. Nine standalone witnesses preserve the gold/silver exchange, furnace and casting predicates, three separately attributed gold/clay turns, and launched-projectile frames. Two marked family witnesses preserve the longer yellow-gold pellet form. Three marked contrast witnesses preserve Zhengtang Bian's headword-free price verse, Shuangshan Yuan's yellow-gold material scene, and the distinct gold-ball spelling without inflating the headword's evidence floor.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0259a16",
+          "ToLb": "0259a18",
+          "Kwic": "師問坐主云。爾與我講經得麼對云。某甲與和尚講經。和尚須與某甲說禪始得。師云。不可將金彈子博銀彈子去。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). In Nanquan Puyuan's section: a scripture lecturer offers to explain scripture if Nanquan explains Chan; Nanquan refuses to barter a gold pellet for a silver pellet.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0674a21",
+          "ToLb": "0674a24",
+          "Kwic": "南泉謂座主曰你與我講經得麼主曰和尚與某甲說禪某甲與和尚講經師曰不可將金彈子換銀彈子去。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集). Transmits Nanquan Puyuan's exact exchange: Nanquan refuses to exchange a gold pellet for a silver pellet. This row stops before Zhengtang Bian's appended verse, so MasterName identifies the headword speaker.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0681b02",
+          "ToLb": "0681b04",
+          "Kwic": "上堂：未明有說俱成謗，明了無言亦是非。揑就泥丸金彈子，打破闍黎鐵面皮。",
+          "MasterName": null,
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In the section of Jingtong of Zongjing in Yuezhou (越州宗鏡眉悉淨通禪師), the upper-hall verse says that before clarity any speaking becomes slander and after clarity even wordlessness is right and wrong, then: pinch a gold pellet out of clay and break through the novice's iron face (揑就泥丸金彈子，打破闍黎鐵面皮). Jingtong is source-attested but not yet in the roster.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "upper-hall verse",
+            "ActorLabel": "Jingtong",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X82n1571 0681b02-04: the section heading reads 越州宗鏡眉悉淨通禪師 and the turn opens 上堂：未明有說俱成謗，明了無言亦是非。揑就泥丸金彈子，打破闍黎鐵面皮。 the headword sits inside Jingtong's own upper-hall verse; the line, the expanded context, the section header, the book title, the TEI header, and exact and parallel searches identify him only as Jingtong (淨通), source-attested but not yet a roster-linked master, so he stays the identified unlinked utterer of the verse.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X78/X78n1553.xml",
+          "FromLb": "0490b03",
+          "ToLb": "0490b04",
+          "Kwic": "問：滿目荒郊翠，瑞草却滋榮時如何？師云：新出紅爐金彈子，簉破闍梨鐵面皮。",
+          "MasterName": "Fengxue Yanzhao",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record (天聖廣燈錄). Under the explicit Fengxue Yanzhao heading: Fengxue answers the question with a gold pellet newly out of the red furnace smashing through the ācārya's iron face.",
+          "ContextMasters": [
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0007a08",
+          "ToLb": "0007a10",
+          "Kwic": "慈受深云：一火鑄成金彈子，團欒都不費鉗鎚。拈來萬仞峯頭放，打落天邊白鳳兒。",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove (禪林類聚). Explicitly attributes this verse to Cishou Huaishen: one firing casts the gold pellet round without tongs or hammer, and releasing it from a high peak knocks down a white phoenix.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0504a12",
+          "ToLb": "0504a13",
+          "Kwic": "昔日龍門遠祖道：『汝等為我修造，我為汝說禪，我將金彈子換你們泥彈子。』",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou (雪竇石奇禪師語錄). Explicitly raises Foyan Qingyuan, called the distant Longmen ancestor, saying that he will exchange his gold pellet for the workers' clay pellets. This trimmed row contains Foyan's quoted headword turn only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0504a13",
+          "ToLb": "0504a15",
+          "Kwic": "應庵祖云：『若識得金彈子，便知泥彈子落處；若識得泥彈子，便知金彈子落處。』",
+          "MasterName": "Yingan Tanhua",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou (雪竇石奇禪師語錄). Explicitly introduces Yingan Tanhua's comment that recognizing either the gold pellet or the clay pellet reveals where the other lands. This trimmed row contains Yingan's quoted headword turn only.",
+          "ContextMasters": [],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 金彈子 spans sit inside Yingan Tanhua's single quoted comment under the one 應庵祖云 quotation boundary; each half of the contrast names the other pellet, so no second actor or turn owns a span."
+          }
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0504a15",
+          "ToLb": "0504a18",
+          "Kwic": "師云：「大眾要識金彈子麼？」以拄杖右邊卓云：「者裏是。要識泥彈子麼？」以拄杖左邊卓云：「者裏是。還知麼？直饒你知得透頂透底去，正好來擔磚運木。何故？放過則不得。」",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou (雪竇石奇禪師語錄). Shiqi Tongyun asks whether the assembly wants to recognize the gold pellet, points right and left for the gold and clay pellets, and says that even knowing through and through still leaves one fit to carry bricks and earth. This row begins after the two quoted ancestors and contains Shiqi's own turn only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0679a11",
+          "ToLb": "0679a12",
+          "Kwic": "問：大顛擯首座，意旨如何？師曰：為打黃鶯兒，不惜金彈子。",
+          "MasterName": "Baiyan Fu",
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Asked about Dadian's expulsion of the first seat, Baiyan Fu of Qiantang (錢塘白巖位中淨符禪師) answers with the old image: to strike the yellow oriole one does not grudge the gold pellet (為打黃鶯兒，不惜金彈子).",
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyan Fu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0067a12",
+          "ToLb": "0067a14",
+          "Kwic": "昨夜一火，鍛成箇黃金彈子，不妨拈來，舉似諸方，打散了雙飛孤燕，驚起了獨宿鴛鴦，活捉得南山鱉鼻。",
+          "MasterName": "Sanyi Mingyu",
+          "EvidenceRole": "family",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu (三宜盂禪師語錄). Sanyi Mingyu says that the night's fire forged the deceased Qiri into a yellow-gold pellet that can be raised before every quarter, scatter paired birds, and catch the southern mountain's viper.",
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0486c05",
+          "ToLb": "0486c07",
+          "Kwic": "黃金彈子，百煉紅爐，此是可菴和尚生平徹骨為人之機用，直得體竭形消而不沒，金流樸散而常存。",
+          "MasterName": "Shending Yikui",
+          "EvidenceRole": "family",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending (神鼎一揆禪師語錄). Shending Yikui calls the yellow-gold pellet refined a hundred times in the red furnace Ke'an Lizong's lifelong, penetrating people-facing functioning.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0201c17",
+          "ToLb": "0201c18",
+          "Kwic": "遠山風送幾千里，白雲深處日輪紅，撒手一拋金彈子，擊破威音那畔蹤。",
+          "MasterName": "Deming",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu (大休珠禪師語錄). In volume six of Daxiu Zhu's Hundred Questions (大休珠禪師住越城天華寺百問), explicitly bylines the answers and verses to his successor Deming (嗣法弟子德明答頌). Deming writes that letting go and throwing the gold pellet breaks the trace from before Awesome Sound. Deming is not yet on the roster.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0552c02",
+          "ToLb": "0552c03",
+          "Kwic": "拈云：「洛浦將得臨濟金彈子換得夾山泥彈子，只是好笑。且道笑箇甚麼？不見道：『悔不慎初。』」",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue (自閒覺禪師語錄). Zixian Jue laughs that Luopu Yuanan traded Linji Yixuan's gold pellet for Jiashan Shanhui's clay pellet and invokes the saying about regretting a failure to take care at the start.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0552b14",
+          "ToLb": "0552b16",
+          "Kwic": "僧問。師唱誰家曲宗風嗣阿誰。師曰。紅爐金彈子。僧云。還許學人接也無。師曰。簉破闍黎銕面皮。",
+          "MasterName": null,
+          "EvidenceRole": "contrast",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In the biography of Dinglin Jingfang of Zhidu mountain in Tanzhou (潭州智度山定林景芳禪師), asked whose song he sings and whose house he inherits, he answers 'a gold pellet from the red furnace' (紅爐金彈子), and to whether the student may catch it, 'burst through the novice's iron face.' Dinglin Jingfang is source-attested but not yet in the roster.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "upper-hall answer",
+            "ActorLabel": "Dinglin Jingfang",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "T51n2077 0552b14-16: the biography heading reads 潭州智度山定林景芳禪師 and the exchange runs 僧問。師唱誰家曲宗風嗣阿誰。師曰。紅爐金彈子。僧云。還許學人接也無。師曰。簉破闍黎銕面皮。 the headword stands inside the master's two answers (師曰), so Dinglin Jingfang is the identified unlinked utterer of the headword-bearing turn; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches find him source-attested but not yet a roster-linked master.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T51/T51n2076.xml",
+        "C/C078/C078n1720.xml",
+        "X/X78/X78n1553.xml",
+        "X/X67/X67n1299.xml",
+        "J/J26/J26nB183.xml",
+        "X/X83/X83n1574.xml",
+        "J/J27/J27nB189.xml",
+        "J/J37/J37nB388.xml",
+        "J/J27/J27nB192.xml",
+        "J/J33/J33nB287.xml",
+        "T/T51/T51n2077.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Zhengtang Bian",
+        "Fengxue Yanzhao",
+        "Cishou Huaishen",
+        "Foyan Qingyuan",
+        "Yingan Tanhua",
+        "Shiqi Tongyun",
+        "Shuangshan Yuan",
+        "Sanyi Mingyu",
+        "Ke'an Lizong",
+        "Shending Yikui",
+        "Daxiu Zhu",
+        "Deming",
+        "Zixian Jue",
+        "Luopu Yuanan",
+        "Linji Yixuan",
+        "Jiashan Shanhui",
+        "Dahong Shousui"
+      ],
+      "RelatedTerms": [
+        "金",
+        "黃金",
+        "銀",
+        "銀彈子",
+        "泥彈子",
+        "金毬",
+        "金球",
+        "紅爐",
+        "鐵面皮"
+      ]
+    }
+  ]
+}

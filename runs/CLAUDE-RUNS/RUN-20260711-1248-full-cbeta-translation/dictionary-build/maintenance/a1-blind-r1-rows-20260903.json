@@ -1,0 +1,1730 @@
+{
+ "schemaVersion": "a1-blind-r1-rows",
+ "materialsDir": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\a1-blind-r1-materials",
+ "materials": {
+  "pre/t_057cc9ea8755.json": "89af5af25328bc96890000cc1b77eb906ccf3569c645690f302ea73ce7eebc9c",
+  "post/t_057cc9ea8755.json": "a314b8aa2fe2c429c89a3d56456771abf0f65c3f83f30394acd3ae5ac59471b0",
+  "pre/t_0b56e6349db2.json": "427ae16e4a918f1178b6955298a6c2583e11a4bbeabb6b4acd2bcf9fef1d9c5e",
+  "post/t_0b56e6349db2.json": "74ebdbd25d064bba18f9d39013ce95ec16a852de19a99601cc3cb55de7cda404",
+  "pre/t_1793c3514a69.json": "e777643b5793e3cb72eab8815cbfa8aaf1123146b040e7e9d6f54bc93d8354fb",
+  "post/t_1793c3514a69.json": "a51b7e57ded6532d8a9fe2a6c77a825c2ed5ea6098db50a4b167c4b64478c049",
+  "pre/t_1b76e4ae53f0.json": "5df452622db642fd511d2351788d036ad99b4f94a8cb214aaa933e1dc1ef7d92",
+  "post/t_1b76e4ae53f0.json": "a6b5f44ab87d94a2d82e5df58afbb5bd0e8f9d2f186b1b80f67e9bc05bbba794",
+  "pre/t_2e77bc793d0c.json": "810f368adbf4eb2701d021bebd6beb74d29e2430cb1eb3d6a20b111c465d4a8f",
+  "post/t_2e77bc793d0c.json": "2721d9391a1edc0ddb7f3e975719317ad86aedf742b37ba2f0bc8b8ee69d85d4",
+  "pre/t_351fa42d396b.json": "320403630edf167d7731ff8b0a50bfb0e7c2bf283d6e138e3b2196a1f37c3259",
+  "post/t_351fa42d396b.json": "81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a",
+  "pre/t_38e49b09cf9d.json": "9da814f87811e96fb54815e5fb683568209ccbd940b22875fd4745dc9e4f7e76",
+  "post/t_38e49b09cf9d.json": "065d5b67b4db64667b728f57dec5ff6d2e318d4bbeabaa039f1a7af59b1ff1f6",
+  "pre/t_3c1e31a193cd.json": "65e19cb15539e757e6cd9ece8ee162a430449c25769fa133b64cb57dc5ce7f46",
+  "post/t_3c1e31a193cd.json": "458bd56ba2cd7bed6d44cfd927274af0c7a9ce959ea562b5a193121b12a997ab",
+  "pre/t_42162fbd382d.json": "d9003bd205d4057f47e3002dbe07a747c2e7e118b8f7c1266c3124e437fbb99f",
+  "post/t_42162fbd382d.json": "2a12eb068eaab8f2251f29a8b2d4ffba9fb8fff499216bde9aba00f29b14a09f",
+  "pre/t_4aa29a0183ae.json": "4fece0d5d6ff9c6ecf60e51f1afa0105bcba36042f93c9ab53071a0c9fdcacf4",
+  "post/t_4aa29a0183ae.json": "14e5da5daadbfd318ec4afc3e3f10e1cd9702dacbd109ca95f8ddc33be4124d1",
+  "pre/t_4cf045deab37.json": "afe17e8db336893eff6389d69f47d170a628b1f052d7d3feda8fe3dd373b20f6",
+  "post/t_4cf045deab37.json": "85c94c08ca1b632637214e1650b8809669b0895b72145b106333c7ff5e0d302f",
+  "pre/t_4e3f766f716c.json": "8cc7f296e03637e1c6bdefc89bc69d5469c0146f11b6cd12ef10d0de1ac8c4e8",
+  "post/t_4e3f766f716c.json": "0813b74acb166284a0cf7f2f0803e5bcdbfa612f8a0704eb16538ccbf8a8207c",
+  "pre/t_4f088a7a7f47.json": "b7278fc0fcd10a8c9edf30256587789f09ca4378be3fd820e7b01340a2792759",
+  "post/t_4f088a7a7f47.json": "566a149d4b6c2609aff2dbab1fb68d891372a3b58a8402592eaeb27fa667ac9a",
+  "pre/t_539b931c442a.json": "46bcf1089da13d01731fcf98d9e5bcc999a4bf3f8b31be07919fa337581ad7e7",
+  "post/t_539b931c442a.json": "1d1e2d44ae05febd6a0e5c24fe72f50eba56bb2dc3f49477534887fa7e998a40",
+  "pre/t_57145bc70a8d.json": "f6ea0abeb091444fa166831b21a6cfba9f924a57ecb933f734302dc6a4c3a3d1",
+  "post/t_57145bc70a8d.json": "903d6deaea01e7b1f3c50282849083607349772c27bfca9614dbe5e586f503c3",
+  "pre/t_66630c6a8a37.json": "56bc8b3cb276bf936a9338719603320ffce24e5965bdc366bc6ef37cab78bac7",
+  "post/t_66630c6a8a37.json": "6a856cd9d2e71e91e9e9a53e7edd8f05fad59e095eec7f119c49d0572a11c0eb",
+  "pre/t_8f89b12a0cc0.json": "11cecdcd978dd30218d0e4aa1311086d9e57672853e8ccd848664560cf3f8f25",
+  "post/t_8f89b12a0cc0.json": "11bfbeab5f40c25f1108c71a3429bd8c56de9aa66951ce9863f07e37f7a2eff9",
+  "pre/t_968a2f97c9ff.json": "e9de0b6142dda7f0f946b8aba3747ef690b650c9d5de57a5309506b95df99874",
+  "post/t_968a2f97c9ff.json": "611ee7b63ee0591f352bf65a01f6d1e2c6f74ca44dfabc50b9981d163ea95968",
+  "pre/t_972b8e6cebdd.json": "09006f33133d79313548ac111c60250c3ba6f35703a1a1d10349fcff327051d8",
+  "post/t_972b8e6cebdd.json": "a2ca9a6278115dc48cda024d76ffe91c0e5810ac2b98b616bdf42ce89a9e4dd3",
+  "pre/t_9bddb36dfcaf.json": "5a3e8e9c621a6df21baa5a3b9a5ef430b6c765b189c1929c2edde559b634f591",
+  "post/t_9bddb36dfcaf.json": "c2ff816bee9bc9cb574b9e2faa19c5bab3ab689666fa79be4ae9152c047ba70b",
+  "pre/t_9e7c2fb12ad9.json": "e87b7b4c9b556acf4a158caca8bb075d08dce66574a1eda25f7830a677acd6df",
+  "post/t_9e7c2fb12ad9.json": "adbf786c3f36d136120a6d6b3fbd2a06704b901bb5eb804160d01189f16ba332",
+  "pre/t_b437e79a4646.json": "30878aac4a63b59183b82a48f76f835b54273da04c5ce29f4c178da74ae9726c",
+  "post/t_b437e79a4646.json": "f5df8d89d8a4811f26ce214f507286c5070e82c17616151e0d1048963fba0dbf",
+  "pre/t_b95cbb303b12.json": "237a1a97d9c353a98c862ca896443093213872c37c501427ceb90cbb73a78cbb",
+  "post/t_b95cbb303b12.json": "7451fa2d5f906bb8931c282bc30752814719e29b5c0772093058d2f0036f2031",
+  "pre/t_ba6668ef3e6e.json": "9a8a1335fb41552d607e40f9c9864a8f7c52e4adab1a15202349ce45bd0c155e",
+  "post/t_ba6668ef3e6e.json": "26e96d401cfe1629b343f268aa56309773811f6341fbed3d108223b185d1ae9e",
+  "pre/t_bb19ed0e0fab.json": "fea3697067d6f21ad6b43cc2d7326e9c4882e21eff25c08d843857a8f8db9d1c",
+  "post/t_bb19ed0e0fab.json": "231cdb42e0aa2dbca391264120f80fd258b799a45c97208263c9748c49656323",
+  "pre/t_bc9b4740f883.json": "b722eca71ac65fbfe961783a59654d7976cec33317604c35c019393020897606",
+  "post/t_bc9b4740f883.json": "7896a11b06ef67662420368e7db8891beab0f865e9f5d398f2b7d970269181b6",
+  "pre/t_c875e45fbb9d.json": "c87e2f21ebd09bb005bf91c658f3cc8bd92262127fd40f64854768f2f963529a",
+  "post/t_c875e45fbb9d.json": "b8c2013a884f84f331746aa5aebc53faff4f425e500f68ae9e398d10d6d56a50",
+  "pre/t_cb3571346f22.json": "e0683525a801d384af04c720945fee004d81cf1d857ef91080d1fecb4d6e04ed",
+  "post/t_cb3571346f22.json": "97332faf5cbbcb3d50cacf189c693996a978885c8b1d35c8934794de082ca549",
+  "pre/t_cc6b4c4e9ba8.json": "c6719b36384a80226a6699b0e10b21f6f8a22b8160e100369147ca6709920315",
+  "post/t_cc6b4c4e9ba8.json": "ea190e747231600f04d15fde581e1dd76d29a10bca8ea8ccaa04a0ac2ecca8c3",
+  "pre/t_e34e9defcb79.json": "cc0d8ca0b6dd84b60db692f7cc59c4cb66127c6c0bb1a70fa1214f45094ba09a",
+  "post/t_e34e9defcb79.json": "1b0812cce19babcc75b12f1b22cfe2b6e4d1071317bfdcaf38d162692224c76d",
+  "pre/t_e4b1a839b06d.json": "bc0000d025516b968ac028132f52e93f852558a6727e538b8b5292c95a8cea5d",
+  "post/t_e4b1a839b06d.json": "32f84ce76aed4338f2af21ea98ff16104c59367102e840cccae17c3f9407972e",
+  "pre/t_e62a6a10b2f9.json": "7dcebc82f56b037f65467418686edf1701ef41d79074848b7bad012ae032cd7d",
+  "post/t_e62a6a10b2f9.json": "920cbf315e9000900e2163a32561cc400a186f51ed581f34968d14503083d283",
+  "pre/t_e69d7df930ca.json": "28b5e8eaeb0d2f905018cb5d88d215a025c3edda9a86bf08f3ad8226e43b4605",
+  "post/t_e69d7df930ca.json": "90bd2dd5eecafb9715d53f1d565077109cca9c542c72df102eaf21d149418200",
+  "pre/t_f6631a24e33e.json": "50ed28358900e5b8a48c4b572bb85048588c30000274950dbd1607cf181f386b",
+  "post/t_f6631a24e33e.json": "32eaf7e217c5d702f4c812c1347daf03b5161c412b179b9674d88a4dd0e626e4",
+  "pre/t_f758d1e27978.json": "c91dc46d0a09f0e1ab06cc2c14fc7401967af848adadc45f838a6c091bfea3a0",
+  "post/t_f758d1e27978.json": "ce1bd1e76e28ead2677ac173d7178075ab299f85047ffa8e1b557695b26b4bbb"
+ },
+ "rows": [
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "respondent"
+   ],
+   "attributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Langting Jingting answers the direct question about a probing-question by saying that it greatly belabors a person.",
+   "rowId": "R0000",
+   "rowSha": "fef80389824c1ae37b7e0ce4f1498471d83e8f44c33b49cd34272080e5cc2bfd"
+  },
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Langting Jingting answers the direct question about a probing-question by saying that it greatly belabors a person.",
+   "rowId": "R0001",
+   "rowSha": "6d4eec2df1030994ed7804e3c22d496569ab3289da0290d369d5ed583b3b3dda"
+  },
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Langmu Benzhi",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J25/J25nB166.xml). Dharma Sayings of Fushan (浮山法句). Wang Shunding records Langmu Benzhi repeatedly interrogating Shikui and then pressing him with a question from the Heart Sutra.",
+   "rowId": "R0002",
+   "rowSha": "1ccdd2c714ef74ab47d4ec59f93df5cdaebe18f95d30bc4351cecb01983fea9c"
+  },
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 1,
+   "masterName": "Huigong Xiong",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai (南海寶象林慧弓詗禪師語錄). Huigong Xiong contrasts Bodhidharma's response to one imperial summons with Daoxin's refusal to rise after three summonses.",
+   "rowId": "R0003",
+   "rowSha": "4eb5e8cba322ead87483ddbcb328e4609ae4c0e625364ef4a4e25442b7b06839"
+  },
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 3,
+   "oi": 1,
+   "masterName": "Mizang Daokai",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Chan Master Micang Kai (密藏開禪師遺稿). Mizang Daokai petitions that the monastery be exempted from the burden of collecting a grain levy.",
+   "rowId": "R0004",
+   "rowSha": "ebc1324de10de5e7804fc7ac7f7a9bd0d588ddddddb774310430eab3c987f273"
+  },
+  {
+   "entry": "t_1b76e4ae53f0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Yingan Tanhua",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou (雪竇石奇禪師語錄). Explicitly introduces Yingan Tanhua's comment that recognizing either the gold pellet or the clay pellet reveals where the other lands. This trimmed row contains Yingan's quoted headword turn only.",
+   "rowId": "R0005",
+   "rowSha": "efab14160c4f643dbca1f1d5fa47e28b1cc58cb1cab4aa8e67d9032c581b1eae"
+  },
+  {
+   "entry": "t_1b76e4ae53f0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 11,
+   "masterName": "Shending Yikui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending (神鼎一揆禪師語錄). Shending Yikui calls the yellow-gold pellet refined a hundred times in the red furnace Ke'an Lizong's lifelong, penetrating people-facing functioning.",
+   "rowId": "R0006",
+   "rowSha": "19d53a1e88bf87e1de87901686ce59593aa383e1216eadd30061278eecee85dd"
+  },
+  {
+   "entry": "t_1b76e4ae53f0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 12,
+   "masterName": "Deming",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu (大休珠禪師語錄). In volume six of Daxiu Zhu's Hundred Questions (大休珠禪師住越城天華寺百問), explicitly bylines the answers and verses to his successor Deming (嗣法弟子德明答頌). Deming writes that letting go and throwing the gold pellet breaks the trace from before Awesome Sound. Deming is not yet on the roster.",
+   "rowId": "R0007",
+   "rowSha": "d89e4f02b1169bdeef50f958fd3c4eaac02ae7fe7363cf146e21bc0f731c5e26"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Dehui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances.",
+   "rowId": "R0008",
+   "rowSha": "46810974b4bdb5ace482d1ed99d1957ace279e1472cf00a5caebe87ffacf758a"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 2,
+   "masterName": "Tiebians Yunshao",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Section on Tiebians Yunshao, records Tiebians rebuking flawless linked question-and-answer as empty puffing of gruel-and-rice breath (粥飯氣); this is compound-family evidence.",
+   "rowId": "R0009",
+   "rowSha": "f0b99bfbdc7037322b220462687a81b0bb314c2c033a5da6b6e341e104635ef6"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 3,
+   "masterName": "Shiwu Qinghong",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (X/X70/X70n1399.xml). Recorded Sayings of Chan Master Shiw u Qinghong (石屋清洪禪師語錄). Shiwu Qinghong's verse says that mountain-field gruel and rice are fragrant.",
+   "rowId": "R0010",
+   "rowSha": "ef489c7b612834095e36f2ae90aa731aacf9ae6ee681b4fc8106da0fccacabc5"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 5,
+   "masterName": "Boshan Wuyi",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan (博山無異大師語錄集要). Boshan Wuyi says that only now, when eating gruel and rice, does he know sweetness.",
+   "rowId": "R0011",
+   "rowSha": "77cbe2e2967692f4edf98cbe85bcc80aae37a77b4ce11e954f86920860e37ca1"
+  },
+  {
+   "entry": "t_38e49b09cf9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Xueguan Zhiyin",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan (雪關禪師語錄). Xueguan Zhiyin comments on the complete Huangbo-Pei Xiu turn and says Huangbo skillfully used the school's claws and fangs like a hawk seizing a rabbit.",
+   "rowId": "R0012",
+   "rowSha": "c3076d57117499c1f46a2871fcbe2c5f9c27be0129cd290a98205f380ddb4cda"
+  },
+  {
+   "entry": "t_38e49b09cf9d",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 1,
+   "masterName": "Jingshan Xingsheng community",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Chan Master Micang Kai (密藏開禪師遺稿). In a petition, the named Jingshan Xingsheng community calls Huanyu Ben and Mizang Daokai the school's claws and fangs and the teaching cavern's outstanding figures.",
+   "rowId": "R0013",
+   "rowSha": "a4c60c0e52b762047f2d333da55f39f5dcf18267dabf204872fd9bfe1e060b5e"
+  },
+  {
+   "entry": "t_38e49b09cf9d",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 2,
+   "masterName": "Chaoyuan Danya",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB444.xml). Recorded Sayings of Chan Master Zhuofeng Jue (卓峰玨禪師語錄). Chaoyuan Danya calls Zhuofeng Jue an outstanding figure of the teaching cavern and the school's claws and fangs.",
+   "rowId": "R0014",
+   "rowSha": "199f0387f9e7ccfbe64857ecb017ad8f1f054bd153aab7e2e78576404677f685"
+  },
+  {
+   "entry": "t_38e49b09cf9d",
+   "class": "muc-context-row",
+   "si": 3,
+   "oi": 1,
+   "masterName": "Foguo",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (D/D51/D51n8948.xml). Recorded Sayings of Chan Master Foguo (佛國禪師語錄). Foguo pictures a sleeping tiger's claws and fangs hidden in a cold crag and secluded valley, then warns the assembly that it may open its eyes.",
+   "rowId": "R0015",
+   "rowSha": "a22bc0430a5d27d8f0dd36b297448263456e5cdfdb3ccf342a4bcb7d72d6ef4f"
+  },
+  {
+   "entry": "t_38e49b09cf9d",
+   "class": "muc-context-row",
+   "si": 3,
+   "oi": 2,
+   "masterName": "Jie Weizhou",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou (介為舟禪師語錄). Jie Weizhou's verse pictures a hungry tiger suddenly opening its claws and fangs.",
+   "rowId": "R0016",
+   "rowSha": "5579d2225d270c9a81c71b24e230ab7cd0e1a09b2a2a41d65bd97d28b96df8ad"
+  },
+  {
+   "entry": "t_3c1e31a193cd",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Rahulata",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Explicit section on the sixteenth Indian patriarch Rahulata (十六祖羅睺羅多尊者): in the exchange with Sanghanandi, Rahulata asks whether gold in or out of a well itself has movement or stillness and what, then, enters or exits. Rahulata is the exact speaker.",
+   "rowId": "R0017",
+   "rowSha": "25c8ba22984fb1bde209d409c1edc57e6c1d72e5c43b2f6d939a22c80944285a"
+  },
+  {
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "si": 3,
+   "oi": 1,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Chan Master Micang Kai (密藏開禪師遺稿). Mizang Daokai petitions that the monastery be exempted from the burden of collecting a grain levy.",
+   "rowId": "R0018",
+   "rowSha": "12083f2658015c98af11b1b52b3c5f97ba55c4b10af7b633a4247b5941763c40"
+  },
+  {
+   "entry": "t_3c1e31a193cd",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 10,
+   "masterName": "Dahong Shousui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In the explicit Dahong Shousui biography: Dahong Shousui claims galloping a jade horse on a tower and playing a golden ball in rushing water, then says colored cords still bind the limbs and a golden lock closes the throat. The longer golden-ball image is family evidence. Dahong Shousui is source-attested but not yet in the roster.",
+   "rowId": "R0019",
+   "rowSha": "3e4fe18c5a3316aeb333df7640d960d7df431c4942e99251e13106b1db221f96"
+  },
+  {
+   "entry": "t_3c1e31a193cd",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 2,
+   "masterName": "Baishan Kai",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi (山西柏山楷禪師語錄). Baishan Kai recites the ordered Five-Phase series in a hall address and turns immediately to clay and brickmaking.",
+   "rowId": "R0020",
+   "rowSha": "c8d640f2ee18c37d5dd511e318e3ce0f1b1d0efd67a208ccc1a3857fa1fd3cf4"
+  },
+  {
+   "entry": "t_42162fbd382d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0021",
+   "rowSha": "ecc8a2cbeeeaaab8a35639f84a880d961580fc333d91a222ed72d7c211ca4774"
+  },
+  {
+   "entry": "t_42162fbd382d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0022",
+   "rowSha": "795a93a115142e996b91c49ea55b2bd432f5d14327ecb3c829392233f6f915f1"
+  },
+  {
+   "entry": "t_4aa29a0183ae",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Moan Xingdao",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Moan Xingdao raises the exact case in a hall address and versifies the blade, the two halls, and rescue.",
+   "rowId": "R0023",
+   "rowSha": "49ff03d5b4d124b6d303ffa3923128b46a4b9ad20ff151fb9ffb035a640ca0fa"
+  },
+  {
+   "entry": "t_4aa29a0183ae",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Liaoan Yu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Liaoan Yu raises Nanquan cutting the cat together with Zhaozhou leaving with the sandal on his head in a hall address.",
+   "rowId": "R0024",
+   "rowSha": "99c10f00050d5d2d7344271b72e6567dc11d07b84cf939891b20c97cccadbcce"
+  },
+  {
+   "entry": "t_4cf045deab37",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Huaiyu Xuan Shouzuo",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X83/X83n1574.xml). Expanded Collection: Continued Transmission of the Lamp Record (增集續傳燈錄). Huaiyu Xuan Shouzuo declines Nanyuan by saying that he has long been a gruel-and-rice monk and vows not to emerge into the world.",
+   "rowId": "R0025",
+   "rowSha": "7ed98e1fceddfb62b7f689f33154b5d16ec3752b1dfe851899b11104c0ffe59e"
+  },
+  {
+   "entry": "t_4cf045deab37",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Weishan Lingyou",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T47/T47n1989.xml). Recorded Sayings of Chan Master Lingyou of Weishan, Tanzhou (潭州溈山靈祐禪師語錄). Weishan Lingyou repeats an official's contrast between monks who eat gruel and rice and monks who investigate Chan, then says the assembly is neither.",
+   "rowId": "R0026",
+   "rowSha": "94944b2de4092b28f976faa96745eca11556e2ee96ca5d496de199f4b50de207"
+  },
+  {
+   "entry": "t_4cf045deab37",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Puming",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (J/J38/J38nB424.xml). Recorded Sayings of Chan Master Xiangyan (香嚴禪師語錄). In Puming's biographical record, Puming's verse says to remain a gruel-and-rice monk, stop pursuing learned knowledge, and insist on clarifying mind.",
+   "rowId": "R0027",
+   "rowSha": "a29107f3d46bf14bbc87f541175ec41b6265bfe28543f7e44e4b3350f0e49691"
+  },
+  {
+   "entry": "t_4f088a7a7f47",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Moan Xingdao",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Moan Xingdao raises the exact case in a hall address and versifies the blade, the two halls, and rescue.",
+   "rowId": "R0028",
+   "rowSha": "752a9141c7ca69b295791cb7d8954611b92ccbbef748376847a5ec2de0f45a36"
+  },
+  {
+   "entry": "t_4f088a7a7f47",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Liaoan Yu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Liaoan Yu raises Nanquan cutting the cat together with Zhaozhou leaving with a sandal on his head.",
+   "rowId": "R0029",
+   "rowSha": "157992211bf9f4668760f8ee4a35e5fc81d702899897dc925e5cde07a7060b5a"
+  },
+  {
+   "entry": "t_539b931c442a",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Yixian",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). Compiled by Yixian: the abbot records invitations and the head monks take up the whisk as an assigned office. Yixian is a source-attested compiler not yet represented in the local roster.",
+   "rowId": "R0030",
+   "rowSha": "fa595f698b7d1a3f2151ff5e588a7ae731ec0f10cb216c6623048cdc0005e58e"
+  },
+  {
+   "entry": "t_539b931c442a",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Yixian",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). Compiled by Yixian: the complete winter procedure names the whisk-holder, borrowed teaching seat and drum, public questions and answers, case-raising, and successive presiders. Yixian is a source-attested compiler not yet represented in the local roster.",
+   "rowId": "R0031",
+   "rowSha": "56780b877793224c07db2c52c477f27bae58d624bfe4c8e9c426d282f116dea7"
+  },
+  {
+   "entry": "t_539b931c442a",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Cilang",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄). The record names the invited head monk Cilang, who takes up the whisk, ascends the hall, and receives a monk's question. Cilang is source-attested and not yet represented in the local roster.",
+   "rowId": "R0032",
+   "rowSha": "5ed9ebccf274d936c54d1fa0176debccdd3ebbd812f624e9db3e3c49fefea61e"
+  },
+  {
+   "entry": "t_539b931c442a",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Guishan Gumei",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan (溈山古梅冽禪師語錄). Spoken by Guishan Gumei: on the first day of the twelfth month, the assembly requests him to leave retreat and take up the whisk.",
+   "rowId": "R0033",
+   "rowSha": "fdf539f330fa9a2498967dde3ffeff1a887cb244f2c5bd8be2572ad460cac0f0"
+  },
+  {
+   "entry": "t_539b931c442a",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Jie'an Wujin",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin (介菴進禪師語錄). Spoken by Jie'an Wujin: Dongta requests him to take up the whisk for a small gathering, where a monk immediately asks whether he will answer a question.",
+   "rowId": "R0034",
+   "rowSha": "ff5ebc319f00a1ee067ee69fe977a833296a12082e4ed8bc748ae54a8557709d"
+  },
+  {
+   "entry": "t_57145bc70a8d",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 3,
+   "masterName": "Wanfeng Zhishan",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB441.xml). Recorded Sayings of Chan Master Tongzhen of Wanfeng (萬峰童真禪師語錄). Wanfeng Zhishan preserves the full Danxia case in his Xiangshan verses on old cases: severe cold, burning a wooden buddha, the monastery chief's bare question 'Why burn my buddha?', the relic test, and the demand for two more images. The source's author line and self-signature identify the speaker as Zhishan; Danxia Tianran and the unnamed monastery chief are quoted case participants.",
+   "rowId": "R0035",
+   "rowSha": "f73c698cedbb56ca4f4e2ecd6157e3d6a648ed722a8143b9ffcf87608cec9a2f"
+  },
+  {
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "Another monk raises the staff of Deshan and shout of Linji and asks what side they clarify; the master tells him",
+   "replace": "An unnamed monk raises the staff of Deshan and shout of Linji and asks what side they clarify; Shoushan Xingnian tells him (Hakuin Ekaku confirms this)",
+   "rowId": "R0036",
+   "rowSha": "08945db604f5a34a0b6d322b2677726f6255656daa37da4c0e6b6df38cb5f973"
+  },
+  {
+   "entry": "t_66630c6a8a37",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Fangrong Tongxi",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi (方融璽禪師語錄). In Fangrong Tongxi's own memorial public exchange. Fangrong Tongxi raises the whisk and explicitly sets encounter question-and-answer aside before asking whether the assembly understands this.",
+   "rowId": "R0037",
+   "rowSha": "92b64171ea28ea9e9430dca607fc406d29ac67f537d48a775e37dab0eab9305c"
+  },
+  {
+   "entry": "t_66630c6a8a37",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 2,
+   "masterName": "Zhang Hui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略). The byline names Zhang Hui as author of this preface; Zhang says Guting Shanjian is Wuji's true transmission and that their encounter and affinity accorded.",
+   "rowId": "R0038",
+   "rowSha": "ec58e323449b1b4ab9b7346f08091d51390b65cc41b51ce667724a197f3147b8"
+  },
+  {
+   "entry": "t_8f89b12a0cc0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Baichi Yuan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄). Baichi Yuan says that eating gruel and rice is the listener's own fundamental matter.",
+   "rowId": "R0039",
+   "rowSha": "10190a408ff580bcf0f0fab63d2f2dd9b52fbe711a395a6905562ae4de8f41e4"
+  },
+  {
+   "entry": "t_8f89b12a0cc0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Changping",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Changping answers the question about talk surpassing buddhas and patriarchs with eating gruel and eating rice.",
+   "rowId": "R0040",
+   "rowSha": "95c4f9518dacc4b7b46f540c98aecb2c27d6ca41119504107178ea575fcb377c"
+  },
+  {
+   "entry": "t_8f89b12a0cc0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Guizong Daoquan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Guizong Daoquan answers the question about the student's own self with the paired maxim: ‘when the bed is narrow, lie down first; when the gruel is thin, sit down later.’",
+   "rowId": "R0041",
+   "rowSha": "33a5c2c4d887d5f5c36f928d4d426766af6563df36aba76485f9af40a0836481"
+  },
+  {
+   "entry": "t_8f89b12a0cc0",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 8,
+   "masterName": "Ganzhi",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (B/B14/B14n0082.xml). Jade Flowers of the Transmission of the Lamp (Fragment) (傳燈玉英集（殘卷）). Preserves the Ganzhi–Nanquan case. Ganzhi provides gruel and asks Nanquan Puyuan to recite; Nanquan announces a dedication for the tabby cat and white ox, Ganzhi leaves, and Nanquan breaks the pot.",
+   "rowId": "R0042",
+   "rowSha": "3ff870f9ec7466ff89d0322b42d2361120914593eed68e858b08b244e0b16658"
+  },
+  {
+   "entry": "t_972b8e6cebdd",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Ananda",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda asks Kashyapa the succession question, answers Kashyapa's name-call, and is told to knock down the gate-front flagpole.",
+   "rowId": "R0043",
+   "rowSha": "b7138024f500dcd9e0bf1cb03d347f36d32c11d2e5d2c6b4e938d1feb29d7d7c"
+  },
+  {
+   "entry": "t_972b8e6cebdd",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Ananda",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda strikes the sounding block at the mounted teaching seat and asks the World-Honored One to speak the teaching.",
+   "rowId": "R0044",
+   "rowSha": "31861ed09f0c53bf2f767d4426e190649ba8e8c09d7144383f1db35878473269"
+  },
+  {
+   "entry": "t_972b8e6cebdd",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Ananda",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Closes Ananda's transmission verse by saying that Ananda finished entrusting the eye-treasury of the teaching.",
+   "rowId": "R0045",
+   "rowSha": "64c3339de7979828869595f70d99d435add29a2b7cfb9b6c99a4b33db715e9c4"
+  },
+  {
+   "entry": "t_9bddb36dfcaf",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Guxue Zhe",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Sermon on the animal-rescue precept. Guxue Zhe is the exact speaker who asks what expedient could have saved Nanquan's cat and Guizong's snake.",
+   "rowId": "R0046",
+   "rowSha": "a45961db6af16fd78cb62e79faff0ddddacce835ba763a29e2c293da557870c3"
+  },
+  {
+   "entry": "t_057cc9ea8755",
+   "class": "dangling-anchor",
+   "si": 1,
+   "strings": [
+    "萬法朗然",
+    "何思何慮",
+    "只此便是攝心處",
+    "攝心處",
+    "拈花微笑"
+   ],
+   "anchor": {
+    "RelPath": "J/J34/J34nB300.xml",
+    "FromLb": "0270b06",
+    "ToLb": "0270b07",
+    "Kwic": "萬法朗然，何思何慮？擬欲攝心，無本可據。我今為汝書此言，只此便是攝心處。",
+    "ClaimText": "萬法朗然，何思何慮？",
+    "MasterName": "Chaozong Tongren",
+    "Curated": true,
+    "ContextMasters": [
+     {
+      "MasterName": "Chaozong Tongren",
+      "Roles": [
+       "verse-author"
+      ]
+     }
+    ],
+    "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄). Speaker: Chaozong Tongren, in the gatha the practitioner Falang requests (法朗禪人乞攝心偈)."
+   },
+   "zc": {
+    "ok": true,
+    "count": 1,
+    "fromLb": "0270b06",
+    "toLb": "0270b07"
+   },
+   "rowId": "R0047",
+   "rowSha": "5aa6a54bfbbbc62eb6cb4f3d8782179eed205762f1ae0fc6528fff15f72102d6"
+  },
+  {
+   "entry": "t_9e7c2fb12ad9",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Zhengdang Mingbian",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp (續燈正統). Inside Zhengdang Mingbian's explicitly headed section, Zhengdang poses the chamber question asking why a cat loves catching mice, followed by another question about a dog barking when the board sounds.",
+   "rowId": "R0048",
+   "rowSha": "8b25f0b532acfb95c422d9e0a6d4aade71b73969e621264da3671af0481b9fcd"
+  },
+  {
+   "entry": "t_9e7c2fb12ad9",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Luohan Xinglin Zuyin",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). Inside Luohan Xinglin Zuyin's explicitly headed section, Zuyin lifts a cat that has jumped onto him, contrasts Nanquan's earlier killing with his own present display, and offers the cat to the students before setting it down.",
+   "rowId": "R0049",
+   "rowSha": "9627b6cca700751b112daffa528a370a96e11a3284d192ea00a761affadc55be"
+  },
+  {
+   "entry": "t_b437e79a4646",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Fu Shangpan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄). The source personally names Director of Education Fu Shangpan as the exact questioner: Fu says he has long exerted himself in Chan and had an awakening, but is not fluent when questioning and discriminating in response to the occasion, and asks where the fault lies. Zhanran answers him.",
+   "rowId": "R0050",
+   "rowSha": "614c279a2534ff0abfbaedc5fa016ca8450033e67dc288bbe8b58e3b1efff1e1"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Renshan Qingxian",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Full-case review identifies Renshan Qingxian as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0051",
+   "rowSha": "bd67a9d66bc668c88c7ad1228e50a6d8d44cff10f627a8d02be94239cdde48f0"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Pin Jixiang",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang (頻吉祥禪師語錄). Full-case review identifies Pin Jixiang as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0052",
+   "rowSha": "67093ded550418a9de005fcb3c6a847b85d3c1be25d24786a796eea412373bb9"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Guxue Zhe",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Full-case review identifies Guxue Zhe as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0053",
+   "rowSha": "819780e1828b973acd6d484cae973904f6cf185eb901a7e5883573c27e25e874"
+  },
+  {
+   "entry": "t_ba6668ef3e6e",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Shakyamuni Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Shakyamuni Buddha is the exact speaker who announces the treasury of the true eye of the teaching and entrusts it to Mahakasyapa after Mahakasyapa smiles.",
+   "rowId": "R0054",
+   "rowSha": "2d6f5b8f0e90eea327395c4ee4b97841c115d8689120b446cafa86034de27940"
+  },
+  {
+   "entry": "t_ba6668ef3e6e",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Yuelin Zongshan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Yuelin Zongshan says that both Shakyamuni's flower raising and Mahakasyapa's smile deserved thirty blows.",
+   "rowId": "R0055",
+   "rowSha": "0558effe9af19bf7cae4a36c2bc2caae9c4f9d86f61f068d1dec77e4b347f91f"
+  },
+  {
+   "entry": "t_ba6668ef3e6e",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Mahakasyapa",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Mahakasyapa is the exact speaker who strikes the sounding block and announces that the World-Honored One has finished speaking; Shakyamuni Buddha then leaves the seat.",
+   "rowId": "R0056",
+   "rowSha": "54690961f14f533ab4473354b6839f60a5c58be905c07fe98ee40bf0b799b693"
+  },
+  {
+   "entry": "t_ba6668ef3e6e",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Ananda",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda asks what else was transmitted besides the gold-thread robe; Mahakasyapa answers by calling Ananda and ordering the flagpole knocked down.",
+   "rowId": "R0057",
+   "rowSha": "56e8e391cd6f131501ad5cf552f6ae7edd3bef0dbe2285f78af646b0f0c26944"
+  },
+  {
+   "entry": "t_ba6668ef3e6e",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Shi Zhicheng",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). Guifeng Zongmi section, Reply to the Ten Questions of Layman Shi. Shi Zhicheng is the exact questioner: the reference to entrusting the teaching to Mahakasyapa occurs in his ninth question; Guifeng Zongmi is the respondent.",
+   "rowId": "R0058",
+   "rowSha": "92d12f2c19536c2582a2f3d008660127a12c038c1a72bde25b5157d2c9438527"
+  },
+  {
+   "entry": "t_bb19ed0e0fab",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Jiexian",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Full-case review identifies Jiexian as the actor.",
+   "rowId": "R0059",
+   "rowSha": "60a4e78c05e36495d1df181e2a28062e306354daee14cb4484ea14774d18afa1"
+  },
+  {
+   "entry": "t_bb19ed0e0fab",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Guxue Zhe",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Guxue Zhe gives the explicitly headed incident-related general address (因事普說), opening with a verse on the dispute between those asking him to leave and those asking him to stay.",
+   "rowId": "R0060",
+   "rowSha": "0708316fa262fae3c854a56aac3e650e25e583a3ebce04167446dc2261504d9e"
+  },
+  {
+   "entry": "t_bb19ed0e0fab",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Yuejian Shanquan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X70/X70n1392.xml). Recorded Sayings of Chan Master Yuejian (月磵禪師語錄). In his announced general address, Yuejian Shanquan says he will give the assembly one general address and they should regard it as rare.",
+   "rowId": "R0061",
+   "rowSha": "72e93f114d7b437a8caa9dad29a2f875de6a469d961dd039a77fa96cd56ad1b5"
+  },
+  {
+   "entry": "t_bc9b4740f883",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Zifu Zhensui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). In the section on Zifu Zhensui of Jizhou: Zifu asks the questioner's name and then answers the question with 'go drink tea.'",
+   "rowId": "R0062",
+   "rowSha": "07a816e8d1d041ed9a2307631aa54f66b68f41348fd21cd508de3c90ec9202f2"
+  },
+  {
+   "entry": "t_bc9b4740f883",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 9,
+   "masterName": "Daweishan Cheng",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Under the source heading 'Chan Master Cheng of Great Mount Gui in Tanzhou' (潭州大溈山承禪師): asked how he receives a guest, Daweishan Cheng says 'go drink tea'; when the monk equates him with Zhaozhou, he answers, 'Wrong.' The source-attested name is preserved pending the deferred roster review.",
+   "rowId": "R0063",
+   "rowSha": "962bdf7249a54f47644b8fa31bf9feaec4eb46ccc86b3f434bfd48b006d23965"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact actor who holds up a flower before the assembly on Vulture Peak.",
+   "rowId": "R0064",
+   "rowSha": "320c6f6075ecc054ed22293d87759072c1d3e0e103c33fb3e45bcb5fed5fbc38"
+  },
+  {
+   "entry": "t_4e3f766f716c",
+   "class": "performer-context-row",
+   "si": 1,
+   "oi": 2,
+   "row": {
+    "MasterName": "Hanyue Fazang",
+    "Roles": [
+     "case-figure",
+     "action-performer"
+    ]
+   },
+   "kwic": "得人一牛還人一馬虎驟龍驤誰敢定價三千里外見譊訛生鐵一團無縫𦉑一吹無孔笛一撫沒絃琴一曲兩曲無人會雨過夜塘秋水深道吾作舞一曲無譜若將耳聞未敢相許潭州雲巖曇晟禪師因道吾問大悲千手眼那箇是正眼師曰如人夜間背手摸枕子吾曰我會也師曰作麼生會吾曰遍身是手眼師曰道也太煞道秪道得八成吾曰師兄作麼生師曰通身是手眼。頌曰。遍身是通身是拈來猶較十萬里展翅崩騰六合雲搏風皷蕩四溟水是何埃塏𠔃忽生那箇毫𨤲兮未止君不見網珠垂範影重重棒頭手眼從何起一竅靈通八面玲瓏無象無私春入律不留不礙月行空清淨寶目功德臂徧身何處通身是現前手眼顯全機大用縱橫何忌諱弟應兄呼豈偶然嬉遊時在舊山前通身手眼如何會拾得寒山笑揭天演若怖回鏡裏首那吒還復舊時身不知手眼從何起便道全軀在剎塵通身是手眼徧界不曾藏背摸床頭挑翻身嫌夜長觀音妙音十八十九眼見耳聞是人知有左握軍持右擎楊柳捏聚放開烏飛兔走大悲許多手眼如人夜摸枕子徧身通身起來盡受奴驅婢使君不見認著牛迹裏失却大海水轉變未得時依前有依倚歸去來歸去來拍天洪浪如浮埃徧身是通身是酥酪醍醐為一味毫端湧出湏彌盧芥子吸竭滄溟水十虛吞爍正眼寥廓照用同時人境俱奪棒頭喝下錯承當背手拈來已失却莫莫水是水𠔃山是山切忌無繩而自縛大悲菩薩千手眼如人背手摸枕頭猢孫跳出布袋口不妨隨處逞風流徧身是通身是淨潔渾身涴却𡱁拽來露出猛風吹誰教背手摸枕子復打三棒雲巖掃地次道吾曰太區區生師曰須知有不區區者吾曰恁麼則有苐二月也師竪起掃帚曰這箇是苐幾月吾休去玄沙聞云正是苐二月。",
+   "rowId": "R0065",
+   "rowSha": "0991a65bd1c8c970704c1dab5e97c53b990307185e7645a72ead881d1c48f7e1"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact speaker who says he entrusts Mahakasyapa with the treasury of the true teaching eye, the wondrous mind of complete extinction, the subtle teaching gate beyond written words.",
+   "rowId": "R0066",
+   "rowSha": "f585c894646af6a07bf7f1f6a58204b97bb08aa405d7c621aa2a6e144fe185d0"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). Raises the teaching-seat case: The Buddha is the exact actor who mounts the seat. The later Minshu commentary is not assigned to him.",
+   "rowId": "R0067",
+   "rowSha": "fd6ed279e6249e712247b35bdcef1672da0aeb23bbc5a675292ea96faca82402"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu (敏樹禪師語錄). Raises the teaching-seat case: The Buddha is the exact actor who immediately leaves the seat after Manjusri's announcement.",
+   "rowId": "R0068",
+   "rowSha": "f1d6374f7931248086db4b8f793753ae45c8e83108a4079146929146ee7ed324"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Records the outsider interview: after the unnamed outsider asks for neither speech nor no speech, The Buddha is the exact actor who pauses for a while.",
+   "rowId": "R0069",
+   "rowSha": "002f53c591d35f0bae0b9f3d5c41c1b51087f5d10eae6d64444b3fa0a48672e0"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 8,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Completes the outsider interview: The Buddha is the exact speaker who answers Ananda that the outsider moved like a fine horse on seeing the whip's shadow.",
+   "rowId": "R0070",
+   "rowSha": "8309c9e4d42da33dd731caaf1c1bec1b98de72b4e443552e644ab19bb1a43482"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 9,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi (浮石禪師語錄). Raises the birth case: The Buddha is the exact actor who points upward and downward, walks seven steps, looks in the four directions, and declares that he alone is honored.",
+   "rowId": "R0071",
+   "rowSha": "979b09ff2a60c7fb4d1aa26c4121e3a34f36e802666e647dba8132266900b0d7"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 11,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). Raises the woman-in-composure case: The Buddha is the exact speaker who commands Manjusri to bring her out.",
+   "rowId": "R0072",
+   "rowSha": "f0c382ab8349acc9d01391056f157b1c103cf53c300589495ef6354d3be536d3"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 13,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu (晦嶽旭禪師語錄). Raises the woman-in-composure case: The Buddha is the exact speaker who says that Wangming Bodhisattva below can bring her out.",
+   "rowId": "R0073",
+   "rowSha": "d9ef320b5c6024facd6e45b5b6b8eaf7a9f1967523dd880f29304896e1f71097"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 15,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei (大巍禪師竹室集). Raises the grass-temple case: The Buddha is the exact actor who points to the ground while walking with the assembly and says that a temple should be built there.",
+   "rowId": "R0074",
+   "rowSha": "f4a75a4797035b8e7db48b7f188e9925e293b7accde1af67e864b776f1af54f5"
+  },
+  {
+   "entry": "t_c875e45fbb9d",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 17,
+   "masterName": "The Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In its explicit Shakyamuni Buddha section: The Buddha is the exact actor who displays a color-changing jewel and asks the five heavenly kings what color it makes.",
+   "rowId": "R0075",
+   "rowSha": "8e248ea089ba1e9a5a28e3d076aa65e589adaf1ed9570ea09746463c1a53c389"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Shakyamuni Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove (紫竹林顓愚衡和尚語錄). Inside Zhuanyu Guanheng's instruction to Kuanju Yong, Shakyamuni Buddha is the exact actor who holds up the flower, paired with Mahakasyapa's smile as a direct and rapid exchange.",
+   "rowId": "R0076",
+   "rowSha": "0e3d5d13267ba7e54f88277869d1b2596fcf21c9ba358dc065877c4a1e3b3302"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Guoqing Feng",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Guoqing Feng section: Guoqing Feng answers a question about the main meaning of the buddha-teaching by calling Śākyamuni an ox-headed jailer and the ancestral teacher a horse-faced attendant.",
+   "rowId": "R0077",
+   "rowSha": "b8ec4fac6ce026d29456dcd8b0d27f3f67aea3383026e5bb224b2e77eb05f5c4"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Shaoshan Huanpu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Shaoshan Huanpu calls Śākyamuni the general of a defeated army and Kāśyapa a man who has lost his life. This is Shaoshan's recorded appraisal.",
+   "rowId": "R0078",
+   "rowSha": "8977f91ccf5e8bb11e8d4a5f1badf5b9cc74ff119b684852327889c20d3e66e7"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Nantai Yungong",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Nantai Yungong section: Nantai Yungong says that Śākyamuni has already perished and Maitreya has not yet been born, raises the whisk, and locates that day's releasing and holding at its tip.",
+   "rowId": "R0079",
+   "rowSha": "ffa2e0200df0358c624d19eac70e447497dc2b83a0e9182641d9b27cf988547b"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 7,
+   "masterName": "Shakyamuni Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi (二隱謐禪師語錄). In Eryin Mi's address appointing officers, Shakyamuni Buddha is the exact actor who mounts the seat, paired with Manjusri's sounding the gavel; Eryin sets this beside Mazu mounting the hall and Baizhang rolling the mat.",
+   "rowId": "R0080",
+   "rowSha": "d061cdff62e20bf60e61d7de2c9647cbd25774cab3468a3334a1bf8921b38049"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 8,
+   "masterName": "Fayun Faxiu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In Fayun Faxiu's own hall address, Fayun Faxiu says it is not extraordinary for a patch-robed monk to salute Shakyamuni from a distance and decline to bow to Maitreya.",
+   "rowId": "R0081",
+   "rowSha": "077435a6fde8c3c740f11489ea14e2a85926bbf35e6c6caebe1891651f3d7ed8"
+  },
+  {
+   "entry": "t_cb3571346f22",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 10,
+   "masterName": "Hefeng",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J38/J38nB421.xml). Recorded Sayings of Chan Master Hefeng (鶴峰禪師語錄). In his ascent-of-seat address, Hefeng says Shakyamuni being Shakyamuni is no increase and wood and stone being themselves no decrease.",
+   "rowId": "R0082",
+   "rowSha": "f30d159f48f3399f9adc322fe2097baab1d09859e306cfcda2f2b769b9bcfbfc"
+  },
+  {
+   "entry": "t_cc6b4c4e9ba8",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Linyang Zhiduan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Linyang Zhiduan as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0083",
+   "rowSha": "d02572f849546463686bfbcc141895b9844376582c17878858932571b49221ba"
+  },
+  {
+   "entry": "t_cc6b4c4e9ba8",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 3,
+   "masterName": "Liu Jingchen",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Liu Jingchen's Warning to Confucians on Clarifying the Way (明道諭儒篇). Liu Jingchen is the exact prose author who states that Shakyamuni held up the flower and transmitted the wondrous mind to Mahakasyapa, pairing it with Bodhidharma's wall-gazing and transmission to Huike.",
+   "rowId": "R0084",
+   "rowSha": "7944cb3894b3fc8b11b9f2ef6a9e4f1343fe870cab7cc6baa8a5f1c02075d55c"
+  },
+  {
+   "entry": "t_cc6b4c4e9ba8",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 4,
+   "masterName": "Shangfang Riyi",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Shangfang Riyi as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0085",
+   "rowSha": "aebc38e14f8323fa3ea1ff57df21228dc35f4f926ff6e658134acdf09600af5e"
+  },
+  {
+   "entry": "t_cc6b4c4e9ba8",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Shakyamuni Buddha",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Full-case review identifies Shakyamuni Buddha as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0086",
+   "rowSha": "055ddc58bad8127a53f41d11e1c6edbe31816abdb3ee6703b4718e73b4d8a81c"
+  },
+  {
+   "entry": "t_e34e9defcb79",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 5,
+   "masterName": "Shiting Zuxun",
+   "roles": [
+    "verse-author"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In Shiting Zuxun's section; Shiting Zuxun's verse opens with the exact question and names Zhaozhou.",
+   "rowId": "R0087",
+   "rowSha": "c1ee2bc8cb9fb61a3882fa1a77290f6f781dc823f51170519610bab9d45af187"
+  },
+  {
+   "entry": "t_e62a6a10b2f9",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Dahong Shousui",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In Dahong Shousui's explicit biography, records Dahong claiming to play a golden ball in rushing water and then saying that colored cords and a gold lock still bind him, with a further obstruction remaining beyond their removal.",
+   "rowId": "R0088",
+   "rowSha": "087e2114cb3689bb42c4daee4a0b07d5077735d32c94bcbb13bf93eed4b7d5a3"
+  },
+  {
+   "entry": "t_e62a6a10b2f9",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 6,
+   "masterName": "Zhean Jingfan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan (蔗菴範禪師語錄). Zhean Jingfan writes that the ancestral case is restored as wind rolls a golden ball across the water's surface.",
+   "rowId": "R0089",
+   "rowSha": "2f12154ef30ee4d124b154b01520aeac3a3403e397e3a527742eaaabfc69aca7"
+  },
+  {
+   "entry": "t_e62a6a10b2f9",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 1,
+   "masterName": "Buyan Le",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J38/J38nB419.xml). Recorded Sayings of Chan Master Bu’yanle (Huayan) (華嚴不厭樂禪師語錄). Buyan Le answers a New Year hall question with white clouds spreading brocade and one round red sun hanging as a golden orb.",
+   "rowId": "R0090",
+   "rowSha": "5cbd661d74be305ecf7128a147e3c37d2b9a54b06388d27512535da9184d4580"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 1,
+   "masterName": "Jinniu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). The Blue Cliff Record names Master Jinniu and records his meal-hour action.",
+   "rowId": "R0091",
+   "rowSha": "265215bc2fcb03f4224f038c31543623f6fb8387723bc09be3dee68dd81f6ec7"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "muc-context-row",
+   "si": 1,
+   "oi": 2,
+   "masterName": "Jinniu",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). An independent lamp recension names Zhenzhou Jinniu and records the meal call, dance, clapping, and laughter.",
+   "rowId": "R0092",
+   "rowSha": "bbe7abf443ae058050c631f6c4425e983a7e4042d2462f8fa24ac51db8d272fb"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 1,
+   "masterName": "Guxue Zhe",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Full-case review identifies Guxue Zhe as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0093",
+   "rowSha": "470b8901304adc1b17b377a72e53833ab83b05657cc5522b23bb17e10b2d0d87"
+  },
+  {
+   "entry": "t_968a2f97c9ff",
+   "class": "reviewed-fields",
+   "si": 1,
+   "oi": 4,
+   "beforeReviewedBy": null,
+   "beforeReviewedUtc": null,
+   "reviewedBy": "Prof. Weirong Chen",
+   "reviewedUtc": "2026-09-02T08:10:44Z",
+   "rowId": "R0094",
+   "rowSha": "7009909cf092a770963bdf06f451c2b38a4728416f0180fba91d496431ce4f53"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "muc-context-row",
+   "si": 2,
+   "oi": 2,
+   "masterName": "Zhean Jingfan",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan (蔗菴範禪師語錄). Full-case review identifies Zhean Jingfan as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0095",
+   "rowSha": "b23bc2bb3b683b784650c810065bf87250e04ca9241562ca18f9b97786770677"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "muc-context-row",
+   "si": 3,
+   "oi": 1,
+   "masterName": "Langting Jingting",
+   "roles": [
+    "utterer"
+   ],
+   "attributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+   "rowId": "R0096",
+   "rowSha": "c75161f25d6fd6431ed1217ce11c7a8a2346cc2f09e5a944577415b30fa7487f"
+  },
+  {
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "when a speaker carries a saying, exchange, or disputed comparison into a further interview and asks another master about it",
+   "replace": "when a questioner carries a saying, exchange, or disputed comparison into a further interview and asks the answering master about it",
+   "rowId": "R0097",
+   "rowSha": "45e05838ef2d5e6501fbbf73edee751d749ee9b44a62a947bfa2c49ff0101b91"
+  },
+  {
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "to a master, and Jiashan raises the matter",
+   "replace": "to Damei Fachang, and Jiashan raises the matter",
+   "rowId": "R0098",
+   "rowSha": "7c6f5154fbfec2ed68de6533215a45bacf2bd5aa0a4632f442d614364a3d87a7"
+  },
+  {
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "Another monk raises the staff of Deshan and shout of Linji and asks what side they clarify; the master tells him",
+   "replace": "An unnamed monk raises the staff of Deshan and shout of Linji and asks what side they clarify; Shoushan Xingnian tells him",
+   "rowId": "R0099",
+   "rowSha": "d634db7b7fc2bd2940d2a268d87c541f817b1a17fe48b92def9a27ee0c2767bf"
+  },
+  {
+   "entry": "t_9e7c2fb12ad9",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "records a teacher lifting a live cat",
+   "replace": "records Luohan Xinglin Zuyin lifting a live cat",
+   "rowId": "R0100",
+   "rowSha": "2f2e475003d834fd11d3e3f9ccdee4cfb0a7dadc52a29aff3814a8736364c443"
+  },
+  {
+   "entry": "t_b437e79a4646",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "the master's answer examines him",
+   "replace": "Zhanran Yuancheng's answer examines him",
+   "rowId": "R0101",
+   "rowSha": "d4192838bb5566409cee0c67ff3b000140bea69c84377c5139b9169f673a0b99"
+  },
+  {
+   "entry": "t_b437e79a4646",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "and the master answers",
+   "replace": "and Muzhou Daoming answers",
+   "rowId": "R0102",
+   "rowSha": "35625de844981f3981cfb3b2f0a513a0f55b23366486e0dee53daad998a74935"
+  },
+  {
+   "entry": "t_b437e79a4646",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "in appraisals of a speaker's response",
+   "replace": "in appraisals of the respondent's answer",
+   "rowId": "R0103",
+   "rowSha": "1cd916d99e1016b741ab8a22e76c5c232adb728188dbb18e631c816bebf1f80e"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "it marks a master putting a question to monks",
+   "replace": "it marks the bestowing master putting a question to monks",
+   "rowId": "R0104",
+   "rowSha": "3acef6d5d0990e0f034a95bc31466dc95c61ae8f1aa811d159fce15a42025081"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "A monk later recalls a question bestowed",
+   "replace": "An unnamed monk later recalls a question bestowed",
+   "rowId": "R0105",
+   "rowSha": "caab43fc27443b57414e330b30d27fd01c860ab56ca61953448607d41930844b"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "on a snowy day the master asks why the solitary peak is not white",
+   "replace": "on a snowy day Pin Jixiang asks why the solitary peak is not white",
+   "rowId": "R0106",
+   "rowSha": "197a8f9f1e20e4ade376989d1cbaf6e38e6fec7b7de42dda850d1abf0b50742b"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "none of which the master accepts",
+   "replace": "none of which Guxue Zhe accepts",
+   "rowId": "R0107",
+   "rowSha": "5de82feb38ba463db581d8cc1fa38f285ee4d497c2c34b5485614630b240136e"
+  },
+  {
+   "entry": "t_b95cbb303b12",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "the master publicly or privately puts the question",
+   "replace": "the bestowing master publicly or privately puts the question",
+   "rowId": "R0108",
+   "rowSha": "6b77e94e3a3375ee85d2710e7ba8e21cf5593b661d4474cb1564e01fb4bb03f0"
+  },
+  {
+   "entry": "t_cc6b4c4e9ba8",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "A monk asks why Radiant Light",
+   "replace": "An unnamed monk asks why Radiant Light",
+   "rowId": "R0109",
+   "rowSha": "f489f8ca3792f8e3bad62a947c34b78598de50a25871a976b5b779ae06e9a37b"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "both name the master and preserve the action",
+   "replace": "both name Jinniu and preserve the action",
+   "rowId": "R0110",
+   "rowSha": "ea989e26f358df49abf0068fbc823288046e635a70e44f6af37862c0abb3f8c6"
+  },
+  {
+   "entry": "t_e69d7df930ca",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "The person belongs on the master roster",
+   "replace": "The person belongs on the roster of masters",
+   "rowId": "R0111",
+   "rowSha": "a09f9cea0d41ecdfec94f2df7e94c923169dea882b1f57544d655ccdf6d5ff4a"
+  },
+  {
+   "entry": "t_057cc9ea8755",
+   "class": "dangling-anchor",
+   "si": 1,
+   "strings": [
+    "萬法朗然",
+    "何思何慮",
+    "只此便是攝心處",
+    "攝心處"
+   ],
+   "anchor": {
+    "RelPath": "J/J34/J34nB300.xml",
+    "FromLb": "0270b06",
+    "ToLb": "0270b07",
+    "Kwic": "萬法朗然，何思何慮？擬欲攝心，無本可據。我今為汝書此言，只此便是攝心處。",
+    "ClaimText": "萬法朗然！何思何慮？",
+    "MasterName": "Chaozong Tongren",
+    "Curated": true,
+    "ContextMasters": [
+     {
+      "MasterName": "Chaozong Tongren",
+      "Roles": [
+       "verse-author"
+      ]
+     }
+    ],
+    "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄). Speaker: Chaozong Tongren, in the gatha the practitioner Falang requests (法朗禪人乞攝心偈)."
+   },
+   "zc": {
+    "ok": true,
+    "count": 1,
+    "fromLb": "0270b06",
+    "toLb": "0270b07"
+   },
+   "rowId": "R0112",
+   "rowSha": "8e2df0c4b811483990416127c98a4308952a7fea9ba5cccb4694187518ce0a58"
+  },
+  {
+   "entry": "t_f758d1e27978",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Explanation",
+   "find": "Another master calls",
+   "replace": "Hanyue Fazang calls",
+   "rowId": "R0113",
+   "rowSha": "f479ba1bb6c58bdd9e93841d7cec35beb11ffc72c7db25f6893cf836643946c5"
+  },
+  {
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "si": 1,
+   "field": "Note",
+   "find": "differing from a master's newly bestowed question",
+   "replace": "differing from the bestowing master's newly bestowed question",
+   "rowId": "R0114",
+   "rowSha": "4e3385b4e224747e996624ac49988395f90ae127a7cfabfd863906df74471c38"
+  },
+  {
+   "entry": "t_057cc9ea8755",
+   "class": "dangling-anchor",
+   "si": 1,
+   "strings": [
+    "萬法朗然",
+    "何思何慮",
+    "只此便是攝心處",
+    "攝心處"
+   ],
+   "anchor": {
+    "RelPath": "J/J34/J34nB300.xml",
+    "FromLb": "0270b06",
+    "ToLb": "0270b07",
+    "Kwic": "萬法朗然，何思何慮？擬欲攝心，無本可據。我今為汝書此言，只此便是攝心處。",
+    "ClaimText": "萬法朗然，何思何慮？",
+    "MasterName": "Chaozong Tongren",
+    "Curated": true,
+    "ContextMasters": [
+     {
+      "MasterName": "Chaozong Tongren",
+      "Roles": [
+       "verse-author"
+      ]
+     }
+    ],
+    "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄). Speaker: Chaozong Tongren, in the gatha the practitioner Falang requests (法朗禪人乞攝心偈)."
+   },
+   "zc": {
+    "ok": true,
+    "count": 1,
+    "fromLb": "0270b06",
+    "toLb": "0270b07"
+   },
+   "rowId": "R0115",
+   "rowSha": "73f4246fd5a6c168f3d679ff60da7b6fb914ef4c351b467a32ac4af7ebaed868"
+  },
+  {
+   "entry": "t_4e3f766f716c",
+   "class": "performer-context-row",
+   "si": 1,
+   "oi": 2,
+   "row": {
+    "MasterName": "Yunyan Tansheng",
+    "Roles": [
+     "case-figure",
+     "action-performer"
+    ]
+   },
+   "kwic": "得人一牛還人一馬虎驟龍驤誰敢定價三千里外見譊訛生鐵一團無縫𦉑一吹無孔笛一撫沒絃琴一曲兩曲無人會雨過夜塘秋水深道吾作舞一曲無譜若將耳聞未敢相許潭州雲巖曇晟禪師因道吾問大悲千手眼那箇是正眼師曰如人夜間背手摸枕子吾曰我會也師曰作麼生會吾曰遍身是手眼師曰道也太煞道秪道得八成吾曰師兄作麼生師曰通身是手眼。頌曰。遍身是通身是拈來猶較十萬里展翅崩騰六合雲搏風皷蕩四溟水是何埃塏𠔃忽生那箇毫𨤲兮未止君不見網珠垂範影重重棒頭手眼從何起一竅靈通八面玲瓏無象無私春入律不留不礙月行空清淨寶目功德臂徧身何處通身是現前手眼顯全機大用縱橫何忌諱弟應兄呼豈偶然嬉遊時在舊山前通身手眼如何會拾得寒山笑揭天演若怖回鏡裏首那吒還復舊時身不知手眼從何起便道全軀在剎塵通身是手眼徧界不曾藏背摸床頭挑翻身嫌夜長觀音妙音十八十九眼見耳聞是人知有左握軍持右擎楊柳捏聚放開烏飛兔走大悲許多手眼如人夜摸枕子徧身通身起來盡受奴驅婢使君不見認著牛迹裏失却大海水轉變未得時依前有依倚歸去來歸去來拍天洪浪如浮埃徧身是通身是酥酪醍醐為一味毫端湧出湏彌盧芥子吸竭滄溟水十虛吞爍正眼寥廓照用同時人境俱奪棒頭喝下錯承當背手拈來已失却莫莫水是水𠔃山是山切忌無繩而自縛大悲菩薩千手眼如人背手摸枕頭猢孫跳出布袋口不妨隨處逞風流徧身是通身是淨潔渾身涴却𡱁拽來露出猛風吹誰教背手摸枕子復打三棒雲巖掃地次道吾曰太區區生師曰須知有不區區者吾曰恁麼則有苐二月也師竪起掃帚曰這箇是苐幾月吾休去玄沙聞云正是苐二月。",
+   "rowId": "R0116",
+   "rowSha": "f39a6fa965a0099b487330041955b953e9e685f7240e3c488f1a2c248a94cb1f"
+  },
+  {
+   "entry": "t_f6631a24e33e",
+   "class": "performer-context-row",
+   "si": 1,
+   "oi": 5,
+   "row": {
+    "MasterName": "Huitang Zuxin",
+    "Roles": [
+     "case-figure",
+     "action-performer"
+    ]
+   },
+   "kwic": "至會萬物為自己者及情與無情共一體處，時有狗子臥香桌下，師拈壓尺擊狗，又擊香桌曰：狗有情即去，香桌無情自住，情與無情如何得成一體？",
+   "rowId": "R0117",
+   "rowSha": "0ca98c21acd5a30bec15c2326c203f3214a4b493454922265528f114f6393ddc"
+  },
+  {
+   "entry": "t_2e77bc793d0c",
+   "class": "performer-grammar-proof",
+   "si": 1,
+   "oi": 4,
+   "sentence": "Action performer: the unnamed author of the verse after 頌曰, not the embedded 趙州 or 投子 actions (reviewed-unnamed)",
+   "kwic": "一走下禪床行一轉看了如來五千卷婆子年高眼尚明夜深月下穿針線左轉右轉金剛寶劒全藏半藏由基發箭紅心心裏中紅心驚淂湏彌頭倒旋趙州一匝天輪轉婆子知音未足酬普為人天開正眼大千沙界一毫收不知兀坐常輪轉空下禪床繞一遭背面却言虧一半老婆𢙣業自家招趙州劒氣衝牛斗婆子神符懸肘後一條拄杖兩人扶好手手中誇好手趙州因僧侍次遂指火問曰這箇是火你不淂喚作火老僧道了也僧無對復筴起火曰會麼曰不會師曰此去舒州有投子和尚汝往禮拜問之必為汝說因緣相契不用更來不相契却來其僧到投子子問近離甚處曰趙州子曰趙州有何言句僧舉前話子曰汝會麼曰不會乞師指示子下禪床行三步却坐問曰會麼曰不會子曰你歸舉似趙州其僧却回舉似師師曰還會麼曰不會師曰投子與麼不較多也。",
+   "rowId": "R0118",
+   "rowSha": "8f073b86bfff563624d811e86d6d4d978570ef62b75e6db7cb83804f3b927c40"
+  },
+  {
+   "entry": "t_e4b1a839b06d",
+   "class": "anon-monk-restructure",
+   "si": 1,
+   "oi": 3,
+   "respondentMaster": "Miyin Zhenchuan",
+   "actorLabel": "the unnamed questioning monk",
+   "occurrence": {
+    "RelPath": "J/J35/J35nB343.xml",
+    "FromLb": "0843b22",
+    "ToLb": "0843b23",
+    "Kwic": "僧問：「家家有路透長安，何處是長安大路？」師云：「出門便蹋著。」進云：「不顧腳下時如何？」",
+    "MasterName": null,
+    "Curated": true,
+    "ContextMasters": [
+     {
+      "MasterName": "Miyin Zhenchuan",
+      "Roles": [
+       "respondent"
+      ]
+     }
+    ],
+    "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain (廣福山勝覺寺密印禪師語錄). Speaker: the unnamed questioning monk.",
+    "ActorAttribution": {
+     "Status": "reviewed-unnamed",
+     "Kind": "reviewed human voice",
+     "ActorLabel": "the unnamed questioning monk",
+     "ActorRole": "questioner",
+     "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+     ],
+     "GrammarEvidence": "The reviewed 僧問 boundary in the complete case fixes the unnamed questioning monk as the exact headword voice; Miyin Zhenchuan owns only the responses.",
+     "ReviewedBy": "A1 attribution repair gates + blind r1",
+     "ReviewedUtc": "2026-09-02T08:10:44Z"
+    }
+   },
+   "rowId": "R0119",
+   "rowSha": "4f1a306683a7f2e9e63a698f0ff5df7a868818801f83a5ea8d7550a9ad7a7310"
+  },
+  {
+   "entry": "t_968a2f97c9ff",
+   "class": "grammar-evidence-repeat",
+   "si": 1,
+   "oi": 4,
+   "label": "Jinsu Zhi",
+   "before": "The governing section heading reads 金粟智和尚語, followed by 上堂; the exact headword opens the verse in that address.",
+   "after": "The governing section heading reads 金粟智和尚語, the record of Jinsu Zhi, followed by 上堂; the exact headword opens the verse in that address.",
+   "rowId": "R0120",
+   "rowSha": "6dbe0ebc34eb6f29ee2de7466c6b5b169b798a4003c110334fd7ed81d0195f2f"
+  },
+  {
+   "entry": "t_968a2f97c9ff",
+   "class": "reviewed-fields",
+   "si": 1,
+   "oi": 4,
+   "beforeReviewedBy": null,
+   "beforeReviewedUtc": null,
+   "reviewedBy": "A1 attribution repair gates + blind r1",
+   "reviewedUtc": "2026-09-02T08:10:44Z",
+   "rowId": "R0121",
+   "rowSha": "eaf1cbcba69d30bb08f75e1a53a086e0748b12ce318c4bd886852fb4f95626df"
+  },
+  {
+   "entry": "t_2e77bc793d0c",
+   "class": "anchor-remove",
+   "si": 1,
+   "removedRelPath": "T/T48/T48n2003.xml",
+   "removedClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+   "removedKwic": "。雪竇因風吹火。傍指出一箇半箇。一箇兩箇千萬箇脫却籠頭卸角馱左轉右轉隨後來紫胡要打劉",
+   "postClaimAnchors": null,
+   "survivingHolders": [
+    "T/T48/T48n2003.xml"
+   ],
+   "rowId": "R0122",
+   "rowSha": "7ba0c4b2502069d3544a49100dd74676feefc773e9b640f8f835ff933d405de8"
+  }
+ ]
+}

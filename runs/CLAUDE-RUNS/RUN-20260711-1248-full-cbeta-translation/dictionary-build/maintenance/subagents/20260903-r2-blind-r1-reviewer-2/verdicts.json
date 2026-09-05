@@ -1,0 +1,78 @@
+{
+  "reviewer": "reviewer2",
+  "materialsPinsOk": true,
+  "rowsChecked": 16,
+  "flags": [
+    {
+      "rowId": "R0000",
+      "law": "A2",
+      "reason": "post slot(1,8) MasterName is null; row claims newMasterName 'Dongyang Dehui' (also contradicts laneLaw.t48n2025Class: Dongyang Dehui is never a speaking master)"
+    },
+    {
+      "rowId": "R0009",
+      "law": "A2",
+      "reason": "post slot(1,9) ContextMasters[0].Roles = ['compiler']; row claims ['utterer'] (laneLaw.t48n2025Class: Dongyang Dehui is never a speaking master)"
+    },
+    {
+      "rowId": "R0010",
+      "law": "A2",
+      "reason": "post slot(1,1) ActorAttribution.ActorLabel = \"the monastic code's institutional voice\"; row claims \"the code compiler's editorial voice\""
+    },
+    {
+      "rowId": "R0011",
+      "law": "A1",
+      "reason": "PRE slot(1,8) Kwic[11] is 內 (U+5167) in '如尋常坐禪向內坐'; row carriedKwic has 猫 (U+732B) there: '如尋常坐禪向猫坐'"
+    },
+    {
+      "rowId": "R0011",
+      "law": "A2",
+      "reason": "POST slot(1,8) Kwic still has 內 (U+5167); the row's carriedKwic 猫 (U+732B) is not the unchanged pre→post value the 'carried' claim asserts"
+    },
+    {
+      "rowId": "R0012",
+      "law": "A1",
+      "reason": "PRE slot(1,1) FromLb = '1143a07'; row carriedFromLb = '1143a08'"
+    },
+    {
+      "rowId": "R0012",
+      "law": "A2",
+      "reason": "POST slot(1,1) FromLb = '1143a07'; carriedFromLb '1143a08' is not unchanged pre→post"
+    },
+    {
+      "rowId": "R0007",
+      "law": "B3",
+      "reason": "B3 as written requires full-string equality: PRE slot(1,3) AttributionNote is 366 chars, before is a 48-char fragment; POST note is 400 chars, after is 82. Under the fragment semantics of B1/B2 (field resolved to slot(1,3).AttributionNote) this row IS byte-consistent with PRE and POST; the flag enforces B3's literal '=='."
+    },
+    {
+      "rowId": "R0014",
+      "law": "B1",
+      "reason": "POST Note does not contain after (0 occurrences, need exactly 1): after inserts '(非攝非散)', which appears nowhere in the POST Note"
+    },
+    {
+      "rowId": "R0014",
+      "law": "B2",
+      "reason": "one-replacement rebuild diverges from POST Note at char 537: rebuilt '...retains (非攝非散) the ordinary...' vs POST '...retains the ordinary...'"
+    },
+    {
+      "rowId": "R0015",
+      "law": "B1",
+      "reason": "POST slot(1,3) AttributionNote does not contain after (0 occurrences): after invents compiler '百丈自編' where the POST note reads '至柔等編'"
+    },
+    {
+      "rowId": "R0015",
+      "law": "B2",
+      "reason": "one-replacement rebuild diverges at char 99: rebuilt '...disciples (百丈自編): in the verse' vs POST '...disciples (至柔等編): in the verse'"
+    },
+    {
+      "rowId": "R0015",
+      "law": "B3",
+      "reason": "B3 literal equality fails: before/after are fragments (48/82 chars) of the full PRE/POST slot notes (366/400 chars)"
+    },
+    {
+      "rowId": "R0013",
+      "law": "D1",
+      "reason": "PRE SearchAliases + ['一不成二不是'] != POST ['one fails, two is wrong', '一不成、二不是']: the row's added string drops the ideographic comma 、 (U+3001) after 成 (U+6210)"
+    }
+  ],
+  "notes": "All 6 material sha256 pins matched. Mechanical checks (verify.py, run with python -X utf8) plus a full manual Read of the rows file and all 6 materials. Field resolution note: attributionnote-rewrite rows carry field 'OccAttributionNote', which is not a sense-level key; for B1/B2 it was resolved to slot(entry,si,oi).AttributionNote; B3 was enforced literally (full-string equality of the slot note with before/after), which both attributionnote rows violate because they publish fragments, not full notes - under a substring reading R0007 is otherwise fully consistent with the frozen bytes while R0015 contradicts POST under every reading (claims compiler 百丈自編; POST says 至柔等編). B4 anchoring evaluated for (t_ea2a427c7aba, si1) and (t_057cc9ea8755, si1): all maximal CJK runs anchored, no flags. E1/E2 clean for all three entries. The PRE->POST diff inventory shows every changed byte path in all three entries (17 / 2 / 1 differing paths) is covered by at least one row-consistent edit - no unexplained lane changes. Row pairs R0000/R0002, R0001/R0010/R0012, R0003/R0009, R0006/R0014, R0007/R0015, R0008/R0013 describe the same edit; in each pair the flagged twin contradicts the frozen PRE or POST bytes. laneLaw.defectCensus names t_ab715aa474d5 and t_351fa42d396b, absent from the materials - unverifiable from the inputs; no law attaches to it. rowSha is not verified: no law defines its serialization. Unverifiable-from-inputs items: none besides those two."
+}

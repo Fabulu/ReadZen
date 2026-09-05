@@ -1,0 +1,173 @@
+{
+  "Id": "t_4952f5caca1f",
+  "SourceTerm": "屋裏販揚州",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "peddling Yangzhou inside the house",
+      "AlternateTargets": [
+        "selling Yangzhou at home"
+      ],
+      "SearchAliases": [
+        "peddling Yangzhou inside the house",
+        "selling Yangzhou at home"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained witnesses keep one household-and-market image across appraisal, encounter, and verse; they do not warrant a separate literal-commercial sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0055a17",
+          "ToLb": "0055a18",
+          "Kwic": "國清英云：趙州南泉大似屋裏販揚州，首座恁麼可知禮也。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: The inline formula “Guoqing Ying says” assigns the appraisal of Zhaozhou and Nanquan to Guoqing Ying.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-identified Chan master",
+            "ActorLabel": "Guoqing Ying",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit inline cue 國清英云 names Guoqing Ying as speaker, but that identity is not present in the canonical lineage roster.",
+            "ReviewedBy": "Codex C032 Lane A bounded source adjudication",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0506b12",
+          "ToLb": "0506b13",
+          "Kwic": "居士云：赤土塗牛嬭，屋裏販揚州。",
+          "Curated": true,
+          "MasterName": "Pang Yun",
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon: Pang Yun says “red earth smeared with cow’s milk; peddling Yangzhou inside the house” in the raised encounter.",
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0434a07",
+          "ToLb": "0434a08",
+          "Kwic": "天高地厚問端繇，棒喝交馳卒未休，換骨洗腸猶不是，誰知屋裏販揚州？",
+          "Curated": true,
+          "MasterName": "Wuyi Yuanlai",
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan: Wuyi Yuanlai’s verse asks who knows peddling Yangzhou inside the house after exchanges of staff and shout.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "X/X83/X83n1578.xml",
+        "J/J27/J27nB197.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Nanquan Puyuan",
+        "Pang Yun",
+        "Wuyi Yuanlai"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0055a17",
+          "ToLb": "0055a18",
+          "Kwic": "國清英云：趙州南泉大似屋裏販揚州，首座恁麼可知禮也。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: The inline formula “Guoqing Ying says” assigns the appraisal of Zhaozhou and Nanquan to Guoqing Ying.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-identified Chan master",
+            "ActorLabel": "Guoqing Ying",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit inline cue 國清英云 names Guoqing Ying as speaker, but that identity is not present in the canonical lineage roster.",
+            "ReviewedBy": "Codex C032 Lane A bounded source adjudication",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ClaimText": "國清英云：趙州南泉大似屋裏販揚州，首座恁麼可知禮也。"
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0434a07",
+          "ToLb": "0434a08",
+          "Kwic": "天高地厚問端繇，棒喝交馳卒未休，換骨洗腸猶不是，誰知屋裏販揚州？",
+          "Curated": true,
+          "MasterName": "Wuyi Yuanlai",
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan: Wuyi Yuanlai’s verse asks who knows peddling Yangzhou inside the house after exchanges of staff and shout.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ClaimText": "天高地厚問端繇，棒喝交馳卒未休，換骨洗腸猶不是，誰知屋裏販揚州？"
+        }
+      ],
+      "Explanation": "This stock appraisal pictures redundant commerce: trying to peddle all of Yangzhou while already inside one’s own house. Guoqing Ying applies it to Zhaozhou and Nanquan, Pang Yun places it in a raised encounter, and Wuyi Yuanlai uses it in verse. Across these retained uses, the phrase keeps the impossible redundancy of selling a whole place from inside it; the surrounding case decides whom the appraisal addresses."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "Id": "t_4e0636f53520",
+  "SourceTerm": "牆壁有耳",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-19T17:09:47.354922Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "walls have ears",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "walls have ears"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The line warns against presumed secrecy; it does not literally animate walls.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0654b22",
+          "ToLb": "0654c03",
+          "Kwic": "師云：牆壁有耳。問：如何是佛？師云：水到渠成。僧曰：爭柰不會。師云：却較些子。筠州九峯勤禪師筠州九峯勤禪師問：如何是道？師云：逢春無綠草。僧曰：如何是道中人？師云：南來北往。問：方便門中，請師垂示。師云：佛不奪眾生願。僧曰：恁麼則謝師",
+          "MasterName": "Guanghui Qingshun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guanghui Qingshun",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Guanghui Qingshun",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record. Guanghui Qingshun directly answers the preceding question with “walls have ears.”"
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0507a26",
+          "ToLb": "0507a30",
+          "Kwic": "師云：「牆壁有耳。」問：「雲橫大野，水滿清溪，略彴不是趙州橋，未審行人如何得過？」師云：「拽脫鼻孔。」進云：「畢竟借誰之力？」師云：「你眼在甚麼處？」僧作禮，云：「和尚三寸甚密。」師便打。僧云：「須到如此。」師云：「天地懸殊。」乃云：「",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Xiaotang Yunfen directly answers the preceding question with “walls have ears” before taking the next question about crossing the stream."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0999a23",
+          "ToLb": "0999b04",
+          "Kwic": "欵。未招便與闌胸一踏。只如百丈笑。者僧笑。還有優劣也無。西白和尚至。上堂。僧問。三日不說著。口邊生白醭。學人出去。四十餘日。作麼生。師云。待爾口邊出青草。却向汝道。僧云。低聲低聲。牆壁有耳。師云。也要大家知。僧云。只如口邊出青草底人。還有方便也無。師云。大有方便。僧云。那裏是他方便處。師云。一任牛搏馬踏。僧云。學人不會。師乃云。風穴破屋數間。單丁者七年。後為臨際正續。西白道人即斯人也。深雲古木。雙眼清寒。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. the unnamed monastic interlocutor gives the expression translated as “walls have ears”; the student-or-monk speech marker governs the phrase before Xutang Zhiyu responds.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic interlocutor",
+            "ActorLabel": "the unnamed monastic interlocutor",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the unnamed monastic interlocutor gives the expression translated as “walls have ears”; the student-or-monk speech marker governs the phrase before Xutang Zhiyu responds.",
+            "ReviewedBy": "author_from_packet",
+            "ReviewedUtc": "2026-07-19T17:09:47.354922Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X78/X78n1556.xml",
+        "J/J37/J37nB389.xml",
+        "T/T47/T47n2000.xml",
+        "T/T48/T48n2023.xml"
+      ],
+      "RelatedMasters": [
+        "Guanghui Qingshun",
+        "Xiaotang Yunfen"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Even walls may overhear what is said. Guanghui Qingshun answers a lineage claim with the warning; Xiaotang Yunfen uses it amid a public interview; Xutang Zhiyu answers a request for secrecy; monastic regulations apply it to careless talk."
+    }
+  ]
+}

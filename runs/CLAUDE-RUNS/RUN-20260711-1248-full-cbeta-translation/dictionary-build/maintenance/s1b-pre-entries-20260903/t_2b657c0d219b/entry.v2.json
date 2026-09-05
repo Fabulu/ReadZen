@@ -1,0 +1,293 @@
+{
+  "Id": "t_2b657c0d219b",
+  "SourceTerm": "七佛",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the seven buddhas",
+      "AlternateTargets": [
+        "seven buddhas of the past"
+      ],
+      "SearchAliases": [
+        "seven Buddhas",
+        "seven past Buddhas",
+        "seven Buddha lineage",
+        "rites of the seven Buddhas"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "7 independent witnesses delimit this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0024a03",
+          "ToLb": "0024a04",
+          "Kwic": "楊為寫七佛殿額，乃問：七佛重出世時如何？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Exact actor: Yang, the calligrapher. The complete case distinguishes the headword-bearing turn from surrounding narration and replies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "identified participant",
+            "ActorLabel": "Yang, the calligrapher",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case identifies Yang, the calligrapher as the non-master who utters the headword-bearing wording.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact spans remain together because all repeated spans occur in the same indivisible clause governed by the same exact actor; no independently unique single-span recut exists in this source."
+          }
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0196c03",
+          "ToLb": "0196c04",
+          "Kwic": "由七佛以至大法眼之嗣。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Exact actor: Daoyuan, the lamp-record compiler. The complete case distinguishes the headword-bearing turn from surrounding narration and replies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "identified participant",
+            "ActorLabel": "Daoyuan, the lamp-record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case identifies Daoyuan, the lamp-record compiler as the non-master who utters the headword-bearing wording.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0147c09",
+          "ToLb": "0147c11",
+          "Kwic": "竊謂五宗原非後人自立以羅籠人者，乃從達磨所傳七佛諸祖之偈中拈出，以定綱宗者耳。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang (三峰藏和尚語錄): Exact actor: Dongyuan Fazhen. The complete case distinguishes the headword-bearing turn from surrounding narration and replies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-named monastic speaker",
+            "ActorLabel": "Dongyuan Fazhen",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked source speech frame identifies Dongyuan Fazhen as the exact headword-bearing speaker.",
+            "ReviewedBy": "Cohort013 Lane A bounded owner pass",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0280c07",
+          "ToLb": "0280c07",
+          "Kwic": "世尊曰：汝既持鉢，當依七佛儀式。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林): Exact actor: Shakyamuni Buddha. The complete case distinguishes the headword-bearing turn from surrounding narration and replies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-named monastic speaker",
+            "ActorLabel": "Shakyamuni Buddha",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked source speech frame identifies Shakyamuni Buddha as the exact headword-bearing speaker.",
+            "ReviewedBy": "Cohort013 Lane A bounded owner pass",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0096a08",
+          "ToLb": "0096a08",
+          "Kwic": "難遂問如何是七佛儀式",
+          "Curated": true,
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu: Ananda asks what the formal pattern of the seven buddhas is; Shakyamuni Buddha answers afterward, and Tianyin Yuanxiu later raises the case.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-named monastic speaker",
+            "ActorLabel": "Ananda",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked source speech frame identifies Ananda as the exact headword-bearing speaker.",
+            "ReviewedBy": "Cohort013 Lane A bounded owner pass",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          },
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Shakyamuni Buddha",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ],
+              "GrammarEvidence": "The full marked passage names Shakyamuni Buddha in the documented respondent, case-figure role."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X84/X84n1583.xml",
+          "FromLb": "0418b17",
+          "ToLb": "0418b18",
+          "Kwic": "問：文殊是七佛之師，為甚麼出女子定不得？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp (續燈正統): The questioner is unnamed: The complete case distinguishes the headword-bearing turn from surrounding narration and replies. Speaker: the unnamed questioner.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cuiyan Kezhen",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monastic questioner",
+            "ActorLabel": "the unnamed questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit 問/僧問 frame assigns the headword-bearing words to an unnamed questioner; the following 師曰/師云 response is a separate turn.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0524b11",
+          "ToLb": "0524b11",
+          "Kwic": "曰：『汝既持缽，當依七佛儀式。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄): Exact actor: Buddha. The complete case distinguishes the headword-bearing turn from surrounding narration and replies. Speaker: Shakyamuni Buddha.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-named monastic speaker",
+            "ActorLabel": "Shakyamuni Buddha",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked source speech frame identifies Shakyamuni Buddha as the exact headword-bearing speaker.",
+            "ReviewedBy": "Cohort013 Lane A bounded owner pass",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          }
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0024a03",
+          "ToLb": "0024a04",
+          "Kwic": "楊為寫七佛殿額，乃問：七佛重出世時如何？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Exact actor: Yang, the calligrapher. The complete case distinguishes the headword-bearing turn from surrounding narration and replies.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "identified participant",
+            "ActorLabel": "Yang, the calligrapher",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case identifies Yang, the calligrapher as the non-master who utters the headword-bearing wording.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact spans remain together because all repeated spans occur in the same indivisible clause governed by the same exact actor; no independently unique single-span recut exists in this source."
+          },
+          "ClaimText": "The baseline reader explanation is anchored to this retained exact occurrence."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "T/T51/T51n2076.xml",
+        "J/J34/J34nB299.xml",
+        "X/X66/X66n1297.xml",
+        "L/L154/L154n1639.xml",
+        "X/X84/X84n1583.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Cuiyan Kezhen"
+      ],
+      "RelatedTerms": [
+        "過去七佛"
+      ],
+      "Explanation": "The seven buddhas are the inherited group preceding and including Shakyamuni that the records place at the head of the transmitted line. Masters cite their verse lineage, ritual forms, halls, and Manjushri’s relation to them, bringing the group into present questions rather than offering seven separate biographies."
+    }
+  ]
+}

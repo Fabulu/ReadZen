@@ -1,0 +1,170 @@
+{
+  "Id": "t_539b931c442a",
+  "SourceTerm": "秉拂",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to take up the teaching-seat whisk and preside",
+      "AlternateTargets": [
+        "to preside with the whisk",
+        "to hold the whisk and preside"
+      ],
+      "SearchAliases": [
+        "preside with a fly-whisk",
+        "whisk-holding presider",
+        "take the teaching seat with a whisk",
+        "whisk-holder at a public address",
+        "delegated whisk ceremony"
+      ],
+      "Status": "preferred",
+      "Explanation": "To take up the teaching-seat whisk and preside under delegated authority. In these records this is a public, authorized act, not casual handling of an object. Yixian's Chan Grove Auxiliary Code places it among the head monks' duties and gives a winter procedure: the head monk accepts the invitation, borrows the teaching seat and drum, and the whisk-holder receives questions before raising cases. Cilang is invited to take up the whisk and ascend the hall, where he immediately receives a public question. Songyuan Chongyue's whisk-holding general address likewise opens with a public question. Hansong Zhicao receives the teaching robe and takes up the whisk; Guishan Gumei's assembly requests him to leave retreat and do so; and Jie'an Wujin records a head monk taking it up for a small gathering. Zen therefore bends the phrase into a visible authorization to preside in public question-and-answer: the whisk, borrowed seat, address format, and questioning occur together.",
+      "Validation": "multi-source",
+      "Note": "Allowlist count: 843 hits in 144 texts. Companion forms include taking up the whisk and ascending the hall (49 hits in 24 texts), doing so at a small gathering (26 in 17), requesting it (39 in 13), and doing so for a general address (7 in 5). These formats do not create separate senses: the headword names the same authorized act across different public formats. No insect-removal or precept deployment was found.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0627a19",
+          "ToLb": "0627a20",
+          "Kwic": "住持記請，頭首秉拂，單寮、四寮并雜職，一一敘陳，委曲詳盡。",
+          "MasterName": "Yixian",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). Compiled by Yixian: the abbot records invitations and the head monks take up the whisk as an assigned office. Yixian is a source-attested compiler not yet represented in the local roster.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yixian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0629d08",
+          "ToLb": "0629d10",
+          "Kwic": "冬秉拂至日午後，侍者令客頭携主杖、牌拂、僕𨽻、托柈袱、爐燭，報上首、知事、維那，同詣頭首寮，炷香觸禮一拜",
+          "MasterName": "Yixian",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規). Compiled by Yixian: the complete winter procedure names the whisk-holder, borrowed teaching seat and drum, public questions and answers, case-raising, and successive presiders. Yixian is a source-attested compiler not yet represented in the local roster.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yixian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0053a24",
+          "ToLb": "0053a25",
+          "Kwic": "請慈朗法侄首座，秉拂，上堂。僧問：「竹稀煙補密，梅瘦雪添肥，即今龍象交參，和尚將何垂示？」",
+          "MasterName": "Cilang",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄). The record names the invited head monk Cilang, who takes up the whisk, ascends the hall, and receives a monk's question. Cilang is source-attested and not yet represented in the local roster.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cilang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0596b04",
+          "ToLb": "0596b05",
+          "Kwic": "受法衣，秉拂。拈衣示眾云：「箇事由來徹底窮，尋常嬾得向人通",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao (寒松操禪師語錄). Spoken by Hansong Zhicao: the head-seat record places receipt of the teaching robe immediately before taking up the whisk and showing the robe to the assembly.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB463.xml",
+          "FromLb": "0800a04",
+          "ToLb": "0800a06",
+          "Kwic": "臘月朔，一眾請出關，秉拂。「眉間挂劍，好手手中呈好手；血濺梵天，紅心心裏中紅心。",
+          "MasterName": "Guishan Gumei",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan (溈山古梅冽禪師語錄). Spoken by Guishan Gumei: on the first day of the twelfth month, the assembly requests him to leave retreat and take up the whisk.",
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Gumei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0099a20",
+          "ToLb": "0099a22",
+          "Kwic": "靈隱首座寮，秉拂。僧問：人天眼目，堂中上座，四海叢林，還佗一箇。三德六味，拈放一邊，祖意西來，便請裂破。答云：一字入公門，九牛拽不出。",
+          "MasterName": "Songyuan Chongyue",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue (松源崇嶽禪師語錄). Spoken by Songyuan Chongyue while head monk at Lingyin: the whisk-holding general address begins with a monk's public question and Songyuan's answer.",
+          "ContextMasters": [
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0338a29",
+          "ToLb": "0338a30",
+          "Kwic": "甲申，東塔請師秉拂小參。僧問：「擬伸一問，師還答否？」師云：「不答。」",
+          "MasterName": "Jie'an Wujin",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin (介菴進禪師語錄). Spoken by Jie'an Wujin: Dongta requests him to take up the whisk for a small gathering, where a monk immediately asks whether he will answer a question.",
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Wujin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X63/X63n1250.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB392.xml",
+        "J/J39/J39nB463.xml",
+        "X/X70/X70n1377.xml",
+        "J/J29/J29nB233.xml"
+      ],
+      "RelatedMasters": [
+        "Songyuan Chongyue",
+        "Hansong Zhicao",
+        "Guishan Gumei",
+        "Jie'an Wujin"
+      ],
+      "RelatedTerms": [
+        "拂子",
+        "上堂",
+        "小參",
+        "普說",
+        "問話"
+      ]
+    }
+  ]
+}

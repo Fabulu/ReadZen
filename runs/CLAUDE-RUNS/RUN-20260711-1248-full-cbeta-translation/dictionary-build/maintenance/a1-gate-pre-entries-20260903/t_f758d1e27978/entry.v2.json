@@ -1,0 +1,156 @@
+{
+  "Id": "t_f758d1e27978",
+  "SourceTerm": "劍刃",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sword-edge",
+      "AlternateTargets": [
+        "blade-edge",
+        "the sword's edge"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, the cutting edge of a sword. Chan records repeatedly place speech and encounter “on the sword-edge.” The Blue Cliff Record preserves the explicit contrast: “if you go on the sword-edge, it is quick; if you look from discriminating consciousness, it is slow.” A collected address pairs the sword-edge with thin ice and asks who can tread there, immediately before saying that the lineage's wondrous phrase is hard to state by the road of words. Another master calls “the phrase that meets the occasion” a sword-edge matter and records that asking “how?” or “what?” already leaks. The expression also appraises a recorded response: after Yangshan pushes out a pillow, Guishan says that Huiji used a sword-edge matter; a later master quotes that verdict and disputes whether it qualifies. Elsewhere masters speak of walking, turning the body, eating, dressing, or meeting on the edge. The deviation is the corpus's own recurrent deployment: a literal weapon-edge becomes the named ground on which Chan answers, phrases, actions, and appraisals are recorded as taking place; this entry does not assign the image a further mystical meaning.",
+      "Validation": "multi-source",
+      "Note": "Translate the object, not as an unexplained metaphor. The evidence links it especially to “the phrase that meets the occasion” (當機一句), quick response, and later appraisal of an encounter. It remains distinct from “sword” (劍), the whole weapon, and from the broader public-interview terms.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0180b17",
+          "ToLb": "0180b18",
+          "Kwic": "古人道。若向劍刃上走則快。若向情識上見則遲。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Yuanwu Keqin quotes a source-unattributed old saying: going on the sword-edge is quick, while seeing from discriminating consciousness is slow; its original speaker is not reassigned to the later quoter.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "quoted aphorism",
+            "ActorLabel": "source-unattributed old saying",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "Yuanwu Keqin introduces the contrast with 古人道. The complete case, section, title, TEI metadata, and exact/parallel searches do not identify the old saying's original speaker, so it is retained as an impersonal quoted formula rather than reassigned to the later quoter.",
+            "ReviewedBy": "Codex source-batched exact-turn review",
+            "ReviewedUtc": "2026-07-13T23:45:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0072c12",
+          "ToLb": "0072c13",
+          "Kwic": "劍刃輕氷，誰當履踐？宗乘妙句，語路難陳。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Full-case review identifies Dayang Jingxuan as the actor.",
+          "MasterName": "Dayang Jingxuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Dayang Jingxuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0162a06",
+          "ToLb": "0162a07",
+          "Kwic": "當機一句是劍刃上事，不得如何若何，纔動著已成滲漏了也。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang (三峰藏和尚語錄). Full-case review identifies Hanyue Fazang as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Hanyue Fazang",
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0931c11",
+          "ToLb": "0931c12",
+          "Kwic": "仰推出枕子。溈山曰：『寂子用劍刃上事。』",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan (蔗菴範禪師語錄). Full-case review identifies Guishan Lingyou as the actor.",
+          "MasterName": "Guishan Lingyou",
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0580b02",
+          "ToLb": "0580b04",
+          "Kwic": "禪德譬如擲劍揮空，莫論及之不及，斯乃空輪無跡。劍刃非虧，若能如是，心心無知，全心即佛，全佛即人。",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). In the sermon preserved in the Patriarchs' Hall anthology, Panshan Baoji (盤山寶積) teaches the assembly with the thrown sword: whether it reaches or not, the empty wheel leaves no track and the sword blade loses nothing (劍刃非虧); if one can be thus, thought after thought without knowing, the whole mind is Buddha and the whole Buddha is man.",
+          "MasterName": "Panshan Baoji",
+          "ContextMasters": [
+            {
+              "MasterName": "Panshan Baoji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0988c08",
+          "ToLb": "0988c09",
+          "Kwic": "師云。劍刃上走馬。火焰裡藏身。興化門下。不為分外。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang (虛堂和尚語錄). Xutang Zhiyu (虛堂) comments on the Xinghua Cunjiang (興化) line: running a horse on the sword blade (劍刃上走馬) and hiding the body in the flames is nothing out of place under Xinghua's gate.",
+          "MasterName": "Xutang Zhiyu",
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X64/X64n1260.xml",
+        "J/J34/J34nB299.xml",
+        "J/J36/J36nB369.xml",
+        "B/B25/B25n0144.xml",
+        "T/T47/T47n2000.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "劍",
+        "當機",
+        "當機一句",
+        "對機",
+        "問答"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

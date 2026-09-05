@@ -1,0 +1,118 @@
+{
+  "Id": "t_2ada35bdd55b",
+  "SourceTerm": "逆水之波",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a wave running against the current",
+      "AlternateTargets": [
+        "an upstream-running wave"
+      ],
+      "SearchAliases": [
+        "against-current wave",
+        "upstream wave",
+        "reverse-flow wave"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The image is repeatedly contrasted with following the water's direction.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0359c10",
+          "ToLb": "0359c14",
+          "Kwic": "空蕭索。非蕭索，作者好求無病藥。章敬道是南泉非，逆水之波透出誰？可憐箇漢皮無血，駕與青龍不解騎。是是，放",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: Chushi Fanqi."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0184b14",
+          "ToLb": "0184b19",
+          "Kwic": "若成風應機非善巧堪悲獨眼龍曾未呈牙爪牙爪開生雲雷逆水之波經幾回來問。若成風。應機非善巧。太傅問處。似運斤",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Speaker: Xuedou Chongxian."
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0625b10",
+          "ToLb": "0625b13",
+          "Kwic": "行太早，十年歸不得，忘却來時道。師云：不敢望你有逆水之波，且有順水之意也難得。乃舉：良遂初參麻谷，谷見來",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄). Speaker: Yunmen Wenyan."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0105a08",
+          "ToLb": "0105a11",
+          "Kwic": "處，良遂總知；良遂知處，諸人不知。雲門偃云：便有逆水之波。又云：作麼生是良遂知處？東林顏云：作麼生是良遂",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Speaker: Yunmen Wenyan. The surrounding frame explicitly identifies the record compiler.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the record compiler",
+              "Roles": [
+                "later-quoter"
+              ],
+              "GrammarEvidence": "The compiler introduces Yunmen's preserved words with the explicit name-plus-speech formula."
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X66/X66n1297.xml",
+        "T/T48/T48n2003.xml",
+        "X/X83/X83n1578.xml",
+        "X/X66/X66n1296.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi",
+        "Xuedou Chongxian",
+        "Yunmen Wenyan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A wave running against the current is a stock Chan image for a movement whose direction opposes the water's flow. Xuedou's verse asks how many times the wave has run upstream; Yunmen contrasts it directly with an intention that follows the current; Chushi Fanqi asks who emerges through such a wave."
+    }
+  ]
+}

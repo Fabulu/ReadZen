@@ -1,0 +1,447 @@
+{
+  "Id": "t_57145bc70a8d",
+  "SourceTerm": "佛",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "buddha",
+      "AlternateTargets": [
+        "the Buddha",
+        "a buddha"
+      ],
+      "Status": "preferred",
+      "Explanation": "The graph names a buddha and, with the article, the Buddha. It occurs 116,053 times in 459 allowlisted texts, but the Chan record gives this extremely broad title a sharply observable deployment of its own. The Buddha in the lineage-opening scenes is a participant in public actions: the World-Honored One mounts the seat, Kashyapa announces that the Buddha has finished speaking, and the Buddha leaves the seat; at Vulture Peak he holds up a flower before the silent assembly and Kashyapa smiles. The same bare word is made the object of the stock public question \"What is Buddha?\" (如何是佛), to which the records preserve mutually different answers rather than a common descriptive biography: Yunmen says \"a dry shit-stick\" (乾屎橛), Dongshan says \"three catties of hemp\" (麻三斤), and Huangbo says \"this very mind is buddha; no-mind is the Way\" (即心是佛。無心是道。). Linji supplies an explicit formula in answer to \"What are the true buddha, true teaching, and true Way?\": \"buddha is the mind's purity; the teaching is the mind's brightness; the Way is unobstructed pure light everywhere\" (佛者，心清淨是；法者，心光明是；道者，處處無礙淨光是), then calls all three empty names without real existence (三即一，皆是空名，而無寔有). The corpus also turns against the title itself. Zhaozhou's recorded saying is \"the one word 'buddha'—I do not like to hear it\" (佛之一字，吾不喜聞). A lamp record attributes to Deshan a longer roster beginning \"here there is no buddha and no patriarch\" (這裏佛也無，祖也無) and ending \"buddha is an old barbarian's shit-stick\" (佛是老胡屎橛). Linji places buddha first in a five-part roster of whatever one meets inside or outside: \"meet a buddha, kill the buddha; meet a patriarch, kill the patriarch; meet an arhat, kill the arhat; meet parents, kill parents; meet kin, kill kin\" (逢佛殺佛、逢祖殺祖、逢羅漢殺羅漢、逢父母殺父母、逢親眷殺親眷). Later comments keep the lineage-opening scene open to appraisal: Dongshan Shouchu says people know only the flower and smile but do not know the World-Honored One, while Yulin calls the flower and smile the single transmission of the treasury of the true teaching eye and says it has made clear-eyed people laugh ever since. This is where Chan bends the word: its Buddha is recorded through the flower and teaching-seat actions, answers and self-formulas in public exchanges, refusal and abuse of the title, later appraisal of the lineage-opening scene, and the title's place in a killing roster—not through an outside religious life story.",
+      "Validation": "multi-source",
+      "Note": "This sense covers the figure/title and the word as deployed in Chan, not the physical image separated below. Longer compounds keep their own articles and should not be silently substituted for it: buddha-nature; the question 'What is Buddha?' (如何是佛); 'this very mind is buddha' (即心是佛); 'meet a buddha, kill the buddha' (逢佛殺佛); and denouncing buddhas and reviling patriarchs. The graph in 'the Buddha's teaching' is a compound constituent and does not justify leaving the entire compound untranslated. The curated evidence spans an early lamp compilation, Linji's own record, and Huangbo's record; later compilations and commentaries repeatedly preserve and comment on the same scenes and formulas.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0014b07",
+          "ToLb": "0014b11",
+          "Kwic": "有蓮花色比丘尼作念云：我是尼身，必居大僧後，不若用神力變作轉輪聖王，千子圍繞，最初見佛，果滿其願。世尊纔見，便呵云：蓮華色比丘尼何得越大僧見吾？汝雖見吾色身，且不見吾法身；須菩提在岩中宴坐，却見吾法身。",
+          "MasterName": null,
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). As the assembly goes up into the air to greet Shakyamuni Buddha, the nun Utpalavarna transforms herself into a wheel-turning king ringed by a thousand sons so as to see him first (最初見佛); he rebukes her for passing the great monks and says that Subhuti, sitting quietly in the rocks, sees his dharma-body.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "greeted teacher",
+            "ActorLabel": "Shakyamuni Buddha",
+            "ActorRole": "person-discussed",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X79n1557 0014b07-11: the nun resolves 有蓮花色比丘尼作念云…最初見佛，果滿其願。 the single headword stands inside Utpalavarna's resolve to be first to see the Buddha; the one greeted is Shakyamuni Buddha, who then rebukes her (世尊纔見，便呵云…) using 吾 rather than the headword; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify the greeted figure as Shakyamuni Buddha, not a roster-linked master.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0014c14",
+          "ToLb": "0014c17",
+          "Kwic": "世尊因黑齒梵志運神力，以左右手擎合歡梧桐花兩株來供養佛。佛召仙人，志應諾。佛云：放下著。志放下左手花。佛又召仙人：放下著。志放下左手花。佛又召仙人：放下著。志云：我今空手而立，更放下箇甚麼？",
+          "MasterName": null,
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). The black-toothed brahmin sage carries two silk-tree blossoms in both hands to offer them to Shakyamuni Buddha (供養佛); the Buddha summons him and three times says 'Put it down,' until the sage, standing empty-handed, asks what more there is to put down.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "case dialogue",
+            "ActorLabel": "Shakyamuni Buddha",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X79n1557 0014c14-17: the exchange runs 世尊因黑齒梵志運神力，以左右手擎合歡梧桐花兩株來供養佛。佛召仙人，志應諾。佛云：放下著。 the headword opens the summons and teaching turns (佛召仙人…佛云：放下著), spoken by Shakyamuni Buddha within the case; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify the speaker as Shakyamuni Buddha, not a roster-linked master.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0058b10",
+          "ToLb": "0058b10",
+          "Kwic": "師垂語云：佛之一字，吾不喜聞。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Zhaozhou Congshen says he does not like to hear the single word 'buddha.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0152c03",
+          "ToLb": "0152c03",
+          "Kwic": "又僧問雲門：如何是佛？門云：乾屎橛。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Yunmen Wenyan answers the public question 'What is Buddha?' with 'a dry shit-stick.' The questioning monk remains unnamed in the record; Yunmen Wenyan is the responding master.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic questioner",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "僧問 introduces the headword-bearing question 如何是佛 that 雲門 then answers with 乾屎橛; the nearest-turn rule binds the headword to the questioning monk's turn, and the record does not name him.",
+            "ReviewedBy": "P1 chunk-D research freeze 20260901",
+            "ReviewedUtc": "2026-09-01T00:00:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0227a08",
+          "ToLb": "0227a08",
+          "Kwic": "問：如何是佛？師云：麻三斤。",
+          "MasterName": "Dongshan Shouchu",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Dongshan Shouchu answers the public question 'What is Buddha?' with 'three catties of hemp.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Shouchu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2012B.xml",
+          "FromLb": "0384b01",
+          "ToLb": "0384b01",
+          "Kwic": "問如何是佛。師云。即心是佛。無心是道。",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2012B.xml). Wanling Record of Chan Master Duanji of Huangbo (黃檗斷際禪師宛陵錄). Huangbo Xiyun answers 'What is Buddha?' with 'this very mind is buddha; no-mind is the Way.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1985.xml",
+          "FromLb": "0501c28",
+          "ToLb": "0502a01",
+          "Kwic": "問：「如何是真佛？真法？真道？乞垂開示。」師云：「佛者，心清淨是；法者，心光明是；道者，處處無礙淨光是。三即一，皆是空名，而無寔有",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1985.xml). Recorded Sayings of Chan Master Huizhao of Linji, Zhenzhou (鎮州臨濟慧照禪師語錄). Linji Yixuan supplies the three-part formula and immediately calls its terms empty names.",
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1985.xml",
+          "FromLb": "0500b21",
+          "ToLb": "0500b24",
+          "Kwic": "但莫受人惑，向裏向外逢著便殺——逢佛殺佛、逢祖殺祖、逢羅漢殺羅漢、逢父母殺父母、逢親眷殺親眷——始得解脫。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1985.xml). Recorded Sayings of Chan Master Huizhao of Linji, Zhenzhou (鎮州臨濟慧照禪師語錄). Linji Yixuan places buddha first in the complete five-object killing roster.",
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0173a11",
+          "ToLb": "0173a15",
+          "Kwic": "德山老漢見處即不然，這裏佛也無，祖也無，達磨是老臊胡，十地菩薩是擔屎漢，等妙二覺是破戒凡夫，菩提涅槃是繫驢橛，十二分教是鬼神簿、拭瘡疣紙，四果三賢、初心十地是守古塚鬼，自救得也無？佛是老胡屎橛。",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Deshan Xuanjian gives the extended roster beginning with no buddha or patriarch and ending by calling buddha an old barbarian's shit-stick.",
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0401c03",
+          "ToLb": "0401c06",
+          "Kwic": "上堂。世尊拈華。迦葉微笑時。人祇知拈華微笑。要且不識世尊。僧問。如何是祖師西來意。師曰。荊棘林中舞柘枝。曰。如何是佛。師曰。新生孩子擲金盆。",
+          "MasterName": "Dongshan Shouchu",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Dongshan Shouchu says people know the flower and smile but not the World-Honored One; this is family evidence for the Buddha figure.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Shouchu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0539b08",
+          "ToLb": "0539b10",
+          "Kwic": "至於拈華微笑謂之單傳正法眼藏也引他明眼人至今好笑後來諸佛諸祖見人少知慚愧勉彊為人",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu calls the flower-holding smile the single transmission and says it has made clear-eyed people laugh; this is family evidence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0539a18",
+          "ToLb": "0539a20",
+          "Kwic": "諸人還知諸佛諸祖出世的本因麼莫是有佛法與人商量故出世耶莫是有禪道傳授與人故出世耶",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu asks whether buddhas and patriarchs came forth because they possessed buddha-teaching to discuss or Chan Way to transmit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X79/X79n1557.xml",
+        "T/T48/T48n2012B.xml",
+        "T/T47/T47n1985.xml",
+        "X/X80/X80n1565.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Yunmen Wenyan",
+        "Dongshan Shouchu",
+        "Huangbo Xiyun",
+        "Linji Yixuan",
+        "Deshan Xuanjian",
+        "Shakyamuni Buddha",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [
+        "世尊",
+        "拈花",
+        "拈華微笑",
+        "如何是佛",
+        "即心是佛",
+        "乾屎橛",
+        "麻三斤",
+        "逢佛殺佛",
+        "呵佛罵祖",
+        "佛性",
+        "木佛"
+      ],
+      "SearchAliases": [
+        "buddha",
+        "the Buddha",
+        "a buddha",
+        "awakening title"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a buddha image",
+      "AlternateTargets": [
+        "a buddha statue"
+      ],
+      "Status": "preferred",
+      "Explanation": "The same bare graph can name a physical buddha image rather than a person or title. The Record of the Chan Gate's Forged Reflections lists the twenty-fifth case as “Danxia burns a buddha” (丹霞燒佛). Wanfeng Zhishan preserves the full material scene: in severe cold Danxia takes a wooden buddha to burn, the monastery chief asks, “Why burn my buddha?” (何得燒我佛), and Danxia stirs the ashes saying, “I am burning it to obtain relics” (吾燒取舍利). An independent record names the same case with the material object explicit: “Danxia burns a wooden buddha” (丹霞燒木佛). Yulin Tongxiu also preserves the material contrast: a gold buddha does not pass through the furnace, a wooden buddha does not pass through fire, a clay buddha does not pass through water, and the true buddha sits within (金佛不度爐木佛不度火泥佛不度水真佛內裡坐). The bare shortened title and the monastery chief's bare “my buddha” therefore identify a physical image, a different object from the buddha addressed, questioned, rejected, or invoked in the primary sense.",
+      "Validation": "multi-source",
+      "Note": "Two exact bare-word anchors establish the image sense: the shortened case title and the monastery chief's question inside the full cold-weather and relic exchange. The independent expanded case name and Yulin Tongxiu's gold, wood, clay, and true-buddha roster are family evidence; neither is allowed to buy bare-headword depth. The longer compound 'wooden buddha' (木佛) remains a related entry rather than replacing this bare-word sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0268a11",
+          "ToLb": "0268a11",
+          "Kwic": "二十五、丹霞燒佛",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection (林泉老人評唱投子青和尚頌古空谷集). Linquan Conglun lists case twenty-five as 'Danxia burns a buddha'; Danxia Tianran is the case subject.",
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0727b20",
+          "ToLb": "0727b20",
+          "Kwic": "丹霞燒木佛",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). Zhongfeng Mingben names the material case object explicitly as a wooden buddha; Danxia Tianran is the case subject.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB441.xml",
+          "FromLb": "0314c14",
+          "ToLb": "0314c17",
+          "Kwic": "丹霞過慧林寺，遇天大寒，取木佛燒向院。主呵曰：「何得燒我佛？」霞以杖子撥灰曰：「吾燒取舍利。」主曰：「木佛何有舍利？」霞曰：「既無舍利，更取兩尊燒。」主自後眉鬚墮落。",
+          "MasterName": "Wanfeng Zhishan",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB441.xml). Recorded Sayings of Chan Master Tongzhen of Wanfeng (萬峰童真禪師語錄). Wanfeng Zhishan preserves the full Danxia case in his Xiangshan verses on old cases: severe cold, burning a wooden buddha, the monastery chief's bare question 'Why burn my buddha?', the relic test, and the demand for two more images. The source's author line and self-signature identify the speaker as Zhishan; Danxia Tianran and the unnamed monastery chief are quoted case participants.",
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Wanfeng Zhishan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0555a19",
+          "ToLb": "0555a19",
+          "Kwic": "金佛不度爐木佛不度火泥佛不度水真佛內裡坐",
+          "MasterName": null,
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu quotes the roster contrasting gold, wooden, and clay buddhas with the true buddha; the compound forms are family evidence for material buddha images. The roster is a source-unattributed old saying whose original speaker the record does not name (introduced with 古德道, the old worthies said); Yulin Tongxiu is its later quoter.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "quoted roster",
+            "ActorLabel": "source-unattributed old saying",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Yulin Tongxiu quotes the roster 金佛不度爐木佛不度火泥佛不度水真佛內裡坐 that the record introduces with 古德道 (the old worthies said) without naming any one of them; the line, its expanded context, the section, the book title, the TEI header, and exact/parallel searches do not name the original speaker at this site, so it stays an impersonal quoted roster with Yulin Tongxiu as its later quoter.",
+            "ReviewedBy": "P1 coordinator named-quoter extension 20260901",
+            "ReviewedUtc": "2026-09-01T10:23:03+02:00"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X67/X67n1303.xml",
+        "B/B25/B25n0145.xml",
+        "J/J39/J39nB441.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Danxia Tianran",
+        "Linquan Conglun",
+        "Zhongfeng Mingben",
+        "Wanfeng Zhishan",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [
+        "木佛",
+        "燒佛",
+        "丹霞燒佛"
+      ],
+      "SearchAliases": [
+        "buddha image",
+        "buddha statue",
+        "image of a buddha",
+        "buddha figure"
+      ]
+    }
+  ]
+}

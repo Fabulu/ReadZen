@@ -1,0 +1,223 @@
+{
+  "Id": "t_e62a6a10b2f9",
+  "SourceTerm": "金毬",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T20:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the gold-ball image in play and rolling scenes",
+      "AlternateTargets": [
+        "the played-or-rolled gold-ball image"
+      ],
+      "SearchAliases": [
+        "gold ball",
+        "golden ball",
+        "rolling gold ball",
+        "play ball in rushing water",
+        "fire turtle golden ball"
+      ],
+      "Status": "preferred",
+      "Explanation": "Here the phrase supplies a round gold-ball image that speakers play, roll, or send through a compressed scene. In these moving-ball witnesses, the corpus does not decide whether ‘gold’ names material, color, value, or conventional wording; Chan records use the whole image as a boast, an interview comparison, and a verse image, and Dahong Shousui immediately places a further obstruction beyond his own claimed feat. Dahong says that he has ‘played a gold ball in rushing water’ (急水打金毬), after claiming to topple towers and gallop a jade horse; he then says that colored cords still bind his hands and feet, a gold lock closes his throat, and even breaking those leaves one more obstruction. Nanyue Jiqi Hongchu later reuses the feat inside an interview, asking, ‘Galloping a jade horse on a high tower—how does that compare with playing a gold ball in rushing water?’ (高樓馳玉馬，何如急水打金毬), and afterward reports that the preceding teacher called that handling a flaw. Other speakers roll rather than play the ball. Cishou Huaishen's verse says that everyone has an old monkey and has it roll a gold ball on an eight-flower brick (八花磚上輥金毬). Lanshi Ling, versifying Ruyu's exchange in which Ruyu's interlocutor answers ‘rotten winter melon’ to ‘what is buddha?’, says that a gold ball rolls out purple clouds and haze (金毬輥出紫煙霞). Duanqiao Miaolun pairs ‘a turtle rolls a gold ball in fire’ with ‘a blue rabbit hangs a precious mirror in water’ (烏龜火裏輥金毬／碧兔水中懸寶鏡). Zhean Jingfan's portrait verse pictures wind rolling a gold ball across the water's surface (風輥金毬翻水面). These are attested actions and placements, not a stable code for enlightenment. None of these witnesses says that the ball is cast from gold or explicitly compares its color with gold; the entry therefore preserves ‘gold-ball image’ without resolving the modifier.",
+      "Validation": "multi-source",
+      "Note": "The played and rolled uses share one object-image and differ only in action and local setting. The rushing-water formula appears in nine texts but transmits Dahong Shousui's same address or a later reuse of it; duplicate lamp recensions are inventoried in WORK.md rather than stored as independent depth. This spelling is not interchangeable with the gold-pellet projectile compound or the one-off modern-form gold-ball spelling without evidence.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0545a09",
+          "ToLb": "0545a13",
+          "Kwic": "一拳拳倒黃鶴樓。一踏踏翻鸚鵡洲。慣向高樓驟玉馬。曾於急水打金毬。然雖恁麼爭奈有。五色絲絛擊手脚。三鑐金鎖鎖咽喉。直饒鎚碎金鎖割斷絲絛。須知更有一重礙汝在。",
+          "MasterName": "Dahong Shousui",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In Dahong Shousui's explicit biography, records Dahong claiming to play a golden ball in rushing water and then saying that colored cords and a gold lock still bind him, with a further obstruction remaining beyond their removal.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahong Shousui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0326b19",
+          "ToLb": "0326b21",
+          "Kwic": "曰：「一眾瞻仰。」師曰：「高樓馳玉馬，何如急水打金毬？」僧作禮曰：「恩大難酬。」師曰：「上來禪師道你敗闕。」",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue (南嶽繼起和尚語錄). Nanyue Jiqi Hongchu asks in an interview how galloping a jade horse on a high tower compares with playing a golden ball in rushing water, then reports that the preceding teacher called the monk's handling a flaw.",
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0684a02",
+          "ToLb": "0684a03",
+          "Kwic": "人人有个老獼猴暮四朝三卒未休喚著便能知落處八花磚上輥金毬",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集). Explicitly labels this verse as Cishou Huaishen's: everyone has an old monkey, and when called it knows where to land, rolling a golden ball on an eight-flower brick.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB218.xml",
+          "FromLb": "0647b05",
+          "ToLb": "0647b07",
+          "Kwic": "舉如玉禪師問僧：「如何是佛？」僧曰：「爛冬瓜。」金毬輥出紫煙霞，百萬人天費爪牙。忤逆兒孫拈弄得，逢人只當爛冬瓜。",
+          "MasterName": "Lanshi Ling",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB218.xml). Recorded Sayings of Chan Master Lanshi Ling (懶石聆禪師語錄). Lanshi Ling raises Ruyu's ‘rotten winter melon’ exchange and writes that a golden ball rolls out purple clouds and haze.",
+          "ContextMasters": [
+            {
+              "MasterName": "Lanshi Ling",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1394.xml",
+          "FromLb": "0550c08",
+          "ToLb": "0550c09",
+          "Kwic": "即心即佛，烏龜火裏輥金毬；非佛非心，碧兔水中懸寶鏡。",
+          "MasterName": "Duanqiao Miaolun",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1394.xml). Recorded Sayings of Chan Master Duanqiao Miaolun (斷橋妙倫禪師語錄). Duanqiao Miaolun pairs ‘mind itself is buddha—a turtle rolls a golden ball in fire’ with ‘neither buddha nor mind—a blue rabbit hangs a precious mirror in water.’",
+          "ContextMasters": [
+            {
+              "MasterName": "Duanqiao Miaolun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0992b30",
+          "ToLb": "0992c01",
+          "Kwic": "恢祖案，風輥金毬翻水面。",
+          "MasterName": "Zhean Jingfan",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan (蔗菴範禪師語錄). Zhean Jingfan writes that the ancestral case is restored as wind rolls a golden ball across the water's surface.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhean Jingfan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T51/T51n2077.xml",
+        "J/J34/J34nB301.xml",
+        "C/C078/C078n1720.xml",
+        "J/J28/J28nB218.xml",
+        "X/X70/X70n1394.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Dahong Shousui",
+        "Nanyue Jiqi Hongchu",
+        "Cishou Huaishen",
+        "Lanshi Ling",
+        "Duanqiao Miaolun",
+        "Zhean Jingfan"
+      ],
+      "RelatedTerms": [
+        "急水打金毬",
+        "金",
+        "金彈子",
+        "金球"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "golden orb of the sun or reflected light",
+      "AlternateTargets": [
+        "golden sun-orb",
+        "golden reflected orb"
+      ],
+      "SearchAliases": [
+        "golden orb",
+        "gold sun ball",
+        "golden sun sphere",
+        "moon reflection golden ball",
+        "golden ball on water"
+      ],
+      "Status": "preferred",
+      "Explanation": "Here the phrase names a bright round orb in sky or water: the red sun itself, or celestial light reflected in a pool. Chan masters put that visible sphere in a New Year answer and a travel verse; these predicates establish appearance and location, not a ball made from gold. Asked for the buddha-teaching at the head of the new year, Buyan Le answers, ‘ten thousand acres of white cloud spread brocade; one round red sun hangs a golden orb’ (萬頃白雲鋪錦繡，一輪紅日挂金毬). The red sun is the stated referent. In a verse written while lodging at Qibao Temple, Jiguang Huo describes windows overlooking green water and ‘a pool of stars and moon floating a golden orb’ (一潭星月泛金毬). The pool, stars, and moon establish a reflected-light scene. This is a different thing from a ball played in rushing water or rolled by a turtle: the same rounded wording names a celestial or reflected orb rather than an acted-on ball-image.",
+      "Validation": "multi-source",
+      "Note": "This sense is split by referent, not by poetic reading or grammar. The sun is explicitly named in one witness, and the other places stars and moon with the orb in a pool. A separate one-off modern-form spelling also describes a red sun as a rolling golden sphere, but it remains a related headword rather than evidence mechanically reassigned to this spelling.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J38/J38nB419.xml",
+          "FromLb": "0544c20",
+          "ToLb": "0544c21",
+          "Kwic": "元日，上堂。問：「如何是新年頭佛法？」師云：「萬頃白雲鋪錦繡，一輪紅日挂金毬。」",
+          "MasterName": "Buyan Le",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB419.xml). Recorded Sayings of Chan Master Bu’yanle (Huayan) (華嚴不厭樂禪師語錄). Buyan Le answers a New Year hall question with white clouds spreading brocade and one round red sun hanging as a golden orb.",
+          "ContextMasters": [
+            {
+              "MasterName": "Buyan Le",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J36/J36nB367.xml",
+          "FromLb": "0877c29",
+          "ToLb": "0878a01",
+          "Kwic": "梵王宮涌古江頭，渡險為橋不用舟，四面軒窗臨碧水，一潭星月泛金毬。煙村隔岸飛塵遠，翠壁重危入徑幽，時納濤浪翻瀾舌，無情說法日悠悠。",
+          "MasterName": "Jiguang Huo",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB367.xml). Recorded Sayings of Chan Master Jiguan Huo (寂光豁禪師語錄). Jiguang Huo writes while lodging at Qibao Temple of windows overlooking green water and a pool of stars and moon floating a golden orb.",
+          "ContextMasters": [
+            {
+              "MasterName": "Jiguang Huo",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J38/J38nB419.xml",
+        "J/J36/J36nB367.xml"
+      ],
+      "RelatedMasters": [
+        "Buyan Le",
+        "Jiguang Huo"
+      ],
+      "RelatedTerms": [
+        "金球",
+        "金色",
+        "日輪",
+        "月影"
+      ]
+    }
+  ]
+}

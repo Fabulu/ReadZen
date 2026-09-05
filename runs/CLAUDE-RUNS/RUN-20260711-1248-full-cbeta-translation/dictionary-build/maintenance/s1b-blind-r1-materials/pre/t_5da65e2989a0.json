@@ -1,0 +1,226 @@
+{
+  "Id": "t_5da65e2989a0",
+  "SourceTerm": "夏末",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the end of summer",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "end of summer",
+        "late summer"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Three Tier 2 witnesses retain the same Yunmen question. They are treated as one inherited case family, so the sense remains provisional; the single best useful lamp is retained and only parallel lamp recensions are removed as padding.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0724c01",
+          "ToLb": "0724c01",
+          "Kwic": "問初秋夏末前程忽有人問如何秪對",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monastic questioner",
+            "ActorLabel": "the unnamed questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit question frame assigns the headword-bearing words to an unnamed questioner; the marked teacher response is a separate turn.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: the unnamed questioner is the exact actor or actor-class recorded for this headword-bearing text."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0011a05",
+          "ToLb": "0011a08",
+          "Kwic": "上堂舉洞山云。初秋夏末。或東或西。直須向萬里無寸草處去。良久云。祇如萬里無寸草處。又作麼生去。後僧舉問石霜。霜云。出門便是草。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "section-subject"
+              ]
+            }
+          ],
+          "MasterName": "Dongshan Liangjie",
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi: Dongshan Liangjie is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0990b18",
+          "ToLb": "0990b22",
+          "Kwic": "上堂。舉。雲門因。僧問。初秋夏末。前程忽有人問。未審對他道甚麼。門云。大眾退後。僧云。過在甚麼處。門云。還我九十日飯錢來。師云。者僧是王小波草鞋。雲門雖縱奪可觀。未免暗中著箭。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "later-raiser",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "quoted monastic questioner",
+            "ActorLabel": "the unnamed monk in Yunmen’s case",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Xutang raises Yunmen’s case; the stored headword belongs to the quoted monk’s question.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang: the unnamed monk in Yunmen’s case is the exact actor or actor-class recorded for this headword-bearing text."
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0029b13",
+          "ToLb": "0029b14",
+          "Kwic": "古人道，初秋夏末，合有責情三十棒。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Speaker: Yunmen Wenyan is the quoted predecessor; Yuelin Zhen raises the saying that at early autumn, summer's end, thirty blows should be assessed. Parallel recensions in Yunmen's own record preserve the formula.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuelin Zhen",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "MasterName": "Yunmen Wenyan"
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0724c01",
+          "ToLb": "0724c01",
+          "Kwic": "問初秋夏末前程忽有人問如何秪對",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monastic questioner",
+            "ActorLabel": "the unnamed questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit question frame assigns the headword-bearing words to an unnamed questioner; the marked teacher response is a separate turn.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: the unnamed questioner is the exact actor or actor-class recorded for this headword-bearing text.",
+          "ClaimText": "夏末"
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0011a05",
+          "ToLb": "0011a08",
+          "Kwic": "上堂舉洞山云。初秋夏末。或東或西。直須向萬里無寸草處去。良久云。祇如萬里無寸草處。又作麼生去。後僧舉問石霜。霜云。出門便是草。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "section-subject"
+              ]
+            }
+          ],
+          "MasterName": "Dongshan Liangjie",
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi: Dongshan Liangjie is the exact actor of this headword-bearing turn.",
+          "ClaimText": "夏末"
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n2000.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Dongshan Liangjie",
+        "Xutang Zhiyu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The end of summer is the seasonal phrase that opens Yunmen’s recorded question: “At early autumn and summer’s end, if someone suddenly asks about the road ahead, how should one answer?” Hongzhi and Xutang later raise the same exchange."
+    }
+  ]
+}

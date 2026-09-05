@@ -1,0 +1,79 @@
+{
+ "schemaVersion": "a1-blind-r1-plants",
+ "honestRows": 116,
+ "plants": 7,
+ "slots": [
+  0,
+  18,
+  36,
+  47,
+  65,
+  94,
+  112
+ ],
+ "registry": [
+  {
+   "plantId": "P1",
+   "rowSlot": 0,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "fef80389824c1ae37b7e0ce4f1498471d83e8f44c33b49cd34272080e5cc2bfd",
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "defect": "muc row claims the wrong role (respondent/utterer swap)"
+  },
+  {
+   "plantId": "P2",
+   "rowSlot": 18,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "12083f2658015c98af11b1b52b3c5f97ba55c4b10af7b633a4247b5941763c40",
+   "entry": "t_0b56e6349db2",
+   "class": "muc-context-row",
+   "defect": "muc row MasterName mismatches the occurrence bytes"
+  },
+  {
+   "plantId": "P3",
+   "rowSlot": 36,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "08945db604f5a34a0b6d322b2677726f6255656daa37da4c0e6b6df38cb5f973",
+   "entry": "t_1793c3514a69",
+   "class": "vague-reword",
+   "defect": "prose reword ADDS a claim (unevidenced master name)"
+  },
+  {
+   "plantId": "P4",
+   "rowSlot": 47,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "5aa6a54bfbbbc62eb6cb4f3d8782179eed205762f1ae0fc6528fff15f72102d6",
+   "entry": "t_057cc9ea8755",
+   "class": "dangling-anchor",
+   "defect": "unanchored Chinese survivor string (not in the anchor kwic)"
+  },
+  {
+   "plantId": "P5",
+   "rowSlot": 65,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "0991a65bd1c8c970704c1dab5e97c53b990307185e7645a72ead881d1c48f7e1",
+   "entry": "t_4e3f766f716c",
+   "class": "performer-context-row",
+   "defect": "performer bound to the wrong record's master"
+  },
+  {
+   "plantId": "P6",
+   "rowSlot": 94,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "7009909cf092a770963bdf06f451c2b38a4728416f0180fba91d496431ce4f53",
+   "entry": "t_968a2f97c9ff",
+   "class": "reviewed-fields",
+   "defect": "fabricated human ReviewedBy"
+  },
+  {
+   "plantId": "P7",
+   "rowSlot": 112,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "8e2df0c4b811483990416127c98a4308952a7fea9ba5cccb4694187518ce0a58",
+   "entry": "t_057cc9ea8755",
+   "class": "dangling-anchor",
+   "defect": "claim text not present in the anchor kwic"
+  }
+ ]
+}

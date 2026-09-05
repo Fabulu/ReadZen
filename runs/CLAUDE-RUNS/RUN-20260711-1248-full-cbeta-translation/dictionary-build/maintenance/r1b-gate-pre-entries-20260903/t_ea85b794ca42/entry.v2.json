@@ -1,0 +1,206 @@
+{
+  "Id": "t_ea85b794ca42",
+  "SourceTerm": "茶湯",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane C evidence-first",
+  "WrittenUtc": "2026-07-15T04:51:42.006814+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "tea and hot water",
+      "AlternateTargets": [
+        "tea service"
+      ],
+      "SearchAliases": [
+        "tea and hot water",
+        "tea service",
+        "monastery refreshments",
+        "tea ceremony"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1112a24",
+          "ToLb": "1112b23",
+          "Kwic": "章第七沙彌得度新戒參堂登壇受戒護戒辦道具裝包遊方參請大相看大掛搭歸堂拋香相看謝掛搭方丈特為新掛搭茶坐禪坐禪儀坐參大坐參請益赴齋粥赴茶湯普請日用軌範龜鏡文病僧念誦亡僧版帳式節臘章第八夏前出草單新掛搭人點入寮茶出圖帳眾寮結解特為眾湯楞嚴會戒臘牌方丈小座湯四節土地堂念誦庫司四節特為首座大眾湯結制禮儀四節秉拂方",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522a20",
+          "ToLb": "0522c02",
+          "Kwic": "作大字。刻梓以傳。收者幸鑒。嘉泰壬戌虞八宣教謹咨。重雕補註禪苑清規目錄重雕補註禪苑清規目錄第一卷受戒護戒辨道具裝包旦過掛搭赴粥飰赴茶湯請因緣入室第二卷上堂念誦小參結夏解夏冬年人事巡寮迎接請知事第三卷監院維那典座直歲下知事請頭首首座書狀藏主第四卷知客庫頭浴主街坊水頭炭頭華戲嚴磨頭園頭莊主廨院主延壽堂主淨頭",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). Recarved, Supplemented Notes Chan Monastery Pure Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0621a08",
+          "ToLb": "0621b02",
+          "Kwic": "四水專使請住持玉西堂頭首住持出受請眾請陞座崑西堂頭首受請陞座崗煎點住持當代劒煎點西堂頭首新命號山門管待巨西堂頭首受命管待闕辭眾上堂茶湯珠見職首座西堂稱入院古法夜入院新法光請齋果開堂祝壽珍巡寮李特為茶湯柰小參菜檀越陞座重管待專使芥留請兩班薑參訪出入海交割什物卷之五鹹煎點住持河兩班寢堂煎點淡諸山辦事鱗尊宿相",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 茶湯 to the compiler narrating the headword-bearing event; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0004c04",
+          "ToLb": "0005a04",
+          "Kwic": "進火法座成建寶塔上塔珠寶索相輪合尖建壽塔定基開基立石開閉請行橋并謝開田并謝看卷三十退院辭眾退院載歸為住持遷化佛事鎻龕法堂挂真舉哀奠茶湯大夜對靈小參起龕全身入塔闍維奠茶湯秉炬卷三十一秉炬安骨起骨轉骨煆骨靈骨入塔撒骨入祖堂安牌估唱下遺書兩序請兩堂首座留首座請藏主侍者請東序知事請監寺提點請典座卷三十二請修造請",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 茶湯 to the compiler narrating the headword-bearing event; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0001b13",
+          "ToLb": "0001c17",
+          "Kwic": "時解結日月風雲雨雪水火第十五衣鉢服飾鞋韈珍寶琴碁簾帳舟楫第十六法器槌拂數珠缾錫杖笠鏡扇第十七器用刀劒弓箭骨董第十八糧食齋粥餬餅五味茶湯蔬菜第十九田地草木花果香燈搬掃柴薪第二十獅子像龍虎牛鹿猫犬龜魚兔蛇飛走No.1299禪林類聚卷第一帝王宰臣儒士帝王宰臣儒士帝王帝王阿育王內宮飯三萬大阿羅漢，王躬自行香，見",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0232b08",
+          "ToLb": "0232b08",
+          "Kwic": "大眾歸單打坐，兩序𥨊堂茶湯。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing event",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The selected span presents headword in third-person record narration or an editorially preserved formula without a safely isolated named speaker turn.",
+            "ReviewedBy": "Codex f003 Lane C full-turn author",
+            "ReviewedUtc": "2026-07-15T04:51:42.006814+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X63/X63n1250.xml",
+        "X/X64/X64n1260.xml",
+        "X/X67/X67n1299.xml",
+        "X/X66/X66n1296.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "Explanation": "Tea and hot water are regulated monastery hospitality served at arrivals, appointments, assemblies, and communal observances. Rules catalogue attendance, invitations, and officers for these services rather than treating them as private refreshments."
+    }
+  ]
+}

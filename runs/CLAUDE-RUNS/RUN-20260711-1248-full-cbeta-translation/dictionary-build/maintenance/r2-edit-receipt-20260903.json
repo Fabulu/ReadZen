@@ -1,0 +1,220 @@
+{
+  "schemaVersion": "r2-edit-receipt",
+  "lane": "R2",
+  "spec": "SPEC_R2_20260903.md",
+  "cloneHead": "145b090",
+  "engine": "r2_transform_20260903.py",
+  "applied": true,
+  "products": [
+    "t_ea2a427c7aba",
+    "t_057cc9ea8755",
+    "t_968a2f97c9ff"
+  ],
+  "followUpLane": [
+    "t_ab715aa474d5",
+    "t_351fa42d396b"
+  ],
+  "editClassCounts": {
+    "occ-attribution": 3,
+    "relatedmasters-rename": 1,
+    "explanation-rewrite": 1,
+    "note-rewrite": 1,
+    "attributionnote-rewrite": 1,
+    "searchaliases-add": 1
+  },
+  "editRecords": [
+    {
+      "class": "occ-attribution",
+      "entry": "t_ea2a427c7aba",
+      "si": 1,
+      "oi": 1,
+      "oldMasterName": "Dehui",
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActorAttribution": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "RungsChecked": [
+          "line",
+          "expanded-context",
+          "section-header",
+          "book-title",
+          "tei-header",
+          "parallel-passage"
+        ],
+        "ReviewedBy": "R2 external-review correction lane author",
+        "ReviewedUtc": "2026-09-03T23:26:00+02:00",
+        "GrammarEvidence": "The complete case was read for who utters 坐禪. The passage is serialized procedural regulation — posture directions to the assembly with no dialogue frame and no first person; the closing rebuke anecdote is quoted precedent, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+      },
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the code's titled Rules for Sitting Chan (坐禪儀) section, redacted by Dehui: the code directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records Fayun Yuantong's rebuke of sitting with closed eyes as a black mountain ghost cave",
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records the rebuke of sitting with closed eyes as a black mountain ghost cave",
+      "carried": {
+        "RelPath": "T/T48/T48n2025.xml",
+        "FromLb": "1143a07",
+        "ToLb": "1143a12",
+        "Kwic": "於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。",
+        "Curated": true
+      }
+    },
+    {
+      "class": "occ-attribution",
+      "entry": "t_ea2a427c7aba",
+      "si": 1,
+      "oi": 8,
+      "oldMasterName": "Dehui",
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActorAttribution": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "RungsChecked": [
+          "line",
+          "expanded-context",
+          "section-header",
+          "book-title",
+          "tei-header",
+          "parallel-passage"
+        ],
+        "ReviewedBy": "R2 external-review correction lane author",
+        "ReviewedUtc": "2026-09-03T23:26:00+02:00",
+        "GrammarEvidence": "The complete case was read for who utters 坐禪. The passage is an announced hall procedure: it prescribes the assembly's collective orientation on an audible signal — the register of institutional directive, not reported speech. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+      },
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The Imperially Revised Baizhang Monastic Code (勅修百丈清規), redacted by Dehui: the code assembles the community in the hall, says that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds",
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongyang Dehui (元 德煇重編), assembles the community in the hall, states that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds",
+      "carried": {
+        "RelPath": "T/T48/T48n2025.xml",
+        "FromLb": "1113a21",
+        "ToLb": "1113a22",
+        "Kwic": "集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。",
+        "Curated": true
+      }
+    },
+    {
+      "class": "occ-attribution",
+      "entry": "t_ea2a427c7aba",
+      "si": 1,
+      "oi": 9,
+      "oldMasterName": "Dehui",
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActorAttribution": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "RungsChecked": [
+          "line",
+          "expanded-context",
+          "section-header",
+          "book-title",
+          "tei-header",
+          "parallel-passage"
+        ],
+        "ReviewedBy": "R2 external-review correction lane author",
+        "ReviewedUtc": "2026-09-03T23:26:00+02:00",
+        "GrammarEvidence": "The complete case was read for who utters 坐禪. The passage is impersonal doctrinal summary in declarative register — no addressee, no dialogue frame, no first person — the code's own regulation prose. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+      },
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the code's titled Rules for Sitting Chan (坐禪儀) section, redacted by Dehui: the code directs thinking neither good nor evil and noticing the moment a thought arises, calls this the essential procedure of sitting Chan and sitting Chan a gate of ease, and notes that many are harmed by missing its essentials",
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs thinking neither good nor evil and noticing the moment a thought arises, calls this the essential procedure of sitting Chan and sitting Chan a gate of ease, and notes that many are harmed by missing its essentials",
+      "carried": {
+        "RelPath": "T/T48/T48n2025.xml",
+        "FromLb": "1143a12",
+        "ToLb": "1143a15",
+        "Kwic": "一切善惡都莫思量。念起即覺。常覺不昧不昏不散。萬年一念非斷非常。此坐禪之要術也。坐禪乃安樂法門。而人多致疾者。蓋不得其要。",
+        "Curated": true,
+        "HeadwordSpanReview": {
+          "Count": 2,
+          "Disposition": "single-actor-single-turn-repetition",
+          "GrammarEvidence": "The the complete case retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+        }
+      }
+    },
+    {
+      "class": "relatedmasters-rename",
+      "entry": "t_ea2a427c7aba",
+      "si": 1,
+      "renamed": {
+        "old": "Dehui",
+        "new": "Dongyang Dehui"
+      },
+      "postRelatedMasters": [
+        "Guting Shanjian",
+        "Nanyue Huairang",
+        "Mazu Daoyi",
+        "Linji Yixuan",
+        "Baozhi",
+        "Zhaoqing Shengdeng",
+        "Zhanran Yuancheng",
+        "Dongyang Dehui",
+        "Songyuan Chongyue"
+      ]
+    },
+    {
+      "class": "explanation-rewrite",
+      "entry": "t_ea2a427c7aba",
+      "si": 1,
+      "field": "Explanation",
+      "oi": null,
+      "before": "Dehui's monastic code gives an observable hall convention:",
+      "after": "The Baizhang monastic code redacted by Dongyang Dehui gives an observable hall convention:"
+    },
+    {
+      "class": "note-rewrite",
+      "entry": "t_057cc9ea8755",
+      "si": 1,
+      "field": "Note",
+      "oi": null,
+      "before": "verse in his own record retains",
+      "after": "verse in his recorded sayings, compiled by his disciples, retains"
+    },
+    {
+      "class": "attributionnote-rewrite",
+      "entry": "t_057cc9ea8755",
+      "si": 1,
+      "field": "OccAttributionNote",
+      "oi": 3,
+      "before": "Shiwu Qinghong: Sayings (石屋清洪禪師語錄): in the verse",
+      "after": "Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse"
+    },
+    {
+      "class": "searchaliases-add",
+      "entry": "t_968a2f97c9ff",
+      "si": 1,
+      "added": "一不成、二不是",
+      "postSearchAliases": [
+        "one fails, two is wrong",
+        "一不成、二不是"
+      ]
+    }
+  ],
+  "entryShas": {
+    "t_ea2a427c7aba": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+    "t_057cc9ea8755": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+    "t_968a2f97c9ff": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b"
+  }
+}

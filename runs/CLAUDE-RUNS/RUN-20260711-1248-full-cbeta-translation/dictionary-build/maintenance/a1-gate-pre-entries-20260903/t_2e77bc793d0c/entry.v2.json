@@ -1,0 +1,206 @@
+{
+  "Id": "t_2e77bc793d0c",
+  "SourceTerm": "左轉右轉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "turn left and turn right",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "turn left and turn right"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained cases distinguish Zihu Lizong’s question, Liu Tiemo’s quoted reply, later commentary, and an unattributed collected verse.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0157b24",
+          "ToLb": "0157c01",
+          "Kwic": "雪竇因風吹火。傍指出一箇半箇。一箇兩箇千萬箇脫却籠頭卸角馱左轉右轉隨後來紫胡要打劉鐵磨雪竇直下如擊石火。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Speaker and commentator: Yuanwu Keqin, who uses the exact phrase in his comment on Xuedou Chongxian’s verse."
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0529b02",
+          "ToLb": "0529b03",
+          "Kwic": "師便歸方丈。劉鐵磨參，師曰：汝是劉鐵磨否？曰：不敢。師曰：左轉右轉？曰：和尚莫顛倒。",
+          "MasterName": "Zihu Lizong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zihu Lizong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Liu Tiemo",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄). Zihu Lizong asks the exact headword-bearing question; Liu Tiemo answers it."
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0404a24",
+          "ToLb": "0404b01",
+          "Kwic": "子湖因劉鐵磨到，乃問：久響劉鐵磨，莫便是否？曰：不敢。師曰：左轉右轉？曰：和尚莫顛倒",
+          "MasterName": "Zihu Lizong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zihu Lizong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Liu Tiemo",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Zihu Lizong asks the exact headword-bearing question; Liu Tiemo answers it, and Yuanwu Keqin later comments on the exchange."
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0721a14",
+          "ToLb": "0721b09",
+          "Kwic": "一走下禪床行一轉看了如來五千卷婆子年高眼尚明夜深月下穿針線左轉右轉金剛寶劒全藏半藏由基發箭紅心心裏中紅心驚淂湏彌頭倒旋趙州一匝天輪轉婆子知音未足酬普為人天開正眼大千沙界一毫收不知兀坐常輪轉空下禪床繞一遭背面却言虧一半老婆𢙣業自家招趙州劒氣衝牛斗婆子神符懸肘後一條拄杖兩人扶好手手中誇好手趙州因僧侍次遂指火問曰這箇是火你不淂喚作火老僧道了也僧無對復筴起火曰會麼曰不會師曰此去舒州有投子和尚汝往禮拜問之必為汝說因緣相契不用更來不相契却來其僧到投子子問近離甚處曰趙州子曰趙州有何言句僧舉前話子曰汝會麼曰不會乞師指示子下禪床行三步却坐問曰會麼曰不會子曰你歸舉似趙州其僧却回舉似師師曰還會麼曰不會師曰投子與麼不較多也。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集). Speaker: the unnamed compiler-narrator.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "explicit compiler narration",
+            "ActorLabel": "the unnamed compiler-narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“來五千卷婆子年高眼尚明夜深月下穿針線左轉右轉金剛寶劒全藏半藏” predicates 左轉右轉 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration. The reviewed literal boundary is '。一走下禪床行一'.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0362b02",
+          "ToLb": "0362b04",
+          "Kwic": "思量無覔處。忽然突出口皮邊，萬象森羅眉卓竪。東行西行天地寬，左轉右轉珠走盤。金椎揮空",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Exact headword actor and verse author: Liao'an Qingyu, whose verse compares the two-direction turn to a pearl rolling on a tray."
+        },
+        {
+          "RelPath": "X/X67/X67n1310.xml",
+          "FromLb": "0663a24",
+          "ToLb": "0663b03",
+          "Kwic": "磨皮下有血，饒他竿木隨身。雖然柔弱勝剛強，要且話在。正覺云：左轉右轉，動是若因，和尚",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1310.xml). Picking Up Jewels from the Eight Directions Collection (拈八方珠玉集). Speaker: Hongzhi Zhengjue."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X83/X83n1578.xml",
+        "X/X66/X66n1297.xml",
+        "C/C078/C078n1720.xml",
+        "X/X71/X71n1414.xml",
+        "X/X67/X67n1310.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Zihu Lizong",
+        "Liu Tiemo",
+        "Liao'an Qingyu",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0157b24",
+          "ToLb": "0157b28",
+          "Kwic": "。雪竇因風吹火。傍指出一箇半箇。一箇兩箇千萬箇脫却籠頭卸角馱左轉右轉隨後來紫胡要打劉",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Speaker and commentator: Yuanwu Keqin, who uses the exact phrase in his comment on Xuedou Chongxian’s verse.",
+          "ClaimText": "The baseline reader explanation is anchored to this retained exact occurrence."
+        }
+      ],
+      "Explanation": "To turn left and turn right records motion in both directions. Zihu Lizong asks Liu Tiemo which way she turns; she answers that he should not turn things upside down. Yuanwu Keqin later raises their exchange. A collected verse on Zhaozhou’s turning of the Diamond Sutra joins left-and-right turning to a sword and to the whole and half canon. Liao’an Qingyu compares the movement to a pearl rolling on a tray, and Hongzhi Zhengjue comments on the Zihu–Liu Tiemo exchange with the same pair."
+    }
+  ]
+}

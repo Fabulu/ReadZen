@@ -1,0 +1,314 @@
+{
+  "cohort": "r2f1-main-20260905",
+  "round": "r1",
+  "lawNote": "Laws: A (window locator: si/oi/relPath/fromLb/toLb/kwic must byte-match the STAGED occurrence); B (old-state truth: every old* field must equal main-HEAD bytes, with ABSENT claims matching actual absence); C (new-state truth: new* fields must equal staged bytes; ActorLabel verbatim inside the new note); D (surface: census numbers must equal surface-facts.json and be independently recomputable from the materials); E (scope: every row's entry in the 5-product worklist).",
+  "materialsPins": {
+    "main-head-t_057cc9ea8755.json": "c8d4413d1f047b0c8520303a800f64504203953e16797ec9159385dda689f6f0",
+    "main-head-t_351fa42d396b.json": "7a944301330fd5629ada204a085c726e4951aa4d70c404b3e005d7fc886ea87b",
+    "main-head-t_968a2f97c9ff.json": "7f1be3335f86329b3b42582889dbf86a48ac5b1ced5bc5ed3180f4bb14ad4e8c",
+    "main-head-t_ab715aa474d5.json": "162182ab90ebc9f3acefd5be35701cc4ae792b2dc78752bb86fbd63eb9767de1",
+    "main-head-t_ea2a427c7aba.json": "ad39b6c69fa2269e69bebd9f78152ec55a7adf9100e35619be78ad236294ddcb",
+    "staged-t_057cc9ea8755.json": "6d944a1e0e8525675f2a43a13d895ded8bb24741d3aa819b0d0ffd2527b89af6",
+    "staged-t_351fa42d396b.json": "0aa23b3e0f0f0240035563f0ef92383d1f98a7658c8af98ee91ad7d5e26e7869",
+    "staged-t_968a2f97c9ff.json": "834e9198182fc6ffc9a31b53215341f4ed596f5d93bba5a2478392d3c64d539c",
+    "staged-t_ab715aa474d5.json": "f5b53377cdd602cbd02e59d24b2694d94b01b08f7480fbbd2da758c06b3c211f",
+    "staged-t_ea2a427c7aba.json": "6a8fcd405b24cb6285742bd16b19a77dc54d3b6238168a314f4468f112f0186e",
+    "surface-facts.json": "68fbac60c6016eac253cd0145ffb991d44e8310408d62089c114e408ce0ca2fa"
+  },
+  "rows": [
+    {
+      "kind": "occ-attribution",
+      "note": "publication diff row (main HEAD -> staged)",
+      "entry": "t_ea2a427c7aba",
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1113a21",
+      "oldWindowPresent": true,
+      "oldMasterName": null,
+      "oldContextMasters": [],
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The Imperially Revised Baizhang Monastic Code (勅修百丈清規), redacted by Dehui: the code assembles the community in the hall, says that ordinary sitting Zen faces inward, and directs everyone to turn outward when the drum sounds",
+      "si": 1,
+      "oi": 8,
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActor": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongyang Dehui (元 德煇重編), assembles the community in the hall, states that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds",
+      "carriedKwic": "集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。",
+      "toLb": "1113a22",
+      "rowSha": "11c19aa013f825df347fa08002e6ec3fad0255c58505f3da1a4247a1c19e943c"
+    },
+    {
+      "carriedKwic": "並宜兼赴。當思古人一日不作一日不食之誡。",
+      "entry": "t_ab715aa474d5",
+      "fromLb": "1144b03",
+      "kind": "occ-attribution",
+      "newActor": {
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "Kind": "institutional procedure",
+        "Status": "impersonal"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newMasterName": null,
+      "note": "publication diff row (main HEAD -> staged)",
+      "oi": 2,
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects. Exact speaker: Dehui.",
+      "oldContextMasters": [
+        {
+          "MasterName": "Dehui",
+          "Roles": [
+            "utterer"
+          ]
+        }
+      ],
+      "oldMasterName": "Dehui",
+      "oldWindowPresent": true,
+      "relPath": "T/T48/T48n2025.xml",
+      "si": 1,
+      "toLb": "1144b04",
+      "rowSha": "55a8c7ea5046880a826077870e8df794d8420245f4f5086a20e257058a3ac799"
+    },
+    {
+      "kind": "occ-attribution",
+      "note": "publication diff row (main HEAD -> staged)",
+      "entry": "t_ea2a427c7aba",
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1143a07",
+      "oldWindowPresent": false,
+      "oldMasterName": null,
+      "oldContextMasters": null,
+      "oldAttributionNote": null,
+      "si": 1,
+      "oi": 1,
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActor": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records the rebuke of sitting with closed eyes as a black mountain ghost cave",
+      "carriedKwic": "於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。",
+      "toLb": "1143a12",
+      "rowSha": "92b7d2d3680c9865bc162c19717d44dc70a3a9f072d72af58c96311a79b715a6"
+    },
+    {
+      "kind": "occ-attribution",
+      "note": "publication diff row (main HEAD -> staged)",
+      "entry": "t_ea2a427c7aba",
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1143a12",
+      "oldWindowPresent": false,
+      "oldMasterName": null,
+      "oldContextMasters": null,
+      "oldAttributionNote": null,
+      "si": 1,
+      "oi": 9,
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActor": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs thinking neither good nor evil and noticing the moment a thought arises, calls this the essential procedure of sitting Chan and sitting Chan a gate of ease, and notes that many are harmed by missing its essentials",
+      "carriedKwic": "一切善惡都莫思量。念起即覺。常覺不昧不昏不散。萬年一念非斷非常。此坐禪之要術也。坐禪乃安樂法門。而人多致疾者。蓋不得其要。",
+      "toLb": "1143a15",
+      "rowSha": "39750dea873504e752e31cf827feb78c70a738ce413cef5752b459f0d0aab8e2"
+    },
+    {
+      "aliasLostCount": 9,
+      "changedSetEqualsWorklist": false,
+      "dehuiCensusAfter": [],
+      "dehuiCensusBefore": [
+        "t_ab715aa474d5 T/T48/T48n2025.xml 1144b03"
+      ],
+      "entryCount": {
+        "after": 4715,
+        "before": 4715
+      },
+      "kind": "surface-census",
+      "nonProductRegression": [],
+      "note": "publication surface laws",
+      "rowSha": "2384caddae2fe94b47cb49a1c6ae265df9fd60931572bb34b118ed4ff59ce20c"
+    },
+    {
+      "kind": "occ-attribution",
+      "note": "publication diff row (main HEAD -> staged)",
+      "entry": "t_ab715aa474d5",
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1144b03",
+      "oldWindowPresent": true,
+      "oldMasterName": "Dehui",
+      "oldContextMasters": [
+        {
+          "MasterName": "Dehui",
+          "Roles": [
+            "utterer"
+          ]
+        }
+      ],
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects. Exact speaker: Dehui.",
+      "si": 1,
+      "oi": 2,
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActor": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+      "carriedKwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+      "toLb": "1144b04",
+      "rowSha": "a6e6bfa179337bdf60057bcc619a5f36fe29b6d9cb91f4868d4ac55161170931"
+    },
+    {
+      "kind": "occ-attribution",
+      "note": "publication diff row (main HEAD -> staged)",
+      "entry": "t_351fa42d396b",
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1127c04",
+      "oldWindowPresent": false,
+      "oldMasterName": null,
+      "oldContextMasters": null,
+      "oldAttributionNote": null,
+      "si": 1,
+      "oi": 1,
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActor": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+      "carriedKwic": "二時上粥飯。三時上茶湯。大眾諷經",
+      "toLb": "1127c10",
+      "rowSha": "06f683b719e7cae22fa5d40442c0003649e619bb5aca1068d67dfa085e9b9e4a"
+    },
+    {
+      "carriedKwic": "於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。",
+      "entry": "t_ea2a427c7aba",
+      "fromLb": "1143a07",
+      "kind": "occ-attribution",
+      "newActor": {
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "Kind": "institutional procedure",
+        "Status": "impersonal"
+      },
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records the rebuke of sitting with closed eyes as a black mountain ghost cave",
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newMasterName": null,
+      "note": "publication diff row (main HEAD -> staged)",
+      "oi": 1,
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: the fabricated pre-publication main note",
+      "oldContextMasters": null,
+      "oldMasterName": "Dehui",
+      "oldWindowPresent": true,
+      "relPath": "T/T48/T48n2025.xml",
+      "si": 1,
+      "toLb": "1143a12",
+      "rowSha": "58909e21a51132ab34e0e0b6342738f5318a5f42393afe8c344064741e4f7647"
+    },
+    {
+      "kind": "note-provenance",
+      "note": "057 occ-3 note gains the compiled-by-disciples provenance",
+      "entry": "t_057cc9ea8755",
+      "relPath": "X/X70/X70n1399.xml",
+      "oldNoteHasProvenance": false,
+      "newNoteHasProvenance": true,
+      "newNoteExcerpt": "Source record (X/X70/X70n1399.xml). Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse 'Sending Off the Idle Attendant to Return",
+      "rowSha": "48b6ffb0cdb05fda22e0205f7592eab0ae5e8de2686ef7f0a4959d112dc49772"
+    },
+    {
+      "kind": "alias-add",
+      "note": "968 gains the withdrawn-ID replacement search alias",
+      "entry": "t_968a2f97c9ff",
+      "oldAliases": [
+        "one fails, two is wrong"
+      ],
+      "newAliases": [
+        "one fails, two is wrong",
+        "一不成、二不是"
+      ],
+      "addedAlias": "一不成、二不是",
+      "rowSha": "757fc4eed91958680655c1269c1e9ff8009c4936934bdb23608b338afc2525fc"
+    },
+    {
+      "kind": "surface-census",
+      "note": "publication surface laws",
+      "entryCount": {
+        "before": 4715,
+        "after": 4716
+      },
+      "changedSetEqualsWorklist": true,
+      "dehuiCensusBefore": [
+        "t_ab715aa474d5 T/T48/T48n2025.xml 1144b03"
+      ],
+      "dehuiCensusAfter": [],
+      "nonProductRegression": [],
+      "aliasLostCount": 9,
+      "rowSha": "27dad61b3d078bcb039b9d124a7c2b91101ee89be065ca22c013ba0095d5d4ca"
+    }
+  ]
+}

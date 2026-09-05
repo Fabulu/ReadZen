@@ -1,0 +1,146 @@
+{
+  "Id": "t_4cf045deab37",
+  "SourceTerm": "粥飯僧",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a gruel-and-rice monk",
+      "AlternateTargets": [
+        "an ordinary monastery resident",
+        "a monk living on communal meals"
+      ],
+      "SearchAliases": [
+        "gruel-and-rice monk",
+        "ordinary monastery resident",
+        "resident monk",
+        "monk living on communal meals"
+      ],
+      "Status": "preferred",
+      "Explanation": "A gruel-and-rice monk is an ordinary monastery resident living within the community's daily support. Chan records use the same human role in self-description, refusal of public office, prohibition, contrast, and vow; those appraisals do not turn the resident into different kinds of person. Fenyang Shanzhao, repeatedly summoned to prestigious monasteries, says, “I am a long-term gruel-and-rice monk; transmitting the buddha-mind lineage is no small matter” (我長行粥飯僧傳佛心宗非細事也) and refuses eight invitations. Huaiyu Xuan Shouzuo declines Nanyuan by saying that he has long been a gruel-and-rice monk and will not emerge into the human world. Baoci Guangyun simply identifies himself as one. In contrastive uses, an official asks whether Weishan Lingyou's assembly consists of monks who eat gruel and rice or monks who investigate Chan; Weishan repeats and rejects both categories. Zhenjing Kewen warns the assembly not to become long-term gruel-and-rice monks. Xiangyan Zhixian says he will stop studying the buddha teaching and become one, sparing his mind the labor, while Puming's verse joins the same role to ceasing pursuit of learned knowledge yet insisting on clarifying mind. The Zen bend lies in making ordinary communal subsistence a public identity and test. Approval, self-deprecation, refusal, and rebuke are readings of one role, not separate senses.",
+      "Validation": "multi-source",
+      "Note": "The headword has 59 hits in 42 allowlisted texts. The earlier two-sense split was rejected on independent review: institutional residence and being characterized by the meals that support it do not establish incompatible referents. The exact same long-term gruel-and-rice-monk form occurs in refusal and admonition contexts, proving that appraisal and surrounding contrast cannot define separate senses. Related food and insult terms remain lexically distinct and do not donate stronger meanings to this compound.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0548a01",
+          "ToLb": "0548a02",
+          "Kwic": "未委和尚如何？」師云：「若問我，我則粥飯僧。",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). Baoci Guangyun answers an unnamed student's question by calling himself a gruel-and-rice monk.",
+          "MasterName": "Baoci Guangyun",
+          "ContextMasters": [
+            {
+              "MasterName": "Baoci Guangyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0682a12",
+          "ToLb": "0682a14",
+          "Kwic": "乃曰我長行粥飯僧傳佛心宗非細事也前後八請堅臥不荅",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Fenyang Shanzhao says that he has long been a gruel-and-rice monk and that transmitting the Buddha-mind lineage is no small matter.",
+          "MasterName": "Fenyang Shanzhao",
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X83/X83n1574.xml",
+          "FromLb": "0351c20",
+          "ToLb": "0351c21",
+          "Kwic": "師曰：我長作粥飯僧，誓不願出人間世矣。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X83/X83n1574.xml). Expanded Collection: Continued Transmission of the Lamp Record (增集續傳燈錄). Huaiyu Xuan Shouzuo declines Nanyuan by saying that he has long been a gruel-and-rice monk and vows not to emerge into the world.",
+          "MasterName": "Huaiyu Xuan Shouzuo",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0938c04",
+          "ToLb": "0938c05",
+          "Kwic": "既到㱕宗門下須是一箇箇心空及第㱕不可作長行粥飯僧",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Zhenjing Kewen tells those who have reached Guizong that each must pass with an empty mind and must not become a long-term gruel-and-rice monk.",
+          "MasterName": "Zhenjing Kewen",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1989.xml",
+          "FromLb": "0581a23",
+          "ToLb": "0581a24",
+          "Kwic": "師云。亦不是喫粥飯僧。亦不是參禪僧。",
+          "MasterName": "Weishan Lingyou",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1989.xml). Recorded Sayings of Chan Master Lingyou of Weishan, Tanzhou (潭州溈山靈祐禪師語錄). Weishan Lingyou repeats an official's contrast between monks who eat gruel and rice and monks who investigate Chan, then says the assembly is neither.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T47/T47n1989.xml",
+          "FromLb": "0580b15",
+          "ToLb": "0580b16",
+          "Kwic": "此生不學佛法也。且作箇長行粥飯僧。免役心神。",
+          "MasterName": "Xiangyan Zhixian",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1989.xml). Recorded Sayings of Chan Master Lingyou of Weishan, Tanzhou (潭州溈山靈祐禪師語錄). Xiangyan Zhixian says he will cease studying the buddha teaching and become a long-term gruel-and-rice monk, sparing his mind the labor.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xiangyan Zhixian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB424.xml",
+          "FromLb": "0623a09",
+          "ToLb": "0623a10",
+          "Kwic": "長為粥飯僧，不復學識；做個癡獃漢，必要明心。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB424.xml). Recorded Sayings of Chan Master Xiangyan (香嚴禪師語錄). In Puming's biographical record, Puming's verse says to remain a gruel-and-rice monk, stop pursuing learned knowledge, and insist on clarifying mind.",
+          "MasterName": "Puming",
+          "ContextMasters": []
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0144.xml",
+        "C/C077/C077n1710.xml",
+        "X/X83/X83n1574.xml",
+        "T/T47/T47n1989.xml",
+        "J/J38/J38nB424.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Weishan Lingyou",
+        "Xiangyan Zhixian"
+      ],
+      "RelatedTerms": [
+        "粥飯",
+        "參禪僧",
+        "飯袋子",
+        "酒糟漢",
+        "本分事"
+      ]
+    }
+  ]
+}

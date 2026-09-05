@@ -1,0 +1,79 @@
+{
+  "Id": "t_968a2f97c9ff",
+  "SourceTerm": "一不成，二不是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex lamp-only repair cohort006 lane A",
+  "WrittenUtc": "2026-07-18T10:04:34.216581Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one fails and two is not it",
+      "AlternateTargets": [
+        "one fails, two is wrong"
+      ],
+      "SearchAliases": [
+        "one fails, two is wrong"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Two independent Tier-2 recorded-sayings witnesses are retained: Yunmen uses the pair to answer a question about the transmission outside the three vehicles, and Jinsu Zhi deploys it in a verse. Lamp recensions are omitted because the higher-tier witnesses provide sufficient depth.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0544a06",
+          "ToLb": "0544a08",
+          "Kwic": "問：「如何是三乘教外別傳底事？」師云：「你若不問，我即不答。你若問，我即朝到西天，暮歸唐土。」僧云：「乞師指示。」師云：「一不成，二不是。」",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of Five Houses. Yunmen Wenyan is the direct speaker in the question-and-answer exchange; the headword is his answer to the monk's request for instruction."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0398a20",
+          "ToLb": "0398a21",
+          "Kwic": "一不成，二不是，火雲堆裏秋風起。堪笑耘田車水翁，手脚忙亂同兒戲。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named Chan master",
+            "ActorLabel": "Jinsu Zhi",
+            "ActorRole": "utterer",
+            "GrammarEvidence": "The governing section heading reads 金粟智和尚語, and the exact headword opens the verse attributed there.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          },
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials of Recorded Sayings. The section heading identifies Jinsu Zhi, and the exact expression opens his verse."
+        }
+      ],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "X/X68/X68n1318.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan"
+      ],
+      "RelatedTerms": [
+        "一不成"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The records use this paired refusal as a compact answer and as a line in formal addresses: the first count does not succeed, and the second is not right either. Yunmen answers a request concerning the transmission with the paired refusal. Jinsu Zhi opens a verse with the same line. The phrase itself supplies no positive third member."
+    }
+  ]
+}

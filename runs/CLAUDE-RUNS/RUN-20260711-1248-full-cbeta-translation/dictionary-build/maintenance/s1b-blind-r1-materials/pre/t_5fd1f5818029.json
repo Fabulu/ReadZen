@@ -1,0 +1,182 @@
+{
+  "Id": "t_5fd1f5818029",
+  "SourceTerm": "單刀直入",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "cut straight in with one blade",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "enter directly with a single blade",
+        "cut straight in"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Three Tier 2 records preserve a question, a direct address, and a later discursive use. ",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0135c20",
+          "ToLb": "0136a05",
+          "Kwic": "石季玉送關帝像入山，請上堂。豎起拂子，喝一喝，良久，云：「十年磨一劍，霜刃未曾試，今日持贈君，誰有不平事？」喝一喝，云：「此事直須全身鎧甲、八面威風，大刀飛一片冰花、赤馬奮半空雲影，於八萬四千魔軍堆裏馘其酋首猶如拾芥。具如是操略，正好干城正法、震攝魔怨，俾天下太平，使蒼生安樂。還有如是操略者麼？出來道看。」僧纔出，師便喝，進云：「是何宗旨？」師又喝，進云：「單刀直入一句作麼生道？」師以杖旋風打散大眾，歸方丈。上堂。「茫茫宇宙，落落門庭，前不見古人，後不見來者，據個曲彔木床，日與山花水鳥閒訴衷腸，崖瀑松風激揚宗旨。汝諸人但只耳門有竅、眼裏有筋，物物頭頭，何非己分？」以拄杖卓一下，云：「收。」上堂。「唇封兩片皮，齒鍵三條楔，腦後拖舌頭，吐出三丈銕，一道寒芒射斗牛，萬里長江兩岸雪。不是，不是，一二三四五六七。古人曰：『耳朵兩",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "questioning participant",
+            "ActorLabel": "the source-unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the source-unnamed questioning monk: The marker “the monk advanced and said” assigns the headword question to an unnamed monk; all six rungs were checked.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang: the source-unnamed questioning monk is the exact actor or actor-class recorded for this headword-bearing text."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0263a04",
+          "ToLb": "0263a18",
+          "Kwic": "外，引水澆蔬五老前。」上堂。僧問：「銀牆銕壁時，如何是迷中悟？」師云：「你問遮箇繫驢橛作麼？」進云：「瓦解冰消後，如何是悟中迷？」師云：「劍去久矣，你方刻舟。」問：「學人生死不明，乞師一接。」師云：「莫妄想。」進云：「不會。」師云：「卻較些子。」僧禮拜，師便打，乃云：「聰明不了生死，乾慧難脫苦輪。若不真參實悟，打脫業識根由，總無自由分。汝等無論久參初學，皆須單刀直入，掃蕩攙搶，方見太平基業。若只向心窩裏想、本子上尋，以當參學，正如南行北轍，愈行愈遠，生死到來方知不實。近時有一等禪和子，不信真參實究，不是向見聞知覺上認住，便是向無為無事內困著，甚至慣習機鋒，胡談亂作，種種邪謬。病僧久病無力，又舌頭生瘡，不能一一詳舉，所以真實告報諸人道：見聞知覺決定不是，行住坐臥決定不是，坐禪入定決定不是，寒向火、熱乘涼，看孔著楔、捨短從",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case-grammar-adjudication",
+            "ActorLabel": "Yunwaize",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Yunwaize: the complete retained case and governing speech frame identify Yunwaize as the speaker of the headword; all six attribution rungs were checked, but no exact canonical roster link exists. Context role preserved without link: Yunwaize (utterer).",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending: Yunwaize is the exact actor or actor-class recorded for this headword-bearing text."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0636b18",
+          "ToLb": "0636c16",
+          "Kwic": "自爾故若作自然見即落自然外道若作無我無我所見墮在三賢十聖位中你如今云何將一尺一寸便擬量度虗空他分眀向汝道法法不相到法自寂故當處自住當處自真以身空故名法空以心空故名性空身心揔空故名法性空乃至千途異說皆不離你之本心如今說菩提涅槃真如佛性二乘菩薩者皆指葉為黃金拳掌之說若也展手之時一切大眾若天若人皆見掌中都無一物所以道本來無一物何處有塵埃本既無物三際本無所有故學道人單刀直入須見者箇意始得故達磨大師從西天來至此土經多少國土秖覔淂可大師一人密傳心印印你本心以心印法以法印心心既如此法亦如此同真際等法性法性空中誰是授記人誰是成佛人誰是淂法人他分眀向你道菩提者不可以身淂身無相故不可以心得心無相故不可以性淂性即便是本源自性天真佛故不可以佛更淂佛不可以無相更淂無相不可以空更淂空不可以道更得道本無所淂無淂亦不可得所以道無一法可得秖教你了取本心",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Huangbo Xiyun",
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: Huangbo Xiyun is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0064b17",
+          "ToLb": "0064c09",
+          "Kwic": "淡泞無礙。喚他作道人，亦名無事人。時有僧問：頓悟之人更有修否？師云：若真悟得本，他自知時，修與不修是兩頭語。如今初心雖從緣得，一念頓悟自理，猶有無始曠劫習氣未能頓盡，須教渠淨除現業流識，即是修也。不道別有法教渠修行趣向，從聞入理，聞理深妙，心自圓明，不居惑地，縱有百千妙義抑揚當時，此乃得坐披衣，自解作活計。以要言之，實際理地不受一塵，萬行門中不捨一法。若也單刀直入，則聖凡情盡，體露真常，理事不二，即如如佛。示眾云：如許多人，只得大機，不得大用。仰山以此語問山下一庵主云：和尚恁麼道，意旨如何？主云：儞更舉看。仰擬再舉，被庵主一踏踏倒。仰歸，舉似師，師呵呵大笑。示眾云：老僧百年後，向山下作一頭水牯牛去，左脇書五字云：溈山僧某甲。當恁麼時，若喚作溈山僧某甲，又是水牯牛；若喚作水牯牛，又是溈山僧某甲。且道畢竟喚作甚麼？仰山出，作禮而退。",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp. Speaker: Guishan Lingyou. The continuous instruction is preserved in Guishan Lingyou’s named section."
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0135c20",
+          "ToLb": "0136a05",
+          "Kwic": "石季玉送關帝像入山，請上堂。豎起拂子，喝一喝，良久，云：「十年磨一劍，霜刃未曾試，今日持贈君，誰有不平事？」喝一喝，云：「此事直須全身鎧甲、八面威風，大刀飛一片冰花、赤馬奮半空雲影，於八萬四千魔軍堆裏馘其酋首猶如拾芥。具如是操略，正好干城正法、震攝魔怨，俾天下太平，使蒼生安樂。還有如是操略者麼？出來道看。」僧纔出，師便喝，進云：「是何宗旨？」師又喝，進云：「單刀直入一句作麼生道？」師以杖旋風打散大眾，歸方丈。上堂。「茫茫宇宙，落落門庭，前不見古人，後不見來者，據個曲彔木床，日與山花水鳥閒訴衷腸，崖瀑松風激揚宗旨。汝諸人但只耳門有竅、眼裏有筋，物物頭頭，何非己分？」以拄杖卓一下，云：「收。」上堂。「唇封兩片皮，齒鍵三條楔，腦後拖舌頭，吐出三丈銕，一道寒芒射斗牛，萬里長江兩岸雪。不是，不是，一二三四五六七。古人曰：『耳朵兩",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "questioning participant",
+            "ActorLabel": "the source-unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the source-unnamed questioning monk: The marker “the monk advanced and said” assigns the headword question to an unnamed monk; all six rungs were checked.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang: the source-unnamed questioning monk is the exact actor or actor-class recorded for this headword-bearing text.",
+          "ClaimText": "單刀直入"
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0263a04",
+          "ToLb": "0263a18",
+          "Kwic": "外，引水澆蔬五老前。」上堂。僧問：「銀牆銕壁時，如何是迷中悟？」師云：「你問遮箇繫驢橛作麼？」進云：「瓦解冰消後，如何是悟中迷？」師云：「劍去久矣，你方刻舟。」問：「學人生死不明，乞師一接。」師云：「莫妄想。」進云：「不會。」師云：「卻較些子。」僧禮拜，師便打，乃云：「聰明不了生死，乾慧難脫苦輪。若不真參實悟，打脫業識根由，總無自由分。汝等無論久參初學，皆須單刀直入，掃蕩攙搶，方見太平基業。若只向心窩裏想、本子上尋，以當參學，正如南行北轍，愈行愈遠，生死到來方知不實。近時有一等禪和子，不信真參實究，不是向見聞知覺上認住，便是向無為無事內困著，甚至慣習機鋒，胡談亂作，種種邪謬。病僧久病無力，又舌頭生瘡，不能一一詳舉，所以真實告報諸人道：見聞知覺決定不是，行住坐臥決定不是，坐禪入定決定不是，寒向火、熱乘涼，看孔著楔、捨短從",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case-grammar-adjudication",
+            "ActorLabel": "Yunwaize",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Yunwaize: the complete retained case and governing speech frame identify Yunwaize as the speaker of the headword; all six attribution rungs were checked, but no exact canonical roster link exists. Context role preserved without link: Yunwaize (utterer).",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00"
+          },
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending: Yunwaize is the exact actor or actor-class recorded for this headword-bearing text.",
+          "ClaimText": "單刀直入"
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB299.xml",
+        "J/J33/J33nB280.xml",
+        "C/C077/C077n1710.xml",
+        "X/X79/X79n1557.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Guishan Lingyou"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "To cut straight in with one blade is a direct-entry image. An unnamed monk asks for its single sentence in Sanfeng Zang’s record; Yunwaize uses it in direct address, and the Ancient Venerable Masters record places it in a sustained account of seeing the matter directly."
+    }
+  ]
+}

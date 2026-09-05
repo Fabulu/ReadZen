@@ -1,0 +1,238 @@
+{
+  "Id": "t_1b94d664ca7a",
+  "SourceTerm": "施主",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-21T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "patron",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "patron"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Explanation": "A patron is a donor or lay supporter who provides material support. The retained regulations, addresses, and recorded encounters use the title for people who supply food, funds, land, or other support to a monastic community.",
+      "Note": "The word names the supporting person rather than the donated object.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0003c16",
+          "ToLb": "0003c21",
+          "Kwic": "法至到宗剎諸山卷十九施主請陞座慶生祈嗣飯僧施",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Patriarch Outline (列祖提綱錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In the compiler’s volume outline, ‘patrons request an ascent of the seat’ is the heading for volume nineteen, followed by birthday prayers, monastic meals, and other donor-sponsored rites; the headword names the sponsoring patrons in that catalog entry. The checked literal lead-in is ‘啟關近待尊宿卷十八迎待尊宿護法至到宗剎諸山卷十九’.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0622b03",
+          "ToLb": "0622b05",
+          "Kwic": "洹果乃至阿羅漢道如是施主但施眾生一切樂具功德",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Recorded Sayings of Ancient Masters (古尊宿語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The compiler’s continuous doctrinal paragraph introduces a hypothetical donor who gives every comfort to beings for eighty years and later teaches them the path; the headword is the grammatical subject of that giving comparison. The checked literal lead-in is ‘老我當以佛法而訓導之令得湏陁洹果乃至阿羅漢道如是’.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0551b12",
+          "ToLb": "0551b14",
+          "Kwic": "云：不可不自在也。施主莊佛上堂，舉：昔有秀才問長沙：某甲曾看千佛經，百千諸佛但見其名，未審居何國土？",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi (楚石梵琦禪師語錄): Recorded Sayings of Chushi Fanqi. Exact heading voice: the record compiler; presiding master: Chushi Fanqi.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "editorial event heading",
+            "ActorLabel": "the record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The editorial event heading 施主莊佛上堂 is supplied by the record compiler and introduces an address presided over by Chushi Fanqi.",
+            "ReviewedBy": "u1 post-current500 lane A full-case repair",
+            "ReviewedUtc": "2026-07-20T00:00:00Z",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1119b20",
+          "ToLb": "1119b22",
+          "Kwic": "特為上堂或引座舉揚。施主請陞座不拘時也。古之",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Baizhang Monastic Rules (勅修百丈清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 。住持登座不拈香若尊宿相訪。特為上堂或引座舉揚。 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0621b03",
+          "ToLb": "0621b06",
+          "Kwic": "諸山法眷羽官員相訪翔施主請陞座齋僧卷之六龍請",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): Chan Grove Regulations (禪林備用清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The monastic-rules table of contents places ‘patrons request an ascent of the seat and a monastic meal’ after visits by officials and dharma associates; the headword identifies the lay sponsors of those scheduled ceremonies. The checked literal lead-in is ‘堂煎點淡諸山辦事鱗尊宿相訪潛諸山法眷羽官員相訪翔’.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0014c25",
+          "ToLb": "0014c26",
+          "Kwic": "如昔日雲門打殺，今朝施主裝嚴，古今各出隻手，",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄): Baichi Chan Sayings (百癡禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 阿誰不仰此時風？」進云：「秪如昔日雲門打殺，今朝 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0491a22",
+          "ToLb": "0491a23",
+          "Kwic": "住坐臥，別請一問。有施主施裩，藥山提起示眾曰",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33) (五燈全書(第1卷-第33卷)): Complete 5 Lamps 1–33 (五燈全書(第1卷-第33卷)). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 。曰：見從何起？師曰：除却行住坐臥，別請一問。有 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X64/X64n1260.xml",
+        "C/C077/C077n1710.xml",
+        "X/X71/X71n1420.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "J/J28/J28nB202.xml",
+        "X/X81/X81n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi"
+      ],
+      "RelatedTerms": [
+        "護法"
+      ],
+      "ClaimAnchors": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Id": "t_caee400e45ce",
+  "SourceTerm": "鈍置殺人",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna152r2 bounded semantic author",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "stultify people to death",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "stultify people to death"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase functions as a severe verdict across independent recorded-saying uses.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0739a08",
+          "ToLb": "0739a13",
+          "Kwic": "上堂良久云鈍置殺人便下座代云不獨因看誌公頌問僧半夜子心住無生即生死古人意作麼生代云不可揔作野狐精見解也或云古人道人人盡有光明在看時不見暗昬昬作麼生是光明代云廚庫三門又云好事不如無。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. (古尊宿語錄). Speaker: Yunmen Wenyan."
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0050a21",
+          "ToLb": "0050a22",
+          "Kwic": "大眾，藥山、雲巖鈍置殺人，兩子父弄一個，師子也弄不出。",
+          "MasterName": "Zhantang Wenzhun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). (五燈全書(第34卷-第120卷)). Speaker: Zhantang Wenzhun."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0359c11",
+          "ToLb": "0359c12",
+          "Kwic": "恁麼行脚，掩彩殺人，鈍置殺人。",
+          "MasterName": "Sixin Wuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sixin Wuxin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. (續古尊宿語要). Speaker: Sixin Wuxin."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0449a03",
+          "ToLb": "0449a04",
+          "Kwic": "如何取得？」師云：「鈍置殺人。",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. (神鼎一揆禪師語錄). Speaker: Yikui Yuankui."
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X82/X82n1571.xml",
+        "X/X68/X68n1318.xml",
+        "J/J37/J37nB388.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Zhantang Wenzhun",
+        "Sixin Wuxin",
+        "Yikui Yuankui"
+      ],
+      "RelatedTerms": [
+        "殺人"
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0739a08",
+          "ToLb": "0739a13",
+          "Kwic": "上堂良久云鈍置殺人便下座代云不獨因看誌公頌問僧半夜子心住無生即生死古人意作麼生代云不可揔作野狐精見解也或云古人道人人盡有光明在看時不見暗昬昬作麼生是光明代云廚庫三門又云好事不如無。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. (古尊宿語錄). Speaker: Yunmen Wenyan.",
+          "ClaimText": "上堂良久云鈍置殺人便下座代云不獨因看誌公頌問僧半夜子心住無生即生死古人意作麼生代云不可揔作野狐精見解也或云古人道人人盡有光明在看時不見暗昬昬作麼生是光明代云廚庫三門又云好事不如無。"
+        }
+      ],
+      "Explanation": "鈍置殺人 literally means “stultify people to death.” The retained records use it as a severe verdict in sayings, a later raising, and an answer. The phrase is retained in its forceful wording; the records here do not define a separate technical effect."
+    }
+  ]
+}

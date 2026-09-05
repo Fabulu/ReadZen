@@ -1,0 +1,62 @@
+{
+  "reviewer": "reviewer2",
+  "materialsPinsOk": true,
+  "rowsChecked": 11,
+  "flags": [
+    {
+      "row": "R0001",
+      "laws": [
+        "A2"
+      ],
+      "claim": "carriedKwic == staged occurrence Kwic (byte-exact)",
+      "actual": "staged Kwic differs",
+      "divergingBytes": "carriedKwic vs staged Kwic — first differing offset 2: row=U+517C(兼) vs material=U+9F4A(齊)\n        row:      ...並宜兼赴。當思古人一日不作一...[len=20]\n        material: ...並宜齊赴。當思古人一日不作一...[len=20]"
+    },
+    {
+      "row": "R0004",
+      "laws": [
+        "D1"
+      ],
+      "claim": "entryCount == surface-facts {before: 4715, after: 4716} (after = before + 1; addedSet is the one absent-on-main id)",
+      "actual": "surface-facts entryCount = {'before': 4715, 'after': 4716}; addedSet ok = True",
+      "divergingBytes": "row entryCount={'after': 4715, 'before': 4715} vs surface-facts={'before': 4715, 'after': 4716} (after must be 4716)"
+    },
+    {
+      "row": "R0004",
+      "laws": [
+        "D2"
+      ],
+      "claim": "changedSetEqualsWorklist == True (exactly the 5 product ids differ between main-head and staged)",
+      "actual": "recomputed changed ids = ['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba']",
+      "divergingBytes": "row changedSetEqualsWorklist=False vs recomputed=True (changed ids: ['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba'])"
+    },
+    {
+      "row": "R0007",
+      "laws": [
+        "B1"
+      ],
+      "claim": "oldWindowPresent == True (occurrence T/T48/T48n2025.xml@1143a07 exists in main-head-t_ea2a427c7aba.json)",
+      "actual": "main-head occurrence exists = False",
+      "divergingBytes": "row oldWindowPresent=True vs actual=False"
+    },
+    {
+      "row": "R0007",
+      "laws": [
+        "B2"
+      ],
+      "claim": "oldMasterName is null (old window absent on main HEAD)",
+      "actual": "row carries oldMasterName='Dehui'",
+      "divergingBytes": "row oldMasterName='Dehui' vs required null"
+    },
+    {
+      "row": "R0007",
+      "laws": [
+        "B2"
+      ],
+      "claim": "oldAttributionNote is null (old window absent on main HEAD)",
+      "actual": "row carries oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: the fabricated pre-publication main note'",
+      "divergingBytes": "row oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: the fabricated pre-publication main note' vs required null"
+    }
+  ],
+  "notes": "All 11 materialsPins sha256 verified over raw bytes before any row check. 11 rows checked by deck position R0000..R0010. Flagged rows: R0001, R0004, R0007. R0001 violates A2 (carriedKwic 兼 vs staged 齊). R0004 violates D1 (after=4715 vs 4716) and D2 (changedSetEqualsWorklist=false vs recomputed true; all 5 product ids differ). R0007 violates B1/B2 (claims an old window at T48n2025 1143a07 on main HEAD; main-head-t_ea2a427c7aba.json has no such occurrence, so oldWindowPresent must be false and all old* null). The two surface-census rows carry no 'entry' field (schema of that kind); E1 was applied to every row that carries an entry. rowSha ignored per the brief. String comparisons are codepoint-exact over JSON-decoded values."
+}

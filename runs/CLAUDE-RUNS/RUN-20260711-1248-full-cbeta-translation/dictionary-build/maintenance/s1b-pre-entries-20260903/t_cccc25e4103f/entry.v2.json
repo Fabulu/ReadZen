@@ -1,0 +1,179 @@
+{
+  "Id": "t_cccc25e4103f",
+  "SourceTerm": "明珠在掌",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna154r5 semantic author",
+  "WrittenUtc": "2026-08-09T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a bright pearl held in the palm",
+      "SearchAliases": [
+        "bright pearl",
+        "pearl in hand"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "",
+      "Occurrences": [
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0411a04",
+          "ToLb": "0411a07",
+          "Kwic": "以今世人輕賤故，先世罪業則為消滅。雪竇顯頌云：明珠在掌，有功者賞。胡漢不來，全無伎倆。伎倆既無，波旬失途。",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄). Speaker: Xuedou Chongxian."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0165a26",
+          "ToLb": "0165a28",
+          "Kwic": "一點也瞞他不得。這箇却不是世諦情見。如明鏡當臺。明珠在掌。胡來胡現。漢來漢現。是他知有向上事。所以如此。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Speaker: Yuanwu Keqin."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0761b01",
+          "ToLb": "0761b04",
+          "Kwic": "作麼生。但願春風齊著力。一時吹入此中來。復頌云。明珠在掌。有功者賞。長老新入院。都盧無伎倆。不立趙州關。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo (圓悟佛果禪師語錄). Speaker: Yuanwu Keqin."
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0028a06",
+          "ToLb": "0028a09",
+          "Kwic": "喚作釋迦老子，一舉四十九。恕中慍禪師佛誕，上堂：明珠在掌，隨眾色以分輝；寶月當空，逐千江而現影。拈拄杖：",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Speaker: Shuzhong Wen.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named Chan master",
+            "ActorLabel": "Shuzhong Wen 恕中慍",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Shuzhong Wen 恕中慍: The section names Shuzhong Wen and 上堂 begins his Buddha-birthday address pairing the pearl in hand with the moon in space.",
+            "ReviewedBy": "Codex A31-40 strict author",
+            "ReviewedUtc": "2026-07-19T09:00:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X83/X83n1578.xml",
+        "T/T48/T48n2003.xml",
+        "T/T47/T47n1997.xml",
+        "X/X64/X64n1260.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0165a26",
+          "ToLb": "0165a28",
+          "Kwic": "一點也瞞他不得。這箇却不是世諦情見。如明鏡當臺。明珠在掌。胡來胡現。漢來漢現。是他知有向上事。所以如此。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Speaker: Yuanwu Keqin.",
+          "ClaimText": "Yuanwu Keqin compares the phrase with a mirror"
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0761b01",
+          "ToLb": "0761b04",
+          "Kwic": "作麼生。但願春風齊著力。一時吹入此中來。復頌云。明珠在掌。有功者賞。長老新入院。都盧無伎倆。不立趙州關。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo (圓悟佛果禪師語錄). Speaker: Yuanwu Keqin.",
+          "ClaimText": "Yuanwu Keqin verse uses it as a reward formula"
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0028a06",
+          "ToLb": "0028a09",
+          "Kwic": "喚作釋迦老子，一舉四十九。恕中慍禪師佛誕，上堂：明珠在掌，隨眾色以分輝；寶月當空，逐千江而現影。拈拄杖：",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Speaker: Shuzhong Wen.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named Chan master",
+            "ActorLabel": "Shuzhong Wen 恕中慍",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Shuzhong Wen 恕中慍: The section names Shuzhong Wen and 上堂 begins his Buddha-birthday address pairing the pearl in hand with the moon in space.",
+            "ReviewedBy": "Codex A31-40 strict author",
+            "ReviewedUtc": "2026-07-19T09:00:00Z"
+          },
+          "ClaimText": "Shuzhong Wen uses it for colors cast on what appears"
+        }
+      ],
+      "Explanation": "A pearl already lying in the palm is something immediately available and responsive to what appears. Xuedou links possession with earned reward; Yuanwu compares encounter to mirror and pearl; Shuzhong has the pearl cast its colors on whatever appears before it."
+    }
+  ]
+}

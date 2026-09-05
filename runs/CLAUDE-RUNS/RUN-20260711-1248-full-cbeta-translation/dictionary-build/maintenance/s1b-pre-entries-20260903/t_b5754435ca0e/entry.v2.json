@@ -1,0 +1,194 @@
+{
+  "Id": "t_b5754435ca0e",
+  "SourceTerm": "本體如然",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-19T14:14:03.102588Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the original constitution is just so",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "original constitution",
+        "just so originally",
+        "unchanged original state"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Two Tier-2 witnesses retain the phrase, while Nanyue Lanzan’s lamp verse is kept as the one distinct lamp recension. The parallel Suxi verse family was removed.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0461b18",
+          "ToLb": "0461b25",
+          "Kwic": "無事坐何曾有人喚。向外覓功夫總是癡頑漢。糧不畜一粒逢飯但知𭚜。世間多事人相趁渾不及。我不樂生天亦不愛福田。饑來喫飯困來即眠。愚人笑我智乃知焉。不是癡鈍本體如然。要去即去要住即住。身披一破衲脚著孃生袴。多言復多語由來反相誤。若欲度眾生無過且自度。莫謾求真佛真佛不可見。妙",
+          "MasterName": "Nanyue Lanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Lanzan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp. Nanyue Lanzan sets the phrase in Lanzan’s song beside “not stupidity, originally just so”."
+        },
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0743b13",
+          "ToLb": "0743b19",
+          "Kwic": "滿肚。內除戒律精嚴，不學威儀行步。三乘笑我無能，我笑三乘謾做。智人權立階梯，大道本無迷悟。達者不假修治，不在能言能語。披麻目視雲霄，遮莫王侯不顧。道人本體如然，不是知佛去處。生也猶如著衫，死也還同脫袴。生死無喜無憂，八風豈能驚怖。外相猶似癡人，肚裏非常峭措。活計雖無一",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Gāthās and Verses of the Chan Gate’s Patriarchs: The heading names Suxi (蘇溪) as the author of the Herding-and-Guarding Song, whose verse says that the wayfarer’s original constitution is just so.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named master verse author",
+            "ActorLabel": "Suxi (蘇溪)",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The heading 蘇溪和尚牧護歌 (“Suxi’s Herding-and-Guarding Song”) identifies Suxi (蘇溪) as the verse author, and the headword appears inside that verse.",
+            "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
+            "ReviewedUtc": "2026-07-19T14:14:03.102588Z"
+          }
+        },
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0280c13",
+          "ToLb": "0280c18",
+          "Kwic": "湖和尚一日點淨後不赴堂，遂入方丈裏睡。齋後，知事來白云：和尚何不赴堂？鵝湖云：莊上喫油糍來。晚閒，莊主到，云：今日謝和尚喫油糍。大眾！為復是師通妙用，本體如然，平地上剛然揑怪？既不與麼，又作麼生？良久，云：者箇公案一任天下人批判，保寧也無神通妙用，亦無宿命。他心院在江",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong asks whether Ehu’s claimed marvel is original constitution or a fabricated oddity."
+        },
+        {
+          "RelPath": "B/B14/B14n0082.xml",
+          "FromLb": "0340a05",
+          "ToLb": "0340a13",
+          "Kwic": "苦還曾四海周游山水風雲滿肚內除戒律精嚴不學威儀行步三乘笑我無能我笑三乘謾做智人權立階梯大道本無迷悟達者不假修治不在能言能語披麻目視雲霄遮莫王侯不顧道人本體如然不是知佛去處生也猶如著衫死也還同脫袴生死無喜無憂八風豈能驚怖外相猶似癡人肚裏非常俏醋活計雖無一錢敢與君王𨷖富愚",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B14/B14n0082.xml). Jade Flowers of the Transmission of the Lamp (Fragment). Suxi states the original constitution in Suxi’s herding song against contrived cultivation.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named record owner",
+            "ActorLabel": "Suxi",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Suxi states the original constitution in Suxi’s herding song against contrived cultivation.",
+            "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
+            "ReviewedUtc": "2026-07-19T14:14:03.102588Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T51/T51n2076.xml",
+        "X/X66/X66n1298.xml",
+        "X/X69/X69n1350.xml",
+        "B/B14/B14n0082.xml"
+      ],
+      "RelatedMasters": [
+        "Nanyue Lanzan",
+        "Baoning Renyong"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0461b18",
+          "ToLb": "0461b25",
+          "Kwic": "無事坐何曾有人喚。向外覓功夫總是癡頑漢。糧不畜一粒逢飯但知𭚜。世間多事人相趁渾不及。我不樂生天亦不愛福田。饑來喫飯困來即眠。愚人笑我智乃知焉。不是癡鈍本體如然。要去即去要住即住。身披一破衲脚著孃生袴。多言復多語由來反相誤。若欲度眾生無過且自度。莫謾求真佛真佛不可見。妙",
+          "MasterName": "Nanyue Lanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Lanzan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp. Nanyue Lanzan sets the phrase in Lanzan’s song beside “not stupidity, originally just so”.",
+          "ClaimKey": "s0-claim-1",
+          "ClaimText": "本體如然"
+        },
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0743b13",
+          "ToLb": "0743b19",
+          "Kwic": "滿肚。內除戒律精嚴，不學威儀行步。三乘笑我無能，我笑三乘謾做。智人權立階梯，大道本無迷悟。達者不假修治，不在能言能語。披麻目視雲霄，遮莫王侯不顧。道人本體如然，不是知佛去處。生也猶如著衫，死也還同脫袴。生死無喜無憂，八風豈能驚怖。外相猶似癡人，肚裏非常峭措。活計雖無一",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Gāthās and Verses of the Chan Gate’s Patriarchs: The heading names Suxi (蘇溪) as the author of the Herding-and-Guarding Song, whose verse says that the wayfarer’s original constitution is just so.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named master verse author",
+            "ActorLabel": "Suxi (蘇溪)",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The heading 蘇溪和尚牧護歌 (“Suxi’s Herding-and-Guarding Song”) identifies Suxi (蘇溪) as the verse author, and the headword appears inside that verse.",
+            "ReviewedBy": "Codex Iriya remaining lane A rows 1-167",
+            "ReviewedUtc": "2026-07-19T14:14:03.102588Z"
+          },
+          "ClaimKey": "s0-claim-2",
+          "ClaimText": "本體如然"
+        },
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0280c13",
+          "ToLb": "0280c18",
+          "Kwic": "湖和尚一日點淨後不赴堂，遂入方丈裏睡。齋後，知事來白云：和尚何不赴堂？鵝湖云：莊上喫油糍來。晚閒，莊主到，云：今日謝和尚喫油糍。大眾！為復是師通妙用，本體如然，平地上剛然揑怪？既不與麼，又作麼生？良久，云：者箇公案一任天下人批判，保寧也無神通妙用，亦無宿命。他心院在江",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong asks whether Ehu’s claimed marvel is original constitution or a fabricated oddity.",
+          "ClaimKey": "s0-claim-3",
+          "ClaimText": "本體如然"
+        }
+      ],
+      "Explanation": "The phrase says that the underlying constitution is just so. Nanyue Lanzan’s retained verse sets it beside “not stupidity,” while Baoning Renyong asks whether a claimed marvel is original constitution or a fabricated oddity. The other retained witness preserves the phrase in a song against contrived cultivation."
+    }
+  ]
+}

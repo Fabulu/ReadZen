@@ -1,0 +1,216 @@
+{
+  "Id": "t_b5aef6159856",
+  "SourceTerm": "轉身處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex Lane A evidence-first calibration",
+  "WrittenUtc": "2026-07-17T08:58:57.128344+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the place to turn",
+      "AlternateTargets": [
+        "where to turn",
+        "a turning point"
+      ],
+      "SearchAliases": [
+        "place to turn",
+        "where can the student turn",
+        "turning point in an encounter",
+        "no place to turn",
+        "patch-robed monk's place to turn"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Several Tier-1 and Tier-2 records retain the encounter phrase. Fenyang Shanzhao’s Five Lamps exchange remains as one distinct case witness; the X78 praise recension that repeats the same exchange was removed.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0149a16",
+          "ToLb": "0149a17",
+          "Kwic": "若無透關底眼轉身處。到這裏灼然不柰何。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄): Yuanwu Keqin says that without the eye that passes the barrier and a place to turn, one is helpless at the case."
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0234a20",
+          "ToLb": "0234b03",
+          "Kwic": "如何是立乾坤底句。師曰。北俱盧洲長粳米。食者無貪亦無瞋。乃曰。將此四轉語驗天下衲僧。纔見你出來。驗得了也。問。如何是學人著力處。師曰。嘉州打大像。曰。如何是學人轉身處。師曰。陝府灌鐵牛。曰。如何是學人親切處。師曰。西河弄師子。乃曰。若人會得此三句。已辯三玄。更有三要語在。切須薦取。不是等閑。與大眾頌出。三玄三要事難分。得意忘",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): Fenyang Shanzhao answers the student's question about the place to turn with casting an iron ox in Shanzhou."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0755c11",
+          "ToLb": "0755c18",
+          "Kwic": "如瓶瀉，只是閙熱門庭在你諸人分上料掉沒交涉。豈不見道：言無展事，句不投機；承言者喪，滯句者迷。擬心即差，動念即乖；不擬不動，立地死漢。故我祖師門下驀劄相逢，無你轉身處；據令而行，無你開口處。跨一步去，銕壁銀山；眨得眼來，電光石火。三世諸佛現前，也只得望崖而退。若是箇生銕鑄就底漢，等閑一擲，抹過太虗，直得南山鱉鼻吞却東海鯉魚、",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize (天如惟則禪師語錄): Tianru Weize says the ancestral encounter leaves no place to turn and no place to open the mouth."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0028c09",
+          "ToLb": "0028c16",
+          "Kwic": "進云：「意旨如何？」師云：「瞎。」僧問：「黑白未分時如何？」師云：「汝禮拜的是甚麼？」僧又別問，師叱云：「兩重公案。」僧又問：「進前逢短岸，退後值深坑，如何是轉身處？」師拈拄杖向腳跟直打出。僧問：「十年瞻仰，日應萬機，是何人境界？」師云：「非公境界。」進云：「一口吸盡西海浪，翻身高出蜀峰頭。」師驀頭一棒，進云：「謝師證盟。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan (破山禪師語錄): An unnamed monastic asks for a place to turn when advancing meets a short bank and retreating meets a deep pit; Poshan Haiming answers by striking at his heels.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic questioner",
+            "ActorLabel": "the unnamed monastic questioner",
+            "ActorRole": "questioner",
+            "GrammarEvidence": "僧又問 opens the headword-bearing question; 師拈拄杖 begins Poshan Haiming's physical answer.",
+            "ReviewedBy": "Codex Lane A calibration author",
+            "ReviewedUtc": "2026-07-17T08:58:57.128344+00:00",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          }
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0484c04",
+          "ToLb": "0485a07",
+          "Kwic": "教你出家？甚魔魅教你行脚？道得也杈下死，道不得也杈下死。原其一場，豈是虗設？蓋入草求人，爾若是知有底，豈有多端？纔涉紛紜，即千里萬里也。跳得金剛圈，吞得栗棘蓬，自然知落處。此宗省要，唯是休意休心，直令如枯木朽株，冷湫湫地，根塵不偶，動靜絕對，根脚下空勞勞，無安排，存坐它處，脫然虗凝。所謂人無心合道，道無心合人。至於應物隨緣，不生異見，只據現定，一機一境，悉是坐斷，更說甚麼棒喝？照用權實，一擬便透，唯我能知，更無餘事。長時如此履踐，何憂本分事不辦耶？示祖上人示祖上人如祖上人自德山來，久以此段為務，見蔣山佛果何曾有兩種佛法？若擔帶來，是納敗闕；不擔帶來，須知轉身處始得。如今時衲子到處叢林，有宗匠莫不咨參，然求一實證到本分田地，得大休大歇安穩之場，實難其人。大丈夫兒已能是拋鄉離井，在本分尊宿身邊又能効勤戮力，作種種緣，皆非分外，亦足以不昧行脚。然至諦實，要須知有從上來事。且從上來列祖相承，至於德山、臨濟，行棒行喝，作千萬種方便，至竟要人何為？應須似香象渡河，截流而過，了無疑礙，尚未稱從上來事。道人家相逢，不拈出棒打石人頭，不可向卷子上指東畫西去也，只此已是漏逗了也。歸德山舉似堂頭，看它如何為你證據。示宴禪人示宴禪人歸宗有僧來別，宗云：你但去束裝，臨行來為汝說一上佛法。其僧如言。及至再上方丈，歸宗云：時寒塗中，善為歸",
+          "Curated": true,
+          "MasterName": "Yuanwu Keqin",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin: Yuanwu Keqin is the speaker in the bounded complete case."
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0038a20",
+          "ToLb": "0038b03",
+          "Kwic": "何是立乾坤底句？師曰：北俱盧洲長粳米，食者無貪亦無瞋。乃曰：將此四轉語，驗天下衲僧。纔見你出來，驗得了也。問：如何是學人著力處？師曰：嘉州打大像。曰：如何是學人轉身處？師曰：陝府灌鐵牛。曰：如何是學人親切處？師曰：西河弄師子。乃曰：若人會得此三句，已辯三玄。更有三要語在，切須薦取，不是等閑。與大眾頌出：三玄三要事難分，得意忘",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): A separate lamp work preserves Fenyang Shanzhao's three-part test of effort, turning, and intimacy."
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0530a13",
+          "ToLb": "0530a21",
+          "Kwic": "縱饒師祖悟去，也是龍頭蛇尾漢。圜悟云：南泉一期垂手，收放擒縱則不無，要且未見向上事在。只如盡大地是如來藏，向甚麼處著珠？盡大地是摩尼珠，向甚麼處著藏？若明得有轉身處，許你具一隻眼。鄧州香嚴下堂義端禪師▲鄧州香嚴下堂義端禪師僧問：某甲曾辭一老宿，宿曰：去則親良朋，附善友。某今辭和尚，未審有何指示？師曰：禮拜著。僧禮拜，師曰：禮拜一任禮拜，不得認奴作郎。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄): Yuanwu Keqin says that seeing a place to turn in the raised case grants one eye."
+        },
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0646c17",
+          "ToLb": "0646c23",
+          "Kwic": "詐明頭。問：祖意教意，是同是別？師云：巖高松冷徤，㵎曲水流遲。問：如何是祖師西來意？師云：青絹扇子足風涼。問：如何是學人著力處？師云：嘉州打大像。問：如何是學人轉身處？師云：陝府灌鐵牛。問：如何是學人親切處？師云：河西弄師子。問：如何是第一玄？師云：親囑飲光前。僧曰：如何是第二玄？師云：絕相離言詮。僧曰：如何是第三玄？師云：",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄): The Continued Essentials of the Chan Gate preserves Fenyang Shanzhao answering where the student turns between effort and intimacy."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X80/X80n1565.xml",
+        "X/X70/X70n1403.xml",
+        "J/J26/J26nB177.xml",
+        "X/X69/X69n1357.xml",
+        "X/X81/X81n1568.xml",
+        "X/X83/X83n1578.xml",
+        "X/X78/X78n1556.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Fenyang Shanzhao",
+        "Tianru Weize",
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [
+        "轉身句",
+        "轉身一路",
+        "死水裏",
+        "轉身"
+      ],
+      "Explanation": "The place to turn is where an encounter ceases to be a fixed position and a live response becomes possible. Yuanwu Keqin says that without the eye that passes the barrier and a place to turn one is helpless; Tianru Weize says an ancestral encounter grants neither a place to turn nor a place to open the mouth. Fenyang Shanzhao’s retained lamp exchange makes it the student’s requested turning place."
+    }
+  ]
+}

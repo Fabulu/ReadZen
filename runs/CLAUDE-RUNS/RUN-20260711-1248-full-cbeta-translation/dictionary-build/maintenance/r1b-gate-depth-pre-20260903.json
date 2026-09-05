@@ -1,0 +1,2715 @@
+{
+  "generatedUtc": "2026-09-02T16:44:38.303687+00:00",
+  "results": {
+    "t_022d58242948": {
+      "entryId": "t_022d58242948",
+      "sourceTerm": "毘尼",
+      "entrySha256": "bd2639c0d98b48fe027c6563c0681dc30c3d0ae17efd29a01538ba1a21431d3b",
+      "corpusHits": 190,
+      "corpusFiles": 91,
+      "reviewedUsableHits": 190,
+      "reviewedUsableFiles": 91,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_044652c7b411": {
+      "entryId": "t_044652c7b411",
+      "sourceTerm": "觸禮三拜",
+      "entrySha256": "62690629de9d58384fa1630cd1bbce27851805a48997c83e4bee854edc142aad",
+      "corpusHits": 85,
+      "corpusFiles": 14,
+      "reviewedUsableHits": 85,
+      "reviewedUsableFiles": 14,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 8,
+      "retainedHeadwordOccurrences": 8,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 8,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 8,
+      "sourceTexts": 7,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_05659eb4122a": {
+      "entryId": "t_05659eb4122a",
+      "sourceTerm": "空腹高心",
+      "entrySha256": "b740654439ec4befdd0aad92d07857200bc6573c00f44f43d6159cf808296d46",
+      "corpusHits": 49,
+      "corpusFiles": 37,
+      "reviewedUsableHits": 49,
+      "reviewedUsableFiles": 37,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_0c53a5a2243b": {
+      "entryId": "t_0c53a5a2243b",
+      "sourceTerm": "知客",
+      "entrySha256": "b07bbf56f93c4b4230116c3cf6888b24e2189f24b80c9a310083bada647dc49e",
+      "corpusHits": 867,
+      "corpusFiles": 206,
+      "reviewedUsableHits": 867,
+      "reviewedUsableFiles": 206,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        },
+        {
+          "senseIndex": 2,
+          "count": 1,
+          "classes": [
+            [
+              1
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 2,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        },
+        {
+          "kind": "missing-sense-target-distinguishability-ledger"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_1383f942789d": {
+      "entryId": "t_1383f942789d",
+      "sourceTerm": "殺生",
+      "entrySha256": "d3cee14d608ff0a5aff2e9ffb9cf62c51052fcfe057ec2a8bafc4653dce9abc8",
+      "corpusHits": 256,
+      "corpusFiles": 117,
+      "reviewedUsableHits": 256,
+      "reviewedUsableFiles": 117,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 5,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_13951a5b5260": {
+      "entryId": "t_13951a5b5260",
+      "sourceTerm": "殿主",
+      "entrySha256": "00a850a8a2ae7d72cdaebd311a39dc7b3b36fc6b6f40b300a21f1dd6e39de7eb",
+      "corpusHits": 118,
+      "corpusFiles": 60,
+      "reviewedUsableHits": 118,
+      "reviewedUsableFiles": 60,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_1b94d664ca7a": {
+      "entryId": "t_1b94d664ca7a",
+      "sourceTerm": "施主",
+      "entrySha256": "0e2cfbbac3a28620884996de430abf6a7c74fc410815bcf4478006a5e6d8fc8a",
+      "corpusHits": 876,
+      "corpusFiles": 227,
+      "reviewedUsableHits": 876,
+      "reviewedUsableFiles": 227,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 8,
+      "retainedHeadwordOccurrences": 8,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 8,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 8,
+      "sourceTexts": 7,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 876,
+          "corpusFiles": 227
+        }
+      ]
+    },
+    "t_32289452a85b": {
+      "entryId": "t_32289452a85b",
+      "sourceTerm": "燒指",
+      "entrySha256": "227ddc56e3cb901f17ba464c253754a6340576cab5a868fa9b7f38e67afb94dd",
+      "corpusHits": 5,
+      "corpusFiles": 2,
+      "reviewedUsableHits": 5,
+      "reviewedUsableFiles": 2,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 2,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_36b1824beee5": {
+      "entryId": "t_36b1824beee5",
+      "sourceTerm": "園頭",
+      "entrySha256": "23a0553baf72087bc28a519887d984641693b1aa25af32cea18a2daabddb2c61",
+      "corpusHits": 300,
+      "corpusFiles": 117,
+      "reviewedUsableHits": 300,
+      "reviewedUsableFiles": 117,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_3b9857d1cc19": {
+      "entryId": "t_3b9857d1cc19",
+      "sourceTerm": "退院",
+      "entrySha256": "621784e7bc6049a06f593885de8b2d0335c14979617c74bc1ebbe83ce1a62ca4",
+      "corpusHits": 282,
+      "corpusFiles": 139,
+      "reviewedUsableHits": 282,
+      "reviewedUsableFiles": 139,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_41476f956295": {
+      "entryId": "t_41476f956295",
+      "sourceTerm": "燒香禮拜",
+      "entrySha256": "60b5594d2db2b1f2936334d08237a40fe9ea3b747de14a8e28d5642e107a91b2",
+      "corpusHits": 43,
+      "corpusFiles": 27,
+      "reviewedUsableHits": 43,
+      "reviewedUsableFiles": 27,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 5,
+      "retainedHeadwordOccurrences": 5,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 5,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 5,
+      "sourceTexts": 4,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_428c42ea1c8f": {
+      "entryId": "t_428c42ea1c8f",
+      "sourceTerm": "忠言逆耳",
+      "entrySha256": "8339b796230760102be30bbaa7a9dbdf67da15fceee6dc6b831dbf0e75f522b1",
+      "corpusHits": 28,
+      "corpusFiles": 26,
+      "reviewedUsableHits": 28,
+      "reviewedUsableFiles": 26,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_4b1aa91dd297": {
+      "entryId": "t_4b1aa91dd297",
+      "sourceTerm": "大悟不拘小節",
+      "entrySha256": "dee58b356e767c3faa2cd47b332fccef4ec45b528e15a4e9aa7ae3034f6e039a",
+      "corpusHits": 7,
+      "corpusFiles": 7,
+      "reviewedUsableHits": 7,
+      "reviewedUsableFiles": 7,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_4e0636f53520": {
+      "entryId": "t_4e0636f53520",
+      "sourceTerm": "牆壁有耳",
+      "entrySha256": "bf381655b18f51a5a6352bcbacebd1008086e352d3f3d5ed70993fffcb06c54d",
+      "corpusHits": 12,
+      "corpusFiles": 8,
+      "reviewedUsableHits": 12,
+      "reviewedUsableFiles": 8,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_50d75aeeeef1": {
+      "entryId": "t_50d75aeeeef1",
+      "sourceTerm": "香火",
+      "entrySha256": "1483fc061e0f12884d0e98e07b1cf2fc27a9894a85fdfdfe9674ad66a9d73c39",
+      "corpusHits": 176,
+      "corpusFiles": 93,
+      "reviewedUsableHits": 176,
+      "reviewedUsableFiles": 93,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_5306489d35c6": {
+      "entryId": "t_5306489d35c6",
+      "sourceTerm": "化主",
+      "entrySha256": "2066e0e75bff9867fafd5b9c15d424f43c45037408596222acd1f20404b45426",
+      "corpusHits": 546,
+      "corpusFiles": 162,
+      "reviewedUsableHits": 546,
+      "reviewedUsableFiles": 162,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 8,
+      "retainedHeadwordOccurrences": 8,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 8,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 8,
+      "sourceTexts": 7,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 546,
+          "corpusFiles": 162
+        }
+      ]
+    },
+    "t_5ab995298e4e": {
+      "entryId": "t_5ab995298e4e",
+      "sourceTerm": "法嗣書",
+      "entrySha256": "e282436fc50357712838a4c7853bf34d38933b5679554b123e2c4ef95a48eb70",
+      "corpusHits": 44,
+      "corpusFiles": 35,
+      "reviewedUsableHits": 44,
+      "reviewedUsableFiles": 35,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_5b93919eced9": {
+      "entryId": "t_5b93919eced9",
+      "sourceTerm": "光陰可惜",
+      "entrySha256": "0fe3eee34468a90b0d7f522cf6569402e8973648d79fff4c43cf08381277b945",
+      "corpusHits": 30,
+      "corpusFiles": 24,
+      "reviewedUsableHits": 30,
+      "reviewedUsableFiles": 24,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_76ee526a2b16": {
+      "entryId": "t_76ee526a2b16",
+      "sourceTerm": "沙彌戒",
+      "entrySha256": "0efe948180156f1a8ba836872ab0be0af90f24127342f2f803484adf781a5d74",
+      "corpusHits": 44,
+      "corpusFiles": 31,
+      "reviewedUsableHits": 44,
+      "reviewedUsableFiles": 31,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 5,
+      "retainedHeadwordOccurrences": 5,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 5,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 5,
+      "sourceTexts": 4,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_88dac6848042": {
+      "entryId": "t_88dac6848042",
+      "sourceTerm": "戒臘",
+      "entrySha256": "1ce49151eade75c79b90601d9403ad259a3c883b40f28ba38f948ff25c8da5c8",
+      "corpusHits": 35,
+      "corpusFiles": 10,
+      "reviewedUsableHits": 35,
+      "reviewedUsableFiles": 10,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 5,
+      "retainedHeadwordOccurrences": 5,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 5,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 5,
+      "sourceTexts": 4,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_9ba11d160033": {
+      "entryId": "t_9ba11d160033",
+      "sourceTerm": "直歲",
+      "entrySha256": "e1adafeb861b57cf44f76d97d8552be1f50c70fcf6b222bd60f4f1df74aac63f",
+      "corpusHits": 275,
+      "corpusFiles": 113,
+      "reviewedUsableHits": 275,
+      "reviewedUsableFiles": 113,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_a5ffef8b3f2d": {
+      "entryId": "t_a5ffef8b3f2d",
+      "sourceTerm": "堂頭和尚",
+      "entrySha256": "50a6e70f44faa3da7792d14fcba51ce96d540520b23ee96698ebe2c8bdcaa66f",
+      "corpusHits": 190,
+      "corpusFiles": 93,
+      "reviewedUsableHits": 190,
+      "reviewedUsableFiles": 93,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 5,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_aa45c307e9f1": {
+      "entryId": "t_aa45c307e9f1",
+      "sourceTerm": "頭首",
+      "entrySha256": "44e28a54bc113a710c6d91a71e87f18ea24f89d5841f166fd601b929814a70ff",
+      "corpusHits": 456,
+      "corpusFiles": 106,
+      "reviewedUsableHits": 456,
+      "reviewedUsableFiles": 106,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_acd15cd3ba91": {
+      "entryId": "t_acd15cd3ba91",
+      "sourceTerm": "饒人不是癡",
+      "entrySha256": "3a747acdf0aa13bade22efb01c88582baa7f1898d11d08a5eee4e2e7d06f2899",
+      "corpusHits": 5,
+      "corpusFiles": 5,
+      "reviewedUsableHits": 5,
+      "reviewedUsableFiles": 5,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_b4c37e2f25c3": {
+      "entryId": "t_b4c37e2f25c3",
+      "sourceTerm": "東司",
+      "entrySha256": "c1dc8a31c586dbb788690e6da6c14cbc188f08a3b8f811fabda0d7d2d73e1677",
+      "corpusHits": 140,
+      "corpusFiles": 71,
+      "reviewedUsableHits": 140,
+      "reviewedUsableFiles": 71,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_b97e19fa54b2": {
+      "entryId": "t_b97e19fa54b2",
+      "sourceTerm": "坐堂",
+      "entrySha256": "4e2319d7d05ee06097cd964eabc839e2b5abed85c7ce5eb6801d65419b9a2513",
+      "corpusHits": 27,
+      "corpusFiles": 23,
+      "reviewedUsableHits": 27,
+      "reviewedUsableFiles": 23,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_bea7c499e294": {
+      "entryId": "t_bea7c499e294",
+      "sourceTerm": "旦過",
+      "entrySha256": "e3a2fd369932cd86a33caf5b7c9b05216d2af58abf70937f5f16303d008f0174",
+      "corpusHits": 94,
+      "corpusFiles": 49,
+      "reviewedUsableHits": 94,
+      "reviewedUsableFiles": 49,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_c513dc22845c": {
+      "entryId": "t_c513dc22845c",
+      "sourceTerm": "十戒",
+      "entrySha256": "b177e88aa4eef9fcd9cc8279ee9ce34b7d28d68ab5e4b3f5751d0e93422cd69a",
+      "corpusHits": 55,
+      "corpusFiles": 29,
+      "reviewedUsableHits": 55,
+      "reviewedUsableFiles": 29,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 5,
+      "retainedHeadwordOccurrences": 5,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 5,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 5,
+      "sourceTexts": 4,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 4,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_c945c2cc0e79": {
+      "entryId": "t_c945c2cc0e79",
+      "sourceTerm": "小參",
+      "entrySha256": "5c5d45d0d56ed5d7b6d10f052cca7600ea15409a810d44a37cd88c2f4b3c233a",
+      "corpusHits": 7371,
+      "corpusFiles": 354,
+      "reviewedUsableHits": 7371,
+      "reviewedUsableFiles": 354,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 8,
+      "occurrences": 8,
+      "retainedHeadwordOccurrences": 8,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 8,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 8,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 7,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 7371,
+          "corpusFiles": 354
+        }
+      ]
+    },
+    "t_c968c2829eeb": {
+      "entryId": "t_c968c2829eeb",
+      "sourceTerm": "願文",
+      "entrySha256": "ececa52dfc4c1544a2df3dc266914b7f09c86bc43f9ba4167e616ed882307d51",
+      "corpusHits": 86,
+      "corpusFiles": 35,
+      "reviewedUsableHits": 86,
+      "reviewedUsableFiles": 35,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_cf2b777134bb": {
+      "entryId": "t_cf2b777134bb",
+      "sourceTerm": "堂頭",
+      "entrySha256": "1de41a4bd760bc1f70a2e697fd6c99a6754ed33420ffc33f675d713edcd7bc13",
+      "corpusHits": 619,
+      "corpusFiles": 195,
+      "reviewedUsableHits": 619,
+      "reviewedUsableFiles": 195,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 619,
+          "corpusFiles": 195
+        }
+      ]
+    },
+    "t_d26799ff3ae1": {
+      "entryId": "t_d26799ff3ae1",
+      "sourceTerm": "參頭",
+      "entrySha256": "5aa6ddb9a24bbf0557eb244c6032892d3713fd9f99490d8f58df4188e6f674b9",
+      "corpusHits": 314,
+      "corpusFiles": 61,
+      "reviewedUsableHits": 314,
+      "reviewedUsableFiles": 61,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_d7725cb0c8c0": {
+      "entryId": "t_d7725cb0c8c0",
+      "sourceTerm": "水頭",
+      "entrySha256": "f01939750b4c1622c02c19d1a6a2dc87a7fe01b5fe8e025b39ce9a4f48244cb9",
+      "corpusHits": 60,
+      "corpusFiles": 34,
+      "reviewedUsableHits": 60,
+      "reviewedUsableFiles": 34,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 2,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_dc24f92ead78": {
+      "entryId": "t_dc24f92ead78",
+      "sourceTerm": "問訊",
+      "entrySha256": "b7816108dc2ecade31a90bdf48f9d8d478bf1a82802b69a79eaf684fce3cb797",
+      "corpusHits": 1589,
+      "corpusFiles": 258,
+      "reviewedUsableHits": 1589,
+      "reviewedUsableFiles": 258,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 1589,
+          "corpusFiles": 258
+        }
+      ]
+    },
+    "t_e52f4bdc4110": {
+      "entryId": "t_e52f4bdc4110",
+      "sourceTerm": "影影響響",
+      "entrySha256": "305e081f5c7b603edf7a2d19cf096c2945f5b131e4f2d65024a64f1e8e1771e5",
+      "corpusHits": 5,
+      "corpusFiles": 5,
+      "reviewedUsableHits": 5,
+      "reviewedUsableFiles": 5,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 3,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 3,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_e9adcb470950": {
+      "entryId": "t_e9adcb470950",
+      "sourceTerm": "菩薩戒",
+      "entrySha256": "bbe4e3d1b7beed2f7d80c7d7e3990029935075a31f19cc59a9bf3b4f0372b9eb",
+      "corpusHits": 162,
+      "corpusFiles": 66,
+      "reviewedUsableHits": 162,
+      "reviewedUsableFiles": 66,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 5,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_ea85b794ca42": {
+      "entryId": "t_ea85b794ca42",
+      "sourceTerm": "茶湯",
+      "entrySha256": "c34e261abe67469cae0a4b971aece4cbe16e01122ca0098baa270833277ff488",
+      "corpusHits": 221,
+      "corpusFiles": 65,
+      "reviewedUsableHits": 221,
+      "reviewedUsableFiles": 65,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 6,
+      "retainedHeadwordOccurrences": 6,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 6,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 6,
+      "sourceTexts": 5,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_ef5beb628603": {
+      "entryId": "t_ef5beb628603",
+      "sourceTerm": "磨頭",
+      "entrySha256": "873c0ad6b34b8e3eb91891f0a9d91247ff605dbcd245c2d2af8ca58fc7403861",
+      "corpusHits": 47,
+      "corpusFiles": 26,
+      "reviewedUsableHits": 47,
+      "reviewedUsableFiles": 26,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 4,
+      "retainedHeadwordOccurrences": 4,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 4,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 4,
+      "sourceTexts": 2,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "T/T48/T48n2023.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_f0cb4dcfc70c": {
+      "entryId": "t_f0cb4dcfc70c",
+      "sourceTerm": "掛搭",
+      "entrySha256": "badea0d5d6f281fa2c48115dfb4b02dacfa614a10ee7d9abf1fd40d566067d6c",
+      "corpusHits": 120,
+      "corpusFiles": 39,
+      "reviewedUsableHits": 120,
+      "reviewedUsableFiles": 39,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 6,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 3,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 1,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        },
+        {
+          "kind": "insufficient-source-spread",
+          "sourceTexts": 3,
+          "requiredFloor": 4,
+          "corpusFiles": 39
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_f26addce7844": {
+      "entryId": "t_f26addce7844",
+      "sourceTerm": "入堂",
+      "entrySha256": "7ebe9f4b65dae7420add5d402330af93cb1e41dae668025e75737cec9ac68ac0",
+      "corpusHits": 619,
+      "corpusFiles": 172,
+      "reviewedUsableHits": 619,
+      "reviewedUsableFiles": 172,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 2,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 619,
+          "corpusFiles": 172
+        }
+      ]
+    },
+    "t_f5e1fe96407c": {
+      "entryId": "t_f5e1fe96407c",
+      "sourceTerm": "知事",
+      "entrySha256": "05b18c9b404fc61dc099f62efc172c084e4fc84bfc5ce08c47259e0533a436cb",
+      "corpusHits": 947,
+      "corpusFiles": 217,
+      "reviewedUsableHits": 947,
+      "reviewedUsableFiles": 217,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 7,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 7,
+      "sourceTexts": 6,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 947,
+          "corpusFiles": 217
+        }
+      ]
+    },
+    "t_f9bb8b44b32f": {
+      "entryId": "t_f9bb8b44b32f",
+      "sourceTerm": "延壽堂",
+      "entrySha256": "0e7fba32128243256a2429ffcfc330a9e8d5c8c81f6183e4916e157d09a30dd0",
+      "corpusHits": 77,
+      "corpusFiles": 51,
+      "reviewedUsableHits": 77,
+      "reviewedUsableFiles": 51,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 4,
+      "occurrences": 5,
+      "retainedHeadwordOccurrences": 5,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 5,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 5,
+      "sourceTexts": 4,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 0,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": []
+    },
+    "t_fe03a2a24e00": {
+      "entryId": "t_fe03a2a24e00",
+      "sourceTerm": "維那",
+      "entrySha256": "992faf68143d9630d7456f153345e870761ab19b654844d0713fd43f7900e666",
+      "corpusHits": 3514,
+      "corpusFiles": 362,
+      "reviewedUsableHits": 3514,
+      "reviewedUsableFiles": 362,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 8,
+      "occurrences": 8,
+      "retainedHeadwordOccurrences": 8,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 8,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              8
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 8,
+      "sourceTexts": 7,
+      "senseCount": 1,
+      "hardPass": false,
+      "hardFlags": [
+        {
+          "kind": "invalid-kwic-anchor",
+          "senseIndex": 0,
+          "occurrenceIndex": 3,
+          "verification": {
+            "ok": false,
+            "error": "NOT_IN_ALLOWLIST"
+          }
+        },
+        {
+          "kind": "source-not-in-corpus-manifest",
+          "relPath": "X/X63/X63n1245.xml",
+          "note": "cited file is outside the frozen corpus manifest; row is unverifiable"
+        }
+      ],
+      "reviewFlags": [
+        {
+          "kind": "broad-concordance-single-sense-review",
+          "corpusHits": 3514,
+          "corpusFiles": 362
+        }
+      ]
+    }
+  }
+}

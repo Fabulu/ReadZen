@@ -1,0 +1,237 @@
+{
+  "Id": "t_4f088a7a7f47",
+  "SourceTerm": "南泉斬猫",
+  "CreatedBy": "Codex remediation",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Nanquan cuts the cat",
+      "AlternateTargets": [
+        "Nanquan's cat-cutting case"
+      ],
+      "SearchAliases": [
+        "Nanquan kills the cat",
+        "Nanquan cat koan",
+        "cat-cutting case",
+        "Nanquan slays the cat",
+        "two halls fight over a cat"
+      ],
+      "Status": "preferred",
+      "Explanation": "The public case in which Nanquan Puyuan cuts a cat in two after monks of the east and west halls fight over it. Nanquan holds it up and says an answer will spare it; the assembly gives no answer and he cuts it. When Zhaozhou returns, he puts a sandal on his head and leaves; Nanquan says his presence would have saved the cat. This written form occurs 128 times in 46 allowlisted texts, becoming a case title, public question, verse subject, and cited precedent. A question explicitly invokes the major precept against killing and asks why Nanquan cut the cat and Guizong cut the snake; Miyun Yuanwu tells the questioner to repent. Jueyin answers a question about the case's import with ‘it takes Nanquan.’ Dahui Zonggao reports and rejects the inherited labels ‘timely wondrous function’ and ‘great function appearing without retaining rules.’ The entry preserves the rule, the question, and the rejection without inventing Nanquan's intention.",
+      "Validation": "multi-source",
+      "Note": "The two written cat forms name one event. The complete event using expanded forms is family evidence; six exact witnesses across six sources clear the floor. Case title, question, verse, and later comment are deployments of the same public case. The precept-violation dispute remains unresolved rather than excused.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0232b25",
+          "ToLb": "0232c03",
+          "Kwic": "第九則南泉斬猫示眾云。踢翻滄海。大地塵飛。喝散白雲。虛空粉碎。嚴行正令。猶是半提。大用全彰。如何施設。舉。南泉一日。東西兩堂爭猫兒南泉見遂提起云。道得即不斬眾無對泉斬却猫兒為兩段泉復舉前話問趙州州便脫草鞋。於頭上戴出泉云。子若在。恰救得猫兒。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage (萬松老人評唱天童覺和尚頌古從容庵錄). Transmits the complete event under Wansong Xingxiu's case heading. Nanquan Puyuan is the exact event actor who raises and cuts the cat; the body uses expanded forms rather than the exact headword.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "compiler"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0303b07",
+          "ToLb": "0303b09",
+          "Kwic": "問：殺生是大戒，為什麼南泉斬猫，歸宗斬蛇？師曰：汝寔恁麼問那？曰：是。師曰：汝當懺悔去。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). An unnamed monk is the exact headword-bearing speaker who asks why Nanquan cut the cat despite the major precept against killing; Miyun Yuanwu tells him to repent. The line, ±500, ±2,000, and ±10,000-character contexts, section header, book title, TEI header, and parallel-passage search do not name the monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r002-owner3",
+            "ReviewedUtc": "2026-07-14T12:05:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0589a02",
+          "ToLb": "0589a03",
+          "Kwic": "初參覺印問曰。南泉斬猫兒意旨如何。印曰。須是南泉始得。",
+          "MasterName": "Guangfu Weishang",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). Guangfu Weishang is the exact headword-bearing speaker who asks Jueyin about the import of Nanquan cutting the cat; Jueyin answers, ‘It takes Nanquan.’",
+          "ContextMasters": [
+            {
+              "MasterName": "Jueyin",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Guangfu Weishang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0891a07",
+          "ToLb": "0891a09",
+          "Kwic": "歸宗斬蛇。南泉斬猫兒。學語之流。多謂之當機妙用。亦謂之大用現前不存軌則。殊不知。總不是這般道理。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Dahui Zonggao reports and rejects two inherited explanations of Guizong's snake-cutting and Nanquan's cat-cutting.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1559.xml",
+          "FromLb": "0372a07",
+          "ToLb": "0372a09",
+          "Kwic": "上堂，舉南泉斬猫兒話，乃曰：南泉提起下刀誅，六臂修羅救得無？設使兩堂俱道得，也應流血滿街衢。",
+          "MasterName": "Moan Xingdao",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Moan Xingdao raises the exact case in a hall address and versifies the blade, the two halls, and rescue.",
+          "ContextMasters": [
+            {
+              "MasterName": "Moan Xingdao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0069b15",
+          "ToLb": "0069b16",
+          "Kwic": "有禪人舉南泉斬猫話問公，公以偈答曰：手握乾坤殺活機，縱橫施設在臨時",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). An unnamed Chan visitor is the exact headword-bearing speaker who raises Nanquan's cat case; Hu Anguo answers in verse. The line, ±500, ±2,000, and ±10,000-character contexts, section header, book title, TEI header, and parallel-passage search do not name the visitor.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "Chan visitor",
+            "ActorLabel": "unnamed Chan visitor",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r002-owner3",
+            "ReviewedUtc": "2026-07-14T12:05:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Hu Anguo",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0285a04",
+          "ToLb": "0285a05",
+          "Kwic": "了庵欲禪師謝首座秉拂兼客至，上堂：南泉斬猫，趙州戴草鞋而出；興化法戰，克賓設饡飯便行。",
+          "MasterName": "Liaoan Yu",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Liaoan Yu raises Nanquan cutting the cat together with Zhaozhou leaving with a sandal on his head.",
+          "ContextMasters": [
+            {
+              "MasterName": "Liaoan Yu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2004.xml",
+        "X/X81/X81n1568.xml",
+        "T/T51/T51n2077.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X79/X79n1559.xml",
+        "X/X82/X82n1571.xml",
+        "X/X64/X64n1260.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Zhaozhou Congshen",
+        "Dahui Zonggao",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [
+        "斬猫",
+        "南泉斬貓",
+        "歸宗斬蛇",
+        "殺生",
+        "大戒"
+      ]
+    }
+  ]
+}

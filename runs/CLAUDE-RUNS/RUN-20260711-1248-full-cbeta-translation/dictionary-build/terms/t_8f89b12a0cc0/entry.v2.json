@@ -1,0 +1,196 @@
+{
+  "Id": "t_8f89b12a0cc0",
+  "SourceTerm": "粥",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "gruel",
+      "AlternateTargets": [
+        "rice gruel",
+        "porridge"
+      ],
+      "SearchAliases": [
+        "rice porridge",
+        "congee",
+        "monastery breakfast",
+        "morning gruel",
+        "breakfast porridge"
+      ],
+      "Status": "preferred",
+      "Explanation": "Gruel (粥) is the thin cooked-grain meal served in the monastery, ordinarily the morning member of the recurring pair ‘gruel and rice’ (粥飯). The word retains that concrete referent throughout the record: the monastic code directs that opening the bowl and eating gruel or rice, tea or broth, be done carefully, and a kitchen exchange distinguishes cooking rice from cooking gruel (炊飯耶煮粥耶). Chan bends this everyday meal by repeatedly putting it into public answers and named cases. Asked for ‘talk that surpasses buddhas and patriarchs,’ Changping answers ‘eating gruel and eating rice’ (喫粥喫飯); asked about the student's own self, Guizong answers ‘when the gruel is thin, sit down later’ (粥稀後坐). In Zhaozhou's case, a newly arrived monastic asks for instruction; Zhaozhou asks, ‘have you eaten your gruel?’ (喫粥了也未), and after the questioner says yes, tells him, ‘go wash your bowl’ (洗鉢盂去). Yunmen preserves the exchange and explicitly asks whether Zhaozhou gave an instruction. Later records repeatedly quote and comment on the same question-and-answer. The meal also supplies the record's language for the ordinary allotment: Baichi says ‘eating gruel and eating rice is your own basic lot’ (喫粥喫飯是汝本分事), while a Zhaozhou saying names the two daily gruel-and-rice meals as his only occasion of ‘mixed use of mind’ (除二時粥飯是雜用心處). In the Ganzhi–Nanquan case, Ganzhi provides gruel and requests the meal recitation; Nanquan dedicates it to ‘the tabby cat and white ox’ (貍奴白牯), after which Ganzhi leaves and Nanquan breaks the cooking pot. Thus the corpus does not turn gruel into a second object or an abstract substance: it keeps the food concrete while deploying eating, serving, and washing up in answers, institutional schedules, and public cases.",
+      "Validation": "multi-source",
+      "Note": "Zen-allowlist concordance: the headword has 2,824 hits in 341 files; eat-gruel forms have 748 in 182; gruel-and-rice forms have 668 in 223; the completed-meal question has 101 in 67; and the gruel-and-rice monastic epithet has 59 in 42. Standard definition-formula searches all returned zero. Eighteen grammatical strings meaning ‘as for gruel’ or ‘one who handles gruel’ occur in service contexts or named phrases, not definitions. Sense audit: ordinary breakfast gruel, offered or cooked gruel, and the food in Zhaozhou's case are the same thing. Related entries should keep the eating bowl separate from the robe-and-bowl succession token, and should give the gruel-and-rice monastic epithet its own lexical article rather than assigning that human referent to the standalone food word.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0554b16",
+          "ToLb": "0554b18",
+          "Kwic": "舉僧問趙州。某甲乍入叢林。乞師指示。州云。喫粥了也未。僧云。喫粥了也。州云。洗鉢盂去。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen (雲門匡真禪師廣錄). Yunmen Wenyan raises the complete exchange, while Zhaozhou Congshen is the nested speaker who asks whether the newcomer has eaten gruel and then tells him to wash his bowl.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0078c06",
+          "ToLb": "0078c06",
+          "Kwic": "喫粥喫飯是汝本分事",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄). Baichi Yuan says that eating gruel and rice is the listener's own fundamental matter.",
+          "MasterName": "Baichi Yuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Yuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0342a04",
+          "ToLb": "0342a06",
+          "Kwic": "今早起來。無言可說。下牀著鞋。後架洗面。堂內展鉢喫粥。粥後打睡。睡起喫茶。見客相喚。齋時喫飯。日日相似。",
+          "MasterName": "Fayan Wenyi",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Fayan Wenyi lists the ordinary daily sequence of rising, washing, opening the bowl, eating gruel, sleeping, drinking tea, greeting guests, and eating rice.",
+          "ContextMasters": [
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0523b19",
+          "ToLb": "0523b21",
+          "Kwic": "曰汝炊飯耶煮粥耶。對曰。人工淘米著火。行者煮粥炊飯。曰汝作甚麼。對曰。和尚慈悲放他閑去。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). Touzi Yiqing asks whether the interlocutor cooks rice or gruel, then asks what he himself does.",
+          "MasterName": "Touzi Yiqing",
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0044a22",
+          "ToLb": "0044a23",
+          "Kwic": "老僧行脚時，除二時粥飯是雜用心處，除外更無別用心處。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Quote Zhaozhou Congshen saying that, while travelling, apart from the two daily gruel-and-rice meals, he had no other occasion of mixed use of mind.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0332b13",
+          "ToLb": "0332b14",
+          "Kwic": "僧問。如何是超佛越祖之談。師曰。喫粥喫飯。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Changping answers the question about talk surpassing buddhas and patriarchs with eating gruel and eating rice.",
+          "MasterName": "Changping",
+          "ContextMasters": [
+            {
+              "MasterName": "Changping",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0183c04",
+          "ToLb": "0183c05",
+          "Kwic": "問。如何是學人自己。師曰。牀窄先臥。粥稀後坐。",
+          "MasterName": "Guizong Daoquan",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Guizong Daoquan answers the question about the student's own self with the paired maxim: ‘when the bed is narrow, lie down first; when the gruel is thin, sit down later.’",
+          "ContextMasters": [
+            {
+              "MasterName": "Guizong Daoquan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B14/B14n0082.xml",
+          "FromLb": "0211a03",
+          "ToLb": "0211a05",
+          "Kwic": "又於南泉設粥云請和尚念誦南泉云甘贄行者設粥請大眾為貍奴白牯念摩訶般若波羅蜜甘乃禮拜便出去南泉却到厨內打破鍋子",
+          "MasterName": "Ganzhi",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B14/B14n0082.xml). Jade Flowers of the Transmission of the Lamp (Fragment) (傳燈玉英集（殘卷）). Preserves the Ganzhi–Nanquan case. Ganzhi provides gruel and asks Nanquan Puyuan to recite; Nanquan announces a dedication for the tabby cat and white ox, Ganzhi leaves, and Nanquan breaks the pot.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Ganzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "J/J28/J28nB202.xml",
+        "X/X80/X80n1565.xml",
+        "T/T51/T51n2077.xml",
+        "X/X64/X64n1260.xml",
+        "B/B14/B14n0082.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Yunmen Wenyan",
+        "Fayan Wenyi",
+        "Guizong Daoquan",
+        "Nanquan Puyuan"
+      ],
+      "RelatedTerms": [
+        "喫粥",
+        "粥飯",
+        "粥飯僧",
+        "喫粥了也未",
+        "鉢盂",
+        "洗鉢盂去",
+        "本分事"
+      ]
+    }
+  ]
+}

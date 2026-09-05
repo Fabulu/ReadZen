@@ -1,0 +1,165 @@
+==============================================================================
+MATERIALS PIN VERIFICATION (sha256 over raw bytes)
+==============================================================================
+OK   main-head-t_057cc9ea8755.json
+OK   main-head-t_351fa42d396b.json
+OK   main-head-t_968a2f97c9ff.json
+OK   main-head-t_ab715aa474d5.json
+OK   main-head-t_ea2a427c7aba.json
+OK   staged-t_057cc9ea8755.json
+OK   staged-t_351fa42d396b.json
+OK   staged-t_968a2f97c9ff.json
+OK   staged-t_ab715aa474d5.json
+OK   staged-t_ea2a427c7aba.json
+OK   surface-facts.json
+materialsPinsOk = True
+
+rows in deck: 11 (R0000..R0010)
+
+==============================================================================
+R0000  kind=occ-attribution  entry=t_ea2a427c7aba
+==============================================================================
+R0000  E1         PASS
+R0000  A1         PASS
+R0000  A2         PASS
+R0000  B1         PASS
+R0000  B2         PASS
+R0000  C1         PASS
+R0000  C2         PASS
+R0000  C3         PASS
+
+==============================================================================
+R0001  kind=occ-attribution  entry=t_ab715aa474d5
+==============================================================================
+R0001  E1         PASS
+R0001  A1         PASS
+R0001  A2         FAIL
+       claim : carriedKwic '並宜兼赴。當思古人一日不作一日不食之誡。'
+       actual: staged Kwic '並宜齊赴。當思古人一日不作一日不食之誡。'
+       diverg: A2 carriedKwic: first divergence at char index 2: claimed 兼 U+517C utf8=E5 85 BC | actual 齊 U+9F4A utf8=E9 BD 8A | claimed ctx '並宜兼赴。當思古人一日不作一' | actual ctx '並宜齊赴。當思古人一日不作一'
+R0001  B1         PASS
+R0001  B2         PASS
+R0001  C1         PASS
+R0001  C2         PASS
+R0001  C3         PASS
+
+==============================================================================
+R0002  kind=occ-attribution  entry=t_ea2a427c7aba
+==============================================================================
+R0002  E1         PASS
+R0002  A1         PASS
+R0002  A2         PASS
+R0002  B1         PASS
+R0002  B2         PASS
+R0002  C1         PASS
+R0002  C2         PASS
+R0002  C3         PASS
+
+==============================================================================
+R0003  kind=occ-attribution  entry=t_ea2a427c7aba
+==============================================================================
+R0003  E1         PASS
+R0003  A1         PASS
+R0003  A2         PASS
+R0003  B1         PASS
+R0003  B2         PASS
+R0003  C1         PASS
+R0003  C2         PASS
+R0003  C3         PASS
+
+==============================================================================
+R0004  kind=surface-census  entry=None
+==============================================================================
+R0004  D1         FAIL
+       claim : entryCount={'after': 4715, 'before': 4715}
+       actual: surface-facts entryCount={'before': 4715, 'after': 4716}; absent-on-main material set=['t_351fa42d396b'] (=addedSet) implies after=before+1
+       diverg: row after=4715 but surface-facts after=4716 (before 4715 + 1 added entry ['t_351fa42d396b'])
+R0004  D2         FAIL
+       claim : changedSetEqualsWorklist=False
+       actual: ids differing between main-head and staged materials: ['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba'] (worklist=['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba'])
+       diverg: materials show all 5 product ids differ, so the claim must be true
+R0004  D3         PASS
+R0004  D4         PASS
+
+==============================================================================
+R0005  kind=occ-attribution  entry=t_ab715aa474d5
+==============================================================================
+R0005  E1         PASS
+R0005  A1         PASS
+R0005  A2         PASS
+R0005  B1         PASS
+R0005  B2         PASS
+R0005  C1         PASS
+R0005  C2         PASS
+R0005  C3         PASS
+
+==============================================================================
+R0006  kind=occ-attribution  entry=t_351fa42d396b
+==============================================================================
+R0006  E1         PASS
+R0006  A1         PASS
+R0006  A2         PASS
+R0006  B1         PASS
+R0006  B2         PASS
+R0006  C1         PASS
+R0006  C2         PASS
+R0006  C3         PASS
+
+==============================================================================
+R0007  kind=occ-attribution  entry=t_ea2a427c7aba
+==============================================================================
+R0007  E1         PASS
+R0007  A1         PASS
+R0007  A2         PASS
+R0007  B1         FAIL
+       claim : oldWindowPresent=True
+       actual: main-head-t_ea2a427c7aba.json does NOT contain an occurrence RelPath='T/T48/T48n2025.xml' FromLb='1143a07'
+       diverg: row claims oldWindowPresent=True but main-head material does not contain the window
+R0007  B2         FAIL
+       claim : oldMasterName='Dehui' oldContextMasters=None oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: the fabricated pre-publication main note'
+       actual: no main-head occurrence
+       diverg: row claims oldMasterName='Dehui' oldContextMasters=None oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Re' but window is absent on main so all three must be null
+R0007  C1         PASS
+R0007  C2         PASS
+R0007  C3         PASS
+
+==============================================================================
+R0008  kind=note-provenance  entry=t_057cc9ea8755
+==============================================================================
+R0008  E1         PASS
+R0008  NP-old     PASS
+R0008  NP-new     PASS
+R0008  NP-excerpt PASS
+
+==============================================================================
+R0009  kind=alias-add  entry=t_968a2f97c9ff
+==============================================================================
+R0009  E1         PASS
+R0009  AL-old     PASS
+R0009  AL-new     PASS
+R0009  AL-added   PASS
+
+==============================================================================
+R0010  kind=surface-census  entry=None
+==============================================================================
+R0010  D1         PASS
+R0010  D2         PASS
+R0010  D3         PASS
+R0010  D4         PASS
+
+==============================================================================
+SUMMARY
+==============================================================================
+materialsPinsOk : True
+rowsChecked     : 11
+R0000 : CLEAN
+R0001 : FLAGGED A2
+R0002 : CLEAN
+R0003 : CLEAN
+R0004 : FLAGGED D1,D2
+R0005 : CLEAN
+R0006 : CLEAN
+R0007 : FLAGGED B1,B2
+R0008 : CLEAN
+R0009 : CLEAN
+R0010 : CLEAN

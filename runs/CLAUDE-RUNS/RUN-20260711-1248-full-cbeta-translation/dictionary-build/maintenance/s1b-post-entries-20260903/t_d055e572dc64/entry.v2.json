@@ -1,0 +1,194 @@
+{
+  "Id": "t_d055e572dc64",
+  "SourceTerm": "依前",
+  "CreatedBy": "Terra semantic author luna155r4",
+  "WrittenUtc": "2026-08-09T15:26:20Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "as before",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "as before",
+        "still the same",
+        "unchanged from before"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "An ordinary adverbial phrase for recurrence or persistence: a question is asked again, an answer is repeated, or a condition remains as before. The sources do not establish a separate technical object.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0070c11",
+          "ToLb": "0070c13",
+          "Kwic": "却回舉似師。師曰。汝更去問。待他有答。汝便噓兩聲。峯又去。依前問。石頭乃噓兩聲。峯又無語。回舉似師。師曰。向汝道石頭路滑。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): the compiler narrates Deng Yinfeng asking Shitou Xiqian again as before under Mazu Daoyi’s instruction; no named master utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Deng Yinfeng",
+              "Roles": [
+                "person-described"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "respondent",
+                "addressee"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler narrating the headword-bearing clause",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Terra semantic author luna155r4",
+            "ReviewedUtc": "2026-08-09T15:26:20Z",
+            "GrammarEvidence": "依前問 is compiler narration: Mazu directs Deng Yinfeng to question Shitou Xiqian again, and the headword narrates Deng’s repeated action rather than a turn spoken by any of the three."
+          },
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0093c16",
+          "ToLb": "0093c17",
+          "Kwic": "其僧到雪峯。一依前語祇對。峯曰。也須是趙州始得。問。如何是出家。師曰。不履高名。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): the unnamed monk repeats Zhaozhou Congshen’s instructed reply before Xuefeng Yicun; 一依前語祇對 is the monk’s own response.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed monk instructed by Zhaozhou Congshen",
+            "ActorRole": "respondent",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex /root/feedback_lexicography",
+            "ReviewedUtc": "2026-07-14T06:35:00Z",
+            "GrammarEvidence": "The complete case assigns this turn to unnamed monk instructed by Zhaozhou Congshen."
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "teacher",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "addressee",
+                "respondent"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0622c18",
+          "ToLb": "0622c19",
+          "Kwic": "見性唯祇自心。認著依前不是。塵中世界無涯。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang (汾陽無德禪師語錄): Fenyang Shanzhao directly says that attaching to recognition remains 依前不是.",
+          "MasterName": "Fenyang Shanzhao",
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0384a14",
+          "ToLb": "0384a16",
+          "Kwic": "眨眼滲漏，開口蹉過，計較不成，依前懡㦬。拘那含牟尼佛",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies (續古尊宿語要): Zhenxie Qingliao directly says calculation leaves one 依前懡㦬.",
+          "MasterName": "Zhenxie Qingliao",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenxie Qingliao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0879c23",
+          "ToLb": "0879c25",
+          "Kwic": "喚爾作菩薩便歡喜。喚爾作賊漢便惡發。依前只是舊時人。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄): Dahui Zonggao directly says a person remains 依前只是舊時人 despite changed labels.",
+          "MasterName": "Dahui Zonggao",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "T/T47/T47n1992.xml",
+        "X/X68/X68n1318.xml",
+        "T/T47/T47n1998A.xml"
+      ],
+      "RelatedMasters": [
+        "Mazu Daoyi",
+        "Deng Yinfeng",
+        "Shitou Xiqian",
+        "Zhaozhou Congshen",
+        "Xuefeng Yicun",
+        "Fenyang Shanzhao",
+        "Zhenxie Qingliao",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [
+        "仍舊",
+        "如前",
+        "依然",
+        "還是",
+        "依舊",
+        "認著"
+      ],
+      "Explanation": "As before marks that an action, verdict, or condition repeats or remains unchanged. Five Lamps narrates Deng Yinfeng asking Shitou Xiqian again as before at Mazu Daoyi’s direction, and elsewhere records an unnamed monk repeating Zhaozhou Congshen’s instructed reply before Xuefeng Yicun. Fenyang Shanzhao calls a proposed recognition still not it; Zhenxie Qingliao says calculation leaves one as before; Dahui Zonggao says a person remains the same old person despite a changed label. The phrase marks continuity rather than a distinct Chan technical object."
+    }
+  ]
+}

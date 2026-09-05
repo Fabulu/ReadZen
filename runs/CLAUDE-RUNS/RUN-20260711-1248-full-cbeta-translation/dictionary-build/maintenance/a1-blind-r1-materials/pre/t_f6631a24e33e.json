@@ -1,0 +1,253 @@
+{
+  "Id": "t_f6631a24e33e",
+  "SourceTerm": "情與無情共一體",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-21T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sentient and insentient share one body",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "sentient and insentient share one body"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "This formula declares sentient beings and insentient things to be one body.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0563c10",
+          "ToLb": "0563c11",
+          "Kwic": "與夏公立、譚肇論論會情與無情共一體，時有狗子臥香桌下，",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperial Selections (御選語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary ，同僧齋次，王舉：昔日黃龍心與夏公立、譚肇論論會 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB395.xml",
+          "FromLb": "0716b22",
+          "ToLb": "0716b24",
+          "Kwic": "舉：「黃龍心和尚與夏公立極譚《肇論》，論會萬物為自己，情與無情共一體。時有狗子臥香桌下，龍拈尺擊狗子並香桌，狗子有情則去，香桌無情則住。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB395.xml). Jingnan Neihuguo Qizhencheng Sayings (荊南內護國寺啟真誠禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 黃龍心和尚與夏公立極譚《肇論》，論會萬物為自己， locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0190a12",
+          "ToLb": "0190a14",
+          "Kwic": "譚肇論論會萬物為自己情與無情共一體時有狗子臥香桌下龍拈",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Sayings of Chan Master Hongjue Min (弘覺忞禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 。晚參舉黃龍心和尚與夏公立極譚肇論論會萬物為自己 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0246a12",
+          "ToLb": "0246a14",
+          "Kwic": "至會萬物為自己者及情與無情共一體處，時有狗臥香桌下，龍拈壓尺擊狗，又擊香桌曰：狗有情即去，香桌無情自住，情與無情如何得成一體？",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Raising Old Cases (宗門拈古彙集). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 黃龍祖心禪師與夏倚公立談肇論，至會萬物為自己者及 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0473b22",
+          "ToLb": "0473c01",
+          "Kwic": "至會萬物為自己者及情與無情共一體處，時有狗子臥香桌下，師拈壓尺擊狗，又擊香桌曰：狗有情即去，香桌無情自住，情與無情如何得成一體？",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 明月光。晦堂與夏倚公立談肇論，至會萬物為自己者及 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0036b27",
+          "ToLb": "0036b28",
+          "Kwic": "論》，論萬物為自己，情與無情共一體。時狗子臥香桌下，龍",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Foyuan Chan Sayings (佛冤禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 「黃龍心禪師與夏公立劇談《肇論》，論萬物為自己， locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0879c24",
+          "ToLb": "0879c25",
+          "Kwic": "之緣莫可逃。情與無情共一體",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Qingcheng Zhulangsheng Sayings (青城竹浪生禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 豈知瘦處不容刀？本身說法雖然玅，養子之緣莫可逃。 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0551a01",
+          "ToLb": "0551a03",
+          "Kwic": "其僧乃曰我會也我會也情與無情共一體不其然乎師曰善能分別",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Sayings of Chan Master Huanyouchuan (幻有傳禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 曰汝謂世間若無物謂人有見可乎其僧乃曰我會也我會也 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X68/X68n1319.xml",
+        "J/J37/J37nB395.xml",
+        "L/L155/L155n1643.xml",
+        "X/X66/X66n1296.xml",
+        "X/X66/X66n1297.xml",
+        "J/J37/J37nB371.xml",
+        "J/J38/J38nB427.xml",
+        "L/L153/L153n1637.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "This formula declares sentient beings and insentient things to be one body. Independent complete cases establish the ordinary construction and its limits."
+    }
+  ]
+}

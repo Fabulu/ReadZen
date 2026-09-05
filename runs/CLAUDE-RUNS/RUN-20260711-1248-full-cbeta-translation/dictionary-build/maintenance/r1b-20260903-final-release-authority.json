@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "generic-dictionary-final-release-authority.v1",
+  "cohort": "r1b-20260903",
+  "authorizedBy": "coordinator (Claude)",
+  "authorizedUtc": "2026-09-02T16:58:29.163556+00:00",
+  "releaseAuthorized": true,
+  "basis": "Lane R1b (retired-source occurrence fleet removal — USER-APPROVED Option A, SPEC_R1b_20260903.md + AMENDMENTS 1-2): 47 edit records over 43 entries — 46 occurrences citing the retired rels T/T48/T48n2023.xml / X/X63/X63n1245.xml removed (every removed row's RelPath byte-asserted at apply time; no sense emptied; prose-anchoring gate BLOCKED the 2 entries whose Explanations rest on retired evidence — t_057cc9ea8755, t_ea2a427c7aba — left untouched for an authored decision) + the 1 t_50d75aeeeef1 count sentence rewritten to survivor arithmetic. Machine gates CLEAN: POST attribution zero rows on 42 entries, exactly the 2 documented pre-existing 坐堂 performer residuals; depth movement == the frozen 3-kind set (46+44 clears, 20 below-floor surfaces, 0 hardPass regressions, 23 improved); removal coverage; determinism; confinement; path-scope byte-diff; exactly the 43 of 4,504 terms entries changed; fleet 2,993 -> 2,993 failing pairs, zero newly-failing. Blind r1 PASS with 7/7 canaries caught by every reviewer and zero confirmed findings. Public surface: replace-mode for the 43 ids; no adds, no withdrawals; entry count unchanged. Dictionary edits local-only (agent clone, contrib branch); no push.",
+  "products": [
+    {
+      "id": "t_022d58242948",
+      "entrySha256": "4369017273e9b8104496626d94698b4739f9143d164c3c1c8d883474b43942f4"
+    },
+    {
+      "id": "t_044652c7b411",
+      "entrySha256": "ea715dab4ba7889a8208ab5612c18fc401f27b07de97ef5d54d462aa59331134"
+    },
+    {
+      "id": "t_05659eb4122a",
+      "entrySha256": "e55e1a326f7a7ff9bf408d75b511abc11f475288b8ae92454d1bada9a5c0965f"
+    },
+    {
+      "id": "t_0c53a5a2243b",
+      "entrySha256": "4392c622d2dfd64f20495b4e045174c14e32013b44a7b8825c72718f73867fb5"
+    },
+    {
+      "id": "t_1383f942789d",
+      "entrySha256": "226e08fc01f81656d4423450e753c363831953598b514f56bb03f2aa3f373f6c"
+    },
+    {
+      "id": "t_13951a5b5260",
+      "entrySha256": "e7b2ccfde6e00427fd385021ddfc79c968c51c38f4cb244f85287361157e61ce"
+    },
+    {
+      "id": "t_1b94d664ca7a",
+      "entrySha256": "3992b2a2c041b1742968bd17ebd87973234a8cceb1e0f84499f48baa000e3bb8"
+    },
+    {
+      "id": "t_32289452a85b",
+      "entrySha256": "2780bf6108d126619d3c4bf3fb1240708ae9479dedf8aaf4b305433ca56d88af"
+    },
+    {
+      "id": "t_36b1824beee5",
+      "entrySha256": "4f61ae27b0814217816bd7f1c4b5d429ab60f273abdac7d01826d01772f500fe"
+    },
+    {
+      "id": "t_3b9857d1cc19",
+      "entrySha256": "9d0d514140ab7dcbaa3fd54f2c6d80ce2e9eaaf4f87fa0543efdb70cfc5a4b5a"
+    },
+    {
+      "id": "t_41476f956295",
+      "entrySha256": "4aba54bf6b1a13f394aa7de805ad679e17d8d10827bf72842c95f25a22867698"
+    },
+    {
+      "id": "t_428c42ea1c8f",
+      "entrySha256": "b5127a4231b207d564b1fa5865431bdcb9979ad96d6f8df7f5f8638ef0a4b7ad"
+    },
+    {
+      "id": "t_4b1aa91dd297",
+      "entrySha256": "d7b97207627f768f1c08738a2a9e167fd04821dc14cc9daa6b37edf60f129a53"
+    },
+    {
+      "id": "t_4e0636f53520",
+      "entrySha256": "804e5eb3133c2503e7ace7de4b74dc3d88192ef462f6463d97517c155603d671"
+    },
+    {
+      "id": "t_50d75aeeeef1",
+      "entrySha256": "d795655f752542b4b1443a25d09ff1cef5e9e16fc7a5a8dac57475f5eb492f3c"
+    },
+    {
+      "id": "t_5306489d35c6",
+      "entrySha256": "98dae286a6cdc0c996ae814e9f417519aec8d99cedb024b4d40ca622a653bd10"
+    },
+    {
+      "id": "t_5ab995298e4e",
+      "entrySha256": "ad3eab345be44fc1feb6327fd1a18c732f18ef6c6fa3f0b6cb0cadda776c42ef"
+    },
+    {
+      "id": "t_5b93919eced9",
+      "entrySha256": "814ea19203ca2f3914406b008255849f42abb78969bac0d9eb8f6bc1fab43d60"
+    },
+    {
+      "id": "t_76ee526a2b16",
+      "entrySha256": "a48875db10cb1940df48d6c400db44489c11a831d6961cf3a9efcf570bf74522"
+    },
+    {
+      "id": "t_88dac6848042",
+      "entrySha256": "363282bb7d6b7b936065d1a77087cebbd5cbdca523332f1ce3c41aa8ccb2731f"
+    },
+    {
+      "id": "t_9ba11d160033",
+      "entrySha256": "08a0f40278edb63824def736c3d9324892d599a905a7d54bc3e7765ee2495391"
+    },
+    {
+      "id": "t_a5ffef8b3f2d",
+      "entrySha256": "2c4b51eb791a9b276a9a8e773833d14e47e6add8118079e27e0ec6eff5ba52e2"
+    },
+    {
+      "id": "t_aa45c307e9f1",
+      "entrySha256": "8e77c30677085e68f8753ad5cf4cb8c84cc9dd066cc105243402f55501eff112"
+    },
+    {
+      "id": "t_acd15cd3ba91",
+      "entrySha256": "b737214c762755b98e8ac2dcd2a230d3aed47bec1d23dec0faa9668ca497b816"
+    },
+    {
+      "id": "t_b4c37e2f25c3",
+      "entrySha256": "8c690307e2db288bd042bd97bfc523fbcf23eb36d721d62b5d366063214182a3"
+    },
+    {
+      "id": "t_b97e19fa54b2",
+      "entrySha256": "4839ceda3a98737c206b5719586dd48b6a719988fed23ce4a0cdea4f3d556965"
+    },
+    {
+      "id": "t_bea7c499e294",
+      "entrySha256": "769d8b9eab3fee022add73d4e7f8e2c328cf5870a2864de3f956714f67db7bb0"
+    },
+    {
+      "id": "t_c513dc22845c",
+      "entrySha256": "b24cf782caae867414fe7292ba9589110e88bff0a7a1dacf78f36cfb2aca2cc0"
+    },
+    {
+      "id": "t_c945c2cc0e79",
+      "entrySha256": "51747aad4d5978e511d945c01edfe4723b88c5491eb5c9c17d78bce45b6409be"
+    },
+    {
+      "id": "t_c968c2829eeb",
+      "entrySha256": "f21b5d44e6163f6178d5895e91426b802e7386c75700e4989a50ce7fdc4c3e2b"
+    },
+    {
+      "id": "t_cf2b777134bb",
+      "entrySha256": "2af409dba73d1e87de50871a19fbc08b99bd24240ffa87676a14745bc5519c9d"
+    },
+    {
+      "id": "t_d26799ff3ae1",
+      "entrySha256": "3ef1ca1ab30a81397223c4316b0a1b1f0910b7fa4d4bf97f1d58f7f1a0ccbf2a"
+    },
+    {
+      "id": "t_d7725cb0c8c0",
+      "entrySha256": "f243515d6f06ad0e28790c90224c0c95991069a6c94891abe626f039366ffbfb"
+    },
+    {
+      "id": "t_dc24f92ead78",
+      "entrySha256": "995b6bb609bdb769f603f053f77468fd0cb4ceb56fac2fb601bcf054bf4dc76e"
+    },
+    {
+      "id": "t_e52f4bdc4110",
+      "entrySha256": "6186c1c1629ca43fa2683f87f338abb7f2354630692dfedb8a278520d88a151c"
+    },
+    {
+      "id": "t_e9adcb470950",
+      "entrySha256": "a9fe908e491a970072f5459116e3142055e2a41dc76c68459198bc750e3da42e"
+    },
+    {
+      "id": "t_ea85b794ca42",
+      "entrySha256": "e150a132f74388fe5962b16311d470c434071c42f3fa49d068cb54c3878f57d4"
+    },
+    {
+      "id": "t_ef5beb628603",
+      "entrySha256": "3513aab087c7ff5b6f5a0461810db92e5b99d99d643ea486ebf3f76aa9313d6f"
+    },
+    {
+      "id": "t_f0cb4dcfc70c",
+      "entrySha256": "bef0a2641e855c8e9fa2770586170dc049fb9a4e572ddf340c92b75696202a56"
+    },
+    {
+      "id": "t_f26addce7844",
+      "entrySha256": "f03799c7e4034513929d136754baa9b6e387193c93eae85e6478a72924b15f0b"
+    },
+    {
+      "id": "t_f5e1fe96407c",
+      "entrySha256": "45565a22218ff8e1cb167fe8e8baf582e34f1719c8b611e856c4a05c60b2cc8e"
+    },
+    {
+      "id": "t_f9bb8b44b32f",
+      "entrySha256": "83b5bfe1f8d8500ecff3968e353e4b61f10027d2d5c8911a53319b471d2cffb2"
+    },
+    {
+      "id": "t_fe03a2a24e00",
+      "entrySha256": "193b7d05e13275d51279c05684e391d0b0fb5e6e980416d2c842f13094dcaabc"
+    }
+  ],
+  "builtOn": {},
+  "withdrawn": []
+}

@@ -1,0 +1,297 @@
+{
+  "Id": "t_ba6668ef3e6e",
+  "SourceTerm": "迦葉",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Mahakashyapa",
+      "AlternateTargets": [
+        "Mahakashyapa",
+        "the venerable Kashyapa"
+      ],
+      "SearchAliases": [
+        "Mahakasyapa",
+        "Kashyapa",
+        "flower sermon disciple",
+        "Kashyapa smiled",
+        "knock down the flagpole"
+      ],
+      "Status": "preferred",
+      "Explanation": "Kashyapa is the figure whom the Chan record places at the first public handover. At the Vulture Peak assembly, the World-Honored One holds up a flower before the silent gathering; Kashyapa alone breaks into a smile, after which the Buddha says that he entrusts the treasury of the true eye of the teaching to Mahakashyapa. Later Chan records do not leave him inside a biography: they repeatedly raise, question, and comment on this scene. Yuelin says that when the World-Honored One held up the flower and Kashyapa smiled, both deserved thirty blows. Kashyapa also appears at the teaching seat: after the assembly gathers, he strikes the sounding block and announces, “the World-Honored One has finished speaking the teaching,” and the Buddha leaves the seat. In the succession encounter with Ananda, Ananda asks what was transmitted besides the gold-thread robe; Kashyapa calls “Ananda,” receives his answer, and says, “knock down the flagpole before the gate.” These public acts—smile and announced entrustment, closing the Buddha's assembly, and the robe-and-flagpole exchange with Ananda—are Kashyapa's defining Chan deployment.",
+      "Validation": "multi-source",
+      "Note": "This sense is Mahakashyapa, identifiable in the cited Chan cases by the flower, the entrusted eye-treasury, Ananda, or the gold-thread robe. The earlier Kashyapa Buddha is a different figure and is recorded separately below by his Zen deployment.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0031a08",
+          "ToLb": "0031a10",
+          "Kwic": "世尊曰。吾有正法眼藏。涅槃妙心。實相無相。微妙法門。不立文字。教外別傳。付囑摩訶迦葉。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Shakyamuni Buddha is the exact speaker who announces the treasury of the true eye of the teaching and entrusts it to Mahakasyapa after Mahakasyapa smiles.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "addressee",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Shakyamuni Buddha"
+        },
+        {
+          "RelPath": "X/X79/X79n1559.xml",
+          "FromLb": "0343c18",
+          "ToLb": "0343c19",
+          "Kwic": "世尊拈華，迦葉微笑。正當恁麼時，好與三十棒。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Yuelin Zongshan says that both Shakyamuni's flower raising and Mahakasyapa's smile deserved thirty blows.",
+          "MasterName": "Yuelin Zongshan",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuelin Zongshan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0029a18",
+          "ToLb": "0029a20",
+          "Kwic": "世尊一日陞座。大眾集定。迦葉白椎曰。世尊說法竟。世尊便下座。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Mahakasyapa is the exact speaker who strikes the sounding block and announces that the World-Honored One has finished speaking; Shakyamuni Buddha then leaves the seat.",
+          "MasterName": "Mahakasyapa",
+          "ContextMasters": [
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0031c15",
+          "ToLb": "0031c16",
+          "Kwic": "一日問迦葉曰。師兄。世尊傳金襴袈裟外。別傳箇甚麼。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda asks what else was transmitted besides the gold-thread robe; Mahakasyapa answers by calling Ananda and ordering the flagpole knocked down.",
+          "MasterName": "Ananda",
+          "ContextMasters": [
+            {
+              "MasterName": "Ananda",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0499b06",
+          "ToLb": "0499b07",
+          "Kwic": "世尊拈花迦葉微笑百萬人天次第成佛",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu looks left and right and recounts Shakyamuni raising the flower and Mahakasyapa smiling.",
+          "MasterName": "Yulin Tongxiu",
+          "ContextMasters": [
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "person-discussed",
+                "performer"
+              ]
+            },
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "person-discussed",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0413b05",
+          "ToLb": "0413b06",
+          "Kwic": "又佛滅後付法於迦葉，以心傳心",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). Guifeng Zongmi section, Reply to the Ten Questions of Layman Shi. Shi Zhicheng is the exact questioner: the reference to entrusting the teaching to Mahakasyapa occurs in his ninth question; Guifeng Zongmi is the respondent.",
+          "MasterName": "Shi Zhicheng",
+          "ContextMasters": [
+            {
+              "MasterName": "Guifeng Zongmi",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shi Zhicheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "X/X79/X79n1559.xml",
+        "B/B27/B27n0152.xml",
+        "B/B25/B25n0144.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "摩訶迦葉",
+        "阿難",
+        "拈花",
+        "破顏微笑",
+        "正法眼藏",
+        "衣鉢",
+        "剎竿"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Kashyapa Buddha",
+      "AlternateTargets": [
+        "the former Buddha Kashyapa"
+      ],
+      "SearchAliases": [
+        "former Kashyapa Buddha",
+        "Kashyapa Buddha",
+        "Buddha before Shakyamuni",
+        "Kashyapa Buddha wild fox"
+      ],
+      "Status": "preferred",
+      "Explanation": "The same name also identifies Kashyapa Buddha, the earlier buddha invoked at the opening of Baizhang's wild-fox case. The old man says that in Kashyapa Buddha's time he lived on that mountain, answered that a person of great cultivation does not fall into cause and effect, and consequently fell into a wild-fox body for five hundred lives. Chan texts deploy this earlier Buddha as the time-marker that makes the old man's former teaching office and karmic consequence intelligible; this is a different figure from Mahakashyapa of the flower, robe, and Ananda cases.",
+      "Validation": "multi-source",
+      "Note": "Three allowlisted records anchor the exact phrase “in the time of the former Kashyapa Buddha” (過去迦葉佛時) in the public wild-fox case. The definition stays with that Zen deployment and does not import an external buddha biography.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0668a21",
+          "ToLb": "0668a23",
+          "Kwic": "曰吾非人也於過去迦葉佛時曾住此山因學人問大修行人還落因果也無某甲對曰不落因果遂五百生墮野狐身",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集). An unnamed old man dates his former residence and wrong answer to the time of Kashyapa Buddha; all six attribution rungs leave him unnamed.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "old man",
+            "ActorLabel": "Unnamed old man in Baizhang's wild-fox case",
+            "ActorRole": "respondent",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r001 review",
+            "ReviewedUtc": "2026-07-14T10:30:00Z"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0618b07",
+          "ToLb": "0618b09",
+          "Kwic": "老人云某甲於過去迦葉佛時曾住此山有學人問大脩行底人還落因果也無對云不落囙果墮在野狐身",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). An unnamed old man names Kashyapa Buddha as the temporal frame of his failed cause-and-effect answer; all six attribution rungs leave him unnamed.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "old man",
+            "ActorLabel": "Unnamed old man in Baizhang's wild-fox case",
+            "ActorRole": "respondent",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r001 review",
+            "ReviewedUtc": "2026-07-14T10:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J40/J40nB491.xml",
+          "FromLb": "0479c19",
+          "ToLb": "0479c21",
+          "Kwic": "曰：「吾非人，過去迦葉佛時曾住此山，因學人問：『大修行人還落因果也無？』某甲對云：『不落因果。』遂五百生",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (J/J40/J40nB491.xml). Remaining Sayings of Chan Master Fazhouji of Tianning (天寧法舟濟禪師剩語). In a raised version of Baizhang's wild-fox case. An unnamed old man names Kashyapa Buddha before describing the five-hundred-life consequence; all six attribution rungs leave him unnamed.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "old man",
+            "ActorLabel": "Unnamed old man in Baizhang's wild-fox case",
+            "ActorRole": "respondent",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r001 review",
+            "ReviewedUtc": "2026-07-14T10:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "C/C078/C078n1720.xml",
+        "C/C077/C077n1710.xml",
+        "J/J40/J40nB491.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai"
+      ],
+      "RelatedTerms": [
+        "迦葉佛",
+        "野狐",
+        "不落因果",
+        "不昧因果"
+      ]
+    }
+  ]
+}

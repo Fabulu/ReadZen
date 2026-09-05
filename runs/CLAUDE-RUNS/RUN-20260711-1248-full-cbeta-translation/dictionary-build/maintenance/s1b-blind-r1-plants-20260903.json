@@ -1,0 +1,79 @@
+{
+ "schemaVersion": "s1b-blind-r1-plants",
+ "honestRows": 112,
+ "plants": 7,
+ "slots": [
+  0,
+  11,
+  22,
+  33,
+  65,
+  76,
+  87
+ ],
+ "registry": [
+  {
+   "plantId": "P1",
+   "rowSlot": 0,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "dad6b742969cb532cbb4e9565a98e6d519d946d9d17079d2ff3be82ed3379876",
+   "entry": "t_002c7f0ec57e",
+   "class": "anchor-remove",
+   "defect": "removed kwic mutated (contained in no pre anchor / post kwic)"
+  },
+  {
+   "plantId": "P2",
+   "rowSlot": 11,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "47de711700a790c3eb10f72d7fc496d614758d321c7c35e17d64bf47d688a9ec",
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "defect": "coveredBy holder does not contain the removed kwic"
+  },
+  {
+   "plantId": "P3",
+   "rowSlot": 22,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "d6f396bed84f4fba60cc4d0e088eaeb5dede88f598e6fb8a349a1cadddd58236",
+   "entry": "t_0899655df243",
+   "class": "anchor-remove",
+   "defect": "removedClaimText mismatches the pre anchor at (si, aidx)"
+  },
+  {
+   "plantId": "P4",
+   "rowSlot": 33,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "8e2335b4225341025b66dd773df2b1605cfdd9a0608aef6cfdd6af4aba8d0119",
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "defect": "postSurvivorClaimTexts lists a survivor the post materials lack"
+  },
+  {
+   "plantId": "P5",
+   "rowSlot": 65,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "904894099697ae08d3e945755c83736f3c617751b921337e9cbd4ea38294ea9f",
+   "entry": "t_461377f9b1da",
+   "class": "anchor-remove",
+   "defect": "aidx off-by-one (points at the wrong pre anchor)"
+  },
+  {
+   "plantId": "P6",
+   "rowSlot": 76,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "029a8449f3173b783ab00909eb8f7990abdd0a2fc6c8c9ae373a0b5bde569768",
+   "entry": "t_cec588fa8b06",
+   "class": "anchor-remove",
+   "defect": "si off-by-one (points at the wrong sense)"
+  },
+  {
+   "plantId": "P7",
+   "rowSlot": 87,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "ac7e2254b5c9281427095264f896b156f6ac2eaa86b8a7596a812a900f0c1ba4",
+   "entry": "t_cf6aac2f936b",
+   "class": "anchor-remove",
+   "defect": "claims the well-formed partial-sense survivor was removed"
+  }
+ ]
+}

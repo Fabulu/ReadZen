@@ -1,0 +1,134 @@
+{
+  "Id": "t_5892b09b6e92",
+  "SourceTerm": "認定盤星",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "mistake the balance pointer for what is fixed",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "take the balance pointer as fixed",
+        "mistake the pointer for the answer"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Two Tier 2 records retain the hook-and-pointer weighing image. Their quotation layer is not counted as two independent uses, so the sense remains provisional; the single best useful lamp is retained and only parallel lamp recensions are removed as padding.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0141c12",
+          "ToLb": "0141c18",
+          "Kwic": "趙州在什麼處。為什麼却教人護惜。五祖先師當說道。垂手來似過爾。爾作麼生會。且道。作麼生是垂手處。識取鉤頭意。莫認定盤星。這僧出來。也不妨奇特。捉趙州空處。便去拶他。既不在明白裏。護惜箇什麼。趙州更不行棒行喝。只道。我亦不知。若不",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yuanwu Keqin",
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo: Yuanwu Keqin is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0447b05",
+          "ToLb": "0447b10",
+          "Kwic": "來即不問，如何是一色？』淵云：『目前無闍黎，此間無老僧。』僧云：『既不如是，如何曉會？』淵云：『領取鉤頭意，莫認定盤星。』」師云：「開山雖為慈悲之故，要且熱瞞者僧。山僧則不然，或有問：『如何是一色？』但向他道：『龍蛇混雜，凡聖交",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yikui Yuankui",
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending: Yikui Yuankui is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0017a11",
+          "ToLb": "0017a16",
+          "Kwic": "中還有奇特事也無？師曰：祇恐汝不信。曰：如何即是？師曰：黑底是墨，黃底是紙。曰：謝師答話。師曰：領取鉤頭意，莫認定盤星。上堂：雲生谷口，月滿長川。樵父斫深雲，漁翁釣沙島。到這裏便是吳道子、張僧繇，無你下手處。良久曰：歸堂問取聖僧",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete 5 Lamps 34–120 (五燈全書(第34卷-第120卷)). Speaker: Zhiyuan.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "reviewed human voice",
+            "ActorLabel": "Zhiyuan",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Zhiyuan: The reviewed literal boundary '曰：' governs this exact headword-bearing clause and fixes Zhiyuan as its voice after the complete case was read.",
+            "ReviewedBy": "U1 direct semantic author",
+            "ReviewedUtc": "2026-07-20T00:00:00Z"
+          }
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0141c12",
+          "ToLb": "0141c18",
+          "Kwic": "趙州在什麼處。為什麼却教人護惜。五祖先師當說道。垂手來似過爾。爾作麼生會。且道。作麼生是垂手處。識取鉤頭意。莫認定盤星。這僧出來。也不妨奇特。捉趙州空處。便去拶他。既不在明白裏。護惜箇什麼。趙州更不行棒行喝。只道。我亦不知。若不",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yuanwu Keqin",
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo: Yuanwu Keqin is the exact actor of this headword-bearing turn.",
+          "ClaimText": "認定盤星"
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0447b05",
+          "ToLb": "0447b10",
+          "Kwic": "來即不問，如何是一色？』淵云：『目前無闍黎，此間無老僧。』僧云：『既不如是，如何曉會？』淵云：『領取鉤頭意，莫認定盤星。』」師云：「開山雖為慈悲之故，要且熱瞞者僧。山僧則不然，或有問：『如何是一色？』但向他道：『龍蛇混雜，凡聖交",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yikui Yuankui",
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending: Yikui Yuankui is the exact actor of this headword-bearing turn.",
+          "ClaimText": "認定盤星"
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "J/J37/J37nB388.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Yikui Yuankui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "To mistake the balance pointer for what is fixed keeps the weighing image visible: the hook’s intention is to be recognized, but the pointer is not to be taken as the fixed thing. Yuanwu Keqin uses the warning in the Blue Cliff Record; the Shending record preserves the same formula in a quoted exchange."
+    }
+  ]
+}

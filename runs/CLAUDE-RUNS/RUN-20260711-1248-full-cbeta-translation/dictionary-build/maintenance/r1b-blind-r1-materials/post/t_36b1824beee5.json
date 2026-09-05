@@ -1,0 +1,239 @@
+{
+  "Id": "t_36b1824beee5",
+  "SourceTerm": "園頭",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane C evidence-first",
+  "WrittenUtc": "2026-07-15T04:30:57.027055+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "garden steward",
+      "AlternateTargets": [
+        "monastery garden officer"
+      ],
+      "SearchAliases": [
+        "garden steward",
+        "garden officer",
+        "monastery gardener",
+        "vegetable garden officer"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+      "SourceTexts": [
+        "X/X81/X81n1571.xml",
+        "X/X66/X66n1297.xml",
+        "X/X63/X63n1245.xml",
+        "X/X81/X81n1568.xml",
+        "X/X83/X83n1578.xml",
+        "X/X68/X68n1319.xml",
+        "X/X79/X79n1557.xml"
+      ],
+      "RelatedMasters": [
+        "Guanxi Zhixian",
+        "Liaoran Qingyu",
+        "Moshan Liaoran",
+        "Nanquan Puyuan",
+        "Nanyuan Huiyong",
+        "Yaoshan Weiyan",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Occurrences": [
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0484a11",
+          "ToLb": "0484a11",
+          "Kwic": "溪於是伏膺，作園頭三載。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33) (五燈全書(第1卷-第33卷)): Complete Moshan Liaoran case: the biographer reports that Guanxi Zhixian submitted and served as garden steward for three years. Guanxi is the office holder, not the utterer of the title.",
+          "ContextMasters": [
+            {
+              "MasterName": "Guanxi Zhixian",
+              "Roles": [
+                "person-described",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Liaoran Qingyu",
+              "Roles": [
+                "respondent",
+                "teacher",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Moshan Liaoran",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "lamp-record narrator",
+            "ActorLabel": "the lamp-record biographer",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "溪於是伏膺，作園頭三載 is biographical narration: Guanxi Zhixian becomes the garden steward for three years after yielding to Moshan Liaoran.",
+            "ReviewedBy": "Codex cohorts 1-3 v6 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-16T09:00:00Z"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0352a14",
+          "ToLb": "0352a15",
+          "Kwic": "賣身王老難為價，貴賤俱非不易酬，若使當時無退悔，喚來分付與園頭。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林): The verse author is unnamed: Grove of the Mirror of the School, complete commentarial verse: an unnamed verse author says to call him over and hand him to the garden steward. Nanquan Puyuan is the alluded-to case figure, not the verse's utterer.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "verse author",
+            "ActorLabel": "the unnamed verse author",
+            "ActorRole": "commentator",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete stored unit is an unattributed commentarial verse; its 王老 alludes to Nanquan, but the headword occurs in the verse author's own final line.",
+            "ReviewedBy": "Codex cohorts 1-3 v6 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-16T09:00:00Z"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0031c14",
+          "ToLb": "0031c14",
+          "Kwic": "問：園頭瓠子開花也未？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): Complete Nanyuan Huiyong exchange: Nanyuan directly asks the unnamed garden steward whether the gourds have flowered; the steward answers before Nanyuan continues and strikes.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "utterer",
+                "questioner",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Nanyuan Huiyong"
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0504b03",
+          "ToLb": "0504b03",
+          "Kwic": "園頭栽菜次",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄): Record of Pointing at the Moon, complete Yaoshan case: the compiler identifies an unnamed garden steward planting vegetables; Yaoshan Weiyan then questions him. The title is narrator-owned.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "case narrator",
+            "ActorLabel": "the case compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "園頭栽菜次 is the narrator's stage setting: an unnamed garden steward is planting vegetables when Yaoshan questions him.",
+            "ReviewedBy": "Codex cohorts 1-3 v6 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-16T09:00:00Z"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0542c16",
+          "ToLb": "0542c16",
+          "Kwic": "園頭問：和尚病好了麼？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings (御選語錄): Complete Yulin Tongxiu exchange: the narrator labels the unnamed garden steward before his question about Yulin's illness. Yulin answers that he is in the steward's garden every day.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "dialogue narrator",
+            "ActorLabel": "the record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "園頭問 is a dialogue cue identifying the unnamed garden steward as questioner; his spoken words begin after the cue. Yulin Tongxiu supplies both replies.",
+            "ReviewedBy": "Codex cohorts 1-3 v6 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-16T09:00:00Z"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0100a19",
+          "ToLb": "0100a19",
+          "Kwic": "師問園頭：匏子開花也未？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要): Complete Nanyuan Huiyong exchange: Nanyuan directly asks the unnamed garden steward whether the gourds have flowered; the steward answers before Nanyuan continues and strikes.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "utterer",
+                "questioner",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Nanyuan Huiyong"
+        }
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The garden steward is the monastery officer responsible for cultivated grounds and their produce. The monastic code lists the title among the lower offices; encounter records show Guanxi Zhixian serving in the post, an unnamed steward planting vegetables under Yaoshan, Nanyuan questioning a steward about gourds, and Yulin answering one in the garden. These uses make the office part of the laboring and interview life of the monastery, not merely a generic gardener outside it."
+    }
+  ]
+}

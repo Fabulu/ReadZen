@@ -1,0 +1,100 @@
+{
+  "Id": "t_ef5beb628603",
+  "SourceTerm": "磨頭",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex Lane C independent-review repair",
+  "WrittenUtc": "2026-07-17T03:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the mill supervisor",
+      "AlternateTargets": [
+        "the grinding-house officer"
+      ],
+      "SearchAliases": [
+        "mill supervisor",
+        "grinding-house officer",
+        "grinding officer"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Two body witnesses support the mill-supervisor office: an encounter question and an institutional explanation. Contents and duplicate recensions are excluded rather than counted as depth.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0746c04",
+          "ToLb": "0746c05",
+          "Kwic": "問磨頭人打羅羅打人無對",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: The monk asking Cuiyan is unnamed: Cuiyan section. An unnamed monk asks the grinding-house officer question; Cuiyan supplies a substitute reply. Exact actor: the unnamed monk asking Cuiyan.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cuiyan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monastic questioner",
+            "ActorLabel": "the unnamed monk asking Cuiyan",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in the monk's question; Cuiyan's substitute reply follows.",
+            "ReviewedBy": "Codex next500 present-pending full-case author",
+            "ReviewedUtc": "2026-07-16T02:59:09.354717+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0645a15",
+          "ToLb": "0645a20",
+          "Kwic": "堂主；為眾僧洗濯，故有浴主、水頭；為眾僧禦寒，故有炭頭、爐頭；為眾僧乞丐，故有街坊化主；為眾僧執勞，故有園頭、磨頭、莊主；為眾僧滌除，故有淨頭；為眾僧給侍，故有淨人。所以行道之緣，十分備足；資身之具，百色現成。萬事無憂，一心為道。世間尊貴，物外優閑。清淨無為，眾僧",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations: Exact actor state: biographical or documentary narrator. The complete section confirms this attribution state.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical or documentary narrator",
+            "ActorLabel": "biographical or documentary narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete unit uses the headword in narration rather than assigning it to a human speaker.",
+            "ReviewedBy": "Codex f004 lane B full-case author",
+            "ReviewedUtc": "2026-07-15T10:38:49.311314+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "C/C077/C077n1710.xml",
+        "X/X63/X63n1250.xml",
+        "T/T48/T48n2023.xml",
+        "T/T48/T48n2025.xml"
+      ],
+      "RelatedMasters": [
+        "Cuiyan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The mill supervisor is the monastery officer responsible for grinding work as service to the community. The monastic regulations list the mill supervisor alongside the garden supervisor and estate supervisor among officers who ‘perform labor for the community.’ Cuiyan's record preserves a public question built on ‘the mill-supervisor's man beats luoluo,’ showing the office-name entering encounter language without ceasing to name the worker."
+    }
+  ]
+}

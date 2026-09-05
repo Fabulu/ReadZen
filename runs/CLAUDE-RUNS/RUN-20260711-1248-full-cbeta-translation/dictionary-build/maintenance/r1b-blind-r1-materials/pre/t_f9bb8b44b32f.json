@@ -1,0 +1,156 @@
+{
+  "Id": "t_f9bb8b44b32f",
+  "SourceTerm": "延壽堂",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane B bulk evidence-first author",
+  "WrittenUtc": "2026-07-15T10:28:15.689574+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the monastery infirmary",
+      "AlternateTargets": [
+        "the long-life hall",
+        "the sick hall"
+      ],
+      "SearchAliases": [
+        "monastery infirmary",
+        "infirmary",
+        "sick hall",
+        "long-life hall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Five witnesses join two rulebooks, an office list, a public address, and a disease biography.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522b19",
+          "ToLb": "0522c09",
+          "Kwic": "維那典座直歲下知事請頭首首座書狀藏主第四卷知客庫頭浴主街坊水頭炭頭華戲嚴磨頭園頭莊主廨院主延壽堂主淨頭殿主鐘頭聖僧侍者爐頭直堂寮主寮首座堂頭侍者第五卷化主下頭首堂頭煎點僧堂內煎點知事頭首煎點入寮臘次煎點眾中特為煎點眾",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): Exact actor: the monastic-rule compiler. the compiler lists the infirmary supervisor among monastery offices.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "table of monastic offices",
+            "ActorLabel": "the monastic-rule compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (禪苑清規): the compiler lists the infirmary supervisor among monastery offices.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1133a09",
+          "ToLb": "1133a10",
+          "Kwic": "延壽堂主看視病僧。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Exact actor: the monastic-rule compiler. the rule defines the infirmary supervisor's care of sick monks, medicines, and food.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "monastic rule",
+            "ActorLabel": "the monastic-rule compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (勅修百丈清規): the rule defines the infirmary supervisor's care of sick monks, medicines, and food.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0642a01",
+          "ToLb": "0642a09",
+          "Kwic": "人事新舊兩班即詣方丈，拜請新舊都寺首座，各插香，係庫司備送。在覆替先審詳已，就便請人寮元、延壽堂主、淨頭、爐頭、炭頭、水頭、列項雜職。待請兩班了，別日詣堂司告退。擇道心人，次第交替方丈問訊。庫司人事，隨例點心管待。帝",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): Exact actor: the monastic-rule compiler. the rule lists appointing the infirmary supervisor among office transitions.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "monastic rule",
+            "ActorLabel": "the monastic-rule compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (禪林備用清規): the rule lists appointing the infirmary supervisor among office transitions.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0740c26",
+          "ToLb": "0741a01",
+          "Kwic": "用識心，臨終時安用識心？洞山云：『今時人只認得驢前馬後的，以為自己佛法平沉。』此其兆也。又延壽堂僧已脫去，洞山云：『汝只解恁麼去，不解恁麼來。』紙衣道者問曹山：『一靈真性，不假胞胎時何如？』山云：『未是玅。』者云：『",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄): Langting Jingting raises a monk's death in the infirmary while discussing coming and going.",
+          "ContextMasters": [
+            {
+              "MasterName": "Langting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Langting Jingting"
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0299a01",
+          "ToLb": "0299a07",
+          "Kwic": "毫無走作密云到菩薩地位方能除其昏昧解制後聞天童密老人道播天下棒喝接人至彼親覲忽染傷寒大病歸延壽堂三個月將危矣作偈云木枕未推三個月灰頭土面得人嫌皆因恣性隨邪惡致令主公受倒懸夜靜空房疑病鬼燈殘聞鼠閙驚眠雖然八苦交煎逼自有",
+          "Curated": true,
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong (明覺聰禪師語錄): Mingjue Cong recounts returning to the infirmary with a grave illness and remaining there for three months.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Mingjue Cong"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "J/J33/J33nB294.xml",
+        "L/L158/L158n1652.xml"
+      ],
+      "RelatedMasters": [
+        "Langting Jingting",
+        "Mingjue Cong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The (延壽堂), literally 'hall for extending life,' is the monastery infirmary where sick monastics are housed and tended. Rulebooks list its supervisor among the communal offices and describe appointing a conscientious person; Mingjue Cong recounts spending three months there with a grave illness, while Langting Jingting raises the case of an unnamed monk who dies in the hall. The auspicious name does not turn it into a longevity shrine."
+    }
+  ]
+}

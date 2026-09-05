@@ -1,0 +1,202 @@
+{
+  "Id": "t_cc6b4c4e9ba8",
+  "SourceTerm": "拈花",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "holding up the flower",
+      "AlternateTargets": [
+        "raise the flower",
+        "the flower-holding event"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, to take up or hold up a flower. In the Chan corpus this ordinary gesture names a founding public event: the World-Honored One holds up a flower before the assembly, the gathering remains silent, Kashyapa breaks into a smile, and the World-Honored One announces that the treasury of the true eye of the teaching is entrusted to Mahakashyapa. The graph variant “holding up the flower” written with the traditional flower graph records the same event. Chan texts explicitly place it inside the lineage: one says that by the World-Honored One's holding up the flower, the wondrous mind was transmitted to Kashyapa, paired with Bodhidharma's facing the wall and entrusting the lineage purport to Shenguang. Another public address pairs locations and labels: “at the Vulture Peak assembly it was called holding up the flower; before Shaoshi Peak it was named obtaining the marrow.” Masters also question and censure the inherited event. An unnamed monk asks why Radiant Light—Kashyapa—smiled on seeing the flower held up; Daoning answers, “he could not suppress a grin.” Another record says that the flower-holding smile became a track, and yet another says that avoiding the flower-holding smile would have avoided an empty breaking of the face and the snow-standing scene becoming a rut. The deviation is therefore visible in the record: holding up a flower is not merely handling a plant but the name of a repeatedly cited, transmitted, compared, questioned, and criticized Chan case.",
+      "Validation": "multi-source",
+      "Note": "The common flower graph and traditional flower graph are orthographic variants in this case family; they are not separate senses. The entry treats the compact event-name through the recorded assembly actions, lineage statements, naming formulas, questions, answers, and later criticism.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0248b13",
+          "ToLb": "0248b14",
+          "Kwic": "僧問。飲光正見。為甚麼見拈花却微笑。師曰。忍俊不禁。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Xuansha Shibei as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Xuansha Shibei",
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0300a12",
+          "ToLb": "0300a13",
+          "Kwic": "靈山會上。喚作拈花。少室峰前。名為得髓。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Linyang Zhiduan as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Linyang Zhiduan",
+          "ContextMasters": [
+            {
+              "MasterName": "Linyang Zhiduan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0340a14",
+          "ToLb": "0340a15",
+          "Kwic": "故世尊拈花而妙心傳於迦葉。達磨面壁而宗旨付於神光。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Liu Jingchen's Warning to Confucians on Clarifying the Way (明道諭儒篇). Liu Jingchen is the exact prose author who states that Shakyamuni held up the flower and transmitted the wondrous mind to Mahakasyapa, pairing it with Bodhidharma's wall-gazing and transmission to Huike.",
+          "MasterName": "Liu Jingchen",
+          "ContextMasters": [
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "addressee"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "addressee"
+              ]
+            },
+            {
+              "MasterName": "Liu Jingchen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0395c15",
+          "ToLb": "0395c16",
+          "Kwic": "也免得拈花微笑。空破面顏。立雪齊腰。翻成轍迹。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Shangfang Riyi as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Shangfang Riyi",
+          "ContextMasters": [
+            {
+              "MasterName": "Shangfang Riyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0499b06",
+          "ToLb": "0499b07",
+          "Kwic": "世尊拈花迦葉微笑百萬人天次第成佛",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Full-case review identifies Shakyamuni Buddha as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Shakyamuni Buddha",
+          "ContextMasters": [
+            {
+              "MasterName": "Mahakasyapa",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "later-quoter"
+              ]
+            },
+            {
+              "MasterName": "Shakyamuni Buddha",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0059a16",
+          "ToLb": "0059a17",
+          "Kwic": "作麼生紹？若紹得去，釋迦本不拈花，迦葉不曾微笑，且道紹箇什麼？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong (痴絕道冲禪師語錄). In a Dharma talk at Jingshan, Chijue Daochong (痴絕) presses on inheriting the treasury of the true Dharma eye: were the inheritance consummated, Sakyamuni never held up a flower (釋迦本不拈花) and Kasyapa never smiled, so what would be inherited?",
+          "MasterName": "Chijue Daochong",
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0035c14",
+          "ToLb": "0035c16",
+          "Kwic": "上堂：世尊拈花，迦葉微笑。乃拈起拄杖曰：洞山拈起拄杖子，你諸人合作麼生？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In a hall address, Zhenjing Kewen (真淨克文) invokes the World-Honored One holding up the flower (世尊拈花) and Kasyapa's smile, then raises his staff and asks the assembly how they would answer Dongshan Liangjie's (洞山) raising of the staff, striking the incense table.",
+          "MasterName": "Zhenjing Kewen",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "B/B27/B27n0152.xml",
+        "X/X70/X70n1376.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "拈華",
+        "拈花微笑",
+        "拈華微笑",
+        "迦葉",
+        "世尊",
+        "正法眼藏",
+        "教外別傳",
+        "得髓"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

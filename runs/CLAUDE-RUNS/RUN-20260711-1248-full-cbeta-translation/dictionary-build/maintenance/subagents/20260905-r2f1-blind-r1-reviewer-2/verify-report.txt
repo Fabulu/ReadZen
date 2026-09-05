@@ -1,0 +1,65 @@
+==============================================================================
+STEP 1 — materialsPins sha256 verification (raw bytes)
+==============================================================================
+  [OK] main-head-t_057cc9ea8755.json
+  [OK] main-head-t_351fa42d396b.json
+  [OK] main-head-t_968a2f97c9ff.json
+  [OK] main-head-t_ab715aa474d5.json
+  [OK] main-head-t_ea2a427c7aba.json
+  [OK] staged-t_057cc9ea8755.json
+  [OK] staged-t_351fa42d396b.json
+  [OK] staged-t_968a2f97c9ff.json
+  [OK] staged-t_ab715aa474d5.json
+  [OK] staged-t_ea2a427c7aba.json
+  [OK] surface-facts.json
+materialsPinsOk = True
+
+Recomputed surface quantities from the 10 material files:
+  changed ids main-head -> staged : ['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba']
+  changedSetEqualsWorklist        : True
+  Dehui census before (materials) : ['t_ab715aa474d5 T/T48/T48n2025.xml 1144b03']
+  Dehui census after  (materials) : []
+  surface-facts entryCount        : {'before': 4715, 'after': 4716}
+  surface-facts addedSet          : ['t_351fa42d396b'] (absent on main, present staged: True)
+  len(surface-facts.aliasLost)    : 9
+
+==============================================================================
+STEP 2 — row-by-row law checks (rows identified by deck position)
+==============================================================================
+[R0000] kind=occ-attribution entry=t_ea2a427c7aba
+    clean: all applicable laws pass
+[R0001] kind=occ-attribution entry=t_ab715aa474d5
+    FLAGGED: laws ['A2']
+[R0002] kind=occ-attribution entry=t_ea2a427c7aba
+    clean: all applicable laws pass
+[R0003] kind=occ-attribution entry=t_ea2a427c7aba
+    clean: all applicable laws pass
+[R0004] kind=surface-census entry=(none)
+    FLAGGED: laws ['D1', 'D2']
+[R0005] kind=occ-attribution entry=t_ab715aa474d5
+    clean: all applicable laws pass
+[R0006] kind=occ-attribution entry=t_351fa42d396b
+    clean: all applicable laws pass
+[R0007] kind=occ-attribution entry=t_ea2a427c7aba
+    FLAGGED: laws ['B1', 'B2']
+[R0008] kind=note-provenance entry=t_057cc9ea8755
+    clean: all applicable laws pass
+[R0009] kind=alias-add entry=t_968a2f97c9ff
+    clean: all applicable laws pass
+[R0010] kind=surface-census entry=(none)
+    clean: all applicable laws pass
+
+==============================================================================
+STEP 3 — verdict summary
+==============================================================================
+materialsPinsOk : True
+rowsChecked     : 11
+flagged rows    : ['R0001', 'R0004', 'R0007']
+  R0001 ['A2']: carriedKwic == staged occurrence Kwic (byte-exact)
+  R0004 ['D1']: entryCount == surface-facts {before: 4715, after: 4716} (after = before + 1; addedSet is the one absent-on-main id)
+  R0004 ['D2']: changedSetEqualsWorklist == True (exactly the 5 product ids differ between main-head and staged)
+  R0007 ['B1']: oldWindowPresent == True (occurrence T/T48/T48n2025.xml@1143a07 exists in main-head-t_ea2a427c7aba.json)
+  R0007 ['B2']: oldMasterName is null (old window absent on main HEAD)
+  R0007 ['B2']: oldAttributionNote is null (old window absent on main HEAD)
+
+verdicts.json + verify-report.txt written to C:\programmieren\MergeWorkCbeta\CBETA-Translator\runs\CLAUDE-RUNS\RUN-20260711-1248-full-cbeta-translation\dictionary-build\maintenance\subagents\20260905-r2f1-blind-r1-reviewer-2

@@ -1,0 +1,197 @@
+{
+  "Id": "t_2f97445940bc",
+  "SourceTerm": "同死同生",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "die together and live together",
+      "AlternateTargets": [
+        "share death and life"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Verses and addresses pair dying together with living together when speakers describe complete accompaniment through an exchange, appraisal, or encounter. The witnesses do not turn the pair into a technical rank or prescribe a general communal conduct.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0155b20",
+          "ToLb": "0155b21",
+          "CharOffset": null,
+          "Kwic": "處。倒一說分一節同死同生為君訣八萬四千非",
+          "ClaimText": "處。倒一說分一節同死同生為君訣八萬四千非",
+          "MasterName": "Xuedou Chongxian",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record: Xuedou Chongxian utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0404b24",
+          "ToLb": "0404c01",
+          "CharOffset": null,
+          "Kwic": "犯清波。雖然二老同死同生，怎奈山僧未肯放",
+          "ClaimText": "犯清波。雖然二老同死同生，怎奈山僧未肯放",
+          "MasterName": "Ying'an Tanhua",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School: Ying'an Tanhua utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0047a11",
+          "ToLb": "0047a12",
+          "CharOffset": null,
+          "Kwic": "敵勝，罕遇知音。同死同生，萬中無一。尋言",
+          "ClaimText": "敵勝，罕遇知音。同死同生，萬中無一。尋言",
+          "MasterName": "Mingzhao Deqian",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: Mingzhao Deqian utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mingzhao Deqian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0689a15",
+          "ToLb": "0689a16",
+          "CharOffset": null,
+          "Kwic": "怖唯有南泉與趙州同死同生殊不顧阿呵呵伎死",
+          "ClaimText": "怖唯有南泉與趙州同死同生殊不顧阿呵呵伎死",
+          "MasterName": null,
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Linked Collection of the Chan School’s Verses on Old Cases (禪宗頌古聯珠通集): The verse author is unnamed and owns the exact headword-bearing verse line.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "verse author unresolved",
+            "ActorLabel": "an unnamed verse author",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in an authored verse following the named case, but the full section does not label the verse author.",
+            "ReviewedBy": "Codex post720 B canary revision full-case review",
+            "ReviewedUtc": "2026-07-17T16:00:00+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0756a29",
+          "ToLb": "0756b01",
+          "CharOffset": null,
+          "Kwic": "絕玄絕妙雙放雙收同死同生。向窠窟裏作活計",
+          "ClaimText": "絕玄絕妙雙放雙收同死同生。向窠窟裏作活計",
+          "MasterName": "Yuanwu Keqin",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo: Yuanwu Keqin utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0244b08",
+          "ToLb": "0244b08",
+          "CharOffset": null,
+          "Kwic": "墮位衲僧家了無寄同死同生何此何彼暖信破梅",
+          "ClaimText": "墮位衲僧家了無寄同死同生何此何彼暖信破梅",
+          "MasterName": "Hongzhi Zhengjue",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Book of Serenity: Hongzhi Zhengjue utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X66/X66n1297.xml",
+        "X/X64/X64n1260.xml",
+        "C/C078/C078n1720.xml",
+        "T/T47/T47n1997.xml",
+        "T/T48/T48n2004.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Ying'an Tanhua",
+        "Mingzhao Deqian",
+        "Yuanwu Keqin",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [
+        "把手共行"
+      ],
+      "SearchAliases": [
+        "die together and live together",
+        "share death and life"
+      ],
+      "Explanation": "Verses and addresses pair dying together with living together when speakers describe complete accompaniment through an exchange, appraisal, or encounter. The witnesses do not turn the pair into a technical rank or prescribe a general communal conduct.",
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0155b20",
+          "ToLb": "0155b21",
+          "CharOffset": null,
+          "Kwic": "處。倒一說分一節同死同生為君訣八萬四千非",
+          "ClaimText": "The baseline reader explanation is anchored to this retained exact occurrence.",
+          "MasterName": "Xuedou Chongxian",
+          "ApproxDate": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record: Xuedou Chongxian utters the headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

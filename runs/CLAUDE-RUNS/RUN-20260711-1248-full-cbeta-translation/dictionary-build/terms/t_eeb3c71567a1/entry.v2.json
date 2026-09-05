@@ -1,0 +1,203 @@
+{
+  "Id": "t_eeb3c71567a1",
+  "SourceTerm": "僧臘",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex f003 Lane B evidence-first",
+  "WrittenUtc": "2026-07-15T05:48:21.265875+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "years of monastic seniority",
+      "AlternateTargets": [
+        "years since full ordination"
+      ],
+      "SearchAliases": [
+        "monastic seniority",
+        "ordination age",
+        "Dharma age",
+        "years ordained"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Five higher-tier biographical notices and one useful Mazu Daoyi lamp notice distinguish monastic seniority from biological age.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0284b08",
+          "ToLb": "0284b13",
+          "Kwic": "時禁火葬，以師故，特從闍維例。火餘，齒舌數珠不壞，舍利五色紛綴遺骼。弟子文晟奉骼及諸不壞者歸西齋塔焉。計世壽七十五，僧臘六十三。杭州府徑山愚菴智及禪師杭州府徑山愚菴智及禪師字以中，別號西麓，蘇之吳縣顧氏子。幼出家穹窿海雲院受具。聽賢首法師講法界觀，未終篇，輒笑曰：一真法界，圓",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection. The biographical compiler reports Chushi Fanqi's lifespan and monastic seniority.",
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "ReviewedBy": "Codex v6 full-case manual audit 036-045",
+            "ReviewedUtc": "2026-07-16T15:20:00Z",
+            "GrammarEvidence": "The sentence reports Chushi Fanqi's lifespan and monastic seniority in biographical narration rather than direct speech."
+          }
+        },
+        {
+          "RelPath": "X/X78/X78n1553.xml",
+          "FromLb": "0450a21",
+          "ToLb": "0450b03",
+          "Kwic": "祥所，乃吾終焉之地矣。既而示疾，院主問：和尚近日尊候如何？師云：日面佛、月面佛。至二月一日，沐浴加趺而化，享年八十，僧臘六十。元和中，德宗皇帝追諡大寂禪師，塔曰大中莊嚴。洪州百丈山大智禪師洪州百丈山大智禪師師諱懷海，福州長樂人也，俗姓王。丱歲離塵，三學該練。屬大寂闡化江西，乃",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1553.xml). Tiansheng Expanded Lamp Record. The biographical compiler reports Mazu Daoyi's lifespan and monastic seniority.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "ReviewedBy": "Codex v6 full-case manual audit 036-045",
+            "ReviewedUtc": "2026-07-16T15:20:00Z",
+            "GrammarEvidence": "The sentence reports Mazu Daoyi's lifespan and monastic seniority in biographical narration rather than direct speech."
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB166.xml",
+          "FromLb": "0298a03",
+          "ToLb": "0298b02",
+          "Kwic": "浮渡之鎮，而瀋邸不復南面朝釋子矣。師於紫柏老人後而未往，挂錫薊門，而紫柏示受王難，譸張之徒虎且域。招提大恐，師以空寂我國，晏然作書，抵吾家客部，用先讚嘆紫柏逆行方便，甚難希有！由斯以譚，師之親見紫柏久矣，而山陰錢經國所述兩公鍼芥之語，實傳聞於紫柏之門，知師者何必在弟子耶？居數月，受慈聖請，自寶塔徒居蘆溝之廣慈精藍大建。然師所懷來，故在浮渡。日夜欲有所會，以濟南轅。而慈聖將周三百六十甲子，眾請以首楞嚴法增上祝延，師躊躇數四若將弗克，至同分別業二種妄見，忽下座，告大眾曰：「緣盡矣。」以水灌掌，跏趺而逝，時乙巳之十二月二十四日也。距生乙卯，歷五十暮而符其月日，僧臘以十計者四焉。訃聞慈聖震悼，憫卹有加，賜金返靈骨，塔於浮渡妙高峰之南麓，從師志也。師嘗問蘭公：「和尚知是般事便休，何自苦？」蘭公云：「恁麼則法有住處矣。」師伏膺之。五載修般舟行，以刳正性而違現業，入草驀鼻念佛自呼，終其身脅罕至席。金谷安居，率眾長跽，以華嚴音聲漩澓觀察，而方山之論觸目會心，自是更喜修多羅藏。蘭風一句，不復作奇特想矣。師十二驅烏，十九行腳，三十年一聞家耗，還書慰喻諸法空幻，外了不及。私嘗為余言：今是昨非。相觀末後脫洒，有以也，百身可贖，絕塵而奔，以追六千比丘之鞭影，即彌勒樓閣，彈指立登，何論梵剎哉？初後住處皆曰華嚴，最初所事師、最後所囑大弟",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in obituary or biographical narration that separately records lifespan and monastic seniority.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (J/J25/J25nB166.xml). Dharma Sayings of Fushan. The biographical compiler records the subject's monastic seniority separately from lifespan.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J40/J40nB484.xml",
+          "FromLb": "0277b29",
+          "ToLb": "0277c21",
+          "Kwic": "於一簣者，幾希矣。由甲寅以迄辛酉，兵戈頻仍。師處寺中，恬淡如故，暴兵亦無所逞。曾計戊午春與諸同人應試入渝，與師同載。時渝水府宮僧酗酒無賴，師主其家，僧即斷飲茹蔬。或叩之，僧曰：「和尚在我家，何敢如舊時事？」茲非其善氣化暴之明驗歟？所可惜者，鑑物太明，以故不能容物。牛頭山之耕可開也，而法筵不自開；行徒可集也，而龍象不可集。是以支那無可譔述，惟存宗統頌若干則，集為一卷，大抵從木石課工之餘而得者。然其學其識，已可想見一斑矣。總之，師產於豐厚之家，財物無所吝，性甘淡泊，不以一毫自私，治平之成，成以此也。師生於天啟五年乙丑，卒於康熙三十六年丁丑九月，享年七十三歲，僧臘五十三。將卒之前二日，偶示微恙，忽索水沐浴，眾以天寒止之。次日五鼓，囑法屬畢，遂命侍書偈曰：「七十三年如露電，臨行一句阿誰薦？泥牛含月吸秋波，木馬嘶風吞素練。」良久，云：「鑑。」黎明，復問侍僧曰：「甚麼時候？」荅曰：「辰時。」師云：「昨日索浴，今日不洗了。」遂著衣端坐而逝。蓋其勇決之性，至臨終之時猶如此。余自童年來，忠謁鐵公於茅菴內，即師建之以迎鐵公者。迨後交遊日久，故能悉師之生平，然詞不雅馴，亦不能無掛漏處。茲因竺公之命，不敢以鄙陋辭，謹述其初終，如石大君子從而原書闕。",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in obituary or biographical narration that separately records lifespan and monastic seniority.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (J/J40/J40nB484.xml). Verses on the Lineage Tradition by Chan Master Yeyun Ying. The biographical compiler records the subject's monastic seniority separately from lifespan.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X71/X71n1413.xml",
+          "FromLb": "0291c05",
+          "ToLb": "0292a09",
+          "Kwic": "即引聲吟云：昨夜問龜哥，報道今朝吉，今朝吉。遂書偈，乃問：何時耶？曰：戌時。即點首云：時亦至矣。即挺身斂手，瞑目而化。停龕十餘日，次月二日，奉全身窆于勇禪師塔之北原。喪輀既舉，雲慘風悲。俄天禧寺塔遙舒五色光，曲灌龕頂。時前松江達魯花亦宋忽都海牙首覩奇瑞，失聲驚呼，士俗萬象共相瞻仰，悲喜交作，忻踊感悼，聲震遐邇。臨壙，瑞雪繽紛，如天花密雨，萬像衣白。葬畢，即霽焉。時聖上宣賜白金，以問師耗。先是，上居潛邸時，留神內典，時數枉駕詣師問道，薄莫方歸。每印施般若心經并高王觀世音經，必命師章顯佛心，冠乎經首。至是，即即位之明年也。使者既至，而師已化。師世壽六十八，僧臘五十五。師之平生為人提激機緣，語句不可槩舉，既載語錄，花不重著。洎與夫士大夫等參請既多，及事無大關係者，并昭昭在人耳目，人所共知者，亦復不書。唯是撮其梗槩，聊為私記之耳。是盖得金陵開福法兄了菴清欲禪師所撰行狀，以傳寫本魚魯滋多，遂芟潤以重修云爾。若夫其大全事跡，必具元本，想已刊行，惜未至此也。時壬午十月海東南禪嗣法比丘四明梵僊拜手No.1413-C古林和尚󳬴No.1413-C古林和尚󳬴嗣法比丘梵僊撰禪師於景定壬戌八月一日，唱生于溫州樂清林氏宅。天曆己巳十一月二十二日，唱滅於金陵鳳臺山保寧禪寺。其所來也，有所為焉。其所去也，有所由乎。自達磨傳迦葉之道，為二十八葉，以行赤縣神州。",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in obituary or biographical narration that separately records lifespan and monastic seniority.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (X/X71/X71n1413.xml). Supplementary Gathas and Verses of Chan Master Gulin Qingmao. The biographical compiler records the subject's monastic seniority separately from lifespan.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X72/X72n1442.xml",
+          "FromLb": "0692a24",
+          "ToLb": "0692b24",
+          "Kwic": "決，不能曲順彼情，公乃抱病󳬂󳬂而去。脉公亦得疾，不及同還，至七月二日卒于寶福。弟子正平等捧靈骨還山，以念八日到塔所，合山大眾鳴鐘出迎，而公亦於前三日卒。茶毗方竟，大眾捧靈骨同時上供，寄寓權厝，俟大寒節入塔焉。嗚呼！公與脉公三四十年同志同行，荷負叢林，而死生以之。死之後，一具骨石雖遠隔谿山，乃不期而會，詎非平生行願真誠所感耶？余離山十餘載，歷觀叢林，知事如兩公者殊不多見，豈宿有重願來興茲山耶？抑亦應真大士但有利益，無不興崇耶？不然，何其精誠不倦若此？公平生禪淨圓修，而尤勤於持誦，每為病者持呪，輙多靈應。衣鉢之外，不畜一錢，有施之者，隨得隨散。世壽八十有一，僧臘六十。鼓山一脉闍黎歸真感應記鼓山一脉闍黎歸真感應記壬戌之夏四月八日，脉公同純公到寶福，脉公朝暮禮誦甚勤，余勸其節勞，公曰：去日無幾矣，安敢自緩？至五月十日，忽感冒風寒，凡十餘日而愈。既而起居弗常，復感者再，遂至不起。憶公始臥疾時，即為余敘平生，語後事，又請舉火，偈曰：吾終於此山，得和尚一炬火，志願足矣，餘復何事？余曰：當此之時，正宜放下萬緣，一心繫念摩訶般若，回向淨土可也。公曰：摩訶般若云何念乎？余曰：當觀五陰．十二處．十八界，無我無人，當體空寂，一性圓明，古今不壞，了無生滅去來之相。公默契，點首合掌謝之。余又曰：大地眾生未證無為，總居有漏，皆有托生處，",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in obituary or biographical narration that separately records lifespan and monastic seniority.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (X/X72/X72n1442.xml). Drafts from Chan Master Weilin’s Traveling Hermitage. The biographical compiler records the subject's monastic seniority separately from lifespan.",
+          "ContextMasters": []
+        }
+      ],
+      "SourceTexts": [
+        "X/X85/X85n1592.xml",
+        "X/X78/X78n1553.xml",
+        "J/J25/J25nB166.xml",
+        "J/J40/J40nB484.xml",
+        "X/X71/X71n1413.xml",
+        "X/X72/X72n1442.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi",
+        "Mazu Daoyi"
+      ],
+      "RelatedTerms": [
+        "戒臘",
+        "法臘"
+      ],
+      "Explanation": "Years of monastic seniority count an ordained person's monastic years separately from biological age. The notices place lifespan and monastic seniority side by side: fifty and forty years, seventy-three and fifty-three, sixty-eight and fifty-five, eighty-one and sixty, seventy-five and sixty-three, and—in the retained Mazu Daoyi lamp notice—eighty and sixty. The separate numbers establish an institutional reckoning rather than a measure of attainment."
+    }
+  ]
+}

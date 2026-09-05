@@ -1,0 +1,203 @@
+{
+  "Id": "t_972b8e6cebdd",
+  "SourceTerm": "阿難",
+  "CreatedBy": "Fabulu / Codex remediation",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Ananda",
+      "AlternateTargets": [
+        "Venerable Ananda"
+      ],
+      "SearchAliases": [
+        "the Buddha's attendant Ananda",
+        "Ananda flagpole case",
+        "Ananda bowl case",
+        "Kashyapa calls Ananda",
+        "Ananda compiles the teachings"
+      ],
+      "Status": "preferred",
+      "Explanation": "Ananda is deployed in the Chan record as a named participant in public questions, teaching-seat actions, compilation, and lineage succession. He asks Kashyapa what was transmitted besides the gold-thread robe; Kashyapa calls ‘Ananda,’ Ananda answers, and Kashyapa tells him to knock down the flagpole before the gate. Later masters raise that exchange and question the assembly about it. In a bowl case, Ananda asks the procedure of the seven buddhas, answers the Buddha's name-call, and is told to carry the bowl and go. Elsewhere he strikes the sounding block and asks the World-Honored One to speak, questions the Buddha about an outsider's realization after a silent exchange, is said to compile the sacred words with the opening ‘Thus have I heard,’ and entrusts the eye-treasury of the teaching. These are the Zen record's deployments of Ananda, not a general hagiography.",
+      "Validation": "multi-source",
+      "Note": "The headword has 1,896 hits in 271 allowlisted texts. The curated evidence defines the Zen Ananda through public questioning, direct name-call, the teaching seat, lamp compilation, and succession. The later flagpole comment without his name is retained only as family evidence and does not count toward the seven exact-headword witnesses. No distinct titled person or non-person referent appears in this evidence.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0031c17",
+          "ToLb": "0031c17",
+          "Kwic": "阿難應諾。迦葉曰。倒却門前剎竿著。",
+          "MasterName": "Ananda",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda asks Kashyapa the succession question, answers Kashyapa's name-call, and is told to knock down the gate-front flagpole.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X79/X79n1559.xml",
+          "FromLb": "0326a16",
+          "ToLb": "0326a17",
+          "Kwic": "舉阿難問迦葉：世尊傳金襴外，別傳何法？",
+          "MasterName": "Caotang Shanqing",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1559.xml). Jiatai Universal Lamp Record (嘉泰普燈錄). Caotang Shanqing publicly raises Ananda's robe-and-flagpole exchange as a case.",
+          "ContextMasters": [
+            {
+              "MasterName": "Caotang Shanqing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0030c16",
+          "ToLb": "0030c18",
+          "Kwic": "阿難曰。佛是三界大師。豈有入地獄分。曰。佛既無入地獄分。我豈有出地獄分。",
+          "MasterName": null,
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Because Devadatta slandered the Buddha and entered hell alive, the Buddha sends Ananda to ask whether he is at ease; told that he will come out when the World-Honored One comes, Ananda objects that the Buddha, the great teacher of the three realms, can have no portion in hell.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "case objection",
+            "ActorLabel": "Ananda",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X80n1565 0030c16-18: the exchange runs 阿難曰。佛是三界大師。豈有入地獄分。曰。佛既無入地獄分。我豈有出地獄分。 the single headword opens Ananda's own objection (阿難曰), a compact named speech cue; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify the speaker as Ananda, the Buddha's attendant, source-attested but not a roster-linked master.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0534b05",
+          "ToLb": "0534b05",
+          "Kwic": "舉世尊一日勅阿難食時將至汝當入城持鉢",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu raises the bowl case in which Ananda asks, answers a name-call, and is told to carry the bowl and go.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0029a13",
+          "ToLb": "0029a14",
+          "Kwic": "世尊一日陞座。默然而坐。阿難白椎曰。請世尊說法。",
+          "MasterName": "Ananda",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Ananda strikes the sounding block at the mounted teaching seat and asks the World-Honored One to speak the teaching.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0206c18",
+          "ToLb": "0206c20",
+          "Kwic": "本來付有法付了言無法各各須自悟悟了無無法阿難付法眼藏竟。",
+          "MasterName": "Ananda",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Closes Ananda's transmission verse by saying that Ananda finished entrusting the eye-treasury of the teaching.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0158b05",
+          "ToLb": "0158b06",
+          "Kwic": "及外道去後。阿難問佛。外道有何所證。而言得入。世尊云。如世良馬。見鞭影而行。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Yuanwu Keqin raises Ananda's question to the Buddha after an outsider's silent exchange and the Buddha's answer about a fine horse seeing the whip's shadow.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0641b21",
+          "ToLb": "0641b22",
+          "Kwic": "阿難尊者坐石悟道，結集聖言，一唱我聞，三疑頓息。大事既辦，將求宗嗣",
+          "MasterName": "Foguo Weibai",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Compiled by Foguo Weibai (佛國禪師惟白), defines Ananda's lineage position through awakening on the stone, compiling the sacred words with ‘Thus have I heard,’ and seeking a successor. Foguo Weibai is source-attested and awaits the deferred roster review.",
+          "ContextMasters": [
+            {
+              "MasterName": "Foguo Weibai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0360b02",
+          "ToLb": "0360b02",
+          "Kwic": "師示眾云：「迦葉傳與阿難，且道達磨傳與什麼人？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou (趙州和尚語錄). Zhaozhou Congshen (趙州) addresses the assembly: if Kasyapa transmitted the teaching to Ananda (阿難), then to whom did Bodhidharma (達磨) transmit it?",
+          "MasterName": "Zhaozhou Congshen",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "X/X79/X79n1559.xml",
+        "B/B27/B27n0152.xml",
+        "T/T51/T51n2076.xml",
+        "T/T48/T48n2003.xml",
+        "X/X78/X78n1556.xml",
+        "J/J24/J24nB137.xml"
+      ],
+      "RelatedMasters": [
+        "Mahakasyapa",
+        "Shakyamuni Buddha",
+        "Caotang Shanqing",
+        "Yuanwu Keqin",
+        "Yulin Tongxiu",
+        "Foguo Weibai"
+      ],
+      "RelatedTerms": [
+        "剎竿",
+        "金襴袈裟",
+        "持鉢",
+        "白椎",
+        "法眼藏",
+        "我聞"
+      ]
+    }
+  ]
+}

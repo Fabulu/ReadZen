@@ -1,0 +1,177 @@
+{
+  "Id": "t_499e85249dfe",
+  "SourceTerm": "親見",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to see firsthand or meet in person",
+      "AlternateTargets": [
+        "to encounter personally",
+        "to witness with one’s own eyes"
+      ],
+      "SearchAliases": [
+        "see firsthand",
+        "meet in person",
+        "personally encounter a named teacher",
+        "personally witness"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained cases use 親見 for direct personal encounter or witnessing; they do not establish a separate technical sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0003c05",
+          "ToLb": "0003c05",
+          "Kwic": "曰：今日親見和尚",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete 5 Lamps 34–120 (五燈全書(第34卷-第120卷)). Speaker: the unnamed questioning monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marker 曰 opens the unnamed questioning monk’s claim that today he has personally seen the abbot; the following 師曰 begins Yanxiang Faning’s reply.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0589b16",
+          "ToLb": "0589b17",
+          "Kwic": "公嘗親見先壽昌默受心印",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "person-described"
+              ]
+            },
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Juelangsheng (Tianjie) Complete Record (天界覺浪盛禪師全錄). Speaker: Li Changeng.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Li Changeng",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The signed preface uses 公嘗 to introduce Li Changeng’s statement that Juelang Daosheng personally met the former Shouchang master and silently received the mind seal.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0023a22",
+          "ToLb": "0023a22",
+          "Kwic": "王修敬已，便問：承聞尊者親見佛來，是否",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Raising Old Cases (宗門拈古彙集). Speaker: King Ashoka.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "King Ashoka",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The boundary 便問 opens King Ashoka’s question whether Pindola had personally seen the Buddha.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0311c22",
+          "ToLb": "0311c23",
+          "Kwic": "善拈一片瓦礫置磐石上，曰：『若向者裏下得一轉語，許你親見慈明。』",
+          "MasterName": "Jinluan Shan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinluan Shan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Cuiyan Kezhen",
+              "Roles": [
+                "addressee"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Guxue Zhe Sayings (古雪哲禪師語錄). Speaker: Jinluan Shan."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "J/J34/J34nB311.xml",
+        "X/X66/X66n1296.xml",
+        "J/J28/J28nB208.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Wuming Huijing",
+        "Jinluan Shan",
+        "Cuiyan Kezhen",
+        "Shishuang Chuyuan",
+        "Guxue Zhenzhe"
+      ],
+      "RelatedTerms": [
+        "相見",
+        "覿面"
+      ],
+      "Explanation": "To see firsthand is to witness something directly or meet someone in person. An unnamed questioning monk says he has personally seen the abbot; other retained passages use the phrase for meeting a predecessor, asking whether Pindola himself saw the Buddha, and being permitted to meet Ciming. The term marks direct personal access rather than information received only by report."
+    }
+  ]
+}

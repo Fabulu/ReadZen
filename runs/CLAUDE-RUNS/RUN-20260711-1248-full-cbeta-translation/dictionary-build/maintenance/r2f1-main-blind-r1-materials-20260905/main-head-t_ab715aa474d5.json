@@ -1,0 +1,112 @@
+{
+  "Id": "t_ab715aa474d5",
+  "SourceTerm": "一日不作一日不食",
+  "CreatedBy": "Codex fresh f002 Lane A evidence-first",
+  "WrittenUtc": "2026-07-15T14:00:00Z",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a day without work is a day without food",
+      "AlternateTargets": [
+        "if I do not work for a day, I do not eat for a day"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The exact saying occurs 8 times in 6 allowlisted texts. Independent witnesses preserve attribution to Baizhang, its later status as an injunction for communal labor, and Hongzhi's house-style quotation. No competing wording establishes a separate sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1119b01",
+          "ToLb": "1119b02",
+          "Kwic": "至於作務。猶與眾均其勞。常曰。一日不作一日不食。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Baizhang Huaihai. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects. Source actor: the regulation narrator.",
+          "MasterName": null,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the regulation narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The impersonal biographical frame reports Baizhang’s customary maxim; it is not a direct preserved speech turn.",
+            "ReviewedBy": "Codex cohort018 lane B owner",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1144b03",
+          "ToLb": "1144b04",
+          "Kwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects. Exact speaker: Dehui.",
+          "MasterName": "Dehui",
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0049c05",
+          "ToLb": "0049c06",
+          "Kwic": "一日不作一日不食。歇者無心穫者力。分明只箇是家風。會得種田博飯喫。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi (宏智禪師廣錄): file T/T48/T48n2001.xml; exact actor: Hongzhi Zhengjue. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects. Exact speaker: Hongzhi Zhengjue.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "T/T48/T48n2001.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Dehui",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [
+        "作務",
+        "普請",
+        "家風"
+      ],
+      "SearchAliases": [
+        "a day without work is a day without food"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "“A day without work is a day without food” binds participation in communal labor to eating. A narrator attributes the customary maxim to Baizhang; Dehui invokes it as an ancient admonition, and Hongzhi turns it into verse."
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "generic-dictionary-publication-manifest.v1",
+  "cohort": "r1b-20260903",
+  "buildRoot": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build",
+  "termsRoot": "terms",
+  "publicRoot": "/mnt/c/temp/NewTranslationrepos/CbetaZenTranslations",
+  "stageRoot": "fresh-build/r1b-20260903/publication-stage",
+  "installReceipt": "maintenance/r1b-20260903-generic-install-receipt.json",
+  "authority": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-20260903-final-release-authority.json",
+    "sha256": "8ecdf8d7759fd658c92e886ba5c2a138e07a7c9c07aa56078227336fd36efa34"
+  },
+  "reviews": [
+    {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/fresh-build/r1b-20260903/cohort-bound-review.json",
+      "sha256": "0451e7c54592e148714ba7581d4ae48fe8172ea47f348dee4e7649754c01c191"
+    }
+  ],
+  "reviewArtifacts": [
+    {
+      "round": "r1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-blind-r1-rows-20260903.json",
+      "sha256": "d55faadbef62386b3b89c047673dccc3ae034317bf55c3e02509d422261c8f4b",
+      "canaryKeySha256": "255dd6207ceaa84d04ef6a7ea511a1f827e0a5672c081f35c82b358a794f5f6e"
+    },
+    {
+      "round": "r1-reviewer1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/subagents/20260903-r1b-blind-r1-reviewer-1/verdicts.json",
+      "sha256": "db2dc8b0d59a0ed29e0e58e6a7c6ce29c4cd8eb2c46dcd8d2371e899d23d0f1f"
+    },
+    {
+      "round": "r1-reviewer2",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/subagents/20260903-r1b-blind-r1-reviewer-2/verdicts.json",
+      "sha256": "6e225fe3b56d98099e71ea7bf3402fe65de877bbfbaa834048435336d980dd46"
+    }
+  ],
+  "receipts": {
+    "r1b-edit-receipt-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-edit-receipt-20260903.json",
+      "sha256": "35e45730a64143f14b3a7930fd83a887ef5a5ef8cf4c957f0eea784e2c2f7a2c",
+      "note": "engine receipt: 43 products, 47 edit records (frozen class counts), determinism + path-scope asserts, applied"
+    },
+    "r1b-gates-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-gates-20260903.json",
+      "sha256": "ca6d84bb41fc14160424f2d28cbccf4133bd6812bda081a2a7cccc6ec880241b",
+      "note": "gates CLEAN: attribution zero rows on 42 + exactly the 2 documented 坐堂 residuals; depth movement == frozen 3-kind set (46+44 clears, 20 below-floor, 0 regressions, 23 improved); removal coverage; determinism + confinement; path-scope byte-diff; exactly-43 terms-tree change; fleet 2993->2993 with zero newly-failing"
+    },
+    "r1b_transform_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b_transform_20260903.py",
+      "sha256": "127711493a9a9759729dada6cf797a51da73478d2ae8eff3207434d2f569576e",
+      "note": "the removal engine: clone-pre-state confinement, mechanical re-derivation asserted against the frozen census (cohort + counts), prose-anchoring gate, identity-bytes asserts at apply time, path-scope escape assert"
+    },
+    "r1b-census-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-census-20260903.json",
+      "sha256": "052104abc8dca7e2109ced6e608c67eb9243d8a8bc538cf605a8a1240da55fc9",
+      "note": "frozen census worksheet (re-derived at 87a6975): 45 entries / 49 occurrences all-affected; prose gate blocks 2; cohort 43 / 46 removals; floor + residual-row + overlap facts"
+    },
+    "probe_r1b_census_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/probe_r1b_census_20260903.py",
+      "sha256": "12b6c5689d86722246dc1ea830e4be246c8f493066b17eae96f965a8be493d2b",
+      "note": "census probe: retired-rel occurrence census, prose-dangle gate, floor consequences, shift hazards, SourceTexts, attribution rows"
+    },
+    "probe_r1b_pre_apply_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/probe_r1b_pre_apply_20260903.py",
+      "sha256": "7456601d8317873368b84e0a227b342f57ddfedf18f8e551c0d015aef9b330c4",
+      "note": "pre-apply snapshot probe: clone pin + clean, full terms-tree sha snapshot, materialized POST state under the REAL audits (attribution + depth) before any write"
+    },
+    "r1b-pre-terms-shas-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-pre-terms-shas-20260903.json",
+      "sha256": "e4228f5f4c28834305365fb496244ffc9f74bcb8f6aeb26ce959750f58aaa0a8",
+      "note": "full terms-tree sha snapshot (4,504 entries) the off-worklist protection gate re-hashes against"
+    },
+    "build_r1b_blind_r1_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/build_r1b_blind_r1_20260903.py",
+      "sha256": "ed9f32476b731475b1577b7f0996aa14812a90841bc6382b1f6f4378ae6aa7d5",
+      "note": "blind rows builder: 47 honest rows re-derived from clone via the engine + frozen pre/post materials; 7 payload-bound canaries at fixed-stride slots"
+    },
+    "r1b_adjudicate_blind_r1_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b_adjudicate_blind_r1_20260903.py",
+      "sha256": "d62497fb5c9088849b694064e2b7201c8460a2d7ae332240ff821ba69f707a08",
+      "note": "binding machine adjudicator (r1): oracle rebuild, canary coverage law, honest-flag byte-adjudication (flags-based reviewer schema, disclosed)"
+    },
+    "r1b-blind-r1-adjudication-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-blind-r1-adjudication-20260903.json",
+      "sha256": "966c866e72ce8790a2e2dc2aa4204dda78342a326bb2deea6f85003562173d1c",
+      "note": "binding machine adjudication (r1): canaries 7/7 with zero coverage misses across every reviewer, zero confirmed findings — PASS"
+    },
+    "r1b-blind-r1-plants-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r1b-blind-r1-plants-20260903.json",
+      "sha256": "255dd6207ceaa84d04ef6a7ea511a1f827e0a5672c081f35c82b358a794f5f6e",
+      "note": "canary key (adjudicator-only): 7 planted defects payload-bound (rowSha)"
+    },
+    "SPEC_R1b_20260903.md": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/SPEC_R1b_20260903.md",
+      "sha256": "9a4872e690b2f9530b409901f6ac6049f900b222c5c6f4605b07d72869a82c1a",
+      "note": "lane SPEC + AMENDMENTS 1-2 (user decision authority; prose-gate blocked pair disclosed; depth law corrected to the real audit)"
+    }
+  },
+  "products": [
+    {
+      "id": "t_022d58242948",
+      "sourceDir": "fresh-build/entries/t_022d58242948/r1b-20260903",
+      "entrySha256": "4369017273e9b8104496626d94698b4739f9143d164c3c1c8d883474b43942f4",
+      "worksheetSha256": "423327e8eab1c21e4ea973355a2b1ff59de98b498e7e4c6185f70ec755c69219",
+      "workSha256": "8bd581f3b4ec26663485f82bc71769e7788b9f032032943e94c539734b534494",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4369017273e9b8104496626d94698b4739f9143d164c3c1c8d883474b43942f4",
+      "beforeSha256": "bd2639c0d98b48fe027c6563c0681dc30c3d0ae17efd29a01538ba1a21431d3b"
+    },
+    {
+      "id": "t_044652c7b411",
+      "sourceDir": "fresh-build/entries/t_044652c7b411/r1b-20260903",
+      "entrySha256": "ea715dab4ba7889a8208ab5612c18fc401f27b07de97ef5d54d462aa59331134",
+      "worksheetSha256": "5458b26fbad3501f325eb528f85ba59d5cf146485cbc3084e2a4459727f96146",
+      "workSha256": "27ab80faf9b234b7046880f75b6406cf64bacfb56e396f7b8ea2633b1d8d0fb5",
+      "termsMode": "replace",
+      "termsBaselineSha256": "ea715dab4ba7889a8208ab5612c18fc401f27b07de97ef5d54d462aa59331134",
+      "beforeSha256": "62690629de9d58384fa1630cd1bbce27851805a48997c83e4bee854edc142aad"
+    },
+    {
+      "id": "t_05659eb4122a",
+      "sourceDir": "fresh-build/entries/t_05659eb4122a/r1b-20260903",
+      "entrySha256": "e55e1a326f7a7ff9bf408d75b511abc11f475288b8ae92454d1bada9a5c0965f",
+      "worksheetSha256": "26e312b555e0b3f1135d8ac3bd1507888f12e156cbd031edf4221d7370fb9e0a",
+      "workSha256": "d58836556e1c1be8b11ad5315f538e9d94db6d9337718752b38e2ac590b6cd16",
+      "termsMode": "replace",
+      "termsBaselineSha256": "e55e1a326f7a7ff9bf408d75b511abc11f475288b8ae92454d1bada9a5c0965f",
+      "beforeSha256": "b740654439ec4befdd0aad92d07857200bc6573c00f44f43d6159cf808296d46"
+    },
+    {
+      "id": "t_0c53a5a2243b",
+      "sourceDir": "fresh-build/entries/t_0c53a5a2243b/r1b-20260903",
+      "entrySha256": "4392c622d2dfd64f20495b4e045174c14e32013b44a7b8825c72718f73867fb5",
+      "worksheetSha256": "f741f56ec0a847c217c837cbfeef55890f3911bbe32682827337b07583cff3a1",
+      "workSha256": "ee790fd16686517c480801aa39fdb772b530f0e292b355f585a1b8254c75b4c5",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4392c622d2dfd64f20495b4e045174c14e32013b44a7b8825c72718f73867fb5",
+      "beforeSha256": "b07bbf56f93c4b4230116c3cf6888b24e2189f24b80c9a310083bada647dc49e"
+    },
+    {
+      "id": "t_1383f942789d",
+      "sourceDir": "fresh-build/entries/t_1383f942789d/r1b-20260903",
+      "entrySha256": "226e08fc01f81656d4423450e753c363831953598b514f56bb03f2aa3f373f6c",
+      "worksheetSha256": "60aa45de6dfb534aec3d882d92897a6ff4a261dc3481ef6b5a257b782ad27798",
+      "workSha256": "935733c9d01f73c2387a4a649dcf9640132c35cf2809d43941ebb0c064a51ff0",
+      "termsMode": "replace",
+      "termsBaselineSha256": "226e08fc01f81656d4423450e753c363831953598b514f56bb03f2aa3f373f6c",
+      "beforeSha256": "d3cee14d608ff0a5aff2e9ffb9cf62c51052fcfe057ec2a8bafc4653dce9abc8"
+    },
+    {
+      "id": "t_13951a5b5260",
+      "sourceDir": "fresh-build/entries/t_13951a5b5260/r1b-20260903",
+      "entrySha256": "e7b2ccfde6e00427fd385021ddfc79c968c51c38f4cb244f85287361157e61ce",
+      "worksheetSha256": "388e85c0dfb60c74ca5569b0de2289332bbcfe7629b7e33cc0ef24b37faf122b",
+      "workSha256": "814219c6cbc5073a656be097e84dcd88e825a211a66a6d7cc4b96fc2394ce92d",
+      "termsMode": "replace",
+      "termsBaselineSha256": "e7b2ccfde6e00427fd385021ddfc79c968c51c38f4cb244f85287361157e61ce",
+      "beforeSha256": "00a850a8a2ae7d72cdaebd311a39dc7b3b36fc6b6f40b300a21f1dd6e39de7eb"
+    },
+    {
+      "id": "t_1b94d664ca7a",
+      "sourceDir": "fresh-build/entries/t_1b94d664ca7a/r1b-20260903",
+      "entrySha256": "3992b2a2c041b1742968bd17ebd87973234a8cceb1e0f84499f48baa000e3bb8",
+      "worksheetSha256": "4d8763fc4b90eef00653556e68a7c8b4e9ba6ffd3603a8ec272137962e6c0d4b",
+      "workSha256": "72f4d15096a62b164477b7ce8e7e3d6e99304667cddf328144634b55458f3f5a",
+      "termsMode": "replace",
+      "termsBaselineSha256": "3992b2a2c041b1742968bd17ebd87973234a8cceb1e0f84499f48baa000e3bb8",
+      "beforeSha256": "0e2cfbbac3a28620884996de430abf6a7c74fc410815bcf4478006a5e6d8fc8a"
+    },
+    {
+      "id": "t_32289452a85b",
+      "sourceDir": "fresh-build/entries/t_32289452a85b/r1b-20260903",
+      "entrySha256": "2780bf6108d126619d3c4bf3fb1240708ae9479dedf8aaf4b305433ca56d88af",
+      "worksheetSha256": "2f82a8ac842bc16b400cc74bfbbbf006aba363479b2bd0d4baaa216bdb0fd3aa",
+      "workSha256": "d2505dc825d1c7525d027e0022942e570520ff3963ffcc208976f274d088451e",
+      "termsMode": "replace",
+      "termsBaselineSha256": "2780bf6108d126619d3c4bf3fb1240708ae9479dedf8aaf4b305433ca56d88af",
+      "beforeSha256": "227ddc56e3cb901f17ba464c253754a6340576cab5a868fa9b7f38e67afb94dd"
+    },
+    {
+      "id": "t_36b1824beee5",
+      "sourceDir": "fresh-build/entries/t_36b1824beee5/r1b-20260903",
+      "entrySha256": "4f61ae27b0814217816bd7f1c4b5d429ab60f273abdac7d01826d01772f500fe",
+      "worksheetSha256": "3971ab994cabbe23d7a465a19f1f0cc2bd861e710d8aed4cd9d2eb3ff17f26db",
+      "workSha256": "9a438f0da7cd2825791d5c3351236337aa27b67e83f59b3bf849e96967cdc367",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4f61ae27b0814217816bd7f1c4b5d429ab60f273abdac7d01826d01772f500fe",
+      "beforeSha256": "23a0553baf72087bc28a519887d984641693b1aa25af32cea18a2daabddb2c61"
+    },
+    {
+      "id": "t_3b9857d1cc19",
+      "sourceDir": "fresh-build/entries/t_3b9857d1cc19/r1b-20260903",
+      "entrySha256": "9d0d514140ab7dcbaa3fd54f2c6d80ce2e9eaaf4f87fa0543efdb70cfc5a4b5a",
+      "worksheetSha256": "74173f99a590908ac271d555033111a936bf441275874c452c95d3513b6d2c1d",
+      "workSha256": "53ede21647309ef016b416fe5a6257798fea1270aa69f0c4c11534a4469df85d",
+      "termsMode": "replace",
+      "termsBaselineSha256": "9d0d514140ab7dcbaa3fd54f2c6d80ce2e9eaaf4f87fa0543efdb70cfc5a4b5a",
+      "beforeSha256": "621784e7bc6049a06f593885de8b2d0335c14979617c74bc1ebbe83ce1a62ca4"
+    },
+    {
+      "id": "t_41476f956295",
+      "sourceDir": "fresh-build/entries/t_41476f956295/r1b-20260903",
+      "entrySha256": "4aba54bf6b1a13f394aa7de805ad679e17d8d10827bf72842c95f25a22867698",
+      "worksheetSha256": "f92985f770ad63028a86a15f6325afaf51be8361b4ddf3eb945034f4e7478d02",
+      "workSha256": "8f6276420a0523b40ca5ccdb99697f60e51be1f44dbdf9a6f7fb963ea4c88054",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4aba54bf6b1a13f394aa7de805ad679e17d8d10827bf72842c95f25a22867698",
+      "beforeSha256": "60b5594d2db2b1f2936334d08237a40fe9ea3b747de14a8e28d5642e107a91b2"
+    },
+    {
+      "id": "t_428c42ea1c8f",
+      "sourceDir": "fresh-build/entries/t_428c42ea1c8f/r1b-20260903",
+      "entrySha256": "b5127a4231b207d564b1fa5865431bdcb9979ad96d6f8df7f5f8638ef0a4b7ad",
+      "worksheetSha256": "a6f3938fc5f25f7cecabd4d6799441bdc8cb8eea75d22f7d91d91ac0bbaa737c",
+      "workSha256": "89762d5364bbc58d42782718f1ee8f9089ca9c275327d8d342336dda4d5d5a9c",
+      "termsMode": "replace",
+      "termsBaselineSha256": "b5127a4231b207d564b1fa5865431bdcb9979ad96d6f8df7f5f8638ef0a4b7ad",
+      "beforeSha256": "8339b796230760102be30bbaa7a9dbdf67da15fceee6dc6b831dbf0e75f522b1"
+    },
+    {
+      "id": "t_4b1aa91dd297",
+      "sourceDir": "fresh-build/entries/t_4b1aa91dd297/r1b-20260903",
+      "entrySha256": "d7b97207627f768f1c08738a2a9e167fd04821dc14cc9daa6b37edf60f129a53",
+      "worksheetSha256": "65570fa7dcf271e5288cf9a26e1e3964ca7820fac9b924684e1f860d4db25241",
+      "workSha256": "35320a8629b2c8064ba01de90b40d5c05976f1e4e63428cfeaacf66d211f81fc",
+      "termsMode": "replace",
+      "termsBaselineSha256": "d7b97207627f768f1c08738a2a9e167fd04821dc14cc9daa6b37edf60f129a53",
+      "beforeSha256": "dee58b356e767c3faa2cd47b332fccef4ec45b528e15a4e9aa7ae3034f6e039a"
+    },
+    {
+      "id": "t_4e0636f53520",
+      "sourceDir": "fresh-build/entries/t_4e0636f53520/r1b-20260903",
+      "entrySha256": "804e5eb3133c2503e7ace7de4b74dc3d88192ef462f6463d97517c155603d671",
+      "worksheetSha256": "07cc1a56597bb6f92b8cc02fb63ac8af8785af9060571d96f7d950c6d6ff812e",
+      "workSha256": "35b0d118de018a334c3d92b82145f89c875cc88bc3695757f0baebd11da2e3e5",
+      "termsMode": "replace",
+      "termsBaselineSha256": "804e5eb3133c2503e7ace7de4b74dc3d88192ef462f6463d97517c155603d671",
+      "beforeSha256": "bf381655b18f51a5a6352bcbacebd1008086e352d3f3d5ed70993fffcb06c54d"
+    },
+    {
+      "id": "t_50d75aeeeef1",
+      "sourceDir": "fresh-build/entries/t_50d75aeeeef1/r1b-20260903",
+      "entrySha256": "d795655f752542b4b1443a25d09ff1cef5e9e16fc7a5a8dac57475f5eb492f3c",
+      "worksheetSha256": "ab8bbfe52bd8629e91cbf94fd7540ab3a5f1f4970afd0987d34c2821b8fc3f06",
+      "workSha256": "c0fcefeb0f918c118fae7ffa17b2d26eb5a0ce0b265e89500ec2803037f67451",
+      "termsMode": "replace",
+      "termsBaselineSha256": "d795655f752542b4b1443a25d09ff1cef5e9e16fc7a5a8dac57475f5eb492f3c",
+      "beforeSha256": "1483fc061e0f12884d0e98e07b1cf2fc27a9894a85fdfdfe9674ad66a9d73c39"
+    },
+    {
+      "id": "t_5306489d35c6",
+      "sourceDir": "fresh-build/entries/t_5306489d35c6/r1b-20260903",
+      "entrySha256": "98dae286a6cdc0c996ae814e9f417519aec8d99cedb024b4d40ca622a653bd10",
+      "worksheetSha256": "eb26de6cbc7845024b978e840847bd2535776e6fd4423d68760d833519e25b88",
+      "workSha256": "fb7016ca18748f06005fb377f84002c697a3a42d97b5a1baa1455e2e64ae9c4f",
+      "termsMode": "replace",
+      "termsBaselineSha256": "98dae286a6cdc0c996ae814e9f417519aec8d99cedb024b4d40ca622a653bd10",
+      "beforeSha256": "2066e0e75bff9867fafd5b9c15d424f43c45037408596222acd1f20404b45426"
+    },
+    {
+      "id": "t_5ab995298e4e",
+      "sourceDir": "fresh-build/entries/t_5ab995298e4e/r1b-20260903",
+      "entrySha256": "ad3eab345be44fc1feb6327fd1a18c732f18ef6c6fa3f0b6cb0cadda776c42ef",
+      "worksheetSha256": "8e34997b4b07096f11f5469187648422dd30ed952625bf9e7ae3dde96f76eec9",
+      "workSha256": "5235b4224b2e9253783a8ac58da331e86c331ec297ee3887249e48e6ed5f7717",
+      "termsMode": "replace",
+      "termsBaselineSha256": "ad3eab345be44fc1feb6327fd1a18c732f18ef6c6fa3f0b6cb0cadda776c42ef",
+      "beforeSha256": "e282436fc50357712838a4c7853bf34d38933b5679554b123e2c4ef95a48eb70"
+    },
+    {
+      "id": "t_5b93919eced9",
+      "sourceDir": "fresh-build/entries/t_5b93919eced9/r1b-20260903",
+      "entrySha256": "814ea19203ca2f3914406b008255849f42abb78969bac0d9eb8f6bc1fab43d60",
+      "worksheetSha256": "1ddf4ddf0170a1c21f3d3580a4aaffd26d3b06389fdd005c5217f573e8ddc264",
+      "workSha256": "59c9430e52b74488f263511e44bdf7f846c436ef9830596a74cf7d5cfd6e2192",
+      "termsMode": "replace",
+      "termsBaselineSha256": "814ea19203ca2f3914406b008255849f42abb78969bac0d9eb8f6bc1fab43d60",
+      "beforeSha256": "0fe3eee34468a90b0d7f522cf6569402e8973648d79fff4c43cf08381277b945"
+    },
+    {
+      "id": "t_76ee526a2b16",
+      "sourceDir": "fresh-build/entries/t_76ee526a2b16/r1b-20260903",
+      "entrySha256": "a48875db10cb1940df48d6c400db44489c11a831d6961cf3a9efcf570bf74522",
+      "worksheetSha256": "701302377b9ab9e91282b9bb34b36935e2461f9d378a5ed457a7305a23f84554",
+      "workSha256": "958ee1ef75a550d5d34ee1fefc783d45c470a43aa3332cd972b9b67dbc00f5ea",
+      "termsMode": "replace",
+      "termsBaselineSha256": "a48875db10cb1940df48d6c400db44489c11a831d6961cf3a9efcf570bf74522",
+      "beforeSha256": "0efe948180156f1a8ba836872ab0be0af90f24127342f2f803484adf781a5d74"
+    },
+    {
+      "id": "t_88dac6848042",
+      "sourceDir": "fresh-build/entries/t_88dac6848042/r1b-20260903",
+      "entrySha256": "363282bb7d6b7b936065d1a77087cebbd5cbdca523332f1ce3c41aa8ccb2731f",
+      "worksheetSha256": "f75b12f20dd9b73080438436ea26325546a955dff728610828d7634057b973e2",
+      "workSha256": "4e80002c901fa7db052466d45fa74506fa012dd35b3859733feeb0f0f2c5aa67",
+      "termsMode": "replace",
+      "termsBaselineSha256": "363282bb7d6b7b936065d1a77087cebbd5cbdca523332f1ce3c41aa8ccb2731f",
+      "beforeSha256": "1ce49151eade75c79b90601d9403ad259a3c883b40f28ba38f948ff25c8da5c8"
+    },
+    {
+      "id": "t_9ba11d160033",
+      "sourceDir": "fresh-build/entries/t_9ba11d160033/r1b-20260903",
+      "entrySha256": "08a0f40278edb63824def736c3d9324892d599a905a7d54bc3e7765ee2495391",
+      "worksheetSha256": "1c49603ed0231ae7116120370bb1607daa0f634bc761e8a9ab47e7774eb67db5",
+      "workSha256": "902fc89fdde1453843f7ead3beb07e10181f066ec54e045cad0b5f39c5c68bb9",
+      "termsMode": "replace",
+      "termsBaselineSha256": "08a0f40278edb63824def736c3d9324892d599a905a7d54bc3e7765ee2495391",
+      "beforeSha256": "e1adafeb861b57cf44f76d97d8552be1f50c70fcf6b222bd60f4f1df74aac63f"
+    },
+    {
+      "id": "t_a5ffef8b3f2d",
+      "sourceDir": "fresh-build/entries/t_a5ffef8b3f2d/r1b-20260903",
+      "entrySha256": "2c4b51eb791a9b276a9a8e773833d14e47e6add8118079e27e0ec6eff5ba52e2",
+      "worksheetSha256": "defe7c4ddc25464b02ca4f6b1a4927787ccc31b4fd4be68d84befe59346cb36a",
+      "workSha256": "a2a65f11d10e30f104dbe3ed4cf7833850104f97daab22673ebc1c66517db3b8",
+      "termsMode": "replace",
+      "termsBaselineSha256": "2c4b51eb791a9b276a9a8e773833d14e47e6add8118079e27e0ec6eff5ba52e2",
+      "beforeSha256": "50a6e70f44faa3da7792d14fcba51ce96d540520b23ee96698ebe2c8bdcaa66f"
+    },
+    {
+      "id": "t_aa45c307e9f1",
+      "sourceDir": "fresh-build/entries/t_aa45c307e9f1/r1b-20260903",
+      "entrySha256": "8e77c30677085e68f8753ad5cf4cb8c84cc9dd066cc105243402f55501eff112",
+      "worksheetSha256": "f35ed6396903f5b5b0c8b6fa94a5829da424a1109d95ab4d5e508d0c7c8681c1",
+      "workSha256": "83b3753fe2c5508166df2124126d46c4b7212b8eb31e5056db87e643c7cf360f",
+      "termsMode": "replace",
+      "termsBaselineSha256": "8e77c30677085e68f8753ad5cf4cb8c84cc9dd066cc105243402f55501eff112",
+      "beforeSha256": "44e28a54bc113a710c6d91a71e87f18ea24f89d5841f166fd601b929814a70ff"
+    },
+    {
+      "id": "t_acd15cd3ba91",
+      "sourceDir": "fresh-build/entries/t_acd15cd3ba91/r1b-20260903",
+      "entrySha256": "b737214c762755b98e8ac2dcd2a230d3aed47bec1d23dec0faa9668ca497b816",
+      "worksheetSha256": "afd98c15ac0e937377432a2e9146ef94c9f1942a284068cce2660ce0efef60d0",
+      "workSha256": "21b3dce4f934796644c109f41988e1d5b5f67d15fb1f97d22b676c4ff37e07bf",
+      "termsMode": "replace",
+      "termsBaselineSha256": "b737214c762755b98e8ac2dcd2a230d3aed47bec1d23dec0faa9668ca497b816",
+      "beforeSha256": "3a747acdf0aa13bade22efb01c88582baa7f1898d11d08a5eee4e2e7d06f2899"
+    },
+    {
+      "id": "t_b4c37e2f25c3",
+      "sourceDir": "fresh-build/entries/t_b4c37e2f25c3/r1b-20260903",
+      "entrySha256": "8c690307e2db288bd042bd97bfc523fbcf23eb36d721d62b5d366063214182a3",
+      "worksheetSha256": "38c23570cbca1c355ba68660485ab1e832cd7a2dded1609ac7699d604361c03f",
+      "workSha256": "24d7c7209d0a21701802979dc29b978fd8b8dbbeaf253b3cfcff384297c525c9",
+      "termsMode": "replace",
+      "termsBaselineSha256": "8c690307e2db288bd042bd97bfc523fbcf23eb36d721d62b5d366063214182a3",
+      "beforeSha256": "c1dc8a31c586dbb788690e6da6c14cbc188f08a3b8f811fabda0d7d2d73e1677"
+    },
+    {
+      "id": "t_b97e19fa54b2",
+      "sourceDir": "fresh-build/entries/t_b97e19fa54b2/r1b-20260903",
+      "entrySha256": "4839ceda3a98737c206b5719586dd48b6a719988fed23ce4a0cdea4f3d556965",
+      "worksheetSha256": "c2c47f62b0f39fe2bdea8c38996a68ccb3101afa8f1a0f0e91163bb0ca1bb4ca",
+      "workSha256": "fa745e1a0cec20b5000eae990b4278cf5f5199eaf1d20157506b99c4a95b7e63",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4839ceda3a98737c206b5719586dd48b6a719988fed23ce4a0cdea4f3d556965",
+      "beforeSha256": "4e2319d7d05ee06097cd964eabc839e2b5abed85c7ce5eb6801d65419b9a2513"
+    },
+    {
+      "id": "t_bea7c499e294",
+      "sourceDir": "fresh-build/entries/t_bea7c499e294/r1b-20260903",
+      "entrySha256": "769d8b9eab3fee022add73d4e7f8e2c328cf5870a2864de3f956714f67db7bb0",
+      "worksheetSha256": "8a9bcff73fb4cdf9adce75bf19495ef2b7314eec4dec031a10322ec94c9f16fc",
+      "workSha256": "092338642851dbb678cd24b8019493410b6c5b9cfeca021849c6c5afc0139ae0",
+      "termsMode": "replace",
+      "termsBaselineSha256": "769d8b9eab3fee022add73d4e7f8e2c328cf5870a2864de3f956714f67db7bb0",
+      "beforeSha256": "e3a2fd369932cd86a33caf5b7c9b05216d2af58abf70937f5f16303d008f0174"
+    },
+    {
+      "id": "t_c513dc22845c",
+      "sourceDir": "fresh-build/entries/t_c513dc22845c/r1b-20260903",
+      "entrySha256": "b24cf782caae867414fe7292ba9589110e88bff0a7a1dacf78f36cfb2aca2cc0",
+      "worksheetSha256": "87dcdcc14d88e6a60c6904ea1cf83d7b31fdc51d9321437f7afdd4a420716be2",
+      "workSha256": "68c1a8b34c63404039358fa2dc5a3bb94fa8df1230954e9f355448c5305e2c58",
+      "termsMode": "replace",
+      "termsBaselineSha256": "b24cf782caae867414fe7292ba9589110e88bff0a7a1dacf78f36cfb2aca2cc0",
+      "beforeSha256": "b177e88aa4eef9fcd9cc8279ee9ce34b7d28d68ab5e4b3f5751d0e93422cd69a"
+    },
+    {
+      "id": "t_c945c2cc0e79",
+      "sourceDir": "fresh-build/entries/t_c945c2cc0e79/r1b-20260903",
+      "entrySha256": "51747aad4d5978e511d945c01edfe4723b88c5491eb5c9c17d78bce45b6409be",
+      "worksheetSha256": "f887d1652b7ceb76e8ff27ddc6794fd60a54d84f094594b0bf079e5a6745a156",
+      "workSha256": "a3a65a52383a18b4e9d3e4e59ef34c91e04b2d3c9228a3204e5740b2ed163eb7",
+      "termsMode": "replace",
+      "termsBaselineSha256": "51747aad4d5978e511d945c01edfe4723b88c5491eb5c9c17d78bce45b6409be",
+      "beforeSha256": "5c5d45d0d56ed5d7b6d10f052cca7600ea15409a810d44a37cd88c2f4b3c233a"
+    },
+    {
+      "id": "t_c968c2829eeb",
+      "sourceDir": "fresh-build/entries/t_c968c2829eeb/r1b-20260903",
+      "entrySha256": "f21b5d44e6163f6178d5895e91426b802e7386c75700e4989a50ce7fdc4c3e2b",
+      "worksheetSha256": "0e39fe048035d38fb8fa2bc54449cf3ebf6295553b20a11e46087fdae884eb33",
+      "workSha256": "599fb08bc61ba4ca243cdfe0b1617d1e1a90cef2eaf375a86458d94ee0b6de88",
+      "termsMode": "replace",
+      "termsBaselineSha256": "f21b5d44e6163f6178d5895e91426b802e7386c75700e4989a50ce7fdc4c3e2b",
+      "beforeSha256": "ececa52dfc4c1544a2df3dc266914b7f09c86bc43f9ba4167e616ed882307d51"
+    },
+    {
+      "id": "t_cf2b777134bb",
+      "sourceDir": "fresh-build/entries/t_cf2b777134bb/r1b-20260903",
+      "entrySha256": "2af409dba73d1e87de50871a19fbc08b99bd24240ffa87676a14745bc5519c9d",
+      "worksheetSha256": "e30a7302195343cf21c08fa3e35d831b814b6154d59567ddd2fb385af83239f6",
+      "workSha256": "6add72be4c2fe84ec50144a06033469f9ef1e3eb480602bc13d2a7d853ca9fd1",
+      "termsMode": "replace",
+      "termsBaselineSha256": "2af409dba73d1e87de50871a19fbc08b99bd24240ffa87676a14745bc5519c9d",
+      "beforeSha256": "1de41a4bd760bc1f70a2e697fd6c99a6754ed33420ffc33f675d713edcd7bc13"
+    },
+    {
+      "id": "t_d26799ff3ae1",
+      "sourceDir": "fresh-build/entries/t_d26799ff3ae1/r1b-20260903",
+      "entrySha256": "3ef1ca1ab30a81397223c4316b0a1b1f0910b7fa4d4bf97f1d58f7f1a0ccbf2a",
+      "worksheetSha256": "73fd4b2a48c5a429c40f2313287489fca719d7df93659542f6d2c80bb23d317b",
+      "workSha256": "a6dff82561fed164f39a4dd37bdd71079d48af72d4ba3e76ef92b96f78b77461",
+      "termsMode": "replace",
+      "termsBaselineSha256": "3ef1ca1ab30a81397223c4316b0a1b1f0910b7fa4d4bf97f1d58f7f1a0ccbf2a",
+      "beforeSha256": "5aa6ddb9a24bbf0557eb244c6032892d3713fd9f99490d8f58df4188e6f674b9"
+    },
+    {
+      "id": "t_d7725cb0c8c0",
+      "sourceDir": "fresh-build/entries/t_d7725cb0c8c0/r1b-20260903",
+      "entrySha256": "f243515d6f06ad0e28790c90224c0c95991069a6c94891abe626f039366ffbfb",
+      "worksheetSha256": "69e59212c9d70beb1a4a31384e8f0c889f84f8695275d71dc52ae6a103100139",
+      "workSha256": "289e95a6751903c4a739a19c40cdda84c8ff81a42b2bdd0f9effceff80808388",
+      "termsMode": "replace",
+      "termsBaselineSha256": "f243515d6f06ad0e28790c90224c0c95991069a6c94891abe626f039366ffbfb",
+      "beforeSha256": "f01939750b4c1622c02c19d1a6a2dc87a7fe01b5fe8e025b39ce9a4f48244cb9"
+    },
+    {
+      "id": "t_dc24f92ead78",
+      "sourceDir": "fresh-build/entries/t_dc24f92ead78/r1b-20260903",
+      "entrySha256": "995b6bb609bdb769f603f053f77468fd0cb4ceb56fac2fb601bcf054bf4dc76e",
+      "worksheetSha256": "d782711066a9a5a5cf4ae53113213cdec98b126cf84c01875c1b5bc89dbfc4ee",
+      "workSha256": "d04a5090bb5e26049ec41993029463152efb52d5446274a00dc8f10408685b6a",
+      "termsMode": "replace",
+      "termsBaselineSha256": "995b6bb609bdb769f603f053f77468fd0cb4ceb56fac2fb601bcf054bf4dc76e",
+      "beforeSha256": "b7816108dc2ecade31a90bdf48f9d8d478bf1a82802b69a79eaf684fce3cb797"
+    },
+    {
+      "id": "t_e52f4bdc4110",
+      "sourceDir": "fresh-build/entries/t_e52f4bdc4110/r1b-20260903",
+      "entrySha256": "6186c1c1629ca43fa2683f87f338abb7f2354630692dfedb8a278520d88a151c",
+      "worksheetSha256": "4df02308a1f0edfae4643bbe9fc62f1f2f379cd7a265c29001385af54c1449f1",
+      "workSha256": "415a499cbdf4946e36df615e519ba00b09440d015bbdbac503be8eb245a9266a",
+      "termsMode": "replace",
+      "termsBaselineSha256": "6186c1c1629ca43fa2683f87f338abb7f2354630692dfedb8a278520d88a151c",
+      "beforeSha256": "305e081f5c7b603edf7a2d19cf096c2945f5b131e4f2d65024a64f1e8e1771e5"
+    },
+    {
+      "id": "t_e9adcb470950",
+      "sourceDir": "fresh-build/entries/t_e9adcb470950/r1b-20260903",
+      "entrySha256": "a9fe908e491a970072f5459116e3142055e2a41dc76c68459198bc750e3da42e",
+      "worksheetSha256": "a74585861271c59dfa6f26c871ebc94e1d418f4a6f7ca55510ee93a94a53d1cc",
+      "workSha256": "cc82080950c8dc46d1d7f18726061f0f633e1ed80218784a7099cac595c5b894",
+      "termsMode": "replace",
+      "termsBaselineSha256": "a9fe908e491a970072f5459116e3142055e2a41dc76c68459198bc750e3da42e",
+      "beforeSha256": "bbe4e3d1b7beed2f7d80c7d7e3990029935075a31f19cc59a9bf3b4f0372b9eb"
+    },
+    {
+      "id": "t_ea85b794ca42",
+      "sourceDir": "fresh-build/entries/t_ea85b794ca42/r1b-20260903",
+      "entrySha256": "e150a132f74388fe5962b16311d470c434071c42f3fa49d068cb54c3878f57d4",
+      "worksheetSha256": "d3a565c5b9723248b44aa122df9ae00ffbfa405330990a3e41ad78c4a60578e3",
+      "workSha256": "bb7ff051805d7246601c1c3f67e221e3b94b466815c3022257a950062c99bdeb",
+      "termsMode": "replace",
+      "termsBaselineSha256": "e150a132f74388fe5962b16311d470c434071c42f3fa49d068cb54c3878f57d4",
+      "beforeSha256": "c34e261abe67469cae0a4b971aece4cbe16e01122ca0098baa270833277ff488"
+    },
+    {
+      "id": "t_ef5beb628603",
+      "sourceDir": "fresh-build/entries/t_ef5beb628603/r1b-20260903",
+      "entrySha256": "3513aab087c7ff5b6f5a0461810db92e5b99d99d643ea486ebf3f76aa9313d6f",
+      "worksheetSha256": "ee3b729afdf1c232f45475d708e42c3a234b3f74a39f24d4ba23592755de8884",
+      "workSha256": "a028815e434e8ea90b16da7f1607ddb183d9340d108c22275936636cdec47f0d",
+      "termsMode": "replace",
+      "termsBaselineSha256": "3513aab087c7ff5b6f5a0461810db92e5b99d99d643ea486ebf3f76aa9313d6f",
+      "beforeSha256": "873c0ad6b34b8e3eb91891f0a9d91247ff605dbcd245c2d2af8ca58fc7403861"
+    },
+    {
+      "id": "t_f0cb4dcfc70c",
+      "sourceDir": "fresh-build/entries/t_f0cb4dcfc70c/r1b-20260903",
+      "entrySha256": "bef0a2641e855c8e9fa2770586170dc049fb9a4e572ddf340c92b75696202a56",
+      "worksheetSha256": "265e7bed110271e84048727409c1c5aa59803a7dc2b215a8ff2731572e86a30c",
+      "workSha256": "6244de61cdec7bc7786e415cfa7f2335651d94c17988194b7bd4719b8b23307a",
+      "termsMode": "replace",
+      "termsBaselineSha256": "bef0a2641e855c8e9fa2770586170dc049fb9a4e572ddf340c92b75696202a56",
+      "beforeSha256": "badea0d5d6f281fa2c48115dfb4b02dacfa614a10ee7d9abf1fd40d566067d6c"
+    },
+    {
+      "id": "t_f26addce7844",
+      "sourceDir": "fresh-build/entries/t_f26addce7844/r1b-20260903",
+      "entrySha256": "f03799c7e4034513929d136754baa9b6e387193c93eae85e6478a72924b15f0b",
+      "worksheetSha256": "63530fff7cb5f728132929a6161d6b5862b0b610b3ec63c23ff442e05fa15a56",
+      "workSha256": "83b2e0e358983eea1d998dc6703e1f7b37886a9f0e54db46f74708b9b5b6abc0",
+      "termsMode": "replace",
+      "termsBaselineSha256": "f03799c7e4034513929d136754baa9b6e387193c93eae85e6478a72924b15f0b",
+      "beforeSha256": "7ebe9f4b65dae7420add5d402330af93cb1e41dae668025e75737cec9ac68ac0"
+    },
+    {
+      "id": "t_f5e1fe96407c",
+      "sourceDir": "fresh-build/entries/t_f5e1fe96407c/r1b-20260903",
+      "entrySha256": "45565a22218ff8e1cb167fe8e8baf582e34f1719c8b611e856c4a05c60b2cc8e",
+      "worksheetSha256": "2f68ff22c487ce6224a71d7bd079e8a1568f248ac92a70b4db82fc53ecbd1f72",
+      "workSha256": "d3e7f868f24cc77a44d322be63f8f2ae3f004dad711f44798d9d0ab24c7637fc",
+      "termsMode": "replace",
+      "termsBaselineSha256": "45565a22218ff8e1cb167fe8e8baf582e34f1719c8b611e856c4a05c60b2cc8e",
+      "beforeSha256": "05b18c9b404fc61dc099f62efc172c084e4fc84bfc5ce08c47259e0533a436cb"
+    },
+    {
+      "id": "t_f9bb8b44b32f",
+      "sourceDir": "fresh-build/entries/t_f9bb8b44b32f/r1b-20260903",
+      "entrySha256": "83b5bfe1f8d8500ecff3968e353e4b61f10027d2d5c8911a53319b471d2cffb2",
+      "worksheetSha256": "4b2b089bfa5d49e33779fb3a9adf8e0327df584546deaea1b6bae0226e55dfa5",
+      "workSha256": "f1fceed10e54e5a3317c6a0af214b8282de206c6bb18dd09ac8365f91eaf9460",
+      "termsMode": "replace",
+      "termsBaselineSha256": "83b5bfe1f8d8500ecff3968e353e4b61f10027d2d5c8911a53319b471d2cffb2",
+      "beforeSha256": "0e7fba32128243256a2429ffcfc330a9e8d5c8c81f6183e4916e157d09a30dd0"
+    },
+    {
+      "id": "t_fe03a2a24e00",
+      "sourceDir": "fresh-build/entries/t_fe03a2a24e00/r1b-20260903",
+      "entrySha256": "193b7d05e13275d51279c05684e391d0b0fb5e6e980416d2c842f13094dcaabc",
+      "worksheetSha256": "fc9f627f4be3de67fdae2675f52ecdc4d1e813968d5d89b2e654e505b55efefc",
+      "workSha256": "4f9c84da5a9630b429e99e2e370e430de6ea0bd6e6a6b4c150ea6671891d056d",
+      "termsMode": "replace",
+      "termsBaselineSha256": "193b7d05e13275d51279c05684e391d0b0fb5e6e980416d2c842f13094dcaabc",
+      "beforeSha256": "992faf68143d9630d7456f153345e870761ab19b654844d0713fd43f7900e666"
+    }
+  ],
+  "withdrawn": [],
+  "roster": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/Assets/Data/lineage-masters.json",
+    "sha256": "bdee500537cffced1759f28f2516d8ac613f2d10e3bbdc7b4d35da6bb9bc474a"
+  },
+  "node": {
+    "windowsNodeExe": "/mnt/c/Program Files/nodejs/node.exe",
+    "script": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/eng/tools/merge-dict-entries.js",
+      "sha256": "83e7df825338b11652786541941610a7501b4ad288524846d145ae9e7a912d35"
+    },
+    "cwd": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator",
+    "status": "r1b-20260903-ready"
+  },
+  "integrityCommand": "",
+  "extraSurfaces": {
+    "note": "replace-only lane: 43 products in replace mode, no adds, no withdrawals; termbase.v2.json keeps its entry count and the touched ids' rows regenerate; index/shard rows for the touched ids update as the publisher regenerates the surface; git footprint = termbase files + terms/ dirs only. Products are clone-backed at 87a6975. node.script.sha256 is the working-tree js (carries R1a's uncommitted byTermThenId tie-break + C1's ID_REPLACEMENTS entry, unchanged this lane)."
+  }
+}

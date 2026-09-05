@@ -1,0 +1,199 @@
+{
+  "Id": "t_d26799ff3ae1",
+  "SourceTerm": "參頭",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane C early-sample author",
+  "WrittenUtc": "2026-07-15T11:30:22.365371+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the group leader",
+      "AlternateTargets": [
+        "delegation leader"
+      ],
+      "SearchAliases": [
+        "head of the newcomers",
+        "delegation leader"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "All retained witnesses were read as complete units; storage files were collapsed to distinct work identities.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0622b21",
+          "ToLb": "0622c05",
+          "Kwic": "眾坐堂。單寮、蒙堂、諸寮並外堂坐。住持出寢堂坐，侍者問訊，東班立，行者西立。轉鼓，侍者下法堂上角立，頭首下地聖僧前問訊。領眾出堂，上法堂座前一字立，問訊，歸立西班。大眾鴈列于后。行堂鳴板三下，參頭領眾列庫堂前或土地堂前，俟問訊。知事班集法堂西班，歸班已，亦一字列座前問訊。都寺引班歸左，朝揖立定。眾行者至法堂上間，左列迎住持。侍者入請住持，住持轎到眾前，行者列知事後，眾去頭袖問訊。住持和",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the monastic-rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): the monastic-rules compiler bears the exact headword wording; no master name is inferred from a nearby section or book title. "
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a24",
+          "ToLb": "1113b05",
+          "Kwic": "堂坐。侍者問訊東立。行者問訊西立。轉鼓侍者往法座左側立候眾集。頭首下床。聖僧前問訊領眾出堂。至法座前。列一行問訊歸西序立。大眾雁列于後。若不候頭首至。先自立定非法也。其行堂亦於鼓鳴時鳴板三下。參頭領眾行者。列庫堂前相對排立。候轉鼓。知事出則問訊隨其後。待西序歸位畢。亦列一行。座前問訊。上首居後。都寺引歸東序立定。眾行者列知事後。稍離遠立。侍侍者入請住持出。行者問訊。住持至法座前。行者趲",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the monastic-rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic-rules compiler bears the exact headword wording; no master name is inferred from a nearby section or book title. "
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0524b04",
+          "ToLb": "0524b04",
+          "Kwic": "參頭以下起身近前云。",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the monastic-rules compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): the monastic-rules compiler bears the exact headword wording; no master name is inferred from a nearby section or book title. "
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0109a22",
+          "ToLb": "0109b07",
+          "Kwic": "大，小底小。云：如何是山中人？師云：橫眠倒臥。南嶽下第十一世南嶽下第十一世汾陽善昭禪師法嗣汾陽善昭禪師法嗣潭州興化楚圓禪師潭州興化楚圓禪師依汾陽經一紀，得旨之後，固大愚數輩，辭汾陽相讓，不肯作參頭。汾陽云：此行不可以戒臈推，聽吾偈曰：天無頭，吉州城外起戈矛。將軍疋馬林下過，員州城裏閙啾啾。師遽出班云：楚圓何人，敢受和尚如此記別？即領眾作禮。汾陽復祝之曰：吾在先師處親證三昧，汝今已得，宜",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the lamp-record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要): the lamp-record narrator bears the exact headword wording; no master name is inferred from a nearby section or book title. "
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0650c20",
+          "ToLb": "0651a05",
+          "Kwic": "示四圓相，自書虎狗鼠牛字於中，揭方丈門，遂至九月二十六日示寂。景德間，宗師為高名士大夫所尊服，而又享有高壽，預知報謝，師其冠也。鐵佛院智嵩禪師▲鐵佛院智嵩禪師有同參到，師見便問：還記得相識麼？參頭擬議，第二僧打參頭一坐具曰：何不快祗對和尚？師曰：一箭兩垛。仁王院處評禪師▲仁王院處評禪師問首山：如何是佛法大意？山便喝，師禮拜。山拈棒，師曰：老和尚沒世界那！山拋下拄杖曰：明眼人難謾。師曰：",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the case-record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄): the case-record narrator bears the exact headword wording; no master name is inferred from a nearby section or book title. ",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 參頭 to the case-record narrator; no independently extractable one-headword turn exists and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0079c22",
+          "ToLb": "0079c22",
+          "Kwic": "參頭白椎，曰：「法筵龍象眾，當觀第一義。",
+          "ContextMasters": [],
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact headword occurs in institutional prose, a heading, quoted-source wording, or narrative rather than in a safely named master’s utterance.",
+            "ReviewedBy": "Codex f004 lane C early-sample author",
+            "ReviewedUtc": "2026-07-15T11:30:22.365371+00:00"
+          },
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu (石雨禪師法檀): the record narrator bears the exact headword wording; no master name is inferred from a nearby section or book title. "
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1250.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X79/X79n1557.xml",
+        "X/X83/X83n1578.xml",
+        "J/J27/J27nB190.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "Explanation": "The group leader is the senior member who stands at the head of a visiting or junior group and leads its formal movements and responses. Monastic rules assign this person the lead in lineup and lodging procedures; encounter records also identify the first participant by this office when the group enters a public exchange."
+    }
+  ]
+}

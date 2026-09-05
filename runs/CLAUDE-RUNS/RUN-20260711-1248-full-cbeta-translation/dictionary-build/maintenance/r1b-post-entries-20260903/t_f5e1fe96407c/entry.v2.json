@@ -1,0 +1,219 @@
+{
+  "Id": "t_f5e1fe96407c",
+  "SourceTerm": "知事",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane A evidence-first full-context author",
+  "WrittenUtc": "2026-07-15T11:16:20.860579+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a monastery administrator",
+      "AlternateTargets": [
+        "administrative officer"
+      ],
+      "SearchAliases": [
+        "monastic administrator",
+        "administrative officer",
+        "monastery officeholder"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "7 distinct work IDs support the exact headword; all saved complete contexts were read before prose.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0622c01",
+          "ToLb": "0622c02",
+          "Kwic": "知事班集法堂西班，歸班已，亦一字列座前問訊。",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed monastic rule or case compiler",
+            "ActorLabel": "the unnamed monastic rule or case compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "All six attribution rungs were checked; the source supplies only the unnamed monastic rule or case compiler, not a recoverable named master.",
+            "ReviewedBy": "Codex f004 author cohort0 repair",
+            "ReviewedUtc": "2026-07-15T16:41:19.006168+00:00"
+          },
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "MasterName": null
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1110c15",
+          "ToLb": "1110c23",
+          "Kwic": "怕那甚麼法旨。鼠兒年四月十一日大都大寺裏有時分寫來。皇帝聖旨裏行宣政院。准宣政院咨。據僧子仲狀。告係江西道龍興路百丈山大智壽聖禪寺知事僧。元統三年七月十八日。本寺住持德煇長老。欽受御寶。聖旨節該。江西龍興路百丈大智覺照禪師在先立來的清規體例。近年以來各寺裏將那清規體例。增減不一了。有如今教百丈",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "narrated",
+            "ActorLabel": "editorial, compiler, inscriptional, or unresolved authored voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete headword-bearing unit was read. Its grammatical and speech frame does not make a nearby master the utterer unless MasterName is set above.",
+            "ReviewedBy": "Codex f004 lane A full-context author",
+            "ReviewedUtc": "2026-07-15T11:16:20.860579+00:00"
+          },
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only."
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0241a03",
+          "ToLb": "0241a10",
+          "Kwic": "邪正。邪正既不辨，轉轉成毛病。瑞巖百不能，愛用無星秤。稱起太虗空，錙銖無欠剩。以此為瑞為祥，以此為坑為穽。斷衲僧之咽喉，續佛祖之慧命。請東序知事提綱(監寺提點典座)請東序知事提綱真淨文禪師請知事，上堂。至道無難，惟嫌揀擇。豈可以親疎好醜擇而然後用之？要用便用，入到手中，土作黃金，拋來",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "editorial request-to-administrators occasion heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "請東序知事提綱 / 請知事，上堂 is an occasion heading; no human utters the headword.",
+            "ReviewedBy": "Codex f004 lane A independent-rereview repair",
+            "ReviewedUtc": "2026-07-15T12:20:00Z",
+            "HeadingType": "section"
+          },
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: The complete case assigns the exact headword-bearing clause to the impersonal editorial heading, scene, or procedure established by the complete case; nearby masters and interlocutors are context only.",
+          "MasterName": null,
+          "HeadwordSpanReview": {
+            "Count": 3,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 3 occurrences of 知事 to editorial request-to-administrators occasion heading; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0004c24",
+          "ToLb": "0005a06",
+          "Kwic": "喜之游。師將化前一日，作偈遺之曰：今年七十七，出行須擇日。昨夜問龜哥，報道明朝吉。徐覧偈聳然，邀靈源、清同往。師方坐寢室，以院務誡知事曰：吾住此山二十三年，護惜常住，每自蒞之。今行矣，汝輩著精彩。言畢，舉拄杖曰：且道這箇分付阿誰？徐與靈源皆屏息，遂擲杖投床，枕臂而化。福州廣因擇要禪師福州廣因擇",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps Vols. 34–120: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed lamp-record compiler",
+            "ActorLabel": "the unnamed lamp-record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "All six attribution rungs were checked; the source supplies only the unnamed lamp-record compiler, not a recoverable named master.",
+            "ReviewedBy": "Codex f004 author cohort0 repair",
+            "ReviewedUtc": "2026-07-15T16:41:19.006168+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0728b06",
+          "ToLb": "0728b15",
+          "Kwic": "云曾到山云我已前到時是事不足如今作麼生僧云如今足也山云粥足飯足僧無語師云粥足飯足。舉孚上座叅雪峯峯聞乃集眾孚到法堂上顧視雪峯便下看知事明日却上禮拜云某甲昨日觸忤和尚峯云知是般事便休時有僧問師作麼生是觸忤和尚處師便打。舉僧問資福古人拈槌豎拂意旨如何福云古人與麼那僧云拈槌豎拂又作麼生福便喝出師云古",
+          "Curated": true,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "narrated",
+            "ActorLabel": "editorial, compiler, inscriptional, or unresolved authored voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete headword-bearing unit was read. Its grammatical and speech frame does not make a nearby master the utterer unless MasterName is set above.",
+            "ReviewedBy": "Codex f004 lane A full-context author",
+            "ReviewedUtc": "2026-07-15T11:16:20.860579+00:00"
+          },
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0382a17",
+          "ToLb": "0382a23",
+          "Kwic": "得，便乃入維摩丈室大寂光中，四聖六凡共同一處；其或未然，山僧為諸人說破。良久，云：明月鋪霄漢，山河勢自分。拂子擊禪牀，下座。謝新舊知事，小參。有進有退，今古常儀。進者，如龍歸滄海，眾類有依，各得其所；退者，如𦏰羊挂角，形影不彰，長養聖胎，漸成大器。此二者，自利利他，各不相弱。山僧今夜勸你諸人莫",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Furong Daokai",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "editorial thanks-to-administrators occasion heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "謝新舊知事，小參 is an occasion heading; no human utters the headword.",
+            "ReviewedBy": "Codex f004 lane A independent-rereview repair",
+            "ReviewedUtc": "2026-07-15T12:20:00Z",
+            "HeadingType": "section"
+          },
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies: The complete case assigns the exact headword-bearing clause to the impersonal editorial heading, scene, or procedure established by the complete case; nearby masters and interlocutors are context only.",
+          "MasterName": null
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X63/X63n1250.xml",
+        "T/T48/T48n2025.xml",
+        "X/X64/X64n1260.xml",
+        "X/X82/X82n1571.xml",
+        "C/C077/C077n1710.xml",
+        "X/X68/X68n1318.xml"
+      ],
+      "RelatedMasters": [
+        "Fachang Yiyu",
+        "Furong Daokai"
+      ],
+      "RelatedTerms": [
+        "堂頭和尚"
+      ],
+      "Explanation": "A monastery administrator is one of the officers who conduct the community’s practical and institutional business. Rulebooks list the office among communal posts; records address the administrators collectively, assign them duties, thank incoming and outgoing officeholders, and narrate dealings with them. The title names administration rather than the presiding teaching office."
+    }
+  ]
+}

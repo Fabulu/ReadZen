@@ -1,0 +1,52 @@
+﻿staged entries: 4499; changed vs HEAD: 3; == 3 products: True
+retired-rel citations left in staged products: 0 []
+t_057cc9ea8755 攝心: occurrence counts HEAD [6] -> staged [6]
+t_968a2f97c9ff 一不成，二不是: occurrence counts HEAD [10] -> staged [10]
+t_ea2a427c7aba 坐禪: occurrence counts HEAD [9, 3] -> staged [9, 3]
+
+=== t_ea2a427c7aba 坐禪 staged s1: repaired rows ===
+  occ1: T/T48/T48n2025.xml 1143a07->1143a12
+    MasterName: None
+    ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+    Actor: impersonal / institutional procedure / compiler / "the monastic code's institutional voice"
+    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules fo...
+  occ8: T/T48/T48n2025.xml 1113a21->1113a22
+    MasterName: None
+    ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+    Actor: impersonal / institutional procedure / compiler / "the monastic code's institutional voice"
+    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongy...
+  occ9: T/T48/T48n2025.xml 1143a12->1143a15
+    MasterName: None
+    ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+    Actor: impersonal / institutional procedure / compiler / "the monastic code's institutional voice"
+    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules fo...
+  RelatedMasters: ["Guting Shanjian", "Nanyue Huairang", "Mazu Daoyi", "Linji Yixuan", "Baozhi", "Zhaoqing Shengdeng", "Zhanran Yuancheng", "Dongyang Dehui", "Songyuan Chongyue"]
+
+=== t_ea2a427c7aba 坐禪 staged prose ===
+  -- Explanation --
+     The seated Chan procedure is a regulated bodily activity with an assigned place, posture, duration, and hall orientation.
+     The Baizhang monastic code's titled Rules for Sitting Chan section directs a quiet place, a thick seat, full or half cross-legged sitting, the left palm resting on the right with the two thumbs touching, an upright body with the ears aligned to the shoulders and the nose to the navel, the tongue against the upper palate, and slightly open eyes, and it preserves Fayun Yuantong's rebuke of sitting with closed eyes as a black mountain ghost cave ("於閒靜處厚敷坐物…謂黑山鬼窟"). [CJK]
+     It continues: think neither good nor evil;
+     the moment a thought arises, notice it, ever awake, neither dull nor scattered;
+     this is the essential procedure of sitting Chan, a gate of ease, and those who fall ill from it miss its essentials ("一切善惡都莫思量。念起即覺…坐禪乃安樂法門"). [CJK]
+     The Baizhang monastic code redacted by Dongyang Dehui gives an observable hall convention: the assembly faces inward as in ordinary sitting Chan, then turns outward when the drum sounds ("如尋常坐禪向內坐。鼓鳴則轉身向外坐。"). [CJK]
+     Guting Shanjian says that sitting upright without lying down for ten or twenty years, even one or two lives, is what the ancients called sitting Chan.
+     Nanyue Huairang's tile exchange, Linji Yixuan's refusal, Baozhi and Zhaoqing Shengdeng's critiques, and Zhanran Yuancheng's attack on half-asleep sitting still target this recognizable seated procedure.
+     They disagree about what it accomplishes or how it is performed;
+     they do not erase the bodily referent.
+     The separate sense below is reserved for passages that explicitly redefine the compound apart from sitting posture.
+
+=== t_057cc9ea8755 攝心 staged prose ===
+  -- Note --
+     In the Extended Record of Yongjue Yuanxian, Yongjue quotes "gathering the mind is called restraint" (攝心名戒), then challenges it point by point: "what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water" (心是何物而可攝？攝又是何物而可攝心？水不洗水). [CJK]
+     Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, "saying right makes wrong;
+     gathering the mind is still an error" (說是成非。攝心猶錯。). [CJK]
+     Shiwu Qinggong's verse in his recorded sayings, compiled by his disciples, retains the ordinary finite action by listing the day's tasks and "gathering the mind to drive off sleep" (攝心除睡). [CJK]
+     Counted forms include "gathering the mind is called restraint" (攝心名戒, two occurrences in two texts), "gather the mind to drive off sleep" (攝心除睡, one in one), "the way of gathering the mind" (攝心之法, one), "place of gathering the mind" (攝心處, one), and "gather the mind and illuminate within" (攝心內照, three in three). [CJK]
+     The entry records the action and the texts' own challenges without resolving those challenges into an external system.
+  -- AttributionNote (occ 3) --
+     Source record (X/X70/X70n1399.xml).
+     Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse 'Sending Off the Idle Attendant to Return Home and Visit His Teacher' (送慵侍者回里省師): Shiwu Qinggong lists the day's tasks — planting bamboo and pines, hoeing the hill, carrying water and firewood, watering vegetables and taro, chanting texts, and gathering the mind to drive off sleep [CJK]
+
+=== t_968a2f97c9ff 一不成，二不是 staged SearchAliases ===
+  ["one fails, two is wrong", "一不成、二不是"]

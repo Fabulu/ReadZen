@@ -1,0 +1,216 @@
+{
+  "Id": "t_9bddb36dfcaf",
+  "SourceTerm": "歸宗斬蛇",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Guizong cuts the snake",
+      "AlternateTargets": [
+        "Guizong's snake-cutting",
+        "Guizong chops the snake"
+      ],
+      "SearchAliases": [
+        "Guizong kills the snake",
+        "Guizong snake koan",
+        "snake-cutting case",
+        "Guizong slays a snake",
+        "cuts a snake with a hoe"
+      ],
+      "Status": "preferred",
+      "Explanation": "The public case in which Guizong Zhichang cuts a passing snake in two with his hoe while clearing grass. A visiting scripture lecturer calls him 'a monk of coarse conduct'; Guizong raises the hoe when asked what was coarse, makes a snake-cutting gesture when asked what was fine, and finally asks, 'where did you see me cut the snake?' The lecturer has no reply. Later records repeatedly raise the named case in questions, sermons, verse, and paired case lists. The precept frame is explicit in the Chan record: one question begins, 'killing living beings is a major precept; why did Nanquan cut the cat and Guizong cut the snake?' and receives the instruction, 'you should go repent'; another places the two cases under the rule that a precept-keeper does not tread on living grass and asks whether the act is 'cutting' or 'killing.' A later sermon quotes the precept requiring rescue when animals are killed and asks what expedient could have saved the cat and snake. The sources therefore preserve both the killing and the precept challenge; they do not identify the snake as poisonous or say that leaving it alive endangered the monks.",
+      "Validation": "multi-source",
+      "Note": "The case occurs 49 times in 35 allowlisted texts. The precept connection is passage-level and attested, not inferred. Later appraisals do not settle into one authorized reading: Dahui rejects the stock descriptions 'apt response and marvelous function' and 'great function manifest, retaining no rules'; Tianran warns against copying the act as license for unrestrained conduct; another sermon says calling it snake-cutting leads to hell like an arrow, and not calling it snake-cutting does likewise. This entry reports those comments without choosing among them.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0162b26",
+          "ToLb": "0162c01",
+          "Kwic": "宗以鉏斷之，僧云：『久響歸宗，原來是箇麤行沙門。』宗曰：『爾麤？我麤？』僧曰：『如何是麤？』宗豎起鉏頭。僧曰：『如何是細？』宗作斬蛇勢。僧曰：『與麼則依而行之。』宗曰：『爾甚麼處見我斬蛇？』僧無對。」師曰：「歸宗斬蛇疑殺天下人，祇今還識老漢面目麼？」驀舉拂子，云：「歸宗鼻孔一時穿卻了也。",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu (廬山天然禪師語錄). Tianran Hanshi's later raising of the core case. Tianran Hanshi is the exact headword-bearing speaker who comments that Guizong's snake-cutting may have killed everyone under heaven; Guizong Zhichang is the actor in the quoted event.",
+          "ContextMasters": [
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0292c20",
+          "ToLb": "0293a01",
+          "Kwic": "去幾何？師曰：分身兩處看。問：學人到已一月，不見堂頭時如何？師曰：者老漢甚處去也？僧擬議，師便打。問：殺生是大戒，為甚麼南泉斬猫，歸宗斬蛇？師曰：汝實恁麼問麼？曰：是。師曰：汝當懺悔去。問：如何是離一切相即名諸佛？師便掌，僧禮拜。師曰：是金剛經恁麼說麼？曰：是。師曰：",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). An unnamed monk is the exact headword-bearing speaker who invokes the killing precept and asks why Nanquan cut the cat and Guizong cut the snake; Miyun tells him to repent. The line, expanded contexts through ±10,000 characters, section header, book title, TEI header, and parallel-passage search do not name the monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r002-owner3",
+            "ReviewedUtc": "2026-07-14T12:40:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0336b19",
+          "ToLb": "0336c01",
+          "Kwic": "雪花且置，試問大眾：如何是本來面目？以拄杖打圓相曰：會麼？長舌不離開口大，原來鼻直兩眉橫。問：持戒人足不履生草，為甚麼南泉斬猫、歸宗斬蛇？師卓拄杖曰：會麼？曰：會。師曰：是斬？是殺？僧無語，師曰：不快漆桶。問：如何是和尚家風？師曰：持刀按劒。曰：因甚如此？師曰：死活不知。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). An unnamed monk is the exact headword-bearing speaker who asks why Nanquan cut the cat and Guizong cut the snake under the living-grass rule; Lingyin Yinwen asks whether it is cutting or killing. The line, expanded contexts through ±10,000 characters, section header, book title, TEI header, and parallel-passage search do not name the monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex semantic-r002-owner3",
+            "ReviewedUtc": "2026-07-14T12:40:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Lingyin Yinwen",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0345b14",
+          "ToLb": "0345b20",
+          "Kwic": "無數鯨鯤躍浪來。」復舉《梵網經》第二十不行放救戒語畢，乃云：「大眾！世尊道：若見世人殺畜生時，應方便救護，解其苦難。祇如南泉斬貓、歸宗斬蛇，當恁麼時，作何方便可以救得？若能道得，是真護生。其或未然，不免為諸人點破。」豎拂子，云：「黿鼉魚鱉并蝦蟹，盡在常光一道中。復有一",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Sermon on the animal-rescue precept. Guxue Zhe is the exact speaker who asks what expedient could have saved Nanquan's cat and Guizong's snake.",
+          "MasterName": "Guxue Zhe",
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhe",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0019b08",
+          "ToLb": "0019b14",
+          "Kwic": "舉：「圜悟懃云：『古有定乾坤底眼，方有定乾坤底劍。正令當行，十方坐斷。此事知如此分明，不在情塵意見上討。若向情塵意見上討，則孤負南泉。』大慧云：『歸宗斬蛇，南泉斬貓。學語之流多，謂之當機妙用，亦謂之大用現前，不存軌則。殊不知總不是這般道理。具超方眼，舉起便知落處。若大法不明，打瓦鑽龜，何時是了？』",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu (三宜盂禪師語錄). Dahui Zonggao is the exact quoted speaker who rejects two stock explanations of the paired snake and cat cases.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0152b18",
+          "ToLb": "0152b24",
+          "Kwic": "纔掉得箇相似，便一切棄置。為伊方寸裏，先靠著箇心外無法，一切不可得底道理，任意舉止，隨順妄情，以為行于非道方合佛道。比于南泉斬貓，歸宗斬蛇，蜆子蝦蟆。殊不知古人劍刃上事，稍一眨眼，血濺梵天，豈更麤境，公然狂肆？今時禪病，多出於此。良由師家道眼不明，纔見學人蹋上箇豁達見",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu (廬山天然禪師語錄). Tianran Hanshi is the exact speaker who invokes the snake and cat cases while warning against taking them as license for unrestrained conduct.",
+          "MasterName": "Tianran Hanshi",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0130a23",
+          "ToLb": "0130a29",
+          "Kwic": "流處也風流，面毛長三尺。大眾！批判便批判了也，若是芥菴又作麼生？」良久，云：「四卷楞伽遮老眼，一聲彌勒到新秋。」上堂。「南泉斬貓，歸宗斬蛇，喚作斬貓斬蛇，入地獄如箭射；不喚作斬貓斬蛇，入地獄如箭射。畢竟合作麼生？」豎竹篦子，云：「竹篦子還入地獄也無？險。」師誕日，上堂",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu (廬山天然禪師語錄). Tianran Hanshi is the exact speaker who says that calling the events cat- and snake-cutting leads to hell like an arrow, and not calling them that does likewise.",
+          "MasterName": "Tianran Hanshi",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J38/J38nB406.xml",
+        "X/X82/X82n1571.xml",
+        "J/J28/J28nB208.xml",
+        "J/J27/J27nB189.xml"
+      ],
+      "RelatedMasters": [
+        "Guizong Zhichang",
+        "Miyun Yuanwu",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [
+        "斬蛇",
+        "南泉斬貓",
+        "殺生",
+        "持戒",
+        "懺悔",
+        "護生"
+      ]
+    }
+  ]
+}

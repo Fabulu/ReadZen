@@ -1,0 +1,226 @@
+{
+  "Id": "t_044652c7b411",
+  "SourceTerm": "觸禮三拜",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-21T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "bowed three times",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "bowed three times"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "This narrative formula records making three formal bows.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0627c21",
+          "ToLb": "0627c23",
+          "Kwic": "同眾大展三拜，免則觸禮三拜，進云：。普同問訊而退。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Regulations (禪林備用清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 普說竟，仍各面裏立。參頭插香，同眾大展三拜，免則 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1123b16",
+          "ToLb": "1123b18",
+          "Kwic": "前。展坐具云二展寒溫觸禮三拜。送住持出。煎點人復",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Baizhang Monastic Rules (勅修百丈清規). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 前勸茶。復從聖僧後出。進住持前。展坐具云二展寒溫 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0018a13",
+          "ToLb": "0018a14",
+          "Kwic": "大眾同到祖塔前，大家觸禮三拜。」下座。受吳嶷峰為",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun Chan Sayings (密雲禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 祖師把手共行；其或未然，普請大眾同到祖塔前，大家 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0758b11",
+          "ToLb": "0758b12",
+          "Kwic": "或未然，可到先師座前觸禮三拜，先師為汝說破。」首",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Rujiu Ruibai Sayings (入就瑞白禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary ？若簡點得出，則參學事畢；其或未然，可到先師座前 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0021c25",
+          "ToLb": "0021c26",
+          "Kwic": "斜陽外。大眾進祖堂，觸禮三拜，一軸丹青，古之遺愛",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Sanyi Yu Sayings (三宜盂禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 在。白雲幾片竹林東，青山數點斜陽外。大眾進祖堂， locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0828c26",
+          "ToLb": "0828c27",
+          "Kwic": "事作麼生。下座後大家觸禮三拜。上堂舉。僧問雲門。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Dahui Pujue Sayings (大慧普覺禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 眼前見鬼。且道。徑山門下今日事作麼生。下座後大家 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X69/X69n1364.xml",
+          "FromLb": "0654b16",
+          "ToLb": "0654b18",
+          "Kwic": "蒿湯聊備禮儀，大家觸禮三拜。上堂：夜來無一事，天曉報上堂。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X69/X69n1364.xml). Shuai’an Fanzong: Sayings (率菴梵琮禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 。不用遶徧長廊，不須巡寮買賣。蒿湯聊備禮儀，大家 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X63/X63n1250.xml",
+        "X/X63/X63n1245.xml",
+        "T/T48/T48n2025.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB188.xml",
+        "J/J27/J27nB189.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X69/X69n1364.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "This narrative formula records making three formal bows. Independent complete cases establish the ordinary construction and its limits."
+    }
+  ]
+}

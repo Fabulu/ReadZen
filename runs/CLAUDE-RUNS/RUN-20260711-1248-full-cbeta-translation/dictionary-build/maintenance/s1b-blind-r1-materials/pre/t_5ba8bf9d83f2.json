@@ -1,0 +1,163 @@
+{
+  "Id": "t_5ba8bf9d83f2",
+  "SourceTerm": "天龍一指",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Tianlong’s one finger",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "Tianlong’s one finger",
+        "one-finger Chan"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Two Tier 2 records actively invoke the named one-finger case. ",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB154.xml",
+          "FromLb": "0039b14",
+          "ToLb": "0039b15",
+          "Kwic": "機溼梁山袈裟。笑俱胝受用天龍一指，怪飲光微笑漏泄鷲嶺，拈",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wei'an Deran",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Juzhi",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Tianlong",
+              "Roles": [
+                "teacher",
+                "person-discussed"
+              ]
+            }
+          ],
+          "MasterName": "Wei'an Deran",
+          "AttributionNote": "Source record (J/J25/J25nB154.xml). Recorded Sayings of Songyin Weianran: Wei'an Deran is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0065a07",
+          "ToLb": "0065a10",
+          "Kwic": "然，莫將學解為知解，始信天龍一指禪。示涂居士示涂居士頑石",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Tianlong",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "MasterName": "Poshan Haiming",
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan: Poshan Haiming is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0433b17",
+          "ToLb": "0433b19",
+          "Kwic": "扣，惟豎一指示眾曰：吾得天龍一指禪，一生受用不盡。玄沙備",
+          "MasterName": "Juzhi",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Mirror of the Chan School’s Grove: Juzhi bears the exact headword in the full case.",
+          "ContextMasters": [
+            {
+              "MasterName": "Juzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "J/J25/J25nB154.xml",
+          "FromLb": "0039b14",
+          "ToLb": "0039b15",
+          "Kwic": "機溼梁山袈裟。笑俱胝受用天龍一指，怪飲光微笑漏泄鷲嶺，拈",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wei'an Deran",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Juzhi",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Tianlong",
+              "Roles": [
+                "teacher",
+                "person-discussed"
+              ]
+            }
+          ],
+          "MasterName": "Wei'an Deran",
+          "AttributionNote": "Source record (J/J25/J25nB154.xml). Recorded Sayings of Songyin Weianran: Wei'an Deran is the exact actor of this headword-bearing turn.",
+          "ClaimText": "天龍一指"
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0065a07",
+          "ToLb": "0065a10",
+          "Kwic": "然，莫將學解為知解，始信天龍一指禪。示涂居士示涂居士頑石",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Tianlong",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "MasterName": "Poshan Haiming",
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan: Poshan Haiming is the exact actor of this headword-bearing turn.",
+          "ClaimText": "天龍一指"
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB154.xml",
+        "J/J26/J26nB177.xml",
+        "X/X66/X66n1297.xml"
+      ],
+      "RelatedMasters": [
+        "Wei'an Deran",
+        "Poshan Haiming",
+        "Juzhi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Tianlong’s one finger is the named one-finger Chan case. Wei’an Deran invokes Juzhi’s use of Tianlong’s one finger alongside other inherited gestures, while Poshan Haiming names Tianlong’s one-finger Chan in direct instruction."
+    }
+  ]
+}

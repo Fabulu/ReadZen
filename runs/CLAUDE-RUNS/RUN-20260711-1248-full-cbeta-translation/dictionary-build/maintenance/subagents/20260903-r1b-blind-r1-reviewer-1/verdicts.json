@@ -1,0 +1,60 @@
+{
+  "reviewer": 1,
+  "materialsPinsOk": true,
+  "rowsChecked": 54,
+  "flags": [
+    {
+      "rowId": "R0000",
+      "reason": "law b fail: pre[t_022d58242948].Senses[0].Occurrences[3].RelPath='T/T48/T48n2023.xml' != row.relPath='X/X63/X63n1245.xml' (row Kwic/MasterName do match that occurrence). Near-duplicate of correct row R0001 (same si=1, oi=4) with wrong relPath; material shows exactly one removal at index 4 (T48n2023, claimed by R0001)."
+    },
+    {
+      "rowId": "R0013",
+      "reason": "law b fail: pre occ[oi=5].RelPath='J/J38/J38nB408.xml' != row.relPath='T/T48/T48n2023.xml'; law c fail: pre occ[5].MasterName='Azi Jinwu', Kwic='超語嘿，靜閱古今...' vs row MasterName='Guishan Lingyou', Kwic='旨趣應須。博問先知...' (that is occurrence 4, already removed by R0001); law d fail: post == pre minus index 4 only, occurrence 5 (J38nB408) still present in post. Phantom removal."
+    },
+    {
+      "rowId": "R0016",
+      "reason": "law a fail: pre[t_0c53a5a2243b].Senses[1] (si=2) has only 1 occurrence, oi=3 does not exist; law e fail: material post sense 2 RelPaths=['J/J26/J26nB182.xml'] vs row.postOccurrenceRels=[T/T48/T48n2025.xml, X/X63/X63n1250.xml, J/J26/J26nB185.xml, J/J33/J33nB288.xml, X/X70/X70n1390.xml] and postOccurrenceCount=5. The described change (X63n1245 at occurrence 3, exactly those 5 post rels) actually lives in sense 1 and is already correctly rowed as R0004 -- row.si is wrong (2 instead of 1)."
+    },
+    {
+      "rowId": "R0032",
+      "reason": "law c fail: removedKwic differs from pre[t_13951a5b5260].Senses[0].Occurrences[0].Kwic first at char 81 (both 162 chars): pre '...淨頭殿主鐘頭聖僧侍者...' (殿主) vs row '...淨頭殿猫鐘頭聖僧侍者...' (殿猫). Duplicate claim of the same removal as R0006 (same entry/sense/oi=1, which verifies clean); material shows only one removal at that index."
+    },
+    {
+      "rowId": "R0035",
+      "reason": "law a fail: post Note is exactly '5 exact occurrences from 5 distinct works are stored.' and does not contain row.after='6 exact occurrences from 5 distinct works'; law c fail: row.after states 6 occurrences / 5 distinct works but live post counts are 5 occurrences / 5 distinct RelPaths. The correct row for this note rewrite is R0018 (passed)."
+    },
+    {
+      "rowId": "R0038",
+      "reason": "law d literal fail: post[t_d7725cb0c8c0].Senses[0] has 2 occurrences, pre-minus-oi=1 has 3 (pre has 4). Post == pre minus indices {1,3} -- exactly the union of this row (oi=1) and sibling R0039 (oi=3); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0039",
+      "reason": "law d literal fail: post[t_d7725cb0c8c0].Senses[0] has 2 occurrences, pre-minus-oi=3 has 3 (pre has 4). Post == pre minus indices {1,3} -- exactly the union of this row (oi=3) and sibling R0038 (oi=1); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0044",
+      "reason": "law d literal fail: post[t_ef5beb628603].Senses[0] has 2 occurrences, pre-minus-oi=3 has 3 (pre has 4). Post == pre minus indices {3,4} -- exactly the union of this row (oi=3) and sibling R0045 (oi=4); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0045",
+      "reason": "law d literal fail: post[t_ef5beb628603].Senses[0] has 2 occurrences, pre-minus-oi=4 has 3 (pre has 4). Post == pre minus indices {3,4} -- exactly the union of this row (oi=4) and sibling R0044 (oi=3); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0046",
+      "reason": "law d literal fail: post[t_f0cb4dcfc70c].Senses[0] has 5 occurrences, pre-minus-oi=1 has 6 (pre has 7). Post == pre minus indices {1,2} -- exactly the union of this row (oi=1) and sibling R0047 (oi=2); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0047",
+      "reason": "law d literal fail: post[t_f0cb4dcfc70c].Senses[0] has 5 occurrences, pre-minus-oi=2 has 6 (pre has 7). Post == pre minus indices {1,2} -- exactly the union of this row (oi=2) and sibling R0046 (oi=1); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0048",
+      "reason": "law b fail: row.relPath='T/T47/T47n1985.xml' is not in header retiredRels ['T/T48/T48n2023.xml','X/X63/X63n1245.xml'] (pre occ[oi=1] does match that RelPath, Kwic, and MasterName='Linji Yixuan'); law d fail: post == pre minus index 4 only -- occurrence 1 (T47n1985) is still present in post. Phantom removal of a non-retired source."
+    },
+    {
+      "rowId": "R0051",
+      "reason": "law c fail: pre[t_5306489d35c6].Senses[0].Occurrences[1].MasterName is null (field absent in material) vs row.masterName='虛構禪師' (RelPath and Kwic match). Duplicate claim of the same removal as R0019 (same entry/sense/oi=2, which verifies clean with null master); material shows only one removal at that index."
+    }
+  ],
+  "notes": "All 86 sha256 material pins match; the materials contain exactly 46 occurrence removals plus one Note rewrite (t_50d75aeeeef1) and nothing else (no added occurrences, no un-rowed Note or field changes). The 52 occ-remove rows over-claim by 6: R0000 (near-dup of R0001, wrong relPath), R0013 (phantom oi=5), R0048 (phantom removal of non-retired T/T47/T47n1985.xml), R0016 (real change mislabeled si=2, duplicating R0004), R0032 (dup of R0006 with one corrupted Kwic char, 殿主 to 殿猫 at char 81), R0051 (dup of R0019 claiming MasterName '虛構禪師' where the material occurrence has none). Six rows (R0038/R0039, R0044/R0045, R0046/R0047) fail only the literal single-removal form of law d -- each sibling pair's union exactly reconstructs the material change, with laws a,b,c,e holding (composed-consistent). Note-count rows: R0018 correct; R0035's after-string contradicts the post material and looks superseded. Row relPath distribution: X63n1245=36, T48n2023=15, plus the non-retired T47n1985 (R0048)."
+}

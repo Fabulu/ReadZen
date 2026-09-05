@@ -1,0 +1,51 @@
+{
+  "Id": "t_c6d2394bc8f8",
+  "SourceTerm": "依草附葉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna152r2 bounded semantic author",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "clinging to grass and attaching to leaves",
+      "AlternateTargets": [
+        "clinging to foliage"
+      ],
+      "SearchAliases": [
+        "clinging to grass and attaching to leaves"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "One Linji address survives in parallel recensions; one Tier 2 witness is retained and the sense remains provisional.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0644c21",
+          "ToLb": "0645a09",
+          "Kwic": "未有不依物出來底山僧向此間󴌰頭打手上出來手上打口裏出來口裏打眼裏出來眼裏打未有一箇獨脫出來底皆是上他古人閑機境山僧無一法与人祗是治病觧縛你諸方道流試不依物出來我要共你商量十年五嵗並無一人皆是依草附葉竹木精靈野狐精魅向一切糞塊上亂咬瞎漢枉消他十方信施道我是出家兒作如是見觧向你道無佛無法無修無證秪與麼傍家擬求什麼物瞎漢頭上安頭是你欠少什麼道流是你目前用底與祖佛不別秪麼不信便向外求莫錯向外無",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Speaker: Linji Yixuan.",
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "依草附葉 literally means clinging to grass and attaching to leaves. In the retained Linji address, he places it beside “bamboo-and-wood spirits” and “wild-fox sprites” while addressing people who do not come out without relying on things. The record gives one Linji use; its parallel recensions do not create independent senses."
+    }
+  ]
+}

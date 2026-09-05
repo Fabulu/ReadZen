@@ -1,0 +1,260 @@
+{
+  "Id": "t_dc24f92ead78",
+  "SourceTerm": "問訊",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane B evidence-first",
+  "WrittenUtc": "2026-07-15T05:48:21.518622+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "make the formal greeting",
+      "AlternateTargets": [
+        "exchange inquiries of well-being"
+      ],
+      "SearchAliases": [
+        "formal greeting",
+        "monastic greeting",
+        "inquire after well being",
+        "bow and greet"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "7 reviewed witnesses delimit this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a13",
+          "ToLb": "1113a20",
+          "Kwic": "來早上堂至五更。住持行香回。再覆粥罷。上堂令客頭掛上堂牌。維那於僧堂。早粥遍食椎後。再鳴椎一下云復鳴椎一下。往住持前問訊。從首座板起巡堂一匝。出外堂下間至上間。歸內堂中間。問訊而出。粥後少停。待大殿排香燭茶湯鐃鈸手爐俱辦。堂司行者報方丈客頭。先覆住持。次覆侍者。鳴方丈板三下鳴",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.092026+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The monastic rule narrates two successive formal greetings in one continuous procedural instruction; neither token is a nearby speaker’s utterance."
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0622b14",
+          "ToLb": "0622b20",
+          "Kwic": "者就覆方丈，來早諷經。挂諸處諷經牌，燒香。侍者覆方丈，來早上堂。正日，僧堂徧食槌浚，再槌一下云：。復槌一下，往住持前問訊。面北巡堂一帀，至外堂下間。至上間，歸內堂中，問訊出。正日，行香了，侍者覆住持，粥了上堂。客頭挂上堂牌，大殿排香燭、湯茶、鐃鈸、手爐。堂司報方丈，客頭先覆住",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.092068+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The monastic rule narrates two successive formal greetings in one continuous procedural instruction; neither token is a nearby speaker’s utterance."
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0523c09",
+          "ToLb": "0523c14",
+          "Kwic": "右手仰把笠緣當右肩提之。拄杖之法。有枝者為觸頭。無枝者為淨頭。行時淨頭在前。右手𢹂之。如下笠時在左手內。路上逢人如略問訊。仰左手把拄杖。仰右手下笠。斂杖笠當胷。離寺之法。與同袍敘別訖。於三門外簷下上笠。入寺之法。於三門外簷下下笠。左手𢹂杖。乃垂杖頭。右手提笠當右肩。如遇同袍斂",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.116724+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0409c10",
+          "ToLb": "0409c15",
+          "Kwic": "即入彼山。行數里，逢一大蟒，祖直前不顧，盤繞祖身。祖因與授三歸依，蟒聽訖而去。祖將至石窟，復有一老人素服而出，合掌問訊。祖曰：汝何所止？答曰：我昔嘗為比丘，多樂寂靜。有初學比丘數來請益，而我煩於應答，起嗔恨想，命終墮為蟒身，住是窟中，今已千載。適遇尊者，獲聞戒法，故來謝爾。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33) (五燈全書(第1卷-第33卷)): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.139705+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0651a01",
+          "ToLb": "0651a02",
+          "Kwic": "三日後普化却上問訊云和尚前日道甚麼",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): the narrator reports Puhua making the formal greeting before addressing Linji Yixuan.",
+          "ContextMasters": [
+            {
+              "MasterName": "Puhua",
+              "Roles": [
+                "person-described"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "addressee",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "narrated formal greeting",
+            "ActorLabel": "the Linji-record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The narrator reports Puhua coming up to greet; Puhua then addresses Linji.",
+            "ReviewedBy": "Codex quality-debt lane A full-entry repair",
+            "ReviewedUtc": "2026-07-16T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0002c08",
+          "ToLb": "0002c14",
+          "Kwic": "無一絲頭。若有一絲頭，即是一絲頭。師指凳子曰：識得凳子，周匝有餘。僧問：如何是塵劫來事？師曰：盡在于今。師因患脚，僧問訊次，師曰：非人來時不能動，及至人來動不得。且道佛法中下得甚麼語？曰：和尚且喜得較。師不肯，自別云：和尚今日似減。因開井，被沙塞却泉眼，師曰：泉眼不通被沙礙，",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.139835+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          }
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0035a07",
+          "ToLb": "0035a12",
+          "Kwic": "即入彼山。行數里。逢一大蠎。祖直前不顧。盤繞祖身。祖因與授三皈依。蟒聽訖而去。祖將至石窟。復有一老人素服而出。合掌問訊。祖曰。汝何所止。答曰。我昔甞為比丘。多樂寂靜。有初學比丘數來請益。而我煩於應答。起嗔恨想。命終墮為蠎身。住是窟中。今已千載。適遇尊者。獲聞戒法。故來謝爾。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元): The rule or encounter narrator. The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master. This is documentary narration.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the rule or encounter narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 B751-800 repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:44:37.139863+00:00",
+            "GrammarEvidence": "The headword denotes a narrated formal greeting performed by a participant; it is not an utterance by the nearby master."
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "X/X63/X63n1245.xml",
+        "X/X81/X81n1571.xml",
+        "C/C077/C077n1710.xml",
+        "X/X81/X81n1568.xml",
+        "X/X80/X80n1565.xml"
+      ],
+      "RelatedMasters": [
+        "Fayan Wenyi",
+        "Linji Yixuan",
+        "Puhua"
+      ],
+      "RelatedTerms": [
+        "禮拜"
+      ],
+      "Explanation": "To make the formal greeting is to perform the conventional monastic salutation and inquiry after another’s well-being. The monastic rules prescribe it during travel and arrival; Linji Yixuan and Fayan Wenyi then make the greeting’s timing part of encounters, and Kapimala's biography, after his reception of the teaching from Asvaghosa, records the same visible act. It is more specific than any casual question."
+    }
+  ]
+}

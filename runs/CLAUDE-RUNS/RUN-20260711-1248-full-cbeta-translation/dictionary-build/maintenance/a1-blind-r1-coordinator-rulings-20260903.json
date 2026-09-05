@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "a1-blind-r1-coordinator-rulings",
+  "law": "refute only with byte evidence from the frozen materials, the corpus (zc), the roster, or the audit's own scoping demand; a confirmed flag blocks publication",
+  "rulings": [
+    {
+      "rowId": "R0117",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "evidence-scope objection, byte-refuted: the claimed master IS evidenced in the entry's own pre bytes, one occurrence upstream. Senses[0].Occurrences[4].ActorAttribution.GrammarEvidence reads 'The literal boundary 明月光。晦堂與夏倚公立談肇論，至會萬物為自己者及 locates the expression in the source record.' — that boundary text ends EXACTLY where the flagged occurrence's (o5) kwic begins ('至會萬物為自己者及情與無情共一體處…時有狗子臥香桌下，師拈壓尺擊狗…'), so the acting 師 is the interlocutor named in the contiguous preceding corpus text: 晦堂. Occurrences[3].GrammarEvidence names him fully for the same event ('黃龍祖心禪師與夏倚公立談肇論'), and the roster (Assets/Data/lineage-masters.json) carries the canonical romanization 'Huitang Zuxin' (listed among Huanglong Huinan's students), so the row's MasterName is roster-canonical, not invented. Roles ['case-figure','action-performer'] are exactly what the audit's action_performer_context_missing demanded ('requires the named performer as person-described or case-figure'). Reviewer 2 accepted the same row citing the same 晦堂 pre- GrammarEvidence. The reviewer law as stated ('note or kwic names him') was narrower than the entry's evidence structure; the row is sound.",
+      "byteEvidence": {
+        "entry": "t_f6631a24e33e",
+        "masterNameInPreBytes": false,
+        "hanzi晦堂InPreBytes": true,
+        "hanzi祖心InPreBytes": true,
+        "evidenceSites": [
+          "Senses[0].Occurrences[4].ActorAttribution.GrammarEvidence: 'The literal boundary 明月光。晦堂與夏倚公立談肇論，至會萬物為自己者及 locates the expression in the source record.'",
+          "Senses[0].Occurrences[3].ActorAttribution.GrammarEvidence: 'The literal boundary 黃龍祖心禪師與夏倚公立談肇論，至會萬物為自己者及 locates the expression in the source record.'"
+        ],
+        "boundaryContiguity": "o4 GrammarEvidence literal boundary ends at '至會萬物為自己者及' == first characters of the o5 kwic",
+        "rosterCanonicalRomanization": "Huitang Zuxin (lineage-masters.json, under Huanglong Huinan's students)",
+        "auditDemand": "action_performer_context_missing 情與無情共一體 s1 o5: explicit master action requires the named performer as person-described or case-figure"
+      },
+      "oracleMatch": true
+    },
+    {
+      "rowId": "R0118",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "window-boundary objection, corpus-refuted: the sentence's 'the verse after 頌曰' references the corpus text immediately LEFT of the stored kwic window — zc.verify(C/C078/C078n1720.xml, '頌曰。一走下禪床行一轉看了如來') returns ok/count 1 at 0721a14, the very line the stored window starts on; the entry's own standing GrammarEvidence pins that boundary ('The reviewed literal boundary is \"。一走下禪床行一\".'). The window text is the 頌 gatha (seven-character verse lines), and both embedded names are verifiably in the stored kwic itself (趙州 in kwic: true; 投子 in kwic: true — the embedded 趙州/投子 case narrative sits mid-window). The sentence does not contradict the standing compiler-narration adjudication: Status stays 'narrated', ActorLabel stays 'the unnamed compiler-narrator', and 'the unnamed author of the verse after 頌曰' is that same unnamed narrator named by function — no fabricated identity (closed status reviewed-unnamed). The sentence supplies exactly the performer scoping the audit's action_performer_context_missing demanded ('finer action detail belongs in GrammarEvidence'). Reviewer 1 independently accepted the row after running the same zc prefix probe.",
+      "byteEvidence": {
+        "entry": "t_2e77bc793d0c",
+        "occurrence": "s1 o4, C/C078/C078n1720.xml 0721a14-0721b09",
+        "zcKwic": "ok, count 1, 0721a14-0721b09",
+        "zcVersePrefix": "zc.verify(rel, '頌曰。一走下禪床行一轉看了如來') -> ok, count 1, fromLb 0721a14",
+        "embeddedNamesInStoredKwic": {"趙州": true, "投子": true},
+        "statusUnchanged": "narrated -> narrated; ActorLabel 'the unnamed compiler-narrator' unchanged; sentence appended to GrammarEvidence only",
+        "auditDemand": "action_performer_context_missing 左轉右轉 s1 o4: explicit master action requires the named performer as person-described or case-figure; finer action detail belongs in GrammarEvidence"
+      },
+      "oracleMatch": true
+    }
+  ]
+}

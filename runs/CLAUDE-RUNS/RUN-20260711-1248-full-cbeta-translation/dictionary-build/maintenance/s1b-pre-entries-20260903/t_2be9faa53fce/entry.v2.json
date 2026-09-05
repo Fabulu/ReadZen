@@ -1,0 +1,153 @@
+{
+  "Id": "t_2be9faa53fce",
+  "SourceTerm": "三人證龜成鼈",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "three people attest that a turtle has become a soft-shelled turtle",
+      "AlternateTargets": [
+        "three witnesses can certify a turtle into a soft-shelled turtle"
+      ],
+      "SearchAliases": [
+        "three witnesses turtle softshell",
+        "turtle becomes soft shelled turtle",
+        "repetition makes false identification"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The second animal is the soft-shelled turtle. One record names Xianglin as the answerer; another names Dasui.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0112b20",
+          "ToLb": "0112b22",
+          "Kwic": "法無多子，正眼瞎驢滅。驀拈拄杖曰：妙嚴突出拄杖，三人證龜成鼈。以拄杖卓一卓曰：拄杖子，善甄別。硬却脊梁，莫教",
+          "MasterName": "Liangshan Kuoan Ze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangshan Kuoan Ze",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Speaker: Liangshan Kuoan Ze."
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0583b15",
+          "ToLb": "0583b17",
+          "Kwic": "何是室內一盌鐙？師曰：三人證龜成鼈。瑞巖慍云：三人證龜成",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xianglin Chengyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: Xianglin Chengyuan.",
+          "MasterName": "Xianglin Chengyuan"
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0801c03",
+          "ToLb": "0801c07",
+          "Kwic": "踏上頭關。舉。僧問香林。如何是室內一盞燈。林云。三人證龜成鼈。皎皎清光遍界莫藏。聲拋不出色豈能彰。直下斬釘截",
+          "MasterName": "Xianglin Chengyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xianglin Chengyuan",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Exact actor: Xianglin Chengyuan gives the inherited answer; Yuanwu Keqin raises the case and comments on it."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0302b13",
+          "ToLb": "0302b16",
+          "Kwic": "獨耀今古者麼？舉：僧問大隨：如何是室中燈？隨云：三人證龜成鼈。師云：譬如暗中寶，無燈不可見；佛法無人說，雖慧",
+          "MasterName": "Dasui Fazhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dasui Fazhen",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection. Exact actor: this record names Dasui Fazhen as the answerer; Linquan Conglun raises and comments on it."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "X/X66/X66n1297.xml",
+        "T/T47/T47n1997.xml",
+        "X/X67/X67n1303.xml"
+      ],
+      "RelatedMasters": [
+        "Liangshan Kuoan Ze",
+        "Xianglin Chengyuan",
+        "Dasui Fazhen",
+        "Yuanwu Keqin",
+        "Linquan Conglun"
+      ],
+      "RelatedTerms": [
+        "龜",
+        "鼈"
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0112b20",
+          "ToLb": "0112b22",
+          "Kwic": "法無多子，正眼瞎驢滅。驀拈拄杖曰：妙嚴突出拄杖，三人證龜成鼈。以拄杖卓一卓曰：拄杖子，善甄別。硬却脊梁，莫教",
+          "MasterName": "Liangshan Kuoan Ze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangshan Kuoan Ze",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Speaker: Liangshan Kuoan Ze.",
+          "ClaimText": "The baseline reader explanation is anchored to this retained exact occurrence."
+        }
+      ],
+      "Explanation": "‘Three people attest that a turtle has become a soft-shelled turtle’ makes repeated testimony produce an absurd change of identity. Liangshan Kuoan Ze applies it to the assembly’s treatment of his staff. The records disagree about the room-lamp answer. One names Xianglin Chengyuan, and Yuanwu Keqin later raises that version. Linquan Conglun’s record names Dasui Fazhen, then explains that a treasure in darkness cannot be seen without a lamp. Both named attributions are therefore shown."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "Id": "t_9e7c2fb12ad9",
+  "SourceTerm": "猫兒",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "cat",
+      "AlternateTargets": [
+        "kitten"
+      ],
+      "Status": "preferred",
+      "Explanation": "This is the graph variant of the traditional spelling of “cat”. The dominant Zen deployment is Nanquan's cat case: the eastern and western halls fight over the cat, Nanquan says that speaking will save it and failure to speak will mean its cutting, the assembly gives no answer, and the record says he cuts it. Zhaozhou later places a straw sandal on his head, after which Nanquan says he would have saved the cat. Beyond that case, the corpus uses the same word for ordinary mouse-catching cats and records Luohan Xinglin Zuyin lifting a live cat before the assembly while explicitly recalling Nanquan.",
+      "Validation": "multi-source",
+      "Note": "Later commentary preserves a factual and evaluative dispute. The Book of Serenity reports that one critic reproached Nanquan's group for \"killing living beings and creating guilt\" (殺生造罪), while a defender cited an old text in which Nanquan made only a simulated cutting gesture (以手作虛斫勢). The commentary then evaluates the two critics; this entry records the controversy without choosing between the transmitted narratives or assigning an unstated intention. The traditional spelling of “cat” is a separate searchable entry with the same sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0074a09",
+          "ToLb": "0074a10",
+          "Kwic": "師遇之。白眾曰。道得即救取猫兒。道不得即斬却也。眾無對。師便斬之。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Nanquan Puyuan as the actor.",
+          "MasterName": "Nanquan Puyuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0232c12",
+          "ToLb": "0232c16",
+          "Kwic": "敢保救得猫兒。這一窟死老鼠。既無些子氣息。南泉已展不縮。盡令而行。遼朝上人𭣪作鏡心錄。訶南泉輩殺生造罪。文首座作無盡燈辨誤。救云。古本以手作虛斫勢。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage (萬松老人評唱天童覺和尚頌古從容庵錄). Wansong Xingxiu's commentary on Nanquan's cat case. Wansong Xingxiu says he could guarantee the cat's rescue under the proposed intervention, then weighs opposed later claims about killing and simulated cutting; Nanquan Puyuan is the case subject, not the speaker of this commentary.",
+          "MasterName": "Wansong Xingxiu",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0472b16",
+          "ToLb": "0472b17",
+          "Kwic": "五白猫兒爪距獰。養來堂上絕蟲行。分明上樹安身法。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). Expanded context places the hall verse in Guyin Yuncong's explicitly headed section; Guyin Yuncong describes a five-white cat with fierce claws whose presence ends the vermin's movement in the hall.",
+          "MasterName": "Guyin Yuncong",
+          "ContextMasters": [
+            {
+              "MasterName": "Guyin Yuncong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X84/X84n1583.xml",
+          "FromLb": "0426a11",
+          "ToLb": "0426a11",
+          "Kwic": "室中垂問曰：猫兒為甚麼愛捉老鼠？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X84/X84n1583.xml). Orthodox Continuation of the Lamp (續燈正統). Inside Zhengdang Mingbian's explicitly headed section, Zhengdang poses the chamber question asking why a cat loves catching mice, followed by another question about a dog barking when the board sounds.",
+          "MasterName": "Zhengdang Mingbian",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhengdang Mingbian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0020b23",
+          "ToLb": "0020c01",
+          "Kwic": "昔日南泉親斬却，今朝耶舍示玄徒。而今賣與諸禪客，文契分明要也無。良久，拋下猫兒，便下座。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). Inside Luohan Xinglin Zuyin's explicitly headed section, Zuyin lifts a cat that has jumped onto him, contrasts Nanquan's earlier killing with his own present display, and offers the cat to the students before setting it down.",
+          "MasterName": "Luohan Xinglin Zuyin",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Luohan Xinglin Zuyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0248a13",
+          "ToLb": "0248a14",
+          "Kwic": "路逢一虎。各從虎邊過了。南泉問歸宗云。適來見虎似箇什麼。宗云。似箇猫兒。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Traveling together on the road and meeting a tiger, Nanquan Puyuan (南泉) asks Guizong Zhichang (歸宗) what the tiger resembled; Guizong answers that it looked like a cat (似箇猫兒).",
+          "MasterName": "Guizong Zhichang",
+          "ContextMasters": [
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0555a17",
+          "ToLb": "0555a17",
+          "Kwic": "上堂：驢事未去，馬事到來。猫兒上露柱，鐵鋸舞三臺。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi (楚石梵琦禪師語錄). Chushi Fanqi (楚石) declares in a hall address that before the donkey's business is done the horse's arrives, and that the cat climbs the dew-pillar while the iron saw dances the three terraces (猫兒上露柱，鐵鋸舞三臺).",
+          "MasterName": "Chushi Fanqi",
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "T/T48/T48n2004.xml",
+        "T/T51/T51n2077.xml",
+        "X/X84/X84n1583.xml",
+        "X/X81/X81n1568.xml",
+        "T/T51/T51n2076.xml",
+        "X/X71/X71n1420.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "貓兒",
+        "南泉斬猫",
+        "斬猫",
+        "兩堂爭猫",
+        "趙州戴草鞋",
+        "不殺",
+        "殺生"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

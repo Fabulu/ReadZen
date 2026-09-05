@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "generic-dictionary-final-release-authority.v1",
+  "cohort": "r2-20260903",
+  "authorizedBy": "coordinator (Claude)",
+  "authorizedUtc": "2026-09-03T22:29:12.748065+00:00",
+  "releaseAuthorized": true,
+  "basis": "Lane R2 (external-review correction lane answering the user's 2026-09-03 conditional-pass verdict on the R1a-R1c repair arc, SPEC_R2_20260903.md): 8 edit records over 3 entries — t_ea2a427c7aba 坐禪: the three T48n2025 occurrences (1143a07, 1113a21, 1143a12) re-attributed from the fabricated speaker 'Dehui' — the Yuan recompiler 東陽德煇, never a speaking master — to editorial/compiler-voice representation (MasterName null; ActorAttribution impersonal / institutional procedure / 'the monastic code's institutional voice', label verbatim in each note with 元 德煇重編 as textual provenance; ContextMasters Dongyang Dehui [compiler]; RelatedMasters 'Dehui' -> roster name 'Dongyang Dehui'; Explanation reworded off the compiler's name), carried rel/lb/kwic/Curated/HeadwordSpanReview byte-identical; t_057cc9ea8755 攝心: 'his own record' -> 'his recorded sayings, compiled by his disciples' + the s1o3 AttributionNote gains (至柔等編); t_968a2f97c9ff 一不成，二不是: SearchAliases += '一不成、二不是' (the withdrawn-ID replacement's search alias, C1-confirmed). Occurrence counts unchanged (9+3 / 6 / 10). Machine gates CLEAN: attribution zero rows on the products PRE and POST; depth hardPass 3/3 preserved; count claims live-true (1,207/265; 141/75); retired-rel zero fleet-wide; sibling protection (t_ab715aa474d5, t_351fa42d396b untouched for the follow-up lane); off-worklist byte-identity over 4,501 files; alias owned by exactly one entry and absent from the installed index; fleet 8,384 rows zero NEW. Blind r1 PASS with 8/8 canaries caught by every reviewer and zero confirmed findings. Public surface: replace-mode for the 3 ids; no adds, no withdrawals; entry count unchanged. Dictionary edits local-only (agent clone, contrib branch); no push.",
+  "products": [
+    {
+      "id": "t_ea2a427c7aba",
+      "entrySha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7"
+    },
+    {
+      "id": "t_057cc9ea8755",
+      "entrySha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd"
+    },
+    {
+      "id": "t_968a2f97c9ff",
+      "entrySha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b"
+    }
+  ],
+  "builtOn": {},
+  "withdrawn": []
+}

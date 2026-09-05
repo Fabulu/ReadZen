@@ -1,0 +1,178 @@
+{
+  "schemaVersion": "generic-dictionary-publication-manifest.v1",
+  "cohort": "r2f1-main-20260905",
+  "buildRoot": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build",
+  "termsRoot": "terms",
+  "publicRoot": "/mnt/c/programmieren/CbetaZenTranslations",
+  "stageRoot": "fresh-build/r2f1-main-20260905/publication-stage",
+  "installReceipt": "maintenance/r2f1-main-20260905-generic-install-receipt.json",
+  "authority": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2f1-main-20260905-final-release-authority.json",
+    "sha256": "85924b206294019302da8d90408ff29ff4a9fe79486cdb8ec9f121e049cb8147"
+  },
+  "reviews": [
+    {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/fresh-build/r2f1-main-20260905/cohort-bound-review.json",
+      "sha256": "15db83f1289f02f55b2bf1a5aeb0f3b171d252cbb34876a6dc334fe40e0f106a"
+    }
+  ],
+  "reviewArtifacts": [
+    {
+      "round": "r2-r1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-blind-r1-rows-20260903.json",
+      "sha256": "712b7ae204999cb061663915d5b7fa68e32fe58ad4e95b290ddb2395352a5583"
+    },
+    {
+      "round": "f1-r1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/f1-blind-r1-rows-20260905.json",
+      "sha256": "fcb1c4f0865ff1841122ea75ed069847b621dd6b10e1fdf10fe4ac75aa6ff251"
+    }
+  ],
+  "receipts": {
+    "r2-blind-r1-adjudication-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-blind-r1-adjudication-20260903.json",
+      "sha256": "166d03c0d320e094180b660a005c94ba8e07cbef2ee3ada03dbf354a709649b5",
+      "note": "R2 blind-round adjudication: PASS, 8/8 canaries, 1 honest flag byte-refuted (coordinator rulings)"
+    },
+    "r2-gates-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-gates-20260903.json",
+      "sha256": "0848d24f6a7ca2dce37965dfe66d8797519e19d04205a9110227088b6bd593d4",
+      "note": "R2 machine gates CLEAN"
+    },
+    "r2-20260903-generic-install-receipt.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-20260903-generic-install-receipt.json",
+      "sha256": "153c84dfaf630cfa1b21b4f3232dce8eab6fe643a9061ae5a271430bbfba4b1d",
+      "note": "R2 install receipt (hardPass, agent contrib @ 8457672)"
+    },
+    "r2-archive-bundle-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-archive-bundle-20260903.json",
+      "sha256": "c9bac82dea92648fe711ab97372b34b4ce4580427ed72a98ce9b2b6dd313f31a",
+      "note": "R2 archive bundle (allPassed)"
+    },
+    "f1-blind-r1-adjudication-20260905.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/f1-blind-r1-adjudication-20260905.json",
+      "sha256": "7d1814110bd94acc058814d69a929cea189882d84e865280540022556a8b4160",
+      "note": "F1 blind-round adjudication: PASS, 5/5 canaries, 0 honest flags"
+    },
+    "f1-gates-20260905.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/f1-gates-20260905.json",
+      "sha256": "374ad5444faf4084d39f00fd99aa5ae0addbf6be4edebbb27cefc8cde97b9ba4",
+      "note": "F1 machine gates CLEAN"
+    },
+    "f1-20260905-generic-install-receipt.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/f1-20260905-generic-install-receipt.json",
+      "sha256": "748f3e369dfd32b80904f706b7dd91d08384f6dd14bea5260672859a93bb9149",
+      "note": "F1 install receipt (hardPass, agent contrib @ 3d5a327)"
+    },
+    "r2-commit-message-20260903.txt": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-commit-message-20260903.txt",
+      "sha256": "fa5ec56a7ba245413a7b9d67566b45b309e5e733b69a698b2c90545a8f2a4c71",
+      "note": "R2 local commit message"
+    },
+    "f1-commit-message-20260905.txt": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/f1-commit-message-20260905.txt",
+      "sha256": "4720f4f3b6570c63ed0019fd30caecb07c688cf244eeffe679fa2675cef69a96",
+      "note": "F1 local commit message"
+    },
+    "probe_r2f1_main_facts_20260905.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/probe_r2f1_main_facts_20260905.py",
+      "sha256": "6d09108f93ee7a46fe9014bba0e67a263840a05454f7bf0ab08fdfa9834da4e1",
+      "note": "main publish-clone probe: branch/HEAD pin, 4 baselines + 351fa absence, main Dehui census = 1 row (inside a product), zero duplicate-term families (no order churn)"
+    },
+    "probe_r2f1_main_staged_eyeball_20260905.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/probe_r2f1_main_staged_eyeball_20260905.py",
+      "sha256": "1349564e1a6348e6a080b6d209bdae0885f9a6a60e24b5defbfdb94f84ba3287",
+      "note": "staged-surface laws vs main HEAD: changed set == 5 products, count 4,716, no-regression per-id, census 0, renders the repaired windows as they appear on main"
+    },
+    "verify_r2f1_main_install_20260905.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/verify_r2f1_main_install_20260905.py",
+      "sha256": "2ef828a5203ea5f4a00c6bc92088b989f4f97d70bd527ea525d8c82da6d703f1",
+      "note": "post-install verify on the publish clone: product bytes, count +1, off-product byte-identity, index/legacy/shard/alias laws, git footprint, census 0"
+    }
+  },
+  "products": [
+    {
+      "id": "t_ea2a427c7aba",
+      "sourceDir": "fresh-build/entries/t_ea2a427c7aba/r2f1-main-20260905",
+      "entrySha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+      "worksheetSha256": "6f2914ddd66699e7cdc052c553c3f139485c4c32ca63024de4aa23cdda5f87c9",
+      "workSha256": "231d3eb8b3f4bba86b4100923ef4d6d72a58e8e24ca2c4366a1350d5e1386a8a",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+      "beforeSha256": "69224e4b57cdcadb03f5708ea3345c595baf178a93dc68461134f5df243123c2"
+    },
+    {
+      "id": "t_057cc9ea8755",
+      "sourceDir": "fresh-build/entries/t_057cc9ea8755/r2f1-main-20260905",
+      "entrySha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+      "worksheetSha256": "9b3133b9b7e5379cd2f55bb70d8f606b50fbfdf78aeddd5d5e9a35cb30bbe478",
+      "workSha256": "9d9cdc97e42573ccfd0d3bb2004a8048273de3db12e7102574a28038946fa6c4",
+      "termsMode": "replace",
+      "termsBaselineSha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+      "beforeSha256": "59edf60cf8b3e74bea3e72ef86b52c0ea6b89b05aed3517a9f1e86c974875d4c"
+    },
+    {
+      "id": "t_968a2f97c9ff",
+      "sourceDir": "fresh-build/entries/t_968a2f97c9ff/r2f1-main-20260905",
+      "entrySha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b",
+      "worksheetSha256": "c062e88b7a068b214e10e58557021ba77c50f79f3d685d4aac25a4b2df716ef2",
+      "workSha256": "4bcb69220468bc19098a31aebe98188b113a696854f7e08e8bbd002be6727211",
+      "termsMode": "replace",
+      "termsBaselineSha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b",
+      "beforeSha256": "b715827b4ad15988250d1db56f448727085706880c2973507c3506bae649d3a9"
+    },
+    {
+      "id": "t_ab715aa474d5",
+      "sourceDir": "fresh-build/entries/t_ab715aa474d5/r2f1-main-20260905",
+      "entrySha256": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe",
+      "worksheetSha256": "a2c2af89d16a474d9a94d6ad0a8b416276e6bdcbbcea6d76174456a85149a784",
+      "workSha256": "bdeb64de3ade14b64e97b63b47b75354eb6b962749f81f437ca68719b6e6910e",
+      "termsMode": "replace",
+      "termsBaselineSha256": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe",
+      "beforeSha256": "590a2b7518c535482ae1d9a1263f2daf6a409d13a39f51b72ee0f38550c239a2"
+    },
+    {
+      "id": "t_351fa42d396b",
+      "sourceDir": "fresh-build/entries/t_351fa42d396b/r2f1-main-20260905",
+      "entrySha256": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d",
+      "worksheetSha256": "3a563dc24aa5f136fb9d7e30afca5919b1c9dba5259421deb41527e8038286d9",
+      "workSha256": "d2071c707e794dbbadb8446f27722299cc8cb6159317e3259786da31fafa168d",
+      "termsMode": "replace",
+      "termsBaselineSha256": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d",
+      "beforeSha256": null
+    }
+  ],
+  "withdrawn": [],
+  "roster": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/Assets/Data/lineage-masters.json",
+    "sha256": "bdee500537cffced1759f28f2516d8ac613f2d10e3bbdc7b4d35da6bb9bc474a"
+  },
+  "node": {
+    "windowsNodeExe": "/mnt/c/Program Files/nodejs/node.exe",
+    "script": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/eng/tools/merge-dict-entries.js",
+      "sha256": "83e7df825338b11652786541941610a7501b4ad288524846d145ae9e7a912d35"
+    },
+    "cwd": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator",
+    "status": "r2f1-main-20260905-ready"
+  },
+  "integrityCommand": "",
+  "extraSurfaces": {
+    "note": "Combined R2+F1 MAIN publication (product-level). Main pinned at 989df5ddc8e2 (4,715 entries); expected after install: 4,716 (4 replaces + the t_351fa42d396b add). No-regression law: every non-product entry byte-identical to main HEAD (the old wholesale termbase-checkout recipe is explicitly REJECTED — it would delete 347 main-only entries and revert main-side R9x repairs; the fork is disclosed, not resolved: 131 agent-only entries remain unpublished pending a future reconcile lane). Main Dehui census before: 1 row(s) ['t_ab715aa474d5 一日不作一日不食 T/T48/T48n2025.xml 1144b03']; after: 0. Zero duplicate-term families on main, so the byTermThenId merger introduces no order churn. termsMode replace refers to the BUILD terms tree (all 5 exist there with the post-lane bytes); the public add of t_351fa42d396b flows through the node merge. beforeSha256 fields record MAIN's public baselines (null = absent on main).",
+    "mainPublicBaselines": {
+      "t_ea2a427c7aba": "69224e4b57cdcadb03f5708ea3345c595baf178a93dc68461134f5df243123c2",
+      "t_057cc9ea8755": "59edf60cf8b3e74bea3e72ef86b52c0ea6b89b05aed3517a9f1e86c974875d4c",
+      "t_968a2f97c9ff": "b715827b4ad15988250d1db56f448727085706880c2973507c3506bae649d3a9",
+      "t_ab715aa474d5": "590a2b7518c535482ae1d9a1263f2daf6a409d13a39f51b72ee0f38550c239a2",
+      "t_351fa42d396b": null
+    },
+    "mainEntryCountBefore": 4715,
+    "mainEntryCountExpectedAfter": 4716,
+    "forkDisclosure": {
+      "mainOnlyEntries": 347,
+      "agentOnlyEntries": 131,
+      "sharedEntries": 4368,
+      "resolution": "disclosed, not resolved by this cohort"
+    }
+  }
+}

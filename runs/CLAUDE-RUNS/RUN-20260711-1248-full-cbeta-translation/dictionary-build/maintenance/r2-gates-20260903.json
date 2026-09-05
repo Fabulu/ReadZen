@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "r2-gates",
+  "lane": "R2",
+  "cloneHead": "145b090",
+  "verdict": "CLEAN",
+  "problems": [],
+  "notes": [
+    "gate1: off-worklist byte-identity over 4501 untouched files",
+    "gate4: zero NEW attribution rows (pre 0, post 0)",
+    "gate5: depth pre hard 3 / post 3",
+    "gate9: fleet zero NEW rows (8384 rows; 0 resolved)"
+  ],
+  "gate4PostRows": []
+}

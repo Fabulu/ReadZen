@@ -1,0 +1,235 @@
+{
+  "Id": "t_0c53a5a2243b",
+  "SourceTerm": "知客",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane B evidence-first",
+  "WrittenUtc": "2026-07-16T12:01:39.532559+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "guest prefect",
+      "AlternateTargets": [
+        "guest-reception officer"
+      ],
+      "SearchAliases": [
+        "guest prefect",
+        "guest officer",
+        "reception officer",
+        "monastery guest master"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Six curated witnesses across distinct works delimit the monastery-office sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113b25",
+          "ToLb": "1113b26",
+          "Kwic": "知客跪進手爐。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Editorial or procedural text: Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The monastic-rule narrator supplies the impersonal headword-bearing wording; no person utters it.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic or editorial narration",
+            "ActorLabel": "the monastic-rule narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword denotes the monastic office in narration, a rule direction, or an editorial speech label; it is not uttered by the nearby master.",
+            "ReviewedBy": "Codex cohorts 1-3 106-115 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-15T23:53:49.210962+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0620b13",
+          "ToLb": "0620b15",
+          "Kwic": "愚以西堂一出，首座再出，都寺三出，後堂四出，藏主、維那、知客、侍者隨職為位，請於雲峰伯父力行焉，訖事無敢譁者。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): The preface author is unnamed: Chan Grove Ready-Reference Pure Regulations (禪林備用清規): The preface author remains unnamed and utters the headword-bearing wording.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic or editorial narration",
+            "ActorLabel": "the unnamed preface author",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword denotes the monastic office in narration, a rule direction, or an editorial speech label; it is not uttered by the nearby master.",
+            "ReviewedBy": "Codex cohorts 1-3 106-115 full-case READ-AND-FIX",
+            "ReviewedUtc": "2026-07-15T23:53:49.210962+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0602b03",
+          "ToLb": "0602b04",
+          "Kwic": "明知客云：「龍蛇易辨，衲子難瞞。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi (浮石禪師語錄): Ming, the guest prefect is the identified non-master who utters the headword-bearing wording.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "named monastic officeholder",
+            "ActorLabel": "Ming, the guest prefect",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "明知客云 explicitly identifies Ming, the guest prefect, as the speaker of the headword-bearing line.",
+            "ReviewedBy": "Codex lane-B author repair",
+            "ReviewedUtc": "2026-07-16T12:01:39.532559+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J33/J33nB288.xml",
+          "FromLb": "0576b12",
+          "ToLb": "0576b12",
+          "Kwic": "本淨知客",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB288.xml). Recorded Sayings of Chan Master Hanyu Xian (憨予暹禪師語錄): The record narrator supplies the documentary label identifying Benjing as guest prefect; no person utters it.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary name or office title",
+            "ActorLabel": "the record narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "本淨知客 is a documentary personal-name-plus-office label. It identifies Benjing as the guest prefect; it is not a speech turn by Benjing or by the record owner.",
+            "ReviewedBy": "Codex lane-B fresh-author round4 full-case repair",
+            "ReviewedUtc": "2026-07-16T15:30:00+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0420a08",
+          "ToLb": "0420a08",
+          "Kwic": "中秋，謝都場監収并知客維那，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Expanded Record of Chan Master Xisou Shaotan (希叟紹曇禪師廣錄): Editorial or procedural text: Expanded Record of Chan Master Xisou Shaotan (希叟紹曇禪師廣錄): The ceremony heading supplies the impersonal headword-bearing wording; no person utters it.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "record-owner",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "monastic or editorial narration",
+            "ActorLabel": "the ceremony heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword denotes the monastic office in narration, a rule direction, or an editorial speech label; it is not uttered by the nearby master.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:28.388713+00:00",
+            "HeadingType": "section"
+          },
+          "MasterName": null
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "X/X63/X63n1245.xml",
+        "J/J26/J26nB185.xml",
+        "J/J33/J33nB288.xml",
+        "X/X70/X70n1390.xml"
+      ],
+      "RelatedMasters": [
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [
+        "旦過",
+        "維那",
+        "院主"
+      ],
+      "Explanation": "The guest prefect is the monastery officer responsible for receiving visitors and for assigned ceremonial movements. Rules place the office among the community posts, while records name individual holders speaking in interviews or serving in formal rites."
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to recognize the guest before the matter is raised",
+      "AlternateTargets": [
+        "guest-reception officer"
+      ],
+      "SearchAliases": [
+        "guest prefect",
+        "guest officer",
+        "reception officer",
+        "monastery guest master"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "One independent witness supports this provisional phrase sense; the seven curated witnesses belong to the entry as a whole and do not all attest this phrase.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0463a19",
+          "ToLb": "0463a19",
+          "Kwic": "罕逢未舉先知客，多見韓盧逐塊人。",
+          "Curated": true,
+          "MasterName": "Miyun Yuanwu",
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru (萬如禪師語錄): Miyun Yuanwu utters the headword-bearing wording in the stored passage.",
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB182.xml"
+      ],
+      "RelatedMasters": [
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "To recognize who has come before anything is brought up describes recognizing the person or move before it is explicitly presented. Miyun Yuanwu contrasts the rare person who does this (the source phrase) with the common person who chases a clod like a hound. Here ‘know’ is the verb and ‘guest’ its object, not the compound title of the monastery’s guest prefect."
+    }
+  ]
+}

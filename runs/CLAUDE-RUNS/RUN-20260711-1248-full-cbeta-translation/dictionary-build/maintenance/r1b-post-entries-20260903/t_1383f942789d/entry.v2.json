@@ -1,0 +1,186 @@
+{
+  "Id": "t_1383f942789d",
+  "SourceTerm": "殺生",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 A916-925 safe full-case author",
+  "WrittenUtc": "2026-07-15T14:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "killing a living being",
+      "AlternateTargets": [
+        "taking life"
+      ],
+      "SearchAliases": [
+        "killing living beings",
+        "taking life",
+        "precept against killing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Seven witnesses distinguish precept rule, anonymous questions, named public addresses, documentary tokens, and an extended compound.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0696b30",
+          "ToLb": "0696c04",
+          "Kwic": "地同根，萬物一體。」又云：「會萬物而為自己者，其唯聖人乎？」蓋聖人無他，唯知己而已矣！人之殺生害命，爾死我活，起惑造業，生死茫茫皆不知己之過也。若夫視一切生命皆吾支體，豈甘自食乎？觀一切草木咸我毛髮，豈忍輕傷乎？所",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove (紫竹林顓愚衡和尚語錄): Exact speaker: Zhuanyu Guanheng. The complete section confirms the headword-bearing turn.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Zhuanyu Guanheng"
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0401c08",
+          "ToLb": "0401c13",
+          "Kwic": "待消融，水若歸時尚有蹤。虗空本自無分合，到底無歸絕異同。壽寧秀生靜主請上堂。僧問：受戒之人殺生害命，持呪懺悔，撞著箇殺佛殺祖底來作麼生懺？師云：你還殺得麼？進喝一喝，云：殺却了也。師笑云：錯。乃云：佛祖妙道至易至近",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄): The questioning monk is unnamed: Exact actor state: the unnamed questioning monk. The complete section confirms this attribution state.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed questioning monk",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "All six attribution rungs were checked; the source supplies only the unnamed questioning monk, not a recoverable named master.",
+            "ReviewedBy": "Codex f004 author cohort0 repair",
+            "ReviewedUtc": "2026-07-15T16:41:19.006168+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0292c20",
+          "ToLb": "0292c24",
+          "Kwic": "分身兩處看。問：學人到已一月，不見堂頭時如何？師曰：者老漢甚處去也？僧擬議，師便打。問：殺生是大戒，為甚麼南泉斬猫，歸宗斬蛇？師曰：汝實恁麼問麼？曰：是。師曰：汝當懺悔去。問：如何是離一切相即名諸佛？師便掌，僧禮拜。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): The questioning monk is unnamed: Exact actor state: the unnamed questioning monk. The complete section confirms this attribution state.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed questioning monk",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "All six attribution rungs were checked; the source supplies only the unnamed questioning monk, not a recoverable named master.",
+            "ReviewedBy": "Codex f004 author cohort0 repair",
+            "ReviewedUtc": "2026-07-15T16:41:19.006168+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0525c19",
+          "ToLb": "0525c19",
+          "Kwic": "佛告迦葉。實殺生。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): Exact actor state: the Source Mirror Record compiler. The complete section confirms this attribution state.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary token",
+            "ActorLabel": "the Source Mirror Record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (宗鏡錄). The surviving curated witness is the bare documentary token “killing a living being.”",
+            "ReviewedBy": "Codex f004 A916-925 safe full-case author",
+            "ReviewedUtc": "2026-07-15T14:05:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0237c06",
+          "ToLb": "0237c07",
+          "Kwic": "問：「世尊道：『我從賢聖法來，未曾殺生。』為甚生下兒子？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄): Exact actor state: the record compiler. The complete section confirms this attribution state.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary token",
+            "ActorLabel": "the record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (朝宗禪師語錄). The surviving curated witness is a bare documentary token, not a bounded spoken turn.",
+            "ReviewedBy": "Codex f004 A916-925 safe full-case author",
+            "ReviewedUtc": "2026-07-15T14:05:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0709a19",
+          "ToLb": "0709a23",
+          "Kwic": "卻乃皮如蛇蛻。德山、臨濟路見不平，一個棒如雨點，一個喝似雷轟；洞山、雲門傍觀最親，一個機外殺生，一個句中利害。轉使兩下，冤深流毒汝輩，杖人到此作麼生柰得彼何？乃為他擒出板齒生毛。老趙州問渠：「狗子有佛性也無？」向者",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師語錄): Exact speaker: Juelang Daosheng. The complete section confirms the headword-bearing turn.",
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Juelang Daosheng"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB219.xml",
+        "X/X72/X72n1437.xml",
+        "X/X82/X82n1571.xml",
+        "T/T48/T48n2016.xml",
+        "J/J34/J34nB300.xml",
+        "X/X63/X63n1245.xml",
+        "J/J25/J25nB174.xml"
+      ],
+      "RelatedMasters": [
+        "Zhuanyu Guanheng",
+        "Juelang Daosheng"
+      ],
+      "RelatedTerms": [
+        "南泉斬貓",
+        "斬貓"
+      ],
+      "Explanation": "Killing a living being is the taking of animal or human life. Chan records state it as the first of the five precepts, ask whether Nanquan cutting the cat counts against the major prohibition, and use the phrase in questions about confession. Other addresses extend the wording into compounds such as “killing outside the mechanism”; those retain the act-word while changing its object or grammatical setting."
+    }
+  ]
+}

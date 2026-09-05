@@ -1,0 +1,60 @@
+{
+  "entryCount": {
+    "before": 4715,
+    "after": 4716
+  },
+  "changedSet": [
+    "t_057cc9ea8755",
+    "t_351fa42d396b",
+    "t_968a2f97c9ff",
+    "t_ab715aa474d5",
+    "t_ea2a427c7aba"
+  ],
+  "addedSet": [
+    "t_351fa42d396b"
+  ],
+  "dehuiCensus": {
+    "before": [
+      "t_ab715aa474d5 T/T48/T48n2025.xml 1144b03"
+    ],
+    "after": []
+  },
+  "nonProductRegression": [],
+  "aliasAdded": [
+    "Chan sitting",
+    "collect the mind",
+    "communal meal schedule",
+    "cooked rice and gruel",
+    "dhyana beyond posture",
+    "dhyana not sitting or lying",
+    "dhyana procedure",
+    "draw in the mind",
+    "gather the mind",
+    "gathering mind",
+    "gruel and rice",
+    "hold the mind in",
+    "meal food",
+    "meal provision",
+    "monastery meal routine",
+    "monastery meals",
+    "monastic food",
+    "non-postural sitting dhyana",
+    "regulated sitting",
+    "rice and gruel",
+    "seated dhyana",
+    "sitting dhyana",
+    "sitting dhyana while lying down",
+    "一不成、二不是"
+  ],
+  "aliasLost": [
+    "Zen not sitting or lying",
+    "Zen while seated",
+    "hold the mind collected",
+    "restrain the mind",
+    "seated Zen work",
+    "sitting Zen",
+    "sitting Zen beyond posture",
+    "sitting Zen while lying down",
+    "two daily meals"
+  ]
+}

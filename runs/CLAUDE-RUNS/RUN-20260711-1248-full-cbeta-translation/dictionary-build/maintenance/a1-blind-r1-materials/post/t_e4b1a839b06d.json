@@ -1,0 +1,143 @@
+{
+  "Id": "t_e4b1a839b06d",
+  "SourceTerm": "長安大路",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-21T09:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Chang’an’s great road",
+      "AlternateTargets": [
+        "the broad road to Chang’an"
+      ],
+      "SearchAliases": [
+        "the broad road to Chang’an"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Four works preserve the capital road in direct answers, a monastery approach, and verse.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0057b19",
+          "ToLb": "0057c04",
+          "Kwic": "州八十方行脚。曰：得恁麼不知時節？師曰：行到南泉即便休。乃曰：乍臨勝席，實慰靈襟。群峰列岫，常露自己家風。夾道青松，直透長安大路。烟雲橫野，殿閣凌空。不移跬步之間，頓入華藏世界。顧左右曰：大眾入則不無，還見善財麼？遂垂下一足曰：久參上士，已自知歸。乍到禪人，不妨搆取。石霜琳禪師法嗣石霜琳禪師法嗣鼎州德山靜照庵宗什庵主鼎州德山靜照庵宗什庵主僧問：如何是庵中主？師曰：從來不相許。僧擬議，師曰：會即便會，不得安名著字。僧擬開口，師便打出。師室中常以拂",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) with Chinese title (五燈全書(第34卷-第120卷)). Speaker: Yangshan Qingjian.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "master named in the source",
+            "ActorLabel": "Yangshan Qingjian",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Yangshan Qingjian: The 乃曰 boundary in Yangshan Qingjian’s record fixes the road statement to him.",
+            "ReviewedBy": "Codex Lane-B B55-60 full-case review",
+            "ReviewedUtc": "2026-07-21T09:00:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB165.xml",
+          "FromLb": "0291b02",
+          "ToLb": "0291b14",
+          "Kwic": "舉世尊降生頌曰：指天指地獨稱尊，誰為銘肌共報恩？莫道兒孫渾不肖，也知末上有雲門。舉梁武帝問達麼大師頌曰：廓然無聖又不識，長安大路如絃直；得來謁君不得君，翻成萬里關山隔。一蘆江上去茫茫，闔國人追追不及；少林冷坐纔九秋，千古清風蕩八極。舉僧問趙州：「如何是趙州？」州云：「東門西門南門北門。」頌曰：直指東西南北門，堂堂大道接天閽；行人好去不歸去，回首雲泥又夕昏。舉道吾至一家吊慰，漸源撫棺問：「生耶？死耶？」吾云：「生也不道，死也不道。」源云：「為甚麼",
+          "MasterName": "Dawei Fabao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dawei Fabao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB165.xml). Bamboo Chamber Collection of Chan Master Dawei (大巍禪師竹室集). Speaker: Dawei Fabao."
+        },
+        {
+          "RelPath": "J/J35/J35nB343.xml",
+          "FromLb": "0843b22",
+          "ToLb": "0843b23",
+          "Kwic": "僧問：「家家有路透長安，何處是長安大路？」師云：「出門便蹋著。」進云：「不顧腳下時如何？」",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyin Zhenchuan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain (廣福山勝覺寺密印禪師語錄). Speaker: the unnamed questioning monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "reviewed human voice",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The reviewed 僧問 boundary in the complete case fixes the unnamed questioning monk as the exact headword voice; Miyin Zhenchuan owns only the responses.",
+            "ReviewedBy": "A1 attribution repair gates + blind r1",
+            "ReviewedUtc": "2026-09-02T08:10:44Z"
+          }
+        },
+        {
+          "RelPath": "J/J40/J40nB473.xml",
+          "FromLb": "0021a28",
+          "ToLb": "0021b07",
+          "Kwic": "悠遊。」為隱悟秉拂。云：「昔本不迷，即今何悟？截斷兩頭，當陽顯露。且道：又無迷、又無悟，畢竟顯露個甚麼？」喝一喝，云：「長安大路坦然平，一超直入如來戶。」為文殊和尚秉炬。云：「法弟本是京都人，爾今卻到三韓住。愚兄為汝道分明，莫要忘卻來時路。」以火炬圓相，云：「紅爐煙裏了無生，寂滅光中常獨露。」攛下火炬。為明上座起龕。以拄杖擊龕一下，云：「打破虛空界，明暗兩無干，獨露真常體，長短任方圓。現在一句又作麼道？」舉拄杖，云：「起。」為實明起棺。「鳳有巢",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB473.xml). Recorded Sayings of Chan Master Langkongshun of Panshan (盤山朗空順禪師語錄). Speaker: Panshan Langkong Shun.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "master named in the source",
+            "ActorLabel": "Panshan Langkong Shun",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Panshan Langkong Shun: The verse boundary in Panshan Langkong Shun’s record attributes the road line to him.",
+            "ReviewedBy": "Codex Lane-B B55-60 full-case review",
+            "ReviewedUtc": "2026-07-21T09:00:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "J/J25/J25nB165.xml",
+        "J/J35/J35nB343.xml",
+        "J/J40/J40nB473.xml"
+      ],
+      "RelatedMasters": [
+        "Dawei Fabao",
+        "Miyin Zhenchuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Chang’an’s great road is the broad, direct road to the capital. The records place it among monastery approaches, in case-verses, and in direct questions about where the road is met. Yangshan Qingjian says the pines lining the way go straight through to Chang’an’s road. Dawei Fabao’s Bodhidharma verse calls it straight as a string; Miyin Zhenchuan answers that one steps on it upon leaving the gate; Panshan Langkong Shun calls it level and open."
+    }
+  ]
+}

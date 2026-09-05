@@ -1,0 +1,151 @@
+{
+  "Id": "t_d7725cb0c8c0",
+  "SourceTerm": "水頭",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 B1031-1040 full-case repair author",
+  "WrittenUtc": "2026-07-15T15:42:24.584850+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "water steward",
+      "AlternateTargets": [
+        "monastery water steward",
+        "officer responsible for water"
+      ],
+      "SearchAliases": [
+        "water steward",
+        "monastery water steward",
+        "officer responsible for water"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "4 curated occurrences retained after removing punctuation collisions and bare paratext; sources are counted by canonical work ID at validation.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522b15",
+          "ToLb": "0522c08",
+          "Kwic": "冬年人事巡寮迎接請知事第三卷監院維那典座直歲下知事請頭首首座書狀藏主第四卷知客庫頭浴主街坊水頭炭頭華戲嚴磨頭園頭莊主廨院主延壽堂主淨頭殿主鐘頭聖僧侍者爐頭直堂寮主寮首座堂頭侍者第五卷化主下頭首堂頭煎點僧堂內煎點知事",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): the monastic code's institutional voice is the exact headword actor after reading the complete case.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "institutional list or rule",
+            "ActorLabel": "the monastic code's institutional voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case was read for who utters 水頭. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.",
+            "ReviewedBy": "Codex f004 B1031-1040 source actor repair",
+            "ReviewedUtc": "2026-07-15T15:48:54.231393+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0642a04",
+          "ToLb": "0642a10",
+          "Kwic": "舊都寺首座，各插香，係庫司備送。在覆替先審詳已，就便請人寮元、延壽堂主、淨頭、爐頭、炭頭、水頭、列項雜職。待請兩班了，別日詣堂司告退。擇道心人，次第交替方丈問訊。庫司人事，隨例點心管待。帝挂鉢請知事帝挂鉢請知事大慧",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): the monastic code's institutional voice is the exact headword actor after reading the complete case.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "institutional list or rule",
+            "ActorLabel": "the monastic code's institutional voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case was read for who utters 水頭. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.",
+            "ReviewedBy": "Codex f004 B1031-1040 source actor repair",
+            "ReviewedUtc": "2026-07-15T15:48:54.231393+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1069a26",
+          "ToLb": "1069b03",
+          "Kwic": "客。為眾僧請召故有侍者。為眾僧看守衣鉢故有寮主。為眾僧供侍湯藥故有堂主。為眾僧洗濯故有浴主水頭。為眾僧禦寒故有炭頭爐頭。為眾僧乞丐故有街坊化主。為眾僧執勞故有園頭磨頭莊主。為眾僧滌除故有淨頭。為眾僧給侍故有淨人。所",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitory Instructions for the Monastic Gate (緇門警訓): the monastic code's institutional voice is the exact headword actor after reading the complete case.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "institutional list or rule",
+            "ActorLabel": "the monastic code's institutional voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case was read for who utters 水頭. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.",
+            "ReviewedBy": "Codex f004 B1031-1040 source actor repair",
+            "ReviewedUtc": "2026-07-15T15:48:54.231393+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1133a20",
+          "ToLb": "1133b02",
+          "Kwic": "添助供眾。其或恒產足用。不必多往干求取厭也。園主園主不憚勤苦。以身率先。栽種菜蔬及時灌溉。供給堂厨。毋使缺乏。磨主磨主兼主碓坊米麫。供眾極有關系。須擇有道心人。諳曉舂磨等事者充之。水頭水頭五更燒湯。供大眾󱡋盥。手巾面盆燈燭牙藥。毋令缺少。冬月烘焙手巾須早起鋪排。勿致臨時動眾念。炭頭炭頭預備柴炭以禦寒事。或化施主。或出公界。須令足用。莊主莊主視田界至修理莊舍。提督",
+          "Curated": true,
+          "MasterName": null,
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "institutional list or rule",
+            "ActorLabel": "the monastic code's institutional voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete case was read for who utters 水頭. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.",
+            "ReviewedBy": "Codex f004 B1031-1040 source actor repair",
+            "ReviewedUtc": "2026-07-15T15:48:54.231393+00:00"
+          },
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice is the exact headword actor after reading the complete case.",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact spans remain together because all repeated spans occur in the same indivisible clause governed by the same exact actor; no independently unique single-span recut exists in this source."
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X63/X63n1250.xml",
+        "T/T48/T48n2023.xml",
+        "T/T48/T48n2025.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "Explanation": "The water steward is a named monastery office, not the head or source of a stream in these witnesses. Monastic codes list the office among the minor posts alongside the bath, charcoal, furnace, garden, and latrine stewards; one code states its concrete responsibility as heating washing water and arranging the community's basins and towels. The term belongs to the working institutional vocabulary that makes the public hall and resident community possible."
+    }
+  ]
+}

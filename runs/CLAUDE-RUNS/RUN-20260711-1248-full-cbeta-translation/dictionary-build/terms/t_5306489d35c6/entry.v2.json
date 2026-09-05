@@ -1,0 +1,292 @@
+{
+  "Id": "t_5306489d35c6",
+  "SourceTerm": "化主",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 laneB exact8 priority repair author",
+  "WrittenUtc": "2026-07-15T17:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the alms-raising officer",
+      "AlternateTargets": [
+        "the monastery fundraiser"
+      ],
+      "SearchAliases": [
+        "alms raising officer",
+        "monastery fundraiser",
+        "fundraising monk",
+        "solicitation officer"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "8 reviewed witnesses delimit this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0669a07",
+          "ToLb": "0669a08",
+          "Kwic": "其時有化主問學人與麼去時將何稟受",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic officer",
+            "ActorLabel": "the unnamed alms-raising officer",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "其時有化主問 explicitly introduces an unnamed alms officer’s question to Shoushan Xingnian.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0032c23",
+          "ToLb": "0033a06",
+          "Kwic": "到家人不識，鵲噪鴉鳴栢樹間。上堂：千般說，萬般喻，祇要教君早回去。去何處？良久曰：夜來風起滿庭香，吹落桃花三五樹。因化主歸，上堂：世間有五種不易：一、化者不易，二、施者不易，三、變生為熟者不易，四、端坐喫者不易。更有一種不易是甚麼人？良久曰：聻。便下座。上堂，拈拄杖曰：橫拈倒",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps Vols. 34–120: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "record-owner",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary narrator",
+            "ActorLabel": "the reviewed unnamed compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The occasion heading says an alms officer returned; Huanglong’s following address does not utter the title.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0077a18",
+          "ToLb": "0077a24",
+          "Kwic": "藥山與者僧既有諸方老宿批判分明，且置而勿論，我要問諸昆仲：畢竟喚甚麼作一句子？不許依模拉樣別道看。速道！速道！藥山因化主到甘贄行者家，甘問：甚處來？主曰：藥山來。甘曰：還將得藥來麼？主曰：行者有甚麼病？甘遂捨銀兩錠，主得銀便歸納疏。山問：子歸何速？主舉前話，山曰：子著賊了也，",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary narrator",
+            "ActorLabel": "the reviewed unnamed compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The inherited-case narrator says Yaoshan’s alms officer arrived at Gan Zhi’s house.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0358c20",
+          "ToLb": "0359a03",
+          "Kwic": "足，此人有家無家？若有家，因什麼却無片瓦遮頭？若無家，十二時中向什麼處安身立命？妙體本來無處所，通身那更有蹤由。謝二化主。水中燒火，特地人疑。山上使帆，會者應稀。二理雙忘，頓入幽微。一瓶一鉢，章江興歸。是也還是，非也還非。白雲綻處，明月光輝。雙放雙収人不會，滿山松竹泄天機。正",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Sixin Wuxin",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary narrator",
+            "ActorLabel": "the reviewed unnamed compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The editorial occasion heading thanks two alms officers before Sixin Wuxin’s verse.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X73/X73n1450.xml",
+          "FromLb": "0089b19",
+          "ToLb": "0089c06",
+          "Kwic": "此去若能傳祖印，善開方便利群生。送肇雜那送肇雜那數年學道靈嵓上，達後方知此事尊。高步毗盧南北去，爍迦羅眼照乾坤。送光化主送光化主千聖同傳古佛心，靈山付囑至如今。玄徒欲繼存高志，立處須教與眾欽。送圓化主送圓化主衲子辭吾下翠微，入𨞬化導看臨時。但能護惜衣中寶，日月無窮運大慈。送然",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X73/X73n1450.xml). Separate Record of Chan Master Huilin Zongben: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huilin Zongben",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary narrator",
+            "ActorLabel": "the reviewed unnamed compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The poem heading identifies Guang as an alms officer; Huilin authors the following departure verse.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null,
+          "HeadwordSpanReview": {
+            "Count": 4,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 4 occurrences of 化主 to the reviewed unnamed compiler; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "D/D50/D50n8945.xml",
+          "FromLb": "0011b03",
+          "ToLb": "0012a01",
+          "Kwic": "造金剛贈󷩕晦叔雪峯造金剛執金剛神安法界塑之年深亦復壞居士有力如金剛一念成就金剛王魔塵不飛佛日光門外人趨選佛場送湖州覺化主送湖州覺化主佛子汝知世界海有等世界多寶藏於中凡聖情非情靡不皆依此寶住或取而有為慳貪或捨而亡為孤露有亡取捨紛其懷是皆未知真寶所佛子汝宜入世間開示人人令自悟求心",
+          "Curated": true,
+          "AttributionNote": "Source record (D/D50/D50n8945.xml). Outer Collection of Monk Xuefeng Kong: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xuefeng Huikong",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "documentary narrator",
+            "ActorLabel": "the reviewed unnamed compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The poem heading identifies Jue of Huzhou as an alms officer; the heading, not the verse body, contains the title.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null,
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 化主 to the reviewed unnamed compiler; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1133a19",
+          "ToLb": "1133a19",
+          "Kwic": "必籍化主。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "monastic-rule compiler",
+            "ActorLabel": "the reviewed unnamed rule compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The rule compiler describes why monasteries appoint alms officers.",
+            "ReviewedBy": "Codex author 1-3 136-145 complete-unit read",
+            "ReviewedUtc": "2026-07-16T00:32:57.711445+00:00"
+          },
+          "MasterName": null
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "D/D50/D50n8945.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X66/X66n1296.xml",
+        "X/X68/X68n1318.xml",
+        "X/X73/X73n1450.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Huanglong Huinan",
+        "Sixin Wuxin",
+        "Yaoshan Weiyan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The alms-raising officer is the monastic officeholder sent out to obtain material support for a monastery or communal project. The Chan monastic rules prescribe public appointment, travel among donors, return, and accounting; encounter narrators identify the officeholder, and Huilin Zongben addresses holders in departure verses. The title does not mean the monastery's presiding teacher."
+    }
+  ]
+}

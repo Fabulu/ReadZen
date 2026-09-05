@@ -1,0 +1,34 @@
+dictionary: publish R2+F1 correction lanes (5 products)
+
+Publishes the 2026-09-03 review-verdict correction arc (lanes R2 and
+F1) to main at the product level, per the 2026-09-04 authorization:
+
+- t_ea2a427c7aba (坐禪): three T48n2025 speaker rows (1113a21,
+  1143a07, 1143a12) re-attributed from the fabricated speaker "Dehui"
+  (the Yuan recompiler 元 德煇重編, never a speaking master) to the
+  monastic code's institutional voice; RelatedMasters renamed to
+  "Dongyang Dehui"; Explanation reworded off the compiler's name.
+- t_057cc9ea8755 (攝心): "his own record" -> "his recorded sayings,
+  compiled by his disciples"; occ-3 note gains 至柔等編 provenance.
+- t_968a2f97c9ff (一不成，二不是): SearchAliases += "一不成、二不是"
+  (withdrawn-ID replacement).
+- t_ab715aa474d5 (一日不作一日不食): 1144b03 (普請 communal-labor
+  directive citing 古人) re-attributed to the institutional voice.
+- t_351fa42d396b (粥飯): NEW ENTRY on main (agent-side id absent
+  here) — 1127c04 (遷化 funeral-observance scheduling) likewise
+  re-attributed; both F1 entries rename RelatedMasters to
+  "Dongyang Dehui"; 粥飯 Explanation "redacted by Dongyang Dehui,".
+
+After this commit the published surface has ZERO MasterName "Dehui"
+rows anywhere (this branch had exactly one: 1144b03, replaced here).
+Entry count 4,715 -> 4,716 (the one add); every other entry is
+byte-identical — the two publication surfaces (main vs the agent
+contrib branch) had forked (347 main-only / 131 agent-only entries),
+so this publish is deliberately product-level; the fork itself is
+disclosed, not resolved, pending a future reconcile lane.
+
+Both lanes passed the full protocol: blind independent review with
+planted canaries (R2: 8/8 by both reviewers; F1: 5/5 by both),
+machine gates CLEAN, install verifies, archive bundles allPassed.
+
+Co-Authored-By: Claude <noreply@anthropic.com>

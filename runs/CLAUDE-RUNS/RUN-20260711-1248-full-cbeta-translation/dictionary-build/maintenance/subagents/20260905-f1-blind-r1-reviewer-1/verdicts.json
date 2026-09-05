@@ -1,0 +1,48 @@
+{
+  "reviewer": "reviewer1",
+  "materialsPinsOk": true,
+  "rowsChecked": 10,
+  "flags": [
+    {
+      "rowId": "R0000",
+      "law": "A2",
+      "reason": "POST MasterName None != newMasterName 'Dongyang Dehui'"
+    },
+    {
+      "rowId": "R0002",
+      "law": "A2",
+      "reason": "POST ContextMasters [{'MasterName': 'Dongyang Dehui', 'Roles': ['compiler']}] != newContextMasters [{'MasterName': 'Dongyang Dehui', 'Roles': ['utterer']}]"
+    },
+    {
+      "rowId": "R0004",
+      "law": "A2",
+      "reason": "POST ActorAttribution != newActorAttribution (differs in: ['ActorLabel']; POST ActorLabel=\"the monastic code's institutional voice\" vs row \"the code compiler's editorial voice\")"
+    },
+    {
+      "rowId": "R0004",
+      "law": "A4",
+      "reason": "ActorLabel \"the code compiler's editorial voice\" not inside row newAttributionNote"
+    },
+    {
+      "rowId": "R0006",
+      "law": "A1",
+      "reason": "PRE Kwic '二時上粥飯。三時上茶湯。大眾諷經' != row '二時上粥飯。三時猫茶湯。大眾諷經'"
+    },
+    {
+      "rowId": "R0006",
+      "law": "A2",
+      "reason": "POST Kwic '二時上粥飯。三時上茶湯。大眾諷經' != row '二時上粥飯。三時猫茶湯。大眾諷經' [first divergence at char 8: A[2:16]='上(U+4E0A) 粥(U+7CA5) 飯(U+98EF) 。(U+3002) 三(U+4E09) 時(U+6642) 上(U+4E0A) 茶(U+8336) 湯(U+6E6F) 。(U+3002) 大(U+5927) 眾(U+773E) 諷(U+8AF7) 經(U+7D93)'  B[2:16]='上(U+4E0A) 粥(U+7CA5) 飯(U+98EF) 。(U+3002) 三(U+4E09) 時(U+6642) 猫(U+732B) 茶(U+8336) 湯(U+6E6F) 。(U+3002) 大(U+5927) 眾(U+773E) 諷(U+8AF7) 經(U+7D93)']"
+    },
+    {
+      "rowId": "R0008",
+      "law": "B1",
+      "reason": "POST Explanation contains after 0 times (need exactly 1)"
+    },
+    {
+      "rowId": "R0008",
+      "law": "B2",
+      "reason": "PRE Explanation with before->after != POST Explanation; first divergence at char 165: A[159:173]='  D e h u i   ( 非(U+975E) 粥(U+7CA5) 非(U+975E) 飯(U+98EF) ) ,'  B[159:173]='  D e h u i ,   s c h e d u'"
+    }
+  ],
+  "notes": "All 4 material sha256 pins matched. All 10 rows checked against laws A1-A4/B1-B2/C1-C2/E1-E3; B3' not applicable (no slot-field prose rows this round: oi is null on both explanation-rewrite rows); B4 evaluated once per Law-B-touched (entry,si) - only (t_351fa42d396b, si=1); every CJK run in its POST Explanation+Note is anchored by a POST Occurrences kwic (ClaimAnchors absent/empty). rowSha fields are unverifiable from the inputs: no canonical row serialization is specified and none of 4 plausible canonicalizations matched (see verify-report.txt); no law covers rowSha, so no flags were raised on it. E1/E2/E3 pass for both entries; E-flags would have named each entry's first row per protocol. Contradictory sibling rows noted: R0000 vs R0001 and R0002 vs R0003 make mutually exclusive claims about the same POST slot; the POST bytes agree with R0001/R0003."
+}

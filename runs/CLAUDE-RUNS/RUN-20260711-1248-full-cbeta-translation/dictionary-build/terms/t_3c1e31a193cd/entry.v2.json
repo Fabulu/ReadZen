@@ -1,0 +1,514 @@
+{
+  "Id": "t_3c1e31a193cd",
+  "SourceTerm": "金",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T20:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "gold",
+      "AlternateTargets": [
+        "the metal gold",
+        "gold as wealth or payment",
+        "gold-colored"
+      ],
+      "SearchAliases": [
+        "gold metal",
+        "pure gold",
+        "tested gold",
+        "gold refined from ore",
+        "gold money",
+        "gold payment",
+        "monetary gold",
+        "gold as riches",
+        "gold color",
+        "golden color",
+        "gold-like color",
+        "yellow like gold",
+        "golden appearance"
+      ],
+      "Status": "preferred",
+      "Explanation": "Here the headword is gold: the metal itself and, by ordinary extension, its use as wealth, a standard of value, or a comparison for yellow brilliance. The records repeatedly place gold on the purified, intrinsic, or highly valued side of local comparisons, so the enlightenment hypothesis cannot simply be dismissed; it must be stated at the scope the wording supports. Shenhui describes gold separated from ore by furnace-refining and explicitly quotes the analogy ‘gold is compared to the nature of reality; ore is compared to afflictions.’ Yongjue Yuanxian similarly says that when ore is refined away the original gold is naturally pure, then compares this with clarifying mind without borrowing from outside. Tiantai Deshao describes the nature of the realm of phenomena as fitting like container and lid, hook and lock, ‘like gold with gold,’ with every position equal and neither mixed nor confused. Those passages license the minimal inference that gold can locally carry purity, intrinsic nature, equality, or the true side of an awakening comparison. Their own comparison markers—‘is compared to,’ ‘likewise,’ and ‘like’—also prevent promoting that deployment into a second lexical sense in which every bare occurrence means enlightenment. Rahulata's exchange with Sanghanandi uses the same material stability differently: whether gold is in a well or out of it, Rahulata says the gold has no movement or stillness. Huiyuan of Lushan describes one gold made into different vessels without a separate vessel-body outside it. Ordinary property remains independently abundant: Tian'an Sheng quotes the proverb that one who steals gold is executed, and Xutang Zhiyu says that one grabbing gold does not see people. Ruibai Mingxue describes rapeseed flowers as yellow like gold. The controls are equally explicit. Zhantang Wenzhun calls a case the ‘gold-and-shit teaching’: not understanding it is like gold, understanding it like shit. Wuzu Fayan warns that although gold dust is precious, it clouds the eye when it falls into it, and Zhaozhou Congshen says a gold buddha does not pass through a furnace. Gold can therefore be refined, valued, compared, obstructive, or reversed in a named passage. Longer ball, pellet, dust, buddha, and golden-lock terms remain local family evidence; their gold component must be inferred from their own complete cases rather than imported as a universal code.",
+      "Validation": "multi-source",
+      "Note": "The apparatus-clean allowlist count is 37,149 substring matches in 452 files. This is not a lexical count for the standalone graph: large nested families include diamond or vajra compounds, yellow-gold compounds, place names, personal names, gold-color compounds, golden bodies, golden wheels, and many others. Indexed discovery used index-v4 stamp 269db8235c174e058e36b01e0af365ac; its text sidecar reported 37,439 matches in the same 452 files before the final apparatus-excluding XML gate. The item-8 retest merges metal, commodity, monetary, color-comparison, refining, and testing uses because they retain the same ordinary referent rather than naming different things. A falsification-directed enlightenment test found strong local deployments but not a bare lexical self-gloss: Shenhui explicitly says gold is compared to the nature of reality, Yongjue says clarifying mind is likewise, and Tiantai Deshao says the nature of the realm of phenomena is like gold with gold. The corpus therefore warrants a scoped true-nature/purity inference, while the explicit simile grammar and gold-and-shit, gold-dust, gold-buddha, monetary, and color controls block a corpus-wide equation. All longer golden-ball, golden-sphere, gold-pellet, and silver-pellet witnesses below carry EvidenceRole=family or contrast; they neither buy bare-headword depth nor supply aliases for the headword.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0143.xml",
+          "FromLb": "0217a01",
+          "ToLb": "0217a03",
+          "Kwic": "譬如金之與鑛俱時而生，得遇金師，鑪冶烹鍊，金之與鑛當各自別。金則百鍊百精。鑛若再鍊，變成灰土。涅槃經云，金者喻於法性，鑛者喻於煩惱。",
+          "MasterName": "Shenhui",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0143.xml). Third Dunhuang Manuscript of Master Shenhui’s Sayings: Nanyang Monk Q&A Misc. Doctrinal Points (Compiled by Liu Cheng) (神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）). Shenhui's governing answer describes gold separated from ore by refining and explicitly quotes the Nirvana Scripture's gold-and-dharmic-nature comparison.",
+          "ContextMasters": [
+            {
+              "MasterName": "Shenhui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0441c16",
+          "ToLb": "0441c18",
+          "Kwic": "如銷金者，但鍊去其鑛，則本金自純，又何待借色於他？明心之法亦復如是，非有待於外也。",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄). Yongjue Yuanxian compares removing ore until original gold is pure with clarifying mind without borrowing from outside.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0569c20",
+          "ToLb": "0569c22",
+          "Kwic": "譬如一金作種種器。非是金外別有器體。隨用別分受想行等。各守自相。得言有數。如金與器。非無差別。",
+          "MasterName": "Huiyuan of Lushan",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄). Compiled by Yongming Yanshou, explicitly attributes this analogy to Master Huiyuan of Lushan: one gold is made into different vessels without a vessel-body outside the gold.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyuan of Lushan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0036a08",
+          "ToLb": "0036a09",
+          "Kwic": "祖曰。若金在井。若金出井。金無動靜。何物出入。",
+          "MasterName": "Rahulata",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Explicit section on the sixteenth Indian patriarch Rahulata (十六祖羅睺羅多尊者): in the exchange with Sanghanandi, Rahulata asks whether gold in or out of a well itself has movement or stillness and what, then, enters or exits. Rahulata is the exact speaker.",
+          "ContextMasters": [
+            {
+              "MasterName": "Rahulata",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0712a11",
+          "ToLb": "0712a11",
+          "Kwic": "欲識真金火裏看，杖頭有眼明如日。",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師語錄). Juelang Daosheng says that true gold is to be seen in the fire. This longer true-gold formula is family evidence and does not buy standalone depth.",
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0875b19",
+          "ToLb": "0875b21",
+          "Kwic": "湛堂曰。爾爬著我痒處。這話是金屎法。不會如金。會得如屎。",
+          "MasterName": "Zhantang Wenzhun",
+          "Curated": true,
+          "EvidenceRole": "contrast",
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Dahui Zonggao reports Zhantang Wenzhun's exact reply: the case is a gold-and-shit teaching, like gold when not understood and like shit when understood. Zhantang Wenzhun is the quoted speaker.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0658b23",
+          "ToLb": "0658b23",
+          "Kwic": "金屑雖貴落眼成翳。",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan (法演禪師語錄). Within the record of Baiyun Haihui, Wuzu Fayan says that although gold dust is precious, it clouds the eye when it falls into it. The longer gold-dust phrase is family evidence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0043c10",
+          "ToLb": "0043c11",
+          "Kwic": "金佛不度爐，木佛不度火，泥佛不度水，真佛內裏坐。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Explicitly introduces this as Zhaozhou Congshen's hall address: a gold buddha does not pass through a furnace, a wooden buddha through fire, or a clay buddha through water. The gold-buddha compound is family evidence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0058a15",
+          "ToLb": "0058a16",
+          "Kwic": "南泉問黃檗：黃金為世界，白銀為壁落，是什麼人居處？檗曰：是聖人居處。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). In the Baizhang lineage section: Nanquan Puyuan asks Huangbo Xiyun whose dwelling has a world of yellow gold and walls of white silver; Huangbo answers that it is a sage's dwelling. Nanquan is the named questioner governing the exchange.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0545a09",
+          "ToLb": "0545a11",
+          "Kwic": "一拳拳倒黃鶴樓。一踏踏翻鸚鵡洲。慣向高樓驟玉馬。曾於急水打金毬。然雖恁麼爭奈有。五色絲絛擊手脚。三鑐金鎖鎖咽喉。",
+          "MasterName": "Dahong Shousui",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In the explicit Dahong Shousui biography: Dahong Shousui claims galloping a jade horse on a tower and playing a golden ball in rushing water, then says colored cords still bind the limbs and a golden lock closes the throat. The longer golden-ball image is family evidence. Dahong Shousui is source-attested but not yet in the roster.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahong Shousui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0687c14",
+          "ToLb": "0687c14",
+          "Kwic": "竊金者誅，竊國者侯。臨濟大師是白拈賊盜",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng (天岸昇禪師語錄). Tian'an Sheng quotes the proverb about stealing gold and a state, then calls Linji Yixuan a bare-handed thief. The headword-bearing phrase is a source-unattributed old saying whose original speaker the record does not identify; Tian'an Sheng is its later quoter and speaks the following remark about Linji Yixuan.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "quoted proverb",
+            "ActorLabel": "source-unattributed old saying",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Tian'an Sheng introduces the proverb 竊金者誅，竊國者侯 without naming its original speaker and then calls 臨濟大師 a bare-handed thief; the record, its section, the book title, the TEI header, and exact/parallel searches do not identify the saying's source, so it stays an impersonal quoted proverb with Tian'an Sheng as its later quoter.",
+            "ReviewedBy": "P1 chunk-D research freeze 20260901",
+            "ReviewedUtc": "2026-09-01T00:00:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "later-quoter"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0991b19",
+          "ToLb": "0991b20",
+          "Kwic": "師云。攫金者不見人。逐鹿者不見山。",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang (虛堂和尚語錄). Xutang Zhiyu comments that one grabbing gold does not see people and one chasing deer does not see mountains.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0005b24",
+          "ToLb": "0005c02",
+          "Kwic": "法界性海，如函如葢，如鉤如鎻，如金與金，位位皆齊。無纖毫參差，不相混濫。非一非異，非同非別。",
+          "MasterName": "Tiantai Deshao",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). In the explicit section on National Teacher Tiantai Deshao: Deshao says the nature of the realm of phenomena fits like container and lid, hook and lock, and gold with gold, with positions equal yet not mixed. This is Deshao's own headword statement.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantai Deshao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0259a16",
+          "ToLb": "0259a18",
+          "Kwic": "師問坐主云。爾與我講經得麼對云。某甲與和尚講經。和尚須與某甲說禪始得。師云。不可將金彈子博銀彈子去。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). In Nanquan Puyuan's explicit section: a scripture lecturer offers to explain scripture if Nanquan explains Chan; Nanquan refuses to barter a gold pellet for a silver pellet. Both pellet compounds are family evidence and do not define, search-route, or buy depth for the bare headword.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0674a21",
+          "ToLb": "0674a24",
+          "Kwic": "南泉謂座主曰你與我講經得麼主曰和尚與某甲說禪某甲與和尚講經師曰不可將金彈子換銀彈子去。",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "EvidenceRole": "contrast",
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Comprehensive Linked-Pearls Collection of Verse Commentaries on Old Cases (禪宗頌古聯珠通集). Nanquan Puyuan offers the sutra-lecturer the exchange — Chan for scripture — and blocks it with the image that one must not trade a gold pellet for a silver pellet (不可將金彈子換銀彈子去). The bare metal appears only inside the pellet compound, so this stays family evidence within Nanquan's turn.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0756c29",
+          "ToLb": "0756c30",
+          "Kwic": "菜花滿地黃如金，燕子梁間指示人。",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai (入就瑞白禪師語錄). Ruibai Mingxue describes rapeseed flowers covering the ground as yellow like gold.",
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0403a20",
+          "ToLb": "0403a20",
+          "Kwic": "如黃金之黃、白玉之白，曠大劫來未嘗變異。",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan (博山無異大師語錄集要). Wuyi Yuanlai compares constancy to the yellow of yellow gold and the white of white jade. The longer yellow-gold form is family evidence and does not buy standalone depth.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0142b15",
+          "ToLb": "0142b16",
+          "Kwic": "萬里江河飄玉帶，一輪紅日輥金球。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin (費隱禪師語錄). Feiyin Tongrong describes rivers as floating jade belts and the red sun as a rolling golden sphere. The longer golden-sphere image is family evidence; it does not define, search-route, or buy depth for the bare headword.",
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0143.xml",
+        "X/X72/X72n1437.xml",
+        "T/T48/T48n2016.xml",
+        "X/X80/X80n1565.xml",
+        "J/J25/J25nB174.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T47/T47n1995.xml",
+        "X/X64/X64n1260.xml",
+        "X/X66/X66n1296.xml",
+        "T/T51/T51n2077.xml",
+        "J/J26/J26nB187.xml",
+        "T/T47/T47n2000.xml",
+        "X/X81/X81n1568.xml",
+        "T/T51/T51n2076.xml",
+        "C/C078/C078n1720.xml",
+        "J/J26/J26nB188.xml",
+        "J/J27/J27nB197.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Shenhui",
+        "Yongjue Yuanxian",
+        "Huiyuan of Lushan",
+        "Rahulata",
+        "Juelang Daosheng",
+        "Zhantang Wenzhun",
+        "Wuzu Fayan",
+        "Zhaozhou Congshen",
+        "Nanquan Puyuan",
+        "Dahong Shousui",
+        "Tian'an Sheng",
+        "Xutang Zhiyu",
+        "Tiantai Deshao",
+        "Zhengtang Bian",
+        "Ruibai Mingxue",
+        "Wuyi Yuanlai",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [
+        "銀",
+        "黃金",
+        "真金",
+        "金錢",
+        "金毬",
+        "金球",
+        "金彈子",
+        "銀彈子",
+        "金屎法",
+        "金屑",
+        "金佛",
+        "鑛",
+        "礦",
+        "火",
+        "黃",
+        "金色"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Metal, the Five-Phase agent",
+      "AlternateTargets": [
+        "the Metal phase",
+        "Metal among the Five Phases"
+      ],
+      "SearchAliases": [
+        "Five Phase Metal",
+        "Five Phases Metal",
+        "Five Elements metal",
+        "wuxing metal",
+        "metal phase"
+      ],
+      "Status": "allowed",
+      "Explanation": "This is Metal, one agent in the Five-Phase series, correlated in the corpus with the west and white rather than with minted or refined gold. Zen records bend the conventional list by dropping it into public answers and teaching-seat wordplay while leaving the phase relation intact. Yongming Yanshou's Records of the Source-Mirror states directly, ‘the lung is named Metal; Metal is western and white’ (肺名金／金者西方白). Baishan Kai recites the complete ordered series ‘Metal, Wood, Water, Fire, Earth’ (金木水火土) in a hall address before turning to building with fine clay. The capitalized English target distinguishes this correlative phase-agent from a lump of gold or gold used as money.",
+      "Validation": "multi-source",
+      "Note": "This is a different thing rather than a different reading: it belongs to the named Five-Phase series and takes west and white as correlations. Both witnesses were discovered through the inverted multi-character index and then verified against apparatus-excluding XML.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0577b10",
+          "ToLb": "0577b11",
+          "Kwic": "肺名金。金者西方白。良由肺內有息風。故名風。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄). Yongming Yanshou states that the lung is named Metal and that Metal is western and white.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0840a07",
+          "ToLb": "0840a08",
+          "Kwic": "一二三四五，金木水火土，泥細好燒磚，何必問張魯？",
+          "MasterName": "Baishan Kai",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi (山西柏山楷禪師語錄). Baishan Kai recites the ordered Five-Phase series in a hall address and turns immediately to clay and brickmaking.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Kai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Baishan Kai"
+      ],
+      "RelatedTerms": [
+        "五行",
+        "木",
+        "水",
+        "火",
+        "土",
+        "西方",
+        "白"
+      ]
+    }
+  ]
+}

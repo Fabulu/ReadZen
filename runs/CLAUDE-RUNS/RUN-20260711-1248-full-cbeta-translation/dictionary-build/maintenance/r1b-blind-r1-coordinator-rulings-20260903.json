@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "r1b-blind-r1-coordinator-rulings",
+  "law": "joint-removal law for multi-removal senses (S1-b AM3 precedent): post == pre minus the sense's complete removal set; every honest row's oi is in that set and its post fields equal the frozen post sense",
+  "rulings": [
+    {
+      "rowId": "R0038",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_d7725cb0c8c0 s1: removed set [1, 3] (this row o1, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_d7725cb0c8c0].Senses[0] has 2 occurrences, pre-minus-oi=1 has 3 (pre has 4). Post == pre minus indices {1,3} -- exactly the union of this row (oi=1) and sibling R0039 (oi=3); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0039",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_d7725cb0c8c0 s1: removed set [1, 3] (this row o3, RelPath T/T48/T48n2023.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_d7725cb0c8c0].Senses[0] has 2 occurrences, pre-minus-oi=3 has 3 (pre has 4). Post == pre minus indices {1,3} -- exactly the union of this row (oi=3) and sibling R0038 (oi=1); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0044",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_ef5beb628603 s1: removed set [3, 4] (this row o3, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_ef5beb628603].Senses[0] has 2 occurrences, pre-minus-oi=3 has 3 (pre has 4). Post == pre minus indices {3,4} -- exactly the union of this row (oi=3) and sibling R0045 (oi=4); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0045",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_ef5beb628603 s1: removed set [3, 4] (this row o4, RelPath T/T48/T48n2023.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_ef5beb628603].Senses[0] has 2 occurrences, pre-minus-oi=4 has 3 (pre has 4). Post == pre minus indices {3,4} -- exactly the union of this row (oi=4) and sibling R0044 (oi=3); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0046",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_f0cb4dcfc70c s1: removed set [1, 2] (this row o1, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (7 -> 5); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_f0cb4dcfc70c].Senses[0] has 5 occurrences, pre-minus-oi=1 has 6 (pre has 7). Post == pre minus indices {1,2} -- exactly the union of this row (oi=1) and sibling R0047 (oi=2); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0047",
+      "reviewer": "reviewer1",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_f0cb4dcfc70c s1: removed set [1, 2] (this row o2, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (7 -> 5); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d literal fail: post[t_f0cb4dcfc70c].Senses[0] has 5 occurrences, pre-minus-oi=2 has 6 (pre has 7). Post == pre minus indices {1,2} -- exactly the union of this row (oi=2) and sibling R0046 (oi=1); laws a,b,c,e all hold. Composed-consistent pair."
+    },
+    {
+      "rowId": "R0038",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_d7725cb0c8c0 s1: removed set [1, 3] (this row o1, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: entry t_d7725cb0c8c0 si 1 has two removal rows (R0038 oi1 X63n1245 + R0039 oi3 T48n2023); pre rels ['X/X63/X63n1245.xml','X/X63/X63n1250.xml','T/T48/T48n2023.xml','T/T48/T48n2025.xml'], post rels ['X/X63/X63n1250.xml','T/T48/T48n2025.xml'] = pre minus BOTH indices, so post != pre minus oi 1 alone (expected len 3 vs post len 2; pre-minus-1[1].RelPath 'T/T48/T48n2023.xml' vs post[1] 'T/T48/T48n2025.xml'). Laws a/b/c/e hold."
+    },
+    {
+      "rowId": "R0039",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_d7725cb0c8c0 s1: removed set [1, 3] (this row o3, RelPath T/T48/T48n2023.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: same two-removal entry as R0038 (t_d7725cb0c8c0 si 1): post (len 2) == pre (len 4) minus BOTH oi 1 and oi 3, so post != pre minus oi 3 alone (pre-minus-3[1].RelPath 'T/T48/T48n2023.xml' vs post[1] 'T/T48/T48n2025.xml'). Laws a/b/c/e hold."
+    },
+    {
+      "rowId": "R0044",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_ef5beb628603 s1: removed set [3, 4] (this row o3, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: entry t_ef5beb628603 si 1 has two removal rows (R0044 oi3 X63n1245, R0045 oi4 T48n2023); pre has 4 occurrences, post has 2 = pre minus both indices, so post != pre minus oi 3 alone (len 2 vs 3). Laws a/b/c/e hold."
+    },
+    {
+      "rowId": "R0045",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_ef5beb628603 s1: removed set [3, 4] (this row o4, RelPath T/T48/T48n2023.xml); frozen post == pre minus exactly that set (4 -> 2); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: same two-removal entry as R0044 (t_ef5beb628603 si 1): post == pre minus oi 3 AND oi 4, so post != pre minus oi 4 alone (len 2 vs 3). Laws a/b/c/e hold."
+    },
+    {
+      "rowId": "R0046",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_f0cb4dcfc70c s1: removed set [1, 2] (this row o1, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (7 -> 5); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: entry t_f0cb4dcfc70c si 1 has two removal rows (R0046 oi1 X63n1245, R0047 oi2 X63n1245); pre has 7 occurrences, post has 5 = pre minus both indices, so post != pre minus oi 1 alone (post[0].RelPath 'T/T48/T48n2025.xml' vs pre-minus-1[0] 'X/X63/X63n1245.xml'). Laws a/b/c/e hold."
+    },
+    {
+      "rowId": "R0047",
+      "reviewer": "reviewer2",
+      "ruling": "refuted",
+      "reason": "literal per-row law d is unsatisfiable on a multi-removal sense (two rows share one frozen post); joint law byte-verified: t_f0cb4dcfc70c s1: removed set [1, 2] (this row o2, RelPath X/X63/X63n1245.xml); frozen post == pre minus exactly that set (7 -> 5); row's post fields == frozen post. Reviewer's flag correctly applied the literal law — rows and product bytes are oracle-identical.",
+      "flagReason": "law d: same two-removal entry as R0046 (t_f0cb4dcfc70c si 1): post == pre minus oi 1 AND oi 2, so post != pre minus oi 2 alone (post[0].RelPath 'T/T48/T48n2025.xml' vs pre-minus-2[0] 'X/X63/X63n1245.xml'). Laws a/b/c/e hold."
+    }
+  ]
+}

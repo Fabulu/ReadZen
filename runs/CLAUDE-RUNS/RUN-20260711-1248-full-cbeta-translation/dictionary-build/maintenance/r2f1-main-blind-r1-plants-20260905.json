@@ -1,0 +1,25 @@
+{
+  "cohort": "r2f1-main-20260905",
+  "round": "r1",
+  "honestRows": 8,
+  "registry": [
+    {
+      "label": "kwic-mutation-ab715",
+      "slot": 1,
+      "slotKind": "occ-attribution",
+      "bindPayloadSha256": "55a8c7ea5046880a826077870e8df794d8420245f4f5086a20e257058a3ac799"
+    },
+    {
+      "label": "count-hides-add",
+      "slot": 4,
+      "slotKind": "surface-census",
+      "bindPayloadSha256": "2384caddae2fe94b47cb49a1c6ae265df9fd60931572bb34b118ed4ff59ce20c"
+    },
+    {
+      "label": "fabricated-old-window-ea2-1143a07",
+      "slot": 7,
+      "slotKind": "occ-attribution",
+      "bindPayloadSha256": "58909e21a51132ab34e0e0b6342738f5318a5f42393afe8c344064741e4f7647"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "Id": "t_c945c2cc0e79",
+  "SourceTerm": "小參",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex legacy full rebuild Lane A",
+  "WrittenUtc": "2026-07-16T18:01:58.844836+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "small convocation",
+      "AlternateTargets": [
+        "informal evening convocation"
+      ],
+      "SearchAliases": [
+        "small convocation",
+        "evening convocation",
+        "small assembly address",
+        "informal evening convocation"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Across the collected corpus the expression has 7,411 exact occurrences in 353 distinct works. Eight curated witnesses from seven works meet the evidence minimum and include both procedural definition and performed events.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1119c10",
+          "ToLb": "1119c14",
+          "Kwic": "小參初無定所。看眾多少。或就寢堂。或就法堂。至日午後。侍者覆住持云令客頭行者報眾。掛小參牌。當晚不鳴放參鐘。昏鐘鳴時行者覆住持。鳴鼓一通。眾集兩序歸位。住持登座提綱敘謝委曲詳盡。",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "procedure",
+            "ActorLabel": "monastic procedure",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The passage prescribes the event procedure rather than reporting one personal speech turn.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex exact-turn review",
+            "ReviewedUtc": "2026-07-14T00:00:00Z"
+          },
+          "ContextMasters": [],
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The compiler supplies the headword in documentary narration rather than in a master's utterance. The compiler supplies the headword in documentary narration rather than in a master's utterance. impersonal procedural prose defines the small convocation’s location, notice, bell, drum, gathering, and seat. This is compiler narration.",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact 小參 spans belong to the same uninterrupted speaker, authored exposition, or documentary unit; no question/answer or case boundary changes the exact actor."
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1119c05",
+          "ToLb": "1119c09",
+          "Kwic": "如住持入院。或官員檀越入山。或受人特請。或謂亡者開示。或四節臘則移於昏鐘鳴。而謂之小參。可以敘世禮。曰家教者是也。然亦不鳴放參鐘。謂猶有參也。",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "procedure",
+            "ActorLabel": "monastic procedure",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The naming formula governs occasions for the event, not a speaker.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex exact-turn review",
+            "ReviewedUtc": "2026-07-14T00:00:00Z"
+          },
+          "ContextMasters": [],
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The compiler supplies the headword in documentary narration rather than in a master's utterance. The compiler supplies the headword in documentary narration rather than in a master's utterance. this document's compiler-governed prose names the listed occasions a small convocation. This is compiler narration."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0812a28",
+          "ToLb": "0812a28",
+          "Kwic": "當晚小參。大道只在口前。要且目前難覩。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄): the event heading establishes Dahui Zonggao’s small-convocation speech. The exact headword-bearing actor is an impersonal textual heading; the named figure is only the section subject.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "an impersonal textual heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword labels a textual division or discourse occasion and is not a quoted turn by the section subject.",
+            "ReviewedBy": "Codex fresh f001 lane A root review",
+            "ReviewedUtc": "2026-07-15T02:00:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0539c07",
+          "ToLb": "0539c08",
+          "Kwic": "我曾問副寺師：『如何是小參？』寺曰：『吃粥。』『如何是大參？』寺曰：『吃飯。』",
+          "MasterName": "Beijing Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Beijing Chulin Shangrui",
+              "Roles": [
+                "utterer",
+                "later-quoter",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing (北京楚林禪師語錄): Beijing Chulin Shangrui raises his own earlier question and the steward’s answer."
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0098c14",
+          "ToLb": "0098c14",
+          "Kwic": "北禪賢禪師歲夜小參。年窮歲盡，無可與諸人分歲。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄): Beichan Xian is the named year-end small-convocation speaker. The exact headword-bearing actor is an impersonal textual heading; the named figure is only the section subject.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "an impersonal textual heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword labels a textual division or discourse occasion and is not a quoted turn by the section subject.",
+            "ReviewedBy": "Codex fresh f001 lane A root review",
+            "ReviewedUtc": "2026-07-15T02:00:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0707b14",
+          "ToLb": "0707b14",
+          "Kwic": "解制小參：鼓山結制已百日，也只是打得個草稿。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師語錄): Juelang Daosheng gives a retreat-closing small convocation. The exact headword-bearing actor is an impersonal textual heading; the named figure is only the section subject.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "an impersonal textual heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword labels a textual division or discourse occasion and is not a quoted turn by the section subject.",
+            "ReviewedBy": "Codex fresh f001 lane A root review",
+            "ReviewedUtc": "2026-07-15T02:00:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "J/J39/J39nB465.xml",
+          "FromLb": "0820c05",
+          "ToLb": "0820c06",
+          "Kwic": "為趙夫人對靈小參。「生有原，死有實，天上人間能建立，照見山河無朕跡",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ziyong Ru",
+              "Roles": [
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB465.xml). Recorded Sayings of Chan Master Ziyongru (子雍如禪師語錄): Ziyong Ru gives the memorial small convocation for Madam Zhao. The exact headword-bearing actor is an impersonal textual heading; the named figure is only the section subject.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "an impersonal textual heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword labels a textual division or discourse occasion and is not a quoted turn by the section subject.",
+            "ReviewedBy": "Codex fresh f001 lane A root review",
+            "ReviewedUtc": "2026-07-15T02:00:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "HeadingType": "section"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J37/J37nB390.xml",
+        "X/X64/X64n1260.xml",
+        "J/J25/J25nB174.xml",
+        "J/J39/J39nB465.xml",
+        "T/T48/T48n2023.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Beijing Chulin Shangrui",
+        "Beichan Xian",
+        "Juelang Daosheng",
+        "Ziyong Ru",
+        "Shiwu Qinggong"
+      ],
+      "RelatedTerms": [
+        "上堂",
+        "晚參",
+        "大參",
+        "小參牌",
+        "示眾"
+      ],
+      "Explanation": "A “small convocation” is a named communal address, often held in the evening or for a special occasion, whose procedure and content are less fixed than an ordinary hall address. The Baizhang rules say it has no fixed location, may use the sleeping hall or teaching hall according to attendance, is announced by a placard, omits the release-from-consultation bell, gathers the community after the evening bell, and lets the resident master mount the seat. The same rules list occasions including installation, visiting officials or donors, special requests, instruction for the dead, and seasonal observances. Records then mark small convocations for year-end, opening or closing a retreat, memorial instruction, ordination, and ordinary evening teaching. A playful interview answers “what is a small convocation?” with “eating gruel,” contrasting a great convocation with eating rice. These uses identify an event format, not a diminutive teaching."
+    }
+  ]
+}

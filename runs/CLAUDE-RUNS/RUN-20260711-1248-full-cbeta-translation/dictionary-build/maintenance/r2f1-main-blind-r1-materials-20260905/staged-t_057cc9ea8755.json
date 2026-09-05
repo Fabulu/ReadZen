@@ -1,0 +1,225 @@
+{
+  "Id": "t_057cc9ea8755",
+  "SourceTerm": "攝心",
+  "CreatedBy": "Codex fresh-build lane C",
+  "WrittenUtc": "2026-07-19T03:35:56.679037+00:00",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "gather the mind",
+      "AlternateTargets": [
+        "draw in the mind",
+        "collect the mind",
+        "hold the mind in"
+      ],
+      "SearchAliases": [
+        "gather the mind",
+        "collect the mind",
+        "draw in the mind",
+        "hold the mind in",
+        "gathering mind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong; gathering the mind is still an error\" (說是成非。攝心猶錯。). Shiwu Qinggong's verse in his recorded sayings, compiled by his disciples, retains the ordinary finite action by listing the day's tasks and \"gathering the mind to drive off sleep\" (攝心除睡). Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, one in one), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). The entry records the action and the texts' own challenges without resolving those challenges into an external system.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0260a13",
+          "ToLb": "0260a14",
+          "Kwic": "僧問：「請和尚示攝心之法。」師云：「靜坐一爐香。」僧禮拜，師云：「好箇話頭，只是不得錯會。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄): Recorded Sayings of Chan Master Chaozong Tongren (朝宗禪師語錄): an unnamed monk asks the master to show the way of collecting mind; Chaozong answers. All six rungs leave the questioning monk unnamed",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed monk",
+            "ActorRole": "questioner",
+            "GrammarEvidence": "The request 請和尚示攝心之法 is the monk's headword-bearing turn; Chaozong answers afterward.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex r003-owner2 ACTOR_AUDIT repair",
+            "ReviewedUtc": "2026-07-14T14:51:38.364310Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0500b18",
+          "ToLb": "0500b19",
+          "Kwic": "若未到斯門。說是成非。攝心猶錯。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄): The Source-Mirror Record (宗鏡錄): Yongming Yanshou states that before reaching the stated gate, saying right makes wrong and gathering mind is still an error",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1399.xml",
+          "FromLb": "0672a07",
+          "ToLb": "0672a10",
+          "Kwic": "住箇茆菴豈容易？也要種竹栽松，也要鉏山掘地，也要運水搬柴，也要澆蔬灌芋，也要行道諷經，也要攝心除睡。藜羮黍飯塞饑瘡，淡虀薄粥通腸胃",
+          "MasterName": "Shiwu Qinggong",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1399.xml). Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse 'Sending Off the Idle Attendant to Return Home and Visit His Teacher' (送慵侍者回里省師): Shiwu Qinggong lists the day's tasks — planting bamboo and pines, hoeing the hill, carrying water and firewood, watering vegetables and taro, chanting texts, and gathering the mind to drive off sleep",
+          "ContextMasters": [
+            {
+              "MasterName": "Shiwu Qinggong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T48/T48n2009.xml",
+          "FromLb": "0369c08",
+          "ToLb": "0369c09",
+          "Kwic": "但能攝心內照。覺觀外明。絕三毒永使銷亡。閉六賊不令侵擾。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2009.xml). Six Gates of Shaoshi (少室六門): the Treatise on Breaking Appearances voice: Six Gates of Shaoshi (少室六門), Second Gate: Treatise on Breaking Appearances (第二門破相論): the treatise voice instructs the reader to gather the mind and illuminate within; the source does not name a personal speaker for this clause",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "quoted treatise instruction",
+            "ActorLabel": "the Treatise on Breaking Appearances voice",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword is in continuous instructional prose under the explicit section title “Second Gate: Treatise on Breaking Appearances”; neither the line, section header, nor source title identifies a personal speaker.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex lane-C second independent semantic repair",
+            "ReviewedUtc": "2026-07-15T01:15:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄): The Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄), verse requested on gathering mind: Chaozong Tongren says the myriad things are clear, intending to gather mind has no basis to rely on, and these words themselves are the place of gathering mind. Chaozong Tongren is source-attested but not yet in the roster",
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "FromLb": "0270b06",
+          "ToLb": "0270b06",
+          "Kwic": "擬欲攝心，無本可據。",
+          "ClaimText": "何思何慮",
+          "HeadwordSpanReview": {
+            "Count": 4,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The the complete case retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+          }
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄): Shakyamuni Buddha (釋迦牟尼佛) is quoted saying 'gathering the mind is called restraint'; the wording 'it also says' continues 'formerly the Buddha said.' Yongjue Yuanxian is the later quoter who interrogates the statement.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "later-quoter",
+                "commentator"
+              ]
+            }
+          ],
+          "FromLb": "0412c09",
+          "ToLb": "0412c15",
+          "Kwic": "有漏，安得名為究竟尸羅？昔佛曰：孝名為戒。諸人將以孝為戒耶？夫孝者，順也。順者，順何？又以何為順？孝之實未明，安能識戒也？又曰：攝心名戒。諸人將以攝心為戒耶？夫心是何物而可攝？攝又是何物而可攝心？水不洗水，金不愽金，則攝心之義何歸？又六祖云：本性無非自性戒。諸人將以本性無非為戒耶？六祖此語，可謂喫緊為人，直捷指出，然亦",
+          "ClaimText": "心是何物而可攝",
+          "HeadwordSpanReview": {
+            "Count": 4,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The the complete case retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+          },
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified invoked Zen figure",
+            "ActorLabel": "Shakyamuni Buddha (釋迦牟尼佛)",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "又曰 continues the immediately preceding 昔佛曰 quotation frame and assigns 攝心名戒 to Shakyamuni Buddha (釋迦牟尼佛); Yongjue Yuanxian is the later quoter who interrogates it.",
+            "ReviewedBy": "Codex post-c541-570 lane C complete-case repair",
+            "ReviewedUtc": "2026-07-19T03:35:56.679037+00:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB300.xml",
+        "T/T48/T48n2016.xml",
+        "T/T48/T48n2009.xml",
+        "X/X70/X70n1399.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Yongjue Yuanxian",
+        "Yongming Yanshou",
+        "Shiwu Qinggong",
+        "Bodhidharma",
+        "Chaozong Tongren"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0270b06",
+          "ToLb": "0270b07",
+          "Kwic": "萬法朗然，何思何慮？擬欲攝心，無本可據。我今為汝書此言，只此便是攝心處。",
+          "ClaimText": "萬法朗然，何思何慮？",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄). Speaker: Chaozong Tongren, in the gatha the practitioner Falang requests (法朗禪人乞攝心偈)."
+        }
+      ],
+      "Explanation": "Gathering the mind is the proposed finite action of collecting, drawing in, or holding in the mind. Chan records both give that action concrete work and challenge whether the wording has any stable basis: the tension belongs in the definition rather than being resolved into a system. The phrase is attested 141 times across 75 texts. Asked to ‘show the way of gathering the mind’ (示攝心之法), Chaozong Tongren answers, ‘sit still for one stick of incense’ (靜坐一爐香), but immediately calls this ‘a fine saying’ and warns that it must not be misunderstood (好箇話頭，只是不得錯會). In a separate verse requested on the term, Chaozong says, ‘the myriad things are brightly clear—what thought and what consideration? If you intend to gather the mind, there is no basis to rely on. I now write these words for you; just this is the place of gathering the mind’ (萬法朗然，何思何慮？擬欲攝心，無本可據……只此便是攝心處)."
+    }
+  ]
+}

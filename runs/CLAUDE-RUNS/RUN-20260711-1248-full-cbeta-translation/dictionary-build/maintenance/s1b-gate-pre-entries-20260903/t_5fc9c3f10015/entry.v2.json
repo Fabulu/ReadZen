@@ -1,0 +1,144 @@
+{
+  "Id": "t_5fc9c3f10015",
+  "SourceTerm": "鐵壁",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "an iron wall",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "iron wall",
+        "silver mountain and iron wall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Three Tier 2 works retain the wall image in distinct settings. ",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0707a12",
+          "ToLb": "0707a19",
+          "Kwic": "裏一肩荷負得去。便可喚火爐作古鏡喚古鏡作世界。都無異致。如其未爾。火爐與古鏡。世界與話頭。相違不止三千里。何以如此。蓋能所分別作障礙。覿體如銀山鐵壁之堅。只此便是生死輪回根本。故楞嚴謂。根塵同源縛脫無二。識性虛妄猶若空華。由塵發知因根有相。相見無性同於交蘆。這裏無儞動步處。無儞著眼處。昔安楞嚴讀到知見立知即無明本知見無見斯即涅槃。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Zhongfeng Mingben",
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu: Zhongfeng Mingben is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0755b04",
+          "ToLb": "0755b11",
+          "Kwic": "義庵上堂。師陞座云：「靈機未動，十方剎海冷沉沉；智境纔彰，覿面當陽明歷歷。寸絲不挂，何妨戒定慧以薰修；不立一塵，豈礙萬象森羅而依附。孤迥迥，穿過鐵壁銀山；峭巍巍，透徹金輪水際。其大也，包括虛空；其細也，纖毫無間。坐斷千差路，掃除凡聖名。若能直下承當，始信本來是佛。」遂豎拂云：「會麼？蒼蒼弁嶽摩今古，新新花柳醉遊人。」下座。問荅不錄",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Ruibai Mingxue",
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai: Ruibai Mingxue is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0599b24",
+          "ToLb": "0599c06",
+          "Kwic": "鐵壁。上堂：轉求轉遠，不求更遠。豈不見東野菴前，水磨轆轆，機輪自轉。正恁麼時，且道水轉磨轉，須信中心樹子不轉。上堂：絕意識參，離見聞學，至切要處，不離目前。因甚向鼻尖上蹉過，走盡天涯海",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Xueyan Zuqin",
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin: Xueyan Zuqin is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0084c12",
+          "ToLb": "0084c19",
+          "Kwic": "草作丈六金身，有時將丈六金身作一莖草，甚是奇特。雖然如此，要且不曾動著向上關。且如何是上關？鑄印築高壇。上堂：有句無句，超宗越格。如藤倚樹，銀山鐵壁。及至樹倒藤枯，多少人失却鼻孔。直饒收拾得來，已是千里萬里。祇如未有恁麼消息時如何？還透得麼？風暖鳥聲碎，日高華影重。上堂：第一句薦得，祖師乞命。第二句薦得，人天膽落。第三句薦得，虎口",
+          "MasterName": "Pang Yun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) with Chinese title (五燈全書(第34卷-第120卷)). Speaker: Pang Yun."
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0707a12",
+          "ToLb": "0707a19",
+          "Kwic": "裏一肩荷負得去。便可喚火爐作古鏡喚古鏡作世界。都無異致。如其未爾。火爐與古鏡。世界與話頭。相違不止三千里。何以如此。蓋能所分別作障礙。覿體如銀山鐵壁之堅。只此便是生死輪回根本。故楞嚴謂。根塵同源縛脫無二。識性虛妄猶若空華。由塵發知因根有相。相見無性同於交蘆。這裏無儞動步處。無儞著眼處。昔安楞嚴讀到知見立知即無明本知見無見斯即涅槃。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Zhongfeng Mingben",
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu: Zhongfeng Mingben is the exact actor of this headword-bearing turn.",
+          "ClaimText": "鐵壁"
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0755b04",
+          "ToLb": "0755b11",
+          "Kwic": "義庵上堂。師陞座云：「靈機未動，十方剎海冷沉沉；智境纔彰，覿面當陽明歷歷。寸絲不挂，何妨戒定慧以薰修；不立一塵，豈礙萬象森羅而依附。孤迥迥，穿過鐵壁銀山；峭巍巍，透徹金輪水際。其大也，包括虛空；其細也，纖毫無間。坐斷千差路，掃除凡聖名。若能直下承當，始信本來是佛。」遂豎拂云：「會麼？蒼蒼弁嶽摩今古，新新花柳醉遊人。」下座。問荅不錄",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Ruibai Mingxue",
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai: Ruibai Mingxue is the exact actor of this headword-bearing turn.",
+          "ClaimText": "鐵壁"
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J26/J26nB188.xml",
+        "X/X70/X70n1397.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Ruibai Mingxue",
+        "Xueyan Zuqin",
+        "Pang Yun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "An iron wall is the hard barrier image in phrases such as “silver mountain and iron wall.” Zhongfeng Mingben calls the division of knower and known a barrier firm as that image; Ruibai Mingxue speaks of passing through it, while Xueyan Zuqin’s record preserves it as a discourse heading."
+    }
+  ]
+}

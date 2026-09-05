@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "f1-gates",
+  "lane": "F1",
+  "cloneHead": "8457672",
+  "verdict": "CLEAN",
+  "problems": [],
+  "notes": [
+    "gate1: off-worklist byte-identity over 4502 untouched files (R2 products protected)",
+    "gate4: zero NEW attribution rows (pre 0, post 0)",
+    "gate5: depth pre hard 2 / post 2",
+    "gate6: anchoring + count-claim preservation recomputed from written bytes",
+    "gate8: dropped — no SearchAliases edit this lane",
+    "gate9: fleet zero NEW rows (8384 rows; 0 resolved)",
+    "gate9: census law holds — zero MasterName 'Dehui' rows in the written tree"
+  ],
+  "gate4PostRows": []
+}

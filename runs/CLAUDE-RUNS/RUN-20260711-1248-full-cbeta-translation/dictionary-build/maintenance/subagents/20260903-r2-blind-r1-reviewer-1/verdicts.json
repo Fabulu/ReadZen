@@ -1,0 +1,68 @@
+{
+ "reviewer": "reviewer1",
+ "materialsPinsOk": true,
+ "rowsChecked": 16,
+ "flags": [
+  {
+   "rowId": "R0000",
+   "law": "A2",
+   "reason": "post-slot identity broken: POST slot MasterName=None != row newMasterName='Dongyang Dehui'"
+  },
+  {
+   "rowId": "R0009",
+   "law": "A2",
+   "reason": "post-slot identity broken: POST slot ContextMasters=[{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"compiler\"]}] != row newContextMasters=[{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"utterer\"]}]"
+  },
+  {
+   "rowId": "R0010",
+   "law": "A2",
+   "reason": "post-slot identity broken: POST slot ActorAttribution != row newActorAttribution [ActorLabel: row=\"the code compiler's editorial voice\" material=\"the monastic code's institutional voice\"]"
+  },
+  {
+   "rowId": "R0011",
+   "law": "A1",
+   "reason": "pre-slot identity broken: PRE slot Kwic != carried. first divergence at char 11: row=U+732B(猫) material=U+5167(內) | row ctx ...眾坐堂。如尋常坐禪向猫坐。鼓鳴則轉身向外 | material ctx ...眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外"
+  },
+  {
+   "rowId": "R0011",
+   "law": "A2",
+   "reason": "post-slot identity broken: POST slot Kwic != carried (not unchanged). first divergence at char 11: row=U+732B(猫) material=U+5167(內) | row ctx ...眾坐堂。如尋常坐禪向猫坐。鼓鳴則轉身向外 | material ctx ...眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外"
+  },
+  {
+   "rowId": "R0012",
+   "law": "A1",
+   "reason": "pre-slot identity broken: PRE slot FromLb != carried. first divergence at char 6: row=U+0038(8) material=U+0037(7) | row ctx ...1143a08 | material ctx ...1143a07"
+  },
+  {
+   "rowId": "R0012",
+   "law": "A2",
+   "reason": "post-slot identity broken: POST slot FromLb != carried (not unchanged). first divergence at char 6: row=U+0038(8) material=U+0037(7) | row ctx ...1143a08 | material ctx ...1143a07"
+  },
+  {
+   "rowId": "R0013",
+   "law": "D1",
+   "reason": "PRE SearchAliases + [added] != POST SearchAliases. PRE=[\"one fails, two is wrong\"] added='一不成二不是' -> [\"one fails, two is wrong\", \"一不成二不是\"]; POST=[\"one fails, two is wrong\", \"一不成、二不是\"]"
+  },
+  {
+   "rowId": "R0014",
+   "law": "B1",
+   "reason": "POST Note contains after 0 times (need exactly 1) | after fragment absent from POST material; nearest POST text: ...In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challen..."
+  },
+  {
+   "rowId": "R0014",
+   "law": "B2",
+   "reason": "PRE Note with before->after (one replacement) != POST Note. first divergence at char 537: row=U+0028(() material=U+0074(t) | row ctx ..., retains (非攝非散) the | material ctx ..., retains the ordina"
+  },
+  {
+   "rowId": "R0015",
+   "law": "B1",
+   "reason": "POST OccAttributionNote contains after 0 times (need exactly 1) | after fragment absent from POST material; nearest POST text: ...Source record (X/X70/X70n1399.xml). Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse '..."
+  },
+  {
+   "rowId": "R0015",
+   "law": "B2",
+   "reason": "PRE OccAttributionNote with before->after (one replacement) != POST OccAttributionNote. first divergence at char 99: row=U+767E(百) material=U+81F3(至) | row ctx ...isciples (百丈自編): in  | material ctx ...isciples (至柔等編): in "
+  }
+ ],
+ "notes": "Method: verify.py implements laws A1-A3, B1-B4, C1-C2, D1, E1-E2 mechanically (python -X utf8, deep equality of parsed JSON); rows file and all 6 materials were additionally read in full and eyeballed; every flag re-derived with first-divergence codepoints printed. Law B3 adjudication: B3's literal reading (PRE slot AttributionNote == before, POST == after) is vacuous for attributionnote-rewrite rows because before/after are fragments (as under B1/B2 semantics); the rows' field name 'OccAttributionNote' does not exist at sense level. I therefore applied B1 (containment exactly once) and B2 (single-replacement equality) at the pinned slot slot(entry,si,oi).AttributionNote and treated B3 as that slot-pin. Literal B3 results for the record: R0007=False; R0015=False. This choice does not change which rows carry real defects: R0015's after ('百丈自編') is absent from POST under either reading; R0007's after ('至柔等編') is present in POST. rowSha fields of the rows could not be verified: the canonical serialization they hash is not specified in the inputs; treated as metadata, not a materials claim. laneLaw.defectCensus names t_ab715aa474d5 and t_351fa42d396b, which are not in the materials set; unverifiable from the inputs and not law-checked. E-laws clean for all three entries: no retired RelPath (T/T48/T48n2023.xml, X/X63/X63n1245.xml) in any POST Occurrence/ClaimAnchor; sense counts and per-sense occurrence counts identical PRE->POST. Full PRE->POST structural diff was computed; all differences are covered by the row claims (attribution rewrites on t_ea2a427c7aba oi=1/8/9, RelatedMasters rename, Explanation fragment; Note + oi=3 AttributionNote fragments on t_057cc9ea8755; SearchAliases append on t_968a2f97c9ff). No unlisted changes detected. B4 anchoring: all maximal CJK runs in POST Explanation+Note of both Law-B-touched senses (t_ea2a427c7aba si=1, t_057cc9ea8755 si=1) are anchored by kwics; no B4 flags."
+}

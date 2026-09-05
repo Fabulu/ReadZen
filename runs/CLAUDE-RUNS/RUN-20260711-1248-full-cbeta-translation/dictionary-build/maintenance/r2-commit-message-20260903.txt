@@ -1,0 +1,28 @@
+Install dictionary lane R2: external-review corrections (3 products)
+
+Answers the 2026-09-03 review verdict on the R1a-R1c repair arc:
+
+- t_ea2a427c7aba (坐禪): the three T48n2025 occurrences re-attributed
+  from the fabricated speaker "Dehui" (the Yuan recompiler 元 德煇重編,
+  never a speaking master) to editorial/compiler-voice representation:
+  MasterName null, ActorAttribution impersonal / institutional
+  procedure / "the monastic code's institutional voice" (label verbatim
+  in each note), ContextMasters Dongyang Dehui [compiler] (the roster
+  name); RelatedMasters "Dehui" -> "Dongyang Dehui"; Explanation
+  reworded off the compiler's name. Carried rel/lb/kwic/Curated/
+  HeadwordSpanReview byte-identical; occurrence counts unchanged
+  (9 + 3).
+- t_057cc9ea8755 (攝心): "his own record" -> "his recorded sayings,
+  compiled by his disciples" (Note); AttributionNote (occ 3) gains
+  "compiled by his disciples (至柔等編)" per the X70n1399 TEI header.
+  Counts unchanged (6).
+- t_968a2f97c9ff (一不成，二不是): SearchAliases += "一不成、二不是"
+  (the withdrawn-ID replacement t_1a6cdc16c248 -> t_968a2f97c9ff search
+  alias; merge-dict-entries.js:47). Counts unchanged (10).
+
+Machine gates CLEAN; blind r1 PASS (8/8 canaries, both reviewers;
+1 honest flag refuted with bytes). Local commit only — not pushed.
+Follow-up lane (user decision 2026-09-03): t_ab715aa474d5 1144b03 and
+t_351fa42d396b 1127c04 [Dehui] rows, untouched here.
+
+Co-Authored-By: Claude <noreply@anthropic.com>

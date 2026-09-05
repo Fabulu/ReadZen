@@ -1,0 +1,138 @@
+{
+  "Id": "t_d076804616d6",
+  "SourceTerm": "不污染",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra semantic author luna155r4",
+  "WrittenUtc": "2026-08-09T15:26:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "not to be polluted",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "not to be polluted",
+        "not be defiled"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The exact phrase belongs to the Nanyue–Huineng exchange on cultivation and verification: practice and verification are not absent, but pollution is not allowed.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0645b12",
+          "ToLb": "0645b14",
+          "Kwic": "嵩山安國師處來。祖曰：什麼物與麼來？師八年後，一日忽省，而告祖師曰：說似一物即不中。祖曰：還假修證否？師曰：修證即不無，只是不污染。祖曰：只遮",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄): Nanyue Huairang directly says 修證即不無，只是不污染; Huineng is the teacher who questions and ratifies the answer.",
+          "MasterName": "Nanyue Huairang",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "utterer",
+                "student"
+              ]
+            },
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "teacher",
+                "respondent"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0719c07",
+          "ToLb": "0719c11",
+          "Kwic": "答云：「說似一物即不中。」祖云：「還假修證也無？」師云：「修證即不無，染污即不得。」祖云：「只此不污染，乃諸佛之所護念。汝既如是，吾亦如是！」得法後，侍祖一十五載，復居南嶽。頌：「甚麼物與麼來？退參",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai (三山來禪師語錄): the exact 不污染 occurs in Huineng’s quoted 祖云 turn that ratifies Nanyue Huairang’s answer; it is not compiler narration.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "respondent",
+                "student"
+              ]
+            }
+          ],
+          "ContextActors": [],
+          "MasterName": "Huineng"
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0607c20",
+          "ToLb": "0607c24",
+          "Kwic": "祖問讓和尚。甚麼處來嵩山安和尚處來。祖云。甚麼物恁麼來說似一物即不堪。祖云。還假修證也無。修證即不無。污染即不得。祖云。只此不污染。是諸佛之護念。汝善護持。因師顧問自何來。報道嵩山意不迴。修證即無",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang (汾陽無德禪師語錄): the exact 不污染 occurs in Huineng’s quoted 祖云 turn; Nanyue Huairang is the respondent, not the utterer of this exact headword occurrence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "respondent",
+                "student"
+              ]
+            }
+          ],
+          "ContextActors": [],
+          "MasterName": "Huineng"
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0246b02",
+          "ToLb": "0246b11",
+          "Kwic": "山會上有多端，立雪庭前無二致。甚麼物幾多般，見未分明莫浪傳。甞記寶方言道好，天非高大海非寬。說似一物即不中，多情不用眉毛動。修證即不無，污染即不得。丫角女子髮如銀，病中勘破維摩詰。即此不污染，是諸佛之所護念。粉碎虗空撲地來，百匝千重成一片。諸昆仲，既不似一物，畢竟似箇甚麼？有眼無耳朵，六月火邊坐。任是同胞生，也須更問過。更問過是甚麼？良久，卓拄杖云：拄杖子却辯得。佛誕日，",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai (無異元來禪師廣錄): Wuyi Yuanlai directly recites both 修證即不無，污染即不得 and 即此不污染 in his discourse.",
+          "MasterName": "Wuyi Yuanlai",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "X/X78/X78n1556.xml",
+        "J/J29/J29nB244.xml",
+        "T/T47/T47n1992.xml",
+        "X/X72/X72n1435.xml"
+      ],
+      "RelatedMasters": [
+        "Nanyue Huairang",
+        "Huineng",
+        "Wuyi Yuanlai"
+      ],
+      "RelatedTerms": [
+        "修證",
+        "說似一物即不中",
+        "污染",
+        "一物"
+      ],
+      "Explanation": "Not to be polluted is the condition articulated in the Nanyue Huairang–Huineng exchange about whether cultivation and verification are still needed. Nanyue says that cultivation and verification are not absent but pollution is not allowed; Huineng then calls this non-pollution what the buddhas protect. Later records preserve Huineng’s ratifying turn and Wuyi Yuanlai’s direct reuse. The phrase is read with its paired cultivation clause, not as an isolated slogan."
+    }
+  ]
+}

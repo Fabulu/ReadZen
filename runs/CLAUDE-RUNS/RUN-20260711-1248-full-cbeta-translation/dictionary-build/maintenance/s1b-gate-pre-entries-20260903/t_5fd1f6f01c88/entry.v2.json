@@ -1,0 +1,174 @@
+{
+  "Id": "t_5fd1f6f01c88",
+  "SourceTerm": "抽顧",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the omitted-look procedure",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "abbreviated look procedure",
+        "remove the look from Gu Jian Yi"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Three Tier 2 records retain the procedural name, a direct explanation, and a later description. ",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0299a11",
+          "ToLb": "0299b06",
+          "Kwic": "生老上不見天下不見地塞却咽喉何處出氣𥬇我者多哂我者少喪時光藤林荒󲅭人意滯肌尫舉不顧即差互擬思量何劫悟咄咄咄力韋希禪子訝中眉𡸁抽顧頌",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial verse heading",
+            "ActorLabel": "the verse-heading compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The heading and verse preserve the named abbreviated-look procedure.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00",
+            "HeadingType": "section"
+          },
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters: the verse-heading compiler is the exact actor or actor-class recorded for this headword-bearing text."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0954b08",
+          "ToLb": "0954b11",
+          "Kwic": "纖毫修學心這箇喚作全是全不是全是時如何雲門大師有箇顧鑑咦這箇便是擊石火閃電光底祖宗後來雲門見學者去顧字上作道理遂除却顧字謂之抽顧真淨和尚有頌云雲門",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Dahui Zonggao",
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue: Dahui Zonggao is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0719a09",
+          "ToLb": "0719a16",
+          "Kwic": "有人透得此關，許他親見雲門。」頌：「一字關、一字關，何不成雙獨成單？單單一字誠難測。一字誠難測也，難難難！目前隔個須彌山。」抽顧雲門見僧來，每以目顧之，即曰鑒、或曰咦，而錄者曰：「顧、鑑、咦！」後德山密刪去「顧」字，但曰鑒、咦，叢林目之為「",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Sanshan Denglai",
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai: Sanshan Denglai is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "T/T48/T48n2006.xml",
+          "FromLb": "0312b10",
+          "ToLb": "0312b14",
+          "Kwic": "州。祖云。波斯吒落水。居云。濶山云。要道便道。又云。有問有答。又云。此去西天十萬八千。柱云。春煦陽和花織地。滿林初囀野鶯聲。抽顧",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas (人天眼目): The procedural entry explicitly defines the deletion and resulting name.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "procedural compilation",
+            "ActorLabel": "the Human and Celestial Eyes compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The procedural entry explicitly defines the deletion and resulting name.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T12:25:57.588949+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0299a11",
+          "ToLb": "0299b06",
+          "Kwic": "生老上不見天下不見地塞却咽喉何處出氣𥬇我者多哂我者少喪時光藤林荒󲅭人意滯肌尫舉不顧即差互擬思量何劫悟咄咄咄力韋希禪子訝中眉𡸁抽顧頌",
+          "Curated": true,
+          "ContextMasters": [],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial verse heading",
+            "ActorLabel": "the verse-heading compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The heading and verse preserve the named abbreviated-look procedure.",
+            "ReviewedBy": "Terra Luna177 r2 source-first author",
+            "ReviewedUtc": "2026-08-08T00:00:00+00:00",
+            "AuthoredVoiceRiskReviewed": true,
+            "HeadingType": "section"
+          },
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters: the verse-heading compiler is the exact actor or actor-class recorded for this headword-bearing text.",
+          "ClaimText": "抽顧"
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0954b08",
+          "ToLb": "0954b11",
+          "Kwic": "纖毫修學心這箇喚作全是全不是全是時如何雲門大師有箇顧鑑咦這箇便是擊石火閃電光底祖宗後來雲門見學者去顧字上作道理遂除却顧字謂之抽顧真淨和尚有頌云雲門",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Dahui Zonggao",
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue: Dahui Zonggao is the exact actor of this headword-bearing turn.",
+          "ClaimText": "抽顧"
+        }
+      ],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "M/M59/M59n1540.xml",
+        "J/J29/J29nB244.xml",
+        "T/T48/T48n2006.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Sanshan Denglai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The omitted-look procedure names the deletion of 顧, “look,” from the sequence 顧、鑒、咦. Dahui Zonggao says that later students made a point of 顧 and that it was therefore removed; the Sanshanlai record gives the same account, while the Ancient Venerable Masters record preserves a verse heading for the procedure."
+    }
+  ]
+}

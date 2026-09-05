@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "generic-dictionary-publication-manifest.v1",
+  "cohort": "r2-20260903",
+  "buildRoot": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build",
+  "termsRoot": "terms",
+  "publicRoot": "/mnt/c/temp/NewTranslationrepos/CbetaZenTranslations",
+  "stageRoot": "fresh-build/r2-20260903/publication-stage",
+  "installReceipt": "maintenance/r2-20260903-generic-install-receipt.json",
+  "authority": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-20260903-final-release-authority.json",
+    "sha256": "ff29e5703e64c5f84091270578788f2dd74f9ddc359e9d67d41a047a516f96e3"
+  },
+  "reviews": [
+    {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/fresh-build/r2-20260903/cohort-bound-review.json",
+      "sha256": "0ba0c442c96914bc2ab0663d0a5f3378650d317d90fb5233fd2dc86a7a32e2c5"
+    }
+  ],
+  "reviewArtifacts": [
+    {
+      "round": "r1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-blind-r1-rows-20260903.json",
+      "sha256": "712b7ae204999cb061663915d5b7fa68e32fe58ad4e95b290ddb2395352a5583",
+      "canaryKeySha256": "73823700258d24d679d5bc38f8e955f992420e8c9b0d465051d94f0661fae06b"
+    },
+    {
+      "round": "r1-reviewer1",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/subagents/20260903-r2-blind-r1-reviewer-1/verdicts.json",
+      "sha256": "49a82f88a75b35b4f2f867170ecb047fd1b2d4e40e1d7d25f5143d9005716f6a"
+    },
+    {
+      "round": "r1-reviewer2",
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/subagents/20260903-r2-blind-r1-reviewer-2/verdicts.json",
+      "sha256": "870722f398196e5b63471232fdba17c8e948ad66f4e408554403687fea067024"
+    }
+  ],
+  "receipts": {
+    "r2-edit-receipt-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-edit-receipt-20260903.json",
+      "sha256": "28f4c7e87b03d09e160744d220c42fa0b01b40780ab25096bef434a7bd198bef",
+      "note": "engine receipt: 3 products, 8 edit records (frozen class counts), determinism + path-scope asserts, applied"
+    },
+    "r2-gates-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-gates-20260903.json",
+      "sha256": "0848d24f6a7ca2dce37965dfe66d8797519e19d04205a9110227088b6bd593d4",
+      "note": "gates CLEAN: identity + off-worklist byte-identity over 4,501 files; counts preserved + retired-rel zero fleet-wide; attribution convention + roster membership; audit PRE/POST zero NEW rows; depth hardPass preserved; anchoring + count claims live-true; sibling protection; alias uniqueness; fleet 8,384 rows zero NEW"
+    },
+    "r2_transform_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2_transform_20260903.py",
+      "sha256": "2b345a3ab071627f9f6b864931087e0384212cee1936317819c78a59db250517",
+      "note": "the correction engine: clone-pre-state confinement (full-fleet view law), defect census, expectOld identity asserts at apply time, post-state laws (no 'Dehui' name survives, counts unchanged, retired absent, carried-field byte law on the 3 repaired rows, prose-anchoring gate), path-scope escape assert"
+    },
+    "r2_pre_apply_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2_pre_apply_20260903.py",
+      "sha256": "cb6b9fb7efdfa35a7d5ed7954db0d670c3129ee8a29d328c9612dac591848b92",
+      "note": "pre-apply snapshot: 3 pre entries + full terms-tree sha snapshot (4,504 files) + PRE attribution (0 rows) + PRE depth (3/3 hardPass) on the products"
+    },
+    "r2-pre-terms-shas-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-pre-terms-shas-20260903.json",
+      "sha256": "6887b2e688370f129fe08ebb659c2c5506b4720faf923956116b7e8ea1bcb56b",
+      "note": "full terms-tree sha snapshot (4,504 entries) the off-worklist protection gate re-hashes against"
+    },
+    "build_r2_blind_r1_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/build_r2_blind_r1_20260903.py",
+      "sha256": "35e293924efe6dd14d6ed5e3cb8adb60b9338a028ee155f9f0319160db6f5a13",
+      "note": "blind rows builder: 8 honest rows re-derived from clone via the engine + frozen pre/post materials; 8 payload-bound canaries at fixed-stride slots (masterName swap, contextMaster role corruption, actorLabel voice mismatch, kwic mutation, lb off-by-one, alias-target mutation, fabricated CJK quote, fabricated compiler string)"
+    },
+    "r2_adjudicate_blind_r1_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2_adjudicate_blind_r1_20260903.py",
+      "sha256": "d1f2592eb45ba28b800d8ca2b228d833a1d3cd425c1057ba15edcf29fbcfda0c",
+      "note": "binding machine adjudicator (r1): oracle rebuild, canary coverage law, honest-flag byte-adjudication (flags-based reviewer schema)"
+    },
+    "r2-blind-r1-adjudication-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-blind-r1-adjudication-20260903.json",
+      "sha256": "166d03c0d320e094180b660a005c94ba8e07cbef2ee3ada03dbf354a709649b5",
+      "note": "binding machine adjudication (r1): canaries 8/8 with zero coverage misses across every reviewer, zero confirmed findings — PASS"
+    },
+    "r2-blind-r1-plants-20260903.json": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/r2-blind-r1-plants-20260903.json",
+      "sha256": "73823700258d24d679d5bc38f8e955f992420e8c9b0d465051d94f0661fae06b",
+      "note": "canary key (adjudicator-only): 8 planted defects payload-bound (rowSha)"
+    },
+    "probe_r2_preview_20260903.py": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/probe_r2_preview_20260903.py",
+      "sha256": "91c4e92fef9a6fee7f0b23cf937469b3d6038be8ae5434e624162595419a95ca",
+      "note": "preview probe: unified diffs + changed-path ledger straight from the engine (SPEC-exact construction evidence)"
+    },
+    "SPEC_R2_20260903.md": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build/maintenance/SPEC_R2_20260903.md",
+      "sha256": "06228959ad37f99427b3d1abfc29a9eef71dea6c6064199863d3600a48c554f4",
+      "note": "lane SPEC: the review-verdict corrections (Dehui speaker fix, recorded-sayings wording, alias), path-scope law, gates, blind round, archive bundle checklist, follow-up-lane scope split (user decision 2026-09-03)"
+    }
+  },
+  "products": [
+    {
+      "id": "t_ea2a427c7aba",
+      "sourceDir": "fresh-build/entries/t_ea2a427c7aba/r2-20260903",
+      "entrySha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+      "worksheetSha256": "38904cc5cefab19f5331b3121eb526fc113d9e24d45b4f0736748157b250bdaf",
+      "workSha256": "16945e1289a5b4e2473af3b74af14287cfc9e884ef1ddfa5677ce5f96871a3db",
+      "termsMode": "replace",
+      "termsBaselineSha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+      "beforeSha256": "71a07bafc6058e65b2b90a1980477582c9c094bc12dfa6dd05ac7c8bc98b5fda"
+    },
+    {
+      "id": "t_057cc9ea8755",
+      "sourceDir": "fresh-build/entries/t_057cc9ea8755/r2-20260903",
+      "entrySha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+      "worksheetSha256": "c0d3871475162176c0aebf3ca69cd87a82ea4731344a7fefc444d4ec034fda93",
+      "workSha256": "949035877a5d85843b98a36d64e7af3a979635b261e9159cc13f124f75a78def",
+      "termsMode": "replace",
+      "termsBaselineSha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+      "beforeSha256": "b24c013ead5d10295f3c82b4da62c99b5620438cb119c124a754e076226b70ee"
+    },
+    {
+      "id": "t_968a2f97c9ff",
+      "sourceDir": "fresh-build/entries/t_968a2f97c9ff/r2-20260903",
+      "entrySha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b",
+      "worksheetSha256": "a2cd68fb9912f099338d9257c212c05e3e0314aedbe43570af0dfe74bf32775e",
+      "workSha256": "add994203eed4489362d068f6401699ca18daec887aebff774ef3aec0c32a951",
+      "termsMode": "replace",
+      "termsBaselineSha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b",
+      "beforeSha256": "611ee7b63ee0591f352bf65a01f6d1e2c6f74ca44dfabc50b9981d163ea95968"
+    }
+  ],
+  "withdrawn": [],
+  "roster": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/Assets/Data/lineage-masters.json",
+    "sha256": "bdee500537cffced1759f28f2516d8ac613f2d10e3bbdc7b4d35da6bb9bc474a"
+  },
+  "node": {
+    "windowsNodeExe": "/mnt/c/Program Files/nodejs/node.exe",
+    "script": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/eng/tools/merge-dict-entries.js",
+      "sha256": "83e7df825338b11652786541941610a7501b4ad288524846d145ae9e7a912d35"
+    },
+    "cwd": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator",
+    "status": "r2-20260903-ready"
+  },
+  "integrityCommand": "",
+  "extraSurfaces": {
+    "note": "replace-only lane: 3 products in replace mode, no adds, no withdrawals; termbase.v2.json keeps its entry count and the touched ids' rows regenerate; index/shard rows for the touched ids update as the publisher regenerates the surface; git footprint = termbase files + terms/ dirs only. Products are clone-backed at 145b090 (the post-R1c publication state). The two remaining [Dehui] rows (t_ab715aa474d5 1144b03, t_351fa42d396b 1127c04) are user-assigned to a dedicated follow-up lane (decision 2026-09-03) and are NOT touched here. node.script.sha256 is the working-tree js (carries R1a's uncommitted byTermThenId tie-break + C1's ID_REPLACEMENTS entry, unchanged this lane)."
+  }
+}

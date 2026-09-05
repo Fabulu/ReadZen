@@ -1,0 +1,89 @@
+{
+ "schemaVersion": "r2-blind-r1-plants",
+ "honestRows": 8,
+ "plants": 8,
+ "slots": [
+  0,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "registry": [
+  {
+   "plantId": "P1",
+   "rowSlot": 0,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "d29559204847537601c6ac9db66ec4cb5c226e8ffeefe8590c1a95a53249bb36",
+   "entry": "t_ea2a427c7aba",
+   "class": "occ-attribution",
+   "defect": "MasterName kept as fabricated speaker (post slot is null)"
+  },
+  {
+   "plantId": "P2",
+   "rowSlot": 9,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "8616ef0863de8bc31d94985581a1c9d08a93880f993f6ed78942c6ca3a6c7372",
+   "entry": "t_ea2a427c7aba",
+   "class": "occ-attribution",
+   "defect": "ContextMasters role corrupted compiler->utterer (post contradicts)"
+  },
+  {
+   "plantId": "P3",
+   "rowSlot": 10,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "81b6282b3c2d1f8908bec7301fcc1980db3a9a9b4fccc70e0313e036cec1e6d1",
+   "entry": "t_ea2a427c7aba",
+   "class": "occ-attribution",
+   "defect": "ActorLabel absent from the new note (label-verbatim law)"
+  },
+  {
+   "plantId": "P4",
+   "rowSlot": 11,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "402b6cd75d50e931e801c14140e65043c22d84159c763eaa2a966a94725f61c2",
+   "entry": "t_ea2a427c7aba",
+   "class": "occ-attribution",
+   "defect": "kwic mutated (post slot contradicts)"
+  },
+  {
+   "plantId": "P5",
+   "rowSlot": 12,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "b226c2fa6bd5116688502e3e4cf698708dc09a380602f5ad14083b0d591613a6",
+   "entry": "t_ea2a427c7aba",
+   "class": "occ-attribution",
+   "defect": "fromLb off-by-one (post slot contradicts)"
+  },
+  {
+   "plantId": "P6",
+   "rowSlot": 13,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "f3a1abc69d7a793365a8d3b1094cc2b1d650d27da7186070f9e783bf6a9f5e82",
+   "entry": "t_968a2f97c9ff",
+   "class": "searchaliases-add",
+   "defect": "alias target mutated (dropped 顿号; post SearchAliases contradicts)"
+  },
+  {
+   "plantId": "P7",
+   "rowSlot": 14,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "4da5bc51df56f0d2265335f536006da326fbacc4381814a4c6beb550a594622d",
+   "entry": "t_057cc9ea8755",
+   "class": "note-rewrite",
+   "defect": "fabricated CJK quote injected into Note (not in POST; unanchored)"
+  },
+  {
+   "plantId": "P8",
+   "rowSlot": 15,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "e13e702f218d72a933da7e407b08e6856507c6fe1a09b92edeece65ebbefbeb2",
+   "entry": "t_057cc9ea8755",
+   "class": "attributionnote-rewrite",
+   "defect": "fabricated compiler string injected into attribution note"
+  }
+ ]
+}

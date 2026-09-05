@@ -1,0 +1,445 @@
+{
+  "CreatedBy": "Codex",
+  "Id": "t_0b56e6349db2",
+  "Senses": [
+    {
+      "AlternateTargets": [
+        "challenge",
+        "press with a question",
+        "interrogate"
+      ],
+      "SearchAliases": [
+        "probe a case",
+        "probe a respondent",
+        "press for an answer",
+        "challenge with a question"
+      ],
+      "Explanation": "In Chan records, this verb means to probe a respondent, assembly, or inherited case by pressing for an answer. It becomes both live exchange machinery and an editorial device for reopening old cases as answerable questions. Attested constructions include \"probed\" (師徵 / 師徵云), \"probed the assembly\" (師徵問大眾), and \"repeatedly interrogated\" (再四徵詰). After citing Dongshan's answer about the place without cold or heat, Yulin Tongxiu probes the assembly with the apparent conflict between \"no cold or heat\" and \"when cold, cold kills you; when hot, heat kills you.\" Tianyin Yuanxiu classifies \"probing the old cases\" (徵古) as its own section, raises an old case, quotes earlier comments, and adds a fresh challenge beginning \"if there are words...\" (若是有語).",
+      "MasterName": null,
+      "Note": "The probe sense is established by the recurrent compounds \"probing question\" (徵問), \"interrogate\" (徵詰), and \"probe the old cases\" (徵古), and by headings that enumerate probing, raising, answering-for, and distinguishing (徵拈代別). Family check: \"examine and distinguish\" (勘辨) is examination and discrimination; \"question-and-answer\" is the entire reciprocal exchange; \"encounter\" is its occasion or recorded encounter. \"Probe\" (徵) here is the act of pressing a person, assembly, or inherited case with a further question. Summoning, exacting, requesting, verifying, and the musical pitch are different actions or objects and are split below. The headword has 1,578 occurrences in 283 allowlisted texts across all senses.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu raises Dongshan's cold-and-heat case and probes the assembly through a sequence of questions.",
+          "Curated": true,
+          "FromLb": "0511b05",
+          "Kwic": "師徵問大眾曰既是無寒暑處為甚又寒時寒殺熱時熱殺既是寒時寒殺熱時熱殺如何道是無寒暑處",
+          "MasterName": "Yulin Tongxiu",
+          "RelPath": "B/B27/B27n0152.xml",
+          "ToLb": "0511b07",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄). Tianyin Yuanxiu's section title 'Probing the Old' introduces a raised Linji case.",
+          "Curated": true,
+          "FromLb": "0553b03",
+          "Kwic": "徵古徵古舉：「臨濟兩堂首座齊下喝。僧問：『還有賓主也無？』",
+          "MasterName": "Tianyin Yuanxiu",
+          "RelPath": "J/J25/J25nB171.xml",
+          "ToLb": "0553b04",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin (天隱和尚語錄). Tianyin Yuanxiu probes the inherited comments by testing answers involving words or a shout.",
+          "Curated": true,
+          "FromLb": "0553b09",
+          "Kwic": "師徵云：「若是有語，又落在臨濟手裏。若是有喝，又落在天童手裏。",
+          "MasterName": "Tianyin Yuanxiu",
+          "RelPath": "J/J25/J25nB171.xml",
+          "ToLb": "0553b10",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略). Guting Shanjian retrospectively reports his former teacher's probing until no corner remained on which to lay a hand.",
+          "Curated": true,
+          "FromLb": "0240b02",
+          "Kwic": "山僧昔年到先師處，徵問到無結角下手處，不免盡力掀倒。",
+          "MasterName": "Guting Shanjian",
+          "RelPath": "J/J25/J25nB163.xml",
+          "ToLb": "0240b03",
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Langting Jingting answers the direct question about a probing-question by saying that it greatly belabors a person.",
+          "Curated": true,
+          "FromLb": "0746a18",
+          "Kwic": "如何是徵問？」師云：「鈍置煞人。",
+          "MasterName": "Langting Jingting",
+          "RelPath": "J/J33/J33nB294.xml",
+          "ToLb": "0746a19",
+          "ContextMasters": [
+            {
+              "MasterName": "Langting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Wuchu Daguan enumerates room instructions, examination of students, probing, raising, answering-for, and distinguishing as circulating encounter words.",
+          "Curated": true,
+          "FromLb": "0666a09",
+          "Kwic": "室中垂示勘辨學者徵拈代別皆有機語流布寰中久矣",
+          "MasterName": "Wuchu Daguan",
+          "RelPath": "C/C077/C077n1710.xml",
+          "ToLb": "0666a11",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuchu Daguan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J25/J25nB166.xml). Dharma Sayings of Fushan (浮山法句). Wang Shunding records Langmu Benzhi repeatedly interrogating Shikui and then pressing him with a question from the Heart Sutra.",
+          "Curated": true,
+          "FromLb": "0299a02",
+          "Kwic": "石簣細叩此事。和尚再四徵詰，舉《心經》照見五蘊皆空語問：「今見有五蘊，如何能空？",
+          "MasterName": "Langmu Benzhi",
+          "RelPath": "J/J25/J25nB166.xml",
+          "ToLb": "0299a04",
+          "ContextMasters": [
+            {
+              "MasterName": "Langmu Benzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In Shiwu Qinggong's biography, Gaofeng Yuanmiao sends him on with the words that in Wen there is a blind donkey and in Huai there is Ji'an; at Jianyang he calls on Ji'an Zongxin, who severely probes him with demanding challenges (痛加徵詰), and Shiwu Qinggong strives in deep inquiry and awakens thoroughly.",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "FromLb": "0169c24",
+          "Kwic": "辭妙，妙曰：溫有瞎驢，淮有及菴，宜往見之。因至建陽，參及菴信。信痛加徵詰，師發憤深究，豁然省徹。",
+          "MasterName": "Ji'an Zongxin",
+          "RelPath": "X/X82/X82n1571.xml",
+          "ToLb": "0170a01",
+          "ContextMasters": [
+            {
+              "MasterName": "Ji'an Zongxin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shiwu Qinggong",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ]
+        },
+        {
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師全錄). In a studio conversation Juelang Daosheng compares entrusting matters to a devious friend — whose words hang together yet the mind utterly refuses them — to a magistrate facing fraud, who cannot but probe and challenge (徵詰) again and again to break the resistance.",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "FromLb": "0644b28",
+          "Kwic": "又托彼九友素行詭異者，彼雖語意條貫，君心徹底不肯，且再四徵詰。",
+          "MasterName": "Juelang Daosheng",
+          "RelPath": "J/J34/J34nB311.xml",
+          "ToLb": "0644b30",
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "probe a respondent or case",
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Linji Yixuan"
+      ],
+      "RelatedTerms": [
+        "probing question (徵問)",
+        "interrogate (徵詰)",
+        "probe the old cases (徵古)",
+        "question-and-answer (問答)",
+        "examine and distinguish (勘辨)",
+        "encounter (機緣)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "B/B27/B27n0152.xml",
+        "J/J25/J25nB171.xml",
+        "J/J25/J25nB163.xml",
+        "J/J33/J33nB294.xml",
+        "C/C077/C077n1710.xml",
+        "J/J25/J25nB166.xml",
+        "X/X82/X82n1571.xml",
+        "J/J34/J34nB311.xml"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source"
+    },
+    {
+      "AlternateTargets": [
+        "imperial summons"
+      ],
+      "SearchAliases": [
+        "summon to court",
+        "imperial summons",
+        "call before the emperor"
+      ],
+      "Explanation": "In biographical and case narration, \"summon\" (徵) is a sovereign's act of calling someone to court. Huigong Xiong contrasts Bodhidharma's coming after one summons with Daoxin's refusal to rise after being \"summoned three times\" (三徵不起). This is a political summons, not an interview probe.",
+      "MasterName": null,
+      "Note": "Split as a different action under #0f.8. One directly attributable defining witness is curated here.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai (南海寶象林慧弓詗禪師語錄). Huigong Xiong contrasts Bodhidharma's response to one imperial summons with Daoxin's refusal to rise after three summonses.",
+          "Curated": true,
+          "FromLb": "0675b11",
+          "Kwic": "初祖被武帝一詔即來，四祖受太宗三徵不起。",
+          "MasterName": "Huigong Xiong",
+          "RelPath": "J/J35/J35nB336.xml",
+          "ToLb": "0675b12",
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Daoxin",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huigong Xiong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "summon a person to court",
+      "RelatedMasters": [
+        "Bodhidharma",
+        "Daoxin"
+      ],
+      "RelatedTerms": [
+        "imperial edict (詔)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "J/J35/J35nB336.xml"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional"
+    },
+    {
+      "AlternateTargets": [
+        "collect a grain tax"
+      ],
+      "SearchAliases": [
+        "grain levy",
+        "collect grain tax",
+        "exact grain tax"
+      ],
+      "Explanation": "In administrative prose, \"exact\" (徵) is to exact or collect a levy. A petition asks for release from \"the burden of exacting grain\" (徵糧之役). The object is a material assessment, distinct from pressing a respondent with a question.",
+      "MasterName": null,
+      "Note": "Split as a different action under #0f.8; it is retained because administrative documents occur inside the allowlisted Chan record.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Chan Master Micang Kai (密藏開禪師遺稿). Mizang Daokai petitions that the monastery be exempted from the burden of collecting a grain levy.",
+          "Curated": true,
+          "FromLb": "0011c27",
+          "Kwic": "收開墾之令、免徵糧之役，嚴令有司防範、僧徒守護。",
+          "MasterName": "Mizang Daokai",
+          "RelPath": "J/J23/J23nB118.xml",
+          "ToLb": "0011c28",
+          "ContextMasters": [
+            {
+              "MasterName": "Mizang Daokai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "exact a grain levy",
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "grain levy (徵糧)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "J/J23/J23nB118.xml"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional"
+    },
+    {
+      "AlternateTargets": [
+        "request a preface"
+      ],
+      "SearchAliases": [
+        "request a preface",
+        "solicit a contribution",
+        "ask for written contribution"
+      ],
+      "Explanation": "In record-making prose, \"request\" (徵) can mean to request a contribution. When disciples prepare a deceased master's sayings for carving, they \"request a preface from me\" (徵序於予). The requested text is a preface, not an answer under examination.",
+      "MasterName": null,
+      "Note": "Split because soliciting a written contribution is a different action from probing or summoning.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan (無幻禪師語錄). Yunqi Zhuhong says the disciples prepared the sayings for printing and requested a preface from him.",
+          "Curated": true,
+          "FromLb": "0053b16",
+          "Kwic": "門人錄其語為帙，將鋟梓以傳，徵序於予。",
+          "MasterName": "Yunqi Zhuhong",
+          "RelPath": "J/J25/J25nB156.xml",
+          "ToLb": "0053b17",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunqi Zhuhong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "solicit a written contribution",
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "preface (序)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "J/J25/J25nB156.xml"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional"
+    },
+    {
+      "AlternateTargets": [
+        "establish as evidence",
+        "attest"
+      ],
+      "SearchAliases": [
+        "verify with evidence",
+        "establish as evidence",
+        "attest with a token"
+      ],
+      "Explanation": "With \"token\" (信) or evidentiary language, \"verify\" (徵) is to verify or establish something as evidence. At an address for a donated robe, Miyun Yuanwu says, \"today this old monk relies on the robe to verify the token\" (老僧今日據衣徵信), then asks who knows the place of the token. Here a robe serves as evidence; no respondent is being probed by the headword itself.",
+      "MasterName": null,
+      "Note": "Split as an evidentiary action distinct from the primary public-interview verb.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun (密雲禪師語錄). Miyun Yuanwu says that the donated robe marks a token and that he relies on it to verify that token.",
+          "Curated": true,
+          "FromLb": "0011a29",
+          "Kwic": "祖師西來，傳衣表信；老僧今日據衣徵信。還有知信處底麼？",
+          "MasterName": "Miyun Yuanwu",
+          "RelPath": "J/J10/J10nA158.xml",
+          "ToLb": "0011a30",
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "verify by material evidence",
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "robe (衣)",
+        "token (信)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "J/J10/J10nA158.xml"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional"
+    },
+    {
+      "AlternateTargets": [
+        "zhi pitch"
+      ],
+      "SearchAliases": [
+        "zhi pitch",
+        "musical zhi",
+        "traditional pitch zhi"
+      ],
+      "Explanation": "\"Zhi\" (徵) also names zhi, one of the traditional musical pitches. A twelve-hours song says Fang Shuo mistakenly followed \"gong and zhi\" (宮徵). This is a musical noun and has no semantic relation to the exchange verb \"probe.\"",
+      "MasterName": null,
+      "Note": "The romanization is supplied only to distinguish the named musical pitch; the English explanation identifies its object. Split by word-class and referent under #0f.8.",
+      "Occurrences": [
+        {
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Fahua Quanju's Twelve-Hours Song uses gong and zhi as musical-pitch names.",
+          "Curated": true,
+          "FromLb": "0811c23",
+          "Kwic": "月圓日滿不曾虧方朔由來悞宮徵鷄鳴丑",
+          "MasterName": "Fahua Quanju",
+          "RelPath": "C/C077/C077n1710.xml",
+          "ToLb": "0811c24",
+          "ContextMasters": [
+            {
+              "MasterName": "Fahua Quanju",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "PreferredTarget": "musical pitch zhi",
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "the pitch gong (宮)"
+      ],
+      "SenseKey": null,
+      "SourceTexts": [
+        "C/C077/C077n1710.xml"
+      ],
+      "Status": "allowed",
+      "Validation": "provisional"
+    }
+  ],
+  "SourceTerm": "徵",
+  "WrittenUtc": null
+}

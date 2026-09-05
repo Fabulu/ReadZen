@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "f1-blind-r1-adjudication",
+  "lane": "F1",
+  "round": "r1",
+  "rowsFile": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\f1-blind-r1-rows-20260905.json",
+    "sha256": "fcb1c4f0865ff1841122ea75ed069847b621dd6b10e1fdf10fe4ac75aa6ff251"
+  },
+  "reviewers": {
+    "reviewer1": {
+      "inputRowsSha256": "fcb1c4f0865ff1841122ea75ed069847b621dd6b10e1fdf10fe4ac75aa6ff251",
+      "verdictsSha256": "0ff9f59a0356d4577aef1386908cf866feacbfabfe0736c40cdeec0e23e2ba47",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260905-f1-blind-r1-reviewer-1\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0000": 1,
+        "R0002": 1,
+        "R0004": 2,
+        "R0006": 2,
+        "R0008": 2
+      }
+    },
+    "reviewer2": {
+      "inputRowsSha256": "fcb1c4f0865ff1841122ea75ed069847b621dd6b10e1fdf10fe4ac75aa6ff251",
+      "verdictsSha256": "1ed84204c6a8e28c45f73c0072aa01773866a5c811c046f23effeb4283284ad4",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260905-f1-blind-r1-reviewer-2\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0000": 1,
+        "R0002": 1,
+        "R0004": 2,
+        "R0006": 2,
+        "R0008": 2
+      }
+    }
+  },
+  "canaries": {
+    "plants": 5,
+    "requiredCaughtBy": "every reviewer",
+    "results": [
+      {
+        "plantId": "P1",
+        "rowId": "R0000",
+        "class": "occ-attribution",
+        "defect": "MasterName kept as fabricated speaker (post slot is null)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P2",
+        "rowId": "R0002",
+        "class": "occ-attribution",
+        "defect": "ContextMasters role corrupted compiler->utterer (post contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P3",
+        "rowId": "R0004",
+        "class": "occ-attribution",
+        "defect": "ActorLabel absent from the new note (label-verbatim law)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P4",
+        "rowId": "R0006",
+        "class": "occ-attribution",
+        "defect": "kwic mutated (post slot contradicts)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P5",
+        "rowId": "R0008",
+        "class": "explanation-rewrite",
+        "defect": "fabricated CJK quote injected into Explanation (not in POST; unanchored)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      }
+    ],
+    "misses": []
+  },
+  "honestFlags": [],
+  "coordinatorRulings": {
+    "file": null,
+    "refuted": [],
+    "confirmed": [],
+    "unruled": []
+  },
+  "confirmedFindings": [],
+  "problems": [],
+  "verdict": "PASS"
+}

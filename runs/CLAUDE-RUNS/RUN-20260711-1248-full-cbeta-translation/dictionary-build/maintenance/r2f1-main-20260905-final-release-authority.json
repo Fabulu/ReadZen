@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "generic-dictionary-final-release-authority.v1",
+  "cohort": "r2f1-main-20260905",
+  "authorizedBy": "coordinator (Claude), under the user's 2026-09-04 authorization",
+  "authorizedUtc": "2026-09-05T00:38:58.592812+00:00",
+  "releaseAuthorized": true,
+  "basis": "User authorization 2026-09-04: 'you have permission to archive the task. Please commit, push, and publish the dictionary' — one publication cycle covering R2 + F1. Content = exactly the two lanes' verified installs: R2 (8457672) — t_ea2a427c7aba 坐禪 three T48n2025 speaker rows re-attributed to the institutional voice, t_057cc9ea8755 攝心 compiled-by-disciples wording, t_968a2f97c9ff 一不成，二不是 search alias; F1 (3d5a327) — t_ab715aa474d5 一日不作一日不食 1144b03 and t_351fa42d396b 粥飯 1127c04 re-attributed per the full-case re-reads; census law: zero MasterName 'Dehui' rows in the published surface (main had exactly 1, inside a product). Publication shape: product-level generic-publisher install on the publish clone (main), replacing 4 ids and adding t_351fa42d396b; contrib branch pushed (2 commits: 8457672, 3d5a327). The surfaces had forked (4,715 main vs 4,499 agent; 347 main-only; 131 agent-only) — the fork is disclosed, NOT resolved by this cohort: the 131 agent-only entries and other agent-side improvements remain unpublished pending a future reconcile lane; main's 347 main-only entries are preserved byte-for-byte.",
+  "products": [
+    {
+      "id": "t_ea2a427c7aba",
+      "entrySha256": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7"
+    },
+    {
+      "id": "t_057cc9ea8755",
+      "entrySha256": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd"
+    },
+    {
+      "id": "t_968a2f97c9ff",
+      "entrySha256": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b"
+    },
+    {
+      "id": "t_ab715aa474d5",
+      "entrySha256": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe"
+    },
+    {
+      "id": "t_351fa42d396b",
+      "entrySha256": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d"
+    }
+  ],
+  "builtOn": {
+    "agentContribHead": "3d5a327da9da4413d473f053a9b74be5d67a0a52",
+    "agentContribParent": "845767290739da05b5e9a1bca2a42d95fbb2e7d3",
+    "mainHeadAtPublication": "989df5ddc8e212bcef6fbdd7ad1317a94d812adc"
+  },
+  "withdrawn": []
+}

@@ -1,0 +1,170 @@
+{
+  "Id": "t_42162fbd382d",
+  "SourceTerm": "貓兒",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "cat",
+      "AlternateTargets": [
+        "kitten"
+      ],
+      "Status": "preferred",
+      "Explanation": "The word means a cat. Its most heavily transmitted Zen deployment is the public case in which the eastern and western halls fight over a cat: Nanquan lifts it and says, \"if you can speak, I will not cut it; if you cannot speak, I will cut it\" (道得即不斬，道不得即斬卻). The assembly does not answer and the record says he cuts it; when Zhaozhou returns, he puts a straw sandal on his head, and Nanquan says he would have saved the cat. Later teachers repeatedly ask about, title, verse, and comment on \"Nanquan cuts the cat\" (南泉斬貓). The same word also retains its ordinary animal use, including a cat's fixed attention while catching a mouse.",
+      "Validation": "multi-source",
+      "Note": "Later Chan records explicitly debate the killing rather than silently resolving it. One late account says one hall cited a rule that \"the bodhisattva precepts do not permit keeping cats, foxes, pigs, and dogs\" (菩薩戒中不許長養貓狸豬狗), while the other wanted the cat to control mice; that speaker later calls the killing a sin. Another transmitted verdict answers the question about the case with only \"it takes a Nanquan\" (須是南泉始得). These are attested later deployments; this entry does not project their precept explanation backward as the early record's stated intent. The simplified spelling of “cat” is a separate searchable entry but not a different meaning.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0358a23",
+          "ToLb": "0358a24",
+          "Kwic": "泉來堂內，提起貓兒云：「道得即不斬，道不得即斬卻。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou (趙州和尚語錄). Nanquan Puyuan is the exact actor who enters the two halls, raises the cat, and says he will cut it unless the assembly can speak; Zhaozhou Congshen returns only later and responds to Nanquan's retelling.",
+          "MasterName": "Nanquan Puyuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0348c16",
+          "ToLb": "0348c17",
+          "Kwic": "南泉斬貓兒。意旨如何。印曰。須是南泉始得。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Full-case review identifies Guangfu Weishang as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Guangfu Weishang",
+          "ContextMasters": [
+            {
+              "MasterName": "Jueyin",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Guangfu Weishang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0733a15",
+          "ToLb": "0733a18",
+          "Kwic": "菩薩戒中不許長養貓狸豬狗，放他去了罷；一個是尖酸鬼，說這兩日老鼠多，前日一釜羹被鼠糞污卻，昨日兩個老鼠走入牛角去，留他這個貓兒努起眼睛照管照管也好。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Langting Jingting",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0733a22",
+          "ToLb": "0733a24",
+          "Kwic": "生生的把個貓兒一刀兩段。可憐，可憐！好個玉面小貓兒，七條性命無事無辜斷送在南泉手裏",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Langting Jingting",
+          "ContextMasters": [],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 貓兒 spans belong to Langting Jingting's single lament over the cut cat; the exclamation and the verse-half are one continuous comment turn."
+          }
+        },
+        {
+          "RelPath": "X/X85/X85n1593.xml",
+          "FromLb": "0520b21",
+          "ToLb": "0520b23",
+          "Kwic": "子見貓兒捕鼠乎？目睛不瞬，四足踞地，諸根順向，首尾一直，擬無不中。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X85/X85n1593.xml). Orthodox Line of the Chan School (禪宗正脉). Full-case review identifies Caotang Shanqing as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Caotang Shanqing",
+          "ContextMasters": [
+            {
+              "MasterName": "Caotang Shanqing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0835b02",
+          "ToLb": "0835b03",
+          "Kwic": "闢曰。遮一絡索。大似依樣畫貓兒。大槩畫得也相似。雖死鼠不能捕。而况活者乎。",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). In his refutation commentary on the Xinxin Ming, Zhongfeng Mingben (中峰明本) writes that such tangled expositions are like painting a cat by copying a model (依樣畫貓兒): the likeness may be captured, yet it cannot even catch a dead rat, let alone a living one.",
+          "MasterName": "Zhongfeng Mingben",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0327c11",
+          "ToLb": "0327c12",
+          "Kwic": "師云：「猛虎當途踞。」「如何是第二句？」師云：「貓兒倒上樹。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Asked in the hall about the three phrases of Linji Yixuan's (臨濟) public instruction, Guxue Zhenzhe (古雪) answers the second with the cat climbing a tree (貓兒倒上樹).",
+          "MasterName": "Guxue Zhenzhe",
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J24/J24nB137.xml",
+        "X/X80/X80n1565.xml",
+        "J/J33/J33nB294.xml",
+        "X/X85/X85n1593.xml",
+        "B/B25/B25n0145.xml",
+        "J/J28/J28nB208.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "猫兒",
+        "南泉斬貓",
+        "斬貓",
+        "兩堂爭貓",
+        "趙州戴草鞋",
+        "不殺",
+        "殺生"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

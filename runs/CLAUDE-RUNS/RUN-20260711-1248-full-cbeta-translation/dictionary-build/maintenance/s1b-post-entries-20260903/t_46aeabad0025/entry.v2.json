@@ -1,0 +1,112 @@
+{
+  "Id": "t_46aeabad0025",
+  "SourceTerm": "嘉州大象",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna175r3 semantic author",
+  "WrittenUtc": "2026-08-09T12:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great image at Jiazhou",
+      "AlternateTargets": [
+        "the great Buddha image at Jiazhou"
+      ],
+      "SearchAliases": [
+        "the great statue at Jiazhou",
+        "the great Buddha at Jiazhou",
+        "the great elephant of Jiazhou"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "嘉州大象 names the fixed great image at Jiazhou. The retained Tier 2 uses pair it with 陝府鐵牛; their exaggerated predicates do not turn the last graph into a zoological elephant. One lamp recension is preserved as supplementary evidence.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0092c07",
+          "ToLb": "0092c11",
+          "Kwic": "光非照境，境亦非存。光境俱忘，復是何物？百草頭上罷卻干戈則且置，忽若嘉州大象倒騎陝府鐵牛，把須彌山一摑百雜碎，新羅國裏走馬，南贍部州說禪，又作麼生？五臺山上雲蒸飯，佛殿堦前狗尿天。",
+          "MasterName": "Huqiu Shaolong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huqiu Shaolong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Speaker: Huqiu Shaolong."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0320b04",
+          "ToLb": "0320b07",
+          "Kwic": "然雖如是，鍼眼魚吞卻嘉州大象即不問，你觀世音菩薩將錢買胡餅，放下手為甚麼卻是饅頭？不到烏江畔，知君未肯休。",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Speaker: Guxue Zhenzhe."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0323b04",
+          "ToLb": "0323b06",
+          "Kwic": "師云：「你道陝府鐵牛因甚吞卻嘉州大象？」進云：「鐵牛且置，祇如世尊今辰降誕，和尚還有慶贊句子也無？」師云：「向日荷新卷。」",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Speaker: Guxue Zhenzhe."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0098a08",
+          "ToLb": "0098a10",
+          "Kwic": "上堂。「爛東瓜吞卻嘉州大象，寬闊有餘；斷貫索鞭起陝府鐵牛，縱橫無礙。然雖如是，猶涉化門本分，衲僧必不為矣。還會麼？」便下座。",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Speaker: Yezhu Fuhui."
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "J/J28/J28nB208.xml",
+        "J/J29/J29nB224.xml"
+      ],
+      "RelatedMasters": [
+        "Huqiu Shaolong",
+        "Guxue Zhenzhe",
+        "Yezhu Fuhui"
+      ],
+      "RelatedTerms": [
+        "陝府鐵牛"
+      ],
+      "Explanation": "嘉州大象 is the great image at Jiazhou, a fixed stock figure in Chan sayings. Huqiu Shaolong, Guxue Zhenzhe, and Yezhu Fuhui pair it with the iron ox of Shanzhou and make the established image be swallowed, ridden, or otherwise handled in their lines. Those predicates keep the named figure visible; they do not change what the phrase names."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "Id": "t_e69d7df930ca",
+  "SourceTerm": "金牛",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": "Jinniu",
+      "MasterName": "Jinniu",
+      "PreferredTarget": "Master Jinniu",
+      "AlternateTargets": [
+        "Jinniu"
+      ],
+      "Status": "preferred",
+      "Explanation": "The lineage master Jinniu, whose name is recorded with a recurring mealtime action. At the meal hour he carries a rice bucket before the monks' hall, dances, laughs, claps, and calls, 'Bodhisattva children, come eat.' The Blue Cliff Record and an independent lamp recension both name Jinniu and preserve the action. The person belongs on the roster of masters; this sense identifies him without turning his name into a biography or collapsing him into the later case shorthand.",
+      "Validation": "multi-source",
+      "Note": "Person referent. The name's later use in Jinniu's meal-call case is a separate allusive referent, while the ordinary golden ox is a lexical collision.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0201c19",
+          "ToLb": "0201c20",
+          "Kwic": "金牛和尚每至齋時。自將飯桶。於僧堂前作舞。呵呵大笑云。菩薩子喫飯來",
+          "MasterName": "Jinniu",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). The Blue Cliff Record names Master Jinniu and records his meal-hour action.",
+          "ContextMasters": [
+            {
+              "MasterName": "Jinniu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0052c01",
+          "ToLb": "0052c02",
+          "Kwic": "鎮州金牛和尚師凡喫飯時，舁飯桶到堂前作舞云：菩薩子喫飯來。乃撫掌呵呵大笑。",
+          "MasterName": "Jinniu",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). An independent lamp recension names Zhenzhou Jinniu and records the meal call, dance, clapping, and laughter.",
+          "ContextMasters": [
+            {
+              "MasterName": "Jinniu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X79/X79n1557.xml"
+      ],
+      "RelatedMasters": [
+        "Jinniu"
+      ],
+      "RelatedTerms": [
+        "金牛喚飯",
+        "金牛飯",
+        "喫飯",
+        "飯"
+      ],
+      "SearchAliases": []
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Jinniu's meal-call case",
+      "AlternateTargets": [
+        "Jinniu calls the meal",
+        "Jinniu's meal"
+      ],
+      "Status": "allowed",
+      "Explanation": "The recorded meal call attached to Master Jinniu, raised later as a case allusion. One address groups 'Jinniu calls them to the meal' with Nanquan cutting the cat, Guizong cutting the snake, and Zhaozhou drinking tea, then supplies its own critical appraisal. Another invites the assembly to eat 'Jinniu's meal' alongside other named case objects. These compressed expressions refer to the inherited meal-call case, not directly to the person and not to a golden ox.",
+      "Validation": "multi-source",
+      "Note": "Case referent. The entry reports the textual grouping and appraisal without deriving a shared precept meaning or assigning a motive to Jinniu's action.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0313c18",
+          "ToLb": "0313c20",
+          "Kwic": "南泉斬貓、歸宗斬蛇、金牛喚飯、趙州喫茶，盡謂是宗門向上全提底時節，仔細簡點將來，俱未作家。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Full-case review identifies Guxue Zhe as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Guxue Zhe",
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhe",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0902c02",
+          "ToLb": "0902c03",
+          "Kwic": "來！來！喫金牛飯，飲洞山茶，穿睦州艸履，擎祕魔木杈",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan (蔗菴範禪師語錄). Full-case review identifies Zhean Jingfan as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Zhean Jingfan",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhean Jingfan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0250b05",
+          "ToLb": "0250b07",
+          "Kwic": "曰，如何是人境俱不奪。師曰，雲門胡餅金牛飯，空腹而來滿腹歸。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Full-case review identifies Xiaoyan Debao as the actor.",
+          "MasterName": "Xiaoyan Debao",
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyan Debao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB208.xml",
+        "J/J36/J36nB369.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Jinniu"
+      ],
+      "RelatedTerms": [
+        "金牛喚飯",
+        "金牛飯",
+        "南泉斬貓",
+        "歸宗斬蛇",
+        "趙州喫茶"
+      ],
+      "SearchAliases": []
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "golden ox",
+      "AlternateTargets": [
+        "gold ox"
+      ],
+      "Status": "allowed",
+      "Explanation": "A golden ox, distinct from Master Jinniu and the meal-call case attached to his name. One recorded address tells of a blue-green purple-gold ox that changes into a stone horse. The animal predicate secures an ordinary or imaginative compound rather than a personal or case name.",
+      "Validation": "provisional",
+      "Note": "Jinniu Lake, Jinniu Mountain, institutions, and later people bearing the same name are proper-name collisions and remain excluded from the curated lexical evidence.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0730b04",
+          "ToLb": "0730b06",
+          "Kwic": "昨日三茅真君下降吳山頂上，產下個碧綠紫金牛，金牛變作石馬",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄). Full-case review identifies Langting Jingting as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Langting Jingting",
+          "ContextMasters": [
+            {
+              "MasterName": "Langting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 金牛 spans belong to Langting Jingting's single narrated prodigy sentence; the birth clause and the transformation clause share one subject chain."
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "SearchAliases": []
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "Id": "t_13951a5b5260",
+  "SourceTerm": "殿主",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex construction Lane B fresh author",
+  "WrittenUtc": "2026-07-17T05:47:08.167553+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "hall keeper",
+      "AlternateTargets": [
+        "shrine-hall keeper",
+        "hall steward"
+      ],
+      "SearchAliases": [
+        "hall keeper",
+        "shrine-hall keeper",
+        "hall steward"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "6 exact witnesses from 6 distinct canonical works.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0024c04",
+          "ToLb": "0024c13",
+          "Kwic": "提綱錄卷第四武林十八㵎理安禪寺住持婁東行悅集佛降誕提綱(報本)佛降誕提綱黃龍南禪師佛誕，上堂。今日四月八，我佛降生之日，天下精藍皆悉浴佛。記得遵布衲在藥山會裏充殿主，浴佛之次，藥山問：汝只浴得者箇，還浴得那箇麼？遵云：把將那箇來。藥山便休。大眾！古人隨時一言半句亦無巧妙，今人用盡心力安排，終不到他境界。眾中商量，或云：者箇",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: the compiler supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 殿主 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:36:18.806966+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0222c03",
+          "ToLb": "0222c04",
+          "Kwic": "泉州太傅王延彬居士泉州太傅王延彬居士入招慶佛殿，指鉢盂問殿主：者個是什麼鉢？",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: the unnamed layman Wang Yanbin supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ContextMasters": [
+            {
+              "MasterName": "Changqing Huileng",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "lay questioner",
+            "ActorLabel": "the unnamed layman Wang Yanbin",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "王延彬指鉢盂問殿主 explicitly assigns the question to layman Wang Yanbin.",
+            "ReviewedBy": "Codex Lane B even independent repair",
+            "ReviewedUtc": "2026-07-17T05:47:08.167553+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0421b21",
+          "ToLb": "0421c06",
+          "Kwic": "山前祖父田園，忍見離離荒草？秋風正要及時畊，脫落鞭繩無鼻竅，去住自如，収放在我，牧笛聲聲送暮霞，故家深入千峰杳，嗚咿嗚咿拍禪床，莫教忘却來時道。重陽，上堂，并謝殿主古西堂。東籬菊染黃，秋浦茱凝翠，古佛放光明，助發實相義。淵明有眼無筋，錯認白衣人至，金風剪剪，玉露團團，故人知此意，笑拍玉闌干。為天童相訪，上堂：隰州佛放光，遠",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Expanded Record of Chan Master Xisou Shaotan: the compiler supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 殿主 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:36:18.806966+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0170a12",
+          "ToLb": "0170a19",
+          "Kwic": "都寺，上堂：睦州唆臨濟喫棒，不是好心；楊岐逼慈明𣆶參，不是好心；趙州訪道吾，不是好心；福源專使逼人住院，且道是好心不是好心？珊瑚枕上兩行淚，半是思君半恨君。謝殿主淨頭，上堂：一身清淨則多身清淨，一世界清淨則多世界清淨。東司頭臭氣，佛殿裏蓬塵。且道從什麼處得來？以手掩鼻曰：又是一點也。中秋謝藏主，上堂：天上月正圓，人間月方半。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120): the compiler supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 殿主 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:36:18.806966+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0564b04",
+          "ToLb": "0564b05",
+          "Kwic": "泉州太傅王延彬居士泉州太傅王延彬居士入招慶佛殿，指鉢盂問殿主：者箇是什麼鉢？",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School: the unnamed layman Wang Yanbin supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "lay questioner",
+            "ActorLabel": "the unnamed layman Wang Yanbin",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "This recension explicitly assigns the question to layman Wang Yanbin.",
+            "ReviewedBy": "Codex Lane B even independent repair",
+            "ReviewedUtc": "2026-07-17T05:47:08.167553+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X84/X84n1585.xml",
+          "FromLb": "0700b11",
+          "ToLb": "0700b18",
+          "Kwic": "召天下高僧建會于鍾山。師與季潭泐公與焉。季奉旨住天界。師居第一座。提綱舉要。表率叢林。時稱得體。明年舉師主金山。十一年陞靈隱。浴佛上堂。舉藥山儼禪師。因遵布衲作殿主。浴佛次。山問。汝祇浴得者箇。還浴得那箇麼。遵曰。把將那箇來。山便休去。師曰。者一箇。那一箇。一一從頭都浴過。藥山布衲謾商量。仔細看來成話墮。成話墮。轉誵譌。拍",
+          "Curated": true,
+          "MasterName": null,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X84/X84n1585.xml). Drafts for the Continuation of the Lamp: the compiler supplies the exact headword-bearing wording or narration as specified by the full-case actor proof.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 殿主 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:36:18.806966+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X64/X64n1260.xml",
+        "X/X66/X66n1296.xml",
+        "X/X70/X70n1390.xml",
+        "X/X82/X82n1571.xml",
+        "X/X66/X66n1297.xml",
+        "X/X84/X84n1585.xml"
+      ],
+      "RelatedMasters": [
+        "Changqing Huileng",
+        "Xisou Shaotan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The hall keeper is the monastic officer responsible for a temple hall. In encounter records the office becomes the named position from which a person is summoned, questioned, appointed, or tested."
+    }
+  ]
+}

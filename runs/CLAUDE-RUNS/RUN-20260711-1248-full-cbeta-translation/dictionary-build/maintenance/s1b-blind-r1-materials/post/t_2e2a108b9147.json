@@ -1,0 +1,151 @@
+{
+  "Id": "t_2e2a108b9147",
+  "SourceTerm": "養子方知父慈",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna172r3 semantic author",
+  "WrittenUtc": "2026-08-09T11:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "only after raising a child does one know a father's care",
+      "AlternateTargets": [
+        "raising a child reveals a father's kindness"
+      ],
+      "SearchAliases": [
+        "father's care",
+        "raising a child proverb",
+        "parental handling"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Guishan first gives the proverb in appraising Linji and Huangbo; Jingshan later applies it to Nanquan's handling of Zhaozhou at the well ladder.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0648a10",
+          "ToLb": "0648a14",
+          "Kwic": "溈山問仰山此二尊宿意作麼生仰山云和尚作麼生溈山云養子方知父慈仰山云不然溈山云子又作麼生仰山云大佀勾賊破家。師",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Speaker: Guishan Lingyou. The surrounding frame explicitly identifies the record compiler.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the record compiler",
+              "Roles": [
+                "later-quoter"
+              ],
+              "GrammarEvidence": "The complete compilation explicitly introduces Guishan Lingyou's headword-bearing words."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0397c16",
+          "ToLb": "0397c19",
+          "Kwic": "去就，當時祇好拽翻梯子，教者漢一生蹭蹬。還知麼？養子方知父慈。等閒施設豈徒然，平地波瀾欲浸天，更向胡梯敲數下",
+          "MasterName": "Jingshan Zhice",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingshan Zhice",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School (宗鑑法林). Speaker: Jingshan Zhice. The surrounding frame explicitly identifies the record compiler.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the record compiler",
+              "Roles": [
+                "later-quoter"
+              ],
+              "GrammarEvidence": "The complete compilation explicitly introduces Jingshan Zhice's headword-bearing words."
+            }
+          ]
+        },
+        {
+          "RelPath": "P/P154/P154n1519.xml",
+          "FromLb": "0646b09",
+          "ToLb": "0647a03",
+          "Kwic": "無德作這去就當時只好拽飜梯子教這漢一生蹭蹬還知麼養子方知父慈。師因南泉云今時人須向異類中行始得師便問異即不問",
+          "MasterName": "Jingshan Zhice",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingshan Zhice",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (P/P154/P154n1519.xml). Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12) (宗門統要正續集(第1卷-第12卷)). Speaker: Jingshan Zhice. The surrounding frame explicitly identifies the record compiler.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the record compiler",
+              "Roles": [
+                "later-quoter"
+              ],
+              "GrammarEvidence": "The complete compilation explicitly introduces Jingshan Zhice's headword-bearing words."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0095b11",
+          "ToLb": "0095b15",
+          "Kwic": "去就，當時只好拽翻梯子，教這漢一生蹭蹬。還知麼？養子方知父慈。西山音云：土老師若不將錯就錯，趙州這漢幾乎懸殺",
+          "MasterName": "Jingshan Zhice",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingshan Zhice",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). Speaker: Jingshan Zhice. The surrounding frame explicitly identifies the record compiler.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the record compiler",
+              "Roles": [
+                "later-quoter"
+              ],
+              "GrammarEvidence": "The complete compilation explicitly introduces Jingshan Zhice's headword-bearing words."
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1297.xml",
+        "P/P154/P154n1519.xml",
+        "X/X66/X66n1296.xml"
+      ],
+      "RelatedMasters": [
+        "Guishan Lingyou",
+        "Jingshan Zhice",
+        "Nanquan Puyuan",
+        "Zhaozhou Congshen"
+      ],
+      "RelatedTerms": [
+        "勾賊破家"
+      ],
+      "Explanation": "Only after raising a child does one know a father's care is a proverb about recognizing a senior's handling from the position of responsibility. Guishan Lingyou gives it while appraising Linji and Huangbo. Jingshan Zhice later uses it after saying that Nanquan could have pulled down the well ladder and left Zhaozhou stranded. Both uses make experienced care the point of comparison."
+    }
+  ]
+}

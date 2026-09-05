@@ -1,0 +1,125 @@
+{
+  "Id": "t_c513dc22845c",
+  "SourceTerm": "十戒",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane B bulk evidence-first author",
+  "WrittenUtc": "2026-07-15T10:28:15.689574+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the novice’s ten precepts",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the novice’s ten precepts"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "5 distinct work IDs selected after complete-context review.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0413a11",
+          "ToLb": "0413a16",
+          "Kwic": "於菩提樹下，即為賈客二人，說二歸之法。次鹿苑為耶舍父，說三歸五戒之法。至羅睺羅出家，說沙彌十戒之法。後為舍利弗請，遂因事制立比丘比丘尼諸具足戒之法。凡依之而修者，三業既淨，則心不妄緣。心不妄緣，則定從此入，慧從此發",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian (永覺元賢禪師廣錄): Exact actor: Yongjue Yuanxian. The complete case assigns the exact headword-bearing turn or action to Yongjue Yuanxian.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Yongjue Yuanxian"
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0319c03",
+          "ToLb": "0319c08",
+          "Kwic": "亦施主物，猶為過犯，況其他乎？清涼大師九歲出家，十一歲背通三歲，十四歲發明南宗大理，猶以十戒嚴身，六祖親傳衣鉢，亦登壇受戒，是故當深信戒法，疾得出世。華嚴經云：信為道源功德母，若不信戒而得禪定，而明佛理，無有是處。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai (無異元來禪師廣錄): Exact actor: Wuyi Yuanlai. The complete case assigns the exact headword-bearing turn or action to Wuyi Yuanlai.",
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Wuyi Yuanlai"
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0838c26",
+          "ToLb": "0839a01",
+          "Kwic": "子求披剃，今其拜者大似前夢所見。」叔告之情，師即肯許。以七月七日設齋集眾，親為剃落，受沙彌十戒，法名如璽，是為萬曆四十五年丁巳歲也。自是每歲奉命往還京師，聽講靡間。年十九，師壽九旬有二，一日忽示疾，絕飲食三日，予跪",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi (方融璽禪師語錄): Exact actor: Ruxi. The first-person autobiographical passage identifies its subject and author as Ruxi and narrates his receiving the novice’s ten precepts.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "Ruxi",
+            "ActorLabel": "Ruxi",
+            "ActorRole": "person-described",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The first-person autobiographical passage identifies its subject and author as Ruxi and narrates his receiving the novice’s ten precepts.",
+            "ReviewedBy": "Codex f004 checkpoint1 delta repair",
+            "ReviewedUtc": "2026-07-15T17:44:32.516093+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0945b20",
+          "ToLb": "0945b24",
+          "Kwic": "戒者如快活林鳥、黃鷹當陽，如何支得？」師云：「若無傀影犬不吠，纔有鸞飛天下平。」進云：「受十戒者如騎虎背，如何下得？」師云：「懸崖須撒手，平地宜小心。」進云：「受大戒者如老鼠鑽牛角，如何出得？」師一喝，云：「會麼？",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu (空谷道澄禪師語錄): The monastic questioner is unnamed: The explicit question/answer grammar assigns the headword to the unnamed questioner; the response begins afterward.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed monastic questioner",
+            "ActorLabel": "the unnamed monastic questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit question/answer grammar assigns the headword to the unnamed questioner; the response begins afterward.",
+            "ReviewedBy": "Codex f004 B1041-1100 exact-actor repair",
+            "ReviewedUtc": "2026-07-15T16:52:13.586522+00:00"
+          },
+          "MasterName": null
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X72/X72n1437.xml",
+        "X/X72/X72n1435.xml",
+        "J/J29/J29nB249.xml",
+        "J/J39/J39nB471.xml",
+        "X/X63/X63n1245.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "戒",
+        "沙彌戒"
+      ],
+      "Explanation": "The novice’s ten precepts. The sources explicitly call them the novice’s ten precepts or discuss receiving them in novice ordination and discipline: teaching histories, autobiography, an ordination question, and procedural monastic-code prose all keep the target specific to novices."
+    }
+  ]
+}

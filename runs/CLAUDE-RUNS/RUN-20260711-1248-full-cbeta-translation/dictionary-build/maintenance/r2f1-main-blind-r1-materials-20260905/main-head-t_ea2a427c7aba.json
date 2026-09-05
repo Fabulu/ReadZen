@@ -1,0 +1,331 @@
+{
+  "Id": "t_ea2a427c7aba",
+  "SourceTerm": "坐禪",
+  "CreatedBy": "Codex fresh-build lane C",
+  "WrittenUtc": null,
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Zen work while seated",
+      "AlternateTargets": [
+        "sitting Zen",
+        "to sit in Zen"
+      ],
+      "SearchAliases": [
+        "sitting Zen",
+        "seated Zen work",
+        "Zen while seated"
+      ],
+      "Status": "allowed",
+      "Validation": "multi-source",
+      "Note": "Some retained records make bodily sitting or hall orientation explicit, but none defines a generic contemplative procedure; several criticize posture, concentration-seeking, or treating sitting as attainment.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0246a07",
+          "ToLb": "0246a08",
+          "Kwic": "我寧死依古人所教坐禪，決不更改",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings (古庭禪師語錄輯略): In the Collected Abridgment of Chan Master Guting's Sayings (古庭禪師語錄輯略), Guting Shanjian says the ancients called years or lives of upright, unbroken sitting sitting Zen, and that he would die rather than change their instruction",
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0615b22",
+          "ToLb": "0615b22",
+          "Kwic": "師云磨甎既不成鏡坐禪豈能成佛",
+          "MasterName": "Nanyue Huairang",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The Old Recorded Sayings of Venerable Masters (古尊宿語錄), in Nanyue Huairang's record: Huairang tells Mazu Daoyi that if polishing a tile cannot make a mirror, sitting Zen cannot make a buddha",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0091a19",
+          "ToLb": "0091a19",
+          "Kwic": "濟云：不坐禪。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue (松源崇嶽禪師語錄): Recorded Sayings of Chan Master Songyuan Chongyue (松源崇嶽禪師語錄), raising Linji Yixuan's exchange with Wang Changshi: Linji is the exact speaker who says, 'They do not sit Zen.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0450c26",
+          "ToLb": "0450c27",
+          "Kwic": "心王自在翛然。法性本無十纏。一切無非佛事。何須攝念坐禪。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Jingde-era Record of the Transmission of the Lamp (景德傳燈錄), Baozhi's Fourteen Section Verses, section 'Phenomena and Principle Are Not Two': Baozhi says the mind-king is free and easy and asks why one should gather thoughts and sit Zen",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified source actor",
+            "ActorLabel": "Baozhi",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete source explicitly names Baozhi as actor of this unit.",
+            "ReviewedBy": "Codex cohort024 Lane C owner",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0453b15",
+          "ToLb": "0453b17",
+          "Kwic": "示執坐禪者大道分明絕點塵。何須長坐始相親。遇緣儻解無非是。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄): Jingde-era Record of the Transmission of the Lamp (景德傳燈錄), in Zhaoqing Shengdeng's named verse 'Showing Those Attached to Sitting Zen': Shengdeng asks why prolonged sitting is needed to become intimate with the clear great way and says that, if conditions are understood, none are otherwise",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified source actor",
+            "ActorLabel": "Zhaoqing Shengdeng",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete source explicitly names Zhaoqing Shengdeng as actor of this unit.",
+            "ReviewedBy": "Codex cohort024 Lane C owner",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0772c03",
+          "ToLb": "0772c04",
+          "Kwic": "半昏半醒，坐得一兩炷香，喚作坐禪得定。",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄): In the Recorded Sayings of Chan Master Zhanran Yuancheng (湛然圓澄禪師語錄), Zhanran Yuancheng criticizes being half asleep and half awake for one or two incense sticks and calling it attainment in sitting Zen",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a21",
+          "ToLb": "1113a22",
+          "Kwic": "集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): The Imperially Revised Baizhang Monastic Code (勅修百丈清規), redacted by Dehui: the code assembles the community in the hall, says that ordinary sitting Zen faces inward, and directs everyone to turn outward when the drum sounds",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified source actor",
+            "ActorLabel": "Dehui",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete source explicitly names Dehui as actor of this unit.",
+            "ReviewedBy": "Codex cohort024 Lane C owner",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB163.xml",
+        "C/C077/C077n1710.xml",
+        "X/X70/X70n1377.xml",
+        "T/T51/T51n2076.xml",
+        "X/X72/X72n1444.xml",
+        "T/T48/T48n2025.xml"
+      ],
+      "RelatedMasters": [
+        "Guting Shanjian",
+        "Nanyue Huairang",
+        "Mazu Daoyi",
+        "Linji Yixuan",
+        "Zhanran Yuancheng",
+        "Songyuan Chongyue"
+      ],
+      "RelatedTerms": [
+        "禪床",
+        "坐堂",
+        "坐參",
+        "參禪",
+        "坐禪箴",
+        "心如牆壁",
+        "不動尊"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Zen work while seated is the bounded physical use supported by retained records, not the name of a generic contemplative exercise. Guting Shanjian connects prolonged upright sitting with the work taught by the ancients, while Nanyue Huairang, Linji Yixuan, Baozhi, Zhaoqing Shengdeng, and Zhanran Yuancheng criticize taking sitting, gathered thought, timed concentration, or bodily form as the Way. The Baizhang code supplies only an institutional seating orientation in the hall. These witnesses establish sitting and Zen work in context; they do not supply a generic mental technique or make posture the meaning of 禪."
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sitting Zen beyond bodily posture",
+      "AlternateTargets": [
+        "sitting Zen not confined to sitting",
+        "Zen sitting apart from posture"
+      ],
+      "SearchAliases": [
+        "sitting Zen beyond posture",
+        "Zen not sitting or lying",
+        "sitting Zen while lying down"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Zen records explicitly redefine 坐 and 禪 or deny that 禪 is sitting or lying; this is the controlling Zen-record use.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2008.xml",
+          "FromLb": "0353b18",
+          "ToLb": "0353b20",
+          "Kwic": "何名坐禪？此法門中，無障無礙，外於一切善惡境界，心念不起，名為坐；內見自性不動，名為禪。",
+          "MasterName": "Huineng",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2008.xml). Platform Sutra of the Sixth Patriarch (六祖大師法寶壇經): The Platform Scripture of the Sixth Patriarch (六祖大師法寶壇經) records Huineng asking what is named sitting Zen and defining sitting as thoughts not arising toward outside circumstances and Zen as inwardly seeing one's own nature unmoved",
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0615b24",
+          "ToLb": "0615c01",
+          "Kwic": "又云汝學坐禪為學坐佛若學坐禪禪非坐臥若學坐佛佛非定相",
+          "MasterName": "Nanyue Huairang",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The Old Recorded Sayings of Venerable Masters (古尊宿語錄), continuing Nanyue Huairang's exact turn: Huairang tells Mazu that if he learns sitting Zen, Zen is not sitting or lying, and if he learns a sitting buddha, buddha is not a fixed form",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete-case review retains repeated instances inside one evidence unit; the stored actor decision governs the headword-bearing unit."
+          },
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X69/X69n1335.xml",
+          "FromLb": "0120b06",
+          "ToLb": "0120b06",
+          "Kwic": "持經不動口，坐禪終日臥。",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui (善慧大士語錄): The Recorded Sayings of Shanhui Dashi (善慧大士語錄), in Fu Dashi's Fifteen 'The Road Is Easy' verses: Fu says, 'Holding a scripture, the mouth does not move; sitting Zen, lying down all day.'",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified source actor",
+            "ActorLabel": "Fu Dashi",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete source explicitly names Fu Dashi as actor of this unit.",
+            "ReviewedBy": "Codex cohort024 Lane C owner",
+            "ReviewedUtc": "2026-07-27T00:00:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2008.xml",
+        "C/C077/C077n1710.xml",
+        "X/X69/X69n1335.xml"
+      ],
+      "RelatedMasters": [
+        "Huineng",
+        "Nanyue Huairang"
+      ],
+      "RelatedTerms": [
+        "禪非坐臥",
+        "坐禪終日臥",
+        "不動"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Sitting Zen beyond bodily posture is the explicit redefinition preserved in Zen records. Huineng says that toward outside good and bad circumstances thoughts not arising is named 坐, while inwardly seeing one's own nature unmoved is named 禪. Nanyue Huairang tells Mazu that 禪 is not sitting or lying, and Fu Dashi writes of 坐禪 while lying down all day. The compound therefore cannot be reduced to a generic contemplative exercise: these uses make bodily posture nonessential and point to Zen rather than a generic contemplative exercise."
+    }
+  ]
+}

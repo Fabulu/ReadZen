@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "generic-dictionary-publication-install.v1",
+  "cohort": "r2-20260903",
+  "manifestSha256": "e65565c32e3090c828be5b64089294f6da2046579854a9a277ace28fc306d5fd",
+  "stageReceiptSha256": "5bb311b17b91d01a2747b9720dd92ff57eb18e65d3a84b25439b8448e4e6ff12",
+  "products": {
+    "t_ea2a427c7aba": "4b3616811bb5a9af837705e8a7fccbb4677cb93ca0cad92aedcd56d162713bb7",
+    "t_057cc9ea8755": "49207cecfc396b061e2a6c438f062806f5d840937df6a85c0e4b969b9864f7fd",
+    "t_968a2f97c9ff": "f1017e44b991518da98cefc2a4ec9ba034fe106666a004719ece75782c53b92b"
+  },
+  "publicParity": {
+    "count": 4499,
+    "products": 3
+  },
+  "termsInstalled": [
+    "t_ea2a427c7aba",
+    "t_057cc9ea8755",
+    "t_968a2f97c9ff"
+  ],
+  "lineageRosterUnchanged": true,
+  "hardPass": true,
+  "installedUtc": "2026-09-03T22:39:08.195287+00:00"
+}

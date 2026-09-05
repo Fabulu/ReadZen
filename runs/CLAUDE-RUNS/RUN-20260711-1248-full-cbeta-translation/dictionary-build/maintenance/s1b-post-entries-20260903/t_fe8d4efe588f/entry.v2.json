@@ -1,0 +1,103 @@
+{
+  "Id": "t_fe8d4efe588f",
+  "SourceTerm": "見處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "luna168r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one’s point of understanding",
+      "AlternateTargets": [
+        "one’s view",
+        "where one’s understanding stands"
+      ],
+      "SearchAliases": [
+        "point of view",
+        "seeing point",
+        "understanding",
+        "attained view",
+        "what someone sees"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The cited predicates assess the same referent; they do not establish separate senses.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0632c18",
+          "ToLb": "0633a03",
+          "Kwic": "見秖教汝不作佛見不落佛邊不作眾生見不落眾生𨓉不作有見不落有邊不作無見不落無邊不作凢見不落凡𨓉不作聖見不落聖𨓉但無諸見即是無𨓉身若有見處即名外道外道者樂於諸見菩薩於諸見而不動如來者即諸法如義所以云󳇐勒亦如也眾聖賢亦如也如即無生如即無滅如即無見如即無聞如來頂即圓亦無無圓無圓見故不落圓邊所以佛身無為不墮諸數權",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Huangbo Xiyun is the exact headword speaker. Huangbo Xiyun utters the headword; The expanded discourse is assigned to Huangbo Xiyun.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Huangbo Xiyun"
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0011c15",
+          "ToLb": "0011c16",
+          "Kwic": "天童悟徵云：商人如是問，世尊如是答，甚處是商人見世尊覺而不見處？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Speaker: Tiantong Wuzheng, explicitly named in the source; roster link unavailable.",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named case commentator",
+            "ActorLabel": "Tiantong Wuzheng",
+            "ActorRole": "utterer",
+            "GrammarEvidence": "Tiantong Wuzheng is explicitly introduced by the source marker ‘Tiantong Wuzheng said’ before the headword-bearing comment.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex publication-cohort-007 Lane B strict union repair",
+            "ReviewedUtc": "2026-07-23T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0001c24",
+          "ToLb": "0002a01",
+          "Kwic": "金色頭陀見處不真，雞足山中與他看守衣鉢。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Tianyi Yihuai is the exact headword speaker. Tianyi Yihuai utters the headword; The complete named section assigns the appraisal to Tianyi Yihuai.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Tianyi Yihuai"
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1296.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Tianyi Yihuai"
+      ],
+      "RelatedTerms": [
+        "未夢見在"
+      ],
+      "Explanation": "A point of understanding is where a person's seeing stands in the exchange. Huangbo Xiyun says that having such a point amounts to being occupied with views. Tiantong Wuzheng asks where the merchant sees the Buddha awake yet has no point of understanding, while Tianyi Yihuai calls Kashyapa's point of understanding untrue. The term therefore names an assessable understanding, not eyesight."
+    }
+  ]
+}

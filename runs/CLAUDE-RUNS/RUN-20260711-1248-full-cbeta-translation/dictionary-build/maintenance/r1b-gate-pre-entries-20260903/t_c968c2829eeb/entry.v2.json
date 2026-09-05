@@ -1,0 +1,224 @@
+{
+  "Id": "t_c968c2829eeb",
+  "SourceTerm": "願文",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex fresh construction Lane A",
+  "WrittenUtc": "2026-07-17T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "vow text",
+      "AlternateTargets": [
+        "written vow",
+        "vow document"
+      ],
+      "SearchAliases": [
+        "vow text",
+        "written vow",
+        "vow document",
+        "text for making vows"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The target describes the attested lexical unit; surrounding cases determine the particular judgment made with it.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB118.xml",
+          "FromLb": "0001a30",
+          "ToLb": "0001b03",
+          "Kwic": "願文中以萬曆壬午于紹興見古寺殘碑載勝國時會稽郡大藏板凡七副，因感泣刻板之在一郡者且爾，其流通天下者當何如哉？",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (J/J23/J23nB118.xml). Posthumous Writings of Mizang Daokai (密藏開禪師遺稿), preface: The preface author summarizes Mizang Daokai’s vow text: seeing a damaged inscription about seven former canon-block sets moved him to tears and prompted the undertaking.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mizang Daokai",
+              "Roles": [
+                "person-described",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "preface narration",
+            "ActorLabel": "the named preface author",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The preface author summarizes Mizang Daokai’s vow text: seeing a damaged inscription about seven former canon-block sets moved him to tears and prompted the undertaking.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1041b13",
+          "ToLb": "1041b13",
+          "Kwic": "慈雲式懺主書紳願文",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitions for the Monastic Gate (緇門警訓), contents list: The contents list prints a vow text as a documentary title; no human actor utters the catalogue line.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "section heading",
+            "ActorLabel": "the contents list",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The contents list prints a vow text as a documentary title; no human actor utters the catalogue line.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2013.xml",
+          "FromLb": "0388a14",
+          "ToLb": "0388a15",
+          "Kwic": "發願文第十。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (T/T48/T48n2013.xml). Yongjia Collection of the Chan School (禪宗永嘉集), preface outline: The preface author labels the tenth section “Text for Making Vows” and explains immediately afterward that its undertaking is to bring all beings across.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "preface narration",
+            "ActorLabel": "the preface author",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The preface author labels the tenth section “Text for Making Vows” and explains immediately afterward that its undertaking is to bring all beings across.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0058b08",
+          "ToLb": "0058b08",
+          "Kwic": "發願文第十。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Compendium of the Five Lamps (五燈會元), Jiangxi Zhiche biography: The biographer reproduces the tenth title in the outline of the Yongjia collection preserved in Zhiche’s section; this is a later recension of the same documentary section, not a new vow.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the lamp-record biographer",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biographer reproduces the tenth title in the outline of the Yongjia collection preserved in Zhiche’s section; this is a later recension of the same documentary section, not a new vow.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1232.xml",
+          "FromLb": "0160b09",
+          "ToLb": "0160b10",
+          "Kwic": "第十三，自製大乘悲智六百願文。每日普為一切法界眾生，發願禮拜。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X63/X63n1232.xml). Record of Zhijue’s Own Conduct (智覺禪師自行錄): The biographical narration reports that Yongming Yanshou personally composed a work called the Six-Hundred Vow Text of Great-Vehicle Compassion and Wisdom; the next sentence separately says he made vows and bowed daily for all beings.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "person-described",
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the conduct-record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biographical narration reports that Yongming Yanshou personally composed a work called the Six-Hundred Vow Text of Great-Vehicle Compassion and Wisdom; the next sentence separately says he made vows and bowed daily for all beings.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0720b23",
+          "ToLb": "0720b23",
+          "Kwic": "怡山然發願文",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Verses and Chants of Chan Patriarchs (禪門諸祖師偈頌), contents list: The contents list identifies “Yishan Ran’s Vow Text” as a titled composition; it is documentary evidence for the lexical unit rather than an unattributed quotation.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "section heading",
+            "ActorLabel": "the contents list",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The contents list identifies “Yishan Ran’s Vow Text” as a titled composition; it is documentary evidence for the lexical unit rather than an unattributed quotation.",
+            "ReviewedBy": "Codex construction Lane A full-case author",
+            "ReviewedUtc": "2026-07-17T00:00:00Z",
+            "HeadingType": "section"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB118.xml",
+        "T/T48/T48n2023.xml",
+        "T/T48/T48n2013.xml",
+        "X/X80/X80n1565.xml",
+        "X/X63/X63n1232.xml",
+        "X/X66/X66n1298.xml"
+      ],
+      "RelatedMasters": [
+        "Mizang Daokai",
+        "Yongming Yanshou"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A vow text is a written declaration that records an undertaking and can be preserved and circulated as a document. Mizang Daokai’s preface recounts the concrete circumstance recorded in his vow text and the canon-printing undertaking that followed. The conduct record of Yongming Yanshou separately names a composition called the Six-Hundred Vow Text of Great-Vehicle Compassion and Wisdom; its grammar does not safely decide whether “six hundred” counts texts or belongs to one title. Catalogues and preface outlines treat the headword as a document type and title: the Yongjia collection has a tenth section for making vows, and another collection lists Yishan Ran’s vow text by name. The Five Lamps recurrence is retained as a recension, not counted as an independent new vow. Zen use keeps the promise public and durable by putting the undertaking into a preserved composition rather than leaving it as an unrecorded intention."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "Id": "t_cec588fa8b06",
+  "SourceTerm": "中道",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna154r5 semantic author",
+  "WrittenUtc": "2026-08-09T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the Middle Way",
+      "AlternateTargets": [
+        "middle course beyond opposing sides"
+      ],
+      "SearchAliases": [
+        "Middle Way",
+        "not attached to two sides or middle",
+        "proceed toward the middle way"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Middle Way names the Middle Way, a course formulated against fixation on opposed sides. The retained sources can recommend proceeding toward it and can also warn against attachment to it.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0438c20",
+          "ToLb": "0438c21",
+          "Kwic": "觀若險崖。深生怖畏。正趣中道",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Zongjing Record (宗鏡錄). Speaker: Yongming Yanshou as treatise narrator.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Yongming Yanshou as treatise narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The predicate 正趣 belongs to the treatise prose compiled by Yongming Yanshou and says to proceed directly toward the Middle Way.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0627a08",
+          "ToLb": "0627a09",
+          "Kwic": "學空平等中道煩惱",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Masters (古尊宿語錄). Speaker: Baizhang Huaihai."
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0416c18",
+          "ToLb": "0416c19",
+          "Kwic": "不著二邊中道，翛然非斷非常",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Pointing at Moon (指月錄). Speaker: Baozhi.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Baozhi",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Baozhi: The predicate 不著 opens Baozhi’s verse line: not clinging to the two sides or the Middle Way, free of both annihilation and permanence.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0617c22",
+          "ToLb": "0617c23",
+          "Kwic": "問：二邊純莫立，中道不須安。未審意旨如何？",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Supplementary Five Lamps compilation. Speaker: the unnamed monk questioner.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "full-case exact-headword adjudication",
+            "ActorLabel": "the unnamed monk questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The full exchange presents a monk questioner; the question boundary assigns “問：二邊純莫立，中道不須安。未審意旨如何？” and its headword to the unnamed questioner.",
+            "ReviewedBy": "Codex final-proof lane B coordinate repair",
+            "ReviewedUtc": "2026-07-20T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "C/C077/C077n1710.xml",
+        "X/X83/X83n1578.xml",
+        "X/X81/X81n1568.xml",
+        "X/X81/X81n1571.xml",
+        "X/X64/X64n1260.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Baizhang Huaihai"
+      ],
+      "RelatedTerms": [
+        "偏正"
+      ],
+      "Explanation": "The Middle Way is the course between or beyond opposed extremes. Yongming Yanshou’s compiled treatise says to proceed directly toward it; Baozhi’s verse says not to cling either to the two sides or to the Middle Way itself. Baizhang Huaihai makes the sharper Chan move: in a long inventory of learned attainments, even learning emptiness, equality, and the Middle Way can become an affliction when grasped as acquired understanding."
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "midway through a course",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "stop midway",
+        "halt in mid-course",
+        "partway through a journey"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "In Huineng’s biography, Middle Way is adverbial: he asks how he could stop midway in seeking the great teaching. This is a journey-stage, not the named Middle Way.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0046b04",
+          "ToLb": "0046b05",
+          "Kwic": "我求大法。豈可中道而止",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps (五燈會元). Speaker: the unnamed biographical narrator of the Five Lamps Compendium.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "the unnamed biographical narrator of the Five Lamps Compendium",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The rhetorical boundary 豈可 introduces the biographical thought that Huineng could not stop midway while seeking the great teaching.",
+            "ReviewedBy": "Codex lane C human canary full-case review",
+            "ReviewedUtc": "2026-07-20T01:02:13.625012+00:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml"
+      ],
+      "RelatedMasters": [
+        "Huineng"
+      ],
+      "RelatedTerms": [
+        "行脚"
+      ],
+      "Explanation": "Midway means partway along a course before its intended end. The compiler narrates Huineng’s resolve not to stop in mid-course and his departure the following day to seek instruction. The surrounding travel narrative supplies the governing frame: deciding not to halt is followed by setting out, meeting Zhiyuan, and proceeding onward."
+    }
+  ]
+}

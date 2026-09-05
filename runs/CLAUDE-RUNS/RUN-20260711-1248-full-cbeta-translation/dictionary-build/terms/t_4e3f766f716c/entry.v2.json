@@ -1,0 +1,86 @@
+{
+  "Id": "t_4e3f766f716c",
+  "SourceTerm": "弟應兄呼",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the younger brother answers the elder brother's call",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the younger brother answers the elder brother's call"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Retain the complete four-graph reciprocal action; 弟, 兄, 呼, and 應 alone do not carry the case image. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0104c17",
+          "ToLb": "0105a20",
+          "Kwic": "雪雪久磨礱，不用當場那見功？收放果能無觸住，從教血濺梵天紅。送玄策侍者順昌持缽送玄策侍者順昌持缽無事室中嬾喚呼，退身一步是良圖，龍宮虎穴親臨過，始信真機不負吾。慰王汝良喪父慰王汝良喪父趨庭竟日共商量，逗到時來理自彰，此地不留椿樹影，淨邦喜得藕花香。千點淚，九迴腸，是汝良心且勿忘，何似而門輕劈破？親爺復見露堂堂。與一化上人與一化上人鯤化為鵬摶九萬，大機大用不尋常，頭陀說話無憑準，籤出南華問老莊。悼雲峰朗真和尚悼雲峰朗真和尚巾瓶共侍有多年，白鹿城離各一天，宗鼎力扛魔膽喪，法幢俄偃祖庭芊。誰云慧日照無曲？幾度臨風恨不全，弟應兄呼今已矣，揮毫書此斷腸篇。書陳亨如扇頭書陳亨如扇頭暑甑蒸人不自由，塵勞火宅較悠悠，我儂示汝安身訣，徹底清風在手頭。示楊百顯示楊百顯少林的旨沒差互，百草頭巔全顯露，試看舊時煙雨堆，眼睛突出人無數。示鄰庵僧示鄰庵僧凌虛閣後玉千竿，翠鎖金風隔岫寒，不識現前活祖印，終須到處被人瞞。寄鄭輝吉寄鄭輝吉夏去秋來杳鴈音，風檐坐睡冷沉沉，錐鉤拶著還知否？未可徒然負片心。示慈禪人禮普陀示慈禪人禮普陀爛銀高涌響如雷，大士全身現幾回？要到普陀巖上見，驢年保汝出頭來。示星士示星士有物先天不露形，灼然無剋亦無生，如君妙算能幾箇？且看推排泣六丁。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained use: direct raising and commentary on the Kasyapa-Ananda case."
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0710c06",
+          "ToLb": "0711a20",
+          "Kwic": "得人一牛還人一馬虎驟龍驤誰敢定價三千里外見譊訛生鐵一團無縫𦉑一吹無孔笛一撫沒絃琴一曲兩曲無人會雨過夜塘秋水深道吾作舞一曲無譜若將耳聞未敢相許潭州雲巖曇晟禪師因道吾問大悲千手眼那箇是正眼師曰如人夜間背手摸枕子吾曰我會也師曰作麼生會吾曰遍身是手眼師曰道也太煞道秪道得八成吾曰師兄作麼生師曰通身是手眼。頌曰。遍身是通身是拈來猶較十萬里展翅崩騰六合雲搏風皷蕩四溟水是何埃塏𠔃忽生那箇毫𨤲兮未止君不見網珠垂範影重重棒頭手眼從何起一竅靈通八面玲瓏無象無私春入律不留不礙月行空清淨寶目功德臂徧身何處通身是現前手眼顯全機大用縱橫何忌諱弟應兄呼豈偶然嬉遊時在舊山前通身手眼如何會拾得寒山笑揭天演若怖回鏡裏首那吒還復舊時身不知手眼從何起便道全軀在剎塵通身是手眼徧界不曾藏背摸床頭挑翻身嫌夜長觀音妙音十八十九眼見耳聞是人知有左握軍持右擎楊柳捏聚放開烏飛兔走大悲許多手眼如人夜摸枕子徧身通身起來盡受奴驅婢使君不見認著牛迹裏失却大海水轉變未得時依前有依倚歸去來歸去來拍天洪浪如浮埃徧身是通身是酥酪醍醐為一味毫端湧出湏彌盧芥子吸竭滄溟水十虛吞爍正眼寥廓照用同時人境俱奪棒頭喝下錯承當背手拈來已失却莫莫水是水𠔃山是山切忌無繩而自縛大悲菩薩千手眼如人背手摸枕頭猢孫跳出布袋口不妨隨處逞風流徧身是通身是淨潔渾身涴却𡱁拽來露出猛風吹誰教背手摸枕子復打三棒雲巖掃地次道吾曰太區區生師曰須知有不區區者吾曰恁麼則有苐二月也師竪起掃帚曰這箇是苐幾月吾休去玄沙聞云正是苐二月。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunyan Tansheng",
+              "Roles": [
+                "case-figure",
+                "action-performer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). The full source turn identifies Kasyapa as the headword-bearing speaker; Kasyapa has no exact canonical roster link.",
+          "ContextActors": [],
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Kasyapa",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Kasyapa is the explicit source identity governing the exact headword-bearing clause 弟應兄呼; the expanded turn and section boundary exclude adjacent speakers.",
+            "ReviewedBy": "Batch58 blocked11 repair C",
+            "ReviewedUtc": "2026-07-29T15:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "C/C078/C078n1720.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compact kinship image for Ananda responding to Kasyapa's call, used to characterize their immediate transmission exchange. Baichi Xingyuan uses the expression through direct raising and commentary on the Kasyapa-Ananda case. Kasyapa independently deploys it through independent verse use in the same case tradition."
+    }
+  ]
+}

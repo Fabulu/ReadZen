@@ -1,0 +1,119 @@
+{
+  "Id": "t_4b1aa91dd297",
+  "SourceTerm": "大悟不拘小節",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-21T22:24:30.244183Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "great awakening does not stick to minor observances",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "great awakening is not bound by small observances",
+        "great awakening disregards minor rules",
+        "not fastening great awakening to small details"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase appears inside Jiefeng’s criticism, not as Hansong’s license to ignore every small rule. Its local target is the old verse he is judging.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0565b07",
+          "ToLb": "0565b09",
+          "Kwic": "不礙釣舟行。』後傑峰和尚云：『古人與麼道，大悟不拘小節，未免與賊過梯，引邪入正。與國則不然，臘八喫紅糟，叢林意氣豪，酣酣沉醉倒，更不惹風騷。』",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Jiefeng: Hansong explicitly introduces the quoted judgment with ‘later, Master Jiefeng said’; the headword belongs to Jiefeng’s quoted turn.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named Chan teacher absent from the current roster",
+            "ActorLabel": "Jiefeng",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Hansong explicitly introduces the quoted judgment with ‘later, Master Jiefeng said’; the headword belongs to Jiefeng’s quoted turn.",
+            "ReviewedBy": "release005-lane-b-author",
+            "ReviewedUtc": "2026-07-21T22:24:30.244183Z"
+          }
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0391c17",
+          "ToLb": "0391c19",
+          "Kwic": "街不礙，逍遙柳巷何妨？還委悉麼？大悟不拘小節上，香象豈遊兔徑中？」復舉：「昔",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu utters the headword in the retained complete case; the surrounding speech frame and named section identify this turn."
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1078a04",
+          "ToLb": "1078a06",
+          "Kwic": "。嗔心忿起。便道佛法豈有與麼事。大悟不拘小節。更問阿誰。我問爾悟見箇甚麼。還",
+          "MasterName": "Fachang Yiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fachang Yiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitory Instructions for the Monastic Gate. Fachang Yiyu utters the headword in the retained complete case; the surrounding speech frame and named section identify this turn."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0399b19",
+          "ToLb": "0399b21",
+          "Kwic": "不奈何，莫更放退。公私一任時宜，大悟不拘小節，此方不比佗方。珍重！與弟子造萍",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu utters the headword in the retained complete case; the surrounding speech frame and named section identify this turn."
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB392.xml",
+        "J/J39/J39nB447.xml",
+        "T/T48/T48n2023.xml",
+        "X/X69/X69n1356.xml"
+      ],
+      "RelatedMasters": [
+        "Meixi Fudu",
+        "Fachang Yiyu",
+        "Pu'an Yinsu"
+      ],
+      "RelatedTerms": [
+        "大悟"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Jiefeng uses ‘great awakening does not stick to minor observances’ while criticizing an old Awakening Day verse, and immediately says that this still hands a ladder to a thief and draws the crooked into the straight. Hansong Cao raises an old verse about eating chicken soup on the eighth day of the twelfth month. He then quotes Master Jiefeng’s judgment beginning with the headword and continuing with two explicit objections. Hansong follows with his own red-fermented-rice verse and finally refuses to choose either meal."
+    }
+  ]
+}

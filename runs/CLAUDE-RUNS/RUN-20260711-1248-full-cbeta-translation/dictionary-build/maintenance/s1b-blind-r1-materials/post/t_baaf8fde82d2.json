@@ -1,0 +1,208 @@
+{
+  "Id": "t_baaf8fde82d2",
+  "SourceTerm": "法眼宗",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex f004 lane B reviewer5 residual repair author",
+  "WrittenUtc": "2026-07-15T15:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the Fayan lineage",
+      "AlternateTargets": [
+        "the Fayan school"
+      ],
+      "SearchAliases": [
+        "Fayan lineage",
+        "Fayan school",
+        "Fayan house",
+        "Fayan tradition"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "One institutional lineage traced through Fayan Wenyi and publicly identified through questions, lineage history, and exposition.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0098b24",
+          "ToLb": "0098c04",
+          "Kwic": "未舉先知，未言先見。如何是溈仰宗？師曰，推不向前，約不退後。曰，三界唯心，萬法唯識。如何是法眼宗？師曰，箭鋒相直不相饒。曰，建化何妨行鳥道，回途復妙顯家風。如何是曹洞宗？師曰，手執夜明符，幾個知天曉。曰，向上還有路也",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps Vols. 34–120: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Cian Jingyuan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed participant",
+            "ActorLabel": "an unnamed monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (五燈全書): an unnamed monk asks what the Fayan lineage is; Cian Jingyuan answers with matching arrow points.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X84/X84n1580.xml",
+          "FromLb": "0313c19",
+          "ToLb": "0314a10",
+          "Kwic": "吟鳥啼猿作道場。散髮采薇歌又笑，從教人道野夫狂。教外別傳卷十二教外別傳卷十三南嶽下八世（法眼宗）南嶽下八世清涼文益禪師清涼文益禪師金陵清涼院文益禪師，餘杭魯氏子。抵福州參長慶，不大發明。後同紹修、法進三人欲出嶺，過地藏院，阻雪少憩。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X84/X84n1580.xml). Separate Transmission Outside the Teachings: The complete case assigns the exact headword-bearing clause to the impersonal editorial heading, scene, or procedure established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "lineage heading",
+            "ActorLabel": "the impersonal lineage heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (教外別傳): the heading classifies the following Fayan Wenyi dossier under the Fayan lineage.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0148a13",
+          "ToLb": "0148a18",
+          "Kwic": "相也；法與無，兼同相也；無與法判，異相也；首尾輪轉，成相也；各各不到，壞相也。此六相義。而法眼宗旨具也。此所謂五宗攝於一偈，而四七二三之祖莫不了了於此者也。至于馬祖之時，人多情謂每墮文字，故大權方便有鐘樓上念讚、床腳",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang: Hanyue Fazang utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Hanyue Fazang"
+        },
+        {
+          "RelPath": "T/T48/T48n2006.xml",
+          "FromLb": "0323c24",
+          "ToLb": "0323c26",
+          "Kwic": "法眼宗法眼宗師諱文益。餘杭魯氏子。得法於漳州羅漢琛禪師。初住撫州崇壽。次住建康清涼。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "person-described"
+              ]
+            },
+            {
+              "MasterName": "Luohan Guichen",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "lineage manual",
+            "ActorLabel": "the lineage-manual compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (人天眼目): the compiler introduces the Fayan lineage through Fayan Wenyi and his succession from Luohan Guichen.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 法眼宗 to the lineage-manual compiler; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0746c04",
+          "ToLb": "0746c08",
+          "Kwic": "張儀。」「如何是溈仰宗？」師云：「白起、王剪。」「如何是雲門宗？」師云：「文成、五利。」「如何是法眼宗？」師云：「趙禹、張湯。」僧問：「如何是臨濟宗？」師云：「電掣雷轟。」「如何是曹洞宗？」師云：「珠迴玉轉。」「如何是溈仰宗？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [
+            {
+              "MasterName": "Langting Jingting",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed participant",
+            "ActorLabel": "an unnamed monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Source text (雲溪俍亭挺禪師語錄): an unnamed monk asks what the Fayan lineage is; Langting Jingting answers.",
+            "ReviewedBy": "Codex f004 lane B 1001-1100 repair author",
+            "ReviewedUtc": "2026-07-15T22:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "X/X84/X84n1580.xml",
+        "J/J34/J34nB299.xml",
+        "T/T48/T48n2006.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Cian Jingyuan",
+        "Fayan Wenyi",
+        "Hanyue Fazang",
+        "Luohan Guichen",
+        "Langting Jingting"
+      ],
+      "RelatedTerms": [
+        "一切現成",
+        "法眼"
+      ],
+      "Explanation": "The Fayan lineage is the Zen house traced through Fayan Wenyi. The lineage manuals place Wenyi after Luohan Guichen; Hanyue Fazang says its purport is present in the six-aspect formulation; monks ask Cian Jingyuan and Langting Jingting what this lineage is in public interviews. Their answers characterize the named house and do not create a second referent."
+    }
+  ]
+}

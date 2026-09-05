@@ -1,0 +1,125 @@
+{
+  "Id": "t_428c42ea1c8f",
+  "SourceTerm": "忠言逆耳",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex cohort-002 lane-B B141-B150 author",
+  "WrittenUtc": "2026-07-19T12:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "loyal words grate on the ear",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "loyal words grate on the ear"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Yulin Tongxiu’s bitter-medicine pairing directly defines the disagreeable reception. Mi'an Xianjie says loyal words agitate a listener, while Yulin’s correction of a shout from the assembly asks how the listener can bear words that grate on the ear.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0099b02",
+          "ToLb": "0099b04",
+          "Kwic": "饑。惟有衲僧家，不耕而食，不蠶而衣，孜孜矻矻，如愚如癡，忽聽忠言逆耳，便見心動神疲。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). In Outline Record of the Successive Patriarchs, the section explicitly identifies Chan Master Mi'an Xianjie; the complete address assigns the retained clause to him as direct-turn."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0539c11",
+          "ToLb": "0539c13",
+          "Kwic": "見盡聞麼？一僧喝，師云：胡喝亂喝。乃云：分明指出平川路，却奈忠言逆耳何？除夕，晚參。",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). In Imperially Selected Recorded Sayings, the enclosing heading names Yulin Tongxiu; after correcting a monk’s shout, his continuing address assigns the retained clause to Yulin Tongxiu as direct-turn."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0335b11",
+          "ToLb": "0335b12",
+          "Kwic": "為人諦當。前六種不諦當則自錯，後一種不諦當則錯人。良藥苦口，忠言逆耳，憐子請之，誠而",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection. At 0335b11, the complete case's speech boundary assigns the retained clause to Yulin Tongxiu as direct-turn."
+        },
+        {
+          "RelPath": "P/P154/P154n1519.xml",
+          "FromLb": "0658a05",
+          "ToLb": "0658a08",
+          "Kwic": "手爭免陷番身。續徑山杲云皎潔一輪寒光萬里靈利者葉落知秋闒茸者忠言逆耳休不休已不已小釋",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (P/P154/P154n1519.xml). Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12). At 0658a05, the complete case's quotation boundary assigns the retained clause to Dahui Zonggao as quoted-original."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0613a05",
+          "ToLb": "0613a07",
+          "Kwic": "傳方謂之為人諦當前六種不諦當則自錯後一種不諦當則錯人良藥苦口忠言逆耳憐子請之誠而示之",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. At 0613a05, the complete case's concrete speech boundary assigns the retained clause to Yulin Tongxiu as direct-turn."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2023.xml",
+        "X/X64/X64n1260.xml",
+        "X/X68/X68n1319.xml",
+        "X/X85/X85n1592.xml",
+        "P/P154/P154n1519.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Guishan Lingyou",
+        "Mi'an Xianjie",
+        "Yulin Tongxiu",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Loyal words grate on the ear names unwelcome but faithful counsel. Mi'an Xianjie says loyal words agitate a listener, while Yulin Tongxiu’s correction of a shout from the assembly asks how the listener can bear words that grate on the ear. Yulin Tongxiu explicitly pairs bitter medicine with loyal words that grate on the ear; Dahui Zonggao uses the latter to divide quick recognition from dull reception. The phrase remains counsel and its unpleasant reception, not a special object."
+    }
+  ]
+}

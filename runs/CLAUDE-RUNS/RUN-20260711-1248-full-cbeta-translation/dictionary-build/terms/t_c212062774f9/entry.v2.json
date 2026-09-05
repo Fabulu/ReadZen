@@ -1,0 +1,187 @@
+{
+  "Id": "t_c212062774f9",
+  "SourceTerm": "禪床",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex luna150r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Chan couch",
+      "AlternateTargets": [
+        "teaching-seat couch",
+        "monastic sitting couch"
+      ],
+      "SearchAliases": [
+        "Chan couch",
+        "teaching-seat couch",
+        "monastic sitting couch"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "禪床 is a physical couch or raised seat used in recorded actions and addresses. Two Tier 2 action witnesses are retained with one lamp encounter; parallel lamp action notices are removed.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0058a05",
+          "ToLb": "0058a06",
+          "Kwic": "舉趙州和尚一日趙王來不下禪床曰會麼王曰不會州曰自小持齋身已老見人無力下",
+          "Curated": true,
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Compiler narration owns the exact headword-bearing compiler or recorder narration. Exact responsible voice after roster normalization: the source compiler or recorder.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an event heading, or a nonverbal action clause; no person utters the headword here.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0812b09",
+          "ToLb": "0812b09",
+          "Kwic": "拍禪床下座。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄): Compiler narration owns the exact headword-bearing compiler or recorder narration. Exact responsible voice after roster normalization: the source compiler or recorder.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an event heading, or a nonverbal action clause; no person utters the headword here.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0676c12",
+          "ToLb": "0676c12",
+          "Kwic": "敲禪床下座",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Compiler narration owns the exact headword-bearing compiler or recorder narration. Exact responsible voice after roster normalization: the source compiler or recorder.",
+          "ContextMasters": [
+            {
+              "MasterName": "Guyin Yuncong",
+              "Roles": [
+                "section-subject"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an event heading, or a nonverbal action clause; no person utters the headword here.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0443a10",
+          "ToLb": "0443a12",
+          "Kwic": "麻谷到參，繞禪床三匝，振錫而立",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33) (五燈全書(第1卷-第33卷)): Compiler narration owns the exact headword-bearing compiler or recorder narration. Exact responsible voice after roster normalization: the source compiler or recorder.",
+          "ContextMasters": [
+            {
+              "MasterName": "Mayu Baoche",
+              "Roles": [
+                "person-described"
+              ]
+            },
+            {
+              "MasterName": "Nanyang Huizhong",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an event heading, or a nonverbal action clause; no person utters the headword here.",
+            "ReviewedBy": "Codex f003 B701-750 exact-actor repair author",
+            "ReviewedUtc": "2026-07-15T06:04:40.650074+00:00"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "T/T47/T47n1998A.xml",
+        "C/C077/C077n1710.xml",
+        "X/X81/X81n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Dahui Zonggao",
+        "Guyin Yuncong",
+        "Mayu Baoche",
+        "Nanyang Huizhong"
+      ],
+      "RelatedTerms": [
+        "下禪床",
+        "如何是佛法大意",
+        "拍禪床",
+        "掀倒禪床",
+        "擊禪床"
+      ],
+      "Explanation": "A Chan couch is the couch or raised seat around which a Chan encounter is staged. A record of Zhaozhou tells how he did not get down from the couch when the king arrived; Dahui Pujue records a tap on it before leaving the seat; and a lamp account has Mayu circle it before speaking. The term is concrete furniture in the scene, often made meaningful by the action at it, not a name for an abstract practice."
+    }
+  ]
+}

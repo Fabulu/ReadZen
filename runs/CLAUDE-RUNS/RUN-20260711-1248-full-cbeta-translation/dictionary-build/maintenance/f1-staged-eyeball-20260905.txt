@@ -1,0 +1,34 @@
+﻿staged entries: 4499; changed vs HEAD: 2; == 2 products: True
+retired-rel citations left in staged products: 0 []
+t_351fa42d396b 粥飯: occurrence counts HEAD [3, 6] -> staged [3, 6]
+t_ab715aa474d5 一日不作一日不食: occurrence counts HEAD [3] -> staged [3]
+
+=== t_ab715aa474d5 一日不作一日不食 staged s1 o2: repaired row ===
+  T/T48/T48n2025.xml 1144b03->1144b04
+  kwic: 並宜齊赴。當思古人一日不作一日不食之誡。
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / compiler / "the monastic code's institutional voice"
+  GrammarEvidence: The complete case was read for who utters 一日不作一日不食. The passage sits in the code's communal-labor (普請) section: the regulations direct all but the watch, the duty-bound, the old, and the sick to attend communal labor together and to bear in mind the ancients' admonition — 古人 marks the maxim as inherited precedent quoted by the code, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)
+  RelatedMasters: ["Baizhang Huaihai", "Dongyang Dehui", "Hongzhi Zhengjue"]
+
+=== t_351fa42d396b 粥飯 staged s1 o1: repaired row ===
+  T/T48/T48n2025.xml 1127c04->1127c10
+  kwic: 二時上粥飯。三時上茶湯。大眾諷經
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / compiler / "the monastic code's institutional voice"
+  GrammarEvidence: The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record.
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras
+  RelatedMasters: ["Baizhang Huaihai", "Dongyang Dehui", "Zhaozhou Congshen", "Baoning Renyong"]
+
+=== t_351fa42d396b 粥飯 staged s1 Explanation ===
+     The joined food words also name a monastery's scheduled communal meals and their provision.
+     The Imperially Revised Baizhang Monastic Code, redacted by Dongyang Dehui, schedules gruel and rice at two times and tea and hot water at three (二時上粥飯。三時上茶湯。). [CJK]
+     Zhaozhou Congshen likewise says that, during his travels, the two scheduled gruel-and-rice meals were the only occasions that divided his attention (除二時粥飯是雜用心處). [CJK]
+     Baoning Renyong calls himself a gruel-and-rice host (粥飯主人) who receives travellers from north and south with salt, vinegar, sufficient gruel, and sufficient rice. [CJK]
+     Here the headword is not merely a list of two foods: it names recurring communal provision, its timetable, and the host responsible for it.
+     Zen bends the ordinary food pair into the institutional vocabulary of monastery scheduling and hospitality.
+
+staged census MasterName 'Dehui' rows: 0 []

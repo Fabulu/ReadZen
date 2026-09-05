@@ -1,0 +1,179 @@
+{
+  "Id": "t_b4c37e2f25c3",
+  "SourceTerm": "東司",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane A 926-950 full-case repair author",
+  "WrittenUtc": "2026-07-15T16:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "latrine",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the eastern privy"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "7 distinct work IDs selected after complete-context review.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0142b20",
+          "ToLb": "0142b20",
+          "Kwic": "州曰：東司上不可與汝說佛法。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps Vols. 34–120: Zhaozhou Congshen utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Meng'an Yuancong",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Zhaozhou Congshen"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0715a08",
+          "ToLb": "0715a08",
+          "Kwic": "文遠應喏師云東司上不可󲟏你說佛法也",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters: Zhaozhou Congshen utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Zhaozhou Congshen"
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0941c05",
+          "ToLb": "0941c08",
+          "Kwic": "閒情卻與暮年投。」上堂。舉：「趙州在東司上喚文遠，遠應諾，州曰：『東司上不可",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan: Zhaozhou Congshen utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Zhaozhou Congshen",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 東司 to Zhaozhou Congshen; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "C/C078/C078n1720.xml",
+          "FromLb": "0729a09",
+          "ToLb": "0729a12",
+          "Kwic": "提來用恰好若更問如何且去青州討趙州在東司上見遠侍者過驀召文遠遠應諾師口東司上",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C078/C078n1720.xml). Chan School: Zhaozhou Congshen utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Zhaozhou Congshen",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 東司 to Zhaozhou Congshen; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1998B.xml",
+          "FromLb": "0947c11",
+          "ToLb": "0947c12",
+          "Kwic": "引繩於延壽堂東司自縊。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998B.xml). Dahui Pujue’s Armory of the Chan School: The complete case assigns the exact headword-bearing clause to Daoqian, compiler of Dahui Pujue Chanshi Zongmen Wuku; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "Daoqian, compiler of Dahui Pujue Chanshi Zongmen Wuku",
+            "ActorLabel": "Daoqian, compiler of Dahui Pujue Chanshi Zongmen Wuku",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete source unit assigns the exact wording to Daoqian, compiler of Dahui Pujue Chanshi Zongmen Wuku; it is not direct speech by the contextual master.",
+            "ReviewedBy": "Codex f004 A926-935 reviewer11 author repair",
+            "ReviewedUtc": "2026-07-15T16:19:29.770931+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0390b08",
+          "ToLb": "0390b09",
+          "Kwic": "師曰：東司上不可與汝說佛法。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School: Zhaozhou Congshen utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Zhaozhou Congshen"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "C/C077/C077n1710.xml",
+        "J/J36/J36nB369.xml",
+        "X/X63/X63n1245.xml",
+        "C/C078/C078n1720.xml",
+        "T/T47/T47n1998B.xml",
+        "X/X66/X66n1297.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Meng'an Yuancong",
+        "Zhe'an Jingfan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The east privy is both a regulated monastic facility and the deliberately indecorous setting of Zhaozhou’s exchange with Wenyuan: “One cannot speak the awakened teaching to you on the latrine.” The stored complete witnesses distinguish direct master speech, questions, institutional rules, narration, quotation, and signed paratext rather than flattening them into record ownership."
+    }
+  ]
+}

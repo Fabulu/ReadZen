@@ -1,0 +1,200 @@
+{
+  "Id": "t_e34e9defcb79",
+  "SourceTerm": "喫粥了也未",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "have you eaten your gruel?",
+      "AlternateTargets": [
+        "have you finished your gruel?",
+        "have you had your gruel yet?"
+      ],
+      "SearchAliases": [
+        "have you eaten breakfast?",
+        "did you eat your rice gruel?",
+        "wash your bowl",
+        "Zhaozhou's gruel question",
+        "have you had porridge yet?"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, have you eaten your gruel yet? It is Zhaozhou Congshen's reply when a newcomer asks for instruction; after the newcomer says he has eaten, Zhaozhou says to wash the bowl. Zhaozhou's own record also uses the question as the answer to what is the student's own self. Later masters preserve and examine the exchange. Yunmen Wenyan asks whether it contained instruction and, if not, why the newcomer awakened. Dahui Zonggao says that many places had raised and commented on it, then asks the same question. Shiting Zuxun verses the exact line, while Baohua Xian calls the meal line adding a head atop a head and the washing command drawing legs on a snake. These witnesses reuse and disagree over one completed-meal question; they do not make different things.",
+      "Validation": "multi-source",
+      "Note": "The exact headword has 101 hits in 67 allowlisted texts. One case-formula sense remains after enrichment. Six exact witnesses across six sources meet the floor; three explanatory no-headword anchors are labelled support.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0821c24",
+          "ToLb": "0821c26",
+          "Kwic": "僧問趙州。學人乍入叢林。乞師指示。州云。爾喫粥了也未。僧云。喫粥了。州云。洗鉢盂去。僧忽然大悟。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Where Dahui Zonggao raises Zhaozhou Congshen's case; Zhaozhou speaks the exact question and washing command.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0710b08",
+          "ToLb": "0710b10",
+          "Kwic": "問如何是學人自己師云喫粥了也未云喫粥也師云洗鉢盂去",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). In Zhaozhou Congshen's recorded-sayings section; Zhaozhou uses the exact question as an answer about the student's own self.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0879a10",
+          "ToLb": "0879a13",
+          "Kwic": "如僧問趙州。學人乍入叢林。乞師指示。州云。爾喫粥了也未。僧云。喫粥了。州云。洗鉢盂去。僧於言下忽然大悟。當下休歇。便知生死去處。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "EvidenceRole": "contrast",
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Dahui Zonggao retells the case as an example of learned knowing: the newly arrived monk asks Zhaozhou for instruction, is asked whether he has eaten his gruel (爾喫粥了也未), answers that he has, and is told to go wash his bowl — the monk awakens suddenly at the words, rests right there, and knows where birth-and-death goes.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0834b10",
+          "ToLb": "0834b15",
+          "Kwic": "上堂舉僧問趙州。學人乍入叢林。乞師指示。州云。爾喫粥了也未。僧云。喫粥了。州云。洗鉢盂去。其僧於言下有省。師云。諸方拈掇甚多。下注脚亦不少。未曾有一人分明說破。妙喜今日為諸人分明說破。喫粥了便洗鉢盂。且道。還曾指示無。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue (大慧普覺禪師語錄). Mounting the hall, Dahui Zonggao raises the whole gruel-and-bowl case — the monk awoke where the words touched him — then says that though many everywhere have picked it up and glossed it, none has explained it plainly, and he breaks it open for them today: having eaten gruel, wash the bowl.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0699a01",
+          "ToLb": "0699a03",
+          "Kwic": "喫粥了也未。趙州無忌諱。更令洗鉢盂。太殺沒巴鼻。悟去由來不丈夫",
+          "MasterName": "Shiting Zuxun",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄). In Shiting Zuxun's section; Shiting Zuxun's verse opens with the exact question and names Zhaozhou.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0131c23",
+          "ToLb": "0132a01",
+          "Kwic": "隆興府石亭野菴祖璿禪師上堂。喫粥了也未？趙州無忌諱，更令洗鉢盂，太煞沒巴鼻。悟去由來不丈夫，這僧那免受塗糊？",
+          "MasterName": "Shiting Zuxuan",
+          "Curated": true,
+          "EvidenceRole": "contrast",
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In the section of Shiting Zuxuan of Longxing (隆興府石亭野菴祖璿禪師), mounting the hall he opens with the exact question — have you eaten your gruel (喫粥了也未) — and verses that Zhaozhou, holding nothing taboo, further bade him wash the bowl, utterly without basis: one who awakened by that was never a great man, and how could that monk escape being smeared?",
+          "ContextMasters": [
+            {
+              "MasterName": "Shiting Zuxuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0365a22",
+          "ToLb": "0365a23",
+          "Kwic": "問：「如何是學人自己？」師云：「喫粥了也未？」云：「喫粥也。」師云：「洗缽盂去。」",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou (趙州和尚語錄). Spoken by Zhaozhou Congshen; the exact question answers what is the student's own self.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0830b06",
+          "ToLb": "0830b07",
+          "Kwic": "州云。喫粥了也未。僧云。喫粥了也。州云。洗鉢盂去。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu (天目中峰廣錄). Where Zhongfeng Mingben raises Zhaozhou Congshen's case; Zhaozhou speaks the exact meal question and washing command.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0554b16",
+          "ToLb": "0554b18",
+          "Kwic": "州云。喫粥了也未。僧云。喫粥了也。州云。洗鉢盂去。師云。且道有指示無指示。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen (雲門匡真禪師廣錄). Where Yunmen Wenyan raises Zhaozhou Congshen's case; Zhaozhou speaks the exact meal question and washing command, and Yunmen then asks whether it gives instruction.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "C/C077/C077n1710.xml",
+        "T/T51/T51n2077.xml",
+        "X/X82/X82n1571.xml",
+        "J/J24/J24nB137.xml",
+        "B/B25/B25n0145.xml",
+        "T/T47/T47n1988.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Yunmen Wenyan",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [
+        "喫粥",
+        "粥",
+        "鉢盂",
+        "洗鉢盂去"
+      ]
+    }
+  ]
+}

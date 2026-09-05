@@ -1,0 +1,199 @@
+{
+  "Id": "t_e9adcb470950",
+  "SourceTerm": "菩薩戒",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex precept next-wave B",
+  "WrittenUtc": "2026-07-21T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the bodhisattva precepts",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "bodhisattva vows"
+      ],
+      "Status": "preferred",
+      "Explanation": "The bodhisattva precepts are a named class of precepts that the records describe as received, conferred, and kept. Zhuanyu Guanheng says that one who keeps them enters the bodhisattva rank. Yongming Yanshou distinguishes this precept class while defining it through contemplation of mind rather than an external object. Shanhui Huan's biography records that receiving these precepts led him to compare their demands with the monastic precepts he had already received. Yushan Shangsi's record marks their formal completion, while Weilin Daopei raises his late teacher Yongjue Yuanxian's direct question asking what the bodhisattva precepts are. These uses retain a hard rule and formal reception or conferral, even where masters state their basis in mind.",
+      "Validation": "multi-source",
+      "Note": "The disciple-title, reception event, rule-body, and direct-question uses name the same institutional precept class; grammatical differences do not require separate senses.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0705c01",
+          "ToLb": "0705c01",
+          "Kwic": "既持菩薩戒，即入菩薩位。",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove (紫竹林顓愚衡和尚語錄). Speaker: Zhuanyu Guanheng. Named context: Zhuanyu Guanheng."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0530b25",
+          "ToLb": "0530b26",
+          "Kwic": "次明大乘。大菩薩戒。謂觀唯心。本無外色。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School (宗鏡錄). Speaker: Yongming Yanshou. Named context: Yongming Yanshou."
+        },
+        {
+          "RelPath": "B/B14/B14n0082.xml",
+          "FromLb": "0265b07",
+          "ToLb": "0265b09",
+          "Kwic": "因受菩薩戒而歎曰大士攝律儀與吾本受聲聞戒俱止持作犯也",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The narrative verb 因受 governs 菩薩戒; the following 歎曰 opens Shanhui Huan’s speech after the headword.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex precept packet B full-case author review",
+            "ReviewedUtc": "2026-07-21T14:30:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "person-described",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B14/B14n0082.xml). Jade Flowers of the Transmission of the Lamp (Fragment) (傳燈玉英集（殘卷）). The compiler narrates the headword-bearing clause; the compiler narrates Shanhui Huan receiving the precepts before introducing his quoted lament. Named context: Shanhui Huan."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0534a19",
+          "ToLb": "0534a19",
+          "Kwic": "臘八日，圓菩薩戒，都司張護法請陞座。",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "editorial heading",
+            "ActorLabel": "an impersonal event heading",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The date-and-occasion formula labels the completion of the precepts and request to mount the seat; it is not quoted speech.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex precept packet B full-case author review",
+            "ReviewedUtc": "2026-07-21T14:30:00Z",
+            "HeadingType": "section"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "record-owner",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan (雨山和尚語錄). The headword occurs in an event heading; Yushan Shangsi is the following hall speaker, not the grammatical actor of the event label. Named context: Yushan Shangsi."
+        },
+        {
+          "RelPath": "X/X72/X72n1439.xml",
+          "FromLb": "0593b10",
+          "ToLb": "0593b10",
+          "Kwic": "如何是菩薩戒？膏雨足霶𩃱。",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "later-quoter",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1439.xml). Chan Master Weilin Daopei’s Fragrant Meal Record (為霖道霈禪師餐香錄). Speaker: Yongjue Yuanxian. Named context: Yongjue Yuanxian; Weilin Daopei."
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0523b02",
+          "ToLb": "0523b02",
+          "Kwic": "既受聲聞戒。應受菩薩戒。此入法之漸也。",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The prescriptive code sentence is compiler-governed institutional prose, not a master’s quoted turn.",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex precept packet B full-case author review",
+            "ReviewedUtc": "2026-07-21T14:30:00Z"
+          },
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規). The compiler narrates the headword-bearing clause; the monastic-code compiler states the sequence."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB219.xml",
+        "T/T48/T48n2016.xml",
+        "B/B14/B14n0082.xml",
+        "J/J40/J40nB494.xml",
+        "X/X72/X72n1439.xml",
+        "X/X63/X63n1245.xml"
+      ],
+      "RelatedMasters": [
+        "Zhuanyu Guanheng",
+        "Yongming Yanshou"
+      ],
+      "RelatedTerms": [
+        "戒",
+        "受戒",
+        "無相戒",
+        "心戒",
+        "具足戒"
+      ]
+    }
+  ]
+}

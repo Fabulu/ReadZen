@@ -1,0 +1,408 @@
+{
+ "schemaVersion": "f1-blind-r1-rows",
+ "laneLaw": {
+  "retiredRels": [
+   "T/T48/T48n2023.xml",
+   "X/X63/X63n1245.xml"
+  ],
+  "t48n2025Class": "institutional regulation compilation; the redactor Dongyang Dehui is never a speaking master; roster name is 'Dongyang Dehui'",
+  "defectCensus": {
+   "t_ab715aa474d5": 1,
+   "t_351fa42d396b": 1
+  }
+ },
+ "materialsDir": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\f1-blind-r1-materials",
+ "materials": {
+  "pre/t_ab715aa474d5.json": "38b82ff0f398e0a6cb69938e44b4b1066c99f8b851a74c7584c69f9140bdd84a",
+  "post/t_ab715aa474d5.json": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe",
+  "pre/t_351fa42d396b.json": "81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a",
+  "post/t_351fa42d396b.json": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d"
+ },
+ "rows": [
+  {
+   "entry": "t_ab715aa474d5",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 2,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+   "newMasterName": "Dongyang Dehui",
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "compiler"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 一日不作一日不食. The passage sits in the code's communal-labor (普請) section: the regulations direct all but the watch, the duty-bound, the old, and the sick to attend communal labor together and to bear in mind the ancients' admonition — 古人 marks the maxim as inherited precedent quoted by the code, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1144b03",
+   "carriedToLb": "1144b04",
+   "carriedKwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2001.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0000",
+   "rowSha": "d0bac2fe25b57219932679af356d5ecb0e054c06d71c163843325c17d578744f"
+  },
+  {
+   "entry": "t_ab715aa474d5",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 2,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+   "newMasterName": null,
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "compiler"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 一日不作一日不食. The passage sits in the code's communal-labor (普請) section: the regulations direct all but the watch, the duty-bound, the old, and the sick to attend communal labor together and to bear in mind the ancients' admonition — 古人 marks the maxim as inherited precedent quoted by the code, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1144b03",
+   "carriedToLb": "1144b04",
+   "carriedKwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2001.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0001",
+   "rowSha": "57cc2ab6f2e798341239d17f37d9b8b3ec98b9bf28b23d40f69f072e9d3a5fd8"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 1,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances.",
+   "newMasterName": null,
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1127c04",
+   "carriedToLb": "1127c10",
+   "carriedKwic": "二時上粥飯。三時上茶湯。大眾諷經",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "X/X80/X80n1565.xml",
+    "X/X64/X64n1260.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0002",
+   "rowSha": "50e67ed9e2942db66852ea4ae19e78db7ab89635e23a788dee3687a40640d5a6"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 1,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances.",
+   "newMasterName": null,
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "compiler"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1127c04",
+   "carriedToLb": "1127c10",
+   "carriedKwic": "二時上粥飯。三時上茶湯。大眾諷經",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "X/X80/X80n1565.xml",
+    "X/X64/X64n1260.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0003",
+   "rowSha": "d264db29ed0ccc343313e9f92a94b66b05adb2fb821bdf9166dd7db85ea3ec8f"
+  },
+  {
+   "entry": "t_ab715aa474d5",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 2,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+   "newMasterName": null,
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "compiler"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the code compiler's editorial voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 一日不作一日不食. The passage sits in the code's communal-labor (普請) section: the regulations direct all but the watch, the duty-bound, the old, and the sick to attend communal labor together and to bear in mind the ancients' admonition — 古人 marks the maxim as inherited precedent quoted by the code, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1144b03",
+   "carriedToLb": "1144b04",
+   "carriedKwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2025.xml",
+    "T/T48/T48n2001.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0004",
+   "rowSha": "81ffc8e17862c4c5c417c7eb7336311e2f70506d53d194409267a0b6842dadaa"
+  },
+  {
+   "entry": "t_ab715aa474d5",
+   "class": "relatedmasters-rename",
+   "si": 1,
+   "renamed": {
+    "old": "Dehui",
+    "new": "Dongyang Dehui"
+   },
+   "postRelatedMasters": [
+    "Baizhang Huaihai",
+    "Dongyang Dehui",
+    "Hongzhi Zhengjue"
+   ],
+   "rowId": "R0005",
+   "rowSha": "990e4b867e80c012e73d307627dc1052b5f95df2b7ca61d455c5f6a71a952e1f"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "occ-attribution",
+   "si": 1,
+   "oi": 1,
+   "oldMasterName": "Dehui",
+   "oldContextMasters": [
+    {
+     "MasterName": "Dehui",
+     "Roles": [
+      "utterer"
+     ]
+    }
+   ],
+   "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances.",
+   "newMasterName": null,
+   "newContextMasters": [
+    {
+     "MasterName": "Dongyang Dehui",
+     "Roles": [
+      "compiler"
+     ]
+    }
+   ],
+   "newActorAttribution": {
+    "Status": "impersonal",
+    "Kind": "institutional procedure",
+    "ActorLabel": "the monastic code's institutional voice",
+    "ActorRole": "compiler",
+    "RungsChecked": [
+     "line",
+     "expanded-context",
+     "section-header",
+     "book-title",
+     "tei-header",
+     "parallel-passage"
+    ],
+    "ReviewedBy": "F1 follow-up correction lane author",
+    "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+    "GrammarEvidence": "The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+   },
+   "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+   "carriedRelPath": "T/T48/T48n2025.xml",
+   "carriedFromLb": "1127c04",
+   "carriedToLb": "1127c10",
+   "carriedKwic": "二時上粥飯。三時猫茶湯。大眾諷經",
+   "postOccurrenceRels": [
+    "T/T48/T48n2025.xml",
+    "X/X80/X80n1565.xml",
+    "X/X64/X64n1260.xml"
+   ],
+   "postOccurrenceCount": 3,
+   "rowId": "R0006",
+   "rowSha": "e04439a2b7bb0928d866ff22e5416cccb04826f402b6e910c081bf7688d7ab00"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "relatedmasters-rename",
+   "si": 1,
+   "renamed": {
+    "old": "Dehui",
+    "new": "Dongyang Dehui"
+   },
+   "postRelatedMasters": [
+    "Baizhang Huaihai",
+    "Dongyang Dehui",
+    "Zhaozhou Congshen",
+    "Baoning Renyong"
+   ],
+   "rowId": "R0007",
+   "rowSha": "44fb57204b448c7e73987f536148496b79392a9a9e7c15fcc593e3fb266e7955"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "explanation-rewrite",
+   "si": 1,
+   "field": "Explanation",
+   "oi": null,
+   "before": "redacted by Dehui,",
+   "after": "redacted by Dongyang Dehui (非粥非飯),",
+   "rowId": "R0008",
+   "rowSha": "96026c00d2e0f8b4035cfd8e8c9e43d1cb2b343b6363f874c61a611eb4a20228"
+  },
+  {
+   "entry": "t_351fa42d396b",
+   "class": "explanation-rewrite",
+   "si": 1,
+   "field": "Explanation",
+   "oi": null,
+   "before": "redacted by Dehui,",
+   "after": "redacted by Dongyang Dehui,",
+   "rowId": "R0009",
+   "rowSha": "b7d55fb1175eb113f28f9b3ae94b34268f3028a18e2c6406e1e8bb6094da2145"
+  }
+ ]
+}

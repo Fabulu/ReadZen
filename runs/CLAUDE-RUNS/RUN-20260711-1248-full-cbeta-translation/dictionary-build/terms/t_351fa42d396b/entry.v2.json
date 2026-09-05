@@ -1,0 +1,278 @@
+{
+  "Id": "t_351fa42d396b",
+  "SourceTerm": "粥飯",
+  "CreatedBy": "Codex",
+  "WrittenUtc": "2026-07-13T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the monastery's meal routine",
+      "AlternateTargets": [
+        "the communal meal system",
+        "the two daily meals"
+      ],
+      "Status": "preferred",
+      "Explanation": "The joined food words also name a monastery's scheduled communal meals and their provision. The Imperially Revised Baizhang Monastic Code, redacted by Dongyang Dehui, schedules gruel and rice at two times and tea and hot water at three (二時上粥飯。三時上茶湯。). Zhaozhou Congshen likewise says that, during his travels, the two scheduled gruel-and-rice meals were the only occasions that divided his attention (除二時粥飯是雜用心處). Baoning Renyong calls himself a gruel-and-rice host (粥飯主人) who receives travellers from north and south with salt, vinegar, sufficient gruel, and sufficient rice. Here the headword is not merely a list of two foods: it names recurring communal provision, its timetable, and the host responsible for it. Zen bends the ordinary food pair into the institutional vocabulary of monastery scheduling and hospitality.",
+      "Validation": "multi-source",
+      "Note": "The allowlisted concordance has 668 hits in 223 texts. Institutional families include the two gruel-and-rice mealtimes (二時粥飯) and the gruel-and-rice host (粥飯主人). These are deployments of one communal meal system, not separate senses. That organized institution is distinct from the physical food eaten and smelled in the second sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1127c04",
+          "ToLb": "1127c10",
+          "Kwic": "二時上粥飯。三時上茶湯。大眾諷經",
+          "MasterName": null,
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+          "ContextMasters": [
+            {
+              "MasterName": "Dongyang Dehui",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "institutional procedure",
+            "ActorLabel": "the monastic code's institutional voice",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "F1 follow-up correction lane author",
+            "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+            "GrammarEvidence": "The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+          }
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0094a22",
+          "ToLb": "0094a24",
+          "Kwic": "老僧行脚時。除二時粥飯是雜用心處。除外更無別用心處。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). Section on Zhaozhou Congshen, records Zhaozhou saying that the two scheduled gruel-and-rice meals were his only divided attention while travelling.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0063b11",
+          "ToLb": "0063b13",
+          "Kwic": "推向十字路頭住箇破院，作粥飯主人接待南北，事不獲已，隨分有鹽有醋、粥足飯足。",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs (列祖提綱錄). Preserves Baoning Renyong's account of becoming a gruel-and-rice host who receives travellers and maintains meal provision.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X80/X80n1565.xml",
+        "X/X64/X64n1260.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Dongyang Dehui",
+        "Zhaozhou Congshen",
+        "Baoning Renyong"
+      ],
+      "RelatedTerms": [
+        "二時粥飯",
+        "粥飯因緣",
+        "粥飯主人",
+        "粥飯僧"
+      ],
+      "SearchAliases": [
+        "monastery meal routine",
+        "communal meal schedule",
+        "monastery meals",
+        "two daily meals",
+        "meal provision"
+      ]
+    },
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "gruel and cooked rice",
+      "AlternateTargets": [
+        "gruel and rice",
+        "the food pair"
+      ],
+      "Status": "allowed",
+      "Explanation": "Gruel and cooked rice are the physical foods smelled, tasted, eaten, and shown restoring movement in Chan records. This food referent is distinct from the monastery's organized meal schedule and provision. Shiwu Qinghong says that mountain-field gruel and rice smell fragrant (山田粥飯香). Foyan Qingyuan asks whether someone unfed gruel and rice for three days can move, then says that the person can move after eating some (不與粥飯喫三日……纔方喫得些粥飯方能動得). Boshan Wuyi says that only now, when eating gruel and rice, does he know sweetness (至今喫粥飯始知甜耳). Xueyan Zuqin describes residents merely following the crowd to eat gruel and rice and perform bodily functions (趂大隊，喫粥飯，屙屎送尿). Baichi Yuan's related enumeration places eating gruel and eating rice among ordinary bodily acts, while Tiebians Yunshao's rebuke derives a longer compound from consumed food, “puffing gruel-and-rice breath” (鼓粥飯氣). Eating, taste, fragrance, and restored movement predicate physical food, a different thing from the monastery's schedule and provision.",
+      "Validation": "multi-source",
+      "Note": "Four exact headword witnesses establish the food referent through fragrance, nourishment, taste, and consumption. Two marked family witnesses preserve the separated eating formula and the food-derived breath compound without allowing either to count toward exact-headword depth. Longer compounds such as gruel-and-rice monk remain separate lexical families.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0075a27",
+          "ToLb": "0075a29",
+          "Kwic": "而我輩猶得賴佛祖餘庥，遵安居舊範，高堂巨廈、坐臥經行、粥飯茶湯現成受用，若不知慚識愧，信施何以能消？",
+          "MasterName": null,
+          "EvidenceRole": "family",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi (百癡禪師語錄). In a summer-retreat exhortation Baichi Yuan says that amid war and dear rice his generation still relies on the Buddha-fathers' sheltering legacy — high halls, walking and sitting, gruel-and-rice and tea-and-soup ready to enjoy (粥飯茶湯現成受用) — and asks how the donors' gifts could ever be repaid without knowing shame.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "summer-retreat exhortation",
+            "ActorLabel": "Baichi Yuan",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "J28nB202 0075a27-29: the summer-retreat exhortation runs 而我輩猶得賴佛祖餘庥，遵安居舊範…粥飯茶湯現成受用，若不知慚識愧，信施何以能消？ the headword sits inside the running first-person address (我輩) of the record's own master; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify him only as Baichi Yuan, source-attested but not yet a roster-linked master, so he stays the identified unlinked utterer of the exhortation.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0146a23",
+          "ToLb": "0146a24",
+          "Kwic": "設問答到彌勒下生，勾鎖連環，盛水不漏，也祇是空鼓粥飯氣，於自己了沒交涉。",
+          "MasterName": "Tiebians Yunshao",
+          "EvidenceRole": "family",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Section on Tiebians Yunshao, records Tiebians rebuking flawless linked question-and-answer as empty puffing of gruel-and-rice breath (粥飯氣); this is compound-family evidence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tiebians Yunshao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1399.xml",
+          "FromLb": "0668a11",
+          "ToLb": "0668a11",
+          "Kwic": "繭紙衣裳軟，山田粥飯香，此生隨分過，無可得思量。",
+          "MasterName": "Shiwu Qinghong",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1399.xml). Recorded Sayings of Chan Master Shiw u Qinghong (石屋清洪禪師語錄). Shiwu Qinghong's verse says that mountain-field gruel and rice are fragrant.",
+          "ContextMasters": [
+            {
+              "MasterName": "Shiwu Qinghong",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0139a03",
+          "ToLb": "0139a05",
+          "Kwic": "不與粥飯喫三日時還動得麼定是動不得也纔方喫得些粥飯方能動得",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Record of Foyan Qingyuan, preserves Foyan asking whether someone unfed gruel and rice for three days can move and saying that eating some restores movement.",
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "Both 粥飯 spans belong to Foyan Qingyuan's one unpunctuated run-on utterance about gruel and rice; no speech cue or actor shift intervenes between them."
+          }
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0424a12",
+          "ToLb": "0424a12",
+          "Kwic": "至今喫粥飯始知甜耳。",
+          "MasterName": "Boshan Wuyi",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan (博山無異大師語錄集要). Boshan Wuyi says that only now, when eating gruel and rice, does he know sweetness.",
+          "ContextMasters": [
+            {
+              "MasterName": "Boshan Wuyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0614b23",
+          "ToLb": "0614b24",
+          "Kwic": "但知趂大隊，喫粥飯，屙屎送尿，隨人上下而已。",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin (雪巖祖欽禪師語錄). Xueyan Zuqin describes residents merely following the crowd to eat gruel and rice and perform bodily functions.",
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "X/X82/X82n1571.xml",
+        "X/X70/X70n1399.xml",
+        "D/D48/D48n8939.xml",
+        "J/J27/J27nB197.xml",
+        "X/X70/X70n1397.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Yuan",
+        "Tiebians Yunshao",
+        "Shiwu Qinghong",
+        "Foyan Qingyuan",
+        "Boshan Wuyi",
+        "Xueyan Zuqin"
+      ],
+      "RelatedTerms": [
+        "粥",
+        "本分事",
+        "粥飯氣",
+        "粥飯僧"
+      ],
+      "SearchAliases": [
+        "gruel and rice",
+        "rice and gruel",
+        "monastic food",
+        "cooked rice and gruel",
+        "meal food"
+      ]
+    }
+  ]
+}

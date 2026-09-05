@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "generic-dictionary-final-release-authority.v1",
+  "cohort": "a1-20260903",
+  "authorizedBy": "coordinator (Claude)",
+  "authorizedUtc": "2026-09-02T09:25:39.440129+00:00",
+  "releaseAuthorized": true,
+  "basis": "Lane A1 (attribution repair worklist, SPEC_A1_20260902.md + AMENDMENTS 1-3): 116 edit records over 35 STATUS=done entries — 91 mechanical ContextMasters rows (utterer/verse-author per the frozen VERSE_RE note law, MasterName byte-equal to the occurrence bytes), 17 vague-attributor prose rewords (each name evidenced in the entry's own bytes), 1 new ClaimAnchor anchoring the previously dangling Chinese (zc ok/count-1, ClaimText headword-free verbatim prefix), 2 performer rows + 1 grammar-proof sentence, 1 anonymous-monk 僧問 restructure (MasterName cleared, respondent-only master row), 1 GrammarEvidence label repeat, 1 ReviewedBy/ReviewedUtc pair, 1 duplicate-anchor removal (strict duplicate of occurrence o1). Machine gates CLEAN: zero attribution failure rows on the 35; depth stable; determinism; confinement; path-scope byte-diff; exactly the 35 of 4,504 terms entries changed; fleet 3,099 -> 3,057 failing pairs, zero newly-failing, 42 resolved. Blind r1 PASS with 7/7 canaries caught by every reviewer and zero confirmed findings. Public surface: replace-mode for the 35 ids; no adds, no withdrawals; entry count unchanged. Dictionary edits local-only (agent clone, contrib branch); no push.",
+  "products": [
+    {
+      "id": "t_057cc9ea8755",
+      "entrySha256": "a314b8aa2fe2c429c89a3d56456771abf0f65c3f83f30394acd3ae5ac59471b0"
+    },
+    {
+      "id": "t_0b56e6349db2",
+      "entrySha256": "74ebdbd25d064bba18f9d39013ce95ec16a852de19a99601cc3cb55de7cda404"
+    },
+    {
+      "id": "t_1793c3514a69",
+      "entrySha256": "a51b7e57ded6532d8a9fe2a6c77a825c2ed5ea6098db50a4b167c4b64478c049"
+    },
+    {
+      "id": "t_1b76e4ae53f0",
+      "entrySha256": "a6b5f44ab87d94a2d82e5df58afbb5bd0e8f9d2f186b1b80f67e9bc05bbba794"
+    },
+    {
+      "id": "t_2e77bc793d0c",
+      "entrySha256": "2721d9391a1edc0ddb7f3e975719317ad86aedf742b37ba2f0bc8b8ee69d85d4"
+    },
+    {
+      "id": "t_351fa42d396b",
+      "entrySha256": "81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a"
+    },
+    {
+      "id": "t_38e49b09cf9d",
+      "entrySha256": "065d5b67b4db64667b728f57dec5ff6d2e318d4bbeabaa039f1a7af59b1ff1f6"
+    },
+    {
+      "id": "t_3c1e31a193cd",
+      "entrySha256": "458bd56ba2cd7bed6d44cfd927274af0c7a9ce959ea562b5a193121b12a997ab"
+    },
+    {
+      "id": "t_42162fbd382d",
+      "entrySha256": "2a12eb068eaab8f2251f29a8b2d4ffba9fb8fff499216bde9aba00f29b14a09f"
+    },
+    {
+      "id": "t_4aa29a0183ae",
+      "entrySha256": "14e5da5daadbfd318ec4afc3e3f10e1cd9702dacbd109ca95f8ddc33be4124d1"
+    },
+    {
+      "id": "t_4cf045deab37",
+      "entrySha256": "85c94c08ca1b632637214e1650b8809669b0895b72145b106333c7ff5e0d302f"
+    },
+    {
+      "id": "t_4e3f766f716c",
+      "entrySha256": "0813b74acb166284a0cf7f2f0803e5bcdbfa612f8a0704eb16538ccbf8a8207c"
+    },
+    {
+      "id": "t_4f088a7a7f47",
+      "entrySha256": "566a149d4b6c2609aff2dbab1fb68d891372a3b58a8402592eaeb27fa667ac9a"
+    },
+    {
+      "id": "t_539b931c442a",
+      "entrySha256": "1d1e2d44ae05febd6a0e5c24fe72f50eba56bb2dc3f49477534887fa7e998a40"
+    },
+    {
+      "id": "t_57145bc70a8d",
+      "entrySha256": "903d6deaea01e7b1f3c50282849083607349772c27bfca9614dbe5e586f503c3"
+    },
+    {
+      "id": "t_66630c6a8a37",
+      "entrySha256": "6a856cd9d2e71e91e9e9a53e7edd8f05fad59e095eec7f119c49d0572a11c0eb"
+    },
+    {
+      "id": "t_8f89b12a0cc0",
+      "entrySha256": "11bfbeab5f40c25f1108c71a3429bd8c56de9aa66951ce9863f07e37f7a2eff9"
+    },
+    {
+      "id": "t_968a2f97c9ff",
+      "entrySha256": "611ee7b63ee0591f352bf65a01f6d1e2c6f74ca44dfabc50b9981d163ea95968"
+    },
+    {
+      "id": "t_972b8e6cebdd",
+      "entrySha256": "a2ca9a6278115dc48cda024d76ffe91c0e5810ac2b98b616bdf42ce89a9e4dd3"
+    },
+    {
+      "id": "t_9bddb36dfcaf",
+      "entrySha256": "c2ff816bee9bc9cb574b9e2faa19c5bab3ab689666fa79be4ae9152c047ba70b"
+    },
+    {
+      "id": "t_9e7c2fb12ad9",
+      "entrySha256": "adbf786c3f36d136120a6d6b3fbd2a06704b901bb5eb804160d01189f16ba332"
+    },
+    {
+      "id": "t_b437e79a4646",
+      "entrySha256": "f5df8d89d8a4811f26ce214f507286c5070e82c17616151e0d1048963fba0dbf"
+    },
+    {
+      "id": "t_b95cbb303b12",
+      "entrySha256": "7451fa2d5f906bb8931c282bc30752814719e29b5c0772093058d2f0036f2031"
+    },
+    {
+      "id": "t_ba6668ef3e6e",
+      "entrySha256": "26e96d401cfe1629b343f268aa56309773811f6341fbed3d108223b185d1ae9e"
+    },
+    {
+      "id": "t_bb19ed0e0fab",
+      "entrySha256": "231cdb42e0aa2dbca391264120f80fd258b799a45c97208263c9748c49656323"
+    },
+    {
+      "id": "t_bc9b4740f883",
+      "entrySha256": "7896a11b06ef67662420368e7db8891beab0f865e9f5d398f2b7d970269181b6"
+    },
+    {
+      "id": "t_c875e45fbb9d",
+      "entrySha256": "b8c2013a884f84f331746aa5aebc53faff4f425e500f68ae9e398d10d6d56a50"
+    },
+    {
+      "id": "t_cb3571346f22",
+      "entrySha256": "97332faf5cbbcb3d50cacf189c693996a978885c8b1d35c8934794de082ca549"
+    },
+    {
+      "id": "t_cc6b4c4e9ba8",
+      "entrySha256": "ea190e747231600f04d15fde581e1dd76d29a10bca8ea8ccaa04a0ac2ecca8c3"
+    },
+    {
+      "id": "t_e34e9defcb79",
+      "entrySha256": "1b0812cce19babcc75b12f1b22cfe2b6e4d1071317bfdcaf38d162692224c76d"
+    },
+    {
+      "id": "t_e4b1a839b06d",
+      "entrySha256": "32f84ce76aed4338f2af21ea98ff16104c59367102e840cccae17c3f9407972e"
+    },
+    {
+      "id": "t_e62a6a10b2f9",
+      "entrySha256": "920cbf315e9000900e2163a32561cc400a186f51ed581f34968d14503083d283"
+    },
+    {
+      "id": "t_e69d7df930ca",
+      "entrySha256": "90bd2dd5eecafb9715d53f1d565077109cca9c542c72df102eaf21d149418200"
+    },
+    {
+      "id": "t_f6631a24e33e",
+      "entrySha256": "32eaf7e217c5d702f4c812c1347daf03b5161c412b179b9674d88a4dd0e626e4"
+    },
+    {
+      "id": "t_f758d1e27978",
+      "entrySha256": "ce1bd1e76e28ead2677ac173d7178075ab299f85047ffa8e1b557695b26b4bbb"
+    }
+  ],
+  "builtOn": {},
+  "withdrawn": []
+}

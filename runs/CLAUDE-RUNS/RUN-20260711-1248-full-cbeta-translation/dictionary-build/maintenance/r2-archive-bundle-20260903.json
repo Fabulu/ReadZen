@@ -1,0 +1,196 @@
+{
+  "schemaVersion": "r2-archive-bundle",
+  "lane": "R2",
+  "spec": "SPEC_R2_20260903.md (+AMENDMENT 1)",
+  "clone": {
+    "finalHead": "845767290739da05b5e9a1bca2a42d95fbb2e7d3",
+    "parentHead": "145b090035da6e9531143e6151f26c62bed242d5",
+    "statusPorcelain": "",
+    "diffStatParentToHead": "termbase.index.json |  2 +-\n termbase.json       |  5 +--\n termbase.v2.json    | 90 ++++++++++++++++++++++++++++++++++++++++++-----------\n termbase/000.json   |  2 +-\n termbase/029.json   |  2 +-\n termbase/080.json   |  2 +-\n 6 files changed, 78 insertions(+), 25 deletions(-)",
+    "remote": "NOT PUSHED (hard rule: local commit only)"
+  },
+  "corpus": {
+    "registryCorpusManifestSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+    "corpusPath": null
+  },
+  "manifest": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2-20260903-generic-manifest.json",
+    "sha256": "e65565c32e3090c828be5b64089294f6da2046579854a9a277ace28fc306d5fd"
+  },
+  "installReceipt": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2-20260903-generic-install-receipt.json",
+    "sha256": "153c84dfaf630cfa1b21b4f3232dce8eab6fe643a9061ae5a271430bbfba4b1d"
+  },
+  "verifications": {
+    "gates": {
+      "command": "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe -X …",
+      "argv": [
+        "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2_gates_20260903.py"
+      ],
+      "exitStatus": 0,
+      "env": {
+        "R2_CLONE_DIR": "C:\\Users\\FABIAN~1\\AppData\\Local\\Temp\\r2-pin-worktree-uo9qjfxt"
+      },
+      "stdout": "R2 GATES: CLEAN\n  note: gate1: off-worklist byte-identity over 4501 untouched files\n  note: gate4: zero NEW attribution rows (pre 0, post 0)\n  note: gate5: depth pre hard 3 / post 3\n  note: gate9: fleet zero NEW rows (8384 rows; 0 resolved)\n",
+      "stderr": "",
+      "expected": 0,
+      "passed": true
+    },
+    "adjudication": {
+      "command": "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe -X …",
+      "argv": [
+        "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2_adjudicate_blind_r1_20260903.py"
+      ],
+      "exitStatus": 0,
+      "env": {
+        "R2_CLONE_DIR": "C:\\Users\\FABIAN~1\\AppData\\Local\\Temp\\r2-pin-worktree-uo9qjfxt"
+      },
+      "stdout": "{\n  \"verdict\": \"PASS\",\n  \"canaryMisses\": 0,\n  \"honestFlags\": 1,\n  \"oracleMatches\": 1,\n  \"confirmed\": 0,\n  \"unruled\": 0,\n  \"problems\": []\n}\n",
+      "stderr": "",
+      "expected": 0,
+      "passed": true
+    },
+    "verifyInstall": {
+      "command": "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe -X …",
+      "argv": [
+        "C:\\Users\\Fabian Trunz\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "-X",
+        "utf8",
+        "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2_verify_install_20260903.py"
+      ],
+      "exitStatus": 0,
+      "env": {
+        "R2_VERIFY_BASE": "HEAD^"
+      },
+      "stdout": "clone changed files: 0\n{\n  \"products\": 3,\n  \"entriesHeadToLive\": [\n    4499,\n    4499\n  ],\n  \"indexRowsHeadToLive\": [\n    4499,\n    4499\n  ],\n  \"legacyRowsHeadToLive\": [\n    4499,\n    4499\n  ],\n  \"aliasDelta\": {\n    \"added\": [\n      \"一不成、二不是\"\n    ],\n    \"value\": \"一不成，二不是\"\n  },\n  \"aliasesOtherwiseUnchanged\": true,\n  \"changedShards\": [],\n  \"offFootprintDrift\": 0,\n  \"retiredCitationsGlobal\": 0,\n  \"retiredSourceTextsGlobal\": 0,\n  \"followUpSiblingsUntouched\": [\n    \"t_ab715aa474d5\",\n    \"t_351fa42d396b\"\n  ],\n  \"productCounts\": {\n    \"t_ea2a427c7aba\": [\n      9,\n      3\n    ],\n    \"t_057cc9ea8755\": [\n      6\n    ],\n    \"t_968a2f97c9ff\": [\n      10\n    ]\n  },\n  \"problems\": [],\n  \"ok\": true\n}\n",
+      "stderr": "",
+      "expected": 0,
+      "passed": true
+    }
+  },
+  "postCommitReRun": {
+    "mechanism": "gates + adjudicator re-run against a detached git worktree of the pin commit 145b090 (byte-identical tree; their HEAD-pin and clean-status assertions hold there unchanged); verify_install re-run against the real clone with R2_VERIFY_BASE=HEAD^ (HEAD = the R2 install commit, pre-state pin at HEAD^). Env-override support added 2026-09-04 in r2_transform_20260903.py / r2_gates_20260903.py / r2_verify_install_20260903.py, defaults unchanged.",
+    "worktree": {
+      "command": "git worktree add --detach <tmp> 145b090",
+      "exitStatus": 0,
+      "stdout": "HEAD is now at 145b090 R1c 20260902: re-anchor the 2 R1b-blocked entries (攝心, 坐禪)\n",
+      "stderr": "Preparing worktree (detached HEAD 145b090)\nUpdating files:   2% (15/581)\nUpdating files:   3% (18/581)\nUpdating files:   3% (20/581)\nUpdating files:   3% (22/581)\nUpdating files:   4% (24/581)\nUpdating files:   4% (27/581)\nUpdating files:   5% (30/581)\nUpdating files:   6% (35/581)\nUpdating files:   6% (39/581)\nUpdating files:   7% (41/581)\nUpdating files:   8% (47/581)\nUpdating files:   8% (52/581)\nUpdating files:   9% (53/581)\nUpdating files:   9% (58/581)\nUpdating files:  10% (59/581)\nUpdating files:  11% (64/581)\nUpdating files:  12% (70/581)\nUpdating files:  12% (73/581)\nUpdating files:  13% (76/581)\nUpdating files:  14% (82/581)\nUpdating files:  14% (84/581)\nUpdating files:  15% (88/581)\nUpdating files:  16% (93/581)\nUpdating files:  17% (99/581)\nUpdating files:  17% (103/581)\nUpdating files:  18% (105/581)\nUpdating files:  19% (111/581)\nUpdating files:  20% (117/581)\nUpdating files:  20% (118/581)\nUpdating files:  21% (123/581)\nUpdating files:  22% (128/581)\nUpdating files:  22% (133/581)\nUpdating files:  23% (134/581)\nUpdating files:  23% (137/581)\nUpdating files:  24% (140/581)\nUpdating files:  25% (146/581)\nUpdating files:  26% (152/581)\nUpdating files:  26% (155/581)\nUpdating files:  27% (157/581)\nUpdating files:  28% (163/581)\nUpdating files:  29% (169/581)\nUpdating files:  29% (174/581)\nUpdating files:  30% (175/581)\nUpdating files:  31% (181/581)\nUpdating files:  32% (186/581)\nUpdating files:  32% (190/581)\nUpdating files:  33% (192/581)\nUpdating files:  33% (196/581)\nUpdating files:  34% (198/581)\nUpdating files:  34% (203/581)\nUpdating files:  35% (204/581)\nUpdating files:  36% (210/581)\nUpdating files:  36% (214/581)\nUpdating files:  37% (215/581)\nUpdating files:  38% (221/581)\nUpdating files:  38% (223/581)\nUpdating files:  39% (227/581)\nUpdating files:  39% (231/581)\nUpdating files:  40% (233/581)\nUpdating files:  41% (239/581)\nUpdating files:  41% (243/581)\nUpdating files:  42% (245/581)\nUpdating files:  43% (250/581)\nUpdating files:  44% (256/581)\nUpdating files:  45% (262/581)\nUpdating files:  45% (267/581)\nUpdating files:  46% (268/581)\nUpdating files:  47% (274/581)\nUpdating files:  48% (279/581)\nUpdating files:  49% (285/581)\nUpdating files:  49% (288/581)\nUpdating files:  50% (291/581)\nUpdating files:  51% (297/581)\nUpdating files:  52% (303/581)\nUpdating files:  52% (305/581)\nUpdating files:  53% (308/581)\nUpdating files:  53% (311/581)\nUpdating files:  53% (312/581)\nUpdating files:  54% (314/581)\nUpdating files:  55% (320/581)\nUpdating files:  55% (325/581)\nUpdating files:  56% (326/581)\nUpdating files:  57% (332/581)\nUpdating files:  57% (336/581)\nUpdating files:  58% (337/581)\nUpdating files:  59% (343/581)\nUpdating files:  59% (344/581)\nUpdating files:  60% (349/581)\nUpdating files:  60% (354/581)\nUpdating files:  61% (355/581)\nUpdating files:  61% (360/581)\nUpdating files:  62% (361/581)\nUpdating files:  63% (367/581)\nUpdating files:  64% (372/581)\nUpdating files:  65% (378/581)\nUpdating files:  65% (380/581)\nUpdating files:  66% (384/581)\nUpdating files:  67% (390/581)\nUpdating files:  68% (396/581)\nUpdating files:  68% (397/581)\nUpdating files:  69% (401/581)\nUpdating files:  69% (405/581)\nUpdating files:  70% (407/581)\nUpdating files:  70% (412/581)\nUpdating files:  71% (413/581)\nUpdating files:  71% (417/581)\nUpdating files:  72% (419/581)\nUpdating files:  73% (425/581)\nUpdating files:  74% (430/581)\nUpdating files:  75% (436/581)\nUpdating files:  76% (442/581)\nUpdating files:  76% (446/581)\nUpdating files:  77% (448/581)\nUpdating files:  78% (454/581)\nUpdating files:  79% (459/581)\nUpdating files:  79% (461/581)\nUpdating files:  80% (465/581)\nUpdating files:  81% (471/581)\nUpdating files:  81% (472/581)\nUpdating files:  82% (477/581)\nUpdating files:  83% (483/581)\nUpdating files:  84% (489/581)\nUpdating files:  85% (494/581)\nUpdating files:  85% (497/581)\nUpdating files:  86% (500/581)\nUpdating files:  87% (506/581)\nUpdating files:  88% (512/581)\nUpdating files:  89% (518/581)\nUpdating files:  89% (521/581)\nUpdating files:  90% (523/581)\nUpdating files:  91% (529/581)\nUpdating files:  92% (535/581)\nUpdating files:  93% (541/581)\nUpdating files:  93% (545/581)\nUpdating files:  94% (547/581)\nUpdating files:  95% (552/581)\nUpdating files:  96% (558/581)\nUpdating files:  97% (564/581)\nUpdating files:  97% (567/581)\nUpdating files:  98% (570/581)\nUpdating files:  99% (576/581)\nUpdating files: 100% (581/581)\nUpdating files: 100% (581/581), done.\n",
+      "removeExitStatus": 0,
+      "pruneExitStatus": 0
+    },
+    "verifyInstallBase": "HEAD^"
+  },
+  "stagedEyeballTranscript": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2-staged-eyeball-20260903.txt",
+    "text": "﻿staged entries: 4499; changed vs HEAD: 3; == 3 products: True\nretired-rel citations left in staged products: 0 []\nt_057cc9ea8755 攝心: occurrence counts HEAD [6] -> staged [6]\nt_968a2f97c9ff 一不成，二不是: occurrence counts HEAD [10] -> staged [10]\nt_ea2a427c7aba 坐禪: occurrence counts HEAD [9, 3] -> staged [9, 3]\n\n=== t_ea2a427c7aba 坐禪 staged s1: repaired rows ===\n  occ1: T/T48/T48n2025.xml 1143a07->1143a12\n    MasterName: None\n    ContextMasters: [{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"compiler\"]}]\n    Actor: impersonal / institutional procedure / compiler / \"the monastic code's institutional voice\"\n    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules fo...\n  occ8: T/T48/T48n2025.xml 1113a21->1113a22\n    MasterName: None\n    ContextMasters: [{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"compiler\"]}]\n    Actor: impersonal / institutional procedure / compiler / \"the monastic code's institutional voice\"\n    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongy...\n  occ9: T/T48/T48n2025.xml 1143a12->1143a15\n    MasterName: None\n    ContextMasters: [{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"compiler\"]}]\n    Actor: impersonal / institutional procedure / compiler / \"the monastic code's institutional voice\"\n    note head: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules fo...\n  RelatedMasters: [\"Guting Shanjian\", \"Nanyue Huairang\", \"Mazu Daoyi\", \"Linji Yixuan\", \"Baozhi\", \"Zhaoqing Shengdeng\", \"Zhanran Yuancheng\", \"Dongyang Dehui\", \"Songyuan Chongyue\"]\n\n=== t_ea2a427c7aba 坐禪 staged prose ===\n  -- Explanation --\n     The seated Chan procedure is a regulated bodily activity with an assigned place, posture, duration, and hall orientation.\n     The Baizhang monastic code's titled Rules for Sitting Chan section directs a quiet place, a thick seat, full or half cross-legged sitting, the left palm resting on the right with the two thumbs touching, an upright body with the ears aligned to the shoulders and the nose to the navel, the tongue against the upper palate, and slightly open eyes, and it preserves Fayun Yuantong's rebuke of sitting with closed eyes as a black mountain ghost cave (\"於閒靜處厚敷坐物…謂黑山鬼窟\"). [CJK]\n     It continues: think neither good nor evil;\n     the moment a thought arises, notice it, ever awake, neither dull nor scattered;\n     this is the essential procedure of sitting Chan, a gate of ease, and those who fall ill from it miss its essentials (\"一切善惡都莫思量。念起即覺…坐禪乃安樂法門\"). [CJK]\n     The Baizhang monastic code redacted by Dongyang Dehui gives an observable hall convention: the assembly faces inward as in ordinary sitting Chan, then turns outward when the drum sounds (\"如尋常坐禪向內坐。鼓鳴則轉身向外坐。\"). [CJK]\n     Guting Shanjian says that sitting upright without lying down for ten or twenty years, even one or two lives, is what the ancients called sitting Chan.\n     Nanyue Huairang's tile exchange, Linji Yixuan's refusal, Baozhi and Zhaoqing Shengdeng's critiques, and Zhanran Yuancheng's attack on half-asleep sitting still target this recognizable seated procedure.\n     They disagree about what it accomplishes or how it is performed;\n     they do not erase the bodily referent.\n     The separate sense below is reserved for passages that explicitly redefine the compound apart from sitting posture.\n\n=== t_057cc9ea8755 攝心 staged prose ===\n  -- Note --\n     In the Extended Record of Yongjue Yuanxian, Yongjue quotes \"gathering the mind is called restraint\" (攝心名戒), then challenges it point by point: \"what thing is mind that it can be gathered? What thing is gathering that it can gather mind? Water does not wash water\" (心是何物而可攝？攝又是何物而可攝心？水不洗水). [CJK]\n     Yongming Yanshou's Source-Mirror Record states that before reaching its stated gate, \"saying right makes wrong;\n     gathering the mind is still an error\" (說是成非。攝心猶錯。). [CJK]\n     Shiwu Qinggong's verse in his recorded sayings, compiled by his disciples, retains the ordinary finite action by listing the day's tasks and \"gathering the mind to drive off sleep\" (攝心除睡). [CJK]\n     Counted forms include \"gathering the mind is called restraint\" (攝心名戒, two occurrences in two texts), \"gather the mind to drive off sleep\" (攝心除睡, one in one), \"the way of gathering the mind\" (攝心之法, one), \"place of gathering the mind\" (攝心處, one), and \"gather the mind and illuminate within\" (攝心內照, three in three). [CJK]\n     The entry records the action and the texts' own challenges without resolving those challenges into an external system.\n  -- AttributionNote (occ 3) --\n     Source record (X/X70/X70n1399.xml).\n     Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse 'Sending Off the Idle Attendant to Return Home and Visit His Teacher' (送慵侍者回里省師): Shiwu Qinggong lists the day's tasks — planting bamboo and pines, hoeing the hill, carrying water and firewood, watering vegetables and taro, chanting texts, and gathering the mind to drive off sleep [CJK]\n\n=== t_968a2f97c9ff 一不成，二不是 staged SearchAliases ===\n  [\"one fails, two is wrong\", \"一不成、二不是\"]\n"
+  },
+  "offFootprint": {
+    "changedOutsideProducts": [],
+    "law": "empty"
+  },
+  "withdrawalReport": {
+    "claim": "t_1a6cdc16c248 (unattested punctuation-normalization duplicate of 一不成，二不是) was replaced by t_968a2f97c9ff (the corpus-attested canonical entry); merge-dict-entries.js:47 carries the mapping; R2 adds the 顿号 search alias '一不成、二不是' to the survivor so the withdrawn form stays findable",
+    "mergeScript": "C:\\programmieren\\MergeWorkCbeta\\CBETA-Translator\\eng\\tools\\merge-dict-entries.js",
+    "mergeScriptSha256": "83e7df825338b11652786541941610a7501b4ad288524846d145ae9e7a912d35",
+    "line47": "['t_1a6cdc16c248', 't_968a2f97c9ff'], // duplicate-SourceTerm 一不成，二不是 legacy id -> canonical ComputeId id (occurrences merged into the survivor)",
+    "firstInstalledWithdrawal": "local clone only (no push)"
+  },
+  "shuitouClaimSupport": {
+    "entry": "t_d7725cb0c8c0",
+    "sourceTerm": "水頭",
+    "reportOnly": true,
+    "occurrenceCount": 2,
+    "occurrence2": {
+      "RelPath": "T/T48/T48n2025.xml",
+      "FromLb": "1133a20",
+      "ToLb": "1133b02",
+      "fullKwic": "添助供眾。其或恒產足用。不必多往干求取厭也。園主園主不憚勤苦。以身率先。栽種菜蔬及時灌溉。供給堂厨。毋使缺乏。磨主磨主兼主碓坊米麫。供眾極有關系。須擇有道心人。諳曉舂磨等事者充之。水頭水頭五更燒湯。供大眾󱡋盥。手巾面盆燈燭牙藥。毋令缺少。冬月烘焙手巾須早起鋪排。勿致臨時動眾念。炭頭炭頭預備柴炭以禦寒事。或化施主。或出公界。須令足用。莊主莊主視田界至修理莊舍。提督"
+    },
+    "dutyListInKwic": true,
+    "supportedExplanationSentence": "one code states its concrete responsibility as heating washing water and arranging the community's basins and towels.",
+    "explanationContainsSentence": true,
+    "note": "the earlier doubt was a 90-character display truncation artifact; the full stored kwic carries the duty list verbatim. No product edit (SPEC §6). X63n1250 0648c22 「水頭之職…」 recorded as a future-evidence lead."
+  },
+  "siblingDehuiFollowUp": [
+    {
+      "entry": "t_ab715aa474d5",
+      "si": 1,
+      "oi": 2,
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1144b03",
+      "masterName": "Dehui",
+      "disposition": "user decision 2026-09-03: dedicated follow-up lane with full-case re-reads; byte-identical to the pre-R2 state (verified by r2_verify_install law 7g)",
+      "identityConfirmed": true
+    },
+    {
+      "entry": "t_351fa42d396b",
+      "si": 1,
+      "oi": 1,
+      "relPath": "T/T48/T48n2025.xml",
+      "fromLb": "1127c04",
+      "masterName": "Dehui",
+      "disposition": "user decision 2026-09-03: dedicated follow-up lane with full-case re-reads; byte-identical to the pre-R2 state (verified by r2_verify_install law 7g)",
+      "identityConfirmed": true
+    }
+  ],
+  "staleSourceTextsObservation": {
+    "class": "pre-existing: entries whose sense-level SourceTexts still LIST a retired rel while citing zero retired occurrences/anchors (discovered by the R2 census; includes 水頭); out of R2 scope — disclosed for a future reconcile lane",
+    "count": 47,
+    "entries": [
+      "t_022d58242948",
+      "t_044652c7b411",
+      "t_05659eb4122a",
+      "t_0c53a5a2243b",
+      "t_1383f942789d",
+      "t_13951a5b5260",
+      "t_1b94d664ca7a",
+      "t_27c71a091873",
+      "t_32289452a85b",
+      "t_36b1824beee5",
+      "t_3b9857d1cc19",
+      "t_41476f956295",
+      "t_428c42ea1c8f",
+      "t_453e3c35baa6",
+      "t_4b1aa91dd297",
+      "t_4e0636f53520",
+      "t_50d75aeeeef1",
+      "t_5159aa2b0fb4",
+      "t_5306489d35c6",
+      "t_5342014cb2ee",
+      "t_5ab995298e4e",
+      "t_5b93919eced9",
+      "t_76ee526a2b16",
+      "t_88dac6848042",
+      "t_9ba11d160033",
+      "t_a5ffef8b3f2d",
+      "t_aa45c307e9f1",
+      "t_acd15cd3ba91",
+      "t_b4c37e2f25c3",
+      "t_b97e19fa54b2",
+      "t_bea7c499e294",
+      "t_c513dc22845c",
+      "t_c945c2cc0e79",
+      "t_c968c2829eeb",
+      "t_cf2b777134bb",
+      "t_d26799ff3ae1",
+      "t_d7725cb0c8c0",
+      "t_dc24f92ead78",
+      "t_e52f4bdc4110",
+      "t_e9adcb470950",
+      "t_ea85b794ca42",
+      "t_ef5beb628603",
+      "t_f0cb4dcfc70c",
+      "t_f26addce7844",
+      "t_f5e1fe96407c",
+      "t_f9bb8b44b32f",
+      "t_fe03a2a24e00"
+    ]
+  },
+  "allPassed": true
+}

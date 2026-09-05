@@ -1,0 +1,132 @@
+{
+  "Id": "t_88dac6848042",
+  "SourceTerm": "戒臘",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane B complete-case author",
+  "WrittenUtc": "2026-07-15T10:38:49.311314+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "ordination seniority",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "ordination seniority"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "5 distinct work IDs selected after complete-case actor review.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1112b08",
+          "ToLb": "1112b26",
+          "Kwic": "齋粥赴茶湯普請日用軌範龜鏡文病僧念誦亡僧版帳式節臘章第八夏前出草單新掛搭人點入寮茶出圖帳眾寮結解特為眾湯楞嚴會戒臘牌方丈小座湯四節土地堂念誦庫司四節特為首座大眾湯結制禮儀四節秉拂方丈四節特為首座大眾茶庫司四節特為首座大眾茶前堂四節特為後堂大眾茶旦望巡堂茶方丈點行堂",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "the table-of-contents compiler",
+            "ActorLabel": "the table-of-contents compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The surrounding sequence is the book's contents list; no speech frame governs the headword.",
+            "ReviewedBy": "Codex next500 independent full-case reviewer",
+            "ReviewedUtc": "2026-07-16T05:35:00+00:00"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0620c23",
+          "ToLb": "0621a01",
+          "Kwic": "入夏戒臘茶律挂草單呂出圖帳調排被鉢位陽戒臘牌",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "the unnamed source compiler or narrator",
+            "ActorLabel": "the unnamed source compiler or narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "All six attribution rungs were checked; the source supplies only the unnamed source compiler or narrator, not a recoverable named master.",
+            "ReviewedBy": "Codex f004 author cohort0 repair",
+            "ReviewedUtc": "2026-07-15T16:41:19.006168+00:00"
+          },
+          "MasterName": null,
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 戒臘 to the unnamed source compiler or narrator; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0823b27",
+          "ToLb": "0823c02",
+          "Kwic": "若青山之白雲；來也，去也，似當天之杲日。本無心于出沒，豈有相於去來？一道凝然，亙古不昧。恭惟禪德生世八十一年，戒臘四十餘夏，受毘尼于傘居之室，養道緣于約翁之庵。一句彌陀，直透安養國中；雙融性相，不離今世門頭。不期世幻已盡，撒手還家。今朝吉日良辰，為伊作一期佛事。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin: Faxi Yin utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Faxi Yin"
+        },
+        {
+          "RelPath": "J/J35/J35nB339.xml",
+          "FromLb": "0748c15",
+          "ToLb": "0748c22",
+          "Kwic": "露柱一下，云：「分明記取。」洪州大寧眾陳狀請第二座住持，宋令公云：「何不請第一座？」眾無對，代云：「此番不可以戒臘推。」裴相國參石霜，霜奪笏問云：「在一人手裏為圭，在公手裏為笏，在老僧手裏喚作甚麼？」國無對，代云：「放過一著。」湖南護國僧抄化次，官人問：「既是護國",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J35/J35nB339.xml). Cliff-Flower Collection of Chan Master Lingrui: Lingrui utters the headword-bearing wording.",
+          "ContextMasters": [
+            {
+              "MasterName": "Lingrui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Lingrui"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X63/X63n1250.xml",
+        "J/J28/J28nB220.xml",
+        "J/J35/J35nB339.xml"
+      ],
+      "RelatedMasters": [
+        "Faxi Yin",
+        "Lingrui"
+      ],
+      "RelatedTerms": [
+        "戒"
+      ],
+      "Explanation": "Ordination seniority is the number and rank reckoned from a monastic's reception of the precepts, commonly counted in summer seasons. The regulations order new arrivals to present documents ‘in sequence according to ordination seniority’ and prescribe ordination-seniority plaques and tea. Faxi Yin's funeral address distinguishes eighty-one years of life from more than forty ordination summers; Lingrui's substitute saying refuses to choose an abbot ‘by ordination seniority.’"
+    }
+  ]
+}

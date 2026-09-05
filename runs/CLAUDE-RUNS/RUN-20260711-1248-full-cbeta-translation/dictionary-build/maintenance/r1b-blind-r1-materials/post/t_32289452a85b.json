@@ -1,0 +1,108 @@
+{
+  "Id": "t_32289452a85b",
+  "SourceTerm": "燒指",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane A independent-reject corrective author",
+  "WrittenUtc": "2026-07-15T10:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "burn a finger",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "burn a finger",
+        "燒指"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Four exact witnesses from three distinct works. The Shanhui address supplies Shanhui Dashi’s public demand; the unavailable Gaofeng–Shiwu wording is explicitly excluded from the evidence rather than silently imported.",
+      "SourceTexts": [
+        "X/X69/X69n1335.xml",
+        "T/T48/T48n2017.xml",
+        "T/T48/T48n2023.xml"
+      ],
+      "RelatedMasters": [
+        "Shanhui Dashi"
+      ],
+      "RelatedTerms": [
+        "焚香",
+        "然香",
+        "燒佛"
+      ],
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1335.xml",
+          "FromLb": "0107c09",
+          "ToLb": "0107c10",
+          "Kwic": "某等不以銜愆帶舋，罪垢深重，今謹割耳燒指，殷勤勸請。",
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "utterer",
+            "ActorLabel": "the unnamed named collective petitioners speaking as “we”",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex f003 A601-650 round3 repair author",
+            "ReviewedUtc": "2026-07-15T09:05:00Z",
+            "GrammarEvidence": "The first-person plural 某等…今謹 marks the petitioners’ direct collective declaration, not compiler narration."
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Dashi",
+              "Roles": [
+                "addressee",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui (善慧大士語錄): The named collective petitioners speaking as “we” is unnamed: Record of Shanhui Dashi (善慧大士錄): the named petitioners speak collectively as “we,” saying that they now cut their ears and burn fingers while urgently asking Shanhui Dashi to remain in the world."
+        },
+        {
+          "RelPath": "T/T48/T48n2017.xml",
+          "FromLb": "0969c01",
+          "ToLb": "0969c03",
+          "Kwic": "見後新學菩薩，有從百里千里，來求大乘經律，應如法為說一切苦行：若燒身、燒臂、燒指。",
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "quoted prescriptive scripture",
+            "ActorLabel": "the quoted Brahma Net scripture",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword occurs inside an explicitly introduced quotation from the Brahma Net scripture prescribing austerities, not in compiler narration or a human speech turn.",
+            "ReviewedBy": "Codex exact full-case rereview",
+            "ReviewedUtc": "2026-07-15T22:30:55.080713+00:00"
+          },
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2017.xml). Collection on the Convergence of Myriad Good Deeds (萬善同歸集): Editorial or procedural text: Collection on the Convergence of All Good (萬善同歸集) explicitly quotes the Brahma Net scripture prescribing that a teacher explain austerities including burning the body, arms, and fingers; the quoted scripture is the impersonal document voice."
+        },
+        {
+          "RelPath": "X/X69/X69n1335.xml",
+          "FromLb": "0108a24",
+          "ToLb": "0108b02",
+          "Kwic": "大士告眾曰：今世界眾災不息，人民困劇，誰能苦行，燒指為燒？普為一切，供養三寶，請佛住世，普度羣生。",
+          "Curated": true,
+          "MasterName": "Shanhui Dashi",
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Dashi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1335.xml). Recorded Sayings of Great Adept Shanhui (善慧大士語錄): Record of Shanhui Dashi (善慧大士錄): Shanhui Dashi addresses the assembly during a time of public calamity and asks who can undertake the austerity of burning fingers as an offering to the Three Treasures and a plea that the buddhas remain in the world."
+        }
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "To burn a finger is literal bodily burning, but the corpus also shows how the act is made into a public demand. Shanhui Dashi addresses the assembly amid public calamities and asks who can undertake finger burning as an offering and a plea that the buddhas remain in the world. Elsewhere named petitioners say they cut their ears and burn fingers while urgently pressing Shanhui to remain; two further sources place finger burning in austerity and disciplinary lists. The often-retold Gaofeng–Shiwu exchange in which fingers are to be burned like incense was searched under its relevant exact and variant forms but is not attested in this corpus, so this entry does not use that story as evidence."
+    }
+  ]
+}

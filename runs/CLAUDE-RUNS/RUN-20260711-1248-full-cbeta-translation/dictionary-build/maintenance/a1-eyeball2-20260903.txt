@@ -1,0 +1,171 @@
+﻿== muc-utterer exemplar (t_0b56e6349db2 s1 o5) ==
+   MasterName='Langting Jingting' -> ContextMasters=[{"MasterName": "Langting Jingting", "Roles": ["utterer"]}]
+== muc-verse-author exemplar (t_1b76e4ae53f0 s1 o12) ==
+   MasterName='Deming' -> ContextMasters=[{"MasterName": "Deming", "Roles": ["verse-author"]}]
+
+== vague-reword t_1793c3514a69 s1 o ==
+   [Explanation s1] …Literally, to raise something and ask. Chan records use it 【when a questioner carries a saying, exchange, or disputed comparison into a further interview and asks the answering master about it】. Zhenjue raises before Xuanwu a description of light from the eye illuminating mountains …
+
+== vague-reword t_1793c3514a69 s1 o ==
+   [Explanation s1] …his name. Jiashan and Dingshan take their opposed sayings about buddha in birth-and-death 【to Damei Fachang, and Jiashan raises the matter】 by asking whose view is more intimate; the answer distinguishes one as intimate and one a…
+
+== vague-reword t_1793c3514a69 s1 o ==
+   [Explanation s1] … whose view is more intimate; the answer distinguishes one as intimate and one as remote. 【An unnamed monk raises the staff of Deshan and shout of Linji and asks what side they clarify; Shoushan Xingnian tells him】 to try to say, and tests his ensuing shout. The deviation is institutional and textual: r…
+
+== vague-reword t_9e7c2fb12ad9 s1 o ==
+   [Explanation s1] …cat. Beyond that case, the corpus uses the same word for ordinary mouse-catching cats and 【records Luohan Xinglin Zuyin lifting a live cat】 before the assembly while explicitly recalling Nanquan.…
+
+== vague-reword t_b437e79a4646 s1 o ==
+   [Explanation s1] …nding to the occasion” his responses are not free-flowing, and asks where the fault lies; 【Zhanran Yuancheng's answer examines him】 rather than treating interview performance as optional. A recorded dialogue asks where th…
+
+== vague-reword t_b437e79a4646 s1 o ==
+   [Explanation s1] …ed dialogue asks where the three vehicles and twelve divisions of teaching were obtained, 【and Muzhou Daoming answers】, “they were obtained in responding to the occasion.” Hongzhi speaks of “an eye for respon…
+
+== vague-reword t_b437e79a4646 s1 o ==
+   [Explanation s1] …g. The corpus also uses the term in titles such as collections of hundreds of encounters, 【in appraisals of the respondent's answer】, and in compounds with answering and reception. Thus the ordinary graph “occasion” or “ca…
+
+== vague-reword t_b95cbb303b12 s1 o ==
+   [Explanation s1] …Literally, to let a question descend or to bestow a question. In Chan records 【it marks the bestowing master putting a question to monks】 and requiring an answer. The heading “questions put in the room” places it in the enterin…
+
+== vague-reword t_b95cbb303b12 s1 o ==
+   [Explanation s1] …tion asks how the patriarchal mind-seal is inscribed and how deep the buddhas' source is. 【An unnamed monk later recalls a question bestowed】 the previous day—“since it is not mind, not buddha, and not a thing, what is it after all…
+
+== vague-reword t_b95cbb303b12 s1 o ==
+   [Explanation s1] …all?”—and returns to request instruction. Records also show questions put before a group: 【on a snowy day Pin Jixiang asks why the solitary peak is not white】 when snow covers the thousand mountains, and elsewhere monks give several replies to “whe…
+
+== vague-reword t_b95cbb303b12 s1 o ==
+   [Explanation s1] …lsewhere monks give several replies to “when there is no buddha in the hall, what then?”, 【none of which Guxue Zhe accepts】. The term therefore names an observable part of Chan's interview machinery: the bestowing…
+
+== vague-reword t_b95cbb303b12 s1 o ==
+   [Explanation s1] …e Zhe accepts. The term therefore names an observable part of Chan's interview machinery: 【the bestowing master publicly or privately puts the question】, monks answer or fail to answer, and the record preserves the ensuing acceptance, rejecti…
+
+== vague-reword t_cc6b4c4e9ba8 s1 o ==
+   [Explanation s1] …t was named obtaining the marrow.” Masters also question and censure the inherited event. 【An unnamed monk asks why Radiant Light】—Kashyapa—smiled on seeing the flower held up; Daoning answers, “he could not suppress a g…
+
+== vague-reword t_e69d7df930ca s1 o ==
+   [Explanation s1] …'Bodhisattva children, come eat.' The Blue Cliff Record and an independent lamp recension 【both name Jinniu and preserve the action】. The person belongs on the roster of masters; this sense identifies him without turning h…
+
+== vague-reword t_e69d7df930ca s1 o ==
+   [Explanation s1] … Cliff Record and an independent lamp recension both name Jinniu and preserve the action. 【The person belongs on the roster of masters】; this sense identifies him without turning his name into a biography or collapsing him in…
+
+== vague-reword t_f758d1e27978 s1 o ==
+   [Explanation s1] …y before saying that the lineage's wondrous phrase is hard to state by the road of words. 【Hanyue Fazang calls】 “the phrase that meets the occasion” a sword-edge matter and records that asking “how?” o…
+
+== vague-reword t_1793c3514a69 s1 o ==
+   [Note s1] …a question about it. It overlaps with “raise a case” (舉) and “question-and-answer”, while 【differing from the bestowing master's newly bestowed question】.…
+
+== dangling-anchor t_057cc9ea8755 s1 o ==
+   {
+   "RelPath": "J/J34/J34nB300.xml",
+   "FromLb": "0270b06",
+   "ToLb": "0270b07",
+   "Kwic": "萬法朗然，何思何慮？擬欲攝心，無本可據。我今為汝書此言，只此便是攝心處。",
+   "ClaimText": "萬法朗然，何思何慮？",
+   "MasterName": "Chaozong Tongren",
+   "Curated": true,
+   "ContextMasters": [
+      {
+         "MasterName": "Chaozong Tongren",
+         "Roles": [
+            "verse-author"
+         ]
+      }
+   ],
+   "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄). Speaker: Chaozong Tongren, in the gatha the practitioner Falang requests (法朗禪人乞攝心偈)."
+}
+   anchored in Explanation: …place of gathering the mind’ (萬法朗然，何思何慮？擬欲攝心，無本可據……只此便是攝心處).…
+   anchored in Explanation: … of gathering the mind’ (萬法朗然，何思何慮？擬欲攝心，無本可據……只此便是攝心處).…
+   anchored in Explanation: …e mind’ (萬法朗然，何思何慮？擬欲攝心，無本可據……只此便是攝心處).…
+   anchored in Explanation: …nd’ (萬法朗然，何思何慮？擬欲攝心，無本可據……只此便是攝心處).…
+
+== performer-context-row t_4e3f766f716c s1 o2 ==
+   kwic: 得人一牛還人一馬虎驟龍驤誰敢定價三千里外見譊訛生鐵一團無縫𦉑一吹無孔笛一撫沒絃琴一曲兩曲無人會雨過夜塘秋水深道吾作舞一曲無譜若將耳聞未敢相許潭州雲巖曇晟禪師因道吾問大悲千手眼那箇是正眼師曰如人夜間背手摸枕子吾曰我會也師曰…
+   ContextMasters=[{"MasterName": "Yunyan Tansheng", "Roles": ["case-figure", "action-performer"]}]
+
+== performer-context-row t_f6631a24e33e s1 o5 ==
+   kwic: 至會萬物為自己者及情與無情共一體處，時有狗子臥香桌下，師拈壓尺擊狗，又擊香桌曰：狗有情即去，香桌無情自住，情與無情如何得成一體？…
+   ContextMasters=[{"MasterName": "Huitang Zuxin", "Roles": ["case-figure", "action-performer"]}]
+
+== performer-grammar-proof t_2e77bc793d0c s1 o4 ==
+   GrammarEvidence now: “來五千卷婆子年高眼尚明夜深月下穿針線左轉右轉金剛寶劒全藏半藏” predicates 左轉右轉 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration. The reviewed literal boundary is '。一走下禪床行一'. Action performer: the unnamed author of the verse after 頌曰, not the embedded 趙州 or 投子 actions (reviewed-unnamed)
+
+== anon-monk-restructure t_e4b1a839b06d s1 o3 ==
+   {
+   "RelPath": "J/J35/J35nB343.xml",
+   "FromLb": "0843b22",
+   "ToLb": "0843b23",
+   "Kwic": "僧問：「家家有路透長安，何處是長安大路？」師云：「出門便蹋著。」進云：「不顧腳下時如何？」",
+   "MasterName": null,
+   "Curated": true,
+   "ContextMasters": [
+      {
+         "MasterName": "Miyin Zhenchuan",
+         "Roles": [
+            "respondent"
+         ]
+      }
+   ],
+   "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain (廣福山勝覺寺密印禪師語錄). Speaker: the unnamed questioning monk.",
+   "ActorAttribution": {
+      "Status": "reviewed-unnamed",
+      "Kind": "reviewed human voice",
+      "ActorLabel": "the unnamed questioning monk",
+      "ActorRole": "questioner",
+      "RungsChecked": [
+         "line",
+         "expanded-context",
+         "section-header",
+         "book-title",
+         "tei-header",
+         "parallel-passage"
+      ],
+      "GrammarEvidence": "The reviewed 僧問 boundary in the complete case fixes the unnamed questioning monk as the exact headword voice; Miyin Zhenchuan owns only the responses.",
+      "ReviewedBy": "A1 attribution repair gates + blind r1",
+      "ReviewedUtc": "2026-09-02T08:10:44Z"
+   }
+}
+
+== grammar-evidence-repeat t_968a2f97c9ff s1 o4 ==
+   {
+   "Status": "identified-unlinked-master",
+   "Kind": "named Chan master",
+   "ActorLabel": "Jinsu Zhi",
+   "ActorRole": "utterer",
+   "GrammarEvidence": "The governing section heading reads 金粟智和尚語, the record of Jinsu Zhi, followed by 上堂; the exact headword opens the verse in that address.",
+   "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+   ],
+   "ReviewedBy": "A1 attribution repair gates + blind r1",
+   "ReviewedUtc": "2026-09-02T08:10:44Z"
+}
+
+== reviewed-fields t_968a2f97c9ff s1 o4 ==
+   {
+   "Status": "identified-unlinked-master",
+   "Kind": "named Chan master",
+   "ActorLabel": "Jinsu Zhi",
+   "ActorRole": "utterer",
+   "GrammarEvidence": "The governing section heading reads 金粟智和尚語, the record of Jinsu Zhi, followed by 上堂; the exact headword opens the verse in that address.",
+   "RungsChecked": [
+      "line",
+      "expanded-context",
+      "section-header",
+      "book-title",
+      "tei-header",
+      "parallel-passage"
+   ],
+   "ReviewedBy": "A1 attribution repair gates + blind r1",
+   "ReviewedUtc": "2026-09-02T08:10:44Z"
+}
+
+== anchor-remove t_2e77bc793d0c s1 o ==
+   removed a[0] T/T48/T48n2003.xml ClaimText='The baseline reader explanation is anchored to this retained exact occurrence.'
+   kwic: 。雪竇因風吹火。傍指出一箇半箇。一箇兩箇千萬箇脫却籠頭卸角馱左轉右轉隨後來紫胡要打劉
+   post ClaimAnchors: None; same-passage occurrence holders: ['Yuanwu Keqin']
+
+-- 116 edit records over 35 entries --

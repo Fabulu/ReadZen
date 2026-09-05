@@ -1,0 +1,197 @@
+{
+  "Id": "t_5b93919eced9",
+  "SourceTerm": "光陰可惜",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex cohort-002 lane-B B061-B070 author",
+  "WrittenUtc": "2026-07-19T12:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "time is precious",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "time is precious"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Direct admonition that time is precious. Linji urges students not to drift after pleasures but to seek a named speaker because each thought is impermanent; Dahui Pujue uses it to press the rarity of a shared teaching encounter.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X72/X72n1428.xml",
+          "FromLb": "0131a24",
+          "ToLb": "0131b02",
+          "Kwic": "無體，無功妙旨太深深。同中有異麤中細，異中有同念裡心。霜曰：光陰可惜，日月如箭。寸心",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1428.xml). Recorded Sayings of Chan Master Jingci Huihui (淨慈慧暉禪師語錄). Speaker: Jingci Huihui.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "explicit named full-case speaker",
+            "ActorLabel": "Jingci Huihui",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked speech in “中有異麤中細，異中有同念裡心。霜曰：光陰可惜，日月如箭。寸心” carries 光陰可惜 in Jingci Huihui’s own clause; the next punctuation boundary does not transfer it to another figure.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0939b01",
+          "ToLb": "0939b02",
+          "Kwic": "得之於心伊蘭作旃檀之樹失之於旨甘露乃蒺䔧之園非是強為法如是故光陰可惜時不待人此身不向",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue (大慧普覺禪師普說). Speaker: Dahui Pujue.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "explicit named full-case speaker",
+            "ActorLabel": "Dahui Pujue",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“之於旨甘露乃蒺䔧之園非是強為法如是故光陰可惜時不待人此身不向” contains 光陰可惜 in the source’s Dahui Pujue turn; the surrounding exchange supplies no personal name for that non-master voice.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0182a29",
+          "ToLb": "0182b01",
+          "Kwic": "煞有生涯，雲水相從而甘同寂寞。青山聚首，叔世良緣，莫當等閒，光陰可惜。」遂顧左右，召",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi (雲峨喜禪師語錄). Speaker: Yune Xi.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "explicit named full-case speaker",
+            "ActorLabel": "Yune Xi",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“寂寞。青山聚首，叔世良緣，莫當等閒，光陰可惜。」遂顧左右，召” contains 光陰可惜 in the source’s Yune Xi turn; the surrounding exchange supplies no personal name for that non-master voice.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1043b27",
+          "ToLb": "1043b29",
+          "Kwic": "休息。貪戀世間陰緣成質。從生至老一無所得。根本無明因茲被惑。光陰可惜剎那不測。今生空",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitory Instructions for the Monastic Gate (緇門警訓). Speaker: the unnamed compiler-narrator.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "explicit compiler narration",
+            "ActorLabel": "the unnamed compiler-narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“從生至老一無所得。根本無明因茲被惑。光陰可惜剎那不測。今生空” predicates 光陰可惜 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0734c17",
+          "ToLb": "0734c19",
+          "Kwic": "貪戀世間，陰緣成質，從生至老，一無所得。根本無明，因茲被惑。光陰可惜，剎那不測。今生",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Gāthās and Verses of the Chan Gate’s Patriarchs (禪門諸祖師偈頌). Speaker: the unnamed compiler-narrator.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "explicit compiler narration",
+            "ActorLabel": "the unnamed compiler-narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“至老，一無所得。根本無明，因茲被惑。光陰可惜，剎那不測。今生” predicates 光陰可惜 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0642c10",
+          "ToLb": "0642c12",
+          "Kwic": "中覓箇什麼物作觧脫覔取一口飯喫補毳過時且要訪尋知識莫囙循逐樂光陰可惜念念無常麄則被地",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). Speaker: the unnamed compiler-narrator.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "explicit compiler narration",
+            "ActorLabel": "the unnamed compiler-narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "“口飯喫補毳過時且要訪尋知識莫囙循逐樂光陰可惜念念無常麄則被地” predicates 光陰可惜 in unquoted record prose: no 曰, 云, or 問 introduces a human turn, so the clause remains compiler narration.",
+            "ReviewedBy": "Codex B51-B100 worksheet-first exhaustive current-ledger repair",
+            "ReviewedUtc": "2026-07-19T16:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X72/X72n1428.xml",
+        "M/M59/M59n1540.xml",
+        "J/J28/J28nB203.xml",
+        "T/T48/T48n2023.xml",
+        "X/X66/X66n1298.xml",
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Direct admonition that time is precious. Linji urges students not to drift after pleasures but to seek a named speaker because each thought is impermanent; Dahui Pujue uses it to press the rarity of a shared teaching encounter."
+    }
+  ]
+}

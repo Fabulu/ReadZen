@@ -1,0 +1,87 @@
+{
+  "Id": "t_5bc3a00e975d",
+  "SourceTerm": "更進一步",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "terra_luna177_author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "advance another step",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "advance another step",
+        "go one step further"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Two distinct Tier 2 uses remain. ",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0146a07",
+          "ToLb": "0146a08",
+          "Kwic": "萬法為侶，敢保筭渠不著。更進一步，別有一人在。」良久，顧",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Hanyue Fazang",
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang: Hanyue Fazang is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0100c20",
+          "ToLb": "0100c20",
+          "Kwic": "徑山杲云：要見長沙，還須更進一步。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Dahui Zonggao",
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: Dahui Zonggao is the exact actor of this headword-bearing turn."
+        },
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0547b11",
+          "ToLb": "0547b12",
+          "Kwic": "存時如何？」師云：「若教更進一步，也是無端。」僧云：「與",
+          "MasterName": "Baoci Guangyun",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall): Baoci Guangyun bears the exact headword. Baoci Guangyun says that ordering a further step would itself be gratuitous in this answer exchange.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baoci Guangyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB299.xml",
+        "X/X66/X66n1296.xml",
+        "B/B25/B25n0144.xml"
+      ],
+      "RelatedMasters": [
+        "Hanyue Fazang",
+        "Dahui Zonggao",
+        "Baoci Guangyun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Advance another step names a further move after an apparent stopping point. Hanyue Fazang says that another person is found by advancing another step, and Dahui Zonggao says that seeing Changsha still requires it."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "counts": {
+    "entries": 35,
+    "senses": 50,
+    "occurrences": 302,
+    "actor_reviewed_unnamed": 15,
+    "context_master_links": 348,
+    "attribution_notes": 303,
+    "named_occurrences": 254,
+    "actor_impersonal": 10,
+    "actor_identified_unlinked_master": 14,
+    "claim_anchors": 1,
+    "chinese_strings": 166,
+    "anchored_chinese": 166,
+    "deferred_non_roster": 91,
+    "pending_roster_master": 29,
+    "deferred_non_roster_context": 112,
+    "pending_roster_context_master": 43,
+    "actor_narrated": 10,
+    "reviewed_unnamed_prose": 1,
+    "supporting_occurrences": 1,
+    "governed_variant_occurrences": 1
+  },
+  "hardFailures": 0,
+  "failures": []
+}

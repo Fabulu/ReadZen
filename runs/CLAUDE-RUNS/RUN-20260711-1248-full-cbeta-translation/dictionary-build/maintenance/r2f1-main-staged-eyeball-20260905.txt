@@ -1,0 +1,58 @@
+﻿LAW1 changed set == 5 products: True (changed 5, added ['t_351fa42d396b'], lost [])
+LAW2 entry count 4715 -> 4716 (+1 exactly: True)
+LAW3 non-product regression: 0 [] (must be 0)
+LAW4 staged Dehui MasterName rows: 0 [] (must be 0)
+aliases delta vs main HEAD: added ['Chan sitting', 'collect the mind', 'communal meal schedule', 'cooked rice and gruel', 'dhyana beyond posture', 'dhyana not sitting or lying', 'dhyana procedure', 'draw in the mind', 'gather the mind', 'gathering mind', 'gruel and rice', 'hold the mind in', 'meal food', 'meal provision', 'monastery meal routine', 'monastery meals', 'monastic food', 'non-postural sitting dhyana', 'regulated sitting', 'rice and gruel', 'seated dhyana', 'sitting dhyana', 'sitting dhyana while lying down', '一不成、二不是'], lost ['Zen not sitting or lying', 'Zen while seated', 'hold the mind collected', 'restrain the mind', 'seated Zen work', 'sitting Zen', 'sitting Zen beyond posture', 'sitting Zen while lying down', 'two daily meals'], changed []
+order inversions outside products: 0 []
+
+=== t_ea2a427c7aba 坐禪 1113a21 (on main) ===
+  kwic: 集眾坐堂。如尋常坐禪向內坐。鼓鳴則轉身向外坐。
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / "the monastic code's institutional voice"
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, imperially re-edited by Dongyang Dehui (元 德煇重編), assembles the community in the hall, states that ordinary sitting Chan faces inward, and directs everyone to turn outward when the drum sounds
+
+=== t_ea2a427c7aba 坐禪 1143a07 (on main) ===
+  kwic: 於閒靜處厚敷坐物。結跏趺坐。或半跏趺。以左掌安右掌上。兩大拇指相拄。正身端坐。令耳與肩對。鼻與臍對。舌拄上腭唇齒相著。目須微開。免致昏睡。若得禪定其力最勝。古習定高僧坐常開目。法雲圓通禪師呵人閉目坐禪。謂黑山鬼窟。有深旨矣。
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / "the monastic code's institutional voice"
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs sitting in a quiet place on a thick seat, in the full or half cross-legged position, the left palm resting on the right with the thumbs touching, the body upright with the ears to the shoulders and nose to the navel, the tongue against the upper palate, and the eyes slightly open to avoid drowsiness, and records the rebuke of sitting with closed eyes as a black mountain ghost cave
+
+=== t_ea2a427c7aba 坐禪 1143a12 (on main) ===
+  kwic: 一切善惡都莫思量。念起即覺。常覺不昧不昏不散。萬年一念非斷非常。此坐禪之要術也。坐禪乃安樂法門。而人多致疾者。蓋不得其要。
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / "the monastic code's institutional voice"
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's titled Rules for Sitting Chan (坐禪儀) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs thinking neither good nor evil and noticing the moment a thought arises, calls this the essential procedure of sitting Chan and sitting Chan a gate of ease, and notes that many are harmed by missing its essentials
+
+=== t_ab715aa474d5 一日不作一日不食 1144b03 (on main) ===
+  kwic: 並宜齊赴。當思古人一日不作一日不食之誡。
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / "the monastic code's institutional voice"
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)
+
+=== t_351fa42d396b 粥飯 1127c04 (on main) ===
+  kwic: 二時上粥飯。三時上茶湯。大眾諷經
+  MasterName: None
+  ContextMasters: [{"MasterName": "Dongyang Dehui", "Roles": ["compiler"]}]
+  Actor: impersonal / institutional procedure / "the monastic code's institutional voice"
+  note: Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras
+
+=== t_968a2f97c9ff 一不成，二不是 SearchAliases ===
+  ["one fails, two is wrong", "一不成、二不是"]
+
+=== t_057cc9ea8755 攝心 occ-3 note (compiler provenance) ===
+  Source record (X/X70/X70n1399.xml). Shiwu Qinghong: Sayings (石屋清洪禪師語錄), compiled by his disciples (至柔等編): in the verse 'Sending Off the Idle Attendant to Return Home and Visit His Teacher' (送慵侍者回里省師): Shiwu Qinggong list
+
+=== t_351fa42d396b 粥飯 staged s1 Explanation ===
+     The joined food words also name a monastery's scheduled communal meals and their provision.
+     The Imperially Revised Baizhang Monastic Code, redacted by Dongyang Dehui, schedules gruel and rice at two times and tea and hot water at three (二時上粥飯。三時上茶湯。). [CJK]
+     Zhaozhou Congshen likewise says that, during his travels, the two scheduled gruel-and-rice meals were the only occasions that divided his attention (除二時粥飯是雜用心處). [CJK]
+     Baoning Renyong calls himself a gruel-and-rice host (粥飯主人) who receives travellers from north and south with salt, vinegar, sufficient gruel, and sufficient rice. [CJK]
+     Here the headword is not merely a list of two foods: it names recurring communal provision, its timetable, and the host responsible for it.
+     Zen bends the ordinary food pair into the institutional vocabulary of monastery scheduling and hospitality.
+
+RelatedMasters 351fa: ["Baizhang Huaihai", "Dongyang Dehui", "Zhaozhou Congshen", "Baoning Renyong"]
+RelatedMasters ab715: ["Baizhang Huaihai", "Dongyang Dehui", "Hongzhi Zhengjue"]

@@ -1,0 +1,526 @@
+{
+  "schemaVersion": "r1b-edit-receipt",
+  "lane": "R1b",
+  "cloneHead": "87a6975",
+  "engine": "r1b_transform_20260903.py",
+  "applied": true,
+  "products": [
+    "t_022d58242948",
+    "t_044652c7b411",
+    "t_05659eb4122a",
+    "t_0c53a5a2243b",
+    "t_1383f942789d",
+    "t_13951a5b5260",
+    "t_1b94d664ca7a",
+    "t_32289452a85b",
+    "t_36b1824beee5",
+    "t_3b9857d1cc19",
+    "t_41476f956295",
+    "t_428c42ea1c8f",
+    "t_4b1aa91dd297",
+    "t_4e0636f53520",
+    "t_50d75aeeeef1",
+    "t_5306489d35c6",
+    "t_5ab995298e4e",
+    "t_5b93919eced9",
+    "t_76ee526a2b16",
+    "t_88dac6848042",
+    "t_9ba11d160033",
+    "t_a5ffef8b3f2d",
+    "t_aa45c307e9f1",
+    "t_acd15cd3ba91",
+    "t_b4c37e2f25c3",
+    "t_b97e19fa54b2",
+    "t_bea7c499e294",
+    "t_c513dc22845c",
+    "t_c945c2cc0e79",
+    "t_c968c2829eeb",
+    "t_cf2b777134bb",
+    "t_d26799ff3ae1",
+    "t_d7725cb0c8c0",
+    "t_dc24f92ead78",
+    "t_e52f4bdc4110",
+    "t_e9adcb470950",
+    "t_ea85b794ca42",
+    "t_ef5beb628603",
+    "t_f0cb4dcfc70c",
+    "t_f26addce7844",
+    "t_f5e1fe96407c",
+    "t_f9bb8b44b32f",
+    "t_fe03a2a24e00"
+  ],
+  "editClassCounts": {
+    "occ-remove-retired": 46,
+    "note-count-rewrite": 1
+  },
+  "editRecords": [
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_022d58242948",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "旨趣應須。博問先知將謂出家。貴求衣食佛先制律。啟",
+      "masterName": "Guishan Lingyou"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_044652c7b411",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "暫到相看。知客出。各觸禮三拜。暫到辭云。此際經過",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_05659eb4122a",
+      "si": 1,
+      "oi": 2,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "難追。教理未嘗措懷。玄道無因契悟。及至年高臈長。",
+      "masterName": "Guishan Lingyou"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_0c53a5a2243b",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "知客出。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_1383f942789d",
+      "si": 1,
+      "oi": 6,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "大禮三拜。胡跪合掌。善男子。汝既捨邪歸正。戒已周",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_13951a5b5260",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "第二卷上堂念誦小參結夏解夏冬年人事巡寮迎接請知事",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_1b94d664ca7a",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "問訊立也。知客引施主在知事上肩立。以上主事從",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_32289452a85b",
+      "si": 1,
+      "oi": 3,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "方便偷蘭燒指然香。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_36b1824beee5",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "卷上堂念誦小參結夏解夏冬年人事巡寮迎接請知事第三",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_3b9857d1cc19",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "點通眾煎點燒香法置食特為謝茶看藏經中筵齋出入警眾",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_41476f956295",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "看藏主白之。茶罷。藏主引至經堂案位前。各觸禮一拜",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_428c42ea1c8f",
+      "si": 1,
+      "oi": 1,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "惡者長惡知見。曉夕造惡。即目交報歿後沈淪。一失人",
+      "masterName": "Guishan Lingyou"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_4b1aa91dd297",
+      "si": 1,
+      "oi": 3,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "。嗔心忿起。便道佛法豈有與麼事。大悟不拘小節。更",
+      "masterName": "Fachang Yiyu"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_4e0636f53520",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "安籠占案不必著忙。欵細之間自然穩便。入寮煎點本為",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_50d75aeeeef1",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "安排香火。",
+      "masterName": null
+    },
+    {
+      "class": "note-count-rewrite",
+      "entry": "t_50d75aeeeef1",
+      "si": 1,
+      "before": "6 exact occurrences from 6 distinct works",
+      "after": "5 exact occurrences from 5 distinct works",
+      "postOccurrences": 5,
+      "postDistinctRels": 5
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_5306489d35c6",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "化主化主或侍者寮具州縣名目出膀召請發心。或知事頭",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_5ab995298e4e",
+      "si": 1,
+      "oi": 2,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "禪師小參褒禪山慧空禪師輪藏記慈照聰禪師住石門查待",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_5b93919eced9",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "休息。貪戀世間陰緣成質。從生至老一無所得。根本無",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_76ee526a2b16",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "既受沙彌戒法。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_88dac6848042",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "人。亦當詣寮迴禮。若欲掛搭。歇一兩日。詣堂司相看",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_9ba11d160033",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "苑清規目錄第一卷受戒護戒辨道具裝包旦過掛搭赴粥飰",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_a5ffef8b3f2d",
+      "si": 1,
+      "oi": 6,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "適奉堂頭和尚慈旨。令請某上座充某知事。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_aa45c307e9f1",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "頭首者謂首座書記藏主知客浴主。竝同已前和會知事之",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_acd15cd3ba91",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "成者難。諸寮供過要精勤。掃地煎茶莫厭頻。事眾若能",
+      "masterName": "Cishou Huaishen"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_b4c37e2f25c3",
+      "si": 1,
+      "oi": 4,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "重雕補註禪苑清規第六卷重雕補註禪苑清規第七卷大小",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_b97e19fa54b2",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "首座率大眾坐堂。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_bea7c499e294",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "滅。今再寫作大字。刻梓以傳。收者幸鑒。嘉泰壬戌虞",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_c513dc22845c",
+      "si": 1,
+      "oi": 5,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "否證大涅槃否誡沙彌誡沙彌未披剃前。准備五條正合披",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_c945c2cc0e79",
+      "si": 1,
+      "oi": 8,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "結制小參佛祖門風將委地。說著令人心膽碎。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_c968c2829eeb",
+      "si": 1,
+      "oi": 2,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "慈雲式懺主書紳願文",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_cf2b777134bb",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "主寮首座堂頭侍者第五",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_d26799ff3ae1",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "參頭以下起身近前云。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_d7725cb0c8c0",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "冬年人事巡寮迎接請知事第三卷監院維那典座直歲下知",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_d7725cb0c8c0",
+      "si": 1,
+      "oi": 3,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "客。為眾僧請召故有侍者。為眾僧看守衣鉢故有寮主。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_dc24f92ead78",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "右手仰把笠緣當右肩提之。拄杖之法。有枝者為觸頭。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_e52f4bdc4110",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "如是。院門今日幹甚事。是與不是住持人當一一處斷。",
+      "masterName": "Sixin Wuxin"
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_e9adcb470950",
+      "si": 1,
+      "oi": 6,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "既受聲聞戒。應受菩薩戒。此入法之漸也。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_ea85b794ca42",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "作大字。刻梓以傳。收者幸鑒。嘉泰壬戌虞八宣教謹咨",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_ef5beb628603",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "。不過十數下而已。不虞之事不可不慎。如發遣行者出",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_ef5beb628603",
+      "si": 1,
+      "oi": 4,
+      "relPath": "T/T48/T48n2023.xml",
+      "kwicHead": "眾僧迎待檀越故有知客。為眾僧請召故有侍者。為眾僧",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_f0cb4dcfc70c",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "住持人。亦當詣寮迴禮。若欲掛搭。歇一兩日。詣堂司",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_f0cb4dcfc70c",
+      "si": 1,
+      "oi": 2,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "掛搭了。如堂中有函櫃。即收行李安函櫃中鏁之。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_f26addce7844",
+      "si": 1,
+      "oi": 3,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "。大展三拜。收坐具。從首座位巡堂一匝。却到聖僧前",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_f5e1fe96407c",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "四知事赴參。",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_f9bb8b44b32f",
+      "si": 1,
+      "oi": 1,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "維那典座直歲下知事請頭首首座書狀藏主第四卷知客庫",
+      "masterName": null
+    },
+    {
+      "class": "occ-remove-retired",
+      "entry": "t_fe03a2a24e00",
+      "si": 1,
+      "oi": 4,
+      "relPath": "X/X63/X63n1245.xml",
+      "kwicHead": "監院維那典座直歲下知事",
+      "masterName": null
+    }
+  ],
+  "entryShas": {
+    "t_022d58242948": "4369017273e9b8104496626d94698b4739f9143d164c3c1c8d883474b43942f4",
+    "t_044652c7b411": "ea715dab4ba7889a8208ab5612c18fc401f27b07de97ef5d54d462aa59331134",
+    "t_05659eb4122a": "e55e1a326f7a7ff9bf408d75b511abc11f475288b8ae92454d1bada9a5c0965f",
+    "t_0c53a5a2243b": "4392c622d2dfd64f20495b4e045174c14e32013b44a7b8825c72718f73867fb5",
+    "t_1383f942789d": "226e08fc01f81656d4423450e753c363831953598b514f56bb03f2aa3f373f6c",
+    "t_13951a5b5260": "e7b2ccfde6e00427fd385021ddfc79c968c51c38f4cb244f85287361157e61ce",
+    "t_1b94d664ca7a": "3992b2a2c041b1742968bd17ebd87973234a8cceb1e0f84499f48baa000e3bb8",
+    "t_32289452a85b": "2780bf6108d126619d3c4bf3fb1240708ae9479dedf8aaf4b305433ca56d88af",
+    "t_36b1824beee5": "4f61ae27b0814217816bd7f1c4b5d429ab60f273abdac7d01826d01772f500fe",
+    "t_3b9857d1cc19": "9d0d514140ab7dcbaa3fd54f2c6d80ce2e9eaaf4f87fa0543efdb70cfc5a4b5a",
+    "t_41476f956295": "4aba54bf6b1a13f394aa7de805ad679e17d8d10827bf72842c95f25a22867698",
+    "t_428c42ea1c8f": "b5127a4231b207d564b1fa5865431bdcb9979ad96d6f8df7f5f8638ef0a4b7ad",
+    "t_4b1aa91dd297": "d7b97207627f768f1c08738a2a9e167fd04821dc14cc9daa6b37edf60f129a53",
+    "t_4e0636f53520": "804e5eb3133c2503e7ace7de4b74dc3d88192ef462f6463d97517c155603d671",
+    "t_50d75aeeeef1": "d795655f752542b4b1443a25d09ff1cef5e9e16fc7a5a8dac57475f5eb492f3c",
+    "t_5306489d35c6": "98dae286a6cdc0c996ae814e9f417519aec8d99cedb024b4d40ca622a653bd10",
+    "t_5ab995298e4e": "ad3eab345be44fc1feb6327fd1a18c732f18ef6c6fa3f0b6cb0cadda776c42ef",
+    "t_5b93919eced9": "814ea19203ca2f3914406b008255849f42abb78969bac0d9eb8f6bc1fab43d60",
+    "t_76ee526a2b16": "a48875db10cb1940df48d6c400db44489c11a831d6961cf3a9efcf570bf74522",
+    "t_88dac6848042": "363282bb7d6b7b936065d1a77087cebbd5cbdca523332f1ce3c41aa8ccb2731f",
+    "t_9ba11d160033": "08a0f40278edb63824def736c3d9324892d599a905a7d54bc3e7765ee2495391",
+    "t_a5ffef8b3f2d": "2c4b51eb791a9b276a9a8e773833d14e47e6add8118079e27e0ec6eff5ba52e2",
+    "t_aa45c307e9f1": "8e77c30677085e68f8753ad5cf4cb8c84cc9dd066cc105243402f55501eff112",
+    "t_acd15cd3ba91": "b737214c762755b98e8ac2dcd2a230d3aed47bec1d23dec0faa9668ca497b816",
+    "t_b4c37e2f25c3": "8c690307e2db288bd042bd97bfc523fbcf23eb36d721d62b5d366063214182a3",
+    "t_b97e19fa54b2": "4839ceda3a98737c206b5719586dd48b6a719988fed23ce4a0cdea4f3d556965",
+    "t_bea7c499e294": "769d8b9eab3fee022add73d4e7f8e2c328cf5870a2864de3f956714f67db7bb0",
+    "t_c513dc22845c": "b24cf782caae867414fe7292ba9589110e88bff0a7a1dacf78f36cfb2aca2cc0",
+    "t_c945c2cc0e79": "51747aad4d5978e511d945c01edfe4723b88c5491eb5c9c17d78bce45b6409be",
+    "t_c968c2829eeb": "f21b5d44e6163f6178d5895e91426b802e7386c75700e4989a50ce7fdc4c3e2b",
+    "t_cf2b777134bb": "2af409dba73d1e87de50871a19fbc08b99bd24240ffa87676a14745bc5519c9d",
+    "t_d26799ff3ae1": "3ef1ca1ab30a81397223c4316b0a1b1f0910b7fa4d4bf97f1d58f7f1a0ccbf2a",
+    "t_d7725cb0c8c0": "f243515d6f06ad0e28790c90224c0c95991069a6c94891abe626f039366ffbfb",
+    "t_dc24f92ead78": "995b6bb609bdb769f603f053f77468fd0cb4ceb56fac2fb601bcf054bf4dc76e",
+    "t_e52f4bdc4110": "6186c1c1629ca43fa2683f87f338abb7f2354630692dfedb8a278520d88a151c",
+    "t_e9adcb470950": "a9fe908e491a970072f5459116e3142055e2a41dc76c68459198bc750e3da42e",
+    "t_ea85b794ca42": "e150a132f74388fe5962b16311d470c434071c42f3fa49d068cb54c3878f57d4",
+    "t_ef5beb628603": "3513aab087c7ff5b6f5a0461810db92e5b99d99d643ea486ebf3f76aa9313d6f",
+    "t_f0cb4dcfc70c": "bef0a2641e855c8e9fa2770586170dc049fb9a4e572ddf340c92b75696202a56",
+    "t_f26addce7844": "f03799c7e4034513929d136754baa9b6e387193c93eae85e6478a72924b15f0b",
+    "t_f5e1fe96407c": "45565a22218ff8e1cb167fe8e8baf582e34f1719c8b611e856c4a05c60b2cc8e",
+    "t_f9bb8b44b32f": "83b5bfe1f8d8500ecff3968e353e4b61f10027d2d5c8911a53319b471d2cffb2",
+    "t_fe03a2a24e00": "193b7d05e13275d51279c05684e391d0b0fb5e6e980416d2c842f13094dcaabc"
+  }
+}

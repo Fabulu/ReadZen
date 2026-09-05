@@ -1,0 +1,120 @@
+{
+  "Id": "t_41476f956295",
+  "SourceTerm": "燒香禮拜",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane C evidence-first full-context canary",
+  "WrittenUtc": "2026-07-15T09:49:09.804467+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "burn incense and bow",
+      "AlternateTargets": [
+        "burn incense and make obeisance"
+      ],
+      "SearchAliases": [
+        "offer incense and bow",
+        "burn incense and make obeisance",
+        "incense and prostrations"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Sense and actor decisions were made from complete stored contexts before prose compilation.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0833a14",
+          "ToLb": "0833b03",
+          "Kwic": "年一念無古無今無聖無凡無男無女等相喚作一道清淨平等法門皆吾心常分非假於他術世間有此殊勝之事眾生日用而不知枉來南閻浮提打一遭虗生浪死誠為可惜不見永嘉大師因看維摩經有所悟徑往曹溪定宗旨纔見祖師更不燒香禮拜便遶禪床三帀振錫一下卓然而立祖師曰夫沙門具三千威儀八萬細行行行無虧大德從何方而來生大我慢你看祖師門戶大波瀾闊永嘉把他所得處作一檐子送在祖師面前却只喚他底作我慢永嘉云生死事大無常迅速你道這箇道理",
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue (大慧普覺禪師普說): Dahui Zonggao utters the exact headword-bearing clause.",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "MasterName": "Dahui Zonggao",
+          "Curated": true
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1121a10",
+          "ToLb": "1121a20",
+          "Kwic": "灑掃。午後堂司行者報眾。掛念誦牌。至參前。檢點僧堂及諸殿堂香燭完備。覆住持兩序。先鳴方丈板照堂板。次巡廊鳴板住持出。緩鳴大板三下。眾集依圖立定。暫到於侍者下肩立。侍者隨住持。到祖堂土地堂。大殿燒香禮拜。鳴大鐘。兩序預集堂外。大板鳴方歸圖位。住持入堂供頭鳴堂前鐘。七下。聖僧前燒香。侍者捧香合。書狀侍者徑歸位。請客侍者即往西序問訊。請湯巡過。次請東序就歸位。住持出堂外中立。燒香侍者隨出歸位。維",
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Imperially Commissioned Baizhang Monastic Regulations. Exact voice: the procedural compiler; action performer: the resident abbot.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "source narration",
+            "ActorLabel": "the named or documentary voice preserved in 勅修百丈清規",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The regulation narrates the resident abbot going to the halls to burn incense and bow. Action performer: the resident abbot (reviewed-unnamed).",
+            "ReviewedBy": "Codex f004 lane C full-context author",
+            "ReviewedUtc": "2026-07-15T09:49:09.804467+00:00"
+          },
+          "Curated": true
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0331b09",
+          "ToLb": "0331b18",
+          "Kwic": "話。五祖和尚道：古人留下一言半句，未透得時，如銀山鐵壁；及乎透得了，元來鐵壁銀山便是。我敢問諸人透得也未？若要透得，第一須是退步就己，不得向外馳求；第二須是令暖氣相接；第三不可令雜毒入心。且如燒香禮拜、看經寫字、看文字，一切雜事，總是向外馳求。今日做工夫一上，明日又放慢，半信半疑，半進半退，便是暖氣不相接。乃至䇿子上念將來，模子裏脫將去，咂啖古人涎唾，便是雜毒入心。要得無這許多般病痛，須是",
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun (石田法薰禪師語錄): Shitian Faxun utters the headword in his own formal general address. ",
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "Curated": true,
+          "MasterName": "Shitian Faxun"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0714b18",
+          "ToLb": "0714c05",
+          "Kwic": "何更教他打破釘鉸便會師代云且釘者一縫師問新到離什麼處云雪峯來師云雪峯有什麼言句示人云雪峯尋常道盡十方世界都來是沙門一隻眼你諸人向什麼處屙師云你若回寄闍梨一箇鍬子去有俗行者到院燒香師問僧伊在那裏燒香禮拜我又共你在者裏語話正󲟏麼時生在那頭僧云和尚是什麼師云󲟏麼即在那頭也云󲟏麼已是先也師笑之師󲟏小師文遠論義不得占勝占勝者輸餬餅師云我是一頭馿遠云我是馿胃師云我是馿糞遠云我是糞中䖝師云你在彼中作麼遠",
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): The explicit master/questioner exchange assigns the headword-bearing speech to Zhaozhou Congshen. ",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "Curated": true,
+          "MasterName": "Zhaozhou Congshen"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1245.xml",
+        "X/X70/X70n1386.xml",
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [
+        "燒香",
+        "禮拜"
+      ],
+      "Explanation": "To burn incense and bow is a public monastic act of reverence, ordered in hall routines and conspicuous when a visitor omits it. The rules place the paired actions before images and scriptures. Dahui retells Yongjia’s arrival as striking precisely because he circles the seat without first performing them; Shitian lists them among outward occupations when pressing hearers to turn back to their own work."
+    }
+  ]
+}

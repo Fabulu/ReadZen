@@ -1,0 +1,237 @@
+{
+  "Id": "t_cf0513be4012",
+  "SourceTerm": "宗旨",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra luna154r5 semantic author",
+  "WrittenUtc": "2026-08-09T10:20:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the essential purport",
+      "AlternateTargets": [
+        "the guiding purport",
+        "the fundamental purport",
+        "the gist"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The essential purport is the defining point of a lineage, house, text, or public claim.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0043a17",
+          "ToLb": "0043a17",
+          "Kwic": "外付袈裟。以定宗旨。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium. (五燈會元): Bodhidharma utters the exact headword-bearing wording in the complete source unit.",
+          "MasterName": "Bodhidharma",
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0015c02",
+          "ToLb": "0015c02",
+          "Kwic": "達磨面壁而宗旨付於神光。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). (五燈全書(第34卷-第120卷)): Liu Jingchen utters the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "ContextActors": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Liu Jingchen",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Liu Jingchen owns the exact headword-bearing turn in the complete case.",
+            "ReviewedBy": "Codex Cohort010 lane A repair",
+            "ReviewedUtc": "2026-07-26T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0041c05",
+          "ToLb": "0041c05",
+          "Kwic": "得悟黃龍宗旨",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). (五燈全書(第34卷-第120卷)): Compiler narration owns the exact headword-bearing narrated action or biography.",
+          "MasterName": null,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Lin",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "narrated action or biography",
+            "ActorLabel": "source narrator",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "Narrative syntax reports the action or biographical fact rather than quoting the participant saying the headword.",
+            "ReviewedBy": "Codex f001 lane A independent-review repair",
+            "ReviewedUtc": "2026-07-15T00:00:00Z"
+          },
+          "ContextActors": []
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0702a11",
+          "ToLb": "0702a11",
+          "Kwic": "建法幢、立宗旨者，是和尚尋常茶飯。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). (五燈全書(第34卷-第120卷)): The monastic questioner is unnamed and owns the exact headword-bearing questioner turn.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic questioner",
+            "ActorLabel": "unnamed monastic questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The marked question assigns the exact wording to an unnamed monastic; the teacher responds afterward.",
+            "ReviewedBy": "Codex f001 lane A independent-review repair",
+            "ReviewedUtc": "2026-07-15T00:00:00Z"
+          },
+          "MasterName": null,
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0587a07",
+          "ToLb": "0587a07",
+          "Kwic": "乃集大成、乃定宗旨",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. (天界覺浪盛禪師全錄): Xu Fang utters the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [],
+          "ContextActors": [],
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Xu Fang",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Xu Fang owns the exact headword-bearing turn in the complete case.",
+            "ReviewedBy": "Codex Cohort010 lane A repair",
+            "ReviewedUtc": "2026-07-26T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0130a01",
+          "ToLb": "0130a02",
+          "Kwic": "心，外付袈裟以定宗旨。』正好劈脊一棒，用",
+          "MasterName": "Bodhidharma",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. (三峰藏和尚語錄): Bodhidharma utters the exact headword-bearing wording in the complete source unit. Sanfeng Fazang is the outer later raiser and record owner.",
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            }
+          ],
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Sanfeng Fazang",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ],
+              "GrammarEvidence": "The quotation occurs inside Sanfeng Fazang's recorded sayings while Bodhidharma remains the quoted original speaker."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0008b02",
+          "ToLb": "0008b03",
+          "Kwic": "君同。君今欲會通宗旨，後夜猿啼在亂峰。上",
+          "MasterName": "Baizhang Daoheng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25). (五燈嚴統(第10卷-第25卷)): the Baizhang Daoheng section says “the master presented a verse” and thereby assigns “you now wish to comprehend and unite the purport” to Baizhang Daoheng’s verse.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Daoheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X80/X80n1565.xml",
+        "X/X82/X82n1571.xml",
+        "J/J34/J34nB311.xml",
+        "J/J34/J34nB299.xml",
+        "X/X83/X83n1578.xml",
+        "X/X81/X81n1568.xml"
+      ],
+      "RelatedMasters": [
+        "Bodhidharma",
+        "Huike",
+        "Shishuang Lin",
+        "Baizhang Daoheng"
+      ],
+      "RelatedTerms": [
+        "宗風",
+        "家風",
+        "正法眼藏"
+      ],
+      "SearchAliases": [
+        "the guiding purport",
+        "the fundamental purport",
+        "the gist",
+        "the essential purport"
+      ],
+      "Explanation": "In the records, the essential purport is the defining point of a lineage, house, text, or public claim. Bodhidharma’s quoted transmission formula says the robe is entrusted outwardly “to establish the purport.” Later raisers preserve that quoted voice. Biography speaks of awakening to Huanglong’s purport, an unnamed monk calls establishing it ordinary fare, and Xu Fang uses the term for a collected record."
+    }
+  ]
+}

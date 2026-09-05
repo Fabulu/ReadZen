@@ -1,0 +1,120 @@
+{
+  "Id": "t_cf9506b17745",
+  "SourceTerm": "薰風自南來",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Terra semantic author luna155r4",
+  "WrittenUtc": "2026-08-09T15:26:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the fragrant wind comes from the south",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the fragrant wind comes from the south",
+        "the south wind brings fragrance"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The opening half of the paired case wording “薰風自南來，殿閣生微涼,” used as a compact answer or raised phrase rather than an independent weather description.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0093b12",
+          "ToLb": "0093b20",
+          "Kwic": "與師一言相契，下榻延之，名師庵曰妙喜。洎後再謁，且囑令見圓悟。師至天寧，一日，聞悟陞堂，舉：僧問雲門：如何是諸佛出身處？門曰：東山水上行。若是天寧即不然，忽有人問：如何是諸佛出身處？只向他道：薰風自南來，殿閣生微涼。師於言下，忽然前後際斷，雖然動相不生，却坐在淨躶躶處。悟謂曰：也不易，你得到這田地，可惜死了不能得活，不疑言句，是為大病。不見道：懸崖撒手，自肯承當。絕後再蘇，欺君不得。須信有這",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "student",
+                "person-described"
+              ]
+            }
+          ],
+          "Curated": true,
+          "MasterName": "Yuanwu Keqin",
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Yuanwu Keqin gives the exact couplet in Dahui Zonggao’s biography; Dahui hears the address, awakens, and is the materially described student.",
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0580b22",
+          "ToLb": "0580b30",
+          "Kwic": "通方過量人，非但吸盡東海水，猶把秦山一口吞。且道：東海水作麼生吸？秦駐山作麼生吞？大眾還會麼？鶴飛千丈雪，龍起一潭冰。」上堂。「施主一粒米，大如須彌山，若人不了道，披毛戴角還。」卓拄杖，云：「薰風自南來，殿角生微涼。」馬鳴菴，上堂。「本是無形，咸曰神靈；本是無聲，咸曰馬鳴。風來則草偃，水到則渠成，不假半點安排，寧許絲毫湊泊。伶俐漢領在言前、薦於機外，便知長安自鬧，我國晏然；脫或未能，山僧未免",
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "Curated": true,
+          "MasterName": "Fushi Tongxian",
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi (浮石禪師語錄): Fushi Tongxian directly gives the complete south-wind couplet in a hall address.",
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0240a10",
+          "ToLb": "0240a19",
+          "Kwic": "淺交涉。然雖如是，只如興化於大覺脫下衲衣，痛與一頓，言下悟得臨濟先師在黃檗處喫棒底道理又作麼生？玅觸宣明佛子住，遺身純覺拂蒿枝。」下座。上堂。師舉諸佛出身處話，云：「東山行水上，雲門坐斷千差；薰風自南來，佛果尋常一味。高峰道：『二老雖具頂門正眼，愨其本源，天地懸隔。』雖然，高峰也是填墨順朱，未解證龜成鱉。須知壁立萬仞處淨裸裸，平田淺艸裏峭危危，十字街頭相逢卻在千峰頂上握手，千峰頂上相逢卻在十",
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "Curated": true,
+          "MasterName": "Chaozong Tongren",
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong (朝宗禪師語錄): Chaozong Tongren directly raises the phrase while contrasting Yunmen and Yuanwu Keqin and quoting Gaofeng Yuanmiao.",
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "J/J26/J26nB185.xml",
+        "J/J34/J34nB300.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Fushi Tongxian",
+        "Chaozong Tongren",
+        "Yunmen Wenyan",
+        "Gaofeng Yuanmiao"
+      ],
+      "RelatedTerms": [
+        "東山水上行"
+      ],
+      "Explanation": "The fragrant wind comes from the south is the opening half of the paired response “薰風自南來，殿閣生微涼.” In the Complete Five Lamps biography, Dahui Zonggao hears Yuanwu Keqin give that reply in contrast to Yunmen’s East Mountain image. Fushi Tongxian uses the full couplet in a hall address, and Chaozong Tongren raises it while discussing Yunmen, Yuanwu, and Gaofeng. The wording functions as a portable case phrase."
+    }
+  ]
+}

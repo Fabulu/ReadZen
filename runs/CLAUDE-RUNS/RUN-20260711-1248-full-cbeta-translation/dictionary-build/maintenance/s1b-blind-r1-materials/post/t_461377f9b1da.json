@@ -1,0 +1,138 @@
+{
+  "Id": "t_461377f9b1da",
+  "SourceTerm": "顧鑒咦",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "look—‘look!’—‘hah!’",
+      "AlternateTargets": [
+        "Yunmen's look—‘look!’—‘hah!’",
+        "look—‘reflect!’—‘hah!’"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained witnesses keep the ordinary looking verbs and exclamation as the stable name of Yunmen’s encounter sequence. “Drawn look” remains a related shortened form, not a second sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0380c24",
+          "ToLb": "0380c25",
+          "Kwic": "師有時顧視僧曰：「鑒。」僧擬對之，則曰：「咦。」叢林因目師為顧鑒咦。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen (雲門匡真禪師語錄): Compiler narration owns the exact headword-bearing community naming of Yunmen’s sequence.",
+          "MasterName": null,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-described",
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "community naming of Yunmen’s sequence",
+            "ActorLabel": "case narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword is in narrator-governed action or reporting prose, not in the participant’s quoted speech.",
+            "ReviewedBy": "Codex lane-C targeted repair",
+            "ReviewedUtc": "2026-07-16T09:35:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X85/X85n1593.xml",
+          "FromLb": "0501b13",
+          "ToLb": "0501b14",
+          "Kwic": "僧問：覿面相逢處，如何顧鑒咦？乞師垂半偈，免使後人疑。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X85/X85n1593.xml). Orthodox Line of the Chan School (禪宗正脉): The actor is unnamed: Orthodox Line of the Chan School (禪宗正脉): an unnamed questioning monk owns the exact headword-bearing turn; source and actor are stated once.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zifu Quan",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "person",
+            "ActorLabel": "an unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex hard-w1-remaining300 research-residual-six",
+            "ReviewedUtc": "2026-07-14T00:00:00Z",
+            "GrammarEvidence": "The complete-case markers assign the headword-bearing clause to an unnamed questioning monk, rather than to a section owner or respondent."
+          }
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0777a16",
+          "ToLb": "0777a16",
+          "Kwic": "雲門顧鑒咦。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi (雲溪俍亭挺禪師語錄): Liangting Jingting utters the exact headword-bearing wording in the complete source unit.",
+          "MasterName": "Liangting Jingting",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "X/X85/X85n1593.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Zifu Quan",
+        "Liangting Jingting"
+      ],
+      "RelatedTerms": [
+        "俱胝一指",
+        "一字關",
+        "截斷眾流",
+        "抽顧",
+        "隨波逐浪"
+      ],
+      "SearchAliases": [
+        "look—‘look!’—‘hah!’",
+        "Yunmen's look—‘look!’—‘hah!’",
+        "look—‘reflect!’—‘hah!’"
+      ],
+      "Explanation": "The expression names Yunmen’s repeated sequence: he looks toward the interlocutor, says “Look!”, and cuts off the attempted answer with “Hah!” Yunmen’s own recorded sayings preserve the sequence and its monastic name. Liangting Jingting uses the compact phrase as Yunmen’s named case, while an unnamed monk asks how it works face to face. The fixed unit is that recorded look and two utterances, not an abstract three-word maxim."
+    }
+  ]
+}

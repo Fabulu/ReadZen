@@ -1,0 +1,119 @@
+{
+  "Id": "t_4c3f44abf01c",
+  "SourceTerm": "答處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Luna175 r2 Terra source-transport author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the answer point",
+      "AlternateTargets": [
+        "the answering side"
+      ],
+      "SearchAliases": [
+        "where the answer lies",
+        "the answering side"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained source transport supports one exchange-structural sense; related uses do not require a further split.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0149c26",
+          "ToLb": "0150a07",
+          "Kwic": "底人自然合轍。一似安排來相似。不見有一外道。手握雀兒。來問世尊云。且道某甲手中雀兒。是死耶是活耶。世尊遂騎門閫云。爾道我出耶入耶外道無語。遂禮拜。此話便似這公案。古人自是血脈不斷。所以道。問在答處。答在問處。雪竇如此見得透。便道句裏呈機劈面來。句裏有機。如帶兩意。又似問人。又似問境相似。趙州不移易一絲毫。便向他道。東門西門南門北門。爍迦羅眼絕纖埃。此頌趙州人境俱奪。向句裏呈機與他答。此",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo: Yuanwu Keqin utters the headword-bearing wording.",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0240b02",
+          "ToLb": "0240b14",
+          "Kwic": "脫盡簾纖到不知任短任長休剪綴隨高隨下自平治家門豐儉臨時用田地優游信步移三十年前行脚事分明辜負一雙眉師云。宗鏡道。從來迷悟似迷。今日悟迷非悟。所以道。悟了還同未悟人。地藏問時。要知發足道理。法眼答處。亦非謙讓推辭。地藏就便。一提道。不知最親切。法眼大悟元來這不知却親切。臨濟問洛浦甚處來。浦云。欒城來。濟云。有事相借問得否。浦云。某甲不會。濟云。打破大唐國。覓箇不會底不得。臨濟常用殺人刀。",
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Wansong Xingxiu utters the headword-bearing wording.",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0270b07",
+          "ToLb": "0270b15",
+          "Kwic": "花五葉之懸讖也。大抵所傳之法，本無有異，為各立門庭，施設不同。此女人拜者，乃溈仰之機用也。彼宗有九十七種圓相，復以六門總攝：一曰圓相，二曰義海，三曰暗機，四曰多字學，五曰意語，六曰默論。今道吾答處，暗機、默論，覿面相呈。深奧玄關，兩手分付。休云窅漠，閴爾難窺。正眼觀來，已成漏逗。既被傍人󳬇破，賞伊即是？罰伊即是？是他投子，自知下落。頌曰：驪龍海臥瑞雲高，四望歸宗萬派潮。木人來問西宮事，",
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Linquan Conglun utters the headword-bearing wording.",
+          "MasterName": "Linquan Conglun",
+          "Curated": true
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0048c15",
+          "ToLb": "0048c24",
+          "Kwic": "疑請問。資福邃禪師，上堂：隔江見資福剎竿便回去，脚根下好與三十棒，況過江來？時有僧纔出，師曰：不堪共語。芭蕉徹禪師，上堂：眼中無翳，空裏無花。水長船高，泥多佛大。莫將問來，我也無答。會麼？問在答處，答在問處。便下座。臨濟玄禪師上堂，僧問：如何是真佛、真法、真道？乞師開示。師曰：佛者，心清淨是；法者，心光明是；道者，處處無礙淨光是。三即一，皆是空名而無實有。如真正作道人，念念心不間斷。自",
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: Bajiao Huiche utters the headword-bearing wording.",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "named monastic teacher",
+            "ActorLabel": "Bajiao Huiche",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The complete passage names Bajiao Huiche as the headword actor, but the read-only lineage roster supplies no canonical node.",
+            "ReviewedBy": "Codex cohort 033 lane B owner repair",
+            "ReviewedUtc": "2026-07-27T00:00:00Z"
+          },
+          "Curated": true
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "T/T48/T48n2004.xml",
+        "X/X67/X67n1303.xml",
+        "X/X64/X64n1260.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Wansong Xingxiu",
+        "Linquan Conglun"
+      ],
+      "RelatedTerms": [
+        "答話"
+      ],
+      "Explanation": "The answer point is the place within an exchange where the response operates, often paired with the claim that the question is already there. Yuanwu Keqin and the preserved Bajiao Huiche case place question and answer in each other’s point; Wansong Xingxiu and Linquan Conglun use 答處 while analyzing specific responses. The phrase marks where an answer works inside an exchange, not a separate kind of answer."
+    }
+  ]
+}

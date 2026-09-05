@@ -1,0 +1,143 @@
+{
+  "Id": "t_002c7f0ec57e",
+  "SourceTerm": "祖塔",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "luna168r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "patriarch’s stupa",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "patriarch’s stupa"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained clauses use the phrase for a memorial structure or the event concerning one.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0612c25",
+          "ToLb": "0612c27",
+          "Kwic": "教人恨五更風。」掃晟祖塔，櫟山和尚請上堂。拈",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Pinjixiang Sayings (頻吉祥禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 賤。何故？自是桃花貪結子，錯教人恨五更風。」掃晟 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J39/J39nB453.xml",
+          "FromLb": "0569a08",
+          "ToLb": "0569a09",
+          "Kwic": "文運自天開。」掃無住祖塔，上堂。「類之弗齊，",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB453.xml). Yuanjie Ying Sayings (元潔瑩禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 緣的句？千古宗風重此建，一朝文運自天開。」掃無住 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X65/X65n1278.xml",
+          "FromLb": "0061b23",
+          "ToLb": "0061b24",
+          "Kwic": "雲作紙錢。禮祖塔",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X65/X65n1278.xml). Sea of Poisons (禪宗雜毒海). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 簷頭上更無天，而今冷地思量著，細擘春雲作紙錢。禮 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J39/J39nB454.xml",
+        "J/J39/J39nB453.xml",
+        "X/X65/X65n1278.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0612c25",
+          "ToLb": "0612c27",
+          "Kwic": "教人恨五更風。」掃晟祖塔，櫟山和尚請上堂。拈",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Pinjixiang Sayings (頻吉祥禪師語錄). Speaker: the compiler of this record.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler of this record",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The literal boundary 賤。何故？自是桃花貪結子，錯教人恨五更風。」掃晟 locates the expression in the source record.",
+            "ReviewedBy": "U2 complete-case review",
+            "ReviewedUtc": "2026-07-21T00:30:00Z",
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ClaimText": "祖塔"
+        }
+      ],
+      "Explanation": "A patriarch's stupa is a memorial tower attached to a lineage predecessor. The two recorded-sayings headings announce sweeping the stupas of Sheng and Wuzhu before a hall address, while the Record of the Great Peace Era says ‘pay respects at the patriarch's stupa.’ These are documentary or event clauses, not spoken definitions."
+    }
+  ]
+}

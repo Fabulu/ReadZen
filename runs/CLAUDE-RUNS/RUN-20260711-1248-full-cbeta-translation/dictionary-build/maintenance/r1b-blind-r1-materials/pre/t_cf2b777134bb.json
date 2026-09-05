@@ -1,0 +1,227 @@
+{
+  "Id": "t_cf2b777134bb",
+  "SourceTerm": "堂頭",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex construction Lane B fresh author",
+  "WrittenUtc": "2026-07-17T05:48:00.115946+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the abbot",
+      "AlternateTargets": [
+        "hall head",
+        "monastery abbot",
+        "teacher presiding over the hall"
+      ],
+      "SearchAliases": [
+        "the abbot",
+        "hall head",
+        "monastery abbot",
+        "teacher presiding over the hall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "6 exact witnesses from 6 distinct canonical works.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522c04",
+          "ToLb": "0522c05",
+          "Kwic": "主寮首座堂頭侍者第五",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations: The compiler supplies the exact headword-bearing narration; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 堂頭 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:38:57.447918+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0039c24",
+          "ToLb": "0040a02",
+          "Kwic": "者段公案正要向明眼人前判斷，今日既親到師翁法窟，承堂頭法兄和尚為眾推出，登師翁堂、踞師翁座，問上座豈敢掩耳偷鈴？",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: The unnamed visiting teaching-heir speaking in the hall supplies the exact headword-bearing words; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "hall-address speaker",
+            "ActorLabel": "the unnamed visiting dharma-heir speaking in the hall",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The first-person 登師翁堂 statement names 堂頭法兄和尚 inside the visitor’s own address.",
+            "ReviewedBy": "Codex Lane B odd independent repair",
+            "ReviewedUtc": "2026-07-17T05:48:00.115946+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0621a09",
+          "ToLb": "0621a10",
+          "Kwic": "住持玉西堂頭首住持出",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations: The compiler supplies the exact headword-bearing narration; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 堂頭 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:38:57.447918+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0012c01",
+          "ToLb": "0012c09",
+          "Kwic": "師便打。曰：恁麼則一句流通，天人聳耳。師曰：祇恐不是玉，是玉也大奇。曰：專為流通。師曰：一任亂道在。天衣受請，上堂：吳江聖壽見召住持，進退不遑，且隨緣分。此皆堂頭和尚提耳訓育，終始獎諭。若據今日，正令當行，便好一棒打殺，那堪更容立在座前？雖然如是，養子方見父慈。和州開聖院棲禪師和州開聖院棲禪師開堂，垂語曰：選佛場開，人天普會。",
+          "Curated": true,
+          "MasterName": "Tianyi Yihuai",
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120): Tianyi Yihuai utters the exact headword-bearing words; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0079a04",
+          "ToLb": "0079a14",
+          "Kwic": "蹤跡西東兄遊天外余戲圜中世出世間皆大英雄不負先師舊衲蒙茸眉毛結共鼻孔氣通󲏭谿正脈臨濟真宗是木上座亦號山翁法弟通表黃毓祺頓首贊。開堂疏天童開堂疏天童開堂疏恭惟天童堂頭山翁大和尚出身東粵異𣍘谿之目不識丁奮迹儒衣勝丹霞之語猶帶腐頫從人望嗣主天童點末後灮明炤地炤天千丈法幢高豎了見成公案打風打雨一條拄杖橫拈時屆仲春月維望日向者娑羅雙",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min: The unnamed huang yuqi, author of the opening-hall document supplies the exact headword-bearing words; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "document author",
+            "ActorLabel": "the unnamed Huang Yuqi, author of the opening-hall document",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The signed 天童開堂疏 uses 天童堂頭 as an institutional title in authored prose.",
+            "ReviewedBy": "Codex Lane B odd independent repair",
+            "ReviewedUtc": "2026-07-17T05:48:00.115946+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1122c25",
+          "ToLb": "1123a08",
+          "Kwic": "某右某輒以來日就寢堂聊備水飯。伏望尊慈特垂降重。謹狀年月日具位狀當寺首座比丘某右某輒以來日拜請舉揚宗旨開示後學。伏望尊慈俯垂開允。謹狀年月日具位狀可漏子狀請某處堂頭和尚禪師具位謹封施主請陞座齋僧施主請陞座齋僧施主到門。知容接見引上方丈。獻茶湯。送安下處。若官貴大施主。當鳴鐘集眾門迎。送安下處定。施主却請知事商議。同上方丈。",
+          "Curated": true,
+          "MasterName": null,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The compiler supplies the exact headword-bearing narration; the complete case, not record ownership alone, determines this attribution.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The exact 堂頭 clause is unquoted narration in the complete supplied case; nearby named figures are grammatical subjects or context, not utterers.",
+            "ReviewedBy": "Codex Lane B one-by-one repair",
+            "ReviewedUtc": "2026-07-17T03:38:57.447918+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0558c11",
+          "ToLb": "0558c19",
+          "Kwic": "以上乃性覺妙明之說，更有本覺明妙之理，實有口道不出。若是鐵漢子，到此自然領會，亦不煩圓明重下註脚也。擲筆慚惶處，三十年後，自有無面目人證明。天下叢林拈椎豎拂，堂頭動輒言放行也恁麼恁麼，把住也恁麼恁麼，拈起也恁麼恁麼，放下也恁麼恁麼，實令人發一大笑。愚何至此，尚敢大言，將此謂我為法王，於法自在，實不解此輩具何面皮肚腸也。此事本不動搖，阿誰放行把住？",
+          "Curated": true,
+          "MasterName": null,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings: The unnamed named treatise author supplies the exact headword-bearing words; the complete case, not record ownership alone, determines this attribution.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "authored critic",
+            "ActorLabel": "the unnamed named treatise author",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The prose criticizing how 堂頭 routinely speaks is authored argument, not impersonal compiler narration.",
+            "ReviewedBy": "Codex Lane B odd independent repair",
+            "ReviewedUtc": "2026-07-17T05:48:00.115946+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X64/X64n1260.xml",
+        "X/X63/X63n1250.xml",
+        "X/X82/X82n1571.xml",
+        "L/L155/L155n1643.xml",
+        "T/T48/T48n2025.xml",
+        "X/X68/X68n1319.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyi Yihuai"
+      ],
+      "RelatedTerms": [
+        "堂頭和尚",
+        "方丈"
+      ],
+      "Explanation": "The hall head is the abbot or presiding teacher of a monastery. Records use the title in appointments, direct address, and institutional narration; it names an office, not every master who happens to enter a hall."
+    }
+  ]
+}

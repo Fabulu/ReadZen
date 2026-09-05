@@ -1,0 +1,276 @@
+{
+  "Id": "t_fe03a2a24e00",
+  "SourceTerm": "維那",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane B evidence-first",
+  "WrittenUtc": "2026-07-15T03:53:56.219535+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "hall coordinator",
+      "AlternateTargets": [
+        "monastic hall coordinator",
+        "karmadāna"
+      ],
+      "SearchAliases": [
+        "hall officer",
+        "monastic coordinator",
+        "assembly coordinator",
+        "chant leader",
+        "karmadana"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The stored evidence defines one institutional office through its duties and placement. English “rector” is omitted because it obscures the hall-and-assembly functions evidenced here.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1113a05",
+          "ToLb": "1113a06",
+          "Kwic": "維那先五日袖紙帶堂司行者",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): Compiler narration owns the exact headword-bearing compiler narration or documentary heading.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the Revised Baizhang Pure Rules procedural clause",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The Revised Baizhang Pure Rules (勅修百丈清規) prescribes that the hall coordinator, five days beforehand, carry paper and bring a hall-office assistant; this is institutional regulation, not quoted master speech.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940576+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X63/X63n1250.xml",
+          "FromLb": "0620b14",
+          "ToLb": "0620b15",
+          "Kwic": "藏主、維那、知客、侍者隨職為位",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1250.xml). Chan Grove Ready-Reference Pure Regulations (禪林備用清規): Compiler narration owns the exact headword-bearing compiler narration or documentary heading.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "Yixian, signed compiler of the Chan Grove Practical Pure Rules",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "In the signed preface to the Chan Grove Practical Pure Rules (禪林備用清規), Yixian states that librarian, hall coordinator, guest prefect, and attendants take their places according to office.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940612+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0021c20",
+          "ToLb": "0021c21",
+          "Kwic": "走去見維那，被",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Weizhou Qingman utters the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Weizhou Qingman",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Weizhou Qingman"
+        },
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522b19",
+          "ToLb": "0522b21",
+          "Kwic": "監院維那典座直歲下知事",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). (Recarved, Supplemented Notes) Chan Monastery Pure Regulations ((重雕補註)禪苑清規): Compiler narration owns the exact headword-bearing compiler narration or documentary heading.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration or documentary heading",
+            "ActorLabel": "the Chan Monastery Pure Rules contents heading",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The table of contents of the Chan Monastery Pure Rules (禪苑清規) lists the prior, hall coordinator, cook, and work supervisor together under subordinate administrators.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940633+00:00",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "X/X71/X71n1422.xml",
+          "FromLb": "0706b03",
+          "ToLb": "0706b03",
+          "Kwic": "請藏主、維那、侍者，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X71/X71n1422.xml). Recorded Sayings of Chan Master Nanshi Wenxiu (南石文琇禪師語錄): The record narrates that Nanshi Wenxiu supplies the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanshi Wenxiu",
+              "Roles": [
+                "record-owner",
+                "case-figure"
+              ]
+            }
+          ],
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "occasion heading",
+            "ActorLabel": "case narrator",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword is in narrator-governed action or reporting prose, not in the participant’s quoted speech.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940652+00:00",
+            "HeadingType": "section"
+          }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0618b13",
+          "ToLb": "0618b13",
+          "Kwic": "師令維那白槌告眾齋後普請送亡僧",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Compiler narration owns the exact headword-bearing compiler narration or documentary heading.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-described",
+                "case-figure"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the compiler narrating Baizhang Huaihai’s wild-fox case",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Old Recorded Sayings of Venerable Masters (古尊宿語錄): the case narrator says Baizhang orders the hall coordinator to strike the mallet and announce communal attendance after the meal.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940672+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0022b16",
+          "ToLb": "0022b16",
+          "Kwic": "付維那宣畢，遂陞座",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui (山暉禪師語錄): Compiler narration owns the exact headword-bearing compiler narration or documentary heading.",
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui",
+              "Roles": [
+                "person-described",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narration",
+            "ActorLabel": "the narrator of Shanhui’s opening ceremony",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Recorded Sayings of Shanhui (山暉禪師語錄): event narration says Shanhui hands the written address to the hall coordinator for proclamation and then mounts the seat.",
+            "ReviewedBy": "Codex Lane B complete-case heading adjudication",
+            "ReviewedUtc": "2026-07-16T19:50:27.940691+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0296a11",
+          "ToLb": "0296a12",
+          "Kwic": "請得首座表率、維那舉唱",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu (了菴清欲禪師語錄): Liao'an Qingyu utters the exact headword-bearing wording in the complete source unit.",
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "MasterName": "Liao'an Qingyu"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2025.xml",
+        "X/X63/X63n1250.xml",
+        "X/X82/X82n1571.xml",
+        "X/X63/X63n1245.xml",
+        "X/X71/X71n1422.xml",
+        "C/C077/C077n1710.xml",
+        "J/J29/J29nB223.xml",
+        "X/X71/X71n1414.xml"
+      ],
+      "RelatedMasters": [
+        "Weizhou Qingman",
+        "Nanshi Wenxiu",
+        "Baizhang Huaihai",
+        "Shanhui",
+        "Liao'an Qingyu"
+      ],
+      "RelatedTerms": [
+        "首座",
+        "知客",
+        "典座",
+        "監院",
+        "白槌",
+        "堂司"
+      ],
+      "Explanation": "The hall coordinator is a senior monastic officer who organizes communal procedure, announcements, seating, and voiced ceremonial cues. The Revised Baizhang Pure Rules has the hall coordinator prepare paper with the hall office before a ceremony; the Practical Pure Rules places this office among librarian, guest prefect, and attendants according to rank. Another pure-rules contents list groups it with the prior, cook, and work supervisor. In recorded events the officer strikes the announcing mallet for communal attendance, proclaims a written address before the named teaching figure mounts the seat, and is appointed alongside librarian and attendant. Liaoan Qingyu pairs the head seat’s example with the hall coordinator’s vocal leading. Qingman’s comic hall image even sends the wooden hall figure to this officer, who slaps it twice. The Chan-specific use is therefore public and procedural: this is the officer whose actions make the assembly’s formal encounter happen, not merely a generic administrator."
+    }
+  ]
+}

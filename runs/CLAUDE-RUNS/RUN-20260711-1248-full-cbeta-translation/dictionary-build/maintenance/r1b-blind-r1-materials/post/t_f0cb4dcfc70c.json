@@ -1,0 +1,208 @@
+{
+  "Id": "t_f0cb4dcfc70c",
+  "SourceTerm": "掛搭",
+  "CreatedBy": "Codex legacy full rebuild Lane A",
+  "WrittenUtc": "2026-07-16T18:02:04.971521+00:00",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "register for monastic residence",
+      "AlternateTargets": [
+        "register and take a monastic place",
+        "be admitted to monastic residence",
+        "take an assigned place in the monks’ hall"
+      ],
+      "SearchAliases": [
+        "register at a monastery",
+        "take up monastic residence",
+        "be admitted to a monastery",
+        "receive a place in the monks' hall",
+        "request monastery lodging"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Across the collected corpus the headword occurs 145 times in 38 texts. The regulations distinguish seeking registration, the abbot permitting it, new registrants, greater and lesser registration procedures, returning to the hall, tea for new registrants, and thanks after registration. “Seek registration” occurs 8 times in 4 texts; “permit registration” occurs twice in two. The corpus therefore supplies a concrete lodging-and-admission procedure. In some biographies the completed verb simply marks that a traveler resided at the named monastery.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1140a14",
+          "ToLb": "1140a16",
+          "Kwic": "依棲求掛搭古規首到客司相看。次往堂司掛搭。送單位經案定。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the Baizhang monastic-code procedural voice describes the old rule for a traveling monk seeking lodging: first present oneself at the guest office, then register with the hall office and receive an assigned place.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler narrative",
+            "ActorLabel": "Baizhang monastic-code procedural voice",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The clause is prescriptive institutional procedure without a quoted speaker.",
+            "ReviewedBy": "Codex hard-w2-remaining300",
+            "ReviewedUtc": "2026-07-14T07:45:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 2 exact 掛搭 spans belong to the same uninterrupted speaker, authored exposition, or documentary unit; no question/answer or case boundary changes the exact actor."
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1141a29",
+          "ToLb": "1141a30",
+          "Kwic": "方丈許掛搭。侍司發榜下堂司。請茶上床曆畢。送入眾寮。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the Baizhang monastic-code procedural voice says that after the abbot permits registration, the attendant's office posts the notice to the hall office and the newcomer is sent into the communal quarters.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler narrative",
+            "ActorLabel": "Baizhang monastic-code procedural voice",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The clause is prescriptive institutional procedure without a quoted speaker.",
+            "ReviewedBy": "Codex hard-w2-remaining300",
+            "ReviewedUtc": "2026-07-14T07:45:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Dehui",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X69/X69n1362.xml",
+          "FromLb": "0625b05",
+          "ToLb": "0625b06",
+          "Kwic": "你兩箇要參禪，却去掛搭。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X69/X69n1362.xml). Recorded Sayings of Chan Master Pujue Zonggao (普覺宗杲禪師語錄): Yexian Guixing laughs at Fushan Fayuan and Tianyi Yihuai's persistence and tells the two to go register.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yexian Guixing",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Fushan Fayuan",
+              "Roles": [
+                "addressee",
+                "student"
+              ]
+            },
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "addressee",
+                "student"
+              ]
+            }
+          ],
+          "MasterName": "Yexian Guixing"
+        },
+        {
+          "RelPath": "X/X69/X69n1362.xml",
+          "FromLb": "0625c11",
+          "ToLb": "0625c12",
+          "Kwic": "且令別處掛搭，候此間單位空，即令入堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X69/X69n1362.xml). Recorded Sayings of Chan Master Pujue Zonggao (普覺宗杲禪師語錄): Fayun Faxiu directs that Ziqing register elsewhere until a place opens at Fayun.",
+          "MasterName": "Fayun Faxiu",
+          "ContextMasters": [
+            {
+              "MasterName": "Fayun Faxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X83/X83n1574.xml",
+          "FromLb": "0271a04",
+          "ToLb": "0271a04",
+          "Kwic": "師因南遊，至廬山圓通掛搭。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X83/X83n1574.xml). Expanded Collection: Continued Transmission of the Lamp Record (增集續傳燈錄): the compiler of the biography of Zhizhe Yuan'an Zhenci narrates that on traveling south the section subject registered for residence at Lushan Yuantong.",
+          "MasterName": null,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "lamp-record biography",
+            "ActorLabel": "compiler of the biography of Zhizhe Yuan'an Zhenci",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "The headword is the predicate in third-person biography: 師因南遊，至廬山圓通掛搭; it is not a speech turn by the section subject.",
+            "ReviewedBy": "Codex semantic-r003-owner3",
+            "ReviewedUtc": "2026-07-14T09:20:00Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Zhizhe Yuanan Zhenci",
+              "Roles": [
+                "person-described"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "T/T48/T48n2025.xml",
+        "X/X69/X69n1362.xml",
+        "X/X83/X83n1574.xml"
+      ],
+      "RelatedMasters": [
+        "Changlu Zongze",
+        "Dehui",
+        "Yexian Guixing",
+        "Fushan Fayuan",
+        "Tianyi Yihuai",
+        "Fayun Faxiu",
+        "Zhizhe Yuanan Zhenci"
+      ],
+      "RelatedTerms": [
+        "旦過",
+        "參堂",
+        "單位",
+        "歸堂",
+        "謝掛搭"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "To register for residence and receive an assigned place in a monastery. The Chan Monastic Regulations gives the procedure: a new arrival waits a day or two, presents himself at the hall office with his ordination document, and requests residence. After registration he stores his luggage, hangs his bowl, and arranges his bedding in the unnamed monks' hall. The Imperially Revised Baizhang Monastic Code states the order more compactly: one seeking residence first presents himself at the guest office, then registers at the hall office, after which his assigned place is settled. When the abbot permits registration, the attendant's office notifies the hall office; tea and the bed register follow, and the newcomer enters the common quarters. Encounter narratives use the same institutional verb. Yexian Guixing tells Fushan Fayuan and Tianyi Yihuai, 'You two want to investigate Zen; go register' (你兩箇要參禪，却去掛搭). Fayun Faxiu directs that Ziqing register elsewhere until a place becomes vacant and he can enter the hall (且令別處掛搭，候此間單位空，即令入堂). These sources make the concrete Zen bend visible: registration is not generic lodging but formal admission into the monastery's offices, hall, bed register, and common quarters."
+    }
+  ]
+}

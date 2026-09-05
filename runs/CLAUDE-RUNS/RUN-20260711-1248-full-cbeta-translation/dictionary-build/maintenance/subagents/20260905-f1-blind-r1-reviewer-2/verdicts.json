@@ -1,0 +1,48 @@
+{
+ "reviewer": "reviewer2",
+ "materialsPinsOk": true,
+ "rowsChecked": 10,
+ "flags": [
+  {
+   "rowId": "R0000",
+   "law": "A2",
+   "reason": "POST MasterName None != newMasterName 'Dongyang Dehui'"
+  },
+  {
+   "rowId": "R0002",
+   "law": "A2",
+   "reason": "POST ContextMasters [{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"compiler\"]}] != newContextMasters [{\"MasterName\": \"Dongyang Dehui\", \"Roles\": [\"utterer\"]}]"
+  },
+  {
+   "rowId": "R0004",
+   "law": "A2",
+   "reason": "POST ActorAttribution != newActorAttribution (differs in: ActorLabel)"
+  },
+  {
+   "rowId": "R0004",
+   "law": "A4",
+   "reason": "ActorLabel \"the code compiler's editorial voice\" casefolded-substring in newAttributionNote=False, in POST slot AttributionNote=False"
+  },
+  {
+   "rowId": "R0006",
+   "law": "A1",
+   "reason": "PRE Kwic: Kwic first divergence at char index 8: materials ...飯。三時上茶湯。大... vs row ...飯。三時猫茶湯。大...; diverging char materials 上(U+4E0A) vs row 猫(U+732B)"
+  },
+  {
+   "rowId": "R0006",
+   "law": "A2",
+   "reason": "POST Kwic: Kwic first divergence at char index 8: materials ...飯。三時上茶湯。大... vs row ...飯。三時猫茶湯。大...; diverging char materials 上(U+4E0A) vs row 猫(U+732B)"
+  },
+  {
+   "rowId": "R0008",
+   "law": "B1",
+   "reason": "POST Explanation contains after 0 times (need exactly 1); POST region around the edit site: 'erially Revised Baizhang Monastic Code, redacted by Dongyang Dehui, schedules gruel and rice at two times and tea and ho'"
+  },
+  {
+   "rowId": "R0008",
+   "law": "B2",
+   "reason": "PRE Explanation with before->after replaced once != POST Explanation (first divergence at char 165: expected ...ehui (非粥非... / actual ...ehui, sch...)"
+  }
+ ],
+ "notes": "All 4 materials sha256 pins matched (Step 0 OK). Every one of the 10 rows was checked against the frozen bytes; unflagged rows are accepted. Laws E1/E2/E3 were checked across both materials entries and produced no flags (no retired RelPath T/T48/T48n2023.xml or X/X63/X63n1245.xml anywhere in POST; sense and occurrence counts identical PRE->POST; bare 'Dehui' absent from all POST MasterName/ContextMasters/RelatedMasters). Law B4 was evaluated once per (entry, si) touched by Law-B rows — only (t_351fa42d396b, si=1); all 6 maximal CJK runs in its POST Explanation+Note (二時上粥飯, 三時上茶湯, 除二時粥飯是雜用心處, 粥飯主人 x2, 二時粥飯 — 5 distinct) are anchored by Occurrences kwics (ClaimAnchors are absent/empty in all materials, so E1's ClaimAnchors scan is trivially clean). Caveats: (1) rowSha is not part of any stated law and no canonicalization was specified; a best-effort check over 6 common canonical JSON forms matched 0 of 10 rows, so rowSha agreement was treated as unverifiable from the inputs and NOT used to flag. (2) A3's 'match on oi' coverage set was taken per entry among occ-attribution rows (all are si=1, so sense-scoping is moot). (3) Equality checks compare parsed JSON values (deep equality), per the task's '==' definition; raw-byte equality was additionally pinned via the materials sha256 step. (4) All occ-attribution rows for a slot describe the same edit; the frozen POST bytes adjudicate which claims match."
+}

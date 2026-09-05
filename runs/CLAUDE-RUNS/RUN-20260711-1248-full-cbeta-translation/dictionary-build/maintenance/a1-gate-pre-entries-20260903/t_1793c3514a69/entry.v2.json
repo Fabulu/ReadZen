@@ -1,0 +1,249 @@
+{
+  "Id": "t_1793c3514a69",
+  "SourceTerm": "舉問",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "raise and ask",
+      "AlternateTargets": [
+        "cite and question",
+        "bring up for questioning"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, to raise something and ask. Chan records use it when a speaker carries a saying, exchange, or disputed comparison into a further interview and asks another master about it. Zhenjue raises before Xuanwu a description of light from the eye illuminating mountains and rivers, then asks where that person is at fault. Dongshan raises before Yunju the statement that there is no Maitreya in heaven or on earth; Yunju replies by asking who then gave him his name. Jiashan and Dingshan take their opposed sayings about buddha in birth-and-death to a master, and Jiashan raises the matter by asking whose view is more intimate; the answer distinguishes one as intimate and one as remote. Another monk raises the staff of Deshan and shout of Linji and asks what side they clarify; the master tells him to try to say, and tests his ensuing shout. The deviation is institutional and textual: raising is not merely lifting an object, but re-presenting prior words or actions to a Chan interlocutor so that the case continues through another public question and response.",
+      "Validation": "multi-source",
+      "Note": "This compound includes both operations: “raise” (舉) re-presents prior material and “ask” (問) directs a question about it. It overlaps with “raise a case” (舉) and “question-and-answer”, while differing from a master's newly bestowed question.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0388a01",
+          "ToLb": "0388a03",
+          "Kwic": "真覺大師舉問玄晤大師：「眼門放光，照破山河。山河大地，不礙眼光。此人過在什摩處，只欠濤汰。」",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall) (祖堂集). Zhenjue is named immediately before (舉問) and raises the eye-light statement as a question to Xuanwu. The case compiler narrates Zhenjue's raising of the statement as a question; Zhenjue is bound as the action performer and Xuanwu as the respondent.",
+          "MasterName": null,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuanwu",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Zhenjue",
+              "Roles": [
+                "action-performer"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler narrative",
+            "ActorLabel": "the case compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "真覺大師舉問 names Zhenjue as the one who raises the eye-light statement and puts it to Xuanwu as a question; 舉 is a narrated action rather than a direct speech cue, so the compiler narrates the wording and Zhenjue is bound as action-performer in ContextMasters while Xuanwu remains the respondent.",
+            "ReviewedBy": "P1 chunk-D research freeze 20260901",
+            "ReviewedUtc": "2026-09-01T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X79/X79n1557.xml",
+          "FromLb": "0040a15",
+          "ToLb": "0040a16",
+          "Kwic": "洞山舉問雲居，居云：天上無彌勒，地下無彌勒，未審誰與安名？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X79/X79n1557.xml). Essential Compendium of the United Lamp (聯燈會要). Dongshan Liangjie is the exact actor who raises the question to Yunju Daoying (洞山舉問雲居); Yunju gives the answer. Nanquan Puyuan is not an actor in this case.",
+          "MasterName": "Dongshan Liangjie",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunju Daoying",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0254c29",
+          "ToLb": "0255a02",
+          "Kwic": "二人上山參禮。夾山便舉問師。未審二人見處那箇較親。師云。一親一疎。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). Inside Damei Fachang's section, Jiashan Shanhui raises his and Dingshan's paired claims and asks Damei which understanding is more intimate; Damei answers that one is intimate and one distant.",
+          "MasterName": "Jiashan Shanhui",
+          "ContextMasters": [
+            {
+              "MasterName": "Damei Fachang",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Dingshan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0669b20",
+          "ToLb": "0669b22",
+          "Kwic": "舉問德山棒臨濟喝未審明得什麼邊事師云你試道看僧便喝師云瞎",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). In Shoushan Xingnian's record, an unnamed monk raises Deshan's stick and Linji's shout as a question; Shoushan answers. The line, expanded context, section header, book title, TEI header, and parallel-passage search do not name the unnamed monk.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monk",
+            "ActorLabel": "unnamed monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "ReviewedBy": "Codex hard-w2-b1",
+            "ReviewedUtc": "2026-07-14T07:15:00Z"
+          },
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J34/J34nB312.xml",
+          "FromLb": "0809c18",
+          "ToLb": "0809c19",
+          "Kwic": "大慧舉問圓悟，悟云：『天寧則不然，薰風自南來，殿閣生微涼。』",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J34/J34nB312.xml). Jiahe Recorded Sayings of Chan Master Juelangsheng of Tianjie (天界覺浪盛禪師嘉禾語錄). Retelling the old Yunmen Wenyan (雲門) case in a sermon, Juelang Daosheng (覺浪道盛) recounts that Dahui Zonggao (大慧) raised it and asked Yuanwu Keqin (圓悟), who answered that at Tianning he would say instead that the warm wind comes from the south and a faint coolness breathes through the halls.",
+          "MasterName": "Dahui Zonggao",
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "later-quoter"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "P/P154/P154n1519.xml",
+          "FromLb": "0601a03",
+          "ToLb": "0601a06",
+          "Kwic": "溈山又舉問仰山仰云黃檗常用此機溈云天生得從人得仰云亦是稟受師承亦是自性宗通溈云如是如是",
+          "Curated": true,
+          "AttributionNote": "Source record (P/P154/P154n1519.xml). Essential Compendium of the Zen School: Main and Continued Collections (Vols. 1–12) (宗門統要正續集(第1卷-第12卷)). Guishan Lingyou (溈山) raises the previous exchange again and asks Yangshan Huiji (仰山); asked whether such capacity is innate or acquired, Yangshan answers that Huangbo Xiyun (黃檗) constantly uses this device and that it is both received in the succession and penetrated in self-nature, and Guishan assents.",
+          "MasterName": "Guishan Lingyou",
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0144.xml",
+        "X/X79/X79n1557.xml",
+        "T/T51/T51n2076.xml",
+        "C/C077/C077n1710.xml",
+        "J/J34/J34nB312.xml",
+        "P/P154/P154n1519.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "舉",
+        "問",
+        "問答",
+        "垂問",
+        "公案",
+        "勘辨"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "Id": "t_cf6aac2f936b",
+  "SourceTerm": "一字關",
+  "CreatedBy": "Terra semantic author luna155r4",
+  "WrittenUtc": "2026-08-09T15:26:20Z",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the one-word barrier",
+      "AlternateTargets": [],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "A monastic name for Yunmen’s recurrent single-character answers; it is not a general label for every obstacle expressed by one written character.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2006.xml",
+          "FromLb": "0312c12",
+          "ToLb": "0312c12",
+          "Kwic": "故叢林目之。曰一字關云。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas (人天眼目): the anthology narrator explicitly gives 一字關 as the monastic naming label; no individual speaks the headword-bearing clause.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler narrative",
+            "ActorLabel": "anthology's lineage-labeling statement",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "故叢林目之。曰一字關云 is the anthology narrator’s naming statement, not a spoken turn by Yunmen or another master.",
+            "ReviewedBy": "Terra semantic author luna155r4",
+            "ReviewedUtc": "2026-08-09T15:26:20Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ]
+          },
+          "ContextMasters": [],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0719a09",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The same speaker repeats the one-word barrier in a single continuous turn."
+          },
+          "ToLb": "0719a11",
+          "Kwic": "有人透得此關，許他親見雲門。」頌：「一字關、一字關，何不成雙獨成單？",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai (三山來禪師語錄): Sanshan Denglai directly voices 一字關 in his verse about Yunmen.",
+          "MasterName": "Sanshan Denglai",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0132c11",
+          "ToLb": "0133a03",
+          "CharOffset": null,
+          "Kwic": "趙州云：『庭前柏樹子。』僧云：『某甲問祖師西來意，和尚何得將境示人？』趙州云：『我不將境示人。』僧又問：『如何是祖師西來意？』趙州復答云：『庭前柏樹子。』據趙州，見道真、擇法明，信手拈來，用得恰好，者僧用揀擇心隨波逐浪，當陽不薦，覿面蹉過。山僧今日忽有問：如何是祖師西來意？但答云：雨花堂上看繽紛。且道與古人相去多少？」卓拄杖下座。上堂，僧問：「向上機、格外句，拈置一邊，五家宗、端的意，請師舉似。」師云：「逐一問來。」僧云：「喫棒還拳未為英俊，生擒活捉固是作家，如何是臨濟宗？」師云：「一棒一條痕。」進云：「電光影裏穿針手，顧鑒咦中陷虎機，如何是雲門宗？」師云：「一字關頭透將來。」進云：「正偏回互當陽妙，展拓無私猶滯功，如何是曹洞宗？」師云：「明暗相參底時節。」進云：「聲前托出驗來機，師唱資酬盤走珠，鶖子滿慈難眨眼，呵呵笑倒赤鬚胡。如何是溈仰宗？」師云：「圓相暗機任人透。」進云：「萬象森羅，豁開正眼，青山滿目，獨露家風。如何是法眼宗？」師云：「人間無水不朝東。」進云：「宗旨已蒙師指示，覿面全提事若何？」師云：「金剛手裏八稜棒。」進云：「恁麼則信步行山嶽，贏得雨花新。」師云：「且顧腳跟。」乃云：「如何是道鬧浩浩，如何是道靜悄悄，靜悄悄底是為什麼猶有鬧浩浩，鬧浩浩底是為什麼猶有靜悄悄？到者裏，若要一動靜、泯參差，須是悟始得。",
+          "ClaimText": "一字關頭透將來",
+          "ApproxDate": null,
+          "Curated": true,
+          "MasterName": "Feiyin Tongrong",
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin (費隱禪師語錄): Feiyin Tongrong answers the monk’s question about the Yunmen school with 一字關頭透將來.",
+          "ContextActors": []
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2006.xml",
+        "J/J29/J29nB244.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Sanshan Denglai",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [
+        "顧鑒咦",
+        "三玄三要",
+        "關棙子",
+        "抽顧",
+        "顧鑑"
+      ],
+      "SearchAliases": [
+        "the one-word barrier",
+        "Yunmen's one-word barrier"
+      ],
+      "ClaimAnchors": [
+        {
+          "RelPath": "T/T48/T48n2006.xml",
+          "FromLb": "0312c12",
+          "ToLb": "0312c12",
+          "Kwic": "故叢林目之。曰一字關云。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2006.xml). Eyes of Humans and Devas (人天眼目): the anthology narrator explicitly gives 一字關 as the monastic naming label; no individual speaks the headword-bearing clause.",
+          "ActorAttribution": {
+            "Status": "impersonal",
+            "Kind": "compiler narrative",
+            "ActorLabel": "anthology's lineage-labeling statement",
+            "ActorRole": "compiler",
+            "GrammarEvidence": "故叢林目之。曰一字關云 is the anthology narrator’s naming statement, not a spoken turn by Yunmen or another master.",
+            "ReviewedBy": "Terra semantic author luna155r4",
+            "ReviewedUtc": "2026-08-09T15:26:20Z",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "AuthoredVoiceRiskReviewed": true
+          },
+          "ContextMasters": [],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0719a09",
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The same speaker repeats the one-word barrier in a single continuous turn."
+          },
+          "ToLb": "0719a11",
+          "Kwic": "有人透得此關，許他親見雲門。」頌：「一字關、一字關，何不成雙獨成單？",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai (三山來禪師語錄): Sanshan Denglai directly voices 一字關 in his verse about Yunmen.",
+          "MasterName": "Sanshan Denglai",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0132c11",
+          "ToLb": "0133a03",
+          "CharOffset": null,
+          "Kwic": "：『庭前柏樹子。』僧云：『某甲問祖師西來意，和尚何得將境示人？』趙州云：『我不將境示人。』僧又問：『如何是祖師西來意？』趙州復答云：『庭前柏樹子。』據趙州，見道真、擇法明，信手拈來，用得恰好，者僧用揀擇心隨波逐浪，當陽不薦，覿面蹉過。山僧今日忽有問：如何是祖師西來意？但答云：雨花堂上看繽紛。且道與古人相去多少？」卓拄杖下座。上堂，僧問：「向上機、格外句，拈置一邊，五家宗、端的意，請師舉似。」師云：「逐一問來。」僧云：「喫棒還拳未為英俊，生擒活捉固是作家，如何是臨濟宗？」師云：「一棒一條痕。」進云：「電光影裏穿針手，顧鑒咦中陷虎機，如何是雲門宗？」師云：「一字關頭透將來。」進云：「正偏回互當陽妙，展拓無私猶滯功，如何是曹洞宗？」師云：「明暗相參底時節。」進云：「聲前托出驗來機，師唱資酬盤走珠，鶖子滿慈難眨眼，呵呵笑倒赤鬚胡。如何是溈仰宗？」師云：「圓相暗機任人透。」進云：「萬象森羅，豁開正眼，青山滿目，獨露家風。如何是法眼宗？」師云：「人間無水不朝東。」進云：「宗旨已蒙師指示，覿面全提事若何？」師云：「金剛手裏八稜棒。」進云：「恁麼則信步行山嶽，贏得雨花新。」師云：「且顧腳跟。」乃云：「如何是道鬧浩浩，如何是道靜悄悄，靜悄悄底是為什麼猶有鬧浩浩，鬧浩浩底是為什麼猶有靜悄悄？到者裏，若要一動靜、泯參差，須是悟始得",
+          "ClaimText": "一字關頭透將來",
+          "ApproxDate": null,
+          "Curated": true,
+          "MasterName": "Feiyin Tongrong",
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin (費隱禪師語錄): Feiyin Tongrong answers the monk’s question about the Yunmen school with 一字關頭透將來.",
+          "ContextActors": []
+        },
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0380c24",
+          "ToLb": "0380c25",
+          "Kwic": "師有時顧視僧曰：「鑒。」僧擬對之，則曰：「咦。」叢林因目師為顧鑒咦。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen (雲門匡真禪師語錄): Yunmen Wenyan utters the exact quoted clause in the complete case.",
+          "MasterName": "Yunmen Wenyan",
+          "ClaimText": "顧鑒咦",
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "Explanation": "The one-word barrier is the monastic label for Yunmen’s character-sized answers, not an ordinary barrier made of one written character. Eyes of Humans and Devas records the label as a monastic naming formula; Sanshan Denglai repeats it in a verse about Yunmen. Feiyin Tongrong then gives “一字關頭透將來” in answer to a question about the Yunmen school. These uses identify a Yunmen-associated answer form."
+    }
+  ]
+}

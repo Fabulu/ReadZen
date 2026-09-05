@@ -1,0 +1,235 @@
+{
+  "Id": "t_bc9b4740f883",
+  "SourceTerm": "喫茶去",
+  "CreatedBy": "Fabulu",
+  "WrittenUtc": "2026-07-12T17:43:52.657Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "go drink tea",
+      "AlternateTargets": [
+        "go have some tea",
+        "off you go for tea",
+        "go and drink tea"
+      ],
+      "Status": "preferred",
+      "Explanation": "Go drink tea is an ordinary imperative made famous by Zhaozhou Congshen's public exchange with two visitors and the temple steward. Later records raise, question, quote, and comment on those same words as a named case while leaving the command itself concrete. One says no and the other yes; Zhaozhou gives both the same words. When the temple steward asks why, Zhaozhou calls, 'Steward!'; after the steward answers, Zhaozhou again says, 'Go drink tea.' Independent records reverse the order of the two visitors but retain the same public exchange, and a later retelling writes 'drink' with the alternate graph. The phrase then remains available as a live answer in other public interviews: Zifu Zhensui answers a question about 'three-by-three in front and three-by-three behind' by asking the questioner's name and then saying it; Daweishan Cheng gives it as his response for receiving a guest and rejects the questioner's easy equation of him with Zhaozhou; and Baizhang Daoheng gives it immediately when the assembly gathers, beside the separate formulas 'take care' and 'rest.' Foyan Qingyuan explicitly says that he usually says 'go drink tea' and says it again that day. It also becomes the named allusion 'Zhaozhou's tea,' paired in a verse with 'Yunmen's flatbread.' The Zen bend is public deployment: an ordinary imperative is preserved as Zhaozhou's repeatable interview formula, questioned inside its originating exchange, then quoted, alluded to, and spoken anew by later masters while retaining the same literal wording.",
+      "Validation": "multi-source",
+      "Note": "The headword occurs 781 times across 170 allowlisted texts; the spelling variant with the alternate graph for 'drink' occurs 14 times across 7 texts. The witnesses support one sense: originating case, later answer, assembly dismissal, and allusion are deployments of the same imperative, not different things. The occurrence speaker is the person who actually says the phrase, even when a longer KWIC contains interlocutor turns.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0714a07",
+          "ToLb": "0714a09",
+          "Kwic": "師問二新到上座曾到此間否云不曾到師云喫茶去",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). In Zhaozhou Congshen's recorded sayings: Zhaozhou asks both newly arrived monks the question and speaks the exact imperative after each answer.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X80/X80n1565.xml",
+          "FromLb": "0093b18",
+          "ToLb": "0093b19",
+          "Kwic": "師問新到。曾到此間麼。曰。曾到。師曰。喫茶去。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X80/X80n1565.xml). Five Lamps Compendium (五燈會元). In Zhaozhou Congshen's section: Zhaozhou speaks the imperative to each monk; this witness reverses their order before the steward's follow-up.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J33/J33nB282.xml",
+          "FromLb": "0374b11",
+          "ToLb": "0374b13",
+          "Kwic": "昔趙州住院，有僧參次，州云：『上座曾到這裡麼？』僧云：『不曾到。』州云：『吃茶去。』",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "EvidenceRole": "variant",
+          "AttributionNote": "Source record (J/J33/J33nB282.xml). Recorded Sayings of Chan Master Xuzhou Sheng (虛舟省禪師語錄). In Xuzhou Xing's retelling of the case: the quoted speaker of the imperative is Zhaozhou Congshen, and the alternate graph for 'drink' marks this as spelling-family evidence.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "VariantKind": "governed-graphic",
+          "VariantForm": "吃茶去"
+        },
+        {
+          "RelPath": "T/T51/T51n2076.xml",
+          "FromLb": "0302a12",
+          "ToLb": "0302a13",
+          "Kwic": "問古人道前三三後三三意如何。師曰。汝名什麼。曰某甲。師曰。喫茶去。",
+          "MasterName": "Zifu Zhensui",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2076.xml). Jingde Record of the Transmission of the Lamp (景德傳燈錄). In the section on Zifu Zhensui of Jizhou: Zifu asks the questioner's name and then answers the question with 'go drink tea.'",
+          "ContextMasters": [
+            {
+              "MasterName": "Zifu Zhensui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0028c20",
+          "ToLb": "0028c21",
+          "Kwic": "廬州羅漢勤禪師上堂：羅漢有一句，擬議成露布。直下便承當，歸堂喫茶去。",
+          "MasterName": null,
+          "Curated": true,
+          "EvidenceRole": "family",
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). In the section of Luohan Qin of Luzhou (廬州羅漢勤禪師), his upper-hall verse runs: Luohan has one phrase — deliberate and it becomes a dispatch; accept it straightaway and go back to the hall to drink tea (歸堂喫茶去). Luohan Qin is source-attested but not yet in the roster.",
+          "ContextMasters": null,
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "upper-hall verse",
+            "ActorLabel": "Luohan Qin",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "X82n1571 0028c20-21: the section heading reads 廬州羅漢勤禪師上堂 and the verse runs 羅漢有一句，擬議成露布。直下便承當，歸堂喫茶去。 the headword closes the upper-hall verse of the section's own master; the line, the expanded context, the section, the book title, the TEI header, and exact and parallel searches identify him only as Luohan Qin, source-attested but not yet a roster-linked master, so he stays the identified unlinked verse author.",
+            "ReviewedBy": "P1 chunk-C round 2 rewindow fixer 20260901",
+            "ReviewedUtc": "2026-09-01T12:02:11+02:00"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0095b18",
+          "ToLb": "0095b20",
+          "Kwic": "州喚院主，主應諾。州曰：喫茶去。保福展云：趙州慣得其便。",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集). In Zhaozhou Congshen's section: Zhaozhou speaks all three exact imperatives; the steward asks why, and the later comment by Baofu Congzhan begins only after the final phrase.",
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Baofu Congzhan",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0024a02",
+          "ToLb": "0024a03",
+          "Kwic": "山僧尋常秖道喫茶去今日也道喫茶去會盡諸方五味禪何似山僧喫茶去",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄). In Foyan Qingyuan's recorded sayings: Foyan says that he usually says 'go drink tea,' says it again that day, and repeats it after asking how the five-flavored Chan of other places compares.",
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "HeadwordSpanReview": {
+            "Count": 3,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "All 3 喫茶去 spans belong to Foyan Qingyuan's single self-report speech; the habitual, the same-day, and the closing repetitions are his one uninterrupted turn."
+          }
+        },
+        {
+          "RelPath": "X/X81/X81n1568.xml",
+          "FromLb": "0008b08",
+          "ToLb": "0008b09",
+          "Kwic": "上堂，眾纔集，便曰：喫茶去。或時眾集，便曰：珍重。或時眾集，便曰：歇。",
+          "MasterName": "Baizhang Daoheng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1568.xml). Strict Lineage of the Five Lamps (Vols. 10–25) (五燈嚴統(第10卷-第25卷)). In Baizhang Daoheng's section: when the assembly gathers, Baizhang Daoheng immediately says 'go drink tea'; on other occasions he instead says 'take care' or 'rest.' Baizhang Daoheng is source-attested but awaits the deferred roster expansion.",
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Daoheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0651a21",
+          "ToLb": "0651a23",
+          "Kwic": "問：如何是古佛家風？師云：蒲團草座。僧曰：若遇客來，將何祇對？師云：喫茶去。僧曰：昔日趙州，今日和尚。師云：錯。",
+          "MasterName": "Daweishan Cheng",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record (建中靖國續燈錄). Under the source heading 'Chan Master Cheng of Great Mount Gui in Tanzhou' (潭州大溈山承禪師): asked how he receives a guest, Daweishan Cheng says 'go drink tea'; when the monk equates him with Zhaozhou, he answers, 'Wrong.' The source-attested name is preserved pending the deferred roster review.",
+          "ContextMasters": [
+            {
+              "MasterName": "Daweishan Cheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X80/X80n1565.xml",
+        "J/J33/J33nB282.xml",
+        "T/T51/T51n2076.xml",
+        "X/X82/X82n1571.xml",
+        "X/X66/X66n1296.xml",
+        "D/D48/D48n8939.xml",
+        "X/X81/X81n1568.xml",
+        "X/X78/X78n1556.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Foyan Qingyuan",
+        "Zifu Zhensui",
+        "Xuefeng Sihui",
+        "Baizhang Daoheng",
+        "Daweishan Cheng"
+      ],
+      "RelatedTerms": [
+        "趙州茶",
+        "洗鉢盂",
+        "平常心",
+        "雲門胡餅"
+      ],
+      "SearchAliases": [
+        "go drink tea",
+        "go have tea",
+        "go and drink tea",
+        "off you go for tea",
+        "drink tea and go",
+        "吃茶去"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "generatedUtc": "2026-09-04T23:49:21.282122+00:00",
+  "results": {
+    "t_351fa42d396b": {
+      "entryId": "t_351fa42d396b",
+      "sourceTerm": "粥飯",
+      "entrySha256": "81fdac5282e1fd8b682b1b7cc0c7dcf4be93d811673434ed897c3b901a39ab5a",
+      "corpusHits": 743,
+      "corpusFiles": 240,
+      "reviewedUsableHits": 743,
+      "reviewedUsableFiles": 240,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 7,
+      "occurrences": 7,
+      "retainedHeadwordOccurrences": 7,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 3,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ]
+          ]
+        },
+        {
+          "senseIndex": 2,
+          "count": 4,
+          "classes": [
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 9,
+      "sourceTexts": 7,
+      "senseCount": 2,
+      "hardPass": true,
+      "hardFlags": [],
+      "reviewFlags": []
+    },
+    "t_ab715aa474d5": {
+      "entryId": "t_ab715aa474d5",
+      "sourceTerm": "一日不作一日不食",
+      "entrySha256": "38b82ff0f398e0a6cb69938e44b4b1066c99f8b851a74c7584c69f9140bdd84a",
+      "corpusHits": 11,
+      "corpusFiles": 9,
+      "reviewedUsableHits": 11,
+      "reviewedUsableFiles": 9,
+      "depthCountOverride": null,
+      "authorizedFloorException": null,
+      "evidenceFloor": 3,
+      "occurrences": 3,
+      "retainedHeadwordOccurrences": 3,
+      "deploymentClasses": [
+        {
+          "senseIndex": 1,
+          "count": 3,
+          "classes": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ]
+          ]
+        }
+      ],
+      "totalOccurrences": 3,
+      "sourceTexts": 2,
+      "senseCount": 1,
+      "hardPass": true,
+      "hardFlags": [],
+      "reviewFlags": []
+    }
+  }
+}

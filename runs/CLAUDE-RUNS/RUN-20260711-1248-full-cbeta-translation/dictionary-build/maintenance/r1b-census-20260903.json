@@ -1,0 +1,1001 @@
+{
+  "schemaVersion": "r1b-census",
+  "cloneHead": "87a6975",
+  "retired": [
+    "T/T48/T48n2023.xml",
+    "X/X63/X63n1245.xml"
+  ],
+  "floor": 6,
+  "summary": {
+    "cloneHead": "87a6975",
+    "removedOccurrencesTotal": 46,
+    "removedOccurrencesAllIncludingBlocked": 49,
+    "entriesAffected": 43,
+    "blockedProseDangle": {
+      "t_057cc9ea8755": [
+        {
+          "si": 1,
+          "quote": "攝心除睡"
+        }
+      ],
+      "t_ea2a427c7aba": [
+        {
+          "si": 1,
+          "quote": "先以右足安左髀上"
+        },
+        {
+          "si": 1,
+          "quote": "左足安右髀上"
+        },
+        {
+          "si": 1,
+          "quote": "欲坐禪時"
+        },
+        {
+          "si": 1,
+          "quote": "此坐禪之要術也"
+        },
+        {
+          "si": 1,
+          "quote": "身相既定氣息既調"
+        },
+        {
+          "si": 1,
+          "quote": "先以右足安左髀上"
+        },
+        {
+          "si": 1,
+          "quote": "左足安右髀上"
+        },
+        {
+          "si": 1,
+          "quote": "欲坐禪時"
+        },
+        {
+          "si": 1,
+          "quote": "此坐禪之要術也"
+        },
+        {
+          "si": 1,
+          "quote": "身相既定氣息既調"
+        }
+      ]
+    },
+    "blockedEntries": [
+      "t_057cc9ea8755",
+      "t_ea2a427c7aba"
+    ],
+    "dies": [],
+    "belowFloorNew": [
+      "t_022d58242948",
+      "t_05659eb4122a",
+      "t_0c53a5a2243b",
+      "t_3b9857d1cc19",
+      "t_428c42ea1c8f",
+      "t_50d75aeeeef1",
+      "t_5b93919eced9",
+      "t_9ba11d160033",
+      "t_a5ffef8b3f2d",
+      "t_bea7c499e294",
+      "t_c968c2829eeb",
+      "t_d26799ff3ae1",
+      "t_e9adcb470950",
+      "t_ea85b794ca42",
+      "t_f0cb4dcfc70c"
+    ],
+    "belowFloorNewCount": 15,
+    "alreadyBelowFloorPre": [
+      "t_32289452a85b",
+      "t_41476f956295",
+      "t_4b1aa91dd297",
+      "t_4e0636f53520",
+      "t_5ab995298e4e",
+      "t_76ee526a2b16",
+      "t_88dac6848042",
+      "t_acd15cd3ba91",
+      "t_b97e19fa54b2",
+      "t_c513dc22845c",
+      "t_d7725cb0c8c0",
+      "t_e52f4bdc4110",
+      "t_ef5beb628603",
+      "t_f9bb8b44b32f"
+    ],
+    "floorSurvivors": 14,
+    "sourceTextsListedOn": [],
+    "sourceTextsMissingOn": [
+      "t_022d58242948",
+      "t_044652c7b411",
+      "t_05659eb4122a",
+      "t_0c53a5a2243b",
+      "t_1383f942789d",
+      "t_13951a5b5260",
+      "t_1b94d664ca7a",
+      "t_32289452a85b",
+      "t_36b1824beee5",
+      "t_3b9857d1cc19",
+      "t_41476f956295",
+      "t_428c42ea1c8f",
+      "t_4b1aa91dd297",
+      "t_4e0636f53520",
+      "t_50d75aeeeef1",
+      "t_5306489d35c6",
+      "t_5ab995298e4e",
+      "t_5b93919eced9",
+      "t_76ee526a2b16",
+      "t_88dac6848042",
+      "t_9ba11d160033",
+      "t_a5ffef8b3f2d",
+      "t_aa45c307e9f1",
+      "t_acd15cd3ba91",
+      "t_b4c37e2f25c3",
+      "t_b97e19fa54b2",
+      "t_bea7c499e294",
+      "t_c513dc22845c",
+      "t_c945c2cc0e79",
+      "t_c968c2829eeb",
+      "t_cf2b777134bb",
+      "t_d26799ff3ae1",
+      "t_d7725cb0c8c0",
+      "t_dc24f92ead78",
+      "t_e52f4bdc4110",
+      "t_e9adcb470950",
+      "t_ea85b794ca42",
+      "t_ef5beb628603",
+      "t_f0cb4dcfc70c",
+      "t_f26addce7844",
+      "t_f5e1fe96407c",
+      "t_f9bb8b44b32f",
+      "t_fe03a2a24e00"
+    ],
+    "noteSentencesOn": 1,
+    "shiftHazards": {},
+    "attributionRowsOnAffected": {
+      "t_b97e19fa54b2": 3
+    },
+    "attributionRowDetails": {
+      "t_b97e19fa54b2": [
+        {
+          "kind": "narrated_action_performer_missing",
+          "site": "s1 o1",
+          "onRemovedOcc": true,
+          "detail": "坐堂 s1 o1: narrated physical action records only the narrator"
+        },
+        {
+          "kind": "narrated_action_performer_missing",
+          "site": "s1 o2",
+          "onRemovedOcc": false,
+          "detail": "坐堂 s1 o2: narrated physical action records only the narrator"
+        },
+        {
+          "kind": "narrated_action_performer_missing",
+          "site": "s1 o3",
+          "onRemovedOcc": false,
+          "detail": "坐堂 s1 o3: narrated physical action records only the narrator"
+        }
+      ]
+    },
+    "residualRowsWouldSurvive": {
+      "t_b97e19fa54b2": 2
+    },
+    "retiredAnchors": {},
+    "noteSentenceSites": {
+      "t_50d75aeeeef1": {
+        "1": {
+          "claimedN": 6,
+          "claimedM": 6,
+          "actualOccs": 6,
+          "actualDistinctRels": 6,
+          "sentence": "6 exact occurrences from 6 distinct works"
+        }
+      }
+    },
+    "overlapWithS1b": [],
+    "overlapWithA1": []
+  },
+  "entries": {
+    "t_022d58242948": {
+      "term": "毘尼",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_044652c7b411": {
+      "term": "觸禮三拜",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 8,
+          "postOccs": 7,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_05659eb4122a": {
+      "term": "空腹高心",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_0c53a5a2243b": {
+      "term": "知客",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_1383f942789d": {
+      "term": "殺生",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_13951a5b5260": {
+      "term": "殿主",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_1b94d664ca7a": {
+      "term": "施主",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 8,
+          "postOccs": 7,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_32289452a85b": {
+      "term": "燒指",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_36b1824beee5": {
+      "term": "園頭",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_3b9857d1cc19": {
+      "term": "退院",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_41476f956295": {
+      "term": "燒香禮拜",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 5,
+          "postOccs": 4,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_428c42ea1c8f": {
+      "term": "忠言逆耳",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_4b1aa91dd297": {
+      "term": "大悟不拘小節",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_4e0636f53520": {
+      "term": "牆壁有耳",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_50d75aeeeef1": {
+      "term": "香火",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {
+        "1": {
+          "claimedN": 6,
+          "claimedM": 6,
+          "actualOccs": 6,
+          "actualDistinctRels": 6,
+          "sentence": "6 exact occurrences from 6 distinct works"
+        }
+      },
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_5306489d35c6": {
+      "term": "化主",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 8,
+          "postOccs": 7,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_5ab995298e4e": {
+      "term": "法嗣書",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_5b93919eced9": {
+      "term": "光陰可惜",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_76ee526a2b16": {
+      "term": "沙彌戒",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 5,
+          "postOccs": 4,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_88dac6848042": {
+      "term": "戒臘",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 5,
+          "postOccs": 4,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_9ba11d160033": {
+      "term": "直歲",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_a5ffef8b3f2d": {
+      "term": "堂頭和尚",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_aa45c307e9f1": {
+      "term": "頭首",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_acd15cd3ba91": {
+      "term": "饒人不是癡",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_b4c37e2f25c3": {
+      "term": "東司",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_b97e19fa54b2": {
+      "term": "坐堂",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_bea7c499e294": {
+      "term": "旦過",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_c513dc22845c": {
+      "term": "十戒",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 5,
+          "postOccs": 4,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_c945c2cc0e79": {
+      "term": "小參",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 8,
+          "postOccs": 7,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_c968c2829eeb": {
+      "term": "願文",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_cf2b777134bb": {
+      "term": "堂頭",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_d26799ff3ae1": {
+      "term": "參頭",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_d7725cb0c8c0": {
+      "term": "水頭",
+      "removedBySense": {
+        "1": 2
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 2,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_dc24f92ead78": {
+      "term": "問訊",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_e52f4bdc4110": {
+      "term": "影影響響",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 3,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_e9adcb470950": {
+      "term": "菩薩戒",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_ea85b794ca42": {
+      "term": "茶湯",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 6,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_ef5beb628603": {
+      "term": "磨頭",
+      "removedBySense": {
+        "1": 2
+      },
+      "floor": {
+        "1": {
+          "preOccs": 4,
+          "postOccs": 2,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_f0cb4dcfc70c": {
+      "term": "掛搭",
+      "removedBySense": {
+        "1": 2
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 5,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_f26addce7844": {
+      "term": "入堂",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_f5e1fe96407c": {
+      "term": "知事",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 7,
+          "postOccs": 6,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_f9bb8b44b32f": {
+      "term": "延壽堂",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 5,
+          "postOccs": 4,
+          "belowFloorPost": true,
+          "alreadyBelowFloorPre": true
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    },
+    "t_fe03a2a24e00": {
+      "term": "維那",
+      "removedBySense": {
+        "1": 1
+      },
+      "floor": {
+        "1": {
+          "preOccs": 8,
+          "postOccs": 7,
+          "belowFloorPost": false,
+          "alreadyBelowFloorPre": false
+        }
+      },
+      "noteSentences": {},
+      "shiftHazards": [],
+      "sourceTexts": [],
+      "sourceTextsOther": 0
+    }
+  },
+  "attributionRows": {
+    "t_b97e19fa54b2": [
+      {
+        "kind": "narrated_action_performer_missing",
+        "site": "s1 o1",
+        "onRemovedOcc": true,
+        "detail": "坐堂 s1 o1: narrated physical action records only the narrator"
+      },
+      {
+        "kind": "narrated_action_performer_missing",
+        "site": "s1 o2",
+        "onRemovedOcc": false,
+        "detail": "坐堂 s1 o2: narrated physical action records only the narrator"
+      },
+      {
+        "kind": "narrated_action_performer_missing",
+        "site": "s1 o3",
+        "onRemovedOcc": false,
+        "detail": "坐堂 s1 o3: narrated physical action records only the narrator"
+      }
+    ]
+  }
+}

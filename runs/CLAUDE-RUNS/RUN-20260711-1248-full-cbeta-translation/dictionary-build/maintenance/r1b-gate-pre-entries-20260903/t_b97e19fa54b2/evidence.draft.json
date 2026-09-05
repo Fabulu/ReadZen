@@ -1,0 +1,204 @@
+{
+  "SchemaVersion": 1,
+  "Entry": {
+    "Id": "t_b97e19fa54b2",
+    "SourceTerm": "坐堂",
+    "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+    "CreatedBy": "Codex investigation-next300 Lane A",
+    "WrittenUtc": "2026-07-17T16:00:00Z",
+    "Senses": [
+      {
+        "SenseKey": null,
+        "MasterName": null,
+        "PreferredTarget": "sit in the hall",
+        "AlternateTargets": [
+          "hall sitting"
+        ],
+        "SearchAliases": [
+          "sit in the hall",
+          "hall sitting"
+        ],
+        "Status": "preferred",
+        "Validation": "multi-source",
+        "Note": "Incidental sitting inside any building is excluded.",
+        "Occurrences": [
+          {
+            "RelPath": "X/X63/X63n1245.xml",
+            "FromLb": "0527a19",
+            "ToLb": "0527a20",
+            "Kwic": "首座率大眾坐堂。",
+            "MasterName": null,
+            "Curated": true,
+            "ContextMasters": [],
+            "AttributionNote": "Source record (X/X63/X63n1245.xml). Reviewed source: the monastic-record compiler is the exact headword-clause actor. The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+            "DraftActorProof": {
+              "ExactHeadwordClause": "首座率大眾坐堂。",
+              "GrammaticalSubject": "the monastic-record compiler",
+              "SpeechFrame": "The supplied section heading and complete case were reviewed together.",
+              "FullCaseDecision": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn."
+            },
+            "ActorAttribution": {
+              "Status": "narrated",
+              "Kind": "institutional schedule narration",
+              "ActorLabel": "the monastic-record compiler",
+              "ActorRole": "compiler",
+              "GrammarEvidence": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+              "ReviewedBy": "Codex root-ruling repair",
+              "ReviewedUtc": "2026-07-17T16:30:00Z",
+              "RungsChecked": [
+                "line",
+                "expanded-context",
+                "section-header",
+                "book-title",
+                "tei-header",
+                "parallel-passage"
+              ]
+            }
+          },
+          {
+            "RelPath": "T/T48/T48n2025.xml",
+            "FromLb": "1113a21",
+            "ToLb": "1113a21",
+            "Kwic": "集眾坐堂。",
+            "MasterName": null,
+            "Curated": true,
+            "ContextMasters": [],
+            "AttributionNote": "Source record (T/T48/T48n2025.xml). Reviewed source: the monastic-record compiler is the exact headword-clause actor. The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+            "DraftActorProof": {
+              "ExactHeadwordClause": "集眾坐堂。",
+              "GrammaticalSubject": "the monastic-record compiler",
+              "SpeechFrame": "The supplied section heading and complete case were reviewed together.",
+              "FullCaseDecision": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn."
+            },
+            "ActorAttribution": {
+              "Status": "narrated",
+              "Kind": "institutional schedule narration",
+              "ActorLabel": "the monastic-record compiler",
+              "ActorRole": "compiler",
+              "GrammarEvidence": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+              "ReviewedBy": "Codex root-ruling repair",
+              "ReviewedUtc": "2026-07-17T16:30:00Z",
+              "RungsChecked": [
+                "line",
+                "expanded-context",
+                "section-header",
+                "book-title",
+                "tei-header",
+                "parallel-passage"
+              ]
+            }
+          },
+          {
+            "RelPath": "X/X63/X63n1250.xml",
+            "FromLb": "0622b20",
+            "ToLb": "0622b21",
+            "Kwic": "鳴皷，堂司預鳴眾寮前板三下，集眾坐堂。",
+            "MasterName": null,
+            "Curated": true,
+            "ContextMasters": [],
+            "AttributionNote": "Source record (X/X63/X63n1250.xml). Reviewed source: the monastic-record compiler is the exact headword-clause actor. The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+            "DraftActorProof": {
+              "ExactHeadwordClause": "鳴皷，堂司預鳴眾寮前板三下，集眾坐堂。",
+              "GrammaticalSubject": "the monastic-record compiler",
+              "SpeechFrame": "The supplied section heading and complete case were reviewed together.",
+              "FullCaseDecision": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn."
+            },
+            "ActorAttribution": {
+              "Status": "narrated",
+              "Kind": "institutional schedule narration",
+              "ActorLabel": "the monastic-record compiler",
+              "ActorRole": "compiler",
+              "GrammarEvidence": "The headword names a scheduled hall-sitting act in institutional narration, not a personal spoken turn.",
+              "ReviewedBy": "Codex root-ruling repair",
+              "ReviewedUtc": "2026-07-17T16:30:00Z",
+              "RungsChecked": [
+                "line",
+                "expanded-context",
+                "section-header",
+                "book-title",
+                "tei-header",
+                "parallel-passage"
+              ]
+            }
+          },
+          {
+            "RelPath": "J/J20/J20nB098.xml",
+            "FromLb": "0510c18",
+            "ToLb": "0510c20",
+            "Kwic": "莫說臘月三十，即今展角坐堂，臨民敷政，違順二境卒至、喜怒之念乍興，這個能不被他互換得麼？",
+            "MasterName": "Wunian Shenyou",
+            "Curated": true,
+            "ContextMasters": [
+              {
+                "MasterName": "Wunian Shenyou",
+                "Roles": [
+                  "utterer"
+                ]
+              }
+            ],
+            "AttributionNote": "Source record (J/J20/J20nB098.xml). The complete supplied case, nearest section heading, and record title were read; Wunian Shenyou supplies the headword-bearing clause.",
+            "DraftActorProof": {
+              "ExactHeadwordClause": "莫說臘月三十，即今展角坐堂，臨民敷政，違順二境卒至、喜怒之念乍興，這個能不被他互換得麼？",
+              "GrammaticalSubject": "Wunian Shenyou",
+              "SpeechFrame": "The supplied section heading and complete case were reviewed together.",
+              "FullCaseDecision": "The complete supplied case, nearest section heading, and record title were read; Wunian Shenyou supplies the headword-bearing clause."
+            }
+          }
+        ],
+        "ClaimAnchors": [],
+        "SourceTexts": [
+          "X/X63/X63n1245.xml",
+          "T/T48/T48n2025.xml",
+          "X/X63/X63n1250.xml",
+          "J/J20/J20nB098.xml"
+        ],
+        "RelatedMasters": [],
+        "RelatedTerms": [],
+        "ExplanationParts": {
+          "CorpusEarnedOpening": "The scheduled act of taking one’s seat in the communal hall.",
+          "EvidenceBody": [
+            "Monastic records place it in daily schedules and use it for the presiding or assembled seat.",
+            "Incidental sitting inside any building is excluded."
+          ]
+        },
+        "DraftEvidence": {
+          "OpeningClaimEvidenceKeys": [
+            "o1",
+            "o2",
+            "o3",
+            "o4"
+          ],
+          "ZenBend": "Monastic records place it in daily schedules and use it for the presiding or assembled seat.",
+          "CounterexampleOrLimit": "Incidental sitting inside any building is excluded.",
+          "DifferentThingTest": {
+            "Decision": "one-thing",
+            "ComparedThings": [
+              "sit in the hall",
+              "hall sitting"
+            ],
+            "Reason": "“sit in the hall” and “hall sitting” name the same the scheduled act of taking one’s seat in the communal hall; the case predicates do not create another object."
+          },
+          "AliasRationale": "The alternate retains the referent because the scheduled act of taking one’s seat in the communal hall; it does not expand the entry beyond that attested use.",
+          "ModifierControls": [
+            {
+              "finding": "checked",
+              "reason": "The compound is controlled by this observed deployment: Monastic records place it in daily schedules and use it for the presiding or assembled seat."
+            }
+          ],
+          "FamilyControls": [
+            {
+              "finding": "checked",
+              "reason": "The boundary follows this entry’s limit: Incidental sitting inside any building is excluded."
+            }
+          ],
+          "IndependentWorkIds": [
+            "work:X63n1245",
+            "work:T48n2025",
+            "work:X63n1250",
+            "work:J20nB098"
+          ]
+        }
+      }
+    ]
+  }
+}

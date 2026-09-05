@@ -1,0 +1,283 @@
+{
+  "Id": "t_6ab54c86eefc",
+  "SourceTerm": "具足戒",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex construction Lane C positions31-40 explicit full-case author",
+  "WrittenUtc": "2026-07-17T11:50:57.209160+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the full ordination precepts",
+      "AlternateTargets": [
+        "full monastic precepts"
+      ],
+      "SearchAliases": [
+        "full ordination precepts",
+        "receive full precepts",
+        "confer full ordination"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Three stronger works cover direct reception and dated biographies; one early lamp recension is retained for its distinct conferral account.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0144.xml",
+          "FromLb": "0320a06",
+          "ToLb": "0320a11",
+          "Kwic": "非合亦非離。」爾時伏馱密多得聞尊者說是妙法，則五體投地，深敬作禮。爾時尊者則與出家，而命賢聖受具足戒。爾時佛陀難提告伏馱密多曰：「如來以大法眼付囑迦葉，如是展轉，吾當第八。汝受法寶，勿令斷絕。聽吾偈言：「虛空無內外，心法亦如是。",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B25/B25n0144.xml). Zutang Ji (Anthology from the Patriarchs’ Hall). The biographical compiler narrates shaving the recipient and ordering that the full precepts be conferred.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the Patriarchs' Hall compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography narrates shaving the recipient and ordering that the full precepts be conferred.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:50:57.209160+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0046c23",
+          "ToLb": "0047a24",
+          "Kwic": "殊不知貴亦如是，蓋生死貴賤如夢、如幻、如影也，直是就中隱隱濃濃一點靈光不昧，與生死際頭一點用不著，者要分曉得明白。且道者著子分曉處作麼話會？試參看。示含章張夫人示含章張夫人此事只要信得及、把得住，二六時中，茶裏、飯裏，一切處看是阿誰主張。此處看得破，當下無生死可怖，直到那不疑之地，亦無男女相拘、亦無聖凡見隔，淨盡無餘，正好作福以作資糧，漫道老僧又在打妄想也。示尼發聞示尼發聞道本無言，因言論道。然而「道」之一字猶是強立，且所學非朝夕，志在恒遠，則不期然而然，自是與道符合，契取本來面目也。示尼佛然示尼佛然此佛然者，乃吾鄉人也，幸出俗為尼，有志於道，來老僧處受具足戒，臨行欲老僧法語，非老僧吝慈，誠恐道力未堅，況有夫君兒子為累。若必欲老僧一言嘉志，老僧何敢辭之？只有兩句現成公案。何也？三醉岳陽人不識，一朝迥出萬人頭。示尼性空示尼性空出家為尼，務要形端影直，既是千不能、萬不能，正好靜地裏討箇分曉，看是阿誰。行住坐臥中畢竟是誰主張？忽地看破，始信師姑原是女人做。示尼惺惺示尼惺惺人生天地間，若賢、若愚，所貴忠孝有節，即是聖賢不墜之命脈也。試問：二六時中存心向道，覷破此箇關頭，佛也不要做，何況賢良節乎！勉之。示尼若蓮示尼若蓮百華中惟蓮華為最，所喻大道坦平，令一切人行履得若蓮華出自污泥而不染者是也，即成佛克果不二也。勉之。示尼",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming addresses a nun who came to receive the full ordination precepts.",
+          "MasterName": "Poshan Haiming",
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J28/J28nB210.xml",
+          "FromLb": "0437b06",
+          "ToLb": "0437b27",
+          "Kwic": "到來，將何作主？愁悶日增，以不能參請知識為愧。日夜精勤，長跪佛前，願此生得成正果。父母止生師一人，惜如掌珠，誨勿茹齋。師于是絕飲食，父母憫之，方隨師意。其年二十六歲，參天慈老師，依慈行為師。三十一歲，父喪。三十三歲，往金粟參密老和尚。師問云：「那裏是我安身立命處？」老和尚云：「念汝遠來，放汝三十棒。」師禮拜退。自此以後，只體究「那裏是我安身立命？」亦無入頭處。終日悶悶不樂，自惜空過時光。三十四歲，喪母，決志出家。所有屋產衣飾等，一切俱捨。翁姑兄嫂，留師不住。父母墓傍，向有祠屋，師又增置數楹，棲身參究，立誓不往俗家。三十五歲，薙髮，復往金粟密老和尚座下，受具足戒。師問：「心如杲日時如何？」密云：「你曾悟麼？」師云：「實未究竟，求和尚慈悲開示。」密連打三棒，師禮拜退。往鹽官，參二宮慈菴老師，求開示。菴指參萬法歸一，一歸何處？久無入頭。菴云：「你因緣恐不在我處，可往金粟參石車和尚。」師從之，其年三十有六。粟問：「你一向作甚麼？」師云：「參萬法歸一。」粟云：「一歸何處？」師云：「不會，求和尚開示。」師打云：「你死了、燒了向何處安身立命？」師遂跪粟前討箇落處，粟連打云：「今日畢竟要你還我落處。」師云：「我實不會。」粟云：「你是箇靈利漢，有甚不了？」師云：「只是不會。」粟云：「你參父母未生前本來面目去。」師領話，又參一年",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography states that the subject was shaved at thirty-five and received the full ordination precepts.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (J/J28/J28nB210.xml). Recorded Sayings of Chan Master Fushi Qiyuan. The biographical compiler records the subject receiving the full ordination precepts at age thirty-five.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0792c10",
+          "ToLb": "0793a02",
+          "Kwic": "秋。」蓋讖異也。歸雲門，始哭，眾請小參，舉石霜遍界不曾藏語，因云：「大眾不曾藏，東風搖拽柳絲長，紅肥綠瘦，紛紛蛺蝶度危牆，燕子雙雙遶畫梁。」遂作彈琵琶勢，云：「漫剔銀缸，夜深獨自理宮商。」喝一喝，下座。問荅次，往往驚慴，莫敢攖鋒。入天童，跨門便喝，童嘿然，師云：「停機佇思，鬼家活計。」即出，旁僧云：「錯過了也。」師隨喝，云：「陣後興兵。」復整衣進人事，童乃命茶。師請圓戒，童諾。師隨問云：「如何是無相戒？」童便打，師云：「久知有這一棒。」拂袖出。時惟一師在側，進前扭住，云：「如何是這棒落處？」師與一掌，一亦掌，師云：「瞎漢亂做。」復與一拳，各休去。是冬，受具足戒。明年，眾請入顯聖講《華嚴論》。明年，葛屺瞻太常請住龍門。龍門居翠微之巔，一嶺九曲，民俗稍遠。師至，芒鞋短袂，負薪而鬻，學徒競集。上堂：「森羅萬象，一法之所印，龍門阬裏三條橋，鸚鵡峰前九曲嶺，猢猻慣上樹，蝦蟆跳入井，還知一法麼？兩段不同，收歸上科。」未幾，辭去，太常留者三四至，師已渡錢塘，還會稽矣。明年，陶石梁國博、祁世培中丞等請赴樊江。上堂：「無縫塔蓋覆官家，喫油餈難瞞土地，三世諸佛有智而沈下寮，黧奴白牯無德而居上位，直賤非賤，直貴非貴，總不若露柱燈籠善於和會。」卓拄杖，云：「此是無諍三昧。」未幾，復赴化鹿。化鹿本葛洪舊處，祁季超明經讀書其中，從師問道",
+          "MasterName": null,
+          "Curated": true,
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography states that the subject received the full ordination precepts that winter.",
+            "ReviewedBy": "Sol final luna101 independent review",
+            "ReviewedUtc": "2026-08-02T19:30:00Z"
+          },
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. The biographical compiler records the subject receiving the full ordination precepts that winter.",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "T/T51/T51n2077.xml",
+          "FromLb": "0505c15",
+          "ToLb": "0505c20",
+          "Kwic": "相。不茹葷不嬉戲。年十一棄家師事懷玉定水院智鑾。嘗隨鑾出道上見祠廟。輒杖擊火毀之而去。十九落髮受具足戒。遠遊至廬山歸宗。老宿自寶集眾坐。而公却倚。寶時時眴之。公自是坐必跏趺。行必直視。至栖賢依諟禪師",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T51/T51n2077.xml). Continued Record of the Transmission of the Lamp (續傳燈錄): The biography dates its subject's reception of the full precepts.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the lamp-record biographical compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography dates its subject's reception of the full precepts.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:50:57.209160+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X83/X83n1578.xml",
+          "FromLb": "0426c23",
+          "ToLb": "0427a03",
+          "Kwic": "道，諸佛亦常。心無形相，其體亦然。尊者曰：汝當大悟，心自通達。宜依佛法僧，紹隆聖種。即為剃度，授具足戒。仍告之曰：汝父夢金日而生汝，可名提多迦。如來以大法眼藏，次第傳授，以至於我。今復付汝，聽吾偈言",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X83/X83n1578.xml). Record Pointing at the Moon (指月錄): The biography narrates shaving and conferral of the full precepts.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the Pointing at the Moon compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography narrates shaving and conferral of the full precepts.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:50:57.209160+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0218a06",
+          "ToLb": "0218a15",
+          "Kwic": "利無算。門人宗衍等斂諸不壞，塔於雙桂菴，分爪髮葬于靜樂。止巖成禪師法嗣止巖成禪師法嗣衢州烏石傑峰世愚禪師衢州烏石傑峰世愚禪師郡之西安余氏子。自幼好禮佛塔，弱冠棄家，投蘭谿顯教寺薙染，受具足戒。謁古崖、石門、斷崖、中峰諸大老，佩受法訓。棲止南屏，三年不踰戶限。時止巖成倡道大慈，師復往謁。成舉：南泉不是心，不是佛，不是物，是甚麼？師茫然，于是仍返南屏。一夕，聞鄰僧誦證道歌，至",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): The biography records the subject receiving full ordination precepts.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the Five Lamps Complete compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The biography records the subject receiving full ordination precepts.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:50:57.209160+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0047a03",
+          "ToLb": "0047a13",
+          "Kwic": "道本無言，因言論道。然而「道」之一字猶是強立，且所學非朝夕，志在恒遠，則不期然而然，自是與道符合，契取本來面目也。示尼佛然示尼佛然此佛然者，乃吾鄉人也，幸出俗為尼，有志於道，來老僧處受具足戒，臨行欲老僧法語，非老僧吝慈，誠恐道力未堅，況有夫君兒子為累。若必欲老僧一言嘉志，老僧何敢辭之？只有兩句現成公案。何也？三醉岳陽人不識，一朝迥出萬人頭。示尼性空示尼性空出家為尼，務要形",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan (破山禪師語錄): Poshan Haiming is the exact headword utterer. Poshan's instruction addresses a nun who came to him to receive the full precepts.",
+          "MasterName": "Poshan Haiming",
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X81/X81n1571.xml",
+          "FromLb": "0407b23",
+          "ToLb": "0407c07",
+          "Kwic": "曰：不為身心，復誰出家？答曰：夫出家者，無我我故。無我我故，即心不生滅。心不生滅，即是常道，諸佛亦常。心無形相，其體亦然。尊者曰：汝當大悟，心自通達。宜依佛法僧，紹隆聖種。即為剃度，授具足戒。仍告之曰：汝父嘗夢金日而生汝，可名提多迦。復謂曰：如來以正法眼藏，次第傳授，以至於我。今復付汝，聽吾偈言：心自本來心，本心非有法。有法有本心，非心非本法。付法已，乃踊身虗空，呈十八變",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X81/X81n1571.xml). Complete Five Lamps (Vols. 1–33) (五燈全書(第1卷-第33卷)): The independent volume passage narrates shaving and full ordination.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "biographical narration",
+            "ActorLabel": "the Five Lamps Complete compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The independent volume passage narrates shaving and full ordination.",
+            "ReviewedBy": "Codex Lane C positions31-40 explicit author",
+            "ReviewedUtc": "2026-07-17T11:50:57.209160+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [
+        {
+          "ClaimText": "來老僧處受具足戒",
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0046c23",
+          "ToLb": "0047a24",
+          "Kwic": "殊不知貴亦如是，蓋生死貴賤如夢、如幻、如影也，直是就中隱隱濃濃一點靈光不昧，與生死際頭一點用不著，者要分曉得明白。且道者著子分曉處作麼話會？試參看。示含章張夫人示含章張夫人此事只要信得及、把得住，二六時中，茶裏、飯裏，一切處看是阿誰主張。此處看得破，當下無生死可怖，直到那不疑之地，亦無男女相拘、亦無聖凡見隔，淨盡無餘，正好作福以作資糧，漫道老僧又在打妄想也。示尼發聞示尼發聞道本無言，因言論道。然而「道」之一字猶是強立，且所學非朝夕，志在恒遠，則不期然而然，自是與道符合，契取本來面目也。示尼佛然示尼佛然此佛然者，乃吾鄉人也，幸出俗為尼，有志於道，來老僧處受具足戒，臨行欲老僧法語，非老僧吝慈，誠恐道力未堅，況有夫君兒子為累。若必欲老僧一言嘉志，老僧何敢辭之？只有兩句現成公案。何也？三醉岳陽人不識，一朝迥出萬人頭。示尼性空示尼性空出家為尼，務要形端影直，既是千不能、萬不能，正好靜地裏討箇分曉，看是阿誰。行住坐臥中畢竟是誰主張？忽地看破，始信師姑原是女人做。示尼惺惺示尼惺惺人生天地間，若賢、若愚，所貴忠孝有節，即是聖賢不墜之命脈也。試問：二六時中存心向道，覷破此箇關頭，佛也不要做，何況賢良節乎！勉之。示尼若蓮示尼若蓮百華中惟蓮華為最，所喻大道坦平，令一切人行履得若蓮華出自污泥而不染者是也，即成佛克果不二也。勉之。示尼",
+          "Curated": true
+        },
+        {
+          "ClaimText": "三十五歲，薙髮，復往金粟密老和尚座下，受具足戒",
+          "RelPath": "J/J28/J28nB210.xml",
+          "FromLb": "0437b06",
+          "ToLb": "0437b27",
+          "Kwic": "到來，將何作主？愁悶日增，以不能參請知識為愧。日夜精勤，長跪佛前，願此生得成正果。父母止生師一人，惜如掌珠，誨勿茹齋。師于是絕飲食，父母憫之，方隨師意。其年二十六歲，參天慈老師，依慈行為師。三十一歲，父喪。三十三歲，往金粟參密老和尚。師問云：「那裏是我安身立命處？」老和尚云：「念汝遠來，放汝三十棒。」師禮拜退。自此以後，只體究「那裏是我安身立命？」亦無入頭處。終日悶悶不樂，自惜空過時光。三十四歲，喪母，決志出家。所有屋產衣飾等，一切俱捨。翁姑兄嫂，留師不住。父母墓傍，向有祠屋，師又增置數楹，棲身參究，立誓不往俗家。三十五歲，薙髮，復往金粟密老和尚座下，受具足戒。師問：「心如杲日時如何？」密云：「你曾悟麼？」師云：「實未究竟，求和尚慈悲開示。」密連打三棒，師禮拜退。往鹽官，參二宮慈菴老師，求開示。菴指參萬法歸一，一歸何處？久無入頭。菴云：「你因緣恐不在我處，可往金粟參石車和尚。」師從之，其年三十有六。粟問：「你一向作甚麼？」師云：「參萬法歸一。」粟云：「一歸何處？」師云：「不會，求和尚開示。」師打云：「你死了、燒了向何處安身立命？」師遂跪粟前討箇落處，粟連打云：「今日畢竟要你還我落處。」師云：「我實不會。」粟云：「你是箇靈利漢，有甚不了？」師云：「只是不會。」粟云：「你參父母未生前本來面目去。」師領話，又參一年",
+          "Curated": true
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0144.xml",
+        "J/J26/J26nB177.xml",
+        "J/J28/J28nB210.xml",
+        "J/J33/J33nB294.xml",
+        "T/T51/T51n2077.xml",
+        "X/X83/X83n1578.xml",
+        "X/X82/X82n1571.xml",
+        "X/X81/X81n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [
+        "授戒",
+        "受戒",
+        "傳戒",
+        "具足"
+      ],
+      "Explanation": "The full ordination precepts are the rule-set received when a novice or other recipient is fully ordained. Poshan Haiming addresses a nun who came to him to receive them; two biographies date their reception as a concrete institutional transition. The retained Patriarchs' Hall witness adds the distinct act of ordering that the precepts be conferred."
+    }
+  ]
+}

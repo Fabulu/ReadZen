@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "a1-blind-r1-adjudication",
+  "lane": "A1",
+  "round": "r1",
+  "rowsFile": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\a1-blind-r1-rows-20260903.json",
+    "sha256": "719aaffe455a4fddf3f5921a7314e372651e4b3711d8be4530be391ebf758a37"
+  },
+  "reviewers": {
+    "reviewer1": {
+      "inputRowsSha256": "719aaffe455a4fddf3f5921a7314e372651e4b3711d8be4530be391ebf758a37",
+      "verdictsSha256": "568b4d48c9d1110badd892f77392aec70e1d0f3b26ab9a955774d87ae3eaa24a",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\subagents\\20260903-a1-blind-r1-reviewer-1\\verdicts.json"
+    },
+    "reviewer2": {
+      "inputRowsSha256": "719aaffe455a4fddf3f5921a7314e372651e4b3711d8be4530be391ebf758a37",
+      "verdictsSha256": "769e48220d8d0a6778f8a4389d9b98423be7e4715275d78dff2887b95090b34b",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\subagents\\20260903-a1-blind-r1-reviewer-2\\verdicts.json"
+    }
+  },
+  "canaries": {
+    "plants": 7,
+    "requiredCaughtBy": "every reviewer",
+    "results": [
+      {
+        "plantId": "P1",
+        "rowId": "R0000",
+        "class": "muc-context-row",
+        "defect": "muc row claims the wrong role (respondent/utterer swap)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P2",
+        "rowId": "R0018",
+        "class": "muc-context-row",
+        "defect": "muc row MasterName mismatches the occurrence bytes",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P3",
+        "rowId": "R0036",
+        "class": "vague-reword",
+        "defect": "prose reword ADDS a claim (unevidenced master name)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P4",
+        "rowId": "R0047",
+        "class": "dangling-anchor",
+        "defect": "unanchored Chinese survivor string (not in the anchor kwic)",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P5",
+        "rowId": "R0065",
+        "class": "performer-context-row",
+        "defect": "performer bound to the wrong record's master",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P6",
+        "rowId": "R0094",
+        "class": "reviewed-fields",
+        "defect": "fabricated human ReviewedBy",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plantId": "P7",
+        "rowId": "R0112",
+        "class": "dangling-anchor",
+        "defect": "claim text not present in the anchor kwic",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      }
+    ],
+    "misses": []
+  },
+  "honestFlags": [
+    {
+      "rowId": "R0117",
+      "reviewer": "reviewer1",
+      "reason": "performer-context-row law (c) fails: 'Huitang Zuxin' is not evidenced in the pre occurrence's own bytes — the kwic (X/X66/X66n1297.xml, 師拈壓尺擊狗 case) contains neither 晦堂 nor 祖心, and the AttributionNote names only 'the compiler of this record'; which master 師 is cannot be verified from the occurrence.",
+      "row": {
+        "entry": "t_f6631a24e33e",
+        "class": "performer-context-row",
+        "si": 1,
+        "oi": 5
+      },
+      "oracleMatch": true,
+      "note": "row bytes == engine/materials oracle"
+    },
+    {
+      "rowId": "R0118",
+      "reviewer": "reviewer2",
+      "reason": "(e) the sentence cites 'the verse after 頌曰', but the kwic contains no 頌曰 anywhere; the pre GrammarEvidence adjudicates the headword clause as unquoted compiler narration ('no 曰, 云, or 問 introduces a human turn') — the added sentence contradicts both the kwic text and the standing adjudication.",
+      "row": {
+        "entry": "t_2e77bc793d0c",
+        "class": "performer-grammar-proof",
+        "si": 1,
+        "oi": 4
+      },
+      "oracleMatch": true,
+      "note": "row bytes == engine/materials oracle"
+    }
+  ],
+  "coordinatorRulings": {
+    "file": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\a1-blind-r1-coordinator-rulings-20260903.json",
+    "refuted": [
+      "R0117@reviewer1",
+      "R0118@reviewer2"
+    ],
+    "confirmed": [],
+    "unruled": []
+  },
+  "confirmedFindings": [],
+  "problems": [],
+  "verdict": "PASS"
+}

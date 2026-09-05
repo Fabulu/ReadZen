@@ -1,0 +1,198 @@
+{
+  "Id": "t_05659eb4122a",
+  "SourceTerm": "空腹高心",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex cohort-002 lane-A positions 83-100 explicit full-case adjudication",
+  "WrittenUtc": "2026-07-19T00:55:52.888405Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "empty belly and lofty mind",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "empty belly and lofty mind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Baishan Dekai, Guishan Lingyou, Shengqin, Xueling, and Daxiu Zhu use the phrase to criticize conceit without learning or substance; Shengqin also gives it as an inherited answer about wall-facing.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0847c20",
+          "ToLb": "0847c24",
+          "Kwic": "便道：『某和尚肯過我底。』裝模作樣，輕慢聖賢，空腹高心，造地獄業。此正是打頭不遇作家，到老終成骨董。所以，參玄上士，先要具一副擇法眼，親近一個明眼長老，可以與你抽釘拔楔，解黏去縛。",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Speaker: Baishan Dekai. Baishan Kai rebukes mimicry and contempt as an empty belly with a lofty mind before naming the resulting conduct."
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1042c14",
+          "ToLb": "1042c16",
+          "Kwic": "難追。教理未嘗措懷。玄道無因契悟。及至年高臈長。空腹高心不肯親附良朋。惟知倨傲未諳法律。戢斂全無。或大語",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitory Instructions for the Monastic Gate. Speaker: Guishan Lingyou. The passage is Guishan Lingyou's Admonitions, copied inside the collection; Guishan owns the authored clause and the collection compiler only carries it.",
+          "ContextActors": [
+            {
+              "Status": "identified-non-master",
+              "ActorLabel": "the collection compiler",
+              "Roles": [
+                "later-raiser"
+              ],
+              "GrammarEvidence": "The collection compiler carries Guishan Lingyou's Admonitions as an embedded copy; Guishan remains the utterer of the headword clause."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X78/X78n1556.xml",
+          "FromLb": "0659c02",
+          "ToLb": "0659c04",
+          "Kwic": "即異之，下而問曰：達磨九年面壁，意旨如何？師云：空腹高心。翌日，寶陞座，推為導首。師出世四十年，五坐道場",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X78/X78n1556.xml). Jianzhong Jingguo Continued Lamp Record. Speaker: Shengqin. Shengqin answers Dongshan Bao's wall-facing question with 'empty belly and lofty mind'; Bao promotes him the next day.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified-unlinked-master",
+            "ActorLabel": "Shengqin",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Shengqin answers Dongshan Bao's wall-facing question with 'empty belly and lofty mind'; Bao promotes him the next day.",
+            "ReviewedBy": "Codex A83-100 exhaustive-review repair",
+            "ReviewedUtc": "2026-07-19T00:38:56.408515+00:00"
+          },
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Dongshan Bao",
+              "Roles": [
+                "record-owner",
+                "teacher"
+              ],
+              "GrammarEvidence": "Shengqin answers Dongshan Bao's wall-facing question with 'empty belly and lofty mind'; Bao promotes him the next day."
+            }
+          ]
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0689b19",
+          "ToLb": "0689b22",
+          "Kwic": "洞山寶禪師席終日面壁寶問達磨九年面壁意旨如何師云空腹高心寶翌日陞堂請師充苐一座師住南源開堂日白槌云法莚龍",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Speaker: Shengqin. The old record marks Dongshan Bao's question and then Shengqin's answer; the headword is Shengqin's prose reply, not verse.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "identified-unlinked-master",
+            "ActorLabel": "Shengqin",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The old record marks Dongshan Bao's question and then Shengqin's answer; the headword is Shengqin's prose reply, not verse.",
+            "ReviewedBy": "Codex A83-100 exhaustive-review repair",
+            "ReviewedUtc": "2026-07-19T00:38:56.408515+00:00"
+          },
+          "ContextActors": [
+            {
+              "Status": "identified-unlinked-master",
+              "ActorLabel": "Dongshan Bao",
+              "Roles": [
+                "record-owner",
+                "teacher"
+              ],
+              "GrammarEvidence": "The parallel old-record passage names Shengqin as the resident master under Dongshan Bao before preserving the same answer."
+            }
+          ]
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0474a08",
+          "ToLb": "0474a10",
+          "Kwic": "前將三條篾緊束肚皮。一隊上一隊下。猶自彬彬濟濟。空腹高心。要知祖師西來意。決不是喫飽了飯悟得的。汝等諸人",
+          "MasterName": "Xueling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueling",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120). Speaker: Xueling. Xueling says an orderly procession can still be empty-bellied and high-minded before rejecting a food-based account of the ancestral coming."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0185a21",
+          "ToLb": "0185a23",
+          "Kwic": "無刻停息者；或心術不端，立身不正，而學聖道者；或空腹高心，希望付授，圖張虛名者。禪病固多，不克枚舉，冀乎",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Speaker: Daxiu Zhu. The phrase stands in Daxiu Zhu's own formal-instruction section within his recorded sayings; Daxiu authors the clause directly."
+        }
+      ],
+      "SourceTexts": [
+        "J/J39/J39nB466.xml",
+        "T/T48/T48n2023.xml",
+        "X/X78/X78n1556.xml",
+        "C/C077/C077n1710.xml",
+        "X/X82/X82n1571.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Daxiu Zhu",
+        "Dongshan Liangjie",
+        "Guishan Lingyou",
+        "Qianyan Yuanzhang",
+        "Xueling"
+      ],
+      "RelatedTerms": [
+        "高心",
+        "腹"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The phrase combines having nothing in the belly with holding the mind arrogantly high. The admonition, two inherited replies, and two formal instructions preserve the criticism under their actual authors and speakers."
+    }
+  ]
+}

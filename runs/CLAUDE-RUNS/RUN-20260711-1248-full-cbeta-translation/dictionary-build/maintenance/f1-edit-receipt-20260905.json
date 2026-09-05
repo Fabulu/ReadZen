@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "f1-edit-receipt",
+  "lane": "F1",
+  "spec": "SPEC_F1_20260905.md",
+  "cloneHead": "8457672",
+  "engine": "f1_transform_20260905.py",
+  "applied": true,
+  "products": [
+    "t_ab715aa474d5",
+    "t_351fa42d396b"
+  ],
+  "r2ProductsProtected": [
+    "t_ea2a427c7aba",
+    "t_057cc9ea8755",
+    "t_968a2f97c9ff"
+  ],
+  "editClassCounts": {
+    "occ-attribution": 2,
+    "relatedmasters-rename": 2,
+    "explanation-rewrite": 1
+  },
+  "editRecords": [
+    {
+      "class": "occ-attribution",
+      "entry": "t_ab715aa474d5",
+      "si": 1,
+      "oi": 2,
+      "oldMasterName": "Dehui",
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActorAttribution": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "RungsChecked": [
+          "line",
+          "expanded-context",
+          "section-header",
+          "book-title",
+          "tei-header",
+          "parallel-passage"
+        ],
+        "ReviewedBy": "F1 follow-up correction lane author",
+        "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+        "GrammarEvidence": "The complete case was read for who utters 一日不作一日不食. The passage sits in the code's communal-labor (普請) section: the regulations direct all but the watch, the duty-bound, the old, and the sick to attend communal labor together and to bear in mind the ancients' admonition — 古人 marks the maxim as inherited precedent quoted by the code, not a speaking turn. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+      },
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): file T/T48/T48n2025.xml; exact actor: Dehui. The full-case proof distinguishes this actor from nearby respondents, questioners, and section subjects.",
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's communal-labor (普請) section — imperially re-edited by Dongyang Dehui (元 德煇重編) — directs all but the watch, the duty-bound, the old, and the sick to attend communal labor together, bearing in mind the ancients' admonition 'a day without work is a day without food' (當思古人一日不作一日不食之誡)",
+      "carried": {
+        "RelPath": "T/T48/T48n2025.xml",
+        "FromLb": "1144b03",
+        "ToLb": "1144b04",
+        "Kwic": "並宜齊赴。當思古人一日不作一日不食之誡。",
+        "Curated": true
+      }
+    },
+    {
+      "class": "occ-attribution",
+      "entry": "t_351fa42d396b",
+      "si": 1,
+      "oi": 1,
+      "oldMasterName": "Dehui",
+      "newMasterName": null,
+      "newContextMasters": [
+        {
+          "MasterName": "Dongyang Dehui",
+          "Roles": [
+            "compiler"
+          ]
+        }
+      ],
+      "newActorAttribution": {
+        "Status": "impersonal",
+        "Kind": "institutional procedure",
+        "ActorLabel": "the monastic code's institutional voice",
+        "ActorRole": "compiler",
+        "RungsChecked": [
+          "line",
+          "expanded-context",
+          "section-header",
+          "book-title",
+          "tei-header",
+          "parallel-passage"
+        ],
+        "ReviewedBy": "F1 follow-up correction lane author",
+        "ReviewedUtc": "2026-09-05T01:34:58+02:00",
+        "GrammarEvidence": "The complete case was read for who utters 粥飯. The passage sits in the code's funeral-observance (遷化) sequence: it is serialized scheduling regulation for the mourning period — gruel and rice at two times, tea and hot water at three, the assembly reciting sutras — with no dialogue frame and no first person. This stored token is assigned to the monastic code's institutional voice; no record owner is substituted merely because the passage occurs in that owner's record."
+      },
+      "oldAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規). Redacted by Dehui, prescribes gruel and rice at two times and tea and hot water at three during funeral observances.",
+      "newAttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations (勅修百丈清規): the monastic code's institutional voice, in the code's funeral-observance sequence — imperially re-edited by Dongyang Dehui (元 德煇重編) — prescribes gruel and rice at two times and tea and hot water at three during funeral observances, with the assembly reciting sutras",
+      "carried": {
+        "RelPath": "T/T48/T48n2025.xml",
+        "FromLb": "1127c04",
+        "ToLb": "1127c10",
+        "Kwic": "二時上粥飯。三時上茶湯。大眾諷經",
+        "Curated": true
+      }
+    },
+    {
+      "class": "relatedmasters-rename",
+      "entry": "t_ab715aa474d5",
+      "si": 1,
+      "renamed": {
+        "old": "Dehui",
+        "new": "Dongyang Dehui"
+      },
+      "postRelatedMasters": [
+        "Baizhang Huaihai",
+        "Dongyang Dehui",
+        "Hongzhi Zhengjue"
+      ]
+    },
+    {
+      "class": "relatedmasters-rename",
+      "entry": "t_351fa42d396b",
+      "si": 1,
+      "renamed": {
+        "old": "Dehui",
+        "new": "Dongyang Dehui"
+      },
+      "postRelatedMasters": [
+        "Baizhang Huaihai",
+        "Dongyang Dehui",
+        "Zhaozhou Congshen",
+        "Baoning Renyong"
+      ]
+    },
+    {
+      "class": "explanation-rewrite",
+      "entry": "t_351fa42d396b",
+      "si": 1,
+      "field": "Explanation",
+      "oi": null,
+      "before": "redacted by Dehui,",
+      "after": "redacted by Dongyang Dehui,"
+    }
+  ],
+  "entryShas": {
+    "t_ab715aa474d5": "39e33fd4fb90ae02850ede808d9a9cbf7c6190239116555674d7a39e18006ebe",
+    "t_351fa42d396b": "9e261eb04a22e9c939ce149d1034ae47afa649f7bdd11034270a83813caada2d"
+  }
+}

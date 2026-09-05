@@ -1,0 +1,37 @@
+{
+  "reviewer": "reviewer1",
+  "materialsPinsOk": true,
+  "rowsChecked": 11,
+  "flags": [
+    {
+      "row": "R0001",
+      "laws": [
+        "A2"
+      ],
+      "claim": "carriedKwic '並宜兼赴。當思古人一日不作一日不食之誡。'",
+      "actual": "staged Kwic '並宜齊赴。當思古人一日不作一日不食之誡。'",
+      "divergingBytes": "A2 carriedKwic: first divergence at char index 2: claimed 兼 U+517C utf8=E5 85 BC | actual 齊 U+9F4A utf8=E9 BD 8A | claimed ctx '並宜兼赴。當思古人一日不作一' | actual ctx '並宜齊赴。當思古人一日不作一'"
+    },
+    {
+      "row": "R0004",
+      "laws": [
+        "D1",
+        "D2"
+      ],
+      "claim": "entryCount={'after': 4715, 'before': 4715} | changedSetEqualsWorklist=False",
+      "actual": "surface-facts entryCount={'before': 4715, 'after': 4716}; absent-on-main material set=['t_351fa42d396b'] (=addedSet) implies after=before+1 | ids differing between main-head and staged materials: ['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba'] (worklist=['t_057cc9ea8755', 't_351fa42d396b', 't_968a2f97c9ff', 't_ab715aa474d5', 't_ea2a427c7aba'])",
+      "divergingBytes": "row after=4715 but surface-facts after=4716 (before 4715 + 1 added entry ['t_351fa42d396b']) | materials show all 5 product ids differ, so the claim must be true"
+    },
+    {
+      "row": "R0007",
+      "laws": [
+        "B1",
+        "B2"
+      ],
+      "claim": "oldWindowPresent=True | oldMasterName='Dehui' oldContextMasters=None oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: the fabricated pre-publication main note'",
+      "actual": "main-head-t_ea2a427c7aba.json does NOT contain an occurrence RelPath='T/T48/T48n2025.xml' FromLb='1143a07' | no main-head occurrence",
+      "divergingBytes": "row claims oldWindowPresent=True but main-head material does not contain the window | row claims oldMasterName='Dehui' oldContextMasters=None oldAttributionNote='Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Re' but window is absent on main so all three must be null"
+    }
+  ],
+  "notes": "All 11 materialsPins verified by sha256 over raw bytes before review. Rows identified by deck position R0000..R0010. rowSha ignored per instructions. Clean rows: R0000, R0002, R0003, R0005, R0006, R0008, R0009, R0010. Flagged: R0001(A2), R0004(D1,D2), R0007(B1,B2)."
+}

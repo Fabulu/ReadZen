@@ -1,0 +1,184 @@
+{
+  "Id": "t_76ee526a2b16",
+  "SourceTerm": "沙彌戒",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f004 lane B complete-case author",
+  "WrittenUtc": "2026-07-15T10:38:49.311314+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "novice precepts",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "novice precepts"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "5 distinct work IDs selected after complete-case actor review.",
+      "SourceTexts": [
+        "J/J40/J40nB494.xml",
+        "X/X63/X63n1245.xml",
+        "J/J39/J39nB460.xml",
+        "J/J40/J40nB493.xml",
+        "J/J39/J39nB447.xml"
+      ],
+      "RelatedMasters": [
+        "Yushan Si",
+        "Huizhou Hao",
+        "Muting Pufu",
+        "Meixi Fudu"
+      ],
+      "RelatedTerms": [
+        "戒",
+        "十戒"
+      ],
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0534a03",
+          "ToLb": "0534a03",
+          "Kwic": "說沙彌戒，日月輪上座請陞座。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan (雨山和尚語錄): Full-case reading: A service heading reports Yushan Si preaching the novice precepts at Riyuelun's request; Yushan performs the preaching but the compiler owns the heading.",
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Si",
+              "Roles": [
+                "record-owner",
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "service heading",
+            "ActorLabel": "the Yushan Si record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "A service heading reports Yushan Si preaching the novice precepts at Riyuelun's request; Yushan performs the preaching but the compiler owns the heading.",
+            "ReviewedBy": "Codex reviewer-REVISE full-case repair",
+            "ReviewedUtc": "2026-07-16T10:00:00Z",
+            "HeadingType": "section"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "J/J39/J39nB460.xml",
+          "FromLb": "0729c30",
+          "ToLb": "0729c30",
+          "Kwic": "受沙彌戒，護法高魁請上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB460.xml). Recorded Sayings of Chan Master Huizhou Hao of Wanshan, Luanzhou (灤州萬善暉州昊禪師語錄): Full-case reading: A service heading reports Huizhou Hao administering novice precepts and then ascending the hall; the compiler owns receiving the novice precepts.",
+          "ContextMasters": [
+            {
+              "MasterName": "Huizhou Hao",
+              "Roles": [
+                "record-owner",
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "service heading",
+            "ActorLabel": "the Huizhou Hao record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "A service heading reports Huizhou Hao administering novice precepts and then ascending the hall; the compiler owns receiving the novice precepts.",
+            "ReviewedBy": "Codex reviewer-REVISE full-case repair",
+            "ReviewedUtc": "2026-07-16T10:00:00Z",
+            "HeadingType": "section"
+          },
+          "MasterName": null
+        },
+        {
+          "RelPath": "J/J40/J40nB493.xml",
+          "FromLb": "0503a06",
+          "ToLb": "0503a08",
+          "Kwic": "進云：「如何是沙彌戒？」「殺。」「如何是比邱戒？」「盜。」「如何是菩薩戒？」「淫。」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan (磬山牧亭樸夫拙禪師語錄): The advancing monastic questioner is unnamed: Speaker: the unnamed advancing monastic questioner.",
+          "ContextMasters": [
+            {
+              "MasterName": "Muting Pufu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "monastic questioner",
+            "ActorLabel": "the unnamed advancing monastic questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "進云 introduces the genuine contiguous 沙彌戒 question; Muting Pufu's answer follows after the question.",
+            "ReviewedBy": "Codex real-read cohorts 4-6",
+            "ReviewedUtc": "2026-07-15T20:43:30.519301+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0391c13",
+          "ToLb": "0391c13",
+          "Kwic": "師傳沙彌戒，上堂。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan (東山梅溪度禪師語錄): Full-case reading: A service heading reports Meixi Fudu transmitting novice precepts before a hall address; the compiler owns transmitting the novice precepts.",
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "record-owner",
+                "person-described"
+              ]
+            }
+          ],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "service heading",
+            "ActorLabel": "the Meixi Fudu record compiler",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "A service heading reports Meixi Fudu transmitting novice precepts before a hall address; the compiler owns transmitting the novice precepts.",
+            "ReviewedBy": "Codex reviewer-REVISE full-case repair",
+            "ReviewedUtc": "2026-07-16T10:00:00Z",
+            "HeadingType": "section"
+          },
+          "MasterName": null
+        }
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The novice precepts received and kept by a śrāmaṇera. Biographies and ordination records treat these as the novice’s binding rules, distinguishing that disciplinary status from full ordination while retaining the hard-rule sense of a precept."
+    }
+  ]
+}

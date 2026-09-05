@@ -1,0 +1,79 @@
+{
+ "schemaVersion": "r1b-blind-r1-plants",
+ "honestRows": 47,
+ "plants": 7,
+ "slots": [
+  0,
+  13,
+  16,
+  32,
+  35,
+  48,
+  51
+ ],
+ "registry": [
+  {
+   "plantId": "P1",
+   "rowSlot": 0,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "cb8e6f07e928990953afdfa0ccb805ba05b554705914260ce6c050d5b6f12cdd",
+   "entry": "t_022d58242948",
+   "class": "occ-remove-retired",
+   "defect": "relPath swapped to the other retired rel (pre bytes contradict)"
+  },
+  {
+   "plantId": "P2",
+   "rowSlot": 13,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "2882d9be9c51180fa241f52c39d52d0df4a54f5037c4f53d9dc78a7ed3b5ee40",
+   "entry": "t_022d58242948",
+   "class": "occ-remove-retired",
+   "defect": "oi off-by-one (row points at a surviving occurrence)"
+  },
+  {
+   "plantId": "P3",
+   "rowSlot": 16,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "95817ff9d7962ea3d91a88a876d0ef6bc006afc9ab8c6f0d7882d7f1dd029700",
+   "entry": "t_0c53a5a2243b",
+   "class": "occ-remove-retired",
+   "defect": "si off-by-one (row points into the wrong sense)"
+  },
+  {
+   "plantId": "P4",
+   "rowSlot": 32,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "5162fbd846b08cc147d6a36420afa8d659a677093837f4783d7a7450dc340ff9",
+   "entry": "t_13951a5b5260",
+   "class": "occ-remove-retired",
+   "defect": "removedKwic mutated (mismatches the pre occurrence)"
+  },
+  {
+   "plantId": "P5",
+   "rowSlot": 35,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "fa1f9d83c6b964e295e0e95aa9ac7f4a39795f648185bc6bdd9dd32c5d183942",
+   "entry": "t_50d75aeeeef1",
+   "class": "note-count-rewrite",
+   "defect": "note after-sentence count inflated (contradicts POST materials)"
+  },
+  {
+   "plantId": "P6",
+   "rowSlot": 48,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "fba174d23eff95712f756f4671eea441d7b3439280a2111c806880194f7914b3",
+   "entry": "t_022d58242948",
+   "class": "occ-remove-retired",
+   "defect": "fabricated removal of a survivor (post still holds it)"
+  },
+  {
+   "plantId": "P7",
+   "rowSlot": 51,
+   "bindPayloadKind": "rowSha",
+   "bindPayloadSha256": "870836cfcdd082441082b0a9fe54df11c8d2efcf09254ee4218151ae1365439d",
+   "entry": "t_5306489d35c6",
+   "class": "occ-remove-retired",
+   "defect": "masterName mutated (mismatches the pre occurrence)"
+  }
+ ]
+}

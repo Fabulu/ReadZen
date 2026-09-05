@@ -1,0 +1,115 @@
+{
+  "Id": "t_c100443a64c1",
+  "SourceTerm": "言端語端",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Codex luna150r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "at the point of words and phrases",
+      "AlternateTargets": [
+        "within words and phrases"
+      ],
+      "SearchAliases": [
+        "at the point of words and phrases",
+        "words and phrases"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained Tier 2 witnesses preserve the same attributed formulation; one lamp hall address is retained as a distinct use. Other lamp verse repetition is removed.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0142a03",
+          "ToLb": "0142a09",
+          "Kwic": "趙州不答話。不為人說。殊不知。當面蹉過。至道無難言端語端一有多種二無兩般天際日上月下檻前山深水寒髑髏識盡",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-quoter",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo (佛果圜悟禪師碧巖錄). Speaker: Xuedou Chongxian."
+        },
+        {
+          "RelPath": "X/X67/X67n1302.xml",
+          "FromLb": "0256b14",
+          "ToLb": "0256b18",
+          "Kwic": "裏？州云：問事即得，禮拜了退。○總結。至道無難，言端語端。一有多種，二無兩般。天際日上月下，檻前山深水寒",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Tianqi Benrui",
+              "Roles": [
+                "later-quoter",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1302.xml). The Solitary Elder Qiongjue’s Direct Notes by Tianqi on Master Xuedou Xian’s Verses on Ancient Cases (焭絕老人天奇直註雪竇顯和尚頌古). Speaker: Xuedou Chongxian."
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0107a17",
+          "ToLb": "0107a20",
+          "Kwic": "故鄉田地，猶遭頂上一鎚。上堂：正月孟春猶寒，直下言端語端。拈起衲僧鼻孔，穿開祖佛心肝。知有者，達磨不來東",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Speaker: Xichan Wenlian 西禪文璉.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "explicitly named person",
+            "ActorLabel": "Xichan Wenlian 西禪文璉",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Xichan Wenlian 西禪文璉: The governing section opens at 0107a06 as 遂寧府西禪文璉禪師; the retained phrase lies within that uninterrupted section at 0107a17–0107a20, before its close after 0107b01.",
+            "ReviewedBy": "Codex cohort-002 lane A author",
+            "ReviewedUtc": "2026-07-18T23:30:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X67/X67n1302.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Yuanwu Keqin",
+        "Tianqi Benrui"
+      ],
+      "RelatedTerms": [
+        "至道無難"
+      ],
+      "Explanation": "At the point of words and phrases marks the very place where speech is being made, rather than a truth set apart from language. Yuanwu’s Blue Cliff Record and Tianqi’s notes preserve the line: “The Way has no difficulty; at the point of words and phrases, one has many kinds, two have no two ways.” A lamp hall address says that in the cold of early spring one is directly at that point. The phrase keeps the reader at the concrete turn of speaking instead of turning the line into a claim about an ineffable realm."
+    }
+  ]
+}

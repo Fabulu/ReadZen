@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "r1b-gates",
+  "lane": "R1b",
+  "cloneHead": "87a6975",
+  "products": 43,
+  "attribution43": {
+    "failureRows": 2,
+    "kinds": [
+      "narrated_action_performer_missing"
+    ],
+    "expectedResidual": [
+      [
+        "s1 o1",
+        "narrated_action_performer_missing"
+      ],
+      [
+        "s1 o2",
+        "narrated_action_performer_missing"
+      ]
+    ],
+    "actualResidual": [
+      [
+        "s1 o1",
+        "narrated_action_performer_missing"
+      ],
+      [
+        "s1 o2",
+        "narrated_action_performer_missing"
+      ]
+    ],
+    "residualRowsOk": true
+  },
+  "depth": {
+    "entries": 43,
+    "improved": [
+      "t_044652c7b411",
+      "t_05659eb4122a",
+      "t_1383f942789d",
+      "t_13951a5b5260",
+      "t_1b94d664ca7a",
+      "t_32289452a85b",
+      "t_36b1824beee5",
+      "t_41476f956295",
+      "t_428c42ea1c8f",
+      "t_4b1aa91dd297",
+      "t_4e0636f53520",
+      "t_5306489d35c6",
+      "t_5b93919eced9",
+      "t_76ee526a2b16",
+      "t_88dac6848042",
+      "t_aa45c307e9f1",
+      "t_acd15cd3ba91",
+      "t_b4c37e2f25c3",
+      "t_bea7c499e294",
+      "t_c513dc22845c",
+      "t_c968c2829eeb",
+      "t_e52f4bdc4110",
+      "t_f9bb8b44b32f"
+    ],
+    "regressed": [],
+    "clearedKwaSites": 46,
+    "clearedSourcePairs": 44,
+    "expectedClearedSourcePairs": 44,
+    "expectedKeptSourcePairs": 0,
+    "belowFloorSurfaced": [
+      "t_022d58242948",
+      "t_0c53a5a2243b",
+      "t_3b9857d1cc19",
+      "t_50d75aeeeef1",
+      "t_5ab995298e4e",
+      "t_9ba11d160033",
+      "t_a5ffef8b3f2d",
+      "t_b97e19fa54b2",
+      "t_c945c2cc0e79",
+      "t_cf2b777134bb",
+      "t_d26799ff3ae1",
+      "t_d7725cb0c8c0",
+      "t_dc24f92ead78",
+      "t_e9adcb470950",
+      "t_ea85b794ca42",
+      "t_ef5beb628603",
+      "t_f0cb4dcfc70c",
+      "t_f26addce7844",
+      "t_f5e1fe96407c",
+      "t_fe03a2a24e00"
+    ],
+    "unlawful": [],
+    "reviewMoved": []
+  },
+  "removalCoverage": {
+    "occRecords": 46,
+    "failures": []
+  },
+  "determinism": {
+    "nondeterministic": false
+  },
+  "confinement": {
+    "mismatch": []
+  },
+  "byteDiff": {
+    "escaped": [],
+    "empty": []
+  },
+  "offWorklist": {
+    "entriesBefore": 4504,
+    "entriesNow": 4504,
+    "changed": [
+      "t_022d58242948",
+      "t_044652c7b411",
+      "t_05659eb4122a",
+      "t_0c53a5a2243b",
+      "t_1383f942789d",
+      "t_13951a5b5260",
+      "t_1b94d664ca7a",
+      "t_32289452a85b",
+      "t_36b1824beee5",
+      "t_3b9857d1cc19",
+      "t_41476f956295",
+      "t_428c42ea1c8f",
+      "t_4b1aa91dd297",
+      "t_4e0636f53520",
+      "t_50d75aeeeef1",
+      "t_5306489d35c6",
+      "t_5ab995298e4e",
+      "t_5b93919eced9",
+      "t_76ee526a2b16",
+      "t_88dac6848042",
+      "t_9ba11d160033",
+      "t_a5ffef8b3f2d",
+      "t_aa45c307e9f1",
+      "t_acd15cd3ba91",
+      "t_b4c37e2f25c3",
+      "t_b97e19fa54b2",
+      "t_bea7c499e294",
+      "t_c513dc22845c",
+      "t_c945c2cc0e79",
+      "t_c968c2829eeb",
+      "t_cf2b777134bb",
+      "t_d26799ff3ae1",
+      "t_d7725cb0c8c0",
+      "t_dc24f92ead78",
+      "t_e52f4bdc4110",
+      "t_e9adcb470950",
+      "t_ea85b794ca42",
+      "t_ef5beb628603",
+      "t_f0cb4dcfc70c",
+      "t_f26addce7844",
+      "t_f5e1fe96407c",
+      "t_f9bb8b44b32f",
+      "t_fe03a2a24e00"
+    ],
+    "changedIsExactlyWorklist": true
+  },
+  "fleet": {
+    "preFailingPairs": 2993,
+    "postFailingPairs": 2993,
+    "newlyFailingPairs": [],
+    "resolvedPairs": [],
+    "worklistRowsPost": [
+      [
+        "t_b97e19fa54b2",
+        "narrated_action_performer_missing",
+        "坐堂 s1 o1: narrated physical action records only the narrator/recorder; bind the recoverable performer separately as ContextMasters/ContextActors or with an explicit closed Action performer proof in GrammarEvidence"
+      ],
+      [
+        "t_b97e19fa54b2",
+        "narrated_action_performer_missing",
+        "坐堂 s1 o2: narrated physical action records only the narrator/recorder; bind the recoverable performer separately as ContextMasters/ContextActors or with an explicit closed Action performer proof in GrammarEvidence"
+      ]
+    ]
+  },
+  "verdict": "CLEAN",
+  "problems": []
+}

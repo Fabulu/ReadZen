@@ -1,0 +1,93 @@
+{
+  "Id": "t_ff91d085da8d",
+  "SourceTerm": "道得",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "luna168r2 semantic author",
+  "WrittenUtc": "2026-08-08T00:00:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "manage to say it",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "manage to say it",
+        "道得"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase can be made conditional, evaluative, or comparative without changing its referent.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0618a05",
+          "ToLb": "0618a10",
+          "Kwic": "問依經觧義三世佛冤離經一字如同魔說時如何師云固守𨔝靜三世佛冤此外別求如同魔說馬祖令人馳書并醬三瓮與師師令排向法堂前乃上堂眾纔集師以拄杖指醬瓮云道得即不打破道不得即打破眾無語師便打破歸方丈。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters (古尊宿語錄): Baizhang Huaihai utters the headword-bearing clause, as established by reading the complete case and its speech frame.",
+          "MasterName": "Baizhang Huaihai"
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0011b04",
+          "ToLb": "0011b05",
+          "Kwic": "是即是，也只道得一半。",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gushan Xian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases” (宗門拈古彙集): Gushan Xian utters the headword-bearing clause, as established by reading the complete case and its speech frame.",
+          "MasterName": "Gushan Xian"
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0005b18",
+          "ToLb": "0005b19",
+          "Kwic": "師曰：山僧有一問，居士若道得即請坐，道不得即輸腰下玉帶子。",
+          "Curated": true,
+          "MasterName": "Foyin Liaoyuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Foyin Liaoyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)): Foyin Liaoyuan utters the headword. The section header and master-said frame assign this challenge to Foyin Liaoyuan."
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1296.xml",
+        "X/X82/X82n1571.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Gushan Xian",
+        "Foyin Liaoyuan"
+      ],
+      "RelatedTerms": [
+        "三歳孩兒雖道得、八十老人行不得",
+        "作麼生道",
+        "無語",
+        "道得也三十棒、道不得也三十棒",
+        "道得八成"
+      ],
+      "Explanation": "Manage to say it means produce the demanded answer in the present exchange. Baizhang Huaihai says the jars will not be broken if the assembly can say it; Gushan Xian judges a reply ‘only half said’; Foyin Liaoyuan makes sitting or surrendering a belt depend on whether the layman can say it."
+    }
+  ]
+}

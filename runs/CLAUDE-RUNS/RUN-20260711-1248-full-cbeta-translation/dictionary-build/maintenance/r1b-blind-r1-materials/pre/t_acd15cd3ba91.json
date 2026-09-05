@@ -1,0 +1,127 @@
+{
+  "Id": "t_acd15cd3ba91",
+  "SourceTerm": "饒人不是癡",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "author_from_packet",
+  "WrittenUtc": "2026-07-19T15:56:55.569058Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sparing someone is not foolishness",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "to spare someone is not folly",
+        "letting someone off is not stupidity"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Case appraisal, letting one move pass, declining a penalty, and conduct instruction all preserve deliberate restraint as the shared act.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1297.xml",
+          "FromLb": "0394b04",
+          "ToLb": "0394b05",
+          "Kwic": "何事臨場欠作家？祇緣別有好生涯。饒人不是癡男女，最毒於菟無齒牙。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1297.xml). Grove of the Mirror of the School. The anonymous appraisal poet supplies the line before the compiler returns to the Zhaozhou case; no personal name is supplied by the six source rungs.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler-unassigned appraisal stanza",
+            "ActorLabel": "the anonymous appraisal poet",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "the anonymous appraisal poet is the speaker established by the line, expanded context, section header, book title, TEI header, and parallel passage.",
+            "ReviewedBy": "author_from_packet",
+            "ReviewedUtc": "2026-07-19T15:56:55.569058Z"
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0008a05",
+          "ToLb": "0008a17",
+          "Kwic": "有人辨得，許你天下橫行。神鼎僼云：叢林商量，盡道知恩報恩，殊不知落在驢前馬後。若是天童，便與摩頂授記。善哉，善哉！如是，如是！不妨遞代相傳。龍華體云：韶陽雖則據令，終是賊過張弓。若要天下太平，不如放過一着。何故饒人不是癡？崇先奇云：總謂雲門跨竈也是疾行，先長臯亭也與雲門一棒，貴圖兩得相見，爾等還甘麼？萬壽範云：黃面老子固已誇大而涉險，跛足阿師豈非忠耿而蹈譏？仔細檢點將來，二者皆為不了。何故？不見道：天下有道，則庶人不議。洞山昱云：世尊手忙脚亂，自生驚怪。雲門棒雖有眼",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The compiler explicitly introduces the judgment with “Longhua Ti says,” making Longhua Ti the quoted utterer.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "section-named Chan teacher absent from the canonical roster",
+            "ActorLabel": "Longhua Ti",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Longhua Ti is the speaker established by the line, expanded context, section header, book title, TEI header, and parallel passage.",
+            "ReviewedBy": "author_from_packet",
+            "ReviewedUtc": "2026-07-19T15:56:55.569058Z"
+          }
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0317b12",
+          "ToLb": "0317b13",
+          "Kwic": "雖然如是，放過也好。會麼？饒人不是癡漢。",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu says that letting the interlocutor off is good, then quotes the proverb."
+        },
+        {
+          "RelPath": "T/T48/T48n2023.xml",
+          "FromLb": "1081a19",
+          "ToLb": "1081b05",
+          "Kwic": "成者難。諸寮供過要精勤。掃地煎茶莫厭頻。事眾若能常謹切。身心方是出家人。有時緣幹出街頭。照顧溈山水牯牛。門外草深常管帶。等閑失却恐難收。拳手相交不可為。粗豪非是出家兒。遭人唾面須揩却。到底饒人不是癡。三通浴鼓入堂時。觸淨須分上下衣。語笑高聲皆不可。莫將粗行破威儀。出家言行要相應。戰戰常如履薄氷。雖是未除鬚與𩬊。直教去就便如僧。勉僧看病勉僧看病靈岩石刻四海無家病比丘。孤燈獨照破床頭。寂寥心在呻吟裡。粥藥須人仗道流。病人易得生煩惱。健者長懷惻隱心。彼此夢身安可保。老僧書",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2023.xml). Admonitory Instructions for the Monastic Gate. The section “Cishou’s instruction to young attendants” presents Cishou Huaishen’s verse containing the proverb."
+        }
+      ],
+      "SourceTexts": [
+        "X/X66/X66n1297.xml",
+        "X/X66/X66n1296.xml",
+        "X/X71/X71n1414.xml",
+        "T/T48/T48n2023.xml"
+      ],
+      "RelatedMasters": [
+        "Cishou Huaishen",
+        "Liao'an Qingyu"
+      ],
+      "RelatedTerms": [
+        "放過"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "This proverb says that deliberately sparing a person or letting a move pass is not foolishness. A verse applies it to leaving an opponent alive; Longhua Ti joins it to letting one move pass, Liao’an Qingyu uses it after declining the full penalty, and Cishou Huaishen uses it in instruction to endure insult rather than retaliate."
+    }
+  ]
+}

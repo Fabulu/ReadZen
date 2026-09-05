@@ -1,0 +1,134 @@
+{
+  "Id": "t_b95cbb303b12",
+  "SourceTerm": "垂問",
+  "CreatedBy": "Codex",
+  "WrittenUtc": null,
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "put a question",
+      "AlternateTargets": [
+        "pose a question",
+        "bestow a question"
+      ],
+      "Status": "preferred",
+      "Explanation": "Literally, to let a question descend or to bestow a question. In Chan records it marks a master putting a question to monks and requiring an answer. The heading “questions put in the room” places it in the entering-interview setting; one such question asks how the patriarchal mind-seal is inscribed and how deep the buddhas' source is. A monk later recalls a question bestowed the previous day—“since it is not mind, not buddha, and not a thing, what is it after all?”—and returns to request instruction. Records also show questions put before a group: on a snowy day the master asks why the solitary peak is not white when snow covers the thousand mountains, and elsewhere monks give several replies to “when there is no buddha in the hall, what then?”, none of which the master accepts. The term therefore names an observable part of Chan's interview machinery: the master publicly or privately puts the question, monks answer or fail to answer, and the record preserves the ensuing acceptance, rejection, substitute response, shout, or blow.",
+      "Validation": "multi-source",
+      "Note": "The literal downward/bestowing graph is retained in the alternate target, but ordinary English “put a question” best fits the repeated record headings and speaker turns. It is related to asking (問), public question-and-answer, answers supplied for others, and entering the room, but is not interchangeable with them.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0039a12",
+          "ToLb": "0039a13",
+          "Kwic": "室中垂問曰：祖師心印，篆作何文？諸佛本源，深之多少？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Full-case review identifies Renshan Qingxian as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Renshan Qingxian",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0116c20",
+          "ToLb": "0116c21",
+          "Kwic": "昨日蒙和尚垂問：既不是心，又不是佛，又不是物，畢竟是甚麼？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps (Vols. 34–120) (五燈全書(第34卷-第120卷)). Full-case review identifies Fozhao Deguang as the actor.",
+          "MasterName": "Fozhao Deguang",
+          "ContextMasters": [
+            {
+              "MasterName": "Fozhao Deguang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0651c19",
+          "ToLb": "0651c19",
+          "Kwic": "雪日，垂問：「雪覆千山，為什麼孤峰不白？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang (頻吉祥禪師語錄). Full-case review identifies Pin Jixiang as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Pin Jixiang",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0364b23",
+          "ToLb": "0364b23",
+          "Kwic": "師落堂，垂問：「衣裏有珠即不問，堂中無佛時如何？」",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe (古雪哲禪師語錄). Full-case review identifies Guxue Zhe as the exact headword-bearing speaker, author, or grammatical actor.",
+          "MasterName": "Guxue Zhe",
+          "ContextMasters": []
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0589a11",
+          "ToLb": "0589a13",
+          "Kwic": "師垂問石霜道休去歇去端明的什麼邊事岳侍者云一人垂拱萬國咸甯師云何不道薰風自南來殿閣生微凉",
+          "Curated": true,
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin (普濟玉琳國師語錄). Yulin Tongxiu (玉琳) puts a test question on Shishuang Qingzhu's (石霜) words of ceasing and resting, asking on which side of things the distinct illumination lies; when the attendant Yue answers with the sovereign resting in majesty while all the realm is at peace, Yulin asks why he does not rather say the warm wind comes from the south.",
+          "MasterName": "Yulin Tongxiu",
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Qingzhu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ]
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0058b25",
+          "ToLb": "0058b25",
+          "Kwic": "佛果勤凡垂問學者，擬議則一拳。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun (密雲禪師語錄). In his verses on the old cases, Miyun Yuanwu (密雲) cites how Yuanwu Keqin (佛果勤), whenever he put questions to the trainees (垂問學者), met the slightest deliberation with a single blow.",
+          "MasterName": "Yuanwu Keqin",
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "action-performer"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ]
+        }
+      ],
+      "SourceTexts": [
+        "X/X82/X82n1571.xml",
+        "J/J39/J39nB454.xml",
+        "J/J28/J28nB208.xml",
+        "B/B27/B27n0152.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "問",
+        "問答",
+        "問話",
+        "室中",
+        "入室",
+        "代語",
+        "下語"
+      ],
+      "SearchAliases": []
+    }
+  ]
+}

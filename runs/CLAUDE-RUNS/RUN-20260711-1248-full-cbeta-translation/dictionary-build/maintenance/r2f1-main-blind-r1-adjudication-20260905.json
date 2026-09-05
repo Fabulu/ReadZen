@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "r2f1-main-blind-r1-adjudication",
+  "cohort": "r2f1-main-20260905",
+  "round": "r1",
+  "rowsFile": {
+    "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r2f1-main-blind-r1-rows-20260905.json",
+    "sha256": "dd088e555085d8f33b7d4f293bd9dcf4f3f2d4d38a077aca2937db365d83b691"
+  },
+  "reviewers": {
+    "reviewer1": {
+      "inputRowsSha256": "dd088e555085d8f33b7d4f293bd9dcf4f3f2d4d38a077aca2937db365d83b691",
+      "verdictsSha256": "845f36fbe1237f3e99eaaae655ca700842ab392b1cc4cf7a05c3e23ecc48a0d4",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260905-r2f1-blind-r1-reviewer-1\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0001": 1,
+        "R0004": 1,
+        "R0007": 1
+      }
+    },
+    "reviewer2": {
+      "inputRowsSha256": "dd088e555085d8f33b7d4f293bd9dcf4f3f2d4d38a077aca2937db365d83b691",
+      "verdictsSha256": "b68957743b89916d9cda9c912833391cd9758d91c8c98fe859d2dd82df42b76d",
+      "path": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\subagents\\20260905-r2f1-blind-r1-reviewer-2\\verdicts.json",
+      "schema": "flags-based",
+      "flagCounts": {
+        "R0001": 1,
+        "R0004": 2,
+        "R0007": 3
+      }
+    }
+  },
+  "canaries": {
+    "plants": 3,
+    "requiredCaughtBy": "every reviewer",
+    "results": [
+      {
+        "plant": "kwic-mutation-ab715",
+        "rowId": "R0001",
+        "slotKind": "occ-attribution",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plant": "count-hides-add",
+        "rowId": "R0004",
+        "slotKind": "surface-census",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      },
+      {
+        "plant": "fabricated-old-window-ea2-1143a07",
+        "rowId": "R0007",
+        "slotKind": "occ-attribution",
+        "caughtBy": [
+          "reviewer1",
+          "reviewer2"
+        ],
+        "missedBy": []
+      }
+    ],
+    "misses": []
+  },
+  "honestFlags": [],
+  "coordinatorRulings": {
+    "file": null,
+    "refuted": [],
+    "confirmed": [],
+    "unruled": []
+  },
+  "confirmedFindings": [],
+  "problems": [],
+  "verdict": "PASS"
+}

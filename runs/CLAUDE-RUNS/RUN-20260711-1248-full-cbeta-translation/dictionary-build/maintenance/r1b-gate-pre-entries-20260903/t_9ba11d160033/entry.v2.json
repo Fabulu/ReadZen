@@ -1,0 +1,206 @@
+{
+  "Id": "t_9ba11d160033",
+  "SourceTerm": "直歲",
+  "CorpusBaselineSha256": "42d32a5294365a4aa4d5aa2b5f11729e147cb44324f4535065047e946e7b3a2a",
+  "CreatedBy": "Codex f003 Lane C evidence-first",
+  "WrittenUtc": "2026-07-15T04:51:44.701666+00:00",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "works officer",
+      "AlternateTargets": [
+        "monastery maintenance officer"
+      ],
+      "SearchAliases": [
+        "works officer",
+        "maintenance officer",
+        "labor steward",
+        "monastery work"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The displayed sense is bounded by the stored exact uses; related compounds and quoted formulas were not allowed to create additional headword depth.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1245.xml",
+          "FromLb": "0522b04",
+          "ToLb": "0522c08",
+          "Kwic": "苑清規目錄第一卷受戒護戒辨道具裝包旦過掛搭赴粥飰赴茶湯請因緣入室第二卷上堂念誦小參結夏解夏冬年人事巡寮迎接請知事第三卷監院維那典座直歲下知事請頭首首座書狀藏主第四卷知客庫頭浴主街坊水頭炭頭華戲嚴磨頭園頭莊主廨院主延壽堂主淨頭殿主鐘頭聖僧侍者爐頭直堂寮主寮首座堂頭侍者第五卷化主下頭首堂頭煎點僧堂內煎點知事",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X63/X63n1245.xml). Recarved, Supplemented Notes Chan Monastery Pure Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "X/X82/X82n1571.xml",
+          "FromLb": "0044c19",
+          "ToLb": "0044c20",
+          "Kwic": "師方督役開田，山谷同晦堂往致問曰：直歲還知露柱生兒麼？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X82/X82n1571.xml). Complete Five Lamps Vols. 34–120: The complete case assigns the exact headword-bearing clause to the unnamed actor established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monastic questioner",
+            "ActorLabel": "the unnamed questioner",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The explicit question frame assigns the headword-bearing words to an unnamed questioner; the marked teacher response is a separate turn.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1132c19",
+          "ToLb": "1132c19",
+          "Kwic": "直歲直歲職掌一切作務。",
+          "Curated": true,
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Commissioned Baizhang Monastic Regulations: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 直歲 to the source compiler or recorder; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "X/X64/X64n1260.xml",
+          "FromLb": "0060b10",
+          "ToLb": "0060b14",
+          "Kwic": "尋常拈糞箕、把󰆠帚，掣風掣顛猶較些子，直饒是文殊、普賢再出，若到洞山門下，一時分付與直歲，燒火底燒火、掃地底掃地，前廊後架切忌攙匙亂筯，豐干老人更不饒舌。",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X64/X64n1260.xml). Outline Record of the Successive Patriarchs: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        },
+        {
+          "RelPath": "J/J27/J27nB200.xml",
+          "FromLb": "0578b17",
+          "ToLb": "0578b19",
+          "Kwic": "示慶直歲示慶直歲往古無殊在今日，攙先努力繼前修，堅牢志願成終始，天上人間得自由。",
+          "Curated": true,
+          "AttributionNote": "Source record (J/J27/J27nB200.xml). Recorded Sayings of Chan Master Erzhan Zun of Shishuang: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          },
+          "HeadwordSpanReview": {
+            "Count": 2,
+            "Disposition": "single-actor-single-turn-repetition",
+            "GrammarEvidence": "The complete case binds all 2 occurrences of 直歲 to the source compiler or recorder; the clause binder found no independently extractable one-headword turn, and no intervening speech cue transfers an occurrence to another actor."
+          }
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0123a19",
+          "ToLb": "0123a20",
+          "Kwic": "袁州仰山慧寂禪師袁州仰山慧寂禪師在溈山為直歲，作務歸，溈問：甚處來？",
+          "Curated": true,
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”: The complete case assigns the exact headword-bearing clause to the documentary narration or biographical voice established by the complete case; nearby masters and interlocutors are context only.",
+          "ContextMasters": [],
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "compiler or recorder narration",
+            "ActorLabel": "the source compiler or recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The headword occurs in narrator-governed documentary prose, an editorial heading, or a nonverbal action clause; no person utters it in this occurrence.",
+            "ReviewedBy": "Codex f003 C801-850 exact-actor repair author round 2",
+            "ReviewedUtc": "2026-07-15T06:07:20.009102+00:00"
+          }
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1245.xml",
+        "X/X82/X82n1571.xml",
+        "T/T48/T48n2025.xml",
+        "X/X64/X64n1260.xml",
+        "J/J27/J27nB200.xml",
+        "X/X66/X66n1296.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "Explanation": "The works officer manages repairs, labor, tools, fields, transport, and fire precautions for the monastery. Rules define the office in detail, and encounter records show its holder being questioned while supervising work."
+    }
+  ]
+}

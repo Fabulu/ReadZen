@@ -1,0 +1,37 @@
+{
+  "counts": {
+    "entries": 43,
+    "senses": 44,
+    "occurrences": 210,
+    "named_occurrences": 67,
+    "context_master_links": 117,
+    "attribution_notes": 211,
+    "actor_reviewed_unnamed": 20,
+    "actor_narrated": 99,
+    "actor_identified_unlinked_master": 7,
+    "context_actor_identities": 2,
+    "actor_impersonal": 15,
+    "actor_identified_non_master": 3,
+    "deferred_non_roster_context": 22,
+    "pending_roster_context_master": 12,
+    "deferred_non_roster": 10,
+    "pending_roster_master": 6,
+    "claim_anchors": 1,
+    "narrated_action_performer_missing": 2,
+    "chinese_strings": 6,
+    "anchored_chinese": 6
+  },
+  "hardFailures": 2,
+  "failures": [
+    {
+      "kind": "narrated_action_performer_missing",
+      "entry": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r1b-post-entries-20260903\\t_b97e19fa54b2\\entry.v2.json",
+      "detail": "坐堂 s1 o1: narrated physical action records only the narrator/recorder; bind the recoverable performer separately as ContextMasters/ContextActors or with an explicit closed Action performer proof in GrammarEvidence"
+    },
+    {
+      "kind": "narrated_action_performer_missing",
+      "entry": "C:\\Programmieren\\MergeWorkCbeta\\CBETA-Translator\\runs\\CLAUDE-RUNS\\RUN-20260711-1248-full-cbeta-translation\\dictionary-build\\maintenance\\r1b-post-entries-20260903\\t_b97e19fa54b2\\entry.v2.json",
+      "detail": "坐堂 s1 o2: narrated physical action records only the narrator/recorder; bind the recoverable performer separately as ContextMasters/ContextActors or with an explicit closed Action performer proof in GrammarEvidence"
+    }
+  ]
+}
