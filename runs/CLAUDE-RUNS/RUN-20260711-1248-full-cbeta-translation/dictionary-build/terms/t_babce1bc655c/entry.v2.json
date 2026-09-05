@@ -61,6 +61,57 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0094a17",
+          "ToLb": "0094b04",
+          "Kwic": "師乃云：平地上喫交，郎當不少；脚跟下蹉過，笑殺傍觀。即心即佛，非心非佛，此地無金二兩，俗人沽酒三升。更有不唧𠺕底，風前月下幾度沈吟，海角天涯一生流浪。西天以蠟人為驗，我這裏以竹篦為驗，喚作竹篦則觸，不喚作竹篦則背。速道，速道！擬議不來，劈脊便棒。",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: release-of-summer small assembly where, after the monk's questions, the master declares that tripping on flat ground makes for much tumbling and slipping past underfoot makes the onlookers die laughing — mind itself is buddha, neither mind nor buddha, in this place no gold at two taels and the commoner buys three sheng of wine — and that the still-ineloquent ones brood before wind and under moon and drift to sea's corner and sky's edge for a lifetime, closing that the west verifies with a wax man while here the test is a bamboo comb, and whoever hesitates gets the staff across the spine."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0466b18",
+          "ToLb": "0466b20",
+          "Kwic": "乃云：「假使頂戴經塵劫，身為床座遍三千，若不傳法度眾生，畢竟無能報恩者。三世諸佛無法可傳，此處無銀三十兩；歷代祖師無生可度，俗人沽酒三升。",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Shending Yikui. Yikui Yuankui owns the retained deployment: hall address at the Changsha scholar's request where, after the mirror-and-face questions, the master declares that were one to bear the sutras on one's head for dust-grains of eons or make one's body a couch seat through three thousand worlds, without transmitting the dharma and delivering beings one could never repay the debt — the buddhas of the three times have no dharma to transmit, in this place no silver at thirty taels; the patriarchs of the generations have no beings to deliver, and the commoner buys three sheng of wine."
+        },
+        {
+          "RelPath": "X/X69/X69n1368.xml",
+          "FromLb": "0272b16",
+          "ToLb": "0272b18",
+          "Kwic": "上堂：𦘕龍看頭，𦘕蛇看尾。雪山冷坐六年，此處無金二兩。少林面壁九年，俗人沽酒三升。喝一喝，向道莫行山下路，果然猨呌斷腸聲。",
+          "MasterName": "Yanxi Guangwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanxi Guangwen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi Guangwen owns the retained deployment: hall address that in painting a dragon look at the head and in painting a snake look at the tail — the six years cold-seated on the snow mountain, in this place no gold at two taels; the nine years facing the wall at Shaolin, and the commoner buys three sheng of wine — then a shout, and were one told not to walk the road below the mountain, sure enough the gibbon's cry would break the heart."
         }
       ],
       "SourceTexts": [

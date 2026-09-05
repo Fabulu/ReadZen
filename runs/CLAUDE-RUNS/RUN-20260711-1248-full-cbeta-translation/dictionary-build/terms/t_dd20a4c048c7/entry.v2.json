@@ -51,6 +51,91 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: independent deployment."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0008b02",
+          "ToLb": "0008b07",
+          "Kwic": "師到會稽曹山護生庵，眾請上堂。「適來未陞座時已為諸人相見了，而今陞座重為諸人起模畫樣，便乃散去，猶較些子。更待老僧鼓兩片皮、掉三寸舌，為之說法，向句裡思量、言中取則，正是業識茫茫無本可據。」驀拈拄杖架肩云：「楖栗橫擔不顧人，直入千峰萬峰去。」便下座。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: invited to the seat at the Cao Shan animal-shelter hermitage, he suddenly shoulders his staff and speaks the crosswise-carried chestnut staff line, then steps down."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0109a20",
+          "ToLb": "0109a27",
+          "Kwic": "辭眾上堂，「大道絕中邊，不分前後際，至真非內外，誰論去來蹤。覓去來蹤不得，總十方是個坐具，地求前後際無有，藏大千於一粒粟中，全此全彼、全內全外，來也循途合轍、去猶據本歸宗，所以道：去去實不去，途中好善為，來來實不來，路上莫虧危。既知者個端的，時節到來自合開交。且臨行一句作麼生道？」以拄杖架肩云：「楖栗橫擔不顧人，直入千峰萬峰去。」下座便行。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: a farewell-to-the-assembly sermon closes with the staff laid across his shoulder and the crosswise-carried line, and he steps down and leaves."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0697a16",
+          "ToLb": "0697b04",
+          "Kwic": "山居五首古佛巖頭絕往還，月明時復到松關。焚香煑茗無餘事，搔首雲邊對鶴閒。山南山北炊煙少，庵後庵前虎跡多。中有幽人守貞獨，誰來同唱紫芝歌。楖栗橫擔入白雲，深山寂寞鹿為羣，夜來獨坐小樓上，笑聽村童讀梵文。",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Extensive Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: the third of his five mountain-dwelling poems has the solitary dweller shoulder the chestnut staff crosswise into the white clouds and keep deer for company."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0095c20",
+          "ToLb": "0095c24",
+          "Kwic": "是秋，師欲還蜀，復上天童辭悟和尚。出山到寧波，慈谿爾赤馮居士延至家中請益，馮術，師力為拯拔，示以正知見，闔宅感悟。復請上堂，及歸，辭眾。按：辭眾，上堂，云：「楖栗橫擔不顧人，直入千峰萬峰去。」",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: the chronicle records that leaving Tian Tong for Sichuan, his farewell-to-the-assembly sermon was the crosswise-carried staff line alone."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0016c17",
+          "ToLb": "0016c20",
+          "Kwic": "辭眾，上堂。「善始善終，道人操守；知進知退，衲子機關。機關既別，操守亦真，去住自可隨緣，終無絲毫繫念。無繫念，絕疏親，楖栗橫擔不顧人，且向秦溪深處也，偷閒笑破碧桃春。」",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: a farewell sermon varies the line, shouldering the chestnut staff crosswise off to the depths of Qin Creek to steal leisure and laugh at spring."
         }
       ],
       "SourceTexts": [

@@ -50,6 +50,97 @@
             }
           ],
           "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: independent direct response."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0463a05",
+          "ToLb": "0463a07",
+          "Kwic": "問：「乾矢橛、柏樹子拈向一邊，化外來賓如何相見？」師卓拄杖。進云：「打鼓弄琵琶，風流出當家，秪如沒絃琴、無腔曲作麼彈唱？」師云：「罕遇知音。」僧擬議，師便打",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Shending Yikui. Yikui Yuankui owns the retained deployment: asked how the stringless qin and tuneless song are to be played and sung, he answers that one rarely meets a listener who knows the tune, then strikes the hesitating monk."
+        },
+        {
+          "RelPath": "J/J39/J39nB451.xml",
+          "FromLb": "0513b21",
+          "ToLb": "0513b25",
+          "Kwic": "乃拈拂子，云：「大眾見麼？此是靈山得來，少室拈出，提起同克塞天地，放下則海晏河清。鐵樹開花、紅爐片雪，無陰陽地上題名、空劫以前薦取，綱宗玅句擬議難陳、不二門中千聖杜口，所以摩竭掩室、初祖面壁，罕遇知音。」",
+          "MasterName": "Chisong Daoling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chisong Daoling",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB451.xml). Recorded Sayings of Chan Master Chisong Daoling. Chisong Daoling owns the retained deployment: holding up the whisk he traces the line from Vulture Peak to the First Patriarch's wall-gazing and concludes it rarely met a listener who knew the tune."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0117a01",
+          "ToLb": "0117a04",
+          "Kwic": "進云恁麼則高提祖印光寰宇大闡洪音唱楚歌師云𣗳杪斷雲歸野壑秋深寒露滴金盤士禮拜云采汲不虛施師云罕遇知音",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained deployment: closing a verse exchange he grants the layman's drawing was not offered in vain, one rarely meets a listener who knows the tune."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0948b24",
+          "ToLb": "0948b28",
+          "Kwic": "上堂。舉：「福州牛頭微和尚因僧問：『如何是和尚家風？』微曰：『山畬脫粟飯，野菜澹黃齏。』曰：『忽有上客來，又作麼生？』曰：『喫則從君喫，不喫任東西。』」師曰：「從上遠猷，時人難搆。陽春高唱，罕遇知音。牛頭雖是家禮，是稱款賢有致。在上士或以成歡，中下之根終於難信。",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe'an. Zhe'an Jingfan owns the retained deployment: judging the raised household-style case he says the song of high spring, rarely meeting its listener, stays hard for middling and lesser roots to trust."
+        },
+        {
+          "RelPath": "X/X67/X67n1310.xml",
+          "FromLb": "0269a16",
+          "ToLb": "0269b05",
+          "Kwic": "舉：僧問百丈：抱璞投師，請師一決。丈云：昨日南山虎咬大蟲。僧云：不謬真詮，為什麼不施方便？丈云：掩耳偷鈴漢。僧云：若非中郎鑒，還同野舍薪。丈便打。僧云：蒼天！蒼天！丈云：得恁麼多口？僧云：罕遇知音。拂袖便出。丈云：百丈今日輸却一半佛。鑑云：這僧雖得一場榮，刖却一雙足。至晚，侍者問：和尚適來被這僧不肯了，便休去。丈便打，佛鑑云：好打，討棒喫。侍者云：蒼天，蒼天。丈云：罕遇知音。侍者禮拜，丈云：一狀領過。",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1310.xml). Collected Picks of the Eight Directions (Nian Bafang Zhuyu Ji). Baizhang Huaihai owns the exact utterance inside Fojian Huiqin's raised case; pressed by the attendant at evening, he repeats that one rarely meets a listener who knows the tune and lets the bows carry off the verdict."
         }
       ],
       "SourceTexts": [

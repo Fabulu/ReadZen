@@ -51,6 +51,115 @@
             }
           ],
           "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: independent direct use of the fishing line as an encounter probe."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0679a09",
+          "ToLb": "0679a15",
+          "Kwic": "舉：關南道吾和尚有時執木劍橫在肩上作舞，僧問：手中劍什麼處得來？師擲劍於地，僧却置師手中。師云：什麼處得來？僧無對。師曰：容汝三日內下取一語。僧亦無對。師自代拈劍肩上作舞，云：恁麼始得。拈云：道吾獨泛孤舟，垂絲千尺，徧遊江海，罕邊吞鈎。忽然綸驚，將謂洪鯨擺撥。及乎下手提取，却是箇弄水蝦公，虗勞神用。",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Guannan Daowu",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu'an Yinsu. Pu'an Yinsu owns the retained deployment: raising Guannan Daowu's wooden-sword dance, his own pick says the lone boat hangs the line a thousand feet and roams rivers and seas, yet what finally takes the hook is a mere water-shrimp."
+        },
+        {
+          "RelPath": "X/X70/X70n1392.xml",
+          "FromLb": "1040a09",
+          "ToLb": "1040a12",
+          "Kwic": "解夏，小參。垂絲千尺，未告掣動六鰲之釣；劈口一撓，等閑閡斷千江之急。轉得身，吐得氣，要望東湖，猶隔弱水三萬里。一向與麼道，絕人荒放一線道，與諸人有箇商量。",
+          "MasterName": "Yuejian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1392.xml). Recorded Sayings of Chan Master Yuekan. Yuejian owns the retained deployment: the release-of-summer small meeting opens with the thousand-foot line that has not yet snapped the six-whale catch, against the one shout that dams a thousand rivers."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0562c30",
+          "ToLb": "0563a05",
+          "Kwic": "舉雪峰問僧：「名什麼？」僧云：「玄機。」峰云：「日織多少？」僧云：「寸絲不掛。」峰云：「參堂去。」僧纔行三五步，峰云：「袈裟落地也。」僧回首，峰便打。頌云：「象骨山前執釣竿，洪波浩渺坐危磐。垂絲千尺鉤頭意，衝浪鯨鯢吐氣寬。著餌也，謾相看，誰料於中失照觀，玄機到此成何用？千古令人喪膽寒。」",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: his verse on Xuefeng's silk-monk test sets the thousand-foot line's hook-intent against the whale breasting the waves."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0671c12",
+          "ToLb": "0671c18",
+          "Kwic": "上堂群峰鬥聳，徒惱須彌；萬派爭朝，空疑海漠。所以大同絕比，本色超方。如錦鱗獨躍龍門，免煩點額；似良驥衝開銜轡，謾自搖鞭。垂絲千尺不回頭；美料滿盤無著意。淵溟自在，海島逍遙。須知恁麼不恁麼總不得一句，要是其人。會麼？陶潛不肯休杯去，今昔蓮宗枉掛名。",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Chan Master Shouchang Wuming. Wuming Huijing owns the retained deployment: a hall sermon pairs the thousand-foot line that does not turn back with the full bait-tray given no second thought."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0251b01",
+          "ToLb": "0251b07",
+          "Kwic": "夾山參船子，船子問：「垂絲千尺，意在深潭，離鉤三寸，子何不道？」山擬開口，子便打山落水。纔出，子又云：「道道。」山擬開口，子又打。山豁然大悟，點頭三下。子云：「竿頭絲線從君弄，不犯清波意自殊。」山進問：「拋綸擲釣，師意如何？」子云：「絲懸綠水，浮定有無之意，速道速道。」山云：「語帶玄而無路，舌頭談而不談。」山云：「釣盡江波，金鱗始得。」山乃掩耳。子云：「如是如是。」",
+          "MasterName": "Chuanzi Decheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chuanzi Decheng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting's Sayings. Chuanzi Decheng owns the exact utterance inside Guting Shanjian's retelling of the Boatman case; Guting is the later raiser and Jiashan the tested case figure."
         }
       ],
       "SourceTexts": [

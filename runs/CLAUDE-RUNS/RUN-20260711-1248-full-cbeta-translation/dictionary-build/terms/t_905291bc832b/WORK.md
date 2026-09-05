@@ -12,3 +12,4 @@ feedback-counterexamples: Retain the Linji-house attribution; literal weather is
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: rebel hears thunder; Linji house thunder image
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

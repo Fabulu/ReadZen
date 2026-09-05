@@ -12,3 +12,4 @@ feedback-counterexamples: Begin with the named wooden snake and report later pre
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: Cao family's daughter
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

@@ -68,6 +68,74 @@
             "ReviewedBy": "fresh10k-r7 coordinator full-case repair",
             "ReviewedUtc": "2026-09-05T08:37:18Z"
           }
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0753b15",
+          "ToLb": "0753b17",
+          "Kwic": "生死涅槃，猶如昨夢，自然泰定安閑，得休歇處。更疑什麼要用便用，要道便道，遇飯喫飯，遇茶喫茶，契平常心，不起佛見法見",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Master-authored instruction letter of the master himself (佛果克勤禪師心要, 示張子固). Yuanwu Keqin owns the retained deployment: teaching the settled practitioner he writes — 要用便用，要道便道，遇飯喫飯，遇茶喫茶，契平常心，不起佛見法見。 (Deliberate same-master second record: tier-1 master-authored letter, distinct from the already-cited sayings record.)"
+        },
+        {
+          "RelPath": "X/X73/X73n1445.xml",
+          "FromLb": "0372b10",
+          "ToLb": "0372b11",
+          "Kwic": "未審和尚作麼生說平常佛性？師云：遇茶喫茶，且作麼生說？平常佛性在什麼處",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1445.xml). Recorded dialogues of the master himself (玄沙師備禪師廣錄, 法語問答 section). Xuansha Shibei owns the retained deployment: pressed on how he states ordinary Buddha-nature he answers — 師云：遇茶喫茶，且作麼生說？平常佛性在什麼處？"
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0488b04",
+          "ToLb": "0488b06",
+          "Kwic": "上堂：純清絕點，正是真常流注。打破鏡來，未免一場狼籍。不若遇飯喫飯，遇茶喫茶。曉來獨立空庭外，閑對寒梅幾樹花",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded hall talk of the master himself (雪巖祖欽禪師語錄, 住潭州龍興禪寺語錄). Xueyan Zuqin owns the retained deployment: 上堂：純清絕點，正是真常流注。打破鏡來，未免一場狼籍。不若遇飯喫飯，遇茶喫茶。曉來獨立空庭外，閑對寒梅幾樹花。"
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0637a06",
+          "ToLb": "0637a08",
+          "Kwic": "山僧十三年前海上參尋，只是遇茶喫茶、遇飯喫飯，寒則向火、熱則取凉，朝悠悠、暮悠悠，不知白盡少年頭",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded evening instruction of the master himself (了菴清欲禪師語錄, 住嘉興路本覺禪寺語錄, 小參). Liao'an Qingyu owns the retained deployment: 山僧十三年前海上參尋，只是遇茶喫茶、遇飯喫飯，寒則向火、熱則取凉，朝悠悠、暮悠悠，不知白盡少年頭."
         }
       ],
       "SourceTexts": [

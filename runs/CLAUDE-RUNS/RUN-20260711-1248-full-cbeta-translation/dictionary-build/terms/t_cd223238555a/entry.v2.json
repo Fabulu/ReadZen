@@ -51,6 +51,70 @@
             }
           ],
           "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng Mingben's direct criticism of the doctrinal explanation attached to the contrast."
+        },
+        {
+          "RelPath": "T/T48/T48n2010.xml",
+          "FromLb": "0376c15",
+          "ToLb": "0376c18",
+          "Kwic": "何用疎親欲趣一乘勿惡六塵六塵不惡還同正覺智者無為愚人自縛法無異法妄自愛著將心用心豈非大錯",
+          "MasterName": "Sengcan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sengcan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2010.xml). The Faith-in-Mind Inscription of the Third Patriarch. Sengcan owns the retained deployment at its source: the inscription runs that the great way's body is wide, neither easy nor hard, yet small views fox-doubt and grow slower the more they hurry - clinging loses the measure and the mind enters sidetracks - so for the one vehicle do not hate the six dusts; the six dusts not hated are the same as right awakening; the wise do nothing, foolish people bind themselves; dharma has no other dharma, deludedly loving and attaching, using mind to grasp mind - is that not the great error?"
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0160a02",
+          "ToLb": "0160a09",
+          "Kwic": "拄杖子！喚作能，三十棒趂出院；喚作境，三十棒趂出院；喚作非能非境，三十棒趂出院；喚作亦能亦境，三十棒趂出院。三祖大師無風起浪，平地生波，簡點將來，不無滲漏。雖然如是，下文幸有捄言。豈不見：六塵不惡，還同正覺；智者無為，愚人自縛。據此亦有過犯。何以故？說箇同字，好與三十棒趂出院。卓拄杖，云：不是與人難共住，大都緇素要分明",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Sengcan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Extensive Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: his staff sermon on knowing and conditioned states gives thirty blows and expulsion to calling it knowing, to conditioned, to neither, to both - the Third Patriarch raised windless waves on level ground - yet the passage below luckily has saving words: have you not seen - the six dusts not hated are the same as right awakening; the wise do nothing, foolish people bind themselves - and even this he indicts, for saying the word same deserves thirty blows and expulsion; striking the staff he says it is not that one is hard to dwell with, but robe-wearer and laity must be clearly told apart."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0283b29",
+          "ToLb": "0283c05",
+          "Kwic": "小參。舉：「三祖《信心銘》云：『欲取一乘，勿惡六塵；六塵不惡，還同正覺。智者無為，愚人自縛，法無異法，妄自愛著，將心用心，豈非大錯？』」師云：「大小祖師說得好道理，只如汝等諸人明明有雙眼，又何曾見色？明明有雙耳，又何曾聞聲？於此薦得，江西人喫飯，浙江人肚脹，關他湖廣人什麼事？雖然如是，滴水寸絲畢竟瞞東震旦國人不得",
+          "MasterName": "Sengcan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sengcan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwai Xingze of Shending. Sengcan owns the exact quoted lines inside Yunwai Xingze's small-meeting raising of the Third Patriarch's Faith-in-Mind Inscription: for the one vehicle do not hate the six dusts; the six dusts not hated are the same as right awakening; the wise do nothing, foolish people bind themselves; dharma has no other dharma, deludedly loving and attaching, using mind to grasp mind - the great error; Yunwai's comment grants the great and small patriarch spoke good principle, yet asks why, with two eyes, they have never seen form - if one recommends it here, Jiangxi folk eat and Zhejiang folk bloat, what is it to the Hubei-Hunan people; even so, a drop of water or an inch of thread can never deceive the people of the Eastern China land."
         }
       ],
       "SourceTexts": [

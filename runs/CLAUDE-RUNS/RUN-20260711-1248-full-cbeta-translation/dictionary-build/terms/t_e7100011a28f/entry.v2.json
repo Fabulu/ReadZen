@@ -63,6 +63,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J38/J38nB433.xml). Recorded Sayings of Chan Master Chunbeide. Chunbei Guangde owns the retained deployment: active raising that retains Guishan's exact hall words 食須仔細，米裏有蟲 inside the retold rice-steward case."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0269c25",
+          "ToLb": "0269c26",
+          "Kwic": "溈大笑歸方丈。晚上堂曰。大眾米裏有蟲",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Origin-instance of the phrase: Guishan Lingyou's own evening-hall saying, preserved in Wansong Xingxiu's case-commentary (從容庵錄, case 68's biographical note on Shishuang Qingzhu). When Shishuang served as rice-steward and challenged him over a single grain, Guishan laughed and returned to his quarters; 晚上堂曰。大眾米裏有蟲 is Guishan's own evening ruling to the assembly."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0079b04",
+          "ToLb": "0079b07",
+          "Kwic": "正是推波助瀾，未得脫洒在。如何是脫洒一句？芍藥花開菩薩面，㯶櫚葉散夜叉頭。上堂：米裏有蟲，麥裏有麵。厨庫僧堂，山門佛殿。盞子撲落地，楪子成七片",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded sayings of the master himself (楚石梵琦禪師語錄, Haiyan Tianning abbacy hall talk). Chushi Fanqi owns the retained deployment: 上堂。米裏有蟲，麥裏有麵。厨庫僧堂，山門佛殿。盞子撲落地，楪子成七片 (variant 麥裏有麵 for 麥裏有麩), the whole verse his own."
+        },
+        {
+          "RelPath": "X/X70/X70n1394.xml",
+          "FromLb": "0440a04",
+          "ToLb": "0440a06",
+          "Kwic": "瑞巖眾行者請米裏有蟲，麥裏有麵。非是老盧，何曾覰見。見不見，八角磨盤空裏轉",
+          "MasterName": "Duanqiao Miaolun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Duanqiao Miaolun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1394.xml). Master's own portrait-inscription verse (斷橋妙倫禪師語錄, requested by the Ruiyan attendants). Duanqiao Miaolun owns the retained deployment: inscribing his own image he verses 米裏有蟲，麥裏有麵。非是老盧，何曾覰見。見不見，八角磨盤空裏轉."
         }
       ],
       "SourceTexts": [

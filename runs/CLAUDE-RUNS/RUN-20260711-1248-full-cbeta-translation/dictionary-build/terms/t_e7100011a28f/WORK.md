@@ -13,3 +13,4 @@ feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: insects in the rice; rice contains bugs
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
 - r7-vetting-20260905: occ1 role-set repair (Guishan Lingyou and Xuefeng Yicun added as case-figures; attribution note and evidence sentence name Guishan's exact hall words).
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

@@ -50,6 +50,138 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: direct judgment on earlier answers."
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0194a02",
+          "ToLb": "0194a06",
+          "Kwic": "謝副寺寮首座修造監收，上堂。守洞山活業，須賣生姜；續佛日光明，豈無火種？佛壟雖則移梁作柱、拆東補西，收拾將來莫不稱職。美則美矣，只如古德道：刈禾鎌子疾如風。又且如何定當？待山僧計較得成，即向諸人道：",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Extensive Record of Chan Master Xisou Shaotan. Xisou Shaotan owns the retained deployment: a hall sermon thanking the monastery officers grants their repair work is fitting, then caps it with a challenge from an ancient worth."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0019b16",
+          "ToLb": "0019b24",
+          "Kwic": "結夏，上堂。僧問：「護生須是殺，殺盡始安居，未審殺箇甚麼？」師云：「多少人疑著此事？」進云：「出匣龍泉劍，紅光射斗牛。」師云：「切忌妄通消息。」乃云：「以大圓覺為我伽藍，黃梅時節家家雨；身心安居平等性智，青草池塘處處蛙。黃面老二，千餘年舊制，美則美矣，只是諸方不宜遵行為例，引得無限平人此日此時共作鬼家活計，如猢猻入布袋，討什麼快活？靈利衲僧聞恁麼道，便乃通身踴躍，掉臂而去，新金粟縱有潑天手段，這布袋頭一毫也用不著。其或未然，隨例結去也。」",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: a summer-session sermon grants the thousand-year-old rule its beauty, then refuses it as a precedent for the assembly."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0261b16",
+          "ToLb": "0261b24",
+          "Kwic": "歲旦，上堂。僧問：「豁開戶牖，萬里不掛片雲；杲日騰空，四顧松風滿座。新年頭佛法則不問，如何是梅華一點的消息？」師云：「三日後看取。」進云：「當初迦葉曾註破，一笑陽春遍九垓。」師打，云：「遮場禍事天來大。」僧禮拜，師乃云：「『有物先天地，無形本寂寥，能為萬象主，不逐四時彫。』傅大士恁麼說話，美則美矣，未盡善也。山僧亦有一頌舉似諸人：爆竹一聲催臘去，梅華幾點送春回，禪和拍掌呵呵笑，大地含生脫陰胎。大眾！看看釋迦老子騎佛殿、越山門來拜年也。」下座。",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shanhui Dashi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Shen Ding Yun Wai. Yunwai Xingze owns the retained deployment: a New Year sermon quotes Fu Dashi's mind verse, grants it, and withholds full approval before offering his own verse."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0958b04",
+          "ToLb": "0958b08",
+          "Kwic": "復舉保壽開堂。三聖推出一僧。保壽便打。三聖云與麼為人。瞎却鎮州一城人眼去在。保壽擲下拄杖歸方丈。師云。二尊宿。美則美矣。若要扶臨濟正宗。每人各欠一頓棒在。且道。那裏是他欠處。具擇法眼者。試定當看。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Yanzhao",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Chan Master Mi'an. Mi'an Xianjie owns the retained deployment: after raising the Baoshou-Sansheng case he grants the two old worthies their beauty and adds the beating each still owes."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0510a08",
+          "ToLb": "0510a09",
+          "Kwic": "妙喜老漢道：天衣古佛，美則美矣，善則未善，慣將烏豆換人眼睛。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Tianyi Yihuai",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Dahui Zonggao owns the exact utterance inside Xueyan Zuqin's named quotation; the record owner transmits Dahui's judgment on Tianyi Yihuai."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0132b10",
+          "ToLb": "0132b14",
+          "Kwic": "上堂。「摩訶衍法，四句既離，百非又絕，空蕩蕩三千剎海，冷澄澄八萬法門，美則美矣，猶未盡善。何也？不能傾出猛烈紅爐燄，鎚碎清涼白月輪，李將軍有家聲在，不得封侯也是閑。諸人要識三峰真的旨麼？」喝一喝，云：「威風八面言思斷，平地翻為荊棘林。」",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Chan Master Sanfeng Hanyue Fazang. Hanyue Fazang owns the retained deployment: a hall sermon grants the Mahayana's sweep its beauty, then withholds full approval."
         }
       ],
       "SourceTexts": [

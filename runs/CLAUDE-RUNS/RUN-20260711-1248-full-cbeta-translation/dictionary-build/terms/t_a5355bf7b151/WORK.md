@@ -12,3 +12,4 @@ feedback-counterexamples: Keep strike, bell, and resulting response together; or
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: strike the bell and thank the echo; credit the echo
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +2 occurrences (target 5; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

@@ -51,6 +51,69 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: independent tailoring deployment in case appraisal."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0684b07",
+          "ToLb": "0684b08",
+          "Kwic": "有時云。袖頭打領腋下剜襟。諸方一任剪裁。南山起雲北山下雨。衲子作麼話會。",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue, whose own stupa inscription inside the work gives the master's taboo name as Chongxian. Xuedou Chongxian owns the formula deployment: in the sometimes-he-said series of his record he casts the tailoring line — join the collar at the sleeve-head, cut the lapel beneath the arm — lets all quarters cut and shape as they will, notes south mountain raising cloud while north mountain gets rain, and asks the patched-robed ones how they will take it up."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0797a11",
+          "ToLb": "0797a13",
+          "Kwic": "黃龍新云：洞山袖頭打領，腋下剜襟，爭奈者僧不甘？如今有個出來問黃龍，且作麼生支遣？良久，云：安禪不必須山水，滅却心頭火自凉。",
+          "MasterName": "Sixin Wuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sixin Wuxin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Gathering of the School Gate's Raising of Old Cases, the gathered picks on Dongshan Liangjie's cold-and-heat answer. The pick carrying the term is entered under the anthology's short citation Huanglong Xin, the Huanglong abbot whose full roster name runs the Huanglong master Sixin Wuxin, and he owns the pick deployment: on Dongshan's answers to the monk's cold-and-heat question — the no-cold-no-heat place, cold that kills and heat that kills — he grants that Dongshan joined the collar at the sleeve-head and cut the lapel beneath the arm, only that the monk would not accept it; should someone now come out and ask Huanglong, how would he dispose of it — and after a long silence he supplies his own: no need of mountains and rivers for settled sitting, put out the fire in the mind-head and it cools of itself."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0263a27",
+          "ToLb": "0263b04",
+          "Kwic": "復舉：「五祖演冬至小參，舉傅大士偈云：『有物先天地，無形本寂寥，能為萬象主，不逐四時彫。』祖云：『傅大士恁麼說話，可謂精金美玉，今古光輝。』山僧舉到遮裏，忍俊不禁，與諸人頌出。頌云：有中有，無中無，細中細，麤中麤。」師云：「諸大眾！要見傅大士則易，要見演祖則難。何以故？話在菩提。舉到者裏，也不妨與箇註腳：袖頭打領，腋下剜襟，貧人齊奪卻，富者與三斤。」",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwai Xingze of Shending, whose work title enters him as the Shending master Yunwai Ze. Yunwai Xingze owns the annotation deployment: re-raising Wuzu Fayan's winter-solstice informal talk — where Wuzu quoted the layman Fu's verse of a thing prior to heaven and earth and praised it as wrought gold and fine jade shining past and present — he says he cannot hold back from versifying it for the assembly, then rules that to see the layman Fu is easy while to see master Yuan is hard, for the point rests in bodhi; and where the talk is raised to here, he says, one may as well add an annotation: join the collar at the sleeve-head, cut the lapel beneath the arm — the poor are stripped of everything at once, the rich are given three catties."
         }
       ],
       "SourceTexts": [

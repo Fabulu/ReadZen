@@ -84,6 +84,40 @@
             }
           ],
           "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: direct hall use joining compassion with receiving beings."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0878b24",
+          "ToLb": "0878b27",
+          "Kwic": "黃面老子纔悟了。便見得如此廣大。然後興慈運悲於生死海。不著此岸不著彼岸不住中流。而能運載此岸眾生。到欲彼岸。不住生死中流。這箇道理亦不出自家信種。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: general discourse tracing the yellow-faced old master's awakening under the morning star, after which he raised kindness and wrought compassion on the sea of birth-and-death, resting on neither shore nor midstream while ferrying beings across."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0545a16",
+          "ToLb": "0545a25",
+          "Kwic": "明日開爐，今日普說。當初釋迦老子在法華會上說，十方三世諸佛皆以一大事因緣故，出現于世。此一大事，在諸佛甚是圓滿，諸人也不曾欠缺在。諸佛甚是靈明，諸人也不曾遮蔽。此便是普說底意。所以差別者何？記得黃面老子在雪山頂上，嘆曰：『奇哉！奇哉！一切眾生具有如來智慧德相，但以妄想執著而不證得。』且如何是妄想？但忘卻此一大事，觸處茫然，所作所為皆妄想也。縱然位至君侯，最為榮貴，皆是生死邊事。所以諸佛興慈運悲，出世來提持你，使你知有此大事，不做眾生。",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Recorded Sayings of Chan Master Muyun, seven assemblies. Muyun Tongmen owns the retained deployment: opening-the-hearth general discourse at Poshan on the one great matter, where the buddhas raise kindness and wield compassion, appearing in the world to hold you up so you know this great matter and do not remain a mere being."
         }
       ],
       "SourceTexts": [

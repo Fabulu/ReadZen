@@ -13,3 +13,4 @@
 feedback-inference-verdict: LICENSED — Nanquan's repeated line with its one-gain-one-loss case structure is the smallest reproducible account; the repetition is evidence, not a second lexical meaning.
 feedback-scope: the exact expression in the retained Tier-2 passages.
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +0 occurrences (target 4; tier1/2 only, lamp excluded); new works 0; recompiled hardPass

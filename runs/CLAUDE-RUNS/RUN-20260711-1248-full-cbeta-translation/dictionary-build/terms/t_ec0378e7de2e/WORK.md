@@ -25,3 +25,4 @@ feedback-counterexamples: the words can function as a conventional New-Year bles
 feedback-scope: the exact four-character expression in the retained Tier-1/2 passages.
 lookup-probes: celebration fitting everywhere / seasonal auspicious formula / New-Year blessing tested / felicity fitting undercut / timely action verdict
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

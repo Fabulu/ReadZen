@@ -61,6 +61,87 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0657b18",
+          "ToLb": "0658a01",
+          "Kwic": "示眾。有言時，騎虎頭，收虎尾，第一句下明宗旨。無言時，覿露機鋒，如同電拂。",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings, the Deshan Xuanjian section under its own doubled heading. Deshan Xuanjian owns the instruction deployment: instructing the assembly he sets the pair whole — with words, ride the tiger's head and gather its tail, the purpose shown beneath the first sentence; wordless, the pivotal edge flashes bare like a lightning-swift brush."
+        },
+        {
+          "RelPath": "J/J34/J34nB309.xml",
+          "FromLb": "0560b13",
+          "ToLb": "0560b23",
+          "Kwic": "南依圓悟。一日入室，悟舉：「羅山道：『有言時，踞虎頭，收虎尾，第一句下明宗旨；無言時，覿露機鋒，如同電拂。』作麼生會？」師不能對，夙夜參究，忽然有省，作偈呈悟曰：「家住孤峰頂，常年半掩門。自嗟身已老，活計付兒孫。」悟見許可。次日入室，悟又問：「昨日公案作麼生？」師擬對，悟便喝曰：「佛法不是者箇道理。」師復留五載，轉更迷悶。後於廬山栖賢閱浮山遠禪師《削執論》云：「若悟有親疏，豈有栴檀林中卻生臭艸？」豁然契悟，作偈寄悟曰：「出林依舊入蓬蒿，天網恢恢不可逃。誰信業緣無避處？歸來不怕語聲高。」悟大奇，持以示眾曰：「覺華嚴徹矣。」",
+          "MasterName": "Yunfu Daozhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfu Daozhi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Luoshan Daoxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Huayan Zujue",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB309.xml). Recorded Sayings of Chan Master Yunfu Daozhi, a reply letter to a layman studying the Huayan. Yunfu Daozhi owns the letter deployment: at a time when the ancestral lamp is scattered he recounts how the Huayan master Zujue first mastered the Huayan and lectured unmatched through the southwest, was told by Nantang Jing he had not yet shed the mark of the written word, and went south to Yuanwu; one day entering the room Yuanwu raised Luoshan's couplet — with words, sit firm on the tiger's head and gather its tail, the purpose shown beneath the first sentence; wordless, the pivotal edge flashes bare like a lightning-swift brush — how do you take it? Zujue could not answer, strove day and night to a sudden awakening, sent Yuanwu the verse of the lone peak's summit and the half-shut gate, and was approved; pressed again the next day he was shouted down — this is not the truth of the teaching — stayed five years more in muddle, until reading Fushan Yuan's treatise on cutting away attachment at Qixian on Lu, that in a sandalwood grove no foul weed grows, he broke through, sent the verse of coming out of the grove back into the weeds, and Yuanwu held it up before the assembly: the Huayan master is through. Yunfu closes the letter: that Jue would not rest content, and Yuanwu's carrying him to the end — this the layman too should know."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0246c12",
+          "ToLb": "0246c24",
+          "Kwic": "小參。舉：「雪峰在德山作飯頭，一日飯遲，德山擎缽下法堂，峰曬飯巾次，見德山，乃云：『鐘未鳴，鼓未響，托缽向甚麼處去？』德山便歸方丈。峰舉似巖頭，頭曰：『大小德山未會末後句在。』山聞，令侍者喚頭去問：『你不肯老僧那？』頭密啟其意，山乃休。明日陞堂，果與尋常不同。頭至僧堂前，拊掌大笑曰：『且喜堂頭老漢會末後句，他後天下人不奈伊何。雖然，也秖得三年活。』山果三年後示寂。」師云：「大眾！還知德山低頭歸方丈并巖頭密啟底意麼？無言時，覿露機鋒，如同電拂，豈不是默時便是說？還知巖頭道：『大小德山未會末後句。』又云：『且喜老漢會得末後句，以後天下人不奈伊何。』并德山云：『你不肯老僧那？』與明日陞座，果與尋常不同底意麼？有言時，踞虎頭、收虎尾，豈不是說時便是默？",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong Tongren. Chaozong Tongren owns the interpreting deployment: at informal talk he raises the old case — Xuefeng as rice steward under Deshan, the meal late, Deshan carrying his bowl down to the hall, Xuefeng airing the meal cloth: the bell not yet rung, the drum not yet beaten, where does the bowl go? Deshan turns back to his quarters; Xuefeng reports to Yantou, who rules the great Deshan had not yet got the final word; summoned and asked whether he refuses the old monk, Yantou secretly conveys the point, and next day Deshan ascends the seat unlike any other day, Yantou clapping in laughter before the hall — and Chaozong asks the assembly: do you know the meaning of Deshan's lowering his head back to his quarters and of Yantou's secret conveying? Wordless, the pivotal edge flashes bare like a lightning-swift brush — is not silence itself speaking? and with words, sit firm on the tiger's head and gather its tail — is not speaking itself silence?"
         }
       ],
       "SourceTexts": [

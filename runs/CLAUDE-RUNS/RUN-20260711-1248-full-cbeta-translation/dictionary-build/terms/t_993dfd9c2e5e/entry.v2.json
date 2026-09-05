@@ -84,6 +84,40 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: direct answer to a monk requesting appraisal."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0852b25",
+          "ToLb": "0852b26",
+          "Kwic": "瑞巖喚主人公。頌云。瑞巖家風。喚主人公。昨夜南山。虎咬大蟲",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded eulogy verses of the master himself (大慧普覺禪師語錄, 頌古 section). Dahui Zonggao owns the retained deployment: his own verse on the Ruiyan calling-the-master case — 瑞巖喚主人公。頌云。瑞巖家風。喚主人公。昨夜南山。虎咬大蟲。"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0869a13",
+          "ToLb": "0869a14",
+          "Kwic": "昨夜山前虎咬大蟲。師云無目仙人能揣骨",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded room instructions of the master himself (古尊宿語錄, 龍門佛眼禪師語錄 section, 室中垂示). Foyan Qingyuan owns the retained deployment: his own standalone room remark — 師云。昨夜山前虎咬大蟲。師云。無目仙人能揣骨。"
         }
       ],
       "SourceTexts": [

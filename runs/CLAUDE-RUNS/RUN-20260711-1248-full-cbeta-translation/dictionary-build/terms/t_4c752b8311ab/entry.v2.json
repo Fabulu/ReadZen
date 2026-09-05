@@ -61,6 +61,57 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "J/J36/J36nB363.xml",
+          "FromLb": "0793c01",
+          "ToLb": "0793c03",
+          "Kwic": "如何是頭？」師云：「金輪不隱的，遍界絕紅塵。」進云：「如何是尾？」師云：「玉女夜拋梭，織錦於西舍。」進云：「有頭無尾時如何",
+          "MasterName": "Wenmu Nian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wenmu Nian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded sayings of the master himself (文穆念禪師語錄, 機緣 section). Wenmu Nian owns the retained deployment: asked for head and tail of the matter he answers the tail-turn — 玉女夜拋梭，織錦於西舍, bracketed by his head-answer 金輪不隱的，遍界絕紅塵."
+        },
+        {
+          "RelPath": "J/J40/J40nB476.xml",
+          "FromLb": "0061b28",
+          "ToLb": "0061c01",
+          "Kwic": "正偏五位蒙師指，紹隆師位是如何？」師曰：「石女夜拋梭，織錦於西舍。」乃曰：「從來把住信難通，爭肯輕為擅露鋒？今日無端開線道，卻令鐵馬吼金風",
+          "MasterName": "Biemu Chun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Biemu Chun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB476.xml). Recorded sayings of the master himself (別牧純禪師語錄, 分座秉拂 section, deputizing at Nanyuan). After the five-positions question-round Biemu Chun owns the retained deployment in his answer 石女夜拋梭，織錦於西舍 (variant 石女 for 玉女, same allusion), sealed by his own quatrain 從來把住信難通…卻令鐵馬吼金風."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0032b28",
+          "ToLb": "0032c03",
+          "Kwic": "舉壽聖云。月半前用釣。月半後用錐。僧便問。正當月半時如何。聖云。泥牛踏破澄潭月。師云。兩頭得用。壽聖作家。直下忘功。是誰體得。放行也互換尊賓。把住也不留朕跡。還有體得底麼。玉女夜拋梭。織錦於西舍",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Master's own case-appraisals from his Changlu period (宏智禪師廣錄, 真州長蘆覺和尚拈古 section). Hongzhi Zhengjue owns the retained deployment: raising Shousheng's half-month ruling he appraises 兩頭得用。壽聖作家。直下忘功…還有體得底麼。玉女夜拋梭。織錦於西舍. Deliberate same-master duplicate of the cited J32nB272 record: this is a distinct work and period (his own 拈古 collection), kept because the entry's non-lamp candidates otherwise reduce to unattributable raised-case text."
         }
       ],
       "SourceTexts": [

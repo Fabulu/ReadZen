@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 山前一片閒田地 and the sale, repurchase, a
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: hands folded, earnestly question the ancestral elder; The second line of Wuzu Fayan's land-and-deed realization verse, presenting deferential but insistent questioning of the ancestral elder about an unclear title deed
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

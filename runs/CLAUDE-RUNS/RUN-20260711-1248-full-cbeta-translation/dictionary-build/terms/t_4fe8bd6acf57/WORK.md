@@ -12,3 +12,4 @@ feedback-counterexamples: Keep 偏 and 正 as relational technical positions rat
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: relative and absolute interchange; Technical Caodong relational wording for the reciprocal transformation and interweaving of the relative and absolute positions
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

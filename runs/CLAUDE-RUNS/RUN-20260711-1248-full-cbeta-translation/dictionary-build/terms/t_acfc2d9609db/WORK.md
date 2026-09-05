@@ -12,3 +12,4 @@ feedback-counterexamples: It is challenge language, not a literal act; distingui
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: swallow the chestnut burr; digest the thorny burr
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

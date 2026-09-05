@@ -12,3 +12,4 @@ feedback-counterexamples: Keep the door-and-mortar collision visible.
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: push the door and drop into the mortar; arrival with an immediate drop
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

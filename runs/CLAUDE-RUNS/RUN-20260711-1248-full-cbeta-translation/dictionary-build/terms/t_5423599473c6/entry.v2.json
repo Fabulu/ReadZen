@@ -61,6 +61,97 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X63/X63n1259.xml",
+          "FromLb": "0988b13",
+          "ToLb": "0988b17",
+          "Kwic": "閒有時師不知關棙，止教人參如何是西來意，如何是本來面目，如何是學人自己者，此則上無關鎖，望空啟告，師家下刀不緊，學家發疑無力，死水浮沈，白首不悟，坐病在此，豈不惜哉！",
+          "MasterName": "Huishan Jiexian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huishan Jiexian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1259.xml). Chanmen Duanlianshuo training manual by Huishan Jiexian. Huishan Jiexian owns the retained deployment: critique that koans assigned without a lock-barrier leave students proclaiming to the empty air."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0952a16",
+          "ToLb": "0952b02",
+          "Kwic": "上堂：世尊不說說，拗曲作直。迦葉不聞聞，望空啟告。馬祖即心即佛，懸羊頭賣狗肉。趙州勘菴主，貴買賤賣，分文不直。只如文殊是七佛之師，因甚出女子定不得？天河月暈魚生子，槲葉風微鹿養茸。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Wujia Zhengzong Zan biographical record of Mi'an Xianjie. Mi'an Xianjie owns the retained deployment: hall address pairing the World-Honored One not speaking with Kashyapa proclaiming to the empty air."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0140c26",
+          "ToLb": "0141a10",
+          "Kwic": "武帝追憶。自撰碑文云。嗟夫。見之不見。逢之不逢。遇之不遇。今之古之。怨之恨之。復讚云。心有也。曠劫而滯凡夫。心無也。剎那而登妙覺。且道。達磨即今在什麼處。蹉過也不知。聖諦廓然箭過新羅。咦何當辨的過也。有什麼難辨對朕者誰再來不直半文錢。又恁麼去也還云不識三个四个中也。咄因茲暗渡江穿人鼻孔不得。却被別人穿。蒼天蒼天。好不大丈夫豈免生荊棘脚跟下已深數丈闔國人追不再來兩重公案。用追作麼。在什麼處。大丈夫志氣何在千古萬古空相憶換手槌胸。望空啟告休相憶道什麼。向鬼窟裏作活計清風匝地有何極果然。大小雪竇向草裏輥師顧視左右云。這裏還有祖師麼爾待番欵那。猶作這去就。自云有塌薩阿勞喚來與老僧洗脚更與三十棒趕出。也未為分外。作這去就。猶較些子。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record case one carrying Xuedou's verse under Yuanwu's comments. Yuanwu Keqin owns the retained deployment: running comment on the longing verse that tags its cease-longing line as proclaiming to the empty air."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0508a09",
+          "ToLb": "0508b03",
+          "Kwic": "小叅有僧問放過一󷓞滿目光生把断要津万木凋弊學人上來請師垂示師云老僧退後學云放過惣由和尚去也師云闍梨進前三步學云不入𧆞口爭見𧆞牙師云十字路頭望空啟告。又僧問十年磨一劒霜刃未曾試時如何。師云本分作家學家便喝師云老僧失利學云恰是師乃呵呵而",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Langye Huijue section of the Guzunxu Yulu. Langye Huijue owns the retained deployment: small-assembly answer that without entering the tiger's mouth one only proclaims to the empty air at the crossroads."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0488c16",
+          "ToLb": "0488c22",
+          "Kwic": "薦嚴請上堂，僧問：「無位真人了無生滅，正當粉骨碎身時如何？」師云：「哭泣有分。」進云：「不立一塵超物外，杳無消息與人看。」師云：「望空啟告。」進云：「昔日師子臨頭白刃，謂是正令全提？謂是了他宿債？」師云：「腦後看。」進云：「恁麼則面目儼然？」師便打，乃云：「朔風寒，征鳥疾，望斷白雲不見白。本父母，手足親，雨餘山色青又青，長憶江南三月裏，鷓鴣啼處百花新。」",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi. Shiqi Tongyun owns the retained deployment: memorial-assembly answer given as the bare phrase proclaiming to the empty air."
         }
       ],
       "SourceTexts": [

@@ -13,3 +13,4 @@ feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: nine years facing a wall
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
 - r7-kwic-repair-20260905: restored 2 elided occurrence kwic(s) to contiguous document slices (r7 batch-builder window elision defect); FromLb/ToLb set to the restored span's lines.
+- 2026-09-05 r7-depth: +8 occurrences (target 10; tier1/2 only, lamp excluded); new works 8; recompiled hardPass

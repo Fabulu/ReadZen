@@ -51,6 +51,91 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Xinghua Cunjiang owns the retained deployment: Tianyin's independent complete-case quotation with Yunju and Dahui assessments."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0924a18",
+          "ToLb": "0924b04",
+          "Kwic": "師謂克賓維那曰：汝不久當為唱導之師。賓曰：不入者保社。師曰：會了不入，不會不入。賓曰：總不恁麼。師便打，乃白眾云：克賓維那法戰不勝，罰錢五貫，設饡飯一堂，仍不得喫飯。即趕出院",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Master-life anthology 五家正宗贊, section 興化獎禪師. Xinghua Cunjiang owns the retained deployment: the original verdict — 便打，乃白眾云：克賓維那法戰不勝，罰錢五貫，設饡飯一堂，仍不得喫飯。即趕出院。"
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0723a01",
+          "ToLb": "0723a06",
+          "Kwic": "興化謂克賓維那曰。汝不久為唱導之師。賓云。我不入這保社。化曰。儞會了不入。不會了不入。賔云。緫不與麼。化便打。來日白眾曰。夜來克賓維那法戰不勝。罰饡飯一堂。不得喫飯即便出院。師拈云。有令不行有事不斷。天下之公患也。興化既行矣。又斷矣。未免旁觀者哂",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Master's own collected discourses (天目中峰廣錄, case-raising section). Zhongfeng Mingben owns the retained deployment: he re-raises the Xinghua verdict and judges it — 有令不行有事不斷。天下之公患也。"
+        },
+        {
+          "RelPath": "X/X71/X71n1419.xml",
+          "FromLb": "0032b07",
+          "ToLb": "0032b13",
+          "Kwic": "昔太行山克賓禪師在興化作維那，化一日謂云：你不久為唱道之師，蝦為子曲。賓云：不入者，保社渾鋼打就，生鐵鑄成。化云：你會了不入？不會不入？幾乎蹉過。賓云：總不與麼，真獅子兒能獅子吼。化便打，復云：克賓維那法戰不勝，罰錢五貫，設饡飯一堂。復白槌云：克賓維那法戰不勝，不得喫飯。即便趂出院。興化此令雖行，無奈傍觀者醜",
+          "MasterName": "Yuansou Xingduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuansou Xingduan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1419.xml). Recorded instruction of the master himself (元叟行端禪師語錄, instruction to Verger Shou). Yuansou Xingduan owns the retained deployment: he retells the verdict twice to exhort a verger, closing with 興化此令雖行，無奈傍觀者醜."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0457a11",
+          "ToLb": "0457a18",
+          "Kwic": "舉：興化問克賓維那：汝不久為唱道之師。賓云：不入者保社。化云：會了不入？不會了不入？賓云：沒交涉。化便打，乃云：克賓維那法戰不勝，罰錢五貫，充設饡飯。至來日齋時，興化自白槌云：克賓維那法戰不勝，不得喫飯。即便趕出。雪竇云：克賓要承嗣興化，罰錢出院且致，却須索取者一頓棒始得。且問諸人：棒既喫了，作麼生索？雪竇要斷不平之事，今夜與克賓維那雪屈，以主丈一時打散",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded sayings of the master himself (古林清茂禪師語錄, re-raising Xuedou's hundred cases). Gulin Qingmao owns the retained deployment: he re-raises the case with Xuedou's comment and closes by brandishing the staff for Kebin."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0604b02",
+          "ToLb": "0604b07",
+          "Kwic": "舉：「興化謂克賓云：『汝不久為唱導之師。』賓云：『不入這保社。』化云：『會了不入？不會不入？』賓云：『總不與麼？』化便打，云：『克賓維那法戰不勝，罰錢五貫，設饡飯一堂。』次日，自白槌云：『克賓維那法戰不勝，不得喫飯。』即趁出院。」師云：「興化法令若不如是之嚴，何以見他克賓？所謂『父為子隱，子為父隱，直在其中矣",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded sayings of the master himself (浮石禪師語錄, case-raising section). Fushi Tongxian owns the retained deployment: he re-raises the verdict and defends its severity — 興化法令若不如是之嚴，何以見他克賓？"
         }
       ],
       "SourceTexts": [

@@ -62,6 +62,81 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Shitou Xiqian owns the retained deployment: parallel inherited statement later raised by Shouchang."
+        },
+        {
+          "RelPath": "X/X73/X73n1446.xml",
+          "FromLb": "0431b14",
+          "ToLb": "0432a03",
+          "Kwic": "青原令石頭馳書呈南嶽大慧云：回日與子個鈯斧子住山去。石頭到後便問：不慕諸聖，不重己靈時如何？慧云：子問太高生，何不向下問將來？頭云：寧可永劫受沉淪，不於諸聖求解脫。便歸。青原問：子返何速？書信達不？頭曰：信亦不通，書亦不達。乃舉前話，復云：去日蒙和尚許鈯斧子，而今便請。師垂下一足，石頭便作禮。師云：大小石頭被大慧推倒，至今起不得。",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Nanyue Huairang",
+              "Roles": [
+                "interlocutor"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1446.xml). Recorded Sayings of Chan Master Xuansha, named in its own running title. Xuansha Shibei owns the verdict deployment: the record has Qingyuan send Shitou to bear a letter to Nanyue Dahui, who promises the hoe-axe for mountain dwelling on return; Shitou, before presenting the letter, raises not admiring the saints nor prizing his own spirit, Dahui tells him the question is too lofty and to ask downward instead, and Shitou answers with the headword line and returns; Qingyuan lowers one foot in place of the hoe-axe, and Xuansha's own verdict follows — big-and-small Shitou was pushed over by Dahui and has not risen to this day."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0476b24",
+          "ToLb": "0476c07",
+          "Kwic": "青原令石頭馳書到南嶽，且囑曰：「回時吾有箇鈯斧子與汝住山。」頭到南嶽，未呈書便問：「不慕諸聖、不重己靈時如何？」嶽云：「子問太高生，何不向下問？」頭云：「寧可永劫受沉淪，不向諸聖求解脫。」便歸。原曰：「子返何速？書信達否？」頭云：「信亦不通，書亦不達。去日蒙和尚許箇鈯斧子，即今便請。」原垂下一足，頭便禮拜。師拈云：「冰稜上度過九曲，劍刃上拾得全身，不妨好手。我更要問石頭：者鈯斧子甚劫中曾虧欠來？尋嘗入火不燒、入水不溼底向甚處著？朝參暮請、運水搬柴又用箇甚麼？無端累他青原一足，至今縮不得；自身被壓倒，至今起不得。」頌：麟閣名標尺土封，觀光上國見英雄。至今南嶽峰頭月，清照瀟湘萬頃中。",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Qingyuan Xingsi",
+              "Roles": [
+                "action-performer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Shen Ding Yikui, his own seat name Shending standing in the same old-case series. Yikui Yuankui owns the case-raising deployment: the record has Qingyuan charge Shitou to bear a letter to Nanyue, promising the hoe-axe on return; Shitou asks his not-admiring question before presenting the letter, Nanyue calls it too lofty, Shitou answers with the headword line and returns, and Qingyuan lowers one foot in place of the hoe-axe; Yikui's own picking grants him passing nine bends on the ice ridge and picking up his whole body on a sword blade — no mean hand — yet still asks Shitou what the hoe-axe ever lacked, and his verse seals it with the moon over Nanyue peak lighting ten thousand acres of Xiaoxiang."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0759c03",
+          "ToLb": "0759c11",
+          "Kwic": "瀛山巒和尚至，上堂。「空界色界，懸疣附贅，正位偏位，鼠肝蟲臂。鳥道玄路展手，生鐵錮鏴著鈕。四禁三墮滲漏，蝦跳何曾出斗？不見古人道：『寧可永劫受沉淪，不向諸聖求解脫。』十成底事也須颺卻，擲地作金聲直須不顧。所以博山老人云：『我得壽昌古佛一箇不肯，三十年建法幢、立宗旨，用之不盡。』汝等諸人是擔佛著肩上行腳的，處處去覓佛覓祖，直饒覓得，究竟不是真佛祖。今者賴遇明眼人在此，壽昌豈敢寶秘？還要識真佛祖麼？」",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantao Daqi, speaking as the holder of the Shouchang seat in his own hall talk. Guantao Daqi owns the raising deployment: on the Wanyingshan master's arrival he intones the ranks and the leaks — bird-path, mystic way, spread hands, raw iron — then raises the old one's saying with the headword line, casts off even the ten-tenths affair so it rings gold where it lands, follows with the Old Man of Boshan's testimony of getting Old Buddha Shouchang's one refusal, and asks the crowd whether they yet know the true buddhas and patriarchs."
         }
       ],
       "SourceTexts": [

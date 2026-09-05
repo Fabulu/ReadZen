@@ -50,6 +50,57 @@
             }
           ],
           "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: independent answer pairing a baited hook with a steelyard lacking its terminal mark."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0221b10",
+          "ToLb": "0221b12",
+          "Kwic": "洞山。僧問：「如何是佛？」山云：「麻三斤。」秤頭有紐，秤尾無星。一個錘推上推下，兩片皮說重說輕。若是牙郎主人，豈定道麻三斤",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Master's own old-case verses (千巖和尚語錄, 頌古 section, on Dongshan's hemp-three-jin). Qianyan Yuanzhang owns the retained deployment: capping the exchange he verses 秤頭有紐，秤尾無星。一個錘推上推下，兩片皮說重說輕。若是牙郎主人，豈定道麻三斤."
+        },
+        {
+          "RelPath": "X/X69/X69n1368.xml",
+          "FromLb": "0256a05",
+          "ToLb": "0256a07",
+          "Kwic": "當晚小參：釋迦不出世，秤尾無星；達磨不西來，尺頭有寸。峭巍巍處平坦坦，平坦坦處峭巍巍。拈拄杖云：拈起也，地轉天回；放下也，風行草偃",
+          "MasterName": "Yanxi Guangwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanxi Guangwen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded sayings of the master himself (偃溪廣聞禪師語錄, evening address at Jingci). Yanxi Guangwen owns the retained deployment: 釋迦不出世，秤尾無星；達磨不西來，尺頭有寸。峭巍巍處平坦坦，平坦坦處峭巍巍, sealed by his staff-turn 拈起也，地轉天回；放下也，風行草偃."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0103a08",
+          "ToLb": "0103a11",
+          "Kwic": "浩唾地云：這一唾重多少？坡休去。師云：玉泉是作家宗匠，東坡是當世大儒，驀劄相逢，發揮此道，盡謂東坡休去，秤尾無星，殊不知八兩半斤總在自家手裏",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded sayings of the master himself (楚石梵琦禪師語錄, Fengshan abbacy, hall talk for the scholar laureate's visit). Chushi Fanqi owns the retained deployment: appraising the Yuquan-Dongpo scale exchange he rules 盡謂東坡休去，秤尾無星，殊不知八兩半斤總在自家手裏."
         }
       ],
       "SourceTexts": [

@@ -61,6 +61,80 @@
             }
           ],
           "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shi owns the retained deployment: independent testing and elaboration of the paired fruits."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0544b11",
+          "ToLb": "0545a03",
+          "Kwic": "乃舉祖師道吾本來茲土傳法救迷情一花開五葉結果自然成達磨大師信脚來信口道後代兒孫多成計校要會開花結果處麼鄭州梨青州棗萬物無過出處好",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters, Wuzu Fayan's own section, where he names himself Fayan touring over ten years among the venerables. Wuzu Fayan owns the originating deployment: on his entry day he raises the Patriarch Bodhidharma's transmission verse, adds that Damo came trusting his feet and spoke trusting his mouth while late descendants all turned it into calculation, and to meet the place of flowering and fruiting gives the Zhengzhou pears, Qingzhou dates, nothing surpassing a good source."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0584a08",
+          "ToLb": "0584a14",
+          "Kwic": "復舉：祖師云：吾本來此土，傳法救迷情，一華開五葉，結果自然成。五祖法演和尚云：達磨大師信脚來，信口道，後代兒孫多成計較。諸人要會開華結果處麼？鄭州梨，青州棗，萬物無過出處好。師云：提本分鉗鎚，碎情解窠窟，還他五祖老人要見開華結果處則大遠在。諸人要會開華結果處麼？拈却鄭州梨，放下青州棗，出門便是長安道。",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the reprise deployment: after raising Wuzu Fayan's gloss on the transmission verse he comments with the intrinsic-implement hammer crushing the nest of conceptual understanding, grants that Old Wuzu's wish to see the flowering-and-fruiting place is still far off, and tells them to meet it thus — put down the Zhengzhou pears and Qingzhou dates, and out the door is the Chang'an road."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0068b28",
+          "ToLb": "0068c02",
+          "Kwic": "為青州佛實舉火云：「鄭州梨、青州棗，萬物無過出處好。實禪人還知麼？若知出處，便解當處出生、隨處滅盡，不見有生死去來之相，從來寸步未嘗移，那涉山東與山西？若猶未知……」攛火炬云：「老僧助汝一把火，炤徹面門離處所。」",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the funeral deployment: at monk Qingzhou Foshi's cremation he offers the pears-and-dates line, asks whether Foshi knows the source, and if he knows it he is equipped to be born on the spot and vanish wherever, never having moved an inch, never mind Shandong or Shanxi."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0096a29",
+          "ToLb": "0096b05",
+          "Kwic": "真實做工夫底人就所參話上打成一片，雖在鬧市街頭，著著有箇轉身處，驀忽不覺不知，秤鎚撲落，方信鄭州梨、青州棗原非別物，等閒搬弄出來便覺光鮮奪目，騰價百倍，德山老瞎禿與汝運水添薪，臨濟小廝兒正好量米打碓。若或把捉弗定，半信半疑，即珍貨滿前盡屬眼中青翳，生死要緊事何日了耶？流光似箭，鴉鬢如霜，華翁華翁，幸其勉諸。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the realization deployment: instructing layman Song Huaqing he writes that one who truly works the phrase through into one piece has a turning place everywhere, and when the counterweight suddenly drops, one believes the Zhengzhou pears and Qingzhou dates were never other things — casually brought out they shine freshly and leap a hundredfold in price."
         }
       ],
       "SourceTexts": [

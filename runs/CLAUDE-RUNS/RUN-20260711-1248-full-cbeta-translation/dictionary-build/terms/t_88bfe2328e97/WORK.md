@@ -15,3 +15,4 @@ feedback-counterexamples: do not upgrade repeated or mixed-family preservation i
 feedback-scope: the exact expression in the retained Tier-2 passages.
 lookup-probes: both bright and both dark
 opening-interpretation-verdict: licensed provisionally by the inherited case and later redeployment.
+- 2026-09-05 r7-depth: +2 occurrences (target 5; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

@@ -50,6 +50,75 @@
             }
           ],
           "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng's independent repeated use of the same bargain image."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0662c18",
+          "ToLb": "0662c19",
+          "Kwic": "文殊熱謾無著，卻乃移華兼蜨至；無著錯過文殊，已曾買石得雲饒",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the retained deployment: after telling the Wuzhu-Wenshu story he rules that Wuzhu missed Wenshu, having already bought the stone and gained the cloud in the bargain."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0006c20",
+          "ToLb": "0006c25",
+          "Kwic": "敲空作響，喚回浪子歸家；擊木無聲，解使髑髏瞠眼。烏龜向火，通身烈焰絕遮藏；碓觜生花，一道馨香超劫外。亡過尊靈就這裏透脫去，便見前溪月落，大野雲收，本有靈光，自繇自在。雖色聲頭上坐臥色聲，不能染污；雖生死海中優游生死，不能籠罩。然山僧與麼告報，大似移華兼蝶至，買石得雲饒。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: memorial hall address freeing the departed spirit in the midst of sounds and forms, then granting that his telling them so is much like moving the flower with the butterfly arriving and buying the stone and gaining the cloud."
+        },
+        {
+          "RelPath": "X/X67/X67n1310.xml",
+          "FromLb": "0242a03",
+          "ToLb": "0242a05",
+          "Kwic": "時人只知龐老藥山河裏行舡、岸上走馬，殊不知移花兼蝶至，買石得雲饒。雖然如是，瞌睡醒始得。",
+          "MasterName": "Fojian Huiqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1310.xml). Nian Bafang Zhuji collection of raising comments. Fojian Huiqin owns the retained deployment: raising comment on the Yaoshan-Layman Pang exchange, that people only know the old Pang boating on Yaoshan's river and riding horses on its banks, not knowing that moving the flower brings the butterfly and buying the stone gains the cloud."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0084c10",
+          "ToLb": "0084c13",
+          "Kwic": "獨為逃禪遠世尋，雙谿橋去水雲深，想君共我同流也，日坐蒲團嘯竹林。無意時時把念消，有來買石得雲饒，前村幾箇籬笆竹，節節枝枝長過橋。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan, poems. Poshan Haiming owns the retained deployment: rhyme-matching verse for the Whispering Bamboo Pavilion, where with no intent the thoughts melt away of themselves and when something comes one has bought the stone and gained the cloud."
         }
       ],
       "SourceTexts": [

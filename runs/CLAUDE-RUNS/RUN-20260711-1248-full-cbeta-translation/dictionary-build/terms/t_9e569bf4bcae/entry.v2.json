@@ -50,6 +50,97 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct deployment of the sea-calming pearl case."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0961b09",
+          "ToLb": "0961b11",
+          "Kwic": "上堂：默沈陰界，語墮深坑。擬著則天地懸殊，棄之則千生萬劫。洪波浩渺，白浪滔天。鎮海明珠，在誰収掌？良久，卓主丈，云：百雜碎",
+          "MasterName": "Touzi Yiqing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Master-life anthology 五家正宗贊, section 投子青禪師 preserving Touzi Yiqing's hall address. Touzi Yiqing owns the retained deployment: 洪波浩渺，白浪滔天。鎮海明珠，在誰収掌？"
+        },
+        {
+          "RelPath": "X/X71/X71n1413.xml",
+          "FromLb": "0555b11",
+          "ToLb": "0555b13",
+          "Kwic": "送廣南尚禪人前三三與後三三，鎮海明珠出廣南。知識門頭呈似看，一輪霜月照寒潭",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1413.xml). Master's own collected verse (古林清茂禪師拾遺偈頌, farewell poem for the Guangnan pilgrim). Gulin Qingmao owns the retained deployment: farewell verse line 鎮海明珠出廣南."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0128a03",
+          "ToLb": "0128a04",
+          "Kwic": "上堂。拈起拄杖，云：「鎮海明珠，只有一顆，仰山不來，深藏待賈。」卓一卓，云：「東寺驀地捧出，炤破山河萬朵",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded sayings of the master himself (三峰藏和尚語錄, Sanfeng monastery hall talk). Hanyue Fazang owns the retained deployment: staff-raised hall address recasting the pearl case — 鎮海明珠，只有一顆，仰山不來，深藏待賈."
+        },
+        {
+          "RelPath": "L/L154/L154n1638.xml",
+          "FromLb": "0015a07",
+          "ToLb": "0015a12",
+          "Kwic": "仰山叅東寺如會禪師問汝是甚處人仰曰廣南人師曰我聞廣南有鎮海明珠是否仰曰是師曰此珠如何仰曰黑月則隱白月則現師曰還將來也無仰曰將得來師曰何不呈似老僧仰义手近前曰昨到溈山亦被索此珠直得無言可對無理可伸",
+          "MasterName": "Dongsi Ruhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongsi Ruhui",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1638.xml). Xueqiao Yuanxin's recorded 拈頌 raises the old Yangshan-Dongsi case (雪嶋信禪師語錄); the headword line is Dongsi Ruhui's question inside the raised case."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0221a12",
+          "ToLb": "0221a14",
+          "Kwic": "東寺問仰山鎮海明珠。廣南鎮海珠，分文也不直。撞著瞎波斯，更問作何色。當下一槌百雜碎，溈仰之宗未墜地",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded sayings of the master himself (千巖和尚語錄, verse-on-the-ancients section). Qianyan Yuanzhang owns the retained deployment: case heading 東寺問仰山鎮海明珠 followed by his own appraisal verse 廣南鎮海珠，分文也不直."
         }
       ],
       "SourceTexts": [

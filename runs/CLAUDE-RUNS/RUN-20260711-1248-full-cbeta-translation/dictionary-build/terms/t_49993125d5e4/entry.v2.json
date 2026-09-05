@@ -61,6 +61,40 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0276a15",
+          "ToLb": "0276a17",
+          "Kwic": "夾山便問：未審二人見處，那箇較親？截耳臥街梅云：且去，明日來",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Master's own case-commentary with interlinear glosses (希叟紹曇禪師廣錄, 拈古并頌, on the Dingshan-Jiashan-Damei exchange). Xisou Shaotan owns the retained deployment: asked which of the two views is closer, Damei defers with 且去，明日來, and the master's own inserted gloss on that deferral is 截耳臥街."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0423b12",
+          "ToLb": "0423b15",
+          "Kwic": "截水停輪時如何？師云：鰕跳不出斗。進云：與麼則勞而無功也。師云：截耳臥街。進云：向上更有事也無？師云：有。進云：如何是向上事？師云：不勞懸石鏡，天曉自分明",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded sayings of the master himself (古林清茂禪師語錄, re-enthronement at Kaiyuan, hall assembly). Gulin Qingmao owns the retained deployment: asked about cutting water and stopping the wheel he answers 鰕跳不出斗, and to the follow-up that this is labor without merit he replies 師云：截耳臥街, sealing the round with 不勞懸石鏡，天曉自分明."
         }
       ],
       "SourceTexts": [

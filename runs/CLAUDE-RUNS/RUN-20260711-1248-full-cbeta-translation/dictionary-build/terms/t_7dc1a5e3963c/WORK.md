@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 不從諸聖求解脫 as the answering half; repe
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: rather sink forever through endless kalpas
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

@@ -12,3 +12,4 @@ feedback-counterexamples: Govern 腋下抽腰 or 腋下剜襟 as the recurrent c
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: join the collar at the sleeve end; strike the collar from the sleeve
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

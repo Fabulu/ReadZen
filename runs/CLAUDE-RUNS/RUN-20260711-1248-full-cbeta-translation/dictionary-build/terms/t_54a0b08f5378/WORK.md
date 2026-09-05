@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 白鼠推遷 as the recurrent first half. Do not 
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: the silver terrace does not change
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

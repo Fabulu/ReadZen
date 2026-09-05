@@ -63,6 +63,74 @@
             }
           ],
           "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Deshan Xuanjian owns the retained deployment: independent active quotation contrasting verbal display with direct arrival."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0917a16",
+          "ToLb": "0917b02",
+          "Kwic": "至來日，潭陞座謂眾曰：可中有箇漢，牙如劒樹，口似血盆，一棒打不回頭，他日向孤峯頂上立吾道去在。師遂將疏鈔堆法堂前，舉火云：窮諸玄辯，若一毫置於太虗；竭世樞機，似一滴投於巨壑",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Master-authored lineage encomium (五家正宗贊, 德山見性禪師 section; compiler Xisou Shaotan, 宋 紹曇記). The retained deployment is Deshan Xuanjian's own origin act, recorded in the section's biography: 師遂將疏鈔堆法堂前，舉火云：窮諸玄辯，若一毫置於太虗；竭世樞機，似一滴投於巨壑。遂焚之。 (Deliberate same-master record: tier-1 origin act from a distinct master-authored source.)"
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0682c05",
+          "ToLb": "0682c07",
+          "Kwic": "上堂云。窮諸玄辯。若一毫致於太虛。竭世樞機。似一滴投於巨壑。不如歇去。好還會麼。客亭不遠",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded hall talk of the master himself (明覺禪師語錄, 後錄). Xuedou Chongxian owns the retained deployment: opening his hall address on the quote he rules — 上堂云：窮諸玄辯，若一毫致於太虛，竭世樞機，似一滴投於巨壑。不如歇去。好還會麼。客亭不遠。"
+        },
+        {
+          "RelPath": "X/X69/X69n1358.xml",
+          "FromLb": "0791a12",
+          "ToLb": "0791a14",
+          "Kwic": "開堂日，於知府手中接疏示眾云：窮諸玄辯．竭世樞機．百千法門．無量妙義，總在箇裏，不隔一絲頭",
+          "MasterName": "Huqiu Shaolong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huqiu Shaolong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1358.xml). Recorded opening-day address of the master himself (虎丘紹隆禪師語錄, 住和州開聖禪院語錄). Huqiu Shaolong owns the retained deployment: receiving the schedule from the prefect he proclaims — 窮諸玄辯，竭世樞機，百千法門，無量妙義，總在箇裏，不隔一絲頭。"
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0966b10",
+          "ToLb": "0966b11",
+          "Kwic": "判府安撫徽猷度疏。師接乃云。窮諸玄辯。若一毫置於太虛。竭世樞機。到底不離於正念",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded opening-day address of the master himself (密菴和尚語錄, 景德靈隱禪寺開堂). Mi'an Xianjie owns the retained deployment: receiving the dedication document he rules — 師接乃云：窮諸玄辯，若一毫置於太虛；竭世樞機，到底不離於正念。"
         }
       ],
       "SourceTexts": [

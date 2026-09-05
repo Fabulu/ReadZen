@@ -12,3 +12,4 @@ feedback-counterexamples: Keep the earth-axis image and its paired heaven-gate w
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: overturn the earth's axis; world-upending action
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

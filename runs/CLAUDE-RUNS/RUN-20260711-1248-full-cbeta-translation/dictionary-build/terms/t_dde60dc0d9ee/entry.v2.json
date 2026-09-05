@@ -50,6 +50,63 @@
             }
           ],
           "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: direct small-assembly saying."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0376b11",
+          "ToLb": "0376b16",
+          "Kwic": "秉拂。問：「眉間挂劍，橫屍萬里；肘後懸符，靈光獨耀。如何是不展戈矛、端拱無為之化？」師云：「四海風清日月明。」進云：「或遇作者同途又作麼生？」師云：「此去蘇州二千里。」進云：「新出紅爐金彈子，簉破當陽鐵面門。」師云：「照顧性命。」僧便喝，師云：「好喝。」進云：「到者裏不得不施一拜去也。」師云：「看你更向甚處躲跟？」",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Liao, whose title enters him as Yuan'an Feng. At his whisk-holding assembly the opening question runs the pair whole — a sword hung between the brows, corpses strewn across ten thousand miles; a talisman hanging behind the elbow, its numinous light shining alone — and asks what the teaching is that unfolds no spear or shield, hands folded, doing nothing. He answers: the four seas wind-clear, sun and moon bright. Asked what if he meets a maker on the same road — this side of Suzhou is two thousand li. The exchange runs on: a gold pellet fresh from the red furnace smashing the sun-facing iron face-gate — watch your life!; the monk shouts, he grants it a good shout; the monk says he must bow — and where, he asks, will you hide your heels now?"
+        },
+        {
+          "RelPath": "J/J27/J27nB194.xml",
+          "FromLb": "0322a30",
+          "ToLb": "0322b01",
+          "Kwic": "上堂。問：「眉間挂劍，截斷葛藤，是甚麼人境界？」師云：「三千劍客，恥見莊周。」",
+          "MasterName": "Zhangxue Tongzui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhangxue Tongzui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB194.xml). Recorded Sayings of Chan Master Zhangxue Tongzui of Zhaojue, whose title enters him as Zhangxue Zui of Zhaojue. In hall a monk asks: a sword hung between the brows, cutting clean through the tangled ivy — what manner of person's realm is that? He answers: three thousand swordsmen would be ashamed to face Zhuang Zhou. He then marks the day — the sixth of the sixth month, folk airing their clothes — airs nothing at all in the thatched hall, and thrusting up his fist names the one thing that belongs neither to yin and yang, rain nor shine, and bows to no plum-season weather."
+        },
+        {
+          "RelPath": "J/J33/J33nB284.xml",
+          "FromLb": "0451a25",
+          "ToLb": "0451a29",
+          "Kwic": "第四十八世昭覺克勤和尚一場熱病，稍間即歸；一聲雞唱，不覺神飛。血濺梵天，總之死中得活；眉間挂劍，原來竭世樞機。碧巖集翻為落草；小艷詩終備玄微，天子非常賜顏色，至今錦里雨華肥。",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu Fuhui of Mount Song in Yizhou, the eulogy verses by generation. Yezhu Fuhui owns the eulogy deployment: under the doubled heading of the forty-eighth generation, Zhaojue's Keqin, he runs the attested pair — blood sprayed across Brahma heaven, in sum life won out of death; a sword hung between the brows, in truth exhausting the whole world's pivot of device — grants that the Blue Cliff Collection turned into pointing at the weeds while the little love-song verse at last holds the subtle, and closes on the Son of Heaven's rare-bestowed favor and the brocade-city rain of flowers still falling rich today."
         }
       ],
       "SourceTexts": [

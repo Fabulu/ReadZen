@@ -57,6 +57,80 @@
             }
           ],
           "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent active quotation of Ciming's verse."
+        },
+        {
+          "RelPath": "X/X70/X70n1394.xml",
+          "FromLb": "0402b02",
+          "ToLb": "0402b06",
+          "Kwic": "謝道舊上堂，舉慈明上堂云：颯颯凉風景，同人訪寂寥。煑茶山下水，燒鼎洞中樵。慈明老漢雖則大開東閤，管顧高賓，檢點將來，未免私用常住。爭似祇園上客，到來只據現定。且如何是現定底道理？良久云：面面相對，心心相知。人情若好，喫水也肥。",
+          "MasterName": "Duanqiao Miaolun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Duanqiao Miaolun",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1394.xml). Recorded Sayings of Chan Master Duanqiao Miaolun. Duanqiao Miaolun owns the retained deployment: thanks-gathering hall address raising Ciming's hall verse — rustling the cool-wind scene, companions visiting the still one, brewing tea with water from below the mountain, firing the tripod with wood from the grotto — grading that old Ciming, though he flung wide the east pavilion to look after his lofty guests, on inspection could not escape using the monastery's common property for private ends, then setting Zhiyuan's own guest against it, face to face and heart to heart, and where regard runs good, even drinking water fattens."
+        },
+        {
+          "RelPath": "X/X73/X73n1454.xml",
+          "FromLb": "0161b01",
+          "ToLb": "0161b05",
+          "Kwic": "九月旦上堂，舉慈明謝故舊頌云：颯颯凉風景，同人訪寂寥。煑茶山下水，燒鼎洞中樵。慈明者，人富而不驕，約而不儉。雖然，未免費用。常住本覺則不然，颯颯凉風景，同人訪寂寥。砒霜和狼毒，白飯糝美椒。且道與古人是同是別？",
+          "MasterName": "Yungu Fahui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yungu Fahui",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1454.xml). Recorded Sayings of Chan Master Yungu. Yungu Fahui owns the retained deployment: ninth-month-day hall address raising Ciming's verse for thanking old friends — brewing tea with water from below the mountain, firing the tripod with wood from the grotto — judging Ciming a man rich yet not proud, frugal yet not mean, though he still could not escape spending the common property, then speaking as the Benjue resident-convener with his own counter-verse — arsenic mixed with wolf's bane, white rice sprinkled with fine pepper — and asking the assembly whether that is the same as the ancients or different."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0449a06",
+          "ToLb": "0449a08",
+          "Kwic": "謝道舊上堂，舉慈明和尚云：颯颯凉風景，同人訪寂寥。煑茶山下水，燒鼎洞中樵。師云：國清才子貴，家富小兒嬌。",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: thanks-gathering hall address raising Ciming's verse — rustling the cool-wind scene, companions visiting the still one, brewing tea with water from below the mountain, firing the tripod with wood from the grotto — capped in one line: when the realm is well-ordered the talented are prized; when the house is rich the young are pampered."
         }
       ],
       "SourceTexts": [

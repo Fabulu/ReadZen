@@ -14,3 +14,4 @@ lookup-probes: the luminous pearl that calms the sea
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
 - r7-review-concern-20260905: Explanation's 'stepping forward with folded hands' answer detail corrected to the cited window's actual answer 山云：「諾。」 (the folded-hands version is a different retelling of the case in the same work, not the cited window).
 - r7-review-concern2-20260905: semantic-job and feedback-observations lines re-aligned to the corrected answer detail (blind r2 residue; the round-1 repair had fixed the entry/evidence fields but left these two WORK.md prose lines on the stale folded-hands wording).
+- 2026-09-05 r7-depth: +5 occurrences (target 7; tier1/2 only, lamp excluded); new works 5; recompiled hardPass

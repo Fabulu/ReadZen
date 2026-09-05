@@ -80,6 +80,74 @@
             "ReviewedBy": "Batch47 systemic generator repair",
             "ReviewedUtc": "2026-07-29T14:00:00Z"
           }
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0926a05",
+          "ToLb": "0926a08",
+          "Kwic": "一語定綱宗，作家不啐啄。興化的子，氷蘗胸懷。臨濟親孫，麟龍頭角。赤肉團上壁立千仞，掀禪床棒打瞎驢",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Master-authored encomium (五家正宗贊, 南院顒禪師 section; compiler Xisou Shaotan, 宋 紹曇記). Xisou Shaotan owns the retained deployment: his own praise verse on Nanyuan runs — 興化的子，氷蘗胸懷。臨濟親孫，麟龍頭角。赤肉團上壁立千仞，掀禪床棒打瞎驢。"
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0983b18",
+          "ToLb": "0983b20",
+          "Kwic": "南院和尚得此印於興化直得赤肉團上壁立千仞有僧問古殿重興時如何曰明堂瓦插簷僧曰恁麼則莊嚴畢備也曰斬草蛇頭落",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). Recorded general discourse of the master himself (大慧普覺禪師普說, 傳菴主請普說). Dahui Zonggao owns the retained deployment: tracing the seal handed from Bodhidharma down he rules — 南院和尚得此印於興化，直得赤肉團上壁立千仞， followed by the old-monastery exchange he then passes to Fengxue."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0049b10",
+          "ToLb": "0049b14",
+          "Kwic": "歲夜。天地造化有陰有陰，日月星辰有明有晦，雨露風霜有生有殺，四時代謝有新有故，總是兩頭事。衲僧家赤肉團上壁立千仞，一日十二時，時時相似；一秊十二月，月月一般。任運騰騰，騰騰任運，合眼開眼，今日明朝。從來鼻孔遼天，誰管多秊曆日",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded year-end instruction of the master himself (石田法薰禪師語錄, 小參 section, 歲夜). Shitian Faxun owns the retained deployment: 衲僧家赤肉團上壁立千仞，一日十二時，時時相似；一秊十二月，月月一般。任運騰騰，騰騰任運…從來鼻孔遼天，誰管多秊曆日？"
+        },
+        {
+          "RelPath": "X/X67/X67n1301.xml",
+          "FromLb": "0474b15",
+          "ToLb": "0474b16",
+          "Kwic": "作家宗師終不藏身露影。赤肉團上壁立千仞，又放過一著。弄精魂漢有什麼限",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1301.xml). Raised-case commentary of the anthologized master (佛果擊節錄, case 34 祖師六塵; Xuedou's 拈 text under Yuanwu Keqin's 擊節). Xuedou Chongxian owns the retained deployment: 作家宗師終不藏身露影。赤肉團上壁立千仞，又放過一著。弄精魂漢有什麼限？"
         }
       ],
       "SourceTexts": [

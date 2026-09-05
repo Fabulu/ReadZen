@@ -85,6 +85,92 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0909a02",
+          "ToLb": "0909a04",
+          "Kwic": "拈拄杖，卓一下，云：靈山窠臼．今時窠臼．自己窠臼一擊粉碎了也。到這裏合作麼生？顧視左右，云：夜來何處火？燒出古人墳。",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: striking the floor with his staff he shatters the Vulture-Peak, present-day, and self-made ruts in one blow, then looking round at the assembly he himself speaks: last night, fire from where, burned open an ancient's grave."
+        },
+        {
+          "RelPath": "X/X69/X69n1360.xml",
+          "FromLb": "0952b11",
+          "ToLb": "0952b15",
+          "Kwic": "泉大道訪慈明，明問：片雲橫谷口，遊人何處來？泉目顧左右云：夜來何處火，燒出古人墳？明云：未在，更道。泉作虎聲，明便打一坐具。泉推慈明就坐，明却作虎聲。泉云：我參七十餘員善知識，今日始遇作家。你看遮兩箇不唧𠺕漢：一箇有地頭無行止",
+          "MasterName": "Xiatang Huiyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiatang Huiyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1360.xml). Extensive Record of Chan Master Xiatang Huiyuan. Xiatang Huiyuan owns the retained deployment: retelling Quan Dadao's visit to Ciming - the cloud-at-the-valley-mouth question answered with last night's fire burning open an ancient's grave - he then appraises the two blunt fellows, one with a place but no conduct, one with conduct but no place, and gives his own turning word."
+        },
+        {
+          "RelPath": "X/X69/X69n1367.xml",
+          "FromLb": "0209b11",
+          "ToLb": "0209b16",
+          "Kwic": "不見泉大道訪慈明，明云：片雲橫谷口，游人何處來？泉顧視，云：夜來何處火，燒出古人墳？明云：未在，更道。泉遂作虎聲，明以坐具摵一下，泉推慈明就座，明却作虎聲，泉云：某甲參七十餘員善知識，今日始遇作家。師云：若論作家，總未是在",
+          "MasterName": "Xiaoyin Daxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyin Daxin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1367.xml). Recorded Sayings of Chan Master Xiaoyin Daxin. Xiaoyin Daxin owns the retained deployment: after retelling Quan Dadao's fire answer and tiger-roar exchange with Ciming, his teacher-says appraisal finds even these two not yet writers - one having the essence without the function, one the function without the essence."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0819a01",
+          "ToLb": "0819a05",
+          "Kwic": "上堂，舉：泉大道訪慈明，明遂問：片雲橫谷口，游人何處來？泉左右顧視，云：夜來何處火，燒出古人墳？明云：未在，更道。泉遂作虎聲，明以坐具打一下，泉遂推慈明就坐，明却作虎聲，泉云：某甲參七十餘員善知識，今日始遇作家。師云：二老漢當時若踏著臨濟向上",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying'an Tanhua. Ying'an Tanhua owns the retained deployment: raising the hall case of Quan Dadao answering Ciming with last night's fire burning open an ancient's grave, he appraises that had the two old fellows stepped on Linji's upward fundamental, we today would have no rice to eat."
         }
       ],
       "SourceTexts": [

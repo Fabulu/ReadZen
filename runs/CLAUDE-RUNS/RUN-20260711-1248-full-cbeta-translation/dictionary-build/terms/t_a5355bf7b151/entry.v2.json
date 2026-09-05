@@ -51,6 +51,40 @@
             }
           ],
           "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan. Gumei Dinglie owns the retained deployment: independent bell-case appraisal."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0472c24",
+          "ToLb": "0472c29",
+          "Kwic": "齋次，拈起餬餅問僧：「江西湖南還有這箇麼？」曰：「適來喫箇甚麼？」公曰：「敲鐘謝響。」著語云：收鞭太速。拈曰：這僧俊鶻沖霄到也快便，怎奈末上遭他網子？秪如道：「敲鐘謝響又作麼生？」對他合云：「草賊大敗。」",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan, Yingshan Zhiyin naming himself Xueguan in the same old-case series. Yingshan Zhiyin owns the picking deployment: entering the case of Chen Cao the Minister — at the shared meal picking up the glutinous cake and asking whether Jiangxi and Hunan have this, the monk asking what the Minister just ate, the Minister answering strike the bell, thank the echo — his interlinear note whips in the rein too fast, and his pick grants the monk a fine hawk dashing to the heavens yet caught in the net at the last move, then asks how to answer the strike-the-bell line itself and supplies his own: the grass bandits are routed."
+        },
+        {
+          "RelPath": "J/J39/J39nB463.xml",
+          "FromLb": "0799b25",
+          "ToLb": "0799b28",
+          "Kwic": "舉：「陳操尚書因同僧齋次，拈起胡餅問云：『江西、湖南還有者個麼？』云：『尚書適來喫個甚麼？』公云：『敲鐘謝響。』」師云：「行腳衲僧者般說話好。云：『行者取一碗水來與尚書漱口。』縱伊食飽弄筋，要且驚雷失箸。」",
+          "MasterName": "Gumei Dinglie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gumei Dinglie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumei Dinglie of Weishan, the whisk-holding series at the Imperial Seal cloister. Gumei Dinglie owns the differing deployment: raising the case of Chen Cao the Minister at the shared meal — picking up the wheat cake and asking whether Jiangxi and Hunan have this, the monk asking what the Minister just ate, and the Minister answering strike the bell, thank the echo — Gumei grants this the sort of talk walking monks do well in, then differs: send for a bowl of water for the Minister to rinse his mouth, for let him eat his fill and play his sinews, the startling thunder still makes him drop his chopsticks."
         }
       ],
       "SourceTexts": [

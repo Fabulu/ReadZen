@@ -51,6 +51,102 @@
             }
           ],
           "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xinghua Cunjiang owns the retained deployment: case quotation actively criticized by Xueyan."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0689a07",
+          "ToLb": "0689a09",
+          "Kwic": "僧問興化：四方八面來時如何？化云：打中間底。僧便禮拜，化云：我昨日赴箇村齋，中途遇卒風暴雨，却向古廟裏躲得過。",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "verse-author",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao, verse commentary on old cases. Xinghua Cunjiang owns the exact utterance inside Gaofeng Yuanmiao's verse sequence: asked what to do when the four quarters and eight sides come at once, he says strike the one in the middle, and when the monk bows he adds that yesterday he went to a village meal, met sudden wind and rainstorm mid-way, and dodged through it in an old temple; Gaofeng's eulogy verse follows."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0290a20",
+          "ToLb": "0290a22",
+          "Kwic": "僧問。四方八面來時如何。化云。打中間底。僧作禮。化云。大眾興化。昨日赴箇村齋。半路逢卒風暴雨。却于神廟裏避得過",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). The Congrong An Lu, Elder Wansong's Sung Commentaries on Tiantong Jue's Old Cases. Xinghua Cunjiang owns the exact utterance preserved in Wansong Xingxiu's comment: after his biography of the Weifu master, the case has the monk bow and Xinghua tell the assembly that Xinghua yesterday went to a village meal, met sudden wind and rainstorm half-way, and escaped sheltering in a spirit temple."
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0214b16",
+          "ToLb": "0214b18",
+          "Kwic": "上堂因暴風率雨，舉：興化和尚云：昨日赴箇村齋，遇暴風卒雨，向古廟裏軃得過。拈云興化老兒，人貧智短，馬瘦毛長",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Extensive Record of Chan Master Xisou Shaotan. Xinghua Cunjiang owns the exact utterance raised by Xisou Shaotan: when a violent wind drove the rain, Xisou ascended the hall and raised Xinghua's word - yesterday I went to a village meal, met violent wind and sudden rain, and slipped through in the old temple - then appraises old Xinghua: poor man, short wit, lean horse, long mane."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0346b14",
+          "ToLb": "0346b18",
+          "Kwic": "僧問興化：四方八面來時如何？化云：打中間底。僧便禮拜。化云：昨日赴箇村齋回來，中路撞著一陣卒風暴雨，却向古廟子裏閃避得過。閙處靜峭峭，靜處閙浩浩。古廟裏藏身，咄哉興化老",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "verse-author",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu'an Zhiji. Xinghua Cunjiang owns the exact utterance in Yu'an Zhiji's verse commentary: asked about the four quarters and eight sides he says strike the middle one, and on the monk's bow adds that yesterday returning from a village meal he ran into a squall of sudden wind and rain mid-way and flashed out of its reach in an old temple shrine; Yu'an's verse cries out at old Xinghua hiding his body in the old temple."
         }
       ],
       "SourceTexts": [

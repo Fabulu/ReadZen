@@ -51,6 +51,77 @@
             }
           ],
           "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: independent active raising."
+        },
+        {
+          "RelPath": "X/X69/X69n1336.xml",
+          "FromLb": "0055b14",
+          "ToLb": "0055b17",
+          "Kwic": "居士到齊峰，纔入院，峰曰：箇俗人頻頻入院，討箇什麼？士乃回顧兩邊，曰：誰恁麼道？誰恁麼道？峰便喝。士曰：在這裏。峰曰：莫是當陽道麼？士曰：背後底聻？峰回首，曰：看！看！士曰：草賊大敗！草賊大敗！",
+          "MasterName": "Pang Yun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1336.xml). Recorded Sayings of Layman Pang. Pang Yun owns the retained deployment: entering Qifeng's monastery and called a worldly man forever coming to seek something, he looks back to both sides asking who says so, and when the master shouts and he points to it, and the master asks whether it is being said right in the open sun, the layman answers and what of the one behind — the master turns his head to say look, look, and the layman declares the grass-bandit utterly routed."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0252c03",
+          "ToLb": "0252c22",
+          "Kwic": "舉。臨濟示眾云。有一無位真人安基定脚了也常向汝等面門出入背後底聻初心未證據者看看還具眼麼時有僧問。如何是無位真人還解語麼濟下禪床擒住爾更諱這僧擬議鈍滯他真人濟托開云。無位真人。是甚乾屎橛大似持鉢不得。師舉。臨濟廣語道。五蘊身田內。有無位真人。堂堂顯露。無絲髮許間隔。何不識取。心法無形。通貫十方。既言通貫十方。不止在五蘊身田面門出入。初心未證據者看看。萬松道。無位真人。看眾僧。眾僧看真人。時有僧問。如何是無位真人。諸方喚作和聲送事。爭奈騎驢者。不見坐下。濟下禪床擒住。且道。真人在那頭。好與一掌。這僧擬議。真人不在。可惜許。濟托開云。無位真人。是甚乾屎橛。當面諱却。雪峯云。臨濟大似白拈賊。萬松道。敗也。雪竇云。夫善竊者鬼神莫知。既被雪峯覷破。臨濟不是好手。復召大眾。雪竇今日換爾諸人眼睛了也。爾若不信。各自歸寮舍。摸索看。萬松道。雪竇和眉毛失却。要解賊手中作賊。問取天童始得。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong's Congrong'an Record appraisal of TianTong's old-case verses. Wansong Xingxiu owns the retained deployment: record of case thirty-eight raising Linji's hall address that a positionless true person of old is always going out and in by your very face — and what of the one behind — beginners not yet attaining proof, look, with the monk's question and Linji's seize-and-release, followed by Wansong's own appraisal that the positionless true person watches the monks and the monks watch the true person, that Xuefeng's white-pickpocket verdict fails, and that Xuedou lost even his eyebrows stealing from a thief."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0467a18",
+          "ToLb": "0467a19",
+          "Kwic": "僧參，師云：「聞你掩關，如何是關中主？」云：「覿面無回互。」師云：「背後底聻？」僧擲坐具禮拜，師便打。",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "questioner",
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: interview dialogue where a monk who has kept a closed retreat is asked what is the master within the retreat, answers face-to-face with no mutual turning, and is pressed and what of the one behind — the monk throws down his sitting cloth and bows, and the master strikes."
         }
       ],
       "SourceTexts": [

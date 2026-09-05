@@ -50,6 +50,178 @@
             }
           ],
           "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: Yuanwu's independent repeated deployment in contrasting visible and obscured conditions."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0743a17",
+          "ToLb": "0743b13",
+          "Kwic": "僧問趙州：如何是祖師西來意？州云：庭前栢樹子。天下參問以為模範作異解者極多，唯直透不依倚、不作知見便能痛領，纔有毫髮見刺則黑漫漫地。豈不見法眼舉問覺鐵觜：趙州有箇庭前栢樹子話是不？覺云：和尚莫謗先師，先師無此語。但恁麼體究，便是古人直截處也。嚴陽尊者問趙州：一物不將來時如何？州云：放下著。者云：一物不將來，未審放下箇什麼？州云：看你放不下。嚴陽遂大悟。後來南禪師有頌云：一物不將來，兩肩擔不起。言下忽知非，心中無限喜。毒惡既忘懷，蛇虎為知己。寥寥千百年，清風猶未已。但試自頻舉，一物不將來時如何？州云：放下著。驀然便省也不難。僧問雲門：不起一念，還有過也無？門云：須彌山。此又直截省要也。無事虗心靜慮，且下鈍工夫。只管舉看，久之當自有入處",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind of Chan Master Yuanwu Keqin. Yuanwu Keqin owns the retained deployment: in his written instruction to Minister Zeng he warns that the slightest view-thorn leaves one utterly pitch-dark."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0156c09",
+          "ToLb": "0156c22",
+          "Kwic": "還有名邈得底麼。若名邈得。也是草裏漢。千古萬古黑漫漫。填溝塞壑無人會古佛有家風。雪竇一句頌了也。凡是出頭來。直是近傍不得。若近傍著。則萬里崖州。纔出頭來。便是落草。直饒七縱八橫。不消一揑。雪竇道。古佛有家風。不是如今恁麼也。釋迦老子。初生下來。一手指天。一手指地。目顧四方云。天上天下。唯我獨尊。雲門道。我當時若見。一棒打殺。與狗子喫却。貴要天下太平。如此方酬得恰好。所以啐啄之機。皆是古佛家風。若達此道者。便可一拳拳倒黃鶴樓。一踢踢翻鸚鵡洲。如大火聚。近之則燎却面門。如太阿劍。擬之則喪身失命。此箇唯是透脫得大解脫者。方能如此",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record of Chan Master Yuanwu Foguo. Xuedou Chongxian owns the retained deployment: the closing lines of his verse, which Yuanwu Keqin's commentary quotes and unfolds, stretch the black through all ages."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0839b14",
+          "ToLb": "0839b22",
+          "Kwic": "示眾。多時不說禪。口邊生白醭。大眾苦相煎。便登曲彔木。匪論五家宗。不引傳燈錄。纔開兩片皮。業因招薄福。釋迦乾屎橛。達磨老臭禿。一人曲說直。一人直說曲。彼此大丈夫。肯受爾沸𡱰。罵佛謗祖師。定入拔舌獄。佛祖生冤家。魔王真眷屬。心地黑漫漫。口裏水漉漉。似恁出家兒。定滅瞿曇族。臘月三十朝。大笑却成哭。召大眾云。還識雲門村叟麼。曾聞一飽忘百饑。今日山僧身便是",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: his instruction verse denounces monks whose mind-ground stays pitch-dark while their mouths drool."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0124b01",
+          "ToLb": "0124b03",
+          "Kwic": "中秋上堂。雲漫漫雨漫漫。中秋當此夜。漫漫黑漫漫。莫有衲僧麼。箇般真境界。贏得倚欄干",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantong Rujing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Chan Master Tiantong Rujing. Tiantong Rujing owns the retained deployment: his mid-autumn hall verse rolls cloud-dark and rain-dark into one boundless black."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0229b04",
+          "ToLb": "0229b20",
+          "Kwic": "德山一日飯遲，托缽過堂。雪峰云：「鐘未鳴，鼓未響，托缽向什麼處？」德山無語。雪峰舉似巖頭。頭曰：「老漢未會末後句在。」山謂頭曰：「你不肯老僧那？」頭密啟其意。山次日說法，果異常日。又一僧見雪峰云「是甚麼」，僧亦云「是甚麼」。峰無語。僧到巖頭舉似頭。頭云：「雪峰不會末後句。」僧請益巖頭。頭云：「雪峰與我同條生，不與我同條死。要識末後句，只者是。」大眾！巖頭果然知末後句麼？據我勘，未夢見在。何故？巖頭不識德山、雪峰。他二老，一箇似直中掩曲，一箇如方裏藏圓，到此正好著眼。且巖頭與麼說，端的是肯他不肯他。若肯他，不合道密啟其意，不同條死。若不肯他，二老當見在甚麼處？只這裏，大、小巖頭也過不得。有輩拍旨擔板漢不究宗門，果有如此之高論，往往妄認業識昭昭靈靈，妄據高座行棒下喝。且善知識，果透得巖頭末後句，棒棒喝喝四方八面放大光明。不然，無明人我一棒一喝，定招惡報，四大分散打入黑漫漫。大眾！生死事大，無常迅速，不可不謹",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting's Sayings. Guting Shanjian owns the retained deployment: his sermon warns that blind blows and shouts drag the deluded into the pitch-black."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0084a04",
+          "ToLb": "0084a15",
+          "Kwic": "冬夜小參，僧問：萬丈寒潭徹底冰時如何？師云：陽氣發時無硬地。乃云：欲得恁麼事，須是恁麼人；若是恁麼人，何愁恁麼事？喚作恁麼事，早是無事生事，何況聚頭襍話、趂讚過時？今日三、明日四，肚裏黑漫漫地、脚下浮逼逼地，拈槌豎拂他又不見、彈指謦咳他又不聞、開口動舌他又不會，如無孔鐵槌相似，養得一萬個有什麼用處？龍象蹴踏非驢所堪、鵝王擇乳素非鴨類，只貴直下便領，更不回頭轉腦、不立毫末，盡無邊香水海剎剎全收，說一句子滿龍宮、溢海藏，無法不具，行一步踏折釋迦老子脊梁骨、唾一唾粉碎百千萬億須彌盧，猶是奴兒婢子邊事，衲僧門下還作麼生？五九盡日又逢春，上元定是正月半",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: his winter-night talk derides monks who chat the days away with insides pitch-dark and footing unsteady."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0184b06",
+          "ToLb": "0184b09",
+          "Kwic": "文宗問：渴鹿趂𦦨，如何得歇？師云：知不是水則了。頌云：從來大地黑漫漫，畢竟將何作指南？識得波澄原是水，現成公案不須參",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: his answering verse asks what serves as compass when the whole earth is pitch-black from the start."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0734a15",
+          "ToLb": "0735a11",
+          "Kwic": "昔臨濟云。我在黃檗會下三遭痛棒。如蒿枝拂相似。如今再思一頓。直是無人下手。邪法難扶。興化云。我聞東廊下也喝西廊下也喝。直饒喝得我上三十三天却下來向儞道。我未曾向紫羅帳裏撒真珠與儞看在。異端並起。已而此等臭氣流落藂林。或指一喝為賓為主為照為用。或指一棒為全提為正令為機用為門庭。又謂之擊石火閃電光摩尼珠金剛劒。又謂之擘破面門露出肝膽當陽舉似覿面相呈。又謂臨濟三百六十骨節。只是這一喝。德山八萬四千毛孔不出這一棒。又云。臨濟多却這一喝。德山剩了這一棒。又云。無邊剎海十世古今塵沙義門百千三昧。總在這一棒一喝內。全𭣣全攝無欠無餘。更有一等超宗異目不存機境者。喚作蚯蚓鳴粥飯氣揚塵播土掣風掣顛認精魂弄捏怪。乃至奇言妙語與奪抑揚鼓引學人。向他一棒一喝之下邪知曲解者。今古以來比比皆是。與麼較量他古人立地處。又何啻認驢鞍橋作阿爺下頷。既不識古人用處。而欲趣向自己真正面目。大似隔靴抓癢。嗟乎古人一片生鐵心肝。未開口已前早是落在儞髑髏裏了也。只要儞不知不覺推門落臼。於一切法中做箇平常無事漢。所謂涅槃生死六凡四聖。至於百千差別法義。更不在人重下註脚。又何一棒一喝而不能了哉。這裏儞若將毫釐心識領略解會。豈但不識古人行棒用喝處。而亦自家一箇本命元辰。長是黑漫漫地。縱使勉強向他一棒一喝上。說得依俙用得彷彿。少間驀忽遇著些子差別逆順境界頓在面前。未免情存取舍意涉愛憎。一時區處不下。便向他古人語言窠臼上著到。正恁麽時緫喚作一棒得麽。緫喚作一喝得麽。緫不喚作棒喝得麽。若喚作棒喝則未免被棒喝礙。不喚作棒喝亦未免被棒喝礙。既為此礙則山河大地明暗色空。至於微細塵毛。未有不能為礙者。萬仞鐵圍可使消殞。只這一種礙。儞若不真箇在這裏推托得去。管取要礙人墮生入死輪回無間在。本上座到此忍俊不禁。要與儞去却棒拈却喝向未有棒喝名字已前。與儞把手共行。只如未有名字已前且作麼生趣向。今日不辭與儞說破。久後却恐累及平人",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: his discourse warns that whoever meets blows and shouts with conceptual grasp keeps his own guiding essence pitch-dark."
         }
       ],
       "SourceTexts": [

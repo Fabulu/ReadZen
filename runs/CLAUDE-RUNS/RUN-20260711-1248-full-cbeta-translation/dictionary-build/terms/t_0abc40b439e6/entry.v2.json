@@ -51,6 +51,80 @@
             }
           ],
           "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: independent deployment."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0028a11",
+          "ToLb": "0028a14",
+          "Kwic": "離心意識參，絕凡聖路學，白鶴出銀籠，猴子過山峽。是恁麼人，隨處拈來，可以塞斷咽喉。若趙常山向百萬軍中取勝，淮陰侯背水陣上建功，到這裏一齊抹過",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: his open talk says one who leaves mind, consciousness, and cognition can pick up anything anywhere and stop the throat."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0283b06",
+          "ToLb": "0283b10",
+          "Kwic": "上堂。問：「千聖不到處，萬法用無虧。拈卻拄杖，請和尚道。」師便喝。進曰：「塞斷咽喉又作麼生？」師曰：「不靠你一個。」進曰：「老老大大，全無準的。」師曰：「失口道著。」乃曰：「失口道著，天下無敵。塞斷咽喉，有什準的？萬法用處無虧，千聖齊討棒喫。」喝一喝，曰：「這副手腳什處尋覓",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: pressed by a monk on what happens when the throat is stopped, he answers that once it is blurted out no one under heaven can match, and the stopped throat itself has no fixed mark."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0946a15",
+          "ToLb": "0946a19",
+          "Kwic": "天目山三十五年開拓。水赴雲奔。師子巖數百千指繞圍。肩摩踵接。擬向飯籮邊打𤼵。須憑筆端下施來。倒廩傾倉萬斛珠光明璀璨。考鐘伐鼓滿堂僧意氣崢嶸。既灼然親遭塞斷咽喉。肯諱道不曾咬破粒米。鉢盂兩度濕助我飽叅。毛孔七日香報君多福",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: his grain-appeal essay for the Lion Cliff hermitage grants he has truly met the stopped throat and will not pretend he never bit through a grain of rice."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0245a12",
+          "ToLb": "0245a14",
+          "Kwic": "中峰和尚云：「舉心盡屬輪迴路，動念無非生死根。要與太虛無背向，常吞一箇鐵崑崙。」如此說，總是釋迦老人也索塞斷咽喉，豈容有一點知見",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting's Sayings. Guting Shanjian owns the retained deployment: after quoting Zhongfeng Mingben's verse on swallowing an iron Kunlun, he says such words would stop even old Shakya's throat and allow no scrap of view."
         }
       ],
       "SourceTexts": [

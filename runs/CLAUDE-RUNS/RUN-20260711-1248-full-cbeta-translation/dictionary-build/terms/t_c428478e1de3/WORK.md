@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 夜來好風 and the concluding 一得一失 when
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: the wind snapped a pine before the gate
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

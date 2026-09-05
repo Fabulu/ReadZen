@@ -50,6 +50,74 @@
             }
           ],
           "AttributionNote": "Source record (X/X70/X70n1381.xml). Recorded Sayings of Chan Master Po’an Zuxian. Po'an Zuxian owns the retained deployment: independent recorded-sayings deployment of the same former-life action."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0603a23",
+          "ToLb": "0603a24",
+          "Kwic": "定光昔日記能仁。布髮掩泥多劫僧。此錄慈尊親囑我。便從今日續然燈。",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Fenyang Wude. Fenyang Shanzhao owns the retained deployment: his second eulogy verse on exhorting the Profound has Dipamkara of old seal the Sage and the hair-spread mud-covering monk of many kalpas, entrusting him to continue the lamp from this record onward."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0963c04",
+          "ToLb": "0963c10",
+          "Kwic": "復舉世尊因地。布髮掩泥。獻花於燃燈如來。燃燈見布髮處。遂約退眾。乃指其地云。此一方地。宜建梵剎。眾中有一賢于長者。持標插於指處云。建梵剎已竟。時諸天散花讚言。庶子有大智矣。師云。大眾。燃燈指處。滴水氷生。賢于插時。天回地轉。於斯見得。古釋迦不先。今太師不後",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi'an. Mi'an Xianjie owns the retained deployment: in a hall sermon he raises the World-Honored One's hair-spread mud-covering and flower offering to Dipamkara, then appraises the pointing spot so that ancient Sakya is not before and the Grand Preceptor not after."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0230a07",
+          "ToLb": "0230a12",
+          "Kwic": "師云。世尊因布髮掩泥。獻花於然燈佛。佛指布髮處云。此一方地。宜建一剎。時有賢首長者。插標於指處云。建剎已竟。諸天散花。讚歎庶子有大智矣。天童舉話。大同小異。萬松道。世尊祖業轉典與然燈。便有長者承頭收後。如今交付與天童",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). The Congrong An Lu, Elder Wansong's Sung Commentaries on Tiantong Jue's Old Cases. Wansong Xingxiu owns the retained deployment: his teacher-says comment on the fourth case has the World-Honored One spread his hair to cover the mud and offer a flower to Dipamkara Buddha, and he concludes the World-Honored One's ancestral estate was mortgaged to Dipamkara and is now handed to Tiantong."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0502a16",
+          "ToLb": "0502a20",
+          "Kwic": "昔日世尊因地中見燃燈佛來，布髮掩泥，獻花於燃燈。燈約退大眾，於布髮處指云：『此一方地宜建梵剎。』眾中有一長者，持一莖草於世尊指處插云：『建梵剎已竟。』看他古人一期佛事，洞古輝今，絲毫不間",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Xuedou Shiqi. Shiqi Tongyun owns the retained deployment: in his fundraising sermon he retells the World-Honored One spreading his hair to cover the mud and offering a flower to Dipamkara, then calls that one deed of the ancients an affair piercing the ancient and lighting the present, not a hair's breadth between."
         }
       ],
       "SourceTexts": [

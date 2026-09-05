@@ -12,3 +12,4 @@ feedback-counterexamples: Preserve the poisonous-snake mechanics and review çŒ›è
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: scratch an itch on a venomous snake's head; A danger image for acting at the most perilous point with intimate freedom rather than keeping a safe distance
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +2 occurrences (target 5; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

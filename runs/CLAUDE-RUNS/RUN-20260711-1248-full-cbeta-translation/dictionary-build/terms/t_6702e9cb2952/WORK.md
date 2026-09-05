@@ -12,3 +12,4 @@ feedback-counterexamples: Keep both acts and the local object of erasure.
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: sweep tracks erase traces; leave no trail
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

@@ -15,3 +15,4 @@
   - every retained explanation claim has an occurrence key;
   - no unanchored definition, contrast, or distinct deployment remains in the reviewed concordance;
   - limiting evidence: Do not read 大蟲 as a large insect; 猛虎咬大蟲 is a longer governed variant and does not supply exact-headword depth.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

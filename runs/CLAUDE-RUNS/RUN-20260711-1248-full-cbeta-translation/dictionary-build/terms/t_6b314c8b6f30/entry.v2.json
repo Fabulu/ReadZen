@@ -50,6 +50,91 @@
             }
           ],
           "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: instruction to a named lay follower."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0501a04",
+          "ToLb": "0501a15",
+          "Kwic": "如觀佛三昧經云。佛白父王。及勅阿難。吾今為汝。悉現具足身相。說是語已。佛從座起。令眾俱起。令觀如來。從頂順觀。至足輪相。復從足相。逆觀至頂。一一身分。分明了了。如人執鏡。自見面像。若生垢惡不善心者。若有能毀佛禁戒者。見像純黑。猶如灰人。五百釋子。但見灰人。有千比丘。見赤土色。優婆塞十六人。見黑象脚色。優婆夷二十四人。見如聚墨。比丘尼。見如白銀。優婆塞。優婆夷。有見如藍染青色。四眾悲淚。釋子拔髮碎身。自述所見。乃至佛各為說。過去宿因。致茲異色",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Authorial doctrinal work 宗鏡錄. Yongming Yanshou owns the retained deployment: he cites the Guanfo sanmei jing to show the fourfold community perceiving the Buddha's body differently, the upasakas seeing black-elephant-foot color."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0104c07",
+          "ToLb": "0104c12",
+          "Kwic": "冬至，上堂。「銅墻鐵壁，撞頭磕額，密移一步，通個消息。若待舉頭天外看飛龍，直饒駿馬良駒追蹤不及。噫！好消息，汝等比丘、比丘尼、優婆塞、優婆夷，只知嚴淨毘尼、高登戒律，那裏曉得昨夜子時初刻灰飛六律？山僧只得整備個無底壺、沒孔笛，要你大家和取太音一曲、嘗曲玄酒一滴",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded sayings of the master himself (石雨禪師法檀), winter-solstice hall talk. Shiyu Mingfang owns the retained deployment: direct address to the fourfold assembly 汝等比丘、比丘尼、優婆塞、優婆夷."
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0249c28",
+          "ToLb": "0249c30",
+          "Kwic": "孟子曰：「養心莫善於寡欲。」誠有見於嗜慾之難遽絕，而姑令寡之，亦猶我佛之設優婆塞戒也",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded correspondence of the master himself (千山剩人禪師語錄, letter section). Qianshan Shengren Hanke owns the retained deployment: in his own letter he likens Mencius's lessening of desire to the Buddha's institution of the upasaka precepts."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0663b03",
+          "ToLb": "0663b05",
+          "Kwic": "音迪，字無覺，永陽文氏子。幼禮大海禪師，受優婆塞戒，同心持袁公結上蓮社，專心淨業。於壬戌春，持袁公書來乞病僧薙髮",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded instructions of the master himself (紫竹林顓愚衡和尚語錄, note to the tonsured disciple Yindi). Zhuanyu Guanheng owns the retained deployment: his own biographical note records Yindi first receiving the upasaka precepts."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0502a26",
+          "ToLb": "0502a29",
+          "Kwic": "于是四種中，尋伺出世人，婆羅門居士，優婆塞有數。又取比丘僧，出世精進者，萬分存一毫，而接佛命脈。何乃諸兄弟，不自揣輕重，念念恒放逸，而甘成暴棄？所以袈裟下，線縫事不明，猶倒峰上石，一墜不見底",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded sayings of the master himself (吹萬禪師語錄, Nianfo verse section). Juyun Chuiwan Guangzhen owns the retained deployment: his long exhortation verse ranks the rare beings of the four births, 優婆塞有數 among them."
         }
       ],
       "SourceTexts": [

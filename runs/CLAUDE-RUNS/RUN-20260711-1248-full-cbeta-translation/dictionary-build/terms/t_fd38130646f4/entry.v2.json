@@ -50,6 +50,80 @@
             }
           ],
           "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: independent named-master deployment."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0229a04",
+          "ToLb": "0229a05",
+          "Kwic": "如秋清月轉霜輪。暗用法眼到頭霜夜月。任運落前溪。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Elder Wansong's Commentary on Tiantong Jue's Verse-Comments: Record of the Congrong Hermitage. Wansong Xingxiu owns the source-naming deployment: glossing Tiantong's verse on Emperor Wu and Bodhidharma he reads the frost-wheel-of-autumn line as covertly using Fayan's at-the-end the frost-night moon, of itself falling into the forward stream, bringing out the way whose principle is ultimate beyond metaphor."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0068b06",
+          "ToLb": "0068b09",
+          "Kwic": "為迴泉講主起龕，以拄杖卓龕云：「迴泉師！迴泉師！來無所從、去無所之，末後一著，脫體無依。」復卓云：「迴泉師！迴泉師！到頭霜夜月，任運落前溪。」復卓一卓，拽拄杖引之而出。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the funeral deployment: raising the coffin of the lecturer Huiquan he strikes it with the staff saying Huiquan came from nothing and goes to nothing, the last move utterly unsupported, then strikes again giving him the frost-night moon line of itself falling into the forward stream."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0166c02",
+          "ToLb": "0166c06",
+          "Kwic": "當晚小參。驀拈拄杖，卓一卓，云：「無孔銕鎚覿面拋，神驚魔伏鬼哮啕，庭前露柱纔偷覷，萬象森羅已痛遭。所以道：若論此事，如擊石火、似閃電光，搆得、搆不得俱未免喪身失命。雖然如是，且轉身吐氣一句又作麼生道？到頭霜夜月，任運落前溪。」",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the turning deployment: in his evening informal talk after his opening-day hall exchange he snaps up the staff, verses on the seamless hammer striking the demon-howling host, grants this matter is like striking flint, and for the turning-and-breathing sentence answers with the frost-night moon of itself falling into the forward stream."
+        },
+        {
+          "RelPath": "J/J27/J27nB191.xml",
+          "FromLb": "0168c13",
+          "ToLb": "0168c16",
+          "Kwic": "答雲怡陳居士十七問答雲怡陳居士十七問問：「渴鹿逐陽焰時如何歇？」答：「只須高著眼，不用動干戈。」問：「摩尼珠久埋沒塵土中，如何急切覓得？」答：「到頭霜夜月，任運落前溪。」",
+          "MasterName": "Jinian Jingxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinian Jingxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Jinian of Xiangtian. Jinian Jingxian owns the answer deployment: to layman Chen Yunyi's seventeen questions, asked how the mani-pearl long buried in dust can be urgently found, he answers with the frost-night moon of itself falling into the forward stream."
         }
       ],
       "SourceTexts": [

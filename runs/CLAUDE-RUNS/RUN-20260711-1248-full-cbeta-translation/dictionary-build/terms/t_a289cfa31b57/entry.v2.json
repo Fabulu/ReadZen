@@ -57,6 +57,69 @@
             }
           ],
           "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Touzi Datong's answer words are retained verbatim in Miyun Yuanwu's verse within Miyun's own record."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0708b20",
+          "ToLb": "0708b23",
+          "Kwic": "示眾示眾丫角女子白頭絲。報儞諸方作者知。借問住山何境界。春風𩖼𩖼春鳥喧喧。翠峯不能助發。心印却是他傳。",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue, whose own stupa inscription inside the work gives the master's taboo name as Chongxian. Xuedou Chongxian owns the admonition deployment: addressing the assembly he opens with the horned-bun maiden's white-headed silk, tells the makers of all quarters they are hereby informed, lends the question of what realm a mountain-dwelling has, and closes that the spring wind and spring birds cannot help it forth — the mind-seal alone was transmitted by him."
+        },
+        {
+          "RelPath": "X/X69/X69n1351.xml",
+          "FromLb": "0391b12",
+          "ToLb": "0391b15",
+          "Kwic": "投子因僧問：和尚住此山有何境界？師曰：丫角女子白頭絲。丫角女子白頭絲，猛燄堆中雪片飛，一等住山誰可擬？閒雲流水不同歸。",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Touzi Datong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1351.xml). Recorded Sayings of Chan Master Baiyun Shouduan, his own verse on the raised case. Baiyun Shouduan owns the versifying deployment: after the case of the monk asking Touzi what realm his mountain has and Touzi answering with the horned-bun maiden's white-headed silk, Baiyun's own verse takes the line as its opening — snowflakes flying in a raging blaze of flame — asks what ordinary mountain-dweller could match it, and grants that idle clouds and flowing waters do not return together."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0007c06",
+          "ToLb": "0007c14",
+          "Kwic": "上堂云。窮萬化之淵源。得一真之住處。體空而了了。不涉根門。照盡而綿綿。全超塵想。直得光境俱斷。心法兩忘。卓爾獨存。廓然圓湛。生滅去來。不我遷變。便能應緣無礙。靜照亡功。所以僧問投子。如何是和尚安樂處。子云。丫角女子白頭絲。師云。諸禪德。當明有暗。當暗有明。鬧浩浩中靜悄悄。靜悄悄中明歷歷。還委悉麼。良久云。行到水窮處。坐看雲起時。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Touzi Datong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the commenting deployment: in hall he traces the source of the myriad transformations to the dwelling place of the one truth — essence empty yet lucid, freed from the sense-gates, shining spent yet continuous, wholly past the dust-thoughts — then raises that a monk asked Touzi what his place of ease was and Touzi answered with the maiden line, and comments to the worthies of Chan: within light there is dark, within dark there is light, quiet within the noisy clamor, distinct within the quiet, sealing it after a long silence with walking to where the water ends and sitting to watch the clouds rise."
         }
       ],
       "SourceTexts": [

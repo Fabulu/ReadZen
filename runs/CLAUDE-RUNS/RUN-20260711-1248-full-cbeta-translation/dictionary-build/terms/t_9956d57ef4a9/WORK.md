@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 煦日發生鋪地錦 as the first half and prese
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: an infant's hanging hair is white as silk; an infant's hanging hair white as silk
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

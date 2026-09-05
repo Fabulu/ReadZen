@@ -51,6 +51,83 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: independent deployment of the verdict against the wind-banner explanation."
+        },
+        {
+          "RelPath": "X/X67/X67n1301.xml",
+          "FromLb": "0459b07",
+          "ToLb": "0459b11",
+          "Kwic": "第十一則欽山竪拳舉：欽山一日上堂，竪起拳頭，又開云：開即為掌，五指參差。打入葛藤窩窟去也。復握拳云：如今為拳，必無高下。也是靈龜曳尾。還有商量也無？合取狗口。一僧出眾，竪起拳頭。弄泥團漢有甚麼限？山云：你只是箇無開合漢。也好與三十棒",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Qinshan Wensui",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1301.xml). Chan Master Foguo's Record of Struck Measures on the old cases. Yuanwu Keqin owns the retained deployment: on the raised eleventh case of Qinshan raising his fist - open it is a palm, five fingers uneven; closed it is a fist, no high or low - when a monk comes out of the crowd and raises his own fist, Yuanwu's interspersed verdict strikes: is there no end to fellows playing with mud balls? Qinshan's answer that the monk is merely a no-opening-no-closing fellow also earns thirty blows, and Xuedou's pick follows."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0741b06",
+          "ToLb": "0741b09",
+          "Kwic": "香山指臺上香合曰：裏面是甚麼物？師曰：是甚麼心行？香山曰：汝悟處又作麼生？師以手畫一圓相呈之，復拋向後。香山曰：弄泥團漢有甚麼限？師曰：錯。香山曰：別見人始得",
+          "MasterName": "Jingyin Facheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingyin Facheng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "student",
+                "addressee"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Revised Recorded Sayings, life of Chan Master Tiantong Jue. Jingyin Facheng, the Cheng Kumu of Xiangshan in Ruzhou, owns the exact utterance preserved in the imperial anthology's life of Hongzhi Zhengjue: when the young Hongzhi first gained an insight on hearing the Lotus Sutra and presented a drawn circle thrown behind him in the master's room, Xiangshan rules - is there no end to fellows playing with mud balls? - and sends him to find someone else; Hongzhi answers wrong and is sent on to Danxia."
+        },
+        {
+          "RelPath": "J/J39/J39nB464.xml",
+          "FromLb": "0816c25",
+          "ToLb": "0816c28",
+          "Kwic": "舉：「僧問藥山：『平田淺草，麈鹿成群，如何射得塵中主？』山云：『看箭。』僧放身便倒。山云：『侍者拖出。』僧便走。山云：『弄泥團漢有甚麼限？』」師云：「雖似見機而作，卻也隈刀避劍。若解當鋒取勝，果然是員戰將",
+          "MasterName": "Yaoshan Weiyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Qizong Zhen",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB464.xml). Recorded Sayings of Chan Master Qizong Zhen of Huayan. Yaoshan Weiyan owns the exact utterance inside Qizong Zhen's raising: asked on the level plain with shallow grass how to shoot the chief among the herd, he says watch the arrow; the monk throws himself down as if shot, he calls the attendant to drag out this corpse, the monk runs, and he rules - is there no end to fellows playing with mud balls? Qizong Zhen appraises that though it looks like acting on the cue, it still dodges blade and avoids sword; able to win taking the point head-on, truly a battle-tested officer."
         }
       ],
       "SourceTexts": [

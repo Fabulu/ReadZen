@@ -71,6 +71,63 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0598b17",
+          "ToLb": "0599a01",
+          "Kwic": "上堂，舉寒山頌：吾心似秋月，碧潭清皎潔。無物堪比倫，教我如何說？師云：寒山好頌只易見難說，虎丘却有箇方便說與諸人，若教頻下淚，滄海也須枯。",
+          "MasterName": "Songyuan Chongyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. Songyuan Chongyue owns the retained deployment: hall address raising Hanshan's ode — my mind is like the autumn moon, the jade pool clear and bright, nothing compares with it, how could I tell it — grading it a fine ode, only easy to see and hard to tell, then offering as Huqiu a convenient way to tell the assembly: were it made to weep its fill, even the vast sea would run dry."
+        },
+        {
+          "RelPath": "X/X70/X70n1381.xml",
+          "FromLb": "0848a04",
+          "ToLb": "0848a08",
+          "Kwic": "是故寒山子見徹平常心，便道：吾心似秋月，碧潭清皎潔。無物堪比倫，教我如何說？龐居士見徹平常心，便道：心如境亦如，無實亦無虗。有亦不管，無亦不拘。不是聖賢，了事凡夫。",
+          "MasterName": "Po'an Zuxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Po'an Zuxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1381.xml). Recorded Sayings of Chan Master Po'an Zuxian. Po'an Zuxian owns the retained deployment: written instruction to the layman Ji'an that Hanshan the son, seeing through the ordinary mind, said my mind is like the autumn moon, the jade pool clear and bright, nothing compares with it, how could I tell it, set directly beside Layman Pang's seeing through the same ordinary mind, both judged one slip, a hundred slips."
+        },
+        {
+          "RelPath": "X/X70/X70n1393.xml",
+          "FromLb": "0381b03",
+          "ToLb": "0381b05",
+          "Kwic": "中秋，上堂。吾心似秋月，碧潭清皎潔，無物堪比倫，教我如何說？師云：寒山子與麼道，大似抱贓呌屈。便下座。",
+          "MasterName": "Pingshi Rudi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pingshi Rudi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi owns the retained deployment: mid-autumn hall address opening straight onto Hanshan's ode — my mind is like the autumn moon, the jade pool clear and bright, nothing compares with it, how could I tell it — then ruling that Hanshan speaking thus is much like clutching the stolen goods while crying injustice, and stepping straight down from the seat."
         }
       ],
       "SourceTexts": [

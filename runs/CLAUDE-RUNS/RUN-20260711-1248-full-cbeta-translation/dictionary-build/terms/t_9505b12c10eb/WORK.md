@@ -12,3 +12,4 @@ feedback-counterexamples: Govern 藥因救病出金瓶 as the recurrent second h
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: for injustice, the sword leaves its precious scabbard
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

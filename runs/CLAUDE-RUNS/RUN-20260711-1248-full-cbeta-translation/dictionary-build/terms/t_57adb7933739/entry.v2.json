@@ -60,6 +60,91 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X63/X63n1259.xml",
+          "FromLb": "1002b02",
+          "ToLb": "1002b06",
+          "Kwic": "夫學有內有外，內學者何？滿龍宮，盈海藏，西天此土，梵語唐言，千七百則，陳爛葛藤，出世閒一切著述是也。外學者何？墳典丘索，詩書六藝，厔盩津逮之藏，國門名山之業，春秋史學，諸子百家，世閒一切典籍是也",
+          "MasterName": "Huishan Jiexian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huishan Jiexian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1259.xml). Discourse on Training in the Chan Gate. Huishan Jiexian owns the retained deployment: his manual's chapter on polishing study counts the seventeen hundred cases among the worn-out vines that make up inner learning."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0526a05",
+          "ToLb": "0526a10",
+          "Kwic": "百千異流，咸歸大海；百千異法，咸歸此宗。如天普葢，似地普擎。燕語鶯吟，共演如來實相；山青水綠，單明清淨法身。若是英特上士，便好喝散大眾，掀倒禪床，將山僧爛搥一頓，道：且莫誤賺後人，瞎將來眼。豈不慶快平生？若也只麼握節當胸，伏聽處分，不免引些陳爛葛藤，牽惹諸人去也",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: his hall sermon says that whoever merely waits for instruction obliges him to drag out some worn-out vines to stir the assembly."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0158a13",
+          "ToLb": "0158a15",
+          "Kwic": "今日解制之期，勉吾李公洎尸居士設齋供眾，博山不免舉一兩則，陳爛葛藤，因齋慶讚去也",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: at the closing of the retreat he says Boshan cannot but cite one or two worn-out vines to bless the benefactors' meal."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0135a11",
+          "ToLb": "0135a13",
+          "Kwic": "就海寧寺上堂，師陞座云：「陳爛葛藤拋過一邊，巧言異語不勞拈出，別通一路出來相見，還有麼？",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: taking the seat at Haining temple he throws the worn-out vines aside and refuses clever words, calling for some other way to meet."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0102a11",
+          "ToLb": "0102a15",
+          "Kwic": "優婆到海會臨時請上堂逼拶額汗出無法可商量只得聊借拂子說些陳爛葛藤豎起拂子云者個上與十方諸佛同一道故下與一切眾生共一悲仰",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained deployment: pressed to an unscheduled hall talk for a visiting lay patron, he says there is nothing to discuss and he can only borrow the whisk and speak some worn-out vines."
         }
       ],
       "SourceTexts": [

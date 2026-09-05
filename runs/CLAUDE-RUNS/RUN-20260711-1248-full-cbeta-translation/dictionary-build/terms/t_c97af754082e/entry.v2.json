@@ -50,6 +50,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment: independent direct instruction."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0968a06",
+          "ToLb": "0968a08",
+          "Kwic": "上堂：巢知風，穴知雨，甜者甜兮苦者苦。不須計較作思量，五五從來二十五。萬般施設到平常，此是叢林飽參句",
+          "MasterName": "Zide Huihui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zide Huihui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Biographical record of the section master's own hall saying (五家正宗贊, 自得暉禪師 section; compiler Xisou Shaotan). Zide Huihui owns the retained deployment — the origin couplet 巢知風，穴知雨，甜者甜兮苦者苦。不須計較作思量，五五從來二十五 is narrated as his 上堂 address opening the section on him (Dahong-line heir of Hongzhi)."
+        },
+        {
+          "RelPath": "X/X69/X69n1360.xml",
+          "FromLb": "0920a05",
+          "ToLb": "0920a08",
+          "Kwic": "上堂。良宵三月十五，依舊神歌鬼舞。未須三四吐吞，且看七八吞吐。臨濟瞎驢倒跨，雲門正法眼普。三人證鼈成龜，一任衲僧氣鼓。休氣鼓，甜者甜兮苦者苦。偃月長蛇不用呈，發機自有千鈞弩",
+          "MasterName": "Xiatang Huiyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiatang Huiyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1360.xml). Recorded sayings of the master himself (瞎堂慧遠禪師廣錄, Guoqing abbacy full-moon hall talk). Xiatang Huiyuan owns the retained deployment: after the Linji-Yunmen mock-round he seals it 休氣鼓，甜者甜兮苦者苦。偃月長蛇不用呈，發機自有千鈞弩, striking the seat and stepping down."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0266b18",
+          "ToLb": "0267a03",
+          "Kwic": "舉僧問雲門：如何是清淨法身？門云：花藥欄。僧云：便與麼去時如何？門云：金毛獅子。頌曰：花藥欄，金獅子，雲從龍，風從虎。雪老輥毬，禾山打皷，甜者甜兮苦者苦",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Master's own old-case verses (月江正印禪師語錄, 頌古 section, on Yunmen's flower-palisade answer). Yuejiang Zhengyin owns the retained deployment: capping the exchange he verses 花藥欄，金獅子，雲從龍，風從虎。雪老輥毬，禾山打皩，甜者甜兮苦者苦."
         }
       ],
       "SourceTexts": [

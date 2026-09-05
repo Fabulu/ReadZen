@@ -50,6 +50,98 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: independent direct hall judgment."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0970b10",
+          "ToLb": "0970b15",
+          "Kwic": "師嗣雲門，諱澄遠，漢州人，姓上官。師為侍者，將紙衣錄門語句。後歸蜀，於水晶宮接待，往來茶湯。僧問：美味醍醐為甚變成毒藥？曰導江，紙貴。僧問：如何是室內一椀燈？曰：三人證龜成鱉。僧問：如何是衲衣下事？曰：臘月火燒山。僧問：如何是香林一脉泉？曰：念無間斷。曰：飲者如何？曰：隨方斗秤",
+          "MasterName": "Xianglin Chengyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xianglin Chengyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Wujia Zhengzong Zan biographical record of Xianglin Chengyuan. Xianglin Chengyuan owns the retained deployment: recorded answer that the one lamp inside the room is three people proving the turtle into a soft-shelled turtle."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0779b09",
+          "ToLb": "0779b11",
+          "Kwic": "僧問大隨：「如何是室中燈？」隨云：「三人證龜成鱉。」句中無味若為參，禪者徒勞話歲寒，焰焰祖燈明歷歷，朔風吹處嶺雲寒",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "verse-author",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dasui Fazhen",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Ruibai of Jiuru, verse-comments on old cases. Ruibai Mingxue owns the retained deployment: verse-comment raising the Dasui lamp exchange, glossing Dasui's three-people answer as flavorless in the phrase yet brightly kindling the lamp of the founders."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0725b12",
+          "ToLb": "0725b22",
+          "Kwic": "上堂。「一瞖在眼，空花亂墜。證龜成鱉，喚鐘作甕。黃面老子著甚來由？被他一天星斗換卻雙眸，大驚小怪，道：『奇哉！眾生皆有如來智慧德相，但以妄想執著而不證得。』好世尊！錯了也。一切眾生本來成現，擬心作佛，大好羞慚。說甚麼智慧德相？早是執著，早是妄想。不見道：『三世諸佛不知有，黧奴白牯卻知有麼？』當初指天指地全弄虛頭，如今說出恁般悟由，原來是個不唧溜漢。且睹個什麼星聻？彗星、孛星、長星、太白星、天狗星、欃槍星、飛廉星、惡來星、蚩尤星、實沈星、破軍星、熒惑星，悟什麼道？見什麼性？明什麼心？災星、難星、妖星、惡星。切忌！切忌！」",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Langting of Yunxi. Liangting Jingting owns the retained deployment: hall address pairing proving the turtle into a soft-shelled turtle with calling the bell a jar, blaming the yellow-faced one for mistaking flowers in the eye for real stars."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0836c27",
+          "ToLb": "0837a01",
+          "Kwic": "師豎拂子召大眾曰：「看看，若喚作拂子，頭上安頭。若不喚作拂子，掘地覓天。若道拈來便用，何異擔雪填井。若道總不與麼，也是證龜成鱉。縱饒直下承當，猶是化城境界，畢竟喚作甚麼？」良久曰：「寰中天子敕，塞外將軍令。」",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan of Shanxi. Baishan Dekai owns the retained deployment: hall address on the raised whisk, ruling that naming it, refusing to name it, or total denial each still proves the turtle into a soft-shelled turtle."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0873b16",
+          "ToLb": "0874a14",
+          "Kwic": "大道縱橫，觸事現成。雲開日出，水綠山青。拈拄杖卓云：雲門大師來也，說道觀世音菩薩將錢買胡餅，放下却是饅頭。大眾，雲門只見錐頭利，不見鑿頭方。寶峰即不然。乃擲下拄杖云：勿於中路事空王，䇿杖還須達本鄉。昨日有人從淮南來，不得福建信，却道嘉州大像吞却陝府鐵牛。遂喝一喝云：是甚麼說話，笑倒雲居土地。鑽真珠、解玉板即易，看窟籠著楔却難。月色和雲白，松聲帶露寒即不問，你諸人且道：大目犍連共須菩提商量箇什麼？良久，云：東家杓柄長，西家杓柄短。卓拄杖，云：客來須看，賊來須打。又誰家門外無明月清風？元來道不必揀擇，纔有揀擇便落知見。故老胡云：知見立知，即無明本；知見無見，斯即涅槃無漏真淨。云何是中更容他物？所以巴陵明提婆宗便道：銀盌裏盛雪。祖意、教意兩家證龜成鱉，大底同天不同地，處所相遠。胡越有時思量得：趙州壁上掛胡蘆，又著甚死急？",
+          "MasterName": "Zhantang Wenzhun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Zhantang Zhun section of the Xugu Zunxu Yuyao. Zhantang Wenzhun owns the retained deployment: hall address ruling that ancestral intent and teaching intent as two houses prove the turtle into a soft-shelled turtle."
         }
       ],
       "SourceTexts": [

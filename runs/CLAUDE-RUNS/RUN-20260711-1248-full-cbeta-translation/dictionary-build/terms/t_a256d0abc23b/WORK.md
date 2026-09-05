@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 榮者從他榮 or the 茂 wording as the balanci
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: let the withered remain withered; The withered-tree half of Gao Shami's answer refusing Yaoshan's demand to choose either withered or flourishing
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

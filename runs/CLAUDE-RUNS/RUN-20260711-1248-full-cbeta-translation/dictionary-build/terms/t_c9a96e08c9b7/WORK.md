@@ -15,3 +15,4 @@
   - no unanchored definition, contrast, or distinct deployment remains in the reviewed concordance;
   - limiting evidence: The records do not treat silence uniformly: some present it as the proper command, while others say it still does not suffice.
 - r7-vetting-20260905: U+043E replaced with ASCII o in an occurrence AttributionNote (draft, entry, receipts regenerated).
+- 2026-09-05 r7-depth: +3 occurrences (target 7; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

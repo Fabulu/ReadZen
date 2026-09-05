@@ -50,6 +50,81 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct deployment of the sky-rising resonance image."
+        },
+        {
+          "RelPath": "T/T47/T47n1986A.xml",
+          "FromLb": "0515c07",
+          "ToLb": "0515c09",
+          "Kwic": "徒敲布鼓。誰是知音。空擊成聲。何人撫掌。胡笳曲子。不墮五音。韻出青霄。任君吹唱",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1986A.xml). Recorded Sayings of Chan Master Dongshan Wuben of Yunzhou. Dongshan Liangjie owns the retained deployment: the inscription verse immediately preceding his Xinfeng Song asks who is the knowing hearer for the idly-beaten cloth drum and the air-struck sound, and closes that the barbarian reed-flute tune does not fall within the five tones - its resonance issues into the blue heavens, play and sing it as you will."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1047a28",
+          "ToLb": "1047b01",
+          "Kwic": "師拈云。氈拍板無孔笛。雖然韻出青霄。其奈音節失旨",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: re-raising Qianfeng's dharma-body three-illnesses instruction and Yunmen's exchange, his pick pronounces the felt clapper and the holeless flute - though their resonance issues into the blue heavens, their pitch and measure miss the purport; who grasps it passes the summer easily."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0547a12",
+          "ToLb": "0547a15",
+          "Kwic": "其餘意味，分付投子。頌曰：白雲不到中峰頂無心曾出岫，舒卷任隨風，滿目煙蘿景象殊高低休便兩般看，一句曲寒千古調韻出青霄，任君吹唱",
+          "MasterName": "Touzi Yiqing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Old Man Linquan's Sung Commentaries on the Old Cases of Chan Master Touzi Qing, the Valley-of-Void Collection. Touzi Yiqing owns the exact utterance inside Linquan Conglun's commentary: Linquan hands the rest of the meaning over to Touzi, whose eulogy verse runs that the white clouds do not reach the central peak's summit, and that the one line whose tune holds a thousand ages' note - its resonance issues into the blue heavens, play and sing it as you will."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0580a23",
+          "ToLb": "0580a25",
+          "Kwic": "方可蹈中興之禪席，睹繼起之芳規。自是主賓互換，敲唱雙行，韻出青霄，風生滿座，山河大地盡作琴聲，草木叢林順方低向",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong. Hansong Zhicao owns the retained deployment: invited to the hall at Yanqing and hearing that the guest heeds the host's judgment, he raises his staff - only with the eye at the crown and full-rounded device can one tread the restored chan seat - and pronounces that with host and guest interchanged and knocking and singing going together, the resonance issues into the blue heavens, wind rises through the whole hall, and mountain and rivers and the great earth all become the sound of the zither."
         }
       ],
       "SourceTexts": [

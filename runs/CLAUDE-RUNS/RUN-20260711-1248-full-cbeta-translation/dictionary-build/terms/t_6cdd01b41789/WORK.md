@@ -35,3 +35,4 @@ feedback-counterexamples: passive reproductions of the Tianping story were colla
 feedback-scope: the exact expression in the retained Tier-2 passages.
 lookup-probes: two wrongs in succession / Xiyuan's paired verdicts / Tianping remembered encounter / twice-wrong case judgment
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +1 occurrences (target 5; tier1/2 only, lamp excluded); new works 1; recompiled hardPass

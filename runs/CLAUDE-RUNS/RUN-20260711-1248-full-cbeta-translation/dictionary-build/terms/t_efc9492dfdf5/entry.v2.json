@@ -50,6 +50,76 @@
             }
           ],
           "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: active instruction through Yaoshan's rebuke that twenty years at Baizhang had not removed Yunyan's vulgar air."
+        },
+        {
+          "RelPath": "X/X71/X71n1423.xml",
+          "FromLb": "0464a06",
+          "ToLb": "0464a15",
+          "Kwic": "舉雲嵓初參藥山，山問：甚麼處來？嵓云：百丈來。山云：有何言句？嵓云：有時云：一句子百味具足。山云：鹹即鹹味，淡即淡味，不鹹不淡是常味，作麼生百味具足底句？嵓無對。山云：爭奈目前生死何？嵓云：目前無生死。山云：二十年在百丈，俗氣也不除。又問：海兄更說什麼法？嵓云：有時道：三句外省去，六句外會取。山云：三千里外且喜沒交涉。山又問：更說甚麼法？嵓云：有時上堂了，大眾下堂次，復召大眾，大眾迴首，乃云：是甚麼？山云：何不早恁麼道？嵓於言下有省",
+          "MasterName": "Yaoshan Weiyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "later-raiser",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1423.xml). Recorded Sayings of Chan Master Touzi Yiqing. Yaoshan Weiyan owns the exact line inside Touzi Yiqing's raised case: Yunyan, newly come from Baizhang, reports his lines - a single phrase with a hundred flavors, the three sentences, the recalling of the descending assembly - and Yaoshan presses each: salty is salty, bland is bland, how is it a phrase of every flavor? what of birth-and-death before the eyes? and when Yunyan answers there is no birth-and-death before the eyes, Yaoshan charges that twenty years at Baizhang and the vulgar air still is not cleared away; the three sentences are three thousand miles off, happily no connection - until the final what is it?, at which Yunyan awakens."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0263c21",
+          "ToLb": "0263c27",
+          "Kwic": "僧問雲居。承教有言。是人先世罪業應墮惡道。以今世人輕賤。故先世罪業即為消滅。此意如何。居云。動則應墮惡道。靜則為人輕賤。崇壽稠云。心外有法。應墮惡道。守住自己。為人輕賤。萬松道。兩箇老漢俗氣也不除。且道。天童分上又作麼生",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Old Man Wansong's Commentary on Tiantong Jue's Old-case Verses, the Congrong-an Record. Wansong Xingxiu owns the retained deployment: a monk asks Yunju how the sutra's promise works - sins that should bring fall into the evil paths dissolved because one is now lightly esteemed - and Yunju answers that motion means falling into the evil paths, stillness means being lightly esteemed; Chongshou Chou adds that dharma outside the mind means falling, guarding one's own self means being lightly esteemed; Wansong's own verdict - these two old men still have not cleared the vulgar air away - then turns to ask how it stands on Tiantong's part before the verse."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0537b01",
+          "ToLb": "0537b04",
+          "Kwic": "本要河清海晏，剛來簸土揚塵，爭免點罰？道二十年俗氣也不除，及三千里外且喜沒交涉，直得辭窮理盡，有口難言。故以百丈不傳之妙，末後通傳，道是甚麼，方愜他意",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Old Man Linquan's Commentary on Touzi Qing's Old-case Verses, the Empty Valley Collection. Linquan Conglun owns the retained deployment in his commentary: one meant only rivers clear and seas at peace, yet just came winnowing dust and raising wind - how escape the penalty points? - so the saying of twenty years at Baizhang with the vulgar air not cleared, and the three thousand miles off with happily no connection, leave Yunyan argument-spent, mouth unable to speak; hence with Baizhang's untransmitted wonder handed through at the very end - the saying what is it? - his intent was finally met; Linquan laughs that Yaoshan knew how to press another man's fist against his ear."
         }
       ],
       "SourceTexts": [

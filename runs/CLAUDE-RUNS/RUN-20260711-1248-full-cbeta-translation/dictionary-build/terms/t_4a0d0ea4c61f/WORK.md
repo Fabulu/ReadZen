@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 破除煩惱重增病 or 斷除妄想重增病 as
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: heading toward true suchness is also astray; pursuing suchness is still deviant
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

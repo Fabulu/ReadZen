@@ -50,6 +50,89 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: independent direct redeployment."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0046a24",
+          "ToLb": "0046b05",
+          "Kwic": "上堂舉。長慶云。寧說阿羅漢有三毒。不可說如來有二種語。不道無語。只是無二種語。保福云。作麼生是如來語。慶云。聾人爭得聞。保福云。情知。爾向第二頭道。慶云。師兄作麼生。福云。喫茶去。後來雪竇道。無處有月波澄。有處無風浪起。若有人問天童作麼生是如來語。向它道。阿囉跛𮛏曩。諸禪德道。與古人語是同是別。諸人若也未會。更為劈折去也。長慶能守。保福能做。雪竇手段縱橫。天童舌頭狤獠。若也分曉會去。與爾把手共行。其或未然。各自勉力。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Changqing Huileng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Baofu Congzhan",
+              "Roles": [
+                "interlocutor",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: hall address raising Changqing's saying — sooner say the arhat carries the three poisons than say the Tathagata has two kinds of speech — through the Baofu exchange and Xuedou's moon-wave lines, answering as Tiantong that were someone to ask him what is the Tathagata's speech he would say aluo bonang, then grading that Changqing can hold, Baofu can act, Xuedou's means run free, and Tiantong's tongue is nimble."
+        },
+        {
+          "RelPath": "X/X69/X69n1351.xml",
+          "FromLb": "0394a12",
+          "ToLb": "0394a18",
+          "Kwic": "漳州保福禪師因長慶云：寧說阿羅漢有三毒，不說如來有二種語。不道如來無語，只是無二種語。師曰：作麼生是如來語？曰：聾人爭得聞？師曰：情知和尚向第二頭道。慶却問：作麼生是如來語？師云：喫茶去。雲居錫云：什麼處是長慶向第二頭道處？不說如來二種語，三三為九須重數。何謂聾人爭得聞，狐裘未免還移主。",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Changqing Huileng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Baofu Congzhan",
+              "Roles": [
+                "interlocutor",
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1351.xml). Recorded Sayings of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained deployment: entry in his case-verse series stating the Zhangzhou Baofu case turning on Changqing's saying — sooner say the arhat carries the three poisons than say the Tathagata has two kinds of speech — through the go-drink-tea close and Yunju Xi's later question, capped with his own closing verse that the Tathagata's speech is no two kinds, three threes count nine and must be counted again, and the fox-fur coat in the end still changes owners."
+        },
+        {
+          "RelPath": "J/J35/J35nB337.xml",
+          "FromLb": "0710b19",
+          "ToLb": "0710b21",
+          "Kwic": "問：「寧說阿羅漢有三毒，不說如來有二種語。衲僧家一句是一句，因甚纔與麼便不與麼？」師代云：「即今𠰚。」又云：「換卻眼睛。",
+          "MasterName": "Baochi Xuanzong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baochi Xuanzong",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochi Zong. Baochi Xuanzong owns the retained deployment: question-and-answer series where a monk puts Changqing's saying — sooner say the arhat carries the three poisons than say the Tathagata has two kinds of speech — against the patchwork monk whose one word is one word, asking why no sooner thus than not-thus, and the master answers in the questioner's stead with just-now, then swaps out the eyes."
         }
       ],
       "SourceTexts": [

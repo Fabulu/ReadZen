@@ -57,6 +57,74 @@
             }
           ],
           "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He quotes Chushi Fanqi's answer containing the retained clause; Lüyan's own following answer is different."
+        },
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0354a05",
+          "ToLb": "0354a08",
+          "Kwic": "上堂。寅朝有粥，齋時有飯，展鉢開單，光明燦爛，行住坐臥無他，一生大事成辦。大眾且道：與麼見解底人還得盡善也未？良久，云：誰知更有離家子，望斷碧雲生遠愁",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong owns the retained deployment: ascending the hall he opens with dawn porridge and mealtime rice, spreading the bowl and unveiling the list, light blazing, and in walking, staying, sitting and lying nothing else - the one great matter of a lifetime is brought to completion; he then asks whether such a view has reached perfection, and after a pause answers with the wanderer's verse."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0496b18",
+          "ToLb": "0497a03",
+          "Kwic": "卓拄杖，云：正當今日，且道還有過去、未來之相也無？更有一絲毫不去、不來之相也無？若向這裏，定當得下：五更洗面，黃昏打睡；齋時有飯，晨朝有粥；朝朝相似，暮暮一般",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: at the mid-summer hall sermon, striking his staff on the very day, he asks whether any trace of past and future remains, and if one can settle it right here - washing the face at the fifth watch, sleeping at dusk, rice at mealtime, porridge at dawn, morning after morning alike, evening after evening the same."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0410b15",
+          "ToLb": "0411a01",
+          "Kwic": "又，僧問：如何是奪人不奪境？師云：早朝有粥，齋時有飯。進云：如何是奪境不奪人？師云：喫則從它喫，不喫任東西。進云：如何是人境兩俱奪？師云：灯籠吞却露柱。進云：如何是人境俱不奪？師云：厨庫恰對僧堂",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: to the monk's question on the first of the four alternatives - how is taking the person not taking the circumstances - he answers morning porridge and mealtime rice, and runs the remaining three alternatives through eating or not, the lantern swallowing the pillar, the kitchen facing the monks' hall."
+        },
+        {
+          "RelPath": "X/X71/X71n1416.xml",
+          "FromLb": "0823b08",
+          "ToLb": "0823b11",
+          "Kwic": "僧云：人無遠慮，必有近憂。師云：晨朝有粥，齋時有飯，憂箇什麼？僧云：竹影掃堦塵不動，月穿波底水無痕。師云：二年同一春。僧提起坐具云：謝師答話。師云：口是禍門",
+          "MasterName": "Shuzhong Wuyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shuzhong Wuyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1416.xml). Recorded Sayings of Chan Master Shuzhong Wuyun. Shuzhong Wuyun owns the retained deployment: when the monk answers that those without far-sighted care have near sorrow, he retorts - dawn porridge and mealtime rice, what is there to worry over - and closes the exchange on the raised seat with the mouth being the gate of calamity."
         }
       ],
       "SourceTexts": [

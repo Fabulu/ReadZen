@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 鐘樓上念讚 as the companion half, not a syno
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: plant vegetables beneath the bed legs
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

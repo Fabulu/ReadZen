@@ -50,6 +50,92 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct use of the complete sword-and-medicine maxim."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0064a22",
+          "ToLb": "0064a25",
+          "Kwic": "迦文降誕，藥因救病出金瓶；偃老垂機，劍為不平離寶匣。簡點則彼此敗闕，放過則二俱作家，只如陸、謝二居士助鏡臺張翁入山受戒，是救病藥耶？是離匣劍耶",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: his Buddha-birthday hall talk for two laymen pairs the sage's birth with medicine leaving the golden vase and the elder's device with the sword leaving its case for injustice, then asks whether the two precept-takers are the sickness-medicine or the case-leaving sword."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0671c20",
+          "ToLb": "0671c25",
+          "Kwic": "一回舉起一回新，昨夜三更過孟津；驀然撞著風顛漢，三腳驢兒美蹄行。即以拄杖一摑。彼不審來因，翻身見臨濟大師請決不平。濟亦以拄杖趁出曰：『冤有頭，債有主，情理難伸。』任是馬祖快斧、藥山利刀莫能劈析；縱教雲門舌劍、洞山唇鋒也斷不明。正所謂：劍為不平離寶匣，藥因救病出金瓶",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Wuming Huijing owns the retained deployment: his staff-drama hall talk has the transformed figure meet Linji to settle an injustice, and with Mazu's axe, Yaoshan's blade, Yunmen's tongue-sword, and Dongshan's lip-edge all unable to cut it through, he closes that this is just the sword leaving its case for injustice and the medicine leaving the golden vase for sickness."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0119a22",
+          "ToLb": "0119a25",
+          "Kwic": "峰聞得，乃曰：「趙州古佛。」遙望作禮，自此不答話。藥因救病出金瓶，劍為不平離寶匣，相如何事愛廉頗？趙國方今在兵甲",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: after the old case of Xuefeng's cold-spring stream and Zhaozhou's single-word answers, his verse runs the medicine out of the golden vase and the sword out of its case for injustice, then asks what Lian Po has to do with it while Zhao stands under arms."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0508b23",
+          "ToLb": "0508b25",
+          "Kwic": "妙在殺得人，活得人，臨機應變與奪隨宜，公於此覷透則如所駁者，政所謂：「劍為不平離寶匣，藥因救病出金瓶",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin owns the retained deployment: writing to Officer Xu he says the mastery lies in killing and quickening with the occasion, and that the correspondent's refutations, seen through, are just the sword leaving its case for injustice and the medicine leaving the golden vase for sickness."
         }
       ],
       "SourceTexts": [

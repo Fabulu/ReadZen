@@ -55,7 +55,89 @@
               ]
             }
           ],
-          "AttributionNote": "Recorded Sayings of Chan Master Sanyi Yu (J27nB189). Sanyi Mingyu raises Nanquan's wind exchange; Nanquan Puyuan is the exact speaker of 吹折門前一株松 inside the quotation, and Sanyi comments afterward."
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu (J27nB189). Sanyi Mingyu raises Nanquan's wind exchange; Nanquan Puyuan is the exact speaker of 吹折門前一株松 inside the quotation, and Sanyi comments afterward."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0797c01",
+          "ToLb": "0797c09",
+          "Kwic": "舉。南泉問僧。昨夜好風。僧云。昨夜好風。泉云。吹折門前一株松。僧亦云。吹折門前一株松。南泉又見僧問。昨夜好風。僧云。是什麼風。泉云。吹折門前一株松。泉云。一得一失。師拈云。大凡酬唱隨機著眼。辨龍蛇別緇素。所謂打鼓弄琵琶。相逢兩會家。只如南泉道一得一失。敢問。阿那箇得阿那箇失。到這裏須是向上人始得。還委悉麼。鵝王擇乳素非鴨類。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: raising Nanquan's night-wind exchange where the first monk echoes the snapped pine and the second asks what wind, and judging that in answering duets one must tell gain from loss like the goose king picking milk."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0244c08",
+          "ToLb": "0244c13",
+          "Kwic": "萬松道。泥裏洗土塊。此非但法眼。南泉一日謂僧曰。夜來好風。僧亦曰。夜來好風。泉曰。吹折門前一株松。僧亦曰。吹折門前一株松。泉次謂一僧曰。夜來好風。僧曰。是什麼風。泉曰。吹折門前一株松。僧曰。是什麼松。泉曰。一得一失。指簾話極有為人作略。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong's Congrong'an Record appraisal of TianTong's old-case verses. Wansong Xingxiu owns the retained deployment: appraising Fayan's curtain-pointing case, he cites Nanquan's night-wind exchange where the echoed pine-snap sets gain and loss, and rules the curtain dialogue an extreme skillful means."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0323b04",
+          "ToLb": "0323b08",
+          "Kwic": "萬仞峯頭駕䥫船。進云：如何是一玄中具三要？師云：眼裏瞳人吹木呌。進云：如何是和尚家風？師云：吹折門前一株松。進云：學人不問這個風。師云：汝問甚麼風？進云：家風。師云：我這裏大功不竪賞。",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu'an Zhiji. Yu'an Zhiji owns the retained deployment: asked his house style in the hall, he answers that the wind snapped a pine tree in front of the gate, and when the monk objects that he did not ask about that wind, caps it with no reward posted for great merit."
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0544c19",
+          "ToLb": "0544c21",
+          "Kwic": "昨宵忽地起狂風，吹折門前一株松，直至天明峰頂望，不知何處有形蹤？」豎起拄杖，召眾云：「看看是甚麼？」眾纔舉首，師便歸方丈。",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixian Jue. Zixian Jue owns the retained deployment: hall address raising his staff on a verse of last night's mad wind snapping the pine before the gate, then having the assembly look and retiring to his quarters."
         }
       ],
       "SourceTexts": [

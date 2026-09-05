@@ -15,3 +15,4 @@ opening-interpretation-verdict: licensed by the retained predicates and contrast
 - r7-vetting-20260905: U+043E replaced with ASCII o in an occurrence AttributionNote (draft, entry, receipts regenerated).
 - r7-kwic-repair-20260905: restored 1 elided occurrence kwic(s) to contiguous document slices (r7 batch-builder window elision defect); FromLb/ToLb set to the restored span's lines.
 - r7-review-concern-20260905: occurrence 2 re-attributed from Dahui Zonggao to Yunfeng Wenyue (blind r1 concern; the clause is Yunfeng's quoted appraisal 後來雲峯悅禪師拈云…略露風規…, which Dahui quotes then criticizes); Dahui retained as commentator/record-owner in ContextMasters; Explanation corrected.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

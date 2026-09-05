@@ -12,3 +12,4 @@ feedback-counterexamples: Retain 弄泥團 as contempt for contrived imitation o
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: there is no end to fellows playing with mud balls; there is no end to mud-ball players
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

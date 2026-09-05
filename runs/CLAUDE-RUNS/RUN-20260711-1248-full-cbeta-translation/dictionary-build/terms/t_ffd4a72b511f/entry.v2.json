@@ -51,6 +51,93 @@
             }
           ],
           "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: independent direct deployment concerning inherited kind."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0836a02",
+          "ToLb": "0836a06",
+          "Kwic": "上堂，舉：丹霞訪忠國師，值國師睡次，乃問侍者：國師在否？者云：在則在，祇是不見客。霞云：太深遠生。者云：莫道上座佛眼也󳬇不見。霞云：龍生龍子，鳳生鳳兒。國師睡起，侍者舉似國師，師打侍者二十棒，趕出院。霞聞，云：不謬為南陽國師",
+          "MasterName": "Danxia Tianran",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying'an Tanhua. Danxia Tianran owns the exact utterance inside Ying'an Tanhua's hall raising: visiting National Teacher Zhong asleep, and told by the attendant that though present he sees no guests and even the Buddha's eye would not see him, Danxia pronounces dragons give birth to dragon sons, phoenixes to phoenix young; the attendant reports it, the teacher strikes him twenty blows and expels him, and Danxia hearing of it says no mistake about the National Teacher of Nanyang."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0122c01",
+          "ToLb": "0122c03",
+          "Kwic": "四月八日上堂。龍生龍鳳生鳳。指天指地獨稱尊。老鼠養兒巡屋棟。大眾勘破了也。共將惡水驀頭澆。萬兩黃金也合消",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantong Rujing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Chan Master Rujing of Tiantong. Tiantong Rujing owns the retained deployment: at the fourth-month-eighth hall sermon he declares dragons give birth to dragons and phoenixes to phoenixes - pointing to heaven and earth, sole-honored - yet the rat raises its young along the roof beams; the assembly has seen through it, pours the dirty water over the head together, and ten thousand taels of gold are well spent."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0812b08",
+          "ToLb": "0812b10",
+          "Kwic": "越格超宗有一機，說甚麼龍生龍，鳳生鳳，縱使掣開金殿鎻，撞動玉樓鍾，也被端禪師道破，弄到帝王前，一場乾打閧",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment: appraising Linji's sixty blows at Huangbo felt like wormwood twigs, he calls him a thick-skinned scabby-boned lout who knows no pain, unlike modern descendants with blood under the skin - what talk of dragons giving birth to dragons and phoenixes to phoenixes; even forcing open the golden palace lock and ringing the jade tower bell gets exposed by Chan master Duan and ends as dry clatter before the emperor."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0213b12",
+          "ToLb": "0213b15",
+          "Kwic": "好笑你自心中急，他人未肯忙。若是箇漢，當時便與掀倒禪床，攔胸一踏，拄杖子只得兩手分付。不見道：『老鼠養兒沿屋棟，龍生龍兮鳳生鳳。』興化獎和尚得這一句子於臨濟",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: laughing at the raised Linji episode of wanting another beating - you are hurried in your own mind, the other will not be rushed; a real fellow would have tipped over the chan seat - he quotes the line the rats raise their young along the roof beams, dragons give birth to dragons and phoenixes to phoenixes, and notes Xinghua Cunjiang gained this one line from Linji and awakened to the purport of his master's blows at Huangbo at great Awakening's staff-tip."
         }
       ],
       "SourceTexts": [

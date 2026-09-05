@@ -50,6 +50,85 @@
             }
           ],
           "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Xinggong owns the retained deployment: direct case judgment."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0683b07",
+          "ToLb": "0683b15",
+          "Kwic": "晚參。舉：「仰山因溈山問云：『大地眾生業識茫茫，無本可據，子作麼生知他有之與無？』仰云：『某甲有箇驗處。』時有僧從面前過，仰召云：『闍黎！』僧回首，仰云：『和尚！者箇便是業識茫茫，無本可據。』溈云：『寂子！正是獅子一滴乳，迸散十斛驢乳。』」乃云：「溈仰家風，唯貴父子投機，節拍相應，苟非具窟中牙爪、閫外機權，卒難搆他語脈。若以雲門看來，溈仰父子猶不知向者僧面前各失卻一隻眼了也。大眾！還見獅子一滴乳，迸散十斛驢乳麼？」拈拄杖一時打散。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "case-figure",
+                "action-performer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: evening assembly raising Guishan's test of Yangshan on the beings whose working-consciousness drifts with no ground to stand on, Yangshan's proof by calling a passing monk who turns his head, and Guishan's ruling that this is one drop of lion's milk scattering ten bushels of donkey's milk, then asking the assembly whether they still see the one drop of the lion scattering the ten bushels of donkey's milk, and scattering it all at once with his staff."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0240b29",
+          "ToLb": "0240c07",
+          "Kwic": "舉：「溈山一日問仰山曰：『大地眾生業識茫茫，無本可據，子作麼生知他有之與無？』仰云：『某甲有驗處。』時有一僧從面前過，仰召云：『闍黎！』其僧回首，仰云：『和尚！者箇便是業識茫茫，無本可據。』溈山云：『此是獅子一滴乳，迸散六斛驢乳。』」拈云：「寂子賣弄家私，溈山翻成鈍置，若非金毛獅子，爭解翻身跳擲？只如道：『此是獅子一滴乳，迸散六斛驢乳。』意作麼生？擘開華嶽連天碧，放出黃河到海聲。」",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "case-figure",
+                "action-performer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: old-case raising of Guishan's test and Yangshan's call-and-turn proof with Guishan's ruling that this is one drop of lion's milk scattering six bushels of donkey's milk, then his own appraisal that Jizi was showing off the family goods while Guishan turned dull-placed, that without the golden-maned lion none could leap and tumble so, and — what of this very one drop of lion's milk scattering six bushels of donkey's milk — splitting open Hua's peak green to the sky and loosing the Yellow River's roar to the sea."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0522b28",
+          "ToLb": "0522b29",
+          "Kwic": "標格在清勁，衰風庶可屏，獅子一滴乳，驢乳十斛迸。六合竟何憑？杖頭須按定，南遊我將還，送君有餘興。",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Xueshu Shiqi. Shiqi Tongyun owns the retained deployment: gift verse for the Dharma nephew Guyuan of Lianyun, praising his bearing as clear and strong by which the decayed manners may be screened off — one drop of the lion's milk and ten bushels of donkey's milk burst and scatter — the six quarters have nothing to lean on, the staff-head must be pressed firm, as the master will soon return from the south with pleasure still left in the sending."
         }
       ],
       "SourceTexts": [

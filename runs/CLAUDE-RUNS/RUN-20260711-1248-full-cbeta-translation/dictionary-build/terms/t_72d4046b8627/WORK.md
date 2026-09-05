@@ -25,3 +25,4 @@ feedback-counterexamples: the concordance largely repeats Beichan's encounter; r
 feedback-scope: the exact expression in the retained Tier-1/2 passages; the rite name is not generalized to other year-end observances.
 lookup-probes: year-end rite white ox / Beichan year-end feast / white ox set out at year end / ginger broth substitution / comparing one's own provisions
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening; recension copies narrow rather than defeat it.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

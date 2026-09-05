@@ -51,6 +51,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: independent free deployment of the Qingping inventory."
+        },
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0191b23",
+          "ToLb": "0191b27",
+          "Kwic": "分付與典座。」笊籬木杓，錢貫井索，見成家風，受用廓落。生涯放得信緣看，佛法更于何處著？不用安禪只麼從，自然心地常安樂",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Master's own old-case verses (宏智覺禪師語錄, 頌古 section, on the Qingping great-vehicle exchange). Hongzhi Zhengjue owns the retained deployment: capping Qingping's answers he verses 笊籬木杓，錢貫井索，見成家風，受用廓落…自然心地常安樂."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0749b15",
+          "ToLb": "0749b19",
+          "Kwic": "汝等俱是一千五百里來皋亭者裏覓佛祖鉗錘、祖師巴鼻，實情抖擻與汝道。皋亭也不曾行箇驢腳馬腳，那知有笊篱木杓？又未曾參屎乘尿乘，那識錢貫井索？兩片合不得的皮，從未喫著胡餅，那討有汁無汁",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded sayings of the master himself (觀濤奇禪師語錄, retreat-opening hall talk at Gaoting). Guantao Daqi owns the retained deployment: disclaiming all borrowed devices he says 皋亭也不曾行箇驢腳馬腳，那知有笊篱木杓？又未曾參屎乘尿乘，那識錢貫井索？."
+        },
+        {
+          "RelPath": "L/L154/L154n1640.xml",
+          "FromLb": "0540a11",
+          "ToLb": "0540a15",
+          "Kwic": "令遵禪師因僧問如何是大乘遵曰井索曰如何是小乘遵曰錢貫又問如何是有漏遵曰笊籬曰如何是無漏遵曰木杓。笊籬木杓錢貫井索靈利衲僧都來拋卻丈夫自有衝天志萬里天邊飛一鶚",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1640.xml). Master's own old-case verses (密雲悟禪師語錄, 頌古 section, on the Lingzun vehicle exchange). Miyun Yuanwu owns the retained deployment: capping Lingzun's answers he verses 笊籬木杓錢貫井索，靈利衲僧都來拋卻，丈夫自有衝天志，萬里天邊飛一鶚."
         }
       ],
       "SourceTexts": [

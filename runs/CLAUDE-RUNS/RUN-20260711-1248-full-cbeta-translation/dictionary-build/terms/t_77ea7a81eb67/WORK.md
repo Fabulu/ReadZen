@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 意在深潭 as the recurrent completion and dist
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: let the line hang a thousand feet; lower the line a thousand feet
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +5 occurrences (target 7; tier1/2 only, lamp excluded); new works 5; recompiled hardPass

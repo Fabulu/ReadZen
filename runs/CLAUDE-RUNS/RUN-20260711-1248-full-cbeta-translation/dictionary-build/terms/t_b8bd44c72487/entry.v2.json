@@ -57,6 +57,75 @@
             }
           ],
           "AttributionNote": "Source record (X/X71/X71n1423.xml). Recorded Sayings of Chan Master Touzi Yiqing. Shitou Xiqian remains the exact actor of the inherited paired lines; Touzi quotes them and asks how to avoid their finding."
+        },
+        {
+          "RelPath": "X/X72/X72n1442.xml",
+          "FromLb": "0087a16",
+          "ToLb": "0087b01",
+          "Kwic": "石頭希遷禪師參同契竺土大仙心，東西密相付。人根有利鈍，道無南北祖。靈源明皎潔，枝派暗流注。執事元是迷，契理亦非悟。門門一切境，迴互不迴互。迴而更相涉，不爾依位住",
+          "MasterName": "Shitou Xiqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1442.xml). Travelers-Lodge Hut Manuscripts of Chan Master Weilin. Shitou Xiqian owns the exact verse line in the copy of the Cantongqi preserved in Weilin Daopei's manuscript collection: the mind of the great sage of India is entrusted secretly from west to east; the source is bright and clean while the branches stream on in darkness - grasping phenomena is fundamentally delusion, according with principle is not yet awakening; every gate and every state turn and interpenetrate or rest each in its place."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0704b01",
+          "ToLb": "0704b06",
+          "Kwic": "執事元是迷，契理亦非悟。靈源，心也，本不落名言，因明而見其皎潔。枝派，事也，本無有實體，因暗而見其流注。枝派流注，是謂執事，認妄為真，固是迷矣。靈源皎潔，是謂契理，有理可契，豈為真悟乎？此言明之與暗，總妄明之顯晦，學者不可依之以自惑也",
+          "MasterName": "Shitou Xiqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Extensive Record of Chan Master Yongjue Yuanxian, commentary on the Cantongqi. Shitou Xiqian owns the exact quoted line inside Yongjue Yuanxian's line-by-line commentary: grasping phenomena is fundamentally delusion, according with principle is not yet awakening; Yongjue glosses that the numinous source is mind, seen bright only through light, the branch-streams are phenomena seen streaming only through darkness - to take the streaming branches as real is grasping phenomena and delusion, while a principle to accord with is no true awakening either, for light and dark are both the apparent brightening and dimming of delusion."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0229c28",
+          "ToLb": "0229c30",
+          "Kwic": "示眾。「契理亦非悟，執事元是迷。雲盡日頭出，乾坤照無私。眼中如無翳，空花那有依？報汝參元士，莫滯礫中泥。」卓拄杖，云：「若到諸方，分明舉似",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: his instruction-to-the-assembly verse reverses Shitou's pair to open - according with principle is not yet awakening, grasping phenomena is fundamentally delusion - then turns it: clouds gone, the sun comes out, heaven and earth shine without partiality; were there no film in the eye, on what would empty flowers lean? He reports to adept Canyuan not to linger in the grit and mud, strikes the staff, and bids them report it plainly wherever they go."
         }
       ],
       "SourceTexts": [

@@ -50,6 +50,154 @@
             }
           ],
           "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: direct hall criticism."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0959b13",
+          "ToLb": "0959b17",
+          "Kwic": "師諱警玄，嗣梁山江夏張氏子。仲父為沙門，號智通，住持金陵。崇孝往依為師，聽圓覺了義，弃去，謁梁山悟旨。上堂云：嵯峨萬仞，鳥道難通；劒刃輕氷，憑誰踐履？宗乘妙句，語路難陳；不二法門，淨名杜口。所以達磨九年面壁始遇知音，大陽今日也無端。珍重！",
+          "MasterName": "Dayang Jingxuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dayang Jingxuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Liangshan Yuanguan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Wujia Zhengzong Zan biographical record of Dayang Jingxuan. Dayang Jingxuan owns the retained deployment: hall address pairing Bodhidharma's nine years facing the wall with his own day."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0867a07",
+          "ToLb": "0867a17",
+          "Kwic": "到九仙，歲旦，上堂。年去年來又一年，四時交泰自天然，勞生何用欣然賀？物外乾坤本不遷。不遷之道，功莫大焉。奪天地之權衡，出陰陽之陶鑄，光吞日月，重若丘山，逐處隨方，安名立字，吉凶無兆，悔吝何生？為萬物之根，作群生之主。九仙大士深造斯玄□，率予□□，當拱手。然雖如是，迎新送舊且拈向一邊，只□應□□□作麼商量？良久，云：暖日晒開千嶂雪，和風吹散碧天雲。無法亦無心，何取復何捨。要真盡屬真，立假全歸假。平地上行船，虗空中走馬。九年面壁人，有口還如啞。參！",
+          "MasterName": "Doushuai Congyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Doushuai Congyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Doushuai Yue section of the Xugu Zunxu Yuyao. Doushuai Congyue owns the retained deployment: New Year verse at Jiuxian calling the wall-facing one mute."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0963c21",
+          "ToLb": "0963c26",
+          "Kwic": "侍者收取拄杖。上堂。一葉落天下秋。風高雲淡。水碧空浮。達磨不會接手句。少林空坐冷啾啾。尀耐雲門垛根漢。復於頭上更安頭。記得僧問雲門。達磨九年面壁。意旨如何。門云念七。師喝云。果然只在遮裏。良久復云。勘破了也。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Chan Master Mi'an. Mi'an Xianjie owns the retained deployment: hall address raising the Yunmen exchange on the meaning of the nine years."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0312b13",
+          "ToLb": "0312b16",
+          "Kwic": "楊岐栗棘蓬。祖忌拈香，對梁王廓然無聖，此地無金二兩；坐少林九年面壁，俗人沽酒三升。無影樹花敷五葉，無烟火焰續千燈。太平本是將軍建，不許將軍見太平。",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu'an Zhiji. Yu'an Zhiji owns the retained deployment: patriarch-memorial incense verse balancing Bodhidharma's nine years with a layman selling wine."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0497b20",
+          "ToLb": "0498a06",
+          "Kwic": "請師住荊谿善權寺入院三門師云宰相三生乘願寺呵護重來顯大臣小人道消君子長源流不息有知音伽藍殿師云有護伽藍神方能建立正法幢靈山一會儼然未散祖師殿師云終身頭陀九年面壁直下兒孫世守岑寂",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Teacher Yulin. Yulin Tongxiu owns the retained deployment: entry-ritual address at the patriarch hall on lifelong practice and the nine years."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0938b08",
+          "ToLb": "0938b11",
+          "Kwic": "其僧退去，師笑云：「受瞞去耶？還有不受瞞的麼？眾齊聲一喝，師云：任伊喝到劫盡日，枉步徬徨卻被瞞。」問：「如何纔不受瞞？」「梁皇尚且覿面錯，九年面壁等知音。」",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Konggu. Konggu Daocheng owns the retained deployment: New Year's Eve dialogue answer that waiting for a soulmate like the wall-facing one is still being deceived."
+        },
+        {
+          "RelPath": "X/X72/X72n1432.xml",
+          "FromLb": "0030a15",
+          "ToLb": "0030a18",
+          "Kwic": "直草不踏，橫草不拈，四威儀外絕廉纖。道人不學道，何則？木頭禪者不參禪，何故？㼾甎不是達磨來此，爭知教外別傳？摘蘆渡江非本意，九年面壁乃乘權。禪者切宜勉旃。",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1432.xml). Recorded Sayings of Chan Master Wuming Huijing. Wuming Huijing owns the retained deployment: small-assembly verse urging practitioners that the nine years were expedient authority."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0078c18",
+          "ToLb": "0078c29",
+          "Kwic": "結制，上堂。拈疏，曰：「釋迦拈的、迦葉笑的、達磨坐的、神光立的、一切護法國王宰官護不盡的，悉在裏許，有煩維那對眾宣出看。」宣畢，指法座曰：「舉足、下足，動念即乖；瞬目、揚眉，擬心即錯。且道：畢竟如何？咦！不見道：若有路可上，更高人也行。」遂登座。白椎畢，師曰：「者個第一義，達磨西來已被梁武帝當頭一問，直得口如扁擔、眼似流星，滿口舌頭道個廓然無聖，不知已落二落三了也。爭奈武帝有殺人見血的手段，又拶一問云：『對朕者誰？』達磨答個：『不識，不識。』雖好，也只救得一半。及乎淒淒渡江，九年面壁，要救那一半不得。後得神光立雪斷臂，不惜身命也要扶持那一半，乃至六代五家沿流至今也要扶持那一半。",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded Sayings of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: installation sermon retelling Bodhidharma crossing the river and facing the wall nine years without saving the other half."
         }
       ],
       "SourceTexts": [

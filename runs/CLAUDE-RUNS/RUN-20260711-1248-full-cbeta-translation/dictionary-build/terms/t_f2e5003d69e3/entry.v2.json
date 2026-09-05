@@ -50,6 +50,91 @@
             }
           ],
           "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment: later raising and direct comment on an ancient verse."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0662b11",
+          "ToLb": "0662b13",
+          "Kwic": "羅剎為雪山童子說。諸行無常。是生滅法。生滅滅已。寂滅為樂。是無作果。不具行故",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Authorial doctrinal work 宗鏡錄. Yongming Yanshou owns the retained deployment: he cites the Rakshasa's half-taught verse — 諸行無常，是生滅法。生滅滅已，寂滅為樂。是無作果，不具行故 — as the scriptural warrant for the no-action Buddha-fruit in his Huayan-lun discussion."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0938b07",
+          "ToLb": "0938b17",
+          "Kwic": "上堂是日已過命亦隨減如少水魚斯有何樂唯二乘禪定寂滅為樂是為真樂學般若菩薩法喜禪恱為樂是為真樂三世諸佛慈悲喜捨四無量心為樂是為真樂石霜普會云休去歇去冷湫湫地去是謂二乘寂滅之樂雲門云一切智通無障碍拈起扇子云釋迦老子來也是謂法喜禪恱之樂德山棒臨濟喝是三世諸佛慈悲喜捨之樂除此三種樂不為樂也且道㱕宗一眾在三種內三種外良久云今日莊主設饡飯俵䞋錢參退僧堂內普請喫茶去",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded sayings of the master himself (古尊宿語錄, 雲庵真淨禪師語錄 section). Zhenjing Kewen owns the retained deployment: hall talk ranking three joys — 唯二乘禪定寂滅為樂，是為真樂 — against the bodhisattva's and the Buddhas' joys, then closing 良久云 with the monastery's porridge."
+        },
+        {
+          "RelPath": "B/B25/B25n0143.xml",
+          "FromLb": "0232a11",
+          "ToLb": "0233a05",
+          "Kwic": "和上又言：一切大小乘經論說，眾生不解脫者，為緣有生滅二心。涅槃經云：諸行無常，是生滅法。生滅滅已，寂滅為樂。未審生之與滅可滅不可滅？為是將生滅滅？為是將滅滅生？為是生能自滅生？為是滅能自滅滅？請法師一一具答",
+          "MasterName": "Shenhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenhui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0143.xml). Dunhuang record of the master's debate (南陽和尚問答雜徵義). Shenhui owns the retained deployment: he recites the Nirvana Sutra verse to Master Yuan and presses him — 未審生之與滅可滅不可滅？…請法師一一具答."
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0824a27",
+          "ToLb": "0824a29",
+          "Kwic": "古謂：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』生滅且置，秖如誥命夫人寂滅受用，畢竟如何？」打○相，云：「常光一段無今古，自在天中坐寶蓮",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded sayings of the master himself (法璽印禪師語錄, incense-offering for the titled Lady Ye). Faxi Yin owns the retained deployment: he quotes the ancient verse at the coffin, then turns it — 生滅且置，秖如誥命夫人寂滅受用，畢竟如何？"
+        },
+        {
+          "RelPath": "J/J40/J40nB474.xml",
+          "FromLb": "0030a03",
+          "ToLb": "0030a11",
+          "Kwic": "佛性場中，纖毫不動，心隨境轉，境隨心生，離色離相，塵盡光生，忘形忘跡，體露真空，到這裏，有什麼生死去來、遷流之變？豈不聞釋迦老子云：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』汝等諸人還識得這寂滅為樂的消息麼？若識得寂滅為樂的消息，無來無去，無生無死，無是無非，無彼無此，乃至四聖六凡及一切有情無情無不寂滅。既然如是，只如今日所薦亡靈高門舒氏向什麼處去聻？」良久，云：「月落潭無影，雲生山有衣",
+          "MasterName": "Liaozong Chaojian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaozong Chaojian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB474.xml). Recorded sayings of the master himself (盤山了宗禪師語錄, memorial informal talk). Liaozong Chaojian owns the retained deployment: he raises the verse as Śākyamuni's words, then turns it three times — 汝等諸人還識得這寂滅為樂的消息麼？"
         }
       ],
       "SourceTexts": [

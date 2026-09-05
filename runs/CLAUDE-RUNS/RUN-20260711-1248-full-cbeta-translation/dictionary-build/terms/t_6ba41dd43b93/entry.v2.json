@@ -50,6 +50,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent direct quotation and criticism of the moon-and-pool comparison."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0609b09",
+          "ToLb": "0609b13",
+          "Kwic": "舉寒山吾心似秋月碧潭光皎潔無物堪比論教我如何說保福權曰吾心似燈籠點火內外紅有物堪比倫來朝日出東。別曰吾心閃爍見猶把扇遮面比倫不比倫雲雷鼓掣電。",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyou, the name Zhengchuan appearing in the work itself. Huanyou Zhengchuan owns the alternative-verse deployment: in his raising-and-differing series he raises Hanshan's autumn-moon verse with Baofu Quan's lantern counter, then differs with his own — my mind flickers and sees, still holding a fan to shade the face; compare or not compare, cloud-thunder drums the lightning."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0380a29",
+          "ToLb": "0380b10",
+          "Kwic": "元宵，秉拂。「古者道：『我心似秋月，碧潭光皎潔，無物堪比倫，教我如何說？』又有道：『我心似燈籠，點火內外紅，有物堪比伊，明朝日出東。』者兩箇漢雖是一期施設，未免傍人簡點。一箇貪觀天上月，忘卻室中燈；一箇閉戶守孤燈，孤負天邊月。爭似而今元宵之夜、放燈之節，室中有燈，天上有月，燈月交輝，光光相接，一燈然出百千燈，一月影分千萬月，燈也處處看得見，月也處處看得著，撞著兩箇醉張三，元是一雙李大伯。然雖如是，若是將心比擬，則了無干涉。何故？聽我重說偈言：我心不是物，休云燈與月，知君不能薦，我今盡情說。薦後如何？剎那遊過百餘城，燈元是火，卻與者裏不別。」",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Liao. Yuan'an Liao owns the lantern-festival deployment: holding the whisk on lantern night he raises the old one's autumn-moon verse against the lantern verse, faults each for one side — one greedy for the sky moon forgets the room lamp, one shuts the door over a lone lamp betrays the moon — then having lit lamp and moon to inter-shine, re-verses: my mind is not a thing, speak not of lamp and moon."
+        },
+        {
+          "RelPath": "J/J37/J37nB399.xml",
+          "FromLb": "0751c13",
+          "ToLb": "0751c20",
+          "Kwic": "復云：「今夜正當翫月之際，參府張公送新燈籠供佛，不妨再拈一二則古話應個時節。昔日，寒山大士云：『我心似秋月，碧潭光皎潔，無物堪比倫，教我如何說？』又有古德云：『我心似燈籠，點火內外紅，有物堪比倫，明朝日出東。』」師云：「也是徐六擔板各見一邊，各與三十拄杖。山僧見處也要諸人共知：我心非月亦非燈，道有言無總葛藤。」打一圓相，云：「含裹十虛常妙淨，亙今亙古任騰騰。」",
+          "MasterName": "Tianshu Xingzhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianshu Xingzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB399.xml). Recorded Sayings of Chan Master Tianshu Zhi of Helin. Tianshu Xingzhi owns the mid-autumn deployment: moon-gazing night, given a new lantern for the Buddha, he raises the great worthy Hanshan's autumn-moon verse and the old worthy's lantern verse, grants both carry the plank on one shoulder each seeing one side, gives each thirty staff blows, and states his own seeing: my mind is neither moon nor lamp, saying is and saying is not are all vine-tangle."
         }
       ],
       "SourceTexts": [

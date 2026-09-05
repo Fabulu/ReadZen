@@ -12,3 +12,4 @@ feedback-counterexamples: Context decides whether the eyebrow movement marks rec
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: flick up the eyebrows; blink above the brows
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +6 occurrences (target 8; tier1/2 only, lamp excluded); new works 6; recompiled hardPass

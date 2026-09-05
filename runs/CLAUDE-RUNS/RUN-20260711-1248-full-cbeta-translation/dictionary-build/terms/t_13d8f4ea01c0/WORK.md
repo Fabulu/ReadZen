@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 不計功程得便休 as the recurrent second hal
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: when the fishing rods are all cut down, plant bamboo again
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

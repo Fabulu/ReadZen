@@ -51,6 +51,63 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: independent five-house discussion."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0293b27",
+          "ToLb": "0293b29",
+          "Kwic": "閱天童判語挑燈細閱天童判，忤逆聞雷不膽寒。潦倒為憐三尺子，竟年筆舌未曾乾",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: his poem headed on reading Tiantong's verdicts runs - by lamplight closely reading Tiantong's judgments, the rebel hears thunder and is not terrified; out of pity for the shabby three-foot lad his brush and tongue have not dried all year."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0470b02",
+          "ToLb": "0470b07",
+          "Kwic": "臘八日，新戒弟子等請上堂。「大眾！還知釋迦老子今日事麼？阿僧祗劫得來，一睹明星喪卻，說甚智慧德相？總是妄想執著。諸方把墨順朱，神鼎應病下藥，不是盡法無民，只要掀翻海嶽，從教忤逆聞雷，體取紅旗閃爍。正恁麼時，且道甚處見他端的？鸞鳳衝霄跡莫留，還他擺斷黃金索",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Shending Yikui. Yikui Yuankui owns the retained deployment: at the December-eighth sermon for the newly ordained he says the World-Honored One threw away what he gained through countless kalpas at one glimpse of the morning star - all of it is deluded attachment; the various quarters rub ink along vermilion, but Shending prescribes for the illness: not exterminating the dharma with the people, only overturning seas and peaks, letting the rebel hear the thunder and taking up the red banner's flash."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0272b07",
+          "ToLb": "0272b09",
+          "Kwic": "示實功鄭居士曾割肝救母割肝救母未稱孝，忤逆聞雷方報恩。世出世間奇特事，當陽一句獨為尊",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: his verse for the layman Zheng Shigong, who once cut his liver to save his mother, rules that cutting the liver to save her is not yet filial - the rebel hearing the thunder is what requites the kindness; of the world's rare affairs the one sentence in the open is alone most honored."
         }
       ],
       "SourceTexts": [

@@ -12,3 +12,4 @@ feedback-counterexamples: Local context decides whether the peace-song is earned
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: sing a song of peace; proclaim easy peace
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +6 occurrences (target 8; tier1/2 only, lamp excluded); new works 6; recompiled hardPass

@@ -32,3 +32,4 @@ feedback-counterexamples: 聊 keeps the opening expressly provisional; it was no
 feedback-scope: the exact expression in the retained Tier-1/2 passages.
 lookup-probes: provisionally opening a line / narrow thread of access / release between holding and letting go / provisional expedient for the unresponsive
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

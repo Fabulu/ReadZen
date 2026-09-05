@@ -50,6 +50,75 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: independent direct verse deployment."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0106a02",
+          "ToLb": "0106a13",
+          "Kwic": "師云大眾凡看古今公案先須得句而後知義義句昭然意趣深解若脫略言句其義不全得失難辯其間擒縱殺活抑揚𭣣放何從而得之也老僧閱古尊宿集舉和尚錄中刪去以坐具摵一摵云慧覺罪過句豈非集者自失一隻眼也且妙喜分明道賔則始終賔主則始終主二大老驀劄相逢主賔互換直下發明臨濟心髓苟非徹證向上巴鼻具出常情正眼未免作得失論量今日眾中莫有為瑯琊出氣者麼眾無語師高聲說頌云虎踞龍蟠展大機當陽著著不思議就中各顯藏鋒句惹得時人取次疑",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin. Tianyin Yuanxiu owns the retained deployment: assembly address on the Langye-Ju exchange, citing Miaoxi's guest-and-host ruling and calling the two elders' sudden meeting the direct flowering of Linji's marrow."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0103a06",
+          "ToLb": "0103a12",
+          "Kwic": "忽都達兒狀元入山，上堂。舉：玉泉浩布褌，因東坡居士微服相訪，浩問云：尊官何姓？坡云：姓秤，是秤天下長老的秤。浩唾地云：這一唾重多少？坡休去。師云：玉泉是作家宗匠，東坡是當世大儒，驀劄相逢，發揮此道，盡謂東坡休去，秤尾無星，殊不知八兩半斤總在自家手裏。雖然如是，也須扶起玉泉。只如他道：這一唾重多少？多少人道不得。直饒道得，更與一唾",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: hall address for a visiting scholar raising the Yuquan-Dongpo encounter, calling their sudden meeting the display of this Way with the scale-weight in one's own hand."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0700b05",
+          "ToLb": "0700b11",
+          "Kwic": "故有印白上人之造端、文節法師始終成。此更有三箇漢，如常不輕現三頭六臂，敲磕無限頂門，親見法華一會，諸佛同時驀劄相逢機輪互換，使現前人人眉光炤破今古去也。還有明證者麼？杖人適於舟中有一偈子，對眾拈出以似諸公：『載得鐘聲震水雲，筆尖不點已成文；裴公風度今猶在，孤鶩殘霞落一群。』」",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelang of Tianjie. Juelang Daosheng owns the retained deployment: hall address on the renaissance patrons and the Lotus assembly, where all buddhas at once suddenly meet and the wheels of the mechanism interchange."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0050b04",
+          "ToLb": "0050b06",
+          "Kwic": "復林文學送字畫復林文學送字畫驀劄相逢，傾湫倒嶽，居士夜明珠錯撒紫羅帳裏，令貧道不識好惡，向文不加點處走漏消息也。呵呵。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan, letters. Poshan Haiming owns the retained deployment: reply letter thanking a literatus for calligraphy and paintings, opening that their sudden meeting emptied the ravine and toppled peaks."
         }
       ],
       "SourceTexts": [

@@ -51,6 +51,98 @@
             }
           ],
           "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Wuzu Fayan owns the retained deployment: independent raising of the four-line realization verse and its family inheritance."
+        },
+        {
+          "RelPath": "X/X70/X70n1398.xml",
+          "FromLb": "0593b04",
+          "ToLb": "0593b09",
+          "Kwic": "上堂。山前一片閑田地，叉手叮嚀問祖翁。幾度賣來還自買，為憐松竹引清風。老東山和尚與麼投機落草不少，諸人還點檢得出麼？山前一片閑田地，不立一塵空界至。叉手叮嚀問祖翁，了無南北與西東。幾度賣來還自買，不知却有何憑據？為憐松竹引清風，祖禰不了，殃及兒孫",
+          "MasterName": "Haiyin Zhaoru",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Haiyin Zhaoru",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1398.xml). Recorded Sayings of Chan Master Haiyin Zhaoru. Haiyin Zhaoru owns the retained deployment: opening his hall talk at Mount Ruijun he recites the old Dongshan verse of the idle field before the mountain and asking the ancestor with folded hands, then answers it with his own re-versification, naming Old Dongshan's casting about and warning that an unfinished ancestor brings harm on sons and grandsons."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0732c09",
+          "ToLb": "0732c14",
+          "Kwic": "不見五祖演和尚悟道投機頌云：「山前一片閒田地，叉手叮嚀問祖翁；幾度賣來還自買，為憐松竹引清風。」使演公不是自參自悟、自到自證，安得自述明悟如此？今之學者飄蕩塵情昧滅心性，大似迷子落他鄉，絕無一念思歸故土，安能叮嚀叉手親問祖翁，而自知現成家業有此松竹清風之可受用哉",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: instructing the trainee Runbai he cites master Wuzu Yan's enlightenment opportunity-matching verse, arguing that only because Yan woke through his own inquiry could he describe his own awakening so, and pressing Runbai on whether he too can ask the ancestor with folded hands."
+        },
+        {
+          "RelPath": "J/J29/J29nB230.xml",
+          "FromLb": "0248c08",
+          "ToLb": "0248c11",
+          "Kwic": "上堂。「山前一片閒田地，叉手叮嚀問祖翁。幾度賣來還自買，唯憐松竹引清風。祖師如此道，將謂投機，殊不知白雲萬里。何故？田地現成無界限，自來買賣不從人",
+          "MasterName": "Shaweng Huihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shaweng Huihai",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. Shaweng Huihai owns the retained deployment: raising the patriarch's verse — with one variant word, pitying the pine and bamboo — he grants it looks like meeting the moment, then overturns it: the field is ready-made without boundary, and its buying and selling never depended on anyone."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0531c22",
+          "ToLb": "0531c26",
+          "Kwic": "故東山老祖曰：『山前一片閒田地，叉手叮嚀問祖翁。幾度賣來還自買，為憐松竹引清風。』者裏見得徹，正好勤力耕耘，加護營衛，息滅貪嗔癡，莊嚴戒定慧，則七情不能擾、六賊不能害，在在寶所，觸處光輝",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: his evening instruction says the temple site held no fewer dust before the temple existed and no more after, quotes the Old Ancestor of the East Mountain's verse, and tells the assembly that seeing it through they should plow and weed it and adorn it with the precepts, so it shines wherever they touch."
         }
       ],
       "SourceTexts": [

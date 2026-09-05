@@ -50,6 +50,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue owns the retained deployment: independent active raising of Budai's one-coin demand."
+        },
+        {
+          "RelPath": "J/J28/J28nB211.xml",
+          "FromLb": "0449c25",
+          "ToLb": "0449c27",
+          "Kwic": "元宵，示眾。「銀華徹夜，爆竹驚天，眨上眉毛，程途萬千。惟此一事實，乞我一文錢，蹋翻水底月，迸出火中蓮。燈月交輝牽埜興，竿木隨身入市廛",
+          "MasterName": "Jizong Che",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jizong Che",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB211.xml). Recorded sayings of the master herself (季總徹禪師語錄, nun abbot, lantern-day address). Jizong Che owns the retained deployment: her lantern-day verse runs 惟此一事實，乞我一文錢，蹋翻水底月，迸出火中蓮， sealed by 燈月交輝牽執興，竿木隨身入市廛."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0351b04",
+          "ToLb": "0351b05",
+          "Kwic": "驅耕夫牛，揚良馬鞭。便恁麼去，且見一邊；不恁麼去，猶隔三千。畢竟如何？乞我一文錢",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Written verse of the master himself (介菴進禪師語錄, 覺禪人請 patron-request piece). Jie'an Jin owns the retained deployment: closing the request-verse he sets the riddle 便恁麼去，且見一邊；不恁麼去，猶隔三千。畢竟如何？乞我一文錢."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0640a22",
+          "ToLb": "0640a29",
+          "Kwic": "秋雨瀰漫，灑醍醐於大地；丹楓錯落，布錦繡於千江。芙蓉呈笑面，月桂吐真機，步步無非寶藏，頭頭總是家珍。怎奈懷寶迷邦，不解轉身就父？若是具眼豪傑，全身擔荷、覿體承當，所謂我本無心有所希求，今此寶藏自然而至，正好駕無底船、撒漫天網，釣吞舟之巨鰲、打沖霄之彩鳳。雖然，更有一人在千人萬人之中，不背一人、不向一人，且道此人具何面目？」卓拄杖，云：「長憶明州憨布袋，逢人乞我一文錢",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded sayings of the master himself (百愚禪師語錄, Qinglong Longfu abbacy hall talk). Baiyu Jingsi owns the retained deployment: evoking the one among thousands who faces no one and turns from no one, he seals the talk 卓拄杖，云：長憶明州憨布袋，逢人乞我一文錢."
         }
       ],
       "SourceTexts": [

@@ -56,6 +56,74 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: direct house appraisal."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0565a05",
+          "ToLb": "0565a09",
+          "Kwic": "上堂僧問如何是臨濟下事師云五逆聞雷學云如何是雲門下事師云紅旗閃爍學云如何是曹洞下事師云馳書不到家學云如何是溈仰下事師云斷碑橫古路僧禮拜師云何不問法眼下事學云留與和尚師云巡人",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters, Wuzu Fayan's Baiyun-mountain Haihui section. Wuzu Fayan owns the originating deployment: asked in hall what the matter under the Yunmen house is, he answers red banners flashing, giving the five-house answers in one breath from the five-fold perverse hearing thunder to the watchman caught at night."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0138b22",
+          "ToLb": "0138b29",
+          "Kwic": "圓通殿請上堂，僧問：「獨踞寶華弘祖道，五家宗旨請師分。」師云：「逐一問將來。」進云：「驅耕奪食，玄要齊施，如何是臨濟宗？」師云：「擊塗毒鼓。」進云：「上下和平，針來線去，如何是曹洞宗？」師云：「斷碑橫古路。」進云：「關山嶮巇，劍刃施為，如何是雲門宗？」師云：「紅旗閃爍。」進云：「暗合機輪，不留朕跡，如何是溈仰宗？」師云：「把芥投針。」進云：「山色溪聲，全身獨露，如何是法眼宗？」師云：「凌霄峰頂，不是人間。」",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: at the Yuantong hall request a monk asks him to divide the five houses' aims, and to the Yunmen house of sword-blade work over perilous passes he answers red banners flashing."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0698c25",
+          "ToLb": "0698c28",
+          "Kwic": "秪這一句子，有時如斷碑橫古路，使他失後亡前；有時如忤逆聞雷，使他偷心立死；有時如馳書不到家，使他叫屈無分；有時如紅旗閃爍，使他驀地迷魂；有時如巡人犯夜，使他自投法網",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: his Hupao hall talk catalogues the workings of this one sentence — sometimes like a broken stele across the ancient road, sometimes like the perverse son hearing thunder, sometimes like red banners flashing that strike the soul unawares, sometimes like the watchman caught out at night."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0782b07",
+          "ToLb": "0782b11",
+          "Kwic": "三玄三要第一玄，動靜不干絕眾緣，更闌萬籟聲俱寂，禪者徒勞著眼看。第二玄，威風凜凜劍光寒，紅旗閃爍乾坤淨，電轉星飛過碧天",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: versifying the three mysteries in his appraisal-verse section, he sets the second mystery as awesome wind and cold sword-light, red banners flashing the world clean, lightning wheeling and stars flying across the azure sky."
         }
       ],
       "SourceTexts": [

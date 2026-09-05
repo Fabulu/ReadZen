@@ -17,3 +17,4 @@
   - limiting evidence: The formula describes compassionate activity; its presence does not make every surrounding doctrinal explanation a separate lexical sense.
 - r7-vetting-20260905: U+043E replaced with ASCII o in an occurrence AttributionNote (draft, entry, receipts regenerated); semantic job line added.
 - r7-kwic-repair-20260905: restored 1 elided occurrence kwic(s) to contiguous document slices (r7 batch-builder window elision defect); FromLb/ToLb set to the restored span's lines.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

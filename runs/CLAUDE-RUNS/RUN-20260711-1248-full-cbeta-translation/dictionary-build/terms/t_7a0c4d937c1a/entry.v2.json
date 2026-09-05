@@ -61,6 +61,74 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0090b01",
+          "ToLb": "0090b04",
+          "Kwic": "天高東南，江河淮濟注於海，而海不溢。地傾西北，日月星辰繫於空，而空不低。人人鼻直眼橫，日日晝明夜暗。諸佛不出世，祖師不西來。佛法徧天下，談玄口不開。會麼？釋迦老子在西天，文殊大士居東土",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: his hall talk runs through sky high southeast and earth tilted northwest, then everyone's nose straight and eyes level with day bright and night dark, while no buddha comes forth and no patriarch comes west."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0555b02",
+          "ToLb": "0555b05",
+          "Kwic": "盡大地是箇解脫門，生于斯，死于斯，去者去，來者來，要且無生死去來之相，盡大地是沙門一隻眼，晝明夜暗，主山高，案山低，你諸人無端被人換去",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Seven-Session Recorded Sayings of Monk Muyun. Muyun Tongmen owns the retained deployment: at the Lantern-day thanks for the bath attendant he declares the whole earth one eye of the renunciant — day bright, night dark, host mountain high, table mountain low — which the assembly has had swapped away for no reason."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0253c02",
+          "ToLb": "0253c05",
+          "Kwic": "如未徹悟，正值深秋，萬竅怒號，百物齊鳴，未免亂汝耳根；晝明夜暗，赤白青黃，障汝眼睛。興忘得喪，生老病死，壞汝四大；業識茫茫，生住異滅，移汝心田",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: telling the assembly at the Baoen hall that without breakthrough the deep-autumn clamor disorders the ear, day bright night dark with its colors blocks the eye, and gain and loss wear down the four elements."
+        },
+        {
+          "RelPath": "J/J34/J34nB306.xml",
+          "FromLb": "0420a11",
+          "ToLb": "0420a14",
+          "Kwic": "山僧自到此間，玄玅機關和身坐斷，現成人境雙手打開，秪是晝明夜暗、春暖秋涼，有時林木欣欣、泉流活活，繁花競艷、豐草向榮",
+          "MasterName": "Neishao Zhizhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Neishao Zhizhong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. Neishao Zhizhong owns the retained deployment: since the mountain monk arrived, he says, the subtle machinery is sat through with the whole body and the finished person-and-scene flung wide open — it is just day bright night dark and spring warm autumn cool."
         }
       ],
       "SourceTexts": [

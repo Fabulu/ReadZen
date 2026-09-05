@@ -74,6 +74,110 @@
             "ReviewedBy": "Batch51 systemic repair",
             "ReviewedUtc": "2026-07-29T15:00:00Z"
           }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0729a15",
+          "ToLb": "0729a19",
+          "Kwic": "舉僧問乾峰十方薄伽梵一路涅槃門未審路頭在什麼處峰以拄杖劃云在者裏師拈起扇子云扇子㪍跳上三十三天築著帝釋鼻孔東海鯉魚打一棒雨似盆傾相似會麼",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Yunmen Kuangzhen section of the Guzunxu Yulu, studio exchanges. Yunmen Wenyan owns the retained deployment: taking up the fan after the Qianfeng exchange to say the fan somersaults to the thirty-third heaven and strikes Indra's nose."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0855b13",
+          "ToLb": "0855b17",
+          "Kwic": "南山起雲，北山下雨，白日相逢，把火照路。拈拄杖，云：拄杖子𨁝跳上三十三天，築著帝釋鼻孔，穿過你諸人髑髏。諸人還知痛痒麼？若知去，長連牀上有粥有飯；若也不知，托鉢盂向湖南城裏喫粥喫飯。卓拄杖，下座。",
+          "MasterName": "Cuiyan Kezhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cuiyan Kezhen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Cuiyan Zhen section of the Xugu Zunxu Yuyao. Cuiyan Kezhen owns the retained deployment: closing hall address varying the image to the staff somersaulting to the thirty-third heaven and striking Indra's nose, piercing the assembly's skulls."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0081a01",
+          "ToLb": "0081a08",
+          "Kwic": "上堂，舉：僧問乾峯：十方薄伽梵，一路涅槃門，未審路頭在什麼處？峯以拄杖畫一畫，云：在這裏。師云：白雲萬里。僧舉前話問雲門，門云：扇子𨁝跳上三十三天，築著帝釋鼻孔，把東海鯉魚打一棒，雨似盆傾。師云：白雲萬里。忽有人出來問：天寧與麼批判，還愜得二大老意麼？向他道：白雲萬里。呵呵呵，囉囉哩，囉囉哩，剎剎塵塵知幾幾？十字街頭石敢當，忽然吸竭滄溟水",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: hall address raising the Qianfeng road-head case with Yunmen's fan-and-Indra answer, judging each turn white clouds ten thousand miles."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0265a18",
+          "ToLb": "0265b08",
+          "Kwic": "示眾云。曲說易會。一手分付。直說難會。十字打開。勸君不用分明語。語得分明出轉難。不信試舉。看。舉。僧問乾峯。十方薄伽梵。一路涅盤門。未審。路頭在甚麼處快馬不如鈍坑峯以拄杖一畫云。在這裏且信一半僧舉。問雲門疑則別參門云。扇子𨁝跳上三十三天。築著帝釋鼻孔乞漢語東海鯉魚打一棒。雨似盆傾。會麼會麼恁麼解說更難理會。師云。越州乾峯禪師。僧問。十方薄伽梵。一路涅盤門。未審路頭在甚麼處。此問本出楞嚴經第五。此阿毘達磨。十方薄伽梵。一路涅盤門。未審路頭門戶在甚麼處。若依經解此義。如來自說。與圓通張本。第六卷中。文殊方揀圓通也。若衲僧分上。天童曾道。十方無壁落。從本來元沒遮欄。四面亦無門。只這裏便是入處。所以乾峯一畫云。在這裏。不知者往往喚。作乾峯與這僧指路。不然道。與這僧畫斷更不他游。決不是這箇道理。爾不見。雲門注解得。八米九糠。黃龍南云。乾峯一期指路。曲為初機。雲門乃通其變",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Congrong'an Lu case sixty-one with Wansong's running comments on Hongzhi's verses. Wansong Xingxiu owns the retained deployment: case presentation carrying Yunmen's fan-and-Indra answer, then his comment tracking how Yunmen unlocked Qianfeng's single stroke."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0835b15",
+          "ToLb": "0836a02",
+          "Kwic": "上堂：仲冬嚴寒，三界無安。富者快樂，貧者饑寒。不識元旨，錯認定盤。何也？牛頭安尾上，北斗面南看。上堂：一滴滴水，一滴滴凍。天寒人寒，風動幡動。雲門扇子𨁝跳上三十三天，築著帝釋鼻孔。東海鯉魚打一棒，雨似盆傾。不出諸人十二時中尋常受用",
+          "MasterName": "Wanan Daoyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanan Daoyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). An Hei Dou Ji anthology section of recorded sayings of Wanan Daoyan of Donglin. Wanan Daoyan owns the retained deployment: midwinter hall address quoting Yunmen's fan-and-Indra line and ruling it nothing beyond the assembly's everyday use through the twelve hours."
         }
       ],
       "SourceTexts": [

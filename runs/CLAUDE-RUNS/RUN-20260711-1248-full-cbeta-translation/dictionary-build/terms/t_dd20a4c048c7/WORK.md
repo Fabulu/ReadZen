@@ -12,3 +12,4 @@ feedback-counterexamples: Retain the staff as physical travel gear.
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: shoulder the chestnut staff crosswise; itinerant departure
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +5 occurrences (target 7; tier1/2 only, lamp excluded); new works 5; recompiled hardPass

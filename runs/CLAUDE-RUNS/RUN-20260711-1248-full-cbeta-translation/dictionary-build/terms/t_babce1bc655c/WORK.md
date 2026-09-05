@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 此地無銀二兩 or its 三十兩 variant; the 
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: a commoner buys three sheng of wine; The overcompensating second half of a denial proverb
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

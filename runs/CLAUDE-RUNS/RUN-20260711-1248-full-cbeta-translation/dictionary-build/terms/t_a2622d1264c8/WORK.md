@@ -21,3 +21,4 @@
 feedback-inference-verdict: LICENSED — the compounding-a-wrong verdict is the smallest reproducible inference from the retained deployments; the Floating-Cup encounter stays one inherited family and the later verdicts are adjudicated separately.
 feedback-scope: the exact expression in the retained Tier-2 passages.
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +1 occurrences (target 5; tier1/2 only, lamp excluded); new works 1; recompiled hardPass

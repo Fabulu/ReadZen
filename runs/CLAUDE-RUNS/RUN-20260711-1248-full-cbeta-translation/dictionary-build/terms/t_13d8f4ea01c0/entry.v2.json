@@ -50,6 +50,58 @@
             }
           ],
           "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: independent direct abbot's-quarters address."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0707c03",
+          "ToLb": "0707c05",
+          "Kwic": "釣竿斫盡重栽竹，不計功程得便休。休，休，黃河冰已合，四野凍雲流。嘉魚何處？雪覆孤舟，手冷漁磯難下鉤。」",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the retained deployment: hall address verse opening on cutting the fishing rod down entirely and planting bamboo afresh, resting once the work is done, then asking where the fine fish is with snow covering the lone boat and the hand too cold to set the hook."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0174a06",
+          "ToLb": "0174a08",
+          "Kwic": "即今眾中莫有恁麼人麼釣竿斫盡重栽竹不計功程得",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: discourse on the great doubt, asking whether someone of that stamp stands in the assembly now, cutting the fishing rod down entirely and planting bamboo afresh, resting without reckoning the work's distance."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0281c02",
+          "ToLb": "0281c05",
+          "Kwic": "任公子得若魚。離而腊之。自制浙河以東。蒼梧以北。莫不厭若魚者。所謂。釣竿斫盡重栽竹。不計功程得便休。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong's Congrong'an Record appraisal of TianTong's old-case verses. Wansong Xingxiu owns the retained deployment: appraisal of the one-finger case retelling Zhuangzi's Ren the Master angling the giant fish that fed everyone from the Zhe river east, calling it precisely cutting the fishing rod down entirely and planting bamboo afresh, resting without reckoning the work."
         }
       ],
       "SourceTexts": [

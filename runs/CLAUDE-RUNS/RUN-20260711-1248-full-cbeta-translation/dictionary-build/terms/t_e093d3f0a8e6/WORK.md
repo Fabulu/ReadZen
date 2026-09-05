@@ -12,3 +12,4 @@ feedback-counterexamples: Govern 青州棗 and 萬物無過出處好 as the recu
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: a Zhengzhou pear; The first fruit in Wuzu Fayan's concrete answer about flowering and bearing fruit, regularly paired with Qingzhou jujubes and the claim that everything is best from its place of origin
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

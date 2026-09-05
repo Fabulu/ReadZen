@@ -51,6 +51,75 @@
           ],
           "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue directly answers the face-to-face-matter question with the retained phrase.",
           "ActorAttribution": null
+        },
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0414a01",
+          "ToLb": "0414a03",
+          "Kwic": "去去實不去，途中好善為；來來實不來，路上莫虧危。古人恁麼道，法華即不然，去時乘興去，迴時乘興迴，與君重敘話，鼻孔大頭垂。",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Extensive Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained deployment: hall address overturning the ancients' going-and-coming verse with his own — going in high spirits, returning in high spirits, chatting with you afresh, the nostrils hanging down over the big head."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0207c09",
+          "ToLb": "0207c12",
+          "Kwic": "一日兩上堂，肚空莫得說，兩眼似流星，諸人須領略。」遂左右顧視，云：「還會麼？義海淵深，全歸顧鑒；品類幽杳，盡入照臨。頭圓象天，足方履地，眉毛橫八字，鼻孔大頭垂，人人瑰偉丈夫兒，個個英靈禪衲子。",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: hall address surveying the assembly that the head rounds like heaven and the feet tread earth, eyebrows slanting in eight-character lines and nostrils hanging down over the big head, every one a magnificent man."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0192a11",
+          "ToLb": "0192a12",
+          "Kwic": "心月禪人請上堂大都鼻孔大頭垂覿面也須見一回",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: hall address at the Mind-Moon practitioner's request, that for the most part the nostrils hang down over the big head, yet one must still meet it face to face once."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0208b09",
+          "ToLb": "0208b10",
+          "Kwic": "馳求佛祖緣何事？放捨身心正此時。一念不生三際斷，元來鼻孔大頭垂。",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: encomium verse on the nineteenth patriarch Kumaralata, closing that with one thought unborn the three times are cut off, and all along the nostrils were hanging down over the big head."
         }
       ],
       "SourceTexts": [

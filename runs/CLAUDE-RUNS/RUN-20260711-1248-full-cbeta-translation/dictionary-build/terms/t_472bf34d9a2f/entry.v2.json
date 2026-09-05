@@ -61,6 +61,40 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "X/X71/X71n1416.xml",
+          "FromLb": "0820b18",
+          "ToLb": "0821a03",
+          "Kwic": "據室，我者裏一切只是尋常，你若來弄機關，誇敏手，向毒蛇頭上揩癢，猛虎頷下解鈴，拄杖子未打你在。何故？有盤根錯節方可施利器，有銀山鐵壁方可展鉗槌",
+          "MasterName": "Shuzhong Wuyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shuzhong Wuyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1416.xml). Recorded chamber-taking address of the master himself (恕中無慍禪師語錄, 住黃巖瑞巖淨土禪寺語錄, 據室). Shuzhong Wuyun owns the retained deployment: 我者裏一切只是尋常，你若來弄機關，誇敏手，向毒蛇頭上揩癢，猛虎頷下解鈴，拄杖子未打你在。"
+        },
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0118b06",
+          "ToLb": "0118b07",
+          "Kwic": "上堂。問答畢，乃云：「呵佛罵祖，毒蛇頭上揩癢；說性談心，饑鷹爪下奪食",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded hall talk of the master himself (昭覺竹峰續禪師語錄, 住成都府威鳳山昭覺禪寺語錄). Zhufeng Zhenxu owns the retained deployment: 上堂。問答畢，乃云：呵佛罵祖，毒蛇頭上揩癢；說性談心，饑鷹爪下奪食。"
         }
       ],
       "SourceTexts": [

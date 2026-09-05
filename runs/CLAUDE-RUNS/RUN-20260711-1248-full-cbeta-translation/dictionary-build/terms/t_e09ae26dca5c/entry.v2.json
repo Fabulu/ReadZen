@@ -50,6 +50,121 @@
             }
           ],
           "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: independent repeated direct use in active encounter scenes."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0127b26",
+          "ToLb": "0127b27",
+          "Kwic": "師云：「不傳不然，熱碗鳴聲。我今無說，汝亦無聞。」下座，以拄杖旋風打散",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Panshan Baoji",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: after weighing the differing answers of Panshan, Ciming, and Jingshan on the road above, he declares he has no saying and none hear, leaves the seat, and whirls the staff to scatter the assembly."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0112b01",
+          "ToLb": "0112b06",
+          "Kwic": "因眾議德山托鉢因緣示眾師喝住云諸人還知趙州當時問南泉離四句絕百非請師道泉便歸方丈州云者老漢尋常口吧吧地不消一問諸人若識得南泉歸方丈便識得德山低頭處師復喝云諸人會則便會傍家走什麼瞎漢拈拄杖旋風打散",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: halting the assembly's debate on the Deshan alms-bowl case, he shouts that those who get it get it at once and calls the skulkers blind men, then lifts the staff and whirls it to scatter them."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0281c16",
+          "ToLb": "0281c22",
+          "Kwic": "即使從水平王廟前一逕西來到寨前灣了，不知那裡是祥符寺。極靈利漢子入門看額，認得祥符寺真了。行得三兩步，又被堵泥墻換卻眼睛。及至僧堂前，知客接著，放下腰包，引上方丈，揖侍者通報，尚不許你相見，等閒容你途路邊耽閣。」驀亞身曰：「且道即今與諸人相見也未？」眾擬議，以拄杖旋風打散",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: stooping to ask whether he has met the assembly yet or not, and as they hesitate he whirls the staff to scatter them."
+        },
+        {
+          "RelPath": "J/J39/J39nB448.xml",
+          "FromLb": "0429c04",
+          "ToLb": "0429c06",
+          "Kwic": "眾兄弟須向本參上親見一番，出言吐氣，自然如龍得水、似虎逢山，不須風雷遍地波瀾，山僧為諸人發揮去也。」遂以拄杖旋風打散",
+          "MasterName": "Lingji Xingguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingji Xingguan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB448.xml). Recorded Sayings of Chan Master Lingji. Lingji Xingguan owns the retained deployment: telling the brothers to see into their own root koan so their words flow like dragons finding water, he says the mountain-monk will unfold it for them, then whirls the staff to scatter the assembly."
+        },
+        {
+          "RelPath": "J/J38/J38nB428.xml",
+          "FromLb": "0904c17",
+          "ToLb": "0904c19",
+          "Kwic": "乃云：「棒如雨點，喝似雷轟，于中薦得，正是癡狂外邊走。且道過在甚麼處？」舉拄杖云：「戰場休眨眼，八面取真魂。」遂下座，旋風打散",
+          "MasterName": "Mixing Jiren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mixing Jiren",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB428.xml). Recorded Sayings of Chan Master Mixingren. Mixing Jiren owns the retained deployment: telling the assembly that finding it amid rain-like blows and thunder-like shouts is madness walking outside, he raises the staff on the battlefield of the eye and whirls it to scatter them as he leaves the seat."
         }
       ],
       "SourceTexts": [

@@ -57,6 +57,75 @@
             }
           ],
           "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong raises the verse with 不見楊岐和尚云; Yangqi Fanghui owns the quoted verse."
+        },
+        {
+          "RelPath": "T/T48/T48n2022.xml",
+          "FromLb": "1018c06",
+          "ToLb": "1018c13",
+          "Kwic": "演祖曰。師翁初住楊岐。老屋敗椽僅蔽風雨。適臨冬莫。雪霰滿床。居不遑處。衲子投誠願充修造。師翁却之曰。我佛有言。時當減。劫高岸深谷遷變不。常安得圓滿如意自求稱足。汝等出家學道。做手脚未穩。已是四五十歲。詎有閒工夫。事豐屋耶。竟不從。翌日上堂曰。楊岐乍住屋壁疎。滿床盡撒雪珍珠。縮却項。暗嗟吁。翻憶古人樹下居",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2022.xml). Precious Instructions of the Chan Grove, sourcing the passage to the Guanglu. Yangqi Fanghui owns the originating deployment: Fayan relates that his grandfather-teacher first resided at Yangqi in an old building whose broken rafters barely kept off wind and rain, sleet covered the bed at winter's edge, and when the patch-robed monks offered to fund repairs he refused — how could full satisfaction be self-sought in an age of decline — and next day in hall gave this verse. Fayan is named as the reteller in the same context."
+        },
+        {
+          "RelPath": "X/X70/X70n1381.xml",
+          "FromLb": "0832a18",
+          "ToLb": "0832b04",
+          "Kwic": "參學圓照等編上堂，舉古人道：楊岐乍住屋壁疎，滿堂盡布雪珍珠。縮却項，暗嗟吁，翻憶古人樹下居。師云：楊岐鬪勝不鬪劣，秀峰鬪劣不鬪勝。秀峰乍住沒親疎，箇箇盡懷滄海珠，滿眼湖山看不足，釋迦彌勒是他奴。",
+          "MasterName": "Po'an Zuxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Po'an Zuxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1381.xml). Recorded Sayings of Chan Master Po'an Zuxian, Xiufeng Chan Cloister section. Po'an Zuxian owns the counter-verse deployment: raising the old one's sparse-wall verse, he counter-verses that Yangqi contends for the excellent not the poor, Xiufeng for the poor not the excellent — newly resident at Xiufeng with no near or far, everyone harboring a pearl of the great sea, lake and mountain past seeing, Sakyamuni and Maitreya his slaves."
+        },
+        {
+          "RelPath": "X/X71/X71n1410.xml",
+          "FromLb": "0324a10",
+          "ToLb": "0324a16",
+          "Kwic": "冬至，小參。諸法空無相，佛種從緣起。拈主丈，云：主丈子化作摩醯首羅，向三十三天說秘密王三昧。卓主丈，云：冬前冬後，沙飛石走。復舉：楊岐和尚示眾云：楊岐乍住屋壁疎，滿床盡撒雪珍珠。縮却項，暗嗟吁，翻憶古人樹下居。師拈云：楊岐和尚大似家無儋石之儲，要與陶朱公鬦富。若也會得，方可稱其兒孫；其或未然，有寒暑兮促君壽，有鬼神兮妬君福。",
+          "MasterName": "Tanfang Shouzhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tanfang Shouzhong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1410.xml). Recorded Sayings of Chan Master Tanfang Shouzhong. Tanfang Shouzhong owns the appraisal deployment: at winter-solstice informal talk, after the staff becomes Mahesvara preaching in the thirty-three heavens, he raises master Yangqi's instruction verse and appraises it — Yangqi greatly resembles a house without a picul of stores yet vying in wealth with the Lord of Tao — and only one who meets it may be called his descendant."
         }
       ],
       "SourceTexts": [

@@ -50,6 +50,74 @@
             }
           ],
           "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: direct reference to the presently audible bells and drums."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0816b03",
+          "ToLb": "0816b04",
+          "Kwic": "語其物務則崇門大殿之開闢。廣堂密室之容受。雖一飯亦必考鐘伐鼓以警其幽顯。俾之均沾而悉被",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Authored treatise of the master himself (天目中峰廣錄, 山房夜話下). Zhongfeng Mingben owns the retained deployment: ranking the Way, the teaching, and material provision, he rules that in the third register even a single meal must be announced — 語其物務則崇門大殿之開闢…雖一飯亦必考鐘伐鼓以警其幽顯，俾之均沾而悉被也."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0127c05",
+          "ToLb": "0127c06",
+          "Kwic": "本色住山人，且無刀斧痕，殿上考鐘伐鼓，聲聲寒滿耳門，驗人端貴知音，聽響終非莽鹵",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded hall talk of the master himself (三峰藏和尚語錄, 住海虞三峰清涼禪院語). Hanyue Fazang owns the retained deployment: his own hall verse — 本色住山人，且無刀斧痕，殿上考鐘伐鼓，聲聲寒滿耳門，驗人端貴知音，聽響終非莽鹵."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0588a17",
+          "ToLb": "0588b02",
+          "Kwic": "上堂。十四十五，考鐘伐鼓。結却布袋頭，剎海無行路。日不待火而熱，月不待風而凉。是人知有南斗七、北斗八一句又作麼生道？良久，云：幸然平似鏡，何用曲如鈎",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded hall talk of the master himself (了菴清欲禪師語錄, 初住集慶路中山開福禪寺語錄). Liao'an Qingyu owns the retained deployment: his own full-moon hall verse — 上堂。十四十五，考鐘伐鼓。結却布袋頭，剎海無行路。日不待火而熱，月不待風而凉…一句又作麼生道？"
+        },
+        {
+          "RelPath": "X/X72/X72n1439.xml",
+          "FromLb": "0844a05",
+          "ToLb": "0844a06",
+          "Kwic": "敬陳香積，高敷法座，考鐘伐鼓，虔請說法，又添一番狼藉",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1439.xml). Recorded assembly talk of the master himself (為霖道霈禪師餐香錄, 寶善上堂). Weilin Daopei owns the retained deployment: acknowledging the assembly's welcome he says — 今日滄溟眾上座遠自延平來，敬陳香積，高敷法座，考鐘伐鼓，虔請說法，又添一番狼藉."
         }
       ],
       "SourceTexts": [

@@ -28,3 +28,4 @@
 feedback-inference-verdict: LICENSED — the summit-as-exposed-extreme reading is the smallest reproducible inference from the four contrast deployments; the passages that demand movement are kept as part of the same reading.
 feedback-scope: the exact expression in the retained Tier-2 passages.
 opening-interpretation-verdict: PASS — the retained witnesses license the reader-ready opening at the stated scope.
+- 2026-09-05 r7-depth: +2 occurrences (target 6; tier1/2 only, lamp excluded); new works 2; recompiled hardPass

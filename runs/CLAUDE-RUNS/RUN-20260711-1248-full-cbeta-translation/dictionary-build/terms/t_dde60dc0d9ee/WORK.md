@@ -12,3 +12,4 @@ feedback-counterexamples: Keep the sword image and its attested companion lines 
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: sword between the eyebrows
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

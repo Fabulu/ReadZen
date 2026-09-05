@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 吾心似秋月 and the claim that no comparison 
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: a blue-green pool, clear and luminous; The second line of Hanshan's moon-and-pool verse, repeatedly raised so masters can accept, criticize, or outdo its attempted comparison for mind
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

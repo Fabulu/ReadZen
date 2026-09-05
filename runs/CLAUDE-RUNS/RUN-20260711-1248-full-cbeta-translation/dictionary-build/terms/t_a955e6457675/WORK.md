@@ -15,3 +15,4 @@
   - every retained explanation claim has an occurrence key;
   - no unanchored definition, contrast, or distinct deployment remains in the reviewed concordance;
   - limiting evidence: Keep the two opposed roads together where the source does; later masters quote, reverse, and apply the inherited pair rather than defining literal roads.
+- 2026-09-05 r7-depth: +1 occurrences (target 5; tier1/2 only, lamp excluded); new works 1; recompiled hardPass

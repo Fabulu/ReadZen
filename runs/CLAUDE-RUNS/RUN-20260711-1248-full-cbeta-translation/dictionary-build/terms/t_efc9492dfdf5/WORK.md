@@ -12,3 +12,4 @@ feedback-counterexamples: The phrase judges a residual manner exposed by the loc
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: the vulgar air still has not been cleared away
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

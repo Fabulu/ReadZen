@@ -51,6 +51,86 @@
             }
           ],
           "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: independent question-and-answer use."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0167c05",
+          "ToLb": "0167c08",
+          "Kwic": "自今而後，猶望座下于宗乘中喫緊留心，或與老朽一機一境、一扣一激，得推門落臼，則知三乘等教所蘊學業，皆闡演玄妙理致邊事，於宗乘極則一著子尤較霄壤",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: closing his reply letter he hopes the correspondent will attend closely to the Chan vehicle, so that through one device one scene with him, one probe one prod, the correspondent attains pushing the door and falling into the mortar and sees the three-vehicle studies as elaborated wonders beside the ultimate Chan stroke."
+        },
+        {
+          "RelPath": "X/X70/X70n1401.xml",
+          "FromLb": "0709a17",
+          "ToLb": "0709b03",
+          "Kwic": "若是有志丈夫，正好向者裏晦迹韜光，潛行密用，或三十年、二十年，以至一生，終無他念，踏得實實落落，穩穩當當，直教纖塵不立，寸草不生，往來無礙，去住自由，報緣遷謝之日，管取推門落臼",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1401.xml). Chan Essentials of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: his instruction promises the resolute man who hides his tracks and works secretly for thirty years or a whole life, until no speck of dust stands, that on the day his karmic support dissolves he will surely push the door and fall into the mortar."
+        },
+        {
+          "RelPath": "J/J29/J29nB229.xml",
+          "FromLb": "0238c17",
+          "ToLb": "0238c20",
+          "Kwic": "佛祖眾生塗污此名，撿點將來誰之過歟？」喝一喝，曰：「委悉麼？無纖毫過患，有莫大威光。世尊不說說，迦葉不聞聞。天上有星皆拱北，人間無水不朝東。只要諸兄覿面承當，管教推門落臼",
+          "MasterName": "Falan Yuancheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Falan Yuancheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB229.xml). Recorded Sayings of Chan Master Falan Cheng. Falan Yuancheng owns the retained deployment: holding the staff-seat at the Tianwang first-seat quarters he sums up that the World-Honored speaks without speaking and Kasyapa hears without hearing, so the brothers need only face it and take it on, and he guarantees they push the door and fall into the mortar."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0160c25",
+          "ToLb": "0160c28",
+          "Kwic": "凡師家說法，無不從向上一句子，任學人因緣到，即推門落臼，不則亦令其發起疑情。或從前依倚處、恬適處，就一句子下，一回逗漏，一回倒斷",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: answering his attendant on the Zhaozhou-Nanquan exchange he states that every teacher's dharma proceeds from the one transcendent phrase, and when the trainee's conditions arrive it pushes the door and falls into the mortar; failing that, it at least stirs up the feeling of doubt."
         }
       ],
       "SourceTexts": [

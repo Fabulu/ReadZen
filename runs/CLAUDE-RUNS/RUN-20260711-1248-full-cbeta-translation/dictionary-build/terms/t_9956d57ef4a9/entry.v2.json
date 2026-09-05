@@ -51,6 +51,99 @@
             }
           ],
           "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Linji Yixuan owns the retained deployment: independent raising and appraisal of Linji's paired answer."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0550a05",
+          "ToLb": "0550a15",
+          "Kwic": "吾宗到汝，大興於世。師到翠峰，峰問：甚處來？師曰：黃檗來。峰云：黃檗有何言句指示於人？師云：黃檗無言句。峰云：為甚麼無？師云：設有，亦無舉處。峰云：但舉看。師云：一箭過西天。師小參，曰：有時奪人不奪境，有時奪境不奪人，有時人境兩俱奪，有時人境俱不奪。克符問：如何是奪人不奪境？師曰：煦日發生鋪地錦，嬰兒垂髮白如絲。符曰：如何是奪境不奪人？師曰：王令已行天下徧，將軍塞外絕煙塵。符曰：如何是人境俱奪？師曰：并汾絕信，獨處一方。符曰：如何是人境俱不奪？師曰：王登寶殿，野老謳歌。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhiyi Kefu",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings, the Linji Yixuan section under its own heading. Linji Yixuan owns the originating deployment: at his evening informal talk at Zhenzhou he sets out the four processes — sometimes taking the person not the circumstances, sometimes the circumstances not the person, sometimes both together, sometimes neither — and when Kefu asks what taking the person not the circumstances is, he answers with the warm sun spreading brocade over the ground, an infant's hanging hair white as silk."
+        },
+        {
+          "RelPath": "X/X67/X67n1301.xml",
+          "FromLb": "0470b06",
+          "ToLb": "0470b17",
+          "Kwic": "至晚，小參，示眾云：有時奪人不奪境，有時奪境不奪人，有時人境俱奪，有時人境俱不奪。克符出眾，便問：如何是奪人不奪境？濟云：煦日發生鋪地錦，嬰兒垂髮白如絲。如何是奪境不奪人？濟云：王令已行天下徧，將軍塞外絕烟塵。如何是人境俱奪？濟云：并汾絕信，獨處一方。如何是人境俱不奪？濟云：王居寶殿，野老謳歌。符禮拜，濟便打。臨濟宗風從來捋虎鬚，致使後代兒孫爪牙卓朔地。他一日示眾云：我於先師處三度喫六十棒，如蒿枝子拂相似。如今更思一頓棒喫，誰為下手？須得箇茆廣漢大膽出來。擬議之間，濟便打。雪竇拈來，眼親便見，云：放去較危，收來太速。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhiyi Kefu",
+              "Roles": [
+                "questioner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1301.xml). Record of Foguo's Beat-the-Rhythm Sections, Yuanwu Keqin's own picking and appraisal of the old cases. Yuanwu Keqin owns the appraisal deployment: in case twenty-four, after Puhua asked in hall and was beaten, Kefu asked why and was beaten too, that same evening Linji set out the four processes, Kefu stepped from the crowd and asked after the first, and Linji gave the warm-sun-and-infant answer; after the last answer and Kefu's bow he beat him again, and Yuanwu's own appraisal follows — Linji's house wind has always stroked the tiger's whiskers, leaving later descendants' claws and teeth planted awry — with Xuedou's picking quoted at the close."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0482c09",
+          "ToLb": "0482c16",
+          "Kwic": "此是臨濟大師第二番破碎。小參，曰：『有時奪人不奪境，有時奪境不奪人，有時人境兩俱奪，有時人境俱不奪。』克符問：『如何是奪人不奪境？』師曰：『煦日發生鋪地錦，嬰兒垂髮白如絲。』符曰：『如何是奪境不奪人？』師曰：『王令已行天下遍，將軍塞外絕煙塵。』符曰：『如何是人境兩俱奪？』師曰：『并汾絕信，獨處一方。』符曰：『如何是人境俱不奪？』師曰：『王登寶殿，野老謳歌。』符於言下大悟。",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhiyi Kefu",
+              "Roles": [
+                "questioner"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the treatise deployment: weighing what the elder Dahui did for the Linji school — not breaking it, he says, but annotating it again for students who could not get through — he sets Linji's evening informal talk with the four processes beside Kefu's four questions and Linji's four answers, counts the whole exchange the first annotation, then pairs the fourfold shout and the four grades of shining and using as further annotations, warning that copying the outline without knowing one's own birthplace star does not reach it."
         }
       ],
       "SourceTexts": [

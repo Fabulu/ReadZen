@@ -52,6 +52,57 @@
             }
           ],
           "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained deployment: independent recorded-sayings deployment."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0073c03",
+          "ToLb": "0073c04",
+          "Kwic": "示付衣成居士跳出金剛圈，吞得栗棘蓬，破山門下過，莫道不相逢",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan Ming. Poshan Haiming owns the retained deployment: his farewell verse for layman Fu Yicheng runs - leap out of the vajra ring, swallow the thorny chestnut burr; pass beneath Poshan's gate and do not say we never met."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0981c25",
+          "ToLb": "0982a03",
+          "Kwic": "將心就一處研究。不捨晝夜。驀然一覷覷透。一咬咬斷。通上徹下。全體是箇大解脫門。活鱍鱍地。見佛見祖。如破草鞋聞禪與道。如風遏樹。亦未是泊頭處在。正好入大爐鞴中煅煉。直教聖凡情量。徹底淨盡。透得金剛圈。吞得栗棘蓬。逗到大休大歇之場。身心若枯木寒灰。大棒打不回頭。千人萬人。羅籠不住",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Chan Master Mi'an. Mi'an Xianjie owns the retained deployment: his instruction says to fling life itself into a single point of investigation day and night till one glance sees through and one bite severs - then, seeing buddha and ancestors as worn straw sandals, one is fit for the great forge: feelings and measures of sage and commoner burnt clean, having passed through the vajra ring and swallowed the thorny chestnut burr, one arrives at the ground of great rest, body and mind like cold ash on dead wood that no great staff turns back and no thousand or ten thousand can pen in."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0219c01",
+          "ToLb": "0219c07",
+          "Kwic": "明德都寺，汝決欲做他種草，須吞得栗棘蓬，透得金剛圈始得。且道二六時中，四威儀內，擬吞栗棘蓬，又被牙齒礙；擬透金剛圈，又被一莖草絆腳。果然吞得透得，一莖草拈作丈六金身，現出瓊樓玉殿，牙齒縫裏放出八萬四千種光明，照見大地眾生，一時成佛，豈不是奇特大丈夫也",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: telling director Mingde that whoever would truly become seed and shoot for the school must swallow the thorny chestnut burr and pass through the vajra ring, he asks - through the twelve hours and four postures, trying to swallow the burr one's teeth obstruct, trying to pass the ring a single stalk of grass trips the foot; yet if truly swallowed and passed, one stalk of grass becomes the sixteen-foot golden body."
         }
       ],
       "SourceTexts": [

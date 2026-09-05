@@ -86,6 +86,86 @@
             "ReviewedBy": "Batch50 final-two repair",
             "ReviewedUtc": "2026-07-29T12:45:17Z"
           }
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0894b22",
+          "ToLb": "0894b24",
+          "Kwic": "問金鱗不點額時如何師云左眼半斤右眼八兩。",
+          "MasterName": "Dongshan Shouchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Shouchu",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Dongshan Shouchu section of the Guzunxu Yulu. Dongshan Shouchu owns the retained deployment: asked what the golden-scaled fish is before it nudges its forehead over the dragon gate, he answers left eye half a catty, right eye eight ounces."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0153a09",
+          "ToLb": "0153a11",
+          "Kwic": "一時淨盡自然會去。金烏急左眼半斤。快鷂趕不及。火焰裏橫身玉兔速右眼八兩。姮娥宮裏作窠窟",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Yuanwu's Biyanlu appraisal of Xuedou's old-case verses. Xuedou Chongxian owns the retained deployment: eulogy verse on Dongshan's three pounds of hemp, opening with the golden crow swift, left eye half a catty, and the jade rabbit quick, right eye eight ounces, nesting in the palace of the moon lady."
+        },
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0413a08",
+          "ToLb": "0413a10",
+          "Kwic": "泥佛不度水，金佛不度鑪，木佛不度火。大眾！且道古佛度箇什麼？古佛不度，衲僧秤子。為什麼如此？左眼半斤，右眼八兩。",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Extensive Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained deployment: hall address raising Zhaozhou's line that the clay buddha does not cross water and asking what the old buddha crosses, answering that the patchwork monk's scale shows left eye half a catty and right eye eight ounces."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0493b13",
+          "ToLb": "0493b18",
+          "Kwic": "當晚小參，問答罷，師云：摩竭提國。乃拍禪床一下，云：親行此令，若是摩霄俊鶻，自合知時；其或尚留觀聽，沖上座不惜這一條窮性命子，將三百六十骨節、八萬四千毛竅盡情打開，颺在閙市叢中，左眼半斤、右眼八兩，在衲僧無星秤子上秤斤定兩，一點瞞諸人不得",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment: evening small-assembly talk where the Chong senior seat spares not his poor life, flinging open every bone-joint and pore into the busy market with left eye half a catty and right eye eight ounces, weighed to the ounce on the patchwork monk's starless scale where nothing can cheat the assembly."
         }
       ],
       "SourceTexts": [

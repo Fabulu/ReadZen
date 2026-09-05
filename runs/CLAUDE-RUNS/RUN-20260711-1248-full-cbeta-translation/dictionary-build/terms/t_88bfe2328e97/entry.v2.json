@@ -72,6 +72,49 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0187a01",
+          "ToLb": "0187a20",
+          "Kwic": "只如招慶一日問羅山云。巖頭道。恁麼恁麼不恁麼不恁麼。意旨如何。羅山召云。大師。師應諾。山云。雙明亦雙暗。慶禮謝而去。三日後又問。前日蒙和尚垂慈。只是看不破。山云。盡情向爾道了也。慶云。和尚是把火行。山云。若恁麼據大師疑處問將來。慶云。如何是雙明亦雙暗。山云。同生亦同死。慶當時禮謝而去。後有僧問招慶。同生亦同死時如何。慶云。合取狗口。僧云。大師收取口喫飯。其僧却來問羅山云。同生不同死時如何。山云。如牛無角。僧云。同生亦同死時如何。山云。如虎戴角。末後句。正是這箇道理。羅山會下有僧。便用這箇意。致問招慶。慶云。彼此皆知。何故我若東勝身洲道一句。西瞿耶尼洲也知。天上道一句。人間也知。心心相知。眼眼相照。同條生也則猶易見。不同條死也還殊絕。釋迦達磨也摸索不著。南北東西歸去來。有些子好境界。夜深同看千巖雪。且道是雙明雙暗。是同條生是同條死。具眼衲僧試甄別看。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Luoshan Daoxian",
+              "Roles": [
+                "respondent",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Yuanwu's Biyanlu appraisal of Xuedou's old-case verses. Yuanwu Keqin owns the retained deployment: commentary on the final-word case retelling Luoshan calling the Zhaoqing master, who answered, and Luoshan saying doubly bright and doubly dark, then three days later answering what is doubly bright and doubly dark with born together and dying together, closing with his challenge to the assembly — say, is it doubly bright doubly dark, born on one branch or dead on one branch — let the eye-equipped patchwork monk sort it out."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0676b12",
+          "ToLb": "0677a02",
+          "Kwic": "保福問：巖頭道：與麼與麼，不與麼不與麼。意作麼生？師召福，福應諾。師曰：雙明亦雙暗。福禮謝。三日後，却問：前日蒙和尚垂慈，祇為看不破。師曰：盡情向汝道了也。福曰：和尚是把火行山。師曰：若與麼，據汝疑處問將來。福曰：如何是雙明亦雙暗？師曰：同生亦同死。福又禮謝而退。別有僧問福：同生亦同死時如何？福曰：彼此合取狗口。僧曰：和尚收取口喫飯。其僧却問師：同生亦同死時如何？師曰：如牛無角。曰：同生不同死時如何？曰：如虎帶角。",
+          "MasterName": "Luoshan Daoxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Luoshan Daoxian",
+              "Roles": [
+                "respondent",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperial Selection of Sayings, Luoshan Daoxian section. Luoshan Daoxian owns the retained deployment: Baofu asking the meaning of Yantou's thus-and-not-thus, Luoshan calling him, and on his answer saying doubly bright and doubly dark, then three days later answering what is doubly bright and doubly dark with born together and dying together, and ruling to the same monk that born together dying apart is an ox without horns and born together dying together a tiger wearing horns."
         }
       ],
       "SourceTexts": [

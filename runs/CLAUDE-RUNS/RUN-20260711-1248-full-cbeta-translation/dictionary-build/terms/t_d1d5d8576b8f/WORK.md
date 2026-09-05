@@ -13,3 +13,4 @@ feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: when tea comes drink tea
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
 - r7-vetting-20260905: occ1 re-attributed to the unnamed examined monk (reviewed-unnamed, r02-style ActorAttribution); Guxue Zhe is examiner and record owner; the 遇飯喫飯 companion link is preserved through a FamilyHarvest accept edge.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

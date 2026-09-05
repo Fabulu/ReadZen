@@ -50,6 +50,71 @@
             }
           ],
           "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment: parallel edition of the same discourse."
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0507c06",
+          "ToLb": "0507c09",
+          "Kwic": "乃云：「眼睫橫亙十方，眉毛上透乾坤，下透黃泉。諸人未得箇入頭，須得箇入頭；既得箇入頭，須得箇出頭。祗如到江吳地盡作麼生去？隔岸越山多向那裏住？有人道得轉身句不著，還草鞋錢",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Xiaotang Yunfen of Hongshan. Xiaotang Yunfen owns the retained deployment: after a question exchange sealed with the mountain-monk's own fault, his thereupon-saying opens with the eye-lashes stretching across the ten directions, the eyebrows penetrating heaven and earth above and the yellow springs below, and carries it into his own demand that the assembly find an entry and then an exit, asking how one turns at the river's end of Wu and where one dwells among the hills of Yue - whoever speaks the turning-body phrase escapes the straw-sandled debt."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0220a12",
+          "ToLb": "0220a15",
+          "Kwic": "舉：雲門云：眼睫橫亘十方，眉毛上透乾坤，下透黃泉，須彌塞却你咽喉。還有人會得麼？若有人會得，拽取占波共新羅鬪頟。拈云：雲門大師前頭嚇殺人，後頭笑殺人，若人知得，笑須三十年",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yunmen Wenyan owns the exact utterance inside Yuejiang Zhengyin's hall raising: the eye-lashes stretch across the ten directions, the eyebrows penetrate heaven and earth above and the yellow springs below, Sumeru stops your throat - anyone who understands, drag Champu here to butt heads with Silla; Yuejiang's pick says master Yunmen terrifies in front and kills with laughter behind - who knows it must laugh thirty years."
+        },
+        {
+          "RelPath": "L/L154/L154n1638.xml",
+          "FromLb": "0014a13",
+          "ToLb": "0014b04",
+          "Kwic": "眉毛上透乾坤下透黃泉須彌塞却汝咽喉還有人會得麼若有人會得拽取占波共新羅鬬額。拈雲門和尚說禪猶若萬里無人烟一間破屋裏手舞足蹈高聲唱言我是如來應供正徧知名行足自喜自悲自言自語還有知音者麼對牛彈琴",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xueqiao Yuanxin",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1638.xml). Recorded Sayings of Chan Master Xueqiao Yuanxin, fascicles seven to ten. Yunmen Wenyan owns the exact utterance inside Xueqiao Yuanxin's raising: the eye-lashes stretch across the ten directions, the eyebrows penetrate heaven and earth above and the yellow springs below, Sumeru stops your throat - anyone who understands, drag Champu to butt heads with Silla; Xueqiao's pick says Yunmen's preaching is like sole dancing and loud singing in a ruined house on ten thousand uninhabited miles, self-delighting and self-grieving - any knowing hearer? Lute played to an ox."
         }
       ],
       "SourceTexts": [

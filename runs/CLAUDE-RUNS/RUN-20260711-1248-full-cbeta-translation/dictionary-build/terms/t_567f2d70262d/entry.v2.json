@@ -50,6 +50,86 @@
             }
           ],
           "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Wuzu Fayan owns the retained deployment: quoted variant utterance (山僧即不然…) raised inside the appraisal compilation's chain."
+        },
+        {
+          "RelPath": "J/J36/J36nB365.xml",
+          "FromLb": "0816a03",
+          "ToLb": "0816a05",
+          "Kwic": "即今因齋慶讚，畢竟如何話會？」師云：「端坐受供養，施主常安樂。」進云：「恁麼則性海波深龍睡穩，心王不動自昇平。」師云：「阿誰不願",
+          "MasterName": "Shipu Chaozhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shipu Chaozhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB365.xml). Recorded Sayings of Chan Master Shipuzhi. Shipu Chaozhi owns the retained deployment: pressed at the winter-solstice meal blessing on how to mark it, he answers straight with the seated recipient and the benefactor at ease, then asks who would not wish it so."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0775b19",
+          "ToLb": "0775b22",
+          "Kwic": "天下名山到囙脚年深辛苦與韈著而今老大不能行手裏把柄破木杓白雲即不然脚也不能著草鞋手亦不能把木杓端坐受供養施主常安樂",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Longya Judun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters, Baiyun Shouduan section. Baiyun Shouduan owns the retained deployment: raising Longya's verse of the worn traveler who can no longer walk, he reverses it — his own feet cannot even don straw sandals nor hands hold the broken ladle, so he sits receiving offerings while the benefactor is at ease."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0583b21",
+          "ToLb": "0583b23",
+          "Kwic": "妙喜云：『相罵饒你接嘴，相唾饒你潑水。』天寧曰：『僧投寺裡宿，賊打不防家。』」師云：「廣慧又不然，端坐受供養，施主常安樂",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: after the quoted elders' quips on Ehu's question, he answers for his own Guanghui temple that unlike them he sits and receives offerings and the benefactor is at ease."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0707b15",
+          "ToLb": "0707b19",
+          "Kwic": "今此一會知識，施者、受者各各同具金剛正眼。施者若不具金剛正眼，如何來此選佛場中廣修供養？受者若不具金剛正眼，如何來此選佛場中端坐受供？所以道：端坐受供養，施主常安樂。卻笑淨名小家子，生心受施，種種呵責",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the retained deployment: his meal-blessing talk grants giver and receiver alike the vajra eye, cites the seated recipient with the benefactor at ease, then laughs off Vimalakirti's rebuke of mentally taking food."
         }
       ],
       "SourceTexts": [

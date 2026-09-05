@@ -50,6 +50,80 @@
             }
           ],
           "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: independent direct explanation."
+        },
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0185a15",
+          "ToLb": "0185a17",
+          "Kwic": "朕兆未萌，會要借功明位；影響纔露，還須借位明功。分一句子，菊花紅蓼正芬芳；借一句子，月船親到水雲鄉",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue owns the defining deployment: expounding the five positions of ruler and minister he closes the sweep at the two borrowings — before the sprouts of signs appear one must borrow the merit to make the position clear, and once shadow and echo barely show one must further borrow the position to make the merit clear."
+        },
+        {
+          "RelPath": "T/T47/T47n1987A.xml",
+          "FromLb": "0531b23",
+          "ToLb": "0531c01",
+          "Kwic": "夫先師所明偏正與兼帶。等用先師本意。不為明功進修之位兼涉教句。直是格外玄談要絕妙旨。秖明從上物體現前。冥叶古聖之道。今見諸學士詮揀先人意度。似有誤彰音障不免聊為敘其差。當媿音貴在不混其功。於中或有借位明功借功明位。緣緒多端。功在臨時。看語來勢。不負來機。妙在佳致爾。",
+          "MasterName": "Caoshan Benji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1987A.xml). Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou. Caoshan Benji owns the doctrinal deployment: in his separate-time gloss on his late master's biased-and-correct with combined carriage, he says the late master's intent was no position of clarified merit for progressive practice, and that among them there are borrowings — borrowing the position to make merit clear or borrowing merit to make position clear — with many kinds of thread, the merit lying in the momentary occasion."
+        },
+        {
+          "RelPath": "X/X67/X67n1304.xml",
+          "FromLb": "0530a15",
+          "ToLb": "0530a16",
+          "Kwic": "後天童立四借借：一曰借位明功、二曰借功明位、三曰借借不借借、四曰全超不借借。",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan's Commentary on Danxia Zichun's Verses on Ancient Cases. Linquan Conglun owns the enumerating deployment: commenting on the Jiashan case he states that later Tiantong set up the four borrowings — first borrowing the position to make the merit clear, second borrowing the merit to make the position clear, third borrowing-borrowing without borrowing-borrowing, fourth wholly transcending without borrowing-borrowing — and that without long practice in the Caodong true line one stumbles at every turn."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0757c16",
+          "ToLb": "0757c19",
+          "Kwic": "既爾轉功就位，全在得力兒孫。若乃借位明功，須知父祖不出。父慈子孝，嚴嚴密室不通風；君敬臣忠，巍巍寶殿排班早；直須正偏不立、手足情忘，一道虛明，觸途宛爾。",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the applied deployment: at the memorial hall talk for layman Qiyuan's sister he opens with turning merit to position resting wholly in the effective descendants, and that if one borrows the position to make the merit clear, know that father and ancestor do not come out — father kind, son filial, the sealed chamber admits no wind."
         }
       ],
       "SourceTexts": [

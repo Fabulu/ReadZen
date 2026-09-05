@@ -68,6 +68,129 @@
             }
           ],
           "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: independent direct adaptation contrasting withered and thriving."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0172a02",
+          "ToLb": "0172a10",
+          "Kwic": "坐次，道吾、雲巖侍立，師指案山上榮枯二樹問道吾曰：「枯者是，榮者是？」吾曰：「榮者是。」師曰：「灼然一切處，光明燦爛去。」又問雲巖：「枯者是，榮者是？」巖曰：「枯者是。」師曰：「灼然一切處，放教枯澹去。」高沙彌忽至，師曰：「枯者是，榮者是？」彌曰：「枯者從他枯，榮者從他榮。」師顧道吾、雲巖曰：「不是，不是。」一橈兩橈不足貴，踏翻船子見宗風。蘆花冷落秋江上，多少行人話此中",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "verse-author",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang, old-case eulogies. Gao Shami owns the retained deployment inside Hanyue Fazang's raised case: with Daowu and Yunyan attending, Yaoshan points to the withered and thriving trees on the ridge; Daowu picks the thriving, Yunyan the withered, and when Gao Shami suddenly arrives and is asked the same, he answers let the withered remain withered as they will, let the thriving thrive as they will - and Yaoshan tells the two it is not so; Hanyue's eulogy verse on the boatman's oar follows.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted precedent",
+            "ActorLabel": "Gao Shami",
+            "ActorRole": "case-figure",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "彌曰 opens Gao Shami's quoted answer containing 枯者從他枯； the eulogy verse after the case belongs to the record owner Hanyue Fazang.",
+            "ReviewedBy": "r7-depth-curate-a4",
+            "ReviewedUtc": "2026-09-05T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1007b12",
+          "ToLb": "1007b19",
+          "Kwic": "上堂。舉。藥山與道吾雲嵓遊山次。見樹兩株一枯一榮。山乃問。榮者是枯者是。雲嵓云。榮者是。山云。若恁麼。一切處光明燦爛去。道吾云。枯者是。山云。若如是則一切處放教枯淡去。忽高沙彌至。山亦如是問。彌云。榮者從他榮。枯者從他枯。山乃顧道吾雲嵓云。不是不是。師云。藥山道箇不是不是。減他道吾雲巖多少威光",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "commentator",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Gao Shami owns the retained deployment inside Xutang Zhiyu's hall raising: touring the mountain with Daowu and Yunyan, Yaoshan sees two trees, one withered one thriving; Yunyan picks the thriving, Daowu the withered, and when Gao Shami suddenly arrives and is asked the same, he answers let the thriving thrive as they will, let the withered remain withered as they will - and Yaoshan tells the two it is not so; Xutang's pick says Yaoshan's double not-so dims the two attendants' majesty.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted precedent",
+            "ActorLabel": "Gao Shami",
+            "ActorRole": "case-figure",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "彌云 opens Gao Shami's quoted answer containing 枯者從他枯； the following 師云 appraisal belongs to the record owner Xutang Zhiyu.",
+            "ReviewedBy": "r7-depth-curate-a4",
+            "ReviewedUtc": "2026-09-05T00:00:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0986b02",
+          "ToLb": "0986b09",
+          "Kwic": "藥山惟儼禪師因道吾、雲嵒侍立次，師指案山上枯榮二樹問吾曰：「枯者是？榮者是？」曰：「榮者是。」師曰：「灼然一切處，光明燦爛去。」又問嵒：「枯者是？榮者是？」曰：「枯者是。」師曰：「灼然一切處，放教枯淡去。」高沙彌忽至，師曰：「枯者是？榮者是？」曰：「枯者從他枯，榮者從他榮。」師顧道吾、雲嵒曰：「不是，不是。」頌曰：「三鳥翩翩海上來，一雙飛去入瑤臺。可憐殺羽空山裏，獨立寒枝怨野梅",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "verse-author",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe'an Jingfan. Gao Shami owns the retained deployment inside Zhe'an Jingfan's raised case: Yaoshan, with Daowu and Yunyan standing in attendance, points to the withered and thriving trees; asked in turn, Daowu picks the thriving, Yunyan the withered, and when Gao Shami suddenly arrives and is asked the same, he answers let the withered remain withered as they will, let the thriving thrive as they will - and Yaoshan tells the two it is not so; Zhe'an's eulogy verse of three birds follows.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted precedent",
+            "ActorLabel": "Gao Shami",
+            "ActorRole": "case-figure",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "高沙彌忽至，師曰 introduces the question and the bare 曰 answer containing 枯者從他枯 belongs to the arriving novice, not the questioning master.",
+            "ReviewedBy": "r7-depth-curate-a4",
+            "ReviewedUtc": "2026-09-05T00:00:00Z"
+          }
         }
       ],
       "SourceTexts": [

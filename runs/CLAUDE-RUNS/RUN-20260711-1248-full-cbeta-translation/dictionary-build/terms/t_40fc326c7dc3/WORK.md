@@ -12,3 +12,4 @@ feedback-counterexamples: Bind the eaves-rain first half; do not impose a univer
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: lightning followed by later thunder; night lightning and thunder
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

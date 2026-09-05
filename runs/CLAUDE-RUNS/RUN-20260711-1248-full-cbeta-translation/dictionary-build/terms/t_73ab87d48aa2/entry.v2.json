@@ -51,6 +51,132 @@
             }
           ],
           "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent critical deployment."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0959a14",
+          "ToLb": "0959b11",
+          "Kwic": "梁山一曲歌，格外人難和。十載訪知音，未甞逢一箇。贊曰：益陽水急，白鹿松高。鶴睡清飛月魄，魚行細擲金梭。死水不藏龍，貶家賊向無生國。鄭音空亂雅，引胡人唱太平歌。衲衣事在密用中，拈來多破綻。正法眼指南華裏，用出幾誵訛。寰中天子，塞外將軍，與學人，塗糊自己。格外玄機，鈎頭絲線，釣獰龍，活葬洪波。一語許大陽上󳬴，令人惡心不少。十載在梁山唱曲，臨風掩耳應多。妙盡功亡，揮玉斧，夜修月轂。環虗機泯，駕仙槎，曉渡星河。更問亡僧遷化。紅爐焰上無絲線，竪拽橫拖。",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Liangshan Yuanguan",
+              "Roles": [
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Dayang Jingxuan",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Wujia Zhengzong Zan eulogy on Liangshan Yuanguan by the work's author. Xisou Shaotan owns the retained deployment: eulogy verse on Liangshan having the foreigner sing the peace song."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0875a06",
+          "ToLb": "0875a11",
+          "Kwic": "昨日有人從湖南來，說道：一路人家，家家竈裏有烟。寶峯聞了，不覺手之舞之，足之蹈之。願年年水碧山青，花紅柳綠，更有什麼事？良久，云：道泰不傳天子令，時清好唱太平歌。今日五月一，寶峯集四海禪和，不談玄，不說玅，共大眾商量。",
+          "MasterName": "Zhantang Wenzhun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Zhantang Zhun section of the Xugu Zunxu Yuyao. Zhantang Wenzhun owns the retained deployment: fifth-day assembly verse declaring the times so clear it is good to sing the peace song."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0148b07",
+          "ToLb": "0149a02",
+          "Kwic": "南泉示眾云馬大師道即心即佛又云非心非佛老僧即不恁麼不是心不是佛不是物恁麼道還有過也無趙州出禮拜歸眾僧問趙州適來禮拜歸眾意作麼生州云却問取和尚僧上問南泉適來諗上座意作麼生泉云他却領得老僧意𣅀。祖佛場中不展戈後人剛地起詨訛道泰不傳天子令時清休唱太平歌",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Longmen Foyan section of the Guzunxu Yulu with his verse comments on old cases. Foyan Qingyuan owns the retained deployment: verse on the Nanquan case ending that in clear times one rests from singing the peace song."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0762a11",
+          "ToLb": "0762a23",
+          "Kwic": "元文宗皇帝詔師開山大龍翔集慶寺上堂釋迦世尊捨金輪而登佛位今上皇帝從佛位而御金輪𭣣攝三千剎海於一印中具足八萬法門於一毫上如華嚴會上菩薩得無盡福德藏解脫門於一器中出生種種美味飲食又於眾會仰觀空中而雨種種珎寶隨眾生心悉令滿足然後得其寶者盡證法門食其味者咸成妙道無一塵而不具足佛事無一法而不圓滿正宗即今崇建寶坊闡揚法施諸天音樂不鼓自鳴梵唄詠歌自然敷奏十方菩薩咸集道塲八部天龍同伸慶讚還有不歷化城徑登寶所者麼擊拂子云四海已歸皇化裏時清休唱太平歌",
+          "MasterName": "Xiaoyin Daxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyin Daxin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Guangzhi Quanwu section of the Guzunxu Yulu. Xiaoyin Daxin owns the retained deployment: founding address at the imperial Longxiang Jiqing temple snapping the whisk that the seas are within imperial sway and clear times rest from the peace song."
+        },
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0349b05",
+          "ToLb": "0349b14",
+          "Kwic": "授帖日，陞座，云：莫有問話者麼？僧便出，師云：等閒垂釣。僧禮拜了，畫一圓相，師以右手拋向後；僧又畫一圓相，師以左手拋向後。僧歸眾，師云：更有什麼？僧無語，師拍膝云：龍頭虵尾。僧云：賊過後張弓。師乃笑，復云：明珠歷掌，別者還稀；寶鏡當臺，何人鑒照？鋒前一路，截斷眾流；言下千差，隨波逐浪。所以展則大千俱徧，不展則絲髮不存。與麼語話，猶是化門之說。且道不落化門一句作麼生道？道泰不傳天子令，時清休唱太平歌。謝了，又云：千峰壁立滑於苔，不惜眉毛露出來，直下早逾千萬里，那堪於此更徘徊？",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong owns the retained deployment: seal-conferring day answer that the one phrase beyond the teaching gate is that clear times rest from the peace song."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0453a16",
+          "ToLb": "0453a20",
+          "Kwic": "上堂。「現成公案，放汝三十棒。夫子門前講孝悌，撞著道伴交肩過。一生參學事畢，時清休唱太平歌。雖然如是，也須實到者箇田地。莫學矮子看戲，隨人哭笑，他時後日大有事在。且道：如何是自成自立一句？」以拂子擊禪床，下座。",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: hall address on the ready-made case ending a life of seeking study with clear times resting from the peace song."
         }
       ],
       "SourceTexts": [

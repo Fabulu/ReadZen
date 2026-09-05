@@ -15,3 +15,4 @@ opening-interpretation-verdict: licensed by the retained predicates and contrast
 - r7-vetting-20260905: U+043E replaced with ASCII o in an occurrence AttributionNote (draft, entry, receipts regenerated).
 - r7-kwic-repair-20260905: restored 2 elided occurrence kwic(s) to contiguous document slices (r7 batch-builder window elision defect); FromLb/ToLb set to the restored span's lines.
 - r7-review-concern-20260905: occurrence 2 master corrected from Yuanwu Keqin to Liangshan Kuoan Shiyuan (blind r1 concern; the headword sits in Kuo'an's authorial preface to the Ten Oxherding Pictures — X64n1269 內題 住鼎州梁山廓庵和尚十牛圖頌并序, B35n0194 宋師遠述並序; roster notes flag 'Kuoan Ze' as a mis-parse of 師遠); note, ContextMasters, RelatedMasters, Explanation re-aligned.
+- 2026-09-05 r7-depth: +5 occurrences (target 7; tier1/2 only, lamp excluded); new works 5; recompiled hardPass

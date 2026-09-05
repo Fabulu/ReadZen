@@ -71,6 +71,58 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0627b28",
+          "ToLb": "0627c03",
+          "Kwic": "張拙秀才參石霜，霜問：『何姓？』曰：『姓張名拙。』霜云：『覓巧尚不可得，拙自何來？』才豁然大悟，述偈曰：『光明寂照遍河沙，凡聖含靈共我家。一念不生全體現，六根纔動被雲遮。斷除妄想重增病，趨向真如亦是邪。隨順世緣無罣礙，涅槃生死等空花。』」",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: hall address raising Zhang Zhuo's awakening at Shishuang, quoting the whole verse through cutting off delusion adds illness anew and turning toward tathata is likewise wrong, then answering with his own poverty-matching verse."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0030a10",
+          "ToLb": "0030a16",
+          "Kwic": "你看張拙秀才參石霜，有箇入處，解道光明寂照遍河沙，凡聖含靈共我家。下邊兩句又註得好，一念不生全體現，六根才動被雲遮。有者秖認得箇昭昭靈靈底業識，他所以道：『要一念不生方見全體，六根才動便不是也。』下來又道：『斷除妄想重增病，趨向真如亦是邪。』玅玅看他得底人，出語不同，斷除是病，趣向亦是病。",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: discourse on Zhang Zhuo's entry point at Shishuang, quoting that cutting off delusion adds illness anew and turning toward tathata is likewise wrong, and grading that one who has gained it speaks differently, both cutting and turning being sickness."
+        },
+        {
+          "RelPath": "J/J28/J28nB204.xml",
+          "FromLb": "0209a05",
+          "ToLb": "0209a08",
+          "Kwic": "所以，張拙秀才云：『光明寂照遍河沙，凡聖含靈共我家，一念不生全體現，六根纔動被雲遮。斷除妄想重增病，趨向真如亦是邪，隨順世緣無罣礙，涅槃生死等空花。』",
+          "MasterName": "Binya Jian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Binya Jian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya Jian owns the retained deployment: induction hall address quoting Zhang Zhuo's full verse through cutting off delusion adds illness anew and turning toward tathata is likewise wrong, then ruling that in the school of proclamation it still lacks one move before the patchwork monk."
         }
       ],
       "SourceTexts": [

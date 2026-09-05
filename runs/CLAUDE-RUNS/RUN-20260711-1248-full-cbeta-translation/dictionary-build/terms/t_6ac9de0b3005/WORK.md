@@ -12,3 +12,4 @@ feedback-counterexamples: 剎 denotes monasteries or temple establishments here,
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: monasteries stand in sight of one another; temples facing one another
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

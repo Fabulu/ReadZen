@@ -61,6 +61,74 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "T/T48/T48n2014.xml",
+          "FromLb": "0396c02",
+          "ToLb": "0396c05",
+          "Kwic": "圓頓教勿人情。有疑不決直須爭。不是山僧逞人我。修行恐落斷常坑。非不非是不是。差之毫釐失千里。是則龍女頓成佛。非則善星生陷墜",
+          "MasterName": "Yongjia Xuanjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjia Xuanjue",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2014.xml). Yongjia's Song of Enlightenment by Yongjia Xuanjue. Yongjia Xuanjue owns the retained deployment: verse ruling that not-right and not-wrong differ by a hair's breadth yet miss by a thousand miles, the dragon girl becoming buddha on the yes and Shanxing sinking on the no."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0050b08",
+          "ToLb": "0050b12",
+          "Kwic": "上堂。「無花無酒近清明，興味蕭然是野僧，可惜這等俗漢未曾識野僧興味在。若識野僧興味底，不論冬凋夏長，自有靈山花可拈。那管缾罄囊空？自有曹山酒可喫。日暮啼鴉隨杖至，雨餘芳草任盤桓，大眾且道：他的是？山僧的是？」良久，云：「差之毫釐，隔以千里。」",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: hall address asking whose is the wild monk's savor and answering after a pause that the difference of a hair's breadth is separated by a thousand miles."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0987c14",
+          "ToLb": "0987c16",
+          "Kwic": "徽宗皇帝大忌。上堂。聖人無已。靡所不已。總塵剎無不是。差之毫釐失千里。仙仗飄颻去不還。從教六合清風起",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Chan Master Xutang. Xutang Zhiyu owns the retained deployment: memorial hall address for Emperor Huizong, that the whole field of dust-lands is none other than this, yet differing by a hair's breadth one misses by a thousand miles."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0549c18",
+          "ToLb": "0549c26",
+          "Kwic": "師一日問禪者云：「教中何以名實相？」禪者云：「實相者，離相之謂。」師云：「實相者，乃法性也。法性即性空，性空即緣會，緣會即諸法，故不可言實相離相，不若云諸相非相，則實相明矣。今時衲子心識麤淺，往往說全體現、說覿面不識。及徵驗之，皆未了性空緣會之旨，謬執諸相即實相，與佛祖意便霄壤相隔，以其未消聲色翳障，所謂差之毫釐，失之千里也。又有者，向諸相之外認實相。嗚呼！堅執世相，自謂證聖，凡夫而號帝王也。離相求真，自謂得法，外道而迷斷常也。",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Recorded Sayings of Chan Master Muyun, seven assemblies. Muyun Tongmen owns the retained deployment: instruction diagnosing present monks who mistake all marks for the real mark, differing by a hair's breadth and missing by a thousand miles from the intent of buddhas and patriarchs."
         }
       ],
       "SourceTexts": [

@@ -12,3 +12,4 @@ feedback-counterexamples: Bind 夜來何處火 and do not invent a symbolic iden
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: burned open an ancient grave; last night's fire
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +4 occurrences (target 6; tier1/2 only, lamp excluded); new works 4; recompiled hardPass

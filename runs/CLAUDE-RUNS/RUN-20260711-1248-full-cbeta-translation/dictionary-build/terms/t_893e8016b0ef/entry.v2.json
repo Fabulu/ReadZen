@@ -67,6 +67,74 @@
             "ReviewedBy": "V6 batch44 A+B constructor",
             "ReviewedUtc": "2026-07-29T10:45:00Z"
           }
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0007a15",
+          "ToLb": "0007a19",
+          "Kwic": "良久乃云：「今日十月十五，今古謂之開爐，老僧更指虛空是個爐子，其中山河、大地、草木、叢林，凡有事物俱是煤炭，世間僧俗、男女、一切人天皆在者個爐子裡苦樂逆順、聲色逼惱、晝夜煎熬，生情取捨遂成輪轉",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: his furnace-opening hall sermon has the old monk point to empty space as the furnace, with all monastics and laity inside it in suffering and pleasure, adversity and favor, scorched by sounds and forms day and night, whose stirrings of grasping become transmigration."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0062a13",
+          "ToLb": "0062a16",
+          "Kwic": "記得五祖師翁有兩言句：萬般存此道，一味信前緣。若存此道，則決定不雜用心，不壞常住，不惱眾，不傷物。若信前緣，則院子不分大小，利養不圖厚薄，苦樂逆順更無二致",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment: his written exhortation for a patron's scroll recalls Fifth Patriarch's two lines and glosses them - trusting prior conditions means the monastery knows no great or small, gain no thick or thin, and suffering-pleasure adversity-favor are all one sameness."
+        },
+        {
+          "RelPath": "X/X71/X71n1404.xml",
+          "FromLb": "0036a03",
+          "ToLb": "0036a08",
+          "Kwic": "即答云：我宗無語句，亦無一法與人參禪，只圖見性。若得見性，方是千了百當。從上無數大劫而來，諸佛諸祖，千聖萬聖，亦只明自心，見自性，傳此法。此法者，無傳之傳，是為真傳，名正法也。若有傳之傳，是為妄傳，非正法也。但每日苦樂逆順，逐旋消遣，惟要參究自己工夫，片時不輟",
+          "MasterName": "Wu'an Puning",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wu'an Puning",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu'an Puning. Wu'an Puning owns the retained deployment: answering one who bowed seeking a word to settle the one great matter, he instructs that each day's suffering and pleasure, adversity and favor, be dismissed one by one while investigating one's own work without pause."
+        },
+        {
+          "RelPath": "X/X70/X70n1393.xml",
+          "FromLb": "0384a10",
+          "ToLb": "0384a12",
+          "Kwic": "上堂，舉趙州問南泉云：如何是道？泉云：平常心是道。大眾，苦樂逆順，膏火相煎，剎那之間有萬生滅，作麼生得平常去",
+          "MasterName": "Pingshi Rudi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pingshi Rudi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi owns the retained deployment: his hall sermon raises Zhaozhou's ordinary-mind question, then tells the assembly that amid suffering and pleasure, adversity and favor, boiling like fat over fire with ten thousand births and deaths a finger-snap apart, how does one attain the ordinary."
         }
       ],
       "SourceTexts": [

@@ -50,6 +50,74 @@
             }
           ],
           "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: independent recorded-sayings use of the seasonal color pairing."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0938c18",
+          "ToLb": "0938c21",
+          "Kwic": "上堂二月仲春漸暄時來萬化可憐到處桃紅柳綠石頭也生暖煙驀拈拄杖擲下云有意氣時添意氣不風流處也風流喝一喝下座",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Yunan Zhenjing section of the Guzunxu Yulu. Zhenjing Kewen owns the retained deployment: mid-second-month hall address that when the season comes everywhere is peach-red and willow-green and even the stones give off warm mist."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0150c20",
+          "ToLb": "0150c23",
+          "Kwic": "為有道夢期入塔。「桃紅柳綠，盡是髑髏眼睛，不勞左顧右盻。日暖風和，盡是亡靈神識，何須說出說入？到者裏直下會得，無縫塔豁然大開；如或未然，春風昨日通消息，鳥語枝頭指向西。咄！」",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Shiyu Chan Master Fatan. Shiyu Mingfang owns the retained deployment: stupa eulogy ruling that peach-red and willow-green are all the dead one's eyes and the mild sun and wind all his spirit."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0048b30",
+          "ToLb": "0048c05",
+          "Kwic": "聖念請上堂。「桃紅柳綠，春色分明，惱人麥，秀花黃，誰家有計留住信？時光之易邁，莫逐境以蹉跎。舉古徵今，因今見古，千聖不傳向上路，得來只在腳尖頭。山僧若放過，三十年後遭伊簡責去；若弗放過，又作麼生道箇接手句？還委悉麼？天山一箭收功也，四海何愁不太平？」",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: memorial hall address opening on the peach-red and willow-green of a spring plainly displayed, then warning the assembly not to drift with the passing scene."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0194b09",
+          "ToLb": "0194b11",
+          "Kwic": "南泉因陸亙大夫舉天地同根話春到人間艸木知，桃紅柳綠盡同時，劉郎一去春歸也，徒使遊蜂戀舊枝",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yun'e. Yun'e Xi owns the retained deployment: verse-comment on the Nanquan same-root exchange, with spring's arrival known to the grasses and peach-red and willow-green all at once."
         }
       ],
       "SourceTexts": [

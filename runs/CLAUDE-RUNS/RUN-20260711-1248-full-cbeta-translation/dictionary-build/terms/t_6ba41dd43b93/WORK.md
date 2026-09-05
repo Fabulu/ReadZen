@@ -12,3 +12,4 @@ feedback-counterexamples: Keep 碧潭 as the pool and 光皎潔 as its luminous 
 feedback-scope: the exact expression in retained Chan sources.
 lookup-probes: a blue-green pool, its light pure and bright
 opening-interpretation-verdict: licensed by the retained predicates and contrasts.
+- 2026-09-05 r7-depth: +3 occurrences (target 5; tier1/2 only, lamp excluded); new works 3; recompiled hardPass

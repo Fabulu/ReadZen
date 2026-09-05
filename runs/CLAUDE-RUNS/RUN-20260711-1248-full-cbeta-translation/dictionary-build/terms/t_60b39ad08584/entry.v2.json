@@ -57,6 +57,88 @@
             }
           ],
           "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: his own variant presentation (高峰則不然), explicitly rewriting Xuedou Chongxian's line."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0856b01",
+          "ToLb": "0856b04",
+          "Kwic": "上堂：客從遠方來，遺我徑寸璧。中有四箇字，箇字無人識。雪竇只知開口，不覺舌長。清凉則不然，客從遠方來，遺我徑寸璧。中有四箇字，不必重拈出。何故？古篆分明。",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: hall address opening on Xuedou's guest-from-afar verse, the thumb-sized disc of jade left me with its four characters none can read, grading that Xuedou only knew to open his mouth and never noticed his tongue growing long, then speaking as Qingliang that the four characters need not be raised again — the ancient seal script is already clear."
+        },
+        {
+          "RelPath": "J/J37/J37nB396.xml",
+          "FromLb": "0730a08",
+          "ToLb": "0730a15",
+          "Kwic": "雪竇示眾云：「客從遠方來，遺我徑寸璧，中有四箇字，字字無人識。」佛鑑云：「客從遠方來，遺我徑寸璧，中有四箇字，不必重拈出。」高峰云：「客從遠方來，遺我徑寸璧，中有四箇字，字字無平仄。」拈卻四箇字又作麼生？雖然，且放過一著，蟠龍今日也要與三大老相見。客從遠方來，遺我徑寸璧，中有四箇字，且莫作字會。既不作字會，又作甚麼會？咄！",
+          "MasterName": "Zisu Chaoyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zisu Chaoyuan",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB396.xml). Recorded Sayings of Chan Master Panlong Zisu. Zisu Chaoyuan owns the retained deployment: old-case raising that strings Xuedou's hall address on the thumb-sized disc of jade left me with Fojian's and Gaofeng's respeakings, then lifting away the four characters, declaring that Panlong today will still meet the three elders, respeaking the guest-from-afar lines himself and ruling they must not be taken as characters, closing with a shout."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0215c10",
+          "ToLb": "0215c17",
+          "Kwic": "復引緣喻。昔雪竇云：『客從遠方來，遺我徑寸璧，中有四個字，只是無人識。』雪竇老漢雖則單提向上，獨露風規，美則美矣，只是不會道破，不知於中是四個甚麼字？千載之下未免令人疑著。山僧幼時讀《玉臺新詠》，記得幾句古詩，略較些子：『客從遠方來，遺我一書札，上言長相思，下言久離別。』大眾！字句甚分明，依他會不得。既是字句分明，為甚麼依他不得？長疑即見面，翻致久無書。」",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: hall address at the envoys' arrival from the capital, quoting Xuedou's guest-from-afar verse of the thumb-sized disc of jade left me whose four characters none can read, ruling that Xuedou lifted the singular alone and bared his style — fine, yet he failed to say out which four characters they are — then setting against it the old poem of one letter from afar that the mountain monk remembered from the Jade Terrace New Songs of his boyhood."
         }
       ],
       "SourceTexts": [

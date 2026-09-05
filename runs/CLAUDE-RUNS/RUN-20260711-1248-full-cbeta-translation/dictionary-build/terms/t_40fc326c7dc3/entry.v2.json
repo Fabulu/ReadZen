@@ -51,6 +51,63 @@
             }
           ],
           "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: independent hall capping line."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0437b04",
+          "ToLb": "0437b05",
+          "Kwic": "上堂：簷聲不斷前旬雨，電影還連後夜雷。喚取瞎驢來趂隊，明朝依樣舞三臺。",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the versified deployment: his hall talk is the couplet entire plus his own added line — call the blind donkey to join the troop, tomorrow he dances the three terraces in the same old way."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0123a19",
+          "ToLb": "0123a23",
+          "Kwic": "先師十二年在此，鉗鎚凡聖、煆煉人天。山僧到來繼席，雖然庶事不才，只曾收得先師在生用底金剛圈、栗棘蓬，未免向大眾面前拋三放兩，都教一切瞎驢擎頭戴角騰踏諸方。只如今日繼席一句作麼生道？簷前不斷前朝雨，電影還連後夜雷。」",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "teacher"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the succession deployment: entering the abbot's quarters at Tiantong he says his late teacher hammered sage and ordinary there twelve years, that he has kept the late teacher's vajra ring and chestnut bramble to toss before the crowd for every blind donkey to trample the quarters, and for today's succession sentence gives the eave-sound line with variant wording, first-dynasty rain for first-ten-day rain."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0697a04",
+          "ToLb": "0697a15",
+          "Kwic": "大內歸，上堂。問：「聖主恩及林埜，吾師道重宸衷。闕庭留供即且置，奉旨開堂事若何？」師云：「光武與子陵，不是閒相識。」進云：「但見皇風成一片，不知何處是封疆？」師云：「你也曾謁聖君來。」進云：「昔日梁武帝問達磨云：『如何是聖諦第一義？』磨云：『廓然無聖。』意旨如何？」師云：「棒打石人頭，暴暴論實事。」進云：「帝云：『對朕者誰？』磨云：『不識。』又作麼生？」師云：「覿體全彰。」進云：「和尚前在禁闈，皇上設問：『如何是聖諦第一義？』作麼生祇對？」師云：「皇風蕩蕩。」進云：「設云：『對朕者誰？』又且如何？」師云：「埜老閒閒。」進云：「恁麼則達磨一宗於斯復振也。」師云：「三臺須是大家摧。」僧禮拜，問：「如何是法興父母未生前本來面目？」師云：「簷頭不斷前旬雨，電影還連後夜雷。」",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the answer deployment: back from the palace at his Qingzhou reappointment, asked the original face before one's parents were born, he answers with the eave-head line, first-ten-day rain and the lightning-flash still joined to last night's thunder."
         }
       ],
       "SourceTexts": [
