@@ -1,0 +1,117 @@
+{
+  "Id": "t_9bbc996ba00c",
+  "SourceTerm": "刀山劍樹",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 depth regeneration R02 clean-room A",
+  "WrittenUtc": "2026-07-29T19:35:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "mountains of knives and forests of swords",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "mountains of knives and forests of swords"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the paired landscape intact; relate 鑊湯爐炭 as a frequent companion without treating the punishments as synonyms. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0888b16",
+          "ToLb": "0888c15",
+          "Kwic": "身得度者。即現佛身而為說法。應以宰官身乃至長者居士婆羅門比丘比丘尼身得度者。悉現其身而為說法。又曰。應眼時若千日萬象不能逃影質。應耳時若幽谷大小音聲無不足。法門既如此殊勝。奈何學者多不向此時節領覽。乃爾自生退屈。正是不信自殊勝。甘為下劣人。若是靈利漢。便向這裏提得去。方知道。一塵纔起大地全收。一毛頭師子百億毛頭現。千頭萬頭但識取一頭。且那箇是一頭。不見南臺和尚聞版聲有頌云。善哉三下版。知識盡來參。既善知時節。吾今不再三。復以拂子擊禪床一下云。適來所謂盡向這裏成等正覺。是真實義。所以韶國師云。如來於一切處或等正覺。於刀山劍樹上成等正覺。於鑊湯鑪炭裏成等正覺。於棒下成等正覺。於喝下成等正覺。然雖如是。如人飲水冷煖自知。豈不見。善財童子至毘盧遮那大樓閣前。舉體投地。從地而起。作是念言。此大樓閣。是解空無相無願者之所住處。是於一切法無分別者之所住處。是行一劫入一切劫。以一切劫入一劫。而不壞其相者之所住處。是以一佛入一切佛。以一切佛入一佛。而不壞其相者之所住處。乃至不著一切世間窟宅者之所住處。何謂世間窟宅。便是於無上道。自作障難者。若執一切世間窟宅不能捨離。則吾輩所謂長老者亦莫住院。一向杜絕世故。乃可得行此道。如此則是壞世間相而談實相。何道之",
+          "MasterName": "Tiantai Deshao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantai Deshao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-quoter",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui introduces National Teacher Shao, roster-canonical Tiantai Deshao, as saying that awakening occurs on mountains of knives and forests of swords; Dahui is later quoter, commentator, and record owner."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0626b25",
+          "ToLb": "0626c16",
+          "Kwic": "燒火底燒火、煮飯底煮飯，你來我往，打躬作揖，撐撐拄拄、忙忙憧憧，是風耶？是顛耶？做盡模樣、弄盡精魂，從朝至暮畢竟是箇甚麼事？與本分上還有一些交涉也無？到遮裏還用得著箇甚麼？假借人箇甚麼？行住坐臥、語默動靜、穿衣喫飯、屙屎放尿，遮裏何曾因人說破、借人氣力？你即不參不究，你底主人公本來面目亦何曾失來？只今佛祖出世還有加損你一毫來，一切語言文字、道理知見、玄玅機鋒，於你六根門頭、八識心中有三毫加損也無？即汝等無始劫來，不是纔得為人，三途六道、一切異類無不變弄過來，何曾奈得你何？閻羅大王、牛頭阿旁，何曾奈得你何？鑊湯爐炭、刀山劍樹、抽腸拔腹、碓搗磨挨，無所不為，乃至披毛帶角，受盡苦楚，何曾奈得你何？直至如今，依舊恰恰好好地，依舊業識茫茫地，還是你今日累我？還是我今日累你？你也沒奈我何？我也沒奈你何？若了，直下各自了去；不了，一任七顛八倒去。我也是為他閒事長無明，徒怕虛空爛壞，與鏡花水月耽憂，與夢幻泡影喫力，著甚死急？大家散去，免教特地相賺誤也。」僧纔出，師便打。僧云：「此是第二等。」師連打云：「一任你第三、第四、第九、第十。」僧云：「畢竟是第二等。」師又連打云：「我與你第一等、上上等、無上上等，與你有甚交涉？」一頓打出。又僧出云：「某甲今日",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: independent instruction."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0715a24",
+          "ToLb": "0715b21",
+          "Kwic": "都是家常茶飯，勿謂門外糠糟，聞藏具足無盡，取用玅在吾曹。向上原無把鼻，個中不容訂商。我師忒煞慈悲，與人獨露真常。信手拈來是藥，隨身到處皆香。有出有沒，無數無央。出入本無門戶，往來不隔垣墻。如有心識，當自審詳。早見紫竹林中主，半夜不疑出太陽。黃介子畫三十二應總像黃介子畫三十二應總像二首三十二應，善於龜毛頭尖現玅相；三十二讚，巧於虛空面上點浮漚。狹路相逢難回互，不是冤家不聚頭。大士介公手，介公大士口，現身與說法，一身分兩肘。大士胡為癡，顛倒無妍醜，渾身骨與肉，都為眾生有。咂之食之，東走西走；喚之不顧，心膈欲嘔。瞻此知此，急為回首，莫負吾師，俞任袁柳。刀山劍樹，短戟長戈。盡是圓通玅境，無非慈悲本科。圓融處處隨順，分別物物淆訛。有感速應，無畏堪託。偶爾皓首翁翁，忽然白髮婆婆。千般手眼，萬種撫摩。只願眾生得自在，就中難語和非和。準提大士像準提大士像二首一身能現種種身，數臂原來只一臂，就裏本未有形相，示現特為眾生類。眾生所求願不一，大士手臂不可計，豈止十六與十四？無形而形，形無定形，無相而相，相無定相。大士許多手臂，與我本來一樣，如識自家面目，何止千名萬狀？終日禮敬皈依，不可分別真妄。地藏大士像地藏大士像以法界為家，以眾生為命，立願先地獄解脫，堅誓以涅槃究竟，此是我師妙覺明性。出海羅漢像出海羅漢像",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: independent verse deployment."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0151a08",
+          "ToLb": "0151b11",
+          "Kwic": "登，高臥樓頭隱君子，來看溪上閉門僧。春山消得幾䩫屐，夜雨難忘十載燈，彼此暮年閑不徹，莫言林下見何曾。了心上人之四明台鴈了心上人之四明台鴈了得此心方穩坐，此心未了走西東。携過頭杖六七尺，行未識山千萬重。明越台溫龍象窟，天香瑞雪旃檀叢。參取永嘉老禪將，一輪江月照松風。贈承天遠藏主遊淛東贈承天遠藏主遊淛東日出日入王國土，溪東溪西王水草。深固幽遠無人到，須信平常心是道。如來藏裏摩尼珠，光明赫赫照昏衢。平生受用只者是，不妨推出司南車。和古林東州為了菴頌墨迹和古林東州為了菴頌墨迹宗師提唱立雄關，拈却門前大案山，爐炭鑊湯成正覺，刀山劍樹只如閑。休居提起金剛鑽，本覺舒開鐵面顏，甘露二門雖久杜，潮生合浦見珠還。贈靈隱濟藏主贈靈隱濟藏主眼竪摩醯肘佩符，無星秤子定錙銖。剖開竺國山中玉，收取如來藏裏珠。略露慈明橫水劍，不携麻谷入園鋤。道人千里同風句，白紙無端黑字書。吳淞舟中吳淞舟中此行乘興泛吳淞，誰是忘機海上翁。落日潮生千浦浪，歸帆天送一江風。半鈎涼月蒼茫外，數點青山杳靄中。遙想故山溪上路，秋風開徧玉芙蓉。寄西林椿長老寄西林椿長老道聲籍籍類玄沙，不出飛鳶見作家。據坐西林開虎穴，親從法海拔鯨牙。木毬暖氣猶堪輥，石皷清聲足可撾。老我江湖無可贈，三千里外摘楊花。",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment: independent small-talk use."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J34/J34nB311.xml",
+        "J/J28/J28nB219.xml",
+        "X/X71/X71n1409.xml"
+      ],
+      "RelatedMasters": [
+        "Tiantai Deshao",
+        "Dahui Zonggao",
+        "Juelang Daosheng",
+        "Zhuanyu Guanheng",
+        "Yuejiang Zhengyin"
+      ],
+      "RelatedTerms": [
+        "鑊湯爐炭"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Mountains of knives and forests of swords form a paired image of punitive terrain. The retained records do not leave it as a literal destination: they place awakening there, ask what such torments can do to a person, call the frightening forms compassionate responsiveness, or say the terrain is simply at ease. Tiantai Deshao says that awakening occurs on mountains of knives and forests of swords, in boiling cauldrons and furnaces, beneath blows, and beneath shouts. Juelang Daosheng lists the pair among punishments and asks what any of them has ever been able to do to you. Zhuanyu Guanheng places the pair beside spears and halberds, then calls all of them scenes of complete responsiveness and the basis of compassion. Yuejiang Zhengyin's verse pairs awakening in furnaces and cauldrons with mountains of knives and forests of swords being simply at ease."
+    }
+  ]
+}

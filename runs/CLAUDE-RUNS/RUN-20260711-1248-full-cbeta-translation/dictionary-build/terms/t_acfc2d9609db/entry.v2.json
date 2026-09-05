@@ -1,0 +1,72 @@
+{
+  "Id": "t_acfc2d9609db",
+  "SourceTerm": "吞得栗棘蓬",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "swallow the thorny chestnut burr",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "swallow the chestnut burr",
+        "digest the thorny burr"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "It is challenge language, not a literal act; distinguish deployment from recension. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0996a11",
+          "ToLb": "0996b15",
+          "Kwic": "覺世尊初悟此事在摩竭提國三七日內無下口處自云我寧不說法疾入於涅槃信知說法之難豈同容易尋念過去佛所行方便力然後起道樹詣鹿苑隨眾生根器說一大藏教末後收因結果却云始從鹿野苑終至跋提河於是二中間未曾說一字只遮便是楊歧所謂金剛圈栗棘蓬也直是難吞難透到遮裏直下承當得了大法未明亦奈何不得敢問諸人何者名為大法金剛圈却如何透栗棘蓬却如何吞不見巖頭道若將實法繫綴人土亦銷不得況十方信施耶諸佛出世祖師西來無非只為你諸人作箇證明底主宰而已若有法可傳可授則諸佛慧命豈到今日故祖師云心地隨時說菩提亦只寧事理俱無礙當生即不生若會得此四句即透得金剛圈吞得栗棘蓬不須要明大法大法自明矣以至古人差別果旨因緣心性玄妙大法若明纔舉起時便會得恰如磁石見鐵相似輕輕一引便動須是舉一明三目機銖兩點著南邊動北邊舉起時便明得而今諸方有數種邪禪大法若明只遮邪禪便是自己受用家具好擊石火閃電光一棒一喝底定不愛說心說性者只愛機鋒俊快謂之大機大用好說心說性底足不愛擊石火閃電光一棒一喝者只愛絲來線去謂之綿綿密密亦謂之根脚下事殊不知正是箇沒用處弄泥團底漢看佗前輩大法明底尊宿用處轉轆轆地如南陽忠國師大珠和尚是也唯楊文公具眼修傳燈錄時對忠國師大珠和尚列在馬祖下諸尊宿之右將廣語所有言句盡入其中六祖下收忠國師語最",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao is the explicit speaker of the retained headword-bearing turn; he raises the inherited challenge and voices the retained judgment in his present discourse."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0690c22",
+          "ToLb": "0691a13",
+          "Kwic": "？』」師曰：「誰能出不由戶？何莫由斯道也？誠哉是言矣。者僧向涅槃門裏直往直來，猶自討略頭不著，乾峰雖則一期徑捷，爭奈這僧岐路橫生，更勞他韶陽老子入水入泥，把拽不入。如今要識路頭麼？」高聲曰：「看腳下。」小參。舉：「香巖和尚示眾曰：『若論此事，如人上樹，口御樹枝，腳不踏樹，手不攀枝。樹下忽有人問：「如何是祖師西來意？」不對他，又違他所問；若對他，又喪身失命。當恁麼時作麼生即得？』時有虎頭招上座出眾曰：『樹上即不問，未上樹待請和尚道。』巖乃呵呵大笑。雪竇顯曰：『樹上道即易，樹下道即難。老僧上樹也致將一問來。』妙喜曰：『吞得栗棘蓬，透得金剛圈。看了這般說話，也是泗洲人見大聖。』」師曰：「嘗行粥飯僧，向來問一荅十、問十荅百，及乎鼓兩片皮，卻向虛空中絢彩、枯木上糝花，直是令人好笑。苟非虎頭上座根下一刀，爭得應時瓦解？雪竇雖解弄箇花手心，未免踏著相似影子。徑山、妙善取譬，爭奈不顧傍觀。真如匪敢裁抑古人，秪貴鏟除途轍。還會麼？切忌向語脈裏轉卻。」小參。舉：「米和尚令僧去問仰山曰：『今時人還假悟也無？』仰曰：『悟即不無，爭奈落在第二頭？』米深肯之。」師曰：「米胡抱璞投琛，仰山一鑑收下，雖則來風深辨，然檢點將來，豈止落在第二頭？當時若問真如：『今時人還",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shanzan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained deployment: independent recorded-sayings deployment."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J37/J37nB394.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Yi'an Shanzan"
+      ],
+      "RelatedTerms": [
+        "金剛圈、栗棘蓬"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A deliberately impossible bodily image for fully passing through an intractable saying, commonly paired with penetrating the diamond ring. Dahui Zonggao raises swallowing the burr together with penetrating the diamond ring. Yi'an Shanzan independently deploys the same challenge in recorded sayings."
+    }
+  ]
+}

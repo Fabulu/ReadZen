@@ -1,0 +1,117 @@
+{
+  "Id": "t_20373fb359ea",
+  "SourceTerm": "吹折門前一枝松",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R06 fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T23:55:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the wind snapped a pine before the gate",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a wind broke one pine before the gate"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The first exchange contains two exact utterances: Nanquan gives the line and the monk repeats it. The second monk instead asks what wind and what pine, after which Nanquan says “one gain, one loss.” Only two Tier-1/2 works survive in the allowlisted corpus; later compendia are excluded from the floor.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1029a01",
+          "ToLb": "1029a05",
+          "Kwic": "舉。南泉問僧。夜來好風。僧云。夜來好風。泉云。吹折門前一枝松。僧云。吹折門前一枝松。次問一僧。夜來好風。僧云。是甚麼風。泉云。吹折門前一枝松。僧云。是甚麼松。泉云。一得一失。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "teacher",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). The complete raised case contains three exact deliveries: Nanquan gives the line to the first monk, that monk repeats it, and Nanquan gives it again to the second monk. Nanquan and the first unnamed monk are therefore exact co-utterers; Xutang is the later raiser.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "dual exact actors in one retained case",
+            "ActorLabel": "Nanquan Puyuan and the source-unnamed first monk",
+            "ActorRole": "co-utterers",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Teacher markers assign the first and third deliveries to Nanquan; the intervening monk-speech marker assigns the exact repetition to the first unnamed monk.",
+            "ReviewedBy": "Codex R06 correction B",
+            "ReviewedUtc": "2026-07-29T23:55:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1060c09",
+          "ToLb": "1060c10",
+          "Kwic": "夜來好風。吹折門前一枝松。自南自北自西自東。",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). The named memorial verse is Xutang Zhiyu's own composition; Xutang is the exact utterer of its pine line."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0223a09",
+          "ToLb": "0223a10",
+          "Kwic": "豈不見南泉道，夜來好風，吹折門前一枝松。",
+          "MasterName": "Nanquan Puyuan",
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "Curated": true,
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Wuzhun's explicit “Nanquan said” marker assigns the embedded pine line to Nanquan Puyuan; Wuzhun Shifan is the later raiser."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n2000.xml",
+        "X/X70/X70n1382.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Xutang Zhiyu",
+        "Wuzhun Shifan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The wind snapped a pine before the gate is Nanquan's repeated line in a two-monk case, later reused by Xutang and raised by Wuzhun. In the first exchange Nanquan gives the line and the unnamed monk repeats the exact words. In the second exchange Nanquan gives the same line, but the monk asks what pine; Nanquan closes the contrast with “one gain, one loss.” Xutang reuses the line in his memorial verse for the monk Rusong. Wuzhun quotes the line explicitly as Nanquan's saying in a hall address."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "Id": "t_ce7c9b265cb1",
+  "SourceTerm": "孤峰絕頂",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01b fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the very summit of the solitary peak",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "solitary peak summit"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The summit is not uniformly praised: some passages insist on movement between the peak and ordinary public activity.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0104c03",
+          "ToLb": "0104c26",
+          "Kwic": "康熙二十九年四月十八日，山主高護法暨眾紳衿、護法請住觀音院。上堂。拈香祝畢，柏林悅菴和尚白椎，師斂衣就座，迺云：「垂老年華入帝京，閒雲出岫本無心，隨身竿木逢場戲，師子遊行不問程。」豎拂子，云：「看！看！此是觀音入理之門，補阤來從者裏住、臺山來從者裏住、三竺來從者裏住、趙州來也從者裏住。雲門老漢道：『見色明心，聞聲悟道。觀世音將錢買胡餅，放下手來卻是箇饅頭。』雖是老婆心切，未免傍觀者哂。衲僧把鼻，迥絕蓋藏，遇緣即宗，隨流得妙，所謂法隨法行，法幢隨處建立。具此格外風規，始可入廛垂手，我為法王，於法自在。雖然，有時恁麼，孤峰絕頂呵佛罵祖；有時不恁麼，鬧市叢中隨聲逐色；有時不恁麼卻又恁麼，鬧市叢中不異孤峰絕頂；有時恁麼卻不恁麼，孤峰絕頂不異鬧市叢中。且道恁麼、不恁麼、總不恁麼時如何？寒山忘卻來時路，拍手呵呵道亦忘。是事且置，即今祝陞座一句作麼生道？蕩蕩堯天致大化，山河一統頌無疆。」結椎，下座。四月二十四日，藥師藏經圓滿，耿旃林護法請陞座。「花雨簾鉤，遠近鳥銜飛處處；爐噴寶篆，漚和梵唄轉重重。如來全藏盡出廣長，菩薩威神二光遍照，以須彌為筆、虛空為紙、四大海水為墨，盡其神力書箇願字。」卓拄杖一下，云：「東方藥師如來十二大願在裏許、西方無量壽佛四",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenfeng Xian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained deployment: direct contrast between reviling buddhas on the peak and following sound in the market."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0352a21",
+          "ToLb": "0352b15",
+          "Kwic": "了底公案，所以與他了卻。不意有個祐上座撞入金明覷見，轉轉不能了也。且道作麼生了？偈曰：妙道本無傳，無傳真妙道。無傳今亦傳，無道道亦道。示啟上座示啟上座達磨西來，唯直指教外別傳，不立文字以度眾生，若假異方便接人，祖道安有今日哉？嗟夫！近世有稱宗屬者，衒耀見聞，鮮務正行，斯皆由識見不超、宗眼不正，致令識者笑，徒自欺耳。故佛鑑云：「若有一物所好，則被外物賊矣。」蓋吾禪家貴乎眼目正當，唯露些子，如石火電光、如金剛王寶劍、如踞地獅子，令人湊泊不得，除非知有，莫能知之。若能如是綿密操履，無絲毫透漏，方可拈頭作尾、拈尾作頭，不妨孤峰絕頂、十字街頭，十字街頭、孤峰絕頂，驅耕夫之牛、奪饑人之食矣。如皋啟上座參諸方有年，茲中夏參山僧於金明丈室，咨決大事，及禪暇，尚有餘習未盡，終累大德，山僧常呵斥之。一日，翻然覺，躍然起，再拜余前，乞示名字，遂名之曰真啟、字之曰天巖，意望其卓出情量、迥脫蓋纏，則不孤負一生行腳也。切囑！切囑！示文上座示文上座自古迄今，這一著子，明如杲日，寬若太虛，無絲毫隱蔽，纔涉思惟，則白雲萬里。所以二祖得之，不往西天；玄沙得之，不出嶺；德山得之，見僧便棒；臨濟得之，見僧便喝；吾普明老人得之，孤峻二三十年，顛三倒四，而時人莫測。山僧親遭毒",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment: direct reversible pairing of the summit and the crossroads."
+        },
+        {
+          "RelPath": "X/X69/X69n1371.xml",
+          "FromLb": "0791b07",
+          "ToLb": "0791c09",
+          "Kwic": "日聾。達磨忌，上堂：分皮分髓誑盲聾，污却嵩山熊耳峰。隻履携歸葱嶺去，賊身何處不相逢？上堂。透脫言詮，鐵山橫臥；截斷言詮，通塗荒草。良久，云：自小持齋今已老。上堂：二由一有，一亦莫守。一陽生也，向脫窠臼、絕羅籠處道將一句來。上堂。鶯老花殘，春事已過；明眼衲僧，多是蹉過。楝花信風，不肯放過；萬戶千門，一時俱過。築著磕著，是誰之過？轉換不得，也要驗過。拍禪床，云：過。佛生日，上堂。杓柄人人入手來，莫隨顛倒自沉埋，普天匝地無回互，黃面瞿曇出母胎。便與麼去，也少這一杓惡水不得。卓拄杖一下，下座。上堂。九日無白醪，飽餐黃栗糕。孤峰絕頂，兩眼彌高。不覺不知，忽然帽落。秋風惡，秋風惡。上堂：碌碌復碌碌，良馬白日足。咬定牙關，掀翻地軸。神不敢呵，鬼不敢哭。世尊入地獄，調達出地獄。上堂：惟一堅密身，一切塵中現。因什麼葉落方乃知秋？人人皮下有血，穿却鼻孔，換却眼睛，不覺不知。喝一喝。上堂：一見便見，何勞𧫡搭。將軍不上便橋，勇士不在掛甲。又說甚寒山子，水牯牛，今日四，明日八。僧問巖頭：路逢猛虎時如何？拶！謝兩班諸庫監収，上堂。建立諸法無諸法，即是真如無上真如，自然世出世間於法自在。左天親，右無著，南天台，北五臺，厨庫僧堂，三門佛殿，竪四橫三，玲瓏八面，賓主",
+          "MasterName": "Jieshi Zhipeng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieshi Zhipeng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1371.xml). Recorded Sayings of Chan Master Jieshi Zhipeng. Jieshi Zhipeng owns the retained deployment: direct seasonal hall-address use of the summit's heightened exposure."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0074b08",
+          "ToLb": "0074c01",
+          "Kwic": "戒哉？雖然，秪如恁麼人來與恁麼人相見，又且如何？橫行直撞無拘束，一曲琵琶對月彈。」尼見修等請秉拂。「擊鼓敲鐘，日日陞座，但恐大家不耐聽。不愁自己舌尖破，還識渠儂舌尖麼？風鈴鳴，風旛動，更非別物；乾屎橛，麻三斤，總是這箇。只要當人向未開口以前退步就己，一踏踏得㘞，元來師姑是個女人做。「既到恁麼田地，任汝高揖釋迦，說甚親逢達磨？直饒鶻眼與龍睛，正好攔胸驀面唾。雖然如是，爭奈元上座手中辣藜未肯放過。且道：元上座畢竟有什麼長處？無念無修見亦無，單單鼻孔下頭大。」印化士回，請秉拂。「毗盧寶印，文彩燦然，提得便行，了無窒礙。或孤峰絕頂，閒閒嘯月棲霞；或垂手長街，步步拖泥帶水。珠璣運滿載，誰道從門入者不是家珍？「缽盂口向天，憑他豎嚼橫吞，飽齁齁地，我衲僧家尋常百事不管、米價不聞，到這裏也合識伊來處。且作麼生是伊來處？委悉麼？黃龍昔日曾親指，猶有眉間掛劍人。」復舉雲門因僧問：「如何是雲門一曲？」云：「臘月二十五。」師云：「雲門臘月二十五，曲高不落宮商譜，爭似今朝十五時？等閒唱出超千古。玉波騰，金山舞，露柱燈籠齊聽取，更問其中意若何？枝頭惱亂風和雨。」下座。歲旦，秉拂。僧問：「鳳曆初頒日，鴻鈞乍轉時，舊年佛法則不問，如何是新年頭佛法？」師云：「鏡清道",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: direct contrast between resting on the summit and dragging through mud in the long street."
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB298.xml",
+        "J/J29/J29nB233.xml",
+        "X/X69/X69n1371.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Shenfeng Xian",
+        "Jie'an Jin",
+        "Jieshi Zhipeng",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The solitary summit marks an exposed or withdrawn extreme that records contrast with responsive activity at the crossroads or in the noisy market. Shenfeng Xian supplies the peak-versus-market contrast deployment through direct contrast between reviling buddhas on the peak and following sound in the market. Jie'an Jin supplies the reversible peak-and-crossroads practice deployment through direct reversible pairing of the summit and the crossroads. Jieshi Zhipeng supplies the seasonal heightened-exposure image deployment through direct seasonal hall-address use of the summit's heightened exposure. Baichi Xingyuan supplies the peak-rest versus long-street engagement deployment through direct contrast between resting on the summit and dragging through mud in the long street."
+    }
+  ]
+}

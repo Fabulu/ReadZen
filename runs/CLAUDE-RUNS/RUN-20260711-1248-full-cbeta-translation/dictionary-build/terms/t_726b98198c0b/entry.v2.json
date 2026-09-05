@@ -1,0 +1,80 @@
+{
+  "Id": "t_726b98198c0b",
+  "SourceTerm": "弄巧翻成拙",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "showing off skill turns into clumsiness",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "showing off skill turns into clumsiness",
+        "A reversal verdict"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The verdict requires an attempted clever maneuver that backfires; do not apply it to every ordinary mistake. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D50/D50n8945.xml",
+          "FromLb": "0005a10",
+          "ToLb": "0007a07",
+          "Kwic": "駒󳑚殺天下人炙地熏天氣轉腥百歲翁翁開口笑江西從此足人行引鼻牽回野鴨兒升堂卷席便高飛後來要識吾宗旨試看而今是甚時千年滯貨無人顧拈起從教著價看一口直饒酬得過泐潭山更過西山覽趙州語覽趙州語趙州借得空生口便自縱橫師子吼問其佛性狗子無問其甲子蘓州有而今此口還空生古佛依前成漏逗掀翻海嶽覓知音箇箇看來日中斗大士講經大士講經兩口明明一無舌同死同生為君決那吒頂上喫蒺蔾金剛脚下流出血石門庵偶作石門庵偶作百鍊黃金鑄鐵牛十分高價與人酬臺前不有花含笑應是東山一夏休冬至冬至冬後一陽生東君曾未說百草總不知梅花先漏泄鐘聲出遠林鴈陣橫殘月更擬問如何弄巧翻成拙巨風行巨風行海山一雨三日風折木舉屋如飛蓬路人驚竄居人泣平地乃是洪濤中有生何處得安穩方寸是為風火本看來出爾方寸間雨霽風休海天遠擬月擬月圓時缺處何曾有缺處圓時自儼然舉世盡隨圓缺走幾人透出未生前擬山居擬山居古人縛屋山頭住十年不行山下路終朝兩眼掛枯松不憂無米但覓句滿屋風聲合雨聲半壁山雲雜山霧於中只麼過此生猶勝時人三五步食筍食筍機泉擣杭炊明璣竹根燒筍然竹枝錦綳稚子犢獻角玉版阿師囊穎錐同槃苦覺風味好對客不知寒涕垂古來山林例窮餓藜莧誑腹蕨𠑽饑我今一飽萬想滅老馬釋羈牛脫縻南山蒼蒼入箕踞凉用冏冏生談犀公無說與市朝子啄腐吞腥渠得知與夢",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (D/D50/D50n8945.xml). Outer Collection of Monk Xuefeng Kong. Xuefeng Kong owns the retained deployment: master-authored verse using the reversal as its closing judgment.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Xuefeng Kong",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Xuefeng Kong is explicitly identified by the retained source context and master-authored verse using the reversal as its closing judgment.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X70/X70n1396.xml",
+          "FromLb": "0586b01",
+          "ToLb": "0586c02",
+          "Kwic": "來，披雲扣岩穴。問訊了喫茶，一一皆明徹。胡為更覔語，對面成途轍。幽鳥隔窻啼，長松掛新月。示永嘉圓首座示永嘉圓首座覺海性澄圓，慎勿從他覔。烟水百城南，遍參善知識。相別已十年，尋訪千岑碧。凜凜冰雪中，坐對松根石。一喝分賓主，青天轟霹𮦷。應咲老矍曇，彈指超彌勒。呈方山和尚呈方山和尚佛出現於世，為一大事故。開示正知見，利鈍悉皆度。偉哉天人師，參徒蟻羶慕。不涉思惟中，白雲千萬里。曲開方便門，示我轉身句。明朝雨脚收，卷衲便歸去。瓦鉢煑黃精，地爐煨紫芋。示山禪人示山禪人與汝拄杖子，虗空裏釘橛。奪却拄杖子，大海中捉月。提起殺活劍，弄巧翻成拙。寒山與拾得，撫掌咲不輟。奇哉妙蓮花，出水常清潔。胡為乃不然，行汗空言說。邪師過謬多，滔滔說甄別。縱饒玄會得，猶是眼中屑。不經大爐鞴，焉能抽釘楔。沃洲山上人，遠來扣岩穴。有大丈夫志，作事頗決烈。單方巴豆子，盡底為傾泄。通身冷汗流，再甦方奇絕。應病故與藥，不盡閒施設。憍梵波提側耳聽，舜若多神驚吐舌。示贊禪人示贊禪人雪老低頭歸菴，麻谷携鋤入園。一對無孔鐵鎚，剛要掘地覔天。縱饒機先著眼，已隔三千大千。若還句下承當，如蠶作繭自纏。猛虎不食鵰殘，俊鷹不打死鸇。一一天真明妙，千聖亦莫能傳。驀然如桶脫底，始信吾不虗言。風送水聲來",
+          "MasterName": "Wujian Xiandu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wujian Xiandu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1396.xml). Recorded Sayings of Chan Master Wujian Xiandu. Wujian Xiandu owns the retained deployment: independent portrait appraisal of contrived verbal display."
+        }
+      ],
+      "SourceTexts": [
+        "D/D50/D50n8945.xml",
+        "X/X70/X70n1396.xml"
+      ],
+      "RelatedMasters": [
+        "Wujian Xiandu"
+      ],
+      "RelatedTerms": [
+        "弄巧成拙"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A reversal verdict: a maneuver intended to display or improve skill exposes its own awkward failure. Xuefeng Kong uses the expression through master-authored verse using the reversal as its closing judgment. Wujian Xiandu independently deploys it through independent portrait appraisal of contrived verbal display."
+    }
+  ]
+}

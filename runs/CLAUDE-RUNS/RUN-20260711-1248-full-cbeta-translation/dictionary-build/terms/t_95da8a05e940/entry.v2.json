@@ -1,0 +1,68 @@
+{
+  "Id": "t_95da8a05e940",
+  "SourceTerm": "寧說阿羅漢有三毒",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "rather say that an arhat has the three poisons",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "rather say that an arhat has the three poisons"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 不說如來有二種語 or its shortened variant 不說如來有二語. The selected first half is rhetorical, not a doctrinal assertion that arhats possess the three poisons. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0218a20",
+          "ToLb": "0218b21",
+          "Kwic": "急走過。不走過。草深一丈。直饒淨裸裸赤灑灑。事外無機機外無事。未免守株待兔。且道總不恁麼。作麼生行履。試舉看。【九五】舉。長慶有時云。寧說阿羅漢有三毒焦糓不生芽不說如來有二種語已是謗釋迦老子了不道如來無語猶自顢頇。早是七穿八穴只是無二種語周由者也。說什麼第三第四種保福云。作麼生是如來語好一拶。道什麼慶云。聾人爭得聞望空啟告。七花八裂保福云。情知爾向第二頭道爭瞞得明眼人。裂轉鼻孔。何止第二頭慶云。作麼生是如來語錯。却較些子保福云。喫茶去領。復云。還會麼。蹉過了也。長慶保福在雪峯會下。常互相舉覺商量。一日平常如此說話云。寧說阿羅漢有三毒。不說如來有二種語。梵語阿羅漢。此云殺賊。以功能彰名。能斷九九八十一品煩惱。諸漏已盡。梵行已立。此是無學阿羅漢位。三毒即是貪嗔癡。根本煩惱。八十一品。尚自斷盡。何況三毒。長慶道。寧說阿羅漢有三毒。不說如來有二種語。大意要顯如來無不實語。法華經云。唯此一事實。餘二則非真。又云。唯有一乘法。無二亦無三。世尊三百餘會。觀機逗教。應病與藥。萬種千般說法。畢竟無二種語。他意到這裏。諸人作麼生見得。佛以一音演說法。則不無長慶要且未夢見如來語在。何故大似人說食終不能飽。保福見他平地上說教遂問。作麼生是如來語。慶云。聾人爭得聞。這漢知他幾時。在鬼窟裏作活計來也。保福云。情知爾向第二頭道。果中其言。却問師兄作麼生是如來語。福云。喫茶去。鎗頭倒被別人奪却了也。大小長慶。失錢遭罪。且問諸人。如來語還有幾箇。須知恁麼見得。方見這兩",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: active case explanation."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0139c06",
+          "ToLb": "0139c29",
+          "Kwic": "亦不得扶強抑弱，直將黃面老子、折腳阿師，縛作一團、打作一塊，推向堂前，貴令生與同生、死與同死，大家無出頭分。諸仁者會麼？」乃起立，澆香水浴佛，云：「須與當頭一杓惡水。且道是不是？」又澆水，云：「汝等諸人聞此見此，便欲鼓唇嗾舌，踏步向前，問個如何若何，我也預先與你一杓惡水。且道是不是？」又澆水，云：「九龍天外風雷壯，霢霂絪縕萬國恩。」西來羅漢請上堂。「十萬里來不說一字，依稀像達磨，彷彿同真諦。芭蕉柄上書梵字，蝌蚪蟲文不相似。拈起○相問伊，叉手睜睛直示。老僧點頭道：『從前不是，這回恰是。』問大眾：是不是？」良久，云：「寧說阿羅漢有三毒，不說如來有二語。」便下座。上堂。「萬峰有條銕門限，盡大地人跨不過，好笑街頭石敢當，也學橫身礙行路。山僧偶爾經過，向伊道卻兩錯，這廝滿面慚惶，不覺入地三尺，合眼揚聲大叫，痛罵於密老賊：『飯米既用剛砂，門限何消生銕？』老僧夢中聞得，翻轉個身來道：『你也說得是，你也說得是。然更有一句，你還知也未？縱饒折卻銕門限，無數人死向平地。』」卓拄杖一下。圓戒，上堂。「靜主達賢住此山有年，破屋半間，蓬塵積尺，行鍋無蓋，黃碗不全，或七日忍饑，或逢緣一飯，口如木突，衣若鶉懸，曾圓具于先靈谷和尚，茲復請說菩薩戒法，謹白。」問：「如何是釋",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: independent direct redeployment."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The deliberately impossible first half of Changqing's contrast: it would be preferable to attribute greed, anger, and delusion to an arhat than to attribute two kinds of speech to the Tathagata. Yuanwu Keqin uses the expression through active case explanation. Hanyue Fazang independently deploys it through independent direct redeployment."
+    }
+  ]
+}

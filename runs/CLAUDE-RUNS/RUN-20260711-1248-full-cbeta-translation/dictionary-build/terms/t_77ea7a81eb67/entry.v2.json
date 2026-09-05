@@ -1,0 +1,71 @@
+{
+  "Id": "t_77ea7a81eb67",
+  "SourceTerm": "垂絲千尺",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "let the line hang a thousand feet",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "let the line hang a thousand feet",
+        "lower the line a thousand feet"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 意在深潭 as the recurrent completion and distinguish the dangling line from the hook, fish, and successful catch; do not flatten it to generic patience. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0679c16",
+          "ToLb": "0680a16",
+          "Kwic": "有人看方丈麼。云有。師云。作賊人心虛。上堂云。大無外小無內。半合半開成團成塊。老胡既隔絕。衲子多違背。從他千古萬古長漫漫。填溝塞壑沒人會。以拄杖卓地一下云。歸堂。一日上堂。眾方集。以拄杖橫按膝上云。恁麼會得。瞎却天下人眼。復拋下挂杖云。救取一半。便下座。上堂云。十方無壁落。四面亦無門。淨躶躶赤傻傻沒可把。灌溪老出頭不得且致。我騎牛入爾鼻孔裏。一般漢聞人恁麼道。若風過樹頭。有什麼共語處。上堂云。一不定二不可。上下四維春風包裹。桃華杏華鬪開。柳條桑條憋破。可憐昔日靈雲剛道迷逢達磨。師拈起拄杖云。靈雲鼻孔穿了也。上堂云。垂絲千尺意在深潭。離鉤三寸釣得一箇是好手。良久云。負命者上鉤來。一日小參。示眾云。須菩提巖中宴坐。諸天雨華讚歎。尊者云。空中雨華讚歎。復是何人。云我是梵天。尊者云。汝云何讚歎。天云。我重尊者善說般若波羅蜜多。尊者云。我於般若未曾說一字。汝云何讚歎。天云。尊者無說。我乃無聞。無說無聞是真說般若波羅蜜多。又復動地雨華。師云。避喧求靜處。世未有其方。他在巖中宴坐也。被者一隊漢塗糊。伊更有者老把不住。問云。空中雨華讚歎復有何人。早見敗闕了也。我重尊者善說般若波羅蜜多。惡水驀頭潑。我於般若未曾說一字。草裏走。尊者無說我乃無聞。識甚麼",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xutang Zhiyu owns the retained deployment: Xutang's direct deployment with the deep-pool and three-inches-from-the-hook continuation."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0562a20",
+          "ToLb": "0562b02",
+          "Kwic": "晚叅師握拄杖云不思善不思惡如何是本來面目垂絲千尺意在深潭不與萬法為侶的是什麼人躡足龍門清風徧界",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: independent direct use of the fishing line as an encounter probe."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Xutang Zhiyu",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [
+        "垂絲千尺、意在深潭"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The fishing line descends an extreme distance because the fisher's intention is fixed on the deep pool. Xutang Zhiyu uses the expression through Xutang's direct deployment with the deep-pool and three-inches-from-the-hook continuation. Yulin Tongxiu independently deploys it through independent direct use of the fishing line as an encounter probe."
+    }
+  ]
+}

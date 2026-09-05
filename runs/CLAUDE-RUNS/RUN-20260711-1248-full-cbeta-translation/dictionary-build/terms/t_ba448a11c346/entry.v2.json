@@ -1,0 +1,68 @@
+{
+  "Id": "t_ba448a11c346",
+  "SourceTerm": "叉手叮嚀問祖翁",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "hands folded, earnestly question the ancestral elder",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "hands folded, earnestly question the ancestral elder",
+        "The second line of Wuzu Fayan's land-and-deed realization verse, presenting deferential but insistent questioning of the ancestral elder about an unclear title deed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Gesture, repeated urgency, and ancestral addressee form one dramatic action. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0314a23",
+          "ToLb": "0314a27",
+          "Kwic": "見道：『慎終追遠，民德歸厚矣。』」復舉：「五祖演禪師投機偈云：『山前一片閒田地，叉手叮嚀問祖翁，幾度賣來還自買，為憐松竹引清風。』大眾！還識五祖老人立地處麼？翠巖為汝指出：『",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Wuzu Fayan owns the retained deployment: active quotation followed by line-by-line appraisal."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0046c06",
+          "ToLb": "0046c29",
+          "Kwic": "為誰？」師曰：「茶陵郁和尚。」岐曰：「聞渠過橋遭攧有省，作偈甚奇特，能記否？」師即頌曰：「我有明珠一顆，久被塵勞關鎖。今朝塵盡光生，照見山河萬朵。」岐笑而趨起，師愕然，通夕不寐。黎明咨決，適歲暮，岐曰：「汝見昨日打敺儺者麼？」師曰：「見。」岐曰：「汝一籌不及渠。」師復駭問：「意旨如何？」岐曰：「渠愛人笑，汝怕人笑。」師大悟。拈云：「又得便宜，又失便宜。」頌曰：「山猴見果通身喜，誰知咬著水鱉子。風送香來是春心，鷓鴣啼在深村裏。」第十四世五祖演禪師。參白雲，問南泉摩尼珠話，雲叱之，師領悟，獻投機偈曰：「山前一片閒田地，叉手叮嚀問祖翁。幾度賣來還自買，為憐松竹引清風。」雲為許可，令掌磨事。未幾，語師曰：「有數禪客從廬山來，皆有悟入處，教伊說亦說得，舉因緣問伊亦明得，教伊下語亦下得，秖是未在。」師疑，自計曰：「既悟了，說亦說得，明亦明得，如何卻未在？」參究累日，忽省悟，從來寶惜一時放下，遂走見雲，雲為手舞足蹈，師一笑而已。後示眾曰：「吾因此出一身白汗，明得下載清風。」拈云：「白雲船拖水載，五祖不用一文，卻得相當。且道如何是他相當處？摘楊花，摘楊花。」頌曰：「買來賣去個田莊，水冷泥深太郎當。盡把家私全拋卻，赤條條地露風光。」第十五世圓悟勤禪師。為五",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Wuzu Fayan owns the retained deployment: independent raising of the four-line realization verse and its family inheritance."
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB208.xml",
+        "J/J37/J37nB371.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Wuzu Fayan folds his hands and presses the ancestral elder through an insistent question. Wuzu Fayan uses the expression through active quotation followed by line-by-line appraisal. Wuzu Fayan independently deploys it through independent raising of the four-line realization verse and its family inheritance."
+    }
+  ]
+}

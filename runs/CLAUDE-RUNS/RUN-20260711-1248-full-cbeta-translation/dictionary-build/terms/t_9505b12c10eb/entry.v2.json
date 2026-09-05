@@ -1,0 +1,68 @@
+{
+  "Id": "t_9505b12c10eb",
+  "SourceTerm": "劍為不平離寶匣",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "for injustice, the sword leaves its precious scabbard",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "for injustice, the sword leaves its precious scabbard"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Govern 藥因救病出金瓶 as the recurrent second half and preserve the sword's departure from the scabbard as responsive action, not a general endorsement of violence. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0561b05",
+          "ToLb": "0562a12",
+          "Kwic": "喫飯也在裏許屙矢放溺也在裏許行住坐臥迺至一動一靜總在裏許若也識得達磨大師只與你作箇洗腳奴子若也不識二時粥飯將什麼喫叅師云高祖恁麼告報卻似俯憐幼子提獎嬰兒新天目卻要問取久叅衲子盡大地是箇鉢盂喚什麼作穿衣喫飯喚什麼作屙矢放溺喚什麼作行住坐臥語默動靜若也識得更有什麼達磨大師若也不識便見有穿衣喫飯便見有屙矢放溺便見有行住坐臥語默動靜二時過堂喚他作飯袋子豈為分外召大眾云且道高祖說得是新天目說得是若高祖說得是佛法豈有兩般若新天目說得是山僧卻是高祖兒孫大凡叅學須是透頂透底明緇素識好惡始得若也半青半黃顢頇穿鑿未免觸途成滯驀喝一喝云劍為不平離寶匣藥因救病出金瓶齋堂小叅師云適在堂中有僧舉不侶萬法話山僧徵云不與萬法為侶的人且道會萬物為己不為萬物為己若道會萬物為己又道不侶萬法若道不會萬物為己便是落空亡的外道如何下得一語免此二過師自代云喫粥不齩一粒米晚叅師云叅學上士須證本來面目證得本來面目方會話祖師意且道如何是話祖師意不見臨濟大師道大凡演唱宗乘一句中具三玄一玄中具三要有權有實有照有用昔日有僧問如何是第一玄山僧答云心同虛空界進云如何是第二玄答云示等虛空法進云如何是第三玄答云證得虛空時無是無非法又問如何是第一要答云金剛與泥人揩背進云如何是第二要答云千鈞之弩進云如何是第",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: Yulin's direct paired deployment after demanding that the assembly swallow his staff."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0673a30",
+          "ToLb": "0673b20",
+          "Kwic": "門風迥別即且置，公案現成時如何？」眨上眉毛，復云：「我本無所希求，今此法王大寶自然而至。俊哉，俊哉！不用求真，惟須息見。快活，快活！大眾！既息見而不用求真，則諸仁終日佛見、法見、人見、我見、塵勞見、清淨見，皆妄見也：大寶不求而至，則諸人終日求佛、求法、求道、求悟、求心，皆妄求也。真不立，妄何存？絕忮求，寶自至，一切處蓋色騎聲，動用中輝天鑑地，如許門風，當面諱卻。噫！止，止！不須說。我法玅難思，諸增上慢人聞必不敬信。」卓拄杖，下座。晚參。問：「向上一路，千聖不傳，未審和尚如何垂示？」師云：「黑雲遍野。」進云：「恁麼則劍為不平離寶匣，藥因救病出金缾。」師云：「遮卻你眼睛。」僧喝，師便打，乃云：「三世諸佛不知有黧奴白牯，卻知有『知』之一字眾禍之門。何似曹山愛顛酒？君不見？石鞏張弓要射虎，一生碌碌空株守，後來射得半箇人，依舊困龍藏死水。要識活水龍麼？」擿拄杖，云：「一簇破三關，分明箭後路。」復舉：「鏡清上堂，良久，有僧問：『祖歌如何唱？』清云：『拖送醉人酒。』僧云：『與麼則孤負和尚也。』清云：『猛虎不食伏肉。』」師云：「鏡清雖是縱奪可觀，卻乃添杯醉後。大覺則不然，今日設有問：『祖歌如何唱？』但向它道：上大人。更云：『與麼則孤負和尚也。』向它道：可",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct use of the complete sword-and-medicine maxim."
+        }
+      ],
+      "SourceTexts": [
+        "B/B27/B27n0152.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Yulin Tongxiu",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The intervention half of a paired maxim: perceived injustice draws the sword from its case, just as illness draws medicine from its golden bottle. Yulin Tongxiu uses the expression through Yulin's direct paired deployment after demanding that the assembly swallow his staff. Tian'an Sheng independently deploys it through independent direct use of the complete sword-and-medicine maxim."
+    }
+  ]
+}

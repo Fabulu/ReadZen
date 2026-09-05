@@ -1,0 +1,68 @@
+{
+  "Id": "t_9877cd6acceb",
+  "SourceTerm": "渠無國土",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "he has no country",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "he has no country"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 何處逢渠 as the recurrent second half without merging it; do not doctrinally resolve 渠 beyond each passage. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0270a12",
+          "ToLb": "0270b12",
+          "Kwic": "拂牛劍氣洗兵威太平本是將軍致定亂歸功更是誰不許將軍見太平一旦氛埃清四海但盡凡情垂衣皇化自無為別無聖解師云。臨濟宗風。金剛王寶劍。殺佛殺祖。夾山截斷老葛藤。打破狐窠窟。晉書。雷煥善天文。張華因望斗牛間。常有異氣。邀煥。夜登樓仰視。煥曰。僕察之久矣。寶劍之精上於天。在豫章酆城縣界。華乃薦雷。為鄷城令。修獄掘基。得石匣。有雙劍。光甚艶發。送一與華。留一自佩。華被誅失劍。煥卒子為州從事。佩父劍至延平津。劍躍墮水。使人投之。見兩龍有文章。投者懼迴。說苑。武王伐紂遇雨。散宜生曰。此非妖歟。王曰。非也。天洗兵也。此頌若不揮劍漁父棲巢。易曰。黃帝堯舜垂衣裳。而治天下。無為之化不令而行。此頌無巢可棲。渠無國土。無劍可揮。何處逢渠也。同安察禪師道。妙體本來無處所。通身那更有蹤由。萬松道。許爾親見石霜。猶較夾山百步。要見夾山麼。劍為不平離寶匣。藥因投病出金瓶。69南泉白牯第六十九則南泉白牯示眾云。成佛作祖。嫌帶污名。戴角披毛。推居上位。所以真光不耀。大智若愚。更有箇便宜聾。佯不采底。知是阿誰。舉。南泉示眾云。三世諸佛不知有只為知有狸奴白牯却知有只為不知有。師云。飛山法師戒珠。作別傳心法議。毀斥南泉曰。若願輩。不嗜學不知本。不足以語如來教。無盡燈附集依通。率易辯敘南泉初習律。次聽華嚴楞伽。入中百門觀。聞馬祖傳言外道。屢扣其旨頓獲忘筌。一日行粥。馬祖問。桶",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained deployment: direct case opening."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0240a11",
+          "ToLb": "0240b10",
+          "Kwic": "若到諸方，逢人不得錯舉。珍重。上堂。冬不寒，臈後看，老儂不愛雪，稚子哭衣單。惟有東村一箇沒傝󳱥漢，髼頭垢面，赤手空拳，寒不怕寒，熱不怕熱，最冷唱箇雪詞兒，最饑做箇糶米漢，無一文錢要與天下人鬬富，無一分色要與大地人爭妍，有時在十字街頭倒騎鐵馬，有時在西洋大海逆上須彌，有時在烈火𦦨中嚼氷嚙雪，有時在紅塵堆裏掐草挑燈，有時指東話西，有時呼南為北，將三乘法塹以作門墻，指十地菩薩而為眷屬。諸昆仲！斯人還合伴不合伴？復笑云：已被博山收下了也。上堂。鵞湖云：瞠却眼兮剔起眉，反覆看渠渠是誰？洞山云：渠今正是我，我今不是渠。石霜云：渠無國土，何處逢渠？或有云：渠無生死。或有云：渠儂得自繇。或有云：渠不作箇解會。諸昆仲！渠者何物？為與眼對？不與眼對？若與眼對，則成二物；不與眼對，因甚反覆看渠？若直下看破，便會得渠正是我，我不是渠。若會得我不是渠，便能獨蹈大方，孤峯自立，正不立玄，偏不附物，便會得渠無國土，何處逢渠？既無國土，無量劫來求生相了不可得，求死相了不可得，便會得渠無生死。果無生死，千自繇，百自在，便會得渠儂得自繇。若到恁麼田地，言語道斷，心行處滅，便會得渠不作箇解會。博山此語，如浪擊銀山，花開碧岫，石女揚眉，玄猿捕影，三歲孩兒頭似雪，磵底游魚忙",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: direct hall explanation."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2004.xml",
+        "X/X72/X72n1435.xml"
+      ],
+      "RelatedMasters": [
+        "Wansong Xingxiu",
+        "Wuyi Yuanlai"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The first half of the recurring challenge 渠無國土，何處逢渠, asking where the otherwise unlocatable 渠 could be encountered. Wansong Xingxiu uses the expression through direct case opening. Wuyi Yuanlai independently deploys it through direct hall explanation."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Id": "t_9e569bf4bcae",
+  "SourceTerm": "鎮海明珠",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the luminous pearl that calms the sea",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the luminous pearl that calms the sea"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind Guangnan, the bright/dark lunar phases, and the request to present the pearl as the case family; this is not ordinary jewelry description. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0612b04",
+          "ToLb": "0612c04",
+          "Kwic": "舉：雲門示眾云：十五日已前則不問汝，十五日已後道將一句來。眾無對。自代云：日日是好日。暑往寒來，東湧西沒。韶陽老人，舌頭無骨。一句絕商量，日日是好日。咄！肯與時人作窠窟。舉：僧問洞山：如何是佛？山云：麻三斤。物見主，眼卓豎。水中月，作麼取。提起麻三斤，休教地主嗔。輸納官租了，天地一閑人。舉雪峯示眾云：三世諸佛在火𦦨裏轉大法輪。玄沙云：火𦦨為三世諸佛說法，三世諸佛立地聽。三世諸佛，一堆紅𦦨。若說若聽，無剩無欠。雪峯與玄沙，父子真冤家。麻上生繩猶自可，那堪繩上更生虵。舉：東寺問仰山：甚處人？山云：廣州。寺云：我聞廣州有鎮海明珠，是否？山云：是。寺云：作何顏色？山云：黑月則現，白月則隱。寺云：子還帶得來麼？山云：帶得來。寺云：何不呈示老僧？山云：諾。慧寂昨到溈山，亦被索此珠，直得無言可對，無理可伸。寺云：真師子兒！大師子吼！舉世無倫匹，當機有舒卷。須彌山不高，滄浪水猶淺。覿面相呈鎮海珠，黑月白月空名模。真師子兒，大師子吼。頭上著枷，脚下著杻。仰山幸自可憐生，奈何東寺揚家醜。舉：趙州示眾云：至道無難，唯嫌揀擇，但莫憎愛，洞然明白。纔有言語，是揀擇？是明白？老僧不在明白裏，汝等還護惜也無？僧問：既不在明白裏，未審護惜箇什麼？州云：我亦不知。僧",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: Chushi Fanqi's complete active raising and critical appraisal of Yangshan's pearl exchange."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0681b13",
+          "ToLb": "0681b16",
+          "Kwic": "是瓦礫，不是明珠。」進云：「不得厭良為賤。」師云：「蜣蜋抱糞團。」乃云：「東寺索鎮海明珠，仰山傾出一栲栳，頗與禪席增光。而今不得動著，動著則瓦礫相當。果係手中知分兩的，",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct deployment of the sea-calming pearl case."
+        }
+      ],
+      "SourceTexts": [
+        "X/X71/X71n1420.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The pearl demanded from Yangshan as a person from Guangnan: he says it disappears in the bright month and appears in the dark, then answers the demand to display it with a single 諾 (assent). Chushi Fanqi uses the expression through Chushi Fanqi's complete active raising and critical appraisal of Yangshan's pearl exchange. Tian'an Sheng independently deploys it through independent direct deployment of the sea-calming pearl case."
+    }
+  ]
+}

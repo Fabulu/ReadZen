@@ -1,0 +1,106 @@
+{
+  "Id": "t_993dfd9c2e5e",
+  "SourceTerm": "虎咬大蟲",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01a fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a tiger bites a tiger",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "tiger bites tiger"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not read 大蟲 as a large insect; 猛虎咬大蟲 is a longer governed variant and does not supply exact-headword depth.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0691b25",
+          "ToLb": "0691c16",
+          "Kwic": "任橫行。」師云：「因甚出不得山僧手裏？」僧擬議，師便打，乃云：「凡夫具足聖人法，聖人具足凡夫法。」豎拂子，云：「凡聖同時入此宗，大施門開無壅塞。佛法無多子，只要信得及。信為道元功德母，長養一切諸善根。三界無安，猶如火宅，汝等欲求出離，但信自己是佛。佛是眾生為、眾生是佛作，於此信得及去，變大地作黃金、攪長河為酥酪。供養無心道人、供養百千諸佛，是法平等，無有高下。既然如是，我不輕于汝等，汝等皆當作佛。」燈夜，小參。「天上月，人間燈，光光相炤，無雜無分。燈聯月，月聯燈，燈月交聯，無二無別。三世如來影裏行，百千菩薩光中入。虎咬大蟲，全提時節，卻怪穆天子騎馬走不歇。說道東京燈火盛西京，江南風月勝江北，行盡四大部洲，走遍南天北極，到底人間只一燈，何曾天上有雙月？因甚北地春寒，江南秋熱？」喝一喝：「箇中消息，無人能識。」上堂。問：「海眾臨筵，側聆師誨。如何是燈節一句？」師云：「騰輝遍大千。」進云：「我見燈明佛，本光瑞如此。」師云：「如何是本光？」僧指燈，師云：「瞎。」進云：「爍破乾坤。」師云：「還見山僧麼？」僧喝，師云：「不得禮拜。」僧作禮，師云：「眼私鹽漢。」乃云：「天上月圓，人間月半。若道是月半，則違卻天上；道是月圓，則違卻人間。道得平等句子",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: direct festival-address presentation."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0172b21",
+          "ToLb": "0172c13",
+          "Kwic": "，聖人不會。聖人若會，即是凡夫；凡夫若知，即是聖人。此語具一理二義，若人辨得，不妨於佛法中有箇入處；若辨不得，莫道不疑好。』」師拈云：「修山主雖善作家，大似拔貧作富，補短裁長。國祥即不然，若凡、若聖，若知、不知，若會、不會。」驀拈拄杖，劃一劃，云：「盡向這裏百雜碎了也。試問諸人：還有修山主說話分也無？」良久，云：「參差杉檜煙凝薄，重疊峰巒月映微。咄！莫動著，動著則打折你驢腰。」秀水樓真汶和尚至，上堂。拈拄杖，卓一卓，喝一喝，云：「一喝分賓主，照用一時行，擊碎蟠桃核，得見箇中人。箇中人既已見了，更復將何話會？昨夜南山虎咬大蟲，今朝燈籠吞卻露柱，頭頭體用全彰，處處了無回互，腳踏須彌，眼觀四海，手提南北，意在東西，賓則始終賓，主則始終主，賓主歷然，通同合轍。弟應兄呼，藕穿平地為荷葉；瞻前顧後，筍過西家作竹林。然雖如是，且道：主賓契合一句作麼生道？漆桶相楷成底事，空噇空即飽膨脝。」便下座。端午，示眾。「天中節屆，夷風從艾虎而飄香；地臘時臨，靉靆起槐龍而清暑。當此之際，世上君子切菖蒲以泛酒，片片皆金；林下道人解黍粽以喫茶，顆顆是玉。貴乎信手拈來，大都受用不盡。所以文殊一日令善財採藥，云：『是藥者採將來。』善財遍觀，無不是藥，卻來白文殊云：『無",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment: direct hall-address image paired with a lantern swallowing a pillar."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0049c30",
+          "ToLb": "0050a20",
+          "Kwic": "時如何？」師云：「處處無私鑑。」僧便喝，師乃打。問：「父母未生時如何？」師云：「頭指天。」問：「如何是不生不滅？」師云：「一百五日又欲來。」問：「如何是佛？」師云：「頭上角未生，身上毛先出。」乃云：「道無明昧，因無故明；性離見聞，由離故見。所以，目前指著，擬究即乖；格外談宗，欲明則錯。故般若無緣慮之功，對緣便照；正法無偏圜之柬，欲柬則邪。倘不如斯，何有頭頭盡妙、物物全施？猶若太虛，能含萬象。會麼？如不會，今日失利。」晚參。僧問：「雪覆千山，因甚一峰獨露？」師云：「祇是闍黎疑著。」問：「牛頭未見四祖時如何？」師云：「虎咬大蟲。」進云：「見後時如何？」師云：「蛇吞鱉鼻。」乃云：「德山小參不畣話，海底紅塵起；趙州小參要畣話，山頭白浪生。大眾知麼？有者謂：者般說話總是權柄在他手裏。是則也是，只是山僧未點首在。何也？若言不畣話是，必也屈著趙州；若言畣話是，必也屈著德山。」顧左右云：「有為二老人出气者，不妨道看。」晚參。僧問：「如何是無生之旨？」師云：「卷起簾子著。」進云：「祖師之機狀似鐵牛時如何？」師云：「闍黎倒退有分。」進云：「恁麼則厭良為賤去也。」師云：「竹畢竟成篾。」乃云：「有錯節盤根，方可施利器；有銀山鐵壁，方可展鉗椎。古人恁麼，大似",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: direct contrast pairing sound-and-form positions with two impossible animal images."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0164b12",
+          "ToLb": "0164c07",
+          "Kwic": "，西堂、百丈、南泉隨侍翫月次，師問：「正恁麼時如何？」堂曰：「正好供養。」丈曰：「正好修行。」泉拂袖便行。師曰：「經入藏，禪歸海，惟有普願獨超物外。」呈橈舞棹踏翻舟，在海何人脫巨流？水底有龍窺得破，好興雲雨沃神州。百丈懷海禪師，馬祖嗣：再參，侍立次，祖目視繩床角拂子，師曰：「即此用？離此用？」祖曰：「汝向後開兩片皮，將何為人？」師取拂子豎起，祖曰：「即此用？離此用？」師掛拂子於舊處，祖震威一喝，師直得三日耳聾。獅子憐兒按繡毬，惹教絲線費牽抽。藏頭未露翻身術，一一從他不識羞。僧問：「抱璞投師，請師一鑑。」師曰：「昨夜虎咬大蟲。」曰：「不謬真詮，為什麼不垂方便？」師曰：「掩耳偷鈴漢。」曰：「不遇中郎鑑，還同野舍薪。」師便打。僧曰：「蒼天！蒼天！」師曰：「得與麼多口。」曰：「罕遇知音。」拂袖便行。師曰：「百丈今日輸卻一半。」石邊流水放教過，㶁㶁吞聲曲曲渦，寄語不須頻叫屈，到頭千尺海生波。黃檗希運禪師，百丈嗣。問丈曰：「從上宗乘如何指示？」丈良久，師曰：「不可教後人斷絕去也。」丈曰：「將謂汝是箇人。」便歸方丈。師隨後入，曰：「某甲特來。」丈曰：「若爾，則他後不得孤負吾。」丈一日舉再參馬祖被喝話，師遂領旨。丈一日問師：「什處來？」曰：「大雄山",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: direct answer to a monk requesting appraisal."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB187.xml",
+        "J/J28/J28nB203.xml",
+        "J/J29/J29nB223.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Tian'an Sheng",
+        "Yun'e Xi",
+        "Shanhui Huan",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A deliberately doubled tiger image—大蟲 itself means tiger—used as an impossible, self-matching answer or presentation. Tian'an Sheng supplies the festival-address presentation deployment through direct festival-address presentation. Yun'e Xi supplies the paired impossible-object presentation deployment through direct hall-address image paired with a lantern swallowing a pillar. Shanhui Huan supplies the sound-and-form contrast deployment through direct contrast pairing sound-and-form positions with two impossible animal images. Hanyue Fazang supplies the direct answer deployment through direct answer to a monk requesting appraisal."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": "t_ffd4a72b511f",
+  "SourceTerm": "鳳生鳳",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "phoenixes give birth to phoenixes",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "phoenixes give birth to phoenixes",
+        "A lineage-and-kind image"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Govern 龍生龍 or 龍生龍子 as the first half; this is an inheritance image, not zoological reproduction. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0626c13",
+          "ToLb": "0626c15",
+          "Kwic": "，僧問：師唱誰家曲？宗風嗣阿誰？答云：龍生龍子，鳳生鳳兒，太尊貴生。汝等諸人還知梁山落處麼？開口不在舌",
+          "MasterName": "Liangshan Yuanguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangshan Yuanguan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Liangshan Yuanguan owns the retained deployment: active handling of Liangshan's answer about whose song and lineage he continues."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0359b13",
+          "ToLb": "0359c03",
+          "Kwic": "。」進云：「㘞地一聲天地震，龍飛鳳舞出人前。」師云：「喜而不寐。」進云：「秖如五位王子如何指示？」師云：「陳年茶飯不消拈出。」進云：「和尚豈無方便？」師云：「錯過不少。」進云：「尊貴不墮，如何是誕生王子？」師云：「天高群象正。」進云：「階級不歷，如何是朝生王子？」師云：「海闊百川朝。」進云：「功勳不落，如何是末生王子？」師云：「萬邦歸至化。」進云：「化權不彰，如何是化生王子？」師云：「一氣轉洪鈞。」進云：「禁庭不出，如何是內生王子？」師云：「佛眼覷不見。」乃云：「種豆得豆，種麻得麻，頭頭不爽，法法無差。是龍生龍，是鳳生鳳，種有將門，玉麟天送。所以道：但能懷疑孕信，何難㘞地一聲？既然㘞地一聲，定是見頭見面。星眼隨人轉，神玅天生；朱唇向乳開，靈通本有。何況獅兒墮地便解返擲，虎生三日氣已吞牛。本不尋常，事猶奇特，承先啟後，奕世傳芳，跨灶衝樓，超群越格。秖如父母未生前，且道是何面目？」良久，云：「好箇鳳凰兒，豈向那邊討？」師謝本山院事，提臺張少保、合郡薦紳袍衿諸護法挽留復住，請上堂。問：「寰中天子敕，塞外將軍令，符到令行時如何？」師云：「看取令行時。」進云：「金鎖玄關留不住，行於異類且輪迴，還是定業難逃？為復婆心太熱？」師云：「一任卜度。",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: independent direct deployment concerning inherited kind."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1397.xml",
+        "J/J37/J37nB386.xml"
+      ],
+      "RelatedMasters": [
+        "Liangshan Yuanguan",
+        "Yuan'an Liao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A lineage-and-kind image: the offspring manifests the family character from which it comes, commonly paired with dragons producing dragons. Liangshan Yuanguan uses the expression through active handling of Liangshan's answer about whose song and lineage he continues. Yuan'an Liao independently deploys it through independent direct deployment concerning inherited kind."
+    }
+  ]
+}

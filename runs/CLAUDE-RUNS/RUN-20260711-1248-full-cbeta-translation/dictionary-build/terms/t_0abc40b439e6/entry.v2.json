@@ -1,0 +1,71 @@
+{
+  "Id": "t_0abc40b439e6",
+  "SourceTerm": "塞斷咽喉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "block the throat shut",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "block the throat shut",
+        "leave no verbal outlet"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not weaken the bodily obstruction to generic disagreement. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0124c24",
+          "ToLb": "0125a26",
+          "Kwic": "點須彌作壽山。復舉記得。僧問古德。如何是佛。答云。殿裡底大眾。還知麼。大海汪洋。須彌突兀。現在說法不思議。稽首光明最奇特。中秋上堂。十五日已前。湖光瀲灔晴方好。十五日已後。山色空濛雨益奇。正當十五日。若把西湖比西子。淡粧濃抹總相宜。還有祖師西來意麼。中秋月似鸞臺鏡。贏得多才一首詩咄。上堂。連雨初晴九月一。打圓相云。日頭依舊東邊出。照見五蘊皆空。衲僧參學事畢。忽然雨又落時如何。一尺水一丈波。謝郎船上唱山歌。謝典座上堂。坐斷老盧頂𩕳。拈起無柄木𣏐。忽然舀出銅汁鐵丸。忽然舀出醍醐酥酪。佛祖大機難測度。猶是家常茶飯。且道。塞斷咽喉一句。又作麼生。爛煮虛空無麫餺飥。再留首座上堂。殺人刀活人劍。轉磨轉精。累試累驗。還知麼。乃上古之風規。亦今時之樞要。淨慈門下實相當。倚天照雪寒光耀。浴佛上堂。烟濛濛雨濛濛。芍藥花開濕嫰紅。我今灌沐諸如來。人間天上起清風。恁麼見得。不妨應時應節。其或未然。大家聊借雲門令。一杓香湯一棒血咄。十月旦上堂。開寒氷地獄。口是禍門。發猛火鐵床。身為苦具。淨慈以此。應箇時節。莫有冷灰豆爆。煖氣相接底麼。其或未然。齋時三枚乳餅。七枚菜餅。上堂。鐘樓上念讚。床脚下種菜。不會不自在。會得是障礙。且合作麼生。白狗喫生薑。胡人夜渡關。咄",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantong Rujing",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Monk Rujing. Tiantong Rujing owns the retained deployment: direct demand."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0798a03",
+          "ToLb": "0798b04",
+          "Kwic": "死為諸佛根基。諸佛乃生死爐鞴。若解嶮絕承當。即證六通八解。頌古上頌古上舉。德山小參示眾云。老僧今夜不答話。問話者三十棒。時有僧出禮拜。德山便打。僧云。某甲話也未問。為什麼打某甲。德山云。爾是甚處人。僧云。新羅人。山云。未跨船舷。好與三十棒。法眼云。大小德山。話作兩橛。圓明云。大小德山。龍頭蛇尾。雪竇云。德山握閫外威權。有當斷不斷不招其亂底劍。要識新羅僧。只是撞著露柱底瞎漢。大冶烹金忽雷驚春。草木秀發光輝日新。不費纖毫力。擒下天麒麟。全威殺活得自在。千古照耀同氷輪。話作兩橛句中眼活。龍頭蛇尾以指喻指。撞著露柱瞎衲僧。塞斷咽喉無出氣。擬議尋思隔萬山。咭嘹舌頭三千里。舉。德山挾複子。到溈山上法堂。從東過西從西過東。溈山默坐不顧。德山云。無無便下去。復云。也不得草草。遂具威儀見溈山。提起坐具云。和尚。溈山擬取拂子。德山便喝。當時背法堂著草鞋便去。溈山至晚問首座。適來新到在什麼處。首座云。當時背法堂著草鞋便去。溈山云。還識此子麼。已後向孤峯頂上蟠結草庵。呵佛罵祖去在。大用不拘今古楷模。倒拈蝎尾平捋虎鬚。若非深辯端倪。何以坐觀成敗。俊處穎脫囊錐。高來卷舒方外。孤峯頂上浪滔天。正令當行百雜碎。咄。舉。南泉參百丈涅槃和尚。丈問。從上諸聖還有不為人說",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: independent deployment."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2002A.xml",
+        "T/T47/T47n1997.xml"
+      ],
+      "RelatedMasters": [
+        "Tiantong Rujing",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [
+        "併却咽喉唇吻"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A violent speech-stopping image: a response leaves no outlet through the throat for another answer. Tiantong Rujing uses the expression through direct demand. Yuanwu Keqin independently deploys it through independent deployment."
+    }
+  ]
+}

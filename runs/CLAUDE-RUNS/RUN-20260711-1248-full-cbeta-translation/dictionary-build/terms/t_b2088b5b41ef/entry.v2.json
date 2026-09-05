@@ -1,0 +1,70 @@
+{
+  "Id": "t_b2088b5b41ef",
+  "SourceTerm": "昨日赴箇村齋",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "yesterday I went to a village meal",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "yesterday I went to a village meal",
+        "Xinghua's village-meal opening"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the storm and old-temple continuation. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0527c12",
+          "ToLb": "0528a11",
+          "Kwic": "施主家齋，濟問：毛吞巨海，芥納須彌，為復神通妙用，法爾如然？化趯倒飯床，濟云：太麤生！化云：這裏是什麼所在，說麤說細？濟來日又同一施主家齋，濟復問：今日供養何似昨日？化又趯倒飯床，濟云：太麤生！化云：瞎漢！佛法說什麼麤細？濟乃吐舌，師云：一出一沒、一往一來，猛虎口裏奪飡、毒蛇頭上揩痒，要且未稱大丈夫事在。二老名喧寰宇、價重當時，光孝今日豈可謹密三寸？二俱放過，為它弄假像真；二俱不放過，為它榼𣜂太甚。是汝諸人若作佛法商量，達磨一宗掃土而盡。上堂，舉：僧問興化：四方八面來時如何？化云：打中間底。僧禮拜，化云：大眾！興化昨日赴箇村齋，回至中路，值一陣狂風暴雨，却去古廟裏避得過。師云：我見燈明佛，本光瑞如此。上堂。云：千年田，八百主，甜瓜徹蒂甜，苦瓠連根苦。君不見禾山解打鼓？又不見採菊東籬下，千山萬山疊疊高門戶？又不見光孝僧堂六七間，日日普請搬泥土？又不見臨濟主中賓、賓中主，二三四七面相覩？報禪流，莫莽鹵，聞普請，歡喜攙先去。去去實不去，途中好善為；來來實不來，路上莫虧危？又不見主中主，箇箇衲僧氣如虎？光孝恁麼告報，且道落在什麼處？以拂子擊禪床，下座。授天童，請上堂。去年十一月，笑別下鍾阜；今年九月中，行見朝天路。去住既無心，動靜非取與；平生安",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Xinghua Cunjiang owns the retained deployment: case quotation actively appraised by Ying'an."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0622c09",
+          "ToLb": "0623a09",
+          "Kwic": "道：今日不用如何若何，便請單刀直入興化為你證據。碧油幢下，令不虗行。旻德禮拜，不顧危亡。起便喝：金剛寶劒。化亦喝：踞地師子。旻德又喝，化亦喝：兩陣對圍，曾無勝敗。旻德禮拜，深掘陷坑。興化道：若是別人，三十棒一棒也較不得張弓架箭。何故？為他旻德會一喝不作一喝用，收下了也。是汝諸人於此還見得興化旻德麼？若也不見，聽取山僧一頌：同時照用不同時，權實雙行作者知。有得雖然亦有失，還他龍虎自交馳。上堂。量外機，格外句，凡聖迷魂，佛祖罔措。有來由，無本據，聲前切忌錯舉。興化僧問：四方八面來時如何？化云：打中間底。僧便禮拜，化云：昨日赴箇村齋，中途值一陣卒風暴雨，却向古廟裏嚲得過。遮老兒向大覺棒頭明得臨濟在黃蘗喫棒底意旨，一向依模脫墼，見僧不行棒行喝，便是拏空塞空、指東劃西、欺胡謾漢。只如道：我聞東廊下也喝、西廊下也喝，直饒喝得興化上三十三天撲下來，一點子氣息也無。且待我甦醒起來，欵欵地向你道：我未曾向紫羅帳裏撒珍珠在。又如謂克賓曰：汝不久為唱導之師。克賓曰：不入遮保社。化曰：汝會了不入？不會了不入？克賓曰：總不恁麼。化打曰：克賓法戰不勝，罰饡飯一堂。明日上堂，克賓維那法戰不勝，罰錢五貫，設饡飯一堂，仍須出院。莫即遮便是紫羅帳裏撒珍珠麼？且道與昨日赴箇",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xinghua Cunjiang owns the retained deployment: case quotation actively criticized by Xueyan."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1359.xml",
+        "X/X70/X70n1397.xml"
+      ],
+      "RelatedMasters": [
+        "Xinghua Cunjiang"
+      ],
+      "RelatedTerms": [
+        "敗將不斬"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Xinghua answers the bowed participant by abruptly recounting yesterday's village meal, its storm, and shelter in an old temple. Xinghua Cunjiang uses the expression through case quotation actively appraised by Ying'an. Xinghua Cunjiang independently deploys it through case quotation actively criticized by Xueyan."
+    }
+  ]
+}

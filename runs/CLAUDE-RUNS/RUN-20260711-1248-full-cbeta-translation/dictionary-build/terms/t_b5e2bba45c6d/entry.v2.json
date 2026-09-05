@@ -1,0 +1,68 @@
+{
+  "Id": "t_b5e2bba45c6d",
+  "SourceTerm": "秤尾無星",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no graduation mark on the end of the steelyard",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "no graduation mark on the end of the steelyard"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Preserve the steelyard and its missing calibration mark. It is not a generic statement that a scale is broken, and local hook-and-bait imagery remains a companion rather than part of the headword. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0329c09",
+          "ToLb": "0329c11",
+          "Kwic": "明這箇事，須還這箇人。風前有路，秤尾無星，大家贏得失忻忻。且道笑个什麼？",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment: direct repeated deployment with a path before the wind and everyone's cheerful accounting of gain and loss."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0970a27",
+          "ToLb": "0970b25",
+          "Kwic": "象眾。當觀第一義。師云。第一義諦。空洞無象。表裏一如。佛及眾生。盡為增語。且作麼生觀。若有心觀屬妄想。無心觀屬斷見。不有不無心觀。顢頇佛性。莫有具透關眼衲僧。出來。大家擎展。僧問。九重天上降香來。遍界祥光撥不開。佛祖機先提正令。蟭螟眼裏舞三臺。正與麼時。知恩報恩一句作麼生道。師云。天高群象正。海闊百川朝。進云。直得龍吟霧起。虎嘯風生。師云。錦上鋪花又一重僧問。釋迦掩室。淨名杜詞。以至諸方橫拈倒用。總是撩鉤搭索。畢竟直截一句。作麼生道。師云。迅雷不及掩耳。進云。德山見人入門便棒。臨濟見人入門便喝如何。師云。鉤頭有餌。秤尾無星。進云。德山道。我宗無語句。亦無一法與人如何。師云。殺人刀。活人劍。進云。臨濟道。赤肉團上。壁立千仞。又作麼生。師云。富嫌千口少。貧恨一身多。進云。長袖善舞。多財善賈。師云。且喜沒交涉。進云。二大老恁麼告報。輝映古今。未審靈隱作麼生。師云。別是一壺春色。進云。金鏃慣調曾百戰。鐵鞭多力恨無讎。師云。只得瞻之仰之。僧問。法幢高建御樓前。令正全提。法鼓纔撾金殿上。歡聲鼎沸。直得。天垂雨花帳。香散玉樓風為。國開堂。願聞法要。師云。祥雲捧日。進云。恁麼則。天人群生類。皆承此恩力。師云。粉骨碎身未足酬。進云。只如衲僧分上事又作",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: independent answer pairing a baited hook with a steelyard lacking its terminal mark."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1386.xml",
+        "T/T47/T47n1999.xml"
+      ],
+      "RelatedMasters": [
+        "Shitian Faxun",
+        "Mi'an Xianjie"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "An image of weighing without an available terminal calibration: it answers demands for a fixed measure and is paired with hooks, bait, gain, and loss to unsettle the questioner's attempt to take a reading. Shitian Faxun uses the expression through direct repeated deployment with a path before the wind and everyone's cheerful accounting of gain and loss. Mi'an Xianjie independently deploys it through independent answer pairing a baited hook with a steelyard lacking its terminal mark."
+    }
+  ]
+}

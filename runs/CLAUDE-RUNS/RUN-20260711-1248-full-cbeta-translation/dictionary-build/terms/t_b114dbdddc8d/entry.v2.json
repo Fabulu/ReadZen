@@ -1,0 +1,68 @@
+{
+  "Id": "t_b114dbdddc8d",
+  "SourceTerm": "獅子一滴乳",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one drop of lion's milk",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "one drop of lion's milk"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Retain the lion-milk and donkey-milk contrast without supplying symbolic doctrine. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0746b17",
+          "ToLb": "0746c17",
+          "Kwic": "擎鐵柱。翻身直入滄溟去。逡巡忿怒撲帝鐘。過犯彌天無雪處。無雪處不免依前安舊所。且正當恁麼時如何。一文偷不得。虛作沒量人。謝監院上堂舉。藥山一日語雲巖云。與我喚沙彌來。巖云。和尚喚他作什麼。山云。我有箇折脚鐺子。要伊提上挈下。巖云。恁麼則與和尚共出一隻手也。師云。道頭知尾。舉一明三。山僧有箇小頌。一步闊一步。一著高一著。提折脚鐺兒。施阿伽陀藥。須彌土一撮。滄溟水半杓。快意唱巴歌。過屠門大嚼。上堂云。大眾。仲冬嚴寒。千山萬山。滴水滴凍。成塊成團。凍得達磨板齒落。氷得金烏嘴團圝。明鏡當臺幽洞側。更看雙鳳舞孤鸞。復云。金毛獅子一滴乳。迸散驢兒乳十斛。活却死人平地上。似地擎山石含玉。舉。杲首座立僧上堂云。鶻兒未出窠。已有摩霄志。虎子未絕乳。已有食牛氣。況復羽翼成。況復爪牙備。奮迅即驚群。八面清風起。一條脊梁硬以鐵。一條白棒掀天地。相與建法幢。展衲僧巴鼻。上堂云。不登泰山不知天之高。不涉滄海不知海之闊。此區中之論也。若是其中人。天在一粒粟中。海在一毫頭上。浮幢王華藏界。盡在眉毛眼睫間。且道。此箇人在什麼處安身立命。還委悉麼。無邊虛空盛不受。直透威音更那邊。上堂云。三界無法。霜天皎月。何處求心。山高水深。四大本空。不辨西東。佛依何住。乾坤獨露。透得",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: direct winter hall verse."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0198b03",
+          "ToLb": "0198c06",
+          "Kwic": "，所謂一法立，一弊生。諸上座須是將說底、舉底、盡底掀翻，顯靈一段，本有光明照十方剎。仰山有什麼過？老僧有什麼過？上座有什麼過？舉：仰山在溈山牧牛時，第一座曰：百億毛頭，百億獅子現。山不答，歸侍立。第一座上問訊，山舉前話問云：適來道：百億毛頭，百億獅子現。豈不是上座？座云：是。山云：正當現時，毛前現？毛後現？第一座云：現時不說前後。山乃出。溈山云：獅子腰折了也。師云：溈山此語，坐斷兩邊百億毛頭，百億獅子現，諸人作麼生會？舉梵志詩云：梵志死去來，魂魄見閻老，讀盡百王書，不免被捶拷。風穴云：一稱南無佛，皆已成佛道。師云：獅子一滴乳，迸散六斛驢乳。舉僧問西堂和尚：有問有答，賓主歷然。無問無答時如何？堂云：怕爛却那。僧問長慶：有問有答，賓主歷然。無問無答時如何？慶云：相逢盡道休官去，林下何曾見一人？師云：總向語脈裏轉却，有問有答，賓主歷然。無問無答時如何？一年春已老，臺榭綠陰多。舉鶴林素禪師，一日有屠者禮謁，願就所居辨供。素欣然而往，眾皆訝之。素曰：佛性平等，賢愚一致。但可度者，吾即度之，復何差別之有？師云：屠者禮謁，願就所居辨供，佛性也。素禪師欣然而往，佛性也。眾人訝之，佛性也。所謂佛性平等，賢愚一致。頌古四十四則頌古四十四則世尊在靈山會上拈",
+          "MasterName": "Hengchuan Xinggong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Xinggong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Xinggong owns the retained deployment: direct case judgment."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1411.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Hengchuan Xinggong"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A fixed comparison normally completed by its scattering several measures of donkey's milk. Yuanwu Keqin uses the expression through direct winter hall verse. Hengchuan Xinggong independently deploys it through direct case judgment."
+    }
+  ]
+}

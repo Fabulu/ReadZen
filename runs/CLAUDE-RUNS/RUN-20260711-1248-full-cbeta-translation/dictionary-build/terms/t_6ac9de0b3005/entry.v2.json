@@ -1,0 +1,69 @@
+{
+  "Id": "t_6ac9de0b3005",
+  "SourceTerm": "列剎相望",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "monasteries stand in sight of one another",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "monasteries stand in sight of one another",
+        "temples facing one another"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "剎 denotes monasteries or temple establishments here, not Buddha-fields; context determines whether their proliferation is praised or criticized. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0780b27",
+          "ToLb": "0781a02",
+          "Kwic": "隱確坊八箇月。既聞秀偈。始露鋒鋩。五祖舉衣鉢授之。是時群眾競趁。逐欲奪取。而蒙山道人。最先及之。於大庾嶺頭知不勝。始悟此衣非可以力爭。稽首求法。大鑒以不思善惡本初面目。歛念知歸。盧老以時緣未穩。復遁迹四會縣獵人中久之。尋抵番禺。吐風旛不動動自於心之語。印宗伸弟子之禮。為之削髮登具。由是開大法要。總二千餘眾。聲徹九重。遣貴近降紫泥召之。確然不應度龍象。若讓師清源永嘉南陽荷澤司空數十人。皆大宗師。何其韙歟。唯聖賢示化。進退存亡。了然先照。然考其步驟。從微至著。不斷世緣。而示妙規百世之下。無與為等。到今數百載。充遍寰海。列剎相望。皆其法孫。欽仰洪範。欲擬其毫末。竭誠罄力。終莫髣髴。惟望後昆有力量者勉旃。聊述梗概爾。圓悟佛果禪師語錄卷第十四圓悟佛果禪師語錄卷第十五宋平江府虎丘山門人紹隆等編法語中法語中示覺民知庫示覺民知庫圓湛虛凝道體也。展縮殺活妙用也。善游刃能操守。如珠走盤如盤走珠。無頃刻落虛。亦不分世法佛法。直下打成一片。所謂觸處逢渠。出沒縱橫。初無外物。淨裸裸阿轆轆。以本分事印定。頭頭上明物物上了。何處更有得失是非好惡長短來。但恐自己正眼未得洞明。是致落在二邊。則沒交涉也。豈不見永嘉道上士一決一切了。中下多聞多不信。佛祖言教筌罤爾。藉之",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: Yuanwu's direct description of the many establishments carrying the post-Caoxi tradition."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0888a13",
+          "ToLb": "0888b17",
+          "Kwic": "曰我念有知知此深痛雖覺覺痛底元初是心想流注所以有痛有覺驀然攝念未久身心豁空便證圓通法門這箇是佛在世時事後來有箇玄沙和尚悟處頗相似然更瞥脫似他玄沙本是福州人要遊方去因路中踢著脚指頭忽然大悟心裏道元來只在這裏從此便回更不出嶺及歸見雪峯雪峯知其已徹問曰備頭陀何不遍參去對曰達磨不來東土二祖不往西天雪峯然之妙喜參得禪了因說與老和尚玄沙可惜下得此語遲當時踢著脚指頭便云㘞達磨不來東土二祖不往西天若在這裏說多少好老和尚首肯信知須是不從人得方有自由分然此事在聖不增在凡不減但知作佛莫愁佛不解語溈山所謂研窮至理以悟為則如泉州諸尼大師彼中列剎相望皆善知識自能滯耳朵行脚知道妙喜有真不瞞人處善知識難遇所以得得而來既有決定性只此便是成佛基本今夜是德新請普說又為諸尼大師咨聞入室問佛有因所以兩彩一賽忉忉怛怛不過是麥裏有麵黑豆好合醬有箇話頭諸人但去看這箇話頭便是釋迦老子達磨大師德山臨濟來也只是這箇話僧問趙州狗子還有佛性也無州云無下面更有一絡索僧又問一切眾生皆有佛性因甚麼狗子却無州云為伊有業識在後來真淨和尚恐人颺在無事界裏遂去鼓面打一撮頌曰言有業識在誰云意不深海枯終見底人死不知心此頌極妙當時泰佛性亦曾及此甚賞音之蓋明眼尊宿好本多同諸人但只看箇無字行住坐臥不要放捨提撕來提",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's independent use in assessing the institutional spread of the school."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The line measures institutional spread by making monastery after monastery visible across the landscape. Yuanwu Keqin uses the expression through Yuanwu's direct description of the many establishments carrying the post-Caoxi tradition. Dahui Zonggao independently deploys it through Dahui's independent use in assessing the institutional spread of the school."
+    }
+  ]
+}

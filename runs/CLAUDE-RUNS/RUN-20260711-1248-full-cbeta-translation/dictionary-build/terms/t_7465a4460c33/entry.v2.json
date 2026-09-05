@@ -1,0 +1,100 @@
+{
+  "Id": "t_7465a4460c33",
+  "SourceTerm": "燒出古人墳",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "it burned open an ancient's grave",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "burned open an ancient grave",
+        "last night's fire"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 夜來何處火 and do not invent a symbolic identity for the grave. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998B.xml",
+          "FromLb": "0955c14",
+          "ToLb": "0956a13",
+          "Kwic": "。師因讀洞山悟道頌。遂疑云。有箇渠。又有箇我。成什麼禪。遂請益湛堂。堂云。爾更舉看。師遂舉。堂云。爾舉也未會。便推出。圓悟云。達磨西來將何傳授。師云。不可總作野狐精見解。又問。據虎頭收虎尾。第一句下明宗旨。如何是第一句。師云。此是第二句。師一日云。我這裏無逐日長進底禪。遂彈指一下云。若會去便罷參。乃云。今時一般宗師為人。入室三五。遍辨白他不出。却教他說悟處。更問。爾見處如何。學人云。某見處說不得。却云。爾說不得。我如何見得爾去。若恁麼地。如何為人。不見泉大道。到慈明。明云。片雲生谷口。遊人何處來。泉云。夜來何處火。燒出古人墳。明云。未在更道。泉便作虎聲。明便打一坐具。泉推明向禪床上。明却作虎聲。泉云。我見八十四人善知識。惟師繼得臨濟宗風。看他恁麼問答數句子。那裏便是見他處。須是如此始得。師云。山僧待人志誠。須是資質是始得。此是一超直入如來地。參禪須是直心直行直言直語。心言直故。始終地位中間。永無諸委曲相。祖師西來直指人心見性成佛。僧問雲門。如何是佛。門云。乾屎橛。擬議思量已曲了也。何況脫空耶。因無礙。請師讚法海真。乃曰。上江老宿。大段笑下江。雲門下却不笑覺印。蓋他曾見保寧勇真淨輩來。兼圓通曾見舜老夫浮山遠。所以較別。如大小本夫鐵脚輩。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998B.xml). Dahui Pujue’s Armory of the Chan School. Quan Dadao owns the retained deployment: case answer actively raised by Dahui. Dahui Zonggao actively raises and handles the older answer.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Quan Dadao",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Quan Dadao is explicitly identified by the retained source context and case answer actively raised by Dahui.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1008c29",
+          "ToLb": "1009a28",
+          "Kwic": "話。趙州小參要答話。此意如何。師云。布袋鄭頭相似重。僧云。學人今夜小出大遇。師云。爾得箇甚麼。僧便喝。師云。果然。僧禮拜。師拈主丈云。者裡便是妙高孤頂。何須別峯。相見風颼颼水冷冷。衲僧家蹉眼不得。若說隔江招手便乃橫趨。已是落他影子。更言今夜答話不答話。漫天網子。阿誰不知。既知得分曉。只如都城有十二座門。從朝至暮。車馬駢闐。衣冠文物。出入無間。且道。各各所持者何事。若也知得。今夜相見。功不浪施。其如不然。卓主丈。凌空鐵塔鎮長存。夜深誰聽風甌語。復舉。慈明因。泉大道來參。明云。片雲橫谷口。遊人何處來。泉云。夜來何處火。燒出古人墳。明云。未在更道。泉便作虎聲。明打一坐具。泉推倒慈明。明亦作虎聲。泉退身笑云。我參七十餘員善知識。惟師可以繼得臨際正宗。師云。叢林中往往道。慈明當時末後。更與一喝。使泉大道無立地處。是則是。殊不知。有際天之洪濤。可以容吞舟之魚。夜深久立。結夏小參。竺土大仙。於九夏之月。布漫天網子。籠絡天下衲僧。謂之禁足護生剋期取證。致於南山內堂外堂。排單下搨。箇箇如生鐵橛。捱得期滿。各人要箇禪鈔子以憑賞勞。雖然忽若有箇漏網底。向未立制已前。山邊水邊。說東話西。驀然蹉口道著爺名。又作麼生。急急出來。下一轉語。卓主丈云。收功較易。補過",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Quan Dadao owns the retained deployment: case answer actively raised by Xutang. Xutang Zhiyu actively raises and handles the older answer.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Quan Dadao",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Quan Dadao is explicitly identified by the retained source context and case answer actively raised by Xutang.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998B.xml",
+        "T/T47/T47n2000.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Quan Dadao's answer to Ciming's question about where the previous night's fire was. Quan Dadao uses the expression through case answer actively raised by Dahui. Quan Dadao independently deploys it through case answer actively raised by Xutang."
+    }
+  ]
+}

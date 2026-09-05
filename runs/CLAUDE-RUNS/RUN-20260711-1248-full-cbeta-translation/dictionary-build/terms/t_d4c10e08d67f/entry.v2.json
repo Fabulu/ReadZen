@@ -1,0 +1,69 @@
+{
+  "Id": "t_d4c10e08d67f",
+  "SourceTerm": "鼻孔大頭垂",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the nostrils hang down, broad end first",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "nostrils hang down"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not convert the physical line into mystical symbolism. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0202a16",
+          "ToLb": "0202b30",
+          "Kwic": "難畫骨，知人知面不知心。」頌：靈山千古振宗風，列聖場中一線通，縱有高賢留不住，夜深明月掛青松。曹溪大休珠禪師住越城天華寺百問卷第七嗣法弟子德明答頌瑞鹿法孫行信編次問：「有句無句，如藤倚樹，樹倒藤枯。且道句歸何處？」答：「夜來床席煖，伸腳到天明。」頌：一條白棒沒頭埋，脫落一聲天外來，獅子翻身擒住也，至今懸挂在眉台。問：「若論此事，直饒辨若懸河、答如流水，總與那事沒交涉。如何是那事？」答：「某甲忘卻了。」頌：東風昨夜到天邊，吹落寒光隱翠巔，縱有兜羅攀不住，夜深倒挂月明前。問：「千說萬說，不如一決。且道決個甚麼？」答：「鼻孔大頭垂。」頌：古澗溪頭楊柳青，黃鸝處處弄機聲，東風一陣吹將盡，花蕊紛紛滿四鄰。問：「喝一喝，云：『是賓耶？是主耶？』」答：「某甲昨日從天台來。」頌：耀武揚威振萬兵，一番提起一番新，紅輪透出金鞭響，得勝歸來萬國欽。問：「拈拄杖云：『一千七百則葛藤皆從這裡出。』且道這個又從甚麼處出？」答：「且放下著。」頌：驀地翻身透萬峰，吹毛揮處落霜紅，展開兩隻修羅手，百億須彌不露蹤。問：「不是嶺頭傳底事，豈從雞足付將來？即今手裡拈的、口裡道的，畢竟從甚麼處得來？」答：「拂子頭邊。」頌：昨夜泥牛翻海底，今朝木馬吼春風，須彌撥轉青霄外，大地收",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: direct answer to a request for the decisive matter."
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0549a11",
+          "ToLb": "0549b04",
+          "Kwic": "轉語，切不可丟在無事甲裏。還委悉麼？佛法無多子，久長難得人。問答問答僧問：「四十九年後則不問，四十九年前事如何？」師云：「雪山夜夜寒。」僧擬議，師云：「還記得話頭麼？」進云：「不因師舉，幾乎忘卻。」師打云：「且莫詐明頭。」僧問：「兩頭不著，畢竟在甚麼處？」師打云：「這裏容你不得。」僧喝，師云：「聖僧笑你。」僧問：「前塗未去，如何是到家消息？」師打云：「莫妄想。」僧喝，師云：「客作漢，亂喝作麼？」僧問：「胸中放不下，且道如何得消殞去？」師伸手云：「將你放不下的與我看。」僧罔措，師便掌。僧問：「如何是覿面事？」師云：「鼻孔大頭垂。」僧問：「未離兜率，已降皇宮；未出母胎，度人已畢。此意如何？」師云：「不是苦心人不知。」進云：「為復神通妙用，法爾如然？」師云：「天上天下，唯我獨尊。」僧云：「金雞啄破璃琉殼，玉兔挨開碧海門。」師云：「非公境界。」僧云：「秪如彌勒真彌勒，分身千百億，時時示時人，時人自不識，且道彌勒在甚麼處？」師湧身云：「道甚麼？」僧云：「可謂頭頭垂示處，仔細好生觀。」師云：「閒言語。」僧問：「大開爐韝即不問，轉凡成聖事如何？」師云：「紅爐爆出鐵烏龜。」僧擬議，師便掌。師泥壁次，僧問：「和尚自泥壁。」師云：「我若不泥，誰為我泥？」",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue directly answers the face-to-face-matter question with the retained phrase.",
+          "ActorAttribution": null
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB192.xml",
+        "J/J33/J33nB287.xml"
+      ],
+      "RelatedMasters": [
+        "Daxiu Zhu",
+        "Zixian Jue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A deliberately ordinary facial description repeatedly used as an answer or acknowledgment. Daxiu Zhu uses the expression through direct answer to a request for the decisive matter. Zixian Jue independently deploys it through direct answer to a question about the face-to-face matter."
+    }
+  ]
+}

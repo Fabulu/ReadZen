@@ -1,0 +1,71 @@
+{
+  "Id": "t_d4a9d12603a0",
+  "SourceTerm": "討箇分曉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "get the matter clearly settled",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "get the matter clearly settled",
+        "press to a clear settlement"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "It does not promise a conceptual explanation. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1402.xml",
+          "FromLb": "0740c19",
+          "ToLb": "0741a20",
+          "Kwic": "自心真實底，直須將父母未生前那箇是我本來面目話，三二十年參去，直待徹悟，方為諦當。你鄉裏人參禪，多不曾參而至於悟，但只以聰明之姿，學解禪詮，妄認目前昭昭鑒覺者為自性，不肯下死工夫，真實求悟，總是癡狂外邊走，大不濟事。示逸上人示逸上人永嘉謂：絕學無為閑道人，不除妄想不求真。這箇說話，脫賺多少人向無事甲中蹲坐，究竟不能超越。當知絕學之理，不是便與麼休歇底事，須到心空及第之處，命根子親切斷一回，方絕學也。既爾絕學，則無為之道卓爾現前。如今真箇要親切與此道相應，但於十二時中，單單提起箇趙州因甚道箇無字，𢬵取三十年向所參話上討箇分曉，則知無為不待別有所為，而自然步步相應者矣。逸上人但如此體取，如其不然，非予所知。示養直蒙首座示養直蒙首座初祖少林謂：直指人心，見性成佛。言直指之直，離言說，有言說則不直也；絕思惟，才思惟則不直也；無造作，擬造作則不直也；泯修證，微涉修證則不直也。於是六傳至曹溪，謂：說箇直指，早已迂曲了也。此說之下，更容得箇甚麼道理？古人不得已，教你放下休歇，又教你一念不生，乃至善惡都莫思量等語，與麼商量，總不直了也。蒙首座號養直，若有志要養直指之直，但將箇趙州因甚道箇無字頓在方寸中，莫問它一念生與不生、道理直而不直，立定丁字脚頭",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1402.xml). Miscellaneous Records of Chan Master Tianmu Mingben. Zhongfeng Mingben owns the retained deployment: direct instruction."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0045b02",
+          "ToLb": "0045b30",
+          "Kwic": "生平，并不說起生之來處、死之去處，是何道理？倘若會得，伸手原在縮手裏。示自若禪人示自若禪人吾鄉有僧號自若，從亂而治，幸免此大劫運。來參老僧，蒲團幾破，未知與此道何若？如果有相應處，試為老僧道將一句來。示獨吼禪人示獨吼禪人如來一音說法，眾生隨類得解。法無定旨，機無前後，總在就裏諦當，法法頭頭無不從此一音演出。若會一音，萬籟俱靜。此音不在別處，即在昭昭然心目之間、晃晃然色塵之內，若體取得，一生參學事畢。示語之禪人示語之禪人既為佛子，當報佛恩。然佛恩者何？先佛捨萬乘之榮所為何事？諦審此事，不在別處，只在日用尋常見聞覺知處討箇分曉，佛恩、師恩、親恩，一時報畢。示策眉禪人示策眉禪人學道無分老少，只要信得及。此信非從外來，即是日用穿衣喫飯、迎賓待客、屙屎放尿、一動一靜處看是阿誰主張，所謂「尋牛須訪跡，學道貴無心」是也。示悟一禪者示悟一禪者學道如登萬仞山，行一步是一步境界，畢竟要亡身捨命，一直到頂。萬萬不得至時，莫生恐怖退屈，自有到頂時也。示我非禪者示我非禪者既到出家地步，無榮無辱，穿現成、喫現成，百事不干懷，行住坐臥莫放過話頭，或參念佛是誰，只看「誰」字下落，忽地覷破，一生參學事畢。示寅水行者示寅水行者同善知識住，行善知識事，日久歲深，漸以成褫",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: independent contrast with lip-play."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1402.xml",
+        "J/J26/J26nB177.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [
+        "生死事大"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A demand to press an unresolved matter until it is distinctly settled rather than merely discussed or delayed. Zhongfeng Mingben uses the expression through direct instruction. Poshan Haiming independently deploys it through independent contrast with lip-play."
+    }
+  ]
+}

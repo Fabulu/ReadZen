@@ -1,0 +1,78 @@
+{
+  "Id": "t_49993125d5e4",
+  "SourceTerm": "截耳臥街",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "cut off the ears and lie in the street",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "cut off ears lie in street",
+        "mutilated yet exposed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the concrete violence and public exposure; do not turn it into a doctrine of secrecy. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0670a13",
+          "ToLb": "0670b11",
+          "Kwic": "點撿得出。許他頂門上一隻眼。便下座。上堂。僧問。古人借問田中事。插鍬叉手意如何。師云。人從陳州來。不得許州信。問古人道。有讀書人到來。意旨如何。師云。且在門外立。學云。請師相見。師云。任是顏回亦不通。師乃云。立賓立主剜肉作瘡。舉古舉今拋沙撒土。直下無事。正是無孔鐵槌。別有機關。合入無間地獄。明眼衲子應須自看。上堂。僧問。古人一喝不作一喝用。是否。師云是。僧便喝。師便棒。僧無語。師云。謔我。問古人道。有佛法處不得住。無佛法處急走過。意旨如何。師云。氣急殺人。僧擬議。師云。甚麼處去也。問只在目前。為甚麼再三不覩。師云。截耳臥街。僧云恰是。師云。令我攢眉。問黑豆未生芽時如何。師云。餧驢餧馬。進云。生後如何。師云。透水透沙。僧禮拜。師云。一似不齋來。問功巧諸技藝。盡現行此事。如何是此事。師云。諸方牓樣進云。莫便是學人會處也無。師云。有頭無尾漢。師乃云。過去諸如來。斯門已成就。放過一著。現在諸菩薩。今各入圓明。兩重公案。未來修學人。總被翠峯穿却鼻孔。上堂云。智者聊聞猛提取。莫待須臾失却頭。問丹霄獨步時如何。師云。脚下踏索。進云。天下橫行去也。師云。徐六擔板問學人乍入叢林。諸事不會。未審師還拯濟也無。師云。蘇州紙貴。進云。和尚豈無方便。師云。腦",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: direct answer."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0810a08",
+          "ToLb": "0810b03",
+          "Kwic": "。」二虎哮吼而去。裴問曰：「師作何行業感得如斯？」師乃良久，曰：「會麼？」曰：「不會。」師曰：「山僧常念觀音。」本色住山人，無心自合道。天人龍虎悉皈依，水到渠成非作造。問何行業感如斯？山僧常念觀音號。古寺和尚，丹霞來參經宿，明旦粥熟，行者祇盛一缽與師，又盛一碗自喫，殊不顧。丹霞亦自盛粥喫，者曰：「五更侵蚤起，更有夜行人。」霞問師：「何不教訓行者，得恁麼無禮？」師曰：「淨地上不可更點污人家男女。」霞曰：「幾不問過者老漢。」家富小兒嬌，強兵無弱將。泥牛吼月浪千尋，石筍抽條長萬丈。黑澗和尚因僧問：「如何是密室？」師曰：「截耳臥街。」「如何是密室中人？」師乃換手搥胸。密室虛通絕正偏，毫無造作始天然。風前不薦室中主，更要將軍贈玉鞭。能善委，直如絃，買得風流不用錢。鹽官安國師，有法空禪師到，請問經中諸義，師一一畣了，卻曰：「自禪師來，貧道總未作得主人。」曰：「便請和尚作主人。」師曰：「今日夜也，且歸本位安置，明日卻來。」法空下去。至明旦，師令沙彌屈法空禪師。法空至，師顧沙彌曰：「咄！者沙彌不了事，教屈法空禪師，屈得箇守堂家人。」法空無語。酬醋慇懃全道義，和光應物探來賓，洪鈞律轉華千對，客情猶自不知春。旁敲正打，喪卻全身，一聲黃鳥青山外，占斷風光",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Quan owns the retained deployment: independent active raising.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Dabian Quan",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Dabian Quan is explicitly identified by the retained source context and independent active raising.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "J/J29/J29nB248.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A grotesque answer for claimed seclusion: mutilated ears are paired with lying openly in the street. Xuedou Chongxian uses the expression through direct answer. Dabian Quan independently deploys it through independent active raising."
+    }
+  ]
+}

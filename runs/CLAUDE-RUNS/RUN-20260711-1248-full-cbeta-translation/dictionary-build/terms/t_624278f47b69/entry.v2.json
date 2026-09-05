@@ -1,0 +1,68 @@
+{
+  "Id": "t_624278f47b69",
+  "SourceTerm": "美則美矣",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "beautiful, certainly—but...",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "beautiful certainly but"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the qualification structure; do not translate it as unqualified praise. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0253a23",
+          "ToLb": "0253b21",
+          "Kwic": "忙腳亂。大眾！洛浦當時一喝就死，聽其取斷；若不如此，豈有今日？」頌曰。「釘樁搖櫓死登登，帶水拖泥赤律藤，不辯來鋒施一喝，深巖古殿撲寒燈。」太陽明安察和尚問梁山：「如何是無相道場？」山指觀音：「此是吳處士畫。」陽擬進語，山急索云：「這箇有相的。」陽言下有省，禮拜歸位立。山云：「何不道取一句子。」陽云：「道則不辭，恐上紙墨。」山呵呵云：「此上石去。」在後果上碑。師拈云：「塵說剎說，微細說，橫說豎說，一切說。與麼說，總不如隨例度日。且明安言下有省，禮拜歸位，這些子，恰似高高峰頂立，深深海底行。梁山知伊安手腳處，不覺失笑。美則美矣，爭奈死馬作活馬醫。」頌曰：「路窮機喪果無疑，撒手懸崖別是奇，透出目前聲色境，始知下落舊支離。」雪峰在洞山會下作典座，淘米次，山問云：「淘米去沙？淘沙去米？」峰云：「沙米一時去。」山云：「大眾喫箇什麼？」峰乃覆卻盆。山云：「得即得，須別見人始得。」後果嗣德山。師拈云：「佛法無你造作安排處，要首尾見得透徹，不然情生智隔。且雪峰與道麼，畢竟是會洞山意？不會洞山意？洞山不妨作家，也不分訴，只道箇『別見人』，只此便見得雪峰被洞山徹頭徹尾勘破也。後果嗣德山，可謂『珊瑚枕上兩行淚，半是思君半恨君。』」頌曰：「覆卻盆兮話未休，那",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: direct case commentary followed by a reservation."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0528a28",
+          "ToLb": "0528b20",
+          "Kwic": "不是溈山怎出頭？」示眾，師云：「今朝七月一，箇事如何說？秋風漸漸來，切莫耽放逸。日月易蹉跎，光陰在瞬息。若不把本參，焉能得竟徹？敢問諸人：臘月三十日到來，作麼生打疊得去？」顧視左右云：「噫！丈夫不奮沖天志，依舊懡㦬過一生。」示眾，舉：「僧問雲峰：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』妙喜云：『雲門即不然。如何是心地法門？不從人得。不從人得時如何？看腳下。』楚石云：『或問天寧：如何是心地法門？不從人得。不從人得時如何？早晨有粥，齋時有飯。』」師云：「諸大老恁麼答話，美則美矣，善則未善。若問磬山：如何是心地法門？不從人得？不從人得時如何？如人飲水，冷煖自知。」示眾，師拈拄杖云：「今日七月半，農夫禾好看，你我衲僧家，以何為公驗？秋風一陣來，黃葉兩三片，凋殘功德林，石人也驚歎。既然如是，各各須教照顧鼻孔，切忌漫將閒學解，依稀埋沒祖師心。」擲下拄杖。示眾，舉：「僧問五祖：『如何是佛？』祖云：『露胸跣足。』『如何是法？』云：『大赦不放。』『如何是僧？』云：『釣魚船上謝三郎。』妙喜云：『此三轉語，一轉具三玄三要、四料簡、四賓主，洞山五位，雲門三句，百千法門無量妙義。若人揀得，許你具一隻眼。』楚石",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: direct judgment on earlier answers."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB163.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Guting Shanjian",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A recurrent evaluative concession that grants something is fine and then qualifies it with a defect or reservation. Guting Shanjian uses the expression through direct case commentary followed by a reservation. Tianyin Yuanxiu independently deploys it through direct judgment on earlier answers."
+    }
+  ]
+}

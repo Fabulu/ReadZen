@@ -1,0 +1,86 @@
+{
+  "Id": "t_b145f415d2e0",
+  "SourceTerm": "焉知被底穿",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "how would you know the quilt is worn through underneath?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "how know quilt worn underneath",
+        "shared-bed knowledge"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the 若不同床睡 variant first half; 穿 is not an abstract breakthrough. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0830a20",
+          "ToLb": "0831a03",
+          "Kwic": "要識凌行婆麼聽山僧下箇注脚請轉一藏只半藏瞞他婆子眼不得且作麼生是婆子眼還委悉麼此時若不究根源直待當來問彌勒。張龍學侍郎為秦國太夫人請普說張龍學侍郎為秦國太夫人請普說僧問香嚴上樹話意旨如何師云吃嘹舌頭三千里進云香嚴呵呵大笑意旨如何師云雲在嶺頭閑不徹水流㵎下太忙生進云恁麼則藏身露影得人憎師云你且道是樹上語樹下語進云一狀領過師云洎不問過。僧問承師有言請轉一藏只半藏瞞他婆子眼不得未審那裏是婆子眼師云你今日被我熱瞞不少進云大小趙州為甚麼却被婆子瞞師云大小婆子却被趙州瞞進云到這裏畢竟事作麼生師云也無畢竟也無作麼生進云若不同床睡焉知被底穿師云閑言語。僧問承師有言我這裏是海蚌禪纔開口差瑜異寶便在面前今日朝宰臨筵請師拈出師云劒去久矣爾方刻舟進云和尚恁麼道還有為人處也無師云有進云如何是和尚為人處師云速禮三拜進云六般神用空不空一顆圓明色非色師云教休不肯休直待雨淋頭便打進云只如觀音大士現一十九身說法未審說甚麼法師舉拂子云說這箇法進云未審這箇是甚麼法師云聾人爭得聞進云只如秦國太夫人現婦女身而說是法未審與觀音大士是同是別師云是別進云恁麼則三轉法輪於大千其輪本來常清淨師云且莫搽胡他僧禮拜師乃云三轉法輪於大千其輪本來常清淨便恁麼會得方知秦國太夫人與觀音大士同一眼見同",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. The unnamed questioning monk voices the headword-bearing question; Dahui Zonggao is the named respondent.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monk questioner",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "僧問 assigns the headword-bearing question to the unnamed monk; the named master responds afterward.",
+            "ReviewedBy": "Batch47 systemic generator repair",
+            "ReviewedUtc": "2026-07-29T14:00:00Z"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0753c19",
+          "ToLb": "0754a16",
+          "Kwic": "眾云。撞著道伴交肩過一生參學事畢。似此稱提。若不知有。爭解恁麼道。可謂從自己胸襟流出。蓋天蓋地。又有問。如何是合聖之言。對云。大小長慶。被闍黎一問。直得口似匾檐。若善參詳。可以丹霄獨步自在縱橫。大眾。還知落處麼。若也未知。為諸人拈出。白雲盡處是青山。行人更在青山外。示眾云。德山小參不答話。打鎖敲枷。趙州小參要答話。將杖探水。崇寧今夜也不管答話。亦不管不答話。偶然向衣單下。拾得箇千年桃核。舉似大眾。乃橫拄杖云。爾諸人。若也恁麼坐斷天下人舌頭。復以拄杖卓地云。爾諸人。若也恁麼入地獄如箭射。且道利害在什麼處。若不同床臥。焉知被底穿。道林寺解夏小參。示眾云。凉夜群動寂。禪庭正清虛。明月印空闊。白雲任卷舒。當陽好定奪。還有作家無。僧問。一塵舉大地收。一葉落天下秋。衲僧分上成得箇什麼。師云。前不迭村後不迭店。進云。大小道林。話頭也不識。師云。切忌虛空裏𪅎啄。進云。和尚恁麼道那。師云。作麼生是爾著實處。僧擬進語。師云了。進云。爭奈落霞與孤鶩齊飛。秋水其長天一色。師云。賊過後張弓。師乃云。於內無心於外無相。於上無佛祖可仰。於下無眾生可悲。慳貪嫉妬俱除。慈悲喜捨併却。兩頭坐斷中道不拘。淨裸裸絕承當。赤灑灑無回互。擊之不濁揚之不清。撥之不動攪之不轉。直下",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: independent direct capping use."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "T/T47/T47n1997.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The consequence of a bed-sharing proverb: only one sharing the bed knows the concealed condition beneath the quilt. Dahui Zonggao uses the expression through direct exchange using the proverb. Yuanwu Keqin independently deploys it through independent direct capping use."
+    }
+  ]
+}

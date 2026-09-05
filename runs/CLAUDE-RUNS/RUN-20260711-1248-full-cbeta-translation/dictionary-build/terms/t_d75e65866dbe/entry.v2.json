@@ -1,0 +1,75 @@
+{
+  "Id": "t_d75e65866dbe",
+  "SourceTerm": "床脚下種菜",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "plant vegetables beneath the bed legs",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "plant vegetables beneath the bed legs"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 鐘樓上念讚 as the companion half, not a synonym. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0299a08",
+          "ToLb": "0299b08",
+          "Kwic": "復舉：僧問古德：寒暑到來，却向甚麼處回避？德云：鑊湯爐炭裡回避。僧云：鑊湯爐炭裡作麼生回避？德云：眾苦不能到。師云：甜瓜徹蔕甜，苦瓠連根苦。上堂。四月十五結，七月十五解，解結本同心，無縛無脫者。以拄杖敲香臺，云：過去諸如來，斯門已成就；現在諸菩薩，今覺入圓明；未來修學人，當依如是法。卓拄杖：白鷺下田千點雪，黃鸎上樹一枝花。上堂，僧問：鐘樓上念讚，床脚下種菜，意旨如何？師云：路逢達道人，不將語默對。進云：畢竟如何？師云：平蕪盡處是青山，行人更在青山外。僧禮拜，師乃云：喫飯療飢，飲酒圖醉，本色衲僧討甚巴鼻？鐘樓上念讚，床脚下種菜。卓拄杖，云：平蕪盡處是青山，行人更在青山外。上堂。拈拄杖，云：一處不通，兩處失功；兩處不通，觸途成滯。卓拄杖，云：一拳拳倒黃鶴樓，一躍躍翻鸚鵡洲。有意氣時添意氣，不風流處也風流。擲下拄杖，下座。上堂：久晴喜雨，久雨喜晴。太元天子，坐致太平。遽起身云：萬歲，萬歲，萬萬歲。下座。上堂，舉睦州看華嚴次，僧問：和尚看什麼經？州云：青色光明雲，紫色光明雲，大光明雲。那邊是什麼雲？僧云：黑雲。州云：今朝定有雨。師云：奇恠諸禪德，惺惺底直是惺惺，傝󳸮底直是傝󳸮。會麼？拍禪床，云：三冬鐵樹滿林華，六月黃河連底凍。喝一喝。上堂。一",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: direct hall deployment."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0854c05",
+          "ToLb": "0855a12",
+          "Kwic": "話󰚁。無面目得人怕。僧問巖頭。古帆未掛時如何。頭云。後園驢喫草頌云。後園驢喫草。一老一不老。驀地撞出來。鬪湊得恰好。僧問巖頭。古帆未掛時如何。頭云。小魚吞大魚。頌云。小魚吞大魚。直路太縈紆。古帆休更問。處處得逢渠。僧問五祖演和尚。如何是臨濟下事。祖云。五逆聞雷。頌云。五逆聞雷。曾參顏回。一粒豆子。爆出冷灰。僧問圜悟和尚。如何是佛。悟云。口是禍門。頌云。口是禍門。電激雷奔。娑竭出海。震動乾坤。佛眼和尚讀靈源十二時歌有偈云。一日日一時時。龍門老心自知。頌云。日日日日。時時時時。違時失候。箇老古錐。南禪師云。鐘樓上念讚。床脚下種菜時如何。黃檗勝禪師云。猛虎當路坐。頌云。直出直入。當面不識。更擬如何。著甚死急。二十四祖尊者因。罽賓國王秉劍於前曰。師得蘊空否。曰已得。曰既得蘊空離生死否。曰已離。曰既離生死可施我頭否。曰身非我有豈況於頭。王便斬之。白乳湧高數尺。王臂自墮頌云。殺人須是殺人漢。當下一刀成兩段。頭臂雖虧劍刃鋒。何似秦時𨍏轢鑽。芭蕉拄杖。頌云。十字街頭。現成行貨。擬欲商量。漆桶蹉過。汾陽十智同真。頌云。兔角龜毛眼裏栽。鐵山當面勢崔嵬。東西南北無門入。曠劫無明當下灰。雲門抽顧頌鑒咦。頌云。雲門鑒咦。少有人知。咄無孔鐵鎚。龐居士問馬大師。不",
+          "MasterName": "Huanglong Huinan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Huanglong Huinan owns the retained deployment: Dahui's active quotation of Huanglong's question."
+        }
+      ],
+      "SourceTexts": [
+        "X/X71/X71n1414.xml",
+        "T/T47/T47n1998A.xml"
+      ],
+      "RelatedMasters": [
+        "Liao'an Qingyu",
+        "Huanglong Huinan",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The second half of the mismatched stock pair 鐘樓上念讚，床脚下種菜. Liao'an Qingyu uses the expression through direct hall deployment. Huanglong Huinan independently deploys it through Dahui's active quotation of Huanglong's question."
+    }
+  ]
+}

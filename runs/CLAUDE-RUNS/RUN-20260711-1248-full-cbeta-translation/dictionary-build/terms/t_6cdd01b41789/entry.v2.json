@@ -1,0 +1,136 @@
+{
+  "Id": "t_6cdd01b41789",
+  "SourceTerm": "連下兩錯",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01b fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "delivered two 'wrong!'s in succession",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "gave two successive wrongs"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "連下 makes Xiyuan the issuer of two successive 'Wrong!'s. The four records perform different work on that same encounter; they are not four independent origins.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0004c05",
+          "ToLb": "0004c25",
+          "Kwic": "。所謂承言者喪、滯句者迷，且作麼生是不承言、不滯句者？還委悉麼？不知誰是個中人，獨自出頭天外舉。」喝一喝，下座。上堂，舉：「汝州西院思明禪師因天平從漪禪師行腳時到參次，乃云：『莫道會佛法，覓個舉話底人也無。』一日，漪在法堂前徐步經行，院見乃召云：『從漪。』漪舉頭，院云：『錯。』漪進前兩三步，院又云：『錯。』漪近前，院云：『適來者兩錯，是西院錯？是上座錯？』漪云：『是從漪錯。』院云：『錯。』復云：『上座且在這裡過夏，待共商量者兩錯。』漪不肯，憤然而去。我笑巖師翁為眾舉了，云：『諸禪者！天平恁麼也不無見處，為什麼被西院連下兩錯？進前無路、退後無門，只者個便是古今行腳稱禪客空抱膏肓底樣子也。當時西院云：「適來者兩錯，是西院錯？是上座錯？」卻好道個「錯」。雖乃將錯就錯，要且抹得一半亦不辱行腳之事，卻云「是從漪錯。」太煞不唧溜，韓盧逐塊，自納敗闕。』乃視左右，云：『如今者裡平平妥妥，無絲毫差忒，山僧忽下兩個錯，云：「錯，錯。」汝等道者兩錯，是山僧錯？是諸上座錯？』一僧出云：『錯。』乃打一拂子，云：『適來教得孩兒解罵爺。』悟上座這裡又不然。何故？諸兄弟又不曾道：『莫道會佛法，覓個舉話底人也無。』悟上座也不曾召眾兄弟、也不曾道個錯。既不曾道個錯，",
+          "MasterName": "Xiaoyan Debao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyan Debao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Miyun quotes Xiaoyan Debao's appraisal; Xiaoyan utters the exact headword clause."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0020b17",
+          "ToLb": "0020c09",
+          "Kwic": "克賓維那，法戰不勝，不得喫飯。』即便出院。雲居舜云：『大冶精金應無變色，其奈興化令行太嚴，不是克賓，大難承當。若如今汎汎之徒，翻轉面皮多少時也。』又從漪上座到西院旬日，常自曰：『莫道會佛法人，要覓箇舉話底人也無。』西院聞之而默然。漪異日上法堂次，院召從漪，漪舉首，院曰：『錯。』漪進前三兩步，院又曰：『錯。』漪近前，院曰：『適來兩錯，是上座錯？是思明錯？』曰：『是從漪錯。』院曰：『錯錯。』乃曰：『上座且在這裏過夏，共汝商量這兩錯。』漪不肯便去，後住相州天平山，每舉前話曰：『我行腳時，被惡風吹到汝州，有箇西院長老勘我，連下兩錯，更留我過夏，待共我商量。我不道恁麼時錯，我發足向南方去時，早知錯了也。』老僧每舉此話問學人來十餘年，無有愜意者，都道天平後語，正與未跨船舷，未過新羅，早已喫三十棒了也。一模脫出，有何二致？苦哉屈哉，天平以我謾偷心，不肯度夏商量，致使終身不知西院落處，至後開法猶作箇語話，可謂迷而不返。我輩更食他唾餘，不肯虛心體究。鹿門所謂認得箇動轉底，便以道極則極靈利，此之謂佛法也。天平別西院不知多少時了，將語錄成一則，是有待後人揀點，必有大義存焉。何不細心體究看？便恁麼容易開口，若未跨船舷之語，有何難會？不見首山拈云：『據天平作",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). The later record raises Tianping's case; Tianping Congyi utters the exact retrospective clause.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-identified Chan master",
+            "ActorLabel": "Tianping Congyi",
+            "ActorRole": "quoted case speaker",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "後住相州天平山，每舉前話曰 opens Tianping's self-report containing 被西院連下兩錯.",
+            "ReviewedBy": "R01b correction B",
+            "ReviewedUtc": "2026-07-29T22:30:00Z",
+            "SourceIdentity": "天平從漪 / Tianping Congyi"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0546c12",
+          "ToLb": "0547a03",
+          "Kwic": "』平行三兩步。院又云：『錯。』平近前。院云：『適來這兩錯，是西院錯？是上座錯？』平云：『從漪錯。』院云：『錯。』平休去。」師拈云：「衲僧行腳，切不得草草，纔有些些省處，便開大口，須要自己揣摩，十二時中還曾穩當不？心境一如不？腳踏實地不？如紅爐飛片雪不？可見天平行腳時自滿，道會禪，傍若無人。驀然撞著西院一拶，下兩箇錯字，便把一肚子禪道一點也用不著。當時若作天平，待西院道：『適來這兩錯，是西院錯？上座錯？』何不高聲還他，道箇：『錯。』管教西院自然不作故眼相看。直到後來住院，謂眾云：『我當初行腳時，被業風吹到思明長老處，連下兩錯，更留我過夏，待共我商量。我不道恁麼時錯，我發足向南方去時，早知道錯了也。看他恁麼示眾，正所謂行年五十而知四十九年之非。雖然如是，也是貧兒思舊債。』磬山今日亦下箇錯。且道這個錯與西院同耶？別耶？與天平同耶？別耶？諸人試辨看。有麼？有麼？」復云：「錯。」舉：「雲門大師云：『光不透脫，有兩般病：一切處不明，面前有物是一；透得一切法空，隱隱地有箇物相似，亦是光不透脫。又法身亦有兩般病：得到法身，為法執不忘，己見猶存，墮在法身邊是一；直饒透得，放過即不可。子細簡點將來，有什麼氣息，亦是病。』」師拈云：「病多諳藥性，得瘥始傳",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). The later record raises Tianping's case; Tianping Congyi utters the exact retrospective clause.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-identified Chan master",
+            "ActorLabel": "Tianping Congyi",
+            "ActorRole": "quoted case speaker",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "直到後來住院，謂眾云 opens Tianping's self-report containing 連下兩錯.",
+            "ReviewedBy": "R01b correction B",
+            "ReviewedUtc": "2026-07-29T22:30:00Z",
+            "SourceIdentity": "天平從漪 / Tianping Congyi"
+          }
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0994a19",
+          "ToLb": "0994b18",
+          "Kwic": "必善財歛念彌勒彈指。普請四聖六凡。入此大光明藏。互為主伴。快說禪病。使瞽者明。聾者聽。迷者悟。縛者脫。於是九十之期。各證本法。然後升雙檮堂。入息畊室。向無星等子上。較其重輕。以憑勞賞會麼。卓主丈。力㘞唏。咄咄咄。復舉。天平漪和尚行脚時。參西院每云。莫道會佛法。覓箇舉話底也無。一日西院召云。從漪。平舉頭。院云。錯。平行三兩步。院又云。錯。平近前。院云。適來者兩錯。是西院錯。上座錯。平云。是從漪錯。院云。錯。平休去。院云。且在者裏過夏。待共上座商量者兩錯。平當時起去。後住院謂眾云。我當初行脚時。被風吹過思明長老處。被他連下兩錯。更留我過夏商量。我不道那時錯。發足南方時早錯了也。師云。慢藏誨盜。冶容誨婬。雙林今夏還有商量者兩錯底麼。次日上堂。箇箇頂天履地。為甚麼。蹈著二千年前底影子。便做一動子不得。莫有不蹈者影子底麼。卓主丈。有則有。只是今日不來。謝頭首秉拂上堂。以檀拜將。為求活國之英。以拂授人。要見枯心之士。雲黃峯下。象龍所歸。虛堂薄處。先穿引得證龜作鼈。開山忌日上堂。正法像法知他是幾年。尚且拈弄不出。那堪忍俊不禁出來攙行奪市既未得箇補處。又却恁麼去。是去非去。卓主丈露。上堂舉。興化因。僧問。四方八面來時如何。化云。打中間底。僧便禮拜。",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). The later record raises Tianping's case; Tianping Congyi utters the exact retrospective clause.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "source-identified Chan master",
+            "ActorLabel": "Tianping Congyi",
+            "ActorRole": "quoted case speaker",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "後住院謂眾云 opens Tianping's self-report containing 被他連下兩錯.",
+            "ReviewedBy": "R01b correction B",
+            "ReviewedUtc": "2026-07-29T22:30:00Z",
+            "SourceIdentity": "天平從漪 / Tianping Congyi"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB189.xml",
+        "J/J25/J25nB171.xml",
+        "T/T47/T47n2000.xml"
+      ],
+      "RelatedMasters": [
+        "Xiaoyan Debao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The phrase counts Xiyuan's paired verdicts in Tianping's remembered encounter. Xiaoyan asks why they landed; Sanyi condemns Tianping's failure to understand; Tianyin imagines the answer he should have made; Xutang calls the preserved story an invitation to theft. Xiaoyan Debao asks why Tianping was struck by Xiyuan's two successive verdicts; Miyun's record quotes Xiaoyan's appraisal. Sanyi raises Tianping's self-report and condemns his failure to understand Xiyuan; Tianping speaks the exact retrospective clause. Tianyin quotes Tianping's later self-report, then supplies the answer he thinks Tianping should have made. Xutang quotes Tianping's self-report and follows the inherited case with his own warning that careless storage invites theft."
+    }
+  ]
+}

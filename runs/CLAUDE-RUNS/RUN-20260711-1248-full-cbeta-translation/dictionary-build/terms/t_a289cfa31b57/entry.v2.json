@@ -1,0 +1,75 @@
+{
+  "Id": "t_a289cfa31b57",
+  "SourceTerm": "丫角女子白頭絲",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a young girl with forked hair-knots, her hair white as silk",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a young girl with forked hair-knots, her hair white as silk"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "丫角 indicates a girl's forked or horn-like hair arrangement, not literal horns. Preserve the whole young-and-old image rather than resolving its contradiction. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1396.xml",
+          "FromLb": "0583c06",
+          "ToLb": "0583c08",
+          "Kwic": "，遠山無限碧層層。僧問投子和尚住此山有何境界子云丫角女子白頭絲僧問投子：和尚住此山有何境界？子云：丫角女子白頭",
+          "MasterName": "Touzi Datong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Datong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1396.xml). Recorded Sayings of Chan Master Wujian Xiandu. Touzi Datong owns the retained deployment: case commentary and verse."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0057a02",
+          "ToLb": "0057a05",
+          "Kwic": "人來相問山何境，徹底從頭舉似伊，急著眼，莫遲疑，丫角女子白頭絲。咦。投子指菴前石投子布山漫天網，雪峰走入伊圈套",
+          "MasterName": "Touzi Datong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Datong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Touzi Datong's answer words are retained verbatim in Miyun Yuanwu's verse within Miyun's own record."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1396.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [
+        "Touzi Datong",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Touzi Datong answers the mountain-scenery question with a girl's forked hair-knots and white hair joined in one impossible image. Touzi Datong uses the expression through case commentary and verse. Touzi Datong's answer words are retained verbatim in Miyun Yuanwu's verse of his own record."
+    }
+  ]
+}

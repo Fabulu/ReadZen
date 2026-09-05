@@ -1,0 +1,69 @@
+{
+  "Id": "t_905291bc832b",
+  "SourceTerm": "忤逆聞雷",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a rebel hears thunder",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "rebel hears thunder",
+        "Linji house thunder image"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Retain the Linji-house attribution; literal weather is not this technical comparison. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0156a28",
+          "ToLb": "0156b20",
+          "Kwic": "明，不能真到，目朝雲漢，萬事當前，猶有禪道佛法，超生脫死，自在快活等見，亞在心口，不能如雲之起滅，草之榮衰。故師承于了手大痛快處，重新設諸鍛藥，越鍛越盡，畢竟于頹然無氣息處，轟雷走電過日耳。且道如何是臨濟宗？他從黃檗三頓痛棒，悟得馬祖、百丈豎拂掛拂，一喝耳聾道理，便向大愚肋下三拳，從上宗旨印定一句中三玄，一玄中三要，衍開大法，洞然頭角撐天、四蹄立地，令厥後兒孫向賓主中，以自己之眼付之棒頭，以棒頭之眼換來額上，只將石頭說法，枯木生花，曲盡陽春，不失時候而已。此臨濟家絕人于棒上，裂斷棒上命根，自由自在者也。所以古人謂之忤逆聞雷，不愁不死，雜毒塗鼓，喻最親切。至于雲門，纔踏睦州門閾，便喫一推足折，但聞秦時𨍏轢鑽，便會得機前一著，較之臨濟更加迅毒，古人謂之紅旂閃爍，不待見其全師布陣而天下定矣。柰何太捷難知，不免源流早絕，不如臨濟委曲詳盡，使後人無將就傳法之弊。至於溈山，從有火、無火兩不可得處悟得，柴上一吹便解，野狐不落不昧，撼門三下，如斷碑橫路，雖中斷而兩礙。故仰山信位、人位至於無位了不可得，亦如濟上之棒眼、雲門之機，先皆拔脫身心，自有一片白雲為我捲空捲地、摧山碎岳，而我猶在爐邊坐臥，貪芋子之香、覓菜羹之熟，總不知有也。至於法眼，聞不知最親",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang is the explicit speaker of the retained headword-bearing turn; the source's Sanfeng Fazang name resolves to this canonical roster identity."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0680b30",
+          "ToLb": "0680c10",
+          "Kwic": "，馳書不到家之天地無門，斷碑古路之無轉身，巡人犯夜之無活計也，豈不奇乎？又如阿難為佛侍者，多聞第一，卻乃誤墮淫室，此非巡人犯夜乎？淫躬撫摩，將毀戒體，忽而文殊將咒往護，提獎阿難、摩登而歸，一人悲泣，自恨道力未全，一人淫心頓歇，即證初地，此非忤逆聞雷乎？七處徵心，如煮荳燃荳箕，又如七擒孟獲，此非紅旗閃爍乎？八還辯見，換卻心眼，此非馳書不到家乎？三科七大，礙塞殺人，此非斷碑橫古路乎？如此，則天下事業機緣，未有不從逆中而得還源也。選圓通處，皆是逆流，而洞上亦云：『唯大闡提能作五無間業，始得",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: independent five-house discussion."
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB299.xml",
+        "J/J34/J34nB311.xml"
+      ],
+      "RelatedMasters": [
+        "Hanyue Fazang",
+        "Juelang Daosheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The inherited image assigned to the Linji house: a guilty rebel hears thunder and is struck with immediate mortal alarm. Hanyue Fazang explains the image while distinguishing the five houses. Juelang Daosheng independently assigns the thunderstruck-rebel comparison to Linji."
+    }
+  ]
+}

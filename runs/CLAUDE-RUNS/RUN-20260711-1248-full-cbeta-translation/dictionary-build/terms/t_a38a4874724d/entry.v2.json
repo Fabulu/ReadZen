@@ -1,0 +1,67 @@
+{
+  "Id": "t_a38a4874724d",
+  "SourceTerm": "眉毛上透乾坤",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch67 admitted14 constructor C",
+  "WrittenUtc": "2026-07-29T14:50:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the eyebrows penetrate heaven and earth above",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "eyebrows penetrate heaven and earth above"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Parallel editions preserve one Yunmen discourse, not independent events.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0563c16",
+          "ToLb": "0564a13",
+          "Kwic": "籠向佛殿裏。將三門來燈籠上。作麼生。代云。逐物意移。又云。雷起雲興。一日云。宗門作麼生舉令。代云吽。師或云。阿耶耶。新羅國裏打鐵。火星燒著我指頭。自代云。非但指頭。師或云。從上祖師三世諸佛說法。山河大地草木。為什麼不省去。代云。新到行人事。又云。和尚京中喫麫多。師或云。萬法紜紜。三世諸佛天下老和尚一時出頭。過在什麼處。代云。著什麼來由。一日云。忽然有一箇老宿。把弓刀按劍。入地獄如箭射。還有人會得這箇時節麼。代云。鑰匙在和尚手裏。或云。古人道。難得不錯怪人句。作麼生是不錯怪人句。代云爭塞得人口。一日云。眼睫橫亘十方。眉毛上透乾坤下透黃泉。須彌塞却爾咽喉。還有人會得麼。若有人會得。拽取占波共新羅鬪額。代云哂。或云。古人道。聲香味觸常三昧。我與爾葛藤。乃拈拄杖云。這箇拄杖子是三昧。爾若識得拄杖子。即識得天下老宿。又云。爾若識得拄杖子。未夢見天下老宿脚跟下一莖毛。代云。和尚不使別人。一日云。一箭兩𣐟作麼生。代云。長安雖樂。或云。日謝樹無影。這箇是佛殿。那箇是無影。代云。洎分南北。一日云。作麼生道得不落第二問。代云。洪州鞋履。一日拈起拄杖云。解脫深坑勃跳。代云出。或云。一語明得不要分外。代云。將謂是天地。師或云。塵無自性。攬真成立。作麼生是成立底",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment: controlling direct record."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0726a12",
+          "ToLb": "0726b19",
+          "Kwic": "多少師云七九六十八進云為什麼七九六十八師云我為你減却五年問十方薄伽梵一路涅槃門如何是一路涅槃門師云我道不得進云和尚為什麼道不得師云是你舉話即得問如何是法說師云大眾久立速禮三拜如何是隨意說師云晨時有粥齋時有飯如何是隨冝說師云三德六味施佛及僧如何是方便說師云是汝鼻孔重三斤半如何是大悲說師云皈依佛法僧問生死根源即不問如何是目前三昧師云吃嘹舌頭三千里進云今日得遇和尚也師云放你三十棒問乞師指示師云上大人丘乙己進云學人不會師云化三千七十士問不離三德六味還有佛法也無師云秖怕你不問進云請師道師云三德六味施佛及僧。上堂云眼睫橫亘十方眉毛上透乾坤下透黃泉須彌山塞却汝咽喉還有會處麼若會得拽取占波國共新羅國闘額。上堂云江西即說君臣父子湖南即說他不與麼我此間即不如此良久云汝還見壁麼。上堂云去去󷙕相鈍置有什麼了時却問眾云我與麼道還有過麼問如何是祖師西來意師云一不得問進云喏師咄云話也不領問今日供養羅漢羅漢還來也無師云汝若不問我即不道進云請師道師云三門頭合掌佛殿裏裝香問如何是衲僧本分事師云南有雪峯北有趙州進云請和尚不繁辞師云不得失却問學云喏師便打問承古有言會即事同一家不會即離牙擘齒如何得事同一家師云乱走作麼。上堂云從上來且是箇什麼事如今抑不得已且向汝諸人道盡大地有什麼",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment: parallel edition of the same discourse."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "C/C077/C077n1710.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A body-and-cosmos image paired with penetration down to the Yellow Springs and eyelashes spanning the ten directions. Yunmen Wenyan uses the expression through controlling direct record. Yunmen Wenyan independently deploys it through parallel edition of the same discourse."
+    }
+  ]
+}

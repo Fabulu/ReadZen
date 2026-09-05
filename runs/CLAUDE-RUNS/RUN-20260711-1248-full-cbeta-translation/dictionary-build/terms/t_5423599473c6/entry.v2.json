@@ -1,0 +1,78 @@
+{
+  "Id": "t_5423599473c6",
+  "SourceTerm": "望空啟告",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "face empty space and make a proclamation",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "proclaim toward empty space",
+        "unsupported proclamation"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Merely looking upward while speaking is insufficient. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0818a07",
+          "ToLb": "0818b04",
+          "Kwic": "座。僧問。高揖釋迦不拜彌勒時如何。師云。夢裏惺惺。進云。將謂和尚忘却。師云。爾記得試道看。進云。雖道不得。要且不失。師云。元來不會。進云。從上來事分付阿誰。師云。分付瞎漢。進云。臨濟一宗全憑渠力。師云。且喜不干爾事。問昔日七賢女遊屍陀林。一女云。屍在這裏。人向甚麼處去。一女云。作麼作麼。當時齊悟無生法忍。如何是無生法忍。師云。拈却髑髏裏底。進云。輝騰今古爍破乾坤。師云。這田庫奴。進云。只如四主簿。即今在甚麼處。師舉起拂子云。在這裏。進云。唯憑這箇力。念念更無差。師云。摩竭令行傳萬古。乃云。拈提要妙掘地覓天。就理明真望空啟告。直得心心不觸物。念念絕攀緣。觀法界於一微塵之中。見一微塵遍法界之內。塵塵爾念念爾法法爾。猶是教乘極則。未是衲僧放身命處。若識得衲僧放身命處。則出生入死得大自在。以生死為游戲之場。而不被生死之所留礙。其或不然。未免葛藤。妙性圓明離諸名相。本來無有世界眾生。因妄有生因生有滅。生滅名妄滅妄名真。乃顧視大眾云。今日參政相公。為亡男主簿盡七之晨命。山僧陞于此座。為眾舉揚。僧俗交參同臨斯會。又是箇甚麼。若言是妄現。今說法聽法歷歷孤明。復是何物。眼若是妄。將甚麼觀色。耳若是妄。將甚麼聽聲。鼻若是妄。將甚麼嗅香。舌若是妄。將甚麼",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: direct critical deployment."
+        },
+        {
+          "RelPath": "J/J29/J29nB225.xml",
+          "FromLb": "0162a25",
+          "ToLb": "0162b21",
+          "Kwic": "下，相和半偈老松邊。」問：「如何是佛身無為，不墮諸數？」師云：「萬物歸焉而不為主。」問：「如何是賓中賓？」師云：「三千里外遇知音。」「如何是賓中主？」師云：「拔劍南窗時起舞。」「如何是主中賓？」師云：「冠山曉色玉嶙峋。」「如何是主中主？」師云：「閒看兒童弄花鼓。」問：「如何是第一玄？」師云：「明破即不堪。」「如何是第二玄？」師云：「棒後更罰錢。」「如何是第三玄？」師云：「闍黎甘不甘。」「如何是第一要？」師云：「雲破月來，清光普照。」「如何是第二要？」師云：「馬驟車馳，長安大道。」「如何是第三要？」師云：「換手椎胸，望空啟告。」僧云：「三玄三要蒙師指，向上宗乘事若何？」師云：「換卻女頭，轉卻女腦。」垂問參同園中垂問一華一佛國，一葉一釋迦，即今眾卉開敷，且道誰為大覺？芍藥花開菩薩面，棕櫚葉散夜叉頭。不煩大眾！羅漢松脩何功德乃獲如斯受記？開遍紅梅又碧桃，賴渠信腳陽春老。少年當肅殺之秋愈加豔麗，畢竟承誰恩力？凡樹先花後實，庭前無花果因甚不花而實？古云：「一夜雨滂澎，打倒葡萄棚，乃至依舊可憐生。」參同一夏以來幾遭狂驟，而葡萄棚安泰如常，且道憑箇甚麼？拘羅石榴以國名，素毬木筆以形似，小桃紅因甚花開五色？嬾狗塚產牡丹，雊鵒舌生菡萏，因果中雖推極則",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB225.xml). Chicken-Rib Collection of Chan Master Dafu of Longguang, Ezhou. Longguang Dafu owns the retained deployment: independent case appraisal.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Longguang Dafu",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Longguang Dafu is explicitly identified by the retained source context and independent case appraisal.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J29/J29nB225.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A dismissive image for announcing or appealing where no respondent or grounded target is present. Dahui Zonggao uses the expression as a direct criticism. Longguang Dafu independently applies it while appraising a case."
+    }
+  ]
+}

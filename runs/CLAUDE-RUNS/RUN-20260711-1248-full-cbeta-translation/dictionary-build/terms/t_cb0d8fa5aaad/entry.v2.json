@@ -1,0 +1,69 @@
+{
+  "Id": "t_cb0d8fa5aaad",
+  "SourceTerm": "克賓維那法戰不勝",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Head Verger Kebin has lost the Dharma contest",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "Head Verger Kebin has lost the Dharma contest",
+        "Kebin lost the Dharma contest"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Preserve Kebin as the judged head verger and 法戰 as the encounter contest; do not turn the verdict into a generic claim that debate determines truth. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1360.xml",
+          "FromLb": "0941b10",
+          "ToLb": "0942a08",
+          "Kwic": "賓維那法戰不勝，不得飯喫，即便出院。後來出世，法嗣興化。甚麼處是法戰不勝處？諸方尊宿舉：到者裡多是溟涬含胡，不然畵一箇卦影子了去。後來雪竇拈云：克賓維那要承嗣興化，罰錢出院則且置，也須索取者一頓痛棒始得。且問諸人：棒既喫了，作麼生索？具金剛眼睛底，到者裡不知病在甚麼處？臣甞拈云：只如雪竇道：棒既喫了，作麼生索？臣著語云：而今要索也不難，不知誰為下手？自代云：雪竇聻？遂喝一喝，重別語，說偈云：克賓維那法戰不勝，曾經國難披金甲。後來出世法嗣興化，不為家貧賣寶刀。興化臂徤尚嫌弓力軟，雪竇眼明猶識陣雲高。參。師次日歸寺，為禪和子再拈云：興化一日謂克賓維那曰：汝不久為唱導之師。賓云：不入者保社。師語云：某甲土星臨財帛宮。化云：你會了不入？不會不入？師代語云：千罪只同一科，當時若下得者兩轉語，罰也不敢罰，打也不敢打，直饒興化令行者一頓痛棒，也須自喫始得。會麼？家住海門東，日出",
+          "MasterName": "Xiatang Huiyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiatang Huiyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1360.xml). Recorded Sayings of Chan Master Xiatang Huiyuan. Xiatang Huiyuan introduces his own verse with 說偈云 and utters the retained line."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0552c23",
+          "ToLb": "0552c25",
+          "Kwic": "入？不會不入？』賓云：『總不恁麼。』化便打云：『克賓維那法戰不勝，罰錢五貫，設饡飯一堂。』來日興化自白槌云：『克",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Xinghua Cunjiang owns the retained deployment: Tianyin's independent complete-case quotation with Yunju and Dahui assessments."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1360.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Xiatang Huiyuan",
+        "Xinghua Cunjiang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The verdict names Kebin in his office and records that he did not prevail in the encounter contest. Xinghua Cunjiang uses the expression through Xiatang Huiyuan's active raising followed by a direct question about where Kebin lost. Xinghua Cunjiang independently deploys it through Tianyin's independent complete-case quotation with Yunju and Dahui assessments."
+    }
+  ]
+}

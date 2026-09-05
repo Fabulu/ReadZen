@@ -1,0 +1,75 @@
+{
+  "Id": "t_d7f70e439912",
+  "SourceTerm": "曹家女",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the Cao family's daughter",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "Cao family's daughter"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Begin with the named wooden snake and report later predicates rather than inventing symbolism. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0663b10",
+          "ToLb": "0663c02",
+          "Kwic": "雨普滋，萬彙悉霑其潤澤。便見江湖澎湃，何止丘壑皆盈？廬陵米價賤如泥，羅睺羅兒喜望外。冬瓜直儱侗，箇箇添肥；瓠子曲彎彎，條條增大。欣逢時節，慶謝良緣。諸仁者要知：此事亦猶農夫之望雨也。方其未雨，山焦石裂，憂心惕慮，惟雨之是望，不可以語言計也。及其既雨，黍秀苗興，擊壤謳歌，惟雨之是喜，不可以名狀得也。若要如是，卻須如是；既然如是，方能如是。不見昔日有一人悟後問古德曰：『此事本來現成，何須教學人百計搜求？』古德曰：『若不如是，子安能有今日也？』幸各勉旃，不煩久立。」晚參。「法離言說，道絕方隅。大海不著死屍，龍門豈有宿客？曹家女，美無敵，奯公妻，嬌欲滴。皓齒明璫嫁少年，少年不解加珍惜，浪蕩天涯何日歸？室中空有人如玉。」喝一喝。上堂。舉：「承天嵩和尚示眾：『第一、單槍甲馬，第二、甲馬單槍，第三、攃星排陣，第四、衣錦還鄉。』有僧便問：『如何是單槍甲馬？』嵩云：『不是金牙作，爭能射尉遲？』僧云：『如何是甲馬單槍？』嵩云：『金簇馬前落，樓煩喪膽魂。』僧云：『如何是攃星排陣？』嵩云：『陣雲橫海上，未辦聖明君。』僧云：『如何是衣錦還鄉？』嵩云：『四海無消息，回奉聖明君。』」師云：「承天雖有圖王定亂之謀，不免為太平奸賊。大覺無者許多般去就，卻能坐致太平",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: direct later deployment."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0504b29",
+          "ToLb": "0504c28",
+          "Kwic": "：「如何是祖師西來意？」師曰：「待洞水逆流，即向汝道。」逝水由來秪就下，逆流洞水待何時？西來祖意分明舉，路上行人休更疑。洞山不安，僧問：「和尚病，還有不病者麼？」師曰：「有。」曰：「不病者還看和尚不？」師曰：「老僧看他有分。」曰：「和尚看他時如何？」師曰：「老僧看他時，則不見有病。」古鑑瑩然絕點塵，清光自照體虛凝。轉功就位棲深隱，古殿苔封知幾層？龍牙因僧問：「十二時中如何用力？」師云：「如無手人行拳。」無手如何行得拳？若言用力急須看。趙州二六能移轉，一吸從教枯海乾。疏山手握木蛇，有僧問：「手中是甚麼？」師提起曰：「曹家女。」曹家女兒最惡毒，玉骨冰姿不可觸。多少破家蕩產人，拳空手赤怨何足？性空庵主警眾曰：「學道猶如守禁城，晝防六賊夜惺惺。中軍主將能行令，不動干戈致太平。」大道欲明明不得，明不得的恰惺惺。縱然惺亦途中事，寧許時人著眼睛。僧問雲門：「如何是端坐念實相？」門云：「河裏失錢河裏摝。」河裏失錢河裏摝，寒光一片凝幽谷。一朝風捲竟如何，六六原來三十六。雲門云：「不用指東話西，什麼人會佛法？」自代云：「三家村裏老翁婆。」三家村裏老翁婆，織錦臨機不解梭。吊桶把來枯井上，夜深偏照影婆娑。雲門舉：「古云：『一言悟道，觸緣見性。』拈起作麼生",
+          "MasterName": "Shushan Kuangren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shushan Kuangren",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Shushan Kuangren owns the retained deployment: complete wooden-snake case actively raised by Eryin."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB187.xml",
+        "J/J28/J28nB212.xml"
+      ],
+      "RelatedMasters": [
+        "Tian'an Sheng",
+        "Shushan Kuangren",
+        "Eryin Mi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "In Shushan's case this names the wooden snake he holds up, and the later record raises the same named object before commenting on it. Tian'an Sheng uses the expression through direct later deployment. Shushan Kuangren independently deploys it through complete wooden-snake case actively raised by Eryin."
+    }
+  ]
+}

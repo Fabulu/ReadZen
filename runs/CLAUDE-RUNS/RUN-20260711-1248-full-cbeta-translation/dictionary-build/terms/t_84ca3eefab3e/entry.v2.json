@@ -1,0 +1,68 @@
+{
+  "Id": "t_84ca3eefab3e",
+  "SourceTerm": "考鐘伐鼓",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "strike the bell and beat the drum",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "strike bells and beat drums"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not inflate the observable bell-and-drum action into a doctrine. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0215c11",
+          "ToLb": "0216a05",
+          "Kwic": "單提向上，獨露風規，美則美矣，只是不會道破，不知於中是四個甚麼字？千載之下未免令人疑著。山僧幼時讀《玉臺新詠》，記得幾句古詩，略較些子：『客從遠方來，遺我一書札，上言長相思，下言久離別。』大眾！字句甚分明，依他會不得。既是字句分明，為甚麼依他不得？長疑即見面，翻致久無書。」解制，上堂。「下元結制，上元解制，人人盡知。金剛圈，栗棘蓬，釋迦老子亦難吞跳。因個甚麼？煙水雲山意渺茫，參詢衲子路頭長。草鞋跟斷知端的，始信南塘不覆藏。」佛誕，上堂。「今日四月初八，乃我釋迦文佛於毘藍園內無憂樹下降生底時節，天下叢林處處浴佛，莫不考鐘伐鼓、說禪說道。金粟寺裏坡事稍繁，每日大喊小叫，不是車水便是抬磚，總無纖毫佛法與人。倘或有個伶俐道者，腳下驀地蹋翻石子、磕著鼻孔，元來只在這裏，便與釋迦老子無二無別。既然如是，因甚麼教中道：『久受勤苦乃可得成？』還會麼？踏破鐵鞋無覓處，得來全不費工夫。」復舉：「世尊初生下，便一手指天、一手指地，周行七步，目顧四方，云：『天上天下，唯我獨尊。』山僧有個平實頌，舉似大眾：『纔出娘胎便學行，周旋七步可憐生，指天指地稱尊大，笑殺閻浮世上人。』」卓拄杖，下座。風穴滄涵和尚至，上堂。「火傘張空，靜掩松門人跡少；薰風拂徑，奔騰象駕暑",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: direct description of the opening of the formal assembly."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0093a24",
+          "ToLb": "0093b16",
+          "Kwic": "，山僧也曾付囑幾個來，還有者領破袈裟在，若有人，向四錯外說說所得看。」問答不契，師曰：「牛生三個子，到老自拖犁。」上堂。「船來、陸來，什麼物恁麼來？朝去暮去，什麼物恁麼去？若欲掘開石壩，踢翻塘嶺，且未是到家消息。何故？祇如諸人未跨船舷，一個寶壽早已注汝心源了也。乃至一路路來，穿衣喫飯、語言談笑，各各一個寶壽，不高、不低，不大、不小，及乎到來，乃被水鳥樹林、鐘鈴鑼鼓換卻眼睛。雖則水鳥樹林等不離寶壽，汝還聽得水鳥樹林悉皆念佛、念法、念僧麼？古人到者裏說個『若將耳聽終難會，眼裏聞時方始知』，且道：眼作麼聞？耳作麼見？現前考鐘伐鼓，試問：無耳的人眼，還聞麼？現前天光雲影，試問：無眼的人，耳還見麼？參學的人到此須解得、會得，始得；不然，寶壽山為汝解去也。」良久，曰：「車不橫推，理無曲斷。」上堂。「如是之法，佛祖密付，汝今得之，宜善保護。」乃召大眾，曰：「得也未？若也未得，密在汝邊，殊不知說個密字早已顯了也。顯密且置，祇如雲岩老人開口說個如是之法，還有指處麼？還無指處麼？若無指處，爭奈有言語在？若有指處，指個什麼？莫指個拄杖麼？此是山崖裏砍得的。莫指拂子麼；此是建寧五分銀子買得的。如何合得密付的道理？若合得，則銀碗盛雪，明月藏鷺，中間建法幢、立",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: direct reference to the presently audible bells and drums."
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB383.xml",
+        "J/J27/J27nB190.xml"
+      ],
+      "RelatedMasters": [
+        "Hanxiu Ruqian",
+        "Shiyu Mingfang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A concrete institutional action for calling the community and marking a formal hall event. Hanxiu Ruqian uses the expression through direct description of the opening of the formal assembly. Shiyu Mingfang independently deploys it through direct reference to the presently audible bells and drums."
+    }
+  ]
+}

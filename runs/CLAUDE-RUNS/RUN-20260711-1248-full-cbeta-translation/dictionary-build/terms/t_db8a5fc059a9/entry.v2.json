@@ -1,0 +1,68 @@
+{
+  "Id": "t_db8a5fc059a9",
+  "SourceTerm": "醍醐毒藥",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "ghee and poison",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "ghee and poison"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not silently make 醍醐 medicinal: it is refined ghee and the favorable pole of the contrast, while context determines whether the pair is divided, reversed, or sent out together. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0880c25",
+          "ToLb": "0881a22",
+          "Kwic": "垂髮白如絲。是人此兩句。一句存境。一句奪人。克符又作頌曰。奪人不奪境。緣自帶聱訛。師云。有甚麼聱訛。擬欲求玄旨思量反責麼。師云。誣人之罪。驪珠光燦爛。蟾桂影婆娑。師云。何不早恁麼道。覿面無差互。還應滯網羅。師云。依稀似曲纔堪聽。又被風吹別調中。此頌大概在驪珠光燦爛蟾桂影婆娑之上。蓋此兩句是境。學者問不奪境。擬欲求玄旨思量反責麼。大意只是不可思量擬議。思量擬議者人也。蹉却覿面相呈一著子。即被語言網羅矣。克符此頌。專明煦日發生鋪地錦。所以有驪珠光燦爛蟾桂影婆娑之句。乃是存境而奪人。故曰覿面無差互。還應滯網羅。奪人之義。醍醐毒藥一道而行。具眼者方能辨別。又問如何是奪境不奪人。答云。王令已行天下遍。將軍塞外絕煙塵。師云。王令已行天下遍。是奪了境。將軍塞外絕煙塵。是存人而不奪。頌曰。奪境不奪人。尋言何處真。師云。也須閑。處作隄防。問禪禪是妄。究理理非親。師云。好事不如無。日照寒光澹。山遙翠色新。師云。貧兒思舊債。直饒玄會得。也是眼中塵。師云。自起自倒。爾要會日照寒光澹山遙翠色新麼。此兩句是境。直饒玄會得。也是眼中塵。便奪了也。其餘人境兩俱奪。人境俱不奪。盡是依語就學家問處答又問。如何是人境兩俱奪。答云。并汾絕信獨處一方。便有人境兩俱奪面目。頌",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's direct use of the ghee-and-poison contrast."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0968b02",
+          "ToLb": "0969b18",
+          "Kwic": "十方世界鐵渾侖順逆橫開不二門更向是非中薦取何妨無佛處稱尊憎愛是非情易瞥山河大地跡難𭣣故鄉人寄并州剪拈起虛空也斷頭十虛圓𮖐一爿天這裏何曾異那邊勿謂去來無管帶道人行處合如然天目中峯和尚廣錄卷第二十九音釋窖古考切譴詰戰切責也艣郎古切進船器似槳而長󱤱嶔󱤱音欹嶔音欽󱤱嶔山不正貌藞苴藞力瓦切苴側下切篾莫結切析竹筠也襯初覲切隳許規切毀也𩍐正作鐙丁鄧切鞍𩍐也薅呼高切󳫠去田草也󵔍音感覆也天目中峯和尚廣錄卷第三十叅學門人北庭臣僧慈寂上進偈頌（七言四句）偈頌擬古德十可行擬古德十可行宴坐宴坐竟日巍然萬慮忘脊梁節節是純鋼待教七箇蒲團破却與空生較短長入室入室鏌鎁橫按碧油幢叱咤神威孰敢當若是定乾坤好手到來那肯犯鋒鋩普請普請我扣華鯨汝便來區區運水及搬柴為憐逐隊隨羣者伸手從人覓草鞋粥飯粥飯兩度煩他展鉢盂舌頭誰不辨精麤醍醐毒藥渾休問粒米還曾齩著無洗衣洗衣通身脫下笑擡眸一片雲霞浸碧流久雨不晴難曬㫰從教張在屋簷頭掃地掃地蕩盡從前垃圾堆依然滿地是塵埃等閒和柄都拋却五葉曇華帚上開經行經行當胷义手去還來多少闍黎踏破鞋金地遶旋知幾帀老僧一步不曾擡諷經諷經薩怛他了悉度提浩浩潮音播口皮清磬一聲齊側耳子規啼血染華枝禮拜禮拜紫金足下寶華壇多少人來展布單既自倒時還自起不知誰覺腦門寒道話道話團團相聚火爐頭商略溈山水牯牛一語忽投人拍手滿天霜月下西樓示妙上人五首示妙上人五首捩轉面門爺不識瞠開眼孔佛難親一條性命先拌却要做心空及第人叅禪渾似齩生鐵齒破脣枯未肯休力盡忽然和口",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng's independent direct deployment of the paired substances."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compressed pairing of finest nourishment and deadly medicine, used to show opposed effects, their joint issuance, or how the same offering is received differently according to the person. Dahui Zonggao uses the expression through Dahui's direct use of the ghee-and-poison contrast. Zhongfeng Mingben independently deploys it through Zhongfeng's independent direct deployment of the paired substances."
+    }
+  ]
+}

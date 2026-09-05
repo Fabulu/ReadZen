@@ -1,0 +1,85 @@
+{
+  "Id": "t_893e8016b0ef",
+  "SourceTerm": "苦樂逆順",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch67 admitted14 constructor C",
+  "WrittenUtc": "2026-07-29T14:50:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "suffering and pleasure, adversity and favor",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "suffering pleasure adversity favor"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Zhongfeng's direct use controls; the unresolved Longmen quotation is supplementary. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0732a18",
+          "ToLb": "0733a02",
+          "Kwic": "他覔。斯言盡之矣。儞若不信自己。不向己躬下立定脚頭。更不肯立自己志氣坐斷一切密密體究。儞準擬向佛上求。是從他覔了也。擬向法上求。亦是從他覔了也。擬向師友分上求。亦是從他覔了也。又擬向語言中求。又擬向機緣上求。更擬向千七百葛藤椿上求。更擬向藂林中求。更擬向寂靜境界中求。又擬向精進勇猛中求。乃至盡其見聞竭其知解。及與世出世間諸有境緣中求。據理言之。特不過皆是從他覔了也。與儞自己交結生死底一種情識上料掉沒交涉。當知自己分上。立起一箇要超越生死底念頭。正當也無寂靜時。也無憒鬧時。也無忙時。也無閑時。也無安時。也無危時。也無苦樂逆順時。也無一切魔境界能障礙其道業時。也無過去。也無現在。也無未來。合三世為一念。併萬慮為一心。孜孜爾兀兀爾。行也只如是體究。坐也只如是體究。乃至靜鬧安危苦樂逆順中。總只如是體究。正當體究時。儻或復於體究之外。別見有箇是靜時。有箇是鬧時。有箇是魔時。有箇是叅得時。有箇是叅不得時。至于纔覺有毫髮異見干涉著。儞總非真體究也。如今做工夫底人。往往於自己分上苦不切至。多只是向境緣情識上做成窠臼。所以不能得直到大休歇田地。儞但拍盲坐斷許多見聞解會取捨得失等。密密地只向自己躬下做去。直下便是大解脫場。直下便是大光明藏。除却靠自己叅",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: direct extension into right wrong gain and loss."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0778b15",
+          "ToLb": "0778c15",
+          "Kwic": "判、具此等見解，莫說到不得，夢也夢不見在。如今大拙能長老若必欲名實相應，親到者箇田地，須是先將諸佛諸祖併許多到不得底老凍儂束作一束，送向千山萬山、青松白雲、半間草屋之下，深深掘箇地爐，就冷灰底一窖埋却，莫留絲毫影跡，莫露絲毫氣息，却不妨向冷灰之上燒糞火、煨芋頭，飢則噇教飽，飽則信步行，徤則盤膝坐，困則伸脚眠，拚取一生殘性命，只恁麼絕學無為拙將去。拙去拙來，拙到無可拙處，忽然蹉脚踏翻冷灰，觸著佛祖鼻孔，同時打箇噴嚏起來道：如今埋沒我不得也。那時曰巧曰拙，未免掩口一咲，亦未免遙向三千里外痛罵老拙一頓在。示如維那示如維那苦樂逆順，道在其中。此乃龍門和尚赤心赤膽，痛為學人警䇿之語也。蓋世間境緣，非苦即樂，非順即逆，盡大地人，遭他籠󰋪，無出頭分。故學道之士，往往因此四種，退失初心，喪壞法體者，亦不為不多矣。原夫曰苦曰逆，只是箇不如意底境界，能使人起憎起嫉，起怨起惡，如值冤讐，多方迴避，如遭繫縛，百計求脫，引發種種煩惱，將一片道心，等閑颺却。曰樂曰順，只是箇如意底因緣，能使人起愛起貪，起染起著，如嗜醇酒，不覺沉酣，如貪宴寢，不覺睡著，轉入轉深，將一片道心，等閑忘却。却不知樂是苦因，順為逆本，四者相依，互為出沒，皆世相變遷之常事耳。不應遇順樂則生",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Longmen Heshang owns the retained deployment: supplementary quotation raised by Tianru Weize.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Longmen Heshang",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Longmen Heshang is explicitly identified by the retained source context and supplementary quotation raised by Tianru Weize.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "X/X70/X70n1403.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Tianru Weize"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Four experiential circumstances in which the Way is present or through which present samadhi is recognized. Zhongfeng Mingben uses the expression through direct extension into right wrong gain and loss. Longmen Heshang independently deploys it through supplementary quotation raised by Tianru Weize."
+    }
+  ]
+}

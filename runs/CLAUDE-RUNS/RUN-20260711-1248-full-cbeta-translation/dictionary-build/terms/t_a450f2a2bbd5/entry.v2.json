@@ -1,0 +1,71 @@
+{
+  "Id": "t_a450f2a2bbd5",
+  "SourceTerm": "背後底聻",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "what about the one behind?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "what about the one behind",
+        "behind-the-back follow-up"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Context must identify whose behind is being tested. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1024b16",
+          "ToLb": "1024c20",
+          "Kwic": "今日何說不定。世尊云。昨日定今日不定。代外道。相顧而去。舉。世尊臨入涅槃。文殊請再轉法輪。世尊咄云。吾四十九年住世。未曾說一字。汝請再轉法輪。是吾曾轉法輪耶。代文殊云。世尊末後殷勤。舉。梁武帝請傅大士講經。士纔陞座。以尺拊案一下。便下座。帝愕然。誌公乃問。陛下還會麼。帝云。不會。誌公云。大士講經竟。代武帝云。實為罕聞。舉。忠國師因。肅宗皇帝問。師在曹溪得何法。師云。陛下還見空中一片雲麼。帝云。見。師云。丁釘著懸挂著。代云。曹溪何在。舉。忠國師問南泉。甚處來。泉云。江西。師云。還將得馬大師真來否。泉云。只者是。師云。背後底聻。泉休去。代南泉。以脚一抹便行。舉。忠國師因。麻谷到。乃振錫一下。卓然而立。師云。汝既如是。何用見吾。谷又授錫一下。代云。子合見吾。舉。忠國師因。虞軍容問。師住白崖山時。如何修行。師喚童子。以手摩頂云。惺惺直言惺惺。歷歷直言歷歷。向後莫受人謾。軍容無語。代云。弟子此去。更不禮佛。舉。豐干因。寒山子問。古鏡不磨。如何照燭。干云。氷壺無影像。猿猴探水月。山云。此是不照燭也。更請道。干云。萬德不將來。教我道甚麼。寒拾俱作禮而退。代云。因我致得。舉。布袋和尚。常將布袋并破蓆。於通衢往來。布袋內盛鉢盂木履魚飯菜肉瓦石土木諸般",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: direct handling."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0052a14",
+          "ToLb": "0052b03",
+          "Kwic": "師塔樣。』忠良久云：『會麼？』云：『不會。』忠云：『吾有付法弟子耽源卻諳此事，請詔問之。』帝後詔源問，源乃頌云：『湘之南、潭之北，中有黃金充一國，無影樹下合同船，琉璃殿上無知識。』」別：「帝於國師良久處云：『會麼？』但向道：『恁麼則不必更造也。』不惟不虛供養國師，要且截斷國師詔耽源云云。保寧勇云：『非父不生其子。』」師云：「殊不知養子不及父，家門一世衰。」別：「耽源呈頌處，但展兩手云：『請陛下鑒。』恁麼稍不辱其父耳。」舉：「忠國師問南泉：『甚處來？』云：『江西。』忠云：『還將得馬師真來不？』云：『秪者是。』忠云：『背後底聻？』泉休去。」別云：「待伊道：『還將得馬師真來不？』轉身便行，不惟教許大國師討鼻頭不著，抑使國師免向面前背後作活計。」舉：「忠國師問紫璘供奉：『大德所蘊何業？』云：『青龍疏。』忠云：『是《金剛經》麼？』云：『是。』忠云：『經文最初兩字喚作甚麼？』云：『如是。』忠云：『是甚麼？』奉無語。又問：『城南草作何色？』云：『作黃色。』忠乃問童子：『城南草作何色？』云：『作黃色。』忠云：『秪者童子亦可簾前賜紫對御談玄。』」別：「待他道：『經文最初兩字喚作甚麼？』并問：『城南草作何色？』但向道：『大小國師寐語作麼？』他若更言，便",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: independent active raising."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n2000.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [
+        "Xutang Zhiyu",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [
+        "眼不自見、刀不自割"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A pointed follow-up refusing an answer's apparent singularity by demanding the person or matter standing behind it. Xutang Zhiyu uses the expression through direct handling. Miyun Yuanwu independently deploys it through independent active raising."
+    }
+  ]
+}

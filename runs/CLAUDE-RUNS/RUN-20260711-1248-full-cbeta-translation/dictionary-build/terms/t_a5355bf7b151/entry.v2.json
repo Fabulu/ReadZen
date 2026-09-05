@@ -1,0 +1,69 @@
+{
+  "Id": "t_a5355bf7b151",
+  "SourceTerm": "敲鐘謝響",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "strike the bell and thank the echo",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "strike the bell and thank the echo",
+        "credit the echo"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep strike, bell, and resulting response together; ordinary gratitude for a signal is not this criticism. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0499b15",
+          "ToLb": "0499c09",
+          "Kwic": "筌蹄之表。上根雖然瞥地，亦要向者裏面蘊藉將來；中下宜在逗機，寧許向圈兒外顢頇說得。即文字而能離文字，少林亦所不呵；由多聞而後捨多聞，慶喜因斯結集。流通大教，必資瓶瀉之譚；演暢辯才，應徹貫花之旨。常山西高峰有藏經閣，某上人心希竺典、志慕高流，思坐閱以結長期、將校讎而探奧頤，既匪一朝卒業、聊程限于三年，況階眾友問津，宜裏糧于千日，是敢告於福田長者，并乞緣於慧業文人。趙州半轉，曾煩婆子施錢；秪樹全提，亦藉給孤布地。今古豈無嗣響？果因終不唐捐。慳囊打破，方知龍藏有珠；貝葉掀翻，謾道牛皮穿透。檀波願遂，般若功圓。化鐘疏化鐘疏敲鐘謝響，有人山下；回頭演唄，登樓問誰？床腳種菜，好是風晨；月夕吹到；耳邊帶累。露柱燈籠，打得心痛；機無小大，扣之則鳴。聲徹幽明，聞斯透脫；當機一擊，萬象知音。重建真歇了禪師塔院疏重建真歇了禪師塔院疏真歇了禪師，道契丹霞、脈傳洞山，荷如來之重擔、握法門之要樞。七坐名藍、五承紫詔，其出世一段光明、利生無邊作用，天童覺和尚銘其塔文，概述之矣！塔在皋亭山，宋孝宗敕建禪寺，名「顯孝」，諡曰「悟空」，真身藏石龕中，覆以甍棟。元阿朮曾發龕，見師端坐顏貌如生，十爪從兩袖出，繞腹三迴，阿朮驚異膜拜，親抱石揜之。自宋迄明，巋然無恙，即有頹弊",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin is the explicit speaker of the retained headword-bearing turn; the source's Xueguan Zhiyin name resolves to this canonical roster identity."
+        },
+        {
+          "RelPath": "J/J39/J39nB463.xml",
+          "FromLb": "0796b08",
+          "ToLb": "0796b29",
+          "Kwic": "：『弟子家中瓶內養一鵝兒，今來長大，欲出此鵝，且不得打破瓶，亦不得損其鵝，未審和尚有何方便？』泉召大夫，夫應諾，泉云：『出也。』」師云：「須知南泉好手，秪陸大夫曾見作家來，猶有者箇在。不見道：伐冰之家不畜牛羊，焉用是鶂鶂者為哉？」舉：「雪峰一日普請搬柴次，路逢一僧，乃擲下一段柴，云：『一大藏教只說者個。』」師云：「只說者個，不說那個，不是雪峰，誰人說破？」顧視左右云：「溈山九灶火頭，不免百千罪過。」舉：「曹山一日聞鐘聲，乃云：『阿㖿！阿㖿！』僧問：『和尚作麼？』山云：『打著我心。』」師云：「打著曹山鐘主，有過無功，敲鐘謝響；有功無過，秪是者僧蹉過。若不蹉過，劈面曹山一掌，現鐘不打。」遂拈拄杖卓一卓。舉：「趙州問僧：『甚麼處來？』云：『雪峰來。』州云：『雪峰有何言句示人？』云：『尋常道：盡十方世界是沙門一隻眼。汝等諸人向甚麼處屙？』州云：『闍黎若回，寄個鍬子去。』」師云：「趙州寄個鍬子，意在瞎卻者一隻眼，殊似不知頭上早有許多屎臭氣。雖然，者鍬子切不可寄到雪峰。」舉：「睦州示眾嘗云：『忽然忽然大覺璉。』」拈云：「不然，不然。」師卓拄杖云：「其然豈其然乎？」舉：「龐婆入鹿門寺作齋，維那請疏意回向，婆拈梳子插向髻後，云：『回向了也。』便出去",
+          "MasterName": "Gumei Dinglie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gumei Dinglie",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB463.xml). Recorded Sayings of Chan Master Gumeilie of Weishan. Gumei Dinglie owns the retained deployment: independent bell-case appraisal."
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB198.xml",
+        "J/J39/J39nB463.xml"
+      ],
+      "RelatedMasters": [
+        "Yingshan Zhiyin",
+        "Gumei Dinglie"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A criticism of answering or crediting the resulting sound while overlooking the strike and bell that produced it. Yingshan Zhiyin appraises the Chen Cao exchange with the bell-and-echo criticism. Gumei Dinglie independently uses the image to judge another bell case."
+    }
+  ]
+}

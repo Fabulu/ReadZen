@@ -1,0 +1,68 @@
+{
+  "Id": "t_3ce2e23e7d3e",
+  "SourceTerm": "布髮掩泥",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "spread his hair to cover the mud",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "spread his hair to cover the mud"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "布 is the act of spreading out and 掩 the covering function; bind the Dipamkara and flower-offering story rather than treating the phrase as ordinary grooming. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0219a08",
+          "ToLb": "0219b07",
+          "Kwic": "則爛却了也。金佛若渡鑪中。則鎔却了也。木佛若渡火。便燒却了也。有什麼難會。雪竇一百則頌古。計較葛藤。唯此三頌直下有衲僧氣息。只是這頌也不妨難會。爾若透得此三頌。便許爾罷參。泥佛不渡水浸爛鼻孔。無風起浪神光照天地干他什麼事。見兔放鷹立雪如未休一人傳虛萬人傳實。將錯就錯。阿誰曾見爾來何人不雕偽入寺看額。二六時中走上走下是什麼。闍黎便是泥佛不渡水。神光照天地。這一句頌分明了。且道為什麼却引神光。二祖初生時。神光燭室亘於霄漢。又一夕神人現。謂二祖曰。何久于此。汝當得道時至。宜即南之。二祖以神遇遂名神光。久居伊洛。博極群書。每嘆曰。孔老之教祖述風規。近聞達磨大師住少林。乃往彼晨夕參扣。達磨端坐面壁。莫聞誨勵。光自忖曰。昔人求道。敲骨出髓。刺血濟飢。布髮掩泥。投崖飼虎。古尚若此。我又何如。其年十二月九日夜大雪。二祖立於砌下。遲明積雪過膝。達磨憫之曰。汝立雪於此。當求何事。二祖悲淚曰。惟願慈悲開甘露門。廣度群品。達磨曰。諸佛妙道曠劫精勤。難行能行。非忍而忍。豈以小德小智輕心慢心。欲冀真乘。無有是處。二祖聞誨勵。向道益切。潛取利刀。自斷左臂。致于達磨前。磨知是法器。遂問曰。汝立雪斷臂。當為何事。二祖曰。某甲心未安。乞師安心。磨曰。將心來。與汝安。祖曰。覓心了不可得。達磨云。與汝安心竟。後達磨為易其名曰慧可。後接得三祖燦大師。既傳法隱於舒州皖公山。屬後周武帝破滅佛法沙汰僧。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: Yuanwu's master discourse actively raises the hair-over-mud episode."
+        },
+        {
+          "RelPath": "X/X70/X70n1381.xml",
+          "FromLb": "0211a15",
+          "ToLb": "0211b13",
+          "Kwic": "著，喝箇什麼？倉云：猶嫌少在。壽却隨聲與一喝。師云：二大老雖眼辦手親，爭奈箭鋒不相拄，直饒齊發齊中，向官人面前只成一場敗闕。且道官人具甚眼目？慣從五鳳樓前過，手握金鞭賀太平。入院陞座，拈香祝聖罷，次拈香云：奉為建寺大檀越、亦菴居士，闔府貴眷增崇祿算。乃就座云：言無展事，語不投機，承言者喪，滯句者迷。還有獨脫底麼？僧問：破菴爐鞴諸方少，居士門庭八字開，等是靈山親授記，何妨握手笑咍咍？且道賓主相見合談何事？師云：舌頭不出口。進云：得聞於未聞也。師云：聞底事作麼生？進云：學人到這裏結舌有分。師云：狼籍不少。進云：昔日世尊布髮掩泥於然燈佛前，然燈指掩泥處云：此處好建一梵剎。此理如何？師云：意在鈎頭。進云：會中有賢于長者。以標插于指處，云：建梵剎已竟，又作麼生？師云：大地震動。進云：於是諸天散花贊嘆云：庶子有大智矣。又且如何？師云：世情偏向富門多。進云：只如今日亦菴居士建大寶坊，與賢于長者是同？是別？師云：一會儼然。進云：可謂古今無異路，達者共同途。師云：重說偈言。僧禮拜。師乃云：建法幢，立宗旨，明明佛勑曹溪是。敢問大眾：且道曹溪事作麼生？若向個裏知得，落著便見。亦菴居士建大寶坊，廣容佛子，俾一人人衣珠顯赫，照世明燈；一箇箇正眼豁開，昏衢巨燭",
+          "MasterName": "Po'an Zuxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Po'an Zuxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1381.xml). Recorded Sayings of Chan Master Po’an Zuxian. Po'an Zuxian owns the retained deployment: independent recorded-sayings deployment of the same former-life action."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2003.xml",
+        "X/X70/X70n1381.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Po'an Zuxian"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The Dipamkara episode from the Buddha's former life: he lays his hair over muddy ground and offers flowers, making a bodily path for the earlier Buddha. Yuanwu Keqin uses the expression through Yuanwu's master discourse actively raises the hair-over-mud episode. Po'an Zuxian independently deploys it through independent recorded-sayings deployment of the same former-life action."
+    }
+  ]
+}

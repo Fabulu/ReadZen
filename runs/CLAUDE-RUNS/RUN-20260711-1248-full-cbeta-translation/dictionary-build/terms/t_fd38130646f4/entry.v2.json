@@ -1,0 +1,68 @@
+{
+  "Id": "t_fd38130646f4",
+  "SourceTerm": "任運落前溪",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch68 admitted11 constructor C",
+  "WrittenUtc": "2026-07-29T15:05:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "naturally settling into the stream ahead",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "naturally settling into the stream ahead"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 到頭霜夜月 as the paired first half; do not turn 任運 into a doctrine. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0722c06",
+          "ToLb": "0723a06",
+          "Kwic": "爐上堂。僧問。古者道。敲空作響。擊木無聲。如何是敲空作響。師云。釋迦老子來也。師乃云。三世諸佛向火焰裏轉大法輪。熱發作什麼火焰。為三世諸佛說法。三世諸佛立地聽。也須照顧眉毛。若是聊聞徹骨徹髓。信得及見得徹。直下與三世諸佛同生同死。與火焰同起同滅。當處解脫得大安隱。衲被蒙頭便是箇清涼世界。苟或未然。只知事逐眼前過。不覺老從頭上來。上堂云。一向不恁麼。目視雲漢不狥人情。一向恁麼。灰頭土面帶水拕泥。恁麼中不恁麼。就下平高。不恁麼中却恁麼。從空放下。或有箇恁麼不恁麼總不管。亦無明亦無暗。亦不放亦不收。且道如何。到頭霜夜月。任運落前溪。上堂云。天寒人寒。大家在箇裏。滴水滴凍。無這閑工夫。庭際之人。驀地覓心不得。衲衣下事。誰諳野火燒山。千重百匝沒遮欄。漢去胡來絕回換。且作麼生是不離當處底一句。鶴飛千尺雪。龍起一潭氷。上堂云。雪竇道。義出豐年。儉生不孝。於衲僧門下是放行是把住。若人道得。老僧分半院與伊住。師云雪竇病多諳藥性。經効始傳人。箇中或有知豐知儉知放行知把住底。亦何必分半院與伊住。燒香發願。只圖他早有箇院子住。使嘗些滋味。且免得窮廝煎餓廝炒。上堂云。滿天和氣匝地韶光。柳眼迸開桑條憋破。華枝似錦鳥語如簧。八穴七穿。篆不雕之心印。百頭千緒。演不說",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: controlling named-master verse use."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0029a23",
+          "ToLb": "0029b22",
+          "Kwic": "。據二老宿。總未剿絕在。作麼生得剿絕去。慶良久。福云。情知儞向鬼窟裏作活計。慶云。汝又作麼生。福云。兩手扶犁水過膝。師云。俱亡未亡。奪人奪境。為什麼保福不肯長慶。太平本是將軍建。不許將軍見太平。舉乾峯示眾云。法身有三種病二種光。須是一一透得。更有照用臨時。向上一竅在。雲門出云。菴內人為什麼不知菴外事。峯呵呵大笑。門云。猶是學人疑處。峯云。子是什麼心行。門云。也要和尚相委。峯云。直須恁麼穩密始得穩坐地。門云喏喏。師云。坐著病在膏肓。用著光不透脫。直饒儞縱橫十字。圓轉一機。也未知有向上一竅在。還得穩坐地麼。到頭霜夜月。任運落前溪。舉溈山問仰山。子一夏不見上來。在下面作何所務。仰云。某甲鋤得一片畬。下得一羅種。溈云。寂子今夏不虛過。仰云。和尚今夏作什麼。溈云。日中一飯。夜後一寢。仰云。和尚今夏亦不虛過。道了乃吐舌。溈云。寂子何得自傷己命。師云。少當努力。老合歇心。這一夏總不虛過。為什麼仰山道了吐舌。若點撿得出。禍不入慎家之門。舉趙州云。有佛處不得住。無佛處急走過。師云。沈空滯迹。犯手傷鋒。俱未是衲僧去就。直須莫入人行市。莫坐他床榻。正不立玄。偏不附物。方能把住放行。有自由分。舉臨際兩堂首座齊下喝。僧問際。還有賓主也無。際云。賓主歷然。師云。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: independent named-master deployment."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "T/T48/T48n2001.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The second half of a recurrent moon image: the frost-night moon settles of itself into the stream, presenting arrival or reflection without contrivance. Yuanwu Keqin uses the expression through controlling named-master verse use. Hongzhi Zhengjue independently deploys it through independent named-master deployment."
+    }
+  ]
+}

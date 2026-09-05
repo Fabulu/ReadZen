@@ -1,0 +1,68 @@
+{
+  "Id": "t_efc9492dfdf5",
+  "SourceTerm": "俗氣也不除",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the vulgar air still has not been cleared away",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the vulgar air still has not been cleared away"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase judges a residual manner exposed by the local answer or history; it is not a class label for laypeople and 俗氣 should not be flattened into literal breath. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0346c01",
+          "ToLb": "0346c21",
+          "Kwic": "，意旨如何？」隱云：「問他作麼？」師云：「也須知始得。」隱云：「老和尚又如何？」師云：「古木交加，一天風月。」師與祖巖論及宗門中事，巖云：「若論平實一路，猶可商量；陟險一機，人難措置。」師云：「正好下語。」巖云：「須是和尚始得。」師云：「杜撰禪和。」巖云：「且放過和尚。」師云：「亂統。」巖禮拜云：「真豐罪過。」師云：「卻是我放過你。」師問田頭云：「你在家種田？出家種田？若道同，原是俗人；若道別，為甚在家六科，出家亦六科？」田頭罔然。師翫月，云：「汝等看月在樹裏？樹在月裏？」一僧云：「秪在目前。」師云：「你參學多年，俗氣也不除。」師遊何山，前有獅、象兩山，即垂語云：「獅子迴旋，象王奮迅，此名何山？復是何物？」古首座云：「瞞和尚不得。」素維那云：「綠陰深處囀黃鸝。」別書記云：「行人更在青山外。」師問斐公云：「你聻？」斐云：「兩眼對兩眼。」師云：「何不道獨坐大雄峰？」斐云：「有和尚在這裏。」師云：「墮也，墮也。」斐云：「讓老漢一頭地。」師擊禪床三下，斐云：「又上一層霜。」師云：「大好山水。」師問一士云：「既是宜興貨，為甚麼在你店裏？」士無對。師代云：「和尚莫搶奪行市。」曹方伯赴任廣東過別，師送至門，伯云：「乞和尚行道。」法師驟步云：「至此以",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment: direct interlinear appraisal of Fubei's claimed lack of surplus words."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0349a08",
+          "ToLb": "0350a11",
+          "Kwic": "用即體溈老家風端肯許機鋒互換得全提三十山藤打徹汝舉茶陵郁山主不曾行󷗿因廬山有化士至論及宗門中事教今看僧問法燈百尺竿頭如何進步法燈云噁凡三年一日乘驢渡橋一蹋橋板而墮忽然大悟遂有頌云我有神珠一顆久被塵勞關鎻今朝塵盡光生照破山河萬朵因茲更不遊方。百尺竿頭未肯休橋梁蹋斷始知羞吟風笑月茶川上閒看巖華逐水流舉雲巖初叅百丈後造藥山山問甚處來巖云百丈來山云百丈有何言句示徒巖云尋常道我有一句子百味具足山云鹹則鹹味淡則淡味不鹹不淡是常味作麼生是百味具足的句巖無語山云爭奈目前生死何巖云目前無生死山云在百丈多少時巖云二十年山云二十年在百丈俗氣也不除。歷徧乾坤路不賒那知壺內有人家全身一句能超脫生死方除眼裏華舉趙州謂眾云我向行󷗿到南方火爐頭有個無賔主話直至如今無人舉著。無賔主話誰能舉舉得分明我未許觀音院裏老趙州慣向人前賣口嘴舉趙州因僧侍次遂指火問云者個是火你不得喚作火老僧道了也僧無對復莢起火云會麼僧云不會州云此去舒州有投子和尚汝徃禮拜問之必為汝說因緣相契不用更來不相契卻來其僧到投子子問近離甚處僧云趙州子云趙州有何言句僧舉前話子云汝會麼僧云不會乞師指示子下禪牀行三步卻坐問云會麼僧云不會子云你歸舉似趙州其僧卻回舉似州州云還會麼僧云不會州云投子與麼不較多也。不識玄旨徒",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: active instruction through Yaoshan's rebuke that twenty years at Baizhang had not removed Yunyan's vulgar air."
+        }
+      ],
+      "SourceTexts": [
+        "J/J29/J29nB233.xml",
+        "L/L154/L154n1639.xml"
+      ],
+      "RelatedMasters": [
+        "Jie'an Jin",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A cutting appraisal that long residence, study, or polished speech has not removed a person's ingrained ordinary manner; it repeatedly caps the Yaoshan–Yunyan exchange and is redeployed against other verbal performances. Jie'an Jin uses the expression through direct interlinear appraisal of Fubei's claimed lack of surplus words. Tianyin Yuanxiu independently deploys it through active instruction through Yaoshan's rebuke that twenty years at Baizhang had not removed Yunyan's vulgar air."
+    }
+  ]
+}

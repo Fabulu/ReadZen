@@ -1,0 +1,75 @@
+{
+  "Id": "t_c4fdb84f8f96",
+  "SourceTerm": "紅旗閃爍",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "red banners flash",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "red banners flash"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep separate from the other house appraisals; they form a series, not synonyms. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0618b06",
+          "ToLb": "0618b14",
+          "Kwic": "饒彼五祖演欲形容五宗之密，如逆耳聞雷、紅旗閃爍，斷碑橫古路語，亦不過彷彿其一班",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng directly discusses Wuzu Fayan's five-house appraisal and voices 紅旗閃爍 in the retained single-hit span."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0179b01",
+          "ToLb": "0179b23",
+          "Kwic": "。所以六祖一華而出二枝，南嶽懷讓、青原行思是也。讓出四葉，馬祖道一，一出百丈懷海，海出黃檗希運，運出臨濟義玄，一也。百丈出溈山靈祐，祐出仰山慧寂，二也。自馬祖出天王道悟，悟出龍潭崇信，信出德山宣鑒，鑒出雪峰義存，存出雲門文偃，三也。雪峰出玄沙師備，備出地藏桂琛，琛出法眼文益，此馬祖一枝之四葉也。青原一枝出一葉，自石頭希遷，遷出藥山惟儼，儼出雲嵒曇晟，晟出洞山良价，价出曹山本寂，此青原一枝之一葉也。大矣哉！威音王以前無物也，威音王以後無物也，無物之物不可以言到心師也。其○也，彈丸迸出，透頂處忤逆聞雷；迅電突來，過眼時紅旗閃爍。裂作兩開而火見，處處斷碑橫古路；控成雙結而中虛，遠遠馳書不到家。不知自己為何物，謾道三界為唯心。滴水荅曹源滴水，慧超原汝是慧超，分明打劫就窠，爭奈巡人犯夜，羅五家之四面，突臨濟之正宗。所以從威音一點闢開，至臨濟一囊收納。雲門本出睦州，于黃檗豈外滹沱？溈仰自續風穴，于首山還歸慧照。曹洞到浮山而率賓歸王，法眼雖入教而難逃至化。惟此一事實，餘二則非真。臨濟兒孫既專大任，敢負前宗？一悟便了而無餘，是增慢者；一槌便就而莫動，是淺丈夫。當知大器晚成，切莫半途而廢。師承在宗旨，不在名字，源流證悟盡差別，焉可根本坐定？痛快者翻成",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: direct house appraisal."
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB311.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Hanyue Fazang",
+        "Wuzu Fayan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Wuzu Fayan's compact appraisal of the Yunmen house, later quoted and actively applied in five-house comparisons. Juelang Daosheng directly discusses Wuzu Fayan's five-house appraisal and voices the red-banner image in the narrowed passage. Hanyue Fazang independently deploys it through direct house appraisal."
+    }
+  ]
+}

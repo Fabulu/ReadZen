@@ -1,0 +1,69 @@
+{
+  "Id": "t_821e215270bb",
+  "SourceTerm": "錢貫井索",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "cash string and well rope",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "cash string and well rope",
+        "A paired household inventory drawn from Qingping's answers on the great and small vehicles, later presented with skimmer and wooden ladle as a ready-made house style"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the paired household inventory together without spawning articles for every mentioned implement. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0704b25",
+          "ToLb": "0704c18",
+          "Kwic": "欲還舊觀分疏，那法身更向上。雖然功不虛施，作麼生慰藉他好？摧殘枯木方新秀，且喜寒梅春正歸。師誕日上堂：「真歇老祖去我五百年，望我於無陰陽地上建大光幢；壽昌先祖去我四十年，望我於無影樹頭開花結果；東苑先師去我廿八年，望我於六毒峰前掀翻五乳。爭奈這孟八郎子孫，以一條血滴滴拄杖子，火馳水突冒命忘危，坐不溫席行不辭疲，踏殘芳草斷送落花。黃鶴樓前倩秀才，次不成崔顥底一韻；曹山井畔騎驢子，覷不見法身莖眉凜。」良久，「邈真溯無言得髓，誰堪振向上深微？自應續主中尊貴，逗到於今已六十六，白接得幾枚沒勾挂底嗣子，東穿西汲南搯北撈，大似錢貫井索、木杓笊籬，何足塞祖宗之厚望、慰慧命之傳持？甚愧馬齒徒長，雞肋無力；醍醐毒藥，快意傷心。滯貨與此，遺艱都盧，皆屬分內，是何初度，受此祝辭？新豐之曲調既高，藥嶠之鼓笛猶渺；朝無猿摘之金果，晚乏鳳啣之玉花。如此荒疏實難酬酢，然隨時應節也須吐露一句。且道吐露底又作麼生？法界不容吾自委，敢推樓至與威音。」立春上堂：「昨日年正今立春，雙分錦縫露天真；夜明簾外無私照，金殿光含化育新。秪這東皇秉令，元首尊親；三陽交泰，天下歸仁。木馬嘶開空劫夢，泥牛踏山故園春。正好門前扶起風旛，吹動海嶽；堂上唱來米價，喜徹高深。阿誰不承尊貴之力？",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: direct critical deployment of the household-object set."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0042b26",
+          "ToLb": "0042c20",
+          "Kwic": "奉，合作麼生較他優劣？萬古并傳無相服，從今代代付兒孫。」上堂。「長松久不陞座，今日翻然出戶，驚起嬾瓚老人，疑怪不能自拒。既是安於青山、樂於閒眠，而更斫取笻竹，逍遙野水之閒，坐臥泉石、歌笑昜谷，又何有聲鐘畫樓、伐鼓華屋，使舌頭勞勞、聽者鹿鹿？又聞久默斯要，不務速說，奚用參請而稱賢哲？吾固疑薄者厚而厚者薄。咄！者漢作者箇說話，長松終不為者漢說破，使疑三十年則箇。」臘八，上堂。「凄風括地，寒星耿不夜之珠；道心至微，金光穿髑髏之窟。震動三界，趨走十方，握大千於纖豪，融十世於一念。到恁麼時，隨類演化，就機接人，所以大臧小臧、錢貫井索、有漏無漏、木勺笊籬，一任拋出，未為分外。既然，且道其中一句作麼生道？雪裏寒梅飄半夜，匣中古鏡燿中天。」住高郵州福海禪院語錄住高郵州福海禪院語錄山門。「彌勒未彈指已前，即南詢之童子猶隔宮牆十仞；彌勒既彈指而後，雖博地之凡夫便住游戲三昧。如今大眾為甚麼還要箇入路？」乃以杖畫一畫，云：「飯袋子！者裏入去也不是分外。」伽藍殿。祝香云：「揭爾聰明，更揭爾神，則叢林貞；昧爾聰明，更昧爾神，則叢林傾。倘有願於疇昔，其是非胡不聽？我不似拾得打你，你也須識得衲僧。」佛殿。云：「德山大罵，朗江之上唱彌高；雲門椎殺，韶谿之濱和彌寡。新",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: independent free deployment of the Qingping inventory."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB174.xml",
+        "J/J29/J29nB223.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Shanhui Huan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Coin-string and well-rope are paired household objects in a deliberately abrupt inventory. Juelang Daosheng uses the expression through direct critical deployment of the household-object set. Shanhui independently deploys it through independent free deployment of the Qingping inventory."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Id": "t_a256d0abc23b",
+  "SourceTerm": "枯者從他枯",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "let the withered remain withered",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "let the withered remain withered",
+        "The withered-tree half of Gao Shami's answer refusing Yaoshan's demand to choose either withered or flourishing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the balancing thriving line in view without reducing the answer to plant description. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0533a08",
+          "ToLb": "0533b17",
+          "Kwic": "嚼一咬嚼我者三箇字差處不可輕放過去了師云今人盡知有向上路末後關至中峰祖師云山僧實未曾悟皆意思間放過了今人盡知有一句子百味具足至龍池老祖云我一篇佛法中有三箇錯字至今幾人咬嚼得破所謂如人說藥真藥現前每每失之甲辰春師抵秣陵東山禮臨濟正宗第二十四代海舟祖塔師拈香云賓則始終賓主則始終主得意忘言人不向句下死有理何用高聲兒孫今誰滿地驀喝一喝甲辰夏敔山示眾舉藥山坐次道吾雲巖侍立藥指案山上枯榮二樹問道吾曰枯者是榮者是吾曰榮者是藥曰灼然一切虛光明燦爛去又問雲巖枯者是榮者是巖曰枯者是藥曰灼然一切處放教枯澹去高沙彌忽至藥曰枯者是榮者是彌曰枯者從他枯榮者從他榮藥顧道吾雲巖曰不是不是師拈云輕得賤用師又徵大眾如何是他得的落處如何是他用的落處如何說他輕得賤用眾答不契一僧請益師云問將來進云如何是他得的落處師云先大師囋嘆不及進云如何是他用的落處師云後三賢窺覷無門進云為甚又道輕得賤用師云者裡有瑯琊麼何不道將此身心奉塵剎是則名為報佛恩示眾舉南泉云王老師修行無力被鬼神覷見師云摩竭掩室未至如斯示眾舉南泉云土地前更下一分飯師云諸方火塟池陽活埋示眾舉淨覺本禪師僧問同聲相應時如何淨云鵓鳩樹上啼師云可惜者僧浪問不知落處見淨老云鵓鳩樹上啼何不遙空掌云打落枝頭時如何倘淨老再云作家禪客天然有",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Gao Shami owns the retained deployment: active raising and interrogation of Gao Shami's answer.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted precedent",
+            "ActorLabel": "Gao Shami",
+            "ActorRole": "case-figure",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "藥曰 opens Yaoshan's question and 彌曰 opens Gao Shami's quoted answer containing 枯者從他枯; the later 師拈云 belongs to Yulin Tongxiu's appraisal.",
+            "ReviewedBy": "Batch51 systemic repair",
+            "ReviewedUtc": "2026-07-29T15:00:00Z"
+          }
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0348a02",
+          "ToLb": "0349a06",
+          "Kwic": "落華流水去依然緘口過殘春舉百丈野狐因緣。前百丈後百丈兩個老胡鼻一樣不落不昧叵商量且看眉毛在眼上咄舉泐潭法會禪師問馬祖如何是祖師西來意祖云低聲近前來向汝道會近前祖打一摑云六耳不同謀且去來日來會至來日獨入法堂云請和尚道祖云且去待老漢上堂出來問與汝證明會忽有省遂云謝大眾證明廼繞法堂一帀便去。六月炎天雪滿巔那知身到清凉山文殊舉手金剛窟𭣣取玻璃盞子還舉藥山因道吾雲巖侍立次廼指案山上枯榮二樹問道吾云枯者是榮者是吾云榮者是山云灼然一切處光明燦爛去又問雲巖枯者是榮者是巖云枯者是山云灼然一切處放教枯淡去高沙彌忽至山云枯者是榮者是彌云枯者從他枯榮者從他榮山顧道吾雲巖云不是不是。榮者榮兮枯者枯沙彌爭肯受糊塗長松壁立危巖上鶴唳一聲千載孤舉溈山侍立百丈丈問誰山云某甲丈云汝撥爐中有火否山撥云無火丈躳起深撥得少火舉以示之云汝道無者個聻山由是發悟禮謝次日同入山作務丈云將得火來麼山云將得來丈云在甚處山廼拈一枝柴吹兩吹度與丈丈云如蟲禦木。寒灰深撥見微熒爍破乾坤眼不同行到水竆山盡際拈來物物自從容舉溈山摘茶次謂仰山云終日摘茶秖聞子聲不見子形仰撼茶樹溈云子秖得其用不得其體仰云未審和尚如何溈良久仰云和尚秖得其體不得其用溈云放子三十棒仰云和尚棒某甲喫某甲棒教誰喫溈云放子三十棒玄覺",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: independent direct adaptation contrasting withered and thriving."
+        }
+      ],
+      "SourceTexts": [
+        "B/B27/B27n0152.xml",
+        "L/L154/L154n1639.xml"
+      ],
+      "RelatedMasters": [
+        "Yulin Tongxiu",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Letting the withered remain withered refuses manipulative improvement of the presented condition. Gao Shami uses the expression through active raising and interrogation of Gao Shami's answer. Tianyin Yuanxiu independently deploys it through independent direct adaptation contrasting withered and thriving."
+    }
+  ]
+}

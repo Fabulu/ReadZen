@@ -1,0 +1,68 @@
+{
+  "Id": "t_41b514b7a107",
+  "SourceTerm": "超宗越格",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "surpass the lineage and overstep the standard",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "surpass the lineage and overstep the standard"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "宗 can name lineage or school principle and 格 a standard or frame. Do not inflate the phrase into a general rejection of Zen lineage. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0711a10",
+          "ToLb": "0711b15",
+          "Kwic": "可彼此草裏輥相牽相拽，機關語句上論量揀擇作窠臼，埋沒人家男女軒，知是開眼尿牀，他明眼人終不做箇般路布。大丈夫意氣驚群，須圖正紹，臨際本宗，一喝一棒，一機一境，當陽勦絕。豈不見道：吹毛用了急還磨。示蜀中鷲峰長老示蜀中鷲峰長老多子塔前，曾分半座；葱嶺西畔，隻履獨𢹂。臨濟以瞎驢命惠然，夾嶠因青山委洛浦。雖源分派別，要一脉出自曹溪，擇大器利根，俾掃蹤滅跡。是故從上來，龍馳虎驟，換斗移星，閃電中別殽訛，石火裏分皁白。不論瞢底，惟務俊流，懸肘後符，廓頂門眼，立起綱宗，單提正令。源不深則流不長，功不積則用不妙。是以西河弄師子，要超宗越格；而楊岐吞栗棘蓬，取奔流度刃。既入箇選佛場，闡向上關捩子，應須一滴水、一滴凍，硬著鐵脊梁，荷擔此大任。己躬下諦實，為人處無偏，纔落世緣，便涉漏逗。祖峰老師橫點頭，白雲祖翁渾圝吞棗，常為警䇿。如臨深履薄，便可以向百尺竿頭進千百步，懸崖上跳萬億遭，廼真皮可漏，方驗撲不破，蓋大雄的的種草也。慎之！示顯上人(住蘇州崑山惠嚴)示顯上人住蘇州崑山惠嚴見處通透，用處明白，當旋機電卷，結角羅紋，槃錯縱橫，自能回轉無凝滯。亦不立見，亦不存機，滔滔地風行草偃蓋根脚。悟入時，徹淵源，修證得，無回互。會尚不可得，豈況不會？二六時中，只恁無繫無絆，初不存",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment: Zen-master-authored letters and instructions."
+        },
+        {
+          "RelPath": "X/X64/X64n1269.xml",
+          "FromLb": "0773b05",
+          "ToLb": "0917a17",
+          "Kwic": "No.1269住鼎州梁山廓庵和尚十牛圖頌并序序夫諸佛真源，眾生本有。因迷也，沈淪三界；因悟也，頓出四生。所以有諸佛而可成，有眾生而可作。是故先賢悲憫，廣設多途，理出偏圓，教興頓漸，從麤及細，自淺至深，末後目瞬青蓮，引得頭陀微笑，正法眼藏，自此流通，天上人間，此方他界。得其理也，超宗越格，如鳥道而無蹤跡；得其事也，滯句迷言，若靈龜而曳尾。間有清居禪師，觀眾生之根器，應病施方；作牧牛以為圖，隨機設教。初從漸白，顯力量之未充；次至純真，表根機之漸照。乃至人牛不見，故標心法雙亡。其理也已盡根源，其法也尚存莎笠。遂使淺根疑悞，中下紛紜。或疑之落空亡也，或喚作墮常見。今觀則公禪師，擬前賢之模範，出自己之胷襟。十頌佳篇，交光相映。初從失處，終至還源。善應群機，如救飢渴。慈遠是以探尋妙義，採拾玄微。如水母以尋飡，依海蝦而為目。初自尋牛，終至入鄽。強起波瀾，橫生頭角。尚無心而可覓，何有牛而可尋？泊至入󱈎，是何魔魅？況是祖",
+          "MasterName": "Liangshan Kuoan Shiyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangshan Kuoan Shiyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X64/X64n1269.xml). Verses on the Ten Oxherding Pictures with Preface, by the monk Kuo'an of Liangshan (內題: 住鼎州梁山廓庵和尚十牛圖頌并序；宋師遠述並序). Liangshan Kuoan Shiyuan owns the retained deployment: Zen-master-authored preface prose (the headword sits in the authorial preface, before the ten pictures and verses)."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1357.xml",
+        "X/X64/X64n1269.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Liangshan Kuoan Shiyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "An appraisal or instruction for going beyond inherited school convention and established form, used with the lion's maneuver and the trackless course of a bird. Yuanwu Keqin uses the expression through Zen-master-authored letters and instructions. Liangshan Kuoan Shiyuan independently deploys it through Zen-master-authored preface prose."
+    }
+  ]
+}

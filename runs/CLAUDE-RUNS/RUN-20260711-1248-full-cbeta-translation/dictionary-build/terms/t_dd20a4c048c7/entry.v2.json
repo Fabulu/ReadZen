@@ -1,0 +1,71 @@
+{
+  "Id": "t_dd20a4c048c7",
+  "SourceTerm": "楖栗橫擔",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "shoulder the chestnut staff crosswise",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "shoulder the chestnut staff crosswise",
+        "itinerant departure"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Retain the staff as physical travel gear. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0270a20",
+          "ToLb": "0270b22",
+          "Kwic": "如何？」祖曰：「日面佛、月面佛。」日面佛，爍破臉皮渾是骨；月面佛，一箭清光射入屋。此時花柳正芬芳，不遇攀郎生受屈。清源因僧問：「如何是佛法大意？」師曰：「廬陵米作麼價？」有貨不愁人，無錢生驚怕。作麼價？作麼價？人人鼻孔下頭大。首山拈竹篦示眾曰：「汝諸人若喚作竹篦則觸，不喚作竹篦則背。汝諸人且道喚作甚麼？速道！速道！」竹篦未舉已相通，觸背兩頭太朦朧，分付石人休打草，鐵蛇不在此山中。天台蓮花峰菴主，示寂日，拈拄杖示眾曰：「古人到這裏，為甚麼不肯住？」眾無對。師乃曰：「為他途路不得力。」復曰：「畢竟如何？」以杖橫肩曰：「楖栗橫擔不顧人，直入千峰萬峰去。」言畢而逝。拈來擔去太分明，餓眼如何見得清？風捲殘雲山色瘦，蓮花頂上有人行。婆子燒菴正當與麼露堂堂，不是吾人孰敢當？二十年前家醜事，一時焚卻播諸方。子湖看狗子湖惡狗鎮當門，佛祖都來一口吞，拼得一條窮性命，不妨報答畜生恩。夾山參船子一帶清江泛小舟，漁郎拋釣未曾休，一橈點破金鱗眼，湧出洪波四海流。趙州因尼問：「如何是密密意？」師以手掐之。尼曰：「和尚猶有這個在。」密密意，如何說？隨手輕輕便掐著，不意尼師情未瞥，擬將窗下又敲月。趙州與文遠論義曰：「鬥劣不鬥勝，勝者輸果子。」遠曰：「請和尚立義。」師",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: direct response and departure line."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0609a16",
+          "ToLb": "0609b20",
+          "Kwic": "山頭先已炤，入廛垂手沒疏親，兔兒不食窠邊草。食時辰，一眾都餐不溼羹，偃鼠飲河非吾種，大鵬劈海取龍吞。禺中巳，萬行花敷普賢智，豈做尋常鱉鼻蛇？養長頭角興雲雨。日南午，分明打出三更鼓，金毛獅子忽翻身，木馬嘶風叫冤苦。日昳未，大白牛車平等賜，雖有小根小莖來，不效瞿曇羊鹿濟。晡時申，打得獼猴箇箇惺，直教不外攀花手，便是如來清淨身。日入酉，窗禽也解尋窠走，須臾大地黑漫漫，千聖從來不知有。黃昏戌，我家獵犬當門立，管你千賢萬聖來，劈面一口要見骨。人定亥，野豬帶箭攻人稼，震威一喝豁然惺，一輪明月當空掛。山中四威儀山中四威儀山中行，楖栗橫擔破白雲。上層巒，遠眺愈精神。山中住，卓立懸崖無所繫。者一層，那個人敢履？山中坐，爐焚柏子香易過。峭巍巍，冷眼俱覷破。山中臥，月移松影穿窗過。蝶夢斷，不識人間路。示鑒可禪人示鑒可禪人屈指參隨已十年，鵬程尤滯半途邊，直教展翅南溟候，得座披衣事事全。觀音大士觀音大士稽首大悲王，能拔諸有苦，一手援一道，六道悉安妥。欲與一切樂，是樂等於我，若有一不肖，罪自心未普。眾生何所之？但向染邊趣，捨自尊貴身，說法示同類。日月掌中擎，晝夜永立佇，引入聞思修，共證圓通智。又眾生好染不知非，大士隨機現白衣，瓶瀉柳頭甘露水，得霑一滴世間稀。又",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: independent deployment."
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB193.xml",
+        "J/J26/J26nB185.xml"
+      ],
+      "RelatedMasters": [
+        "Yinyuan Longqi",
+        "Fushi Tongxian"
+      ],
+      "RelatedTerms": [
+        "飢餐渴飲"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "An itinerant departure image: the traveler shoulders a rough staff and goes into the peaks without looking back. Yinyuan Longqi uses the expression through direct response and departure line. Fushi independently deploys it through independent deployment."
+    }
+  ]
+}

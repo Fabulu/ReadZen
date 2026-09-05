@@ -1,0 +1,80 @@
+{
+  "Id": "t_93fff52d1af2",
+  "SourceTerm": "差之毫釐",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "miss by a hairbreadth",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "miss by a hairbreadth",
+        "The minute-deviation half of a warning that the smallest discrepancy produces a separation measured in a thousand li"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the consequence of a tiny deviation in view without treating every continuation as a separate headword. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0905c24",
+          "ToLb": "0906a23",
+          "Kwic": "寂默通。於此四句無用心處。方始可以提撕此箇消息也。佛說。世出世間功德。無如無心功德最大而不可思議。不見釋迦老子在般若會上。問文殊師利菩薩云。汝入不思議三昧耶。文殊云。弗也世尊。我即不思議。不見有心能思議者。云何而言入不思議三昧。我初發心欲入是定。如今思惟實無心想而入三昧。如人學射。久習則巧。後雖無心。以久習故箭發皆中。我亦如是。初學不思議三昧。繫心一緣。若久習成就。則更無心想。常與定俱。得到這箇田地。方始可說那伽常在定。無有不定時。所以佛說。無心功德直是殊勝。直是無較量處。今說無心。非如世間土木瓦石頑然無知之無心。差之毫釐失之千里。不可不諦審觀察也。佛說一百二十種菩提心。說一百二十箇譬喻。其中有一喻云。譬如有人依附於王不畏餘人。菩薩摩訶薩亦復如是。依菩提心大勢力王。不畏障蓋惡道之難。世間有人得近一至尊。而不畏餘人。則有之。肯依菩提心大勢力王。不畏障蓋惡道之難者。殊未見也。又有一喻云。譬如摩訶那伽大力勇士。若奮威怒於其額上必生瘡疱。瘡若未合閻浮提中一切人民無能制伏。菩薩摩訶薩亦復如是。若起□悲必定發於菩提之心。心未捨來。一切世間魔及魔民。不能為害。如上二種譬喻。皆為出世間大心有力量者說。何以故。二種譬喻非世間常得之法故。佛說此以啟迪過",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's direct capping warning after the staff-name challenge."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0776a13",
+          "ToLb": "0776b12",
+          "Kwic": "：「須彌山。」須彌山，當面擲，金烏玉兔兩旁出。雲門一訣未醒醒，直待當來問彌勒。護國一場懡㦬。殺人須見血，為人須為徹。大丈夫轟轟烈烈，項羽婦寺之仁印，刓敝而不與七十餘戰，未免一跌。法眼問覺上座：「船來陸來？」覺退卻，問旁僧：「適來這僧具眼不具眼？」腦後見腮，莫與往來。江湖上也有好漢，識得大官人姓柴。沒擺布，弄癡呆，說向人前別賣乖。咄！羞也不識。趙州放下著，擔取去。弄丸雖巧，不如承蜩。桀之犬，可以吠堯。臨濟打院主，次打典座。咸陽三月火，宮殿盡遭焚。說起長平事，當時愁殺人。清淨本然，云何忽生山河大地？清淨本然，只恁麼舉。差之毫釐，失之千里。洞山與密師伯過水，拈起木橋。拈起木橋，相煎太急。一呼便下，直恁省力。後來者何不棹頭竟去，先行者何不叫喚不回。左伯桃，羊角哀，豈是閒相識。九峰：「釋迦慳，迦葉富，百歲老兒分夜燈。」真個富，月明海底珊瑚樹；果然貧，布袋長汀乞一文。也不富，也不貧，滿山落葉盡黃金，百歲老兒分夜燈。不如吹滅了，一總暗中行。石柱到洞山四種人語。相逢拍手笑呵呵，石馬金牛事若何。見說烏龜啣月走，燈籠緣壁渡滹沱。孟嘗君，平原君，春申君，信陵君。去去去，東方先生，烏有先生。僧問金峰：「四海晏清時如何？」峰云：「猶是階下漢。」「太平本是將軍",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Ting owns the retained deployment: independent appraisal of exact responsive handling.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Liangting Ting",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Liangting Ting is explicitly identified by the retained source context and independent appraisal of exact responsive handling.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [
+        "毫釐有差"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A deviation measured at a hair's breadth opens into a disastrous miss. Dahui Zonggao uses the expression through Dahui's direct capping warning after the staff-name challenge. Liangting Ting independently deploys it through independent appraisal of exact responsive handling."
+    }
+  ]
+}

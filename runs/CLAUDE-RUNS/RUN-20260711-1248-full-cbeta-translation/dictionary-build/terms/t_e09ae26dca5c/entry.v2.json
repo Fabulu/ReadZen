@@ -1,0 +1,68 @@
+{
+  "Id": "t_e09ae26dca5c",
+  "SourceTerm": "旋風打散",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "scatter them like a whirlwind",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "scatter them like a whirlwind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "旋風 modifies the manner or force of 打散; bind the people or competing responders supplied by context and do not turn the formula into meteorological description. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0540b12",
+          "ToLb": "0541a20",
+          "Kwic": "是過量事人須過量人但得過量人自明過量事鳴板云知音不用頻頻舉識者應知暗點頭晚叅師一夕至東堂顧視左右震威一喝而出復至大堂驀打一僧僧喝師云再喝喝看僧擬議師又打大眾坐香完師命撾鼓陞堂卓拄杖舉臨濟大師云我有時一喝如金剛王寶劍有時一喝如踞地獅子有時一喝如探竿影草有時一喝不作一喝用師云且道新報恩適來在東堂一喝是金剛王寶劍耶是踞地獅子耶是探竿影草耶是一喝不作一喝用耶卓拄杖復舉臨濟大師云我有時先照而後用有時先用而後照有時照用同時有時照用不同時師云適來新報恩在此與麼打那僧是先照後用耶是先用後照耶是照用同時耶是照用不同時耶眾擬議師以拄杖旋風打散晚叅師拈拄杖云我此山中一物也無石頭大的大小的小內外諸人每日出坡三兩度驀有個漢出來道和尚前言不應後語但向他道非汝境界顧左右云若也會得許你不齩一粒米大碗喫飯不挂一縷𮈔終日著衣若也不會不是逐色隨聲即落解脫深坑到者裡切須仔細良久卓拄杖云叅晚叅師云禪和家蹋向人前盡道做工夫叅話頭阿呵呵莫做夢又每每道有個見處有些省發阿呵呵莫做夢驀竪拄杖召眾云到山僧者個所在作麼主透過顧左右云莫做夢擲拄杖出堂晚叅師拈拄杖云當初龐居士到百尺竿頭將謂見過於人開口便道不與萬法為侶者是什麼人幸而其時諸方有人若遇如今狐狼野子之屬盲引眾盲見有百尺竿頭坐的便道你",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: Yulin's repeated direct deployment of the whirlwind-dispersal action."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0531b10",
+          "ToLb": "0531c03",
+          "Kwic": "，云：「好禪德！會也無？須知形影外，肝膽向君輸。」晚參。「父母未生前，油煎石磉；父母已生後，雪蘸秤鎚。直饒寶壽於街坊悟得，猶落今時；盤山向肉案承當，罔循古轍。何況諸人從印板上打來、模子裏脫出底，能不玷污他從上門風？山僧今日不惜腳手，與汝拈卻炙脂帽子、卸卻鶻臭布衫，令教一箇箇灑灑落落去。」遂拈拄杖卓一下，云：「一九二九，相逢不出手。慶雲拄杖凍得性發，𨁝跳入空王殿裏，撞倒無位真人，磕破本來面目，直得十字街頭石敢當通身慶快，得大安樂法門，乃說偈曰：『晝吉祥，夜吉祥，晝夜六時恒吉祥。』你現前一眾瞌睡醒也未？」眾無對，以拄杖旋風打散。出隊，示眾。「街頭市尾，朱紫喧闐，的的諸佛心髓；酒肆茶坊，笙歌雜遝，明明祖師妙門。一舉便知底，承當于文彩未生前；三搭不回底，仍落在是非情塵裏。」驀拈拄杖畫一下，云：「慶雲為汝劃斷今時去也。還有機先領旨、獨脫無依底漢子麼？若有，我要問你：降龍缽、解虎錫，作麼生奉持？」眾無語，乃復卓一下，云：「七佛儀式猶在。」造子朱護法請陞座。問：「昔日世尊佛法付囑國王大臣，未審和尚今日佛法付囑何人？」師云：「驗在目前。」進云：「與麼則千古同風，一音演唱。」師云：「何慮知之者少？」問：「重整綱維，龍象瞻仰，和尚垂何旨要？」師云：「來",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: independent repeated direct use in active encounter scenes."
+        }
+      ],
+      "SourceTexts": [
+        "B/B27/B27n0152.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Yulin Tongxiu",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "An abrupt encounter action: Yulin Tongxiu or Yushan Shangsi uses the staff, whisk, or immediate force of the response to disperse a group of monks like a whirlwind. Yulin Tongxiu uses the expression through Yulin's repeated direct deployment of the whirlwind-dispersal action. Yushan Shangsi independently deploys it through independent repeated direct use in active encounter scenes."
+    }
+  ]
+}

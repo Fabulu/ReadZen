@@ -1,0 +1,78 @@
+{
+  "Id": "t_4c752b8311ab",
+  "SourceTerm": "織錦於西舍",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "weave brocade in the western house",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "weave brocade in the western house",
+        "The completion of the jade-maiden image"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Govern 玉女夜拋梭 as the first half; retain shuttle, brocade, and western house rather than naming an abstract state. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0188b09",
+          "ToLb": "0188c03",
+          "Kwic": "僧云：『如何是向上事？』山咄云：『者奴兒婢子。』」拈云：「識尊卑，知貴賤，西園是作家；分玉石，辯金鋀，曹山不世出。者僧雖解切蹉琢磨，也秖向奴兒婢子邊著到。還知麼？放曠淋漓兩不傷，猶是夜明簾外客。」舉：「雲門示眾云：『十五日以前即不問，十五日以後道將一句來。』自云：『日日是好日。』」拈云：「屬虎人本命，屬猴人相衝。」舉：「壽聖云：『月半前用鉤，月半後用錐。』僧便問：『正當月半時如何？』聖云：『泥牛踏破澄潭月。』」拈云：「兩頭得用，壽聖作家，直下忘功，是誰體得？放行也互換主賓，把定也不留朕跡。還有體得底麼？玉女夜拋梭，織錦於西舍。」舉：「僧問曹山：『世間什麼物最貴？』山云：『死貓兒最貴。』僧云：『為什麼死貓兒最貴？』山云：『無人著價。』」拈云：「曹山貨物不入行市，子細看來一文不直。曹山遇賤則貴，我者裏遇貴則賤，且道還有相違處麼？」舉：「大慈示眾：『山僧不會荅話，秖是識病。』時有僧出，慈便歸方丈。雪竇云：『雪竇識病不荅話，或有僧出，劈脊便打。』」拈云：「大慈、雪竇二俱作家，要且秖顧目前，不防腳下。或有箇不識好惡、不問東西底漢出來，便掀倒禪床，直饒你全機大用，秪恐著手腳不得。正當恁麼時，還有識病底眼麼？」舉：「僧問雪峰：『聲聞人見性如夜見月，",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue owns the retained deployment: Hongzhi's direct capping comment on the before-midmonth, after-midmonth, and exact-midmonth case."
+        },
+        {
+          "RelPath": "J/J35/J35nB339.xml",
+          "FromLb": "0756c30",
+          "ToLb": "0757b06",
+          "Kwic": "心裡月，炤開生佛未分前，渠儂面目知何似？籬落霜高菊正鮮。歇得身心勿外求，縱橫十字絕周由。饒伊別有縵天網，透過牢關也合休。示蓮生大德示蓮生大德心直無虛是道場，面門瞋喜絕囊藏。意根若使重遮護，長劫迢迢滯異鄉。贈喻中禪師贈喻中禪師胸襟磊落氣安閒，曾踏他家向上關。萬象森羅齊喝彩，清風嬴得遍塵寰。雜偈山居雜偈山居雜偈白雲夜半正明，青山天曉不露。但秪閒坐困眠，管甚有過無過。雲過松濤瀉碧，雨餘柳帶垂青。好景無人顧著，飛來獨許幽禽。水月頌水月頌山僧口裏無舌，解道虛空是橛，可憐伎死禪和，秪管水中撈月。示閨人參禪示閨人參禪玉女夜拋梭，織錦於西舍。製就未生圖，清光冷相射。圓脩道者有省示之圓脩道者有省示之心是根兮法是塵，兩頭拈卻未為真，忽然一捏百雜碎，始信昔人非昔人。勉無聞道者勉無聞道者生來腳底無羈絆，雲月谿山到處看，今日缽盂添個柄，新鮮不似舊時安。示智徹道人課佛示智徹道人課佛念佛終期念自心，莫將知見妄疏親。但能淨穢雙忘卻，敢保花臺決定生。示炤道者示炤道者佛祖牢關一擊開，百千三昧總嬴來。逢人若肯呈牙爪，敵勝驚群不可陪。示隨侍諸子示隨侍諸子湖上島橫青玉案，雲中塔鎖白銀幢。威音一幅全生面，不為群機有覆藏。讀龐居士語錄讀龐居士語錄靈炤人貧智短，龐公年老心孤，蕩盡家",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J35/J35nB339.xml). Cliff-Flower Collection of Chan Master Lingrui. Lingrui Zukui Fu owns the retained deployment: independent verse deployment that continues with the completed image.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Lingrui Zukui Fu",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Lingrui Zukui Fu is explicitly identified by the retained source context and independent verse deployment that continues with the completed image.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J32/J32nB272.xml",
+        "J/J35/J35nB339.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The completion of the jade-maiden image: after she casts the shuttle at night, brocade is woven in the western house, capping unimpeded responsive activity. Hongzhi Zhengjue uses the expression through Hongzhi's direct capping comment on the before-midmonth, after-midmonth, and exact-midmonth case. Lingrui Zukui Fu independently deploys it through independent verse deployment that continues with the completed image."
+    }
+  ]
+}

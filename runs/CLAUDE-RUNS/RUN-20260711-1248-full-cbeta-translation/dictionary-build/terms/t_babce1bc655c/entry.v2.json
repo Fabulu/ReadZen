@@ -1,0 +1,78 @@
+{
+  "Id": "t_babce1bc655c",
+  "SourceTerm": "俗人沽酒三升",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a commoner buys three sheng of wine",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a commoner buys three sheng of wine",
+        "The overcompensating second half of a denial proverb"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The wine purchase belongs to the no-hidden-silver exchange and is not literal hospitality. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1041b15",
+          "ToLb": "1041c15",
+          "Kwic": "舉。曹山因。僧問。佛未出世時如何。山云。曹山不如。僧云。出世後如何。山云。不如曹山。師云。曹山向針孔裏作活計。見黃面老子未盡。忽有人問育王。只向他道。漆桶少間浴佛。牢把杓子。上堂。纔問著盡道。只是者箇及乎誥其端由。十箇有五雙。不知落處育王。抑下。威光。為汝從頭解註一遍。良久云。好語不可說盡。結夏小參。缺齒老胡。十萬里帶得箇沒滋味來。流布天下叢林。使一箇箇面不廝。覷。長期短期只管捱。驀然打箇無合殺。便乃見佛殺佛。見祖殺祖。聞戒定慧。唾罵不已。雖然如是。育王今夏。莫有此人麼。卓主丈。舌柱上齶。上堂。佛之一字。吾不喜聞。俗人沽酒三升。寧可洋銅灌口。不受信心人食。此地無金二兩。會得兩不成雙。不然。花須連夜發。莫待曉風吹。端午上堂。僧問。文殊令善財採藥。財云。無不是藥者。此意如何。師云。引出落風蓮。僧云。善財拈草。度與文殊。殊云。此藥亦能殺人。亦能活人。又作麼生。師云。一人傳虛萬人傳實。僧云。學人通身是病。作麼生醫。師云。佛手也醫爾不得。師乃云。此日天中之節。好事不得不說。缺齒道士。噀水書符。斷臂仙人。指空揑訣。赤眼麻豆。一時殄滅。唯有虛堂。七凹八凸。上堂。懷州牛喫禾。益州馬腹脹。天下覓醫人。灸猪左膞上。杜順和尚。鶻臭布衫。終竟難脫。育王眉毛觸碎",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: direct paired deployment reversing the order of denial and wine purchase."
+        },
+        {
+          "RelPath": "J/J40/J40nB493.xml",
+          "FromLb": "0513a08",
+          "ToLb": "0513b01",
+          "Kwic": "如現前大眾，出一藂林，入一保社，成佛作祖，披毛戴角，菩提涅槃，靈苗智種，是龍上天，是蛇竄草，將為隨一切性，一任憤憤悱悱，卻成煩惱不煩惱聻？摩尼珠人不識，如來藏裏親收。即今珠在甚麼處那？」良久，云：「海神知貴不知價，留與人間光照夜。」示眾。舉：「釋迦老子靈山會上說大般若，舍利弗於佛前問須菩提：『夢中說六波羅蜜與覺時是同？是別？』須菩提云：『此義幽深，吾不能說。會中有彌勒大士次補佛處，可往問之。』彌勒云：『誰為彌勒？誰是彌勒者？』」師云：「堪笑者隊囈語漢，誡人起早，自己犯夜，只管夢中說夢，殊不知開口咬舌。此地無銀二兩，俗人沽酒三升。然則是你者隊漢，佛法不得到今日；不是你者隊漢，佛法不得到今日。鴛鴦枕上兩行淚，半是思君半恨君。」示眾。「高超十地，不歷僧伽，物我一如，身心平等，披毛戴角異中行，只恐回來自不識。」遂作牛叫三聲，云：「咦！南無佛，南無法，南無僧，南無麻三斤，南無干矢橛，南無庭前柏樹子，南無青州做領布衫重七斤。」復云：「願以此功德，普及於一切，我等與眾生，皆共成佛道。」示眾。「兔角不用無，牛角不用有，兩兩不成雙，三三亦非九，夜來空手把鋤頭，天曉面南朝北斗。」驀喝一喝，云：「九九八十一，皆歸有道君。」示眾。「一元和，二佛馱，三達磨，是什",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. Qingshan Pufu Zhuo owns the retained deployment: independent criticism of dream-talk through the complete proverb.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Qingshan Pufu Zhuo",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Qingshan Pufu Zhuo is explicitly identified by the retained source context and independent criticism of dream-talk through the complete proverb.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n2000.xml",
+        "J/J40/J40nB493.xml"
+      ],
+      "RelatedMasters": [
+        "Xutang Zhiyu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The overcompensating second half of a denial proverb: protesting that there is no silver here prompts conspicuous wine-buying that exposes the matter. Xutang Zhiyu uses the expression through direct paired deployment reversing the order of denial and wine purchase. Qingshan Pufu Zhuo independently deploys it through independent criticism of dream-talk through the complete proverb."
+    }
+  ]
+}

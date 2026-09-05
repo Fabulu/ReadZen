@@ -1,0 +1,77 @@
+{
+  "Id": "t_47af42c0fe79",
+  "SourceTerm": "巡堂喫茶",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch68 admitted11 constructor C",
+  "WrittenUtc": "2026-07-29T15:05:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "make the circuit of the hall and drink tea",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "circuit the hall and drink tea"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep 巡堂 as the physical circuit; distinguish the action from the event heading 巡堂茶 and generic 喫茶. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1393.xml",
+          "FromLb": "0538b19",
+          "ToLb": "0538c20",
+          "Kwic": "。丈云：正好供養。南泉拂袖便去。祖云：經歸藏，禪歸海，唯有普願獨超物外。師云：馬大師一家父子，只解貪觀天上月，不知失却手中橈。雙峰則不然，正與麼時如何？青天也須喫棒。都道場看經歸，上堂：一大藏教是箇切脚，且道切甚麼字？諸仁者，出一叢林、入一保社，一七日內朝看暮閱，還有覰得透底麼？若覰得透，非唯仰報聖恩，抑亦慶快自己；若覰不透，被黑荳子換却眼睛了也。驀拈主丈：雙峰不惜眉毛，曲施方便，向第二義門與諸人相見。卓主丈：閙市拶出憍尸迦，驚起憨憨梵王睡。上堂。衲僧家只解步步登高，不解從空放下，且道誵訛在什麼處？良久，云：下座，巡堂喫茶。上堂，舉：芭蕉示眾云：你有主丈子，我與你主丈子；你無主丈子，我奪却你主丈子。後來真淨和尚拈云：你有主丈子，我奪却你主丈子；你無主丈子，我與你主丈子。師云：二大老向有無與奪中作活計，檢點將來合喫主丈。雙峰不欲盡法無民，放過一著靠主丈。下座。上堂：雲門有一曲，臘月二十五。直下會得，未敢相許。何故？射虎不真，徒勞沒羽。除夜，小參。過去已過去，生鐵秤鎚被虫蛀；未來猶未來，燈籠沿壁上天台。即今臘月三十日也，見在底作麼生？一法若有，毗盧墮在凡夫；萬法若無，普賢失其境界。竪拂子：東弗于逮、西瞿耶尼、南瞻部洲、北󳬂單越，即今在山",
+          "MasterName": "Pingshi Rudi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pingshi Rudi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi owns the retained deployment: direct recorded-sayings use after descending from the seat."
+        },
+        {
+          "RelPath": "T/T48/T48n2025.xml",
+          "FromLb": "1155b18",
+          "ToLb": "1155c21",
+          "Kwic": "而用之。于以警昏怠。肅教令導幽滯而和神人也。若夫大定常應大用常寂。聞非有聞覺亦非覺。以考以擊玄風載揚。無思無為化日自永。雍雍乎仁壽之域。清泰之都矣。鍾鍾大鍾大鍾叢林號令資始也。曉擊則破長夜警睡眠。慕擊則覺昏衢疏冥昧。引杵宜緩揚聲欲長。凡三通各三十六下。總一百八下。起止三下稍緊。鳴鍾行者想念偈云願此鍾聲超法界。鐵圍幽暗悉皆聞。聞塵清淨證圓通。一切眾生成正覺仍稱觀世音菩薩名號。隨號扣擊其利甚大。遇。聖節看經上殿下殿。三八念誦佛誕成道涅槃。建散楞嚴會諷經齋粥過堂人定時。各一十八下。如接送官員住持尊宿。不以數限。庫司主之。僧堂鍾僧堂鍾凡集眾則擊之。遇住持每赴眾入堂時鳴七下。齋粥下堂時放參時。旦望巡堂喫茶下床時。各三下住持或不赴堂。或在假則不鳴堂前念誦時念佛一聲。輕鳴一下。末疊一下。堂司主之。殿鐘殿鐘住持朝慕行香時鳴七下。凡集眾生殿。必與僧堂鐘相應接擊之。知殿主之。感通傳云。拘留孫佛於乾竺修多羅院。造青石鍾。於日出時有諸化佛與日俱出。密說顯演十二部經。聞法證聖不可勝數。增一阿含經云。若打鍾時一切惡道諸苦並皆停止。又金陵志云。民有暴死入冥司。見有五木縲械者。告之曰。吾南唐先主也。以宋齊丘之誤殺和州降者致此。每聞鍾聲暫息吾苦。仗汝歸白嗣君。為吾造鐘。民還具聞後主。因造大鐘於清涼。寺鐫曰薦烈祖孝高皇帝脫幽出厄。版版大版齋粥二時長擊三通。木魚後三下疊疊",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2025.xml). Imperially Revised Baizhang Monastic Regulations. The institutional compiler records bell timing for the communal hall-circuit tea event; this is not a Zen-master utterance.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "institutional compiler voice",
+            "ActorLabel": "the institutional compiler voice",
+            "ActorRole": "narrator",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "The monastic code states the procedure in compiler narration rather than assigning it to a named master.",
+            "ReviewedBy": "V7 batch68 constructor C",
+            "ReviewedUtc": "2026-07-29T15:05:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1393.xml",
+        "T/T48/T48n2025.xml"
+      ],
+      "RelatedMasters": [
+        "Pingshi Rudi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A concrete communal action after a hall address: make the circuit of the monks' hall and drink tea. Pingshi Rudi uses the expression through direct recorded-sayings use after descending from the seat. The monastic code independently records bell timing for the communal hall-circuit tea event."
+    }
+  ]
+}

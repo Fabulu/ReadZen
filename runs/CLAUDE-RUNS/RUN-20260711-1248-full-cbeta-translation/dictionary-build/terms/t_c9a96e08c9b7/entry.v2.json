@@ -1,0 +1,108 @@
+{
+  "Id": "t_c9a96e08c9b7",
+  "SourceTerm": "摩竭掩室",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01a fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "in Magadha, he shut himself in",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "Magadha shut-room silence"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The records do not treat silence uniformly: some present it as the proper command, while others say it still does not suffice.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0494b07",
+          "ToLb": "0494c05",
+          "Kwic": "磕著俱為本地風光，應物現形，不將不迎，湛然真寂，逗到臘月三十日便了當得，所謂把得住，作得主。豈不見老龐長養臨行謂于頔相公：但願空諸所有，慎勿實諸所無。枕公膝乃行。楊侍郎透徹圓融，立節立朝，下梢啟手足，乃云：漚生與漚滅，二法本來齊。要識真歸處，趙州東院西。不是向結交頭得力也。大凡存誠向慕，本不希聞見談柄，正欲確然清身潔意，內守虗閑，外廓聞見，密運慧刃，剸割情慾，返照回光，如靈雲見桃花，香嚴聞擊竹，以至不是風動，不是幡動。仁者心動，非風鈴鳴，我心鳴耳。示處謙首座示處謙首座先德垂機立教，初不等閑，必使萬世仰法為標準。是故摩竭掩室，少林冷坐，毗耶杜詞，善現宴寂。蓋有為而為，如北辰據位，百川潮宗，虎視龍驟，風回雲合。知有者，默識其趣向，不做道理，便可直領深入其閫奧，即體裁步驟，自然𭰞合。當其初立，似若適會，及已成形聲，則不可掩，卓卓驚世，漸漸日新。至於德嶠縱白木棒，濟北振奮雷喝，俱胝只立一指頭，秘魔擎箇鐵杈子，象骨輥三毬，禾山四打鼓，國師水椀，溈阜牧牛，俱逗逸群，絕類作略。而西園燒浴，金牛召飯，天皇餅，趙州茶，極於細微，洞徹淵奧，不負時機，超宗出格，真麒麟頭角，師子爪牙，異世仰之，不可跂及。逮發一句，施一機，尤不可意象名模也。有志之士，未發足",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment: master-authored instruction presenting the withdrawal as execution of the proper command."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0016a28",
+          "ToLb": "0016b20",
+          "Kwic": "，密密綿綿嘗證入，不生不滅如來藏，頭頭物物悉包容。所以道：空可空，非真空；色可色，非真色。真色無形、真空無名，無名名之父、無色色之母，能為三界之根、作天地之祖。如是，則金剛體生育之本、如來藏造化之源，能作奇特因、能顯難思事。若上根利智，向文彩未彰已前當頭一時坐斷，淨裸裸、赤灑灑，如天普蓋、似地普擎，如虛空寬廣、如日月普炤，一道清虛靡不貫徹，感應道交綿綿瓜瓞。」驀拈拄杖云：「當恁麼時，且作麼生是造化之源、生育之本？杖頭點出金剛眼，彈指圓成八萬門。」卓拄杖下座。施主請上堂。「正令當行，十方坐斷，宗旨建立，毫髮無差。是以摩竭掩室、毗耶杜詞，斯皆理為神御，故口以之而默，豈曰無辨？辨所不能言也。如天不言，靡所不蓋；如地不言，靡所不載。故曰，天無私蓋、地無私載。天若私，則有蓋、有不蓋；地若私，則有載、有不載。古人所謂：皇天無二道，聖人無兩心。雖無二道，昆蟲草木咸植其中，隨其根性悉遂其生。故《法華經》云：『密雲彌布，一雨普滋。』斯非法喻齊彰、佛天無二者乎？」遂舉拂云：「有眼者見。」復敲香几云：「有耳者聞。聞見分明，是個甚麼？」擲拂云：「正恁麼時，諸人分上又作麼生？還委悉麼？一氣不言含有象，萬靈悉稟共同根。」下座。追嚴請上堂，僧問：「析肉還母，析骨",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: direct explanation that principle governs the silence rather than lack of eloquence."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0446a01",
+          "ToLb": "0446b26",
+          "Kwic": "。萬如禪師語錄卷第一萬如禪師語錄卷第二嗣法門入行猷等編住福建興化府曹山上生禪寺語錄住福建興化府曹山上生禪寺語錄師於崇禎壬午年四月初六日入院。三門。「我此法門，八字打開，腳下無私，直往直來。且入門一句作麼生道？」拽拄杖便入。佛殿。「靈山一會，儼然未散，直下見得，不隔一線。從他三十二相、八十種好，山僧到者裏都盧蓋覆。」卻展坐具。伽藍堂。「護教伽藍、叢林之主，山僧敬爇一爐香，靈山受囑盡在此。」拈香便燒。祖師堂。「默然坐地，已成話墮。纔涉言詮，葛藤露布。而今截斷兩重關，一句當陽絕回互。」拈香云：「大眾！急著眼覷。」據室。「摩竭掩室，毘耶杜詞，雖然坐斷古今，要且不堪為法。且山僧如何施設？縱饒鐵額銅頭漢，幾煆紅爐始放行。」上堂。師指法座云：「坐斷報化佛頭，獨踏毘盧頂上，諸人若欲共觀瞻，普請大家高著眼。」遂陞。拈香祝聖畢，又拈香云：「此一瓣香，衝風冒雨，一十五年未得歇腳，末後撞到金粟峰前，打破疑團。如如已曾酬價，今日第二回拈出，爇向爐中，專為供養現住浙江台州府通玄堂上，傳曹谿正脈第三十四世密雲大和尚，用酬法乳。」斂衣敷坐。維那白椎畢，師云：「飄飄一葉過莆中，列岫渾呈世外容，千古曹山親到此，不妨重展舊家風。眾中還有擎頭戴角底衲僧麼？出來試𨁝跳看。」",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: direct critical room-address saying the paired silences still do not suffice."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0781b02",
+          "ToLb": "0781c05",
+          "Kwic": "鼻孔幾多長。」艮其背艮其背問：「既是背，何故非身？」師云：「青衣傳綵仗。」「既行庭，何故無人？」師云：「金殿鎖春風。」畫前易刪後詩畫前易，刪後詩。問：「如何是畫前有易？」師云：「拆拆單單。」「如何是刪後無詩？」師云：「一送二寘。」乾為馬坤為牛乾為馬，坤為牛。問：「如何是乾為馬？」師云：「為玉為金。」「如何是坤為牛？」師云：「為輿為釜。」「情與無情，是同是別？」師云：「同則一切總別，別則一切總同。」一陰一陽一陰一陽問：「既是一陰一陽，為甚麼陽陰不測？」師伸一指云：「是多少？」書不盡言言不盡意書不盡言，言不盡意。問：「摩竭掩室，毘耶杜口，莫是不盡言、不盡意否？」師云：「諸大菩薩即且置，奈四十九年何？」帝出乎震帝出乎震問：「帝出乎震，是帝釋之帝？是郊禘之帝？」師云：「觀世音菩薩將錢來買胡餅，為甚麼卻是饅頭？」乾元坤元乾元坤元問：「乾元坤元，是一元是二元？」師云：「前劫後劫，是一劫是兩劫？」隰有荷華隰有荷華問：「清淨寶蓮花，為甚麼風人出之則為淫麗？」師云：「卑隰淤泥。」鶴鳴九皋鶴鳴九皋問：「鶴鳴九皋，聲聞於天，是天耳所聞否？」師云：「上座莫不聞麼？」明堂明堂問：「郊配天，明堂配帝，有兩耶？」師云：「毘盧即是釋迦，釋迦不是彌勒。」奠雁奠雁問：",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: direct question testing the allusion against forty-nine years of speaking."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1357.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB182.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Miyun Yuanwu",
+        "Wanru Tongwei",
+        "Liangting Jingting"
+      ],
+      "RelatedTerms": [
+        "毗耶杜詞"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "An allusion to the Buddha's wordless withdrawal in Magadha, repeatedly paired with Vimalakirti's silence and then explained, tested, or criticized. Yuanwu Keqin supplies the master-authored proper-command instruction deployment through master-authored instruction presenting the withdrawal as execution of the proper command. Miyun Yuanwu supplies the direct explanation of governed silence deployment through direct explanation that principle governs the silence rather than lack of eloquence. Wanru Tongwei supplies the critical room-address deployment through direct critical room-address saying the paired silences still do not suffice. Liangting Jingting supplies the question contrasting silence with a lifetime of speech deployment through direct question testing the allusion against forty-nine years of speaking."
+    }
+  ]
+}

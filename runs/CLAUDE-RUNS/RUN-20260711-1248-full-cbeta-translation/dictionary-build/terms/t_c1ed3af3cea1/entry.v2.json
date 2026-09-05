@@ -1,0 +1,68 @@
+{
+  "Id": "t_c1ed3af3cea1",
+  "SourceTerm": "箭穿紅日影",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch68 admitted11 constructor C",
+  "WrittenUtc": "2026-07-29T15:05:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the arrow pierces the red sun's image",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "arrow pierces the red sun's image"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Marksman and tide continuations explain local images but are not synonyms. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1413.xml",
+          "FromLb": "0286b16",
+          "ToLb": "0286c22",
+          "Kwic": "一謂一向以相招也。來來禪子歌來來禪子歌來來，石田茅屋門常開。神光不昧萬古意，機鋒未觸三玄摧。來來，聲前浩浩轟春雷。何人掩耳聽不及，為我喚醒金牛回。菩薩子，菩薩子，人人喫飯皆相似。嘔出肝膓幾个知，利物利人誠有旨。來來來也更須來，古佛廟前休議擬。金鷄解㗸粟，玉馬登崑崙。善財南詢百城窅，樓閣重重雲路渺。此亦正為梵僊作者。釋迦釋迦棄金輪位入塵勞，三界茫茫路轉遙，四十九年行不盡，鷲峰依舊插天高。觀音觀音坐盤陀石示慈悲，楊柳枝頭玉露垂，多少眾生沉苦海，聲塵消盡是何󳭌？送通禪人之永嘉送通禪人之永嘉佛不遠人，即心而證。萬里望崖州，箭穿紅日影。夜光舒光照有無，獼猴觸碎軒轅鏡。永嘉到曹溪，一宿傳心印。幾多入海筭沙人，不分鞭影分邪正。我聞古東甌，人物亦興盛。嶄然住山者，名實俱相稱。不愛楊岐白雲，痛罵雲門真淨。是非既不辨，得失由真性。江月松風入坐寒，為吾喚起那伽定。贈聖藏主贈聖藏主黃檗打臨濟六十拄杖，蒿枝輕揭。示佛祖奧旨，皎如赫日懸青冥。波騰海涌太華裂，迅機雄辯轟雷霆。我亦何為苦尋討，外道學佛惟聰明。請君從頭放下看，自性一一皆天真。送󳸼禪者再參徑山送󳸼禪者再參徑山一見更不再見，一聞更不再聞。此是衲僧行履，金剛脚下崑崙。正體堂堂顯露，等閑坐斷乾坤。永嘉到曹溪，",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1413.xml). Supplementary Gathas and Verses of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: master-authored verse deployment."
+        },
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0615b28",
+          "ToLb": "0615c21",
+          "Kwic": "站足處麼？各自歸堂檢點。」元旦，上堂。「三十六旬之始，七十二候之初，但只燒香祝聖，不必者也之乎。比來天清地泰，雨暘暢適，君為堯舜之君，世乃羲軒之世，干戈息而民歌有道，祖運隆而道播天涯。當此之際，那論他明教有、鏡清無，趙州東壁上葫蘆，曉來一陣寒風起，攪得瓊花滿太虛。」喝一喝，下座。解制，上堂。「南來，北來。」以拂子左卓，曰：「總不出者裏。東去，西去。」右卓，曰：「總不出者裏。」復卓，曰：「縱饒向者裏會得，又須知不萌之艸能藏香象，出門、不出門，有艸、無寸艸，細細檢較將來，俱為繫縛根本。雲巖今日別開一路。」拂一拂，曰：「箭穿紅日影，珊瑚光皎皎。」崇鄉眾居士禳虎，請上堂。僧問：「烏藤卓處，便爾陽回運轉；麈尾纔揮，豁然霧斂雲收。如何是利生一句？」師曰：「日不待火而熱，月不待風而涼。」曰：「法座師登龍虎伏，通鄉人眾見吉祥。還是神通耶？三昧耶？」師曰：「春日晴，山色媚。」乃曰：「青山萬朵，綠水千溪。花發高枝，雲流洞口。牧童唱處，白雲覆盡青山色；樵子歸時，黃葉堆成古徑秋。謳歌鼓腹，陶陶然樂。有虞之世，忽有箇焦尾大蟲向此間張牙露爪，咬殺幾多無面目漢，致使十年之內土曠人稀。山僧到者裏，去卻你虎，換卻你心，還你從前樂境，收回皎月清風。所謂法隨法行，法幢隨處",
+          "MasterName": "Pinjixiang Zhixiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pinjixiang Zhixiang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang owns the retained deployment: independent direct hall deployment."
+        }
+      ],
+      "SourceTexts": [
+        "X/X71/X71n1413.xml",
+        "J/J39/J39nB454.xml"
+      ],
+      "RelatedMasters": [
+        "Gulin Qingmao",
+        "Pinjixiang Zhixiang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compact poetic image of an arrow piercing the red sun's image; the retained records deploy it without fixing a single allegorical explanation. Gulin Qingmao uses the expression through master-authored verse deployment. Pinjixiang Zhixiang independently deploys it through independent direct hall deployment."
+    }
+  ]
+}

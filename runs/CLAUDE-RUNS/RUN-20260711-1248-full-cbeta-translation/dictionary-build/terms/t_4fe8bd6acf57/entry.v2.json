@@ -1,0 +1,72 @@
+{
+  "Id": "t_4fe8bd6acf57",
+  "SourceTerm": "偏正回互",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "relative and absolute interchange",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "relative and absolute interchange",
+        "Technical Caodong relational wording for the reciprocal transformation and interweaving of the relative and absolute positions"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Neither member is a static rank; 回互 names their active interpenetration. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0649c07",
+          "ToLb": "0649c30",
+          "Kwic": "大易之立象立辭也。使無大易之象辭，則天下萬世何從而得天地造化之幾微，人物生死之性命哉。所貴於觀象玩辭，而顯仁藏用也。人每以理為活、數為死，不知理雖活，或以意見自用，而反落於怪邪；數雖死，能存法則，而可悟其天然。有不得於象，則求之于辭；有不得于辭，則求之于象；或于言辭有盡，而得象意無窮。是法住法位，世間相常住，不于此可悟耶？吾于疊三變五中，見其象畫之奇偶妙協，乃知偏中至，不可以兼中至，而重犯兼中到也。何妨拈出，以待神明之者。如太極舍四象為五位，即是河圖、洛書以中五含十，不過一奇一偶之參兩錯綜，而成其中和位育也。六爻之偏正回互者，即奇偶之兼帶妙協也。蓋萬物無不負陰抱陽，陰不抱陽則孤而不產，陽不負陰則寡而不生，陰陽偏勝則散亂斷滅，何以承天命之化育乎？故聖人深幾裁成之，揭其奇偶之樞機，而變理其太過不及，以致中和，則天地人物各自正其性命，此參贊位育之功能。惟其善用九六，轉變其乾坤造化，所以為至神至妙也。重離，如太極之含四象者，即五中之十，如荎草之含五味，金剛杵之具五楞也。之中一圈，為天地人物之心，即太極為重離，含四卦之兼中到也。東方一圈，即少陽之正中偏也。西方一圈，即少陰之偏中正也。南方一圈，即太陽之正中來也。北方一圈，即太陰之偏中至也。覺範",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: Juelang Daosheng's direct detailed exposition through five positions and hexagram change."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0550b05",
+          "ToLb": "0550c07",
+          "Kwic": "，苔滿丹墀皓月明。入戶當堂慵正坐，出門猶懶下堦行。洞山良价禪師因供養雲巖真僧，問：先師道：只這是。莫便是否？師曰：是。曰：意旨如何？師曰：當時幾錯會先師意。曰：未審先師還知有也無？師曰：若不知有，爭解恁麼道？若知有，爭肯恁麼道？長慶云：既知有，為甚又恁麼道？又云：養子方知父慈。天童頌曰：爭解恁麼道，五更鷄唱家林曉。爭肯恁麼道，千年鶴宿雲松老。寶鑑澄明驗正偏，玉璣轉側看兼到。門風大振兮規步綿綿，父子變通兮聲光浩浩。僧問：寒暑到來，如何廻避？師曰：何不向無寒暑處去？曰：如何是無寒暑處？師曰：寒時寒殺闍黎，熱時熱殺闍黎。偏正回互之旨，於此最顯。昔遠錄公命十六題與投子青頌，此其一也。雪竇頌曰：垂手還同萬仞崖，正偏何必在安排。瑠璃古殿照明月，忍俊韓獹空上堦。問僧：什處來？曰：遊山來。師曰：還到頂也未？曰：到。師曰：頂上有人麼？曰：無人。師曰：恁麼則不到頂也。曰：若不到頂，怎知無人？師曰：何不且住？曰：某甲不辭住，西天有人不肯。師曰：我從來疑著這漢。僧問：蛇吞蝦蟇，救則是，不救則是？師曰：救則雙目不覩，不救則形影不彰。上堂云：有一人在千人萬人中，不背一人，不向一人，你道此人具何面目？雲居出曰：某甲參堂去。問：師尋常教學人行鳥道，未審如何是鳥道？",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: independent technical explanation of reciprocal yin-yang transformation."
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB311.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Yongjue Yuanxian"
+      ],
+      "RelatedTerms": [
+        "偏正",
+        "權開五位"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Straight and partial positions turn back through one another as a reciprocal structural relation. Juelang Daosheng uses the expression through Juelang Daosheng's direct detailed exposition through five positions and hexagram change. Yongjue Yuanxian independently deploys it through independent technical explanation of reciprocal yin-yang transformation."
+    }
+  ]
+}

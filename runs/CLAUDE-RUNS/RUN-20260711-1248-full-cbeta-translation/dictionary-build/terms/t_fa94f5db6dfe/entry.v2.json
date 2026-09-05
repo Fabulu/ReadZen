@@ -1,0 +1,94 @@
+{
+  "Id": "t_fa94f5db6dfe",
+  "SourceTerm": "築著帝釋鼻孔",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "strike Indra's nostril",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "strike Indra's nostril",
+        "The impact line in Yunmen's fan saying"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the fan's leap and the East Sea carp struck into torrential rain; 帝釋 is the struck case figure, not the utterer. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0863c21",
+          "ToLb": "0864a20",
+          "Kwic": "。苦哉。自既不能為善。返笑他人為善這般底人我生滅嫉妬不除。自是其是。善知識既不勸人發菩提心。不可教人殺人放火去。這箇曲彔木床上。不是爾討名討利嫉妬生滅之處。以道眼觀之。如鑊湯罏炭劍樹刀山。一般擊動法鼓。諸天龍神齊集。道眼不明。諸天龍神見爾口吐黑煙。寧不怖畏。豈不見教中道。未得謂得者。是增上慢。謗大般若人。不通懺悔。譬如窮人妄號帝王自取誅滅。況復法王。如何妄竊。因地不真。果招紆曲。須是真實始得。夫稱善知識者。引導一切眾生。令見佛性。當須觀根設教應病與藥。不可對三家村裏人說。拄杖子朝到西天暮歸東土。扇子𨁝跳上三十三天。築著帝釋鼻孔。東海鯉魚打一棒雨似盆傾去也。雖是本分說話。教他如何理會。這老漢爾禪和子尚自覓他縫罅不得。況他俗人處身塵網現行無明。若無善巧方便接引令其純熟。如何便領會得。此會盡是一二十程拋家遠來。一人入社發心轉北多人為善。寧無利益。這箇是善知識本分合做底事。豈是彊為。雲門今夏在廣因。開箇燈心皂角鋪子。隨家豐儉。說些麁禪。室中問學者一句子。如不思量計較。天真自然道得一句。更與一拶。擬議不來。劈脊一棒。別無細膩。忽然打發一箇半箇。却教上來雪峯。就大鑪鞴。事同一家。早來真歇舉世尊入舍衛大城乞食飯食訖收衣鉢洗足已敷座而坐須菩提出眾作禮曰",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Yunmen Wenyan owns the retained deployment: Dahui's active raising of Yunmen's complete fan saying."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0602a15",
+          "ToLb": "0603a06",
+          "Kwic": "敏者眼從今日碧華自去年馨舉報恩華和尚為佛智雪堂舉哀上堂舉大覺禪師順世謂眾云我有一隻箭子要付與人時有僧出云請和尚箭覺云汝喚什麼作箭僧便喝覺打數棒歸方丈次喚其僧來汝適來會麼僧云不會覺又打數棒擲下拄杖云已後遇明眼人分明舉似報恩云大覺平生用一隻箭子穿卻天下衲僧鼻孔因甚到者僧面前折卻有為大覺雪屈的出來與報恩相見有麼如無育王師伯薦福師叔亦未免喫報恩手中痛棒何故有功者賞一隻金針明與人無絃曲調罕知音應庵老漢重重和說到傷心淚滿襟舉僧問乾峯十方薄伽梵一路涅槃門未審路頭在什麼處峯拈拄杖畫一畫云在者裏僧又問雲門門拈扇子云扇子𨁝跳上三十三天築著帝釋鼻孔東海鯉魚打一棒雨似盆傾桃源住在避秦先覔箇漁郎問渡船雞犬桑麻爭笑舞笑人撈摝水中天舉趙州一日雪中臥呌云相救有僧去身邊倒州便起去湘江暮雪冷風狂漁父逍遙戱小航貧子仆灘爭共樂寒沙獨陷可慚惶舉歸宗常禪師素與南泉同行忽一日相別煎茶次南泉問曰從來與師兄商量語句彼此已知或後有人問畢竟事作麼生宗曰者一片地大好築庵泉曰築庵且置畢竟事作麼生宗打翻茶銚便起泉曰師兄喫茶了普願未喫宗曰作者箇說話滴水也難消賓則始終賓主則始終主金鎚各逞藏鋒技父子不傳兄弟同氣和烟撘在玉欄干上苑垂楊鳥深處舉趙州至一庵主處云有麼有麼主竪起拳州曰水淺不是泊船處便去又至一庵",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. The unnamed questioning monk voices the retained question; Yunmen Wenyan responds and Yulin Tongxiu later raises the case.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monk questioner",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "僧問 assigns the headword-bearing question to an unnamed monk; Yunmen is the respondent in the raised case.",
+            "ReviewedBy": "Batch51 systemic repair",
+            "ReviewedUtc": "2026-07-29T15:00:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [
+        "帝釋鼻孔"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The impact line in Yunmen's fan saying: the fan leaps to the Heaven of the Thirty-three and hits Indra's nostril before the carp-and-rain continuation. Yunmen Wenyan uses the expression through Dahui's active raising of Yunmen's complete fan saying. Yunmen Wenyan independently deploys it through Yulin's direct testing of the saying's asserted event."
+    }
+  ]
+}

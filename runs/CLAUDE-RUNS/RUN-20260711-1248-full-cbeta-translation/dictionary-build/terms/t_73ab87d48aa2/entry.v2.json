@@ -1,0 +1,71 @@
+{
+  "Id": "t_73ab87d48aa2",
+  "SourceTerm": "唱太平歌",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sing a song of peace",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "sing a song of peace",
+        "proclaim easy peace"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Local context decides whether the peace-song is earned. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0727a24",
+          "ToLb": "0727b23",
+          "Kwic": "恁麼。進云。空生若解巖中坐。爭得天華動地來。師云。却被闍黎勘破。進云。聖明天子未審將何報答。師云。此心心外更無心。進云。還許學人轉身吐氣也無。師云。儞作麼生著力。進云。三事衲衣青嶂外。一爐沈水白雲中。師云。大家讚歎師乃云。大道絕遮攔。其誰趣向。虛空無背面。何處雕鐫。逈出威音王。高超毘盧頂。直得絕塵絕跡離相離名。海口莫能宣。佛眼覷不見。其奈巖中宴坐諸天雨華。淨室掩關梵音慰諭。遠稟一人洪造。特資宰輔陶鎔椹服師名薦臻巖穴。既爾從天降下。理應直下承當。泉石光輝林巒增秀。風行草偃水到渠成。由是擊開解脫門。顯示正法眼。調無生曲唱太平歌。樂無為之化去也。還委悉麼。優鉢羅華開。嗅著無香氣名自樞密府。恩從九天至。草木生光輝。麟龍不為瑞。誓奮鐵石心。仰答丘山惠。舉泰首座立僧上堂云。大人具大見。大智得大用。一飛六月息。一諾千金重。滔天必江海。崔嵬必山嶽。先知覺未知。先覺覺後覺。打開無盡藏。運出無價珍。不依倚一物。顯示本來人。浴佛上堂云。一手指天一手指地。末上一機衲僧巴鼻。步步蓮華金盆澡洗。西天東土共流傳。至今處處燒香水。良久云車不橫推。理不曲斷。下座。劉提舉請。上堂云。般若智光。破生死昏衢之暗。金剛寶劍。截結使纏縛之憂。透脫處一念無多。受用處通身具眼。直",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: direct hall deployment."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0053c23",
+          "ToLb": "0054a14",
+          "Kwic": "成底。」乃云：「上上上到高處望，高高高處更無上，南嶽天台在下頭，須彌百億難摹狀，極孤危，絕倚傍，飛登捷走者託與重擔千鈞，躡足趑趄者贈與草鞋百緉，山僧念汝孳孳似不可為幾及，且少貶焉，作箇榜樣。」遂拈拄杖，云：「長則七尺，短則十丈，擬欲思量，劈春便棒。」提督標下眾官入寺齋僧，請上堂。僧問：「不用三玄戈甲，不展五位旌旗，如何是正令全提一句？」師云：「吹毛劍氣逼人寒。」進云：「縱步踏翻毗盧頂，千聖齊教立下風。」師云：「汝也須照顧面門。」進云：「恁麼則有意氣時增意氣，得風流處且風流。」師云：「上座不妨伶俐。」問：「吹無孔笛，唱太平歌，且道：是阿誰境界？」師云：「鬍三黑四。」進云：「還許學人和也無？」師云：「許。」僧喝，師云：「卻被風吹別調中。」進云：「真金自有真金價，終不和沙賣與人。」師云：「猶帶瓦礫在。」乃云：「善言言者，言所不能言；善跡跡者，跡所不能跡。言所不能言，言超文字語音之外；跡所不能跡，跡融形色象貌之中。言跡分明，頭頭合轍，是故，從上佛祖出世，正印提持，無非曲盡婆心，為一切人陳其言、示其跡耳。」驀豎拂，云：「這箇是跡。」擊香几，云：「這箇是言。透脫兩重臼窠，突出衲僧巴鼻，如人到家，家權在手，風行草偃，水到渠成，有時鼓角傳呼，乾坤為",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent critical deployment."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [
+        "道泰不傳天子令、時清盡唱太平歌"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "To proclaim settled peace or easy accord, either celebratory or criticized as premature complacency. Yuanwu Keqin uses the expression through direct hall deployment. Baichi independently deploys it through independent critical deployment."
+    }
+  ]
+}

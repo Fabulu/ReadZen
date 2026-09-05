@@ -1,0 +1,71 @@
+{
+  "Id": "t_b5dfe627db58",
+  "SourceTerm": "袖頭打領",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "join the collar at the sleeve end",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "join the collar at the sleeve end",
+        "strike the collar from the sleeve"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The companion underarm operation belongs to the expanded tailoring formula; the phrase is not general sewing advice. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB303.xml",
+          "FromLb": "0363c02",
+          "ToLb": "0363c06",
+          "Kwic": "不問，如何是針鋒上事？」成衣者不能荅，代云：「今日長安大有人喪身失命。」頌曰：「袖頭打領，腋下抽腰。不藉尺子，豈用剪刀。針鋒上事，起鳳騰蛟。入水不溺，入火不燒。凌跨佛祖",
+          "MasterName": "Xieyun Jiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xieyun Jiji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. Xieyun Jiji owns the retained deployment: direct tailor exchange contrasting collar-and-waist work with the matter at the needle point."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0511a02",
+          "ToLb": "0511a24",
+          "Kwic": "，聾人耳更聞。」斯言不我欺也。獨步大方，風颯颯地，盡大地人亡鋒結舌，如鴆鳥落水，魚鱉皆死，是吾師正令。頂門放光照四天下，如衣穿瘦骨露，屋破看星眠，覺他人見煙知火，猶隔一山在，是吾師金剛眼。推倒慈氏樓，拆卻空王殿，如向黑暗獄中敲枷打鎖，餓鬼隊裏放火奪漿，又如引人向萬丈懸崖一推命斷，是吾師白拈手。大用現前，不存軌則，拈頭作尾、指實為虛，有時點鐵成金、有時點金成鐵，如臨敵布陳，改旗變勢，分合無窮，是吾師殺活劍。有時海底生塵、須彌鼓浪，夜半日頭出，日午打三更，有時冬即言寒、夏即言熱，上來道箇不審，下去道箇珍重，觀根逗機，如袖頭打領、腋下剜襟，是吾師相體裁。有時如無孔笛氈，拍板咬嚼不破，是吾師鐵牛機。有時如桃花浪裏、七里灘頭拋綸擲餌，是吾師鉤頭意。有時如九鳥射盡，三足猶存，一箭墮地，天下暗黑，換骨洗腸重整頓，通身是眼更須參，是吾師竿頭步。有時坐斷舌頭，直得無出氣處，說詩呈劍，退三千里，寧自碎身如微塵，不敢瞎卻一僧眼，是吾師生鐵牢關。或疑今之談禪者幟赤白分，請問磬山與諸方有何分別？昔漢武帝以兵法教霍去病，去病曰：「不在學古，顧方略何如？」唐明皇示韓幹以御府圖，幹曰：「不願觀也。」去病胸中有活法，韓幹胸中有活馬，磬山胸中有活玄，要猛虎口邊拾得、毒",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: independent tailoring deployment in case appraisal."
+        }
+      ],
+      "SourceTexts": [
+        "J/J34/J34nB303.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Xieyun Jiji",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [
+        "袖頭打領、腋下剜襟"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The tailoring line begins from sleeve and collar before its companion moves beneath the arm and into the garment. Xieyun Jiji uses the expression through direct tailor exchange contrasting collar-and-waist work with the matter at the needle point. Tianyin Yuanxiu independently deploys it through independent tailoring deployment in case appraisal."
+    }
+  ]
+}

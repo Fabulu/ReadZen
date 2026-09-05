@@ -1,0 +1,106 @@
+{
+  "Id": "t_b8a0d8ccd40b",
+  "SourceTerm": "背負須彌",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R05 fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "carry Mount Sumeru on one's back",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "bear Mount Sumeru on the back"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase names the impossible-scale physical feat used in the records; the surrounding passage decides what capacity is being asserted or tested.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0746c04",
+          "ToLb": "0747a04",
+          "Kwic": "立僧上堂云。鶻兒未出窠。已有摩霄志。虎子未絕乳。已有食牛氣。況復羽翼成。況復爪牙備。奮迅即驚群。八面清風起。一條脊梁硬以鐵。一條白棒掀天地。相與建法幢。展衲僧巴鼻。上堂云。不登泰山不知天之高。不涉滄海不知海之闊。此區中之論也。若是其中人。天在一粒粟中。海在一毫頭上。浮幢王華藏界。盡在眉毛眼睫間。且道。此箇人在什麼處安身立命。還委悉麼。無邊虛空盛不受。直透威音更那邊。上堂云。三界無法。霜天皎月。何處求心。山高水深。四大本空。不辨西東。佛依何住。乾坤獨露。透得脫見得徹。正在半途逡巡。擊碎鐵門關拔。脫無根樹便見。掌擎日月背負須彌。引手過越一百一十城。翻身獨立十方華藏界。到箇裏也無佛也無祖。不立照不立用。不立權不立實。不行棒不行喝。正當恁麼時如何。憑仗阿伽陀妙藥。點取金剛正眼開。上堂云。十方同聚會。本來身不昧。箇箇學無為。頂上用鉗鎚。此是選佛場。深廣莫能量。心空及第歸。利劍不如錐。龐居士舌拄梵天。口包四海。有時將一莖草作丈六金身。有時將丈六金身作一莖草。甚是奇特。雖然要且不曾動著向上。關。如何是向上關。鑄印築高壇。韓觀察請上堂。大眾。日沈沈風颯颯。萬世只如今。雲靉靉水潺潺。當處全體現。黏皮著骨底未免論性論心越格超宗底。便道。拕泥涉水。殊不知",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: direct capacity sequence after breaking through the iron gate."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0022c06",
+          "ToLb": "0022c26",
+          "Kwic": "安撫請上堂。「拈提向上，展家風於眹兆之先；舉唱宗乘，露消息於棒喝之下。是以，先宗惟許言言見諦、句句超宗者，始有唱和分。若是三撻不回，未免喫苦有日在。」驀以拂子豎起，云：「紫羅帳裏攃珍珠，看來不是尋常事。」便下座。上堂。僧問：「向上宗乘即不問，截斷命根句如何？」師云：「老鼠尾巴細。」問：「滿堂龍象，和尚如何勘驗？」師云：「來機深辦。」進云：「如何是和尚面目？」師云：「對面不相識。」問：「宗風大闡，祖印高提，莫有就路還家底麼？」師云：「女也怪他不得。」進云：「一段風光受用不盡。」師云：「不覺自己醜。」乃云：「掌擎巨海、背負須彌者，不消兔角杖、龜毛拂；唱和宗風、拈提向上者，無勞斷木勺、破笊籬。自然出羅籠、滅窠臼，非意非不意；斷言語、泯知見，無心無不心。所以護國有時和光仝塵，有時孤峻峭拔，有時足遍巷陌，有時目視霄漢。雖然，身毒不演宗風，少林不付衣法，護國不陞此座，還有向上一路麼？」乃喚知事，知事應諾，師云：「兩堂如不知，打鼓普請看。」王鐙明飯僧，請上堂。僧問：「此日鐙明與昔日鐙明，是仝？是別？」師云：「面目分明。」進云：「意旨如何？」師云：「須髮皓然，金光炯炯。」問：「不居有心，不住無心，請和尚道。」師便打，乃云：「玄風未辦，理行俱乖，祖意",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: direct hall-address sequence paired with holding the great sea."
+        },
+        {
+          "RelPath": "J/J34/J34nB305.xml",
+          "FromLb": "0400a28",
+          "ToLb": "0400b21",
+          "Kwic": "莖曲，南山鱉鼻蛇，吞卻泥牛肉，肚裏飽膨脝，千足與萬足，直得碧浪起霞峰，青蓮生大陸。因什不聞溪西雞齊啼，秪見屋北鹿獨宿？」喝一喝，云：「夜行莫踏白。」仲春十九日示眾。「轟雷今日霧，機輪轉處無回互，全身拋入荒草中，著意忘懷頭角露。」喝一喝。示眾。「十五日已前，東望望長安。十五日已後，月光如黑漆。正當十五日，長安不可見。喜見長安日，洞山纔認影，子胡便捉賊。若遇臨濟翁，拶得伊骨出。」良久，云：「咄！」示眾。「知而無知，不是無知而說無知。馬頭則得，國情則不得。宗師眼目如金翅擘海，直取龍吞，那討閑工夫說冷話？闍黎橫吞巨海，老僧背負須彌。闍黎按劍上來，老僧掗鎗相待。欲識佛性義，當觀時節因緣。」問大眾：「即今是什麼時節？」眾擬議，師以拄杖旋風打散，歸方丈。示眾。「道無心合人，人無心合道，欲識箇中意，一老一不老。三從六義中，老者燒火掃地，小者喫粥喫飯，不老不小底叫他作甚麼？」良久，云：「近來米價甚貴，無處著他。」便起身。示眾。舉：「中丞盧航居士與圓通擁罏次，公問：『諸家因緣不勞拈出，直截一句請師指示。』通厲聲揖曰：『看火。』公急撥衣，忽大悟，謝曰：『灼然佛法無多子。』通喝曰：『放下著。』公應諾諾。」師云：「中丞鹵莽承當，面門早已著火；圓通一場忙亂，借",
+          "MasterName": "Dayu Xingtao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dayu Xingtao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB305.xml). Recorded Sayings of Chan Master Dayutao of Guoqing. Dayu Xingtao owns the retained deployment: direct challenge pairing the monk swallowing the sea with the master carrying Sumeru."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0376c10",
+          "ToLb": "0377a02",
+          "Kwic": "寂，喚回白晝昏迷，火雲淨而白雲飛，蟬聲斷而鴈聲起，頭頭皆玅，物物俱靈，更說甚麼？羅漢院三日一上堂，王太傅二時相助發，不見道：清機歷掌，衲子生涯；碧落青霄，道人活計。然雖如是，到者裏更須撥轉天關、掀翻地軸，撒手無依，別行一路。若也便爾著倒，正是龍蟠死水、鶴入銀籠。秖如透脫一路、不涉廉纖，畢竟又作麼生吐露？千聖不知何處去？倚天長劍逼人寒。」秉拂。「雲門山頂，雨驟雲臻；大覺堂前，龍驤鳳翥。釋迦老子舌覆三千，達磨大師身該一切。若也便恁麼去，紀信登九龍之輦；若也不恁麼去，項羽失千里之騅。直得二途不涉，中道不存，便見掌擎日月，背負須彌。所以道：取不得，舍不得，不可得中恁麼得。恁麼得，諸佛分中不增一絲頭，眾生分上不減一絲頭。如是，則三家村裏臭猢猻甚生標格，十字街頭廖鬍子脫體風流，何況現前諸仁，人人頂門上飛大寶光，箇箇腳跟下縱橫歷落？秖如僼上座到來又作麼生提掇？試玉須經火，求珠不離泥。」秉拂。問：「如何是句到意不到？」師云：「鸚鵡喚人閒話會。」「如何是意到句不到？」師云：「蜘蛛結網打蜻蜓。」「如何是意句俱到？」師云：「黃鶴樓詩崔顥題。」「如何是意句俱不到？」師云：「初生孩子口喃喃。」乃云：「從眼根還源，名文殊為佛玅觀察智；從耳根還源，名觀音為佛無緣",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: direct attainment sequence paired with holding up sun and moon."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "J/J29/J29nB223.xml",
+        "J/J34/J34nB305.xml",
+        "J/J37/J37nB386.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Shanhui Huan",
+        "Dayu Xingtao",
+        "Yuan'an Liao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A bodily image of immense capacity: carrying Mount Sumeru on the back, commonly paired with holding up the sun and moon or swallowing the sea. Yuanwu Keqin supplies the breakthrough capacity sequence deployment through direct capacity sequence after breaking through the iron gate. Shanhui Huan supplies the hall-address immense capacity deployment through direct hall-address sequence paired with holding the great sea. Dayu Xingtao supplies the challenge and counterchallenge deployment through direct challenge pairing the monk swallowing the sea with the master carrying Sumeru. Yuan'an Liao supplies the attainment sequence deployment through direct attainment sequence paired with holding up sun and moon."
+    }
+  ]
+}

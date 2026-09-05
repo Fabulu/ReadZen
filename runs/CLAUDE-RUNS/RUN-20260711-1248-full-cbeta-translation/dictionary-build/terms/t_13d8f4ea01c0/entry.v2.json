@@ -1,0 +1,68 @@
+{
+  "Id": "t_13d8f4ea01c0",
+  "SourceTerm": "釣竿斫盡重栽竹",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when the fishing rods are all cut down, plant bamboo again",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "when the fishing rods are all cut down, plant bamboo again"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 不計功程得便休 as the recurrent second half; 釣竿 and 栽竹 separately do not carry the renewal image. Two independent Tier-2 direct records control the sense; no lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1994B.xml",
+          "FromLb": "0647b28",
+          "ToLb": "0648a01",
+          "Kwic": "。師云。歸來與爾三十棒。師乃云。楊岐令下。已在言前。作麼生是正令。喝一喝。便下座。上堂。云落鵰之箭。斬蛟之劍。主將自敗。抱馬拕旗。有人向安家立國處。道將一句來。良久云。太平本是將軍致。不許將軍見太平。喝一喝。上堂。俗士問。人王與法王相見。合談何事。師云。釣魚船上謝三郎。進云。此事已蒙師指示。雲蓋家風事若何。師云。幞頭衫帽脫當酒錢。士云。忽遇客來。如何祗待。師云。三盞兩盞猶閑事。醉後郎當笑殺人。師乃云。一切法皆是佛法。遂拍禪床一下云。山河大地百雜碎。還我佛法來。良久云。何似生遼天鶻。萬里雲只一突。上堂拍禪床云。大眾。釣竿斫盡重栽竹。不計功程得便休。上堂。云無邊剎境。自他不隔於毫端。十世古今。始終不離於當念。遂拍禪床一下云。釋迦老子年多少。還知麼。若也知得。人間天上。出入自由。若也不知。雲蓋自道。恒薩訶竭二千年。上堂。云把定乾坤幾萬般。文殊普賢豈能觀。今日為君重注破。鼈鼻南山子細看。以拄杖卓一下。上堂。云一即一切。一切即一。拈起拄杖云。吞却山河大地了也。過去諸佛。未來諸佛。天下老和尚。總在拄杖頭上。遂以拄杖劃一劃云。不消一喝。上堂。云雲蓋傳箭令下。釋迦老子為先鋒。菩提達磨為殿後。陣勢既圓。天下太平。且道。不動步一句。作麼生道。良久云。不經一事",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1994B.xml). Later Record of Monk Fanghui of Yangqi. Yangqi Fanghui owns the retained deployment: direct hall address."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0829c25",
+          "ToLb": "0830a23",
+          "Kwic": "。在足運奔。遍現俱該。沙界收攝。在一微塵識者知是佛性。不識喚作精魂。王聞是言心即開悟。師云。敢問。法筵大眾。且道。西天國王悟得佛性耶。悟得精魂耶。若道在八處悟得。只是精魂。若離八處。却喚甚麼作佛性。於斯薦得。皇恩佛恩一時報足。若薦不得。育王今日為諸人下箇註脚。良久云。鸑鷟麒麟俱是瑞。栴檀薝蔔一般香。天童和尚再白槌云。諦觀法王法。法王法如是。師召大眾云。記取天童和尚語。便下座。入院指方丈召大眾云。這裏是烹佛烹祖大鑪韝鍛生鍛死惡鉗鎚。莫怪主人無面目。法如是故非彊為。法既如是。又非彊為。且道。最初一句又作麼生。還委悉麼。釣竿斫盡重栽竹。不計功程得便休。次上堂。僧問。當頭裂破眼睛突出。四方八面東涌西沒。只如楊岐三脚驢子弄蹄行。意旨如何。師云。無意旨。進云。莫只這便是楊岐受用處也無。師云。便是楊岐受用處。進云。恁麼則坐斷玉几峯。時人皆拱手。師云。序品第一。進云。未審這一著落在甚麼處。師云。爾且道。落在甚麼處進云。師為法王於法自在。問云。朝到西天暮歸東土時如何。師云。掛起草鞵。進云。謝和尚指示。師云。爾得箇甚麼。進云。今日親見大禪師。師舉拂子云。汝在拂子前見。拂子後見。進云。前後一時收。師云。穿却爾鼻孔。換却爾眼睛。進云。和尚費力作甚麼。師便喝。乃舉",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: independent direct abbot's-quarters address."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1994B.xml",
+        "T/T47/T47n1998A.xml"
+      ],
+      "RelatedMasters": [
+        "Yangqi Fanghui",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A complete couplet that cuts down the fishing rods, plants bamboo again, then says not to calculate progress and to stop when the occasion is obtained. Yangqi Fanghui voices the complete couplet directly after striking the Chan seat. Dahui Zonggao independently voices the same complete couplet while entering the abbot's quarters."
+    }
+  ]
+}

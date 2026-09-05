@@ -1,0 +1,78 @@
+{
+  "Id": "t_c224e9ca1bbf",
+  "SourceTerm": "覿露機鋒",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "expose the pivotal action outright",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "expose pivotal action",
+        "show the edge outright"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "機鋒 is decisive encounter action here, not mystical energy. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0554a24",
+          "ToLb": "0554b16",
+          "Kwic": "此脫三界縛，就此斬四生關，僧祗劫彈指頓超，秘密藏一時開現。直下承當，不容擬議，轉身移步，換斗移星。到恁麼田地，便可稱獅子兒，哮吼驚群。作如來使，提挈同類。還有恁麼人麼？靈光不昧，萬古如斯。既踏祖翁田地，各收原本契書，不妨互相證明，互相建立，互為賓主，互作津梁，行無緣一慈，入無諍三昧。先佛後祖，其道既同，上帝下民，有德咸一。設若廣無為之化、佐不言之教，直得昆蟲草木盡躋菩提覺場，日月星辰全彰妙明心印。世出世間，一片打成；法與非法，兩頭坐斷。擺脫意想，不立功勳。且道印文在甚麼處？」喝一喝，呈拄杖云：「當陽顯示，五目難窺。覿露機鋒，如同電拂。要在宗通眼正，貴圖源遠流長。重說偈言，冀追芳躅。六十蒿枝話久傳，克家慚未肖風顛。南山塔戶巋然在，一點真燈耀法筵。久立眾慈，伏惟珍重！」密老和尚生忌，上堂。僧問：「雲散長空後，孤月映千江，處處呈花供，弘慈赴那邦？」師云：「今之古之。」進云：「應供後歸向什麼處去？」師云：「在闍黎頂𩕳上。」僧云：「老和尚靈骨猶在。」師乃舉：「先老人住金粟時，上堂云：『彌陀明日是生日，老僧今日是生日，我比彌陀先一日，三世諸佛從此出。』大眾！者老子結識古佛，也是好事。山僧今日未免撥轉機輪，將者老子鼻孔扭捏一上。彌陀明日是生日，塗",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Seven-Session Recorded Sayings of Monk Muyun. Muyun Tongmen owns the retained deployment: direct staff presentation."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0062b12",
+          "ToLb": "0062c03",
+          "Kwic": "來誰著價？且憑倒卓挂繩床。」復云：「眾角雖多，不如一麟；眾翼雖多，不如一鳳。若是駕險淩空，奔踶敵勝，還他天馬始得。今者鳳麟畢集，天馬又來，山僧權將目前一坐具地分作四大部洲，令其跳躍奔騰，各各神閒意適，中間所有草木叢林、蠉飛蠕動、燈籠露柱、羅漢、夜叉、或修不盡善因、或造無邊惡業悉皆消融，不相妨礙。政當此際，下水船一曲如何演唱？」良久，云：「五祖道底。」解制，上堂。僧問：「薰風自南來，殿閣生微涼，明箇什麼邊事？」師云：「脫體了無依。」進云：「學人今日小出大遇也。」師云：「只得一半。」進云：「據虎頭、收虎尾不無，和尚卷舒覿露機鋒，如同電拂，又作麼生？」師云：「與汝三十棒。」進云：「出群須是英靈漢，敵勝還他天馬駒。」師云：「大眾識汝。」僧一喝，歸眾，師乃云：「日長饑有餘，夜短睡不足，熱汗急淋淋，蚊虫相齧鏃。大家搖扇取風涼，何用無繩而自縛？所以諸方此日結制安居，明發這裏解開布袋，雖則時節偶然，要且手腳便快。便快則不無，只如適纔藏主恁麼問，山僧恁麼荅，畢竟明箇什麼邊事？驢腮馬腳重重露，引得傍觀笑語高。」因換架樑，舉隱野首座，上堂。「鋤雲種月，還他赤手生涯；脫柱換梁，須讓作家匠首。閒居獨善、處眾為人，總不外此風光，隨時施設，規繩合轍，綱領均條，吾",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi owns the retained deployment: independent application.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Baichi",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Baichi is explicitly identified by the retained source context and independent application.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB184.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Muyun Tongmen"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "To show the encounter's decisive edge directly instead of mediating it through explanation. Muyun Tongmen uses the expression through direct staff presentation. Baichi independently deploys it through independent application."
+    }
+  ]
+}

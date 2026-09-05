@@ -1,0 +1,68 @@
+{
+  "Id": "t_d581203bd210",
+  "SourceTerm": "借位明功",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch67 admitted14 constructor C",
+  "WrittenUtc": "2026-07-29T14:50:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "borrow the position to reveal the work",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "borrow the position to reveal the work"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 借功明位 as the reciprocal formula, not a synonym. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0099b10",
+          "ToLb": "0099c19",
+          "Kwic": "不傷風物致昇平。主中主主中主不動金輪萬德全。宸苔含月未排班。當頭諱字寰中禁。誰敢依俙犯聖顏。四料簡奪人不奪境四料簡奪人不奪境懶問誰持造化權。門前春事正喧妍。雨晴花色明如錦。風暖鸎聲滑似絃。奪境不奪人奪境不奪人厭餘客路忽思家。鬢髮春饒盡雪華。月底路岐通著脚。歸心未穩隔煙霞。人境兩俱奪人境兩俱奪罷奏笙篁夜欲闌。銀河光浸紫微寒。星移月暗無消息。客散雲樓酒椀乾。人境俱不奪人境俱不奪十分花事屬歌喉。笑入芳塵爛漫游。皇道太平無忌諱。縱橫何處不風流。借功明位借功明位蘋末風休夜正央。水天虛碧共秋光。月船不犯東西岸。須信篙人用意良。借位明功借位明功六戶虛通路不迷。太陽影裡不當機。縱橫妙展無私化。恰恰行從鳥道歸。借借不借借借借不借借識盡甘辛百草頭。鼻無牽纏得優游。不知有去成知有。始信南泉喚作牛。全超不借借全超不借借霜重風嚴景寂寥。玉關金鎖手慵敲。寒松盡夜無虛籟。老鶴移棲空月巢。針線貫通針線貫通峩峩青山著秋瘦。毛髮凋減風骨舊。白雲乃子久相依。清風借力扶出岫。人間雨足便歸來。澹泞寒明同去就。箇中消息妙不傳。白雲無心青山壽。真身真身一葉落時天下秋。不風流處却風流。木人退步金繩斷。直下無機牽鐵牛。應身應身雙六盤中信彩贏。風行草偃月彎晴。欄街截巷憨皮袋。彌勒何時",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: controlling direct use."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0718b17",
+          "ToLb": "0719b10",
+          "Kwic": "御樓吹角六街明，金馬將軍出禁城，閫外威權良有準，不傷風化自昇平。主中賓不動金輪萬德全，宸居苔合未排班當頭諱字寰中禁，誰敢依稀犯聖顏主中主。綱宗偈綱宗偈金針雙鎖。偈曰：金針雙鎖備，挾路隱全該。寶印當風妙，重重錦縫開。金針句，言偏正並用，不落一邊，亦非執於中道也。挾路句，言應機之路，正必挾偏，偏必挾正，其一雖隱而弗顯，其實偏正無不全該也。寶印句，言正中妙挾之印，當眾生之機感也。重重錦縫者，因眾生之機感，而五位法門重重顯現也。金鎖玄路。偈曰：交互明中暗，功齊轉覺難。力窮忘進退，金鎖網鞔鞔。明喻大功，暗喻正位。初用功時，是借功趨位，明中有暗也。次則借位明功，暗中有明也。至於功位齊彰，猶貴功位並轉。若力窮而不能轉，則事理之迹未消，聖凡之情未盡，是謂金鎖玄路。不墮凡聖。偈曰：事理俱不涉，回照絕幽微。背風無巧拙，電火爍難追。前二偈明正偏互用，此偈明正偏雙泯，乃返道之本源也。回照此境，非特無形迹可見，即幽微亦絕而不可見矣。背風無巧拙者，以有機感則巧拙斯形，此機感不到之地，何有巧拙哉？巧拙指聖凡也。電火爍難追者，以有形故可追，無形則不可追，喻智不能及也。此即是兼中到位。石霜五位王子石霜五位王子誕生誕生誕生，言初育也。最初知有，即能頓入一色，全不借功勳。如王嫡長之子，初生即得灌頂者也。此與洞",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: independent direct explanation."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Yongjue Yuanxian"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A Caodong positional formula in which a hidden or still position is borrowed so functioning can become manifest. Hongzhi Zhengjue uses the expression through controlling direct use. Yongjue Yuanxian independently deploys it through independent direct explanation."
+    }
+  ]
+}

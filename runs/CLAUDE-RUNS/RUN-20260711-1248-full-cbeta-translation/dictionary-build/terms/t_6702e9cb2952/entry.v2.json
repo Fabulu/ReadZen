@@ -1,0 +1,78 @@
+{
+  "Id": "t_6702e9cb2952",
+  "SourceTerm": "掃蹤滅跡",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "sweep away the tracks and erase the traces",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "sweep tracks erase traces",
+        "leave no trail"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep both acts and the local object of erasure. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0800c01",
+          "ToLb": "0801a06",
+          "Kwic": "鞴費分疎。爭如棒下無生忍。聞見馨香滿道塗。舉。雲門問僧云古佛與露柱相交。是第幾機。僧無語。門云。爾問我與爾道。僧遂問。門云。一條縚三十文。僧云。如何是一條縚三十文。門云。打與。代前語云。南山起雲北山下雨。油然南山雲。霈然北山雨。露柱笑呵呵。燈籠超佛祖。中涌邊沒西天東土。樓閣門開竟日閑。野老不知何處去。圓悟佛果禪師語錄卷第十八圓悟佛果禪師語錄卷第十九宋平江府虎丘山門人紹隆等編頌古下頌古下舉。教中道。未離兜率已降王宮。未出母胎度人已畢。大象本無形。至虛包萬有。末後已太過。面南看北斗。王宮兜率度生出胎。始終一貫初無去來。掃蹤滅跡除根蔕。火裏蓮華處處開。舉。僧問雲門。生死到來如何回避。門云。在什麼處。針眼魚吞大千界。蟭螟蟲吐妙高山。太虛包括無遺漏。萬彙全歸指掌間。起復滅去還來。石橋踏斷通身黑。那知華頂是天台。舉。丹霞初見馬祖。以兩手托幞頭祖云。吾非汝師。南嶽石頭處去。霞遂至石頭。如前托幞頭。頭云。著槽𣚿去。霞依童行次。一日石頭為眾云。今日齋後普請剗佛殿前草。眾競具鋤鍬。霞獨洗頭。棒剃刀於石頭前胡跪。頭云作什麼。霞云。請師剗草。石頭笑為剃髮。呼與授戒。霞掩耳而去。却回江西馬祖院。騎聖僧項。眾驚報馬祖。馬祖親來見乃云。我子天然。霞遂作禮云。謝師",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: direct verse deployment."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0144a16",
+          "ToLb": "0144b09",
+          "Kwic": "微笑，謂之：世尊不說說，迦葉不聞聞。至於歷祖，句句皆然，而船子云：『離鉤三寸，子何不道？』溈山云：『有句無句，如藤倚樹。』雲門謂之函蓋乾坤句。華嚴孜謂之：『句中無意，意在句中。』皆示大用之句意也。若能如是，大用現前，處處拈出金剛王寶劍，直下如將一座泰山輕輕壓去，更有甚麼出現？」隨大喝，下座。元日，朱大理請上堂。拈香云：「甲戌春王第一朝，殷勤百和爇蘭椒，聖明壽比諸天象，歲歲昭回運斗杓。」就座，乃云：「坤以簡能，乾以易知，如獅子王奮迅威獰，若大白牛肥壯多力。有時雲裏高眠，一任長林豐草自在供輸；有時日邊哮吼，盡使狐狼野干掃蹤滅跡。此皆從立命得來，統天之力，佛祖得之而法王三千、聖人得之而教化中國、老僧得之而逐浪隨波、大理得之則致君澤民。即今壽躋七十，於從心所欲不踰矩處，出處安舒，自在無礙。且道他獲無量壽徵從何處得來？」喝一喝，云：「略與諸人通個消息。」住松陵聖壽寺語住松陵聖壽寺語葉侍御慶繩居士請陞座。拈拄杖打地一下，云：「此一棒自黃檗大師處建立，從天童和尚處印來，捏太虛為金槌，拋熱鐵作文字，渾身虎口，遍體獅牙，坐斷臨濟命根，翻轉大愚面目。所以我師天童和尚得此一棒，遂能打天打地，為電為雷，將南國打作選佛場，為後人礱成出匣劍。」復打一棒，云：「",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Sanfeng Cang owns the retained deployment: independent direct instruction.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Sanfeng Cang",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Sanfeng Cang is explicitly identified by the retained source context and independent direct instruction.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A paired erasure formula for leaving no followable residue in distinctions or handling an inherited case. Yuanwu Keqin uses the expression through direct verse deployment. Sanfeng Cang independently deploys it through independent direct instruction."
+    }
+  ]
+}

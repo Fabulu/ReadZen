@@ -1,0 +1,80 @@
+{
+  "Id": "t_e093d3f0a8e6",
+  "SourceTerm": "鄭州梨",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a Zhengzhou pear",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a Zhengzhou pear",
+        "The first fruit in Wuzu Fayan's concrete answer about flowering and bearing fruit, regularly paired with Qingzhou jujubes and the claim that everything is best from its place of origin"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Its place-name and fruit must remain together to preserve the concrete reply. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0200a06",
+          "ToLb": "0201a07",
+          "Kwic": "尚去也師云不禮拜㪅待何時乃云朱明已屆聖制當遵法霛山千載之訏謨立大覺斬新之䂓則豈可猒他驢事未去馬事到來只得拆將西障補起東籬飽諸人以金牛大飯㱃諸人以趙老釅茶馬師鹽醬不豐朝朝與汝唼噉青州布衫雖重日日與汝提撕驀呼大眾山僧與麼為諸人諸人又作麼生自為即得月中丹桂連根拔海底驪龍把角牽復舉五祖演和尚示眾結夏無可供養大眾設一家燕管顧諸人乃舉手云囉邏招囉邏搖囉邏送莫怪空疎伏惟珍重師云演祖老人極是禮數周全爭奈破費常住不少今夜大覺寺中別無甚家燕管顧諸人故不須招不須搖亦不須送只據諸人應分底󰊇裏飯桶裏水日逐牽補得過𠊳了肰則山僧為人一句又作麼生鄭州梨青州棗萬物無過出處好。上堂刻期取證掘地覓天㪅或沈唫千生蹉過還有一蹋鴻門開兩扇者麼出來通箇消息問三月安居九旬禁足斬新條令即不問當陽一句事如何師云高著眼進云恁麼則人人壁立萬仞箇箇眼蓋乾坤去也師云火後一莖𦯆進云龍得水時增意氣虎逢山勢長威獰師云背負乾薪遭壄火進云昔日僧問投子如何是一大事因緣子云尹司空與山僧開堂今日張相國請和尚開堂如何是一大事因緣師云與諸人脫卻籠頭卸卻背䭾進云學人則不肰師云你又作麼生進云盲無慧目憐河北獨揭清灮照海東師云不妨許你引得著進云大家齊唱囉邏哩是何曲調萬秊歡師云又被風吹別調中問爐鞲洪開煅煉五湖衲子法幢肇",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Hongjue Daomin owns the retained deployment: direct deployment of the complete origin-and-fruit line.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Hongjue Daomin",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Hongjue Daomin is explicitly identified by the retained source context and direct deployment of the complete origin-and-fruit line.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0691c19",
+          "ToLb": "0691c20",
+          "Kwic": "州梨，青州棗。」復曰：「鄭州梨，青州棗，觸目未嘗無，臨",
+          "MasterName": "Yi'an Shi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shi owns the retained deployment: independent testing and elaboration of the paired fruits."
+        }
+      ],
+      "SourceTexts": [
+        "L/L155/L155n1643.xml",
+        "J/J37/J37nB394.xml"
+      ],
+      "RelatedMasters": [
+        "Yi'an Shi"
+      ],
+      "RelatedTerms": [
+        "鄭州梨、青州棗"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The Zhengzhou pear functions as a pointed regional commodity answer. Hongjue Daomin uses the expression through direct deployment of the complete origin-and-fruit line. Yi'an Shi independently deploys it through independent testing and elaboration of the paired fruits."
+    }
+  ]
+}

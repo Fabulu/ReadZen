@@ -1,0 +1,71 @@
+{
+  "Id": "t_a365a7ca4955",
+  "SourceTerm": "推門落臼",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "push open the door and drop into the mortar",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "push the door and drop into the mortar",
+        "arrival with an immediate drop"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the door-and-mortar collision visible. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0459c06",
+          "ToLb": "0459c28",
+          "Kwic": "以巧妙言辭、尖新語句落賺諸仁。若是拈頭作尾、拈尾作頭，延一日為一劫、促一劫為一日，也是尋常作略。如是，則年依舊、月依舊、大眾依舊、拄杖依舊。」卓一卓，云：「換斗移星只等閒，英雄肯落他人後。」解制，上堂。「三冬無煖氣，俗氣未曾除。除得俗氣，猶是婆氣。一念萬年去，寒灰枯木去，古廟香爐去，一條白練去。且道是甚麼氣？莫認定盤星，領取鉤頭意。」清明，小參。「笑卻成哭，哭也堪笑，不薦本有爺娘，伶俜甘作不孝。若也孝，腳頭步步長安道，稍涉遲疑隔萬山，依然白骨堆青艸。」中秋，易九有文學請上堂。「大顛扣齒，文公徹見根元；黃檗安名，相國推門落臼。承當過量事，須還過量人，發明過量機，施設過量用，不資餘力，左右逢源，捲舒立方外乾坤，縱橫挂域中日月，於不思議處因行掉臂時，迥出一輪，光吞萬象，非圓非缺，無物比倫，任是靈山話底、曹溪指底，何似水中撈摝得底？且道因甚得到與麼地？月中仙桂和根拔，非比尋常第一枝。」晚參。「電捲星馳，到即不點；纔涉思惟，點即不到。及乎坐斷兩頭，劈開向上一竅，一句中具三玄門、一玄門具三要，且道是甚麼竅？檢點得出，不謬為神鼎禪客；其或未然，鄭州梨、青州棗，大抵勿過出處好。」小參。「離心意識參，澄潭不許蒼龍蟠。絕凡聖處學，豈特無繩而自縛。進前則",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment: direct return-home deployment."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0248a25",
+          "ToLb": "0248b16",
+          "Kwic": "甚麼處不是石霜？』豈不是孔子道『吾無行而不與二三子者，是丘也』底意？若只恁麼，何有吾宗？須知古人末後全提，如石霜云：『者老漢著甚死急？』雪峰云『老僧罪過』等，無論諸子百家未聞其說，即一大藏教中亦所罕有。諸老若非有此一著，何以承當從上教外別傳底事？且別傳底意作麼生？」良久云：「路遠夜長休把火，大家吹滅暗中行。」下座。除夜，小參。僧問：「大解脫底人還隨遷變也無？」師云：「隨。」進云：「既是大解脫底人，為甚麼隨遷變？」師云：「為汝妄想。」進云：「不將爆竹催殘臘，且聽新調律呂家。」師云：「果然妄想。」問：「年窮歲盡則不問，推門落臼事如何？」師云：「東家著焰爐，西家放爆竹。」進云：「爆竹後如何？」師云：「相隨來也。」乃云：「歲盡年窮，諸事已畢，既無官錢私債逼迫亂心，又無歌舞伎樂歡娛縱意，數莖虀菜、幾盞麤茶與大眾分歲，此我林下人辦住世間事，辦到臘月三十日底受用處。一旦無常，眾緣淨盡，無生死可怖、無涅槃可趨，閻羅王引身自退，天鼓樂無處來迎，自在自繇，全體獨脫，此我林下人辦出世間事，辦到臨命終時底受用處。所以，古人以臨命終時一著喻之臘月三十日。然既作箇譬喻，未免世間受用與出世間受用打作兩橛。且如何是世、出世間受用？」卓拄杖，云：「來年更有新條在，惱",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: independent question-and-answer use."
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB388.xml",
+        "J/J34/J34nB300.xml"
+      ],
+      "RelatedMasters": [
+        "Yikui Yuankui",
+        "Chaozong Tongren"
+      ],
+      "RelatedTerms": [
+        "倚門傍戶"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A home-arrival image whose apparently direct entry ends in an immediate drop into the waiting mortar. Yikui uses the expression through direct return-home deployment. Chaozong independently deploys it through independent question-and-answer use."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": "t_57ec7988744d",
+  "SourceTerm": "眨上眉毛",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "flick up the eyebrows",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "flick up the eyebrows",
+        "blink above the brows"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Context decides whether the eyebrow movement marks recognition or delay; do not silently normalize it to ordinary blinking or facial description. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0720b20",
+          "ToLb": "0720c20",
+          "Kwic": "作解會。泥裏洗土塊。不向言句上會。方木逗圓孔。未擬議已蹉過。正擬議隔關山。擊石火閃電光。搆得搆不得。未免喪身失命。且道。此理如何。苦瓠連根苦。甜苽徹蔕甜。下座。上堂云。雲騰致雨世界索然。日照天臨乾坤廓爾。文殊堂裏萬菩薩縱然顯現。晴是晴雨是雨。山是山水是水。阿那箇是萬菩薩。風暖鳥聲碎。日高華影重。下座。上堂云。定乾坤句包古括今。透生死關超聲越色。鬼窟活計百千萬劫難出頭。截斷眾流。一片虛凝沒依倚。設使乾坤倒覆大海翻騰。草木叢林悉皆化為刀槍矛盾。也動他一點不得。且道。憑箇什麼恁麼地。手執夜明符。幾箇知天曉。下座。上堂云。眨上眉毛早蹉過。塞却眼更形言語。轉周遮合取口。盡大地都為一塵。佛眼覷不見。一大藏都為一句。海口莫能宣。也未提得一半在。忽然踏破化城時如何。行到水窮處。坐看雲起時。下座。上堂云。風清戶牖明明古鏡高懸光射斗牛。凜凜太阿橫按。外魔臨之膽慴。妖邪擬之魂亡。千聖拱手歸降。十方居然坐斷。外絕四維內絕理事。直下便是。諸人還見麼。不離當處常湛然。覓則知君不可見。下座。退院歸辭眾。上堂云。未有長行而不住。未有長住而不行。為無為益無益。梯航三有津濟四生。是衲僧家本分事。雖然時節到來一刀兩段。要且鼻孔不在別人手裏。所以道。動若行雲。止猶谷神。既",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: Yuanwu's repeated direct use testing recognition at the slightest eyebrow movement."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0337c19",
+          "ToLb": "0338a20",
+          "Kwic": "射垛漢。師云：二老宿爾我同氣，情均天倫，自然手眼相似。雪竇云：直饒齊發齊中，也只是射垛漢看則有分。舉：普化與臨濟一日同赴施主齋，濟問：毛吞巨海，芥納須彌，為復神通妙用？為復法爾如然？化躍倒飯床。濟云：太󱍮生！化云：者是甚所在，說󱍮說細？濟休去。來日又同赴一施主齋，濟復問：今日供養何似昨日？化又躍倒飯床。濟云：太麁生！化云：瞎漢！佛法說甚麼麁細？濟吐舌。雪豆云：兩箇老賊喫飯也不了，好與二十棒。棒雖行，且那箇是正賊？師云：雪豆與麼道，也好與二十棒。且道過在什麼處？不見道：正賊走却，邏蹤人喫棒。舉：三角示眾云：若論此事，眨上眉毛早是蹉過。麻谷出云：蹉過即不問，如何是此事？角云：蹉過。谷便掀倒禪床，角便打。雪豆云：兩箇有頭無尾漢，眉毛未曾眨上，說什麼此事蹉過？有僧問：眉毛為什麼不眨上？雪竇便打。師云：麻谷掀倒禪床三角便打作家，作家眉毛為什麼不眨上雪竇便打作家？作家前面作家自是麻谷三角，後面作家自是雪竇，者僧只今莫有欲知此事者麼？時有僧出，劈脊便打，復問云：作麼生是此事？僧擬議，師又打，擲下拄杖，分明記取，舉似作家。舉：睦州喚僧大德，僧回首，州云：擔板漢。雪竇云：睦州只具一隻眼，者僧喚既回頭，固甚却成擔板？師云：雪竇打失一隻眼者。僧喚：既回首",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: independent deployment in the already-missed-opportunity construction."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1414.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Liao'an Qingyu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The phrase isolates a minute upward brow movement as an observable response under scrutiny. Yuanwu Keqin uses the expression through Yuanwu's repeated direct use testing recognition at the slightest eyebrow movement. Liao'an Qingyu independently deploys it through independent deployment in the already-missed-opportunity construction."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Id": "t_f2e5003d69e3",
+  "SourceTerm": "寂滅為樂",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch67 admitted14 constructor C",
+  "WrittenUtc": "2026-07-29T14:50:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "quiescent extinction is joy",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "quiescent extinction is joy"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Distinguish the quoted verse claim from the later speakers' direct commentary. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0022b29",
+          "ToLb": "0022c22",
+          "Kwic": "云：「觀音菴內打鼓，文殊院裏上堂，塵說、剎說、熾說，無人向此承當。幸我姑蘇葉居士為父鑑韋春秋五十來此營齋供眾，請山僧向人天眾前播兩片皮，露者消息。擬欲說心、說性、說常、說斷，自有三乘十二分教詮註不休，亦是座主露布了也。雖然如是，畢竟山僧說些甚麼？天地玄黃，宇宙洪荒，日月盈昃，辰宿列張。」小參，師云：「『諸行無常，是生滅法，生滅滅已，寂滅為樂。』此四句是我釋迦老人涅槃時所說，文略義周，包括一代時教也。既謂諸行無常，以何為常？莫是生滅滅已是常耶？寂滅為樂是常耶？若以生滅滅已是常，又同有作有為之諸行，則是頭上安頭也。若以寂滅為樂是常，又同無作無為之定性，則是斬頭覓活也。殊不知即寂滅而不妨熾然生滅、即生滅而不妨靈然寂滅，然寂滅者，一剎那間無生相可得、一剎那間無滅相可得，故曰寂滅。就中轉凡成聖，異世同風無逾於此。所謂三世諸佛之所證，證此也；一切眾生之所迷，迷此也。故寂滅之樂非天上人間之樂可喻。即今祥符本寺圓寂玉菴禪師圓修圓證此箇消息，今夜不妨舉似大眾，貴圖大家知。還知麼？不萌艸解藏香象，無底籃能盛活蛇。」示眾，云：「山僧連日病倦，不能依時及節為眾打葛藤。今因眾居士乞開示，生死關頭一著子，然而者著子千聖共遊只爭迷悟，迷則為凡、悟則成聖，有何難易",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: later raising and direct commentary on the canonical verse."
+        },
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0130c26",
+          "ToLb": "0131a18",
+          "Kwic": "直下知歸，頓踰諸聖？於此會得，淨裸裸，絕承當；赤灑灑，無回互。共見今辰，歆薦皇清，誥封一品夫人岳母王太君，齊家治國，賢孝忠真，婺宿靈明，不遷不變，棄榮位而生淨土，捨煩惱以證菩提。王太君於斯薦得，即往南方無垢世界，座寶蓮花，偕娑竭羅龍女把手共行，一時成等正覺。脫或未然，山僧拄杖直下承當，捩轉向上關頭去也。若據向上關頭，千里結舌，慟念孝子岳鐘瑞琪，人本乎母，物本乎天，哀哀慈母，生我劬勞，欲報深恩，昊天罔極。緬想音容，乞法資薦，敦請山僧祗就靈軒，登寶王座，轉法輪音，今對人天眾前不妨露個消息。」良久，云：「諸行無常，是生滅法，生滅滅已，寂滅為樂。此是古人的，阿誰信得？」拈拄杖，卓云：「一回拈起一回新，子規啼破月三更，天明個個知端的，大道人人放腳行。」結制，小參。舉：「古德云：『十五日以前，樹凋雲作葉；十五日以後，月滿兔兒肥；正當十五日，晴高天氣正，世泰兆民熙。』古人恁麼道，山僧則不然，十五日以前只是恁麼、十五日以後只是恁麼、正當十五日只是恁麼。拄杖子卻又不甘出來道：『雪山老漢恁麼道，也牽枝引蔓。若己事未明，豎起脊梁、緊捏拳頭，朝參暮請，行不知行、坐不知坐，驀然撞著露柱，㘞地一聲，始知鼻孔原來向下垂，更不去向人門戶討。』諸兄弟！還信得及麼？」良久，云：「把手牽人行不得，為人自肯乃方親。」",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment: later raising and direct comment on an ancient verse."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB177.xml",
+        "J/J40/J40nB479.xml"
+      ],
+      "RelatedMasters": [
+        "Poshan Haiming",
+        "Zhufeng Zhenxu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A canonical nirvana-verse claim that Chan speakers raise and turn by asking about extinction amid vivid arising and activity. Poshan Haiming uses the expression through later raising and direct commentary on the canonical verse. Zhufeng Zhenxu independently deploys it through later raising and direct comment on an ancient verse."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": "t_0ac851a89500",
+  "SourceTerm": "略露風規",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "briefly reveal the house style",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "briefly reveal the house style",
+        "briefly disclose the house style"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "風規 denotes the disclosed style here; this entry does not denote a monastic regulations code. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0495c13",
+          "ToLb": "0496a14",
+          "Kwic": "之恩，是真出家大解脫衲子也。示丹霞佛智裕禪師示丹霞佛智裕禪師祖師宗風，步驟闊遠，逈出教乘，丹提正印。靈山拈瞬而飲光笑領，龍猛示圓相而提婆中的，少林覓心而二祖超證，盧老說偈而大滿付衣鉢。人皆以為密傳，鞠其端倪，乃是納敗。豈造妙深極之旨，止如是而已。要須如天之高，地之厚，海之淵，虗空之廣，尚未髣髴。信過量大解脫人，回天轉地，吸海枯竭，喝散虗空，奮大機，顯大用，於無邊香水浮幢剎外，斬魔外見網，摧佛祖化權，揭示不可示，拈提不可提之奧，尚未為的。則雪峯鼇山得道，雲巖始終不知有，乃戲論爾。應須生䥫鑄就心肝，殺人不眨眼手段，乃可略露風規，貴慧命流於無窮，差可人意耳。建炎三年閏月十一日，前雲居圜悟禪師克勤書。與耿龍學書批與耿龍學書批妙喜示來教，見矻矻於此，意況甚濃，真不忘悲願也。而以宗正眼照破義路，情解透見肝膽，何明眼如此？正宗久寂寥，後昆習窠臼、守箕裘，轉相鈍致，舉世莫覺其非，大家隨語生解，祖道或幾乎息矣。不有超卓頴悟之士，何以規正哉？此皆正念，乃真外護也。時節擾擾，山居領眾亦未可保全，尚未有可乘之便為轉身之許爾。杲佛日一夏遣參徒踏逐山後古雲門高頂，欲誅茆隱遁，其志甚可尚。今令謙去，山叟為書數語及疏頭，亦與輟長財成之，可取一觀也。渠欲奉鋤，正在高",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment: Yuanwu's authored use of the phrase to mark a limited disclosure of operative style."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0909a05",
+          "ToLb": "0909b03",
+          "Kwic": "祖師云。心地隨時說。菩提亦只寧。事理俱無礙。當生即不生。欲知此箇道理。但將平昔坐禪處得底。看經教處得底。語錄上記得底。宗師口頭言下領覽得底。一時掃向他方世界。却緩緩地子細看他。德山何故見僧入門便棒。臨濟何故見僧入門便喝。若識二大老用處。則於日用觸境逢緣處。不作世諦流布。亦不作佛法理論。既不著此二邊。須知自有一條活路。不見臨濟一日侍立德山。德山良久驀回顧云。老漢今日困。臨濟云。這老漢寐語作甚麼。德山擬拈拄杖要打。臨濟便掀倒禪床。爾看。他了事漢。等閑驀路相逢。自然各各有出身之路。後來雲峯悅禪師拈云。此二員作家。一拶一捺。略露風規。大似把手上高山。雖然如是。未免旁觀者醜。且道。誰是旁觀者。良久喝一喝。據妙喜所見。雲峯亦未免和泥合水。好與這兩箇老漢。一狀領過。一坑埋却。且道。過在甚麼處。夷吾居士夙植德本。信得此段大事因緣及。雖在塵勞中。能自省察。雖未得一刀兩段直下坐斷報化佛頭。然却自有箇信入處。如虎生三日氣已食牛。欲行千里一步為初。最初一步已進得不錯。直須擴而充之。決定知得三世諸佛敗闕處。六代祖師敗闕處。妙喜敗闕處。然後打開自己庫藏。運出自己家財。拯濟一切。豈非在家菩薩之用心哉。勉之勉之。示妙圓道人示妙圓道人李知省宅欲超生死越苦海。應當竪起精進幢。直下信",
+          "MasterName": "Yunfeng Wenyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfeng Wenyue",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Yunfeng Wenyue owns the retained deployment: his quoted appraisal of the Linji-Deshan exchange (後來雲峯悅禪師拈云…略露風規…), preserved inside Dahui's sermon; Dahui quotes it and then criticizes it (據妙喜所見。雲峯亦未免和泥合水)."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1357.xml",
+        "T/T47/T47n1998A.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Yunfeng Wenyue",
+        "Dahui Zonggao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The appraisal says an exchange exposes only a little of a recognizable operative style. Yuanwu Keqin uses the expression through Yuanwu's authored use of the phrase to mark a limited disclosure of operative style. Dahui Zonggao's recorded sermon preserves Yunfeng Wenyue's quoted case appraisal of the Linji-Deshan exchange; the headword wording is Yunfeng Wenyue's, quoted and then criticized by Dahui."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Id": "t_dab54ef1d43f",
+  "SourceTerm": "齋時有飯",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch68 admitted11 constructor C",
+  "WrittenUtc": "2026-07-29T15:05:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "at mealtime there is rice",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "at mealtime there is rice"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep 晨時有粥 or 晨朝有粥 as the paired breakfast clause, not a synonym. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0379c07",
+          "ToLb": "0379c26",
+          "Kwic": "」僧云：「苦痛深。」師云：「灼然，灼然。」問：「如何是大施主？」師云：「對機不辯。」問：「徹底冥濛底人來，師如何拯濟？」師云：「兩重公案，一狀領過。」問：「說教當為何人？」師云：「近前來，高聲問。」僧近前問，師便打。問：「和尚年多少？」師云：「七九六十八。」進云：「為什麼七九六十八？」師云：「我為你減卻五年。」問：「十方薄伽梵，一路涅槃門。如何是一路涅槃門？」師云：「我道不得。」進云：「和尚為什麼道不得？」師云：「是你舉話即得。」問：「如何是法說？」師云：「大眾久立，速禮三拜。」「如何是隨意說？」師云：「晨時有粥，齋時有飯。」「如何是隨宜說？」師云「三德六味，施佛及僧。」「如何是方便說？」師云：「是汝鼻孔重三斤半。」「如何是大悲說？」師云：「皈依佛法僧。」問：「生死根源即不問，如何是目前三昧？」師云：「吃嘹舌頭三千里。」進云：「今日得遇和尚也。」師云：「放你三十棒。」問：「乞師指示。」師云：「上大人，丘乙己。」進云：「學人不會。」師云：「化三千，七十士。」問：「不離三德六味，還有佛法也無？」師云：「秪怕你不問。」進云：「請師道。」師云：「三德六味，施佛及僧。」上堂，云：「眼睫橫亙十方，眉毛上透乾坤、下透黃泉，須彌山塞卻汝咽喉，還有會",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment: direct answer paired with morning gruel."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0533a26",
+          "ToLb": "0533b17",
+          "Kwic": "』」師云：「不著福智莊嚴，則身清淨；不談禪道佛法，則口清淨；不住靜照覺觀，則意清淨。」復云：「佛聻？切忌話墮。」時。有僧出云：「恁麼則落空了也。」師云：「蒼天，蒼天。」示眾。云：「法法皆備於己，切莫自生欣厭。隨時得座披衣，說甚萬年一念。」喝一喝。復舉：「雲峰因僧問：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』妙喜云：『雲門即不然。如何是心地法門？不從人得。不從人得時如何？看腳下。』楚石和尚云：『或問天寧：「如何是心地法門？」「不從人得。」「不從人得時如何？」「早晨有粥，齋時有飯。」』」師云：「設有人問山僧：『如何是心地法門？』『不從人得。』『不從人得時如何？』『佛國魔宮，天堂地獄。』」示眾。云：「處處真，處處真，塵塵盡是本來人，真實說時聲不見，正體堂堂沒卻身。既是正體堂堂，因甚道沒卻身？直饒玄會得，也是眼中塵。」復舉：「臨濟上堂，云：『赤肉團上有一無位真人，常在汝等諸人面門出入，未證據者看看。』」師云：「臨濟老漢漏逗了也。既是無位真人，因甚在赤肉團上？太煞粘牙綴齒，又說甚麼面門出入？雪上更加霜。諸仁者，若向者裏著得隻眼，捉敗古人，管取天下橫行。倘更躊躇……」拈拄杖，云：「未證據者看看。」",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "later-quoter",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He quotes Chushi Fanqi's answer containing the retained clause; Lüyan's own following answer is different."
+        }
+      ],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "J/J39/J39nB452.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Chushi Fanqi",
+        "Lüyan He"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Ordinary provision and immediate functioning answer a demand for something apart from the day's actual conditions. Yunmen Wenyan uses the expression through direct answer paired with morning gruel. Lüyan He quotes Chushi Fanqi's independent answer pairing morning gruel with rice at mealtime."
+    }
+  ]
+}

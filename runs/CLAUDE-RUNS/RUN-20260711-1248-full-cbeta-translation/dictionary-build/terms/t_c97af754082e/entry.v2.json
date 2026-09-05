@@ -1,0 +1,68 @@
+{
+  "Id": "t_c97af754082e",
+  "SourceTerm": "甜者甜兮苦者苦",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the sweet is sweet; the bitter is bitter",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "sweet is sweet bitter is bitter"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "No symbolic gloss is warranted beyond the stated taste distinction. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0125b14",
+          "ToLb": "0125c06",
+          "Kwic": "山空無字印，水響不傳心，透脫超方外，安身絕比鄰，故曰有佛處不得住，無佛處急走過，不涉二途，竿頭上坐，觔斗打翻無盡界，三千剎海夜沉沉。」喝一喝便下座。上堂，僧問：「太白峰高妙唱祖師巴鼻，玲瓏巖秀發明向上宗乘，末後一句又且如何？」師云：「腳下喫一頓。」進云：「一句迥超千聖格，大家齊唱太平歌。」師云：「阿誰信你？」進云：「七十三八十四又作麼生？」師便喝，僧云：「禮拜去也。」師云：「墮也。」乃云：「如何是禪？萬工池邊。如何是法？玲瓏巖畔。如何是道？清關橋上。者三轉語會得也，分明世諦流布；會不得也，爭奈現成公案。會得與不會，甜者甜兮苦者苦，五五分明二十五，鹽城信女發大心，一念頓超諸佛祖。還信得及麼？法門潑天開，阿誰不得度？雖然如是，囌嚕囌嚕。」便下座。金陵達然禪德，託居士請上堂，僧問：「薰風自南來，殿閣生微涼，意旨如何？」師云：「寒毛卓豎。」乃云：「今朝五月十五，日輪已屬當午，光明普照十方，物物了無迷悟。天空海闊，山高地厚，雲騰鳥飛，花紅柳綠，鵠白烏玄，松直棘曲，長者長法身，短者短法身，方者方法身，圓者圓法身。」以拄杖拍香几云：「若作恁麼見解，則門栽荊棘；更離那些消息，則又大地平沉。且道端的在甚麼處？相識滿天下，知心能幾人。」喝一喝下座。老和尚忌日",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: direct hall deployment."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0918a02",
+          "ToLb": "0918a27",
+          "Kwic": "在甚麼處？」良久曰：「又莫蹉過。」示眾。「心生法生，心滅法滅。三世諸佛，有口無說。」示眾。「有念即凡，無念即聖。是則是，秪恐未到與麼田地，又切莫於此躲跟。何謂如此？攪不渾兮澄不清，不動干戈不太平。參。」示眾。「離心意識參，絕凡聖路學，古人說話甚是的當。秪是而今切莫顢頇放過，正好向這裏看，參又參箇甚麼？學又學箇甚麼？此語不妨一一見得落處，方於己躬下有趨向分。」示眾。「善無善，惡無惡，只在各人辨清濁。行則行，止則止，箇裏分明有彼此。其中涇渭不能分，未免鋀石混真金。天龍傾心相為汝，莫教自瞞成辜負。還知麼？葫蘆圓長雖一般，甜者甜兮苦者苦。參。」示眾。「自古根元雖不異，爭奈千年田地八百主？警諸人，急須究，莫莽鹵，甜瓜徹蒂甜，苦瓜連根苦。咦！」示眾。「米多做飯，米少煮粥。道人活計，千足萬足。若貪豐足，未免勞碌。所以道：知安則榮，知足則富。還知麼？嘴唇兩片皮，牙齒一具骨。」示眾。「古人道：『有一句子到你，則啞卻我口；無一句子到你，則瞎卻你眼。』這般說話，總是將眾人物作己私用。若是皮下有血底漢子，直得當面便唾，有甚麼過？得人一牛，還人一馬。」示眾。「一念不生，萬緣頓息。佛法兩字，猶是剩語。諸人若也於此見得明、信得及、行得力，自然有一日疑團子迸破，方知天龍",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanyi Ruchun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment: independent direct instruction."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J39/J39nB468.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Shanyi Ruchun"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A recurrent plain differentiation used in verses and hall addresses: sweet items are called sweet and bitter ones bitter. Feiyin Tongrong uses the expression through direct hall deployment. Shanyi Ruchun independently deploys it through independent direct instruction."
+    }
+  ]
+}

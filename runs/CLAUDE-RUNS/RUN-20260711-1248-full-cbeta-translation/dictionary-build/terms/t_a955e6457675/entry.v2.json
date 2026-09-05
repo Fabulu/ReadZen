@@ -1,0 +1,106 @@
+{
+  "Id": "t_a955e6457675",
+  "SourceTerm": "活人路上死人無數",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R05 fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "on the living road, dead people are countless",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "countless dead on the living road"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Guxue and Jie'an retain the opposed clause 死人路上有活人出身處; Juelang then distinguishes who can emerge on, and who can travel, each road.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0321a05",
+          "ToLb": "0321a27",
+          "Kwic": "還家，一人離家就路。離家就路，寸步不曾移；就路還家，通身無影像。便恁麼去，猶在半途，何況辛苦六年，睹星半夜，說迷說悟，點肋點胸？撿點將來，不免喫翠巖手中痛棒。大眾！還知棒頭落處麼？若委悉去，便見得大地含靈本不曾迷，釋迦老子亦不曾悟，鑑、進二禪客元不曾死，目前四眾等亦不曾生。所以道：性真常中求於迷悟生死了無所得。既無所得，則釋迦老子亦不可得、大地含靈亦不可得、目前四眾亦不可得、鑑進二禪亦不可得、說底不可得、聽底不可得、所說之法亦不可得、此不可得亦不可得。與麼見得，正是黑牛臥死水，未得脫灑在。須知死人路上有活人出身處、活人路上死人無數，灼然出得荊棘林是好手。正恁麼時，脫灑一句作麼生道？」卓拄杖，云：「枯樹雲充葉，凋梅雪作華。」打七，晚參。「本自絕思議，無端要起期，期中疑未息，大家要打七。七日七夜不許眠，通紅猛火著油煎，煎得虛空頭腦裂，眉鑯迸出珊瑚月。且道：迸出後如何？海門東畔是新羅。」復舉：「歸宗禪師因僧問：『如何是佛？』宗云：『即汝便是。』僧云：『如何保任？』宗云：『一翳在眼，空華亂墜。』」師云：「歸宗老漢固是作家宗師，其奈眼孔太窄。或有問翠巖：『如何是佛？』劈脊便棒。『如何保任？』連棒打出。且道：與歸宗是同？是別？」上堂。僧問：「如何是金剛",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: direct warning after an all-unavailable claim."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0339a27",
+          "ToLb": "0339b20",
+          "Kwic": "亦無無明盡。』向這裏得個入處，始知金明度歲家風迥別，無牛可烹、無道可說，踏著稱錘原是鐵。不則，更燒一爐榾柮，烈燄亙天，使大家煖烘烘地一場快活。雖然，各須照顧眉毛，明朝與汝等宣妙訣。」下座。師為峽石汪子瑜對靈小參。云：「疇昔金明坐七期，幾番錐劄為君癡，而今既得知歸也，劈面霜風正此時。昔道吾弔慰，侍者拊棺云：『生耶？死耶？』吾云：『生也不道，死也不道。』侍云：『為甚麼不道？』吾云：『不道，不道。』這老漢只解把住，不解放行。金明則不然，若有問：『生耶？死耶？』但云：『道！道！』更問：『道個甚麼？』劈脊便棒。苟知落處，便解活人路上死人無數，死人身上有活人出身處。其或未然，更聽一偈：踢翻生死海，打破涅槃城，從來十九路，迷悟幾多人？」護法眾紳士請修建豎竿，小參。師橫按拄杖云：「世尊建梵剎，拖泥帶水；長者插莖草，見義勇為。二千七百年前已曾倒卻，雞足峰頭貧如徹骨；二千七百年後今朝豎起，范蠡湖上特地光輝。直得掀天揭地、換斗移星，管取福國祐民，時清道泰。」召大眾云：「金明復整規模，且道承誰恩力？」驀豎拄杖云：「將此深心奉塵剎，是則名為報佛恩。」下座。除夕，小參。「去年貧徹骨，今年徹骨貧，直貧貧徹底，始見徹貧貧。」驀卓拄杖，云：「擊碎虛空煨榾柮，拍雙赤手接豐年。",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment: direct release after raising Daowu's death exchange."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0634b01",
+          "ToLb": "0634b24",
+          "Kwic": "邊塞，奔求父骸骨不得，乃大悲慟，震倒邊城，白骨縱橫，不知誰是，乃嚼指以血灑之，父骨隨血躍起。只此二事，撤見吾人真心頓發，足以驚天地、感鬼神，曾無人物山河之能隔也。又況參究性命，乃自心求自心，不同身外而求考妣，如求濕于水、求熱于火，不離于當體而本有者哉。但以眾生業識堅強、真心微弱，如劣主不勝悍奴耳。使能痛發為生死念，則金剛慧心躍出于無明業識中也，何復有曠劫疑情之不破、現前靈覺之不開哉？勉之，毋自墮落。」金陵報恩堂中示眾金陵報恩堂中示眾師入堂，眾禮拜立定，師喝云：「看腳下。」良久，復云：「古人道：『死人路上有活人出身，活人路上死人無數。』若向遮裏撿點得出，卸炙脂帽子、脫鶻臭布衫也不難。山僧云：死人能與活人出身，不能行活人路；活人能與死人出身，不能行死人路。有一箇漢于死人路上能行活人路、于活人路上能行死人路，著著皆有出身處，正好山僧遮裏喫棒，指他箇寶鏡三昧，入五位正偏，還須知有向上尊貴之事。不然，觸途成滯，隨照失宗，于本分上總未得大解脫在。如今參學，死了不得活、活了不得死，頭出頭沒，總在生死海裏，有甚透徹處？從上佛祖皆謂：不立文字，直指見性。必須悟此法眼，始可傳授不絕。且問你諸人：既此宗不許文字道理、知見玄妙，只貴悟心。如何後世祖師又云：『不疑言",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: direct reworking that distinguishes who can travel each road."
+        },
+        {
+          "RelPath": "J/J37/J37nB395.xml",
+          "FromLb": "0719b16",
+          "ToLb": "0719c11",
+          "Kwic": "迄到護國親見忍祖，雖無疏鈔可焚，末後句子已當面分付了也，即未撩起便行，且喜未到臘月三十日，可謂唧溜漢子具衲僧手眼，舉枕公案不被侍僧勘破，即今功圓果滿、絕後光先一句又作麼生？」喝一喝，云：「皮膚脫落盡，惟有一真實。噫！一任浮雲變今古，牟尼徑寸滿空春。」瑞白禪人舉火瑞白禪人舉火師云：「幾回生，幾回死，生死悠悠無定止，證入無餘大涅槃，常寂光中無異此。今日撥轉舊家風，翩翩隻履西歸逝，五十六年成底事，者回方脫娘生褲。且道：娘未生時著個甚麼？」顧左右，云：「汝等諸人道道看。若無，山僧未免借手行拳去也。所以道：亡僧面前觸目菩提，活人路上死人無數。上人會麼？」喝一喝，執火炬，云：「大千沙界現全身，獅子獨行無伴侶。」舉火舉火「金不博金，生死海中無向背；楔能出楔，眾生諸佛正相當。所以道：『無明實性即佛性，幻化空身即法身。』如是則山河大地同轉根本法輪，鱗甲羽毛共證真常實際，法爾如然，不假穿鑿。今日山僧為汝覿面舉揚，上人還承當麼？若能如是，便可超佛越祖，出死入生；其或未然，為汝更指一路。」以火炬打圓相，云：「有水皆含月，無山不帶雲。」舉火舉火「歷劫不曾迷，云何方始覺？生死及涅槃，個中無處著。所以，全體恁麼來，則來無所從；全體恁麼去，則去無所至。來無所從，則生本不曾",
+          "MasterName": "Qizhen Cheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qizhen Cheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB395.xml). Recorded Sayings of Chan Master Qizhencheng of Neihuguo Monastery, Jingnan. Qizhen Cheng owns the retained deployment: direct funeral-address application to the deceased monk."
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB208.xml",
+        "J/J29/J29nB233.xml",
+        "J/J34/J34nB311.xml",
+        "J/J37/J37nB395.xml"
+      ],
+      "RelatedMasters": [
+        "Guxue Zhenzhe",
+        "Jie'an Jin",
+        "Juelang Daosheng",
+        "Qizhen Cheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "One half of a paired road saying: the records warn that even the road called living contains countless dead people, while the dead road can provide a place for a living person to emerge. Guxue Zhenzhe supplies the warning after unavailable claims deployment through direct warning after an all-unavailable claim. Jie'an Jin supplies the death-case release deployment through direct release after raising Daowu's death exchange. Juelang Daosheng supplies the two-road reworking deployment through direct reworking that distinguishes who can travel each road. Qizhen Cheng supplies the funeral-address application deployment through direct funeral-address application to the deceased monk."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Id": "t_d1d5d8576b8f",
+  "SourceTerm": "遇茶喫茶",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch67 admitted14 constructor C",
+  "WrittenUtc": "2026-07-29T14:50:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when tea comes, drink tea",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "when tea comes drink tea"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 遇飯喫飯 as the recurrent companion, not a synonym. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0772c28",
+          "ToLb": "0773a26",
+          "Kwic": "性。豈干他見聞覺知思量擬議。如東寺會禪師道化荊湖。有崔郡相國。出鎮湖南。師因目疾次。崔乃問曰。如何是宗乘中事。師云。見性成佛。崔云。爭奈患眼何。師云。見性非眼。赤眼何咎。且道。見性既非眼。且將什麼見。聞性亦非耳。且道。將什麼聞。乃至鼻嗅香舌了味身覺觸意攀緣。一一皆然。若向這裏明得。至於一切處悉皆明得。所以雪峯和尚道。盡大地是箇解脫門。把手拽不肯入。又云。盡大地撮來如粟米粒大。拋向面前。漆桶不會。打鼓普請。看更有甚玄妙見聞覺知。若爾方能心境一如。也無能也無所。唯一自心。更無他物。若是得底人。終不言我知我會。遇飯喫飯。遇茶喫茶。終日只守閑閑地。蓋他胸中無許多波吒計校。所以道。心若無事。萬法一如。無得無失。終日只履踐此一片田地。凡有來問。只將此事一時截斷。所以道。見須實見。悟須實悟。古人云。百尺竿頭作伎倆未嶮。向衲衣下不明大事失却人身始是嶮。既如是。豈可不明心達本。一切萬緣一齊放下棄却知見解會。令教如木石瓦礫相似。及到大安穩休歇之地。然後一波纔動萬波隨。而初無動靜等相。蓋他得底人。終日以無所得心。修無所得行。行雖與人同。而常與人異。只為此一片田地打揲得盡淨一切會同脫體無礙。豈是小了底事。直須用作事始得。師云。人人具足各各圓成。但向己求莫從",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: direct instruction on ordinary conduct."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0366b25",
+          "ToLb": "0366c14",
+          "Kwic": "者多。」師云：「祕魔老漢即今在甚麼處？」云：「作麼？」師云：「者是祕魔底奴子。如何是祕魔底正主？」僧禮拜，師云：「更參三十年。」問僧：「庭前柏樹子意旨如何？」云：「盡大地風颯颯。」師云：「先師無此語又作麼生？」云：「用處最親切。」師云：「懷州牛喫禾，為甚益州馬腹脹？」僧擬議，師便打。問僧：「野渡無人舟自橫時如何？」云：「某甲親到者裏。」師云：「死了、燒了，向甚處與山僧相見？」云：「向不生不滅處與和尚相見。」師云：「未在。」云：「和尚又作麼生？」師便打。問僧：「如何是正體？」云：「覿面更無私。」「如何是玅用？」云：「遇茶喫茶，遇飯喫飯。」「體用互呈時如何？」云：「萬派皆歸海，千山必仰宗。」便禮拜，師亦打。入室畢，復問：「雪覆千山，因甚孤峰不白？」一僧云：「從來不與眾為鄰。」一云：「蓋覆不得。」師休去。問僧：「如何是第一座？」僧呈座具，師云：「此是第二座。」云：「直下來也。」師云：「未在，更道。」云：「和尚又作麼生？」師便打。云：「者箇便是第一座麼？」師云：「莫錯認。」僧禮拜，云：「謾某甲不得也。」師云：「死了、燒了，畢竟向甚處與山僧相見？」云：「幾回零落盡，又見長新條。」師休去。問僧：「如何是堂中主？」云：「逼塞乾坤。」「如何是主中主",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhe",
+              "Roles": [
+                "questioner",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. The unnamed examined monk owns the retained deployment: his testing-exchange answer; Guxue Zhe examines and strikes.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed examined monk",
+            "ActorLabel": "the unnamed examined monk",
+            "ActorRole": "respondent",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "問僧 opens the testing exchange; the unmarked 云 answers carrying the headword (遇茶喫茶，遇飯喫飯) belong to the examined monk, whom the master strikes (師亦打), and whose 某甲 self-reference appears in the same window.",
+            "ReviewedBy": "fresh10k-r7 coordinator full-case repair",
+            "ReviewedUtc": "2026-09-05T08:37:18Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "J/J28/J28nB208.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Guxue Zhe"
+      ],
+      "RelatedTerms": [
+        "遇飯喫飯"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Ordinary responsive conduct after obstruction is seen through, recurrently paired with eating when food comes. Yuanwu Keqin uses the expression through direct instruction on ordinary conduct. An unnamed examined monk deploys it as his own answer in Guxue Zhe's testing exchange."
+    }
+  ]
+}

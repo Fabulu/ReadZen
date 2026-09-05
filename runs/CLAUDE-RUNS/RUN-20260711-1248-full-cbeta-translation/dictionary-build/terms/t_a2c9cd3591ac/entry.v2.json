@@ -1,0 +1,150 @@
+{
+  "Id": "t_a2c9cd3591ac",
+  "SourceTerm": "溪聲便是廣長舌",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01b fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the stream's sound is itself the broad, long tongue",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "stream sound is the eloquent tongue"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Passive copies of Su Shi's poem are one family; later praise and criticism must be attributed to the master actively raising it.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0183b09",
+          "ToLb": "0183c01",
+          "Kwic": "會的意？」師以手掩湛口，湛便休。一日，湛舉凌行婆見浮杯公案徵云：「如何是他語不知偏正，理不識倒邪處？」師隨下語不愜，至四五日種種呈伎，湛皆不肯，忽憶靈雲見桃花悟道，玄沙卻云：「諦當甚諦，當敢保老兄未徹在。」凌行婆亦如是也。舉似湛，湛向傍人云：「此子會也。」師作禮退。四十一年癸丑師二十一歲，與湛和尚論牧牛話不契，往天台住黃經洞獨居七日，脅不至席，因無水棄去。途遇指南師，同過苕水見古卓師，卓問：「有句無句如藤倚樹是如何？」師云：「一盲引眾盲。」卓問：「樹倒藤枯句歸何處聻？」師云：「相牽入火坑。」一日卓舉東坡悟道偈云：「溪聲便是廣長舌，山色無非清淨身，夜來八萬四千偈，他日如何舉似人。」問西堂鏡宗云：「此菴為甚卻道是門外漢？」宗云：「東坡認聲色邊事。」卓即肯之，師云：「東坡既認聲色邊事，他後二句云『夜來八萬四千偈，他日如何舉似人』，又是什麼意旨？」宗無語，師遂過雙髻，見雪庭老師問：「久嚮雪庭，到來秪見日頭。」荅語不契，復回雲門。值越中梅墅坐不語，期湛和尚領眾，師作偈呈湛云：「禪非坐，坐非禪，個中端的本來圓」云云。湛亦荅曰：「禪非坐，坐非禪，開口須知落兩邊」云云之偈。一晚湛問：「興化打克賓，汝道如何？」師云：「老婆心切。」湛云：「克賓是什麼心行？」",
+          "MasterName": "Su Shi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Su Shi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Guzhuo Jun raises Dongpo's verse in Feiyin's biography; Su Shi is the quoted verse's exact actor."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0287a22",
+          "ToLb": "0287b12",
+          "Kwic": "云：「你問誰？」僧云：「即今問和尚。」師云：「從門入者，不是家珍。」問：「丹霞燒木佛，為什麼院主墮落鬚眉？」師云：「賊是小人，智過君子。」僧云：「謝師指示。」師云：「鬚眉墮落。」問：「即事即理一句，求和尚道。」師云：「常住尚少柴頭。」僧云：「古人道：『觸目菩提，打破琉璃。』道在何處？」師云：「太歲臨頭。」僧問：「如何是佛？」師云：「胡說。」僧云：「佛乃三界至尊，何得言胡說？」師云：「是你恁麼問那？」僧云：「是。」師云：「墮地獄底。」僧罔然求懺，師召僧，僧應諾，師云：「出也。」一日，與數居士山行，一士舉：「東坡道：『溪聲便是廣長舌，山色無非清淨身。』」師云：「東坡好與三十棒。」士云：「和尚意作麼生？」師云：「不貪香餌味，方是碧潭龍。」一僧云：「某甲有耳不聞。」師云：「閉目食蝸牛。」一僧云：「若是陶淵明，攢眉便歸去。」師云：「密掩暗房無兩目，那知日月甚光明？」僧云：「山色水聲又作何消繳？」師云：「安南猶亂，塞北那平？」僧禮拜，師云：「了也，了也。」問：「古人道：『一人所在也到，半人所在也到。』作麼生是半人？」師云：「販私鹽漢，不打自招。」僧舉：「報恩和尚打僧云：『斫斷汝手，將什麼持物？』打僧腳云：『斫斷汝腳，將什麼走路？』又打云：『道！道！』",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). An anonymous layman utters the quoted line; Yunwai Xingze answers it.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "identified encounter participant",
+            "ActorLabel": "an anonymous layman",
+            "ActorRole": "interlocutor",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "一士舉 opens the layman's quotation of 東坡道; 師云 begins Yunwai's response only after the paired verse.",
+            "ReviewedBy": "R01b correction B",
+            "ReviewedUtc": "2026-07-29T22:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0533c30",
+          "ToLb": "0534a22",
+          "Kwic": "棟底為棟，甚生標格，十成壯觀。於此見得，全無蓋覆。其或未然，更聽一偈：一莖標豎遍山河，玉殿瓊樓不較多，金碧騰輝千古意，萬年福廕祝檀那。」入院，上堂。「入門一句，萬古徽猷，四海吾廬，孰分來去？住興化時，則有興化境界，門連城郭，送往迎來，旌旗處處填眸，金鼓時時入耳，戎馬為儔，推因話果；住毘盧時，則有毘盧家風，土面灰頭，和泥合水，樹樹松聲似樂，頭頭鳥語如簧，鹿豕為群，挐雲嘯月。且道：住城郭是？住深山是？」良久，云：「有水皆含月，無山不帶雲。」初樹毘盧佛像，上堂。「久雨不晴，惟恐爛卻法身；雲收日杲，特為拈出曬眼。有者道：『溪聲便是廣長舌，山色豈非清淨身？』正是迷己逐物，癡狂外走。有者道：『口吞佛祖，眼蓋乾坤。』儱侗瞞頇，無語話分。有者道：『毘盧有師，法身有主。』頭上安頭，嘴上加嘴。有者道：『佛身充滿於法界，普現一切群生前。』浮逼逼地座主見解。」拈拄杖卓一下，云：「者四種人，一齊按過了也。畢竟如何是清淨法身？」遂合掌，云：「南無清淨法身如來、應供、正遍知。此是賓臺楊居士夫婦發心造的，汝等諦觀仰瞻，切莫妄想。」學士徐公席珍入山相訪，陞座。「桃花浪暖，柳絮風和，魚龍變頭角之時，鸞鳳換毛羽之日。光山這裏，溪深路僻，土曠人稀，笑談罕遇高僧，傾倒難逢佳客。今",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. An unnamed hypothetical speaker voices the headword inside 有者道; Chulin Shangrui then rejects that position as chasing external objects.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "hypothetical quoted speaker",
+            "ActorLabel": "an unnamed hypothetical speaker",
+            "ActorRole": "quoted speaker",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "有者道 introduces the headword-bearing quotation; 正是迷己逐物 begins Chulin's criticism afterward.",
+            "ReviewedBy": "R01b final actor correction B",
+            "ReviewedUtc": "2026-07-29T23:45:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J40/J40nB492.xml",
+          "FromLb": "0485c25",
+          "ToLb": "0486a16",
+          "Kwic": "：「四面好山擎日月，一湖秋水浸青天。」問：「如何是境中人？」師云：「三仙描不就，終不與君傳。」問：「如何是目前事？」師云：「眉毛眼上橫。」問：「莫不是他安身處麼？」師云：「錯認定盤星。」進云：「爭奈觀山觀水何？」師云：「觀外如幻，觀內亦然。去此二途，汝作麼生觀？」僧無對。師乃云：「只如老子道：『內觀其心，心無其心；外觀其形，形無其形；遠觀其物，物無其物。』三者既悟，唯見於空，亦是吾宗金鎖玄關之難，何況觀山觀水、觀佛觀法？所以道：『不是目前法，亦非目前事。』且道是個甚麼？」喝一喝，卓拄杖，下座。示眾。舉：「古德云：『溪聲便是廣長舌，山色無非淨法身。』堪笑古人猶在聲色裏作活計，要見清淨法身太遠在。既不在聲色裏，畢竟在甚麼處？會麼？」良久，云：「須知更在青山外。」設齋，示眾。舉：「古德云：『不見三頭六臂，卻能拈匙放箸。』也大奇，也大奇。」拈拄杖，指左邊一指，云：「這裏是山，那裏是水？」又指右邊一指，云：「遮裏是水，那裏是山？」舉拄杖，云：「這箇是拄杖子，主在甚麼處？向這裏一一見得明白，許你有口堪喫飯。然雖恁麼，亦未見他三頭六臂在。且道那裏見得？」拈拄杖，一齊打散。正月初一，示眾。云：「月頭是初一，光明漸漸出；月尾是三十，光明何處覓？假饒老釋迦，",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanfeng Shiwei",
+              "Roles": [
+                "later-raiser",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB492.xml). Recorded Sayings of Monk Wanfeng. The quoted old worthy voices the headword inside 古德云; Wanfeng Shiwei raises it and then criticizes remaining within sound and form.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed quoted old worthy",
+            "ActorLabel": "the quoted old worthy",
+            "ActorRole": "quoted speaker",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "舉：古德云 introduces the headword-bearing quotation; Wanfeng's 堪笑古人 appraisal follows it.",
+            "ReviewedBy": "R01b final actor correction B",
+            "ReviewedUtc": "2026-07-29T23:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J33/J33nB280.xml",
+        "J/J37/J37nB390.xml",
+        "J/J40/J40nB492.xml"
+      ],
+      "RelatedMasters": [
+        "Su Shi",
+        "Chulin Shangrui",
+        "Wanfeng Shiwei"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Su Shi's stream-sound line is repeatedly raised as a claim that the landscape voices teaching, then praised, tested, or sharply criticized. Guzhuo Jun raises Dongpo's awakening verse; the verse assigns the headword to Su Shi, while Feiyin is only the biography subject. An anonymous layman quotes Dongpo's paired lines and Yunwai answers by prescribing thirty blows. Chulin Shangrui directly repeats the line before rejecting it as chasing external objects. Wanfeng Shiwei directly raises the old line and says it remains trapped in sound and form."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Id": "t_41246d5b887c",
+  "SourceTerm": "桃紅柳綠",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "peach blossoms red, willows green",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "peach blossoms red, willows green"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "桃 supplies blossom by conventional compression; keep the parallel colors concrete unless the local passage explicitly develops another contrast. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0784a02",
+          "ToLb": "0784b08",
+          "Kwic": "閩王延夢筆禪師齋，王問曰：「好將得筆來也無？」師云：「不是稽山繡管，慚非月裏兔毫。大王既垂顧問，山僧敢不通呈？」覿面通呈非兔毫，輕分閩主不辭勞，梅花吐處春香露，煦日纔臨冰質消。王又曰：「如何是法王？」師曰：「不是夢筆家風。」不是家風一句機，偷香暗裏有誰知？千峰布列須彌勢，萬派宗分大海歸。雲門三種獅子師居雲門室中作入窟獅子斂跡藏形古壑中，豈尋聲色受華榮？聖凡掃卻無依倚，斗柄星河霽碧空。出窟獅子爪牙抖擻望天關，哮吼一聲碧嶂寒，魔外不知何處去，威靈耿耿落人間。不出不入獅子窟內未曾留形跡，人間那得有聲名？石筍抽條千丈碧，泥花發豔四時春。圓覺經頌文殊章本起如來清淨因，桃紅柳綠一般春，凡夫不了元無我，病眼空花認作真。圓炤婆伽親指示，依然幻翳眼中生。文殊當下知消息，石女峰頭喚故人。普賢章幻化元來生覺心，春風微動水生鱗。時人但見波濤滾，豈識波濤全體真？有覺還同如幻立，若緣無覺鏡中痕。兩重公案都除卻，天柱峰頭蓮萼新。普眼章漸次修行滅幻門，火風地水究元辰，忽然突出孃生面，剎剎塵塵總是春。擲柳黃鶯歌上苑，穿花杜宇遶南林。泥人翫月思情美，石女簪花巧樣新。金剛藏章金剛抉破三疑網，幻戲場中脫卻衣。若說本來成佛道，挖瘡好肉事非宜。只因蒙昧難開曉，金喻重重說是非。識得上林花滿地，風翻蝶舞過東籬。彌勒章起心若欲斷輪迴，荊棘叢生覺地迷。夢去雖然諸種",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: repeated direct deployment of the red-peach and green-willow scene."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0588b22",
+          "ToLb": "0588c26",
+          "Kwic": "話頭提得密綿綿，只在忙閒動靜參，㘞地一聲親見得，大千沙界一毫端。巖畔煙霞老古錐，吟風笑月幾人知？寄懷託舌溪聲遠，說法那添眼上眉。三獸匆匆用渡河，無分深淺出凡波，高懸佛日當空照，也是徒勞雲影過。新正即事警眾新正即事警眾纔得新正幾日過，流光倏忽莫蹉跎，承虛接響終無用，悟徹根源好大哥。箇事相承不可賒，擬思量處隔千差，棒頭有眼明如日，若是真金豈混沙？性本圓明莫妄求，千差萬別箇中流。聲前色後無餘事，空起許多閒念頭。萬仞崖頭撒手來，虛空撲碎絕疑猜。當場得箇知音者，可喜優曇一度開。春日春日般若流光日日新，上林花發劫前春，枝頭黃鳥聲聲喚，爭奈時人未曉音。聲色堆頭劫外春，桃紅柳綠逐時新，道人獨坐明窗下，撥古窮今自賞音。客問師姓答偈客問師姓答偈幾欲藏身無處藏，心如頑石道如常，君今要識山僧面，原是當年閔四郎。次本師送進關偈次本師送進關偈附原偈老衲於今不坐關，既無住也幸無閒，何曾進又何曾出？只在尋常天地間。了知此際不容開，物外無心到處閒，心境廓然原不二，也歸無念剎那間，有生有滅隔重關，無滅無生當處閒，是誰生也是誰滅，也歸無念剎那間。突興一念是重關，放下之時便等閒，起滅不停誰滅滅？也歸無念剎那間。徹見虛空無閉關，身心萬物自常閒，從他出也從他入，也歸無念剎那間。一重撥去一重關，弗若摩尼本自閒，應物現形原不",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: independent recorded-sayings use of the seasonal color pairing."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB188.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Ruibai Mingxue",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compact spring scene in which each thing displays its own evident color, used as an ordinary-world answer or seasonal presentation without an added hidden referent. Ruibai Mingxue uses the expression through repeated direct deployment of the red-peach and green-willow scene. Tianyin Yuanxiu independently deploys it through independent recorded-sayings use of the seasonal color pairing."
+    }
+  ]
+}

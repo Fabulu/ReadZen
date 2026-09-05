@@ -1,0 +1,82 @@
+{
+  "Id": "t_fdc564b853d8",
+  "SourceTerm": "窮諸玄辯",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "exhaust every abstruse argument",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "exhaust every abstruse argument",
+        "exhaust every subtle argument"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 若一毫置于太虛 and the parallel 竭世樞機 line as the declaration's comparison; this is not praise for argumentative mastery. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0612b08",
+          "ToLb": "0612c08",
+          "Kwic": "又依稀。湖州報恩普說：三十三州七十僧，驢腮馬額得人憎。諸方若具羅龍手，今日無因到淨明。此是應菴老祖開了這般口，至今合不得。報恩今日道：八十餘人十七州，相看盡是惡冤讎。諸方有道不肯學，來共山僧作對頭。今日到這裡，有口却無開處，未免向壁角落頭，拈起一柄折頸刀子，度與諸人。所貴向情識未動以前，一刀兩段，便見著衣喫飯不是別人，鵲噪鴉鳴初非外物。設或信根遲鈍，三搭不回，自是你宿無靈種，也怪雪岩不得。只如廣額屠兒在涅槃會上放下屠刀，道我是千佛一數；臨濟到高安灘上被大愚一點，便道黃蘗佛法無多子；德山於龍潭吹滅紙燭處見徹自己，便道窮諸玄辯若一毫置於太虗，竭世樞機似一滴投于巨壑。這幾箇漢子豈不是一得永得、一了便了底樣子？豈似你如今根浮脚淺，這裡經冬、那邊過夏，逴得些子殘羮餿飯築在肚皮裡，莫教打一箇噫氣，直得薰殺人點胸點肋，道我會禪會道，將一箇是字與非字頂在額角上，到處去印證那禪牀角頭老骨檛。似這般底有處著你在，參須實參、悟須實悟，閻羅大王不怕你多語，勸你後生晚進何不趂身強力壯，一往直前退步就己打教徹去，莫只悠悠漾漾者也之乎鑽入骨董袋裡去也，直須竪起生鐵脊梁向蒲團上一揑粉碎，直得虗空汗下、大地平沉始得。若也未有這箇力量，須是十二時中行坐時、著衣喫飯時、",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Deshan Xuanjian owns the retained deployment: Xueyan Zuqin's active quotation of Deshan's declaration in a first-person account of breakthrough."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0530a04",
+          "ToLb": "0530a26",
+          "Kwic": "進寺日，巨源朱護法率諸子姪請陞座。指薪大師白椎云：「法筵龍象眾，當觀第一義。」師遂喝云：「潔淨地上無端潑者一杓作麼？有不受塗污底，出眾相見。」問荅不錄乃拈拄杖卓一下云：「者箇廣大覺場，始從威音開闢已來，雖則權分諸道，要且尊顯一人，舉步也千華歷落，端坐也寶設輝煌，門風廓徹，威德森嚴，不用奪鼓攙旗，方外乾坤獨闢，那待環戈擁甲，域中日月斬新，直得景星慶雲若帝網交光，玉蕊瓊葩似金繩炫彩。到這裏說箇華藏莊嚴，剎那頓證毘盧境界，彈指圓成，猶是曲徇時機、各隨根器，而況鷺池鷲嶺展演詞鋒，海甸菴園葛藤露布，欲冀家聲烜赫、盛業徽猷，何殊雕砂當玉、刻糞為香？不見道：『窮諸玄辯，若一毫置于太虛；竭世樞機，似一滴投于巨壑。』果是箇經天緯地底手腳，何難施移山塞海底機關？直下不展功勳，便登寶所，豈不光前裕後、耀古騰今？即今時，至理彰，且的的相承一句又作麼生道？」復卓拄杖，云：「鶴有九皋難翥翼，馬無千里謾追風。」復舉：「前寶壽囑三聖請第二世寶壽開堂，壽纔陞座，三聖便推出一僧，壽便打，聖云：『恁麼為人，不但瞎卻者僧眼，瞎卻鎮州一城人眼去在。』壽便擲下拄杖，歸方丈。」師云：「三聖運寰中密令，寶壽縱閫外威權，驀地相逢，一叉一劄，直得天迴地轉、斗變星移，雖然縱奪可觀，未免語驚時聽，爭似徑山門下禮出尋常？我上方師叔既不推僧，",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Deshan Xuanjian owns the retained deployment: independent active quotation contrasting verbal display with direct arrival."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1397.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Deshan Xuanjian",
+        "Xueyan Zuqin",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Deshan dismisses exhausting every subtle argument as negligible beside the vast empty expanse. Deshan Xuanjian uses the expression through Xueyan Zuqin's active quotation of Deshan's declaration in a first-person account of breakthrough. Deshan Xuanjian independently deploys it through independent active quotation contrasting verbal display with direct arrival."
+    }
+  ]
+}

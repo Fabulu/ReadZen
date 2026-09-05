@@ -1,0 +1,71 @@
+{
+  "Id": "t_609b820f65ed",
+  "SourceTerm": "掀翻地軸",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heave up and overturn the earth's axis",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "overturn the earth's axis",
+        "world-upending action"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the earth-axis image and its paired heaven-gate wording. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0125a15",
+          "ToLb": "0125b07",
+          "Kwic": "今上皇帝聖壽無盡、聖福無盡、聖德無盡，乃至聖量聖明悉皆無盡。十方誦有道之君，萬邦樂無為之化，遍虛空騰瑞彩，盡大地起祥雲，王法即佛法，天垂寶蓋覆如來，佛法即王法，地涌優曇繞帝座，永擊玉樓鐘，長輝金殿燭，受用萬年歡，自然無量福。然則化外衲僧又如何贊助？歲首舉揚清淨法，願君歡喜悟禪宗。」下座。解制上堂，問：「獅子沖然而來，象王昂然不接，正當互換，還有賓主也無？」師打云：「且道是賓是主？」進云：「一點水墨，兩處成龍。」師云：「且莫錯解。」進云：「牙爪未長昂卓立，萬獸之中我獨尊。」師云：「畜生畜生。」進云：「恁麼則捩轉天關、掀翻地軸。」師云：「還不知羞。」乃云：「俊鷂不打籬邊兔，猛虎豈食伏屍肉，衲僧氣概合如斯，纔見擎頭又帶角，推倒須彌山，踢翻蒼龍窟，無意氣時增意氣，沒面目處真面目，重重關鎖應時開，世界無邊任往復。只如去來自在一句又作麼生道？一千年鶴遠天歸，十萬里鵬從海出。」豎拂子云：「雖然如是，更須照顧縵天網子始得，還有飛得出者麼？」眾纔擬，即以拄杖打散。佛誕日上堂，「世尊降生，碓嘴生花，雲門打殺，烏龜向火，今日請山僧上堂，鋸解稱鎚此三轉語，有一轉能縱能奪、能殺能活，若人簡點得出，許向毘盧頂上行，卻來化佛舌頭坐。其或不然，五十年來老古錐，時中",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: direct exchange."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0376c04",
+          "ToLb": "0376c26",
+          "Kwic": "。問：「萬法歸一，一歸何處？」師云：「伸手原在縮手裏。」僧擬議，師喝退，乃云：「新秋節令，古佛家風，北地風高，炎氛早退，西令肅，雲物先涼，山光凝無限之清，月色吐十分之白，寒蛩聲切切，箇中消息全彰，何異春宵月下之蛙？白荳花濛濛，徹底風光漏洩，豈惟深谷巖前之桂？是以，金風瑟瑟，千山落葉悉歸根；玉露溶溶，萬木閒枝皆脫落。打破山窗岑寂，喚回白晝昏迷，火雲淨而白雲飛，蟬聲斷而鴈聲起，頭頭皆玅，物物俱靈，更說甚麼？羅漢院三日一上堂，王太傅二時相助發，不見道：清機歷掌，衲子生涯；碧落青霄，道人活計。然雖如是，到者裏更須撥轉天關、掀翻地軸，撒手無依，別行一路。若也便爾著倒，正是龍蟠死水、鶴入銀籠。秖如透脫一路、不涉廉纖，畢竟又作麼生吐露？千聖不知何處去？倚天長劍逼人寒。」秉拂。「雲門山頂，雨驟雲臻；大覺堂前，龍驤鳳翥。釋迦老子舌覆三千，達磨大師身該一切。若也便恁麼去，紀信登九龍之輦；若也不恁麼去，項羽失千里之騅。直得二途不涉，中道不存，便見掌擎日月，背負須彌。所以道：取不得，舍不得，不可得中恁麼得。恁麼得，諸佛分中不增一絲頭，眾生分上不減一絲頭。如是，則三家村裏臭猢猻甚生標格，十字街頭廖鬍子脫體風流，何況現前諸仁，人人頂門上飛大寶光，箇箇腳跟下縱橫",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: independent hall deployment."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J37/J37nB386.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Yuan'an Liao"
+      ],
+      "RelatedTerms": [
+        "隨波逐浪"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A forceful world-upending action used to appraise or demand unrestricted Chan capacity. Feiyin Tongrong uses the expression through direct exchange. Yuan'an Feng independently deploys it through independent hall deployment."
+    }
+  ]
+}

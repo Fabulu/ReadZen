@@ -1,0 +1,101 @@
+{
+  "Id": "t_cdb08a1332aa",
+  "SourceTerm": "赤肉團上壁立千仞",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "on the lump of red flesh, a thousand-fathom cliff stands",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "red flesh sheer cliff",
+        "thousand-fathom cliff on the body"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep 赤肉團 concrete and the cliff image intact. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0876c02",
+          "ToLb": "0876c29",
+          "Kwic": "將得箇無文印子來。把二祖面門。一印印破。二祖得此印。不移易一絲頭。把三祖面門印破。自後一人傳虛。萬人傳實。遞相印授。直至江西馬祖。馬祖得此印於南嶽和尚。便道。自從胡亂後三十年。不曾少鹽醬。師喝一喝云。印文生也。百丈大智禪師得此印於馬祖。翻身跳入五百生前野狐窟裏。頭出頭沒。直至如今不肯回。黃檗和尚得此印於百丈。便道。汝等諸人。盡是噇酒糟漢。恁麼行脚。何處有今日。還知大唐國裏無禪師麼。臨濟和尚得此印於黃檗。便解。到處作白拈賊。至今累及兒孫。興化和尚得此印於臨濟。便解。向雲居處權借一問以為影草。南院和尚得此印於興化。直得赤肉團上壁立千仞。有僧問。古殿重興時如何。曰明堂瓦插簷。僧曰。恁麼則莊嚴畢備也。曰斬草蛇頭落。風穴和尚得此印於南院。則曰。夫參學眼目。直須大用現前。勿自拘於小節。設使言前薦得。猶是滯殼迷封。縱然句下精通。未免觸塗狂見。汝等諸人。應是從前學解明昧兩岐。如今為汝一時掃却。直須箇箇如師子兒。吒髿地哮吼一聲壁立千仞。誰敢正眼覻著。覻著則瞎却渠眼。有問。語默涉離微。如何通不犯。則曰。長憶江南三月裏。鷓鴣啼處百華香。首山和尚得此印於風穴。便拈起竹篦問學人曰。喚作竹篦則觸。不喚作竹篦則背。有問。如何是佛。則曰。新婦騎驢阿家牽。汾陽和尚得此印於首",
+          "MasterName": "Nanyuan Huiyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Nanyuan Huiyong owns the retained deployment: case declaration actively handled by Dahui. Dahui Zonggao actively raises and handles the older answer."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0360a09",
+          "ToLb": "0360a11",
+          "Kwic": "臨濟旨舉南院上堂赤肉團上壁立千仞僧問赤肉團上壁立",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. The unnamed questioning monk voices the headword-bearing question; Nanyuan Huiyong is the named respondent. Tianyin Yuanxiu preserves the exchange as later raiser.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "unnamed monk questioner",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "僧問 assigns the headword-bearing question to the unnamed monk; the named master responds afterward.",
+            "ReviewedBy": "Batch47 systemic generator repair",
+            "ReviewedUtc": "2026-07-29T14:00:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "L/L154/L154n1639.xml"
+      ],
+      "RelatedMasters": [
+        "Nanyuan Huiyong",
+        "Dahui Zonggao",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [
+        "壁立千仞"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Nanyuan's declaration makes the living body the site of an unapproachable sheer face before the questioning monk overturns the seat. Nanyuan Huiyong uses the expression through case declaration actively handled by Dahui. Nanyuan Huiyong independently deploys it through case declaration actively handled by Tianyin."
+    }
+  ]
+}

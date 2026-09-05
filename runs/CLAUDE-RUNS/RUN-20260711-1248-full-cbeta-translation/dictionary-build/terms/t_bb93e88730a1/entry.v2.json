@@ -1,0 +1,71 @@
+{
+  "Id": "t_bb93e88730a1",
+  "SourceTerm": "輥作一團",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "roll together into one lump",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "roll together into one lump",
+        "make an undifferentiated mass"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Name locally what is rolled together; this need not praise unity. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0853a04",
+          "ToLb": "0853b10",
+          "Kwic": "心心非心非心。心而非心非心而心。提起頭拽不斷。放下手卒難尋。此等葛藤自二千年外起乎西土。其間四七二三。以至千七百箇鈍漢萬種施為勦除不盡。牽枝引蔓直到于今。幻出煆聖鎔凡爐韛。化成吟風嘯月叢林。俄二見之蜂起。資異證以交侵。發藥既眾受病尤深。而况雜邪外之毒。無處著膏肓之鍼。今日且作死馬醫去也。良久云。機前三點活。言外一鉤沉。其義解者謂。既是言語道斷。此一篇銘非剩而何。若曰非去來今。乃知祖師面目見在。闢曰。且莫謬加穿鑿取笑傍觀。殊不知理本圓融道無離在。言語道斷。廣長舌其說熾然。非去來今。淨法身恒常寂爾。毒藥醍醐攪成一器。黃金瓦礫輥作一團。用處無差拈來有準。一踏到底者。不留眹跡。三搭不回底。謾自摶量。誠一代之聖師乃百世之標準。敲出鳳凰髓。資異饌於禪悅之門。抽出師子筋。絕餘響於至靈之府。雖然且道。祖師還肯受此等茶飯也無。𭣣起葛藤一任貶剝。偈曰。熱椀晝鳴󷘓古調瞎驢夜吼換新腔語言道斷道不斷一任傍人錯較量非文非字。無佛無心。拏空塞空。以毒攻毒。璨大師欵案既在。少林宗聲價不衰。何妨讀作信心銘。切忌記他元字脚。黑漆桶攔空撲碎。玉麒麟就地勒回。揣盡古佛家私。瞎却當人正眼。且道靈驗在那一句。天目中峯和尚廣錄卷第十二之下校訛",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: direct criticism."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0176c14",
+          "ToLb": "0177a07",
+          "Kwic": "于擔荷處便行。白雲端因楊岐失笑，會得個中便了，放手撲到萬仞崖底，有時擲下拄杖，有時放過一著。五祖演不會興化古廟裏話，因白雲一叱便解轉磨，既得出身白汗，大展下載清風。昭覺勤盡五祖機用邊事，繇演師不肯，及再領柏子復證雞鳴，雖會一串穿卻，還合頂𩕳添眼。虎丘隆至見不及處舉拳，解道竹密不妨流水過，終成睡虎。應菴華舉放泥盤處大笑，解道禹力不到處河聲流向西，方見真獅。華藏傑以拄杖兩卓一拋，道三十年後已全面目。破菴先于不心不佛物處，將拄杖一卓略見一斑。無準範道三人證龜成鱉，真不欠少。雪巖欽道三拳三拜是同，許會三玄。高峰妙以龍頭蛇尾輥作一團，中峰本于脫衣一頓許你半個。千嵒長見鼠食貓飯，碗破矣而碎甓。萬峰蔚見淨瓶踢倒，鈍漢已而三十。寶藏持承三要印來，爪牙不少。東明旵賴重新悟得，到底無遺。寶峰瑄語若流雲，出身有路。天奇瑞當賓不讓，去有來繇。無聞聰深水裏出頭，石中迸火。笑巖寶操履中兼用，水裡有龍。幻有傳一點燈花，虛空爆破。金粟悟一棒到底，不提主賓。三峰藏挽臨濟七百年之大法，頭尾宛然，水雲中飛騰隱顯，何處摸索？臨濟一宗，至汾陽慈明而益大起。明出楊岐，自虎丘至雪嵒、高峰、千嵒、萬峰，以及笑嵒之後，法道復當再振，已正敘其脈矣。其于石霜之下，出有黃龍南公者，初未悟",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: independent criticism."
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [
+        "打成一片"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A verdict that languages, distinctions, or discriminating consciousness have been mechanically rolled into an undifferentiated mass. Zhongfeng Mingben uses the expression through direct criticism. Sanfeng Hancang independently deploys it through independent criticism."
+    }
+  ]
+}

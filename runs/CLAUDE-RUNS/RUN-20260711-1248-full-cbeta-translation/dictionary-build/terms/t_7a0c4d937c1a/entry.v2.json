@@ -1,0 +1,78 @@
+{
+  "Id": "t_7a0c4d937c1a",
+  "SourceTerm": "晝明夜暗",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "day is bright; night is dark",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "day bright night dark",
+        "daylight and night darkness"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exclude incidental narrative descriptions of lighting. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0897a19",
+          "ToLb": "0898a03",
+          "Kwic": "說話竈婦乳兒皆能言之。若曰佛身。不亦遠矣。然普現羣生前隨緣靡不周。且置之勿論。又指何物為菩提座耶。或謂佛身充滿此座亦充滿。無二無二分無別無斷故。若曰菩提座上別有佛身。則不可得為恒處也。然既充滿。且無常生死有漏世間。又向甚麼處安著。或者引永嘉謂夢裏明明有六趣覺後空空無大千。既覺矣。謂佛身謂菩提座。亦無地可寄。又何言說而非寐語哉。學者未能真誠夢覺。雖曰讚佛乃謗佛耳。宜審諸宜審諸。盡十方世界是清淨法身當體。如千日並照。了無纖毫障蔽。無端為一點無明當面覆却。以故仰而觀之之謂天。俯而視之之謂地。廣而窺之之謂法界。以至山高水深晝明夜暗風動塵起雲騰鳥飛。與夫披剝萬象剖析精明。欲覔所謂法身則空然無有也。由是引起分別。堅執妄情喚空作色不得。指明為暗不得。視親作踈不得。轉憎為愛不得。要識無明面目麼。只這箇轉不得底不欠一毫。忽有箇強主張者道。我但見空不作空。見色不作色。惟以一清淨法身觀之。是亦是矣。奈何謂空謂色之見卒未能忘。又作清淨法身之能觀所觀初未曾冺須知只箇未忘未冺底。政是根本無明。直下絞瀝不乾洗滌未淨。若欲頭頭上明物物上顯。誠不啻隔靴抓癢也。如圓覺謂。此無明者非實有體。如夢中人夢時非無及至於醒了無所得。與麼說來。無明豈有實體定性可得。乃全體是清淨法",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: direct exposition among ordinary facts."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0987c22",
+          "ToLb": "0988a21",
+          "Kwic": "是遮羞布。」溈山與仰山摘茶。頌曰：「百花三月上林開，花裏相逢醉一杯。彼此含情說不盡，塞鴻飛去又飛來。」趙州因僧辭，州曰：「甚處去？」曰：「諸方學佛法去。」州豎起拂子曰：「有佛處不得住，無佛處急走過。三千里外，逢人不得錯舉。」曰：「與麼則不去也。」州曰：「摘楊花，摘楊花。」頌曰：「桃花開遍柳成陰，誤我春光轉憶深。不識西泠舊知己，畫船幾箇在湖心。」傅大士頂冠見武帝因緣。頌曰：「一無成，三不就，面對君王，事難遮覆。笑端從此落人間，得到驢年也依舊。」僧問趙州曰：「承聞和尚親見南泉，是否？」州曰：「鎮州出大蘿蔔頭。」頌曰：「晝明夜暗人人曉，觸著舌頭胡亂掃。鎮州蘿蔔太誇張，何曾見得南泉老。」鴈過長空，影沉寒水話。頌曰：「一聲秋鴈過長空，驚起憨眠簑笠翁。目送殘雲歸遠岫，高飛玉兔上梧桐。」僧問葉縣：「如何是學人密用心處？」縣曰：「鬧市輥毬子。」曰：「意旨如何？」縣曰：「普請眾人看。」頌曰：「鬧市叢中輥繡毬，紅塵不顧撲人頭。熱時何必真甘露，止得渴來即便休。」僧問正法眼，密菴答破沙盆。頌曰：「正法眼曾無此語，破沙盆豈有斯言？一生酖酒難消恨，踏月穿花過遠村。」唐太宗喫蛤蜊因緣。頌曰：「已拌客夢衝泥水，誤逐人情上御筵。契合君王雖寵冠，難逃沸釜一番煎。」陸大",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Fan owns the retained deployment: direct hall treatment as a ready-made saying.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Zhe'an Fan",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Zhe'an Fan is explicitly identified by the retained source context and direct hall treatment as a ready-made saying.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A ready-made statement of ordinary alternation, deployed beside heat and cold as what is manifest in its course. Zhongfeng Mingben lists day-bright/night-dark among ordinary manifest facts. Zhe'an Jingfan independently calls it a ready-made saying alongside heat and cold."
+    }
+  ]
+}

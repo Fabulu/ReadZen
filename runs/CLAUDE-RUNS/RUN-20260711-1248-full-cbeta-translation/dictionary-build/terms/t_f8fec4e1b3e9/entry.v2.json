@@ -1,0 +1,106 @@
+{
+  "Id": "t_f8fec4e1b3e9",
+  "SourceTerm": "左眼半斤",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the left eye weighs half a jin",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "left eye half a jin",
+        "left eye half a catty"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the right-eye completion and equal-weight judgment; this is not anatomical diagnosis. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0925a03",
+          "ToLb": "0925b06",
+          "Kwic": "如何師云生鐵鑄就進云丹霞又問居士在否靈照提籃便行又作麼生師云從來無異相不用更安排進云龐居士有通天作略靈照女具跨海神機未審丹霞甚麼處與居士相見師云你眼在甚麼處僧禮拜僧問和尚適來道靴裏動指頭能有幾人知某甲道動容揚古路不墮悄然機更有末後一句未審分付阿誰師云分付箇無鼻孔阿師進云前釋迦已往後彌勒未來大唐國裏阿那箇不是英靈底人喚甚麼作無鼻孔阿師師云逢人但恁麼舉進云某甲今日移花兼蝶至買石得雲饒師云果然靴裏動指頭進云只如大悲菩薩通身手眼於一切處隨眾生心而為說法豈不是了事漢及至將錢買餬餅放下手為甚麼却是謾頭師云誰知他這箇消息進云和尚左眼半斤右眼八兩師云孟八郎漢又恁麼去也進云相識滿天下知心能幾人師云收僧禮拜。師乃云若論知心底事識不可識智莫能知為甚麼世尊三昧迦葉得知若向這裏撥得一線路方知高高山頂立不露頂深深海底行不濕脚因甚麼有日用而不知者所以道具足凡夫法凡夫不知具足聖人法聖人不會聖人若會却是凡夫凡夫若知即是聖人此語一理二義若揀得出止宿草庵且居門外更須知有衲僧分上事且道衲僧分上有甚麼長處若向這裏轉得身去方可以眼處作耳處佛事耳處作鼻處佛事鼻處作舌處佛事舌處作身處佛事自處作意處佛事於意界中作世出世間無量無邊廣大佛事只如去却眼耳鼻舌身意滅却色聲香味觸法又喚甚麼作",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. The unnamed questioning monk is the explicit speaker of the retained headword-bearing appraisal; Dahui Zonggao is the named respondent and later expositor.",
+          "ActorAttribution": {
+            "Status": "reviewed-unnamed",
+            "Kind": "questioning monk",
+            "ActorLabel": "the unnamed questioning monk",
+            "ActorRole": "questioner",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "僧問/進云 assigns the headword-bearing appraisal to the unnamed monk; Dahui responds and later expounds it.",
+            "ReviewedBy": "Batch50 systemic repair",
+            "ReviewedUtc": "2026-07-29T16:30:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0252b23",
+          "ToLb": "0252c20",
+          "Kwic": "瞥地。」山又休去。師拈云：「一處通，千處萬處通。一處會，千處會，萬處會。無量無邊香水海，三千大千華藏界。德山老人嘴盧都，大似腳根未點地。雖然，據我勘，也是囫圇吞棗，廓侍者不識用處，已自百拶碎了。諸方持諭，謂之蝦跳不出斗。」頌曰：「一聲雷雨振前山，萬象森羅盡轉顏，不語語時真語語，三賢十聖那能攀？」僧問趙州：「狗子有佛性也無？」州云：「有。」僧云：「既有，為什麼卻撞入這箇皮袋？」州云：「為他知而故犯。」又有僧問：「狗子還有佛性也無？」州云：「無。」僧云：「一切眾生皆有佛性，狗子為什麼卻無？」州云：「為伊有業識在。」師拈云：「左眼半斤，右眼八兩。千山萬山春色濃，萬山千山秋氣爽。趙州古佛落有無，大似抓頭不是癢。只如達磨面壁、神光斷臂，此豈不是狗子有佛性；及乎返西天，禮三拜，汝得吾髓，此豈不是狗子無佛性？西來祖意無別說。」頌曰：「自家冷煖自家知，涉水登山更是誰？才子意高心膽大，筆頭點墨振瑤池。」雪峰示眾云：「南山有一條鱉鼻蛇，汝等諸人切須好看。」長慶云：「今日堂中，大有人喪身失命。」僧舉似玄沙。沙云：「須是稜兄始得。雖然如是，我即不與麼。」僧云：「和尚作麼生？」沙云：「用南山作麼？」雲門以拄杖攛向前作怕勢。師拈云：「八面狂風，五湖波浪。飄飄落落兮也是",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "action-performer",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting's Sayings. The recorder narrates Guting Shanjian performing the case action and supplying the following appraisal.",
+          "ActorAttribution": {
+            "Status": "narrated",
+            "Kind": "case narration",
+            "ActorLabel": "the recorder",
+            "ActorRole": "compiler",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "師拈 narrates Guting Shanjian performing the case action; the recorder carries the retained narrative clause rather than assigning it to an utterer field.",
+            "ReviewedBy": "Batch50 final-two repair",
+            "ReviewedUtc": "2026-07-29T12:45:17Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J25/J25nB163.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Guting Shanjian"
+      ],
+      "RelatedTerms": [
+        "左眼半斤、右眼八兩"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The first half of 左眼半斤、右眼八兩: differently worded measures that come to equal weight, with neither addition nor subtraction permitted. An unnamed monk applies the half-jin/eight-liang appraisal to Dahui, who then expounds it. Guting Shanjian independently raises the same balanced formula in appraising Zhaozhou's dog case."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": "t_60b39ad08584",
+  "SourceTerm": "遺我徑寸璧",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "he presented me with a one-inch jade disk",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "one-inch jade disk presented to me",
+        "Xuedou's jade-disk line"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not assign symbolic content to the disk. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0702a15",
+          "ToLb": "0702b07",
+          "Kwic": "益。先憶趙州關。同于祕丞賦瀑泉同于祕丞賦瀑泉大禹不知鑿。來源亦自成。色應隣眾白。聲合讓孤清。遠勢曾吞海。飛流未噴鯨。靈槎如可泛。天派問歸程。送簡能禪者歸仙都送簡能禪者歸仙都荷策下丹嶂。紛紛雪正飛。浮生誰未到。舊國自重歸。雲背猿聲斷。天遙鶚影微。蓮城古風月。又得振清機。天竺送僧天竺送僧雪霽蓮峯頂。孤禪起石床。向時機自絕。異域路空長。啼狖衝寒影。歸鴻見斷行。後期無定跡。煙水共茫茫。寄石祕校寄石祕校重林冥坐久。引望復遲遲。煩暑未消日。涼風來幾時。天雲飛積火。巖溜散垂絲。欲擬相尋去。浮生已共知。因事示眾因事示眾客從遠方來。遺我徑寸璧。中有四箇字。字字無人識。清涵鯨海寬。冷射蟾輪窄。今朝呈似看。請道末後句。靜而善應靜而善應二首",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: direct four-line presentation."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0693c24",
+          "ToLb": "0694a05",
+          "Kwic": "必重拈出。師云：二大老一人說易，一人說難，未免見有偏枯。高峰則不然，客從遠方來，遺我徑寸璧，中有四箇字，字字無平仄。頌古頌古世尊在靈山會上，拈一枝花，瞬青蓮目，普視大眾。",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: his own variant presentation (高峰則不然), explicitly rewriting Xuedou Chongxian's line."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "X/X70/X70n1400.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Gaofeng Yuanmiao"
+      ],
+      "RelatedTerms": [
+        "拋磚引玉"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The second line of Xuedou's four-line presentation about a distant guest and a tiny inscribed jade disk. Xuedou Chongxian uses the expression through direct four-line presentation. Gaofeng Yuanmiao deploys it through his own variant presentation (字字無平仄), explicitly rewriting Xuedou Chongxian's line."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Id": "t_4a0d0ea4c61f",
+  "SourceTerm": "趨向真如亦是邪",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heading toward true suchness is also astray",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "heading toward true suchness is also astray",
+        "pursuing suchness is still deviant"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the paired line about trying to eliminate affliction as a neighboring verse line, not part of this headword. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0451a13",
+          "ToLb": "0451b05",
+          "Kwic": "在。」復卓一下云：「諸人若向者裏會去，山僧便合掌讚歎。敢問諸人：前一卓、後一卓，本無差別，為甚肯一不肯一？還有人知得落處麼？若也知得，非惟山僧被你看破，三世諸佛、歷代祖師心肝五臟總被你一時覷透。如其未悉端倪，待正月十五日與諸人道破。」上堂。「懸崖撒手，須是其人。絕後再甦，欺君不得。若非夙具靈根，那能當下領略？不見？張拙秀才參石霜，霜問：『秀才尊姓？』拙云：『姓張名拙。』霜云：『箇中覓箇巧字尚不可得，拙自何來？』拙於言下大悟，即說偈云：『光明寂照遍河沙，凡聖含靈共我家，一念不生全體現，六根纔動被雲遮。斷除妄想重增病，趨向真如亦是邪，隨順世緣無罣礙，涅槃生死等空華。』張拙秀才打開自家寶藏七珍八寶，用之不竭，石霜手段非惟點鐵成金，亦使轉凡成聖，可謂伯牙與子期，不是閒相識。」貳公吳孝廉入山，請上堂。僧問：「臨濟重光即不問，禹門接續事如何？」師云：「波浪滔天。」進云：「昔日世尊以佛法付囑國王、大臣，今日和尚恩歸何地？」師云：「上大人，丘乙己。」進云：「不昧靈山親付囑，故能此世作金湯。」師云：「可知禮也。」乃云：「秘密妙嚴，聖凡莫測。圓融無際，殺活自繇。不滯一隅，隨方得妙。所以有時把住要關，萬別千差齊截斷，有時群機普應，三草二木悉沾恩。直得一切國土中",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Zhang Zhuo owns the retained deployment: complete active quotation of Zhang Zhuo's realization verse and its eliciting exchange.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted verse author",
+            "ActorLabel": "Zhang Zhuo",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Zhang Zhuo is explicitly identified by the retained source context and complete active quotation of Zhang Zhuo's realization verse and its eliciting exchange.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X72/X72n1443.xml",
+          "FromLb": "0748a15",
+          "ToLb": "0748b18",
+          "Kwic": "一步不得。士云：然雖如是，壯力猶存，他得底人相見自然恰好，所謂滿口含冰，不曾道著一箇水字。不似如今人自己尚不知落處，只管記得滿肚皮言句，徒逞快利，有什麼交涉？雪竇謂之隨流失源。你道他病在什麼處？病在不以此為念，祇圖好看。若是真為道底人，便是善知識肯了，我自己不曾到大休歇田地亦自不肯。大眾！且看自己於聲色關頭、逆順境緣、一切時、一切事，果能一念不生麼？心如木石麼？如人飲水，冷暖自知，不可自瞞，即瞞得亦終不干別人事。我方纔舉斷除煩惱重增病，且道煩惱為在內？為在外？為在中間？若求煩惱不可得，更欲去除他，豈不多了一翻手脚？趨向真如亦是邪，真如作麼生面目？汝擬作麼生趨向他？諸上座！汝纔擬即不是了也，者箇田地從無始來至於今日，更由今日盡未來際，還曾動著也無？何不直下悟去，更自直捷喫許多辛苦作麼？問答問答僧問：現前且道承誰恩力？師云：上座也解恁麼問。進云：建化門庭且置，未萌以前道將一句來。師云：即今是什麼？進云：兔角杖子為什麼能穿電影？師云：大慈悲菩薩。僧問：倩女離魂，那個是真底？師云：大眾！看者僧也解恁麼問。僧問：大事未明時如何？師云：一二三。明後如何？師云：四五六。靈泌問：蓮華未出水時如何？師云：巖下煑茶燒樹葉。出水後如何？師云：㵎邊流水散桃花。僧",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Zhang Zhuo owns the retained deployment: independent quotation used to demand grounded rather than verbally fluent handling.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "quoted verse author",
+            "ActorLabel": "Zhang Zhuo",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Zhang Zhuo is explicitly identified by the retained source context and independent quotation used to demand grounded rather than verbally fluent handling.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB182.xml",
+        "X/X72/X72n1443.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Zhang Zhuo's verse rejects even movement toward suchness as a deviation created by pursuit. Zhang Zhuo uses the expression through complete active quotation of Zhang Zhuo's realization verse and its eliciting exchange. Zhang Zhuo independently deploys it through independent quotation used to demand grounded rather than verbally fluent handling."
+    }
+  ]
+}

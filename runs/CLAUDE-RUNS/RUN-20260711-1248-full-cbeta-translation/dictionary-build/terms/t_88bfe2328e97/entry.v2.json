@@ -1,0 +1,91 @@
+{
+  "Id": "t_88bfe2328e97",
+  "SourceTerm": "雙明亦雙暗",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "both bright and both dark",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "both bright and both dark"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Provisional mixed deployment: Dahui preserves Luoshan's inherited case answer, while Wanfeng Tongzhen later redeploys the phrase as a comment on another raised exchange. Keep separate from 同生亦同死; no lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0892c15",
+          "ToLb": "0892c24",
+          "Kwic": "羅山遂喚大師。招慶應諾。山云。雙明亦雙暗。慶便作禮而去。",
+          "MasterName": "Luoshan Daoxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Luoshan Daoxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-quoter"
+              ]
+            },
+            {
+              "MasterName": "Zhaoqing Daokuang",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Luoshan Daoxian owns the retained deployment: Dahui's active quotation of Luoshan's answer."
+        },
+        {
+          "RelPath": "J/J39/J39nB441.xml",
+          "FromLb": "0299a23",
+          "ToLb": "0299b14",
+          "Kwic": "『一切智智清淨，無二無二分，無別無斷故，某甲只恁麼會。』山高聲云：『抱取貓兒來。』僧無語，山便喝出。」師云：「賊身已露。」又云：「險。」舉：「僧問巴掌和尚：『如何是體？』掌云：『坐下。』『如何是用？』掌云：『起去。』『體用雙彰時如何？』掌云：『老僧無丈人。』」師云：「自攜瓶去沽村酒，卻著衫來作主人。」舉：「慶忠問明行者：『甚處去來？』者云：『村中來。』忠豎起拳云：『還有者箇麼？』者云：『有。』忠云：『因甚道有？』者云：『恰。』者又問：『和尚者裏還有者箇麼？』忠云：『無。』者云：『因甚道無？』忠云：『恰。』」師云：「雙明亦雙暗。」舉：「五祖演上堂云：『庭開金菊宿根生，來鴈新聞一兩聲，昨夜七峰牽老興，千思萬想到天明。』」師云：「四句要撿一句來作引子也難。」良久，云：「許多人虛度時光。」舉：「五祖上堂云：『子丑寅卯，辰巳午未，申酉戌亥，終而復始，有厭有愛。畢竟如何？但管熟念。』」師云：「喫官飯，屙私屎。」舉：「明覺云：『傾湫倒嶽，尋常之用，不涉泥水，道將一句來。』自代云：『三千里外。』」師云：「爭免得過？」舉：「三角示眾云：『若論此事，眨上眉毛早是蹉過。』」師云：「請且解下多年曆日。」舉：「黃檗上堂云：『汝等諸人盡是噇酒糟漢，恁麼行腳，何處",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB441.xml). Recorded Sayings of Chan Master Tongzhen of Wanfeng. Wanfeng Tongzhen owns the retained deployment: direct comment after a raised exchange.",
+          "ActorAttribution": {
+            "Status": "identified-unlinked-master",
+            "Kind": "full-case exact-turn adjudication",
+            "ActorLabel": "Wanfeng Tongzhen",
+            "ActorRole": "utterer",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Wanfeng Tongzhen is explicitly identified by the retained source context and direct comment after a raised exchange.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J39/J39nB441.xml"
+      ],
+      "RelatedMasters": [
+        "Luoshan Daoxian",
+        "Dahui Zonggao",
+        "Zhaoqing Daokuang"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Luoshan's answer to the force of Yantou's paired 'so / not so' wording, later quoted and redeployed as a case phrase. Luoshan Daoxian uses the expression through Dahui's active quotation of Luoshan's answer. Wanfeng Tongzhen independently deploys it through direct comment after a raised exchange."
+    }
+  ]
+}

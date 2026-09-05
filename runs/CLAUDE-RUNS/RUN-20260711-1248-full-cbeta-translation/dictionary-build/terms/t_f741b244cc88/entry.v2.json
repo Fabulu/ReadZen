@@ -1,0 +1,69 @@
+{
+  "Id": "t_f741b244cc88",
+  "SourceTerm": "昏沉散亂",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "dullness and distraction",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "dullness and distraction",
+        "torpor and scattering"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Preserve the paired contrast and do not imply that deadened suppression is its cure. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0711b02",
+          "ToLb": "0712a05",
+          "Kwic": "路順心禪菴示眾。洞元道者。從他教來信吾道之心甚篤。遽染疾而亡。守一愚弘古道亦相繼長往。老幻不勝哀悼。其所以哀者。不哀其早亡。寔哀其有志于道而未及與道相應乃賫志長往。今何所之耶。此一著子在諸人分上了不相間。須知此三人既往底消息。便是諸人現在底消息。諸人現在底受用。即是三人既往底受用。直下論生不得論死不得。舉心動念無死時無生時。記得古人有問云。亡僧遷化向甚麼處去。這一問最親切。若知得亡僧落處。便是知得自己落處。有等說脫空禪底。見與麼說便道。自性本來不生滅。有甚麼來處與去處可以指陳。說此話底喫鐵棒有分。儞每日向蒲團上。與昏沉散亂打作一團。與是非憎愛馳逐無間。與喜怒哀樂起滅不停。與生老病死首尾相續。遇順意事便乃掀眉。遇違情事應時蹙頞。這裏說得無生死無去來底道理麼。所以黃面老爺於二千年外便乃大驚小怪。目之為大事因緣。今日諸人眼眨眨地。親見他三人如是為道如是同住如是受病如是入滅。即今如是無影跡可見。無行處可尋。既不曾與工夫相應。决定未到諸佛祖大涅槃城。既未到涅槃。又不可遽言箇無遷無變底道理。既隨遷變則即今遷向何法界中。變作甚麼頭面。便從這裏不相知處。奮起一片猛利决定不退轉身心。向自己躬下。提起箇所叅底話頭。孜孜而叅。密密而究。遺寒遺暑忘寢忘飡。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: master-authored rejection of deadened suppression."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0613b21",
+          "ToLb": "0613c19",
+          "Kwic": "中去也。所以道：既隆釋種，須紹門風。諦審先宗是何標格，須是發大勇猛、立大志願，不顧危亡，一往直前，不問是生是死、是無明是煩惱、是真如是般若、是昏沉是散亂，一斬斬為兩段，赤骨律地跳將出來，大洋海裡翻身、須彌頂上著脚，然後單單提起無上佛祖正印，盡百億山河大地、百億往古來今、若聖若凡、若草若木，一印印定，毫髮無餘。竪起拂子云：看看，印文露也，眼辦手親，一逴逴得，一任顛來倒去、橫搭竪搭、是神是鬼、是邪是正，悉與面門一搭，教伊轉身無路、回避無門，喚作海印三昧，亦謂之海印發光。正恁麼時，不見有生死，亦復離涅槃；不見有無明煩惱、昏沉散亂，亦復離真如解脫、般若菩提。還信得及麼？已得入手，不妨拈出對眾一搭，印破三世佛祖面門，也要燈籠露柱相共證明。有麼？有麼？如無，山僧不免借永嘉大師見六祖底拄杖畫一畫，云：畫開錦縫，拈出正印，普示諸人去也。卓一下。三要印開朱點窄，未容擬議主賓分。告香普說。光陰易老，果是無常迅速，夢幻不堅，豈非生死事大？有力量漢一翻翻轉，直得大地平沉，乾坤獨露，萬里長空，纖塵不立，森羅萬象，俯仰折旋，全體是箇大光明藏。佛與眾生同一受用，絲毫不異，只為情生智隔，想變體殊，四聖六凡輪迴三界之內，善惡趣中無由出離，遂勞我先聖脫珍御服，著弊垢衣",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: direct hall question turning the pair."
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "X/X70/X70n1397.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Xueyan Zuqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A stable paired diagnosis of opposed disturbances: sinking torpor and scattered agitation. Zhongfeng Mingben names the pair while rejecting deadened suppression as its cure. Xueyan Zuqin independently asks whether both disturbances are themselves native scenery."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Id": "t_86eb9d035f12",
+  "SourceTerm": "弄泥團漢有甚麼限",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "there is no end to fellows playing with mud balls",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "there is no end to fellows playing with mud balls",
+        "there is no end to mud-ball players"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The question condemns contrived performers as inexhaustible; it is not a literal complaint about pottery. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0043c06",
+          "ToLb": "0043c30",
+          "Kwic": "更問甚麼浮盃？』僧曰：『不識和尚如何舉？』老僧打曰：『可悲！可痛！』」遵布衲浴佛時，藥山曰：「這箇從你浴，還浴得那箇麼？」遵曰：「把將那箇來。」藥山休去。師云：「好箇休去。藥山豈不能似今時粗浮暗短之流，宗旨不分、血脈不貫，滿腔是生滅心、勝負見，問箇把將那箇來，便打便喝，掀翻浴盆，亂統一上，好不知羞。我道：藥山若不休去，提將來撇向東洋大海裏，絕教他浴箇像心像意，待彌勒下生，我還要他把將那箇來。」藥山因僧問：「平田淺草，麈鹿成群，如何射得麈中主？」山曰：「看箭！」僧放身便倒。山曰：「侍者！拖出這死漢！」僧便走。山曰：「弄泥團漢有甚麼限？」師云：「這僧置箇問頭也不易，及乎發箭，原來是箇死鹿。或幸而他處飲甘露而再生，不失其為威音王如來始祖。」復望空作彎弓式。藥山因僧問：「學人有疑，請師決。」山曰：「待上堂時來，與汝決。」至晚，上堂，眾集，山曰：「今日決疑上座在甚麼處？」其僧出眾而立，山下禪床把住曰：「大眾！這僧有疑。」便與一推卻，歸方丈。師云：「是醍醐，是毒藥，殺人劍，活人刀。」藥山久不陞座。一日，院主白云：「大眾久思和尚示誨。」曰：「打鐘著時。」大眾纔集定，便下座歸方丈。院主隨後問云：「和尚許為大眾說法，為甚麼一言不措？」山曰：「經有經師，論有論",
+          "MasterName": "Yaoshan Weiyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Yaoshan Weiyan owns the retained deployment: complete active quotation of Yaoshan's deer-shooting exchange followed by direct appraisal."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0132b12",
+          "ToLb": "0132c03",
+          "Kwic": "鎚碎清涼白月輪，李將軍有家聲在，不得封侯也是閑。諸人要識三峰真的旨麼？」喝一喝，云：「威風八面言思斷，平地翻為荊棘林。」結夏，上堂。「筍出林梢竹乍齊，青梅初重壓枝低，山知雨好頻增色，鳥惜花殘不住啼。衲裰卷來雲在架，革鞋懸後草成蹊，湖光近檻閑無用，洗盡晴霞日落西。」隨顧左右，云：會麼？「若作結夏佛法會，入地獄如箭射；不作結夏佛法會，亦須銜銕負鞍。」上堂。舉：「六祖至廣州法性寺，寓止廊廡間，暮夜風颺剎幡，聞二僧對論，一云幡動，一云風動，往復酬畣，曾未契理。祖云：『可容俗流輒與高論否？直以非風幡動，仁者心動。』」師云：「弄泥團漢有甚麼限？滿缽炒浮漚，擎來充供養，影響盡消亡，心作底模樣。」上堂。僧問：「露柱掛燈籠，山門騎佛殿，神通法爾則且置，如何得穩坐家堂？」師云：「山僧無伎倆。」僧云：「和尚莫謾某甲。」師云：「白日青天鬼美人。」又僧問：「趙州喫茶去，不是好心；和尚開堂來，的何宗旨？」師云：「掌上星初滿。」僧云：「恁麼則為瑞為祥去也。」師云：「盤中月正孤。」僧禮拜，師便喝，乃云：「山僧無伎倆，一步是一步，看他一輩茄子瓠子，不思爛貨沒人買，偏要擔向十字街頭爭鮮鬥價，白日青天鬼美人，真個苦哉佛陀耶。山僧今日正擬移風易俗，要使動者靜，亂者定，邪者正。」以",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: independent deployment of the verdict against the wind-banner explanation."
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB189.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Yaoshan Weiyan",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [
+        "弄泥團漢"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "Yaoshan dismisses the unnamed questioner's staged collapse and escape as one more mud-ball performance, asking how such performers could ever run out. Yaoshan Weiyan uses the expression through complete active quotation of Yaoshan's deer-shooting exchange followed by direct appraisal. Hanyue Fazang independently deploys it through independent deployment of the verdict against the wind-banner explanation."
+    }
+  ]
+}

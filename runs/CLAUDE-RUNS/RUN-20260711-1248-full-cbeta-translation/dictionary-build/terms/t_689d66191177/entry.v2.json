@@ -1,0 +1,68 @@
+{
+  "Id": "t_689d66191177",
+  "SourceTerm": "九年面壁",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "nine years facing a wall",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "nine years facing a wall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The phrase records the allusion; it is not itself a posture instruction. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0597b24",
+          "ToLb": "0597c23",
+          "Kwic": "筆書此偈。普門功德贊莫窮，恰似太虛點空翠。因茲悟徹無窮身，口誦目瞻皆了義。大士贊大士贊二三十二應權為應，著眼看來原不定。心如孤月照長空，千江有水千江印。瞻之仰之，惟誠惟敬；毀之辱之，無嗔無諍。光明寂照遍河沙，兀兀無言行正令。耳觀世界，眼聽十方，普利群情，應化無疆。淨瓶甘露，時灑清涼，是為大慈悲父，故作苦海舟航。初祖達磨贊初祖達磨贊四傳佛心印，多虛少實。親對梁王，剛云不識。折蘆暗暗渡江心，久坐少林成底業？咄！試問當門齒可生，今日誰能為雪屈？持般若劍，以破六宗。被忍辱鎧，而服三毒。直指人心，剛云不識。一葦渡江，九年面壁。東土人天，從師開闢。一葦渡江，九年面壁，致使梁王，追之不及。神光斷臂，剛纔漏泄。而今滿地是兒孫，看來得髓何曾徹？咄！飄飄一葦渡江淮，少室峰前眼不開，默坐九年成底事，當門齒缺可曾栽。高峰大師贊高峰大師贊張公洞裏死關，天目山頭化導，足跡不落人間，影像何從而到？描也描他不成，畫也畫他不就。識得高峰老人，鼻孔依然是舊。碧峰禪師贊碧峰禪師贊清涼山裏坐禪，石城殿下說法。震動四海歸降，安置八方寧靜。仔細簡點將來，也是一場笑具。老人本分幽然，觸處隨宜應現。咄！這裏見得分明，休作神通妙行。續十一代祖師贊續十一代祖師贊并序序余閱《中峰廣錄》，有列祖贊，自初祖達磨以至高峰，歷二十八代，復從中峰，師師相印、祖祖相傳，至笑",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: direct verse questioning the nine years."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0104b24",
+          "ToLb": "0104c15",
+          "Kwic": "人間無水不朝東。」以拄杖卓一卓。上首復白槌云：「諦觀法王法，法王法如是。」下座。謝詞不錄開爐結制，上堂云：「紅爐猛燄，當前不可湊泊，鉗鎚運動，貴乎直下翻身，透出威音那畔，嘗在鬧市門前，間著劈頭便棒，徹底更無廉纖，因甚致得金烹大冶，玉出藍田。」復云：「九十日中間，結住布袋口，日用卓卓然，從新自抖擻，拶透頂門關，能為獅子吼，大地悉平沉，百獸都奔走，堪入臨濟門，白棒劈脊摟。如何是獅子吼？」乃喝一喝云：「薦取攙先一著子，發機不落諸人後。」下座。上堂：「十五日已前，回首俱陳跡，十五日已後，未來望莫及，正當十五日，頭頭呈露，物物披真，衲僧門下，一一現成，九年面壁，未解作活，六載雪山，徒受苦辛，爭似明州憨布袋，逢人無事笑吟吟。」拈拄杖下座。上堂，僧問：「高步毘盧頂，截斷威音喉，婢視釋迦，奴呼彌勒，此人面目如何？」師云：「半邊鼻孔。」進云：「若然，即今來也，請和尚答話。」師便打。進云：「忽若道個須彌山，又作麼生？」師云：「推倒了也。」問：「如何是奪人不奪境？」師云：「打教髑髏穿。」「如何是奪境不奪人？」師云：「掀翻坐具地。」「如何是人境兩俱奪？」師云：「一并收下。」「如何是人境俱不奪？」師云：「任汝𨁝跳。」乃云：「聲前薦取，斬釘截鐵，未免猶有者個在，周遮不省，多諸饒舌，不知何劫出頭時。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: direct hall criticism."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A fixed allusion to Bodhidharma's nine-year stay facing a wall, used as a question, biographical tag, comparison, and criticism. Tianyin Yuanxiu uses the expression through direct verse questioning the nine years. Feiyin Tongrong independently deploys it through direct hall criticism."
+    }
+  ]
+}

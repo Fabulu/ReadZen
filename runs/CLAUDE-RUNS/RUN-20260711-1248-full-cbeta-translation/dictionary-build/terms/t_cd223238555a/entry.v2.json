@@ -1,0 +1,69 @@
+{
+  "Id": "t_cd223238555a",
+  "SourceTerm": "愚人自縛",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "foolish people bind themselves",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "foolish people bind themselves",
+        "The self-binding half of the Trust in Mind contrast"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 智者無為 as the contrasting first half and preserve self-binding; do not import a generalized theory of stupidity. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0578b18",
+          "ToLb": "0578c16",
+          "Kwic": "文。問。所云五根作用。皆稱光明寶摩尼王。悉能雨寶。凡夫根器。亦如是耶。答。經云。六自在王常清淨。所以稱王。王是自在義。是以眼根任運觀色。自在無礙。經云。譬如眼光。照了前境。其光圓滿。得無增愛。又常在現量。本性不遷。豈非如王常得自在。所稱摩尼者。是雨寶義。如云。應眼時。若千日。萬像不能逃影質。豈非雨寶義。又云。眼門放光。照破山河大地。豈非放光義。則玄鑒無遺。幽微洞察。五根隨用。亦復如是。乃至意根一念千里。無有障礙。如云。應意時。絕分別。照燭森羅終不歇。透過山河石壁間。要且照時常寂滅。故知六根不惡。還同正覺。智者無為。愚人自縛。可謂身之寶藏。心之明珠。不說不知。空沈苦海。先聖悲愍。意在於斯矣。又所陳法喻。為未信之人。此是世間摩尼。況我心之雨寶。如將大海。比我心之宏深。且摩尼是質礙之色法。豈同丹臺無盡之法財。大海是有限之波瀾。寧等靈源不窮之性水。乃略況於少分。可謂天地懸殊。尋萬丈而未得毫釐。指百分而纔言一二。切忌自屈。不肯承當耳。八託事顯法生解門者。華嚴經云。百千億那由他不可說。先住兜率宮諸菩薩眾。以從超過三界法所生。離諸煩惱行所生。周遍無礙心所生。甚深方便法所生。無量廣大智所生。堅固清淨信所增長。不思議善根所起。阿僧祇善巧變化所成就。供",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: Yongming Yanshou's authored exposition of the Trust in Mind lines."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0836b06",
+          "ToLb": "0837a01",
+          "Kwic": "悟本無為。愚人迷自心。心迷還自縛。當知悟者之無為。雖天地鬼神莫能使之為。迷者之自縛。雖千聖萬賢莫能釋其縛。惟智與愚悉由心變。豈外物使之然乎。闢曰。但見錐頭利。不見鑿頭方。何則。須知無為即自縛。自縛即無為。若謂果有二途。則蹉過祖師遠矣。偈曰。愚人自縛還須解智者無為縛殺人寸刃不施俱截斷為憐平地喪天真法無異法妄自愛著通身是病通身是藥。擬議不來當面諱却。藥即是病病即是藥。太虛空裏筋斗易󷘓。青州做領布衫難著。也無病也無藥。森羅萬象鐵渾侖。楊岐驢子三隻脚。祖師道。法無異法妄自愛著。義解者謂。青青",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng Mingben's direct criticism of the doctrinal explanation attached to the contrast."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "B/B25/B25n0145.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The self-binding half of the Trust in Mind contrast: no external agent imposes the restraint; mistaken handling binds the foolish person. Yongming Yanshou uses the expression through Yongming Yanshou's authored exposition of the Trust in Mind lines. Zhongfeng Mingben independently deploys it through Zhongfeng Mingben's direct criticism of the doctrinal explanation attached to the contrast."
+    }
+  ]
+}

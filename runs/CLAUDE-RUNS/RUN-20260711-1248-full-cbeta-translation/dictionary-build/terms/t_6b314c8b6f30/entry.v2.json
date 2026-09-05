@@ -1,0 +1,68 @@
+{
+  "Id": "t_6b314c8b6f30",
+  "SourceTerm": "優婆塞",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "male lay Buddhist",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "male lay Buddhist"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Distinguish 優婆夷, a female lay Buddhist. Do not flatten the title into the generic 居士 where the formal fourfold-community category matters. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0890a15",
+          "ToLb": "0890b19",
+          "Kwic": "作火中牛又說有六百卷般若經以般若智水蕩滌法塵故有二十種空所謂內空外空內外空空空大空勝義空有為空無為空畢竟空乃至無性自性空空亦不可得所以龐居士得這箇道理便言無有寄龐大空空無處坐家內空空空空空無有貨日出空裏行日入空裏臥空坐吟空詩詩空空相和莫恠純用空空是諸佛座若人不了空空是諸佛過看他古人一識得這箇關棙便解說大脫空有也空無也空非有非無亦空非非有非非無亦空謂之離四句絕百非一時蕩滌得淨盡了然後說大闡提人皆得作佛故涅槃會上廣額屠兒放下屠刀便預千佛之數然此是難信之法未證者不能無疑是故法華會上舍利弗慇懃三請佛方待說只見會中比丘比丘尼優婆塞優婆夷等五千人禮佛而退若據祖師門下此五千人却許具一隻眼佛言此輩罪根深重及增上慢未得謂得未證謂證有如此失是以不住既而五千退席佛乃云此眾無枝葉唯有諸真實然後為舍利等說如是之法如優曇鉢花時一現耳汝等當信佛之所說言不虗妄又道是法非思量分別之所能解唯有諸佛乃能究盡諸法實相且道釋迦老子畢竟說甚麼法來又何曾動著一絲毫信知從上諸聖本無實法與人到這裏人亦空法亦空定慧圓明不滯空譬如獅子返擲東西南北初無定度得到恁麼田地則自家說底便是釋迦老子說底天魔外道說底即是佛說底無二無二分無別無斷故這一段神通光明人人本有各各天真但向己求莫從他覓今時學",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: direct fourfold-community enumeration."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0643b26",
+          "ToLb": "0643c20",
+          "Kwic": "其不同于人者，無非繼之者善，而成之者性也。山野于居士，竊有取焉。居士德性淳和，踐履耿介，與人無妄語，凡一取一與，莫不與義自持，此誠閩邑之流馨，鉅族之軌範也。初年即知歸命黃檗老人，向上之志已云篤矣。殆與山野周旋十餘年，肫肫以佛法從事，朝夕在家炷香持誦，于尊人墳墓，四時八節致其孝思，每時來寺中設供，構山亭以供遊覽，施花園以廣山門，倘非真實正信，烏能一一不作銖兩計耶？世人務為身家利便之私，而居士惟知積善植福為寶，則異日雲仍繼美，高出門戶，豈非合天道鬼神之心哉？山野嘉居士之行，書此以勛向上一著，當自勉旃。示法真優婆塞示法真優婆塞法真雖處塵勞，心常清淨，鄉里咸為起敬，謂其在家杜多也。弱冠不娶，發願斷婬，禱于大士，求加被。一夜，夢授陀羅尼咒一遍，曰：「誦此不驗，吾不名正法明。」覺而婬機頓寂，忘念不生，遂炷香觀想，描寫大士相好，極其莊嚴，盍神授也。丙午孟春望，奉持入山，上山僧清供，因鑒其誠，為之納供丈室。乃問曰：「有箇無面目漢，如何描邈？」法真下語不契，復謂之曰：「子之品行固佳，但未發明心要。心要不明，露柱亦持戒也。持戒獲福報，生死終是不了。欲了生死，須明心要。心要已明，慧光、戒光同日月並輝，可不勉旃。」示那須氏豐夫人示那須氏豐夫人佛言，遇道人",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: instruction to a named lay follower."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Jifei Ruyi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The conventional Buddhist designation for a male lay follower, used in Zen records both as a member of the fourfold community and as a title attached to named lay practitioners. Dahui Zonggao uses the expression through direct fourfold-community enumeration. Jifei Ruyi independently deploys it through instruction to a named lay follower."
+    }
+  ]
+}

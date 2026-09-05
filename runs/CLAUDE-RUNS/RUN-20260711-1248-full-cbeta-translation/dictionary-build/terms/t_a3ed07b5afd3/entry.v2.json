@@ -1,0 +1,68 @@
+{
+  "Id": "t_a3ed07b5afd3",
+  "SourceTerm": "罕遇知音",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch68 admitted11 constructor C",
+  "WrittenUtc": "2026-07-29T15:05:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "rarely does one meet someone who knows the tune",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "rarely meet someone who knows the tune"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "知音 is the constituent image; 沒絃琴韻 is recurrent context, not a synonym. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1353.xml",
+          "FromLb": "0452a08",
+          "ToLb": "0452b12",
+          "Kwic": "然太守命慇懃。師曰：好個阿師，向語脈裏轉却。僧云：菩提果熟天然異，優鉢華開別是春。師曰：一語傷人，千刀攪腹。師乃曰：門裏出身易，身裏出門難。易難不到處，普請大家看。乃豎起拂子，曰：還見麼？若謂見，云何為見？見在即凡，宛同流浪。若謂不見，云何不見？行脚高士，眼在什麼處？見與不見，若為明辨？這裏徹去，三世如來、六代祖師平生關棙，瓦解冰消。苟或未然，待把少林無孔笛，為君吹起小陽春。下座。謝詞不錄。當夜小參：全機不用，同道方知；照用雙行，何人委悉？所以芭蕉和尚示眾云：你有拄杖子，我與你拄杖子；你無拄杖子，我奪你拄杖子。師曰：芭蕉垂範，今古罕遇知音。後來覺海禪師拈云：你有拄杖子，我奪你拄杖子；你無拄杖子，我與你拄杖子。覺海禪師大似量才補職，度脚買靴，要見芭蕉，還應未可。若是新報慈即不然，你有拄杖子，我與你拄杖子。君子愛財，取之有道：你無拄杖子，我奪你拄杖子。恩深轉無語，懷抱自分明。忽有個漢出問云：離此二途，如何是報慈拄杖子？良久，云：如今卓向須彌頂，六臂三頭未許看。久立，珍重！送宣老住慈雲。靈山密旨，少室玄宗，五葉一華，分布塵剎。造其旨者，游刃萬機，卷舒無礙；失其趣者，談真罔象，見解偏枯。豈不見城中聖箭，鼓山尚涉崎嶇；國師肘後靈符，耽源猶疑去住。大眾，只如新報慈，當此",
+          "MasterName": "Kaifu Daoning",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Kaifu Daoning",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1353.xml). Recorded Sayings of Chan Master Kaifu Daoning. Kaifu Daoning owns the retained deployment: direct hall use with the stringless zither."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0559a20",
+          "ToLb": "0559b10",
+          "Kwic": "。」僧云：「南泉斬貓兒，意旨如何？」師云：「刀頭有眼。」僧擬議，師打云：「照顧性命。」晚參。「禪不禪，道不道，三寸舌頭胡亂掃。小南當日有此作略，而今法久成弊。天寧不然，禪是禪，道是道，珍重舌頭莫亂掃。何故？近來王令稍嚴，不許攙行奪市。」冬至日，明慧、遠閒、古鑑三上座丐徐州歸，請上堂。問：「一陽初起事如何？」師云：「萬象騰輝。」進云：「恁麼則無根草發千秋色，枯木花開劫外春。」師云：「又添一重好彩。」問：「暑往寒來，陰消陽長，且道拄杖子還有消長也無？」師云：「莫作埜狐精見解。」進云：「五百人善知識作恁麼語話？」師云：「罕遇知音。」進云：「能為萬象主，不逐四時凋。」師云：「你做得傅大士奴。」進云：「不得壓良為賤。」進語稍遲，師打云：「已遲八刻。」問：「眼蓋乾坤即不問，口吞佛祖事如何？」師云：「你有如是作略那？」僧便喝，師云：「是眼蓋乾坤？是口吞佛祖？」進云：「一任和尚分疏。」師云：「鼓粥飯氣師僧。」進云：「大善知識還有這箇在。」師便打，乃云：「一陽來復，萬象騰輝，那邊不許夜行，君子道長；這邊投明須到，小人道消。赤肉團上伐鼓考鐘，要問古佛與露柱相交是第幾機？寂子速道，當下出得陰界，一任拽占波與新羅鬥額，南嶽共天台撞彩，說箇燭明千里象，暗室老",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: independent direct response."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1353.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Kaifu Daoning",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The rarity of a responsive recognizer who hears the operative note rather than merely following words. Kaifu Daoning uses the expression through direct hall use with the stringless zither. Yushan Shangsi independently deploys it through independent direct response."
+    }
+  ]
+}

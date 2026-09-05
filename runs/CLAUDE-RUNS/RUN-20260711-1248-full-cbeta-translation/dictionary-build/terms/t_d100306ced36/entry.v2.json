@@ -1,0 +1,68 @@
+{
+  "Id": "t_d100306ced36",
+  "SourceTerm": "揚聲止響",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "raise a sound to stop its echo",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "raise a sound to stop its echo"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the failure to recognize sound as the root of the echo and govern playing with the shadow while fleeing the form as the recurrent parallel; the phrase criticizes counterproductive causal handling, not sound itself. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0929b27",
+          "ToLb": "0929c26",
+          "Kwic": "是處。五濁世中種種虛幻。無一真實。請行住坐臥常作是觀。則日久月深。漸漸消磨矣。然正煩惱時。子細揣摩窮詰。從甚麼處起。若窮起處不得。現今煩惱底。却從甚麼處得來。正煩惱時。是有是無。是虛是實。窮來窮去。心無所之。要思量但思量。要哭但哭。哭來哭去。思量來思量去。抖擻得藏識中許多恩愛習氣盡時。自然如水歸水。還我箇本來無煩惱無思量無憂無喜底去耳。入得世間。出世無餘。世間法則佛法。佛法則世間法也。父子天性一而已。若子喪而父不煩惱不思量。如父喪而子不煩惱不思量。還得也無。若硬止遏哭時又不敢哭。思量時又不敢思量。是特欲逆天理滅天性揚聲止響潑油救火耳。正當煩惱時。總不是外事。且不得作外邊想。永嘉云。無明實性即佛性。幻化空身即法身。是真語實語不誑不妄等語。恁麼見得了。要思量要煩惱。亦不可得。作是觀者名為正觀。若他觀者名為邪觀。邪正未分。正好著力。此是妙喜決定義無智人前莫說。答夏運使答夏運使示諭。道契則霄壤共處。趣異則覿面楚越。誠哉是言。即此乃不傳之妙。左右發意。欲作妙喜書。未操觚拂紙。已兩手分付了也。又何待堅忍究竟。以俟他日耶。此箇道理。唯證者方默默相契。難與俗子言。延平乃閩嶺佳處。左右能自調伏不為逆順關棙子所轉。便是大解脫人。此人能轉一切關棙子。日用",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's direct deployment of the sound-and-echo criticism."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0831b01",
+          "ToLb": "0832a11",
+          "Kwic": "皮綴骨。雲門乾屎橛滯殼迷封。衲僧面前放過不可。祖師門下再犯難容。常教肚裏如鍼刺。拋向洪波白浪中。祖師道。欲知兩𫨻元是一空。義解者商量道。兩𫨻即指前之心法。所言一空非太虛頑然之空。非小乘斷滅之空。乃靈覺無相之真空耳。此空是諸佛之源萬靈之母。無聲無臭。昭昭於羣象之前。不有不無。朗朗於諸塵之表者是也。闢曰。是空不應有知。既知不應名空。苟未曾與祖師握手親到真空之海。言語云乎哉。偈曰。夢中钁得黃金藏又跨青鸞上寶臺盡夜喜歡無著處天明只落得場獃一空同兩齊含萬象一句無私。萬靈同仰。遠拍祖肩。清機歷掌。大顛打首座聚雪埋金。興化罰維那揚聲止響。惟有石敢當。長年整歲。向百眾人前出一頭。今古無人解稱賞。祖師道。一空同兩齊含萬象。義解者卜度道。心不異法。是一空同兩。法不異心。是齊含萬象。所以古云。見色便見心。無色心不現。又教中謂。森羅及萬象一法之所印。故祖師發明於此。闢曰。講經則許你講。要見祖師意。何異鄭州出曹門。偈曰。一不成單兩不雙夜深寒月印長江無邊宇宙光吞盡又引梅花上矮䆫不見精麤寧有偏黨禪名關教名網。撈摝三有眾生。及第心空標榜。撞著箇沒意智漢。掣其檈解其紐。萬目要張不張。百夫欲掌不掌。無心道者合如斯。豈是人前呈伎倆。所以道。不見精麤寧有偏黨。義解者謂心法",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng Mingben's independent use with the form-and-shadow parallel."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A criticism of trying to suppress a consequence by reinforcing its cause: raising another sound to stop the echo while failing to recognize sound as the echo's root. Dahui Zonggao uses the expression through Dahui's direct deployment of the sound-and-echo criticism. Zhongfeng Mingben independently deploys it through Zhongfeng Mingben's independent use with the form-and-shadow parallel."
+    }
+  ]
+}

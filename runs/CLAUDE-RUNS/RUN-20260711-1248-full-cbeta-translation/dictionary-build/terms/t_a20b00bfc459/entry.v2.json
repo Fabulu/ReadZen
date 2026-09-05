@@ -1,0 +1,68 @@
+{
+  "Id": "t_a20b00bfc459",
+  "SourceTerm": "黑漫漫",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "boundlessly dark",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "boundlessly dark"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The reduplicated 漫漫 supplies engulfing extent beyond bare 黑; retain concrete darkness where the passage is concrete and do not automatically doctrinalize it as ignorance. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0810a05",
+          "ToLb": "0810b09",
+          "Kwic": "方所有差別因緣便如在自家屋裏行一般恰似陳正甫看醫書一大藏教祖師西來意這裏明得一大藏教便是醫書昨日因說蘇東坡是箇惺惺底漢做維摩讚云我觀眾工工一師人持一藥療一病風勞欲寒氣欲暖肺肝腎胃更相尅挾方儲藥如丘山卒無一藥堪施用有大醫王拊掌笑謝遣眾工病隨愈問大醫王以何藥元是眾工所用者恰如我前日病厨裏有許多藥都用不著直去尋陳正甫討得藥來一服便効及乎問他你使甚藥云都是老師有底藥若看得方書熟了師以指按脉云須是這裏明始得這裏不明讀得方書一似不曾便如參禪人讀得溈仰語錄曹洞宗派法眼語錄修山主偈頌乃至傳燈廣燈續燈更念得莊子孟子茄子瓠子脚跟下依舊黑漫漫地只為你這裏未明所以道欲識佛性義當觀時節因緣時節若至其理自彰今日因正甫郎中洎令嗣解元同此證明便是妙喜拙病安樂底時節便是黃解元追薦母氏生天底時節便是本庵與光孝兩處師僧成佛底時節便是釋迦老子生下來一手指天一手指地底時節乃至說方等經大方廣佛華嚴經法華經涅槃經以至雙林樹下入涅槃底時節過去一切劫安置未來今未來現在劫回置過去世世間與出世間法無二無二分無別無斷故我更欲說些子又恐久滯陳正甫又我多費氣力恐病生待我將息幾時却與你諸人理會柱杖子擬議便與本分草料且莫恠妙喜這裏無人情因適來舉即心是佛有箇頌子舉似大眾即心便是佛此佛任天真真佛放",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's repeated direct use as an evaluative darkness verdict."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0740c13",
+          "ToLb": "0741a11",
+          "Kwic": "論妙。論機論境論棒論喝。盡是末邊事。上頭還著得麼。若著得去。盡十方世界香水海。向一毫頭上見得。物物頭頭初無變易。若向一毫端蹉過。設使用得七穿八穴。亦沒交涉。只如有交涉一句。爾作麼生道。吃嘹舌頭三千里。壺中日月自分明。呂左丞請。上堂云。一句語全規矩。應出毘盧印。一種機截眾流。透過祖師關。若是明眼人。已透過三千里。其或尚留觀聽。猶滯皮膚。未免向第二義門重話會去也。所以道。知幻即離不作方便。離幻即覺亦無漸次。釋迦老子三世諸佛心髓一時頓現。便恁麼承當。全心即佛。全佛即心。心佛無二。更疑箇什麼。正當恁麼時。作麼生道。千古萬古黑漫漫。填溝塞壑無人會。上堂云。靈山話月語密難藏曹溪指月。心真莫測。倒却門前剎竿著。已落第二頭。金剛階下蹲。神龜火裏走。猶落第三首。只如未有佛祖已前。還有恁麼時節麼。到這裏不論懵底。唯是俊流。還委悉麼。巨浪湧千尋。澄波不離水。耿左丞請。上堂云。無佛世界是般若光。百千聖賢是般若用。金剛正體是般若根。摧魔城壘是般若力。有如是自在威神。得如是解脫知見。用一絲毫。千里萬里盡光輝。拈一絲毫。無邊世界無變易。全體承當。如如不動。所以乃佛乃祖。提持此事。令一切人各各於根脚下洞明正見。得其光顯其用。證其根獲其力。正當恁麼時如何。天上有星",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: Yuanwu's independent repeated deployment in contrasting visible and obscured conditions."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "T/T47/T47n1997.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "An intensified darkness verdict: visibility and orientation are overwhelmed, whether describing the upward road, the whole earth under violent wind, or a failure of vision. Dahui Zonggao uses the expression through Dahui's repeated direct use as an evaluative darkness verdict. Yuanwu Keqin independently deploys it through Yuanwu's independent repeated deployment in contrasting visible and obscured conditions."
+    }
+  ]
+}

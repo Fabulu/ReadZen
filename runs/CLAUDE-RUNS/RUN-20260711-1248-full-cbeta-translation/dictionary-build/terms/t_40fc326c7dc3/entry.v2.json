@@ -1,0 +1,69 @@
+{
+  "Id": "t_40fc326c7dc3",
+  "SourceTerm": "電影還連後夜雷",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the lightning's gleam is still joined by thunder later in the night",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "lightning followed by later thunder",
+        "night lightning and thunder"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the eaves-rain first half; do not impose a universal lightning metaphor. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0660c07",
+          "ToLb": "0661a08",
+          "Kwic": "鋪。並無一人垂顧。可惜三尺龍鬚。喚作尋常破布。上堂云。有一則奇特因緣。舉似諸人。欲說又被說礙。不說又被不說礙。欲舉山河大地又被山河大地礙。從教頭上且安頭。真金不愽鍮。丈夫意如此。快樂百無憂。上堂舉。僧問曹山。佛未出世時如何。山云。曹山不如。出世後如何。山云。不如曹山。師云。若以世諦觀之。曹山合喫二十棒。若以祖道觀之。白雲合喫二十棒。然雖如是。棒頭有眼。兩人中一人全肯一人全不肯。若人點檢得出。許儞具半隻眼。上堂云。爾等諸人。見老和尚鼓動唇吻竪起拂子。便作勝解。及乎山禽聚集牛動尾巴。却將作等閒。殊不知。簷聲不斷前宵雨。電影還連後夜雷。上堂云。釋迦已滅彌勒未生。森羅萬象推向一邊。且作麼生是爾諸人常住法身。乃云。有功無功莫使腹空。請供頭修造上堂云。白雲今日權將大宋世界。作一面碁盤。先將東嶽太山南嶽衡山西嶽華山北嶽恒山中嶽嵩山。定却五方。次將五臺峨嵋支提羅浮。以為相助。左畔則斜飛雁陣。右邊則虎口雙關。遂舉手云。且道這一著落在什麼處。若知落處。便為敵手。若也未然。白雲試通箇消息。十九條平路。爭功勢未休。莫教一著錯。敗子卒難收。正旦上堂。元正啟祚。西天此土。萬物咸新。獬豸麒麟。應時納祐。誠言不謬。孟春猶寒。種種多般。伏惟首座大眾。普天齊用洎諸知事懷才抱",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment: direct contrast."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0723a19",
+          "ToLb": "0723b19",
+          "Kwic": "門人紹隆等編上堂三上堂三請首座上堂。合千差包萬有。齊往來印今古。混有無一生死。舉不犯之令。行不言之教。齊不齊平不平。於此建立於此辨明。於此紀綱於此表帥。何法不容何事不成。何德不圓何心不契。且風行草偃一句作麼生道。為山登九仞。捻土定千鈞。上堂云。牙上生牙角上生角。機上生機巧上生巧。毒蛇鼻頭揩癢。饑鷹爪下奪肉。千尺井底施籌略。百尺竿頭作伎倆。納須彌於芥子。擲大千於方外。奇則甚奇。妙則甚妙。子細檢點將來。爭如向這裏直下似桶底脫去。三界平沈得箇休歇。過去自過去。未來由未來。只今見成。坐斷天下人舌頭還委悉麼。簷聲不斷前旬雨。電影還連後夜雷。上堂云。欝蒸無處避。覿體通同。薰風自南來。披襟獨得。眾熱不到。眾苦無餘。須知佛祖閫域之中。有轉物回天之用。是故雪竇道。茫茫普熱紛紛下雪。倒流四河載發枯枿。且道。正當恁麼時如何。蟬聲時到耳。雁影忽迎眸。上堂云。華開世界起。達者先知。葉落即驚秋。賢明早悟。而況。雁連湘浦影。蟲作促織吟。明明節換時移。歷歷星馳電急。正當恁麼時。機關脫落底。萬法本閑。尚留見聞底。長安正鬧。若能善觀時節。把斷要津。堂堂越聖超凡。一一騎聲蓋色。當處平和一句作麼生道。志士惜日短。愁人知夜長。解制上堂云。尋常一味。無過朴實頭。坐斷千差。更須高著眼",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: independent hall capping line."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1995.xml",
+        "T/T47/T47n1997.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Yuanwu Keqin"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The answering half of a weather couplet: earlier rain continues in the eaves and lightning is followed by later thunder. Wuzu Fayan uses the expression through direct contrast. Yuanwu Keqin independently deploys it through independent hall capping line."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Id": "t_6ba41dd43b93",
+  "SourceTerm": "碧潭光皎潔",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a blue-green pool, its light pure and bright",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a blue-green pool, its light pure and bright"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep 碧潭 as the pool and 光皎潔 as its luminous clarity; govern 吾心似秋月 and 無物堪比倫 as the recurrent surrounding verse. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0458b02",
+          "ToLb": "0458b23",
+          "Kwic": "秋月，黃元明同湖墅眾居士請上堂，師云：「心如虛空逼塞，礙而無路；心如大地骨堆，起而不平。失慈悲種，騶虞變狼虎之聲；除虐害心，泥犁化天宮之殿。所以眾生界全是諸佛國、眾塵勞原是解脫門、淫怒癡即是戒定慧、煩惱性即是菩提種。得之于心，伊蘭化旃檀之樹；失之于旨，蒺藜生甘露之園。《楞嚴》亦云：『若能轉物，即同如來。』妙在善轉其心，則獲一切勝妙因果。今日是黃元明同湖墅眾居士設齋，恭請山僧舉揚佛法，慶賞中秋。此眾居士力行善事，堪為般若靈苗；多放生靈，弘開仁壽之域。肯趨向上一路，則大庾嶺頭一鋪功德從此成就去也。寒山道：『吾心似秋月，碧潭光皎潔；無物堪比倫，教我如何說？』寒山老子恁麼道，輸卻山僧一籌了也。何故？看月便了，要說作麼？」便下座。徽州洪惟心居士請上堂普說，僧問：「如何是功位邊事？」師云：「莫混頭。」僧便喝，師云：「汝功位尚且不明，亂喝作麼？」僧云：「莫將鶴唳誤作鶯啼。」師云：「是闍黎誤？是老僧誤？」僧無語，師云：「秪箇誤字也不知，問甚宗旨？」僧問：「如何是正中偏？」師云：「何不會取偏中正？」又問：「如何是正中來？」師云：「何不會取偏中至？」又問：「如何是兼中到？」師云：「汝地步尚遠在，且禮拜了退。」師乃云：「諸兄弟！參禪容易，宗旨難明，若不具緇",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin owns the retained deployment: Xueguan's direct quotation and appraisal of the complete Hanshan verse."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0009c27",
+          "ToLb": "0010a19",
+          "Kwic": "，名著於鄉，善士之風，山高水長。」遂搖曳拂子，下座。上堂。「萬法歸一，一歸何處？山僧忍俊不禁，向六月天下一陣大雪去也。」遂擲拄杖，下座。上堂。「七月十五日，諸方盡解夏，百山從本不曾結，解箇甚麼？既已無可解，又要說箇甚麼？然今日特地擊鼓陞堂，若弗為諸人說，未免龍頭蛇尾，不如且說箇應時及節底話。金風扇野，素月流天，高柳蟬嘶，遠溪水碧，幾處疏砧殘夜後？數聲短笛畫樓中。似這般還有佛法道理也無？忽然撞著箇漢拍手道：『和尚！和尚！此正是龍頭蛇尾。』又作麼生？咄！百山不如是，草深一丈多少時也。」便下座。中秋，上堂。「吾心似秋月，碧潭光皎潔，無物堪比倫，教我如何說？大小寒山話作兩橛了也，百山此者要別添些光彩，決不學這般見解。」驀呈拂子，云：「政當恁麼時，且道：是月耶？是心耶？是說耶？是不說耶？」良久，云：「可惜無人知此意，風前令我憶南泉。」重陽，上堂。僧問：「如何是佛法大意？」師云：「今朝九月九，遍地菊花香。」問：「百山峰頭更進一步時如何？」師云：「惟我獨尊。」僧禮拜，云：「若不泛舟，焉知海闊？」師云：「跌倒了也。」問：「重陽節屆，菊蕊未舒，請和尚連槌羯鼓。」師敲拂子。進云：「好一部天工手。」師云：「道著也不妨。」乃云：「籬東逸菊正含金，底事分明絕覆",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent direct quotation and criticism of the moon-and-pool comparison."
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB198.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Yingshan Zhiyin",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The second line of Hanshan's moon-and-pool verse: his mind resembles the autumn moon, while the blue-green pool shines with clear brightness, before the poem denies any adequate comparison or explanation. Yingshan Zhiyin uses the expression through Xueguan's direct quotation and appraisal of the complete Hanshan verse. Baichi Xingyuan independently deploys it through independent direct quotation and criticism of the moon-and-pool comparison."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Id": "t_54a0b08f5378",
+  "SourceTerm": "銀臺不變",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the silver terrace does not change",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the silver terrace does not change"
+      ],
+      "Status": "preferred",
+      "Validation": "provisional",
+      "Note": "Bind 白鼠推遷 as the recurrent first half. Do not treat 銀臺 as an independently fixed Zen object outside this pair. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0370c08",
+          "ToLb": "0370c30",
+          "Kwic": "進云：「乾坤無改變，虛空本自然。」師云：「大眾齊合掌，一時念彌陀。」僧作禮，云：「禮謝去也。」師云：「一送荒郊裏，千峰永不回。」乃云：「臘月三十日，一年已過畢，箇事問如何？莫教虛棄擲。光陰彈指過，俊鷂追不及，時節不相饒，歲旦且改革。一年又一年，一日又一日，可憐年少郎，紅顏覺漸失。雪霜飛上頭，春風消不得，逗到結交頭，百事來煎逼。為報諸兄弟，此夕是何夕？未曾了辦來，豈免生愁戚？夙昔負人債，一一要償值，此際忙無措，閒時不努力。若欲得自由，了辦須從昔，門戶絕勾追，俯仰無所憶。風月永忘懷，谿山隨意適，任運日騰騰，悠優聊歲卒。銀臺不變遷，從他烏兔急，寒梅一樹香，又得春消息。」喝一喝，下座。繼遠宥侍者入塔，小參。問：「怒則一言不納，喜則萬語全容，秖如一口氣不來，者漢向什麼處去也？」師云：「常在你面門出入。」進云：「一輪孤月現，無處不光輝。」師打，云：「閒言語。」乃云：「打破生死關，本無出入；超脫涅槃岸，那有去來？大眾！既無出入，向什麼處破生死關？既無去來，向什麼處超涅槃岸？」驀地一喝，云：「者一喝如金剛王寶劍、亦如踞地獅子、亦是探竿影艸、亦是一喝不作一喝用，諸佛命根向此而斷、意地狐疑向此而絕、本來面目向此而露、玅用神通向此而展。生死關、涅槃岸是什",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: direct complete-pair deployment."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0617b10",
+          "ToLb": "0617c07",
+          "Kwic": "，自此執侍十五年。師為直歲作務歸，溈問：甚麼處來？師曰：田中來。溈曰：田中多少人？師插鍬叉手而立。溈曰：今日南山大有人刈茅。師󳫠鍬便行。一日，隨溈遊山，到磐石上坐，師侍立。忽鴉銜一紅柿落在面前，溈拾得與師，師接洗了，度與溈。溈云：子甚處得來？師曰：此是和尚道德所感。溈曰：子也不得無分。即分半與師。溈問師：忽有人問，汝作麼生祗對？師曰：東寺師叔若在，某甲不致寂寥。溈曰：放汝一箇不祗對罪。師曰：生之與殺，只在一言。溈曰：不孤汝見，別有一人不肯。師曰：阿誰？溈指露柱云：者箇。師曰：道什麼？溈亦曰：道什麼？師曰：白鼠推遷，銀臺不變。師夢入彌勒內院，堂中諸位皆足，惟第二座空。師就坐，有一尊者白槌曰：今當第二座說法。師起白槌曰：摩訶衍法，離四句，絕百非。諦聽！諦聽！眾皆散去。及覺，舉似溈。溈曰：子已入聖位。師便禮拜。香嚴有發明偈，溈聞得曰：此子徹矣。師曰：此是心機意識著述得成，待某甲親自勘過。師後問：嚴見和尚贊師弟發明頌，儞試舉看。嚴乃舉師曰：此是宿習記持而來，若有正悟，別更說看。嚴又舉去年貧未是貧語，師曰：如來禪許吾弟會，祖師禪未夢見在。嚴又曰：我有一機，瞬目視伊。若人不會，別喚沙彌。師報溈曰：且喜閑師弟會祖師禪也。南塔湧謁臨濟，後歸侍師。師",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses. Yangshan Huiji owns the retained deployment: supplementary lineage preservation."
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB386.xml",
+        "X/X78/X78n1554.xml"
+      ],
+      "RelatedMasters": [
+        "Yuan'an Liao",
+        "Yangshan Huiji"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The invariant half of 白鼠推遷，銀臺不變: time's white rat advances, while the silver terrace remains unchanged. Yuan'an Liao uses the expression through direct complete-pair deployment. Yangshan Huiji independently deploys it through supplementary lineage preservation."
+    }
+  ]
+}

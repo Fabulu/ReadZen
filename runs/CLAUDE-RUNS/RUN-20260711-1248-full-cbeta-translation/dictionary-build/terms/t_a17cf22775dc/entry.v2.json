@@ -1,0 +1,68 @@
+{
+  "Id": "t_a17cf22775dc",
+  "SourceTerm": "買石得雲饒",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "buy a rock and get clouds thrown in for free",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "buy a rock and get clouds thrown in for free"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "饒 is the extra amount included gratis, not merely abundance; retain the transactional contrast between the purchased rock and the accompanying clouds. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0826a17",
+          "ToLb": "0827a02",
+          "Kwic": "鬼舐之有割舌之患此是諸佛菩薩慈悲苦口豈不信夫因適來雜劇又有箇古話舉似大眾劉宜翁提舉一日訪歸宗真淨和尚淨領眾出接翁便問和尚在這裏寫戲得幾年淨云專候樂官來翁云我不入這保社淨云爭奈即今在場子裏翁無語淨把衲衣角打一摵云大小劉宜翁只參得蝦蟇禪只跳得一跳翁云久享歸宗名不虗得大眾若在事上看劉宜翁輸他真淨一著若在理上看文關西輸他劉宜翁一著或有箇漢出來道這裏是麼所在說理說事但向他道下坡不走快便難逢。向通判請普說向通判請普說僧問道風高厭眾人頭名播江湖數百州學人上來伸一問乞師方便指蹤由師云春日晴黃鶯鳴進云卞璞再將求智鑑牙琴重整示知音師云買石得雲饒進云直得光前絕後耀古騰今去也師云左之右之一時著進云高低瞻仰遠近歸依師云讚嘆有分進云只如今日通判朝議請和尚舉揚般若追薦薌林居士未審還端的也無師云端的進云恁麼則慎終追遠民德歸厚矣師云塵塵爾剎剎爾進云且道薌林居士是生耶死耶師云生耶死耶進云其生也榮其死也哀師云開眼也著合眼也著進云東家人死還許西家人助哀也無師云又且何妨進云蒼天蒼天師云也不消得。僧問跳出金剛圈吞却栗棘蓬如何是和尚為人底一句師云一雨普潤周沙界進云雨過浮雲散明月又依然師云千峯勢到岳邊止万派聲歸海上消進云正是陽和無偏黨曇花再發一枝春師云相隨來也進云只如薌林居士昔日與",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: Dahui's direct repeated deployment of the rock-and-cloud saying."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0822b16",
+          "ToLb": "0823b06",
+          "Kwic": "白直非松曲非棘。通非虛空塞非牆壁。無孔鐵鎚當面擲。直還松曲還棘。通還虛空。塞還牆壁。依然野水連天碧。昨夜南海波斯捉著西天正賊。待到天明點火看。却是東村王大伯。祖師道但莫憎愛洞然明白。義解者謂。厭生死慕涅槃是憎愛。捨煩惱趣菩提是憎愛。你但於一切聖凡法中。不得存毫髮欣厭之情。則此心自然明白矣。闢曰。咄直饒你一切不欣厭。坐斷主人公。殊不知只箇不欣厭底。已涉憎愛了也。苟非親見祖師立地處。與麼註解。當得西來意麼。偈曰。似地普擎天普蓋如燈俱照日俱臨擬於明白中蹲坐脚下不知泥水深毫𨤲有差天地懸隔有定據。無準則。拈空塞空。以的破的。買石得雲饒。六祖道不會。移花兼蝶至。達磨道不識。只遮兩路葛藤。引起叅天荊棘。休荊棘。海神不貴夜明珠。滿把撮來當面擲。祖師道毫𨤲有差天地懸隔。義解者謂。我此廣大法門。雖曰悟迷無間。你若愛憎揀擇之情毫𨤲不盡。則霄壤相去不勝其遠矣。闢曰。與麼商量似則似矣。是則未是。何則直饒你一一無差塵塵合道。也出他天地懸隔不得。偈曰。說箇無差共有差俱成捏目起狂花天懸地隔同今古擬涉毫𨤲事似麻欲得現前莫存順逆兩不雙一不隻。放去非離拈來非即。楊岐十載鑄就金圈。少室九年覷破鐵壁。古佛未生時月印千江。大塊已鑿時風清八極。道順不順謂逆何逆。掛角羚羊喫鐵鞭。秤",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: Zhongfeng's independent repeated use of the same bargain image."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Zhongfeng Mingben"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compact image of receiving an unasked-for bonus with the thing obtained, used as a pointed answer or appraisal that deliberately gives more than the transaction called for. Dahui Zonggao uses the expression through Dahui's direct repeated deployment of the rock-and-cloud saying. Zhongfeng Mingben independently deploys it through Zhongfeng's independent repeated use of the same bargain image."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Id": "t_9b3f922f4eb7",
+  "SourceTerm": "冬瓜直儱侗",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the winter melon is bluntly straight",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the winter melon is bluntly straight",
+        "a winter melon, bluntly muddled"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 瓠子曲彎彎 as the second half; 儱侗 conveys blunt, undifferentiated straightness here, not a botanical classification. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0013b12",
+          "ToLb": "0013c04",
+          "Kwic": "。」師云：「第一義觀，則落二落三；不觀，則落七落八。釋迦到此計窮力極，謂之如來禪；達磨到此攔腮劈脊，謂之祖師禪。雖然作用不同，要且瓦是泥做。山僧到此，口似磉盤，眼如掣電，拈出幾句，聊酬所請。諸方此日同開爐，惟有蟠龍意致殊，不向此中求鍛煉，冷冰冰地自如如。」喝一喝，下座。上堂，師云：「閉門打睡，接上上機；顧鑑頻呻，曲為中下。據此看來，山僧有口只好挂在壁上。若以拈椎豎拂為禪，病在持捉；若以裝聾賣啞為禪，病在口耳；若以欬嗽涕唾為禪，病在音韻；若以揚眉瞬目為禪，病在顧視；若以手舞足蹈為禪，病在𨁝跳。既然未是，且道如何是禪？冬瓜直儱侗，匏子曲彎彎。」上堂，僧問：「掬水月在手，未審水乾波盡，月歸何處？」師驀頭一棒。僧喝一喝，師連打兩棒。問：「金出礦時如何？」師云：「嚇殺人。」進云：「恁麼則橫身踊躍？」師云：「死逼逼地。」問：「父母未生前，如何是學人面目？」師云：「雨打梨華蛺蝶飛，風吹椏絮毛毬走。」進云：「原來，原來。」師驀頭兩棒。僧禮拜，師乃云：「一點雨，一點溼，居士設齋和尚喫，試問就中意若何？摩訶般若波羅密。」上堂，僧問：「蝦蟆丘蚓尚解逃禪，跛鱉盲龜卻能知有，為甚靈利衲僧反道不會？」師云：「箍桶漢。」僧喝一喝，師云：「如法箍。」進云：「只得恩深",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: Poshan's repeated direct deployment against verbal elaboration and conceit."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0170a18",
+          "ToLb": "0170b09",
+          "Kwic": "」觀便走出。又一日問：「世尊拈花，意旨如何？」觀云：「全提正令。」師云：「迦葉微笑，又作麼生？」觀云：「亦復如然。」師擬更問，觀亦走出。一早，師問侍者劍眉云：「天上有星皆拱北，人間無水不朝東，當人分上如何？」眉云：「眉毛眼上橫。」師云：「向上更有事也無？」眉便喝，師云：「休瞌睡。」眉便走出。師一晚廳前坐，法觀捧碟橘餅與師過茶，師云：「橘餅留在出路喫。」觀云：「只有一個，不好帶得。」師云：「千個萬個，不離一個，為甚麼帶不得？」觀云：「眼裡不著沙。」師云：「如何是汝不著沙底眼？」觀便走入方丈，師休去。因冬瓜問法觀云：「冬瓜直儱侗，瓠子曲彎彎，當人分上又作麼生？」觀云：「眉毛八字橫。」師云：「不妨被汝道著。」觀禮拜退。師問機來陳居士云：「蘇東坡悟道偈云：溪身便是廣長舌，山色無非清淨身，夜來八萬四千偈，他日如何舉似人。且道他八萬四千偈說個什麼道理？」居士次早云：「八萬四千蒙舉似，今朝東海日頭紅。」師云：「離卻日輪紅又作麼生？」居士云：「今日親見和尚。」師云：「你分上又作麼生？」居士便禮拜，師云：「猶欠轉身。」一晚，師問眾云：「諸方參得底，者裏用不著，者裡參得底，諸方把木杓。意旨如何？」一僧云：「恰好。」師云：「恰好在什麼處？」僧便喝，師云：「",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: independent use of the paired produce line as a concrete answer."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB177.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Poshan Haiming",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The winter-melon comparison delivers a blunt verdict of undifferentiated muddle. Poshan Haiming uses the expression through Poshan's repeated direct deployment against verbal elaboration and conceit. Feiyin Tongrong independently deploys it through independent use of the paired produce line as a concrete answer."
+    }
+  ]
+}

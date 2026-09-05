@@ -1,0 +1,68 @@
+{
+  "Id": "t_8ee43495fc46",
+  "SourceTerm": "乞我一文錢",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "give me a single cash coin",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "give me a single cash coin"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind the outstretched hand, put-down bag, or person-being-awaited scene when supplied by context; 一文錢 is one cash coin and not an abstract price. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0755c25",
+          "ToLb": "0756a28",
+          "Kwic": "闢末世之邪宗。有照有用，天青月皎；為縱為奪，電掣雷轟。隨覿體而相見，實對面以難逢。吾師大段良如此，兒孫供養則不同。何不同？喝一喝！芮居士請題壽松芮居士請題壽松西母之桃兮，九千年而一熟；東海之竹兮，變滄桑而一籌。彼尚有曆數之可紀，此則非歲月之能求。清音籟發、翠色光浮，是以仰栽培於造化，而植榦於林丘。又友梅友竹，如虯如龍，珠垂帶露，操響吟風。歷春秋而不老，計年歲於何窮？松！松！人稱爾為十八公，吾以比夫耆耇之山翁。讚布袋和尚讚布袋和尚你見人笑，人見你笑，人笑你如癡如醉如狂，你笑人有權有實有要。且道要底甚麼？乃伸手喚云：「乞我一文錢。」登千佛閣二絕登千佛閣二絕千佛樓頭萬象空，憑高一望興何窮？眼中不覺低城市，但看蒼煙化作龍。其二翠閣亭亭秀水隈，千尊座列寶花臺，簷高放得斜陽入，不待莊嚴笑欲開。題畫菊題畫菊叢菊誰將墨染成？筆花綻處細煙輕，莫嫌紙上無顏色，不逐風狂帶露傾。示明齊字鋤雲示明齊字鋤雲世路從來踏不齊，鋤開雲霧沒高低，一條驀直長安道，看得分明是舊蹊。題韻石比丘壽松圖題韻石比丘壽松圖大椿八百、蟠桃三千，何如此物，永矣忘年？盤根於地、吸露於天，蒼蒼秀色、鬱鬱奇顏，用以寫韻石，無生之面而作有生看。示齊東白示齊東白銀河夜半斗星懸，玉彈輕拋漾碧天，清磬",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment: direct deployment in a praise of Budai that culminates in the extended hand and demand."
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0560c02",
+          "ToLb": "0561a23",
+          "Kwic": "胸中別無活計，笑看雲住雲行，何處薰風掃盡？龍舟繫斷波聲。邪法總歸正法，喜逢護衛王臣，蒲劍斬除魔窟，入室唯許同人。事事要須自肯，眼前草木皆兵，會得腳跟線斷，管教神氣和清。喜有竹松作伴，更容麋鹿為鄰，一笑藤蒲定起，不知誰主誰賓？截斷渡頭蹤跡，風吹江上狂波，賺殺紛紜豪傑，無端誤入煙蘿。石室無人問道，曙分鼓角驚聞，一曲梅花調古，來看出岫新雲。自閒覺禪師語錄卷第七終自閒覺禪師語錄卷第八住荊溪芙蓉寺嗣法門人住古堯乾明寺嗣法門人洪暹編雜著述古德遺事漁父詞十首述古德遺事漁父詞十首布袋和尚布袋和尚萬山空翠月明前，布袋橫拖別一天，七珍八寶舊因緣，高枕眠，逢人乞我一文錢。長汀江上趁風煙，兜率宮中不肯還，十八孩兒鬧市廛，千畝田，話頭歷劫口碑傳。馬祖馬祖藤蒲鎮日堆堆坐，多口阿師重說破，南岳山前影婆娑，莫造作，出脫諸方鈍置貨。沒弦琴韻尋常課，日面月面遭折挫，舌頭過鼻萬機墮，好一個，雙輪腳下清風播。百丈百丈野鴨飛空鼻頭痛，無端殃禍驚叢眾，哭兮笑兮把人弄，乾打鬨，出群須是丹山鳳。耳聾挂拂法中棟，家私不用醬三甕，一日不作忍飢凍，狐破夢，大雄山下千機洞。溈山溈山一腳淨瓶驀踢倒，翻身直上雲山島，七年橡栗無煩惱，向誰討？蛇虎隊隊護荒草。赤心剖對龍天禱，依舊松龕自灑掃，寂子機投展懷抱，話清藻，羅漢開田日",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue owns the retained deployment: independent active raising of Budai's one-coin demand."
+        }
+      ],
+      "SourceTexts": [
+        "J/J29/J29nB244.xml",
+        "J/J33/J33nB287.xml"
+      ],
+      "RelatedMasters": [
+        "Sanshan Denglai",
+        "Zixian Jue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Budai's recurring demand, used after an unnamed questioning monk turns back and as his answer when asked to identify the awaited person; the request tests the encounter rather than functioning as ordinary alms solicitation. Sanshan Denglai uses the expression through direct deployment in a praise of Budai that culminates in the extended hand and demand. Zixian Jue independently deploys it through independent active raising of Budai's one-coin demand."
+    }
+  ]
+}

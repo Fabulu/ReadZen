@@ -1,0 +1,68 @@
+{
+  "Id": "t_dde60dc0d9ee",
+  "SourceTerm": "眉間挂劍",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a sword hung between the eyebrows",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "sword between the eyebrows"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep the sword image and its attested companion lines rather than assigning it symbolic doctrine. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0747a02",
+          "ToLb": "0747a26",
+          "Kwic": "氣麼？你要求我為你出氣，須我後來人登你向上位。」龍王堂告香：「退己讓人，地步深遠；付囑靈山，內秘外顯。海底生塵山上魚，萬古宗風因你闡。」韋馱前告香：「匹夫橫行，聖人所恥；眼光爍破四洲，豈肯一隅自委？權在手已非一朝，令能行乃見風旨。」國一欽禪師像：「牛頭一枝，賴師拔起；無法可傳，遇徑則止。試巾子山人喝石，以救佛法之危；見代宗皇帝立身，而啟龍顏大喜。點開馬祖圓機，惑亂天下無已。」無上忠禪師塔：「國一宗風，因公大振；白日雷轟，獅子奮迅。兩賜紫衣天子尊；千古常光無上印。秪今印在那裏？」彈指云：「者裏看取。」大慧杲禪師塔：「眉間挂劍，血濺梵天；平地骨堆，千古含冤。瞎臨濟小廝兒法眼，吐圓悟老巴子狐涎；今朝撞著對頭頂門，痛與加尖。咄！」元叟端禪師塔：「者破坐具，能展能收；三十痛棒，迥出常流。兩被金襴，眼睛突出；重振妙喜宗風，高縣雙徑佛日。」達觀可大師塔：「舍己求人，忘軀為法；剖正眼藏，照十方剎。無影樹下誰同船？鵬摶峰前逢老達。相逢時如何？以手捉云：『鼻孔拈來阿剌剌。』」鳥窠道林禪師塔：「類不齊，混知處，凡聖位中留不住，隨緣寄跡鳥窠，賺殺鬼家活計。白侍郎到者裏始驚，坐鎮江山有薪火之危；通侍者十八年乃悟，欲參諸方求佛法之意。悟個甚麼聻？布毛拈起一吹，",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: direct verse on Dahui's stupa."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0677c09",
+          "ToLb": "0678a01",
+          "Kwic": "薄㓟明月，爛煮泥牛、活剝玉兔，滿盤托出與諸人分歲，還有其人麼？若也未然，但知事逐眼前過，不覺老從頭上來。」居士誕日，請小參。「鑑水澂渟，涵萬象而靡滲；越山峻峙，歷塵劫而不磨。高超有頂之天，迥出威音之外，巍巍乎！蕩蕩乎！不可得而思議焉。大眾！委悉麼？今是居士華誕，叵耐能仁淡薄，無物為壽，權借須彌為舌、虛空為口，宣說維摩不二法門，即時十方世界、山河國土、艸木叢林、有情無情，異口同音讚言：『善哉！善哉！希有！希有！』大眾！何謂希有？上大人，丘乙己，化三千，七十士，尒小生，八九子。」擊拂，云：「佳作仁，可知禮也。」小參。「眉間挂劍，須是其人；肘後懸符，還他作者。苟能如是，鈯斧子正好磨礱，折腳鐺信手提挈。雞足分燈，乃萬人之榜樣；景純夜夢，實千載之嘉猷。綱紀以此而明，規繩以此而整，可以和融內外，燮理陰陽，共鑒人天眼目，同闡佛祖風規。又古云：『若立一塵，家國興盛；不立一塵，家國喪亡。』且道：立者是？不立者是？從前汗馬無人識，只要重論蓋代功。」住雲門顯聖寺，入院當晚，小參。「大廈之材，非一丘之木；千金之裘，非一狐之腋；錦繡之美，非一縷所成；簫韶之樂，非一音能和。到者裏，正好同其心、協其力，黼黻叢林、綱維大眾，彼此無殊、動靜一致，扇祖風於界外、耀佛日",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: direct small-assembly saying."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB174.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A recurrent martial image for a visibly dangerous or decisive bearing. Juelang Daosheng uses the expression through direct verse on Dahui's stupa. Baiyu Jingsi independently deploys it through direct small-assembly saying."
+    }
+  ]
+}

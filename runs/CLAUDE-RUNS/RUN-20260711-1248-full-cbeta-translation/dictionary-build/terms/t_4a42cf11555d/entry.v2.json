@@ -1,0 +1,75 @@
+{
+  "Id": "t_4a42cf11555d",
+  "SourceTerm": "楊岐乍住屋壁疎",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when Yangqi first took residence, the hut walls were full of gaps",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "when Yangqi first took residence, the hut walls were full of gaps",
+        "Yangqi's newly occupied hut has gapped walls"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The snow-covered bed and the recollection of dwelling beneath trees belong to the surrounding verse but are not alternate headwords. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "L/L153/L153n1638.xml",
+          "FromLb": "0789a10",
+          "ToLb": "0790b04",
+          "Kwic": "空愁殺人茆店板橋啼鷄狗妙喜竹篦子話。頌。好笑徑山竹篦脫苕帚柄相似刺著罔明鼻孔女子從定而起韓文公叅大顛。拈大顛和尚賊過後張弓活埋他俗人雖然如是秪救得一半。頌。夜深賊被狗子咬墻洞慌忙補得好補不好長安幾箇知天曉魯祖尋常見僧來便面壁南泉聞曰我尋常向師僧道向佛未出世時會取尚不得一箇半箇他甚麼驢年去。拈魯祖面壁若作佛法商量入地獄如箭射。頌。從來個事只尋常好肉何須𭃰作瘡久坐自然腰折了清茶一盞濕枯腸風動幡動六祖曰仁者心動。拈六祖在黃梅得些子氣息向這裏便亂撒也只是箇賣柴翁。頌。風動幡動元無過不動風幡更甚麼堪笑新州盧行者生枝節外便誵訛楊岐乍住屋壁疎滿牀盡撒雪珍珠縮却項暗嗟噓返憶古人樹下居。頌。枯柳殘暘雪片輕草堂墜落兩三楹板門久不關風月趙老胡蘆挂不成莫將尚書謁南堂靜禪師咨决心要堂使其向好處提撕適如側俄聞穢氣急以手掩鼻有省即偈曰從來姿韻愛風流幾笑時人向外求萬別千差無覓處得來原在鼻大頭南堂答曰一法纔通法法周縱橫妙用更何求青蛇出匣魔軍伏碧眼胡僧笑點頭。拈莫尚書向鼻尖頭摸得些臭氣便揚出熏人南堂老漢好與三十棒何故養子不教父之過。頌。摸得黃金特地愁支離縱好漫風流當時若作今時用截斷尚書臭鼻頭梁山遠禪師上堂舉僧問楊岐如何是佛岐曰三󷗿驢子弄蹄行曰莫這是麼岐曰湖南長老。拈要會三󷗿",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6). Yangqi Fanghui owns the retained deployment: active quotation of Yangqi's full four-line residence verse followed by verse commentary."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0071b12",
+          "ToLb": "0071b14",
+          "Kwic": "不見楊岐和尚云楊岐乍住屋壁疎滿牀盡撒雪珍珠縮却項暗嗟吁翻憶古人樹下居",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong raises the verse with 不見楊岐和尚云; Yangqi Fanghui owns the quoted verse."
+        }
+      ],
+      "SourceTexts": [
+        "L/L153/L153n1638.xml",
+        "L/L158/L158n1652.xml"
+      ],
+      "RelatedMasters": [
+        "Yangqi Fanghui",
+        "Mingjue Cong"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Yangqi opens his residence verse with walls so gapped that the following snow reaches the bed. Yangqi Fanghui uses the expression through active quotation of Yangqi's full four-line residence verse followed by verse commentary. Yangqi Fanghui independently deploys it through independent raising of the complete verse."
+    }
+  ]
+}

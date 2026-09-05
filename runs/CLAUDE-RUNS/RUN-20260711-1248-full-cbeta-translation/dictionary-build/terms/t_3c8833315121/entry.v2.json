@@ -1,0 +1,68 @@
+{
+  "Id": "t_3c8833315121",
+  "SourceTerm": "黑漆漆",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "pitch-black",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "pitch-black"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Keep distinct from 黑漆桶 and 明歷歷; they are separate lexical units. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0761c17",
+          "ToLb": "0762a07",
+          "Kwic": "若還逴得些兒，當處超佛越祖。作麼生是超佛越祖底事？柳眼乍開風細細，蘭香初起日融融。弁山三月安居，冬期已過，今朝正是正月十五日，雖不解制，一任東走西走；雖然放行，不曾動著半步。如此會得，太陽門下日日三秋。如此不會，不妨明月堂前時時九夏。會麼？山頭翻白浪，海底火正紅。」僧問：「把定重關經九旬，驀然打破事如何？」師云：「今日是元宵。」進云：「恁麼則展翅沖霄去也。」師云：「金翅鳥王當空。」進云：「縱橫奔出乾坤外，翻身踢破太虛空。」師云：「早被他拿下了。」僧一喝，禮拜而退，師云：「蝦跳不出斗。」又僧問：「百日期限今已滿，歸家底事是如何？」師云：「黑漆漆。」進云：「歸家後如何安養？」師云：「整理意氣新。」進云：「正當元宵節屆，和尚又作麼生慶賞？」師云：「燈花燦爛。」進云：「堂前瑞草傳消息，引得男兒滿面春。」師云：「三十棒。」僧禮拜，師歸方丈。住蕺山小參。「觸著磕著，無非本地風光；左之右之，全彰自己面目。拈起則該括森羅萬象，放下則迥脫虛寂孤明。即如不拈不放，如何為人？」良久云：「朔風大地寒，煦日花枝放。今進堂將一月了，莫有工夫透脫者？出來通個消息。」僧問：「拖泥帶水忘物我，大方獨步任騰騰時如何？」師云：「旭日炤窗前。」進云：「恁麼則踏破千江月，獨露戒珠光。」師云：「又有一重在。」僧禮拜云：「耀古",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: direct answer."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0183a28",
+          "ToLb": "0183b21",
+          "Kwic": "「義本無意，如谷傳聲有響，即應假名喚作第一義。不過應彼來機，原無拘繫。既無心於彼此，豈有象於去來？浙中來時未嘗來，錦帆高掛絕安排。會得其中端的旨，喫飯穿衣事事諧。曹溪住定今已住，始終一如無個事。無中發用不尋常，海納山容非容易。四方八面一齊來，就其爐韝不兒戲，煉得身形似鶴形，念念銷鎔事事備。」驀豎拂子云：「現前諸仁者！聽取末後句。」上首復白椎云：「諦觀法王法，法王法如是。」下座。結制上堂。拈香云：「這些子，從來匝地普天，今日拈來普天匝地，熱向爐中，供養象田即念老和尚，用酬法乳之恩。」乃云：「年年此日有此結，只為應個好時節。拄杖靠壁冷光生，竹篦底下黑漆漆。」擲拄杖云：「是甚麼聻？」高聲云：「不得動著。」問答不錄佛成道日，張鎮臺請上堂。「盡道釋迦今日成道，我道釋迦今日全身落草，秪個無位真人，踢著一跌便倒。所以云：『道可道，非常道』，十二時中休做造。『名可名，非常名』，只貴一箭中紅心。於中薦得端的旨，喫飯穿衣本現成，大休原不曰大休，示現僧中為知識；鎮公本不曰荊翁，亦爾應身在張宅。一為宗門主，一為儒門客，車之輪，鳥之翼，扶持全憑一臂力。靈山別後多年也，冷地相逢不相識。大眾！還見靈山一會儼然麼？」良久云：「還委悉麼？飯罷曳笻看山色，滿目青松滿耳風。」下座。上堂。「曹溪從來無佛法，只要諸人盡放下。趙州昔日",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: direct verse line."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB188.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Ruibai Mingxue",
+        "Daxiu Zhu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A repeated answer or appraisal for what is wholly dark or unilluminated, sometimes contrasted directly with 明晃晃. Ruibai Mingxue uses the expression through direct answer. Daxiu Zhu independently deploys it through direct verse line."
+    }
+  ]
+}

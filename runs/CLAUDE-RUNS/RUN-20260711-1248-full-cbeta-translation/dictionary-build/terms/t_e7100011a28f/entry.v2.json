@@ -1,0 +1,83 @@
+{
+  "Id": "t_e7100011a28f",
+  "SourceTerm": "米裏有蟲",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "there are insects in the rice",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "insects in the rice",
+        "rice contains bugs"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Do not force literal food-storage occurrences into an abstract warning. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0037c12",
+          "ToLb": "0038a09",
+          "Kwic": "擬是人本分事，然而日用中遇境生疑、逢緣理會，忽然猛省，罵老僧有日在。示機樞黃成衣示機樞黃成衣打不得坐，坐不得禪，禪非坐臥，坐臥即禪。此老僧素分為汝輩畫蛇添足，正恐汝輩打在無事甲裏，意欲直下薦取鍼鋒上消息。會麼？示相宇曾居士示相宇曾居士相宇曾居士索法語，老僧信筆書數語以佳其志，盡謂生死事大，無常迅速。此大謂生不知來處、死不知去處，況無人代得。此速謂入息雖存，出息難保，尚莫能知。若悟此語，忙也忙不著、閒也閒不著，始識老僧，亦識自己。示曇郁禪人示曇郁禪人老僧寫字覺倦，又有發青來叩法語，老僧欲罵莫能、欲讚莫能，只得向伊道箇米裏有蟲。示若無禪人示若無禪人參禪打坐是我衲僧家本分事也，豈假以文章學問巧妙尖新，說鐸鐸句、弄套套語？誇會誇能，以資談柄；揚眉瞬目，以當機鋒？若爾，誠然是韓盧逐塊。若真獅子兒，只要喫人。然喫人者，正是直截根源，不同逐塊。近來多見禪者初不務此，先去學滿一肚皮，然後去學禪。殊不知禪何意也？本要離名字相、離心緣相、離四句絕百非，豈是隨邪逐惡，不根其旨，妄將魚目作明珠、磁石為至寶，到處去逞驢唇馬嘴，棒風喝雲以為極？則此箇葛藤為點禪病，倘禪若無病，何用參為？即汝便是，尚涉廉纖。如將梵位直授凡庸，亦如擲劍揮空，勿論及之不及，只貴承當也",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: direct personal instruction."
+        },
+        {
+          "RelPath": "J/J38/J38nB433.xml",
+          "FromLb": "0996b23",
+          "ToLb": "0996c14",
+          "Kwic": "若根芽。如是，則不辜負山僧抱病陞堂，向曲彔座上與汝等東語西話，直要汝透第一義。試問大眾：即今地迥天高，山青水綠，日月交輝，森羅顯現，喚甚麼作第一義？」眾無語，師喝一喝，下座。因事上堂。「古德云：『施主一粒米，重如須彌山，若還不了道，披毛戴角還。』試問大眾：且道這一粒有多少斤兩，便道重如須彌？又云披毛戴角。所以雪峰在溈山處作米頭，一日溈山入碓磨房云：『莫拋撒十方信心。』峰云：『某甲不拋撒。』山於地上拾一粒米云：『莫輕這一粒，百千粒從這一粒生。』峰云：『且道這一粒又從甚麼處生？』山低頭歸方丈，即上堂召眾云：『食須仔細，米裏有蟲。』然這二大老互相愛敬，無非為檀越信心、行人脂膏、儂夫血汗，誠恐諸人恣縱放逸，不能了明己事、償他宿債，故爾叮囑。今日老僧亦有一偈：告諸崑眾莫依稀，常住絲毫當重之，茶飯三餐檀信脂，水薪二事行人皮。只宜培補來生福，不可輕拋後世基，不信但看牛馬畜，償他宿債苦難啼。」佛成道，上堂。法幢問：「世尊成道即不問，如何是佛興境？」師云：「雲樓月殿萬山阿。」進云：「如何是境中人？」師云：「曲彔水床千指繞。」進云：「奪人不奪境時如何？」師云：「細㓟明月洞林煙。」進云：「奪境不奪人時如何？」師云：「手握清風揮遍野。」進云：「設若人境俱奪",
+          "MasterName": "Chunbei Guangde",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chunbei Guangde",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB433.xml). Recorded Sayings of Chan Master Chunbeide. Chunbei Guangde owns the retained deployment: active raising that retains Guishan's exact hall words 食須仔細，米裏有蟲 inside the retold rice-steward case."
+        }
+      ],
+      "SourceTexts": [
+        "J/J26/J26nB177.xml",
+        "J/J38/J38nB433.xml"
+      ],
+      "RelatedMasters": [
+        "Poshan Haiming",
+        "Chunbei Guangde",
+        "Guishan Lingyou",
+        "Xuefeng Yicun"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A warning that ordinary or valuable provisions contain a hidden defect, used as verdict and practical admonition. Poshan Haiming uses the expression through direct personal instruction. Chunbei Guangde deploys it through an active raising that retains Guishan Lingyou's exact hall words inside the retold rice-steward case."
+    }
+  ]
+}

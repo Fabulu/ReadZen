@@ -1,0 +1,69 @@
+{
+  "Id": "t_bcc48a09c57f",
+  "SourceTerm": "豎起脊梁",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V7 batch66 admitted19 constructor C",
+  "WrittenUtc": "2026-07-29T14:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "straighten the spine",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "straighten the spine",
+        "raise the backbone"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The retained passages attest an erect spinal action while seated; the phrase does not by itself define a contemplative procedure. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0245c21",
+          "ToLb": "0246a17",
+          "Kwic": "提挈，亦難代此生死之苦也。豈不聞常人說「木匠造枷，自作自受」。慎之慎之！如來出世，為一大事因緣。四十九年，三百餘會，塵說剎說，說之不盡。因甚古人教學者總不要看文字，一切休去歇去，單單提箇話頭，如大死人？一旦發明所得，則頓見四十九年，三百餘會，盡是外事。既是外事，且釋迦老人面目向什麼處著落？所以宗門下獨以超佛越祖為正見，去此超佛越祖，縱現大神通，說過釋迦老人，總無用處，況學者些小學解文字，貢高我慢乎？老僧初不知所謂宗門下事，凡見箇聰明伶俐人，便信心向前請問，終無一言感發。後于坐中，自家倒斷，自作主宰，古人箇箇說蒲團上豎起脊梁，晝夜不放倒身，十年二十年，一生兩生，只如此坐，謂之坐禪。我寧死依古人所教坐禪，決不更改，以此久久，方得箇參悟省力處，一切時中，自然坐得徹，豈敢惑人說我大徹大悟？老僧不欺心，真實與你等大家究竟，務要做到超佛越祖田地，庶不負參學之志也。豈不思達磨初祖到少室面壁，都無所為。及二祖神光斷臂立雪，祖云：「將心來與汝安。」神光答云：「覓心了不可得。」祖云：「吾為汝安心竟。」只此亦無所為。後來人皆道祖師西來，不立文字，直指人心，見性成佛。六祖大師云：「不思善，不思惡，正恁麼時，阿那個是明上座本來面目？」明言下大悟。到此皆無一字",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: direct description of raising the spine on a cushion."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0538b12",
+          "ToLb": "0538c04",
+          "Kwic": "著常住地。第二十二時中，不許諸人鼻孔裏出氣。』此間結制又作麼生？」師云：「汝為我判斷了也。」僧禮拜。師乃云：「磬山不蓄一文錢，要與諸方共結緣，終日秖餐無米飯，定教打徹祖師關。且道如何是祖師關劄？適纔二三僧問話，各各有箇落處。諸人還知麼？若知，則門門有路。若未知，直饒當堂顯露，猶落第二門頭。驀劄知歸，未是本分一著。擬之則差、強之則隔，近之則遠、向之則背。且道不向不背、不近不遠、不強不隔、不擬不差一句又作麼生道？所以聲前一句，千聖不傳。學者勞形，如猿捉影。這裏透得，何須立期立限畫地為牢？遮裏未透，且高挂缽囊，向七尺單前豎起脊梁坐斷眾流，一念不生前後際斷，直至威音那畔更那畔。慢慢甦醒轉來，攪長河為酥酪，變大地作黃金，亦不為分外事。要須到遮田地始得。若未到遮田地，將古人言句妄生穿鑿，道遮是甚麼句、那是甚麼句。饒你穿鑿到彌勒下生，也只是個恁麼。不見巖頭老人云：『若有一法繫綴人，土亦難消。況信心檀越脂膏耶？』諸人既信向老僧，特入深山，扣己所參切須仔細。古人云：『塵勞迥脫事非常，緊把繩頭做一場。不是一翻寒徹骨，怎得梅花撲鼻香。』」擲下拂子云：「珍重。」黃介子薦考請小參，師云：「靈源湛若，覺體自如。迥脫根塵，高超物表。迷之者永劫輪迴，悟之者當時闃寂",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: direct instruction before the sitting place."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB163.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Guting Shanjian",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The words literally describe raising or straightening the spine. The retained passages deploy that bodily action while seated and extend it to resolute application; the phrase alone does not name a contemplative method. Guting Shanjian directly describes raising the spine on a cushion and continuing without lying down. Tianyin Yuanxiu directly instructs raising the spine while seated before the sitting place."
+    }
+  ]
+}

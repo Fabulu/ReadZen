@@ -1,0 +1,106 @@
+{
+  "Id": "t_72d4046b8627",
+  "SourceTerm": "北禪分歲",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R04 fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Beichan's year-end feast",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "Beichan divides the year"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The concordance largely repeats Beichan's encounter. Each retained master does something new with it: rebuke, comparison, substitution, or judgment.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0081a24",
+          "ToLb": "0081b15",
+          "Kwic": "須高著眼始得。」復說偈云：「灰飛葭管一陽來，寶月光收曉不開，盡道北堂萱室冷，那知西界佛身回？騰騰任運無拘礙，湛湛虛凝絕點埃，珍重幕前枕塊者，呼天且莫淚盈腮。」除夜，小參。僧問：「古人烹露地白牛分歲，未審金粟有何款待？」師云：「無核青州棗一枚。」進云：「恁麼則與古人相違也。」師云：「須知別是一家風。」乃云：「日日鬧啾啾，時時靜悄悄，展轉到今宵，一年事過了。爆聲催，霜色晶，驚起梅梢雙白鳥，可憐雲外未歸人，夢眼依稀天不曉。忽然夢眼大開時如何？便是無錐貧也甘，低頭下視千峰小。」復舉法昌遇禪師歲夜與感首座喫湯，次座問：「昔日北禪分歲曾烹露地白牛，和尚今夜分歲有何施設？」遇云：「臘雪連山白，春風透戶寒。」座云：「大眾喫箇甚麼？」遇云：「莫嫌冷淡無滋味，一飽能消萬劫饑。」座云：「未審是什麼人置辦？」遇云：「無慚愧漢，來處也不知。」師云：「首座不避艱勞，橫身為眾，法昌私取官物，任意安排，門庭施設可觀，歲夜儘覺熱鬧。金粟臂長袖短，擬欲比富諸方不能得搆，只有一枚無核青州棗，與汝等細嚼粗餐，亦免得窮廝煎、餓廝炒，就中嚼得些少滋味出來，管教一飽能忘百饑也不定。」對靈，小參。豎起拂，云：「喚作拂子則觸，不喚作拂子則背，畢竟喚作甚麼？已故義橋徐居士若向這裏覷得",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: direct criticism that Beichan's year-end provision entangled itself."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0381c29",
+          "ToLb": "0382a22",
+          "Kwic": "？」師云：「非公境界。」乃云：「雪拉霜摧萬木枯，窮冬境界甚空疏，誰知大有生機處，月色橫窗梅影孤。還見麼？會也無？茫茫宇宙人無數，幾箇男兒是丈夫？眾兄弟！既是男兒，因甚卻不丈夫？莫是蹋步向前求覓解會不丈夫麼？莫是受人處分隨人起倒不丈夫麼？莫是眨上眉毛早已錯過不丈夫麼？莫是語言上咬嚼、機境上承當不丈夫麼？莫是無決烈志、少特達懷，不向百尺竿頭進步、萬仞崖前撒手不丈夫麼？莫是退水藏鱗、避刀畏劍，不解單刀直入、奪角衝關不丈夫麼？呵呵！以上論量，如斯等輩總是丈夫，秉拂上座卻不丈夫。何故？若是丈夫，爭肯與麼忉怛？」除夕，秉拂。「北禪分歲宰牛，家貧難辦素食；東村燒錢王老，事忙不及草書。寶積者裏，聚千聖于同堂、會十方於一室、鎔今古于一時、超佛祖於一刻，雖則豐儉隨家，不可將無作有，然要應箇時節，豈惜破費家財？僼上座只得拆東籬、補西壁、移官路、當人情，有箇四五百年前楊岐老祖傳留下來人人有分底，一籃栗棘蓬、數箇金剛圈，今夜一齊撒向諸兄弟面前，一任吞底自吞、跳底自跳、惱底自惱、笑底自笑，各各自作活計，不屬安排；一一自逞神通，豈由造作？渾崙無罅處，好別機宜；拈提不及時，倍加精彩。直得天回地轉，木雞啼處無聲；海晏河清，芻狗吠時絕聽。不特萬靈智竭，亦乃千聖情枯，說",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: direct comparison between Beichan slaughtering and his own reliance on the exposed white ox."
+        },
+        {
+          "RelPath": "J/J39/J39nB461.xml",
+          "FromLb": "0756a21",
+          "ToLb": "0756b14",
+          "Kwic": "」除夕，小參。僧問：「推車撞壁必思轉身，臘月三十日到來，拈頭作尾一句是如何？」師云：「臘盡始知春。」進云：「恁麼則森羅盡唱無生曲，萬象齊歌道泰時。」師云：「也須解聽始得。」僧一喝，師便打，乃云：「小參之說，古人之垂訓、列祖之家教，也只為他剃卻光頭，莽莽蕩蕩，無慚無愧，打閒過日，虛消檀施，不知生死為大事，故先聖曲垂方便，將生死二字說個喻子，譬如臘月三十到來，如落湯螃蟹，一時做手腳不便。若是英靈特達之士，聽得與麼說話，將平生保惜一齊放下，直下如須彌山相似，世念搖他不動，聲色豈可籠？果得如此行持，久久自然悟去。」復舉：「北禪分歲云云，看他北禪父子一拶一捺足可觀光，未免傍觀者哂。今夜選佛雖然淡薄，亦要應個時節，只要一片陳年生薑，分付侍者細切濃煎與諸人分歲，若解飲啜，不妨通神明、去穢惡、卻風寒、健脾胃。且道選佛與北禪是同是別？」良久，云：「山僧還有個粗頌，不妨與諸人說出。頌曰：北禪分歲解耕牛，皮角輸他官吏收，若不為伊重覆卻，幾乎凍裂禿光頭。」小參。「時值清明，忽雨忽晴，家家祭掃，處處悲聲。紙錢半陌，哭斷兒女之腸；荒土一堆，埋盡英雄之骨。紅輪畢竟沉西去，謾說靈魂往那方？今辰孝女為久故嚴慈，設齋供眾，請我舉揚，山僧只得向第二義門曲垂方便。遊蜂捕蕊",
+          "MasterName": "Xingkong Xingzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xingkong Xingzhen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB461.xml). Recorded Sayings of Chan Master Xingkong Zhen. Xingkong Xingzhen owns the retained deployment: direct substitution of ginger broth followed by an original verse on Beichan."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0382a20",
+          "ToLb": "0382b19",
+          "Kwic": "，用之則有，不用還無。若信得及，便見我分上有許多神通妙用；若信不及，未免只道我終身烏律律地，殊無長進。既然如是，我此寺門種種缺乏，百無一有，今夜除夕無可分歲，何不為我一眾略施設耶？卓一下，云：太無厭生。歲夜。世尊有密語，嶺上梅花漏泄多時；迦葉不覆藏，庭前𪹼竹熾然而說。恁麼會得，是法住法位，世間相常住。歲鑰迭更而不易，璇璣妙轉而不移。雲峯峯頂，南山雲起北山雲；雪谷谷中，岩上雪飛岩下雪。於其中間覓一毫新舊去來之相，了不可得。新舊去來之相既不可得，叔季精神元似舊，慧慈面目只如新。來年年是去年年，今日日同明日日。雖然，只如北禪分歲烹露地白牛又作麼生？良久，云：俗氣不除。結夏。橫行海上，呼喚不回頭，方堪禁足；坐碧油幢，殺人不眨眼，始可護生。如是踞菩薩乘，如是修寂滅行，如是日中一食，如是夜後一𥨊，如是畬田，如是種粟，如是而行，如是而住，如是而坐，如是而臥，如是見得透，於一切處無有不如是底時節，便是無足可禁，無生可護，無乘可踞，無行可修。一𥨊一食，盖是尋常；種粟畬田，還同遊戲。雖然，猶是諸方普請邊事。雪峯如何？良久，云：寒泉幸自清如鏡，莫遣纖塵點污伊。冬節。󳫴運推移，日南長至。象骨峰前，貞祥遍地。枯木菴夜半糝花，寒泉水日中鼎沸。松山樹頭躍出双双魚",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanxi Weiyi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment: direct case appraisal that Beichan's exposed white ox was nearly set out in vain."
+        }
+      ],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB386.xml",
+        "J/J39/J39nB461.xml",
+        "X/X70/X70n1388.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Xingyuan",
+        "Yuan'an Liao",
+        "Xingkong Xingzhen",
+        "Huanxi Weiyi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Beichan's year-end rite names the exposed-white-ox feast. Baichi calls it self-entangling; Yuan'an compares it with his own provisions; Xingkong substitutes ginger broth; Huanxi says the ox was nearly set out in vain. Baichi Xingyuan supplies the critical recall deployment through direct criticism that Beichan's year-end provision entangled itself. Yuan'an Liao supplies the comparison with another provision deployment through direct comparison between Beichan slaughtering and his own reliance on the exposed white ox. Xingkong Xingzhen supplies the ginger-broth substitution and verse deployment through direct substitution of ginger broth followed by an original verse on Beichan. Huanxi Weiyi supplies the case appraisal deployment through direct case appraisal that Beichan's exposed white ox was nearly set out in vain."
+    }
+  ]
+}

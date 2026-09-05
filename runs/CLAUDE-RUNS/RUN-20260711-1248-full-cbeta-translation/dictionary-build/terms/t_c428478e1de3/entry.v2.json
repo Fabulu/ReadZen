@@ -1,0 +1,74 @@
+{
+  "Id": "t_c428478e1de3",
+  "SourceTerm": "吹折門前一株松",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the wind snapped a pine before the gate",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the wind snapped a pine before the gate"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Bind 夜來好風 and the concluding 一得一失 when explaining the case; an ordinary storm-damage report is not the lexical job. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0694a22",
+          "ToLb": "0694c05",
+          "Kwic": "進後語岑閉目示之僧舉似師師云此三人不謬為吾弟子。趙州問和尚百年後向甚麼處去師云山下作一頭水牯牛去州云謝師指示師云昨夜三更月到䆫。師刈𦭘次有僧問南泉路向甚麼處去師竪起鎌云我這鎌子是三十文買僧云我不問這箇南泉路向甚麼處去師云我用得最快。師住庵時有一僧來師云某甲上山作務齋時上座做飯喫了却送一分來其僧齋時做飯喫了將家具一時打破就床而臥師伺不來遂㱕見僧偃臥師亦去身邊臥僧便起去師云得恁麼靈利師住後云我徃前住庵時有箇靈利道者直至如今不見。師問僧夜來好風云夜來好風師云吹折門前一株松僧云吹折門前一株松又問一僧云夜來好風云是甚麼風師云吹折門前一株松云是甚麼松師云一得一失有一庵主人謂之曰南泉近日出世何不去禮拜主云非但南泉直饒千佛出興亦不去師聞令趙州徃勘之州纔見庵主便作禮主不顧州從西過東從東過西而立主亦不顧州云草賊大敗拽下簾子便行舉似師師云我從來疑着這漢僧問牛頭未見四祖時為甚麼百鳥𠾑花献師云為渠步步踏佛階梯云見後為甚麼不𠾑花獻師云直饒不來猶較王老師一緣道。師問座主講甚麼經云彌勒下生經師云彌勒幾時下生云現在天宮未來師云天上無彌勒地下無彌勒。上堂云諸子老僧十八上解作活計有解作活計者出來共你商量是住山人始得良久頋視大眾合掌曰珍重無事各自修行大眾不去師曰如聖果大可畏勿量",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Nanquan Puyuan owns the retained deployment: named source-record exchange."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0041c26",
+          "ToLb": "0042a20",
+          "Kwic": "。」泉云：「孟八郎漢又與麼去也。」師云：「似地擎山，不知山之孤峻；如石含玉，不知玉之無瑕。大通智勝遷座而成正覺；善財童子別峰而見德雲。」僧云：「智不到處，切忌道著，道著即頭角生卻。為甚麼作這般語話？」乃喝一喝，云：「孟八郎漢又與麼去也。」萬松示眾曰：「向上一機，鶴沖霄漢；當陽一路，鷂過新羅。直饒眼似流星，未免口如匾擔。且道是何宗旨？」師云：「閉眼食蝸牛，一場酸澀苦。」南泉問僧：「夜來好風？」僧云：「夜來好風。」泉云：「吹折門前一株松。」僧云：「吹折門前一株松。」次問一僧云：「夜來好風？」僧云：「是甚麼風？」泉云：「吹折門前一株松。」僧云：「是甚麼松？」泉云：「一得一失。」師云：「一僧云：『這公案與趙州驗二菴主、法眼指簾一樣。』一僧云：『刁刀相似，魚魯不同，爭之不能，已以質之。』老僧乃云：『一得一失。』」西京雪庭福裕禪師，因僧問：「如何是祖師西來意？」庭曰：「待乳峰點頭即向汝道。」師曰：「一字入公門，九牛拔不出。」僧復問曰：「如何是尊貴一路庭？」曰：「漁歌驚起沙汀鷺，飛出蘆花不見蹤。」師云：「乳峰點頭也，道箇甚麼？火裏鷦鷯吞大蟲。」南泉上堂云：「王老師自小養一頭水牯牛，擬向溪東牧，不免犯他國王水艸；擬向溪西牧，不免犯他國王水艸，不如隨分納些",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Recorded Sayings of Chan Master Sanyi Yu (J27nB189). Sanyi Mingyu raises Nanquan's wind exchange; Nanquan Puyuan is the exact speaker of 吹折門前一株松 inside the quotation, and Sanyi comments afterward."
+        }
+      ],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "J/J27/J27nB189.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Sanyi Mingyu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The decisive report in Nanquan’s wind exchange, used to distinguish merely echoing another’s words from answering the matter and summed up as one gain and one loss. Nanquan Puyuan uses the expression through named source-record exchange. Sanyi Mingyu later raises Nanquan's exchange and comments on its one gain and one loss."
+    }
+  ]
+}

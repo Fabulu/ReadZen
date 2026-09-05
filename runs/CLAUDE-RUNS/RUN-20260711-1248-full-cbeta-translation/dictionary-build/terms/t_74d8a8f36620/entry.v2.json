@@ -1,0 +1,88 @@
+{
+  "Id": "t_74d8a8f36620",
+  "SourceTerm": "碧潭清皎潔",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a blue-green pool, clear and luminous",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a blue-green pool, clear and luminous",
+        "The second line of Hanshan's moon-and-pool verse, repeatedly raised so masters can accept, criticize, or outdo its attempted comparison for mind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Pool, color, and lustre jointly carry the image; bare purity does not. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0692b15",
+          "ToLb": "0692c09",
+          "Kwic": "卻須彌山，拈卻佛殿脊，與我通箇消息。」代曰：「落在眾人前。」又曰：「增一毫不得，減一毫不得。」又曰：「增一毫不得，減一毫不得，我也知你親。更要問你，山僧裂破胡餅，因什害帝釋鼻孔受痛？」代曰：「邏邏哩。」又曰：「可知禮也。」復曰：「可知禮也只一笑。只者一笑作麼商量？」代曰：「拈放腦後。」復曰：「一人舉首一人圓。後即不問，你腳跟下道將一句來。」代曰：「珍重下去。」又曰：「東西南北。」又曰：「東西十萬，南北八千，縱橫約來，不離這裏。雖然如此，向後不得錯舉。」代曰：「叮嚀損君德。」又曰：「須彌納芥子。」復曰：「我心似秋月，碧潭清皎潔。納須彌於芥子，擲芥子於無垠，是我尋常用底。拈放一邊，爾諸人向甚處見寒山？」代以手打圓相，拓起曰：「聻！」又曰：「見一則瞎汝眼。」乃曰：「爾諸禪衲，向後遇人，切忌三頭六臂。」通玄語錄翼菴禪師通玄語錄卷之一侍者力端等錄上堂。拈香，云：「此一瓣香，從正法眼藏中流出，成清淨輪，供養始祖釋迦牟尼文佛。伏願龍圖丞奠，鳳常新。此一瓣香，從涅槃妙心中流出，成光明輪，供養歷代開法宗師暨本寺開山第一代韶國師及皇明中興天童悟祖老和尚，惟冀孫枝繁衍，正法昌明。此一瓣香，從實相無相微妙法門中流出，成處處無礙淨光明輪，供養中興國清後住靈巖慈",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Hanshan owns the retained deployment: direct quotation followed by a criticism that the comparison contradicts its own claim.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "named poet in attributed verse",
+            "ActorLabel": "Hanshan",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Hanshan is explicitly identified by the retained source context and direct quotation followed by a criticism that the comparison contradicts its own claim.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0435c01",
+          "ToLb": "0436a03",
+          "Kwic": "寺，從聽堂前草自深。諸法寂滅相，不可以言宣。所以僧問風穴：語默涉離微，如何通不犯？穴云：長憶江南三月裏，鷓鴣啼處百花香。這箇是言宣，那箇是寂滅相？卓拄杖云：不用低頭，思量難得。施主看藏，云：演出演入，穿過髑髏；全藏半藏，換却眼睛。黃底非紙，黑底非墨，碧眼胡僧辨不得。以字不成，八字不是，百衲禪家不靈利。若靈利，撩起便行，高揖釋迦，不拜彌勒，奴呼菩薩，婢喚聲聞，其餘是甚盌躂丘？夫如是者，是真精進，是名真法供養如來，可以報生成之德，可以酬莫大之恩。然雖如是，且道某人生何國土？良久，云：不須他處覓，只此是西方。吾心似秋月，碧潭清皎潔。無物堪比倫，教我如何說？師云：大小寒山子，大似抱贓呌屈。若是山僧，又且不然。以拄杖打一圓相，云：騰騰離海嶠，漸漸出雲衢。諸人被十二時使，老僧使得十二時。牧童嶺上一聲笛，驚起群鵶繞樹飛。慶三門云：昔有一天使問睦州：三門俱開，從何門而入？州召尚書，尚書應喏。州云：從信門入。師云：大小睦州只有殺人刀，且無活人劒。今日忽有人問法石：三門俱開，從何門而入？却向他道：登科任你登科，拔萃任你拔萃。飄空一葉兩新收，暑退凉生萬壑秋。貼肉汗衫纔脫下，橫吹木笛倒騎牛。卓拄杖，云：一大藏教只說者箇。又卓云：一大藏教不說這箇。又卓云：這箇",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Hanshan owns the retained deployment: independent active appraisal of Hanshan's verse.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "named poet in attributed verse",
+            "ActorLabel": "Hanshan",
+            "ActorRole": "verse-author",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "Hanshan is explicitly identified by the retained source context and independent active appraisal of Hanshan's verse.",
+            "ReviewedBy": "V6 batch44 A+B constructor",
+            "ReviewedUtc": "2026-07-29T10:45:00Z"
+          }
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB394.xml",
+        "X/X68/X68n1318.xml"
+      ],
+      "RelatedMasters": [],
+      "RelatedTerms": [
+        "吾心似秋月、碧潭清皎潔"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "The blue pool's limpid brightness presents clarity through a concrete reflective scene. Hanshan uses the expression through direct quotation followed by a criticism that the comparison contradicts its own claim. Hanshan independently deploys it through independent active appraisal of Hanshan's verse."
+    }
+  ]
+}

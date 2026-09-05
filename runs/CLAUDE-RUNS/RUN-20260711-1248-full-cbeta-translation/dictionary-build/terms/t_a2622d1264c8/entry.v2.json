@@ -1,0 +1,117 @@
+{
+  "Id": "t_a2622d1264c8",
+  "SourceTerm": "蒼天中更添冤苦",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "R01a fresh depth regeneration B",
+  "WrittenUtc": "2026-07-29T19:15:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "add another grievance under the blue sky",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "add further grievance under the blue sky"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "The Floating-Cup encounter is one inherited family; later direct verdicts are adjudicated separately.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0668b24",
+          "ToLb": "0668c15",
+          "Kwic": "更有一般至妙又解生無生。無生子頭白似雪，解向天宮拿日月；要去毘盧頂上行，度生指往無生國；當時有箇老禪伯，一杖當頭親見血。何則？恁麼達磨一宗埽地而滅，如是兩下成怨結。大眾！作麼生為它分雪？維那以拄杖一時趁散，免教思議分別。」上堂「雲頭按下大家看，圓鑑高懸百尺竿；即請高人登一步，架空竟不受人瞞。秪如不受人瞞意作麼生？各家路大通空界，不必尋聲觀世音；設使搖鈴攜履去，看來猶不是良心。故昔凌行婆問浮盃曰：『盡力道不得底句，分付阿誰？』盃曰：『浮盃無剩語。』婆曰：『未到浮盃，不妨疑著。』盃曰：『別有長處，不妨拈出。』婆哭曰：『蒼天中更添冤苦。』盃不語。婆曰：『語不知偏正，理不識倒邪，為人即禍生。』南泉聞曰：『苦哉！浮盃被這老婆摧折一上。』婆聞笑曰：『南泉猶少機關在。』澄一禪客問曰：『怎生是南泉猶少機關在？』婆哭曰：『可悲可痛！』復曰：『會麼？』一罔措。婆曰：『跂死禪和，如麻似粟。』一舉似趙州，州曰：『我若見臭老婆，問教口啞。』一曰：『未審怎生問它？』州便打。一曰：『為甚打某甲？』州曰：『似這等跂死禪和，不打更待幾時？』又打。婆聞曰：『趙州合喫婆手裏棒。』州聞哭曰：『可悲可痛！』婆聞歎曰：『趙州眼光爍破四天下。』州令僧問婆：『如何是趙州眼？』婆豎起拳頭",
+          "MasterName": null,
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Chan Master Shouchang Wuming. The old woman utters the retained rebuke in the Floating-Cup encounter.",
+          "ActorAttribution": {
+            "Status": "identified-non-master",
+            "Kind": "identified encounter participant",
+            "ActorLabel": "the old woman",
+            "ActorRole": "interlocutor",
+            "RungsChecked": [
+              "line",
+              "expanded-context",
+              "section-header",
+              "book-title",
+              "tei-header",
+              "parallel-passage"
+            ],
+            "GrammarEvidence": "婆哭曰 introduces the old woman's headword-bearing cry; Floating Cup's preceding and following turns are excluded.",
+            "ReviewedBy": "R01a fresh regeneration B",
+            "ReviewedUtc": "2026-07-29T19:15:00Z"
+          }
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0015c08",
+          "ToLb": "0015c29",
+          "Kwic": "雨，乍寒乍熱透皮毛，欲脫欲穿徹骨髓。所以道：熱則普天匝地熱，寒則普天匝地寒。熱則熱殺闍黎，寒則寒殺闍黎。若如此會，得寒暑不能遷、生死不能易。正當恁麼時，且獨脫一句作麼生道？勞煩大眾同到先師真前露布者箇消息。」下座，詣真前拈香云：「戒香、定香、慧香、解脫香、解脫知見香，觸碎吾師肉鼻孔，管教遍界不能藏。」住開縣龍城山紫雲禪寺，解制，上堂，師云：「年年七月十五，處處追宗薦祖，箇裏眾僧自恣，都來足蹈手舞。為復是妙用現前？為復是業風飄鼓？今朝聖制告圓，試為老僧分析看。若分析得出，大蟲原來是老虎；其或未然，將拄杖一時打散，亦是蒼天中更添冤苦。」住開縣鴉城山栖鳳禪院，結制，上堂，僧問：「世亂年久，群魔即恢即復，如何是太平消息？」師豎拂，云：「會麼？」進云：「四海總歸王化裏，全提正令亦奚為。」師云：「閒言語。」僧喝一喝，師云：「此喝落在什麼處？」僧擬開口，師震威喝一喝。僧禮拜，師乃云：「七月十五，龍城解制罷座；八月十五，鴉城結制陞座。雖是兩彩一賽，要且不離者箇。」以拂打圓相，云：「佛子住此地則是佛受用，常在於其中經行及坐臥。」復舉：「馬祖與百丈、西堂、南泉玩月次，祖曰：『正與麼時如何？』丈曰：『正好修行。』堂曰：『正好供養。』泉拂袖便行。祖曰：『經歸藏，",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: direct hall-address verdict after threatening to scatter the assembly."
+        },
+        {
+          "RelPath": "J/J34/J34nB303.xml",
+          "FromLb": "0362a02",
+          "ToLb": "0362a24",
+          "Kwic": "師在投子作柴頭，投子一日送茶與章，乃云：『森羅萬象總在裏許。』章遂潑卻，云：『森羅萬象在什麼處？』子云：『可惜一碗茶。』」師云：「好一碗茶，不合互添鹽醬。」卓拄杖，云：「如今還有知滋味者麼？正好將來餧驢餧馬。」舉：「寒山因趙州到天台，行次，見牛跡，山乃問：『上座還識牛麼？』州云：『不識。』山指牛跡云：『此是五百羅漢遊山。』州云：『既是羅漢，為甚麼作牛去？』山云：『蒼天！蒼天！』州呵呵大笑。山云：『笑作甚麼？』州云：『蒼天！蒼天！』山云：『這小廝兒宛有大人之作。』」師云：「五百羅漢向異類中頭出頭沒，拂跡跡生；寒山子於蒼天中更添冤苦，旁觀者哂。趙州雖有大人之作，究竟還同小兒。璣上座恁麼道，意在於何？」喝一喝。舉：「天台豐干禪師因寒山子問：『古鏡未磨時如何炤燭？』干云：『冰壺無影像，猿猴探水月。』山云：『此是不炤燭也，更請道。』干云：『萬德不將來，教我道什麼？』寒山、拾得俱作禮而退。」師云：「古鏡未磨時，十方法界接影連輝，說甚冰壺水月？古鏡已磨時，三世諸佛韜光匿跡，那許萬德將來？諸人要識寒山子麼？打破鏡來，與汝相見。」舉：「天台智者大師在南嶽誦《法華經》，至〈藥王品〉云：『是真精進，是名真法供養如來。』於是悟法華三昧，獲旋陀羅尼，見靈山一會儼然",
+          "MasterName": "Xieyun Jiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xieyun Jiji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. Xieyun Jiji owns the retained deployment: direct appraisal of Hanshan adding grievance while bystanders laugh."
+        },
+        {
+          "RelPath": "X/X69/X69n1370.xml",
+          "FromLb": "0779c17",
+          "ToLb": "0780a17",
+          "Kwic": "問：作麼生祗對？擊拂子：四海如今清似鏡，行人莫與路為讎。上堂，舉：僧問趙州：學人乍入叢林，乞師指示。州云：喫粥了也未？僧云：喫粥了也。州云：洗鉢盂去。僧大悟。師頌云：粥了教他洗鉢盂，趙州年老太心孤，錦鱗一躍龍門去，跛鱉盲龜空負圖。上堂。寒食清明過了，是處綠楊芳草。一片兩片落花，三聲四聲啼鳥。少室門庭盡打開，寥寥不見一人到。育王與麼告報，也是將油洗卓。淨慈介石和尚遺書至，上堂：淩霄同參句，未舉先分付。不解卷舌冥懷，到處為人解註。介然立論，如磐石之堅；脫爾忘言，如南山之固。忽有旁不甘底出來問：畢竟正文說箇什麼？拍膝云：蒼天中更添冤苦。啟首座，出世東林。上堂：廬山高，廬山高，最初一步，跨壑凌霄。且道主丈子如何分付？拈主丈卓一下，當頭一劄驚天地，直透潯陽江上潮。上堂，舉：洞山示眾云：初秋夏末，兄弟東去西去，直須向萬里無寸草處去。石霜聞，云：出門便是草。師云：一人明修棧道，一人暗度陳倉，疑殺天下人。育王主丈子為見不平，拈主丈通一線道，卓一下：九堰三江都過了，脚頭到處是長安。上堂，舉德山托鉢話，師云：德山用盡韜略，只謂年老心孤，巖頭三年無改於父之道，可謂孝矣。且那裏是他密啟其意處？飲罷不知何處去，倚天長劍逼人寒。上堂：為學日益，為道日損。黃楊逢閏減三",
+          "MasterName": "Huaihai Yuanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huaihai Yuanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1370.xml). Recorded Sayings of Chan Master Huaihai Yuanzhao. Huaihai Yuanzhao owns the retained deployment: direct final verdict after the imagined demand for the text's meaning."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB173.xml",
+        "J/J26/J26nB177.xml",
+        "J/J34/J34nB303.xml",
+        "X/X69/X69n1370.xml"
+      ],
+      "RelatedMasters": [
+        "Poshan Haiming",
+        "Xieyun Jiji",
+        "Huaihai Yuanzhao"
+      ],
+      "RelatedTerms": [
+        "枷上更著杻"
+      ],
+      "ClaimAnchors": [],
+      "Explanation": "A cry or verdict that a proposed intervention compounds an already needless wrong instead of resolving it. the old woman supplies the inherited rebuke in an encounter deployment through her headword-bearing rebuke in the Floating-Cup encounter. Poshan Haiming supplies the direct hall-address verdict deployment through direct hall-address verdict after threatening to scatter the assembly. Xieyun Jiji supplies the critical appraisal of an earlier figure deployment through direct appraisal of Hanshan adding grievance while bystanders laugh. Huaihai Yuanzhao supplies the closing answer to an imagined challenge deployment through direct final verdict after the imagined demand for the text's meaning."
+    }
+  ]
+}

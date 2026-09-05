@@ -1,0 +1,68 @@
+{
+  "Id": "t_777ec34cc8c0",
+  "SourceTerm": "撫掌笑呵呵",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "clap one’s hands and laugh aloud",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "clap one’s hands and laugh aloud"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Preserve the combined gesture and laugh. 撫掌 and 笑呵呵 separately remain ordinary expressions; 木人 or 石人 may vary by deployment. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0189a24",
+          "ToLb": "0189b17",
+          "Kwic": "裕之滌公，亦是寄信人耳。大眾！且道要他寄個甚麼信聻？」良久云：「問取裕之西堂。」拂拂子，下座。德慧道人六旬請上堂。「靈利衲僧，不消一言，良驥追風，不加一鞭。若還擬議思量，向道且待驢年。不擬議思量，又且如何聻？人天交接，兩得相見。所以道：仁於慈合，釋於儒合，明於暗合，悟於迷合，智於愚合，唯有拄杖子不屬諸數。既不在數內，且道要他何用？」拈拄杖云：「閒來攜去聽瀑布，夜深拋向峰西。」卓一卓，下座。上堂。舉：「僧問雲門：『撥塵見佛時如何？』雲門云：『佛亦是塵。』」師頌曰：「撥塵見佛時如何？那事還曾撥得麼？佛亦是塵塵亦佛，木人撫掌笑呵呵。」下座。任公載居士四旬并祈嗣請上堂。「一有事，二有理，事理相融，可知禮也。」拈拄杖，卓一卓，云：「惟這裡不屬事，不屬理，撥轉關頭，可知禮也，然後可以垂手。三界之中，任你求壽命得壽命，求智慧得智慧，求男女得男女，求官位得官位。」遂拈拄杖劃一劃，云：「若不劃斷葛藤，幾乎流布。」都監問：「過去心不可得，現在心不可得，未來心不可得，得個甚麼？」師云：「各各眉毛，眼上橫曳杖。」便下座。師誕日，潯中弟子就梅檀林請上堂。僧問：「世尊初生即不問，吾師壽量事如何？」師云：「今年四十。」進云：「恁麼處處綠楊堪繫馬，家家有路透長安。」",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: direct verse deployment."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0840b15",
+          "ToLb": "0840c06",
+          "Kwic": "放百寶光明，於一一光中現千葉寶蓮，三世諸佛，歷代祖師，韋馱伽藍，檀越、經首、工匠，堂頭和尚、闔院大眾同登千葉寶蓮，結跏趺坐，合掌當胸，異口同音，高聲唱言：『普請大家同慶讚，一齊側耳聽法輪。』」遂卓拄杖一下，曰：「上來講讚良因，普霑沙界，秖如祝國裕民又作麼生？五湖四海歸王化，浩蕩乾坤萬億春。」下座。祈晴，上堂。師曰：「久雨不晴，浸爛衲僧鼻孔。簷聲弗斷，滴穿諸佛眼睛。直得燈籠撫掌，露柱微笑。且道明什麼邊事？若向這裏會得，敢保直下雲消霧散，杲日當空。曬得石人汗出，青天也須喫棒。」問：「昨日雨，今朝晴時如何？」師曰：「石人撫掌笑呵呵。」僧喝，師打曰：「好彩，不得不賞。」僧禮拜，師下座。佛誕日，上堂。師曰：「世尊未出世，人人鼻孔撩天，出世後，為甚杳無消息。於此明得，不妨與山僧拄杖子盤桓一上。」問：「世尊未離兜率，已降皇宮，未出母胎，度人已畢。因甚又上雪山，六年苦行？」師曰：「落花臺上重鋪錦。」曰：「既是天上天下惟我獨尊，又因夜睹明星悟道。且道悟個甚麼？」師曰：「瑪瑙階前布赤沙。」曰：「昔日鷲嶺，今朝龍山，是同是別？」師曰：「兩彩一賽。」曰：「可謂三生有幸逢師話，月到中天碧水寒。」師曰：「問事即得，禮拜了退。」問：「佛身無為，不墮諸數。既不墮諸數",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained deployment: independent direct answer."
+        }
+      ],
+      "SourceTexts": [
+        "J/J27/J27nB192.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Daxiu Zhu",
+        "Baishan Dekai"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A compact response image in which even an impossible wooden or stone person breaks into delighted recognition. Daxiu Zhu uses the expression through direct verse deployment. Baishan Dekai independently deploys it through independent direct answer."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "Id": "t_f1dba8686c85",
+  "SourceTerm": "燒鼎洞中樵",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "for firing the cauldron, cave-country firewood",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "for firing the cauldron, cave-country firewood"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Read 樵 here as gathered firewood or fuel wood, not automatically as the woodcutter; preserve the parallel with 煮茶山下水. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1338.xml",
+          "FromLb": "0186b03",
+          "ToLb": "0186c03",
+          "Kwic": "用處？師云：困。僧擬進語，師便打。問：如何是和尚家風？師云：有錫降龍虎。進云：忽遇上上人來又如何？師云：無心伏鬼神。問：如何是佛法大意？師云：侯伯乘鞍馬，村翁刺杖行。問：失前忘後時如何？師云：不。問：一得永得時如何？師云：抱石投河。問：學人仗鏌鎁劒取師頭時如何？師云：斬取去。僧擬開口，師便打。問：如何是南源狗？師云：觜。師乃云：一切諸佛及阿耨多羅三藐三菩提法皆從此經出。乃竪起拄杖，云：者箇是南源拄杖子，阿那箇是此經？良久，云：向下文長，付在來日。喝一喝，下座。因同人相訪，上堂云：颯颯涼風景，同人訪寂寥。煑茶山上水，燒鼎洞中樵。珍重！上堂。良久，云：無為無事人，猶是金鎻難。喝一喝，卓拄杖，下座。因雪下，上堂云：雪落漫漫，水雲何進？且道倒退一句作麼生道？還有道得麼？試出來道看。設你道得倜儻分明，南源未許你在。且道南源有什麼長處？時有僧問：如何是賓中賓？師云：禮拜更慇懃。進云：如何是賓中主？師云：拄杖常在手。進云：如何是主中賓？師云：橫擔楖栗撥乾坤。進云：如何是主中主？師云：劒握甑人手。問：如何是佛？師云：瀟湘班竹杖。問：達磨未來時如何？師云：長安夜夜家家月。進云：來後如何？師云：幾處笙歌幾處愁？問：四山火來時如何？師云：物逐人興。問：一物",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1338.xml). Recorded Sayings of Chan Master Shishuang Chuyuan. Shishuang Chuyuan owns the retained deployment: Ciming Chuyuan's own recorded verse containing the complete tea-and-cauldron pairing."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0012a02",
+          "ToLb": "0012a24",
+          "Kwic": "年也未夢見。且如何是自在法？」卓拄杖、云：「李郁桃穠春已半，繡堤黃鳥數聲幽。」上堂。「子規夜半啼殘月，口口聲聲歸去切，無柰時流不善聽，枝頭枝底盡紅血。盡紅血，何日歇？明年若弗再來啼，便是人間好時節。」道舊至，上堂。僧問：「門內有君子，門外君子至時如何？」師云：「玉笛橫拈信口吹。」進云：「聲應氣求遐古語，今朝方信不虛傳。」師云：「且莫喚鐘作甕。」乃云：「門內有君子，門外君子至，東溪水漲高，北嶺山增翠。政當與麼時如何？玉笛橫拈信口吹，清音落落動天地。」復舉慈明因同道相訪，陞座，云：「颯颯涼風景，同人訪寂寥，煮茶山下水，燒鼎洞中樵。」後楚石拈云：「慈明老人家貧，難辦素食事，忙不及草書，只是不合將常住物作自己用。」師云：「禮數周旋，不無慈明，遠祖私用常住，未免取笑傍人，山僧此者將自己物作常住用去也。」遂展兩手，云：「調味莫嫌入口淡，論交還我道情濃。」師過海寧東嶽，禪林悟雲生日，請上堂。「天是天、地是地、山是山、水是水、人是人、物是物，各安其位、各遂其生，與麼會去，著衣喫飯蓋是尋常，見色聞聲頭頭不昧。「然雖如是，但可入佛，不可入魔，直須拶開向上玄關，透出五陰區宇，酒肆茶坊無罣礙，魔宮虎穴任優游，獄卒夜叉喚來添香運水，閻羅秦廣與他握臂齊肩，到這裏",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "verse-author",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: independent active quotation of Ciming's verse."
+        }
+      ],
+      "SourceTexts": [
+        "X/X69/X69n1338.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Shishuang Chuyuan",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The closing image in Ciming's visitor verse: tea uses water from below the mountain and the cauldron is fired with wood gathered in the mountain recess. Shishuang Chuyuan uses the expression through Ciming Chuyuan's own recorded verse containing the complete tea-and-cauldron pairing. Baichi Xingyuan independently deploys it through independent active quotation of Ciming's verse."
+    }
+  ]
+}

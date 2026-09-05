@@ -1,0 +1,68 @@
+{
+  "Id": "t_ee1c7b638b75",
+  "SourceTerm": "韻出青霄",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "V6 batch44 A+B constructor",
+  "WrittenUtc": "2026-07-29T10:45:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "its resonance issues into the blue heavens",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "its resonance issues into the blue heavens"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Govern the “beyond the pitch-pipes” or “not falling within the five tones” continuations and the knowing-hearer continuation where present; 韻 is resonance or musical quality, not merely spoken rhyme. No lamp is retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0661b07",
+          "ToLb": "0661b30",
+          "Kwic": "上堂。「當陽一句無遮，機用超然自異。不羨目連神通，誰誇鶖子智慧。劈破臨濟三玄，混融洞山五位。燈籠速證法身，露柱頓獲三昧。今朝覿面拈出，直要諸人瞥地。大眾！畢竟是那一句？」喝一喝，下座。上堂。舉：「文殊師利問菴提遮女曰：『明知生為不生性，因甚又被生死之所流轉？』荅曰：『其力未充。』」乃云：「者般說話大似泥裏洗土塊，有甚分曉？論量將來都好喫棒。如何得不落生死？三月春光爛熳天，滿山紅紫亂如煙，分明好箇無生句，不信從教問杜鵑。」上堂。「第一義兮說似汝，不須舌上覓言語。大丈夫兒唯自許，急看取，落花滿眼飛紅雨。數聲鐵笛隔江渚，韻出青霄絕律呂。知音那待重相舉，且歸與，月上三更聽杜宇。」上堂。「祖師西來，不立文字，直指人心，見性成佛。古人與麼道，大似宋客獻璞，遼人進豕。殊不知佛祖未出世已前，好不資一毫，醜不資一毫，無男無女，無真無俗，人人壁立萬仞，箇箇常光現前，孰不為雄雄大丈夫？佛日與麼舉揚，未審諸人作麼生會？」拈拄杖云：「若作佛法會，打折汝驢腰。」上堂。「頂門一竅，八面玲瓏。格外風光，阿誰欠少？日月不能掩其輝，虛空無以包其體。歷劫孤明，昭然不昧。是以善財童子一生取辦，娑竭龍女直下成佛。迥超修證之功，了無聖凡之隔。然此猶是尋常事，如何出格一句？霜風",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: direct iron-flute verse whose resonance passes beyond the regulated tones."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0714b16",
+          "ToLb": "0714c08",
+          "Kwic": "不止，昇上座向它道：『河裏是水。』其人搖手不信，遂至抱渴而死。一人坐飯籮邊叫饑不止，昇上座向它道：『籮裏是飯。』其人亦搖首不信，遂至忍餓而終。諸兄弟！河裏是水，渴死不信；籮裏是飯，餓死不信。當斷不斷，祇為太近，雖有智者，不能打正。行路難，行路難，萬仞峰頭君自看。」開山達法禪師忌日，弟子行俊等請秉拂。問：「山山已抹金風令，樹樹經霜盡落輝，此境此時即不問，歸真一句請師題。」師云：「杲日正當午。」進云：「恁麼則一片白雲橫海上，幾多歸鳥盡迷巢。」師云：「自領出去。」進云：「大師也不得無過。」師云：「你喫不得棒在。」進云：「韻出青霄天外響。」師云：「且緩緩承當。」乃云：「傑出青州老象龍，飄然一衲下江東，已窺太白源頭活，直引曹谿河北通。淵默雷聲酬百問，風行艸偃下王公，至今雨露人心在，靈塔年年淚染紅。此蓋開山達法禪師有如是氣概，故有如是節操；有如是節操，故有如是向往；有如是向往，故有如是識見；有如是識見，故有如是運籌；有如是運籌，故有如是機用。生居無佛之鄉，提挈伶俜之子，荒田植以嘉穀，頑石鑿其混濛，插莖茅而變現瓊樓，出一語而敬欽神鬼，儼若龍王行雨，高低普潤；亦猶長者施財，貧乏悉均。其有功於齊魯之邦，蓋如日之炤、月之臨矣，則其感發人心，又豈有生存死",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: independent direct deployment of the sky-rising resonance image."
+        }
+      ],
+      "SourceTexts": [
+        "J/J36/J36nB359.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Baiyu Jingsi",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A sound image for a flute or song whose resonance rises beyond ordinary tonal measure, used with knowing-hearer language rather than as a claim about loud volume alone. Baiyu Jingsi uses the expression through direct iron-flute verse whose resonance passes beyond the regulated tones. Tian'an Sheng independently deploys it through independent direct deployment of the sky-rising resonance image."
+    }
+  ]
+}
