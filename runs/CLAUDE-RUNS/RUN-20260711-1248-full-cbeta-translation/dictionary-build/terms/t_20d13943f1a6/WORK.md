@@ -11,3 +11,4 @@ opening-interpretation-verdict: licensed by retained evidence.
 source-aware-depth-ruling: authored texts were preferred, then recorded sayings; no lamp was retained.
 sense-target-distinguishability: where multiple senses are retained, their targets and evidence jobs are explicitly distinguished in the worksheet.
 verdict: COMPLETE after compiler and bounded hard-pass review.
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (B-extend x1)

@@ -13,3 +13,12 @@ sense-target-distinguishability: where multiple senses are retained, their targe
 verdict: COMPLETE after compiler and bounded hard-pass review.
 
 - reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md
+
+## S1-a residue relocation (2026-09-01)
+
+Removed from entry.v2.json (production-shape hygiene,
+SPEC_S1_20260901.md §3); values preserved verbatim:
+
+- `Senses[0].Occurrences[0].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+
+- s1-20260901: residue-key purge per SPEC_S1_20260901_v2.md (aa-residue-AuthoredVoiceRiskReviewed x1)

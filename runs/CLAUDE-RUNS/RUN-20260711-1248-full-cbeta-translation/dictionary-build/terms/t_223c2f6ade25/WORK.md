@@ -1,2 +1,3 @@
 # 一大事因緣 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: The occasion or causal circumstance of the one great matter.\n- limit: The phrase is inherited from the Lotus formulation; the three families are independent Chan deployments, not three claims of lexical coinage.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Shakyamuni Buddha, Yuanwu Keqin, Zhongfeng Mingben.\n
 - reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x3)

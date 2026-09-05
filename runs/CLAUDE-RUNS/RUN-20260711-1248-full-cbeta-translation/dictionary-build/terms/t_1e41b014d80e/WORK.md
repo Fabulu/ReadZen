@@ -15,3 +15,14 @@ verdict: COMPLETE after compiler and bounded hard-pass review.
 - reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md
 
 - t3b1-20260831: rule-22 pipeline-vocabulary rewrites per SPEC_T3B_20260831.md (T3b-1 deterministic families B1-B7; B6-deployments x1)
+
+## S1-a residue relocation (2026-09-01)
+
+Removed from entry.v2.json (production-shape hygiene,
+SPEC_S1_20260901.md §3); values preserved verbatim:
+
+- `Senses[0].Occurrences[2].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+- `Senses[0].Occurrences[5].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+
+- s1-20260901: residue-key purge per SPEC_S1_20260901_v2.md (aa-residue-AuthoredVoiceRiskReviewed x2)
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (B-extend x1)

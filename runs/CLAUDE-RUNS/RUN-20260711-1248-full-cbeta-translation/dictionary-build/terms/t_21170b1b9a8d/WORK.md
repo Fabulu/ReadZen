@@ -13,3 +13,4 @@ sense-target-distinguishability: where multiple senses are retained, their targe
 verdict: COMPLETE after compiler and bounded hard-pass review.
 
 - t3b1-20260831: rule-22 pipeline-vocabulary rewrites per SPEC_T3B_20260831.md (T3b-1 deterministic families B1-B7; B6-deployments x1)
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (B-extend x1)

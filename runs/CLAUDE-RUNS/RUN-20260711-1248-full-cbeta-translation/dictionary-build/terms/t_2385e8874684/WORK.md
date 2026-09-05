@@ -1,1 +1,2 @@
 # 遞相鈍置 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: To pass the disadvantage back and forth, taking turns making fools of one another.\n- limit: The sharper 'make fools of' rendering is contextual; the alternate preserves the broader floor.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Zhongfeng Mingben, Tianyin Yuanxiu, Poshan Haiming.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x3)

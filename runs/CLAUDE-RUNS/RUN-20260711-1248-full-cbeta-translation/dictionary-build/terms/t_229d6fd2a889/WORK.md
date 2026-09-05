@@ -1,1 +1,2 @@
 # 仁者見之謂之仁 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: The first half of the paired saying: the humane see it and call it humane, while the wise call it wise.\n- limit: The inherited source of the maxim is not treated as another Chan deployment family.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Dahui Zonggao, Tian'an Sheng, an unnamed layman.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x3)

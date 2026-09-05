@@ -22,3 +22,15 @@ review-correction: Dropped misattributed redundant J25 witness; restored frozen 
 depth-exception: Root authorized six independent families after frozen-candidate exhaustion; X78 duplicates Zhaozhou, B25 duplicates Huanglong, and D51 is excluded Japanese material.
 
 - reghomo-20260831: registry-title homoglyph repair (Essentials of the Mind b…->Essentials o… x1) per SPEC_REGHOMOGLYPH_20260831.md
+
+- t3b2-20260831: pipeline-vocabulary purge per SPEC_T3B2_20260831.md (site table + family rules + D-class drops; frozen-prefix x1)
+
+## S1-a residue relocation (2026-09-01)
+
+Removed from entry.v2.json (production-shape hygiene,
+SPEC_S1_20260901.md §3); values preserved verbatim:
+
+- `Senses[0].Occurrences[1].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+- `Senses[0].Occurrences[4].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+
+- s1-20260901: residue-key purge per SPEC_S1_20260901_v2.md (aa-residue-AuthoredVoiceRiskReviewed x2)

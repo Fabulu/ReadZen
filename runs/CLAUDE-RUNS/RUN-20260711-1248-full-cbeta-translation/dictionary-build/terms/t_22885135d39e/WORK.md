@@ -1,1 +1,2 @@
 # 一塵 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: One speck of dust, used as the smallest named particle in a scene or comparison.\n- limit: Later compounds may lexicalize separately; they are not imported into 一塵.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Xuefeng Huikong, Yongjia Xuanjue, Dawei Jinglun.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x3)

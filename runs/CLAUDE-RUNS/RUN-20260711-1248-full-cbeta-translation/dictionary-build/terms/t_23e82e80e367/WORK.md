@@ -1,1 +1,2 @@
 # 渴飲饑餐 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: To drink when thirsty and eat when hungry.\n- limit: The composite oxherding collection requires the local verse heading for authorship, which is retained.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Puming, Huangbo Wunian, Shiqi Tongyun.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x2, B-extend x1)

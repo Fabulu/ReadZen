@@ -10,3 +10,15 @@ opening-interpretation-verdict: licensed by retained evidence.
 
 source-aware-depth-ruling: authored texts were preferred, then recorded sayings; lamps are last-resort corroboration only.
 verdict: COMPLETE after compiler and bounded hard-pass review.
+
+## S1-a residue relocation (2026-09-01)
+
+Removed from entry.v2.json (production-shape hygiene,
+SPEC_S1_20260901.md §3); values preserved verbatim:
+
+- `Senses[0].Occurrences[1].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+- `Senses[0].Occurrences[2].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+- `Senses[0].Occurrences[6].ActorAttribution.AuthoredVoiceRiskReviewed`: true
+
+- s1-20260901: residue-key purge per SPEC_S1_20260901_v2.md (aa-residue-AuthoredVoiceRiskReviewed x3)
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (B-extend x1)

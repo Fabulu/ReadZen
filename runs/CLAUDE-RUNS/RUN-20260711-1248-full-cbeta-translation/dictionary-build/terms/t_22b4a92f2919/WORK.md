@@ -1,1 +1,2 @@
 # 收歸上科 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: A closing verdict that gathers the just-listed alternatives back under the preceding category or heading.\n- limit: The examination-register wordplay remains visible but does not create a second sense.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Feiyin Tongrong, Sanyi Mingyu, Baichi Xingyuan.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x2, B-extend x1)

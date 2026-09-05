@@ -1,1 +1,2 @@
 # 把手共行 — R94 correction2 Lane A\n\n- authority: final Lane A correction1 closure.\n- meaning: To join hands and walk together, used as a verdict of keeping company on equal footing.\n- limit: Quoted historical figures in the surrounding cases are context, not headword actors.\n- retained families: 3 independent Tier 1/2; Tier 3: 0.\n- actors: Jinul, Gulin Qingmao, Zhongfeng Mingben.\n
+- q3-20260901: re-window/mis-binding repairs per SPEC_Q3_20260901.md + AMENDMENT 1 (A-rebind x2, B-extend x1)
