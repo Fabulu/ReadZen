@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "audit-campaign-500-adjudication.v1",
+  "audit": "maintenance/audit-campaign-500-20260906.json",
+  "adjudicatedUtc": "2026-09-06",
+  "scopeNote": "507 completed installs (the unit the 500-rule counts) over 384 distinct entries: r7-depth=123 (supersedes r7's same-id creates), r8=116, r9=145. r9 fully law-governed: ZERO findings. r8: exactly the 1 finding the r8 prose-law calibration predicted. r7-depth: 54 findings, all pre-law convention.",
+  "checksClean": ["A_tierDrift", "B_families", "C_attribution", "D_claimAnchors", "F_presence"],
+  "verdicts": [
+    {
+      "class": "E_kwic r7-depth (48 occurrences, 36 entries)",
+      "verdict": "REPAIR - window re-cuts, not corruption",
+      "evidence": "All 48 flagged kwics verified contiguous under the RAW itertext projection (apparatus included) - verified programmatically this session. The r7-depth lane cut windows under the pre-r8 convention; the reading-text projection (note/app/rdg/choice/corr/sic/lem excluded, keep-tail) became lane law at r8 (LAW DECISION 2026-09-06, r8 promote calibration pass 2). Citation-integrity defect only: a reader following the lb anchors will not find the quoted apparatus text as displayed reading text.",
+      "action": "Repair cohort: re-cut the 48 windows to reading-text slices (same witnesses, same attribution, re-derived FromLb/ToLb), recompile hardPass, replace-mode install. Precedent: A2's 15 window re-cuts in r8."
+    },
+    {
+      "class": "G_prose r7-depth (6 items)",
+      "verdict": "REPAIR - dangling-quote law #10 retroactive",
+      "evidence": "Chinese strings in Explanation/Note not covered by retained kwics: t_3c8833315121 明晃晃 (Explanation) + 黑漆桶 (Note), t_47af42c0fe79 巡堂茶 (Note), t_57adb7933739 新鮮葛藤 (Note), plus the remaining items in the audit json. Dangling-quote law wired from r8 calibration onward; these entries predate it.",
+      "action": "Per string: extend a kwic window to cover it where the witness genuinely contains it, else retract the string from prose. Recompile hardPass, replace-mode install."
+    },
+    {
+      "class": "G_prose r8 (1 item)",
+      "verdict": "RETRACT - outside knowledge, anchoring impossible",
+      "evidence": "t_18c58e69a6d2 無欠無餘 s1 Explanation names Sengcan + the Xinxin Ming for the couplet 圓同太虛，無欠無餘. Corpus scans this session: 227 files contain 無欠無餘, 37 contain 圓同太虛; ZERO reading-text windows within +-160 chars name 信心銘/僧璨/三祖/鑑智/鑒智; no registered title of any couplet-quoting work carries the attribution; T48n2010 (the Xinxin Ming) is NOT cited by the entry. The attribution is stated nowhere in the corpus adjacent to the line.",
+      "action": "Rewrite the opening to the licensed quote only (keep 圓同太虛，無欠無餘 - kwic-covered; drop 'The tag is Sengcan's: the Xinxin Ming line'), recompile hardPass, replace-mode install. 8d option (a) impossible, option (b) applies."
+    }
+  ],
+  "repairLane": {
+    "name": "audit500-repair-1",
+    "entries": 42,
+    "mode": "replace",
+    "blockedUntil": "recorded; agents to be spawned after this adjudication is committed"
+  },
+  "counterAfterAudit": 548,
+  "reset": "audit counter continues; next crossing at 1048 (lane r14-ish)"
+}

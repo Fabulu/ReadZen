@@ -1,0 +1,369 @@
+{
+  "schema": "campaign-audit-500.v1",
+  "rule": "user directive 2026-08-25: batch audit every 500 completed installs; this is crossing #1 (counter 403 -> 548 via r9)",
+  "scope": [
+    {
+      "cohort": "fresh10k-r7",
+      "entries": 0
+    },
+    {
+      "cohort": "fresh10k-r7-depth",
+      "entries": 123
+    },
+    {
+      "cohort": "fresh10k-r8",
+      "entries": 116
+    },
+    {
+      "cohort": "fresh10k-r9",
+      "entries": 145
+    }
+  ],
+  "publicTermbaseSha256": "96d6bb761797ddb69ed7d9f6343127a08eb45a7d4c515519e0582175a96d5a93",
+  "checks": {
+    "A_tierDrift": 0,
+    "B_families": 0,
+    "C_attribution": 0,
+    "D_claimAnchors": 0,
+    "E_kwic": 48,
+    "F_presence": 0,
+    "G_proseEvidence": 7
+  },
+  "coverage": {
+    "anchorsChecked": 0,
+    "kwicsChecked": 2785
+  },
+  "findings": [
+    {
+      "id": "t_0ac851a89500",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T47/T47n1998A.xml"
+    },
+    {
+      "id": "t_3c8833315121",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J26/J26nB188.xml"
+    },
+    {
+      "id": "t_3c8833315121",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J27/J27nB192.xml"
+    },
+    {
+      "id": "t_3c8833315121",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Explanation 明晃晃; s1 Note 黑漆桶"
+    },
+    {
+      "id": "t_3ce2e23e7d3e",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2003.xml"
+    },
+    {
+      "id": "t_41246d5b887c",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J26/J26nB188.xml"
+    },
+    {
+      "id": "t_41246d5b887c",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J25/J25nB171.xml"
+    },
+    {
+      "id": "t_41b514b7a107",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X69/X69n1357.xml"
+    },
+    {
+      "id": "t_41b514b7a107",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X64/X64n1269.xml"
+    },
+    {
+      "id": "t_47af42c0fe79",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2025.xml"
+    },
+    {
+      "id": "t_47af42c0fe79",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Note 巡堂茶"
+    },
+    {
+      "id": "t_49993125d5e4",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X70/X70n1390.xml"
+    },
+    {
+      "id": "t_4d5912f8aa86",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J40/J40nB493.xml"
+    },
+    {
+      "id": "t_51eb7fb10535",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X70/X70n1390.xml"
+    },
+    {
+      "id": "t_51eb7fb10535",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J25/J25nB171.xml"
+    },
+    {
+      "id": "t_5423599473c6",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2003.xml"
+    },
+    {
+      "id": "t_567f2d70262d",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of L/L158/L158n1652.xml"
+    },
+    {
+      "id": "t_57adb7933739",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of B/B25/B25n0145.xml"
+    },
+    {
+      "id": "t_57adb7933739",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Note 新鮮葛藤"
+    },
+    {
+      "id": "t_60b39ad08584",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T47/T47n1996.xml"
+    },
+    {
+      "id": "t_689d66191177",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J25/J25nB171.xml"
+    },
+    {
+      "id": "t_689d66191177",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J26/J26nB178.xml"
+    },
+    {
+      "id": "t_86eb9d035f12",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X67/X67n1301.xml"
+    },
+    {
+      "id": "t_8b022b0b9b34",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2010.xml"
+    },
+    {
+      "id": "t_8ee43495fc46",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J33/J33nB287.xml"
+    },
+    {
+      "id": "t_905291bc832b",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J34/J34nB300.xml"
+    },
+    {
+      "id": "t_95da8a05e940",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2003.xml"
+    },
+    {
+      "id": "t_9877cd6acceb",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2004.xml"
+    },
+    {
+      "id": "t_9877cd6acceb",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X67/X67n1304.xml"
+    },
+    {
+      "id": "t_993dfd9c2e5e",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Note 猛虎咬大蟲"
+    },
+    {
+      "id": "t_9bbc996ba00c",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J28/J28nB219.xml"
+    },
+    {
+      "id": "t_a16b2fe0b03b",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J38/J38nB427.xml"
+    },
+    {
+      "id": "t_a20b00bfc459",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2003.xml"
+    },
+    {
+      "id": "t_a2c9cd3591ac",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Explanation Guzhuo Jun"
+    },
+    {
+      "id": "t_a3ed07b5afd3",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X69/X69n1353.xml"
+    },
+    {
+      "id": "t_a3ed07b5afd3",
+      "cohort": "fresh10k-r7-depth",
+      "check": "G",
+      "detail": "s1 Note 沒絃琴韻"
+    },
+    {
+      "id": "t_a450f2a2bbd5",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2004.xml"
+    },
+    {
+      "id": "t_a5355bf7b151",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J27/J27nB198.xml"
+    },
+    {
+      "id": "t_b2088b5b41ef",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X70/X70n1390.xml"
+    },
+    {
+      "id": "t_b8bd44c72487",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T47/T47n1996.xml"
+    },
+    {
+      "id": "t_cb0d8fa5aaad",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X69/X69n1360.xml"
+    },
+    {
+      "id": "t_cdb08a1332aa",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X67/X67n1301.xml"
+    },
+    {
+      "id": "t_cffaf560969c",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X69/X69n1357.xml"
+    },
+    {
+      "id": "t_d581203bd210",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X72/X72n1437.xml"
+    },
+    {
+      "id": "t_d581203bd210",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T47/T47n1987A.xml"
+    },
+    {
+      "id": "t_db8a5fc059a9",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of B/B25/B25n0145.xml"
+    },
+    {
+      "id": "t_db8a5fc059a9",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2004.xml"
+    },
+    {
+      "id": "t_dd20a4c048c7",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X72/X72n1437.xml"
+    },
+    {
+      "id": "t_ee1c7b638b75",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of X/X67/X67n1303.xml"
+    },
+    {
+      "id": "t_f2e5003d69e3",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J40/J40nB479.xml"
+    },
+    {
+      "id": "t_f8fec4e1b3e9",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J25/J25nB163.xml"
+    },
+    {
+      "id": "t_f8fec4e1b3e9",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2003.xml"
+    },
+    {
+      "id": "t_fa94f5db6dfe",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of T/T48/T48n2004.xml"
+    },
+    {
+      "id": "t_fdc564b853d8",
+      "cohort": "fresh10k-r7-depth",
+      "check": "E",
+      "detail": "kwic not contiguous slice of J/J40/J40nB494.xml"
+    },
+    {
+      "id": "t_18c58e69a6d2",
+      "cohort": "fresh10k-r8",
+      "check": "G",
+      "detail": "s1 Explanation Sengcan"
+    }
+  ],
+  "verdict": "FINDINGS"
+}
