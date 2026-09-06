@@ -1,0 +1,194 @@
+{
+  "Id": "t_380800a782cb",
+  "SourceTerm": "地水火風",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:37:26Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "earth, water, fire, and wind",
+      "AlternateTargets": [
+        "the four constituents"
+      ],
+      "SearchAliases": [
+        "the four elements",
+        "earth water fire wind",
+        "the four great constituents"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 210 hits in 90 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0009b19",
+          "ToLb": "0009c08",
+          "Kwic": "明功。不礙隨方作主。回塗復妙。何妨觸處為家。頭頭和合因緣。恰恰現成公案。所以古人道。周遍十方心。不在一切處。諸人還委悉麼。良久云。幽洞不拘關鎖意。縱橫那涉兩頭人。上堂云。生生死死。輪迴之跡無窮。寂寂惺惺。真照之機不昧。雲倚山而是父。箇中功就於功。月在水而為家。直下住無所住。離見聞覺知有智。非分別心。離地水火風有身。非和合相。所以道。四大性自復。如子得其母。諸禪德作麼生。行履得恁麼相應去。還會麼。霜天月落夜將半。誰共澄潭照影寒。寶峯師叔遷化。上堂云。五九四十五。春風吹斷前山雨。行雲歸去復何心。轉背飄然無覓處。無覓處知不知。坐斷十方還是誰。東弗于代欝單越。西瞿耶尼閻浮提。上堂云。影轉體前。白雲就青山之父。光分",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment, ruling the body apart from the four constituents to be no compound."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0815a03",
+          "ToLb": "0815a20",
+          "Kwic": "子有甚麼奇特。擲下云。不直半分錢。上堂。徑山無寸土莊田。今夏隨宜結眾緣。慵論道嬾談禪。拄杖挑來箇箇圓。不用息心除妄想。大家喫飯了噇眠。噇眠則不無。或若夢中有人索飯錢又作麼生。依稀似曲纔堪聽。又被風吹別調中。上堂。僧問。法身有三種病二種光。光即不問。未審法身還具四大也無。師云具。進云。如何是法身。師云。地水火風。進云。如何是四大。師云漆桶不快。進云。法身向上還更有事也無。師云。但向下會取。乃舉僧問趙州。如何是出來底人。州云。諸佛菩薩。師云。大小趙州。元來膽小。或有人問徑山。如何是出來底人。向他道。泥猪疥狗。他若道。徑山舌頭得恁麼自在。我也知爾是箇漆桶。上堂。僧問。萬機休罷獨坐大方。猶是向下事。如何是向上事。師",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, answering what the true body is with the string itself."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0861a06",
+          "ToLb": "0861b02",
+          "Kwic": "白牯貍奴咸具足那知具足處難憑千般幻妄元依覺萬種修持緫滯能石虎空中吞皓月波斯夜半嚼寒氷遣情離謂離還遣物物全彰最上乘十方世界即摩尼珠。法法依之而影現。大千剎土是寶絲網。物物仗此而光騰。大火聚裏不許藏身。塗毒鼓邊豈容側耳。普眼向無方便中曲伸請問。鴛鴦帳裏春正濃。世尊於絕思惟處俯徇來機。歌管叢中酒方勸。捏聚則地水火風鐵山岌岌。放開則見聞知覺玉海沉沉。枕邊之槐國夢回。室內之蘭膏燄炯。應時圓淨。敲鑼擂鼓共演真常。當處等平。打戶搥門併歸圓覺。彈指頃孰修孰證。舉世間誰悟誰迷。苟非象外廓明。󷘓作門前之繞。偈曰。無邊剎海虛明鏡積刦埋塵光未虧肯把幻緣滋幻影誰將真智起真規徒誇萬里還家日謾說千燈照室時安有住持圓覺者教人容易作思惟",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, pinching the four together into an iron mountain and letting the knowing sink like a jade sea."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0065a19",
+          "ToLb": "0065b10",
+          "Kwic": "訛。余三十年前與令師祖啞菴老子於江湖上究之已熟，此老雖過去久矣，然浮屠巍然，肉猶煖在。歸到家山，但拊塔而問之，此老雖冥冥中自有方便，然子生平崛強，豈甘受秤鎚落井之譏耶？佗日再南，却須為我說破，無爽此語。示覺照首座(前住江州東林)示覺照首座行脚道流挑箇鉢囊，置身在叢林中，只要洞明自己，自己若不洞明，麤則被地水火風汩沒，細則被生住異滅流注，內為見聞覺知所惑，外為色空明暗所使，無自由分，是佗本色行脚道流。一旦洞明自己許多粗細內外境界，盡向這裏一時氷銷瓦解，任是從上若佛若祖、天下老和尚，悉須向背後叉手，蓋由佗識得自己分明，於一切處作得主宰，不為一切善惡凡聖搖撼，到此田地，亦未是本色行脚道流立地處在。豈不見曹山和尚云：師",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, warning that the unseeing traveler is drowned in the coarse four constituents."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0180a13",
+          "ToLb": "0180b03",
+          "Kwic": "上堂，僧問：如何是教外別傳底句？師云：不落玄玅。問：恁麼則直入如來地。師云：且緩緩。問：如何是學人行履處？師云：你適間從甚處上來？問：如何報得四恩三有去？師云：但從適間路下去。問：虎逼臨崖時如何？師云：命若懸絲。進云：相救，相救。師拈拄杖擲與之。乃云：諸和尚子親明自性，莫得認寒則向火、熱則乘凉底是，莫得認地水火風散時一念不動底是，莫得認老僧開口動舌底是。古人云：此性本來清淨，具足萬德，但以隨染淨二緣而有差別。故諸聖悟之，一向淨用而成覺道；眾生迷之，一向染用沒溺輪迴，其體不二。卓拄杖一下，喝一喝。夜參，云：少室無門戶，如何便得通？夜寒寧耐立，聽我話西東。上堂：智慧刀裂破有漏愛網，金剛槌擊碎無明窠窟。無位真人乾屎",
+          "MasterName": "Hengchuan Rugong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Rugong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong owns the retained deployment, warning against taking the unmoved thought at the scattering of the four as it."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0667c22",
+          "ToLb": "0668a05",
+          "Kwic": "己有。《梵網經》云：『此戒即是諸佛之本源，亦是一切眾生之本源。』《首楞嚴經》云：『凡聖同源，縛脫無二。』此源即天地萬物、諸佛眾生之大源頭也。子今用自己心光返照自己身心之本源在於何處？汝照自身源于父母，父母源于祖父母，祖之又祖、源之又源，源至劫初、祖于一人，則得一國一洲有情之本源。初一人之身或別界傳來，或當處地水火風和合化生。是身之源亦本于四大，內之根身本于四大，外之器界亦本于四大，是四大為根身器界之本源。四大本于空，空本于無明。無明有二分：一分無知覺，為虛空、地、水、火、風五大；一分有知覺，為識、見二大，是無明為七大之本源。如是觀照則得十方無情有情一切世界之本源。此但照得有漏之源，無明無性轉出無漏淨智，出生一切諸",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, tracing the body's source back to the constituents' merging birth."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0742b24",
+          "ToLb": "0742c08",
+          "Kwic": "禮，今日大歇大休，始是他放身命處。老僧到這裏借面弔喪，也則依例而行，佛法不勞頻舉。」為陳母江太夫人對靈法語。「一踏滄江七十年，歸來原在閣門前。髑髏大好通消息，枯木龍吟只等閒。陳母江太夫人現優婆夷相，受波羅提木叉。佛聲浩浩，不難觸處知歸；梵響蒙蒙，便爾從聞得入。今日厭離塵網，大顯神通，向赤肉團上撩起便行，地水火風一回倒斷。太夫人！太夫人！你還知落處麼？伸手只在縮手裏，乘雁集不為多；解鈴須是繫鈴人，雙鳧飛不為少。威音王與樓至如來同日受生，實報莊嚴，與閻浮提一門出入。番身俊鷂，快便難逢。恁地去，恁地來，何等安閒！何等自在！若更瞻前慮後，轉腦回頭，便不是了。當日德山老漢是何等樣人？一部《青龍疏鈔》須賴他婆子焚卻。太夫人",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment, telling the departed lady she has lifted off the flesh-bundle and settled the four constituents in one stroke."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0186b22",
+          "ToLb": "0186c05",
+          "Kwic": "世及滅度者，非實非虛，非如非異，不如三界見於三界之相。」如斯之事，如來明見無有錯謬，必如是會，乃可謂以妙明不生不滅合如來藏，而如來藏唯妙覺明圓照法界者也。若眾生則不然，眾生不達山河大地由於無始覺明所生，以為萬法別有根本，與我為緣為對。殊不知法無自體，皆由我識心而有分別。若除分別，萬法自如。所謂非心非空，非地水火風等；即心即空，即地水火風等也。所以下文云：「根塵同原，縛脫無二。識性虛妄，猶若空華。」又曰：「知見立知，即無明本。知見無見，斯即涅槃。」無漏真淨，云何於中更容他物？正與《法華》如來明見之旨，互相明證也。阿難既聞覺明為世界之所生起，而又疑眾生何因有此覺明之妄。不知覺明之妄，因迷自有，迷則無因。此無性之旨，又",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, holding the four constituents neither affirmed nor denied — not them, just them."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml",
+        "X/X70/X70n1376.xml",
+        "X/X71/X71n1411.xml",
+        "J/J28/J28nB219.xml",
+        "J/J33/J33nB294.xml",
+        "J/J38/J38nB406.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Chijue Daochong",
+        "Hengchuan Rugong",
+        "Zhuanyu Guanheng",
+        "Liangting Jingting",
+        "Tianran Hanshi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed listing string naming the four constituents of body and world, asked about, traced to source, and scattered at death throughout the records. Hongzhi Zhengjue tells the assembly that the body apart from earth, water, fire, and wind is no compound, the wise apart from seeing, hearing, and knowing no divided mind; Dahui Zonggao, asked whether the true body possesses the four, answers that it does, and to what the true body is, answers with the string itself; and Zhongfeng Mingben works it into his instruction: pinched together the four constituents stand like an iron mountain, let go the seeing-heaving-knowing sinks like a jade sea. Chijue Daochong instructs the head monk that the traveler who has not seen through self is drowned in the coarse four constituents and flows on in birth-abiding-change-perishing; Hengchuan Rugong warns the monks not to take the unmoved thought at the scattering of the four as it; Zhuanyu Guanheng traces the body's source back through parents and eons to the constituents' merging birth, making the four the source of the body and its vessel world; Liangting Jingting, at the coffin, tells the departed lady she has lifted off the flesh-bundle and settled the four constituents in one stroke; and Tianran Hanshi, in his treatise reading, holds them neither affirmed nor denied — not mind, not empty, not the four; just mind, just empty, just the four."
+    }
+  ]
+}

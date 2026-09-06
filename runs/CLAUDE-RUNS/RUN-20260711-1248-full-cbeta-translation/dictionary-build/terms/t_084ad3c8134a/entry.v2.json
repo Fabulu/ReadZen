@@ -1,0 +1,195 @@
+{
+  "Id": "t_084ad3c8134a",
+  "SourceTerm": "小出大遇",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:56:29Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "went out small and met great",
+      "AlternateTargets": [
+        "set out on a small errand and met with a great gain"
+      ],
+      "SearchAliases": [
+        "small outing, great meeting",
+        "a modest errand, a mighty find",
+        "little coming-out, great encountering"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 161 hits in 84 files representing 82 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0744a07",
+          "ToLb": "0744b01",
+          "Kwic": "帝釋鼻孔你為什麼向日本國裏藏身僧云和尚莫瞞人好師云築著老僧鼻孔又作麼生僧無對師云將知你秪是學語之流代無語處云和尚秪恐某甲不實又云邏邏哩問新到你是甚處人僧云新羅人師云將什麼過海僧云草賊大敗師云你為什麼在我手裏僧云恰是師云㪍跳無對代前語云常得此便又云一任㪍跳問新到你在南岳山借我二百錢為什麼不還無對代云今日小出大遇又云今日不著便問僧心法雙忘是第幾座僧云第二座師云作麼生是第一座僧云不敢虧於和尚師不肯代云韶州籴米問僧什麼處來僧云摘茶來師云人摘茶茶摘人無對代云和尚道了某甲不可更道師問僧你是修造那云是師云盡乾坤是個屋作麼生是屋主無對師云你問我與汝道僧便問師云薨代前語云瞞却多少人來。師問僧汝是湖南出家那僧云是師云識三門",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the root deployment — the substitute answer lent to the speechless debtor newcomer, with the passing-by sibling given as its twin."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0991a06",
+          "ToLb": "0991a22",
+          "Kwic": "。日照天臨。若是大庾嶺頭底。物歸有主。當晚小參。僧問。承聞和尚有言。衲僧家不求諸聖。不重己靈。還端的也無。師云。聽教分曉。僧云。只如三條椽下。明甚麼邊事。師云。兩箇石人相耳語。僧云。與麼則德山臨際。倒退三千。師云。也恐如此。僧云。人天交接。兩得相見。一句作麼生。師云。大家在者裡。僧云。非但大眾觀光。學人小出大遇。師云。偷心鬼子。僧禮拜。師拈主丈云。若是我虎丘直下。如積世富兒一錢不亂使。箇箇生生獰獰局局促促。只因家法太嚴。以致門庭冷落。山僧沒興也撞入者保社。被人喚作松源嫡孫。可謂浪得其名。今夜已展不縮。未免向無人著眼處。拈出一星子。也教諸人知道十二峯頭。元有靈芝仙草。卓主丈。復舉。感首座問法昌。昔日北禪烹露地白",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the recorded exchange — the courtesy line claimed before the seat, graded at once as a thieving-mind little devil, then the master's own Huqiu ruling on coin and family discipline."
+        },
+        {
+          "RelPath": "X/X69/X69n1369.xml",
+          "FromLb": "0758a17",
+          "ToLb": "0758b07",
+          "Kwic": "：臘極嚴寒，凍破泥團。不可默會，不可形言。雞上樹，鴨下水，明朝更獻楚王看。喝一喝。上堂，舉：晦堂問僧：甚處來？僧云：南雄州。堂云：出來作甚麼？僧云：尋訪尊宿。堂云：不如歸鄉好。僧云：未審和尚令某歸鄉意旨如何？堂云：鄉里三錢買一片魚鮓如手掌大。師云：寧可碎身如微塵，終不瞎箇師僧眼目。晦堂可謂熟處難忘，者僧不知小出大遇，當時若解奮拳張意氣，世間何處可容伊？解夏，上堂。三百餘會，不博一笑；十萬里來，伎窮三拜。江湖不是無麟鳳，自是他家結網疎。岳林一夏以來，東奔西掃，未委布袋裏有多少？啞！解空第一。病起，上堂：鷲嶺拈花，少林得髓，病痛一般，脉息有異。脉得著，目前見鬼；脉不著，死而不吊。所以教中道：眾生病，我則病；眾生愈，",
+          "MasterName": "Dachuan Puji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dachuan Puji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji owns the retained deployment — rather be ground to dust than blind a monk's eyes, and the homebound monk ruled not to know the going-out-small-meeting-great."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0322a22",
+          "ToLb": "0322b12",
+          "Kwic": "坐底，妙圓通悟，正在茲時，堪報不報之恩，共助無為之化。其或未然，新長老重重失利。復舉：太宗皇帝因僧朝見，乃問：卿近離甚處？僧云：廬山臥雲菴。太宗云：臥雲深處不朝天，因甚到此？僧無語。雪竇代云：難逃至化。師拈云：太宗大人具大見，這僧大智得大用，雪竇雖則不負來機，未免鰕跳不出。若是新長老，當時只對云：今日小出大遇。且道還契得聖意也無？良久，云：慣從五鳳樓前過，手握金鞭賀太平。謝執事，上堂。眾流成海，眾毛成毬，一棚俊鶻，儒雅風流。石田無一事，坐地看楊州。上堂：石田乍到，人事紛紛。拈得鼻孔，失却眼睛。佛法二字，不怕爛却。且聽諸方行棒喝。浙翁遺書至，上堂：千五百人善知識，不念吾宗正岑寂。五峯趯倒浪翻空，大地山河俱失色。",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment — were I the new abbot, I would have answered: today I went out small and met great; then the five-phoenix tower line held out after the long stillness."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0461a30",
+          "ToLb": "0461c06",
+          "Kwic": "鴈，爭見海門秋？且功不浪施一句作麼生道？一氣不言含有象，萬靈何處謝無私？」復舉：「秀才閱《千佛名經》，問長沙岑和尚云：『百千諸佛但見其名，未審居何國土？還化物也無？』岑云：『黃鶴樓崔灝題詩後，秀才還曾題否？』才云：『不曾題。』岑云：『得閒題取一首好。』」師云：「老大宗師善應來機，不合己所不欲而施於人。秀才小出大遇，曷勝風騷？其奈鼻孔卻在他人手裏。是事且置，大眾要會小出大遇事麼？不遇中郎鑑，還同野舍薪。」一揆禪師語錄卷三終一揆禪師語錄卷四侍者成俊記錄住潭州神鼎資聖禪寺三住潭州神鼎資聖禪寺度僧，請上堂。問：「深入雪山即不問，金刀斷髮事如何？」師云：「金回冶色。」進云：「即今請法如何指示？」師云：「若是陶",
+          "MasterName": "Shending Yikui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shending Yikui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Changsha Jingcen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Shending Yikui owns the retained deployment — the scholar granted his going-out-small-meeting-great with nostrils still in another's hands, then the Zhonglang line: without the connoisseur's eye, still firewood at a rustic shed."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0360b27",
+          "ToLb": "0360c10",
+          "Kwic": "諸佛說不到，歷代祖師提不起，十大論師註不及，天下衲僧搆不著。是以天地未足喻其大，虛空未足喻其廣，日月未足喻其光輝，雨露未足喻其潤澤，神機莫測，靈應無方，若幽若顯，在聖在凡，莫不受其甄陶，被其化育，晦暝時為日月，險惡處作津梁，饑者得食，貧者得寶，疲癃殘疾者咸得其正，貪嗔癡恚者悉去其邪，令人人虛來實往，使箇箇小出大遇，三塗化為康莊之路，六欲頓息環轉之輪。然雖如是，猶屬教權，曲為中下。更有一句，口門未開以前，薦得已遲八刻，若待而今，劍去久矣。」大悲誕日，上堂。問：「人天共集，海眾臨筵，法座高陞，合談何事？」師云：「各自知機好。」進云：「喚作觀世音菩薩，又是正法明如來；喚作正法明如來，又是觀世音菩薩。正當恁麼時，喚作甚麼",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment — everyone come empty and return full, each and all set to go out small and meet great under a working the commentators cannot annotate."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0532c18",
+          "ToLb": "0532c30",
+          "Kwic": "不同、佛事不同，要且皆以圓覺陀羅尼而為根本。爾現前一眾，各各眼之所見、耳之所聞，有一發真歸源，則如上數佛皆為證據。且道以何為驗？」遂揮拂子，云：「今日堂中特謝供養。」師誕日，見忍、鑑虛二師統諸山耆宿請陞座。問：「諸佛出世為一大事因緣，今日和尚出世有何祥瑞？」師云：「眼看時雨霽，共見好風光。」進云：「學人今日小出大遇去也。」師云：「遇底事作麼生？」進云：「出群須是英靈漢，敵勝還他獅子兒。」師云：「謾誇好手。」問：「青桐翠竹寒來秀，古柏蒼松老更奇，請問和尚高臘多少？」師云：「適來猶記得。」進云：「學人即不然。」師云：「你試道看。」進云：「乾坤同不朽，日月共長明。」師云：「莫鈍置慶雲老好。」乃豎拂子，云：「要識者漢本有神通",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the recorded exchange — the birthday claim turned back with what is the affair of your meeting, the lion's-cub boast, and the fine-hand over-praised check."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n2000.xml",
+        "X/X69/X69n1369.xml",
+        "X/X70/X70n1386.xml",
+        "J/J37/J37nB388.xml",
+        "J/J37/J37nB386.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Xutang Zhiyu",
+        "Dachuan Puji",
+        "Huitang Zuxin",
+        "Shitian Faxun",
+        "Xuedou Chongxian",
+        "Shending Yikui",
+        "Changsha Jingcen",
+        "Yuan'an Liao",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A courtesy formula of unexpected gain — went out small and met great — supplied at the root by Yunmen for a speechless newcomer, and claimed, graded, denied, staged, and promised across the Song case-halls and the Qing assemblies. The root sits in Yunmen Wenyan's own screening-talk record: a newcomer is asked — on South Peak you borrowed two hundred coins of me; why do you not repay? — and at his silence the master lends him the answer: today I went out small and met great; and again: today the occasion passed me by; Xutang Zhiyu's hall carries the courtesy line live — not only did the great assembly behold the sight; I went out small and met great — and the grading answer lands at once: a thieving-mind little devil; the monk bows, the master raises his staff: were it me, Huqiu come directly down, like a rich heir of many generations not one coin misspent, each life fierce and cramped only because the family discipline is too strict; Dachuan Puji raises Huitang Zuxin's Nanxiong monk — better go home; in your village three coins buy a piece of fish-roe palm-sized — and rules: rather be ground to dust than blind one monk's eyes; Huitang's cooked place unforgotten, but that monk did not know going-out-small-meeting-great — had he known to raise fist and spirit, where in the world was there room for him?; and Shitian Faxun, over the emperor's cloud-rest hermit who came wordless to court with Xuedou's supplied answer — none escapes the perfect transforming — finds Xuedou true to the coming occasion yet still a shrimp that cannot leap out: were I the new abbot, I would have answered then: today I went out small and met great — does it still meet the sagely intent? a long stillness, then: used to passing before the five-phoenix tower, hand on the golden whip, hailing the great peace. Shending Yikui raises the scholar with the Thousand-Buddha Name Sutra — a hundred thousand buddhas seen by name only, what land do they dwell in, do they convert beings? — and Changsha Jingcen's return: since Cui Hao inscribed the poem on Yellow Crane Tower, has the scholar inscribed one? not yet — then find leisure to set down a good one; Yikui rules the old great teacher well met the coming impulse, yet imposed on another what he himself would not wish; the scholar went out small and met great, how it outdoes the airs — and yet his nostrils remain in another man's hands; setting that aside: does the assembly want to know the going-out-small-meeting-great affair? without the connoisseur's eye of Zhonglang, it is still firewood at a rustic shed; Yuan'an Liao, in an address of praise where the buddhas cannot speak it, the founding teachers cannot lift it, the ten great commentators cannot annotate it, the world's patch-robed ones cannot reach it — heaven and earth not vast enough, sun and moon not bright enough, the hungry fed and the sick righted — widens the promise past all courtesy: making everyone come empty and return full, setting each and all to go out small and meet great, the three wretched roads turned to level highways and the six desires' turning wheel stilled; and Yushan Shangsi, at the birthday seat his senior monks and the mountain elders beg him to take, hears the claim from the asking monk — today I too go out small and meet great — and turns it back: what is the affair of your meeting? the monk answers with the hero's line — to stand out from the herd one must be a bold spirit; to win the field, a lion's cub — and the master checks the boasting: a fine hand, over-praised."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "Id": "t_4fe9a760e306",
+  "SourceTerm": "萬物咸新",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:05:57Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "all things are made new",
+      "AlternateTargets": [
+        "every single thing renewed",
+        "the ten thousand things, new again"
+      ],
+      "SearchAliases": [
+        "all things renewed",
+        "everything made new at the year's turn",
+        "the ten thousand things renewed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 185 hits in 103 files representing 101 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0650a21",
+          "ToLb": "0650b08",
+          "Kwic": "岳秀。箇中時節若為分。師云。東君須子細。遍地發萌芽。學云。春去秋來事宛然也。師云。纔方搓彈子。便要揑金剛。乃舉。古人云我若向儞道。即禿却我舌。若不向儞道。即啞却我口。且道還有為人處也無。四面有時擬為儞吞却只被當門齒礙。擬為儞吐却。又為咽喉小。且道還有為人處也無。乃云。四面從來柳下惠。歲旦上堂云。元正啟祚萬物咸新。揚盡大千沙界。都來只在一塵。乃展手云。是新是舊。有人出來道看。若無四面且世諦流布去也。遂叉手云。孟春猶寒。伏惟。首座大眾洎諸知事。尊體起居萬福。上堂。僧問。千峯寒色即不問。雨滴嵓花事若何。師云。今日也相似。學云。一句逈超千聖外。千山鎖斷萬重關。師云。一滴落在什麼處。學云錯。師云錯。學云錯錯。師便打。",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment: the great thousand swept up into one dust, his open hand asking new or old — and if no one answers, the world's truth gets handed out the common way."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0123b24",
+          "ToLb": "0123c14",
+          "Kwic": "脊棒迸胸拳。晝夜方纔不可眠。虛空消殞更消殞。透過威音未朕前。咦栗棘金圈恣交𫋴。凱歌高賀徹風顛。上堂。夜半烏雞抱鵠卵。天明生出箇老鶴。毛長嘴短鷺鶿形。飛起一天星斗亂。古人恁麼道。只今眾中。莫有眼明心悟底麼。出來與古人相見。其或未然。一拳拳倒黃鶴樓。一踢踢翻鸚鵡洲。咄籬邊燕雀空啾啾。歲旦。上堂。元正啟祚。萬物咸新。伏惟大眾。梅開早春還見麼。舉拂子云。一枝拈起眼中塵。退院赴淨慈。上堂。半年喫飯坐鞔峯。鎖斷烟雲千萬重。忽地一聲轟霹靂。帝鄉春色杏花紅。臨安府淨慈禪寺語錄臨安府淨慈禪寺語錄參學唯敬編指山門。淨慈門下。牛欄馬厩。一拶透關。豁開宇宙。咦切忌追風捕影。至法座前。焚香謝恩。捧勅黃云。黃金殿上一轉語。烜爀",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantong Rujing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Monk Rujing. Tiantong Rujing owns the retained deployment: renewal wished on all — but do you yet see the plum opening in early spring? One branch lifted, and the dust is in your eye."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0295c14",
+          "ToLb": "0296a05",
+          "Kwic": "聚集片時，不似北禪烹露地白牛，大驚小怪，張龍打鳳，漉蜆撈蝦。但願明年蚕熟麥熟稻熟，鼓腹謳歌樂太平，六六還佗三十六。復舉：僧問古德：年窮歲盡時如何？德云：東村王老夜燒錢。師頌云：東村王老夜燒錢，𪹼竹聲中又換年。好是門前泥力士，不將閑事污心田。上堂：一二三四五，五四三二一。渡水不穿靴，黃昬候日出。元正啟祚，萬物咸新。看取千花生碓觜，太平元不在麒麟。天壽聖節滿，散。上堂：摩醯正眼，洞徹十虗。迦陵仙音，徧周沙界。標三才而建立，舉四海而安之。纘列聖之否圖，膺靈山之付囑。摧怨破敵，運金剛輪。發政施仁，作師子吼。當流虹之瑞旦，慶萬世之昌期。然則蕢桴土鼓，共樂升平。堯舜之君，猶有化在。所以道：向上一路，千聖不傳。萬仞崖頭，縱",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the retained deployment: after five-four-three-two-one he turns the calendar and asks them to watch the thousand flowers sprouting on the pestle's beak — the great peace was never in the unicorn."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0671c04",
+          "ToLb": "0671c11",
+          "Kwic": "頭佛法？師云：日日香花夜夜燈。進云：蒲團靜倚無餘事，永日寥寥謝太平。師云：知恩方解報恩。乃云：元正啟祚，須彌椎打虗空鼓；萬物咸新，普天和氣轉洪鈞。恭惟首座大眾，藍田美玉丹山鳳，各各起居多福。永日寥寥謝太平，一湖春水當門淥。江淛省丞相達識帖穆爾脩設水陸普度大會，陞座拈香",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu'an Zhiji. Yu'an Zhiji owns the retained deployment: Mount Sumeru drumming the open sky, the whole sky's harmony turning the great wheel — knowing kindness is what repays it."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0110b01",
+          "ToLb": "0110b14",
+          "Kwic": "，即今十五是如何？」師云：「眉毛卓豎。」乃云：「一機獨脫，立地超卓，拈三放兩，妖精伎倆，流布差殊作話端，到處逢人便喫棒，爭似全機截眾流，人間天上更無兩。明指破，休魍魎，拶著不知劈面掌。」元旦上堂，僧問：「新年頭有佛法，正是雪上加霜，新年頭無佛法，又成當面蹉過。不涉二途，請和尚別接來機。」師云：「元正啟祚，萬物咸新。」進云：「恁麼則直下有無俱不立，迥然獨露句超方。」師云：「闍黎自道取。」僧云：「禮拜和尚去也。」師云：「不干山僧事。」乃云：「一年三百六十日，今日分明是初一，會得一兮萬事周，世間出世從茲立。」卓拄杖，下座。上堂，僧問：「大通智勝佛，十劫坐道場，佛法不現前，不能成佛道。如今成佛否？」師云：「百草頭上無邊春。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: to the monk who will not settle for frost on snow or a miss to the face, he gives the couplet alone and tells him to say his own."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0004b19",
+          "ToLb": "0004b30",
+          "Kwic": "「且去爐邊共度量，再來方丈通箇消息。」歲旦，上堂。拈拄杖，卓云：「斬新條，行新令，凜凜威風孰敢競？竊符樹幟底擬即分身，戴角擎頭底觸之失命，不是強己抑人，亦非欺凡罔聖，大都真實丈夫兒，脊骨繇來似鐵硬。」復卓一卓。乃舉僧問鏡清：「新年頭還有佛法也無？」清云：「有。」僧云：「如何是新年頭佛法？」清云：「元正啟祚，萬物咸新。」僧云：「謝師荅話。」清云：「鏡清今日失利。」又，僧問明教：「新年頭還有佛法也無？」教云：「無。」僧云：「年年是好年，為什麼卻無？」教云：「張公喫酒李公醉。」僧云：「老老大大，龍頭蛇尾。」教云：「明教今日失利。」師云：「二尊宿，一人道有、一人道無，雖則各展家風，要且未能截斷這僧舌頭在。今日或有問蓮峰：『新年",
+          "MasterName": "Jingqing Daofu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingqing Daofu",
+              "Roles": [
+                "case-figure",
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Jingqing Daofu owns the root case the later masters keep raising: yes, there is Buddha-truth in the new year — this couplet is it — and when the monk thanks him for the answer, he confesses he has lost his edge today; Baichi adds that one said there-is, one said there-is-not, and neither cut off that monk's tongue."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0570c21",
+          "ToLb": "0571a11",
+          "Kwic": "䭔子是也不是？語默動靜，無第二人。東廊下、西廊下，口吧吧地，如瓶瀉水相似。驀劄，被人問：如何是上座？自己答不得。雖然答不得，要且不曾失。呵呵！下座。歲旦，上堂。拈拄杖，云：新年頭有佛法，拄杖子也未敢相許；新年頭無佛法，拄杖子也未敢相許；離四句、絕百非，總是諸方舊話子，拄杖子也未敢相許。畫一畫，元正啟祚，萬物咸新。上堂：過去諸如來且居門外，現在諸菩薩更莫躊躇，未來修學人快走始得。十方虗空撲落地上大洋，海底火發燒著帝釋眉毛，東海龍王轟一箇霹𮦷，新羅國裏拍手大笑，山門頭金剛竪起拳。華光土地道：用盡自己心，笑破他人口。喝一喝。結夏，小參。僧問：一言道盡時如何？師云：開口了，合不得。進云：不假一言時如何？師云：合口了，開",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: three refusals — there-is, there-is-not, past all sayings — then one stroke of the staff, and the couplet itself."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0388a18",
+          "ToLb": "0388b08",
+          "Kwic": "破自無愁，縱說真常道，是甚臭屎籌？諸人且道：貍奴精有甚長處？不見古人道：唯有貍奴却知有，直向毗盧頂上遊。元旦，示眾。𪹼竹聲中歲已殘，春風浩蕩海天寬，新年佛法今何在？桃李花開映寶欄。映寶欄，莫顢頇，若不於此通消息，枉向茲山走一番。僧問：請和尚別通箇消息。師與一掌，云：是甚麼？僧無語，師云：何不道元正啟祚，萬物咸新？元宵，示眾。今乃元宵佳節，山僧趂日子吉利，在石鼓山頭開箇賣燈心的小舖席。諸人有要傳燈續𦦨者麼？便請向前，眾不出，師云：昔百丈於火爐中拈起一星，頓令溈山輝天鑒地；龍潭於黑夜裏吹滅紙燭，直使德山瓦解氷消。乃至三世諸佛火火相傳，千七百祖燈燈繼𦦨，各各耀古騰今去也。山僧今夜也要與諸人成箇交易，管使人人慧炬燭天，",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: a palm and what-is-this for the monk who wants other word — then, when he has nothing, why not say the couplet after all?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1995.xml",
+        "T/T48/T48n2002A.xml",
+        "X/X71/X71n1414.xml",
+        "X/X71/X71n1421.xml",
+        "J/J26/J26nB178.xml",
+        "J/J28/J28nB202.xml",
+        "X/X71/X71n1420.xml",
+        "X/X72/X72n1437.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Tiantong Rujing",
+        "Liao'an Qingyu",
+        "Yu'an Zhiji",
+        "Feiyin Tongrong",
+        "Jingqing Daofu",
+        "Baichi Xingyuan",
+        "Chushi Fanqi",
+        "Yongjue Yuanxian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The year-turn renewal: with the first day all things are new at once — and the masters ask what, in you, has ever grown old. Wuzu Fayan holds his year's-first-day hall and says the whole great-thousand world, spread out and swept up, comes to a single dust — then opens his hand and asks the assembly: new or old? Say it; Tiantong Rujing at the year's turn wishes the assembly well and asks only whether they yet see the plum blossoms opening in early spring, lifting one branch into their eyes; Liao'an Qingyu counts down five-four-three-two-one, waits for sunrise at dusk, then turns the calendar and points at the thousand flowers sprouting on the pestle's beak — the great peace was never in the unicorn; Yu'an Zhiji pairs the couplet with Mount Sumeru drumming the open sky, the whole sky's harmony turning the great potter's wheel. Feiyin Tongrong, pressed by a monk to escape both there-is and there-is-not at the year's turn, answers with the couplet alone and tells the monk to say his own; Jingqing Daofu's root case, raised in Baichi Xingyuan's hall after his new-order staff address: asked whether there is Buddha-truth in the new year he says there is, gives the couplet as what it is, and when the monk thanks him he confesses he has lost his edge today — Baichi adds that neither elder cut off that monk's tongue; Chushi Fanqi lifts his staff and refuses the question three times over — there-is, there-is-not, past all sayings, the staff does not yet assent — then draws one stroke and gives the couplet itself; Yongjue Yuanxian gives a monk who wants other word a palm and what-is-this, and only when he falls silent asks: why not say the first day opens, all things are new?"
+    }
+  ]
+}

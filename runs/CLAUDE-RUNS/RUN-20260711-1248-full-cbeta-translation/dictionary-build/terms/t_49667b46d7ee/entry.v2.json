@@ -1,0 +1,154 @@
+{
+  "Id": "t_49667b46d7ee",
+  "SourceTerm": "但莫憎愛，洞然明白",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:49:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "only do not hate, do not love — and it opens clear",
+      "AlternateTargets": [
+        "just cut hate and love, and all is translucently plain"
+      ],
+      "SearchAliases": [
+        "no hate no love clarity",
+        "Xinxin Ming couplet on aversion and desire",
+        "drop aversion and craving, see plainly"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 49 hits in 40 files representing 38 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0512c02",
+          "ToLb": "0512c15",
+          "Kwic": "，超古超今，去亦得、來亦得、行亦得、住亦得。」驀卓拄杖一下云：「都盧收在拄杖頭上，優游自在，放曠逍遙。」喝一喝云：「既然如是，出門一句作麼生道？木人執板林間拍，石女含笙嶺外吹。」到德清縣開封寺，鳴鄒蔡封翁請上堂，師云：「迷封曠劫，開悟剎那，不涉迷悟關頭，別通消息，試道一句看？」良久云：「至道無難，惟嫌揀擇，但莫憎愛，洞然明白。」以拂子指上云：「上是天。」復指下云：「下是地，高是山、淵是水，男是男、女是女，僧是僧、俗是俗，老是老、少是少，如何道得不揀擇底句？」驀擲下拂子云：「撲落非他物，縱橫不是塵。」便下座。示眾，師云：「老僧今住箇破院子，多病，不能為汝等提持佛法兩字，賴土木瓦石為諸人轉大法輪，發諸人大機大用，切不得當面蹉過；",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. The retained deployment — the couplet given after the long silence, then up is heaven and down is earth, man man and woman woman, and the sentence that does not choose asked for as the whisk falls."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0396a03",
+          "ToLb": "0396a18",
+          "Kwic": "盧，我道祇如彈指速。假饒壽若太虗空，也是虗空畵眉目。惟有黧奴不記年，踏破虗空無兩足。三世諸佛不能知，露柱發笑燈籠哭。仁者若要明端的，請看多福一叢竹。上堂。至道玄默，靈智絕依。任你行喝行棒，早已落二落三。更加如何若何，直是千里萬里。所以從上諸佛結舌有分，歷代諸祖舉似無門。昔三祖信心銘云：至道無難，唯嫌揀擇。但莫憎愛，洞然明白。豈不是剖心剖膽說與後人？但既曰唯嫌，便是揀擇；既曰但莫，便是憎愛。况有明白可指，豈為究竟之談？須知至道無難亦無易，無揀擇亦無無揀擇，無憎愛亦無無憎愛，無明白亦無無明白。祇如老僧恁麼道，還免得過也無？老僧雖不落揀擇憎愛，亦是借揀擇憎愛為弄引，豈能免過？畢竟作麼生免得？老僧是洞下兒孫，却憶洞上之言。上堂。",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. The retained deployment — the couplet turned against itself: to say only-beware is already choosing, to say only-not is already hate-and-love, and the Caodong grandson recalling his house's words."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0629a13",
+          "ToLb": "0629a26",
+          "Kwic": "喝，云：「若無者一喝，幾乎葛藤遍地。」元旦，上堂。「旭日初晴，雲霞散彩；曉風乍暖，梅柳生輝。直得野老謳歌，樵人舞蹈。寶珠池畔，臣退位以朝君；花石澗邊，子轉身而就父。蜎飛蝡動，咸承化育之恩；卉木叢林，均賴帡幪之德。一入有慶，兆民賴之。且道是那一人？昨從鬧市頭邊過，處處文明賀聖朝。」上堂。「至道無難，惟嫌揀擇，但莫憎愛，洞然明白。堯舜令人聞之而皆喜，桀紂令人聞之而皆怒，此揀擇也。釋迦布髮掩泥而供然燈，調達推山驅象而害瞿曇，此憎愛也。如何得不揀擇、不憎愛去？今吳興潘居士飯僧，攢菜每人一碗，嚫錢每人一分，可謂財法二施等無差別。既無差別，於中還有揀擇、憎愛也無？更聽一偈：梅萼嫩，柳芽長，昨夜東風度短牆，叵耐枝頭老百舌，聲聲漏洩好春光。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. The retained deployment — Yao and Jie as the choosing, the spread hair and the pushed mountain as the hate and love, and the patron's equal bowls asked whether choosing still sits inside them."
+        },
+        {
+          "RelPath": "J/J33/J33nB286.xml",
+          "FromLb": "0498a22",
+          "ToLb": "0498b06",
+          "Kwic": "師云：「鳳啣丹詔傳來遠，莫向長安國裏居。」士云：「學人禮拜去也。」師云：「看取問頭。」下座。黃溪姚振綱、史雲山居士同眾信設供，請上堂。師云：「鐘鼓交參，人天畢集，新年頭佛法作麼商量？」豎拂，云：「會麼？三界惟心，萬法惟識，剎竿頭上風車子，三個猢猻夜簸錢。至道無難，惟嫌揀擇，夜半石人無影象，縱橫誰辨往來源？但莫憎愛，洞然明白，井底蝦蟆吞卻月，三更不惜夜明簾。今日山僧為諸仁者斬斷繩頭，汝等會得，則世、出世間如大鵬金翅鳥，劈海吞龍，毫無隔礙，乃至山河大地、僧俗男女、貧富貴賤，總在汝等自心發現。蓋因爾等循業昧己，障蔽本有光明，故爾先聖曲垂方便，普攝群機，流出一花五葉，分宗設教，建立綱旨，以至洞山五位、臨濟三玄、法眼六義、雲門顧鑒",
+          "MasterName": "Yingning Zhijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingning Zhijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. The retained deployment — the couplet wedged between the shadowless stone man and the moon-swallowing toad, and the rope-end cut for the assembly."
+        },
+        {
+          "RelPath": "J/J27/J27nB191.xml",
+          "FromLb": "0162b21",
+          "ToLb": "0162c03",
+          "Kwic": "則不然，兄弟家東去西去，一任向草披離處去，秪是不得觸著死蛇頭，若觸著他，則斷子命根；亦不得背著他，背著他，則不知伊落處。要且不觸不背，一句作麼生道？」放下拄杖，云：「了。」示眾。「至道無難，唯嫌揀擇。若然，則何必辨金沙、分玉石？」拈拄杖，云：「恁麼拈來用得親。」卓一卓，云：「會麼？」又卓一卓，云：「不會麼？但莫憎愛，洞然明白。雖然，更須知有一人不在明白裏，大眾還識此人麼？」復卓一卓，擲拄杖，歸室。小參。「今日不為別事，有則古公案與眾判斷判斷。」良久，以拂子拂一拂，云：「判斷了也。諸仁者！還見據款結案處麼？如未見，且看判第二則去。」舉：「世尊一日陞座，默然良久。羊打乾處臥。文殊白椎云：『諦觀法王法，法王法如是。』驢打濕處溺。這",
+          "MasterName": "Jinian Jingxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinian Jingxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. The retained deployment — the couplet given between two staff-knocks, and then the one person who is not inside the clarity asked of the assembly."
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0520c27",
+          "ToLb": "0521a11",
+          "Kwic": "髓敲磕將來，有漏笊籬，無漏木杓。六代祖師眼睛突出難辨，今日也恁麼，明日也恁麼。列在三條椽下，有什了期？狗脊坡頭，老鴉線斷。行到水窮處，坐看雲起時。尚有人不放伊過，鬧市裏一箇兩箇。君往西秦，我之東魯。」示眾。「古路少人行，孤峰無宿客，後會罕逢，南嶽讓和尚、嵩山安國師，往來不易，在天，天中尊、在人，人中尊，但莫憎愛，洞然明白。衲僧到此便道，不妨我東行西行。忽然暗地裏撞著露柱傍人，直喚你作瞎漢，你心還甘也未？」示眾。「至孝是重華，老僧有過，闍黎須知：坐則共你坐，立則共你立，為甚麼平地喫交，都扶不起？」一僧進前云：「和尚年尊，某甲無氣力。」師打一棒云：「不可教老僧自倒自起也。」示眾。舉：「南泉上堂云：『王老師賣身去也，還有人買麼",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. The retained deployment — in heaven honored in heaven, among men honored among men, the couplet given after them, and the blind-man cry of the pillar-side man waiting in the dark."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J25/J25nB171.xml",
+        "X/X72/X72n1437.xml",
+        "J/J36/J36nB359.xml",
+        "J/J33/J33nB286.xml",
+        "J/J27/J27nB191.xml",
+        "J/J37/J37nB389.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Yongjue Yuanxian",
+        "Baiyu Jingsi",
+        "Yingning Zhijing",
+        "Jinian Jingxian",
+        "Xiaotang Yunfen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Xinxin Ming's release couplet — only do not hate, do not love, and it opens clear — recited at hall seats, turned against itself, stocked with sage-and-tyrant examples, and interleaved with toads and moons from the Ming temples to the Qing hermitage seats. Tianyin Yuanxiu, at the Kaifeng temple in Deqing county, waits out the long silence, then gives the couplet: supreme way not hard, only beware choosing; only do not hate, do not love — and it opens clear — and the whisk points: up is heaven; down is earth, high is mountain, deep is water, man is man, woman is woman, monk is monk, lay is lay, old is old, young is young — how will you say the sentence that does not choose?; the whisk thrown down: what falls is no other thing, and criss-cross it is not dust; Yongjue Yuanxian, at the Baoshan hermitage hall, raises the Third Patriarch's Xinxin Ming for exactly this couplet — is that not heart and gall cut open for those to come? — and then turns it against itself: to say 'only beware' is already choosing; to say 'only do not' is already hate and love; and with a clarity to point to, how is that the final word?; know that the supreme way is neither hard nor easy, no choosing and no no-choosing, no hate-love and no no-hate-love, no clarity and no no-clarity — this old monk, though he does not fall into choosing and hate-love, borrows choosing and hate-love as a lead-in — how then to be excused?; this old monk is a grandson of the Caodong line, and recalls the words of Dongshan's house; Baiyu Jingsi, at the Longhua temple on Bian Mountain, stocks the couplet with examples: Yao and Shun make everyone who hears them glad, Jie and Zhou make everyone who hears them furious — that is choosing; the Buddha spread his hair over mud to make a seat for the lamp-lit one, Devadatta pushed a mountain and drove an elephant against the sage of the Shakya — that is hate and love; how to get beyond choosing and hate-love?; today the Wuxing patron feeds the assembly, greens one bowl each, gift-money one share each — wealth-giving and teaching-giving without difference; and where there is no difference — is there still choosing, still hate-love inside it?; hear one more ode: plum petals tender, willow buds long, last night the east wind crossed the low wall — that tiresome old thrush on the branch, note by note leaking out the good spring light. Yingning Zhijing, at the offering of the Huangxi laymen: three realms mind-only, the ten thousand forms consciousness-only — the windmill atop the banner-pole, three monkeys winnowing coins by night; supreme way not hard, only beware choosing — the stone man at midnight casts no shadow, and who can tell the source of the comings and goings?; only do not hate, do not love — and it opens clear — the toad at the bottom of the well swallows the moon, and at third watch the night-bright curtain is not spared; today this mountain monk cuts the rope-end for you: get it, and the world and the world-beyond are the great golden-winged bird splitting the sea to swallow the dragon, nothing in the way; Jinian Jingxian, instructing the assembly: supreme way not hard, only beware choosing — if it is so, why sort gold from sand, part jade from stone?; the staff lifted: handled thus, it works close; one knock: do you get it?; another knock: or do you not?; only do not hate, do not love — and it opens clear — and yet know there is one person not inside the clarity: does the assembly know this man?; one more knock, the staff thrown, back to the room; and Xiaotang Yunfen, instructing the assembly at the Zizhi hermitage: the old road few walk, the lone peak keeps no overnight guests; master Rang of Nanyue and state-master An of Songshan — their coming and going was never easy; in heaven, honored in heaven; among men, honored among men — only do not hate, do not love, and it opens clear; the patch-robed one arriving here says: it does not bar my going east or going west; but suddenly in the dark you knock against a pillar-side man who calls you straight out a blind man — is your heart content with that or not?"
+    }
+  ]
+}

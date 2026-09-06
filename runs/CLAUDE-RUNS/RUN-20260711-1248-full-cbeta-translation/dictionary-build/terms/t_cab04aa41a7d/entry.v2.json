@@ -1,0 +1,209 @@
+{
+  "Id": "t_cab04aa41a7d",
+  "SourceTerm": "眼光落地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:13:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when the eye-light drops to the ground",
+      "AlternateTargets": [
+        "at the moment the light goes out",
+        "when the eyes fall at death"
+      ],
+      "SearchAliases": [
+        "at the moment of death",
+        "when the eye-light falls",
+        "the dying moment"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 153 hits in 96 files representing 93 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0245b09",
+          "ToLb": "0245b22",
+          "Kwic": "直透，名為向上全提，徹見自性，透脫生死，知得去處，以至百千法門、無量玅義，無不在者一毫頭上透頂透底。所謂一句通，千句百句一時通；一機透，千機百機一時透，堪與祖佛為師。諸人還委悉麼？若未委悉，不免放開一線，剖露分明。」乃云：「撥草瞻風，秖圖見性，即今上人性在甚麼處？六根收不得，三句豈能該？識得自性，方脫生死。眼光落地時作麼生脫？洪波浩渺浪滔天，拈得鼻孔失卻口，脫得生死便知去處。四大分離向甚麼處去？應以比丘身說法者，即現比丘身而為說法；若向者裏透得去，二六時中如龍得水、似虎靠山，大用現前，不存軌則，處處截斷眾流、時時壁立千仞，堪與人天為師。諸人還委悉麼？若未委悉，不免更為落草註解去也。今日蓋為大癡、不意二亡僧估唱衣單，",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Doushuai Congyue",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: the old second question asked over the dead monks' robes — how do you slip free when the light drops? — the flood-wave wide as the sky, nostrils seized and mouth lost."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0685c14",
+          "ToLb": "0686a04",
+          "Kwic": "顧危亡得失，人我是非，忘寢忘餐，絕思絕慮，晝三夜三，心心相次，念念相續，劄定脚頭，咬定牙關，牢牢把定繩頭，更不容絲毫走作。假使有人取你頭，除你手足，剜你心肝，乃至命終，誠不可捨，到遮裏方有少分做工夫氣味。嗟乎！末法去聖時遙，多有一等泛泛之流，竟不信有悟門，但只向遮邊穿鑿，那邊計較，直饒計較得成，穿鑿得就，眼光落地時，還用得著也無？若用得著，世尊雪山六年、達磨少林九載、長慶坐破七箇蒲團、香林四十年方成一片、趙州三十年不雜用心，何須討許多生受喫？更有一等成十年、二十年用工，不曾有箇入處者，只為他宿無靈骨、志不堅固，半信半疑、或起或倒、弄來弄去，世情轉轉純熟、道念漸漸生疏，十二時中難有一箇時辰把捉得定、打成一片似遮般",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: grant the clever their sorting done and their drilling finished — when the light drops, is it of any use? Else why the six snow-years, the nine at Shaolin, seven cushions, forty years, thirty undivided?"
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0707b05",
+          "ToLb": "0707b19",
+          "Kwic": "有一毫剩法與人為知為解者哉。年來佛法無靈。往往將根塵識妄認作真心。說得宛然了無交涉。記得儒人勸學有詩。謂擊石乃有火。不擊元無煙。人學始知道。不學非自然。此說雖曰訓蒙。於禪學分上說得恰好。何以知然。謂石中有火不以智巧擊之引之。則終於不遇也。今人惟知石中有火。未曾施半錢智巧之力擊之。終日指此冷石說火之用。說到眼光落地。依前只是塊石頭。要覔一點火為用了不可得。此是不肯死心做工夫以求正悟。惟記相似語言而說禪者是也。更有一等闡提人。聞說石中有火。急碎其石欲取其火。乃至碎抹為塵終不得火。却不責不以智巧求之。便乃不肯信石中果有真火。此是不信自心成佛之凡夫也。此說且置。何謂智巧。勉向第二門頭立箇喻子。首以信根為石。次以無義味話頭",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: talk fire all your life at the cold stone — when the light drops it is still just a stone, and not a spark of use is to be found."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0011a28",
+          "ToLb": "0011b11",
+          "Kwic": "問世間花甲子。」下座。施主送縐紗法衣，請上堂。「祖師西來，傳衣表信；老僧今日據衣徵信。還有知信處底麼？出來對眾證明。」良久乃云：「冬天披領夏袈裟，引得時人笑轉賒，若會其中個消息，方知錦上更添花。」一僧立座前，擬開口，師打云：「還知麼？」便下座。上堂。「今朝是汝諸人滿期之日，又是諸人圓戒之辰，亦是釋迦老子眼光落地時節。若知釋迦老子眼光落地處，便是諸人圓戒處、亦是諸人滿期處。何以長期、短期，千期、萬期？無非以悟為期。若也悟去，便知適來許多問答處。」遂舉拂云：「正恁麼時，收因結果一句作麼生道？」擲下云：「鯨吞海水盡，露出珊瑚枝。」復舉：「僧問鹽官：『如何是本身盧舍那？』官云：『與我過淨瓶來。』僧移淨瓶至，官云：『卻安舊",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: your completion day is the old man Sakyamuni's own eye-light-falling hour — know where that light fell and you know where your ordination and completion are."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0239c11",
+          "ToLb": "0240a01",
+          "Kwic": "，便得轉身歸父。還肯麼？自是不歸歸便得，五湖煙景有誰爭？上堂。揣虗空骨，吞栗棘蓬。剖開塵界，玅運寰中。白雲七片八片，籬菊一叢兩叢。分明漏洩西來意，幾多眼耳尚盲聾。諸昆仲仔細窮，更有泥牛吼月、木馬嘶風，分明向伊說破，赤肉團上有一焦尾大蟲。咦！莫把黃金當作銅。上堂。即心即佛，馬大師板齒生毛。非心非佛，馬大師眼光落地。不是心，不是佛，不是物，王老師相隨來也。博山總不恁麼。白蘋及翠羽，野老笑相親。博山總作恁麼。寰中天子勅，塞外將軍令。還知博山意麼？若知博山意，便會祖師意。若知祖師意，便會諸佛意。若知諸佛意，便會自己意。諸昆仲不可虗延歲月，蹭蹬過時，猛著精神，發明斯道，始不被天下老和尚舌頭礙也。當知天下老和尚共一雙眼睛看",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: mind-itself-buddha grows hair on plank teeth, not-mind-not-buddha is the eye-light's drop, and Old Wang comes along with the third — and Boxong will have none of it, nor be bound by it."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0540b28",
+          "ToLb": "0540c11",
+          "Kwic": "？參。」除夕示眾，師拈拄杖云：「巖石積經霜迸裂，庭梅疊壓雪凋殘，人生百歲終何用，此道誰能著眼看？莫有箇念茲在茲者，出來道看。」僧問：「年窮臘盡事如何？」師指爐云：「一炷清香遍十方。」僧禮拜。師乃云：「適來這僧問箇年窮臘盡。且道如何是遷即不遷之義？今年除歲也恁麼，舊年除歲也恁麼，明年除歲也恁麼。直饒你除到眼光落地、四大分張，也只是恁麼，終無了期。將何以敵生死？老僧四十年來，參之究之、研之窮之，猶是恁麼。大眾又作麼生？此事要實悟實證、實行實踐始得。到這裏，拄杖子𨁝跳出來道：『今夜是什麼時節？說這些牽牽蔓蔓話。不見道：有物先天地，無形本寂寥，能為萬象主，不逐四時凋。』」驀喝一喝云：「也是牽蔓說話。且直截一句如何道？大眾",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: strip the years away down to the drop of the light and the scattering of the body, and it is still only so, without end — with what then does one meet birth-and-death?"
+        },
+        {
+          "RelPath": "L/L153/L153n1638.xml",
+          "FromLb": "0689a12",
+          "ToLb": "0690a01",
+          "Kwic": "今日人天眾前掇轉船頭順風把舵去也遂拈香云即此供養直𨽾常州府宜興縣荊溪禹門幻有先師大和尚從此不敢辜負就座乃云去聖時遙宗門紊亂必須洞達心宗庶不虛生浪死若也不悟自心終日尋行數墨了沒交涉於今目前依草附木者豈達磨一宗乃糟粕耳假我衣裳名是比丘豈千聖不傳之旨如此容易者哉佛法不直半文矣諸仁者趂色力強徤時討箇分曉莫待眼光落地業識茫茫平日說禪說道竪指伸拳到恁麼時你還作得主去麼喝一喝云啼得血流無用處不如緘口度殘年下座。崇禎十六年四月廿六日師至龍池掃塔荊谿吳九敘居士暨禹門大眾等請上堂師至座前喝一喝遂陞熏風自南來殿閣生微凉倦來困一覺何必好眠牀此一瓣香耑為當今聖君皇帝惟願道心永銳太平天下令十方法界眾生各各安樂自在次拈云此香供養",
+          "MasterName": "Xueqiao Yuanxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueqiao Yuanxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6). Xueqiao Yuanxin owns the retained deployment: settle it while color and strength hold — not wait for the drop of the light with the habitual consciousness a blank, when all the year's talk and finger-raising will not let you be master."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0592c02",
+          "ToLb": "0592c14",
+          "Kwic": "」師又打，云：「如何是你知恩處？」進云：「覿面無回互，當機任卷舒。」師云：「猶道得一半。」問：「悟道雪山成話柄，惟明生死絕淆訛，曾聞兜率三關語，還許即今請益麼？」師云：「一一問將來。」進云：「撥草瞻風，秪圖見性，和尚性在甚麼處？」師打云：「我也不識。」進云：「恁麼則掬水月在手，弄花香滿衣？見性之人能脫生死，眼光落地時作麼生脫？」師云：「待汝眼光落地即向汝道。」進云：「恁麼則雲駛和月運，舟行連岸移。能脫生死，必知去處，四大分散時向甚麼處去？」師打云：「向者裡去。」進云：「恁麼則潮去還歸海，月落不離天。三關已蒙師指示，頓超生死句如何？」師打云：「退後看取。」進云：「一句了然超百億，拈來恩大實難酬。」師云：「閒言語。」進云",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: how does one slip free when the light drops? — when your own eye-light drops, then I will tell you."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J34/J34nB300.xml",
+        "X/X70/X70n1400.xml",
+        "B/B25/B25n0145.xml",
+        "J/J10/J10nA158.xml",
+        "X/X72/X72n1435.xml",
+        "J/J25/J25nB171.xml",
+        "L/L153/L153n1638.xml",
+        "J/J26/J26nB185.xml"
+      ],
+      "RelatedMasters": [
+        "Chaozong Tongren",
+        "Doushuai Congyue",
+        "Gaofeng Yuanmiao",
+        "Zhongfeng Mingben",
+        "Miyun Yuanwu",
+        "Wuyi Yuanlai",
+        "Mazu Daoyi",
+        "Tianyin Yuanxiu",
+        "Xueqiao Yuanxin",
+        "Fushi Tongxian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The death moment: the light in the eyes dropping to the ground — the deadline no borrowed cleverness survives. Chaozong Tongren, at the auction of two dead monks' robes, shouts down the acolyte's raising of the old three questions and then speaks the whole set himself: knowing one's nature frees from birth-and-death — but when the eye-light drops, how do you slip free? the flood-wave wide as the sky, the nostrils seized and the mouth lost; Gaofeng Yuanmiao tells the would-be clever that even if their sorting and drilling were to succeed, when the eye-light drops will it be of any use? — else why did the World-Honored sit six years in the snow, Bodhidharma nine at Shaolin, Changqing wear through seven cushions, Xianglin take forty years to make one piece; Zhongfeng Mingben says the man who only points at the cold stone talking about fire will, when the light drops, still have nothing but a stone — not a spark of use to be found; Miyun Yuanwu tells the ordinands their completion day is Sakyamuni's own eye-light-falling hour, and whoever knows where that light fell has found the place of ordination and completion — long retentions and short, a thousand terms and ten thousand, all with awakening as the term. Wuyi Yuanlai works Mazu Daoyi's three phrases across it — mind-itself-buddha: Mazu's plank teeth grow hair; not-mind-not-buddha: Mazu's eye-light drops; not mind, not buddha, not thing: Old Wang comes along too — and Boxong will have none of it; Tianyin Yuanxiu at the year's end rules that this year's passing is so, last year's was so, next year's will be so — strip the years away down to the eye-light's drop and the body's scattering, and it is still only so, which he has examined and pursued forty years; Xueqiao Yuanxin tells them to settle it while their strength holds — not to wait for the drop of the light with the habitual consciousness a blank, when all the finger-raising and fist-shaking will not let them be master; Fushi Tongxian, asked how one slips free when the light drops, answers: when your eye-light drops, then I will tell you."
+    }
+  ]
+}

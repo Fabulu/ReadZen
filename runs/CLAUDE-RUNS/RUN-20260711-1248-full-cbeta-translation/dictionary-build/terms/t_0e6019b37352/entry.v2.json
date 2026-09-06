@@ -1,0 +1,209 @@
+{
+  "Id": "t_0e6019b37352",
+  "SourceTerm": "縱橫無礙",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:29:46Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "unobstructed in every direction",
+      "AlternateTargets": [
+        "free across the whole field",
+        "nothing blocks the way, crosswise or lengthwise"
+      ],
+      "SearchAliases": [
+        "unobstructed freedom",
+        "moving freely in all directions",
+        "free and unblocked everywhere"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 135 hits in 81 files representing 81 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0112a04",
+          "ToLb": "0112a08",
+          "Kwic": "何爾狀，非色亦非聲。既非色兮又非聲，直指無過個現成，瞥念知歸塵累脫，縱橫無礙是全真。」復舉：「古時有個灌溪和尚，問末山尼了然禪師云：『如何是末山？』尼云：『",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: neither color nor sound, the ready-made pointed at directly — when the glance-thought knows to return, the dust-burden drops, and being unblocked in every direction is itself the whole true."
+        },
+        {
+          "RelPath": "J/J28/J28nB205.xml",
+          "FromLb": "0226a27",
+          "ToLb": "0226b10",
+          "Kwic": "鼻、舌、身、意縛作一團，拋入大冶紅爐，朝鍛暮煉，煉得冰消瓦解；及至解時，把八萬四千毛孔等閒撒開，一時放光現瑞，天雨四花、地搖六震，鳥語風聲齊音演唱五根、五力、七菩提分、八聖道分，令見者、聞者、聽者、受者、喜者、怒者各各踴躍歡喜，曠劫無明當下灰空，頓教一肩擔荷，直入千峰萬峰，眼徹四大海、腳踢五須彌，十字街頭縱橫無礙，笙歌叢裡任意優游。且道：不動腳跟一句又作麼生？」遂卓拄杖，云：「舉頭天外看，誰是我般人？」便下座。上堂。「情生智隔，念別差殊。所以，動靜乖張，閒忙得失，而不能澄清絕點。是故，道不屬知，知乃眾禍之門；心必由悟，悟乃迷源之本。知本無方，道從何立？」喝一喝，便下座。上堂。豎起拂，云：「山僧拂子頭上放大寶光，演",
+          "MasterName": "Jieweizhou Xingzhou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieweizhou Xingzhou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. Jieweizhou Xingzhou owns the retained deployment: eyes through the four great seas, feet kicking the five Sumerus — unobstructed at the crossroads of the singing quarter, roaming at will; but the not-moving-the-heels line, say it."
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0508c21",
+          "ToLb": "0508c24",
+          "Kwic": "取塔銘，竊彰名位，各宜珍重諦聽。偈云：我為法王，於法自在。來去自由，縱橫無礙。」跏趺而逝，春秋七十，夏臘四十五。於康熙歲次壬子十一月初三日亥時示寂，塔建慈雲",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. Minshu Ruxiang owns the retained deployment: his last words — I am the king of the teaching, free in the teaching; coming and going free, unobstructed in every direction — and he passed sitting cross-legged."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0245b05",
+          "ToLb": "0245b09",
+          "Kwic": "，則見色不為色迷、聞聲不為聲惑、觸物不為物轉、觀身不為身累，根境歷落縱橫無礙。不妨卓筆峰頭描寫天真，眠牛背上橫吹玉笛，釣龍井底直鉤虯兒，馬鞭石上浩歌太平，獅",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: seeing color unmazed, hearing sound unbeguiled — roots and fields laid out clear and unobstructed, and then the flute on the sleeping ox's back and the singing of the great peace on Whipping-stone Rock."
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0872b27",
+          "ToLb": "0872b30",
+          "Kwic": "石女腰邊，餓虎腮前捋鬚，飢鷹爪下奪食，有時把住，消息全無；有時放行，縱橫無礙。且道：把住即是？放行即是？」良久，云：「無人判斷，不免重下註腳。大冶弘開豈等閑",
+          "MasterName": "Zhulang Chesheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhulang Chesheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng owns the retained deployment: sometimes holding shut and no news at all, sometimes letting run and unobstructed in every direction — which is it? No one judges, so he footnotes it himself."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0936c11",
+          "ToLb": "0936c23",
+          "Kwic": "「此事又如何？」師打，云：「盡思共度量，不能測佛智。」進云：「畢竟是個甚麼？」師復打，云：「惟佛與佛乃能知之。」乃云：「不以知知，不以識識，三界有情，心無二覓，動靜施為，不借他力，像貌無量，形殊各質，者點造化，凡聖同一，千般形類等虛空，萬象森羅共月日。」舉杖示眾，云：「者個道理，不屬五行，豈受陰陽？本自圓明，縱橫無礙。若向者裏會得，眾生即佛；從此不了，佛即眾生。山僧今日門庭不順人情，若會，與三十棒；不會，亦與三十棒。」舉：「世尊在忉利天為母說法，優填王思佛，命匠彫栴檀像供養，及世尊下忉利天，像亦出外迎，世尊三喚三應，乃云：『無為真佛實在我身。』且問大眾：真佛是那個身？咄！從頭仔細看，到底沒兩個，三喚即三應，真佛還是我",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daocheng of Konggu. Konggu Daocheng owns the retained deployment: this truth belongs to none of the five phases and takes no yin and yang — originally round and bright, unobstructed in every direction; grasp it and beings are buddhas, miss it and buddhas are beings."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0544b20",
+          "ToLb": "0544c03",
+          "Kwic": "。』居云：『不然。』洞云：『與麼則子得箇入路。』居云：『無路。』洞云：『若無路，爭得與老僧相見？』居云：『若有路，即與和尚隔生也。』洞云：『此子已後，千人萬人把不住。』」師拈云：「今時人要覓箇山子住，且看雲居踏山樣子。若不如斯，出門便是草漫漫。雖然，不是洞山老漢也勘驗他不出，可謂作家相見，如珠走盤、盤走珠，縱橫無礙。豈比迷頭認影，敲冰索火，緣木求魚者同日語哉？今日有人踏山來，我且問你：『有路來？無路來？』若有路來，要且不合雲居老人；謂無路來，又不合洞山和尚；若有路無路，磬山道箇俱隔。如是作麼生合得古人去？試道看。」舉：「玄沙一日見三人新到，遂自去打普請鼓三下，卻歸方丈。新到具威儀了，亦去打普請鼓三下，卻入僧堂。久",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yunju Daoying",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: the one with no road to come by, whom no thousand or ten thousand could hold — a meeting of working masters, pearl rolling in the bowl, unobstructed in every direction."
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0540b12",
+          "ToLb": "0540b25",
+          "Kwic": "道不安，孤孤迥迥、峭峭巍巍，天上人間，優游自適，無端被幾個無面目漢把住去路，不容走作，只得按下雲頭聽其所止。應物現形即且止，轉功就位時如何？」以杖架肩云：「絲綸收拾竿頭上，且向龍淵釣錦鱗。」下座。據室。橫按杖云：「大凡坐者曲彔床子，須具三種要門，始能與人解黏去縛：一、要殺佛殺祖，不留朕跡。二、要破和合僧，縱橫無礙。三、要聲色堆頭，行住坐臥。」驀豎拄杖云：「山僧今日親行此令，還有共相建立底麼？」卓一卓云：「六隻骰子滿盤紅，大都只要看頭彩。」上堂。問：「砥柱中流即不問，如何是龍淵境？」師云：「二八捧九。」進云：「如何是境中人？」師云：「三頭六臂。」進云：「人境已蒙師指示，向上一句事如何？」師云：「清光射碧天。」問：「龍",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue owns the retained deployment: three gates for whoever sits the curved-back chair — kill the founders leaving no trace, break the assembly's harmony unobstructed in every direction, and in the pile of sights and sounds walk, stand, sit, lie."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J28/J28nB205.xml",
+        "J/J39/J39nB450.xml",
+        "J/J27/J27nB193.xml",
+        "J/J38/J38nB427.xml",
+        "J/J39/J39nB471.xml",
+        "J/J25/J25nB171.xml",
+        "J/J33/J33nB287.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Jieweizhou Xingzhou",
+        "Minshu Ruxiang",
+        "Yinyuan Longqi",
+        "Zhulang Chesheng",
+        "Konggu Daocheng",
+        "Tianyin Yuanxiu",
+        "Dongshan Liangjie",
+        "Yunju Daoying",
+        "Zixian Jue"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Unobstructed in every direction: the freedom the masters grant only at the point where dodging is impossible — and the last word more than one of them died saying. Jieweizhou Xingzhou, after the great furnace has melted the six senses into one and the eighty-four thousand pores shed light together, has them shoulder the whole thing and walk straight into a thousand peaks — eyes through the four great seas, feet kicking the five Sumerus, unobstructed at the crossroads of the singing quarter, roaming at will through the flute-and-song crowds; Feiyin Tongrong closes his verse answer with the decree — neither color nor sound, pointing straight at what is ready-made: when the glance-thought returns home the dust-burden drops, and being unblocked in every direction is itself the whole true — and then raises the old case of the monk who asked the nun of Mushan what Mushan is; Yinyuan Longqi rules it of the senses themselves: seeing color unmazed, hearing sound unbeguiled, touched by things unturned, burdened by the body unburdened — roots and fields laid out clear and unobstructed, so that one may sketch the natural truth on Brush-tip Peak and play the flute sideways on the sleeping ox; Minshu Ruxiang, forbidding his heirs to beg grave inscriptions from officials, gives his last verse — I am the king of the teaching, free in the teaching; coming and going free, unobstructed in every direction — and passes sitting cross-legged. Zhulang Chesheng plays the extremes against each other — plucking beard-hairs before the hungry tiger's cheeks, snatching food from under the hawk's claws: sometimes holding shut, and no news at all; sometimes letting run, and unobstructed in every direction — so, is it holding-shut, or letting-run? No one judges, so he footnotes it himself; Konggu Daocheng lifts his staff: this truth belongs to none of the five phases and takes no yin and yang — originally round and bright, unobstructed in every direction; grasp it here and beings are buddhas, miss it and buddhas are beings — understand or not, thirty blows either way; Tianyin Yuanxiu, raising the old meeting of Dongshan Liangjie and Yunju Daoying — the one with no road to come by, whom Dongshan said no thousand or ten thousand could hold — rules it the meeting of working masters: a pearl rolling in the bowl, a bowl rolling on the pearl, unobstructed in every direction, nothing like the lost-headed shadow-chaser chipping ice for fire; Zixian Jue, taking the room, lays down the three gates for whoever sits the curved-back chair: first, kill the buddhas and the founders leaving no trace; second, break the harmony of the assembly, unobstructed in every direction; third, in the pile of sights and sounds, walk, stand, sit, lie — and plants his staff: who will build it with me?"
+    }
+  ]
+}

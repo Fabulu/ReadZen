@@ -1,0 +1,193 @@
+{
+  "Id": "t_a402c259631c",
+  "SourceTerm": "大洋海底",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:40:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the floor of the great ocean",
+      "AlternateTargets": [
+        "the great sea's deepest floor"
+      ],
+      "SearchAliases": [
+        "the ocean-floor depth",
+        "the deepest place of the great sea",
+        "the sea-floor image-place"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 182 hits in 95 files representing 93 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0188b05",
+          "ToLb": "0189a07",
+          "Kwic": "空如何悟得󷹋空理師云南地先抽笋塞北著皮裘僧云莫落是非也無師云自家看耴問青青翠竹還有佛性也無師云南天北地僧云恁麼則推窮佛理也師云北地南天問鍾鼓未鳴時如何師云問前不鳴問後打僧擬議師便喝問如何是迦葉門前一盞燈師云孤峰朗月連天照性似寒泉徹底清僧云勞而無功時如何師云日輪當午無私照自是時人見有移問寶劒未出匣時如何師云大洋海底澄心鏡僧云出匣後如何師云天外吒沙獨擺捎。師乃云第一句薦得堪與祖佛為師第二句薦得堪與人天為師第三句薦得自救不了時有僧問如何是第一句師云大用不揚眉棒下湏見血僧云慈悲何在師云󲌰出三門外問如何是第二句師云不打恁麼驢漢僧云將接何人師云如斯爭柰何問如何是第三句師云解問無人荅僧云即今祗對者是誰師云莫使外人知僧云和尚",
+          "MasterName": "Shoushan Xingnian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Shoushan Xingnian owns the retained answer: the sword not yet out of its case — on the floor of the great ocean, a still heart-mirror; out of the case — a sand-plover flicking its tail beyond the sky."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0526b11",
+          "ToLb": "0526b24",
+          "Kwic": "恩力？」喝一喝曰：「蕩蕩堯仁敷化日，雍雍舜德享熙年。」結椎下座。當晚，小參。「天封室幽奧難窺，古龍潭淵深莫測，若是吐出野狐涎、脫卻鶻臭衫的，入我門來，心境俱泯，莫存知解。還有向者裏著得一隻眼底麼？」良久，云：「諸兄弟！此個事大非容易，若有一法能過者，即為剩法。」拈拂子，揮一揮，云：「是甚麼乾矢橛？更有一偈：大洋海底摶飛鳥，須彌頂上捉游魚，蟭螟睫上驅雷電，點水沖開碧落圖。」復舉：「僧問介師翁：『按倚天長劍，奮踞地獅威，學人上來請師一接。』翁便喝，僧曰：『者是方便門頭句，如何是正令全提句？』翁又喝，僧擬進語，翁便打。」師曰：「者僧有攙鎗奪鼓之勇，惜無揮戈駐日之能，介老人雖則正令全提，怎奈不能與者僧抽釘拔楔。新金明則不然",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained verse — snatching the flying bird on the sea-floor, catching the swimming fish atop Sumeru, driving thunder on the midge's eyelash, one drop of water bursting open the azure vault's map."
+        },
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0619c28",
+          "ToLb": "0620a10",
+          "Kwic": "三昧不被燒卻？」師曰：「單為你結夏。」乃曰：「弁山結夏勝諸方，半乞香齋半插秧，更有幾班阿轆轆，口吞佛祖氣如王。雖然，山僧拄杖子未肯放過，何也？修心未到無心地，萬種千般逐水流。」送餓七化主，上堂。「薄福住龍華，入山便無米。幸有沒量人，從他而捨己。滌空九折腸，乞儲百石米。有的有的，不必向五臺山上賒雲，也不要就大洋海底覓水。汝等本是道德之資，君子的有成人之美。」師至海鹽，眾檀護請就天寧寺上堂。問：「法無定相，遇緣即宗。箭鋒相拄，是何標格？」師曰：「庭前古柏雙垂翠。」曰：「天寧撾鼓，海震潮音。還是啐啄同時句麼？」師曰：「忘卻來時道。」曰：「燈籠起舞，露柱揚眉。的的明什麼邊事？」師曰：「楚石和尚原是本寺僧。」曰：「即今紳衿檀",
+          "MasterName": "Pinjixiang Zhixiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pinjixiang Zhixiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang owns the retained send-off, ruling the plain way: no buying clouds on the Wutai mountain, no seeking water on the floor of the great ocean — the men of way and virtue have only to finish each other's good."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0184a09",
+          "ToLb": "0184a24",
+          "Kwic": "，無本可據，逗到臘月三十日夜，一似落湯螃蠏，五更鐘動，曙色平分，交慶新年，六六依然三十六，塵沙劫來，流浪生死，如汲井輪，無有停息。上堂：三衣覆體，四事供需。若也知慚知愧，是真釋子。莫道曩劫修來，非從今日。上堂：心外無法，法外無心。南嶽磨甎作鏡，馬師坐禪成佛。日面佛，月面佛，五帝三皇是何物？須彌山上走馬，大洋海底藏身。為石直，歲下火。似地擎山，不知山之孤峻；如石含玉，不知玉之無瑕。松直棘曲，直底為材用，曲底作柴燒。上堂：六國未寧，雲擎雨色；六國已寧，日放山光。石牛攔古路，一馬生三寅。便下座。上堂，僧問：汾陽和尚示眾：夫說法者，須具十智同真。若不具十智同真，邪正不辨，緇素不分，不可為人天眼目。如何是十智同真？師云：",
+          "MasterName": "Hengchuan Rugong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Rugong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong owns the retained formula: horses run on Sumeru's mountain-top, the body hides on the floor of the great ocean — shame and conscience known, the true heir of Shakyamuni."
+        },
+        {
+          "RelPath": "X/X71/X71n1417.xml",
+          "FromLb": "0452a21",
+          "ToLb": "0452b11",
+          "Kwic": "問訊。一一天真，一一明妙，畢竟喚什麼作無為法？擊拂子：如今要見黃頭老，剎剎塵塵在半途。先師暮翁和尚入祖堂，無異堂前展兩手處識得根源，被人鈍置不少。紫籜峯頂一十七年敲空作響，還佗位次安排。置牌云：大家團圝頭，共說無生話。元宵，上堂。眼若不𥧌，諸夢自除。心若不異，萬法一如。人天交接，兩得相見。須彌山上走馬，大洋海底挑燈。上堂：善逐情生，如珠放光，還照珠體；惡從心起，似鐵孕垢，自毀鐵形。所以道：天堂與地獄，皆由心所造。拈主丈：芍藥花開菩薩面，椶櫚葉散夜叉頭。佛涅槃，上堂，舉：世尊入般涅槃日，迦葉尊者最後而至，世尊於槨內露雙趺示之，迦葉尊者乃作禮，請如來以三昧火而自闍維，即時金棺出七寶牀，昇舉繞拘尸羅城七帀，却還本處，",
+          "MasterName": "Liaotang Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaotang Weiyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1417.xml). Recorded Sayings of Chan Master Liaotang Weiyi. Liaotang Weiyi owns the retained turning: eyes not peeking, the dreams fall away of themselves; mind not wavering, the myriad things one suchness — horses run on Sumeru's summit, lamps are lit on the floor of the great ocean."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0666a06",
+          "ToLb": "0666a17",
+          "Kwic": "何來？」進云：「如何是立一切法？」師云：「你問我答」問：「終日上堂，端為何事？」師云：「為憐松竹引清風。」進云：「本來無得亦無失，指示學人箇甚麼？」師云：「劈開漆桶。」進云：「開後如何？」師云：「大眾笑你。」問：「如何是學人最初一步？」師云：「適纔眾裏來。」「如何是末後一句？」師云：「少頃歸堂去。」進云：「大洋海底現明月，萬里無雲萬里天。」師云：「那裏學得來？」問：「昨晚小參，今日上堂，如何是格外全提句？」師云：「昨晚小參，今日上堂。」乃云：「不慕諸聖，不重己靈，罔譚彼短；口吞佛祖，眼蓋乾坤，靡恃己長。大丈夫逢強即弱、遇柔即剛，荊棘林內坐大道場，無可、不可，混俗和光。且道：憑甚得到與麼田地？褌無口，褲無襠。」晚參。問",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained answer: granted the bright moon shown on the sea-floor and ten thousand miles of cloudless sky for the final sentence, he turns it back — where was that learned?"
+        },
+        {
+          "RelPath": "J/J40/J40nB493.xml",
+          "FromLb": "0512b17",
+          "ToLb": "0512b29",
+          "Kwic": "遂以一手指天，一手指地，週行七步，目顧四方道：『天上天下，惟吾獨尊。』如虎戴角，如龜負圖，橫身宇宙，絕地遮攔。所以雲門道：『當時我若在傍，一棒打死與狗子喫，貴圖天下太平。』到箇底，盡謂定光招手，識者點頭，離相離名，絕塵絕跡。殊不知金烏東逐，玉兔西征，恰似赤眼撞著火柴頭。何故？老胡好肉剜瘡，雲門抱薪救火，一向大洋海底走馬，一向須彌山頂行船，總是節外生枝，無風起浪。若據山僧見處，各與二十拄杖，貶入無生國裏，庶幾達磨一宗不至掃地。其或未然，直得寸絲不挂，猶有赤骨律在；萬里無片雲處，猶有青天在。不見道：『無邊剎境，自他不隔於毫端；十世古今，始終不離於當念。』明明歷歷，物物頭頭，放大寶光，開正法眼，運般若力，復太古風。大眾！時",
+          "MasterName": "Pufu Zhuo",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pufu Zhuo",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. Pufu Zhuo owns the retained grading: the old barbarian gouging a wound in good flesh, Yunmen carrying firewood to the fire — horses on the sea-floor, boats on Sumeru's summit, branch beyond branch, waves without wind — so twenty staff-blows each, demoted into the unborn kingdom."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0526a12",
+          "ToLb": "0526a27",
+          "Kwic": "去也。」驀拈拄杖卓一下，云：「面孔露，怪復醜，自從胡亂來，本分全不守。慣自臥官街，慣自喫官酒，肚裏貯無明，觸著嗔斗吼。展開驢腳，伸出毛手，推倒佛殿，瞿曇無處容身；扶起魔宮，波旬一時稽首。報諸仁，莫亂走，一一面南看北斗。」陞座。「萬里不掛片雲，青天全體獨露。無端石鞏箇漢，張弓架箭，仰面射之，嚇得舜若多神躍入大洋海底，驚起八大龍王，各各興雲布雨，霎時乾坤黑暗，江海波騰。當此時也，石鞏箇漢失卻鵰鞬，舜若多神忘卻本位，一齊到鏡湖院裏唱言：『得箇安樂。』山僧不覺喜動顏色，印以偈曰：初三十一，不用擇曆。夜夢不祥，書破大吉。」陞座。「狗子佛性有，家國盛興；狗子佛性無，家國喪亡。若向喪亡處見得，歸家穩坐；若向興盛處見得，落在半",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained staging: the archer's upward shot frightens the wind god leaping into the sea-floor, the eight dragon kings spreading clouds and rain till sky and earth darken and the rivers surge — then archer and god land in the courtyard crying gained an ease, stamped with the dream-turned-luck verse."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "J/J38/J38nB418.xml",
+        "J/J39/J39nB454.xml",
+        "X/X71/X71n1411.xml",
+        "X/X71/X71n1417.xml",
+        "J/J26/J26nB187.xml",
+        "J/J40/J40nB493.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Shoushan Xingnian",
+        "Huiyue Xu",
+        "Pinjixiang Zhixiang",
+        "Hengchuan Rugong",
+        "Liaotang Weiyi",
+        "Tian'an Sheng",
+        "Pufu Zhuo",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The floor of the great ocean of the Chan records: the impossible depth — the undrawn sword's still water, the paired formulas' horses and lamps, the snatched bird and the leaping wind god, and the warmth glowing under the sea while the north continent burns its fire. Shoushan Xingnian, asked how it is when the precious sword has not left its case, answers: on the floor of the great ocean, a still heart-mirror — and after it leaves the case, a sand-plover flicking its tail beyond the sky, Huiyue Xu, after the flick of the whisk and the dry-dung-chunk ask, adds one verse more: snatching the flying bird on the sea-floor, catching the swimming fish atop Sumeru, driving thunder and lightning on the midge's eyelash, one drop of water bursting open the azure vault's map, Pinjixiang Zhixiang sends the hunger-fast fundraiser off plainly — no need to buy clouds on the Wutai mountain, nor to seek water on the floor of the great ocean: you are all men of the way and virtue, gentlemen with an eye for finishing others' good, and Hengchuan Rugong addresses the patched-robe with the formula: horses run on Sumeru's mountain-top, the body hides on the floor of the great ocean — then the cremation fire for the stone-straight one, the ground bearing the mountain not knowing the mountain's loneliness, the stone holding the jade not knowing the jade's flawlessness. Liaotang Weiyi at the lantern festival answers the dream-sight ask with the same formula turned: horses run on Sumeru's summit, lamps are lit on the floor of the great ocean, Tian'an Sheng, granted the bright moon shown on the sea-floor and ten thousand miles of cloudless sky, asks where it was learned — and rules the whole-packed ask with last night's small assembly, today's hall, Pufu Zhuo grades the founders' display — the old barbarian gouging a wound in good flesh, Yunmen carrying firewood to the fire: always horses running on the sea-floor and boats rowing on Sumeru's summit, branch beyond branch, waves without wind — so by the mountain monk's view, twenty staff-blows each, demoted into the unborn kingdom, and Yushan Shangsi shows Shigong the archer frightening the wind god Sunyuo leaping into the sea-floor, the eight dragon kings rising to spread clouds and rain, sky and earth gone dark, rivers and seas surging — till archer and god alike land in the Mirror-Lake courtyard crying gained an ease, and he stamps them with the verse: third day, thirty-first, no need to pick the calendar; a night dream un-lucky, brush-write great luck."
+    }
+  ]
+}

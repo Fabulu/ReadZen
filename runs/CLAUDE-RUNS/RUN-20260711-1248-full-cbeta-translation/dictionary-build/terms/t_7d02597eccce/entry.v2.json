@@ -1,0 +1,183 @@
+{
+  "Id": "t_7d02597eccce",
+  "SourceTerm": "信受奉行",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T09:58:31Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "receive it with faith and carry it out",
+      "AlternateTargets": [
+        "believe, accept, uphold, enact",
+        "take it to heart and live it out"
+      ],
+      "SearchAliases": [
+        "sutra-ending formula",
+        "the closing seal of scripture",
+        "believe and uphold",
+        "faith-receive and enact"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 148 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0657c14",
+          "ToLb": "0658a08",
+          "Kwic": "頭合掌又云你不觧問進云未審作麼生問師云速禮三拜放你三十棒又云後園生菜熟水淘飯問如何是向上事師云向下文長又云慚愧觧問進云請和尚道師云心不負人面無慚色問如何是教眼師云十方國土中唯有一乘法進云此是經文師云驢年會麼進云如何是教眼師云量才補職問如何是衲僧眼師云朝看東南暮看西北。上堂云觀自在菩薩行深般若波羅蜜多時信受奉行問僧我適來念什麼僧云和尚念經師便打云此老古錐心不負人面無慚色問如何是諸佛師師云釘釘東東骨低骨董進云乞師慈悲師云我問你苐二句作麼生道進云不會師云灼然灼然師坐次有僧驀然問請師道師云蘇嚕蘇嚕娑婆訶問如何是向上關捩子師云新羅國裏坐朝大唐國裏打鼓。上堂云爍電之機罕遇且向摸窰村裏作活計僧問如何是摸窰村裏作活計師",
+          "MasterName": "Muzhou Daoming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Muzhou Daoming owns the retained deployment: the Heart Sutra recited down to the closing seal, and a blow for the one who calls it sutra-reading."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0416b18",
+          "ToLb": "0416c06",
+          "Kwic": "歸五戒。乃曰：崇木！歸依佛，歸依法，歸依僧已，為汝作三歸。今為汝飜十邪，受五戒，汝當聽受，所謂身、口、意也。身有三過，謂殺、盜、婬；意有三過，謂貪、恚、癡；口有四過，妄言、綺語、兩舌、惡口。作此十者，名為十惡；無此十者，名為十善。汝今三業門中稟受戒法，所謂不殺、不盜、不妄、不婬、不飲酒，是五戒相。汝依吾教，信受奉行。復卓拄杖一下，曰：崇木聞吾教訓，乃告吾曰：和尚所說，但崇木從來無身口意，亦不知何以為持犯。縱聞三歸，我不知何者名佛法僧。聞五戒，相從何受持。雖煩和尚如此，崇木並無領覧處。師放下拄杖，曰：此真吾弟子也，是真歸依也，真受得戒也。所以昔人云：和尚何不畜一沙彌？老宿曰：有無眼耳者，為吾尋一人來。正是此意也。好得",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Foyan Qingyuan owns the retained deployment: rely on my teaching, receive it with faith and carry it out — crowned true by the one with no place to receive."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0605b11",
+          "ToLb": "0605c02",
+          "Kwic": "松下兩函經。我來問道無餘事，雲在青霄水在瓶。首山志和尚問念和尚：德山棒，臨濟喝，未審意旨如何？念云：汝試道看。志便喝，念拈棒，志指棒云：莫亂做。念擲下棒云：明眼人難謾。志云：草賊大敗。僧問：如何是祖師西來意？曰：三尺杖子破瓦盆。問：如何是佛？曰：桶底脫。問：從上諸聖有何言句？曰：如是我聞。僧云：不會。曰：信受奉行。嘉州白水和尚。僧問：如何是西來意？曰：四溟無窟宅，一滴潤乾坤。問：曹溪一路，合談何事？曰：㵎松千載鶴來聚，月中香桂鳳凰歸。妙喜曰：又道曹溪無俗談。鼓山晏國師示眾云：若是靈利底，撩著便休去。似遮般漢，千里萬里去也，有甚麼救處？進前退後，納箇如何醉人相似？有甚麼衲僧氣息？既然如是，且宗門中事作麼生？諸和",
+          "MasterName": "Shoushan Xingnian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "compiler",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the Correct Eye. Shoushan Xingnian owns the retained deployment: the sages' sayings are thus-have-I-heard — and, not understood, receive it with faith and carry it out."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0029a01",
+          "ToLb": "0029a24",
+          "Kwic": "土國王齋次，王問：諸大德盡轉經，師為甚麼不轉？尊者曰：貧道入息不居陰界，出息不涉眾緣，常轉如是經百千萬億卷。汾陽昭代云：却勞尊者心力。報恩秀云：者老漢無大人相，把葫蘆馬杓翻騰一上，當時好與掀倒，打斷葛藤。博山來云：險處錐，穩處劄，國主探端；灑不溼，釘不入，尊者機辨。如是經還轉也未？待你脚跟下線斷，始知信受奉行。尊者路行次，或有人問：汝行何急？尊者曰：汝行何慢？又問：汝姓甚麼？尊者曰：與汝同姓，或凡或聖，人莫可知。天童悟云：大小祖師，被路人換却眼睛。古林如云：可恠尊者大路不行，却向艸窠裏輥。宗門拈古彚集卷第四宗門拈古彚集卷第五古杭白巖嗣祖沙門淨符彚集東土祖師△東土祖師初祖菩提達磨大師初祖菩提",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "commentator",
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate's Raising Old Cases. Wuyi Yuanlai owns the retained deployment: wait till the thread under your feet snaps — then you will know receive-it-with-faith-and-carry-it-out."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0179b14",
+          "ToLb": "0179b26",
+          "Kwic": "「自有一雙窮相手，未曾低揖等閒人。」師云：「太尊貴生。」問：「鉤頭有餌，句底無私，如何是無私句？」師云：「一跳出洪波。」進云：「孤輪獨照江山遠，長嘯一聲天地驚。」師云：「且喜上釣來。」問：「無上法王有大陀羅尼門名為圓覺性海，如何是大陀羅尼門？」師云：「如是我聞。」進云：「三世諸佛皆從此經出，是否？」師云：「信受奉行。」乃驀豎拂子，召大眾，云：「還會麼？靈光不昧，智體何依？觸處圓成，有誰鑑覺？於此薦得，竟虛空以為體，三乘五教湛心源，遍法界以作身，頓漸偏圓歸性海，豁開頂門正眼，直下爍破昏衢。你若採折將來，直教頭破腦裂。何也？一句窮源，沉埋祖道，萬緣寢息，獨露真常。」遂舉拂子，云：「這箇是色，那箇是真常？」復擊禪床，云：「",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment: did the buddhas of the three times all come from this sutra? — receive it with faith and carry it out."
+        },
+        {
+          "RelPath": "J/J38/J38nB428.xml",
+          "FromLb": "0905c18",
+          "ToLb": "0905c30",
+          "Kwic": "是別？」師云：「一字兩頭垂。」進云：「與麼則掀翻海岳，撥轉乾坤去也。」師打，云：「者一棒也要你喫。」問：「世尊乞食入舍衛城，和尚說法入衡陽城，未審是一？是二？」師云：「亦任卜度。」進云：「師子吼時芳艸綠，象王迴顧落花紅。」師云：「也秖道得一半。」問：「原來寸絲不掛，和尚因甚將三衣誤賺人家男女？」師云：「要伊信受奉行。」乃云：「春日晴，黃鸝鳴，逢場作戲入廛塵，桃花撲面歌聲滑，秖此見聞非見聞。所以，龐居士云：『但自無心于萬物，何妨萬物常圍繞？銕牛不怕師子吼，恰似木人見花鳥。木人本體自無情，花鳥逢人亦不驚，心體如如秖者是，何慮菩提道不成？』善哉！今日道梁、道寧二位居士，身居塵累，心在山林，怖生死苦，求解脫樂，心契龐公之心，",
+          "MasterName": "Mixing Jiren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mixing Jiren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB428.xml). Recorded Sayings of Chan Master Mixingren. Mixing Jiren owns the retained deployment: why cheat household men and women out of the three robes? — because I want them to receive it with faith and carry it out."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0548a22",
+          "ToLb": "0548b12",
+          "Kwic": "前退後翻身處，有利有害，人無遠慮。歸到故鄉還似客，布穀催耕鳴別樹。叉手句，可惜許，一切數句非數句。打一拂，云：去。下座。問：學人道眼不明，未審什麼礙？師云：幾時立春？僧云：昨日二十三。師云：怪我作麼？小參小參眾入室，師拈杖云：摩訶般若波羅密，明如日，黑如漆，異解多途，商量非一。卓柱杖云：急！若人信受奉行，一生參學事畢。昔日，殃崛摩羅尊者持鉢至一長者家，其家婦人正值產難，子母未分，長者曰：瞿曇弟子！汝為至聖，當有何法能免產難？尊者曰：我乍入道，未知此法，待問世尊，却來相報。及返，具事白佛，佛告殃崛：速往報言：我從賢聖法來，未曾殺生。殃崛奉佛語，疾往告之，其婦得聞，當時分娩。師云：從古至今，拈提者極多，錯",
+          "MasterName": "Maoxi Xingsen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Maoxi Xingsen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Maoxi Xingsen owns the retained deployment: if one person receives it with faith and carries it out, the seeking of a lifetime is done."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X68/X68n1318.xml",
+        "X/X67/X67n1309.xml",
+        "X/X66/X66n1296.xml",
+        "J/J28/J28nB203.xml",
+        "J/J38/J38nB428.xml",
+        "X/X68/X68n1319.xml"
+      ],
+      "RelatedMasters": [
+        "Muzhou Daoming",
+        "Foyan Qingyuan",
+        "Shoushan Xingnian",
+        "Dahui Zonggao",
+        "Wuyi Yuanlai",
+        "Yun'e Xi",
+        "Mixing Jiren",
+        "Maoxi Xingsen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Receive it with faith and carry it out — the sutra-ending seal that Chan masters lift off the page: half-recited before a blow, given as the whole answer, laid on the newly shorn, and promised to end a lifetime's seeking if even one person does it. Muzhou Daoming ascends the hall and recites aloud — Avalokitesvara, coursing in deep wisdom — straight down to believe-receive-uphold-carry; then asks a monk: what did I just recite? The monk says: the master recited a sutra. He strikes him: this old awl! His mind owes no one, his face knows no shame. The formula was bait; the naming of it earned the blow. Foyan Qingyuan, ordaining the household servant Chongmu: the three refuges taken, the ten wrongs and the five precepts spelled out — now, in the gate of the three deeds, receive the precept way: you rely on my teaching, receive it with faith and carry it out — and stamps his staff. Chongmu answers: from the first I have had no body, mouth, or mind, and do not know what holding or breaking could be; even hearing the three refuges, I do not know which are buddha, way, and sangha; I have no place to receive — and Foyan puts down the staff: this is my true disciple, true refuge, true ordination — the formula voided by the one with nothing to receive with; and Shoushan Xingnian, in the treasury of the correct eye: the monk asks — what sayings do the sages from above have? — thus-have-I-heard. I do not understand. — Receive it with faith and carry it out. The whole canon in two borrowed seals. Wuyi Yuanlai, appraising the twenty-seventh patriarch's always-turning-such-a-sutra: the awl in the dangerous place, the awl in the stable — the lord of the land probing; what sprinkling cannot wet, what nails cannot enter — the patriarch's swift wit. Is that sutra still turning or not? Wait till the thread under your feet snaps — then you will know receive-with-faith-and-carry-out; Yun'e Xi, asked by the monk to open the great spell-gate of the rounded-awareness sea: thus-have-I-heard; pressed — did the buddhas of the three times all come out of this sutra? — receive it with faith and carry it out; and Mixing Jiren, teased at the laymen's precept-talk — since not a thread hangs, why cheat household men and women out of the three robes? — because I want them to receive it with faith and carry it out: the spring day clear, the oriole calling, the play staged in the market dust, this very seeing-hearing is not seeing-hearing. And the conditional grant: Maoxi Xingsen, small assembly, the whole crowd entering the room — the great wisdom ferry, bright as the sun, black as lacquer, readings many, weighings various — staff stamped: urgent! If one person receives it with faith and carries it out, the seeking of a lifetime is done."
+    }
+  ]
+}

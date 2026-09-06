@@ -1,0 +1,226 @@
+{
+  "Id": "t_05fb98faf9a2",
+  "SourceTerm": "藏身處沒蹤跡，沒蹤跡處莫藏身",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:28:18Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "hide where there is no trace; in the traceless place, do not hide",
+      "AlternateTargets": [
+        "no-trace hiding, and no hiding in the no-trace",
+        "the mirrored hiding charge"
+      ],
+      "SearchAliases": [
+        "Chuanzi's parting charge",
+        "the traceless-place couplet",
+        "hide tracelessly, then stop hiding"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 26 hits in 24 files representing 24 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X65/X65n1286.xml",
+          "FromLb": "0384c23",
+          "ToLb": "0385a12",
+          "Kwic": "何不道？山擬開口，被師一橈打落水中。山纔上船，師又曰：道！道！山擬開口，師又打。山豁然大悟，乃點頭三下。師曰：竿頭絲線從君弄，不犯清波意自殊。由遂問：拋綸擲鈎，師意如何？師曰：絲懸綠水，浮定有無之意。山曰：語帶玄而無路，舌頭談而不談。師曰：釣盡江波，金鱗始遇。山乃掩耳。師曰：如是！如是！乃囑曰：汝向去直須藏身處沒蹤跡，沒蹤跡處莫藏身。吾二十年在藥山，祇明斯事。汝今既得，他後莫住城隍聚落，但向深山裡、钁頭邊，覔取一個半個接續，無令斷絕。山乃辭行，頻頻回顧。師遂喚：闍黎！山乃回首。師竪起橈子曰：汝將謂別有。乃覆船入水而逝。通容曰：夾山若不是道吾與他指引，於船子處決不能開發，故夾山悟道而道吾有功也。然夾山受船子囑付，尚復頻頻回顧，心猶未死",
+          "MasterName": "Chuanzi Decheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chuanzi Decheng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "addressee",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X65/X65n1286.xml). Record of Tongs and Hammer in the Patriarchal Courtyard. Chuanzi Decheng owns the retained root: the charge — from now on you must hide where there is no trace, and in the traceless place do not hide. Twenty years I was at Yaoshan and understood only this matter; now that you have it, do not dwell in towns and gathering places — go into the deep mountains, to the mattock's edge, and find one or half a one to carry it on; do not let it break. Jiashan took leave and kept turning to look back; Chuanzi called: reverend! and as Jiashan turned his head, raised the oar: you thought there was something else — and overturned the boat, going into the water and gone. And Feiyin Tongrong's comment: had Jiashan not been pointed the way by Daowu, the boat would never have opened him — so in Jiashan's awakening Daowu shares the credit."
+        },
+        {
+          "RelPath": "X/X71/X71n1405.xml",
+          "FromLb": "0030c09",
+          "ToLb": "0030c24",
+          "Kwic": "坐時一味不管。著力處是我同流，不管時吾之道伴。且道伴同流是一是二？靠主丈云：見成公案。上堂：龍蟠虎踞，今古嶷然。楚水秦淮，滔滔無間。問著因甚麼道不會？上堂，舉：僧問巖頭和尚：利劒斬天下，誰是當頭者？巖頭云：暗。僧擬進語，巖頭云：鈍漢！師云：者僧一劒擬取天下人頭，到巖頭面前先折一命，直至而今不再活。上堂。藏身處沒蹤跡，沒蹤跡處莫藏身。古人與麼說話未出窠子，如今鍾山上把手、御街裏挨肩，與麼說話還出得窠子也無？良久，云：緩緩。上堂，舉：馬大師示眾云：凡有言句是提婆宗，以此箇為主。師頌云：玉轉珠回著眼看，有相干處沒相干，只將此箇以為主。喝一喝，云：一劒倚天星斗寒。謝莊主，上堂。進一步，退一步，钁頭钁底無回互。以一機，奪一機，沒便宜處討便宜",
+          "MasterName": "Shixi Xinyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shixi Xinyue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Sayings of Chan Master Shixi Xinyue. Shixi Xinyue owns the retained address: hide where there is no trace; in the traceless place, do not hide. The man of old who spoke so never got out of the nest — and today, taking hands on Zhongshan, shoulder to shoulder in the imperial street — does speech like that get out of the nest or not? A long silence: slowly, slowly."
+        },
+        {
+          "RelPath": "X/X69/X69n1360.xml",
+          "FromLb": "0576a02",
+          "ToLb": "0576a16",
+          "Kwic": "篙打落水中。夾山纔上船，船子又云：道！道！夾山擬開口，船子又打。夾山於此有省，乃點頭三下。船子云：竿頭絲線從君弄，不犯清波意自殊。夾山遂問：拋綸擲釣，師意如何？船子云：絲懸線水，浮定有無之意。夾山云：語帶玄而無路，舌頭談而不談。船子云：釣盡江波，錦鱗始遇。夾山乃掩耳。船子云：如是，如是。遂囑云：汝向去直須藏身處沒蹤跡，沒蹤跡處莫藏身。吾二十年在藥山只明斯事，汝今既得，他後不得住城隍聚落，但向深山裡、钁頭邊覔取一箇半箇，續佛慧命，無令斷絕。夾山乃辭行，頻頻回𮨇。船子又喚：闍梨，闍梨。夾山回首，船子竪起橈云：汝將謂別有。乃覆船而逝。到此大法未明，看病不見，只那一句合頭語，萬劫繫驢橛，已是生擒活捉了也。夾山點頭處，始到家。後來徑山杲長老有",
+          "MasterName": "Xiatang Huiyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiatang Huiyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Chuanzi Decheng",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1360.xml). Expanded Record of Chan Master Xiatang Huiyuan. Xiatang Huiyuan owns the retained retelling: Chuanzi said — so it is, so it is — and charged him: from now on you must hide where there is no trace, and in the traceless place do not hide; twenty years I was at Yaoshan and understood only this; go into the deep mountains, to the mattock's edge, find one or half a one, continue the sage's life of wisdom, do not let it break. Jiashan took leave, kept turning back; Chuanzi called — reverend! reverend! — and as he turned, raised the oar: you thought there was something else — overturned the boat and was gone. And the verdict: here the great matter was still unlit — one agreeing phrase, a donkey-tethering stake for ten thousand kalpas, had already taken him alive; it is at Jiashan's nodding that he first reached home."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0596c27",
+          "ToLb": "0597a16",
+          "Kwic": "一隻手，力挽頹綱振亭毒，方當滿得道人心，如是箇中千萬足。天隱和尚語錄卷十四天隱和尚語錄卷十五嗣法門人通問等編雜著雜著題船子和尚機緣集題船子和尚機緣集船子和尚，得藥山法，泛一小舟，江邊三十餘年接待方來，未有可其意者。及見夾山，下箇毒手，一橈打落洪波，直教離鉤三寸道將來，此是從上宗師爪牙也。其間道藏身處沒蹤跡，沒蹤跡處莫藏身。恰是龍頭蛇尾。所以夾山已後接洛浦，支離不少。雖然，正所謂以心印心，心心不異，且看末後踏翻船子，是何作略？時人觀其語句，若作歌辭會，入地獄如箭射；不作歌辭會，亦入地獄如箭射。離此二邊，道得一句，許你親見船子。極庵說極庵說夫真實荷道，極盡今時，無一毫留滯、無半點隔礙，而庵始成焉。然不見有凡可了、不見有聖可",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Chuanzi Decheng",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained colophon: the monk Chuanzi, who had Yaoshan's seal, poled a little boat more than thirty years by the river, receiving those who came, none to his liking; when he met Jiashan he struck the poison blow — one oar knocked him into the great waves — make him speak with the hook three inches away: this is the claw and tooth of the founding teachers. And in that exchange he said — hide where there is no trace; in the traceless place, do not hide — which is exactly a dragon's head on a snake's tail; that is why when Jiashan later received Luopu, the brokenness was not little. And yet this is what mind sealing mind means, mind no different from mind — just watch the end, kicking the boat over: what a maneuver! Readers of his lines who take them as songs go to hell swift as an arrow; those who refuse them as songs go to hell just as fast. Leave both sides and produce one sentence — then I grant you have seen Chuanzi face to face."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0181b27",
+          "ToLb": "0181c12",
+          "Kwic": "鳥棲無影樹，花發不萌枝。」舉火，云：「日出天明，日落天暗，明暗兩忘，寂光顯煥，莫是天明禪德安身立命之處麼？其或未然，老僧再為汝點過。」遂燒，云：「性火真空，性空真火，根身器界融通，便明無上大道，靈明廓徹絕週遮，任運騰騰當安樂。」乃擲火炬，散。孝徒非幻、本明等，送令先師蓮如上座靈骨入塔，請師舉骨，云：「藏身處沒蹤跡，沒蹤跡處莫藏身，兩邊俱不住，風光格外新，翠竹蒼松長作伴，清風明月許為鄰，明眼之人多自得，萬年流水不知春。」遂送入。破休上座請為令師送靈骨入塔，師提骨云：「大眾還知麼，離山禪德在生親近天童先師，而今死後到此徑山入塔，可謂頭正尾正。且道他安身立命在什麼處？」遂送骨入，云：「劫外乾坤大，壺中日月長，頻吹無孔笛，曲調別官商。老",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained stupa verse: the filial disciples Feihuan and Benming, bringing their late teacher the elder Lianru's sacred bones into the stupa, asked the master to lift the bones — and he said: hide where there is no trace; in the traceless place, do not hide; dwelling in neither of the two, the scenery is fresh beyond measure — green bamboo and gray pears forever his companions, clear wind and bright moon admitted as neighbors; the one with eyes gets it for himself, and the ten-thousand-year flowing stream does not know spring. And he sent the bones in."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0841c28",
+          "ToLb": "0842a10",
+          "Kwic": "：『喚他作麼？』山曰：『我有個折腳鐺子，要伊與我提上挈下。』巖曰：『與麼則與和尚同出一隻手去也。』」師曰：「龍山今日與我喚首座、監院來。八道：『和尚喚他作麼？』山僧向他道：『我有柄龜毛拂子，與伊橫拈倒用。』若有人道：『與麼則與和尚同出一隻手去也。』山僧向他道：『卻被闍黎道著。』更問：『與後如何？』向道：『藏身處沒蹤跡，沒蹤跡處莫藏身。』」遂擲下拂子曰：「新出紅爐金彈子，簉破闍黎鐵面門。」上堂。問：「古人道：『須參活句，莫參死句。』如何是活句？」師曰：「剎竿頭上風車子。」曰：「如何是死句？」師曰：「斷頭船子下揚州。」曰：「且道活句死句，是同是別？」師曰：「粉粧鷺鷥，墨染烏鴉。」曰：「如何是向上事？」師曰：「向下薦取。」問：「師登寶座，大",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained address: the man of old — I have a broken-legged pot; you, lift and carry it for me — then: then you and the master go out with the same one hand. Baishan: Longshan today — summon me the seat-leader and the rector. Someone: what does the master want with them? This mountain monk told him — I have a tortoise-hair whisk, to hold crosswise and use upside-down; and if someone said — then you and the master go out with the same one hand — I would tell him: the reverend has said me right. Asked further: and after that, what? — I answered: hide where there is no trace; in the traceless place, do not hide. And the whisk flung down: a golden pellet fresh from the red furnace, smashing through the reverend's iron face."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X65/X65n1286.xml",
+        "X/X71/X71n1405.xml",
+        "X/X69/X69n1360.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Chuanzi Decheng",
+        "Jiashan Shanhui",
+        "Yaoshan Weiyan",
+        "Feiyin Tongrong",
+        "Shixi Xinyue",
+        "Xiatang Huiyuan",
+        "Tianyin Yuanxiu",
+        "Luopu Yuanan",
+        "Baishan Dekai",
+        "Yantou Quanhuo"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Hide where there is no trace; in the traceless place, do not hide — the boatman's parting charge, sealed with an overturned boat and graded for a thousand years. At the root, Chuanzi Decheng charges Jiashan: from now on you must hide where there is no trace, and in the traceless place do not hide; twenty years I was at Yaoshan and understood only this — go into the deep mountains, to the mattock's edge, find one or half a one, do not let it break; and as Jiashan turned back once more, the oar rose — you thought there was something else — the boat overturned, and the boatman was gone; Feiyin Tongrong comments: without Daowu's pointing, the boat would never have opened him. Shixi Xinyue, opening the hall with the charge itself: the man of old who spoke so never got out of the nest — today, hands taken on Zhongshan, shoulders touching in the imperial street — does speech like that get out of the nest or not? slowly, slowly. Xiatang Huiyuan, retelling the scene and staking it: the great matter still unlit — one agreeing phrase, a donkey-tethering stake for ten thousand kalpas, had already taken him alive; it is at Jiashan's nodding that he first reached home. Tianyin Yuanxiu, inscribing the Chuanzi collection: thirty years a little boat by the river, none to his liking; then Jiashan — one oar into the great waves, speak with the hook three inches off; and in that exchange he said the charge — which is exactly a dragon's head on a snake's tail, hence the brokenness when Jiashan later received Luopu; and yet mind sealing mind, mind no different from mind — watch the boat kicked over: what a maneuver; song-readers go to hell like an arrow, song-refusers just as fast — leave both, and I grant you have seen Chuanzi. Feiyin Tongrong, lifting the bones of the elder Lianru into the stupa: hide where there is no trace; in the traceless place, do not hide; dwelling in neither of the two, the scenery fresh beyond measure — the ten-thousand-year flowing stream does not know spring. Baishan Dekai, asked what comes after: I have a tortoise-hair whisk, held crosswise, used upside-down; the reverend has said me right; and after that — hide where there is no trace; in the traceless place, do not hide; the whisk flung down: a golden pellet fresh from the red furnace, smashing through the reverend's iron face."
+    }
+  ]
+}

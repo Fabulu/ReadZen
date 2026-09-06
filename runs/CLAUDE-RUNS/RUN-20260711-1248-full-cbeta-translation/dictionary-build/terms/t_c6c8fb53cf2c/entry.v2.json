@@ -1,0 +1,227 @@
+{
+  "Id": "t_c6c8fb53cf2c",
+  "SourceTerm": "知有",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:02:42Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to know there is",
+      "AlternateTargets": [
+        "to know that it exists"
+      ],
+      "SearchAliases": [
+        "know that it exists",
+        "acknowledge that it is there",
+        "not be oblivious to it"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 5363 hits in 404 files representing 398 independent works. Evidence floor: 8. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0595a04",
+          "ToLb": "0595a17",
+          "Kwic": "峰打鼓請同看，寶誌杖懸剪鏡尺。剪鏡尺，明歷歷，願公常住此人天，直待當來問彌勒。珍重。」壽昌語錄丙子掃壽昌祖塔闃然謐大師偕諸護法請師住壽昌本寺開堂壽昌語錄丙子掃壽昌祖塔，闃然謐大師偕諸護法，請師住壽昌本寺開堂師以如意指法座，云：「見麼？若向遮裏明得，不惟坐斷十方，直教三世諸佛齊拜下風有分。雖然如是，更須知有向上全提一著在。大眾！看取新壽昌向毘盧頂上行去也。」遂陞座，拈香，云：「此一瓣香，結根鷲嶺，發秀熊峰，遙付囑於當時，密傳持于斯日，爇向爐中，祝延皇帝聖壽萬萬歲，伏願佛心不二，慧命無疆，主華藏之莊嚴，致剎塵之位育。此一瓣香，兆自眾生腳底，透於諸佛頂門，覿面無虧，全機不昧，爇向爐中，專奉為益府殿下、宗室賢明、闔",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, granting the whole ten directions to the assembly and still demanding that they know there is the upward whole-lift before he names the new Shouchang walking atop Vairocana's head."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0387b18",
+          "ToLb": "0387c07",
+          "Kwic": "元宵，示眾：新年以來，東海龍王與日月燈明佛大相爭戰，不分勝負。今晨山僧性發將二人各打三十山藤，趕過北󳬂單越去也。二人是非且置，祇如晴明陰雨外一句作麼生道？僧出，曰：晴明陰雨。師曰：情知你只解與麼。僧擬進語，師便喝，乃曰：今既無人道得，山僧打葛藤去也。太虗無畔涯，滄海無覆蓋。晴看銀竹垂，雨把袈裟曬。貍奴白牯却知有，三世諸佛遭捉敗。更有神前酒臺盤，却最會揑恠。倒騎佛殿出三門，驚倒金剛在門外。此夜諸佛諸祖之法盡說了也。更有一句子，乃諸佛諸祖說不到底。本欲盡情與諸人說破，怎奈山僧住持事繁，待天王殿落成之後，為諸人說破在。夜寒，珍重！端陽示眾：昔日雪山老人指鹿為馬，東西諸祖證龜成鼈，次第累及山僧，亦不免將錯就錯。今當端",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment, giving the acknowledgment to badgers and white calves while the buddhas of the three times are caught and defeated."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0419b07",
+          "ToLb": "0419b22",
+          "Kwic": "一須消歸自己。言言使冥合真心。但莫執義上之文。隨語生見。直須探詮下之旨。契會本宗。則無師之智現前。天真之道不昧。如華嚴經云。知一切法。即心自性。成就慧身。不由他悟。故知教有助道之力。初心安可暫忘。細詳法利無邊。是乃搜揚纂集。且凡論宗旨。唯逗頓機。如日出照高山駃馬見鞭影。所以丹霞和尚云。相逢不擎出。舉意便知有。如今宗鏡。尚不待舉意。便自知有。故首楞嚴經云。圓明了知。不因心念。揚眉動目。早是周遮。如先德頌云。便是猶倍句。動目即差違。若問曹谿旨。不更待揚眉。今為樂佛乘人。實未薦者。假以宗鏡。助顯真心。雖挂文言。妙旨斯在。俯收中下。盡被群機。但任當人。各資己利。百川雖潤。何妨大海廣含。五嶽自高。不礙太陽普照。根機莫",
+          "MasterName": "Danxia Tianran",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "later-quoter",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Danxia Tianran owns the retained deployment, meeting without holding anything out, the acknowledgment arriving as soon as intent is lifted."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0009a14",
+          "ToLb": "0009b07",
+          "Kwic": "不可總作野狐精見解。白巖符云：普眼要見普賢，無事討事，更撞着個世尊，教人向睛空揑目，妄見狂華，俱好與貶向二鐵圍山。何故？若是普賢，你纔擬心欲見，早是隔山了也。諸人要見普賢麼？各請歸堂。世尊因五通仙人問：世尊有六通，我有五通，如何是那一通？世尊召五通仙人，通應諾。世尊曰：那一通你問我？雪竇顯云：老胡元不知有那一通，却因邪打正。瑯瑘覺云：世尊不知，可謂因正而打邪；五通不知，實乃因邪而打正。翠巖芝云：五通如是問，世尊如是答，要且不會那一通。雲峰悅云：大小瞿曇被外道勘破了，有旁不肯底麼？出來！我要問你：作麼生是那一通？雲葢本云：世尊如是召，五通如是應。作麼生是那一通？良久，云：姹女已歸霄漢去，獃郎猶向火邊蹲。",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Xuedou Chongxian owns the retained deployment, ruling that the old foreigner originally did not know there was that one penetration and was straightened only by way of the crooked."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0242a11",
+          "ToLb": "0242a24",
+          "Kwic": "薩亦爾，若心有間隙，心即搖動而不自在，乃至成就皆魔業耳。何謂魔也？歡喜是魔也、煩惱是魔也、昏沉是魔也、掉舉是魔也、懼動是魔也、厭靜是魔也、喜談論是魔也、愛遊行是魔也，乃至斥像毀經、破律犯戒、拈頌機緣、擅開異解、詩賦詞章、文藝雜學併貪求說法，悉是魔也。所以，博山教諸昆仲提一則無意味公案，蘊在八識田中，當下不知有血肉身心、前境不知有山河大地，非內、非外，滾作一箇疑團，行不知行、坐不知坐，如一人與萬人敵，又如心心常似過橋時。直須發明此事，到磕著、撞著，打破疑團，通身是眼，縱遇釋迦大師摩頂授記，佛亦不做，何況魔軍而能入耶？諸昆仲！如斯會去，誰不丈夫？雖然如是，事怕有心人，直須當下一念無生，超彼三乘權學等見。若將心令無，",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, prescribing the state where one no longer knows there is a flesh-and-blood body and mind, nor mountains and rivers and the great earth."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0001b21",
+          "ToLb": "0001c07",
+          "Kwic": "驚天地。四海禪人盡得聞。師云。謝子證明。進云。此猶是應時及節因緣。祇如寂然不動。智已周於十方。廓爾無私。道已行於樂國。又作麼生。師云。知音不在頻頻舉。僧問。三際泯跡。而真假頓空。悲智纔興。而法輪便轉。祇如敲唱門中。如何得不落今時去。師云。不答爾這話。進云。恁麼則玉馬雪行歸半夜。混然渾不露纖機。師云。更須知有轉身一路始得。進云。金雞啼處三更月。玉鳳棲時午夜雲。師云。直須恁麼。師乃云。名不得象不得。從來清淨不受染污。本自圓成不勞修證。銷融萬有。堂堂穩馭真乘。和合眾緣。處處顯揚茲事。諸仁者。今日山河大地草木叢林。與覺上座同時成道。一音說法。還相證明麼。良久云。相逢會有知音知。何必清風動天地。陳謝罷復舉。僧問曹山",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment, granting the monk's horse-in-snow imagery and ruling that he must still know there is the road of turning the body around."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0720a19",
+          "ToLb": "0720b06",
+          "Kwic": "師云。坐却舌頭。問法不孤起仗境方生。提坐具云。這箇是境。如何是法。師云。却被闍梨奪却槍。進云。和尚今日為什麼退己讓人。師云。只有先鋒無殿後。進云。未審如何是殿後。師云。還我話頭來。乃云。田地穩密底。擡脚不起。探頭太過。神通妙用底。放脚不下。收身未轉。直饒十字縱橫朝打三千。猶較些子。且道。謷訛在什麼處。若知有去。始見全提半提。儻或未知。布袋裏老鴉雖活如死。下座。上堂。僧問。南泉斬猫兒意旨如何。師云。殺活臨時。進云。趙州戴草鞋又作麼生。師云。是他屋裏事。進云。打鼓弄琵琶去也。師云。且莫詐明頭。乃云。有佛處羅籠不住。無佛處荒草尋人。放行也觸處光新。把住也乾坤陡變。且道。向上人來時如何。他家自有通霄路。下座。上",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, tying the seeing of the whole lift and the half lift to those who know there is, and calling the rest a live crow in a sack."
+        },
+        {
+          "RelPath": "T/T47/T47n1987A.xml",
+          "FromLb": "0527b05",
+          "ToLb": "0527b23",
+          "Kwic": "却我口。若言我道。即謇却我舌。師歸舉似洞山。山曰古佛。雲門問。如何是沙門行。師曰。喫常住苗稼者是。門云。便恁麼去時如何。師曰。爾還畜得麼。門云畜得。師曰。爾作麼生畜。門云。著衣喫飯有甚麼難。師曰。何不道披毛戴角。門便禮拜。師示眾曰。諸方盡把格則。何不與他道一轉語令他不疑去。雲門在眾出問。密密處為甚麼不知有。師曰。只為密密所以不知有。門云。此人如何親近。師曰。莫向密密處親近。門云。不向密密處時如何。師曰。始解親近。門云諾諾。又問。不改易底人來。師還接不。師曰。曹山無恁麼閑工夫。因米和尚至。未相見。米遂坐却禪床。師更不出。米便去。主事遂問。和尚禪床為什麼被別人坐却。師曰。去後却還來。米果回與師相見。智炬到",
+          "MasterName": "Caoshan Benji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1987A.xml). Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou. Caoshan Benji owns the retained deployment, answering that it is just because the place is secret that one does not know there is, and forbidding approach to the secret itself."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0793b20",
+          "ToLb": "0794a14",
+          "Kwic": "迦等天堂無則已有則君子生地獄無則已有則小人入此乃古今通論以世間法諭之何曾見君子人擔枷入獄所以犯憲章擔枷入獄凌褫釘剮者皆是不孝於親不忠於君不讀聖人之書不知仁義禮智信者況讀聖人之書而於吾門優游教海焉得謂之小人如總轄與老漢素昧平生前此來梅州因捉殺自潮州回馬上略邂逅後來常通書及在贛州城下撥忙亦有書來他是箇殺人漢知有善知識信向此事月十日又是一封書來為他能存一念信向善知識心渠既如此肯在軍中亂斬斫人麼肯取人財帛麼肯虜人骨肉麼聞知啟手足時觀察父子自到其家見其家空蕩蕩無一物面前所有者盡是官物子由又見識高將應干弓箭一時納了所以觀察愛其廉潔如此其子又賢甚故盡力照管他子由十四上便得解因循不赴省此回因總轄捐館後近日受命了得得來見妙喜",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, crediting a killing man with knowing there is a true teacher and trusting the affair, his letters arriving ten times a month."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0296a03",
+          "ToLb": "0296a16",
+          "Kwic": "吼。當流虹之瑞旦，慶萬世之昌期。然則蕢桴土鼓，共樂升平。堯舜之君，猶有化在。所以道：向上一路，千聖不傳。萬仞崖頭，縱橫得妙。卓拄杖，云：將此身心奉塵剎，是則名為報佛恩。元宵，上堂。鏡鏡交輝，燈燈相燭，境智互融，事理俱備，喚作華藏性海，正是平地揚波。直饒盡乾坤大地無纖毫過患，猶是轉句；不見一色，始是半提。更須知有全提時節，便恁麼去，法堂前何止草深一丈？放過一著，有箇商量。山門新舊知事，隨年進退因時，請得首座表率、維那舉唱，洗光佛日，重整頺綱。見前諸德一一循規守矩，人人舍短從長，信手揭開釋迦老子青蓮華眼，徐步蹈著達磨大師生鉄脊梁。有底碩學飽參與汝證據，無底良辰美景與汝敷揚。以拂子畫一畫，云：好事不須頻話會，留將和氣",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, ruling that even a world without a speck of fault is only a turning word, and one must still know there is the season of the whole lift."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J34/J34nB311.xml",
+        "X/X72/X72n1437.xml",
+        "T/T48/T48n2016.xml",
+        "X/X66/X66n1296.xml",
+        "X/X72/X72n1435.xml",
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1987A.xml",
+        "M/M59/M59n1540.xml",
+        "X/X71/X71n1414.xml"
+      ],
+      "RelatedMasters": [
+        "Juelang Daosheng",
+        "Yongjue Yuanxian",
+        "Danxia Tianran",
+        "Yongming Yanshou",
+        "Xuedou Chongxian",
+        "Wuyi Yuanlai",
+        "Hongzhi Zhengjue",
+        "Yuanwu Keqin",
+        "Caoshan Benji",
+        "Yunmen Wenyan",
+        "Dahui Zonggao",
+        "Liao'an Qingyu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A root acknowledgment that the great matter is there, graded against what a speaker still owes or already owns. Juelang Daosheng grants the assembly the whole ten directions and still demands that they know there is the upward whole-lift, Yongjue Yuanxian's lantern-night verse gives the acknowledgment to badgers and calves while the buddhas of the three times get caught and beaten, Danxia Tianran's quoted couplet makes the acknowledgment arrive the moment intent is lifted, Xuedou Chongxian denies it of the old foreigner who missed the one penetration, and Wuyi Yuanlai prescribes the doubt-mass that stops knowing there is a flesh-and-blood body and mind. Hongzhi Zhengjue returns a monk's exchange with the ruling that he must still know there is the turning-around road, Yuanwu Keqin ties seeing the whole-lift and half-lift to those who know there is, Caoshan Benji answers Yunmen that the secret place is exactly why one does not know there is, Dahui Zonggao credits a soldier who knows there is a true teacher and trusts the affair, and Liao'an Qingyu warns that even a faultless world is only a turning word and one must know there is the season of the whole lift."
+    }
+  ]
+}

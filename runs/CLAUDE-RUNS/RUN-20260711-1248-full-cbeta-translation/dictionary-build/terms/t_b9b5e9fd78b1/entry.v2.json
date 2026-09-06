@@ -1,0 +1,194 @@
+{
+  "Id": "t_b9b5e9fd78b1",
+  "SourceTerm": "直截根源",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:18:10Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the direct cut to the root",
+      "AlternateTargets": [
+        "straight to the source"
+      ],
+      "SearchAliases": [
+        "cutting straight to the root",
+        "the root-cutting directness",
+        "straight to the fountainhead"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 221 hits in 104 files representing 101 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0664b23",
+          "ToLb": "0664c17",
+          "Kwic": "犬吠曰如何得不吠去師曰自冝軃避寂無聲問如何是真道人師曰竹竿頭上禮西方問魚隱深潭時如何師曰湯盪火燒問如何是諸佛行履處師曰青松綠竹下問如何是大善知識師曰殺人不眨眼曰既是大善知識為甚麼殺人不眨眼師曰塵埃影裏不拂袖畫㦸門前磨寸金問一即六六即一一六俱亡時如何師曰一箭落雙鵰曰意旨如何師曰身亡跡謝問摘葉尋枝即不問直截根源事若何師曰赴供凌晨去開塘帶雨歸問問問𥁞是捏怪請師直指根源師曰罕逢穿耳客多遇刻舟人問正當恁麼時如何師曰盲龜值木雖優穩枯木生花物外春。上堂大眾集定師曰不是無言各須英鑒問大眾雲集師意如何師曰景謝祁寒骨肉踈冷。師在南院作園頭一日南院到園問云南方一棒作麼生商量師曰作奇特商量良久師却問和尚此間作麼生商量南院拈棒云",
+          "MasterName": "Muzhou Daoming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Muzhou Daoming owns the retained answer, giving the direct-cut ask the day's own round — off to the dawn meal, back from digging the ponds in the rain — and ruling the pierced-ear traveler rare, the boat-carver common."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0371c02",
+          "ToLb": "0371c17",
+          "Kwic": "作業不忘，因緣會遇時，果報還自受。謝秉拂，上堂：雨注河傾，共談無義。陳蒲鞋倒退三千，睡虎子讓一頭地。有問如何若何，不能以手夾鼻。何故？切忌錯恠老僧。上堂：涅槃心，差別智，明之既難，會之不易。如千手異執，千目異顧，元同一身；似萬派爭流，百川競注，皆歸一水。雖然如是，差之毫釐，謬以千里。上堂，舉：永嘉大師道：直截根源佛所印，摘葉尋枝我不能。與麼已帶枝葉了，作麼生得直截根源去？良久，云：時暑，不宜久立。城歸，上堂：昨日動未常動，今日靜未常靜。所以道：靜謂之性，心在其中矣；動謂之心，性在其中矣。只如心性俱泯、動靜兩忘時如何？一片白雲橫谷口，數聲幽鳥語林阿。解制，上堂。昨朝結制，鎖夢關空；今朝解制，眼開天曉。且道結底是？",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanxi Weiyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment, granting that even Yongjia's couplet already carries leaves, then asking how one gets to the direct cut to the root at all — and closing, after the pause, that the heat forbids long standing."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0769b06",
+          "ToLb": "0769b21",
+          "Kwic": "，咨決禪宗向上一著，此豈偶然者哉？然我者裏別無指授之方，但請各各參取箇無字話頭，却不妨向出司按部、蒞政牧民、演武脩文處時時提掇、密密󳬇捕，忽然󳬇破話頭，眼空天下，肯復讓范冲、于頔輩為了事漢哉？古人云：為治不在多言，顧力行何如耳。山僧今日已是言語大多，言多去道轉遠。若是解聽者，只消向直截根源處會取。且如何是直截根源處？良久，喝一喝，下座。前州路馬跡山錢君祥請普說。山河大地全露法王身，草木藂林盡作師子吼。與麼則十方諸佛相好光明，逼塞虗空滿眼滿耳。三乘教藏無量法門，晝夜六時熾然常說。歌臺酒榭無非清淨講堂，劒樹刀山總是寶花王座。一處現身，千處萬處一切處同時出現。一處說法，千處萬處一切處同時演說。或於一身現多身，或於多身",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment, sending the skilled listener to take the matter up at the direct-cut place, then, asked what that place is, holding the long pause, shouting once, and coming down from the seat."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0646b17",
+          "ToLb": "0646b30",
+          "Kwic": "處，便有弒父弒君之漸矣！今之參禪學道，秪愛用知見情識去公案機鋒上領略卜度，如何得深入門庭堂奧而見本生之君父哉？此旨唯吾曹洞祖師深悟直指之宗，故立如子事父、如臣事君之旨，以開示世間、出世間之後學，必如是念念歸根、心心得旨，若纔隨炤則失宗矣！你不見倒剎竿、青州衫、廬陵米價、日面、月面、柏樹子、麻三斤諸公案，皆是直截根源，不容擬議，而親見祖父於一吼俱盡乎？」諸公大喜曰：「此不特為少林一脈直通元氣，即舜、文、周、孔乃於今日始得見其真面孔也。幸侍者記之，使天下後世悟斯旨者，皆得致君親樂太平於大師言下矣！」諸縉紳請茶話諸縉紳請茶話師云：「山僧逢人莫不箇箇說解脫法，亦竟不得解脫者，何也？良以全身坐在現成文字、道理知見窠裏，展",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, ruling the old cases — the hemp three pounds and their kin — all of them the direct cut to the root, brooding barred, the grandfather seen whole in one roar."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0448c04",
+          "ToLb": "0448c18",
+          "Kwic": "飯氣。舉古舉今，守株待兔。更說向上一關、末後一句，大似鑽冰取火、掘地覓天。到者裏，直饒伶俐衲僧無處下手。且道：畢竟如何即是？數聲清磬是非外，一箇閒人天地間。」上堂。「諸佛是了事凡夫，凡夫是不了事諸佛，只緣一念迷悟，便有聖凡之別。豈不見？天龍豎箇指頭，俱胝忽然悟徹；鳥窠一吹布毛，慧通當下休歇。我此門中，只貴直截根源，那許尋枝摘葉？果能如是相應，縱遇鋒刀常坦坦，假饒毒藥也閒閒，通身不挂一絲毫，坐斷十方孤迥迥。秪如不落常情一句作麼生道？一切聖賢如電拂，大千沙界海中漚。」上堂。「纔見山僧鼓兩片皮說黃道黑，便作佛法會。殊不知山河大地、萬象森羅、風動塵起、雲騰鳥飛，皆為諸人顯揚第一義諦。若也會得，便可歸家穩坐。雖然如是，劫火",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment, ruling his house prizes only the direct cut to the root and permits no leaf-seeking, so that blades stay calm and poison idle on the body that hangs not one thread."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0003a22",
+          "ToLb": "0003b04",
+          "Kwic": "有乘時唱和者麼？」僧問：「第一義佛眼難窺，龍象眾作麼生觀？」師豎拂，云：「這裏薦。」進云：「直得上無攀仰，下絕己躬。」師云：「秪恐不是玉。」進云：「曹溪波浪如相似，無限平人被陸沉。」師云：「也須記取。」問：「如何是最初一句？」師云：「杲日當空。」僧禮拜，云：「謝和尚指示。」師便打。乃云：「當陽的旨今古該通，直截根源聖凡統攝，頭頭顯露，物物圓成，迥絕見知，了無回互。於此洞明得去，不妨就地施設，現處舉揚，掀展鷲嶺家風，揭開少林寶藏，向霽天化日之下以與泥豬疥狗共贊昇平，鳳子麟兒齊彰海印。「雖然如是，猶未足稱衲僧意氣。如何是衲僧意氣？三尺龍泉光照膽，萬人叢裏奪高標。」卓拄杖一下。復舉寶壽開堂，三聖推出一僧，寶壽便打，三聖云",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, making the open-sun aim reach through past and present and the direct cut to the root gather sage and commoner, every head revealing and every thing complete, with no seesaw of views left."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0703c09",
+          "ToLb": "0703c21",
+          "Kwic": "禪，眉下無眼；有禪無戒，眼上無眉；眉眼相稱，名之為人。禪是體，戒是用。有戒無禪，得用無體；有禪無戒，得體無用；體用兼攝，名之曰道。禪是解，戒是行。有禪無戒，能解無行；有戒無禪，能行無解；行解相應，名之曰祖。」成道，上堂。問：「無端雪嶺受艱辛，剛睹明星夢不成，會得山河渾是我，雙眼從茲空古今。眼空今古即且置，直截根源事若何？」師云：「你向甚麼處得者消息來？」進云：「此事纖豪不昧，因甚一切眾生自生顛倒？」師云：「卻是你顛倒。」進云：「和尚恁麼答話，大似貪觀天上月，失卻掌中珠。」師云：「因誰致得？」進云：「大地今朝遍香積，普應一句請師宣。」師云：「少刻有齋。你也隨例得飯喫。」進云：「智不到處又作麼生？」師云：「念箇普同供養。",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained answer, turning the direct-cut ask back on the asker — where did you get this news — before ruling the inversion the asker's own."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0264b17",
+          "ToLb": "0264b30",
+          "Kwic": "坐斷，千聖齊立下風；正眼洞明，照徹聖凡根本。天地如斯而覆載，日月如是而運行，佛祖如是而轉法輪，眾生如是而流轉生死，山僧如是而作戲逢場，拈提向上鉗鎚，摟碎野狐窠窟。直饒親證如是，只能入佛不能入魔，更須重入紅爐，烹煆十成具足，死後方可入淨入穢，入彌勒樓閣，入三眼國土，處處遊履，惟見空名。此猶是方便利生邊事，若要直截根源，何假遮些嘮嚷？若󳹸󳹸𣯧𣯧，如覷地尋鍼子底一般，今日會禪，明日會道，不是內依蘊界，便是外逐狐涎，日久月深，趨名奔利，打入野狐種類，相引相牽，均投苦海，本學善因，反招惡果去也。山僧今日偶然路見不平，說起遮般絡索，可謂不惜眉毛，欲得此話重圓，且聽重為剖判。」拈拄杖卓一下云：「拄杖子朝到西天，暮歸東土，三世諸佛",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment, ruling that whoever wants the direct cut to the root needs none of the din, and that the needle-hunters peering at the ground who today know Chan and tomorrow know Dao end by joining the fox line."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X70/X70n1388.xml",
+        "X/X70/X70n1403.xml",
+        "J/J34/J34nB311.xml",
+        "J/J26/J26nB182.xml",
+        "J/J28/J28nB202.xml",
+        "J/J26/J26nB187.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Muzhou Daoming",
+        "Huanxi Weiyi",
+        "Tianru Weize",
+        "Juelang Daosheng",
+        "Wanru Tongwei",
+        "Baichi Xingyuan",
+        "Tian'an Sheng",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The direct cut to the root of the Chan records: the one road past leaf and branch, promised more often than shown. Muzhou Daoming answers the direct-cut ask with the day's own round — off to the dawn meal, back from digging ponds in the rain — and tells the next asker pierced-ear travelers are rare, boat-carvers common, Huanxi Weiyi grants even Yongjia's couplet already carries leaves and asks how one gets to the direct cut at all, closing that the heat forbids long standing, Tianru Weize sends the skilled listener to take it up at the direct-cut place and then, asked what that place is, holds the pause, shouts once, and descends, and Juelang Daosheng rules the old cases — the toppled pole, the Qingzhou shirt, the Luling rice price, the hemp three pounds — all of them the direct cut to the root, brooding barred, the grandfather seen whole in one roar. Wanru Tongwei's house prizes only the direct cut to the root and permits no leaf-seeking, so that blades stay calm and poison idle on the body that hangs no thread, Baichi Xingyuan makes the open-sun aim gather sage and commoner under the direct cut, every head revealing and every thing complete, Tian'an Sheng turns the enlightenment-day ask back on the asker — where did you get this news — and Yunwai Xingze rules that whoever wants the direct cut needs none of the din, the needle-hunters peering at the ground who today know Chan and tomorrow know Dao ending in the fox line."
+    }
+  ]
+}

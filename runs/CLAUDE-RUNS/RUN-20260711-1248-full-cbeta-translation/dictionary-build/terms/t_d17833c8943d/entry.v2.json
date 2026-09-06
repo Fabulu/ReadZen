@@ -1,0 +1,233 @@
+{
+  "Id": "t_d17833c8943d",
+  "SourceTerm": "能縱能奪",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:59:59Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "able to let loose and able to seize away",
+      "AlternateTargets": [
+        "with the power both to release and to take"
+      ],
+      "SearchAliases": [
+        "freeing and stripping at will",
+        "the loose-and-seize power",
+        "releasing power, seizing power"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 142 hits in 91 files representing 90 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0715b05",
+          "ToLb": "0715b23",
+          "Kwic": "云多口作麼丫童從此入山不見師因看經次沙󳇐文遠入來師將經側示之沙󳇐出師隨後把住云速道速道文遠云阿󳇐陀佛阿󳇐陀佛師便歸方丈因沙󳇐童行叅師向侍者道教伊去侍者向行者道和尚教去師云沙󳇐童行得入門侍者在門外師行󷗿時到一尊宿院才相見便云有麼有麼尊宿竪起拳頭師云水淺舡難泊便出又到一院見尊宿便云有麼有麼尊宿竪起拳頭師云能縱能奪能取能𢲻禮拜便出師一日拈𰚆珠問新羅長老彼中還有者箇也無云有師云何似者箇云不似者箇師云既有為什麼不似無語代云不見道新羅大唐問新到什麼處來云南方來師竪起指云會麼云不會師云動止萬福不會師行脚時問大慈般若以何為躰慈云般若以何為躰師便呵呵大笑而出大慈來日見師掃地次問般若以何為躰師放下掃󰆠呵呵大笑而去大慈便歸方丈",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Zhaozhou Congshen owns the root deployment — the grant at the second raised fist, followed in the record by his bow; the first hermitage he had ruled water too shallow to moor a boat."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0768b13",
+          "ToLb": "0768b29",
+          "Kwic": "玄旨始得。所以道。不識玄旨徒勞念靜。得失是非一時放却。但莫憎愛洞然明白。楊岐所謂栗棘蓬有刺而難吞金剛圈者至小而難跳。勿語中有語。為人解黏去縛。不是人情底事。兄弟參禪。即不得邪解也須子細始得。只如趙州勘一菴主。入門便問。有麼有麼。庵主竪起拳。州云。水淺不是泊船處。又訪一庵主云。有麼有麼。主亦竪起拳。州云。能縱能奪能殺能活。且那裏是水淺不是泊船處。那裏是能縱能奪能殺能活處。有者道。趙州先知前庵主不會。所以道。不是泊船處。先知後庵主會。所以道。能殺能活。有底道。舌頭在趙州口裏。任渠與奪。如斯見解。總是邪徒情識卜度。不得真正宗眼。便是吞跳金剛圈栗棘蓬不得也。五祖和尚常云。諸方參得底禪。如瑠璃瓶子相似。愛護不捨第一。莫",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, turning both rulings into askings for the hearers and grading every foreknowledge gloss the wrong view that cannot swallow the burr or leap the ring."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0641b01",
+          "ToLb": "0641b15",
+          "Kwic": "，明明祖師意。只許老胡知，不許老胡會。』所謂眼裏著沙不得，耳裏著水不得。汝等還委悉麼？如未委悉，老僧再將平日受用處，與汝諸人通個消息。明明見了非他見，了了常知無別知，村月如銀牽老興，閒行不覺過溪西。」示眾。「昔日高峰祖師道：『海底泥牛銜月走，崖前石虎抱兒眠。鐵蛇鑽入金剛眼，崑崙騎象鷺鷥牽。此四句，內有一句能縱能奪，能殺能活，若人撿點得出，一生參學事畢。』老僧亦有四句，雖無如是奇特，亦不在高峰之下。天晴日頭出，雨下地皮濕，小盡二十九，大盡三十日。此四句內亦有一句能縱能奪，能殺能活。若人撿點得出，一生參學事畢。且道是那一句？試撿點看。如撿點不出，普請喫茶去。」示眾。「古人道：『繇心生故，種種法生；繇法生故，種種心生。",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment — his own sky-and-calendar four lines carrying one sentence just as able to loose and seize, and the tea invitation for those who cannot find it."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0484a28",
+          "ToLb": "0484b11",
+          "Kwic": "時解開布袋口。有時結卻布袋頭，則千雲共一室；有時解開布袋口，遍界布千雲。一任橫擔拄杖、倒掛瓢囊，或東或西，逍遙自在。且道途中事作麼生？拄杖頭邊挑日月，草鞋腳底踏乾坤。」婁東慧壽，上堂。「紅塵堆裏大建法幢，還他德山手段；鬧市場中高豎剎竿，須憑古聖機權。機權明，能高能下、能大能小，高下融通、大小圓攝；手段具，能縱能奪、能殺能活，縱奪自由、殺活自在。具得者般手段，方能大中現小、小中現大，一為無量、無量為一，於一微塵現寶王剎，於一剎中轉大法輪，就中所談，理無礙、事無礙、理事無礙、事事無礙，一一破塵越量、句句出格超宗，豈為量所限哉？到者裏，拈一莖草便可作丈六金身用，將丈六金身作一莖草用。眾中莫有具如是眼、透如是法者麼？其或",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment — the mechanism clear and the means complete, free in the loosing and at ease in the seizing, one mote holding the jeweled shrine."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0233b27",
+          "ToLb": "0233c09",
+          "Kwic": "攪亂三千海嶽昏。」下座。元旦上堂。祝聖畢，西堂無得問：「元正啟祚，歲序更新；村歌社舞，共樂昇平。昇平則不問，歲序更新事如何？」師云：「祥雲遶寶座。」進云：「恁麼則九九八十一，還歸有道君。」師云：「紫氣貫山門。」乃云：「無邊剎境頒王令，率土生民祝聖恩，一塢臥雲猶未醒，斬新日月耀乾坤。此中有權有實，有炤有用，能縱能奪，能殺能活。若也一一明得，堪入黃檗之室，不妨各垂隻手，共扶法幢，獨露丹心，以酬至德。人情佛事，兩得周足，濟物資恩，一時畢備。若也未明，再垂方便，令汝證入。」擲下拂子云：「會麼？倏垂新雨露，瀰漫舊山川。」下座。解制上堂。西堂無得問：「閱藏三年滿，禪期百日終。箇中事則不問，如何是第一玄？」師云：「鼻孔尚遼天。」",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment — provisional and real, shining and working (the shining written with the variant graph), able to loose and seize, mastered one by one for entry into the Huangbo chamber."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0538c23",
+          "ToLb": "0539a07",
+          "Kwic": "與地上拈一莖艸，度與文殊，殊接得，示眾曰：「此藥能殺人，亦能活人。」善財握土成金，已是通身泥水。文殊殺活全彰，可惜龍頭蛇尾。我若見道「無有不是藥者」，劈脊便棒。何故？若不揮劍，漁父棲巢。趙州到一菴主處，問曰：「有麼？有麼？」主豎起拳頭，州曰：「水淺不是泊舟處。」便行。又到一菴主處問，主亦豎起拳頭，州曰：「能縱能奪，能殺能活。」便作禮。「大小趙州洎被二菴主換卻眼睛，山僧路見不平。」驀豎拳云：「能縱能奪，能殺能活，汝等諸人若便恁麼會去，一棒打折你驢腰。」南泉、歸宗、麻谷同去禮南陽國師，泉於路上畫一圓相云：「道得即去。」宗便於圓相中坐，谷作女人拜，泉云：「恁麼則不去也。」宗曰：「是甚麼心行？」泉乃喚回，更不去禮國師。",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained deployment — eyes swapped, the mountain monk righting it, then his own fist raised with the formula and the staff-threat for whoever takes it that way."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0918c16",
+          "ToLb": "0918c30",
+          "Kwic": "云：『臨崖看滸眼，特地一場愁。』」師曰：「密菴老人恁麼批判，情知喚山河大地是心，見聞覺知是法了也。是則是，只恐錯認定盤星。天龍今日只管與麼判斷，任他後來諸方檢點，不過道箇脫空而已矣，有甚麼大害？」舉：「高峰祖道：『海底泥牛啣月走，岩前石虎抱兒眠，鐵蛇鑽入金剛眼，崑崙騎象鷺鷥牽。此四句中，內有一句能殺能活、能縱能奪，若檢點得出，許汝一生參學事畢。』」師云：「高峰老子恁麼告報，大似傍若無人，把將空拳誑小兒。純上座不管隨邪逐惡，也輒有一偈曰：無毛鷂子拍天飛，蝦蟆樹上理毛翼，獨腳石女雲中叫，兔角龜毛堪作梯。此四句中亦有一句，亦能殺能活，能縱能奪，若檢點得出，三十棒不較多。何故？重賞之下，必有勇夫。」舉：「古德云：『向上一",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanyi Ruchun",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment — his own verse of featherless hawk and one-legged stone girl carrying one sentence just as able, thirty blows not too many."
+        },
+        {
+          "RelPath": "J/J33/J33nB282.xml",
+          "FromLb": "0374a02",
+          "ToLb": "0374a14",
+          "Kwic": "胡漢俱現。不見老趙州坐斷十方，未肯輕易登人門戶，然風聞有賊，不妨巡官搜夜。一日，到一庵主處，問：『有麼？有麼？』拋磚引玉。庵主便豎起拳。早已豎降旗了也。州曰：『水淺不是泊舟處。』便行。果然，果然。州又到一庵主處。趙州遍訪知己，不肯慢人。又曰：『有麼？有麼？』貴圖賓主相見。主亦豎起拳頭。豈是波斯獻寶？州曰：『能縱能奪，能殺能活。』便拜。者裏便是上大人，丘乙己，若是尒小生，可知禮也。山僧若是做前庵主，待它曰：『有麼？有麼？』便曰：『無端，無端。』待他曰：『水淺不是泊舟處。』便曰：『自是撐篙沒好手。』若是做後庵主，待它曰：『有麼？有麼？』便曰：『當面不識。』待它說：『能縱能奪，能殺能活。』便拜，即向背上與它一痛拳，庶幾所豎",
+          "MasterName": "Xuzhou Xingsheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuzhou Xingsheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB282.xml). Recorded Sayings of Chan Master Xuzhou Sheng. Xuzhou Xingsheng owns the retained deployment — playing both hermits, and when Zhaozhou grants the formula and bows, landing one hard fist on his back."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1997.xml",
+        "J/J26/J26nB186.xml",
+        "J/J28/J28nB212.xml",
+        "J/J27/J27nB193.xml",
+        "J/J39/J39nB452.xml",
+        "J/J39/J39nB468.xml",
+        "J/J33/J33nB282.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Yuanwu Keqin",
+        "Linye Tongqi",
+        "Gaofeng Yuanmiao",
+        "Eryin Mi",
+        "Deshan Xuanjian",
+        "Yinyuan Longqi",
+        "Lüyan He",
+        "Shanyi Ruchun",
+        "Xuzhou Xingsheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A paired-capability unit — able to let loose, able to seize away — the twin handles of the master's working hand, claimed over raised fists and four-line verses across the records. The root sits in Zhaozhou Congshen's own road record — walking into a hermitage, asking 'is there, is there?', meeting the raised fist, calling the first water too shallow to moor a boat, and at the second raised fist granting it: able to loose, able to seize — and bowing; Yuanwu Keqin raises the case at small meeting and turns the twin askings back on the hearers — where is the too-shallow-water place, where the loose-and-seize place — ruling every gloss of foreknowledge and of the tongue in Zhaozhou's mouth the wrong view that cannot swallow the chestnut-burr or leap the diamond ring; Linye Tongqi takes Gaofeng's four lines — the sea-floor mud ox, the cliff-side stone tiger — one sentence able to loose and seize, checked out, the seeking done — then sets his own four beside them: clear sky the sun comes out, rain the ground wet, short month twenty-nine, long month thirty — one sentence in there just as able, and if you cannot check it out, all please go drink tea; and Eryin Mi, installing the seat at Huiding, names the two apparatus — Deshan's means for the banner raised in the red-dust heap, the old sages' working authority for the mast in the busy market — the mechanism clear, high and low, great and small, all fused; the means complete, able to loose and able to seize, free in the loosing, at ease in the seizing, one mote holding the jeweled king's shrine and one shrine turning the great wheel. Yinyuan Longqi, New Year's Day at Wanfu, grants the whole year's purport — borderless realm realms issuing the king's command, all the land's people blessing the sovereign — wherein there is the provisional and the real, shining and working, able to loose and able to seize: mastered one by one, one may enter the Huangbo chamber, each hand hanging down to hold up the banner and repay the sovereign's bounty; Lüyan He, raising the case in the room, cries that great and small Zhaozhou had his eyes swapped by the two hermits and the mountain monk cannot walk past without righting it — then suddenly raises his own fist: able to loose, able to seize — and if you take it that way, one staff breaks your donkey's back; Shanyi Ruchun rules Gaofeng's report an empty fist fooling children, and Pure Seat Shanyi, refusing to trail along with the crowd, offers his own verse — the featherless hawk beating skyward, the frog preening in the treetops, the one-legged stone girl calling in the clouds, hare-horn and turtle-hair for a ladder — one sentence in there just as able to loose and seize, checked out, thirty blows not too many, for under a heavy bounty there must be a brave man; and Xuzhou Xingsheng, working the case line by line with running quips — the raised fist already a surrendered flag, a Persian showing pearls — then plays both hermits himself: as the first he answers 'causeless, causeless', as the second 'never met you face to face', and when Zhaozhou says able-to-loose-able-to-seize and bows, he lands one hard fist on his back — almost worthy of the raised fist."
+    }
+  ]
+}

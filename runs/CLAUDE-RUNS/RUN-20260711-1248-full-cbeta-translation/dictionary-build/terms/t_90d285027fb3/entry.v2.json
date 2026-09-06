@@ -1,0 +1,193 @@
+{
+  "Id": "t_90d285027fb3",
+  "SourceTerm": "一人有慶",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:10:36Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the one man's blessing",
+      "AlternateTargets": [
+        "the sovereign's celebration"
+      ],
+      "SearchAliases": [
+        "one ruler blessed, all people stay",
+        "the emperor's joy, the people's stay",
+        "the sovereign's blessing all lean on"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 153 hits in 101 files representing 99 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0410b02",
+          "ToLb": "0411a07",
+          "Kwic": "守株人涼兎漸遙春草綠乃拈拄杖云不是古路豈不坦然我措足也海印發光只是少人信復擊香卓云不是還鄉曲且作麼生唱若唱得五音六律應難比步步逍遙達本鄉唱未得也守株月下渾閑事却恐蹉𧿶過一生喝一喝下座。施主捨大藏經函上堂僧問施主入山崇勝事琅函星布意如何師云天無私蓋地無私載進云恁麼則佛法得人永鎮龍宮師云日月昭彰進云一人有慶兆民賴之師云者僧却善知時節進云施主霑恩學人禮拜。復云𠀍出𠀍間法立處皆相參舉天便有地舉北便知南舉僧便見俗舉聖便明凡以新當見舊以經方顯函冝哉一一法所立皆雙兼雙兼不涉二所立無不堪此大解󷑆門智者乃深諳故石頭禪師云當明中有暗勿以暗相覩當暗中有明勿以明相遇明暗各相對比如前後步乃拈拄杖云且道是明是暗跳得出也大竒",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Zhenjing Kewen owns the retained answer: after heaven's ungrudging cover and earth's ungrudging bearing, the granting of the one man's blessing earns the ruling that this monk knows the season well."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0574c05",
+          "ToLb": "0574c17",
+          "Kwic": "問：「萌芽未發，老梅早已知春。如何是知春消息？」師云：「杖頭指出花無數。」問：「如何是天得一以清？」師云：「雲散家家月。」「如何是地得一以寧？」師云：「春來樹樹花。」「如何是君王得一以治平？」師云：「位臨南面。」進云：「和尚得一又如何？」師云：「倒著袈裟閒拍掌。」進云：「未審年朝祝聖一句作麼生道？」師云：「一人有慶，兆民賴之。」進云：「恁麼則金枝永茂三千界，玉葉常敷萬古春。」師云：「且喜闍黎得話會。」乃云：「舊年離未遠，新歲恰三朝，新舊不相參，世相得常住。所以道：旋嵐偃嶽而常靜，江河競注而不流，野馬飄鼓而不動，日月歷天而不周。花根本豔，虎體原斑，雖然不改舊時顏，未免人人添一歲。大眾！新舊且置，如何是世相得常住？」卓拄",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, answering the year-opening blessing line with the one man's blessing and the myriad people leaning on it — gold branches forever thick, jade leaves ever spread."
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0475c27",
+          "ToLb": "0476a09",
+          "Kwic": "即不問，如何是最上一乘？」師云：「九天雲靜鶴飛高。」進云：「正當恁麼時如何？」師云：「四海浪平龍睡穩。」問：「提起本參話頭，猶如一根鐵柱，忽然㘞地一聲粉碎時如何？」師云：「燭花光滿地。」進云：「恁麼則上無佛道可成，下無眾生可度，今日無法可說，不知這一著歸向甚麼處？」師打，云：「眉毛原在眼睛上。」師乃云：「一人有慶，兆民賴之，選佛場開，心空及第，徹見本體，獲大受用，且免得上人門戶，討甚麼碗脫丘？然雖如是，切忌齷嘴黏牙，和皮帶骨，猶涉廉纖。今日山僧與諸人一刀劃斷，要令箇箇光明煥赫，人人氣宇軒昂，與三世諸佛把手並行，同歷代祖師共一鼻孔出氣，到這裏不是壓良為賤，抑是法爾如然，又何須卒地折暴？正如紅爐點雪，冷灰爆豆。大眾！",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. Minshu Ruxiang owns the retained deployment, welding the blessing formula to the choosing field — one man's blessing, myriad people staying, the field open, the emptied mind passing the list, the body seen through and the great enjoyment won."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0947a01",
+          "ToLb": "0947a14",
+          "Kwic": "空谷道澄禪師語錄卷四嗣法門人德儒編住重慶府觀音寺康熙元年壬寅住重慶府觀音寺。上堂。至座，云：「曾拾靈峰座上花，今朝重放示三巴，箇中開口依前笑，三十痛棒不饒他。」即陞。拈香，云：「此瓣香，拈起鎮乾坤，位清名正；放下安天地，道泰物和。爇向爐中，祝延當今萬萬歲，文武顯宦、本蜀尊官，伏願聖德無疆，皇子皇孫續傳永，一人有慶，文武忠臣世代欽。」次，拈香，云：「此瓣香，棘栗叢中無罣礙，劍樹刀山慶有虞，煙塵不避連風雨，鎧甲無聲帶水泥。信手拈爇爐中，奉為欽命四川兵部尚書都察院李公國英大金湯，海角聲聲知進退，旌旗步步看高低，令行密密宣王化，識得太平正此時。」斂衣坐。白椎竟，師云：「幾度中元節，威風在一時，拄杖傳心旨，梧葉飄玉墀，含識迷",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment, hanging the one man's blessing on the succession — imperial sons and grandsons passing it on forever, loyal civil and military ministers honored generation after generation."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0015b06",
+          "ToLb": "0016a10",
+          "Kwic": "倫奉為三宮皇后貴妃伏願紫微長照於深宮玉葉恒敷於上苑此瓣香棒頭取證永劫不󲏐爇向爐中端為現住雲間明𤼵禪院百癡元老和尚以酬法乳之恩遂斂衣敷座云無影林中潛玉兔眉鋒裂破三玄門突出哪吒一隻手大家扶起破沙盆眾中還有共相證據者麼僧問堯風永扇舜日重輝萬善安禪請師祝讚師云邊邦寧靖歸王化萬姓謳歌樂太平進云萬善堂中增瑞氣一人有慶等乾坤師云也須知恩始得問海寶千般必求如意鎮海明珠如何取得師云不入驚人浪難逢稱意魚進云某甲不與麼道師云料汝伎倆有盡進云一念不生全體現六根纔動被雲遮師云若與麼道早涉周遮了也進云龍得水時添意氣虎逢山勢長威獰師云也是箇倚墻靠壁漢問大開爐鞲烹佛煉祖如何是烹佛煉祖之作略師云拶出眼睛穿卻鼻孔進云恁麼則骨格天然就不假",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained answer: the auspicious air rising in the hall of ten-thousand goods, the one man's blessing equal to heaven and earth — and still, one must know the debt."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0266b16",
+          "ToLb": "0266b29",
+          "Kwic": "所以讚為見過於師。若云黃檗吐舌不在百丈耳聾處，百丈耳聾不在馬祖喝處，始可謂見過於師。此不過各各獨脫之見。所以學語之流便道：丈自耳聾，檗自吐舌。正所謂見與師齊，滅師半德，後代兒孫只成得箇相似學解而已。憶得己巳冬，山僧因先師屢問薰風南來話，一日有箇會處呈偈云：『翰林學士渾身溼，兵部尚書徹骨寒，晤對不須頻叫屈，一人有慶萬民安。』先師正之，翌日向山僧道：『我今日也有一頌在此。頌曰：薰風自南來，殿閣生微涼，寒毛纔卓豎，脫體露堂堂。』山僧閱久之，向先師道：『似欠蘊藉。』先師不荅，後亦不見刻出。今有效顰者曰：『薰風自南來，殿角生微涼，毛孔呈呈露，全身脫體彰。』正是印版上打來，模子中脫出，自後只恁麼傳將去，且無望其見過於師，求箇見",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, remembering the verse he dared present — the Hanlin academician soaked through, the war minister cold to the bone, the one man's blessing and the myriad people at ease — and the teacher's answering verse he then judged lacking in reserve."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0085b14",
+          "ToLb": "0086b02",
+          "Kwic": "一句作麼生道但願東風齊著力一時吹入我門來起身云道忞向緣薄福自揣無能業遯迹嵒阿㴱藏愚䂐不意人天眼滅法社中虛誼當諸位法兄則又固為辭讓所以古南和尚靈鷲大師與諸同門季昆抂郡檀越一時把住驢腳生按牛頭必欲道忞繼席先人高陞此座㴱媿恩灮過溢况當象駕簇臨今則祝聖開堂為眾演法一期佛事幸已云周敬回以上善緣用培巨嶽邊土伏願一人有慶萬國咸寧抂筵羣公觸目證無生之旨見歬知識暜天建最勝之幢有煩久立伏惟珍重復踞座云昔日臨濟大師至滹沱河側住一小院名曰臨濟座下亦有三百來眾一日謂暜化克符曰我欲於此建立黃檗宗旨你二人須成禠我二人珍重下去三日後暜化上來三日歬和尚道甚麼臨濟拈棒𠊳打三日後克符上來和尚三日歬因甚打暜化濟亦打師云一賓一主一挨一拶生鐵鑄",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment, wishing the one man's blessing and the realm at peace — every guest at the feast touching the unborn's purport, the knowledge present before his eyes building the most excellent banner everywhere."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0040b27",
+          "ToLb": "0040c11",
+          "Kwic": "，鼻直眼橫。雖則理合如斯，爭奈猶有一著在。何故？祇如前是縣碞，後是猛虎，左右壁立萬仞，合作麼生得箇太平時節？」眾無對。代云：「寐語作麼？」除夕，上堂。眾纔集，師顧視左右，云：「長松今年除夕，無甚長言短語，祇有爆竹一枚。」遂喝一喝，云：「是甚麼？聳兩耳。」便下座。元旦，上堂。燒香畢，顧視大眾，云：「不獨祝一人有慶，萬邦咸寧，亦使天下衲僧有眼皆見、有耳皆聞。諸仁者！長松如此，還有見所未見、聞所未聞底麼？寧可截舌，不犯國諱。」上堂。僧問：「德山棒、臨濟喝，還當得向上事麼？」師云：「知者見之知。」僧擬開口，師云：「拈起軒轅鏡，蚩尤失卻威。」問：「十方無壁落，四面亦無門，請師垂示。」師云：「不因歸來日，怎見屋裏人？」問：",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment, ruling the blessing is not only the one man's blessing and the realm at peace but gives every patched-robe under heaven eyes to see and ears to hear — tongue cut sooner than touch the sovereign's taboo."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "J/J26/J26nB185.xml",
+        "J/J39/J39nB450.xml",
+        "J/J39/J39nB471.xml",
+        "L/L158/L158n1652.xml",
+        "J/J34/J34nB300.xml",
+        "L/L155/L155n1643.xml",
+        "J/J29/J29nB223.xml"
+      ],
+      "RelatedMasters": [
+        "Zhenjing Kewen",
+        "Fushi Tongxian",
+        "Minshu Ruxiang",
+        "Konggu Daocheng",
+        "Mingjue Cong",
+        "Chaozong Tongren",
+        "Muchen Daomin",
+        "Shanhui Huan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The one man's blessing of the Chan records: the throne's festive stamp — set on the New Year and the installation incense, granted by season-knowing monks, jabbed with, and ruled to open every patched-robe's eyes. Zhenjing Kewen, after the donor's gifting of a canon edition, hears the monk grant the one man's blessing with the myriad leaning on it and rules the monk knows the season well, Fushi Tongxian at the year's opening answers the blessing-line question with the one man's blessing, the myriad people leaning on it — gold branches forever thick through three thousand worlds, jade leaves ever spread through ten thousand ages — Minshu Ruxiang welds the formula to the buddha-choosing field: one man's blessing, myriad people staying, the choosing-field open, the emptied mind passing the list — and Konggu Daocheng at his Chongqing installation hangs the blessing on the succession: imperial sons and grandsons passing it on forever, the one man's blessing, loyal civil and military ministers honored generation after generation. Mingjue Cong in the palace hall hears the auspicious air rise — the hall of ten-thousand goods, the one man's blessing equal to heaven and earth — and answers that even so one must know the debt, Chaozong Tongren remembers the verse he once dared present his late teacher — the Hanlin academician soaked through, the war minister cold to the bone, no need to keep crying grievance face to face: the one man's blessing, the myriad people at ease — and the teacher's answering verse he then judged lacking in reserve, Muchen Daomin at the Tiantong installation wishes the one man's blessing and the realm at peace, every guest at the feast touching the unborn's purport, and Shanhui Huan rules the New Year blessing is not only the one man's blessing and the realm at peace but gives every patched-robe under heaven eyes to see and ears to hear — tongue cut sooner than touch the sovereign's taboo."
+    }
+  ]
+}

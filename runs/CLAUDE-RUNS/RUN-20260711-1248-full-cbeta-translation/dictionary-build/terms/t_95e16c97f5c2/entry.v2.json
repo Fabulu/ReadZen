@@ -1,0 +1,193 @@
+{
+  "Id": "t_95e16c97f5c2",
+  "SourceTerm": "白雲深處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:41:54Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "in the depths of the white clouds",
+      "AlternateTargets": [
+        "deep in the white clouds"
+      ],
+      "SearchAliases": [
+        "where the white clouds thicken",
+        "the far seat among the white clouds",
+        "the white clouds' interior"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 166 hits in 106 files representing 105 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0014b17",
+          "ToLb": "0014c07",
+          "Kwic": "冷風高，古巖寒檜。堪笑路逢達道人，不將語默對。手執白玉鞭，驪珠盡擊碎。不擊碎，增瑕纇。國有憲章，三千條罪。南堂靜云：色身敗壞世常情，一點靈光到處晶。㵎水如藍花似錦，法身何處不分明。地藏恩云：山花如錦水如藍，雲在高峯月在潭。兩箇泥牛闘入海，行人脫袴杖頭檐。佛鑑懃云：山花似錦春長在，㵎水如藍碧湛然。信步白雲深處去，須知別有洞中天。疎山示眾云：老僧咸通年已前會得法身邊事，咸通年已後會得法身向上事。雲門問：承聞和尚咸通年已前會得法身邊事，咸通年已後會得法身向上事，是不？師云：是。門云：如何是法身邊事？師云：枯樁。云：如何是法身向上事？師云：非枯樁。云：還許學人說道理也無？師云：許。云：枯樁豈不是明法身邊事？師云：",
+          "MasterName": "Fojian Huiqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Fojian Huiqin owns the retained deployment, setting the truth-body's proof in mountain flowers like brocade and stream water indigo, then sending the stroller into the white clouds' depths to find another heaven inside the cave."
+        },
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0414c16",
+          "ToLb": "0415a06",
+          "Kwic": "冬夜示眾云：一十三州七十僧，驢腮馬頷得人憎。諸方若具撈籠手，今日無緣到淨因。徑山先師佛鑑和尚。拈云：應庵太師祖道也煞道，惜乎舌頭太長。徑山即不然，五百餘僧八十州，襤襂破衲面皺搜，諸方有道不肯學，甘共山僧拽木頭。拈云：徑山先師道則也煞道，惜乎舌頭太短。佛壟雖則舌頭無骨，狗尾續貂。試下一轉語看：三十餘僧眼似眉，白雲深處聚頭嬉，燒枯柴火煨山芋，拽木撈籠總不知。上堂：冬至日舒長，這箇長多少？虗空為尺不能量，蟭螟眼中盛恰好。盛恰好，衒惑神光，迷逢達磨。上堂。謝首座秉拂：知事做齋，人天眼目。堂中首座一句截流，千差失照，何似栗棘蓬、銕餕餡，格外安排、目前包褁？只要諸人塞斷耳根、併却咽喉，聽得真、咬得破。咬破後如何？三十烏藤莫",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Expanded Record of Chan Master Xisou Shaotan. Xisou Shaotan owns the retained deployment, counting his thirty-odd monks with eyes like brows heads together in the white clouds' depths, roasting yams over burnt wood, hauling timber and netting, all unknowing."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0369b25",
+          "ToLb": "0369c07",
+          "Kwic": "尚，用酬法乳之恩。」斂衣趺坐。上首白椎云：「法筵龍象眾，當觀第一義。」師云：「木落寒山萬境空，相招來到白雲中，寥寥一段真消息，試看何人共此風？還有同聲相應者麼？出來互相激揚。」問答不錄。乃云：「泗洲大聖楊州出現，事無一向；德雲比丘別峰相見，理長則就。山僧又不然，物我同途，初無二致，自他不隔，豈有兩般？況乎白雲深處本是象王家，綠樹叢中由來獅子窟，既是家裏人，當說家裏話，地湧塔依舊昂霄，佛言石猶然拔地，諸仁分中不減，山僧分中不增，但能上無攀仰、下絕己躬，人人常光現前，箇箇壁立千仞，盡大地是沙門一隻眼，遍十方是衲僧一坐具，說甚朝游檀特、暮宿羅浮，鼓打新羅、舞作大唐，直得如天普蓋、似地普擎，隨處作主，建宗立旨。然雖如是，秖",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment, installing himself where the white clouds' depths have always been the elephant king's house and the green trees the lion's den, so that family speak family words and the ground-burst pagoda still pierces the sky."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0370b19",
+          "ToLb": "0370c10",
+          "Kwic": "老凍儂惺惺懵懂，分明無一絲毫，剛道有三斤重，只知恁麼脫空相誑，不知其讎甚於戴天之不共。瓣香今爇夫何為？願百劫千生永陷泥犁無出期。城歸，上堂。舉：南禪師道：去時一溪流水送，歸來滿谷白雲迎。一身去住非去住，一物無情似有情。師云：大小南禪師話作兩橛。既是去住非去住，爭得有送迎？寶峰即不然，去從閙市紅塵去，歸向白雲深處歸。因甚更無迎與送？去來寸步不曾移。上堂，召大眾云：細不可減，大無以加，近在眼睫，遠過天涯。是著即錯，擬之又差，缺齒老胡會不得，空携隻履返流沙。端午，上堂。以拂子書空，云：五五午時書，妖邪盡掃除。一堂風悄悄，千古意如如。蒲飲先春雪，糉餐明月珠。舌頭如具眼，醉飽樂無餘。中秋，劒州生監寺綿州泰首座至，上堂：",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanxi Weiyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment, ruling the farewell verse two-parted — go by the loud city's red dust, return toward the white clouds' depths — with no greeting and no sending because coming and going never moved an inch."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0719a06",
+          "ToLb": "0719a26",
+          "Kwic": "，夜半太陽紅。此是顓愚真面目，相看本來無遮護，眉毛鼻孔常如故。又眉重眼小，甘州枸杞紅如棗；灰頭土面，鎮州蘿蔔大如斗。口不言，黃蘗如蜜甜；鼻似笑，露柱作虎叫。相逢莫問此阿誰？觀音文殊一孔竅。又鬢已白，癡骨猶不肯活埋；面已老，狂心念念猶未了。自己茫茫無所歸，與人叨叨說三寶。說得天花亂墜，也是夢想顛倒。咦！白雲深處是非無，一任雷轟與電掃。鏡像水月，空華陽燄，此是顓愚和尚本來之面。只可瞻依，不可思算，南北東西，隨處出現。又佛頂雲，蘇溪月，輕輕萬古常閒，明明一片光潔。此是顓愚無住身，只可瞻仰，難以交結。又一像傳眾像，相傳無數量，傳至十方遍剎塵，面目看來都一樣。此個阿師自何來？云是五臺庵裏顓愚老和尚。兵憲金豈凡居",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, closing his self-portrait with the cry — no right-and-wrong reaches the white clouds' depths; let thunder roll and lightning sweep — over the mirror-image, water-moon face that may only be gazed at, never reckoned."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0489c27",
+          "ToLb": "0490a11",
+          "Kwic": "圓道朱將軍請上堂。「二月春將半，名藍天外幽，雨餘山色曉，觸處暗香浮。巖巒回合，林嶺交參，殿閣俄新，光明溢目。到者裏不必說心、說性，問主、問賓，誰玄、誰妙，若動、若靜，殺人刀、活人劍置之一處，肘後符、將軍令且放一邊，自然草偃風行，聲和響順，一念無為，十方坐斷。秪如人境相稱一句又作麼生？」良久，云：「委悉麼？白雲深處坐，時領谷中閒。」至天童訪費隱和尚，眾請上堂。「大眾！從上來事舉目分明，祖父家園通身受用，更要格外提持衲僧巴鼻，有我法兄和尚在，山僧到來，不敢動著。且道何故？不會作客，煩勞主人。」楚陽憫生上座偕紹初、淨空、勝光諸禪德請上堂。「春雨溟溟三月天，落花堤柳鎖寒煙，知音不待重重舉，江北江南總一般。」天童費隱和尚",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained deployment, laying down the killing blade and the quickening sword for the general and granting him the sitting itself in the white clouds' depths, taking in the valley's leisure."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0201c08",
+          "ToLb": "0201c26",
+          "Kwic": "無曲斷。」頌：底事分明作者希，通身毛羽似剛錐，南泉打破閑家具，莫向人前理是非。問：「前三三與後三三，且道是多少？」答：「晝夜一百八。」頌：金針透出幾山頭，脫體和衣得自由，㘞地一聲空宇宙，春來桃李趁溪流。問：「不達法源，故多諍論，為甚居乎師位者東闢西闢？」答：「人平不語，水平不流。」頌：遠山風送幾千里，白雲深處日輪紅，撒手一拋金彈子，擊破威音那畔蹤。問：「言滿天下無口過，為甚麼道口是禍門？」答：「錐頭利，鑿頭方。」頌：山色深深月影希，清虛冷淡少人知。識得個中消息子，爾是何人我是誰？問：「無頭無尾是甚麼？不妨當堂試道看。」答：「雪峰輥的。」頌：無尾無頭栗棘蓬，當陽拈出絕狐蹤。塞斷咽喉人不會，昔人飛劍斬黃龍。",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment, answering the count with the far hills' wind carrying a thousand miles and the sun-wheel red in the white clouds' depths — the golden pellet tossed loose to smash the track beyond the First Sound."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0607a15",
+          "ToLb": "0607b01",
+          "Kwic": "本無位次可安排，說甚何年行道來？賓不賓兮主不主，好將活捉一坑埋。百丈正禪師示眾：「汝等為我開田，我為汝等說大義。」開田了，眾請丈說大義，丈展兩手示之。展開兩手，聊以塞白。若作大義以酬眾，何異空拳誑小兒？青龍亦開田了，有人請說大義，拈起钁頭便打。因甚如此？重賞之下，必有勇夫。大義明明甚坦夷，何須展手涉多岐。白雲深處家山好，一曲清歌信步歸。趙州諗禪師，因臺山路上有一婆子。趙州勘破婆子，將謂，將謂。婆子勘破趙州，元來，元來。雖然，盡被者僧勘破。驀直去，勘破了，鱉鼻被蛇吞，大蟲遭虎咬。真懊惱，腥風毒氣遠侵人，平地喫交猶不少。趙州因僧問：「承聞和尚親見南泉，是否？」州云：「鎮州出大蘿蔔頭。」好箇大蘿蔔頭，塞者僧口則得",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment, ruling the great meaning plain and level with no need of spread hands at the forks: the home hills are good in the white clouds' depths — one clear song and the stroll home."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1299.xml",
+        "X/X70/X70n1390.xml",
+        "J/J37/J37nB386.xml",
+        "X/X70/X70n1388.xml",
+        "J/J28/J28nB219.xml",
+        "J/J26/J26nB183.xml",
+        "J/J27/J27nB192.xml",
+        "J/J37/J37nB392.xml"
+      ],
+      "RelatedMasters": [
+        "Fojian Huiqin",
+        "Xisou Shaotan",
+        "Yuan'an Liao",
+        "Huanxi Weiyi",
+        "Zhuanyu Guanheng",
+        "Shiqi Tongyun",
+        "Daxiu Zhu",
+        "Hansong Zhicao"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The white clouds' depths of the Chan records: the far mountain seat — home hills for the school, beyond right-and-wrong for the hermit, the sun-wheel red for the counter. Fojian Huiqin sets the proof in mountain flowers like brocade and stream water indigo, then sends the stroller into the white clouds' depths to find another heaven inside the cave, Xisou Shaotan counts his thirty-odd monks with eyes like brows heads together playing there — roasting yams over burnt wood, hauling timber and netting, all unknowing — Yuan'an Liao installs himself where the white clouds' depths have always been the elephant king's house and the green trees the lion's den, so that family may speak family words with the ground-burst pagoda still piercing the sky, and Huanxi Weiyi corrects the farewell verse — go by the loud city's red dust, return toward the white clouds' depths — asking why there is no greeting or sending when coming and going never moved an inch. Zhuanyu Guanheng closes his self-portrait there — no right-and-wrong reaches the white clouds' depths; let thunder roll and lightning sweep — Shiqi Tongyun lays down the killing blade and the quickening sword for the general and hands him the sitting itself, taking in the valley's leisure, Daxiu Zhu answers the front-and-back count with the far hills' wind carrying a thousand miles and the sun-wheel red in the white clouds' depths, the golden pellet tossed loose to smash the track beyond the First Sound, and Hansong Zhicao rules the great meaning plain and level with no need of spread hands at the forks: the home hills are good in the white clouds' depths — one clear song and the stroll home."
+    }
+  ]
+}

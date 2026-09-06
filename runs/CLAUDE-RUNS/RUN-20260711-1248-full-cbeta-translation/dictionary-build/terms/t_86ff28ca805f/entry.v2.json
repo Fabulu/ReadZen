@@ -1,0 +1,195 @@
+{
+  "Id": "t_86ff28ca805f",
+  "SourceTerm": "水鳥樹林",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:26:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "water-birds and tree-groves",
+      "AlternateTargets": [
+        "the birds on the water, the trees of the grove"
+      ],
+      "SearchAliases": [
+        "birds and woods preaching",
+        "the Pure Land soundscape",
+        "water-fowl and forests"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 123 hits in 82 files representing 79 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0594a09",
+          "ToLb": "0594a21",
+          "Kwic": "時慕道者否？山曰：此去石室相連，有雲巖道人，若能撥草瞻風，必為子之所重。既到雲巖，問：無情說法，甚麼人得聞？巖云：無情得聞。曰：和尚還聞否？巖云：我若聞，子則不聞吾說法也。曰：某甲為甚麼不聞？巖豎起拂子云：還聞麼？曰：不聞。巖云：我說法汝尚不聞，豈況無情說法？曰：無情說法，該何典教？巖云：豈不見彌陀經云：水鳥樹林，悉皆念佛念法。無情草木，互奏笙歌。洞山於此有省，乃述頌曰：也大奇，也大奇，無情說法不思議。若將耳聽終難會，眼處聞聲方得知。後辭雲巖，問：和尚百年後，或有人問：還邈得師真。如何祇對？巖良久云：但道只遮是。洞山沉吟。巖云：价闍梨承當遮箇事，大須審細。洞山不言便行。後因過水覩影，方始頓悟，乃述頌云：切忌從佗覔，",
+          "MasterName": "Yunyan Tansheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunyan Tansheng",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "questioner",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Eye. The root deployment — the sutra's soundscape set as the canonical warrant of the insentient preaching, and the waking it began: sound known at the eye."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0638a11",
+          "ToLb": "0638b05",
+          "Kwic": "云靈臺若有所住著即身為死屍亦云守死屍鬼問淨名默然文殊讚嘆云是真入不二法門如何師云不二法門即你本心也說與不說即有起滅無言說時無所顯示故文殊讚嘆云淨名不說聲有断滅否師云語即默默即語語默不二故云聲之實性亦無断滅文殊本聞亦不断滅所以如來常說未曾有不說時如來說即是法法即是說法說不二故乃至報化二身菩薩聲聞山河大地水鳥樹林一時說法所以語亦說默亦說終日說而未嘗說既若如是但以默為本問聲聞人藏形於三界不能藏於菩提者如何師云形者質也聲聞人但能断三界見脩已離煩惱不能藏於菩提故還被魔王於菩提中捉得於林中宴坐還成微細見菩提心也菩薩人已於三界菩提决定不捨不取不取故七大中覓他不得不捨故外魔亦覓他不得汝但擬著一法印子早成也印著有即六道四",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. The retained deployment — speech and silence not two, the thus-come never silent, and the birds and groves preaching at once with all bodies and lands: all day speaking, never once spoken."
+        },
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0591c21",
+          "ToLb": "0592a10",
+          "Kwic": "省，作偈甚奇，能記否？師即誦曰：我有神珠一顆，久被塵勞關鎻。今朝塵盡光生，照破山河萬朵。岐大笑起去，師愕然，終夕不寐。詰旦復咨之，岐云：子見昨日打夜狐麼？曰：見。岐曰：汝一籌不及渠。師大駭曰：何謂？岐曰：他愛人笑，儞怕人咲。師有省。後出世，受岐衣，傳于子孫。示眾曰：如我按指，海印發光。拈拄杖云：山河大地、水鳥樹林、情與無情，盡向拄杖頭上作大師子吼，演說摩訶大般若。且道南嶽說箇什麼法門？南嶽說：洞上五位修行，君臣父子各得其宜，莫守寒岩異草青，坐著白雲宗不妙。天台說：臨濟三玄三要、四料揀，一喝分賓主，照用一時行，要會箇中意，日午打三更。廬山出來道：儞兩箇漢正在葛藤窠裏。不見道：欲得不招無間業，莫謗如來正法輪。此三箇見",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses. The retained deployment — the ocean-seal's light at a pressed finger, and the birds and groves roaring the great perfection of wisdom atop the staff-head."
+        },
+        {
+          "RelPath": "X/X69/X69n1367.xml",
+          "FromLb": "0701b15",
+          "ToLb": "0701c07",
+          "Kwic": "大慧祖師於言下大悟：諸禪德不妨奇特，者箇是論實不論虗底事。如人歸京必須親到，見京裏人說京裏話，一點外來也著不得。雖然雲門道：東山水上行，因甚不悟？圜悟道：熏風自南來，因甚便悟去？報國不惜眉毛，為諸人下箇注脚：諸佛出身處，東山水上行。熏風自南來，殿閣生微凉。眾中有全身擔荷者麼？出來與山僧相見。上堂。安養國中水鳥樹林，悉皆念佛；知足天上樹相撐觸，演說苦空。豎起拂子，云：山僧拂子穿汝諸人鼻孔，諸人向甚處出氣？中天竺禪寺語錄中天竺禪寺語錄門人中孚等編泰定二年十月十七日，入寺指山門云：一彈指頃，開樓閣門。黃河九曲，水出崑崙。佛殿。二千年前，你有伎倆，我無伎倆；二千年後，我有伎倆，你無伎倆。何故？入水見長人。據室橫",
+          "MasterName": "Xiaoyin Daxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyin Daxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1367.xml). Recorded Sayings of Chan Master Xiaoyin Daxin. The retained deployment — the Land of Bliss and the Contentment heaven set against each other, then the whisk through the nostrils: where will you breathe out?"
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0563a20",
+          "ToLb": "0563b05",
+          "Kwic": "」子云：「叱！叱！」「飲噉何物？」子云：「喫喫。」頌云：「玉角霜毛露地牛，崑崙山頂驀騎頭，人間天上絕蹤跡，分付時人把索收。」舉僧問投子：「曹溪指月，靈山話月，如何是真月？」子云：「昨夜三更轉向西。」頌云：「昨夜三更轉向西，明中有暗幾人知？不須撈摝澄潭影，一道寒光塞太虛。」舉洞山問雲巖無情說法。頌云：「水鳥樹林皆念法，有情孰不解堪聞？沉淪萬劫忽開悟，物物頭頭本現成。」舉僧問曹山：「雪覆千山，為甚麼孤峰不白？」山云：「須知有異中異。」云：「如何是異中異？」山云：「不墮諸山色。」頌云：「突突兀兀，玲玲瓏瓏。類而弗類，齊而弗齊。孤巍插向青霄外，五嶽從教立下風。」舉鏡清問曹山：「清虛之理，畢竟無身時如何？」山云：「理",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yunyan Tansheng",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. The retained deployment — the soundscape od: what sentient being cannot hear it, and every thing, every head, always already complete."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0025b14",
+          "ToLb": "0025b28",
+          "Kwic": "師洗腳也沒用處。所以者事實未親見，不但覓箇縫罅不得，亦且無住足瞻仰之分。護國門下吐一詞、出一令，斷非拍盲固守、妄判諸方者來。此間旁觀側視底去處，只須一一圜鑒，方領略得些子。不然，一口吹毛利，魔精首自落。」上堂。「以心印心，心無其心；以法傳法，法無其法。是知山河國土自山河國土、森羅萬象自森羅萬象、水鳥樹林自水鳥樹林、聖凡情量自聖凡情量、玄言玅句自玄言玅句、棒喝交馳自棒喝交馳、一切竟界自一切竟界，都盧與我無干涉。」以拄杖卓一卓，云：「夜叉拔劍攪龍門，千尋萬尋連海動。」上堂。「摩竭正令，少室家風，不有一回徹頭，焉知鉤縣藥餌？故此宗要非是言傳，要在當人不妨伶俐。若能單刀直入，坐斷報化佛頭，任他天下衲僧都來親近不得。倘能如",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. The retained deployment — the birds and groves left to be their own birds and groves, the whole heap nothing to do with him, and the yaksha's sword stirring the dragon-gate."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0093a25",
+          "ToLb": "0093b08",
+          "Kwic": "有人，向四錯外說說所得看。」問答不契，師曰：「牛生三個子，到老自拖犁。」上堂。「船來、陸來，什麼物恁麼來？朝去暮去，什麼物恁麼去？若欲掘開石壩，踢翻塘嶺，且未是到家消息。何故？祇如諸人未跨船舷，一個寶壽早已注汝心源了也。乃至一路路來，穿衣喫飯、語言談笑，各各一個寶壽，不高、不低，不大、不小，及乎到來，乃被水鳥樹林、鐘鈴鑼鼓換卻眼睛。雖則水鳥樹林等不離寶壽，汝還聽得水鳥樹林悉皆念佛、念法、念僧麼？古人到者裏說個『若將耳聽終難會，眼裏聞時方始知』，且道：眼作麼聞？耳作麼見？現前考鐘伐鼓，試問：無耳的人眼，還聞麼？現前天光雲影，試問：無眼的人，耳還見麼？參學的人到此須解得、會得，始得；不然，寶壽山為汝解去也。」良久，曰",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Teaching Platform of Chan Master Shiyu. The retained deployment — one Baoshou inscribed on the mind-source before the boat's gunwale, the birds and groves swapping the eyes, and the hearing asked of the eye."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1309.xml",
+        "C/C077/C077n1710.xml",
+        "X/X78/X78n1554.xml",
+        "X/X69/X69n1367.xml",
+        "J/J25/J25nB171.xml",
+        "J/J29/J29nB223.xml",
+        "J/J27/J27nB190.xml"
+      ],
+      "RelatedMasters": [
+        "Yunyan Tansheng",
+        "Dongshan Liangjie",
+        "Huangbo Xiyun",
+        "Baiyun Shouduan",
+        "Xiaoyin Daxin",
+        "Tianyin Yuanxiu",
+        "Shanhui Huan",
+        "Shiyu Mingfang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Land of Bliss soundscape — water-birds and tree-groves — ruled at the root over Dongshan's insentient-preaching question, then roared from staff-heads, sheared from litanies, and swapped for eyes across nine centuries of halls and odes. The root sits in Yunyan Tansheng's own answer, carried in the true-eye storehouse: Dongshan asks what canonical teaching the insentient preaching belongs to, and Yunyan answers: do you not see the Amitabha sutra — water-birds and tree-groves, all of them minding the buddha, minding the teaching; the insentient grasses and trees playing reed-pipes to each other — and Dongshan woke partway there, oding: how utterly strange, the insentient preaching unthinkable; try to hear it with the ear and it will never meet you — sound known at the eye is the only way; Huangbo Xiyun, in the Wanling record, folds it into the never-silent: speech is silence, silence is speech, the sound's own true nature never cut off; the thus-come always speaks, never a time of not-speaking — the teaching is the speaking, the speaking the teaching — down to the reward-body and the transformation-body, the voice-hearers, mountains and rivers, the great earth, water-birds and tree-groves, all preaching at once: speaking in speech and speaking in silence, all day speaking and never once having spoken — and so, take silence for the root; Baiyun Shouduan, in the five-house praises: as I press my finger, the ocean-seal gives off its light — the staff lifted, and mountains, rivers, the great earth, water-birds and tree-groves, the sentient and the insentient, all making the great lion's roar atop the staff-head, preaching the great perfection of wisdom; and Xiaoyin Daxin, at the great report-lands temple, sets the two lands against each other — the Land of Bliss, where water-birds and tree-groves all mind the buddha; the Contentment heaven, where trees brushing together preach the bitter and the empty — then the whisk raised: this mountain monk's whisk threads your nostrils — where will you breathe out? Tianyin Yuanxiu, oding the very question Dongshan asked: water-birds and tree-groves all mind the teaching — what sentient being cannot hear it and understand?; sunk through ten thousand kalpas and suddenly awake: every thing, every head, always already complete; Shanhui Huan shears the litany apart — seal mind with mind and mind has no such mind; hand the teaching on and the teaching has no such teaching: mountains and rivers are their own mountains and rivers, the ten thousand forms their own ten thousand forms, water-birds and tree-groves their own water-birds and tree-groves, the sage-and-commoner measure its own measure, fine words their own fine words, staff and shout their own staff and shout — the whole heap of them nothing to do with me — and the staff knocks once: the yaksha draws its sword and stirs the dragon-gate, a thousand fathoms, ten thousand fathoms, shaking the sea; and Shiyu Mingfang, at the Baoshou hall: before you stepped over the boat's gunwale, one Baoshou had already been inscribed on your mind-source; all the way here — dressing, eating, talking, laughing — each a single Baoshou, not high, not low, not big, not small; and then on arrival, the water-birds and tree-groves, the bells, chimes, gongs and drums went and swapped your eyes; they never left Baoshou — but can you hear the water-birds and tree-groves all minding buddha, minding teaching, minding the order?; the old worthies' line — with the ear you will never meet it; known in the eye at last — so tell me: how does the eye hear? how does the eye see?"
+    }
+  ]
+}

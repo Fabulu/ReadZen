@@ -1,0 +1,134 @@
+{
+  "Id": "t_fc1fa5739456",
+  "SourceTerm": "攪長河為酥酪，變大地作黃金",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T12:01:03Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "stir the long river into cream and turn the great earth to gold",
+      "AlternateTargets": [
+        "churn the long river to curds, transmute the whole earth into gold"
+      ],
+      "SearchAliases": [
+        "river churned to cream earth turned to gold",
+        "the transmutation couplet",
+        "long river cream great earth gold"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 20 hits in 20 files representing 20 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0568c08",
+          "ToLb": "0568c23",
+          "Kwic": "你看他臨濟兒孫如水銀落地相似，大底大圓、小底小圓，卒討他頭鼻不著。新靈巖和尚權衡佛祖、鎔煅聖凡，為四海禪流掃諸方露布，洞庭湖上竪起金剛幢，智積山中豁開正法眼，畢竟憑箇什麼？拈拄杖卓一下，下座。上堂：臭肉上蒼蠅，坑廁裏蟲子，還有佛法也無？有則淨穢懸殊，無則聖凡隔絕。諸人作麼生下得一轉語，愜得病僧意？上堂：攪長河為酥酪，變大地作黃金，供養什麼人？盡十方世界是沙門一隻眼，水陸空行，蜎飛蠕動，著在什麼處？諸佛非我道，誰是㝡道者？父母非我親，誰是最親者？國無定亂之劍，家無白𤢟之圖。晴是晴，雨是雨，作麼生道？桑樹上著箭，穀樹上汁出。上堂。車不橫推，理無曲斷。北俱盧洲，長粳米飯。下座。病起，上堂。壽山不會說禪，病起骨露皮穿。判得閻羅老子，一朝",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. The retained deployment — the whole ten directions one sandaled eye, and the transmutation asked whom it feeds, with the way and the kin both disowned of their names."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0538b18",
+          "ToLb": "0538c02",
+          "Kwic": "門頭。驀劄知歸，未是本分一著。擬之則差、強之則隔，近之則遠、向之則背。且道不向不背、不近不遠、不強不隔、不擬不差一句又作麼生道？所以聲前一句，千聖不傳。學者勞形，如猿捉影。這裏透得，何須立期立限畫地為牢？遮裏未透，且高挂缽囊，向七尺單前豎起脊梁坐斷眾流，一念不生前後際斷，直至威音那畔更那畔。慢慢甦醒轉來，攪長河為酥酪，變大地作黃金，亦不為分外事。要須到遮田地始得。若未到遮田地，將古人言句妄生穿鑿，道遮是甚麼句、那是甚麼句。饒你穿鑿到彌勒下生，也只是個恁麼。不見巖頭老人云：『若有一法繫綴人，土亦難消。況信心檀越脂膏耶？』諸人既信向老僧，特入深山，扣己所參切須仔細。古人云：『塵勞迥脫事非常，緊把繩頭做一場。不是一翻寒徹骨，怎得梅花撲",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. The retained deployment — waking slowly back from the primordial far shore, the transmutation nothing beyond one's share, and the phrase-gougers gouging down to Maitreya's next birth."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0138b21",
+          "ToLb": "0138c03",
+          "Kwic": "不恁麼道。」僧云：「某甲請和尚道。」師連棒打云：「不道，不道。」乃云：「大智唯心，都不緣境，當陽直指，只在自省。」喝一喝，云：「會得如矢，不會如金。」上堂。「道以無而重，道以有而空。道不可道而道，故腳腳踏實地；道不可言而言，故頭頭是本天。所以道：人者，心不藏物，口不露字，如蟬翼之鳴秋風，若堅翅之踞空界，故能攪長河為酥酪，變大地作黃金。且道如何是道？」喝一喝，良久，云：「蓄得春池滿，秋風禾黍香。」上堂。「西來之旨，經久事變，未及幾代，早差一線。日過一日，豈止一線？未審今日有何方便，不致此道湮沒如線？」良久，喝一喝，云：「秪有一法，防微杜漸。」上堂。「尖頭茆屋草根香，活計全憑折腳鐺，野菜和根同喫了，缽盂洗刮再商量。大眾！且道商量個甚麼？",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. The retained deployment — the true person hiding nothing and letting no word slip, and so able to stir and to turn; then the shout, the stillness, and the spring pond stored full."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0678a25",
+          "ToLb": "0678b08",
+          "Kwic": "讀上大人，莫問丘乙己。」上堂。問：「大覺堂前有一寶，千人萬人覷不著。未審此理如何？」師云：「雪觀音向火。」僧禮拜，師云：「瓦解冰消。」復云：「『有句無句』，百千滯貨。『如藤倚樹』，不誤主顧。『樹倒藤枯』，卸馱脫籠。『句歸何處』，失利失利。且道：是古人失利？大覺失利？諸人失利？青州紙貴，一狀領過。」晚參。「攪長河為酥酪，變大地作黃金，雖善調有餘而補不足，爭似大覺此間朝朝握土成金，一錢不肯易使？不是慳、不是妒，要使兒子們各自撐門拄戶，免被傍人喚作郎，破敗伶俜，辱父罵祖。」晚參。「歸宗斬蛇、疏山木蛇，何似南山鱉鼻蛇？弄蛇須是弄蛇手，阿誰是弄蛇手？」擿拄杖，云：「蛇蛇。」春朝，早雪，上堂。問：「向上宗乘即不問，西來祖意是如何？」師云：「春",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. The retained deployment — skimming the surplus to mend the want against the Great Awakening's morning-clutched gold that will not spend one coin."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0848a27",
+          "ToLb": "0848b10",
+          "Kwic": "瞬目，也是弄精魂；入定凝神，也是弄精魂；朝參暮請，也是弄精魂；擦褲摩褌，也是弄精魂；精通三教，博盡古今，也是弄精魂。直饒你將三藏十二部、一切修多羅，念在肚皮裏，如瓶瀉水，也是弄精魂；三世諸佛，歷代祖師，天下老和尚，拈椎豎拂，接物利生，說玄說玅，提古拈今，也是弄精魂；將一千七百陳葛藤，橫說豎說，縱橫十字說，攪長河為酥酪，變大地作黃金，也是弄精魂。於中若有旁不甘者出來道：『龍山恁麼說話，莫不別有長處麼？』山僧向他道：『並無長處，只知饑要喫飯，倦要睡覺，痛便叫，癢便笑。』眾中若有人道：『龍山恁麼說話，也是弄精魂。』山僧只得呵呵大笑。且道笑個甚麼？寧可與有智人相罵，不可與無智人說話。」便歸方丈。記錄隨後入方丈，作禮，師曰：「你見個甚麼道理",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. The retained deployment — the seventeen hundred stale vines said ten-ways-at-once, the transmutation itself soul-playing, and the laugh: better to quarrel with the wise than to talk with the fool."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1420.xml",
+        "J/J25/J25nB171.xml",
+        "J/J34/J34nB299.xml",
+        "J/J26/J26nB187.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi",
+        "Tianyin Yuanxiu",
+        "Hanyue Fazang",
+        "Tian'an Sheng",
+        "Baishan Dekai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The transmutation couplet — stir the long river into cream and turn the great earth to gold — asked whom it feeds at the Yuan hall seat, set past the slow waking, hung under the cicada's wing, refused as spendable coin, and filed under soul-playing from the Ming retreats to the Qing mountains. Chushi Fanqi, at the hall seat of the Benjue temple: stir the long river into cream and turn the great earth to gold — but to feed whom?; the whole ten directions are the monk's single eye — the walkers of water, land, and air, the winged and the wriggling — where do they light?; the buddhas are not my way — who then is the utmost of the way?; father and mother are not my kin — who then is the nearest kin?; Tianyin Yuanxiu, at the Qingshan seat in Jingxi, walks the assembly back from the sentence before sound — the scholars wear themselves out like apes grabbing at shadows — past the breaking of before-and-after, out beyond the far side of the primordial far shore, waking slowly back: to stir the long river into cream and turn the great earth to gold is nothing beyond one's share; but you must reach that field — and short of it, gouging the ancients' phrases — this is such-and-such a sentence, that is such-and-such — you may gouge down to Maitreya's next birth and it will only ever be just-so; Hanyue Fazang, at the Sheng'en temple on Dengwei mountain: the way weighs heavy through not-being and empties out through being; since it cannot be said and yet is said, every foot treads solid ground, every head is the native sky — thus it was said: the true person hides nothing in the mind and lets no word slip past the mouth, like a cicada wing sounding in the autumn wind, like a stiff wing perched on the empty sky — and so can stir the long river into cream and turn the great earth to gold; and what, then, is the way?; the shout, the long stillness, and: a spring pond brimming stored, an autumn wind fragrant in the grain. Tian'an Sheng, at the evening seat of the Great Awakening temple: stir the long river into cream and turn the great earth to gold — good at skimming the surplus to mend the want; but how does that compare with this Great Awakening, that clutches earth into gold every morning and will not spend one coin of it?; not stinginess, not spite — he wants his sons each to prop their own gate and pillar, spared being called the town's wastrel by the neighbors, broken and drifting, cursing father and reviling grandfather; and Baishan Dekai, instructing the assembly, files the whole apparatus under soul-playing: a blink of the eyes, soul-playing; sitting rapt in stillness, soul-playing; morning inquiry and evening greeting, soul-playing; even the whole storehouse of scriptures poured into the belly like water from a jar, soul-playing; the buddhas of the three times, the ancestors of the generations, every old abbot under heaven lifting the hammer and raising the whisk, soul-playing; and the seventeen hundred stale vines of the old cases, said longwise, said crosswise, said ten-ways-at-once — stir the long river into cream and turn the great earth to gold — soul-playing too; were one in the crowd to step out unbowed — Dragon-Mountain talks like this: has he no special power?; the mountain monk would tell him: no power at all — I only know hunger wants eating, fatigue wants sleeping, pain cries out, and itch laughs; and were someone to say that too is soul-playing — the monk can only laugh out loud; and what is the laugh about?; better to quarrel with the wise than to talk with the fool."
+    }
+  ]
+}

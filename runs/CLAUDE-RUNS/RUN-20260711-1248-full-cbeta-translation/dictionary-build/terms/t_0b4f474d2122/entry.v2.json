@@ -1,0 +1,153 @@
+{
+  "Id": "t_0b4f474d2122",
+  "SourceTerm": "我脚何似驢脚",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T12:27:38Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "how does my foot resemble a donkey's foot?",
+      "AlternateTargets": [
+        "my foot — how is it like an ass's foot?"
+      ],
+      "SearchAliases": [
+        "the Huanglong three barriers",
+        "the foot gate of the yellow dragon",
+        "thirty years the three asks",
+        "the room-asking of the gates",
+        "the donkey-foot ask"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 114 hits in 54 files representing 53 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1993.xml",
+          "FromLb": "0636c10",
+          "ToLb": "0636c29",
+          "Kwic": "。其僧乃退。師云。將謂是打陣將軍。元來是行間小卒。不見爾過。好好問來。問。無為無事人。猶是金鎖難。未審。有什麼過。師云。一字入公門。九年拔不出。師室中常問僧。出家所以鄉關來歷。復扣云。人人盡有生緣處。那箇是上座生緣處。又復當機問答。正馳鋒辯。却復伸手云。我手何似佛手。又問。諸方參請宗師所得。却復垂脚云。我脚何似驢脚。三十餘年。示此三問。往往學者多不湊機。叢林共目為三關。舉僧問大覺和尚。忽來忽去時如何。覺云。風吹柳絮毛毬走。進云。不來不去時如何。覺云。華嶽三峯頭指天。師云。大覺祇解箭鋒相拄。理事相投。殊不知趁得老鼠。打破油甕。師於熙寧二年己酉三月十六日。上堂辭眾云。山僧才輕德薄。豈堪人師。蓋不昧本心。不欺諸聖。未免生死",
+          "MasterName": "Huanglong Huinan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1993.xml). Recorded Sayings of Chan Master Huinan of Huanglong. Huanglong Huinan owns the originating ask: asking after the visits to the teachers of every quarter, he lowers his foot — my foot, how like a donkey's foot? Thirty years and more these three asks; few met the trigger; the grove named them the three barriers."
+        },
+        {
+          "RelPath": "X/X69/X69n1346.xml",
+          "FromLb": "0253c06",
+          "ToLb": "0254a02",
+          "Kwic": "塘灔澦堆。德山棒，臨濟喝，寸刃未施先敗闕。叢林盡謂是上機，明眼衲僧也大屈。龐公慙愧全無，馬祖慈悲心大。直饒吸盡西江，東山未向伊道。引鼻拽回野鴨，元來却是家雞。不管晦明風雨，纔到五更便啼。身披麤布伽梨，手把大木槵子。天寒坐火爐頭，動是說虵說虎。我手何似佛手，拈起扇子擗口。打落帝釋花冠，却是寒山掃󰆠。我脚何似驢脚，車輪頓生八角。三千剎海波澄，一陣西風葉落。人人盡有生緣。落花流出桃源。過後再尋無處，滿簑烟雨漁村。佛手驢脚生緣，三山影落中天。武帝多方學道，王喬端坐神仙。一等作野狐，堂堂大丈夫。徐行青草岸，踏破洞庭湖。靈雲失脚，玄沙落壍，三十年氷河發焰。是法非思量分別之所能解是法非思量分別之所能解錢塘潮頭來，成都",
+          "MasterName": "Xuefeng Huikong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuefeng Huikong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1346.xml). Recorded Sayings of Chan Master Xuefeng Huikong. Xuefeng Huikong owns the retained middle verse: the cartwheel suddenly grows eight corners; the three thousand seas' waves settle — one gust of west wind, leaves falling. This is his second row in this cohort."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0057b11",
+          "ToLb": "0058b01",
+          "Kwic": "牛不喫欄邊草好女不著嫁時衣。元旦上堂僧問歲更今日曆人是舊年人如何是舊年人師云眉毛依舊額上橫乃云新年頭舊年畢村家田舍門書大吉僧家排行渾如鵷立仰祝聖君壽同太極輦道清塵邊疆絕敵龍圖現瑞彩鳳呈祥人人擊壤謳歌個個鼓腹樂業祗如林下衲僧畢竟將何報答寶罏沉水焚金殿一句無私利有情。春日上堂我手何似佛手挽回寒谷芳春我脚何似驢脚踏斷東風脊骨陽回大地氣轉鴻鈞溪邊楊柳暗露文殊眼睛巖畔梅花廓開普賢鼻孔苟能會得頭頭是道法法全身脫或未然觸目是境不見道莫守寒巖異草青坐定白雲宗不妙。竹菴西堂嗣法上堂三百餘年寂祖道錦城方我破天荒掀飜海岳求知己喜遇銅頭忤逆郎山僧擔子全分付巖竇雲窩深隱藏美則美矣飲水也要貴地脉不見道打麵還他州土麥唱歌須是帝鄉人",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained spring run: my foot, how like a donkey's foot — treading through the east wind's very spine; yang returns to the great earth, the breath turns the great potter's wheel; the willows baring Manjusri's eye, the plum widening Samantabhadra's nostril. This is his second row in this cohort."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0998c08",
+          "ToLb": "0998c25",
+          "Kwic": "藤。牽枝引蔓拋尿撒屙。至今未已。師云。師子身中蟲。僧擲下坐具云。未見明星時。還有者箇消息也無。師云。把髻投衙。乃卓拄杖云。是則是窮則變。變則通。只如三更半夜。眾星朗然。不知是見那箇星悟去。急急出來。下一轉語。蓋覆者老子。不然母貽後悔靠主丈。華藏和尚至。上堂。僧問。我手何似佛手。師云。老婦顰眉出醜。僧云。我脚何似驢脚。師云。曾踏趙州𭛵彴。僧云。人人有箇生緣。如何是學人生緣。師云。懶向人前拔茄樹。要去南川作化主。僧禮拜。師乃云。我本無心有所希求。今此寶藏自然而至。二林小眾。枯枯燥燥。鶴望多時。珊瑚枕明月珠。從便採取。只是不得觸諱。上堂。傅大士本相現。引得一地裏人。前廊後架。拋尿撒屙。謂之龍華勝會。不知當來所證果。有",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained answers: the hand gate — the old wife knitting her brow and making a show; the foot gate — he has trodden Zhaozhou's plank bridge."
+        },
+        {
+          "RelPath": "T/T48/T48n2005.xml",
+          "FromLb": "0299a29",
+          "ToLb": "0299b21",
+          "Kwic": "存心澄寂。默照邪禪。恣意忘緣。墮落深坑。惺惺不昧。帶鎖擔枷。思善思惡。地獄天堂。佛見法見。二銕圍山。念起即覺。弄精魂漢。兀然習定。鬼家活計。進則迷理。退則乖宗。不進不退。有氣死人。且道如何履踐。努力今生須了却。莫教永劫受餘殃。黃龍三關黃龍三關我手何似佛手。摸得枕頭背後。不覺大笑呵呵。元來通身是手。我脚何似驢脚。未舉步時踏著。一任四海橫行。倒跨楊岐三脚。人人有箇生緣。各各透徹機先。那吒折骨還父。五祖豈藉爺緣。佛手驢脚生緣。非佛非道非禪。莫怪無門關險。結盡衲子深冤。瑞巖近日有無門掇向繩床判古今凡聖路頭俱截斷幾多蟠蟄起雷音請無門首座。立僧山偈奉謝。紹定庚寅季春無量書。孟珙跋達磨西來。不執文字。直指人心。見性",
+          "MasterName": "Wumen Huikai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wumen Huikai",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2005.xml). The Gateless Barrier. Wumen Huikai owns the retained middle verse: tread it before the step is raised — roam the four seas at will, riding backward on Yangqi's three legs."
+        },
+        {
+          "RelPath": "X/X70/X70n1396.xml",
+          "FromLb": "0584a08",
+          "ToLb": "0584b02",
+          "Kwic": "何山云家家門前火把子僧問首山：學人到寶山，空手回時如何？山云：家家門前火把子。家家門前火把子，也是盲人撞瞎虎。畵棟朝飛南浦雲，朱簾暮捲西山雨。德山托鉢德山托鉢紅蓼汀洲一笛風，暮雲滅盡水吞空。可憐無限深秋意，祇在沙鷗冷眼中。黃龍三關黃龍三關我手何似佛手，人前剛要揚家醜。雨打梨花蛺蝶飛，風吹柳絮毛毬走。我脚何似驢脚瘥，病不假驢駝藥。堪咲靈山老古錐，無端拋下個木杓。人人有個生緣，三個猢猻夜簸錢。風送水聲來枕畔，月移松影到床前。僧問石頭徹禪師如何是教外別傳一句徹云東村王老夜燒錢僧問石頭徹禪師：如何是教外別傳一句？徹云：東村王老夜燒錢。東村王老夜燒錢，脫殻烏龜飛上天。盡道草生芒種後，誰知葉落立秋前。犀牛扇子犀牛扇子",
+          "MasterName": "Wujian Xiandu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wujian Xiandu",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1396.xml). Recorded Sayings of Chan Master Wujian Xiandu. Wujian Xiandu owns the retained middle verse: the sickness needs no donkey to carry its medicine — laughable, the old auger of Vulture Peak, groundlessly dropping a wooden ladle. This edition inserts a stray graph after the ask; the clause keeps it byte-exact."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1993.xml",
+        "X/X69/X69n1346.xml",
+        "L/L158/L158n1652.xml",
+        "T/T47/T47n2000.xml",
+        "T/T48/T48n2005.xml",
+        "X/X70/X70n1396.xml"
+      ],
+      "RelatedMasters": [
+        "Huanglong Huinan",
+        "Xuefeng Huikong",
+        "Mingjue Cong",
+        "Xutang Zhiyu",
+        "Wumen Huikai",
+        "Wujian Xiandu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The donkey-foot ask of the Chan records: the yellow dragon lowers his foot in the room — thirty years, three asks, the whole grove calling them barriers — and the answers run from wheels grown eight-cornered to the tread taken before the step is raised. Huanglong Huinan asks after the monk's home and history, and mid-exchange, blades crossing, lowers his foot: my foot — how like a donkey's foot? Thirty years and more he showed these three asks; few met the trigger; the grove together named them the barriers, Xuefeng Huikong verses the middle gate: my foot, how like a donkey's foot? The cartwheel suddenly grows eight corners; the three thousand seas' waves settle — one gust of west wind, the leaves falling, Xutang Zhiyu takes the gates as the Huazang monk arrives: the hand gate — the old wife knitting her brow and making a show; the foot gate: my foot, how like a donkey's foot? — He has trodden Zhaozhou's plank bridge. Wumen Huikai verses the middle gate: tread it before the step is raised — roam the four seas at will, riding backward on Yangqi's three legs, Wujian Xiandu closes his set: my foot, how like a donkey's foot? The sickness needs no donkey to carry its medicine — laughable, the old auger of Vulture Peak, groundlessly dropping a wooden ladle, Mingjue Cong opens spring on the gates: my foot, how like a donkey's foot? Treading through the east wind's very spine — yang returns to the great earth, the breath turns the great potter's wheel; the willows by the stream darken, baring Manjusri's eye; the plum on the crag opens, widening Samantabhadra's nostril."
+    }
+  ]
+}

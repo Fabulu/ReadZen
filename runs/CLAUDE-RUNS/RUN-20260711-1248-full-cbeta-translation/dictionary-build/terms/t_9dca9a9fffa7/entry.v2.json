@@ -1,0 +1,205 @@
+{
+  "Id": "t_9dca9a9fffa7",
+  "SourceTerm": "有甚了期",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:03:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when will it ever end?",
+      "AlternateTargets": [
+        "how would that ever finish?"
+      ],
+      "SearchAliases": [
+        "when is there an end to it",
+        "no end in sight for that",
+        "when will this ever be done"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 137 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X65/X65n1286.xml",
+          "FromLb": "0375c12",
+          "ToLb": "0376a02",
+          "Kwic": "度被打，不知某甲有過無過？愚曰：黃檗與麼老婆心切，為汝得徹困，更來這裡問有過無過？師於言下大悟，乃曰：元來黃檗佛法無多子。愚搊住曰：追尿牀鬼子！適來道有過無過，如今却道黃檗佛法無多子。汝見個什麼道理？速道！速道！師於大愚肋下築三拳，愚拓開曰：汝師黃檗，非干我事。師辭大愚，却回黃檗。檗見便問：這漢來來去去，有甚了期？師曰：祇為老婆心切。便人事了，侍立。檗問：甚處去來？師曰：昨蒙和尚慈旨，令參大愚去來。檗曰：大愚有何言句？師舉前話。檗曰：大愚老漢饒舌，待來痛與一頓。師曰：說甚待來，即今便打。隨後便掌。檗曰：這風顛漢來這裡捋虎𩯭。師便喝。檗喚侍者曰：引這風顛漢參堂去。通容曰：黃檗為臨濟徹骨徹髓，向大愚言下識破，始覺秤",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "addressee",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "compiler",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X65/X65n1286.xml). Record of Tongs and Hammer in the Patriarchal Courtyard. Huangbo Xiyun owns the root deployment — the coming-and-going wanderer cut off with the ending-term question, answered only for the grandmotherly heart's sake."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0393b06",
+          "ToLb": "0394a11",
+          "Kwic": "安未審那箇在先師云多少人疑󷓞進云不許夜行師云蚊子錐鐵牛進云山頂老猿啼古木渡頭新鴈下平沙師云長安人已入你合作麼生進云春日華山青師云者僧雖然後生却可與商量問新豐勝剎古佛道場侯伯請師願𡸁方便師云耀古騰今進云此莫是和尚為人處也無師云將謂是古佛道中人進云洞山境色重添翠悟本玄風復振清師云有甚了期。復云問話且止言多道遠然則通人分上無可不可問荅縦橫何是何非不二門開一道清淨所以古人云道無不在觸事而󷹋心若不邪所為自正正覺之道得在乎心不在乎言言語道断心行處滅非去來今今日一會法法本然心心本佛官也私也僧也俗也智也愚也凡也聖也天也地也悟則事同一家迷乃萬別千𭅒𭅒之毫𨤲失之千里遂拈拂子召大眾云一花開五葉結果自然成",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Dongshan Liangjie owns the retained deployment — the polished scenery-coulet capped with the ending-term question, then questioning stopped: on the open one's part nothing is barred, asking and answering criss-cross, what is what is not."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0604c01",
+          "ToLb": "0604c17",
+          "Kwic": "傳衣。阿難倒剎。未審成箇什麼邊事。師云。瞬眸明不盡。喘息絕知音。恁麼則南山起雲。北山下雨也。師云。雲騰致雨。露結成霜。問如何是迦葉親聞底事。師便喝。僧禮拜。師便打。師云。若是飲光門下。纔擬擬早已。千山萬水。更問什麼親聞。何堪共話。如斯之輩。豈効先賢。學語之流。塵沙海墨。不能頓省自慚。隨流認影。妄生節目。有甚了期。不解返光。探尋識浪。劫石俱銷。不能自信。苦哉苦哉。故釋尊喚作可憐愍者。多言轉遠珍重。上堂云。夫參學之流。須具啐啄同時眼。若不具啐啄同時眼。未有參學分在。所以鏡清云。子致啐時。又不能致于母啄母。致啄時。又不能致于子啐。問子致啐。時於學人分上。明得箇什麼邊事。清云。且但保任。未用鏡清啄破。若的實論。又成得",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment — the word-learners' branch-sprouting ruled endless, the light not turned back, the kalpa-stone worn away without self-trust."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0868b24",
+          "ToLb": "0868c11",
+          "Kwic": "瞎禿兵。向教乘中取意度商量。成於句義。如將屎塊子口中含了却吐與別人。直是叵耐。元昭初見如此說。心中雖疑。口頭甚硬。尚對山僧冷笑。當晚來室中只問渠箇狗子無佛性話。便去不得方始知道參禪要悟。在長樂住十日。二十遍到室中。呈盡伎倆奈何不得。方始著忙。山僧實向渠道。不須呈伎倆。直須啐地折嚗地斷方敵得生死。呈伎倆有甚了期。仍向渠道。不須著忙。今生參不得後世參。遂乃相信便辭去。隔十餘日忽然寄書來。并頌古十首。皆山僧室中問渠底因緣。書中云。在延平路上。驀然有省。某終不敢自謾。方信此事。不從人得。其中一首曰。不是心不是物不是物。通身一串金鎖骨。趙州參見老南泉。解道鎮州出蘿蔔。山僧甚是疑著。時光禪便問。據此頌還了得生死否。雲門",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment — no showing of tricks; it must crack and snap outright to stand against birth-and-death, for showing tricks has no ending-term."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0018a30",
+          "ToLb": "0018b13",
+          "Kwic": "箭射，既不許道是虀，你道是箇甚麼？』玄沙拈荔支云：『這箇荔枝得恁麼紅，那箇荔枝得恁麼赤，不得道荔枝。既不道荔枝，且道是箇甚麼？』所以道：『喚作竹篦則觸，不喚作竹篦則背，不得有語，不得無語，不得作女人拜，不得拂袖便行。』古人披肝瀝膽，投明珠於暗裏，贈尺璧於窮途，可惜許諸禪德，不向意根下卜度，便於舉起處承當，有甚了期？若然定當得去，移山門來佛殿裏，將廚房放僧堂中，總非分外。雖然，且道聖僧落在那裏？」良久云：「舊閣閒田地，贏來方始休。珍重。」瓶窯真寂院示眾。「鬢霜斜插一枝華，老賣春風笑作家，十二樓頭閒歲月，暗題詩句暗咨嗟。山僧向年被先老人將猢猻圈子套卻，十有餘載左右不得自在。後被業風吹過錢塘江，撞著箇無面目漢，暗排八陣",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment — probe no notion-root, take on nothing at the raising; settled rightly, the gate moved into the hall and the kitchen into the monks' hall, nothing beyond your share."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0545b01",
+          "ToLb": "0545b14",
+          "Kwic": "轉頭，又要尊師重法。古來學人遇見知識，生難遭想，如在極大無邊江海，無所棲泊，遇一智人引你到岸，在你心中必將此人以為奇特。又如暗夜處在長途，前路茫茫，不知去向，有一好人將明燈指點炤燭你，你豈不感激他？親近知識作如是念，佛法便容易入，生死便容易了。又如何是普說底意？若空聽我一人播兩片皮，你諸人側著雙耳隨聲逐響，有甚了期？須向言下徹去？香嚴老子云：『語是誑，寂是謗，語默向上有事在。』既語不得，默不得，如何是向上事？」作禮三拜，歸堂掛搭。結制。師云：「塵劫來事，盡在而今，而今若會得，便見塵劫以來，未嘗移易。九十日也如是，九十生也如是，九十劫也如是。而今若不會，何止九十日？九十歲也是虛生浪死，九十生也是虛生浪死，九十劫也是虛",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xiangyan Zhixian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Seven-Session Recorded Sayings of Monk Muyun. Muyun Tongmen owns the retained deployment — two skins flapping and tilted ears chasing echoes have no ending-term; break through under the very words, above speech and silence."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0332b06",
+          "ToLb": "0332b16",
+          "Kwic": "在。』」師云：「掩耳偷鈴。時有幽州澄一禪客詣婆，乃問：『南泉為甚少機關？』」師云：「水平不流。婆哭云：『可悲！可痛！』」師云：「直不藏曲。澄罔措。」師云：「看即得。婆云：『會麼？』」師云：「乞兒伎倆。澄合掌而立。」師云：「擬即失。婆云：『跂死禪和，如麻似粟。』」師云：「欺敵者亡。澄一舉似趙州。」師云：「傳語漢有甚了期？州云：『我若見這臭婆，問教伊口啞。』」師云：「太勞生。澄云：『未審和尚作麼生問伊？』」師云：「失錢招罪。州便打。」師云：「果然。澄云：『為甚卻打某甲？』」師云：「不知痛癢。州云：『似這般跂死禪和，不打更待何時？』」師云：「可賞可罰。婆聞，卻云：『趙州合喫婆手中棒。』」師云：「病患膏肓。州聞得，哭云：『可悲可",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment — the message-carrier fellow ruled endless; then his own stamps down the case's every turn: too much labor, losing money invites guilt, just so."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X65/X65n1286.xml",
+        "D/D48/D48n8939.xml",
+        "T/T47/T47n1992.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J27/J27nB189.xml",
+        "J/J26/J26nB184.xml",
+        "J/J29/J29nB233.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Linji Yixuan",
+        "Feiyin Tongrong",
+        "Dongshan Liangjie",
+        "Fenyang Shanzhao",
+        "Dahui Zonggao",
+        "Sanyi Mingyu",
+        "Muyun Tongmen",
+        "Xiangyan Zhixian",
+        "Jie'an Jin",
+        "Zhaozhou Congshen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "An exasperated cut-off — when will it ever end? — ruled at the root over Linji's coming and going, and stamped on verse-men, word-chewers, tricksters, and echo-chasers from the Song halls to the Qing case-desks. The root sits in Huangbo Xiyun's own question, carried in the tongs-and-hammer record with Feiyin Tongrong's appraisals: Linji, freed by Dayu's grip — your teacher Huangbo, nothing to do with me — returns, and Huangbo sees him and asks: this fellow, coming and going — when will it ever end? only for the grandmotherly heart's sake, the answer; then where have you been, to Dayu at my kind instruction — and what words did Dayu have? the retelling, and the verdict on the tale-bearer: that old fellow Dayu babbles, wait and I'll give him a real beating — say nothing of waiting, hit now! the slap that follows; Dongshan Liangjie, at the old buddha's field where the lords request the teaching, hears the polished couplet — the Dongshan scenery green again, the root-wind of awakening stirred anew — and caps it: when will it ever end?; then questioning stops, words run long and the way runs far; Fenyang Shanzhao, over the case of what Mahakasyapa personally heard — a shout, a bow, a blow — rules the lot: such as these, how could they match the worthies of old; the language-copying crowd, sand-grains and sea-ink, unable to wake on a sudden, ashamed, chasing reflections along the stream, sprouting branches — when will it ever end? not turning the light back, groping the waves of consciousness, the kalpa-stone worn away and still no self-trust: bitter, bitter; the sutra-lord himself named them the pitiable ones; and Dahui, remembering the monk who laughed coldly at his teaching then found the room-door shut — twenty visits in ten days, every trick spent, nothing availing — tells him plainly: no showing of tricks; it must crack and snap outright to stand against birth-and-death; showing tricks — when will that ever end? no need to panic; not won this life, work it the next. Sanyi Mingyu, working the bamboo-comb ban — call it a comb and you touch it, refuse the name and you turn your back; no words, no silence, no woman's bow, no sweeping exit — the ancients split liver and gall, pearl cast into the dark, jade-disc given on a dead-end road, and still, pity on you worthies, you will not probe beneath the notion-root but take it on at the raising — when will it ever end? settled rightly, the mountain-gate moved into the buddha-hall and the kitchen set in the monks' hall, nothing beyond your share; Muyun Tongmen, at the general discourse, asks what the discourse is for: if you merely hear me flap these two skins and you tilt your ears and chase the echo — when will it ever end? you must break through under the very words — Xiangyan Zhixian's old ruling read into it: speech is a cheat, silence is a slander, and above speech and silence there is the affair; and Jie'an Jin, grading the old-woman case line by line — level water does not flow; a beggar's tricks; to poised hands, lost — stamps the relay itself: Chengyi carried it to Zhaozhou — a message-carrier fellow, when will it ever end?; the master's if I saw that stinking old woman I'd question her dumb; and the blow that falls on the carrier who asks why it lands on him: just so."
+    }
+  ]
+}

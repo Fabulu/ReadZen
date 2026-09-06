@@ -1,0 +1,136 @@
+{
+  "Id": "t_3c55df444720",
+  "SourceTerm": "諸行無常，是生滅法，生滅滅已，寂滅為樂",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T12:45:26Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "all fashioned things are passing — this is the law of birth and death; when birth and death is stilled, that stillness is joy",
+      "AlternateTargets": [
+        "the fashioned is unlasting, the law of arising and perishing; arising and perishing done with, the still quench is joy"
+      ],
+      "SearchAliases": [
+        "the passing-stanza of the final rest",
+        "birth and death done with stillness is joy",
+        "the bier-stanza of the records",
+        "the titled lady's stillness-enjoyment",
+        "the news of stillness-joy"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 16 hits in 14 files representing 14 independent works. Evidence floor: 3. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0824a20",
+          "ToLb": "0824b04",
+          "Kwic": "料西風倏爾，撩起便行？今朝持服孝男雷臣居士等，特請山僧，於端表堂中重為舉揚。舉揚則且置，秖如起棺臨行一步作麼生道？還委悉麼？」遂近前，以手舉扛，云：「藩侯自北到江吳，九載恩垂道俗孚，疆外小城留不住，迎歸帝里壯皇圖。」復云：「起。」為少宰雪堂熊翁誥封夫人葉氏燒香為少宰雪堂熊翁誥封夫人葉氏燒香師云：「古謂：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』生滅且置，秖如誥命夫人寂滅受用，畢竟如何？」打○相，云：「常光一段無今古，自在天中坐寶蓮。」遂燒香。為雪堂熊公大護法燒香為雪堂熊公大護法燒香師至靈前，云：「劫前鐵樹正芬芳，不落春秋不覆藏，枝葉疏疏撐宇宙，花開果熟落天香。恭惟大護法，朝廷柱石，佛法金湯，了多生向上之機，悟性中解脫之法，隨緣不變，常住世",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. Faxi Yin owns the retained turn: birth and death set aside — what is the titled lady's stillness-enjoyment? One stretch of lasting light without now or ancient; sitting free on the precious lotus in the heaven of easy joy."
+        },
+        {
+          "RelPath": "J/J38/J38nB428.xml",
+          "FromLb": "0914c14",
+          "ToLb": "0914c27",
+          "Kwic": "鱉。」擲下，云：「死蛇直下解翻身，看看咬人如火急。」喝一喝。傳戒畢，復說偈曰：「洗滌根塵入戒壇，逢人莫道戒非禪，盂中粒粒知來處，便可飽餐伸腳眠。」為玄亮王居士對靈小參。「蟬鳴風勁，雲起山陰，西天東土，不隔纖塵。」豎拂子，召眾，云：「還知麼？玄亮居士在中興拂子頭上，入于神通大光明藏正受，口喃喃底為諸人道：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』」驀喝，云：「被中興一喝，連忙騎卻佛殿，走向諸人髑髏裏，入不可思議無垢解脫王三昧，而歌曰：『豆子山，打瓦鼓，齊一變，至于魯，三更三點日當空，甜者甜兮苦者苦。』」復喚云：「中興長老。」自應云：「諾，白日青天莫寐語。」擲拂子，呵呵大笑，云：「大眾！逢人但請恁麼舉。」玄工王居士誕日，請上堂。問：「達磨面壁，和",
+          "MasterName": "Mixing Jiren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mixing Jiren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB428.xml). Recorded Sayings of Chan Master Mixingren. Mixing Jiren owns the retained turn: struck by one shout of Zhongxing, the departed gallops the buddha-hall, walks into the skulls of everyone, enters the unthinkable spotless freedom-king steadiness, and sings — Bean Hill beats the tile-drum, the sweet is sweet, the bitter bitter."
+        },
+        {
+          "RelPath": "J/J28/J28nB206.xml",
+          "FromLb": "0279a25",
+          "ToLb": "0279b02",
+          "Kwic": "堪嘆浮生也，棼紜事似麻，直饒天上福，恰是鏡中華，所以云諸行無常，是生滅法，生滅滅已，寂滅為樂。碩翁居士委得者箇，便乃踢翻業海，指破情關，結蓮社于三聚堂中，轉法華于化成院裏，而今撒手長行，了無滯礙。」豎拂子云：「汝等還見在山僧拂子頭上現宰官身、唱無生曲麼？若恁麼見得，煙消霧捲，悉是真如，魚躍鳶飛，咸歸妙義。其",
+          "MasterName": "Xiaotang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB206.xml). Recorded Sayings of Monk Xiaotang. Xiaotang owns the retained deployment: the floating life a tangle like hemp, heaven's blessing a flower in the mirror — therefore the stanza; the old worthy who trusted it kicks over the sea of karma and lets go and walks, nothing holding him. The roster knows this master under his single hall name."
+        },
+        {
+          "RelPath": "J/J38/J38nB430.xml",
+          "FromLb": "0958b14",
+          "ToLb": "0958b24",
+          "Kwic": "為正勤居士對靈小參。舉拂子云：「嚴氏法名更正勤，回光覺照悟靈根，今朝擺脫冤親鎖，一段清風透月明。老瞿曇道：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』從上諸祖盡向生死海中頭出頭沒，總要當人直截承當，惜乎諸人不肯回光返照、流浪生死。且如山河大地、日月星辰、明暗色空、四聖六凡、有情無情、胎卵溼化，山僧說底、諸人聽底，寂寂惺惺總是個幻化。作麼生說個幻化道理聻？」豎拂子云：「若在者麈拂頭上薦得，在諸佛分上不增一毫、在大眾分上不減一絲，便識得婆子出生入死、得大自在落處。非唯識得婆子落處，且識得二子起一念為薦嚴落處",
+          "MasterName": "Qibai Defu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qibai Defu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB430.xml). Recorded Sayings of Chan Master Qibaifu of Yuquan. Qibai Defu owns the retained grading: the ancestors bobbed head-out head-under in the birth-and-death sea, each wanting the person to cut straight through; hills and rivers, the four births and six kinds, what the monk says and you hear — all one conjuring; find it on the whisk-tip and the old woman's comings and goings are great ease."
+        },
+        {
+          "RelPath": "J/J40/J40nB474.xml",
+          "FromLb": "0030a02",
+          "ToLb": "0030a11",
+          "Kwic": "乃云：「佛性場中，纖毫不動，心隨境轉，境隨心生，離色離相，塵盡光生，忘形忘跡，體露真空，到這裏，有什麼生死去來、遷流之變？豈不聞釋迦老子云：『諸行無常，是生滅法，生滅滅已，寂滅為樂。』汝等諸人還識得這寂滅為樂的消息麼？若識得寂滅為樂的消息，無來無去，無生無死，無是無非，無彼無此，乃至四聖六凡及一切有情無情無不寂滅。既然如是，只如今日所薦亡靈高門舒氏向什麼處去聻？」良久，云：「月落潭無影，雲生山有衣。」",
+          "MasterName": "Liaozong Chaojian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaozong Chaojian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB474.xml). Recorded Sayings of Chan Master Liaozong of Panshan. Liaozong Chaojian owns the retained press: do you know the news of stillness-joy? Know it — no coming or going, no birth or death, no right or wrong, down to the four births and six kinds and all beings nothing not stilled; the lady of the high house — where has she gone? The moon sets, the pool keeps no shadow; clouds rise, the mountain puts on its clothes."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB220.xml",
+        "J/J38/J38nB428.xml",
+        "J/J28/J28nB206.xml",
+        "J/J38/J38nB430.xml",
+        "J/J40/J40nB474.xml"
+      ],
+      "RelatedMasters": [
+        "Faxi Yin",
+        "Mixing Jiren",
+        "Xiaotang",
+        "Qibai Defu",
+        "Liaozong Chaojian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The passing-stanza of the Chan records, the last word borrowed from the final rest: all fashioned things passing — the law of birth and death; birth and death done with, stillness is joy — raised at every bier and turned with circle, whisk, shout, and song. Faxi Yin lifts the incense for the titled lady: the old saying — the stanza — and birth and death set aside: what is the titled lady's stillness-enjoyment, in the end? He draws the circle and answers: one stretch of lasting light, without now or ancient; sitting free in the heaven of easy joy on the precious lotus — and the incense is burned. Mixing Jiren seats the departed layman on the whisk-tip: entered into the great bright treasury's right reception, muttering for everyone — the stanza; then the shout: struck by one shout of Zhongxing, he gallops the buddha-hall, walks into your skulls, enters the unthinkable spotless freedom-king steadiness, and sings: Bean Hill beats the tile-drum, Qi turns to Lu, three watches three points the sun overhead — the sweet is sweet, the bitter bitter. Xiaotang takes the bier-talk for the official's father: a sigh for the floating life — a tangle of affairs like hemp; even heaven's blessing a flower in the mirror — therefore it is said: the stanza. The old worthy who trusted this kicks over the sea of karma, points through the gate of the affections, knots the lotus society in the Three-Gathering hall — now he lets go and walks, nothing holding him. Qibai Defu faces the spirit of the laywoman: old Gautama said — the stanza; from the ancestors on, all bobbed head-out head-under in the birth-and-death sea, each wanting the person to cut straight through and take it on — yet you will not turn the light back, wandering birth and death. Hills and rivers, sun and stars, light and dark, form and emptiness, the four births and six kinds, sentient and insentient, what this mountain monk says and what you hear — all one conjuring. Liaozong Chaojian presses the hall three times on the closing line: do you know the news of stillness-joy? Know it — no coming, no going, no birth, no death, no right, no wrong, no this, no that, down to the four births and six kinds and all beings — nothing not stilled. Since it is so: the lady of the high house, offered for today — where has she gone? A long pause: the moon sets, the pool keeps no shadow; clouds rise, the mountain puts on its clothes."
+    }
+  ]
+}

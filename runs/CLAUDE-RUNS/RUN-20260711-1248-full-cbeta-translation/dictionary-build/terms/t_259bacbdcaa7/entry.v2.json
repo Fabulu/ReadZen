@@ -1,0 +1,194 @@
+{
+  "Id": "t_259bacbdcaa7",
+  "SourceTerm": "臺山婆子",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:32:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the Mount Wutai road-woman",
+      "AlternateTargets": [
+        "the Mount Tai old woman of the road case"
+      ],
+      "SearchAliases": [
+        "Zhaozhou sees through the road-woman",
+        "the woman who points straight ahead",
+        "the Wutai case of the old woman"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 176 hits in 96 files representing 95 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB475.xml",
+          "FromLb": "0052a30",
+          "ToLb": "0052b13",
+          "Kwic": "級之有？』祖曰：『如是如是，善自護持。』蕩空凡聖，還他青原。揀別龍象，須是曹溪。然雖如是，龍歸大海波濤靜，雲到蒼梧氣象閑。」舉：「僧問趙州：『萬法歸一，一歸何處？』州曰：『我在青州做一領布衫，重七觔。』觔兩分明，不無趙州。若問山僧：『萬法歸一，一歸何處？』只向他道：『山前石頭，大的大，小的小。』」舉：「臺山婆子因僧問：『臺山路向甚麼處去？』婆云：『驀直去。』僧纔行，婆云：『好個師僧，又與麼去。』後有舉似趙州，州曰：『待我去勘過者婆子。』明日便去，亦如是問，婆亦如是對。州歸，謂眾云：『臺山婆子！我為汝勘破了也。』趙州婆子，一對無孔鐵鎚，且道勘破那個？」舉：「溈山示眾云：『老僧遷化後，往山前檀那家作頭水牯牛，左肋書五",
+          "MasterName": "Jingting Dezong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingting Dezong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB475.xml). Recorded Sayings of Chan Master Jingtingsong. Jingting Dezong owns the retained raising: the terrace-mountain woman asked the way points every monk straight ahead — and his closing grades the pair as two hole-less iron mallets, asking which one was really seen through."
+        },
+        {
+          "RelPath": "J/J40/J40nB478.xml",
+          "FromLb": "0099c19",
+          "ToLb": "0100a07",
+          "Kwic": "藏身處無蹤跡無蹤跡處莫藏身藏身處無蹤跡，無蹤跡處莫藏身。是非曾不到山隈，鑿箇新池月自來。君不見，古樓臺，是處是彌勒，無門無善財。大隋烏龜大隋烏龜本色還他老大隋，赤條條地斷人疑，草鞋覆卻如相委，勘破菴中老古錐。須彌山須彌山黑漆漆，明歷歷，雨灑不著，風吹不入。空山無伴侶，栗棘橫擔；大海起波瀾，萬仞壁立。臺山婆子臺山婆子臺山婆子逞風流，勘破何曾得出頭。山寂寂，水悠悠。鐵蛇橫古路，毒氣逼人愁。百丈野狐百丈野狐壯士生平意氣賒，尚遺鬚髮對菱華。一時鏡破鬚眉落，始信從來不出家。睹星悟道睹星悟道釋迦昨夜睹明星，打失一箇破布袋，天明起來摸布袋，布袋已成七八塊。啐！秪堪付與城東童氏藥婆，補箇藥囊，貯取甘草、麻黃、細辛、薑",
+          "MasterName": "Yanju Deshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanju Deshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB478.xml). Recorded Sayings of Chan Master Yan Jushen of Yunshan. Yanju Deshen owns the retained verse: the terrace-mountain woman flaunting her charm — seen through, when did she ever get her head out? — the iron snake across the old road pressing its poison on the traveler."
+        },
+        {
+          "RelPath": "J/J25/J25nB155.xml",
+          "FromLb": "0047c22",
+          "ToLb": "0048a14",
+          "Kwic": "句披陳本體真；風送落花隨水去，分明流出洞中春。庭前柏子庭前柏子西來祖意庭前柏，親手栽來恰對門；重指示人人不見，依然階外翠成林。東司喚侍者東司喚侍者呼一聲而應一聲，東司佛法甚分明；更云不得與君說，韻腳聲明在八庚。青州布衫青州布衫七觔衫子出青州，信口拈來當話詶；較短量長穿不得，提來提去幾時休？趙州勘臺山婆子趙州勘臺山婆子驀直去兮曲太多，為伊勘破轉糢糊；無端平地相饒舌，惱亂行人失坦途。趙州問投子大死底人卻活時如何子云不許夜行投明須到趙州問投子：「大死底人，卻活時如何？」子云：「不許夜行，投明須到。」千年枯木忽春回，觸目曇花㘞地開；十步不移閨閤內，遍遊南嶽與天台。魯祖面壁魯祖面壁纔見人來便轉身，婆心一片十分真",
+          "MasterName": "Wuqu Rukong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuqu Rukong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB155.xml). Recorded Sayings of Elder Wuqu. Wuqu Rukong owns the retained verse, counting her straight-ahead as too many curves and the seeing-through as blurring — she babbles on level ground for no reason, vexing the travelers out of their even road."
+        },
+        {
+          "RelPath": "J/J25/J25nB156.xml",
+          "FromLb": "0059a02",
+          "ToLb": "0059a25",
+          "Kwic": "衲僧活計，百姓日用，無不在內，喫粥喫飯，也要仔細。巖頭三句巖頭三句三句皆從內一句，不知一句又何來，吹毛利處言思斷，遍界巖頭笑滿腮。香嚴獨腳頌香嚴獨腳頌香嚴老人露刃劍，觸著應知命莫逃，總使鋒前超得過，也應脫殼換皮毛。二庵主豎拳二庵主豎拳但知春色無高下，誰信花開各不同，殺活縱擒非趙老，誰能識得老婆雄。臺山婆子臺山婆子驀直一條平坦坦，與他勘破太區區，崎嶇平坦都行遍，穩坐臺山樂故居。抬頭有省抬頭有省踏破草鞋無覓處，得來全不費工夫，尋常一樣窗前月，纔有梅花便不同。次德山托缽頌次德山托缽頌梅蘊芳姿將欲粉，春隨根蒂動香魂，東風吹出林間去，惹得遊蜂滾到今。讚讚觀音觀音云從聞思修，蝢入三摩地，無為未必真，有作何所",
+          "MasterName": "Wuhuan Xingchong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuhuan Xingchong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Wuhuan Xingchong owns the retained verse: her straight-ahead is one smooth even road, and the seeing-through done for the monk's sake a trifle too small — rough and smooth both walked, she sits at ease in her terrace-mountain home."
+        },
+        {
+          "RelPath": "X/X72/X72n1432.xml",
+          "FromLb": "0197b22",
+          "ToLb": "0197c21",
+          "Kwic": "累及後人，牽繩帶索。惟有猫兒，高登極樂。丹霞燒木佛。丹霞不是好心腸，活活令人受苦殃。今日酬恩無越此，失錢遭罪幾甘當。南泉白牯知有不知有，天下衲僧顛倒走。縱是八臂那吒身，摸著鼻孔失却口。僧問趙州：如何是不錯路？州曰：明心見性是不錯路。有口無心老作家，一時正又一時邪。千般伎倆能知的，今古還他子沒爺。臺山婆子。暗藏春色，明露秋光。有眼莫鑑，縱智難量。到家不上長安路，一任風花雪月揚。劃斷虗空真氣脉，掃除賢聖正經綸。須知教外單傳旨，提掇時人出見聞。庵主竪拳趙州本分手段，優劣纔分者憨。殺活何甞有意，不須甘與不甘。趙州喫茶殺活縱橫驗作家，有無只是一盃茶，若然遇著僊陀客，畢竟從他不順他。南陽無縫墖。問處無端舉",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1432.xml). Recorded Sayings of Chan Master Wuming Huijing. Wuming Huijing owns the retained verse, setting her hiding the spring colors and showing the autumn light — home, she never climbs the Chang'an road, letting wind, flowers, snow, and moon drift as they will."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0498c16",
+          "ToLb": "0498c29",
+          "Kwic": "恣寥廓，南山燒炭北山紅，萬里天邊飛一鴞。會則是處生涯，未會則南天台、北五臺，一任驢腳、馬腳。」喝一喝，復云：「昔有僧遊臺山，問一婆子云：『臺山路向甚處去？』婆云：『驀直去。』者僧纔行三兩步，婆云：『好個師僧，又恁麼去。』後有僧至趙州，州云：『待我勘過者婆子。』明日便去，亦如是問，婆亦如是答。州歸，謂眾云：『臺山婆子我為勘破了也。』趙州老人眼光爍破四天下，只見得一邊，道個勘破婆子，殊不知自己卻被婆子勘破。雖然，一機、一境，一問、一答，一個對一個，勘破有甚難？秖如現前數眾總是臺山婆子，又作麼生勘？眾中還有勘得底麼？若勘得，可為衲僧；若勘不得，且放此話大行。」東剡、濟松二禪德領眾請上堂。「天晴一月來，喜見林泉雨，少婦棹輕",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained grading: the terrace-mountain woman, I have seen her through for you — yet Zhaozhou's eyes, blazing through the four quarters, saw one side only; and the whole crowd before him, he adds, is now the woman: who will see them through?"
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0407b01",
+          "ToLb": "0407b23",
+          "Kwic": "吐春。僧問長沙僧問長沙玉自石中出，金從礦裏來，分明燈是火，何事涉疑猜。擬成佛也未曾欠少，喻刈稻也掃去安排。憑灑落，任徘徊，李白原來是秀才。投子劫火投子劫火劫火焚時萬物焦，十方國土不相饒，但能穩坐清涼地，何怕彌天烈焰高。龍牙石龜龍牙石龜青青翠竹真如面，鬱鬱黃花般若心，碑下石龜亦解語，其如世上少知音。臺山婆子臺山婆子蕭蕭滕六逞精神，古逕幽溪積幾層，忽遇焚山三尺火，頓教化作一團冰。倩女離魂倩女離魂香閨寸步不曾離，賣弄風流也大奇，春雨一簾過別院，無邊花柳放新枝。溈山水牯溈山水牯不依本分費心情，覆去翻來逞姓名，縱使皮毛能變換，依然眉在額頭橫。麻三斤麻三斤洞山拈出三斤麻，丈六金軀不別些，試聽子規聲切切，年年三",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained verse, figuring her as the snow-spirit flaunting its strength on the old path and quiet stream — till the three-foot fire sweeps the mountain and it all turns to one lump of ice."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0600a26",
+          "ToLb": "0600b09",
+          "Kwic": "下雨。」師問雪岑：「覿面相呈即不問，如何是賓主句？」雪云：「伯牙與子期，豈是閒相識？」師問：「趙州訪二菴主又作麼生？」雪云：「尋常一樣窗前月，纔有梅花便不同。」師云：「怎見得不同底事？」雪云：「瞞和尚一點不得。」師問：「南泉斬貓即不問，趙州頂草鞋意旨如何？」雪云：「幸遇中郎鑒，非同野舍薪。」師云：「趙州勘臺山婆子，什麼處是勘破處？」雪云：「子規夜半猶啼血，始信東風喚不回。」師云：「諸大士各說不二法門，因甚維摩默然？」雪云：「效顰豈是良家女？」師乃頷之。問：「三千七百則公案，且道那一則了得生死？」師云：「三千七百則公案，那一則了不得生死？」僧無語，師打出。問：「參禪不用心意識，如何得不落去？」師豎拳，云：「者樣用便",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained testing ask — Zhaozhou's seeing-through of the terrace-mountain woman, where exactly is the seeing-through place? — and gets the night-cuckoo crying blood till midnight, the east wind past calling back."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J40/J40nB475.xml",
+        "J/J40/J40nB478.xml",
+        "J/J25/J25nB155.xml",
+        "J/J25/J25nB156.xml",
+        "X/X72/X72n1432.xml",
+        "J/J26/J26nB183.xml",
+        "J/J39/J39nB447.xml",
+        "J/J26/J26nB185.xml"
+      ],
+      "RelatedMasters": [
+        "Jingting Dezong",
+        "Yanju Deshen",
+        "Wuqu Rukong",
+        "Wuhuan Xingchong",
+        "Wuming Huijing",
+        "Shiqi Tongyun",
+        "Meixi Fudu",
+        "Fushi Tongxian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Mount Wutai road-woman of the Chan records: the case figure — pointed straight ahead by, sent off with a mocking word, claimed seen-through by Zhaozhou, graded one-sided by the raisers, and crowned the hidden veteran of the forest. Jingting Dezong raises the case in his own voice — a monk asks the woman the way to the terrace mountain, she says straight ahead, the monk has barely walked when she sends him off: a fine monk, gone like that again — and closes the pair as two hole-less iron mallets, asking which of the two was really seen through, Yanju Deshen verses her holding her charm in the wind: seen through — when did she ever get her head out? The mountain still, the water slow, an iron snake lying across the old road, its poison air pressing the traveler with dread, Wuqu Rukong counts her pointing straight ahead as too many curves — seen through for her sake, it all turns blurry; for no reason she babbles on level ground, vexing the travelers out of their even road, and Wuhuan Xingchong rules her straight-ahead one smooth even road, and the seeing-through for the monk's sake a trifle too small — she has walked the rough and the smooth both, and sits at ease in her terrace-mountain home. Wuming Huijing sets her hiding the spring colors, showing the autumn light — eyes must not mirror her, even wisdom cannot measure her; home, she never climbs the Chang'an road, letting wind, flowers, snow, and moon drift as they will, Shiqi Tongyun raises the case to the verdict — the terrace-mountain woman, I have seen her through for you — and turns it: the old man of Zhaozhou, eyes blazing through the four quarters, saw one side only; saying he saw the woman through, he little knew he himself was seen through by her — and then asks what of the crowd before him, all of them the terrace-mountain woman: who will see them through?, Meixi Fudu verses her as the snow-spirit flaunting its strength, drifts banking on the old path and quiet stream — till a three-foot fire sweeps the mountain and it all turns to one lump of ice, and Fushi Tongxian himself tests the recluse Xuecen with the case: Zhaozhou's seeing-through of the terrace-mountain woman — where exactly is the seeing-through place? — and gets the answer: the night-cuckoo cries blood till midnight, and still the east wind cannot be called back."
+    }
+  ]
+}

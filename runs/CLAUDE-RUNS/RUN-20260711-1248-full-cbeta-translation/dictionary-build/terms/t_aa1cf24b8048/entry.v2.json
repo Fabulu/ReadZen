@@ -1,0 +1,194 @@
+{
+  "Id": "t_aa1cf24b8048",
+  "SourceTerm": "千人萬人",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:21:57Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a thousand men and ten thousand men",
+      "AlternateTargets": [
+        "the whole crowd of people"
+      ],
+      "SearchAliases": [
+        "the whole crowd",
+        "crowds upon crowds of people",
+        "the uncountable mass of people"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 247 hits in 112 files representing 108 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0750b04",
+          "ToLb": "0750b18",
+          "Kwic": "風燈石火。念念如救頭然。尚無儞了辦處。著甚死急。平地上討許多忙亂。眨得眼來。早已四五十歲了也。儞喚甚麼作佛法。任儞以百千聰明。一一把他三乘十二分教乃至一千七百則。陳爛葛藤及與百氏諸子。從頭解註得盛水不漏。總是門外打之遶。說時似悟對境還迷。此事向道無儞會處。儞轉要會轉不相應。儞莫見與麼說便擬別生知解。直饒向千人萬人拶不入處。別有生機。總不出箇要會底妄念。惟有具大信根向己躬下真叅實悟乃能荷負。儞若作荷負想依舊沒交涉。故古教謂。假使滿世間皆如舍利弗。盡思共度量不能測佛智。如今有等人拾得橘皮自認為火。到處高談闊論主張一路。道我會佛法要人恭敬。有甚得便宜處。幻者三四十年。向此事上著到。展轉於佛法二字尚不相應。所以日夜懷慚。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, driving his heirs past even the place where the thousand and ten thousand cannot squeeze in, and ruling that too still a wanting-to-understand thought."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0469b05",
+          "ToLb": "0469b20",
+          "Kwic": "來養去，不憂不徹，但盡凡情，作自己工夫，勿管外緣，勿逐名利，起我見，競勝負。是故古德道：任運猶如癡兀人，他家自有通人愛。傑禪人倐來告別，求警䇿，因書此語授之。示成修造示成修造蔣山門下無禪可說，無道可傳，雖聚半千衲子，唯以箇金剛圈、栗棘蓬，跳者著力跳，吞者用意吞，莫恠沒滋味，太險峻。或若驀地體得如晝錦還鄉，千人萬人只仰羨得，要且覔他所從來不得，所謂人人本分事也。纔生心動念，承當擔荷，早是不本分了也。直得萬機休罷，千聖不𢹂，柰猶有依倚在，快須擺撥透脫那邊去始得。所以道：但有纖毫即是塵，舉意便遭魔所撓。成就一切，總只由他。破壞一切，亦只由他。奇特殊勝緣，恒沙功德藏，無量妙莊嚴，超世希有事，皆所成就。慳貪憎妬，情識執著",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment, ruling that one who suddenly gets it returns home in day-gown brocade whom the thousand and ten thousand can only envy, yet cannot find where he came from."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0473b21",
+          "ToLb": "0473c12",
+          "Kwic": "待世尊道：汝擬擯那箇？文殊和聲便打，非唯捉敗黃面老人，亦使七佛祖師冰消瓦解。舉盤山道：心月孤圓，光吞萬像。光非照境，境亦非存。光境俱忘，復是何物？洞山云：光境未忘，復是何物？師云：蓬萊有箇李八伯，一對眼睛如漆黑。喝一喝，云：且莫錯認定盤星。世尊拈花，迦葉微笑。一對鐵槌，渾無孔竅。結夏，云：十五日已前，千人萬人把不住；十五日已後，漫天網子百千重。正當十五日，如何話會？龍袖拂開全體現，象王行處絕狐蹤。師住靈隱。淳熈三年三月三十日，恭奉聖旨，就本寺開堂，謝恩祝聖罷，就座。僧問：龐居士問馬大師：不與萬法為侶者是什麼人？大師云：待汝一口吸盡西江水即向汝道。意旨如何？師云：急急如律令。進云：只如不與萬法為侶者是什麼",
+          "MasterName": "Fozhao Deguang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fozhao Deguang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Fozhao Deguang owns the retained deployment, ruling that before the fifteenth the thousand and ten thousand cannot hold it, that after the fifteenth sky-filling nets hang a hundred thousand layers deep, and that the dragon sleeve brushing open shows the whole body."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0536b08",
+          "ToLb": "0536b21",
+          "Kwic": "，若倚天長劒。世間富貴驕奢，五欲八風，入作無門，名利是非，四生九有，籠󰋪不住，得到這田地，便是取黃面老子命根時節也。豈祇一生兩生堅勁行願所致？乃是積劫熏煉，種智純熟，至於歷諸勤苦，然後乃可引跂大方，超然獨步者也。古云：無一法從懈怠懶惰中生。又云：久受勤苦，乃可得成。此真實語、不誑語、不妄語也。果一旦透去，千人萬人羅籠不住，呼喚不回，它時異日，孤峯頂上呵佛罵祖，則不忝矣。豈可飽食終日，成群作隊，說黃道黑，略無少念，回光反照？我今此身四大，所謂髮毛爪齒、皮肉筋骨、髓腦垢色，皆歸於地；涕唾膿血、津液涎沫、大小便利，皆歸於水；煖氣歸火；動轉歸風。四大各離，今者妄身當在何處？箇裏急著精彩。若作地水火風商量，釋迦老子盡塵沙劫無",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, promising that once broken through the thousand and ten thousand cannot cage him nor call him back, and the lone peak's scolding of buddhas and patriarchs will not disgrace the line."
+        },
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0083a18",
+          "ToLb": "0083b09",
+          "Kwic": "。瑯瑘即不然，南來者與三十棒，北來者與三十棒，從教天下衲僧貶剝。師云：冶父即不然，一任南來北來，只恁麼過，驀然打破漆桶，却來與三十棒。上堂：明明知道只是這箇，為甚透不過？只為脚跟下紅絲線不斷，纔被人拶著便轉不得，憤憤地不甘。畢竟有箇礙膺之物，推不進前，拽不退後。且如何透脫去？南泉斬猫兒。上堂：從上來，千人萬人中，只羅籠得一箇半箇。自餘騰騰任運，任運騰騰，豈堪持論？與麼告報，且看冶父眉毛在麼？吽！吽！上堂，舉：梁山拂子頌云：我有一枝拂，真㯶鐵作骨。顯道嚇蚊䗈，指南不相屈。掃除佛祖病，擊碎衲僧窟。若是上上人，終不喚作物。德山云：梁山好頌話作兩橛。梁山云：是老僧當時少子細。師云：二大老也甚奇怪，以急縛寬則易，以寬縛",
+          "MasterName": "Songyuan Chongyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. Songyuan Chongyue owns the retained deployment, ruling that from the ancients on, amid a thousand and ten thousand only one or half a one could be caged, and daring the assembly to check whether his eyebrows remain."
+        },
+        {
+          "RelPath": "D/D50/D50n8945.xml",
+          "FromLb": "0041a03",
+          "ToLb": "0041b10",
+          "Kwic": "門門對現沒遮攔箭箭離弦俱中的因記芭蕉曾遣化未出門時先話霸而今更不論親踈收功盡在華峯下少年入眾先行乞最初一步須牢實多見時流昧此心施受之間兩無益信心人一粒米重似丘山曾不止持來豈是得便宜未了分明著他底賢禪賢禪宜努力諸佛眾生從此出逆行順行忽相當戶戶門門成大吉送泐潭化主徃泉南送泐潭化主徃泉南馬駒霜蹄疾如電過處千人萬人見於中有箇見得親也似不虚行一轉古來佛國號漳泉此去逢人呈舊靣不須更揀親與踈是有是無都一串看看激起南海波流入西江為瀚漫江西老宿問空生但道而今成老徤送通功二化士造大際藏經送通功二化士造大際藏經大經本無文唐梵錯翻譯瞿曇宣一字至今猶未畢歷世癡聖人出頭競分析要使其光明轉見黑似漆若入衲僧手自是不費力拈出大際山般若波羅",
+          "MasterName": "Xuefeng Huikong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuefeng Huikong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D50/D50n8945.xml). Outer Collection of Monk Xuefeng Kong. Xuefeng Huikong owns the retained deployment, sending the colt with frost hooves swift as lightning past the thousand and ten thousand who see, and blessing the one who sees him truly as no wasted trip."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0407b02",
+          "ToLb": "0407b16",
+          "Kwic": "耨多羅三藐三菩提皆從此經出，故《法華經》云：『假使有人登須彌頂為人宣說十二部經，未足為難；暫讀此經，是則為難。』諸昆仲！黑的是字，白的是紙，縱是圓頓教乘，不出大方廣十二部經典等。且道：喚什麼作此經？這葛藤話不了。」喝一喝，云：「專為流通。」戊辰，重至董巖，上堂。「天不蓋、地不載，是甚麼物？諸禪者也須審細。千人萬人中，不向一人、不背一人，是甚麼物？諸禪者也須審細。虛空包不住、大地載不起，是甚麼物？諸禪者也須審細。蚊蟲眉睫上安身，蟭螟腹中敷坐，是甚麼物？諸禪者也須審細。於此四種上會去，許諸人升博山堂，未曾入博山室，更須知博山室中受用始得。諸昆仲！頓明佛心毫無差互，世間心念不見纖毫，始名出世間。人逢世間逆順境緣、賢愚好",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment, standing the question amid the thousand and ten thousand, facing no one and turning from no one, as the scrutiny that opens his mountain hall."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0231c27",
+          "ToLb": "0232a09",
+          "Kwic": "喝，師便打。進云：「棒喝交馳即不無，端的一句請師道。」師又打，云：「難道不端的？」進云：「恁麼則禮拜和尚去也。」師云：「切莫承虛接響。」僧一喝，歸眾。師乃云：「三更傳法來，衣缽留時已破；三更涅槃去，全身散處還留。破無所破，片片露祖師面孔；留無所留，年年逢入滅時辰。大眾！且道祖師還曾入滅也無？若道入滅，因甚千人萬人來朝拜箇甚麼？若道不入滅，因甚箇箇都道是祖師底忌日？本無出沒本來身，超生脫死憑斯旨，雖然示現有去來，究竟何曾離者裏？大眾！莫是象山鼻下、缽孟峰前是者裏麼？者是一塊頑土，有甚麼交涉？莫是全身布漆、錦繡莊嚴是者裏麼？者是箇臭皮囊，有甚麼交涉？既俱不是，且作麼生是不曾離底意？」良久，云：「梧桐葉落子方老，丹桂香飄",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, asking why, if the ancestor entered extinction, a thousand and ten thousand still come to worship — what — and ruling the mounded earth and lacquered body no concern of the one who never left."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "X/X69/X69n1357.xml",
+        "X/X68/X68n1318.xml",
+        "X/X69/X69n1359.xml",
+        "X/X70/X70n1377.xml",
+        "D/D50/D50n8945.xml",
+        "J/J27/J27nB197.xml",
+        "J/J34/J34nB300.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Yuanwu Keqin",
+        "Fozhao Deguang",
+        "Ying'an Tanhua",
+        "Songyuan Chongyue",
+        "Xuefeng Huikong",
+        "Wuyi Yuanlai",
+        "Chaozong Tongren"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The crowd hyperbole of the Chan records: a thousand men and ten thousand men named as one uncountable mass, the failing measure for the exceptional one. Zhongfeng Mingben's last admonition drives his heirs past even the place where a thousand men and ten thousand men cannot squeeze in, ruling that too a wanting-to-understand thought, Yuanwu Keqin writes to the young temple-builder that one who suddenly gets it returns in day-gown brocade whom the thousand and ten thousand can only gaze at in envy, never finding where he came from, Fozhao Deguang's summer-entry saying rules that before the fifteenth the thousand and ten thousand cannot hold it and after the fifteenth sky-filling nets hang a hundred thousand layers deep, and Ying'an Tanhua promises the alms-collector Gan that once broken through, the thousand and ten thousand cannot cage him nor call him back. Songyuan Chongyue tells the Yefu assembly that from the ancients on, amid a thousand and ten thousand only one or half a one could be caged, Xuefeng Huikong sends his alms-collector off with the colt whose frost hooves flash like lightning, seen by the thousand and ten thousand as he passes, Wuyi Yuanlai sets his four scrutinies for the Dongyan brothers with one standing amid the thousand and ten thousand, facing no one and turning from no one, and Chaozong Tongren asks the Caoxi hall why, if the ancestor entered extinction, a thousand and ten thousand still come to worship — what."
+    }
+  ]
+}

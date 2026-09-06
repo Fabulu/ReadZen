@@ -1,0 +1,176 @@
+{
+  "Id": "t_cf36f5d645a7",
+  "SourceTerm": "百丈再參馬祖",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:43:27Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Baizhang's second visit to Mazu",
+      "AlternateTargets": [
+        "Baizhang revisits Mazu"
+      ],
+      "SearchAliases": [
+        "the whisk-raising case of Mazu and Baizhang",
+        "the shout that deafened Baizhang three days",
+        "the hang-up-the-whisk exchange",
+        "the three-days-deaf shout case",
+        "the this-use-or-away-from-it whisk exchange"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 122 hits in 86 files representing 85 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0602b02",
+          "ToLb": "0602b18",
+          "Kwic": "，鷓鴣啼處百花香。上堂：高而無上，低而無下。上下三指，彼此七馬。臨濟大師到此咬嚼不破，被黃蘗拄杖再三痛打。今日落在仰山手裡，莫有不負性命底麼？卓拄杖：幸自無瘡，勿傷之也。無準和尚忌拈香。成龍者升天，成蛇者攛草，將謂隨一切性，任其所適，誰知憤憤悱悱，却成煩惱。集雲峰高日杲杲。上堂。我法妙難思，亦復離言說。百丈再參馬祖，一喝三日耳聾，直得黃蘗吐舌。竪拂子云：有甚交涉？浴佛，上堂。無憂樹下，右脇誕生，已是造妖揑怪，那堪七步周行？雲門一棒打殺，未為勦絕。看來只好活葬解脫無底深坑，依前日午打三更。上堂：結却布袋口，拗折拄杖頭，直得森羅萬象轉身無路，三世諸佛吐氣無由。集雲到此，又却未免放開一線。何也？雨後青山翠欲流。佛生，上",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained address: my way wondrous beyond thought and beyond words — one shout, three days deaf, Huangbo tongue-out — then his own whisk raised: what has it to do with it? The temple of the residence head binds to his seat, not to the roster's earlier master of that name."
+        },
+        {
+          "RelPath": "X/X69/X69n1367.xml",
+          "FromLb": "0702b06",
+          "ToLb": "0702b20",
+          "Kwic": "參。與麼，與麼，頭上安頭；不與麼，不與麼，斬頭覓活。德山小參不答話，先行不到；趙州小參要答話，末後太過。山僧尋常只管九十日為一夏，熱則取凉，飢來喫飯。有時白雲高臥，聽月下之疎鐘；有時邨市邏齋，振雲中之金錫。不作佛法商量，亦非世諦流布。阿呵呵！頭上一堆塵，脚下三尺土，䶥䶥齖齖且過時，莾莾鹵鹵河沙數。復舉：百丈再參馬祖，祖以目視禪牀角拂子，丈云：即此用？離此用？祖云：你他後開兩片皮，將何為人？丈取拂子豎起，祖云：即此用？離此用？丈挂拂子於舊處，祖便喝，百丈直得三日耳聾。師云：以機奪機，以的破的，百丈親遭三日聾，黃檗後來驚吐舌。延平劒合兮，寧窺牛斗之光芒？陶壁梭飛兮，不戀風雲之舊迹？堪笑禪流眼似眉，座中誰是仙陀客？上堂",
+          "MasterName": "Xiaoyin Daxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaoyin Daxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1367.xml). Recorded Sayings of Chan Master Xiaoyin Daxin. Xiaoyin Daxin owns the retained raising: the whisk eyed at the bed-corner, taken and hung back, the shout and the three-days deafness — then his own grade: seizing mechanism with mechanism, breaking the target with the target."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0114c07",
+          "ToLb": "0114c21",
+          "Kwic": "前行脚，行脚則與諸人同行脚，出家則與諸人同出家，不知過了多多少少、長期短期？諸人瞞山僧一點不得，山僧亦瞞諸人一點不得。傅大士云：夜夜抱佛眠，朝朝還共起，起坐鎮相隨，語默同居止。若也會得，許你參學事畢；其或未然，大事替汝不得，小事各自抵當。解夏。一拽石，二搬土，發機須是千鈞弩。然則千鈞之弩，不為鼷鼠而發機。百丈再參馬祖，祖震威一喝，直得三日耳聾。臨濟到太愚，便道黃蘗佛法無多子。高亭望見德山，隔江招手，橫趍而去。玄沙見雪峰，輥三箇木毬，便作斫牌勢。是皆具啐󲣅同時眼，有啐󲣅同時用。如金翅擘海，直取龍吞。又如獅子王哮吼，獅子兒聞之，悉皆勇徤。如青天礔礰，無你回避處。如卒風暴雨，無你栖泊處。若是守株待兔，緣木求魚，堅守䗶人，克",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained release: the trigger must be a thousand-jun crossbow, yet not triggered for a shrew-mouse — the shout, three days deaf; and Linji at Dayu, Gaoting across the river, Xuansha's three wooden balls — all the cheep-and-peck same-moment eye."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0684b17",
+          "ToLb": "0684c09",
+          "Kwic": "易，難之又難。馬祖三十年不少鹽醬馬祖三十年不少鹽醬自從胡亂後，不曾少鹽醬。有甚閒消息，寄與讓和尚。龐居士問馬大師不與萬法為侶者是什麼人大師云待汝一口吸盡西江水即向汝道龐居士問馬大師：不與萬法為侶者是什麼人？大師云：待汝一口吸盡西江水即向汝道。一口吸盡西江水，識浪情波徹底乾，截斷老龐三寸舌，倚天長劍逼人寒。百丈再參馬祖百丈再參馬祖當機一喝怒如雷，誰道精金色不回。直得耳聾并吐舌，三玄戈甲火中栽。國師三喚侍者國師三喚侍者國師徹底老婆心，侍者真鍮不博金。奇語傍花隨柳客，養兒方識父恩深。南泉心不是佛智不是道南泉心不是佛、智不是道心不是佛，智不是道。夜雨滴空階，春風吹百草。本無迷悟人，只要今日了。南泉平常心是道南泉平常心是",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained verse: the on-the-spot shout like thunder — who says the refined-gold color does not return? Deaf ears and tongue out together — the armor of the three mysteries planted in fire."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0678a10",
+          "ToLb": "0678a27",
+          "Kwic": "麼心倖？」師曰：「待汝等著，他來即向汝道。」頌曰：一生單等個人來，誰覺其人久在懷；可惜諸方雲水客，空勞神力用心猜。問：「石頭問南嶽：『不慕諸聖，不重己靈，寧可永劫受沉淪，不從諸聖求解脫。』何也？」師曰：「噫！死強漢著甚來由？」頌曰：毘嵐持住一乾坤，萬象森羅悉已遵；此是瞿曇收放的，根苗聯續至今存。問：「百丈再參馬祖，豎起拂子，祖曰：『即此用，離此用。』丈掛起拂子，祖振威一喝，丈直得三日耳聾。聾後得箇甚麼？」師曰：「咄！釋迦老子付迦葉的。」頌曰：千鈞弩不為鼷鼠，一舉鋒降師子威；龍象觀之心膽碎，世間天上實希奇。問：「法是諸佛說，因何諸佛又以法為師？敢問諸佛未生時，法在甚麼處？」師豎起拂云：「會麼？此是佛法僧之師。」",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Wuming Huijing owns the retained answer: after the deafness, what did he get? — Pah! What the old man Shakyamuni handed Kasyapa. His verse: the thousand-jun crossbow not for a shrew-mouse; one raised edge subdues the lion's might."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0346c11",
+          "ToLb": "0346c26",
+          "Kwic": "甲子，古寺近村煙。風剪林梢葉，人歸雪裏天。二三貧毳士，相伴度殘年。不分臨濟賓主，不辨曹洞正偏。不烹露地牛，不唱田家樂。大家團圞頭，共向無煙火。饑餐栗棘蓬，渴飲西江水。舉頭觸著伊，巖梅纔破蕊。」回山，示眾。「昔日出山去，草鞋獰似虎；今日歸山來，山門八字開。去去實不去，風撼空庭樹；來來實不來，皜日上蒼階。不似百丈再參馬祖，豈若豐干遠禮五臺？惟一事最奇哉！相見盡是舊時人，依舊眉毛眼上栽，大家重聚首，坐地燄寒灰，莫辜霜雪裏，冷淡一枝梅。」拈古拈古舉：「世尊初生。」拈云：「世尊出世太平奸賊，雲門打殺亂世英雄，盡謂以冤報冤，殊不知劍去久矣。」舉：「世尊拈花示眾時，惟迦葉尊者破顏微笑」。拈云：「龍行雨致，虎嘯風生，此事若不是飲光",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained return: leaving the mountain, sandals fierce as a tiger; returning — nothing like Baizhang's second visit to Mazu; how about Fenggan bowing far at Wutai? Those met are all people of the old days — do not fail the one cold plum branch."
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0879c19",
+          "ToLb": "0880a07",
+          "Kwic": "不立一塵，誰將物我論。月斜風靜無人掃，燕子嘟來水面漂。那吒太子析骨還父析肉還母然後現本身為父母說法那吒太子析骨還父，析肉還母，然後現本身為父母說法兩段分來氣宇豪，豈知瘦處不容刀？本身說法雖然玅，養子之緣莫可逃。情與無情共一體情與無情共一體動植飛潛總一家，南泉說夢指庭花。當陽拔出眼中屑，幾箇男兒是作家。百丈再參馬祖百丈再參馬祖一喝如雷沙界空，凡情聖解一時融。自從雙耳聾來也，直至而今總不聰。百丈野狐百丈野狐圓音一演別胡笳，不落錯兮不昧差，五百生來甘受屈，徒勞撾鼓助毘茶。趙州狗子佛性有無趙州狗子，佛性有無趙州狗子佛性有，萬象森羅顛倒走。海底蓬塵飛上天，明暗色空揚家醜。趙州狗子佛性無，聖解凡情總是虛。坐斷威音前底",
+          "MasterName": "Zhulang Chesheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhulang Chesheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng owns the retained verse: one shout like thunder, the sand-realm emptied; common feeling and holy reading fused in a moment; since both ears went deaf — down to today, never once sharp-eared. The roster binds him through the Qingcheng aka of his name."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X70/X70n1397.xml",
+        "X/X69/X69n1367.xml",
+        "X/X71/X71n1409.xml",
+        "X/X71/X71n1421.xml",
+        "J/J25/J25nB173.xml",
+        "J/J38/J38nB410.xml",
+        "J/J38/J38nB427.xml"
+      ],
+      "RelatedMasters": [
+        "Xueyan Zuqin",
+        "Xiaoyin Daxin",
+        "Yuejiang Zhengyin",
+        "Yu'an Zhiji",
+        "Wuming Huijing",
+        "Lianfeng Su",
+        "Zhulang Chesheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Baizhang-revisits-Mazu of the Chan records: the whisk raised and hung back, this use or away from this use, the awesomely-roared shout — three days deaf, Huangbo's tongue out. Xueyan Zuqin opens his hall: my way is wondrous hard to think, and beyond words besides — Baizhang's second visit to Mazu: one shout, three days deaf, outright enough to make Huangbo put out his tongue. He raises his own whisk: what has it to do with it? Xiaoyin Daxin raises it at the central Tianzhu hall: Mazu eyes the whisk at the bed-corner — this use, or away from this use? — hung back in the old place; and later, with what will you teach others? — Baizhang takes the whisk and raises it; this use, or away from this use? — hung back again — the shout, three days deaf outright — and his own grading: seizing mechanism with mechanism, breaking the target with the target — Baizhang himself struck three days deaf, Huangbo later startled tongue-out, Yuejiang Zhengyin releases the retreat: one stone dragged, two loads of earth carried, the trigger must be a thousand-jun crossbow — yet the thousand-jun crossbow does not trigger for a shrew-mouse — Baizhang's second visit to Mazu: the awesomely-roared shout, three days deaf outright; Linji reaching Dayu and at once saying Huangbo's way's-law has not much to it, Gaoting seeing Deshan across the river — a beckon, a slanting dash — Xuansha before Xuefeng rolling the three wooden balls into the sign-board-splitting stance: all with the cheep-and-peck same-moment eye and its same-moment use, and Yu'an Zhiji verses it: the on-the-spot shout like thunder — who says the refined-gold color does not return? Deaf ears and tongue out together — the armor of the three mysteries planted in fire. Wuming Huijing takes the Emei-peak ask whole: the whisk raised — this use, away from this use; hung back, the awesomely-roared shout, three days deaf — and after the deafness, what did he get? Pah! What the old man Shakyamuni handed Kasyapa. His verse: the thousand-jun crossbow is not for a shrew-mouse; one raised edge subdues the lion's might; dragon-elephant onlookers feel heart and gall shatter — a thing rare in world and heaven, Lianfeng Su comes back to his mountain: leaving it, straw sandals fierce as a tiger; returning — nothing like Baizhang's second visit to Mazu; how about Fenggan journeying far to bow at Wutai? The one thing most wondrous: those met are all people of the old days, eyebrows still planted above the eyes, all re-gathered, sitting where the cold ashes blaze — do not fail, in frost and snow, the one cold plum branch, and Zhulang Chesheng verses it: one shout like thunder, the sand-realm emptied; common feeling and holy reading fused in a moment; since the day both ears went deaf — down to today, never once sharp-eared."
+    }
+  ]
+}

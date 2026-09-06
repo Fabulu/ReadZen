@@ -1,0 +1,209 @@
+{
+  "Id": "t_3b2e9472500f",
+  "SourceTerm": "天堂地獄",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:10:41Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heaven and hell",
+      "AlternateTargets": [
+        "the blissful and the punishing courses",
+        "the two destinations"
+      ],
+      "SearchAliases": [
+        "heaven and hell",
+        "paradise and the hells",
+        "the paired destinations of reward and punishment"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 183 hits in 99 files representing 96 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1987A.xml",
+          "FromLb": "0530a21",
+          "ToLb": "0530b07",
+          "Kwic": "轉得歸自己乎。如經云。大通智勝佛十劫坐道場。佛法不現前。不得成佛道。言劫者滯也。謂之十成亦云斷滲漏也。只是十道頭絕矣。不忘大果故。云守住耽著名為取次承當不分貴賤。我常見叢林好論一般兩般。還能成立得事麼。此等但是說向去事露布。汝不見。南泉曰饒汝十成猶較王老師一線道也。大難事到此。直須仔細始得明白自在。不論天堂地獄餓鬼畜生。但是一切處不移易。元是舊時人。只是不行舊時路。若有忻心。還成滯著。若脫得揀甚麼。古德云。只恐不得輪迴。汝道作麼生。只如今人。說箇淨潔處。愛說向去事。此病最難治。若是世間麁重事却是輕。淨潔病為重。只如佛味祖味。盡為滯著。先師曰。擬心是犯戒。若也得味是破齋。且喚什麼作味。只是佛味祖味。纔有忻心便是",
+          "MasterName": "Caoshan Benji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1987A.xml). Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou. Caoshan Benji owns the retained deployment: heaven or hell, hungry ghost or beast — in every place unmoved, the same old person not walking the old road, and only fondness makes entanglement again."
+        },
+        {
+          "RelPath": "T/T48/T48n2009.xml",
+          "FromLb": "0371c22",
+          "ToLb": "0372a08",
+          "Kwic": "者。色不生於心。心不生於色。即色與心俱是清淨。無妄想時。一心是一佛國。有妄想時。一心是一地獄。眾生造作妄想。以心生心。故常在地獄。菩薩觀察妄想。不以心生心。故常在佛國。若不以心生心。則心心入空。念念歸靜。從一佛國。至一佛國。若以心生心。則心心不靜。念念歸動。從一地獄。歷一地獄。若一念心起。則有善惡二業。有天堂地獄。若一念心不起。即無善惡二業。亦無天堂地獄。為體非有非無。在凡即有。在聖即無。聖人無其心。故胸臆空洞。與天同量。心得涅槃時。即不見有涅槃。何以故。心是涅槃。若心外更見涅槃。此名著邪見也。一切煩惱為如來種子。為因煩惱而得智慧。只可道煩惱生如來。不可得道煩惱是如來。故身心為田疇。煩惱為種子。智慧為萌芽。如",
+          "MasterName": "Bodhidharma",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2009.xml). Six Gates of Shaoshi. The treatise owns the retained deployment: one thought rising — the two deeds and the pair are there; no thought rising — neither remains; in the ordinary it is there, in the sage it is not, and the sage's breast is hollow as the sky."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0868b11",
+          "ToLb": "0868b17",
+          "Kwic": "而言世間有多少不忠不孝不知父母恩者是故先佛以天堂地獄因果報應之說而化導之因記得有俗士問西堂智藏禪師曰天堂地獄為是有為是無藏曰有俗士乃笑藏云莫曾問尊宿來曰然藏曰尊宿向你道甚麼曰某曾問徑山國一禪師向我道無和尚因何言有藏乃問你有妻否曰有妻又問徑山和尚有妻否曰無妻藏曰徑山和尚道無即得你看他古人出",
+          "MasterName": "Xitang Zhizang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xitang Zhizang",
+              "Roles": [
+                "case-figure",
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Xitang Zhizang owns the root case: there-is for the man with a wife and greed like the sea; the master on the mountain, without a wife, may rightly say there-is-not — and Dahui adds, look how the old ones came out."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0393c20",
+          "ToLb": "0394a03",
+          "Kwic": "灣。華嚴座主到，云：法界者，一切眾生之本體也。拈拄杖，云：不是法界，是諸人無始以來靈明廓徹、廣大虗寂之妙體。故此土他界、天堂地獄、六凡四聖、情與無情，同一無異、無壞無雜，由帝網之明珠互相融通、更相涉入，可謂無邊剎境自他不隔於毫端，十世古今始終不離於拄杖頭上。若爾，則何啻擲大千於方外、納須",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Zhenjing Kewen owns the retained deployment: not the realm-field but the shining, vast, quiet core — this shore and other shores, heaven and hell, all one and unmixed, the whole net on the staff's head."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0029b11",
+          "ToLb": "0029b23",
+          "Kwic": "如何是堂奧中事。」師云：「你即今在什麼處？」月云：「此猶是門庭邊事。」師指座云：「且坐。」月禮拜，起云：「咦。」師休去。子雙蔡居士問：「弟子與和尚那分別？和尚者樣快活，弟子者樣苦。」師云：「汝將苦來與汝分別。」云：「弟子不可道是快活。」師云：「老僧亦不可道是快活。」云：「怎柰天堂地獄何？」師云：「你喚甚麼作天堂地獄？你曾到天堂地獄也無？」士無語，又問：「眾生即佛，弟子信不過。」師云：「信不過且做眾生。」云：「佛又作麼樣？」師云：「但肯作眾生，佛即在其中。」問：「某甲初做工夫，如何得個入頭處？」師搊住云：「但恁麼入。」僧云：「不會。」師打一掌，云：「恰好。」問：「如何是賓中賓？」師云：「滿面著埃塵。」「如何是賓中主？」",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: bring me your suffering and I will sort it for you — and when the layman asks what then of the pair, he asks what he even calls it, and whether he has ever been there."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0150b06",
+          "ToLb": "0150b20",
+          "Kwic": "生習氣，那一件是我輕底？那一件是我重底？境緣到時，我還作得主麼？若作主不得，此事便休題了；若作得主，箇裏須有皂白。試從心窩裏自己體驗，果能如石人花鳥麼？抑或以理遣情？若是以理遣情，于今現在佛法裏知休知咎，不免尚憑他力；若到一口氣不來，他生隔陰，現今得力底還用得著麼？豈不是依前受人差排？切莫引古人現成語云：天堂地獄是老僧家常茶飯。說則由你說，說了時自己不妨從長，畢竟還是汝悟底不濟事。不可但道我行履未到，須信悟不徹底無你行履分。終日閉著眼坐，坐到一箇念頭起來，便一箇念頭打發。勤坐多幾日，心識稍停，目前見得恬靜，便自歡喜。忽然有因緣放下，幾時便自不堪。似與麼行履，行到彌勒下生，亦未到你打成一片在。大眾！不妨平實商量。若",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: do not lean on the ready-made line that the pair is an old monk's everyday tea and rice — say it if you like, but when the breath fails it still comes down to whether your awakening holds."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0205c29",
+          "ToLb": "0206a13",
+          "Kwic": "要見德山、臨濟則未可在。何故？棒打石人頭，嚗嚗論實事。」示眾：「黃葉任隨流水去，白雲從便入山來，寥寥巖畔三間屋，兩片柴門竟日開。」示眾，云：「貴糴廬陵米，大做鐵酸餡，普請諸禪流，堂中自吞啗。阿呵呵！聊表殷勤，莫嫌冷淡。」示眾：「狂心不息，雖天上亦不稱意，便成佛亦是虛頭。狂心一息，便是佛也不要做，更說甚麼天堂地獄？汝諸人還息麼？」示眾，舉：「石門聰和尚云：『十五日已前諸佛生，十五日已後諸佛滅。十五日已前，你不得離我這裏，我有鉤鉤你；十五日已後，你不得住我這裏，我有錐錐你。且道：正當十五日，用鉤即是？用錐即是？』遂有頌云：『正當十五日，鉤錐一時息，更擬問如何？回頭日又出。』大慧和尚云：『恢張三玄三要，扶豎臨濟正宗，",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: while the wild mind runs, even heaven does not please and buddhahood is an empty shell; once it rests, not even buddha needs doing — so why still speak of the pair?"
+        },
+        {
+          "RelPath": "X/X72/X72n1432.xml",
+          "FromLb": "0189c12",
+          "ToLb": "0189c17",
+          "Kwic": "這箇有名，長養萬物。吾即知其名，故名這箇。祇如恁麼舉，與老子相去幾何？當知這箇生天生地、生佛生僊、生男生女、生聖生賢、生天堂地獄、生餓鬼畜生，更有一般至妙，又解生無生。無生子頭白如雪，解向天宮拿日月，要去毗盧頂上行，度生指往無生國。當時有箇老禪伯，一杖當頭親見血。何則",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1432.xml). Recorded Sayings of Chan Master Wuming Huijing. Wuming Huijing owns the retained deployment: this one gives birth to sky and earth, buddhas and immortals, men and women, sages and worthies, heaven and hell — and beyond all that, gives birth to the unborn."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1987A.xml",
+        "T/T48/T48n2009.xml",
+        "M/M59/M59n1540.xml",
+        "X/X68/X68n1318.xml",
+        "J/J10/J10nA158.xml",
+        "J/J38/J38nB406.xml",
+        "J/J32/J32nB273.xml",
+        "X/X72/X72n1432.xml"
+      ],
+      "RelatedMasters": [
+        "Caoshan Benji",
+        "Nanquan Puyuan",
+        "Bodhidharma",
+        "Xitang Zhizang",
+        "Dahui Zonggao",
+        "Zhenjing Kewen",
+        "Miyun Yuanwu",
+        "Tianran Hanshi",
+        "Qianyan Yuanzhang",
+        "Wuming Huijing"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The two destinations: heaven and hell as one pair — what masters dissolve, walk through unmoved, or hand back as a question. Caoshan Benji, after raising Nanquan's line that even ten-tenths still falls one thread short, tells the trainee that at this point one must be clear and free: heaven or hell, hungry ghost or beast, in every place unmoved — the same old person, only not walking the old road, and the moment there is fondness, entanglement returns; the treatise voice of Bodhidharma rules that with one thought rising there are the two deeds and the pair is there, with no thought rising neither deeds nor pair remain — in the ordinary it is there, in the sage it is not; Xitang Zhizang, whose case Dahui Zonggao retells, answers the laughing layman that there-is holds for the man with a wife and children and greed like the sea, while the master without a wife may rightly say there-is-not — look how the old ones came out; Zhenjing Kewen, asked about the realm-field by the Garland lecturer, lifts his staff: not the realm-field but the shining, vast, quiet core of every one of them — this shore and other shores, heaven and hell, the six common and four sage orders, feeling and unfeeling, all one, unbroken, unmixed, like the emperor-net's pearls. Miyun Yuanwu, asked by a layman who cannot match the master's ease — what then of heaven and hell? — turns it back: what do you even call the pair? have you ever been there?; Tianran Hanshi warns his trainees off the ready-made line that heaven and hell are an old monk's everyday tea and rice — say it if you like, but when the breath fails it will still come down to whether your awakening holds; Qianyan Yuanzhang tells the assembly that while the wild mind is unresting even heaven does not please and becoming a buddha is an empty shell, but once it rests, not even buddha needs doing — so why still speak of heaven and hell; Wuming Huijing names this one that gives birth to sky and earth, to buddhas and immortals, to men and women, to sages and worthies, to heaven and hell, to hungry ghosts and beasts — and beyond all that, gives birth to the unborn."
+    }
+  ]
+}

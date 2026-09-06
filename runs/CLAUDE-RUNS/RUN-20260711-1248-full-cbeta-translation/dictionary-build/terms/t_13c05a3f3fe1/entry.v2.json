@@ -1,0 +1,192 @@
+{
+  "Id": "t_13c05a3f3fe1",
+  "SourceTerm": "一代時教",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:11:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the whole teaching of one lifetime",
+      "AlternateTargets": [
+        "the entire canon preached in a single lifetime",
+        "one lifespan's whole teaching"
+      ],
+      "SearchAliases": [
+        "the complete canon",
+        "Sakyamuni's lifetime teaching",
+        "the one-age teaching",
+        "the whole canon in one pile"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 179 hits in 82 files representing 78 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0657b11",
+          "ToLb": "0657c05",
+          "Kwic": "姓養子方知父慈會麼僧云如何是養子方知父慈師云心不負人面無慚色問如何是禪師云歸依佛法僧進云不會師云咄這蝦䗫得與麼惡業問學人有疑請師一决師云獨掌不浪鳴進云不會師云雙𮈔不成束自領出去問徑截處乞師指示師云早朝有人問了也進云早朝有人問了且致請師道師云三門頭市合金剛脚下小兒子𥳽錢問如何是教意師云一問不再舉問如何是一代時教師云上大人丘乙己問如何是急師云通你一問進云如何是急中急師云朝向西衢耶尼暮向北鬱單越俗官問弟子廣陳供養師有何方便師云秪怕你不問官云便請和尚道師云心不負人面無慚色問以八不成是何章句師彈指一下云會麼進云不會師云上來講讚無限勝因蝦䗫𨁝跳上天蚯蚓驀過東海問如何是鷂子師云這死雀兒進云如何是鷂子機師云昨日有師僧趂",
+          "MasterName": "Muzhou Daoming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Muzhou Daoming owns the retained deployment: the whole lifetime's teaching answered with the primer's first line — top-great-man, Q-Yi-Ji."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0154b22",
+          "ToLb": "0154c11",
+          "Kwic": "面打開云。解道銀椀裏盛雪。更與爾下箇注脚。九十六箇應自知。負墮始得。爾若不知。問取天邊月。古人曾答此話云。問取天邊月雪竇頌了。末後須有活路。有獅子返擲之句。更提起與爾道。提婆宗提婆宗。赤旛之下起清風。巴陵道。銀椀裏盛雪。為什麼雪竇却道赤旛之下起清風。還知雪竇殺人不用刀麼。14【一四】舉僧問雲門。如何是一代時教雲門云。對一說。禪家流。欲知佛性義。當觀時節因緣。謂之教外別傳。單傳心印。直指人心。見性成佛。釋迦老子。四十九年住世。三百六十會。開談頓漸權實。謂之一代時教。這僧拈來問云。如何是一代時教。雲門何不與他紛紛解說。却向他道箇對一說。雲門尋常一句中。須具三句。謂之函蓋乾坤句。隨波逐浪句。截斷眾流句。放去收來。自",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: forty-nine years, three hundred sixty assemblies — call it the whole teaching of one lifetime; why did Yunmen not explain it, instead saying — say it to one?"
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0655a27",
+          "ToLb": "0655b14",
+          "Kwic": "客莫輕詶。記取今朝者公案。上堂舉。趙州問婆子。什處去。婆云。偷趙州笋去。州云。或遇趙州又作麼生。婆連打兩掌。州便休去。師云。趙州休去。不知眾中作麼生商量。白雲也要露箇消息。貴要眾人共知。婆子雖行正令。一生不了。趙州被打兩掌。咬斷牙關。婆子可謂去路一身輕似葉。趙州高名千古重如山。上堂云。僧問雲門。如何是一代時教。門云。對一說。師云。對一說。卷盡五千四十八。風花雪月任流傳。金剛腦後添生鐵。施主請上堂云。道吾與漸源。往山下弔慰。源拊棺問曰。生耶死耶。吾云。生也不道。死也不道。源云。為什麼不道。吾云。不道不道。回至中路。源云。和尚須與某甲道。若不道。即打和尚去也。吾云。打即任打。道即不道。源便打。至院吾令潛去。白雲",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment: say it to one — it rolls up the whole five thousand forty-eight; wind, flowers, snow, and moon handed down at will."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0803a10",
+          "ToLb": "0803b04",
+          "Kwic": "捨頗負聰明。矧乎師友之罔其悟理。惟尚言通不自覺知。涉入知解。以相似般若黏綴識田。自謂了明莫知虛妄。則其口出耳入之習紛紛皆是。化權衰替。鮮有不墮其轍者。此其一也。或者志氣狹劣識見淺陋。每向工夫邊倚靠不穩。將謂此無功用法門絕無靈驗。惟限以十年二十年。或不相應遽變前因。或以念佛為徑路修行。朝暮掐數珠求淨業。或以一代時教佛口所宣。我既參禪不靈。未免循行數墨旋種善因。自謂不為虛度。或厭煩受用畏懼報緣。自甘陸沈垢面草衣負舂執㸑。苦其形體以資事行。或密持呪語。或潛懺罪𠎝等。皆是自違正信。遠涉異端。此其二也。或元無信種遇境興心。三根椽下坐席未溫。八識田中攀緣不斷。一箇話頭咬嚼未破。百般情妄起滅無時。不至三年五載。遽謂參禪不悟。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: the whole teaching of one lifetime taken as the Buddha's own mouth — the learner's fallback when the bearing phrase stalls, and a deserting of right faith."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0132a29",
+          "ToLb": "0132b12",
+          "Kwic": "會得，則老僧會得，大眾會得；大眾若不會，則拄杖子不會，老僧不會。今問拄杖子，還會麼？」良久，山鳥亂啼，乃云：「分明是個事，山鳥正啼忙。」上堂。「老僧近來枕石放身，瞑然松下，不能說法。無已，則委之萬象，將使雲霞絢赫，水石擊衝，露遮那身，出廣長舌，曰的地藍，曰阿布使，曰四月乍晴山色好，一天初曉鳥聲多，此等皆非一代時教之所管攝。今日十方為口，山說、水說、空說、有說、剎說、塵說，有情無情三世一切同運法輪，令聞者、令見者立地成佛。且道如上說底是甚麼法？」良久，乃云：「湖上缽盂峰乍洗，峰頭囤米飯初蒸。」上堂。「摩訶衍法，四句既離，百非又絕，空蕩蕩三千剎海，冷澄澄八萬法門，美則美矣，猶未盡善。何也？不能傾出猛烈紅爐燄，鎚碎清涼",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: the sudden clearing and the first dawn's bird-sounds — none of it within the jurisdiction of the whole teaching of one lifetime."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0409c17",
+          "ToLb": "0409c30",
+          "Kwic": "嘆奇哉，秖為明星現，瞎驢長禍胎。大眾還知麼？昨夜釋迦老子覷破天上一點明星，天上明星照破釋迦老子面孔，今日供佛飯僧，楊居士已在睹明星時同成佛了也，現前大眾盡大地人總在睹明星時同成佛了也。當年釋迦老子恁麼見得透，走出雪山，即以這一點明星照定世間人面目，觀法先後次第，建立無邊行門，談經三百餘會、說法四十九年，成一代時教，正眼看來，大似一翳在眼，空花亂墜。山僧恁麼批判，還有為釋迦老子出氣者麼？如有，卻與他同一鼻孔；如無，徒讓廣嗣舌頭。咄！且道諸人眼睛在什麼處？」以拄杖指云：「明星一點今猶在，照破面門待幾時？」拍膝，下座。省我馬居士請上堂。僧問：「當門按劍，魔佛齊揮；頂𩕳具眼，群機洞照。抹過上頭關人來，和尚作麼生管帶？」",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianyue Daozheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment: three hundred-odd assemblies, forty-nine years, completing the whole teaching of one lifetime — to the correct eye, an eye-film's flowers falling in empty sky."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0572b14",
+          "ToLb": "0572b26",
+          "Kwic": "「如何是照用不同時？」師云：「放待冷來看。」進云：「照用已蒙師指示，末後一句是如何？」師云：「今日無暇打得你。」問：「如何是真佛？」師云：「破草鞋。」「如何是真法？」師云：「赦到也。」「如何是真道？」師云：「腳頭腳底。」「如何是第一句？」師便打。「如何是第二句？」師又打。「如何是第三句？」師連棒打趁。乃云：「一代時教，看來是甚麼破草鞋？大丈夫兒終不依他作解，有時奮喝散白雲的氣概、有時操打破虛空的鉗鎚，不惟三賢膽戰、十地魂驚，即使釋迦老子到來，也須趁向他方世界，到此方稱得箇不受惑的人。而今兄弟問真問假、問一問二，大似三家村打口令相似，問到十成盡屬所依，譬如水母以蝦為目，游泳江海，何曾有自由分？不見昔日城東老母與佛同生，",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: the whole teaching of one lifetime — on inspection, a worn straw sandal."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2003.xml",
+        "T/T47/T47n1995.xml",
+        "B/B25/B25n0145.xml",
+        "J/J34/J34nB299.xml",
+        "J/J29/J29nB235.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Muzhou Daoming",
+        "Yuanwu Keqin",
+        "Yunmen Wenyan",
+        "Wuzu Fayan",
+        "Zhongfeng Mingben",
+        "Hanyue Fazang",
+        "Lianyue Daozheng",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The whole teaching of one lifetime — forty-nine years and three hundred sixty assemblies gathered into one pile, then weighed by the Chan answers that would rather say it to one, quote the primer's first line, or call the whole thing a worn straw sandal. The case core. A monk asks Muzhou Daoming: what is the whole teaching of one lifetime? He answers: top-great-man, Q-Yi-Ji — the first characters a child learns to write, set against the whole canon. Yuanwu Keqin, commenting on the twin case in the Blue Cliff Record: a monk asks Yunmen the same; Yunmen says — say it to one. The school's stream, wanting to know the point of the buddha-nature, must watch the season and conditions; this is called the transmission outside the teaching, the mind-seal singly handed down, pointing straight at the mind for seeing the nature. Old Sakyamuni, forty-nine years in the world, three hundred sixty assemblies, opening the talk on sudden and gradual, provisional and real — call it the whole teaching of one lifetime. This monk lifts it up to ask: what is it? Why did Yunmen not explain it all for him, instead telling him — say it to one? And Wuzu Fayan, raising the same case in the hall: the monk asks Yunmen; Yunmen says — say it to one. Says the master: say it to one — it rolls up the whole five thousand forty-eight; wind, flowers, snow, and moon let themselves be handed down; behind the vajra head, raw iron is added. Zhongfeng Mingben, in the mountain-hut night talks, marks the pile as the learner's trap: the second kind of relapse — or else one takes the whole teaching of one lifetime as proclaimed by the Buddha's own mouth — since my work on the bearing phrase is not quick, I cannot but trace the lines and count the ink, planting good seeds as I go, telling myself none of it is wasted — all of it, he rules, is deserting right faith and wandering to the far shore of the odd arts. And Hanyue Fazang, lying pillowed on stone in the pines, hands the preaching to the ten thousand sights: clouds blaze, water and stone clash, the Vairocana body shows, the broad long tongue comes out — days called di-lan, days called a-bu-shi, days when the fourth-month sudden clearing makes the mountain colors good, one first dawn and the bird-sounds multiply — none of this is within the jurisdiction of the whole teaching of one lifetime; today the ten directions speak as mouth — mountain-say, water-say, empty-say, being-say, the living and lifeless of three times all turning the wheel together, so that hearers and seers stand on the spot and become buddhas. Lianyue Daozheng, at the twelfth-month eighth-day assembly: year after year the eighth of the last month, the praise is spoken — wonder of wonders — only because the morning star appeared, and the blind donkey is ever the womb of trouble. Old Sakyamuni saw through the one point of morning star in the sky; the morning star in the sky shone through old Sakyamuni's face; today's offering to the buddha and feeding of the assembly — the layman Yang already became buddha together at the moment of seeing the star, and the whole great earth's people before me too. Back then he saw it so thoroughly, walked out of the snow mountains, and with that one point of morning star fixed the world's faces: after the way was seen, the gates of conduct were built without edge — three hundred-odd assemblies of sutra-talk, forty-nine years of preaching, completing the whole teaching of one lifetime; but to the correct eye it looks most like an eye-film in the eye, flowers falling in empty sky. Does anyone breathe on Sakyamuni's behalf? If so, he shares one nostril with him; if not, the wide-heir tongue is left idly wagging — Pa! And Yushan Shangsi, after the catechism of true buddha, true way: the whole teaching of one lifetime — on inspection, what is it but a worn straw sandal? A great-spirited man never leans on it for his understanding: sometimes the shout that scatters white-cloud vapors, sometimes the tongs that break open the hammer of empty sky — not only the three worthies blanched and the ten stages startled: even if old Sakyamuni himself came, he too would be chased off to some other world; only then does one count as a man no delusion can hold."
+    }
+  ]
+}

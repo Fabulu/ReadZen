@@ -1,0 +1,194 @@
+{
+  "Id": "t_200344e96c98",
+  "SourceTerm": "六代祖師",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T13:04:48Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the six patriarchs",
+      "AlternateTargets": [
+        "the six generations of patriarchs"
+      ],
+      "SearchAliases": [
+        "six patriarchs",
+        "six generations of patriarchs",
+        "six founders of the line"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 309 hits in 95 files representing 92 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0297c02",
+          "ToLb": "0297c16",
+          "Kwic": "磨老臊胡，何處尋蹤跡？剎竿頭上禮西方，九蓮開作黃金色。喝一喝。上堂：心王不妄動，六國一時通。罷拈三尺劒，休弄一張弓。古人可謂運籌帷幄，决勝千里。山僧即不然，五鳳樓前聽玉漏，須彌頂上擊金鐘。一毛頭上三千界，雲月溪山處處同。開爐，上堂。今朝十月旦，開爐無獸炭。倒轉死柴頭，光明何燦爛？三世諸佛在此光裡轉大法輪，六代祖師在此光裡聯芳續焰，天下老和尚在此光裡各立門庭。光光相羅，如寶絲網。大用現前，清機歷掌。有功者罸，無功者賞。引水澆蔬五老前，披蓑側笠千峯上。喝！上堂。昨日十四，今日十五，大法難明，時光易度。動則涉塵勞之境，靜則沈󳸭醉之鄉，動靜雙泯則落空亡，動靜雙收則顢頇佛性。到者裡，須知有透脫一句始得。拈拄杖，云：倒跨楊岐",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, seating the six patriarchs as those who continue the flame inside the retreat's one light."
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0096a09",
+          "ToLb": "0096b01",
+          "Kwic": "年礙却，說得許多道理，終未免黏脣污齒。慈受叟即不然，時人皆拜歲，山僧也賀年，光明一點在，從聽二輪遷。順俗高叉手，和光小說禪，箇中如會得，佛祖本無傳。退院辭眾，上堂云：三年住此空花相，今日歸歟水月同，去住不須論彼此，人生萬事轉頭空。修習空花萬行，宴坐水月道場，降伏鏡裏魔軍，成就夢中佛事。是知三世諸佛說夢、六代祖師說夢、天下老和尚說夢、今朝資福說夢，說此一夢三年零七箇月，其間有利根者輕輕喚著便乃回頭，有根性暗鈍者至今猶在夢中。山僧有箇驚瞌睡底句，臨行不免傾膓倒腹，盡為諸人道却。照顧鼻孔乍遠，伏惟珍重。慈受深和尚焦山語錄慈受深和尚焦山語錄侍者善隨編師於政和七年九月初六日在蔣山受請，拈起敕黃云：九重天上官家敕",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained deployment, counting the speech of the buddhas, the six, and his own Zifu as so much dreaming."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0845a14",
+          "ToLb": "0845b08",
+          "Kwic": "左之右之總無回避處師云忽然回避得又向甚麼處垜根進云和尚退後退後師云雪峯道底雪峯道底進云伎倆俱盡師云人平不語水平不流進云只如雪峯道底意旨如何師云雪峯道底無意旨進云和尚言滿天下無口過行滿天下無怨惡師云且莫惡水潑人進云道端舌頭不曾出口師云前箭猶輕後箭深。師乃云舌頭不出口天下人向這裏證明不得驀然道得一句三世諸佛六代祖師天下老和尚只得立地聽且道當人具甚麼眼便得恁麼奇特若識得渠面目方知行也如是住也如是坐也如是臥也如是如是之法亘古亘今一大藏教詮注不及三賢十聖看只有分有如是作略得如是自在因甚麼百姓日用而不知只為分明極翻令所得遲。復云言無展事語不投機承言者喪滯句者迷可中有箇不承言不滯句直下如龍得水似虎靠山坐斷報化佛頭截斷生死兩路",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, declaring that one suddenly spoken phrase leaves the buddhas, the six, and the old masters standing to listen."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0063b17",
+          "ToLb": "0063c03",
+          "Kwic": "生放身。師云。轉盻解歸來。蕭然還就位。僧云。一切處絕蹤跡去也。師云。且道。神通游戲時。自合如何。僧云。靈靈不昧。了了常知。師云。要且未能超脫。僧云。誰敢特地。師云。一切處應現。絲髮不留痕。師乃云。洞塵劫事。只在一彈指間。若向一彈指間。前後際斷。箇時俱位不得。塵劫已前。只是恁麼事。三世諸佛。望爾頂𩕳不著。六代祖師。覷爾脚跟不到。直饒若佛若祖。只是旁窺仰讚有分。終不敢向當頭道著一句子。縱爾做盡方便。設盡門庭。要當頭道一句子也不得。本色人自住本位。乃至一切諸佛出世。侵犯我不得。一切眾魔出興。侵犯我不得。塵劫已前。者一坐具地。是爾自所住處。人人到箇時節。彼不侵犯我。我不侵犯彼。洞然法界。元無一絲毫隔越。箇時識得破。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment, ruling that the buddhas cannot reach the hearer's crown and the six cannot see his heels."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0550a18",
+          "ToLb": "0550b08",
+          "Kwic": "屎橛？便歸方丈。師云：臨濟若無後語，洎被打破蔡州。雖然家無白𤢟之圖，必無如是妖怪。除夜，小參。善哉三下板，知識盡來參，既善知時節，吾今不再三。諸仁者！一舉更不再舉，今已再舉；一聞更不再聞，今已再聞。頭頭上明，物物上了，如理如事，亘古亘今，不是涅槃心，亦非正法眼。恁麼恁麼，三世諸佛祇言自知；不恁麼不恁麼，六代祖師無啟口處。設使言前薦得，猶為滯殻迷封；假饒句下精通，未免觸途狂見。今夜向紅爐上拾一點雪，枯木上糝些子花，與你諸人赴個時節，殘燈隨臘盡，𪹼竹送春來。復舉：盤山云：向上一路，千聖不傳。慈明云：向上一路，千聖不然。玅喜云：向上一路，熱盌鳴聲。師云：三大老盡力道，只發明得向下一路。若是向上一路，驢年夢見麼？元宵，",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, granting the like-this side to the buddhas' self-knowing and leaving the six no place to open their mouths."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0962c09",
+          "ToLb": "0962c25",
+          "Kwic": "云。明投暗合。八面玲瓏。不犯當頭。轉身有路。曹洞門下。足可觀光。若是臨濟兒孫。棒折也未放在。當時見他道不委姓。劈胸便與一拳。這裏挨得身轉。非但開粥相待。亦可明窓下安排。有麼有麼。喝一喝云。漆桶。參堂去。上元上堂。今朝上元節。是處掛燈毬。一燈燃百千燈。燈燈相續。重重無盡。如寶絲網。三世諸佛。向光影裏出現。六代祖師。向光影裏說法度人。四聖六凡。向光影裏頭出頭沒。山河大地。向光影裏成立。諸人若信得及去。覓其光影來處。了不可得。便乃坐斷報化佛頭。若信不及。十二時中。被光影使得。七顛八倒。上堂。舉修山主云。是拄不見拄。非拄不見拄。是非已去了。是非裏薦取。師喝云。孟春猶寒在。日月幾時遷。上堂。一切數句非數句。與吾靈覺何交",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment, seating the six to preach and save people within the lantern light and shadow."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0224c09",
+          "ToLb": "0224c24",
+          "Kwic": "生緣，突出神光閃爍，舉一不得舉二，放過一著落在第二。門外春光已半過，落花幾度隨流水。卓主丈，下座。佛涅槃，上堂：心不是佛，心與佛俱非。智不是道，智與道俱遣。今日即有，明日即無。蒼天蒼天，波旬失途。上堂：雪竇道：三分光陰二早過，靈臺一點不揩磨。貪生逐日區區去，喚不回頭爭奈何？山僧道：只者喚不迴頭，三世諸佛、六代祖師是他同參。與麼說話，雖則向上提持，未免循途守轍。畢竟如何？不是弄潮人，莫入洪波裏。結制，上堂。今朝四月十五，大好一塲莽鹵，人人禁足護生，未免殺佛殺祖。僧問雲門：殺父殺母，佛前懺悔；殺佛殺祖，甚處懺悔？雲門云：露大小雲門，也是看窟籠著榍。上堂。黃檗打臨濟，興化打克賓，古今商量，咸謂事有多途，理無二致。然則",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, naming the uncallable one whose fellow students are the buddhas and the six."
+        },
+        {
+          "RelPath": "X/X71/X71n1419.xml",
+          "FromLb": "0517a07",
+          "ToLb": "0517a22",
+          "Kwic": "。竺僊正法眼，如水常東流。示眾：從古至今，人多錯認。還有一法遮障得儞麼？還有一法羈絆得儞麼？自是儞突然起得如許頭角，無羈絆中飜成羈絆、無遮障中飜成遮障，一切時、一切處粘作一團，不得自由自在。儞若是箇丈夫，當下一刀兩段，盡十方世界是箇自己、盡十方世界是箇炟赫虗空、盡十方世界是安居之所、禁足之場，三世諸佛、六代祖師是甚掇洗脚水漢？又何必分期立限、畫地為牢、無繩自縛？若乃未得如斯，長期百二十日、中期百日、下期八十日，教有明文，依而行之。端午，上堂。五月五日端午節，艾虎桃符總休說。鳳山只箇金剛王，百怪千妖俱殄滅。江南兩淛，春寒秋熱。觀世音菩薩將錢買胡餅，放下手却是生鐵。上堂，拈拄杖云：有物先天地，無形本寂寥，能為萬象主",
+          "MasterName": "Yuansou Xingduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuansou Xingduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1419.xml). Recorded Sayings of Chan Master Yuansou Xingduan. Yuansou Xingduan owns the retained deployment, dismissing the buddhas and the six as wash-water carriers before the summer seat."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1414.xml",
+        "X/X73/X73n1451.xml",
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2001.xml",
+        "X/X71/X71n1420.xml",
+        "T/T47/T47n1999.xml",
+        "X/X71/X71n1412.xml",
+        "X/X71/X71n1419.xml"
+      ],
+      "RelatedMasters": [
+        "Liao'an Qingyu",
+        "Cishou Huaishen",
+        "Dahui Zonggao",
+        "Hongzhi Zhengjue",
+        "Chushi Fanqi",
+        "Mi'an Xianjie",
+        "Gulin Qingmao",
+        "Yuansou Xingduan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The six transmitters, summoned as one bench that hall addresses set their hearers against. Liao'an Qingyu opens the retreat furnace and seats the buddhas turning the wheel, the six patriarchs continuing the flame, and the old masters raising their gates inside one light; Cishou Huaishen, leaving the abbacy, counts the speech of the buddhas, the six, the old masters, and his own Zifu as one dream of three years and seven months; Chushi Fanqi's New Year's Eve xiaocan grants the like-this side to the buddhas' self-knowing and leaves the six no place to open their mouths; and Yuansou Xingduan asks what the buddhas and the six are but fellows who carry off wash-water. Dahui Zonggao tells his requester that one suddenly spoken phrase leaves the buddhas, the six, and the old masters standing to listen; Hongzhi Zhengjue's xiaocan rules that the buddhas cannot reach the hearer's crown and the six cannot see his heels; Mi'an Xianjie's Lantern Festival address seats the buddhas appearing and the six preaching and saving within light and shadow; and Gulin Qingmao names the one who cannot be called back, with the buddhas and the six as his fellow students."
+    }
+  ]
+}

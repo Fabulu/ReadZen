@@ -1,0 +1,230 @@
+{
+  "Id": "t_06dcb778d12d",
+  "SourceTerm": "放開一線",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:34:11Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "letting out one line of it",
+      "AlternateTargets": [
+        "opening a single seam",
+        "letting one thread loose"
+      ],
+      "SearchAliases": [
+        "letting one line out",
+        "loosening the grip by one thread",
+        "one thread of allowance"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 143 hits in 89 files representing 88 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0772a26",
+          "ToLb": "0772b01",
+          "Kwic": "如蚊子上鐵牛相似今時眾中兄弟便道。石頭一向壁立萬仞。所以他不會。馬祖放開一線。他乃悟去。殊不知。石頭恁麼道。已是漏逗了也。馬祖道處。這一著尤更毒害。因甚麼藥",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: the crowd's reading — Shitou stood sheer so Yaoshan missed, Mazu let out one line and he woke — and then the pull-back: Shitou's saying had already leaked, and Mazu's move is the more poisonous."
+        },
+        {
+          "RelPath": "X/X67/X67n1304.xml",
+          "FromLb": "0346a08",
+          "ToLb": "0346a12",
+          "Kwic": "老人一條脊梁，骨硬似鐵拗不折。然雖如是，於唱教門中猶較些子。林泉道：放開一線許商量。所以古德云：說得一丈，不如行取一尺。說得一尺，不如行取一寸。當初九峰住洞",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan's Commentary and Chanted Remarks on Chan Master Danxia Zichun's Verses on Ancient Cases: Xutang Collection. Linquan Conglun owns the retained deployment: letting out one line allows deliberation — and better one foot walked than ten feet talked, one inch walked than one foot talked."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0443a27",
+          "ToLb": "0443b10",
+          "Kwic": "去多少？」豎拂子云：「一點水墨，兩處成龍。」上堂。「十五日已前，總有西來大意，諸佛玄機不得舉著。何故？過去已過去。十五日已後，雖是白鷺下田千點雪，黃鸝上樹一枝花，亦不得道著。何故？未來猶未來。正當十五日，天是天、地是地，僧是僧、俗是俗，穿衣喫飯、運水搬柴，未嘗欠少一絲毫。為甚十箇有五雙，不知落處？如如不妨放開一線，使汝諸人得箇入路。」豎拂子云：「拂子𨁝跳上天，變成金翅鳥王，將兩翼一扇，直得海水俱分，把壽盡諸龍一時噉盡。你諸人還知麼？」良久云：「噁！」臘八上堂。「二千年前臘月八夜明星現時，釋迦老子驀地抬頭，便知本命元辰著落處，流傳至今，謂之佛成道日。正當恁麼時，明星尚未出現，諸人還知本命元辰著落處麼？若也知得，超過",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: right on the fifteenth day nothing is lacking — so why do ten out of five pairs not know where it falls? Ruru will let out one line to give them an entry road."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0368b04",
+          "ToLb": "0368b08",
+          "Kwic": "云：「看你無處出氣。」據室。「佛來插腳不入，魔來窺覷無門。新長老今日放開一線，你有半斤，還你八兩。」山門疏。「不是鉤章辣句，全非者也。周由總是家裏人，盡說家",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Feng. Yuan'an Liao owns the retained deployment: buddhas cannot get a foot in, demons find no door to peer through — today one line is let out: you have half a jin, I return you eight liang."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0848a04",
+          "ToLb": "0848a08",
+          "Kwic": "龍山頂上種田博飯喫。」良久，卓拄杖，下座。示眾。「昨日把定封疆，今朝放開一線。沸湯鍋裏冰凌，石火光中掣電。若能於此會得，許伊工夫成片。設若於此不會，未免墮坑",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained deployment: yesterday the border sealed, today one line let out — ice-floes in the boiling pot, lightning snatched in the flint-spark; meet it and the work knits, miss it and the pit waits."
+        },
+        {
+          "RelPath": "J/J37/J37nB396.xml",
+          "FromLb": "0724a05",
+          "ToLb": "0724a17",
+          "Kwic": "。」進云：「是什麼句？」師便打，乃云：「法不孤起，仗境方生。」拈拄杖云：「者是山僧拄杖，法在甚麼處？」卓一下，云：「三汲浪高魚化龍，癡人又戽夜塘水。」上堂。僧問：「向上一路，千聖不傳，和尚還傳麼？」師云：「傳。」進云：「千聖不傳，和尚為什麼卻傳？」師云：「我不是千聖。」乃云：「有時把斷要津，三世諸佛口掛壁上；放開一線，狸奴白牯任意縱橫。不把不放一句子，盡大地人摸𢱢不著。蟠龍不惜眉毛，與諸人通個消息。」喝一喝，下座。解制，上堂。僧問：「十五日已前即不問，正當十五日時如何？」師云：「瑞雪滿空墜，銀花遍地生。」進云：「雪消後時又作麼生？」師云：「看腳下。」乃云：「千燈萬燈從一燈起，千法萬法從一法生。識得一燈，燈燈相照；識得",
+          "MasterName": "Zisu Chaoyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zisu Chaoyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB396.xml). Recorded Sayings of Chan Master Zisu of Panlong, Zhongnan Mountain. Zisu Chaoyuan owns the retained deployment: the ford held shut and the buddhas' mouths hang on the wall; one line let out and the cats and calves run loose — and the neither-holding-nor-releasing line no one on earth can touch."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0233a06",
+          "ToLb": "0233a19",
+          "Kwic": "一句看。」師卓拄杖云：「會麼？」進云：「這又是平嘗的，別斬新條作麼生？」師打云：「又嫌少？」問：「仲冬嚴寒，灰心土面，枝頭漏洩，陽春一線。且道如何是陽春一線？」師云：「青雲捧足下。」進云：「恁麼則穿過諸人鼻孔了也。」師云：「面皮厚多少？」僧喝，師便打。乃云：「久沉死水得人憎，掇轉乾坤醒未曾，時節到來難忍俊，放開一線任騰騰。正當與麼時，山河大地，草芥人畜，各各舒暢、物物含輝，美則美矣，善則甚善。忽遇個沒面目漢子攔腮把拄云：『還我公驗來。』作麼生抵對他？若對有據，透綱金鱗沖碧漢，回途石馬走紗籠。脫或未能，拽轉驢唇歸舊塢，明年此際復重伸。」下座。上堂。師云：「尋梅踏雪，徹骨風騷，航海觀光，撩天俊俏。秪如山門前一片閒田地，",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: long sunk in dead water, heaven and earth flipped over — ever woken? the season will not be held back: one line let out, soaring free — but the no-face fellow demands the travel pass."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0415b05",
+          "ToLb": "0415b17",
+          "Kwic": "麼處安身？」師云：「我者裏水不能漂。」僧喝一喝，師云：「胡喝亂喝。」僧禮拜，師云：「出海毒龍降在老僧缽裏。」僧問：「無孔鐵鎚開口時如何？」師云：「說箇甚麼？」僧喝云：「諸佛疑著在。」師云：「卻是你疑著在。」進云：「請和尚說破。」師卻喝一喝。進云：「不是者箇意。」師云：「大好疑著。」僧問：「與人解黏去縛，直須放開一線。」師云：「你莫受人羅籠。」進云：「學人不受人羅籠。」師云：「因甚要放開一線？」僧喝，師云：「無繩自縛。」僧問：「山河大地盡喚作本分事如何？」師云：「頭上安頭。」進云：「覿面相呈。」師云：「呈箇什麼？」僧喝，師便打。僧問：「逼塞虛空時如何？」師云：「無你下腳處。」進云：「踏穿諸佛眼睛時作麼生回互？」師云：「",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianyue Daozheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment: to loose another's knots one must let out one line? Don't let yourself be caged — then why do you want one line out? A shout. Binding yourself with no rope."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X67/X67n1304.xml",
+        "J/J26/J26nB182.xml",
+        "J/J37/J37nB386.xml",
+        "J/J39/J39nB466.xml",
+        "J/J37/J37nB396.xml",
+        "J/J27/J27nB193.xml",
+        "J/J29/J29nB235.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Yaoshan Weiyan",
+        "Shitou Xiqian",
+        "Mazu Daoyi",
+        "Linquan Conglun",
+        "Yantou Quanhuo",
+        "Deshan Xuanjian",
+        "Wanru Tongwei",
+        "Yuan'an Liao",
+        "Baishan Dekai",
+        "Zisu Chaoyuan",
+        "Yinyuan Longqi",
+        "Lianyue Daozheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Letting out one line: the master's single thread of allowance out of the shut gate — the entry road granted, and then weighed against the holding-shut. Yuanwu Keqin rules on the oldest case of it: Yaoshan Weiyan said that at Shitou Xiqian's place he was like a mosquito on an iron ox — and the crowd explains it: Shitou always stood sheer as a ten-thousand-fathom wall, so he did not get it; Mazu Daoyi let out one line, and he woke — yet Yuanwu pulls the rug: Shitou's saying had already leaked, and Mazu's move is the more poisonous still; Linquan Conglun, on Yantou Quanhuo's word that Deshan Xuanjian's backbone was iron that would not break, says it plainly — letting out one line allows deliberation — and then grades it: better one foot walked than ten feet talked, one inch walked than one foot talked; Wanru Tongwei holds the fifteenth day — heaven is heaven, earth is earth, monk is monk, layman is layman, nothing lacking by a hair — so why do ten out of five pairs not know where it falls? Ruru will let out one line to give them an entry road; Yuan'an Liao, taking the room for the new elder: buddhas cannot get a foot in, demons find no door to peer through — today one line is let out: you have half a jin, I return you eight liang. Baishan Dekai splits it by the day — yesterday the border was sealed, today one line is let out: ice-floes in the boiling pot, lightning snatched in the flint-spark; meet it here and the work may knit into one piece, miss it and the pit waits; Zisu Chaoyuan plays the two ends: sometimes the ford is held shut and the mouths of three ages of buddhas hang on the wall; one line let out and the cats and calves run wherever they please — and the neither-holding-nor-releasing line, no one on earth can lay a finger on it; Yinyuan Longqi verses it: long sunk in dead water and hated for it, heaven and earth flipped over — ever woken? the season has come and will not be held back: one line let out, soaring free — but let the no-face fellow bar the way and demand the travel pass; Lianyue Daozheng turns the request inside out: the monk says to loose another's knots one must let out one line — the master: don't let yourself be caged; the monk: I take no cage — the master: then why do you want one line out? A shout. Binding yourself with no rope."
+    }
+  ]
+}

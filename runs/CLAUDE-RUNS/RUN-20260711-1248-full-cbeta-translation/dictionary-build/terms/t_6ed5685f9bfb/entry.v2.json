@@ -1,0 +1,209 @@
+{
+  "Id": "t_6ed5685f9bfb",
+  "SourceTerm": "對朕者誰",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:43:46Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "who is it that faces me?",
+      "AlternateTargets": [
+        "who is the one before the sovereign?"
+      ],
+      "SearchAliases": [
+        "who stands before the throne",
+        "the emperor's 'who faces me?'",
+        "who confronts the sovereign"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 134 hits in 104 files representing 101 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0767a24",
+          "ToLb": "0767b18",
+          "Kwic": "生僧劃一劃師云又被風吹別調中學云往往隨他口頭走師云更是阿誰乃云李白桃紅山青水淥雲橫洞口月皎長空若只向者裏薦得法眼道月明幽室寒星兮拱辰異便須瓦解冰消韶國師道通玄峯頂不是人間心外無法滿目青山亦須百雜碎何也盡乹坤大地不消一捏然雖如是事無一向今夜且放過一著。上堂舉梁武帝問達磨如何是聖諦第一義磨云廓然無聖帝云對朕者誰磨云不識又僧問六祖黃梅意旨什麼人得祖云會佛法底人得僧云和尚還淂麼祖云不淂僧云和尚為什麼不得祖云我不會佛法師云大小大祖師問著底便是不識不會為什麼却兒孫徧地乃云一人傳虗萬人傳實小叅僧問施主遠趨於丈室請師一句利於人師云教天下人成佛去學云悠悠塵內客不謾入山來師云中間猶有眾生在僧便喝師云且道是佛是眾生學云四面眼",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Wuzu Fayan owns the retained deployment, pairing the pressed ancestors' not-knowing with Huineng's not-understanding and asking why the grandchildren then fill the earth."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0722a07",
+          "ToLb": "0722b13",
+          "Kwic": "除。且道與陸亘大夫所見相去幾何。良久云。幻住忍俊不禁。向無音韻中聊伸一偈。南泉陸亘舌無筋。圓覺華嚴語未真。何似東衡原上月。照空群象最相親。天目中峯和尚廣錄卷第二音釋灝孳縮尖錐厝鐫天目中峯和尚廣錄卷第三叅學門人北庭臣僧慈寂上進拈古拈古梁武帝問達磨云。如何是聖諦苐一義。磨云。廓然無聖。又問。對朕者誰。磨云。不識。師拈云。缺齒老僧手󵈢泥彈子。要與東震旦人闘富。可謂不知量矣。被梁王指出照乘明珠問之。情知伊道箇不識。馬祖見野鴨問百丈云。是什麼。丈云。野鴨子。須󱅨不見。祖云。野鴨聻。丈云。飛去也。祖扭丈鼻負痛失聲。祖云。又道飛去也。丈於言下有省。師拈云。設錦穽以陷獸。垂香餌以釣魚。惟善作者能之。馬師擬獲一",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, following the staged asking with the gap-toothed old monk's mud pellets out to out-rich the eastern lands."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0199b19",
+          "ToLb": "0199c11",
+          "Kwic": "何須論，歸家落日明。丹霞到一荒院，遇夜取木佛燒火向院主，乃呵責曰：何得燒我木佛？霞以拄杖撥火云：燒取舍利。院主云：木佛何得有舍利？霞云：若無舍利，更取兩尊來燒。院主嗣後眉鬚墮落。荒院天寒燒木佛，一堆紅燄對枯床，渾身終夜烘烘暖，罪過難教院主當。達磨見梁武帝，問：如何是聖諦第一義？達磨云：廓然無聖。帝云：對朕者誰？達磨云：不識。廓然無聖真實語，對朕者誰心未息。本光燦爛照十方，無量劫來到今日。雲門大師云：聞聲悟道，見色明心。作麼生是聞聲悟道，見色明心？乃云：觀世音菩薩將錢買胡餅，放下手却是饅頭。補陀巖上，白衣觀音。聞聲悟道，見色明心。僧問趙州：學人乍入叢林，乞師指示。州云：喫粥了也未？僧云：喫粥了也。州云：洗鉢盂",
+          "MasterName": "Hengchuan Rugong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Rugong",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong owns the retained deployment — the only retained row where the asking rides inside the master's own ode: vast and no sage, a true saying; who faces me? the heart not yet at rest."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0078c20",
+          "ToLb": "0079a02",
+          "Kwic": "煩維那對眾宣出看。」宣畢，指法座曰：「舉足、下足，動念即乖；瞬目、揚眉，擬心即錯。且道：畢竟如何？咦！不見道：若有路可上，更高人也行。」遂登座。白椎畢，師曰：「者個第一義，達磨西來已被梁武帝當頭一問，直得口如扁擔、眼似流星，滿口舌頭道個廓然無聖，不知已落二落三了也。爭奈武帝有殺人見血的手段，又拶一問云：『對朕者誰？』達磨答個：『不識，不識。』雖好，也只救得一半。及乎淒淒渡江，九年面壁，要救那一半不得。後得神光立雪斷臂，不惜身命也要扶持那一半，乃至六代五家沿流至今也要扶持那一半。殊不知，那一半人人本具、個個不無，為甚麼不知？不道你不知，只是你不會。即今天華會上，若聖、若凡，若男、若女，若貴、若賤，若長、若幼。」遂舉",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Altar Teachings of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment, ruling the doubled not-knowing good for only half — with the wall-facing years unable to save the other half and the heirs holding it up ever since."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0022c26",
+          "ToLb": "0023a08",
+          "Kwic": "諸兄弟！汝看此三人出手眼處如鼎三足，缺一不可。渠謂明明百艸頭，非推之使易也；明明祖師意，非推之使難也，無非只在就裏一著上悟徹。「又如我達磨初祖觀得此土有大乘根器，特特航海而來，遇見梁武帝，帝素所好佛教，嘗對四眾講演，獨談第一義諦以為極則，所以問達磨大師云：『如何是聖諦第一義？』磨云：『廓然無聖。』帝曰：『對朕者誰？』磨云：『不識。』帝不契，吾祖自此折蘆渡江，面壁少室。後慧可大師立雪斷臂，問及安心之旨，謂之教外別傳，直指人心，見性成佛。據可大師問：『某甲心未寧，乞師安心。』祖曰：『將心來與汝安。』大師道：『覓心了不可得。』祖云：『與汝安心竟。』何曾直指箇心來？六祖謂道箇直早已曲了，蓋證人人本具、各各不無者著子耳，非有",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, telling the crossing and the broken meeting as the ancestor's own errand before asking when he ever pointed straight at a mind."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0578c23",
+          "ToLb": "0579a05",
+          "Kwic": "故，世尊說法四十九年，談經三百餘會，末後乃云：『始從鹿野苑，終至跋提河，于此二中間未嘗說一字。』達磨大師見梁武帝，帝問：『朕自即位以來，造塔度僧，有何功德？』磨云：『著相外求非真功德。』『如何是真功德？』磨云：『淨智妙圓，體自空寂，如是功德不以世求。』又問：『如何是聖諦第一義？』磨云：『廓然無聖。』帝云：『對朕者誰？』磨云：『不識。』有般漢聞恁麼舉，強作主宰，總不恁麼，大棒打不回頭、千般羅籠不住，大似十字街頭石敢當，秪成得箇頑漢。若真丈夫，眼裏有觔、皮下有血，一年十二月、一月三十日、一日十二時，時時如是、日日如是、月月如是、年年如是，單單只守箇閒閒地饑來喫飯、困來打眠，寒則向火、熱則乘涼，上無諸聖可慕、下無眾生可度",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, grading the forced-mastery hearer a crossroads stone guardian — nothing but a blockhead — against the true man's year-round idle ground."
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0474a10",
+          "ToLb": "0474a22",
+          "Kwic": "云：「輕輕點破無明窟，堂堂現出本來人。」師復打，云：「開門放出郎當漢，腦後分明欠一錐。」師乃云：「學道休參鹵莽禪，逢人要識此根源，當機覿面還相委，脫骨換胎始契先。出礦純金重煆煉，離山美玉用鑽研，看來至寶非容易，不是依稀了目前。」舉：「梁武帝見達磨大師，問云：『如何是聖諦第一義？』磨云：『廓然無聖。』帝云：『對朕者誰？』磨云：『不識。』帝不契。」師云：「梁武帝雖然頂門具眼，不識腦後見腮；達磨大師縱使言中有響，那覺句裏藏鋒？不免中間放開一線道，怎奈梁武帝當面錯過？據山僧正眼觀來，天下國家可均也、爵祿可辭也、白刃可蹈也、中庸不可能也。何故？不是弄潮人，爭得潮中意？」喝一喝，下座。彌陀聖誕日，上堂。僧問：「山呈瑞雪，獅子嚬呻",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. Minshu Ruxiang owns the retained deployment, ruling the emperor eyed but cheek-blind and the ancestor's edge hidden — the middle way missed face to face, the middle cannot be done."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0646b27",
+          "ToLb": "0646c11",
+          "Kwic": "於一切法無言、無說，無示、無識，離諸問答，是為入不二法門。』殊復謂維摩曰：『我等各自說已，仁者當說何等是菩薩入不二法門？』維摩默然。」師云：「維摩病多諳藥性，徹底老婆心，末後被文殊翻轉藥頭，直得佛病、祖病、眾生病一時掃蹤滅跡。」舉：「達磨大師因梁武帝問：『如何是聖諦第一義？』磨云：『廓然無聖。』帝云：『對朕者誰？』摩不識。」師云：「梁帝逢而不逢，初祖識而不識，子細觀來，兩兩無面目漢。會得廓然聖，惟我獨尊。」舉：「布袋和尚以破布一塊裹乾菌橛，逢人則拈起云：『兜率陀天底，兜率陀天底。』瑯琊云：『慈氏菩薩。』徑山云：『牢收取。』」師云：「瑯琊鏤糞作栴檀，徑山囊業作香袋，擬欲並芳兜率，誰知遺臭娑婆？是山僧見他拈起，攫來",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment, finding the sovereign meeting yet not meeting and the ancestor knowing yet not knowing — two faceless fellows — with the no-sage knowing the sole honor."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "B/B25/B25n0145.xml",
+        "X/X71/X71n1411.xml",
+        "J/J27/J27nB190.xml",
+        "J/J26/J26nB177.xml",
+        "J/J26/J26nB185.xml",
+        "J/J39/J39nB450.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Huineng",
+        "Zhongfeng Mingben",
+        "Hengchuan Rugong",
+        "Shiyu Mingfang",
+        "Huike",
+        "Poshan Haiming",
+        "Fushi Tongxian",
+        "Minshu Ruxiang",
+        "Jifei Ruyi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The sovereign's second pressing of the first ancestor — who is it that faces me? — raised, retold, oded, and answered on his behalf across the records. Wuzu Fayan raises the exchange at his evening teaching and throws it against Huineng — the Sixth Ancestor, asked who won Huangmei's purport, answered only that those who know the teaching won it and that he himself did not know the teaching — great and small ancestors, pressed, all not-knowing and not-understanding: why then grandchildren everywhere?; Zhongfeng Mingben picks up the case with the gap-toothed old monk's mud pellets, out to out-rich the eastern lands — and the Liang sovereign points the light-giving pearl at him, so he can only say he does not know; Hengchuan Rugong takes it into his own ode — vast and no sage, a true saying; who faces me? the heart not yet at rest — the original light shining through the ten directions from measureless ears to today; and Shiyu Mingfang grades the press itself: the sovereign's blood-seeing hand squeezed one more asking, and not-knowing, not-knowing, good as it is, saves only half — the river crossing and nine years of wall-facing cannot save the other, and the arm-severing Huike and the six generations and five houses have been holding up that other half ever since. Poshan Haiming tells it as the first ancestor's own errand — seeing great-vehicle roots in this land, crossing the sea to meet an emperor who loved the teaching and took the highest meaning for the ultimate — and the not-knowing that broke the meeting, the reed crossed, the wall faced; Fushi Tongxian turns it on the hearers: some, hearing it raised, force themselves into mastery — no cudgel turns them, no snare holds them, a stone guardian at the crossroads, nothing but a blockhead — while the true man keeps the idle ground all year, no sages above to long for, no beings below to save; Minshu Ruxiang rules the emperor eyed but did not see the cheek behind, the ancestor's words rang but hid their edge, the middle way open one thread and the sovereign missed it face to face — the empire can be shared out, ranks resigned, bare blades walked, the middle cannot be done; and Jifei Ruyi, picking up the case, finds the Liang sovereign meeting yet not meeting and the first ancestor knowing yet not knowing — two faceless fellows — with knowing the no-sage vastness the sole honor under heaven."
+    }
+  ]
+}

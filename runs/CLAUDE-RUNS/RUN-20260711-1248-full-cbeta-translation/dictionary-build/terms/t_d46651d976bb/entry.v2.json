@@ -1,0 +1,206 @@
+{
+  "Id": "t_d46651d976bb",
+  "SourceTerm": "不遇知音",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:46:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "meeting no one who knows the sound",
+      "AlternateTargets": [
+        "finding no kindred listener",
+        "no hearer who knows the note"
+      ],
+      "SearchAliases": [
+        "the one who knows the sound",
+        "no true listener",
+        "zhiyin allusion"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 156 hits in 93 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0970a02",
+          "ToLb": "0970a20",
+          "Kwic": "丈師拈云路遙知馬力嵗久見人心。舉趙州聞俗行者勘僧云我有十貫錢若有人下得一轉語即捨此錢前後有人下語並不契趙州遂往行者家行者云若下得一轉語即捨其錢趙州戴笠子便行師拈云武帝求仙不得仙王喬端坐却昇天。舉巖頭為渡子時凡見人來舉棹示之忽有一婆子抱一孩子來問云呈橈舞棹即不問且道婆手中孩兒甚處得來嵓頭便打婆云婆生七子不遇知音只者一箇也不消得便拋向水中師拈云欺敵者亾。舉百丈見趙州來㕘百丈云甚處來州云南泉來丈云南泉近日有何言句示徒州云今時人直教悄然去百丈云悄然且致𢗅然一句作麼生道州近前三步百丈咄之州作縮頭勢百丈云大好悄然趙州拂袖便出去師拈云趙州老人向師子窟中換得牙爪。舉小乘毗沙論有一聚落毒龍所居時有五百尊者往彼降他不得後有一",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "commentator",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Zhenjing Kewen owns the retained judgment: the woman bore seven sons, met none who knew the sound, and this last one too was not needed, thrown into the water — and his crack: the despiser of the enemy perishes."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0611a14",
+          "ToLb": "0611a30",
+          "Kwic": "不負來機，未免釘樁搖櫓。善權恁麼道，也是山深日色冷，水闊石頭寒。雲飛洞口勢崔嵬，何事仙郎去不回。回首山前皆豎牧，更無人見碧桃開。雲門偃禪師因僧問：「如何是佛？」門云：「乾矢橛。」只此矢橛，疑殺天下人不少。果是噉龍金翅，自有騰空之快；遂彈蜣螂，無由離地之思。夜靜風清杜宇歌，聲聲只在舊煙蘿。可中無限傷心事，不遇知音恨轉多。雲門上堂：「聞聲悟道，見色明心。」遂舉手云：「觀音菩薩將錢買胡餅。放下手云：『元來卻是饅頭。』」善權不似雲門，畫餅充饑，望梅止渴。有時南贍部洲打鼓，北俱盧洲上堂。有時東勝神洲持缽，西牛賀洲應供。且道與雲門相去幾何？雲簫品出已多情，不落宮商幾解聽。更把胡笳吹一拍，莫將清韻作猿聲。雲門示眾：「世界與",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "commentator",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained verse: asked what a buddha is, Yunmen said a dried dung pellet — this pellet has thrown doubt on no few under heaven; his verse: the cuckoo sings in the night still and wind clear, each cry within the old misty vines; were there not boundless heartbreak, the regret at meeting no one who knows the sound would not run so deep."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0952c17",
+          "ToLb": "0953a12",
+          "Kwic": "。不放不收時，且道是箇甚麼道理聻？高似泰山星斗遶，穩如磐石水來潮。珍重！」下座。空谷道澄禪師語錄卷六嗣法門人德儒編住湖廣荊州府江陵縣祇園萬佛禪林康熙十四年乙卯，師住湖廣荊州府江陵縣祇園萬佛禪林，十月結冬上堂。至座云：「提拏祖師符令，棒棒破皮血滴；撐持佛法權衡，字字剿蹤削跡。蠲滌入我是非，另有一段消息，不遇知音不說破，說破半文錢不值。且道是箇甚麼？半斤作八兩，二五為一十。」陞座，拈香云：「此瓣香，根深盤九有，枝茂透三千，花蕃香法界，果熟饗人天。拈爇爐中，端為祝延當今萬歲萬歲萬萬歲，皇后齊年，太子千秋，滿朝文武，闔國公卿，伏願國富民安，時豐道泰。」次拈香云：「此瓣香，即色即空，若圓若方，中心一顆，正向當陽。拈爇爐",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained maxim: scouring out our right-and-wrong, there is another stretch of news — meet no one who knows the sound, do not speak it; speak it, and it is not worth half a copper coin."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0424c13",
+          "ToLb": "0425a03",
+          "Kwic": "句歸何處？溈方泥壁，乃放下泥槃，呵呵大笑，歸方丈。山曰：某甲三千里賣却布單，特為此事而來，和尚何得相弄？溈喚侍者：取二百錢與這上座去。遂囑云：向後有獨眼龍為子點破在。後聞明招謙和尚出世，徑往禮拜，招問：甚處來？山曰：閩中來。招曰：曾到大溈否？山曰：到。招曰：有何言句？山舉前話，招曰：溈山可謂頭正尾正，祇是不遇知音。山亦不省，復問：忽遇樹倒藤枯，句歸何處？招曰：却使溈山笑轉新。山于言下大悟，乃曰：溈山原來笑裏有刀。遙望禮拜悔過。白雲一片迷幽谷，要把虗空尋面目。逢人點破便知非，翻身跳出野狐窟。舉昔有婆子供養一菴主，經二十年，常令一二八女子送飯給侍。一日，令女子抱定曰：正恁麼時如何？主曰：枯木倚寒巖，三冬無煖氣。女子",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Mingzhao Deqian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian retells the judgment: hearing that Mingzhao Qian had come forth, the monk went straight to bow — asked what Guishan had said, he raised it, and Zhao ruled: Guishan was head straight and tail straight, only he met no one who knew the sound; asked where the words go when the tree falls and the vine dries, Zhao turned it: that makes Guishan's laugh turn new — and at those words the monk woke: Guishan's laugh had a knife in it."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0562a16",
+          "ToLb": "0562b01",
+          "Kwic": "那邊。」云：「那邊事作麼生？」禪客提茶盞。泉云：「此猶是這邊事，那邊事作麼生？」二禪客無對。泉云：「莫道騎者不識好。」頌云：「榮榮春色草依依，老牧橫牛信意騎，堪笑迷途雲水客，異中有路不知歸。」舉巖頭於湖邊作渡子。一日，有婆抱一兒來云：「呈橈舞棹即不問，且道婆手中兒甚處得來？」頭便打。婆云：「婆生七子，六箇不遇知音，秖這一箇也不消得。」便拋向水中。頌云：「七子全拋向碧波，擬思量處更淆訛，時人逐眼清流上，秖見憐兒不見婆。」舉雲門須彌山。頌云：「一念不生全體現，有過無過君自看，直饒五眼也難窺，韶陽托出須彌掩。」舉僧問雲門：「如何是最初一句？」云：「七九六十三。」頌云：「雲門數以便，那用盤打筭？伶俐衲僧家，豈在機下薦",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained verse: seven sons all thrown to the green waves, the more you puzzle the more it tangles — folk follow their eyes on the clear stream and see only the mother pitying the child, never the old woman."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0601a14",
+          "ToLb": "0601a30",
+          "Kwic": "因明肯且拙，方保一生安。」問：「獅子窟中無異獸，如何容得許多外道？」師云：「歸依同一體，存此善陶鎔。」僧問：「臨濟宗旨即不問，如何是善權底奇特句？」師云：「三門騎佛殿。」進云：「恁麼則鯨吞海水盡，露出珊瑚枝？」師云：「如何是汝露出底枝？」進云：「禮拜和尚。」師云：「放汝三十棒。」師問眾云：「婆生七子，六箇不遇知音，只者一箇也不消得，便拋下水中。既遇知音，因甚者箇也不消得？」眾荅不契，自荅云：「知之一字，眾禍之門。」僧問：「倩女離魂，阿那個是真底？」師云：「從來無假，何用問真？」僧問：「虛空為鼓，須彌為椎，誰人打得？」師云：「無手人善打。」僧問：「南山起雲，北山下雨，意旨如何？」師云：「同道者方知。」僧問：「無",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "questioner",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained reversal: the woman bore seven sons, six met no one who knew the sound, and this last one too was not needed, thrown down into the water — having met the one who knows the sound, why is even this one not needed? The assembly failed, and he answered himself: the single word knowing is the gate of a hundred calamities."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0077a07",
+          "ToLb": "0077a20",
+          "Kwic": "無形本寂寥，能為萬象主，不逐四時凋』，大小傅大士不合將常住物華擘私作人情，好與一頓趁出。然雖如是，不因樵子徑，爭到葛洪家？」除夜，小參。以拄杖卓一卓，云：「爆竹一聲乾坤震動，山魈鼠怪何處出頭？因思王老燒錢太煞膽小，可笑北禪分歲自取勾牽，百山非是屈抑先賢，秪為門風各別，汝等諸人莫有成褫者麼？」眾無對，師云：「不遇知音客，徒勞話歲寒。」遂拖拄杖打散。佛涅槃日，薦母，請小參。「機先的旨，岸柳拖金，末後全提，溪桃噴火，此方既爾，他界亦然，不昧高蹤，斬新光彩。故我佛如來昔年棄皇宮，登雪嶺，觀明星悟道，脫母氏艱辛，後來於此日入大涅槃，雙跌示現，轉眼經今千百載，人間猶想舊丰儀。「想即不無，且道：我佛如來即今在什麼處？諸人若識得如",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained year-end line: one firecracker and heaven and earth shake — where will the mountain sprites and rat demons stick out their heads? When none of you can answer, the master rules: with no guest who knows the sound, talking of the year's cold is labor in vain — and he dragged his staff and broke up the sitting."
+        },
+        {
+          "RelPath": "J/J34/J34nB310.xml",
+          "FromLb": "0576a01",
+          "ToLb": "0576a15",
+          "Kwic": "行大闡提道。」僧問：「雪覆千山，因甚麼孤峰不白？」師云：「不可教你討頭不見。」僧問：「空劫中還是佛在法先？法在佛先？」師云：「佛法俱不在先，是汝在先。」云：「若道佛在法先，恁麼時人尚無，阿誰成佛？」師云：「是汝成佛。」云：「若道法在佛先，恁麼時佛尚無，阿誰說法？」師云：「是汝說法。」僧問：「婆生七子，六箇不遇知音，秖者一箇也不消得，便拋向水中，意旨如何？」師云：「我秖生得你者一箇兒，雖不遇知音，怎肯拋向水中？」僧問：「佛未出世時如何？」師云：「遍界不曾藏。」云：「出世後如何？」師云：「大地絕消息。」云：「出與未出時如何？」師云：「賺卻多少人？」僧閱《笑嵒錄》，問：「此是󳬘󳮮甚麼字？」師云：「孔門弟子無人識，碧眼胡",
+          "MasterName": "Yunsou Benzhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunsou Benzhu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded Sayings of Chan Master Yunsou Zhu. Yunsou Benzhu owns the retained answer: asked the point of the woman's drowning line, he answers in her voice — I only got you, this one son; true, you met no one who knows the sound, but how could I throw you into the water?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "J/J37/J37nB392.xml",
+        "J/J39/J39nB471.xml",
+        "X/X72/X72n1437.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB185.xml",
+        "J/J28/J28nB202.xml",
+        "J/J34/J34nB310.xml"
+      ],
+      "RelatedMasters": [
+        "Zhenjing Kewen",
+        "Hansong Zhicao",
+        "Konggu Daocheng",
+        "Yongjue Yuanxian",
+        "Mingzhao Deqian",
+        "Tianyin Yuanxiu",
+        "Fushi Tongxian",
+        "Baichi Xingyuan",
+        "Yunsou Benzhu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Meeting no one who knows the sound: the ferry-woman's drowning line, the emperor's missed exchange, and the halls' maxims on the unhearable — turned by Yunsou into a mother's refusal and priced by Konggu at half a copper coin. Zhenjing Kewen, in the record's raising-the-old-case section: Yantou Quanhuo, after the purge, worked a ferry on the lake; a woman came holding a child and asked — the oar-dance set aside, where did the child in your arms come from? — he struck her, and she said: I bore seven sons, met no one who knew the sound, and this last one too is not needed — and threw him into the water; the master's crack: the despiser of the enemy perishes. Hansong Zhicao, in his raising-and-verse series: Yunmen Wenyan, asked what a buddha is, answered a dried dung pellet — this one pellet has thrown doubt on no few under heaven; a true dragon-devouring garuda has its own sky-splitting swiftness, but the dung-rolling beetle never thinks of leaving the ground — and his verse: the cuckoo sings in the night still and wind clear, each cry within the old misty vines; were there not boundless heartbreak, the regret at meeting no one who knows the sound would not run so deep. Konggu Daocheng, opening the winter binding at the Myriad-Buddha cloister: seize the patriarch's tally and every staff draws blood; hold up the beam of the teaching and every word cuts the trail — scouring out our right-and-wrong there is another stretch of news: meet no one who knows the sound, do not speak it; speak it, and it is not worth half a copper coin — what is it? Half a catty makes eight ounces, two fives make ten. Yongjue Yuanxian, retelling the Guishan story: the monk who had sold his cloth and traveled three thousand li for the laugh heard that Mingzhao Qian had come forth and went straight to bow; asked what Guishan had said, he raised it, and Zhao ruled: Guishan was head straight and tail straight, only he met no one who knew the sound; asked where the words go when the tree falls and the vine dries — that makes Guishan's laugh turn new — and at those words he woke: the laugh had a knife in it; he bowed toward the far mountain and repented. Tianyin Yuanxiu, raising the same ferry case: a woman came with a child in her arms — the oar-dance set aside, where did the child come from? — the master struck, she answered with the drowning line, and his verse: seven sons all thrown to the green waves, the more you puzzle the more it tangles; folk follow their eyes on the clear stream and see only the mother pitying the child, never the old woman. Fushi Tongxian, putting the line to the assembly: the woman bore seven sons, six met no one who knew the sound, and this last one too was not needed, thrown down into the water — having met the one who knows the sound, why is even this one not needed? They could not answer, and he answered himself: the single word knowing is the gate of a hundred calamities. Baichi Xingyuan, at the year-end minor assembly: one firecracker and heaven and earth shake — where will the sprites stick out their heads? He thought on old Wang burning paper, too timid, laughed at Beichan getting dragged into dividing the year — the mountain does not wrong the worthies of old, only the gate-wind differs — is there anyone among you who can deliver? No one answered, and the master ruled: with no guest who knows the sound, talking of the year's cold is labor in vain — and he dragged his staff and broke up the sitting. Yunsou Benzhu, asked the point of the same line, answers in the mother's voice: I only got you, this one son; true, you met no one who knows the sound — but how could I throw you into the water?"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Id": "t_0d3bffba93be",
+  "SourceTerm": "不涉程途",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:39:49Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no crossing by the road's stages",
+      "AlternateTargets": [
+        "without traveling the road",
+        "no stages of road to cross"
+      ],
+      "SearchAliases": [
+        "the pathless arrival",
+        "the road not crossed",
+        "arrival without the journey"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 122 hits in 84 files representing 82 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1338.xml",
+          "FromLb": "0193b20",
+          "ToLb": "0193c08",
+          "Kwic": "錯。師云：不落時機一句作麼生道？僧云：錯。師云：南源錯？上座錯？僧無語，師便打。新藏主到，師問：古人道：三日不相見，莫作舊時看。一夏與藏主隔闊，如今作麼生相看？新云：和尚住持不易。師云：與麼則西祖不傳唐土信，少林謾自立親踈。新云：和尚為什麼却與麼道？師云：南源罪過。問僧：近離什麼處？僧云：日勢稍晚。師云：不涉程途一句作麼生道？僧云：七九六十三。師云：灼然。僧云：氣急殺人。師便打。問僧：上座年多少？僧云：二十六。師云：恰與山僧拄杖同年。僧云：是。師云：你道山僧拄杖年多少？僧無語，師便打。師見僧來，拈起拄杖云：入你鼻孔裏去也。僧云：和尚幸是大人。師云：了。問僧：上座名什麼？僧云：海滿。師云：海無增減，為什麼却滿？僧云：",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "questioner",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1338.xml). Recorded Sayings of Chan Master Shishuang Chuyuan. Shishuang Chuyuan owns the retained test: he asked a monk — newly arrived from where? — the sun is getting low — and pressed on: say the one line of no crossing by the road's stages — the monk: seven nines are sixty-three — 'just so' — 'you take my breath away' — and the master struck him."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0722c28",
+          "ToLb": "0723a22",
+          "Kwic": "傳人。箇中或有知豐知儉知放行知把住底。亦何必分半院與伊住。燒香發願。只圖他早有箇院子住。使嘗些滋味。且免得窮廝煎餓廝炒。上堂云。滿天和氣匝地韶光。柳眼迸開桑條憋破。華枝似錦鳥語如簧。八穴七穿。篆不雕之心印。百頭千緒。演不說之妙門。物物上明頭頭上現。當處截得斷去。死火不重燃。直下信得及去。枯荄生物外。不涉程途則且置。和泥合水一句作麼生道。還家盡是兒孫事。祖父從來不出門。上堂云。韶華二月半。漏逗渾莫算。米少食無鹽。釘菜崖空飯。吞底栗棘蓬。跳底金剛圈。分外展家風。秦時𨍏轢鑽。圓悟佛果禪師語錄卷第二圓悟佛果禪師語錄卷第三宋平江府虎丘山門人紹隆等編上堂三上堂三請首座上堂。合千差包萬有。齊往來印今古。混",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained address: the whole sky mild air, the ground brimming spring light, willow eyes burst open, mulberry twigs split their seams, blossom boughs like brocade, bird talk like reed pipes — the seal uncarved through eight holes, the unspeaking wonder-gate through a hundred heads, a thousand threads; cut it off on the spot and the dead fire does not reignite; trust it outright and the shoots rise beyond the withered roots — no crossing by the road's stages, set that aside: how would you say the mud-and-water line? returning home is all the children's affair — the grandfather never once goes out the gate."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0530b16",
+          "ToLb": "0530b28",
+          "Kwic": "，且未得果子喫在；一人雖太甚，而有過人之志，亦未得果子喫。磬山則不然，待洞山道：『過在什麼處？』但云：『有過無過且置。』隨聲拈起云：『和尚先得了也便喫。』可不有意氣時添意氣，不風流處也風流。」示眾，舉：「琅琊和尚問舉和尚：『近離甚處？』舉云：『兩浙。』『船來？陸來？』云：『船來。』『船在什麼處？』云：『步下不涉程途一句作麼生道？』舉以坐具摵一摵云：『杜撰長老，如麻似粟。』便拂袖而出。瑯琊問侍者：『此是甚麼人？』云：『舉上座。』琅琊遂親下。旦過堂問：『莫是舉上座麼？莫怪適來相觸忤。』舉便喝，復問：『長老何時到汾陽？』琊云：『某時到。』舉云：『我在浙江早聞你名，元來見解只如此，何得名播寰宇？』琅琊遂作禮云：『慧覺罪過。』",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Fahua Quanju",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the raised test: Langye Huijue asked elder Quan — newly arrived from where? — Liangzhe — by boat or by land? — by boat — where is the boat? — on foot below — then say the one line of no crossing by the road's stages — Quan struck his sitting cloth once: hack writers, elders thick as hemp and millet — and swept out his sleeves; Langye asked the attendant who it was, went down himself to the traveler's hall, begged pardon for the offense; Quan shouted, asked when the elder had reached Fenyang — I heard your name in Zhejiang long ago — and your insight turns out to be no more than this — Langye bowed: Huijue's fault."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0700a13",
+          "ToLb": "0700a26",
+          "Kwic": "路。所以德山云：『有言時，踞虎頭，收虎尾，第一句下明宗旨。』秪如這箇句子，若非我同人，如何得通者消息？不知我龍門、顯聖二法兄，從何處放了這毒氣，創發此保社？於屍阤林內掀翻活埋死人；頑石堆頭火葬無依漢子。拈一莖草建立梵王宮殿，入此門限使他頓斷偷心；斲枯木樁示現丈六金身，瞻此影光令彼全機脫穎。不論船來陸來底、不涉程途底，各與三頓了去；佛到、祖到，無可安排中，也要為他處分。」打圓相曰：「向者裏出得身者，始能消我同人毒氣，使我此宗遮天蓋地去也。九萬里鵬從海出，三千年鶴遠空歸。」偕靈巖儲和尚應朱葵石郡侯於真如寺建塔，請上堂。喝一喝曰：「向者裏會得，則許他是箇頂天立地漢子，腳跟下有眼、頂門透尖，迸出胸襟掀翻法界。古佛今佛分座",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained charge: I do not know from where my two fellow heirs of Longmen and Xiansheng let out this poison and founded this refuge — in the charnel ground overturning the live-buried dead, on the rock pile cremating the unsupported men; a single stalk of grass raised into a Brahma-king's palace, and whoever enters this threshold at once cuts the stealing mind; a withered stump carved into a six-foot golden body, and whoever sees that light wholly escapes the sheath — whether they came by boat or by land or by no road's stages at all, each gets his three blows; and when buddha arrives and a founder arrives, in what admits no arranging he too must be given his portion — then the circle drawn: only one who gets his body out through here can digest this poison and make this school cover sky and earth — the ninety-thousand-li roc rises from the sea; the three-thousand-year crane returns far through the sky."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0155c05",
+          "ToLb": "0155c17",
+          "Kwic": "：「燒痕方轉緣。」進云：「恁麼則有意氣時添意氣，不風流處也風流？」師云：「含雨未萋萋。」乃云：「春光曉，聞啼鳥，頭頭明，物物了，就瞥然，無剩少，一躊躇，打之遶，直闖到驢年，不知何日了。春風堆裏謾高眠，梅柳與君通一竅。」遂豎拂子云：「還會麼？」有僧云：「會得。」師云：「瞎。」以拄杖約退。小參，云：「當人個事，不涉程途，不是目前妙理，亦非格外玄符，所以法是常法，道是常道，人是常人，我是常我。恁麼見得，則丁丁超佛越祖，對對絕親滅疏，拈卻當陽一隻眼，笑看楊岐三腳驢。」復舉：「三聖禪師云：『我逢人即出，出則不為人。』興化禪師云：『我逢人即不出，出則便為人。』」師云：「據二大老，一人藏頭露尾，一人藏尾露頭，未免致人不了，多生疑見",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained ruling: the person's own affair crosses no road's stages — it is not the wondrous truth before your eyes, nor a talisman beyond the frame; therefore the law is the constant law, the way the constant way, the person the constant person, the self the constant self — see it so and, blow on blow, you pass beyond buddha and founder, pair by pair, kin and stranger both extinguished; pull off the single eye held up in the open and laugh at Yangqi's three-legged donkey."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0513c02",
+          "ToLb": "0513c17",
+          "Kwic": "。所諭頑鈍下根登之覺路，何過謙耶？正不知應身末世，以王事之靡鹽入坭入水，即門下無動無為澤及蒼生時也，餘惟慈照。復徐孝伯居士復徐孝伯居士來諭云：「尚未知入徑。」但持此心刻刻不忘，或有出路，只要直下識得自心，便無入而不自得，亦無凡無聖、絕死絕生。入徑、出路，向甚麼處著？者事初無期限，所貴大丈夫漢直下一刀兩段，不涉程途耳。如言下瞥然，即親面貧道。復屠禎伯居士復屠禎伯居士接來諭并偈云云，山僧不信有是事。既謂「萬緣本空，一法不有，覿體解脫」矣，何更求解脫？即真空尚不可得，而又有頑空為障，乃至種種惑謬來，總是居士妄想意解為然耳。果見萬緣本空、一法不有，即直下證去，下手去、加功去，舍此則無別參證、無別下手、無別加功。直饒證得",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained letter: your letter says you do not yet know the entry-path — hold this mind unforgetting, moment on moment, and an opening will come: only know your own mind outright, and there is no entering without self-winning, no ordinary, no holy, birth cut off, death cut off — entry-path, way-out: where would you set them? This affair has no deadline from the first; what is prized in a true great man is one straight cut of the knife, no crossing by the road's stages — catch it at a word, and you will face this poor cleric in person."
+        },
+        {
+          "RelPath": "J/J35/J35nB336.xml",
+          "FromLb": "0678b09",
+          "ToLb": "0678b24",
+          "Kwic": "問：「如何是成劫以後底事？」師曰：「龍馬負圖。」拈云：「俱空所答的有本據，但未曉龍馬真形曾親見也麼？聖人心事付全圖，伏羲好手描不出。」頌云：「一畫當先，三點居前，是為龍馬之文章，師拈之以談後天。」西京定國無方可從禪師。示眾：「向上宗乘，本無言說。當人一著，非假外來。直須向自胸襟迸出，偏不附物，正不立玄，不涉程途，方得到家穩坐。不然，你還知九峰不肯首座麼？百丈五百生墮在狐窩麼？金鎞刮膜，擬則成乖，有志此宗，大須審細。珍重！」拈云：「九峰不肯首座，定國信其具眼，誰知更數世下有箇不肖遠孫亦不肯定國？何故？不合把無言說宗乘善巧叨叨。詗上座恁麼判斷，又還尚有不肯者麼？咄！擬則成乖。」頌云：「不涉程途須到家，死蛇觸著禍難賒",
+          "MasterName": "Huigong Kaixiong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huigong Kaixiong",
+              "Roles": [
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Wufang Kecong",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigong Kaixiong of Baoxianglin, Nanhai. The retained section carries the unit twice: Wufang Kecong's address — the upward school-vehicle has fundamentally no words; the person's one move is not borrowed from outside; it must burst from your own breast, leaning on no thing, setting up no dark — no crossing by the road's stages, and only then the steady seat at home — else: do you know Jiufeng's refusal of the seat? Baizhang's five hundred births in the fox den? the gold needle scraping the film — the moment you scheme, it misses; then Huigong Kaixiong's verdict verse: no road's stages — yet you must reach home; touch a dead snake and the trouble runs long."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1338.xml",
+        "T/T47/T47n1997.xml",
+        "J/J25/J25nB171.xml",
+        "J/J25/J25nB174.xml",
+        "J/J26/J26nB178.xml",
+        "J/J26/J26nB183.xml",
+        "J/J35/J35nB336.xml"
+      ],
+      "RelatedMasters": [
+        "Shishuang Chuyuan",
+        "Yuanwu Keqin",
+        "Tianyin Yuanxiu",
+        "Langye Huijue",
+        "Fahua Quanju",
+        "Juelang Daosheng",
+        "Feiyin Tongrong",
+        "Shiqi Tongyun",
+        "Huigong Kaixiong",
+        "Wufang Kecong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "No crossing by the road's stages: the boat underfoot, the grandfather who never leaves the gate, three blows for those who came by no road — arrival without the journey. Shishuang Chuyuan, meeting a fresh arrival: newly come from where? the sun is getting low — then, say the one line of no crossing by the road's stages; the monk: seven nines are sixty-three — just so — you take my breath away — and the master struck him. Yuanwu Keqin, in the hall amid spring light: the seal uncarved through eight holes, the unspeaking wonder-gate through a hundred heads; cut it off on the spot and the dead fire does not reignite; trust it outright and the shoots rise beyond the withered roots — no crossing by the road's stages, set that aside: how would you say the mud-and-water line? returning home is all the children's affair; the grandfather never once goes out the gate. Tianyin Yuanxiu, raising the old test for the assembly: Langye Huijue asked elder Quan — by boat or by land? — by boat — where is the boat? — on foot below — then say the no-road line — Fahua Quanju struck his sitting cloth once: hack writers, elders thick as hemp and millet — and swept out his sleeves; Langye went down to the traveler's hall to beg pardon and got a shout, then heard his own fame priced and bowed: Huijue's fault. Juelang Daosheng, over the funeral refuge his fellow heirs founded: a single stalk of grass raised into a Brahma-king's palace, a withered stump carved into a six-foot golden body — whether they came by boat or by land or by no road's stages at all, each gets his three blows; and when a buddha arrives and a founder arrives, in what admits no arranging he too must be given his portion. Feiyin Tongrong, at the small meeting: the person's own affair crosses no road's stages — not the wondrous truth before your eyes, not a talisman beyond the frame; the law is the constant law, the way the constant way, the person the constant person, the self the constant self — see it so and you pass beyond buddha and founder; pull off the single eye held up in the open and laugh at Yangqi's three-legged donkey. Shiqi Tongyun, writing to the layman who says he has not yet found the entry-path: hold this mind unforgetting and an opening will come — only know your own mind outright, no ordinary, no holy, birth cut off, death cut off; what is prized in a true great man is one straight cut of the knife, no crossing by the road's stages — catch it at a word, and you will face this poor cleric in person. Huigong Kaixiong, keeping his forebear's address and sealing it with a verse: the upward school-vehicle has no words; the person's one move is not borrowed from outside; it must burst from your own breast — no crossing by the road's stages, and only then the steady seat at home; and the verse sets the bar: no road's stages — yet you must reach home; touch a dead snake and the trouble runs long."
+    }
+  ]
+}

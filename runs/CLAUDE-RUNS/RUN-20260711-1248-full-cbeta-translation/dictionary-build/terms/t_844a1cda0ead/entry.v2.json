@@ -1,0 +1,201 @@
+{
+  "Id": "t_844a1cda0ead",
+  "SourceTerm": "不從人得",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:04:55Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "not gotten from another",
+      "AlternateTargets": [
+        "not received from anyone"
+      ],
+      "SearchAliases": [
+        "not received from anyone",
+        "from no one else",
+        "not attained from a person"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 253 hits in 97 files representing 93 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0244c20",
+          "ToLb": "0245a12",
+          "Kwic": "以省宗為巨擘焉。然而三十拄杖，畢竟是阿誰領？南嶽雲峰文悅禪師南嶽雲峰文悅禪師上堂：汝等諸人與麼上來，大似刺腦入膠盆；與麼下去，也是平地喫交。直饒不來不去，朝打三千，暮打八百。寶壽方云：雲峰者漢，如當臺鏡子相似，只會照人，不能照己，殊不知自己未出方丈門時，早已喫交了也。雲峰因僧問：如何是心地法門？峰曰：不從人得。曰：不從人得時如何？峰曰：此去衡陽不遠。徑山杲云：雲門即不然，如何是心地法門？不從人得。不從人得時，如何看脚下？龍華體云：弁山又且不然，如何是心地法門？不從人得。不從人得時如何？困來打眠，饑來喫飯。金明。進云：二老恁麼答話，心地法門何曾夢見？金明則不然，如何是心地法門？不從人得。不從人得時如何？劈脊便",
+          "MasterName": "Yunfeng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfeng",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Yunfeng owns the retained root deployment, answering the mind-gate question with the plain denial."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0813b07",
+          "ToLb": "0813b23",
+          "Kwic": "。國一開鍼見一圓相。遂索筆對智藏。於圓相中點一點。智藏罔措。這箇豈不是格外消息。若作格外商量。又却不是。諸人且作麼生辯明。時中如何受用。適來知縣學士疏中有言。馬師圓相遠緘千里之清規。欽老機鋒點破一時之群惑。群惑既破。則人人脚根下大事洞明。大事既明。則十二時中折旋俯仰彈指謦欬無非佛之妙用。既是佛之妙用。則不從人得。既不從人得。亦不在己躬。既不在己躬。則內不放出外不放入。既外不放入則外息諸緣。內不放出。則內心無喘。既內心無喘外息諸緣。則一切智通無障礙。既無障礙。則一切智智清淨。無二無二分。無別無斷故。正當恁麼時。不是世間法。亦非出世間法。拽取占波國與新羅國鬪額。豈是分外。雖然如是。更有事在。敢問諸人。只如忠國師為",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, arguing that the working of awakened knowing is gotten from no one and lodged in no self."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0597b03",
+          "ToLb": "0597b17",
+          "Kwic": "，且道肯他？不肯他？師云：麻谷遶牀振錫，參禮常儀，為什麼章敬道是，南泉道不是？苦瓠連根苦，甜瓜徹蔕甜。舉：讓和尚遣僧問馬祖云：作麼生？祖云：自從胡亂後，三十年不曾少鹽醬。妙喜云：雲門即不然，夜夢不祥，書門大吉。師云：且道妙喜與馬祖是同是別？如何黑漆屏風上，更寫盧仝月蝕詩？舉僧問雲峯：如何是心地法門？峯云：不從人得。僧云：不從人得時如何？峯云：此去衡陽不遠。妙喜云：雲門即不然。如何是心地法門？不從人得。不從人得時如何？看脚下。師云：或問天寧：如何是心地法門？不從人得。不從人得時如何？早晨有粥，齋時有飯。舉：僧問巖頭：三界競起時如何？頭云：坐却著。僧云：未審師意如何？頭云：移取廬山來，即向汝道。妙喜云：巖頭古佛向萬仞",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-quoter",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, repeating the denial as his own answer and paying it out with porridge in the morning and rice at noon."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0528a27",
+          "ToLb": "0528b10",
+          "Kwic": "教古佛要精修。三生已落王家也，不是溈山怎出頭？」示眾，師云：「今朝七月一，箇事如何說？秋風漸漸來，切莫耽放逸。日月易蹉跎，光陰在瞬息。若不把本參，焉能得竟徹？敢問諸人：臘月三十日到來，作麼生打疊得去？」顧視左右云：「噫！丈夫不奮沖天志，依舊懡㦬過一生。」示眾，舉：「僧問雲峰：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』妙喜云：『雲門即不然。如何是心地法門？不從人得。不從人得時如何？看腳下。』楚石云：『或問天寧：如何是心地法門？不從人得。不從人得時如何？早晨有粥，齋時有飯。』」師云：「諸大老恁麼答話，美則美矣，善則未善。若問磬山：如何是心地法門？不從人得？不從人得時如何",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, judging the elders' answers beautiful but not yet good and turning the same denial to cold and warm known by the drinker."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0336a10",
+          "ToLb": "0336a24",
+          "Kwic": "師云：「山僧尋常說汝等飯也不解喫，且道淆訛在甚麼處？苟知落處，要見他慈受也不難。」示眾。舉：「白雲端和尚云：『若端的得一回汗出，便向一莖草上現瓊樓玉殿；若未端的得一回汗出，縱有瓊樓玉殿，被一莖草蓋卻。』」師云：「大眾！還見白雲和尚落處麼？甜瓜甜兮苦瓠苦。」示眾。舉：「僧問雲峰：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』大慧云：『雲門即不然，如何是心地法門？不從人得。不從人得時如何？但云：看腳下。』」師云：「二老恁麼答話，心地法門何曾夢見？金明則不然，如何是心地法門？不從人得。不從人得時如何？劈脊便棒。」示眾。舉：「僧問投子：『一大藏教還有奇特事也無？』投子云：『演出",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment, ruling that the two elders never dreamed of the mind-ground and answering with a staff across the back."
+        },
+        {
+          "RelPath": "J/J36/J36nB346.xml",
+          "FromLb": "0098a04",
+          "ToLb": "0098a17",
+          "Kwic": "事事實行到底，件件方便周旋，弄巧定然成拙，虛頭詐詭，覷破何顏？硬強不能遷善，噬臍那值半錢？諸人若還不信，請看果報昭然。」重陽，示眾。「九月九日重陽節，金風颯颯飛紅葉，籬菊凌霜吐晚馨，林下禪和甘抱拙。笑他世俗插茱萸，何似蓮華更饒舌？別，別，太湖波底撈明月。」小參。舉：「僧問雲峰：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』大慧云：『雲門即不然，如何是心地法門？不從人得。不從人得時如何？看腳下。』」師云：「二老漢恁麼提持，大似之乎者也，未為直截在。若問蓮華：『如何是心地法門？』『不從人得。』『不從人得時如何？』劈脊便棒，免教伊隨處著倒。」端午，小參。僧問：「如何是蓮華境？」",
+          "MasterName": "Gulin Jiru",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Jiru",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB346.xml). Recorded Sayings of Chan Master Gulin Ru. Gulin Jiru owns the retained deployment, calling the elders' holding-up literary and answering the denial with the staff to keep the asker from settling anywhere."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0002c10",
+          "ToLb": "0002c23",
+          "Kwic": "嘗讀儒書經史，脫塵年晚，又不曾備歷講筵。既然如是，即今出頭來作甚麼？蓋為我幻有老人有不了底公案。且如何是不了底公案？」又呈拂子云：「者便是老人使不了底。於辛亥春二月三日擊鼓集眾，於此堂上付與，悟上座當時堅執不受。既不曾受……」復呈拂子云：「且道即今者個從甚麼處得來？眾中莫有知來處者麼？若也知得，受用無窮，不從人得。所以道：『向上一路繇來千聖不傳，放下便休，是諸人元初本分。』設或未然，且引受戒者向前，為伊付戒。」下座。上堂，舉：「高峰和尚云：『海底泥牛啣月走，巖前石虎抱兒眠，鐵蛇鑽入金剛眼，崑崙騎象鷺鷥牽。』此四句內，有一句能縱、能奪、能殺、能活，簡點得出者參學事畢。」師云：「高峰之句不妨奇怪，只是不經簡點。今日禹門",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, telling the assembly that whoever knows where the whisk comes from has an endless use gotten from no one."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0533a26",
+          "ToLb": "0533b07",
+          "Kwic": "即名佛滅度。』」師云：「不著福智莊嚴，則身清淨；不談禪道佛法，則口清淨；不住靜照覺觀，則意清淨。」復云：「佛聻？切忌話墮。」時。有僧出云：「恁麼則落空了也。」師云：「蒼天，蒼天。」示眾。云：「法法皆備於己，切莫自生欣厭。隨時得座披衣，說甚萬年一念。」喝一喝。復舉：「雲峰因僧問：『如何是心地法門？』峰云：『不從人得。』僧云：『不從人得時如何？』峰云：『此去衡陽不遠。』妙喜云：『雲門即不然。如何是心地法門？不從人得。不從人得時如何？看腳下。』楚石和尚云：『或問天寧：「如何是心地法門？」「不從人得。」「不從人得時如何？」「早晨有粥，齋時有飯。」』」師云：「設有人問山僧：『如何是心地法門？』『不從人得。』『不從人得時如何？』",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained deployment, staging the question for himself before the Lion Grove assembly and answering with the same denial."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X71/X71n1420.xml",
+        "J/J25/J25nB171.xml",
+        "J/J29/J29nB233.xml",
+        "J/J36/J36nB346.xml",
+        "J/J10/J10nA158.xml",
+        "J/J39/J39nB452.xml"
+      ],
+      "RelatedMasters": [
+        "Yunfeng",
+        "Dahui Zonggao",
+        "Chushi Fanqi",
+        "Tianyin Yuanxiu",
+        "Jie'an Jin",
+        "Gulin Jiru",
+        "Miyun Yuanwu",
+        "Lüyan He"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A standing denial that what is asked after is received from no one else, fixed as the classic answer to the question of the mind-ground's gate. Yunfeng answers the monk's question about the mind-ground's gate with the denial itself, Chushi Fanqi re-answers it as Tianning with porridge in the morning and rice at noon, Tianyin Yuanxiu judges the old worthies' answers beautiful but not yet good before giving his Qingshan turn of cold and warm known by the drinker, Jie'an Jin rules that the two elders never dreamed of the mind-ground and answers with a staff across the back, and Gulin Jiru calls their holding-up bookish and answers the same denial with the staff to keep the asker from settling anywhere. Dahui Zonggao reasons in his own hall that once every act is the working of awakening, it is not gotten from another and not lodged in one's own person either, Miyun Yuanwu, holding up the whisk his late teacher could not finish with, tells the assembly that whoever knows where it comes from has a use that is endless and gotten from no one, and Lüyan He, after reciting the elders' chain of answers, sets his own answer to the same question before the assembly of Lion Grove."
+    }
+  ]
+}

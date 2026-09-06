@@ -1,0 +1,201 @@
+{
+  "Id": "t_7b654f35845d",
+  "SourceTerm": "為眾竭力",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:09:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "spending all one's strength for the assembly",
+      "AlternateTargets": [
+        "straining oneself for the assembly"
+      ],
+      "SearchAliases": [
+        "straining for the assembly",
+        "taking the burden for the order",
+        "exerting for the community"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 218 hits in 105 files representing 100 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0740a21",
+          "ToLb": "0740b15",
+          "Kwic": "因而招𢙣果或云行住坐臥著衣喫飯是法身那箇是你四大代云和尚今年年尊。一日云你若辨我我辨你是尋常更有一條作麼生辨代云識或云節角語須是箇人始得作麼生是節角語代云摩斯吒落水。一日云繞天下行脚辨人底人你道具什麼眼代云𦗟水。上堂云遇人即鼻孔遼天便下座代云識好𢙣師或云閙市裏道將一句來代便唱聲云人家莫點燈火。上堂云為眾竭力禍出私門代云眾禍已除或云照盡一句作麼生道代云某甲不欲開蝦蟆口師在餬餅寮喫茶云不向汝道罪過無對復云第一湏忌火便起去代云大眾不得辜負和尚師或云佛法大殺有秖是𬉹瘡痛代云炙瘡痛猶可。一日云臨坑不󰡷人代云也是又云某甲識好𢙣或云古人道舉即易作麼生代云以貌取人。一日云驀點是什麼時節代云不可道是蝦蟇蛤跛或云不是雲門罪",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment, the root couplet itself: straining for the assembly, trouble leaking from the private gate."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0329c17",
+          "ToLb": "0330a08",
+          "Kwic": "。良久，云：山僧倒退三千。上堂：明如鏡，黑如漆，四七二三，多虗少實。靈山拄杖且拈靠壁，何故？免被傍人冷眼看。上堂：非不非，是不是，建立則乖張，掃除則失旨。德山臨際出來，換却髑髏裏底。上堂，舉：盤山道向上一路滑，睦州道壁立千仞險，臨濟道石火電光鈍。師云：三大老眼睛鼻孔不同，心肝五臟相似。靈山雖則無能，拄杖子為眾竭力，却有些子。卓拄杖一下，下座。中夏，上堂：九十日已過半，那事畢竟如何？直饒窮到底，終是涉風波。忽有个衲僧出來道：某甲百不知，百不管，󰕖來開口，睡來合眼，只向他道去。誰信你這齪漢？謝書記藏主上堂，舉：藏主問僧：何不看經？僧云：不識字。主云：何不問人？僧叉手進前云：這箇是什麼字？主無語。師云：不識字却識字",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment: Vulture Peak cannot manage it, so his staff strains for the assembly."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0798a08",
+          "ToLb": "0798a21",
+          "Kwic": "無。』槨示雙趺，愈加一場鈍置，傳播將來，歲歲今朝，謂是涅槃時至。恰值化主殷勤辦供，嚴備香華、燈燭、茶果、珍饈美味，不肖遠孫因風吹火燒牛頭旃檀，五分法身之香熏你鼻孔，使你無處回避。上來與麼哆哆和和，且道：是贊揚？是罵詈？」卓拄杖，云：「諸仁若向者裏薦得，於其中間來去真無礙，卷舒信自繇，玅用縱橫，得大善利。祇如為眾竭力報佛深恩底人，畢竟功歸何所？」卓拄杖，云：「玲瓏八面活潑潑，千古萬古振綱宗。」大悲生日，陞座。「今朝二月十九日，大悲菩薩降生辰，本來玅體無生滅，緣何示現大士身？為憫娑婆諸苦趣，所以分身遍剎塵。紺目澄清香水碧，月眉皎潔海門新。楊柳風清除熱惱，淨缾露冷灑災迍。五濁波中施寶筏，紅塵路上指迷津。塵中能作主，化外自",
+          "MasterName": "Dabian Xianquan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabian Xianquan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Xianquan owns the retained deployment, asking where the merit of the one who strains to repay the buddha's deep grace finally lands."
+        },
+        {
+          "RelPath": "X/X67/X67n1307.xml",
+          "FromLb": "0463b05",
+          "ToLb": "0463b18",
+          "Kwic": "下。此歷日家，上弦下弦。黃蘗舉此示眾，如外科取牙，不犯手勢。睦州󳷺斤邈兩道：猶較些子。谷隱聰云：前來甚是奇特，後來龍頭蛇尾。萬松道：沒量大尊宿，語脉裏轉却。天聖泰云：殺人須見血。萬松道：要且無活人劍。雪竇道：說甚猶較，直是未在。雖道不犯手勢，奈何骨血生離。雪竇趂散便休，也好折折柱杖。又道：或有箇無孔鐵鎚，為眾竭力，善能擔荷。祇園洗足跏趺坐，大地山河鐵打成。孤迥迥，圓陀陀，無棱縫，針劄不入，早是起模畫樣了也。又道：可以籠󰋪古今，乾坤把斷。又驀拈拄杖云：放過一著。萬松道：草本不勞拈出。天童拈云：下媒求鴿，直鈎釣魚。直鈎釣獰龍，曲鈎釣蝦蟆。雪竇覿面全提，猶較華亭百步。他道：垂絲千尺，意在深潭。離鈎三寸，子何不道？萬松嘗舉",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1307.xml). Elder Wansong's Commentary and Chanted Remarks on Master Tiantong Jue's Picking Up Ancient Cases: Record of Requests for Instruction. Xuedou Chongxian owns the retained deployment, lifting a holeless iron hammer that strains for the assembly and shoulders the burden well."
+        },
+        {
+          "RelPath": "X/X69/X69n1369.xml",
+          "FromLb": "0756a06",
+          "ToLb": "0756a21",
+          "Kwic": "自從一見桃花後，直至如今更不疑。玄沙道：諦當甚諦當，敢保老兄未徹在。乃云：一人徹見萬法根源，一人提持千聖頂𩕳。今時箇箇不疑、人人未徹，又爭與古人相見？上堂，舉鹽官示眾：虗空為皷，須彌為椎，甚麼人打得？眾無語。南泉云：我當時若見，只向他道：王老師不打者破鼓。師云：南泉下者一椎不妨正當，惜乎土曠人稀。今朝莫有為眾竭力底麼？上堂：知之一字，眾禍之門。殺人放火，活捉生擒。不是今日樞要，亦非上古典刑。與賊過梯了也，攻牆割壁何人？上堂，舉：鼓山晏國師示眾：鼓山門下不得咳嗽。時有僧咳嗽一聲，山云：作甚麼？僧云：傷風。山云：傷風即得。師云：國師令行，盡大地人亡鋒結舌，爭奈掩者僧口不得。雖然如是，要識者僧麼？不到烏江不肯休。上堂",
+          "MasterName": "Dachuan Puji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dachuan Puji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji owns the retained deployment, asking the hall this very morning for anyone who will strain for the assembly."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0294a18",
+          "ToLb": "0294b09",
+          "Kwic": "唱。坐斷舌頭，一椎兩當。指法座云：須彌燈王面目見在，未善觀瞻，為吾作禮。便陞座。拈香，云：此香恭為祝延今上皇帝聖躬萬歲，萬歲，萬萬歲。次拈香，云：奉為見住保寧禪寺古林大和尚一爐爇却，不圖報德酬恩，只貴𮞏相鈍置。遂就座。無想和尚白椎，云：法筵龍象眾，當觀第一義。師乃顧視大眾，云：只此一會，不異靈山。莫有為眾竭力者麼？僧問：丹山鸞鳳九苞文，地位清高隔五雲。四海具瞻時一見，願聞真唱答。明君。師云：千峯朝華岳，萬派肅滄溟。進云：萬方有道歸。明主，一句無私利有情。師云：黃河九曲，水出崑崙。進云：祝贊已蒙師指示，向上宗乘事若何？師云：眼不見鼻孔。進云：曹溪流，非止水，一滴忽來，千波競起時如何？師云：退後，退後。進云：平生",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the retained deployment: this one session is no different from Vulture Peak — is there anyone who will strain for the assembly?"
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0497a10",
+          "ToLb": "0497b06",
+          "Kwic": "吞卻千山萬山虎顧視左右云釋迦彌勒是汝之奴朝蹋毘盧南嶽遊暮挾舍那天台臥重闍黎莫放過下座上堂問當陽舉示分明石火電光不及和尚還具金剛腦後眼麼師高聲云不具僧無語師叱退問如何是奪人不奪境師驀豎如意進云如何是奪境不奪人師云近前來向汝道進云如何是人境兩俱奪聲未絕師便喝進云如何是人境俱不奪師云禮拜著師廼云昨日職事頭首為眾竭力啟請說法山僧云逢人則出顧視左右云大眾便下座端陽上堂舉天龍為玄沙侍者侍沙山行遇虎龍曰和尚虎沙曰是汝虎師召眾云衲僧行處如火消氷萬法本閒惟人自閙六祖大師云非風旛動仁者心動將謂說心性禪承言者喪滯句者迷舍多尊者云非風鈴鳴我心鳴耳多少人面牆而立心復誰乎俱寂靜故大眾還會麼一物寂靜多物寂靜一身寂靜多身寂靜一世界寂靜多",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: yesterday's officers strained to request the teaching, and his answer goes wherever people are met."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0260b03",
+          "ToLb": "0260b16",
+          "Kwic": "水層層。」復舉：「保壽開堂，三聖推出一僧，壽便打，聖云：『你恁麼為人，不惟瞎卻者僧眼，瞎卻鎮州一城人眼去在。』壽擲下拄杖，歸方丈。者一則話，叢林往往拈提，盡道三聖、保壽共出隻手扶豎臨濟門風，恁麼商量，何殊矮子看戲？殊不知二大老弄巧成拙，敗闕愈多。山僧今日拄杖開封，還有共出隻手扶豎磬山門風者麼？如無，山僧不免為眾竭力去也。」卓拄杖，喝一喝，下座。安職事，上堂。「四祖縫衣後，靈蹤護有神，道場千古舊，法席幾番新？愧我非時出，諸賢共挽臨，今朝安職事，位位信天真。且道作麼生是天真底消息聻？」良久，云：「釋迦坐禪，彌勒煮飯，觀音種菜，普賢搬柴，只有憍陳如尊者冷冰冰地長年打坐，山僧看見便去罵他：『今日安眾職事了也，你為什麼不去隨",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: with no hand to shore up the gate, he unseals his staff and takes the assembly's strain himself."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X70/X70n1386.xml",
+        "J/J29/J29nB248.xml",
+        "X/X67/X67n1307.xml",
+        "X/X69/X69n1369.xml",
+        "X/X71/X71n1414.xml",
+        "B/B27/B27n0152.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Shitian Faxun",
+        "Dabian Xianquan",
+        "Xuedou Chongxian",
+        "Wansong Xingxiu",
+        "Dachuan Puji",
+        "Liao'an Qingyu",
+        "Yulin Tongxiu",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Yunmen's warning line for all who drain their strength on the assembly, quoted, summoned, and shifted onto staves for six centuries. Yunmen Wenyan's own hall saying fixes the line — strain for the assembly and trouble leaks from the private gate — with the record's stand-in answer, all troubles already removed; Dachuan Puji summons anyone who will strain for the assembly this very morning; Liao'an Qingyu, fresh on the seat at Kaifu, grants the session is no different from Vulture Peak and asks the hall for the one who will strain; and Yulin Tongxiu credits yesterday's officers and chiefs, whose strained request brought the teaching seat, answering wherever people are met. Shitian Faxun, summing three old masters whose eyes differ while their innards match, grants that Vulture Peak cannot manage it but his staff strains for the assembly, raps it once, and steps down; Xuedou Chongxian, quoted in Wansong's case-three commentary, lifts a holeless iron hammer that strains and shoulders the burden well; Dabian Xianquan, at the Nirvana-day feast for the alms-collector, asks where the merit of the one who strains to repay the buddha's deep grace finally lands, answering with the eight-faced ringing stone; and Yunwai Xingze, after the Sansheng and Baoshou stand-out-monk case, finds no hand to shore up the gate, unseals his staff, and takes the strain himself."
+    }
+  ]
+}

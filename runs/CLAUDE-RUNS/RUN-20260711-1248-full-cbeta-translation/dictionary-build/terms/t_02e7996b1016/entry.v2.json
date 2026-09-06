@@ -1,0 +1,177 @@
+{
+  "Id": "t_02e7996b1016",
+  "SourceTerm": "常在途中",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:38:40Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "always on the road",
+      "AlternateTargets": [
+        "ever on the way"
+      ],
+      "SearchAliases": [
+        "always in transit",
+        "never off the road",
+        "constantly afoot"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 53 hits in 40 files representing 40 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0335a05",
+          "ToLb": "0335a18",
+          "Kwic": "等夢中身。」無改優婆夷請上堂。「三冬無煖氣，止水不藏龍，一語具三玄，瓊花開碓觜。所以有時恁麼、有時不恁麼，有時恁麼中不恁麼、有時不恁麼中卻恁麼，有如是操略，得如是自在，乃能東湧西沒，纖毫無改，出生入死，隨地稱尊。且道：正當恁麼時如何？山盡疑無路，谿回別有村。」出郡歸，晚參。舉：「臨濟大師示眾，云：『有一人常在途中，不離家舍；有一人常在家舍，不離途中。且道：那箇合受人天供養？』大慧云：『賊身已露。』」師云：「山僧出郡數日便不在家，你們終日在家便不曾出路，作麼生說箇常在途中、不離家舍底意旨？」眾下語不契，師云：「山僧為汝拈出。一句定綱宗，須是大慧老漢；一語分玄要，還他臨濟大師。且道：翠巖又作麼生？」擊香几，云：「單重",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. The root deployment — one person always on the road, never leaving home; one always at home, never leaving the road: which deserves the offerings? and the thief's body already bared."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0634a09",
+          "ToLb": "0634a22",
+          "Kwic": "指野雲忙。」至湖州永豐菴，請上堂。「江城二月柳煙新，幽鳥枝頭笑語頻，好箇圓通門大啟，知音不必更叮嚀。到者裏，不許思量，那容計較？若是頂門眼開、腳下線斷，自然翻身北斗、轉步南辰，眉毛掛劍、銀漢乘槎，處處興無緣之慈、時時作不請之友，奇特中現大奇特、殊勝裏為大殊勝，直教佛祖無處摸索，凡情豈能測度？雖然，更有一人常在途中不離家舍，不離家舍常在途中，且道誰是其人？」顧左右，喝一喝，下座。至晟溪利濟寺，請上堂。「大道懸曠，體絕修證。性海湛寂，不立纖塵。那畔承當，守株待兔。言前領荷，緣木求魚。直須掀翻鳥道，迥絕階梯。截斷要津，不通凡聖。正謂別人行處我不行，別人住處我不住。到與麼田地，一任奪猛虎食，抉驪龍珠。黑暗獄中，敲枷打鎖。餓",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. The retained deployment — the swords hung at the eyebrows and the ferry across the Silver River, then: and yet one more person, always on the road, never leaving home — name him."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0451c10",
+          "ToLb": "0451c26",
+          "Kwic": "，澆散胸中磊塊著。」辭眾茶話：「山僧今晚借龍泉一杯茶與大眾告別。當知山僧來也不曾出博山、去也不曾離鼓山。紛紛盡是拖泥水、動念無端滯往還，總是情關不破、識浪難乾，所以把手忍分、判袂愁訣，當知道人分上不然。不見進山主云：『來來實不來，途中好善為；去去實不去，路上莫虧危。』若知得山主底意，便知誾上座不離丈室，常在途中；不離途中，常居丈室。還委麼？月印千江曾未往，鏡含十剎豈云來？」杭州虎跑語錄杭州虎跑語錄崇禎丙子春，太守岳衡山、司李黃海岸、榷關馮際明、錢塘邑侯劉鹿鰲、臬幕吳赤城、中丞余集生、中丞洪清遠、憲副錢從卓、大參翁水因、司理許瑤房、中翰周朗垣、鹺伯李仲休、劉績菴、柴文伯、嚴印持、鄒孟陽、秦心卿、沈時可、嚴忍公、",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. The retained deployment — coming, coming, truly not coming; going, going, truly not going; and the seat never out of the room yet always on the road, the moon printing a thousand rivers and never going."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0745c28",
+          "ToLb": "0746a12",
+          "Kwic": "相到。拄杖子把住，則盡十方世界風匝匝地、水洩不通；拄杖子放行，則大地春回、十洲花發，無影樹覆蔭天下，不萌枝果熟三千。且道拄杖子承誰恩力？有如是奇特、有如是威神。」良久，復卓一下，曰：「自古上賢猶不識，造次凡夫那得明？」小參。「雪峰三登投子，九上洞山。資福望見剎竿便回去。走殺天下人，不離家舍；坐殺天下人，常在途中。山僧當時若見，總與三十棒。不見道：雲雷相送。」解制，上堂。「九十日前，山僧有一句子在諸人腳跟下滴水滴凍，諸人抵死要道，直得額頭汗出、口裏膠生，只是道不著。九十日後，諸人有一句子在山僧拄杖頭上，今日特為汝等拈出，儘教三十年後天下人道山僧教壞人家男女，不肯因時轉變，必須待價而沽。沽不沽？趙州東壁挂葫蘆，大的",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. The retained deployment — the walkers run the world to death and never leave home; the sitters sit the world to death and are always on the road; thirty blows for the lot."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0365a28",
+          "ToLb": "0365b12",
+          "Kwic": "萬頃之空闊，默時說，說時默，大施門開無擁塞，一一從胸襟流出，與我蓋天蓋地去在。雖然如是舉揚，也是謗他不少，何故？鳳棲不在梧桐樹，碧落寒潭寫影長。」解制，上堂。「霜凝水凍，當時結也；日暖風和，而今解也。所謂時節若至，其理自彰。秖如道：太陽門下，日日三秋；明月堂前，時時九夏。還知得者箇消息麼？知得者箇消息，常在途中，不離家舍；常居家舍，不離途中。三條椽下即是百城煙水，擔囊負缽豈殊疊足蒲團？如是，則結也如是，解也亦如是。若不如是，雲自帝鄉去，水從江漢流。」華嚴期滿散，上堂。「一切菩薩初從有為法而入無為地，復不住無為地而示現諸神變，作諸種種如夢、如幻、如化、如影三昧，度脫夢、幻、化、影之眾生，而實無滅度者。此龍牙雲叟和",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. The retained deployment — know this news and the three rafters overhead are the hundred cities' waters, the shoulder-bag and bowl no different from feet folded on the cushion."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0380a24",
+          "ToLb": "0380c06",
+          "Kwic": "據款結案一句？撾鼓陞堂放爾曹，棒頭劈脊與攔腰。他年變化龍門上，記取來時路一條。」下座，以拄杖直打出院。辭院，陞座。「道人行履，如鶴如雲，要住即住，欲行便行。其住也，有松可餐、有澗可飲、有葉可書、有石可坐；其行也，有笠可頂、有雲可披、有山可觀、有水可翫。敢問大眾：且道行住相去多少？倘若會得便會，不離家舍，常在途中；常在途中，不離家舍。苟或未能，兩隻草鞋獰似虎，一枝竹杖活如龍。」以杖橫肩，下座。東山梅溪度禪師語錄卷第一終東山梅溪度禪師語錄卷第二嗣法門人慶緒等編上堂二上堂二康熙壬子二月初一，受威武守禦所美升趙護法暨紳衿眾居士等請，就關聖祠結制上堂。師以杖指法座云：「這",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. The retained deployment — pines to eat and ravines to drink in the staying, a hat to wear and clouds to drape in the going; and if not got: two straw sandals fierce as a tiger, one bamboo staff alive as a dragon."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB208.xml",
+        "J/J36/J36nB359.xml",
+        "J/J27/J27nB198.xml",
+        "J/J36/J36nB362.xml",
+        "J/J37/J37nB386.xml",
+        "J/J39/J39nB447.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Dahui Zonggao",
+        "Guxue Zhenzhe",
+        "Baiyu Jingsi",
+        "Yingshan Zhiyin",
+        "Guantao Daqi",
+        "Xuefeng Yicun",
+        "Yuan'an Liao",
+        "Meixi Fudu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A traveler's stance — always on the road — set at the root by Linji over who deserves the offerings, and walked, blown, and beaten through hall addresses, farewell teas, and mountain gates from the Ming retreats to the Qing hermitages. The root sits in Linji Yixuan's own instruction, raised in the Guxue Zhe record: one person always on the road, never leaving home; one person always at home, never leaving the road — which of the two deserves the offerings of gods and men? and Dahui's cry: the thief's body already bared; Baiyu Jingsi, at the Yongfeng hermitage hall, brings the pair down past the buddhas' groping: brow-eye open and the thread underfoot snapped, tipping the Dipper, stepping round the Southern Star, swords hung at the eyebrows, the ferry ridden across the Silver River — and yet one more person: always on the road, never leaving home; never leaving home, always on the road — name him; a look right and left, a shout, the seat left empty; and Yingshan Zhiyin, at the farewell tea before the assembly: this monk coming never left Boshan, going never left Gushan — the dragging-through-mud crowd, feelings unbroken, consciousness-waves undried, gripped and parted, grieving the parting — has no one seen the entering mountain lord: coming, coming, truly not coming — travel well on the road; going, going, truly not going — come to no harm on the way; know the lord's meaning and you know this seat of mine: never out of the ten-foot room, yet always on the road; never off the road, yet always in the room — the moon prints a thousand rivers and never went; the mirror holds ten lands and never came. Guantao Daqi, at the small assembly, walks the old pilgrims through it: Xuefeng three times up Touzi, nine times up Dongshan; Zifu saw the pole-tip from afar and turned straight back — the walkers run the world to death and never leave home; the sitters sit the world to death and are always on the road; had this monk been there — thirty blows for the lot; have you not heard: cloud and thunder escort; Yuan'an Liao, closing the retreat: frost congealed, water frozen — then it knotted; sun warm, wind mild — now it loosens; know this news and you are always on the road, never leaving home; always at home, never leaving the road — the three rafters overhead are the hundred cities' waters, shoulder-bag and bowl no different from feet folded on the cushion — so the knitting was thus, and the loosening thus; not thus, and the cloud goes home to the emperor's city, the water runs off the Jiang and the Han; and Meixi Fudu, leaving the monastery, mounts the seat: the walker's bearing is like a crane, like a cloud — to stay is to stay, to go is to go; staying: pines to eat, ravines to drink, leaves to write on, stones to sit on; going: a hat to wear, clouds to drape, hills to watch, waters to play over — tell me, how far apart are walking and staying?; get it and you get it: never leaving home, always on the road; always on the road, never leaving home — and if not: two straw sandals fierce as a tiger, one bamboo staff alive as a dragon — the staff across the shoulder, down from the seat."
+    }
+  ]
+}

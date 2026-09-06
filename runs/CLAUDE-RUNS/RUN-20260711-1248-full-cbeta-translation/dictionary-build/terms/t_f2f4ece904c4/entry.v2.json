@@ -1,0 +1,208 @@
+{
+  "Id": "t_f2f4ece904c4",
+  "SourceTerm": "非耳目之所到",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:15:31Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "not something ears and eyes can reach",
+      "AlternateTargets": [
+        "beyond the reach of hearing and sight",
+        "what ear and eye cannot arrive at"
+      ],
+      "SearchAliases": [
+        "beyond ear and eye",
+        "out of hearing and sight's reach",
+        "the unreachable present",
+        "past the senses' arrival"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 152 hits in 89 files representing 86 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0008a13",
+          "ToLb": "0008b01",
+          "Kwic": "請。上堂拈拄杖示眾云。好諸禪德。衲僧家拄杖子。靜也在人人之後。動也在人人之前。都緣不涉兩頭。所以能應諸變。諸仁者且道。應諸變時。作何面目。還會麼。虎踞龍盤勢未休。雲影山形冷相向。陳謝罷復舉。夾山示眾云。老僧於古路頭。置箇選場。若是孤進者即放過。若是其中人即別有一路。闍梨目前無法。意在目前。他不是目前法。非耳目之所到。師云。夾山可謂。買賤賣貴。變生造熟。祇在面前。還會麼。水向竹邊流出綠。風從花裏過來香。辭眾上堂云。來也恁麼來。去也恁麼去。白雲送我出山。明月隨人過渡。其間針線細微。不是尋常莽鹵。可謂行人到家。少子就父。偏圓混處。須知不帶諸緣。岐路轉時。會要密移一步。明明了了。是歸家底人。青青照照。是到家底處。諸人",
+          "MasterName": "Jiashan Shanhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Jiashan Shanhui owns the retained deployment: the testing-ground at the old road — it is not a present teaching, not something ears and eyes can reach."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0474a02",
+          "ToLb": "0474a16",
+          "Kwic": "勝中殊勝。且道古德恁麼道，意在於何？一點水墨，兩處成龍。師到徑山，請僧問：不落因果，因甚墮野狐？師云：渠儂得自由。進云：不昧因果，因甚脫野狐？師云：渠儂得自由。進云：古人錯答一轉語，墮野狐身。轉轉不錯時如何？師云：野狐精。乃云：相逢不拈出，未免顢頇；舉意便知有，已落第二。目前無法，意在目前，不是目前法，非耳目之所到。鬼家活計，恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。草繩自縛，恁麼也得，不恁麼也得，恁麼不恁麼總得。狐狸渡水，有甚快活？須參活句，莫參死句。活句下薦得，永劫不忘；死句下薦得，自救不了。且一大藏教諸子百家庭前柏樹子、麻三斤、乾屎橛盡是死句，作麼生是活句？良久，云：若是鳳凰兒，不向那邊討。出隊歸，云：七手",
+          "MasterName": "Fozhao Deguang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fozhao Deguang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Fozhao Deguang owns the retained deployment: the formula bound to the donkey-tether stake and split from the live sentence — the phoenix chick does not seek it over there."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0209a17",
+          "ToLb": "0209b08",
+          "Kwic": "。又有道：參禪須參活句，莫參死句。活句下薦得，堪與人天為師；死句下薦得，自救不了。臨濟大師云：我者裏是活祖師意。所以三度問佛法的的大意，三度被打如蒿枝拂相似。若不參活句，焉能如此？古人與麼，如今即不然，死句即是活句，活句即是死句。其活也，羅籠不肯住，呼喚不迴頭，古聖不安排，至今無處所；其死也，不是目前法，非耳目之所到，百草頭上薦取老僧，閙市裏識取自己，靈源明皎潔，枝派暗流注。喝一喝，云：明眼衲僧會不得。上堂：竪四橫三，拈一放七。掣電奔雷，崩崖裂石。稽首金剛神，盡力道不出。因甚如此？識法者懼。達磨祖師忌，拈香云：來不本分來，去不本分去，兩手揑空拳，開口落第二。咄！咄！咄！力圍希熊耳，峰頭花開鐵樹。上堂：如來禪、祖師",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: in its death it is not a present teaching, not something ears and eyes can reach — pick up the old monk on the hundred-grass tips."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0555a13",
+          "ToLb": "0555b03",
+          "Kwic": "紅尾；一聲霹𮦷，要看攫霧拏雲。隨時有卷有舒，覿體無新無舊，光揚法社，輔弼宗門，高蹈世表，下視塵窟，總是當人受用處。還委悉麼？龍袖拂開全體現，象王行處絕狐蹤。上堂：驢事未去，馬事到來。猫兒上露柱，鐵鋸舞三臺。大唐天子呵呵笑，移取眉毛眼下栽。上堂。目前無法，毛毿毿地；意在目前，風颯颯地。不是目前法，平坦坦地；非耳目之所到，黑漆漆地。上是天，下是地，靈利衲僧不瞥地。既是靈利衲僧，因什麼不瞥地？只為分明極，翻令所得遲。施主入山，上堂。僧問：具足凡夫法，凡夫不知時如何？師云：純鋼打就。進云：具足聖人法，為什麼聖人不會？師云：生鐵鑄成。進云：聖人若會即是凡夫，且道會個什麼？師云：寸釘入木。進云：凡夫若知即是聖人，未審知個什麼？",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: not something ears and eyes can reach — pitch black; the clever patch-robed one still does not glimpse it."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0313a05",
+          "ToLb": "0313a18",
+          "Kwic": "，為諸人說安居法。好大眾！香煙起處，燈燭交輝；法鼓鳴時，人天普集。便爾散去，含元殿上覔甚長安古佛堂前？此時參畢，更待說佛、說祖，舉古、舉今，堅守蠟人如鵝護雪，大似屈辱諸人，直饒捩轉面皮、伸出毛手，打破野狐窟宅、掀翻荊棘叢林，也是舍己從人、斬頭覔活，恁麼也不得、不恁麼也不得，目前無法，意在目前，不是目前法，非耳目之所到。喝一喝，云：還知落處麼？臨濟大師道：我此一喝如金剛王寶劍、我此一喝如踞地師子、我此一喝如探竿影草、我此一喝不作一喝用，聖凡情盡、能所俱忘，拈一莖草作丈六金身、將丈六金身作一莖草，與麼也得、不與麼也得。敢問大眾：適間為什麼不得？如今為什麼却得？得不得、是不是，差之毫𨤲失千里，歸雲誰使就青山？落花自得隨流水。",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the retained deployment: this way and that way both refused, the formula chanted, and a shout — do you know the landing place?"
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0133a25",
+          "ToLb": "0133b07",
+          "Kwic": "師乃云：「動轉施為只是者個，不識者個當面蹉過。今日檢點將來，猶是貼肉破襖，縱饒迴光返照轉入轉深，深而為妙，妙而為玄，玄而為要，玄路金鎖關何日得脫了。所以船子和尚問夾山禪師云：『大德住甚寺？』夾山云：『寺即不住，住即不似。』船子云：『不似似個甚麼？』夾山云：『不是目前法。』船子云：『何處學得來？』夾山云：『非耳目之所到。』船子云：『一句合頭語，萬劫繫驢橛。』據非耳目之所到，便是萬劫繫驢橛，且道如何得透脫去？」遂拍香几喝一喝，下座。臘八上堂，僧問：「盡力道不出底句即不問，如何是無舌人之語？」師云：「蘇嚕蘇嚕。」僧云：「摩訶摩訶。」師云：「暗裏畫符誰信你。」僧便喝，師云：「且道是甚意旨？」僧擬議，師亦喝，乃云：「釋迦老子初降",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Chuanzi Decheng",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: judged by not-something-ears-and-eyes-can-reach, it is exactly the ten-thousand-kalpa donkey-tethering stake — how do you slip free?"
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0626b24",
+          "ToLb": "0626c07",
+          "Kwic": "不離菩提覺場；語默施為，總是般若玅用。翠竹恒露法身，黃花全彰祖意。絡緯籬邊，夜織無絲之絹；蟾蜍天際，常轉不退之輪。石女挑蜀錦，不藉功勳；木童唱吳歌，渾超音律。非見聞之可到，豈意解之能通？天然尊貴，迥出常情。大眾還會麼？禮之用，和為貴，先王之道斯為美。」至獅子林，請上堂。「目前無法，意在目前，不是目前法，非耳目之所到。夾山大似拈一放一。怎如青龍渡練州涉羅溪。昨在臥石菴中，今到獅子林裏。沿途而來，只見白雲澹泞、秋水澂渟，蘆花與明月交輝、丹楓共落霞爭錦，木樨香透山谷鼻孔、芙蓉笑破迦葉容顏。若是箇漢，正好騎聲蓋色，罩古籠今，傾湫倒嶽，雨施雲興。直下似箇獅子兒，吒沙哮吼一聲，野獸潛跡、飛禽亂墜。正恁麼時，直饒佛祖，不敢近傍，更",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: not something ears and eyes can reach — Jiashan picks up one, puts down one; how compare with Azure Dragon ferrying Lianzhou?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "X/X68/X68n1318.xml",
+        "X/X71/X71n1412.xml",
+        "X/X71/X71n1420.xml",
+        "X/X71/X71n1414.xml",
+        "J/J26/J26nB178.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Jiashan Shanhui",
+        "Hongzhi Zhengjue",
+        "Fozhao Deguang",
+        "Gulin Qingmao",
+        "Chushi Fanqi",
+        "Liao'an Qingyu",
+        "Feiyin Tongrong",
+        "Chuanzi Decheng",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Not something ears and eyes can reach — the closing clause of Jiashan's formula for what stands present, chanted down nine centuries and then put to work: tethering stake, live sentence, hundred-grass tips. The origin. Jiashan Shanhui announces to the assembly: this old monk has set a testing-ground at the old road's head — the lone advancer I let pass; the one who belongs to it has another road apart. Worthy, there is no teaching present; the meaning is present. It is not a present teaching — not something ears and eyes can reach. Hongzhi Zhengjue, raising it: Jiashan can be said to buy cheap and sell dear, ripen the raw into the cooked — it is only right in front of the face. Do you understand? The water flows green past the bamboo's edge; the wind comes fragrant through the flowers. Fozhao Deguang, at the Jing temple: meeting without lifting it out is muddle-headed all the same; raising a thought and already knowing it has fallen to the second place. No teaching present, the meaning present; not a present teaching — not something ears and eyes can reach. The ghost family's stock-in-trade: this way won't do, that way won't do, both this-way and that-way altogether won't do — a straw rope self-tied; this way will do, that way will do, both altogether will do — the fox crossing water: what joy is in it? You must take up the live sentence, not the dead sentence. Found under the live sentence, it is not forgotten for a myriad kalpas; found under the dead sentence, you cannot even save yourself. And the whole great storehouse with its hundred schools — the cypress tree in the yard, three pounds of hemp, a dried shit-stick — are all dead sentences. What is the live one? A long moment: the phoenix chick does not seek it over there. And Gulin Qingmao, on the live and dead sentence: in its aliveness no cage will hold it and no call turns its head — the old sages did not arrange it, and to this day it has no fixed place; in its death it is not a present teaching, not something ears and eyes can reach — pick up the old monk on the hundred-grass tips, know yourself in the busy market: the numinous source shines clear and bright, the branch streams flow on in the dark. A shout: the bright-eyed patch-robed one does not understand. Chushi Fanqi gives it four earthy refrains: no teaching present — shaggy-furred; the meaning present — wind-soughing; not a present teaching — flat and even; not something ears and eyes can reach — pitch black. Above is heaven, below is earth, and the clever patch-robed one still does not glimpse it. Since he is clever, why not? Only because it is distinct to the extreme, the winning of it is late. And Liao'an Qingyu, opening the retreat at Jiahe: say buddha, say patriarch, raise old, raise now, guarding the wax figure like a goose on snow — that would be an insult to you all; even if you twist your face around and stretch out a hairy hand, break open the wild-fox den and overturn the bramble forest — it is still abandoning yourself to follow another, cutting off the head to seek life. This way won't do, that way won't do; no teaching present, the meaning present; not a present teaching — not something ears and eyes can reach. A shout: do you know the landing place? Master Linji said: this shout is a vajra-king sword; this shout is a crouching lion; this shout is a probe-pole and shadow grass; this shout does not work as one shout — sage and common feeling spent, grasped and grasping both forgotten. Feiyin Tongrong raises the boat where it was first spoken: Chuanzi Decheng asks Jiashan — worthy, what temple do you dwell in? A temple I do not dwell in; dwelling would not be like. Not like — like what? Not a present teaching. Where did you learn that? Not something ears and eyes can reach. Chuanzi: one line of a fixed phrase — a stake that ties donkeys for ten thousand kalpas. Rules Feiyin: judged by not-something-ears-and-eyes-can-reach, it is exactly the donkey-tethering stake — so tell me, how do you slip free of it? He slaps the incense table, shouts once, and descends. And Baiyu Jingsi, invited to the hall at Lion Grove: no teaching present, the meaning present; not a present teaching — not something ears and eyes can reach. Jiashan greatly resembles picking up one and putting down one. How compare with Azure Dragon ferrying Lianzhou and fording Luo Creek — yesterday in the Reclining-Stone hut, today inside Lion Grove: all along the road, only white clouds mild and still, autumn water clear and settled, reed flowers shining together with the bright moon, red maples contending in brocade with the sunset glow, cassia scent soaking through Mountain-Valley's nostrils, hibiscus laughing open Kasyapa's face. For one who is such a fellow, it is just the time to ride sound and cover color, canopy the ancients and cage the present, tip out the deep pool and topple the peaks, rain bestowing and clouds rising."
+    }
+  ]
+}

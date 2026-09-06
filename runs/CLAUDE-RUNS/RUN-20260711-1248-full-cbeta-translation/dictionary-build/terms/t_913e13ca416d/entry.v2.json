@@ -1,0 +1,136 @@
+{
+  "Id": "t_913e13ca416d",
+  "SourceTerm": "見見之時，見非是見，見猶離見，見不能及",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T12:35:47Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when seeing sees, the seeing is not the seeing; the seeing yet leaves the seeing, and the seeing cannot reach it",
+      "AlternateTargets": [
+        "seeing sees — and that seeing is no seeing; seeing even departs from seeing, which seeing can never reach"
+      ],
+      "SearchAliases": [
+        "the seeing ladder of the sutra",
+        "when seeing sees the seeing is not the seeing",
+        "the seeing that cannot reach",
+        "the great Gautama scratching where it does not itch",
+        "Lingyun alone the author"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 67 hits in 59 files representing 59 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB194.xml",
+          "FromLb": "0330c12",
+          "ToLb": "0331a05",
+          "Kwic": "泉三不是不是心兮不是佛，不是物兮是甚麼？到頭山月落前溪，天將夫子為木鐸。外道問佛有無春適晴明曝曬宜，皎然灼破野狐機，荊門雁去三千里，羸鶴翩翩舞落暉。不起一念須彌山四衢道杳何條直，眼底風煙各見招，弗起一絲猶是弊，天長海闊路迢遙。風旛話盲龜跛鱉解逃禪，漁父舟頭爭論便，停棹漫將輕註腳，沙寒無地可鑽研。見見之時，見非是見，見猶離見，見不能及。見不及處見何賒，滿園競放桃李花，當風卓出眼中屑，獨許靈雲是作家。臨濟叱三聖瞎驢擬將一語定乾坤，撞著瞎驢折半觔，公有幾多正法眼，滅吾宗者是其人。三聖透網金鱗涌身將謂騰霄漢，一躍胡為陷阱中，再擬風雲相送去，水乾波盡困泥融。楊岐僧問：「少林面壁意旨如何？」岐云：「西天人不會唐言。」客無買賣日如愚，自",
+          "MasterName": "Zhangxue Tongzui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhangxue Tongzui",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB194.xml). Recorded Sayings of Chan Master Xuezui of Zhaojue. Zhangxue Tongzui owns the retained verse: where the seeing cannot reach, what is seeing owed? The whole garden puts forth peach and plum; the wind picks the speck from the eye — Lingyun alone the author."
+        },
+        {
+          "RelPath": "J/J36/J36nB363.xml",
+          "FromLb": "0788c03",
+          "ToLb": "0788c17",
+          "Kwic": "且不動鋒鋩，坐致太平一句又作麼生？域中日月縱橫挂，一亙晴空萬古輝。」復舉高峰海底泥牛語，師云：「妙老祇解步步登高，不解從空放下。雙林即不然，饑喫飯、渴飲泉、寒向火、倦打眠，內有一句有權、有實，有照、有用，檢點得出，不惟三聚週隆，亦與高氏沙彌把手共行，黃面瞿曇同一鼻；其或未然，少間登壇，志心諦聽。」晚參。「見見之時，見非是見，見猶離見，見不能及。大小瞿曇抓頭不知癢處。」至節，晚參。「灰飛律管陽初復，天子南郊大有年。雲物交章饒瑞氣，聲光浩浩慶堯天。」上堂。舉：「金峰從志禪師，因僧問訊次，乃把住曰：『輒不得向人道，我有一則因緣舉似你。』僧作聽勢，峰與一掌。僧曰：『為甚麼打某甲？』峰曰：『我要話行。』」師云：「得之於心，伊蘭作栴檀之香；失之於旨，甘露",
+          "MasterName": "Wenmu Nian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wenmu Nian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded Sayings of Chan Master Wenmunian. Wenmu Nian owns the retained comment: the ladder quoted whole, then — the great Gautama, he says, scratching his head where it does not itch."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0693b24",
+          "ToLb": "0693c08",
+          "Kwic": "』此是人間之通玄峰頂，非不是人問之通玄峰頂。不是人間之通玄峰頂，畢竟是何人得到？擬心早已落平地。」卓拄杖，云：「迥絕扳躋秪是他。」上堂。問：「通玄峰頂是何面目？」師云：「若有面目，則非通玄。」曰：「何以廬山有真面目乎？」師曰：「汝身在此山中耶？」乃云：「若有一人發真歸元，十方虛空悉皆銷殞，不是通玄面目；見見之時，見非是見，見猶離見，見不能及，亦不是通玄面目；一切智智清淨，無二無分，無別無斷，亦不是通玄面目；扇子𨁝跳上三十三天，築著帝釋鼻孔，東海鯉魚打一棒，雨似盆傾，亦不是通玄面目；觀世音菩薩將錢買胡餅，放下手來卻是饅頭，亦不是通玄面目。若然者，則通玄之面目畢竟不可得而見也。秪者畢竟不可得見底，莫便是否？」隨呵呵大笑，曰：「通玄非面目，面目非",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shanzan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained refusal run: the source-returner's sky-shattering — not the height's face; the ladder itself — not the height's face; the all-knowing knowing pure, without two or division — not the height's face either. The clause stops before the printed rare-graph jest that follows."
+        },
+        {
+          "RelPath": "J/J37/J37nB402.xml",
+          "FromLb": "0788c05",
+          "ToLb": "0788c28",
+          "Kwic": "兒。屠刀擲下萬機忘，壁立靈山選佛場，一句迥超千聖外，眉端燦爛玉毫長。若能轉物，即同如來。若能轉物即如來，千聖頂𩕳眼豁開，拈起須彌藏芥子，全身赤灑玉珠回。七處徵心。吹毛割開鐵網，突出天外之天，徵散多聞無一物，北斗夜夜面南看。八還辯見。不見明珠不走盤，瞿曇狼籍在西乾，個中消息無還處，鼻孔何曾失半邊。見見之時，見非是見，見猶離見，見不能及。空劫圓明本寂然，殊形劣相鑑無偏，山河大地渾如故，莫分梵語及唐言。見非見，徹底圓，到頭無義無文字，百千三昧一毫端。達磨大師初至金陵見武帝。覿面當機絕覆藏，廓然無聖對君王，只因辜負東君意，兩腳蘆花默渡江。覓心了不可得。覓心不得安心竟，穿著惺惺日正中，大抵少林深種毒，兒孫匝地布春風。六祖。石墜腰間與麼",
+          "MasterName": "Fazhu Haidong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fazhu Haidong",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB402.xml). Recorded Sayings of Chan Master Fazhudong of Pufeng. Fazhu Haidong owns the retained pair: the empty-kalpa round-bright of itself still, hills and rivers whole as ever — no sorting the Buddha tongue from the Tang tongue; the seeing that is not seeing, rounded to the bottom, ends no-meaning, no-words, the hundred thousand steadinesses on one hair-tip."
+        },
+        {
+          "RelPath": "J/J39/J39nB460.xml",
+          "FromLb": "0743b10",
+          "ToLb": "0743b26",
+          "Kwic": "文殊請佛再轉法輪，佛言：『吾住世四十九年，未曾說著一字。』」拈云：「文殊逆風張旛，世尊見孔著楔，這兩箇漢雖然一賓一主顯露當陽，未免傍觀者哂。」舉：「殃拙魔羅托缽，至一長者家，值產難因緣。」拈云：「世尊應病與藥，長者拋磚得玉，尊者傳言送語，打失眉毛。還會麼？白雲原是無心物，卻遇清風出洞來。」舉：「經云：『見見之時，見非是見，見猶離見，見不能及。』」拈云：「見非是見，空花陽燄；見猶離見，霹靂閃電；見不能及，土中洗泥。還知世尊落處麼？覓火和煙得，擔泉帶月歸。」天衣舉《金剛經》云：「若見諸相非相，即見如來。」法眼云：「若見諸相非相，即不見如來。」拈云：「風來樹響，水長船高。」舉：「達磨初至梁國，武帝問：『朕造寺度僧，有何功德？』祖曰：『實無功德。",
+          "MasterName": "Huizhou Hao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huizhou Hao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB460.xml). Recorded Sayings of Chan Master Huizhou Hao of Wanshan, Luanzhou. Huizhou Hao owns the retained grading: the seeing that is not the seeing — empty flowers and sun-mirage; the seeing yet leaving the seeing — thunderbolt lightning; the seeing that cannot reach — mud washed inside the earth; the landing place — fire fetched with its smoke, the spring carried home with the moon."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J27/J27nB194.xml",
+        "J/J36/J36nB363.xml",
+        "J/J37/J37nB394.xml",
+        "J/J37/J37nB402.xml",
+        "J/J39/J39nB460.xml"
+      ],
+      "RelatedMasters": [
+        "Zhangxue Tongzui",
+        "Wenmu Nian",
+        "Yi'an Shanzan",
+        "Fazhu Haidong",
+        "Huizhou Hao"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The seeing ladder of the Chan records, borrowed whole from the sutra: seeing sees and the seeing is not the seeing, the seeing yet leaves the seeing, and the seeing cannot reach — the rungs masters grade as empty flowers, lightning, and mud washed in earth. Zhangxue Tongzui sets the ladder as his case and verses it: where the seeing cannot reach, what is seeing owed? The whole garden puts forth its peach and plum at once; the wind picks the speck from the eye — Lingyun alone he allows for an author, Wenmu Nian brings it to the evening gathering: the ladder rung by rung — and the great Gautama, he says, scratching his head where it does not itch, Yi'an Shanzan runs it through his height address: the one who returns to the source shatters the ten-direction sky — not the height's face; the ladder itself — not the height's face; the all-knowing knowing pure, without two, without division, without break — not the height's face either. Fazhu Haidong pairs his verse on the ladder: the empty-kalpa round-bright of itself still, the lesser and the lesser-wrought mirrored without bias, hills and rivers and the great earth whole as ever — no sorting the Buddha tongue from the Tang tongue; the seeing that is not seeing, rounded to the bottom, ends in no-meaning and no-words, the hundred thousand steadinesses on one hair-tip, Huizhou Hao raises the line and takes its rungs one by one: the seeing that is not the seeing — empty flowers and sun-mirage; the seeing yet leaving the seeing — thunderbolt lightning; the seeing that cannot reach — mud washed inside the earth. Do you know where the World-Honored lands? Fire fetched with the smoke still on it; the spring carried home with the moon in it."
+    }
+  ]
+}

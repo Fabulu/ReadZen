@@ -1,0 +1,197 @@
+{
+  "Id": "t_67cb04b184b0",
+  "SourceTerm": "放去收來",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:00:26Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "release and gather",
+      "AlternateTargets": [
+        "letting go and taking back",
+        "send out and draw in"
+      ],
+      "SearchAliases": [
+        "the two-way play of the working hand",
+        "released and gathered",
+        "free release and retrieval"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 126 hits in 81 files representing 81 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB128.xml",
+          "FromLb": "0347b26",
+          "ToLb": "0348a23",
+          "Kwic": "加鞭。從來劣性難調制，猶得山童盡力牽。受制受制普明禪師頌受制第三漸調漸伏息奔馳，渡水穿雲步步隨。手把芒繩無少緩，牧童終日自忘疲。迴首迴首普明禪師頌迴首第四日久功深始轉頭，顛狂心力漸調柔。山童未肯全相許，猶把芒繩且繫留。馴伏馴伏普明禪師頌馴伏第五綠楊陰下古溪邊，放去收來得自然。日暮碧雲芳草地，牧童歸去不須牽。無礙無礙普明禪師頌無礙第六露地安眠意自如，不勞鞭策永無拘。山童穩坐青松下，一曲昇平樂有餘。任運任運普明禪師頌任運第七柳岸春波夕照中，淡煙芳草綠茸茸。饑餐渴飲隨時過，石上山童睡正濃。相忘相忘普明禪師頌相忘第八白牛常在白雲",
+          "MasterName": "Dengjue Puming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dengjue Puming",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB128.xml). Verses on the Oxherding Pictures by Chan Master Puming. Dengjue Puming owns the retained verse: under the green willow shade by the old stream — released it goes, gathered it comes, all of itself; dusk on the fragrant grass under blue clouds, and the herdboy goes home with no rope needed."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0154c07",
+          "ToLb": "0154c14",
+          "Kwic": "謂之一代時教。這僧拈來問云。如何是一代時教。雲門何不與他紛紛解說。却向他道箇對一說。雲門尋常一句中。須具三句。謂之函蓋乾坤句。隨波逐浪句。截斷眾流句。放去收來。自然奇特。如斬釘截鐵。教人義解卜度他底不得。一大藏教。只消三箇字。四方八面。無爾穿鑿處。人多錯會。却道對一時機宜之事。故說。又道森羅及萬象。皆是一法",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained gloss: in his ordinary single line Yunmen must hold the three phrases — the phrase that canopies heaven and earth, the phrase that follows the wave, the phrase that cuts the stream — release and gather, strange and singular of itself, like nail-cutting iron, leaving the word-spinners no way to second-guess: the whole storehouse takes only three words, and nowhere top or bottom can you drill."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0763a08",
+          "ToLb": "0763a22",
+          "Kwic": "：踏毗盧頂上行，說甚麼十身調御？既知假立對待之說，便當知曰佛、曰法、曰眾生、曰國土，俱從無依建立。是故臨濟和尚云：無依道人是諸佛之母，佛從無依生。若悟無依，佛亦無得。所謂一剎那間遊履三眼國土，入諸佛世界、入眾生世界、入諸魔世界，乃至徧入一切真俗淨穢等法界，而不著不礙者，總是自己無依道人翫弄神變，遊戲三昧，放去收來，得大自在處也。因甚近時諸人拋却自己神通妙用，却乃波波地向心外求佛，心外求法？外求有相佛，與你不相似，心外本無法，求者轉非真。何況拖箇死屍上人門戶，求語言，求知解，以為參學？苦哉！屈哉！祖師萬不得已，向你道：參須真參，悟須實悟，閻羅大王不怕多語。此乃望你離却語言文字、知見解會，扣己自參，以求自悟。你既不肯",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained ruling: in one thought-moment to walk the three-eyed lands, entering the worlds of buddhas, of beings, of demons, down through every pure and defiled realm, unattached and unblocked — that is the unshackled one playing his transformations, releasing and gathering, the place of the great freedom — so why do people lately throw away their own wondrous working and run outward hunting buddha and teaching?"
+        },
+        {
+          "RelPath": "X/X71/X71n1413.xml",
+          "FromLb": "0269a13",
+          "ToLb": "0269b05",
+          "Kwic": "尚加敬，意根夙習何由除。空花無根擬結果，分摘句讀開胷愚。晚生學道貴勉勵，赤水有底宜尋珠。須臾還復高人去，將止小兒啼不住。珍藏主求珍藏主求道人姑蘇來，何時離浮佛？相見情黯然，不語坐兀兀。良久乃舒顏，脫却胷中物。胷中之物既已無，真金百煉經紅爐。龍門萬仞忌點額，虎穴一探空於菟。楊岐之驢三隻脚，騰踏乾坤誇作略。放去收來百艸頭，竪四橫三搆不著。須臾別我歸何處？袖帋欲書長短句。短也長也宜自看，是也非也河沙數。贈鄭拱之贈鄭拱之拱之昔在姑蘇時，聲名落落人共推。危言鯁論比先哲，有如脫頴囊中錐。拱之自別姑蘇後，月曉星殘幾回首。萬里雲開俊翮高，一聲雷震奔鯨吼。人生獨立世所難，臨風起我空三嘆。謀踈計拙不自揆，背名好德徒相殘。西風葉",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1413.xml). Supplementary Gathas and Verses of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained verse: Yangqi's donkey with its three legs treads the quarters boasting its reach — release and gather on the hundred-grass tips, vertical fours and horizontal threes, and you still cannot pin it down; in a moment you leave me for where? — a sleeve of paper for a long line and a short: look at them yourself — the long and the short, the right and the wrong, as many as the sands."
+        },
+        {
+          "RelPath": "J/J28/J28nB213.xml",
+          "FromLb": "0514c21",
+          "ToLb": "0515a18",
+          "Kwic": "清如鏡。婆子燒菴三冬寒氣少，九夏熱偏多，若是英靈者，臨機不放過。覿面呈，會也麼？令人特地笑呵呵。香嚴上樹當陽曲為示全提，箇樣婆心恐墮迷，欲使諸人明祖意，虎公早已識機倪。牧牛頌未牧狂劣知渠任性𡀱，溪山望轉路迢遙，頑皮未獲應難制，奔逐恐教觸犯苗。初調纔拽回頭把鼻穿，顛狂恨欲痛加鞭，牧童不顧渾泥水，放去收來信手牽。受制識得分明秪這頭，從前惡性漸調柔，王家水草都無犯，步步隨教得自由。馴伏春芳踏遍古溪邊，信伏於今始貼然，一任東西忘管待，夕陽影裏得安眠。無礙頭角崢嶸意自如，隨情任運不相拘，一聲哮吼佳山外，萬疊爭看興有餘。任運縱步雲間萬頃秋，牧童睡熟枕荒丘，浩然不禁煙霞骨，出沒溪山任自由。相忘蕭然絕跡",
+          "MasterName": "Zhiyan Xiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhiyan Xiu",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB213.xml). Recorded Sayings of Chan Master Zhiyan Xiu. Zhiyan Xiu owns the retained verse: only now dragged round, the nose pierced through; the wild one would flog and spur — the herdboy heeds neither mud nor water, and release and gather, leads it with an easy hand."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0337b09",
+          "ToLb": "0337b21",
+          "Kwic": "任他桑田變滄海。偈曰：儒童昨日寄麒麟，越過雲關宇宙新，佛照圓明能破暗，他年忠孝獨超群。且道不屬陰陽一句作麼生道？能為萬象主，不逐四時凋，數聲清磬是非外，一個閒人天地間。」天中節，上堂。僧問：「如何是第一要？」師云：「拍手呵呵笑。」進云：「如何是第二要？」師云：「凡聖同一竅。」進云：「如何是第三要？」師云：「放去收來秖自照。」乃云：「今日天中節，千妖百怪任欣悅，看來多少老古錐，都將寶劍當頭截，唯有山僧不恁麼，任他鼓舞任他悅。何也？見怪不怪，其怪自壞。」豎拂，云：「切莫眼花。」復一喝：「但自無心於萬物，何妨萬物常圍繞？」上堂。師至座前，震威一喝：「者一喝，非有非無，莫自糊塗；非色非空，法法流通；非出非入，隨方應物；非內非",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "respondent",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained answer: what is the third essential? — release and gather, illumining only itself; and the address that follows: today the midyear festival — a thousand imps may make merry; the old awls are all cut off at the head by the sword, but this mountain monk is not so — let them drum and be glad — see the strangeness as no strangeness, and the strangeness dies of itself."
+        },
+        {
+          "RelPath": "J/J34/J34nB306.xml",
+          "FromLb": "0412c08",
+          "ToLb": "0412c21",
+          "Kwic": "非屬造作。乘時有卷有舒，應用無偏無黨，光明燦爛，一眾咸知。且覿體荷擔如何展托？」揮拂子，云：「打開無相毘盧印，千聖齊教列下風。」復舉：「阿難問迦葉尊者云：『世尊傳金縷袈裟外，別傳個甚麼？』迦葉召阿難，阿難應諾，迦葉云：『倒卻門前剎竿著。』」師云：「一呼一諾，密度金針；倒卻剎竿，暗穿玉線。如水入水，似金博金，放去收來，毫無異相。正當今日，不添一縷，不減一絲，當陽揭露，更不囊藏。設有人問：『金縷袈裟外，別傳個什麼？』但道：『秪這是。』何故聻？一會靈山，儼然未散。」上堂。「喝下奔流度刃，著忙作麼？棒頭疾燄趨風，只在這裏。有水到渠成之用，自能平地涌波瀾；具風行草偃之機，何必虛空抽閃電？雖然，照用齊行，要且人境不奪。若要扶樹",
+          "MasterName": "Neishao Zhizhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Neishao Zhizhong",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. Neishao Zhizhong owns the retained comment over the toppled banner-pole: one call, one answer — the golden needle passed in the dark; the pole toppled — the jade thread threaded through it; like water entering water, gold traded for gold — release and gather with not one different mark; today it adds no thread and loses no thread, bared in the open, no longer pouch-hidden — and if someone asks what was transmitted beside the gold-threaded robe, just say: this very is — why? the assembly at Vulture Peak has not yet dispersed."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0327b26",
+          "ToLb": "0327c08",
+          "Kwic": "立春。」僧云：「向來凡聖交參，魚龍混雜，畢竟有幾個知恩？」師云：「巢知風。」僧云：「秪如有一人招之不來，麾之不去，和尚又作麼生？」師云：「穴知雨。」僧云：「恁麼則春風動地，萬彙承恩去也。」師云：「另道一句看。」僧便喝，師云：「秪這一喝。」僧云：「將謂別有那？」師云：「更須珍重。」乃云：「綱宗舉起，眾目齊彰，放去收來，四楞榻地，有權有實，有照有用，若也委悉，便知我為法王，於法自在。然而廚庫空疏，別無長物，秪有一件陳年腐爛底東西，今日拈來，卻好斬新條令。」驀豎拄杖，云：「見麼？一枝梅破臘，萬象悉回春。」下座。元旦上堂。祝聖畢，僧問：「元正啟祚，無物不新，請問如何是新年頭佛法？」師云：「康熙立極。」僧云：「恁麼則春風吹",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie'an Jin. Jie'an Jin owns the retained address: the guiding charter raised, all eyes see it plain — release and gather, planted four-square to the ground, with the provisional and the real, the shining and the working — grasp this through and you know me as king of the teaching, free in the teaching; and yet the kitchen and storehouse are bare — one piece of rotten old stuff, fetched out today to mint a brand-new decree."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB128.xml",
+        "T/T48/T48n2003.xml",
+        "X/X70/X70n1403.xml",
+        "X/X71/X71n1413.xml",
+        "J/J28/J28nB213.xml",
+        "J/J32/J32nB276.xml",
+        "J/J34/J34nB306.xml",
+        "J/J29/J29nB233.xml"
+      ],
+      "RelatedMasters": [
+        "Dengjue Puming",
+        "Yuanwu Keqin",
+        "Tianru Weize",
+        "Gulin Qingmao",
+        "Zhiyan Xiu",
+        "Buhui Fatong",
+        "Neishao Zhizhong",
+        "Jie'an Jin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Release and gather: the tamed ox under the green willows, Deshan turning back at the gate, the unshackled one roaming every world — one two-way working that no vertical four or horizontal three can pin. Dengjue Puming, in the ox-tending series at the fifth picture: green willow shade by the old stream — released it goes, gathered it comes, all of itself; dusk on the fragrant grass under blue clouds, the herdboy home with no rope needed. Yuanwu Keqin, glossing Yunmen's paired-with-one answer: the monk fished up the question — what is the whole age's teaching? — and Yunmen, who might have unwound it for him thread by thread, told him only: paired-with-one, say; in his ordinary single line, the master rules, he must hold the three phrases — the phrase that canopies heaven and earth, the phrase that follows the wave, the phrase that cuts the stream — release and gather, strange and singular of itself, like nail-cutting iron, leaving the word-spinners no way to second-guess: the whole storehouse takes only three words, and nowhere top or bottom can you drill. Tianru Weize, in the hall: since you know the talk of paired stand-ins is provisionally set up, know that buddha, teaching, beings, and lands are all built on what leans on nothing — the unshackled one is the mother of the buddhas; in one thought-moment to walk the three-eyed lands, entering buddha-worlds, being-worlds, demon-worlds, down through every pure and defiled realm, unattached and unblocked — the unshackled one playing his transformations, releasing and gathering, the place of the great freedom — why then do people throw away their own wondrous working and run outward hunting? Gulin Qingmao, seeing the store-keeper off: the pearl in the breast surrendered, true gold a hundred times through the red furnace; the dragon gate ten thousand fathoms — mind the brow; the tiger cave once plundered — an empty tiger; Yangqi's donkey with its three legs treads the quarters boasting its reach — release and gather on the hundred-grass tips, and pinning fails. Zhiyan Xiu, rhyming Puming's ox-verses at the second picture: only now dragged round, the nose pierced through, the wild one would flog and spur — the herdboy heeds neither mud nor water, release and gather, leads it with an easy hand. Buhui Fatong, at the midyear festival: what is the first essential? a clap of the hands and a laugh; the second? the common and the holy share one socket; the third? release and gather, illumining only itself — and the address: let the thousand imps make merry, the old awls are cut off at the head by the sword; this mountain monk is not so — see the strangeness as no strangeness and it dies of itself; mind you are not seeing double. Neishao Zhizhong, raising the robe-transmission: Ananda asked what besides the gold-threaded robe was transmitted; Kasyapa called, Ananda answered, and Kasyapa said — topple the banner-pole before the gate: one call, one answer, the golden needle passed in the dark; the pole toppled, the jade thread threaded through — water into water, gold traded for gold, release and gather with not one different mark; adds no thread, loses no thread; the assembly at Vulture Peak has not yet dispersed. Jie'an Jin, planting the charter: the guiding charter raised, all eyes see it plain — release and gather, planted four-square, provisional and real, shining and working — grasp it through and you know me as king of the teaching, free in the teaching; yet the kitchen is bare — one piece of rotten old stuff, fetched out to mint a brand-new decree: see? one plum-branch breaks the twelfth moon, and the ten-thousand shapes turn back to spring."
+    }
+  ]
+}

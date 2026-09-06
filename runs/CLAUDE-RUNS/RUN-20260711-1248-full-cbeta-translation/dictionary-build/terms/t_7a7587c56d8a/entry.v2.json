@@ -1,0 +1,215 @@
+{
+  "Id": "t_7a7587c56d8a",
+  "SourceTerm": "生也不道，死也不道",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:35:23Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "alive I will not say; dead I will not say",
+      "AlternateTargets": [
+        "living — no telling; dead — no telling"
+      ],
+      "SearchAliases": [
+        "neither living nor dying will I say",
+        "no saying of living or dying",
+        "alive not said, dead not said"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 77 hits in 53 files representing 51 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0132b02",
+          "ToLb": "0132b21",
+          "Kwic": "：猶有依倚在。直得頭尾相稱時如何？霜曰：渠不作個解會，亦未許渠在。福善品云：既是頭尾相稱，為甚麼亦不許渠在？幾多人到者裏，一似遇著鐵壁。宗門拈古彚集卷第二十二宗門拈古彚集卷第二十三古杭白巖嗣祖沙門淨符彚集△青四潭州漸源仲興禪師潭州漸源仲興禪師侍道吾至檀越家弔慰，源拊棺問：生耶？死耶？吾曰：生也不道，死也不道。曰：為什麼不道？吾曰：不道，不道。回至中路，源曰：和尚今日須與某甲道，若不道，打和尚去也。吾曰：打即任打，道即不道。源便打，歸院。吾令去，後有省。值吾化去，乃造石霜，舉此話請益。霜曰：不見道，生也不道，死也不道。源大悟。雲居元云：石霜矢上加尖，喚醒千個漸源，也無用處。當初待伊舉了，痛棒打出，非唯作天下宗",
+          "MasterName": "Daowu Yuanzhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daowu Yuanzhi",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Qingzhu",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The root deployment — the coffin asked alive or dead, the refusal given twice, the blow taken, and after the master's death the repetition that woke the mourner."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0520a16",
+          "ToLb": "0520a28",
+          "Kwic": "飯漢。』果然！果然！這僧不惟孤負灌溪垂訓，亦負雲門指點。若是伶俐衲僧，在二大老處達其端倪，便是一生參學事畢。今日還有知音者救得此僧麼？老僧為你證據。」良久云：「更聆一頌：『當場體用得全機，著著分明何更疑？只為從前都學解，到頭難做克家兒。』」示眾，舉：「漸源同道吾去弔慰次，源乃拊棺云：『生耶死耶。』吾云：『生也不道，死也不道。』源云：『為甚不道？』吾云：『不道，不道。』回至中路，源云：『和尚快與某甲道，若不道，打和尚去也。』吾云：『打即任打，道即不道。』源便打。吾歸院云：『汝宜離此去，恐知事得知不便。』道吾遷化後，源至石霜，舉前話請益，霜云：『生也不道，死也不道。』源云：『為甚不道？』霜云：『不道，不道。』源於言下有省。」師云：",
+          "MasterName": "Shishuang Qingzhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Qingzhu",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Daowu Yuanzhi",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. The retained deployment — the refusal given whole again from the dead teacher's seat, and the waking at those very words."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0599a23",
+          "ToLb": "0599b12",
+          "Kwic": "半晦；不昧與不落，兩頭空索索。五百生前箇野狐，而今冷地謾追呼。喝一喝，云：座中既有江南客，休向樽前唱鷓鴣。師云：這箇公案批判者多，盡向不落不昧上妄生卜度，未有一箇格外提持，帶累百丈老人也在野狐隊裏。天寧不是釘樁搖櫓、膠柱調絃？海枯終見底，人死脚皮穿。舉：道吾與漸源至一家吊慰，源拊棺云：生耶？死耶？吾云：生也不道，死也不道。源云：為什麼不道？吾云：不道，不道。回至中路，源云：和尚快與某甲道，若不道，打和尚去。吾云：打即任打，道即不道。妙喜云：生也不道，死也不道，公案兩重，一狀領到，露刃吹毛，截斷綱要，脫却鶻臭衫，拈却炙脂帽，大坐當軒氣皓皓。喝一喝，師云：生耶？死耶？動念即乖。不道，不道，何處尋討？拽脫鼻孔，打破髑髏，腰纏十萬",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Daowu Yuanzhi",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. The retained deployment — two cases, one indictment served: the bared blade biting wind, the falcon-stinking shirt stripped, sitting vast with breath white on white."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0025c18",
+          "ToLb": "0026a01",
+          "Kwic": "信之法，難解難入。諸佛同證，諸祖行履，誠不可得而思議，不得已而形諸言語。我母大人嚴若秋霜，和似春風，吐氣猶虹蜺，雙睛若閃電，一怒如雷霆，汎愛如時雨。這又是子稱父德，識者所鄙。即今頂相圓明，神光萬里，法爾如然，元非修契，更有一般杜禪和擔板漢，畢竟向這裏要說箇本命元辰，歸根之地，分秦別楚，指東劃西。老僧這裏，生也不道，死也不道，請益亦不道，打老僧去亦不道。則如沿街唱道情，當門念寶號，直得左不得、右不得，分別不得、意想不得，兩相鈍置，分疏不下。到這裏，罷罷罷，休休休，龍飛鳳舞錢塘。柳洲亭地湧金牛，九里松風天竺路，兩峰雲綻，雷峰落照，湖心亭新月如鉤，十里荷花爛熳紅，畫舫笙歌十二時。別有采蓮舟，得休休便且休休，不風流處也風流。唱箇",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. The retained deployment — the refusal doubled past instruction and past the beating, and the telling left to street-ballad singers and gate-door chanters."
+        },
+        {
+          "RelPath": "X/X72/X72n1439.xml",
+          "FromLb": "0616b14",
+          "ToLb": "0616c04",
+          "Kwic": "，何得有死？既有死，生無生矣。死若是實，何得有生？既有生，死無死矣。生無生、死無死，金剛正體覿露堂堂，于其中間求其起滅，如栽兔角于馬頭、刮龜毛于蛇背，焉有恁麼事？祇如太恭人即今承佛光明，全體顯現，歷歷孤明，聽山僧說法底，且道是箇什麼？良久，云：昔日，漸源侍道吾至一檀越家弔慰，源撫棺問曰：生耶？死耶？吾云：生也不道，死也不道。源云：為什麼不道？吾云：不道，不道。源不領。一日，聞童子誦觀音經云：應以比丘身得度，即現比丘身。豁然大悟。太恭人還委悉麼？生也不道，死也不道，夜半石人無影像，縱橫那辨往來源？應以比丘身得度，即現比丘身，龍吟霧起，虎嘯風生，祇如所現底身出沒隱顯，還有生死也無？乃云：不道，不道。伏惟珍重。陳子度文學薦妣張",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Daowu Yuanzhi",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1439.xml). Chan Master Weilin Daopei’s Fragrant Meal Record. The retained deployment — the case raised whole to the coffin, then the refusal given again in his own mouth: the stone man at midnight casts no shadow."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0148a16",
+          "ToLb": "0148a29",
+          "Kwic": "人能見。」進云：「脫體無依向，甚麼處出沒？」師云：「好個消息。」進云：「識得個中端的意，十方世界現全身。」師云：「如何是個中意？」僧喝，師云：「者一喝落在甚麼處？」進云：「證明不妨。」師云：「證明你鼓粥飯氣。」乃云：「生從何來，突出難辨，死從何去，逼塞虛空，生本無生，兩重公案，死本無死，公案兩重，故古人云：生也不道，死也不道。」遂以拄杖卓一卓，云：「已故長源翁覺靈，就向者裏透脫分曉，便知本命元辰落處。既知本命元辰落處，自信有物先天地，無形本寂寥，能為萬象主，不逐四時凋。此個風光無限普，人間天上任安閒，更有溈山禪師云：『有句無句，如藤倚樹，癩馬繫枯樁，長年塞斷路。樹倒藤枯，句歸何處，斫卻月中桂，清光應更多。』者兩則語在，會衲僧",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. The retained deployment — the living never lived, the dead never died, the elders' refusal recited over it, and the staff knocked once for the departed one's clearing."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0198a25",
+          "ToLb": "0198b13",
+          "Kwic": "實。」又卓一卓云：「餘二則非真。」為雲心參頭火為雲心參頭火「曾經千槌萬煆，而今爐鞴俱銷。衲僧別無奇特，臨行撒手逍遙。」擲火炬云：「山僧從來無妙訣，一把枯柴萬事消。」為歸仁禪人火為歸仁禪人火「生不涉，死無干，那事須知總一般。」擲火炬云：「索性與汝重道破，火裡圓光君自看。」為宗聞禪人封龕為宗聞禪人封龕「生也不道，死也不道。生死兩關，如鳥出巢，海闊天高任鳥飛。」掩龕云：「這裡不得錯過好。錯過且置，且道這裡是甚麼所在？」良久云：「了。」又舉火又舉火父母未生前，衲僧舌頭遍大千；父母已生後，阿誰不具窮相手。拈卻前後這些些，從教火裡翻觔斗。翻觔斗，蘇州有兮常州有。還有一句臨行語，途中緊絆草鞋走。為靈源菜頭火為靈源菜頭火「天台出",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. The retained deployment — the refusal sung at the lid-laying: the two gates of living and dying a bird leaving the nest, and after the long stillness, done."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "J/J25/J25nB171.xml",
+        "X/X71/X71n1420.xml",
+        "J/J27/J27nB189.xml",
+        "X/X72/X72n1439.xml",
+        "J/J26/J26nB178.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Daowu Yuanzhi",
+        "Shishuang Qingzhu",
+        "Tianyin Yuanxiu",
+        "Dahui Zonggao",
+        "Chushi Fanqi",
+        "Sanyi Mingyu",
+        "Weilin Daopei",
+        "Feiyin Tongrong",
+        "Daxiu Zhu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A coffin-side refusal — alive I will not say; dead I will not say — held at the root through a beaten master, repeated from a dead teacher's seat, rolled into a verse indictment, and sung at coffin-sealings from the Tang funeral to the Qing torch. The root sits in Daowu Yuanzhi's own answer at the coffin, carried in the school-gate case compilation: the attendant taps the patron's coffin — alive? dead? — and the master: alive I will not say, dead I will not say; why not say? not saying, not saying; at the road's middle the demand — say it today, or I beat the master — beat away; saying I will not; the blow falls, and the master sends him off for his own safety; after the master's death the attendant carries the exchange to Shishuang, and the answer comes back the old man's own — have you not seen the saying: alive I will not say, dead I will not say — and he wakes; Shishuang Qingzhu, holding the dead master's seat at the request for instruction, gives the refusal whole again, carried in the Tianyin record's raising: alive I will not say, dead I will not say; why not? not saying, not saying — and at those words the mourner wakes once more; Dahui Zonggao's verse, raised inside Chushi Fanqi's old-case raising, rolls the two refusals into one charge-sheet: alive I will not say, dead I will not say — two cases, one indictment served; the bared blade biting wind, the net-essentials severed; strip off the falcon-stinking shirt, toss the pitch-fat cap, sit vast in the open hall, breath white on white; and Sanyi Mingyu, at his own mother's rites, turns the refusal on the crowd: another breed of patch-robed board-carriers will insist on telling you the native star, the place where roots return, sorting Qin from Chu, pointing east and marking west — this old monk here: alive I will not say, dead I will not say; ask for instruction, not said either; beat this old monk, not said either. Weilin Daopei, at the rites for the lady, raises the old case whole — the tap on the coffin, the double refusal, the boy chanting the Guanyin sutra until the awakening — then asks her straight: does the lady see through it?; alive I will not say, dead I will not say; the stone man at midnight casts no shadow, and criss-cross who can tell the coming, the going, the source?; Feiyin Tongrong, in the hall address for the dead patron, sets his own frame under the elders' line — where does the living come from? it stands out past telling; where does the dead go? it packs the sky; the living never lived: two cases; the dead never died: two cases — therefore the elders said: alive I will not say, dead I will not say — the staff knocked once: the departed one's waking spirit may break clear right here and know where the native star stands; and Daxiu Zhu, sealing the coffin of the trainee, sings the refusal as the closing verse: alive I will not say, dead I will not say; the two gates of living and dying — a bird leaving the nest: sea wide, sky high, the bird flies where it will; the lid laid: do not miss the good of this; and after all, what is this place? — a long stillness: done."
+    }
+  ]
+}

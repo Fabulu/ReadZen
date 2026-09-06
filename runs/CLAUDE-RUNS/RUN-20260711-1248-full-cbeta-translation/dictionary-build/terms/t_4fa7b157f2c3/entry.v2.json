@@ -1,0 +1,195 @@
+{
+  "Id": "t_4fa7b157f2c3",
+  "SourceTerm": "一段光明",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:12:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one stretch of light",
+      "AlternateTargets": [
+        "a single expanse of brightness"
+      ],
+      "SearchAliases": [
+        "stretch of light",
+        "expanse of brightness",
+        "inborn radiance",
+        "one shaft of light"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 163 hits in 102 files representing 101 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0118b06",
+          "ToLb": "0118b20",
+          "Kwic": "祖，毒蛇頭上揩癢；說性談心，饑鷹爪下奪食。昭覺無事討事，向虛空掘洞活埋，萬里雲煙、滿堂雲水，薦取碗底箸頭，掃卻支解根蒂，那管他東家牛滲卵、西家馬出鵝，羊擇乾處尿、驢揀濕處屙？咦！是橋頭西石土地，口口聲聲羅羅哩。阿呵呵！也大奇，路逢劍客須呈劍，不是詩人不現詩。咄！咄！咄！」中元，上堂。「秋潭月影，靜夜鐘聲，一段光明，靈靈不昧。到這裏，步步踏著，三賢膽顫、十地魂驚，呼喚不回、牢籠不住，如壯士屈臂，不借他力，方許少分相應。脫或依稀，便是落空亡外道、魂不散的死人，塞耳偷鈴以徒自欺。果爾，眼裏有筋、皮下有血，不妨相視不得。門傍戶聚頭妄誕，趁慣時光以當了事禪和者哉。瞞碗底筋頭，與諸人公驗分明在，縱饒千聖出頭來，終沒交涉，必盡",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment, ringing moon-shadow and bell-sound around one stretch of light that never dulls."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0009a24",
+          "ToLb": "0009b13",
+          "Kwic": "上堂云。好諸禪德。同雲顯瑞。大地呈輝。祇箇清白家風。得似枯寒時節。十分瑩徹。誰知踏雪人迷。一色齊平。切忌守株自困。到這裡如何履踐。得超脫去。良久云。還會麼。功盡亡依者。轉身覺路玄參。上堂云。內若不動外必不亂。箇是叢林知有漢。而今識得不為冤。自家兵馬何須戰。心因不生境緣斷體若虛空勿崖岸。霜天皎月上中峯。一段光明洗癡暗。上堂云。衲僧須瀝髑髏乾。透出威音世外看。歲月不能遷變處。箇人肯共爾同盤參。歲旦上堂云。千峯寒色。也知氷雪迷家。觸處歡聲。已賀春風入律。其來無像。所惠非輕。須明至化無為。始信大功不宰。所以道。聖人空洞其懷。萬物無非我造。且作麼生體悉得相應去。還會麼。可愛寒梅清照雪。未嫌陽鳥巧歌春。上堂云。好諸禪",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: the frost-sky bright moon climbs the central peak and one stretch of light washes the dull darkness."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0786c17",
+          "ToLb": "0787a01",
+          "Kwic": "古今，無有間然。良由眾生迷背自己光明，循諸聲色，念念攀緣，無有停息，曾不自知，故稱為迷也。公等既已知非，必須發勇猛心，立金剛智，二六時中但扣已而參，密密孜孜，看這見色聞聲，生心動念，妄相攀緣，屙屎放尿，拖著死屍行的畢竟是個何物？從無始以來至於今日，還有第二人耶？還有第二念耶？若無第二人、第二念可見，秪是自己一段光明，何不如此著眼承當個事，免向外求，窮劫無有得時，轉求轉遠也。如此見得透、信得及，此但秪是今世門頭，古人喚作弄光影漢，須知更有空劫已前一著子聲色之所不到者，古人所謂無聲無臭，此也誠能離卻聲色，至於靜悄悄、虛寂寂、露裸裸時，自然與他相應。不然，光陰易度，時不待人。努力！努力！示笥石禪人示笥石禪人迥然獨露，",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: with no second person or second thought to be found, it is only one's own one stretch of light."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0052c30",
+          "ToLb": "0053a12",
+          "Kwic": "，火盧頭致箇問，問：『禪道佛法如何究竟？』尊宿曰：『女見火盧麼？』山僧退身兩步便拜，尊宿大笑，嗣後以為了事，更不他求，終日在寮中兀兀不動。及後看南泉異類中行與德山拓缽諸因緣，又去不得，只得四五年在楚蜀間，斧撥鑿索終不能透頂透底，中閒又不覺打入講肆，支外生支、蔓上引蔓，如順水行舟，了無回轉。苦哉佛馱！將祖佛一段光明被文墨掩卻，幸夙有願力猶不能盡底去。辛巳春，在湖南偶見張無盡居士頌曰：『鼓寂鐘停拓缽回，巖頭一拶語如雷，果然只得三年活，莫是遭他受記來？』方纔豁然。其後又問尊宿：『臨機不活時如何？』尊宿曰：『火盧頭上浪滔天。』或拈火柴頭示曰：『會麼？』或指石頭曰：『看！看！』如是得聆二三十轉語。山僧到此處，滯情斷繼、柬擇",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment, groaning that the buddhas' and ancestors' stretch of light was buried under ink and letters."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0093b22",
+          "ToLb": "0093c06",
+          "Kwic": "威跡時如何指示？處處無蹤跡，聲色外威儀。」上堂。「爾欲聯詩韻不成，枯腸搜盡月三更，不若當年東院老，喫茶洗缽自分明。大眾會麼？」眾舉首，師云：「喫茶去。」陳欽披剃上堂。師拈拄杖召眾云：「見麼？者居士與道婆夙有靈根，一見山僧便作難遭想，复於此不作男見、不作女見想，祇要薙髮為僧，兼請山僧拈提向上鉗錘，發渠腦後一段光明。山僧迫不得已，只得向空中著楔、眼裏攃沙，喚作向上提持。」卓杖云：「還委悉麼？休掜怪，休掜怪，處處行深觀自在。」督府孫公請上堂。僧問：「未出方丈即不問，即今陞座事如何？」師和聲便打，僧擬議，師喝退。問：「昨日玅應，今日慈雲，是同？是別？」師云：「疑殺多少人？」僧喝，云：「是疑？是不疑？」師云：「也好疑，疑",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, taking up the upward hammer to spark the stretch of light behind the newly shaven head."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0653b17",
+          "ToLb": "0653b30",
+          "Kwic": "！要知尊貴一著麼？苔封玉殿珠簾隔，不種梧桐免鳳來。」鼓山永和尚訃至，上堂。拈訃云：「此是永覺和尚一生用不盡的，今日徹底露布了也。者老漢文武兼才，宗說兩備，架晏師之聖箭，不露鋒鋩；續壽昌之心燈，迥超今古。橫抽寶劍，魔魅潛蹤；高照菱華，野狐喪膽。由是芳聲騰乎八閩，道價重於諸方。俄而轉步南辰，蹋翻北斗，何期末後一段光明，不覺三千里外射入玉笥峰頭。大眾會麼？法苑柱傾，禪河檣倒，弱喪了無歸，長夜何日曉？真堪哀，亦懊惱，大事分明須趁早，不用區區向外尋。」喝一喝，云：「大家照顧衣中賓。」元旦，上堂。「第一義且置，新年佛法有人道得，雲門拄杖子兩手分付去也。」問：「當陽顯露，物物全彰，如何是應時及節句？」師云：「爆竹驚山鬼。」進云：",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, watching the old man's final stretch of light shoot three thousand miles into Yusi peak."
+        },
+        {
+          "RelPath": "J/J38/J38nB430.xml",
+          "FromLb": "0957c02",
+          "ToLb": "0957c15",
+          "Kwic": "大眾：拄杖有何神通得與麼任意自在？還委悉麼？幾度拈來誰著價？人天眾裏自稱尊。」上堂。「扶豎頹綱，須憑宗匠發揮；埋沒家珍，要假能人做出。法海洋洋，靡正緣而莫出；境風浩浩，非良導以難昇。或群居山林，夥聚巷陌，形同鄙俗，貌濫僧儀。雖然如是，未免區區之論。」以拂子畫󵋡相，云：「向者裏薦取。」小參小參。「未出母胎，一段光明輝天鑑地；既出母胎，一段光明耀地燭天。大眾須知：此段光明人人本具，在凡不減、在聖不增，秪為背覺合塵、迷己逐物，致使蒙翳弗能現前，于是有諸佛、有眾生，有天堂可欣、有地獄可怖，如此紛然惑亂，終無了期。殊不知放下身心、豎起脊梁，嘿地回光返照，看破父母未生前本來面目，如貧獲寶、如暗得燈，何等快活、何等受用？到者裏說",
+          "MasterName": "Qibai Defu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qibai Defu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB430.xml). Recorded Sayings of Chan Master Qibaifu of Yuquan. Qibai Defu owns the retained deployment: before birth the stretch shone on heaven, after birth it lights the earth, undimmed in the fool, unincreased in the sage."
+        },
+        {
+          "RelPath": "J/J39/J39nB448.xml",
+          "FromLb": "0448a14",
+          "ToLb": "0448a29",
+          "Kwic": "假賊，要求山埜慈悲通箇消息，好與當頭一棒。若諳棒頭落處，則便見真贓現前，更無消息可通，亦無真假之見存於胸次，向人定奪可否？惟作得主、把得定，施機發用隨處自在，與從上乃佛乃祖及天下老凍膿一鼻孔出氣，更非別人。雖然，是賊識賊，未審居士異日相見還解轉身否？咄！直饒轉得身來，猶是竊物以當家寶，急須火速拶出蓋天蓋地一段光明從胸襟流出，纔是法門真種艸也。又承教謂：滯紅塵四十五年，也自知不是百年常住。只此兩語，便是居士歎息光陰、省察生死之念切。正當此際，切忌別覓安身，就向此大男小女、米鹽酒肉裏輥作一團，昏陀陀地上振起精神，看父母未生前此段境界從何而有？今既推撥不開，一口氣不來時，又向何處安頓？到者裏，盡居士聰明知解，胸中所有",
+          "MasterName": "Lingji Xingguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingji Xingguan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB448.xml). Recorded Sayings of Chan Master Lingji. Lingji Xingguan owns the retained deployment, ordering the sky-covering, earth-bearing stretch of light squeezed out until it streams from the chest."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J40/J40nB479.xml",
+        "T/T48/T48n2001.xml",
+        "J/J26/J26nB188.xml",
+        "J/J29/J29nB223.xml",
+        "J/J29/J29nB224.xml",
+        "J/J36/J36nB359.xml",
+        "J/J38/J38nB430.xml",
+        "J/J39/J39nB448.xml"
+      ],
+      "RelatedMasters": [
+        "Zhufeng Zhenxu",
+        "Hongzhi Zhengjue",
+        "Ruibai Mingxue",
+        "Shanhui Huan",
+        "Yezhu Fuhui",
+        "Baiyu Jingsi",
+        "Qibai Defu",
+        "Lingji Xingguan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The mind's inborn luminity counted as one whole stretch, shining before birth and waiting to be reclaimed from ink and clamor. Zhufeng Zhenxu, on the ghost festival, sets autumn-pool moon-shadow and still-night bell-sound around one stretch of light that never dulls, and warns that whoever only half-grasps it is a dead man whose soul has not scattered; Hongzhi Zhengjue hangs the bright moon of a frost sky over the central peak and lets one stretch of light wash the dull darkness; Yezhu Fuhui, tonsuring the layman Chen Qin, takes up the upward hammer to spark the stretch of light behind that newly shaven head; and Qibai Defu, in xiaocan, declares the stretch shone on heaven before leaving the womb and lights the earth after, endowed in everyone, undimmed in the fool, unincreased in the sage. Ruibai Mingxue, writing to the layman Zhang Wofu, rules that with no second person or second thought to be found it is only one's own one stretch of light — set your eyes there and stop seeking outward; Shanhui Huan, recounting his own years in the lecture halls, groans that the stretch of light of the buddhas and ancestors was buried under ink and letters; Baiyu Jingsi, at the news of Yongjue's death, watches the old man's final stretch of light shoot three thousand miles into Yusi peak; and Lingji Xingguan, answering the scholar Zhu, orders him to squeeze out at full speed the sky-covering, earth-bearing stretch of light until it streams from his chest."
+    }
+  ]
+}

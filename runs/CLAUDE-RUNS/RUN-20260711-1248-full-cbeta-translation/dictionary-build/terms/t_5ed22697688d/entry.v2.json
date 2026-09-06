@@ -1,0 +1,162 @@
+{
+  "Id": "t_5ed22697688d",
+  "SourceTerm": "佛法不現前，不得成佛道",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T11:07:55Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the buddha-way does not appear before him, nor does he attain buddhahood",
+      "AlternateTargets": [
+        "the way of the buddhas has not appeared before him, and he has not attained buddhahood",
+        "no buddha-way manifests — no buddhahood attained"
+      ],
+      "SearchAliases": [
+        "the ten-eon seat",
+        "the unappearing buddha-way",
+        "the Great-Wisdom-Victorious question",
+        "sitting without attaining"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 30 hits in 21 files representing 19 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0513c05",
+          "ToLb": "0513c19",
+          "Kwic": "二老漢當時若踏著臨濟向上底，我等今日飯也無喫，還知薦福落處麼？驀拈拄杖，卓一卓，喝一喝，下座。上堂，僧問：臨濟有四賓主話，如何是賓中賓？師云：滿眼是埃塵。進云：如何是主中賓？師云：腦後薦取。進云：如何是賓中主？師云：東行不見西行利。進云：如何是主中主？師云：脚下泥深三尺。師乃云：大通智勝佛，十劫坐道場，佛法不現前，不得成佛道。衲僧門下却較些子，且和泥合水一句作麼生道？一朝權在手，看取令行時。上堂，舉：僧問玄沙：如何是學人自己？沙云：是你自己。雲門云：沒量大人向語脉裏轉却。時有僧問：如何是學人自己？門云：忽有人路上請老僧齋，你也隨例得飯喫。師云：玄沙只有殺人刀，且無活人劒；雲門雖有活人劒，且無殺人刀。雖然，二俱不了，落在薦福手",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying'an Tanhua. Ying'an Tanhua owns the retained deployment: at the patch-robed gate it comes a little nearer — once authority is in hand, watch the command go forth."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0207a01",
+          "ToLb": "0207a15",
+          "Kwic": "於拂石之劫。次拈香云：諸佛出世，以心傳心；祖師西來，將法付法。心法無二，通貫十方。後來叢林凋弊，佛法澆漓，諸方長老出世，各各以香為信，香何信之有？當知信不在香而在法也。天平今日此香爇向爐中，奉為先住阿育王山廣利禪寺楊岐第十世橫川大和尚但陳供養，夫復何言？遂就座。上首白槌罷，僧問：大通智勝佛，十劫坐道場，佛法不現前，不得成佛道時如何？師云：更與十劫始得。進云：有意氣時添意氣，不風流處也風流。師云：切忌從它覓，迢迢與我疎。進云：只如昔日世尊出世，釋梵引隨，和尚今日開堂，畢竟有何祥瑞？師云：須彌山在你脚下。進云：與麼則皇恩、佛恩一時報畢。師云：且喜天下大平。僧問：保壽開堂，三聖推出一僧，保壽便打，意旨如何？師云：蛇無頭不行。進云",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: give him ten more eons to begin with — and beware of seeking it from him."
+        },
+        {
+          "RelPath": "J/J37/J37nB391.xml",
+          "FromLb": "0554c06",
+          "ToLb": "0554c20",
+          "Kwic": "？』歸云：『一翳在目，空花亂墜。』汝等諸人還識歸宗語麼？識歸宗語，便識大通智勝佛落處。不然，光上座為伊指出。」揮拂子云：「還見麼？全心即佛，全佛即心，心佛不二，彼我無差。離心佛相，是名真坐道場；離我我見，是名真成佛道。已成佛竟，為甚麼又道佛法不現前？皆為不能轉山河大地歸自己去，不能轉自己歸山河大地去。所以佛法不現前，不得成佛道。有僧問明覺云：『如何是諸佛之本源？』覺云：『千峰寒色。』者豈不是轉山河大地歸自己去？僧云：『向上還有事也無？』覺云：『雨滴巖花。』者豈不是轉自己歸山河大地去？」驀拈拄杖云：「這個是拄杖子，將甚麼喚作山河大地？」良久，云：「也是一場漏逗。」上堂。「風濤松嶺，四禪之下，洪波運箭墜鋒鋩，劫到想天還壽命。指月話",
+          "MasterName": "Changmu Guangdian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Changmu Guangdian",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Guizong Zhichang",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB391.xml). Recorded Sayings of Chan Master Changmu Dian. Changmu Guangdian owns the retained deployment: whole mind is buddha — the failure is failing to turn mountains, rivers, and the great earth back into oneself."
+        },
+        {
+          "RelPath": "J/J35/J35nB342.xml",
+          "FromLb": "0795a24",
+          "ToLb": "0795b07",
+          "Kwic": "昨夜三更月到窗。」一僧云：「偪塞虛空。」師云：「只道得一半。」僧云：「那一半請和尚道。」師云：「看腳下。」僧問：「三界唯心，萬法唯識。劫火洞然，大千俱壞。未審心識何依？」師咳嗽一聲，僧擬議，師云：「會麼？」僧云：「不會。」師云：「喫鹹瓜子多了。」衣水道人舉：「僧問雲峨和尚：『大通智勝佛，十劫坐道場。因甚佛法不現前，不得成佛道？』峨云：『溝壑易填，人心難滿。』」問師何如，師云：「此乃明白恰好死語也。」衣便問：「既是十劫坐道場，因何不成佛道？」師云：「疑殺古今人。」衣猶讋應，師示以頌云：「端妍嬌面露些些，因甚還將衫袖遮？疑殺古今人莫數，半思半憾滿天涯。」鵬溟問：「僧問趙州：『萬法歸一，一歸何處？』此意如何？」師云：「鐵壁，鐵壁。」",
+          "MasterName": "Shengke Deyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shengke Deyu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB342.xml). Recorded Sayings of Chan Master Shengke (Huayan). Shengke Deyu owns the retained deployment: the neat answer is a plainly apt dead phrase — the line has doubted men to death, ancient and modern."
+        },
+        {
+          "RelPath": "J/J40/J40nB493.xml",
+          "FromLb": "0510b05",
+          "ToLb": "0510b18",
+          "Kwic": "何法？」師云：「王道士手中令牌。」進云：「如何是僧？」師云：「吹月引鸞鳴。」進云：「佛法僧已蒙師示，三玄三要再披宣。」師云：「又是從頭起，第一玄是你家大父、第二玄是你家令君子、第三玄是你足下。第一要請進，第二要告茶，第三要多慢。」進云：「果是作家宗師。」師云：「蒼天，蒼天。」乃云：「大通智勝佛，十劫坐道場，佛法不現前，不得成佛道。諸仁者！即如圓通戒壇，夜夜佛聲號號，知得個佛是什麼？佛者，覺也；覺者，悟也。悟又悟個什麼？一日十二時中語默笑傲，知得是個什麼？冷地回頭，皆藉佛力，直如冤仇平等，方纔許你名為出家衲僧。不見道：夜夜抱佛眠，朝朝還共起，起坐鎮相隨，語默同居止，纖毫不差移，如形影相似。欲識佛去處，只者語聲是。」驀喝一喝，云：「",
+          "MasterName": "Pufu Zhuo",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pufu Zhuo",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. Pufu Zhuo owns the retained deployment: night after night the buddha-voice resounds — to know where the buddha goes, only this sound of the voice is it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1359.xml",
+        "X/X71/X71n1412.xml",
+        "J/J37/J37nB391.xml",
+        "J/J35/J35nB342.xml",
+        "J/J40/J40nB493.xml"
+      ],
+      "RelatedMasters": [
+        "Ying'an Tanhua",
+        "Gulin Qingmao",
+        "Changmu Guangdian",
+        "Guizong Zhichang",
+        "Xuedou Chongxian",
+        "Shengke Deyu",
+        "Yun'e Xi",
+        "Pufu Zhuo"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The buddha-way does not appear before him, nor does he attain buddhahood — the Lotus line of the ten-eon seat, ten eons of sitting with nothing shown and nothing attained, which the Chan halls pried open for six centuries: granting more eons, turning the question back, ruling the neat answers dead, and finding the buddha in the night voice itself. Ying'an Tanhua, in the hall at the Jianfu temple: the Great-Unhindered-Wisdom-Victorious buddha sat ten eons in the seat of the way, and the buddha-way did not appear before him, nor did he attain buddhahood. At the patch-robed gate this comes a little nearer. And the one line kneaded with mud and water — how is it said? Once authority is in hand, watch the command go forth. Gulin Qingmao, at the opening of the hall on Mount Tianping, is asked it straight: ten eons seated in the seat of the way, the buddha-way not appearing, no buddhahood attained — at such a time, what? His answer: give him ten more eons to begin with. The monk presses on — where there is spirit, add spirit; where there is no flair, flair as well — and he closes: beware of seeking it from him; far off, it estranges itself from you. Changmu Guangdian, at the Mituo temple, turns the line on itself: seated in the seat of the way — why no attaining of buddhahood? Having attained buddhahood — why does the buddha-way not appear? The Great-Wisdom-Victorious is a spirit-turtle dragging its tail, toil that only sweeps its own tracks. He raises Guizong — how is one a buddha? You yourself are; keep to it — one film in the eye and empty blossoms fall in profusion — then resolves: whole mind is buddha, whole buddha is mind, mind and buddha not two, that one and this one without difference. Free of mind-face and buddha-face — that is truly seated in the seat of the way; free of I and I-view — that is truly attaining buddhahood. Already buddha — why then does the buddha-way not appear? Only because one cannot turn mountains, rivers, and the great earth back into oneself, cannot turn oneself back into mountains, rivers, and the great earth. Therefore the buddha-way does not appear, nor is buddhahood attained. He calls Xuedou's Thousand peaks, cold color the one turning, and Rain dripping on rock flowers the other, lifts the staff — this is a staff: what do you call mountains, rivers, and the great earth? — and after the silence: quite a leak all the same. Shengke Deyu, in the exchange records: the layman Yishui raises the old asking — the monk had asked, and Yune answered: ravines are easy to fill, the human heart hard to satisfy — and asks his ruling on it. Shengke: that is a plainly apt dead phrase. Pressed — ten eons seated in the seat of the way, why no buddhahood? — he answers: it has doubted men to death, ancient and modern. And he seals it with a verse: the fine face shows a little — why still shield it with the sleeve? Doubting men to death past counting; half-longing, half-rueful to the sky's edge. Pufu Zhuo, preaching at the precept platform of the Yuantong hermitage: the buddha sat ten eons in the seat of the way, the buddha-way did not appear before him, nor did he attain buddhahood. Good people — take this very precept platform, night after night the buddha-voice resounding: what do you know the buddha to be? Buddha means awake; awake means waking. And waking — what is woken? Through the twelve hours of the day, in speech, silence, laughter, ease — what do you know this to be? Turning the head in the cold, all by the buddha's strength, treating enemy and kin level — only then are you allowed the name of a gone-from-home patch-robed monk. Do you not know the saying: night after night I sleep with the buddha in my arms; morning after morning we rise together; sitting, standing, ever at his side; speech and silence dwell together; not a hair's shift, like form and shadow. To know where the buddha goes — only this sound of the voice is it."
+    }
+  ]
+}

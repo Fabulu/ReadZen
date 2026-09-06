@@ -1,0 +1,186 @@
+{
+  "Id": "t_6810b5db545e",
+  "SourceTerm": "是一是二",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:34:03Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "is it one, or is it two?",
+      "AlternateTargets": [
+        "are they one or two?",
+        "one thing or two?"
+      ],
+      "SearchAliases": [
+        "the one-or-two test",
+        "the pair-question",
+        "pair-weighing question"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 177 hits in 96 files representing 93 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0812a05",
+          "ToLb": "0812a19",
+          "Kwic": "諸法皆然其餘根根塵塵一一周遍法界法界一一周遍根根塵塵互相融通互相攝入如何說箇互相融通互相攝入如妙喜坐禪牀為主你諸人立地聽法為伴乃擊禪牀云我這裏擊禪牀一聲你諸人耳識攝在我禪牀角頭我擊底聲遍在諸人耳根中便是互相融通互相攝入如何說箇根根塵塵一一周遍如妙喜擊禪牀作聲諸人總攝在耳根中其或更聞別處鷄啼狗吠鵲噪鵶鳴你道是一是二若向這裏薦得便會十方俱擊鼓十處一時聞所以道圓融不礙行布即一而多行布不礙圓融即多而一一多無礙大小相融狀多鏡以納眾形如千燈而共一室所以道一地具足一切地一法遍含一切法一月普現一切水一切水月一月攝這箇非唯只是諸佛菩薩境界盡是各各當人普光明大般若之妙趣盡是各各當人放身捨命處行住坐臥語默動靜初無間斷做佛法亦得不做佛法",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained teaching: as when Miaoxi sits on the seat as host and you stand hearing the talk as company — I strike the seat once, and your ear-sense gathers at my seat-corner, my sound pervading your ears: that is mutual entry and mutual embrace; or hear further off a rooster, a dog, a magpie, a crow — you say, is that one or two? master it here and you will understand ten drums struck in ten places heard all at once."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0529a12",
+          "ToLb": "0529a25",
+          "Kwic": "當有當無，今日期明日、今年期來年，蹉跎過了一生。恁麼蹉跎去，直至彌勒下生，甘受苦辛，何有出頭日子？不如言下截斷一切，單單只究本分一著，果乃親見一回，從前學解底都不虛棄。若未親見一回，總為閒學解，埋沒祖師心。」因事茶話，師云：「古人設茶因敘話，磬山因話而設茶。茶話分明已舉似，諸人切莫得周遮。雖然，且道茶與話是一是二？若道是一，諸人但得茶、不得話；若道是二，老僧但得話、不得茶。諸人試道看，如何得恰好？」眾無語。師舉茶甌云：「且吃茶，漫漫與你們打葛藤。」禹門院茶話，師云：「吾於此地本來無福，不勞眾兄弟讚歎，倘若讚之，讚之無益。吾於此地本來無過，不用眾兄弟毀謗，設若毀之，毀之不及。既讚之無益、毀之不及，豈非平等法門乎？夫佛",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained tea-talk: the ancients set tea for conversation's sake; Qingshan set conversation for tea's sake — the tea and the talk have been shown you plainly, do not go roundabout; and yet — say, are tea and talk one or two? if one, you get the tea and miss the talk; if two, this old monk gets the talk and misses the tea — try saying how to hit it just right — the hall silent, he lifts the bowl: drink your tea; we will untangle the vines with you slowly."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0021a09",
+          "ToLb": "0021a23",
+          "Kwic": "法，仔細聽我分析。早來春仲猶寒，恰好二月廿一。」普請砍柴，小參。「毒日斫青柴，昏燈打死坐，恁麼住叢林，大似挨銕磨。仔細一思量，都為山僧故。大眾莫蹉過。」左右顧云：「禍！昔小壽禪師因墮薪有省，說偈曰：『撲落非他物，縱橫不是塵。赤眼撞著火柴頭，山河及大地，全露法王身，眼上不可栽眉。』大眾！小壽擔柴，諸兄斫柴，是一是二且置，只如道山河大地既是法王身，恁麼則斫也斫卻法王，燒也燒卻法王。若不斫，則常住又無柴燒。且道如何折合？」以手作斫勢云：「是甚麼茅梗松丫！」下座。中元普度，小參。拈拂子云：「今朝七月十五，夏去秋來莽鹵，腳跟未曾點地，艸鞋又沾泥土，帶累目連尊者，鍚杖卓開地府，無量劫來若冤若親，霎時間停酸息苦。有箇強項提婆達",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained commentary: of old Xiaoshou woke dropping firewood and said his verse — what falls is no other thing, crisscross it is not dust; the red eye strikes the firewood-head, hills and rivers and the great earth all bare the king-of-teaching's body — assembly! Xiaoshou carried the wood, you brothers chop the wood: one or two, set that aside; but if hills and earth are the king's body, then chop and you have chopped the king, burn and you have burned him; do not chop, and the monastery has no wood — say, how do you split the difference? — and he made a chopping motion: what bramble, what pine-bough!"
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0277b28",
+          "ToLb": "0277c11",
+          "Kwic": "湖來。」師云：「天湖水滿也未？」進云：「未。」師云：「許多時滂沱為甚麼不滿？」僧罔措。師打云：「與汝一勺。」僧問：「狗子還有佛性也無？」師云：「不得亂吠。」僧呈讚佛偈，師云：「佛要汝讚作麼？」僧無語，師云：「美玉無瑕，雕文喪德。」僧問：「《法華經》云：『惟此一事實，餘二則非真。』如何是一？」師豎拳云：「是一是二？」進云：「一二蒙師指，向上還有事也無？」師云：「進前來，向汝道。」僧擬議，師云：「立地死漢。」僧參，師問：「白雲橫谷口，遊人何處來？」僧無語，師云：「將謂是個鷂子，元來卻是斑鳩。」僧問：「無星稱，稱諸方。師上鉤麼？」師云：「放下著。」進云：「上鉤來也。」師連棒打出。僧問：「金不博金，意旨如何？」師云：「那",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "respondent",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained exchange: the monk asked — the Lotus says 'only this one thing is real, the other two are not true' — what is the one? — the master raised his fist: is it one or two? — 'the one and the two received from you, master — is there anything beyond?' — come forward and I will tell you; the monk hesitated, and the master: a man dead on his feet."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0787a29",
+          "ToLb": "0787b17",
+          "Kwic": "秦時𨍏轢鑽在居士身中多少年，何不放他一箇出路？雲溪山月，應與故人共之也。瑞五自是第一流，速來速來，要與他成褫個主賓句子。與江道信與江道信托缽公案，只管向大慧舌頭上討滋味，驢年也未會在。當初速朽兄、與兄將東山水上行穿鑿穿鑿，試度個消息來，大家証據看。與柴虎臣與柴虎臣中峰道：「五乳峰前開白蓮。」禪門淨土，是一是二？心淨土淨，且莫作文字商量。祇將趙州一碗茶洗滌肺腑，待得肘腋風生，那時安養如來在十字街頭與居士鬥額。與應嗣寅與應嗣寅晦庵問母不敬，也曾走上他家門戶來。游定夫云：「世儒破佛，皆佛自以為不然者也。」居士引掖後學，須拈此語示之。還有一問：雲門扇子𨁝跳上三十三天，莫須有恁般事否？荅嚴顥亭荅嚴顥亭一莖草，建梵",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained letter to Chai Huchen: Zhongfeng said 'before the Five Milk Peaks white lotuses open' — the Chan gate and the Pure Land: is it one or two? — mind pure, land pure — do not go making literary haggling of it; just take Zhaozhou's bowl of tea and scour the lungs and gut; when the wind rises at elbow and armpit, the Lord of Peace will brow-wrestle with you at the crossroads."
+        },
+        {
+          "RelPath": "J/J38/J38nB429.xml",
+          "FromLb": "0935b25",
+          "ToLb": "0935c26",
+          "Kwic": "？」師遂劈面一掌，曰：「是立不立？」僧罔措。復示曰：「人境不立時，劈面無情掌。是個血性兒，當下知痛癢。」見一僧看經，師問：「看甚麼經？」曰：「《金剛經》。」師曰：「經是誰說？看是何人？」僧無語。師示一偈：「看經不識看經人，徒自區區勞眼神。欲得不勞神與眼，分明識取此真經。」有僧嘴極利，一日問曰：「佛說魔說，是一是二？」師劈嘴一拳曰：「且道是一是二？」僧擬議，師復打。遂示偈曰：「纔開口問，麤拳便打。烈焰紅爐，豈容得假。煆盡虛浮，始識道雅。早知闍黎，認鹿為馬。」頌古頌古陞座陞座擬動腳跟落二三，重登曲彔不羞慚，那時若值忤逆者，大好都盧掀座翻。拈花拈花口難開處把花拈，百萬人天盡了然，惟有",
+          "MasterName": "Gulin Zhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Zhi",
+              "Roles": [
+                "respondent",
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB429.xml). Recorded Sayings of Chan Master Gulin (Prajna) of Fengtian, Shengjing. Gulin Zhi owns the retained counter: a monk with a very sharp mouth asked one day — buddha-word or demon-word: is it one or two? — a fist to the mouth: you say, is it one or two? — the monk hesitated, another blow; then the verse: the moment the mouth opens to ask, the rough fist strikes; a blazing red furnace — how should it brook a fake? smelt the floatings clean and at last you know the refined; had I known this acarya earlier, he takes a deer for a horse."
+        },
+        {
+          "RelPath": "X/X72/X72n1440.xml",
+          "FromLb": "0653c06",
+          "ToLb": "0653c20",
+          "Kwic": "話，為是禪？為是教？若道是禪，五蘊皆空有甚麼難會？若道是教，五蘊皆空豈易會耶？須知五蘊即四山，四山即五蘊，果然悟得五蘊皆空，更有什麼四山可得？所以當時觀音老人修般若時，照見五蘊皆空，便千了百當，更有甚麼苦厄可度？若道度苦厄，却成增語。今時人只管念將去，全不理會，可不哀耶？古德頌云：五蘊山頭一段空。空與五蘊是一是二？同門出入不相逢，逢即髑髏粉碎，無量劫來賃屋住客作漢說他作麼？到頭不識主人公，主人公作麼生識？如今人問他主人公，箇箇道：我會也。十箇五雙，只是認箇目前鑒覺，昭昭靈靈時即有，若睡著時即無；生時即有，死了即無。殊不知這箇鑒覺，是無量劫來生死根本。認作主人公，豈不大錯？楞嚴經中呵為認賊為子是也。故長沙和尚云：學",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1440.xml). Chan Master Weilin Daopei's Return to the Mountains Record. Weilin Daopei owns the retained exegesis: the old worthy's verse says — atop the hill of the five aggregates, one stretch of emptiness — but are emptiness and the five aggregates one or two? through the same gate they go out and in and never meet; meet, and the skull is smashed to powder — and the exegesis runs on against those who take the glimmering awareness for the master of the house: that is the root of birth and death, the sutra's scolding of taking the thief for a son."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB189.xml",
+        "J/J27/J27nB193.xml",
+        "J/J33/J33nB294.xml",
+        "J/J38/J38nB429.xml",
+        "X/X72/X72n1440.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Tianyin Yuanxiu",
+        "Sanyi Mingyu",
+        "Yinyuan Longqi",
+        "Liangting Jingting",
+        "Zhongfeng Mingben",
+        "Gulin Zhi",
+        "Weilin Daopei"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "One or two: tea and talk, the fist and the Lotus one-thing, a rooster heard from another street — the pair-question that forces a stand. Dahui Zonggao, in a general discourse: as Miaoxi sits on the seat as host and you stand as company — I strike the seat once and your ear-sense gathers at my seat-corner, my sound pervading your ears: mutual entry, mutual embrace; or hear further off a rooster, a dog, a magpie, a crow — you say, is that one or two? — master it here and ten drums struck in ten places are heard all at once. Tianyin Yuanxiu, over tea: the ancients set tea for talk's sake, Qingshan set talk for tea's sake — and yet, are tea and talk one or two? if one, you get the tea and miss the talk; if two, this old monk gets the talk and misses the tea — the hall silent, he lifts the bowl: drink your tea; we will untangle the vines slowly. Sanyi Mingyu, at the wood-cutting: Xiaoshou woke dropping firewood — what falls is no other thing, hills and rivers all bare the king-of-teaching's body; assembly! Xiaoshou carried the wood, you chop the wood — one or two, set that aside; but if hills and earth are the king's body, chop and you have chopped the king, burn and you have burned him; do not chop, and the monastery has no wood — how do you split the difference? — and he made a chopping motion: what bramble, what pine-bough! Yinyuan Longqi, in the assembly: the monk asked — the Lotus says only this one thing is real — what is the one? — the master raised his fist: is it one or two? come forward and I will tell you; the monk hesitated — a man dead on his feet. Liangting Jingting, writing to the layman: Zhongfeng said 'before the Five Milk Peaks white lotuses open' — the Chan gate and the Pure Land: one or two? mind pure, land pure — no literary haggling; take Zhaozhou's bowl of tea and scour the lungs and gut, and when the wind rises at your elbow the Lord of Peace will brow-wrestle with you at the crossroads. Gulin Zhi, meeting a sharp mouth: buddha-word or demon-word — one or two? — a fist to the mouth: you say, one or two? another blow for the hesitating; then the verse: the moment the mouth opens, the rough fist strikes; the blazing red furnace brooks no fake — smelt the floatings clean and you know the refined; had I known this acarya earlier — he takes a deer for a horse. Weilin Daopei, reading the old verse: atop the hill of the five aggregates, one stretch of emptiness — but are emptiness and the aggregates one or two? through the same gate they go out and in and never meet; meet, and the skull is smashed to powder — and beware those who take the glimmering awareness for the master of the house: that is the root of birth and death, the thief taken for a son."
+    }
+  ]
+}

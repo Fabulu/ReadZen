@@ -1,0 +1,194 @@
+{
+  "Id": "t_9cbcf1053950",
+  "SourceTerm": "百萬人天",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:35:04Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a million humans and gods",
+      "AlternateTargets": [
+        "the millionfold human and divine assembly"
+      ],
+      "SearchAliases": [
+        "the human and celestial multitude",
+        "the million-strong audience of humans and gods",
+        "the vast crowd of humans and devas"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 196 hits in 111 files representing 110 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0126c24",
+          "ToLb": "0127a07",
+          "Kwic": "不獲已，纔向他道：『不是風動，不是旛動。』雖則把住去路，硬按牛頭，其實也是平地起波濤。若是皮下有血，一聞便醒，正好慚愧從前，何須更待六祖大師云：『仁者心動。』雖是和盤托出，點簡將來，猶是缽盂安柄。爾若於此窺得破，不但歷代祖師瞞爾不得，即黃面老子也要瞞爾不得。當時四十九年橫說豎說，猶沒者箇消息。事不獲已，纔向百萬人天中拈青蓮花，已是逗漏不少，何況又道：『吾有正法眼藏、涅槃妙心，付與摩訶迦葉。』爭怪後代兒孫認指為月？若是大聰慧人，決不入他群隊。為甚麼如此？祇為向上原沒恁麼事，亦沒有恁麼說。今日山僧與爾諸人說破：事不獲已，隨邪打正。若有伶俐衲僧攔胸把住，問教口啞，亦是山僧招得。有麼？有麼？如無，山僧自起，還合自倒去也。",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, ruling that after forty-nine years of talk still missed the message, the blue lotus raised before a million humans and gods was already a fair leak, let alone the eye-treasury entrusted to Kashyapa."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0009b16",
+          "ToLb": "0009b29",
+          "Kwic": "佛出身處？』劈脊便棒。且看古人恁麼道，老僧恁麼行，諸人還端的也無？若也端的，到方丈通個消息。」下座。三峰漢月參請上堂，示臨濟宗旨來源。一僧出，問：「如何是和尚惡水潑人？」師便打，僧擬開口，師直打出法堂，云：「者便是臨濟宗旨。」復陞座云：「我禪門一事，自世尊說法四十九年，臨末稍頭，於靈山會上拈花默顧大眾時，百萬人天皆不知落處，惟迦葉尊者破顏微笑。世尊云：『吾有清淨法眼，不立文字，付囑摩訶迦葉，廣流傳化毋令斷絕。』謂之教外別傳，至二十八祖到東震旦國，直指人心見性成佛。一日索門人各呈所見，惟慧可大師只禮三拜歸位而立，謂之得髓。傳至六祖，出南嶽、青原二派，有以言句疏通直指、有以全機大用直指。雖總為直指，言句直指令人多著意見",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, tracing the outside-the-teaching transmission to the moment the million humans and gods all missed the landing place while Kashyapa alone broke into a smile."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0614c23",
+          "ToLb": "0615a08",
+          "Kwic": "始返終，天地可測；橫施逆用，鬼神亦疑。看我杖頭指點，便能突出神奇。是何奇？龍生金鳳子，象趁玉麟兒，太平曲調從斯唱，請看新豐一手提。」浴佛日高念祖請上堂浴佛日，高念祖請上堂「佛真應身，如井覷驢。黃鶴樓詩，崔顥漫題。一棒撩空，打出甕中之鱉；誰能垂手，無底籃兒自提。正當恁麼時，還有撞著至親，更問是甚麼人者麼？於百萬人天中，見一箇跳出，指天指地，有箇旁觀不肯，欲處分他者麼？若有，好與一棒；若無，好與一棒。何故？平分風月曾無異，痛癢還他各自知。如不知，年年空將惡水澆頭皮。」真如鑄塔頂文節大師偕朱葵石曹秋岳諸公請上堂真如鑄塔頂，文節大師偕朱葵石、曹秋岳諸公請上堂「清淨本然，云何忽生山河大地？重言不當喫，瑯琊拽轉長水鼻，吹",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, watching a single one leap out of the million humans and gods pointing at heaven and earth, and promising a good blow whether the onlooker objects or not, the pain and itch each knowing for itself."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0446c02",
+          "ToLb": "0446c15",
+          "Kwic": "：「四眾瞻仰，為求發明本地風光。如何是本地風光？」師云：「杲日麗中天。」進云：「此是隨機善巧，未審最上一乘如何指示？」師云：「此去郢州九十里。」進云：「與麼則世尊不說說，迦葉不聞聞。」師云：「闍黎聞底事作麼生？」僧便喝，師便打。僧以坐具打圓相云：「爭奈者箇何？」師便喝，乃云：「靈山奧旨，少室真機，飲光熱瞞，百萬人天。斷臂阿師，徒言得髓，三世諸佛不知有，金不博金；狸奴白牯卻知有，突出難辨。一向恁麼去，要且無合煞釋迦出世、無合煞三七思惟祖師西來、無合煞九年面壁。新月掌今日路見不平，楔以楔出、毒以毒攻。不動舌根演一句，三藏絕詮；不施寸刃露一機，斬釘截鐵。凡聖根株自盡，佛祖窠臼掀翻。直將枯木撒華，春回七澤；更使寒冰發焰，月",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment, chaining Shaolin's true needle and Kashyapa's hot deceiving of the million humans and gods beside the arm-cutting master's vain talk of marrow, then ruling the badgers and white calves the harder ones to tell."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0497b19",
+          "ToLb": "0498a18",
+          "Kwic": "紳衿檀越諸山法眷暨江右曾庭聞孝廉等請師住荊谿善權寺入院三門師云宰相三生乘願寺呵護重來顯大臣小人道消君子長源流不息有知音伽藍殿師云有護伽藍神方能建立正法幢靈山一會儼然未散祖師殿師云終身頭陀九年面壁直下兒孫世守岑寂佛殿師云有大願王為天為神為人在人人中尊在神神中尊在天天中尊雙輪並運萬德俱圓拈華一笑事如新百萬人天共瞻據室師云邪人說正法正法亦邪正人說邪法邪法亦正所以道一句中具三玄一玄中具三要有權有實有照有用揀魔辯異知其邪正驀拈拄杖喝一喝連卓拄杖三下上堂師拈拄杖云先磬山於此寺闡揚正法先㡣池於此寺闡揚正法從上佛祖於此寺闡揚正法盡未來際一切明心見性者於此寺闡揚正法且道闡揚正法一句作麼生道千年偃栢成烏有一殿巋然似魯靈要",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, ruling the great-vow king foremost among humans and gods, the flower-and-smile affair fresh as ever, a million humans and gods gazing together."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0947c10",
+          "ToLb": "0947c22",
+          "Kwic": "實？」師打，云：「口裏說來恐虛，棒頭落處的實。」進云：「性命喪於棒下。」師復打，云：「前棒打死，後棒打活，祖令如是，任伊卜度。」乃云：「為人切切要知機，知機終久得便易，財堆北斗誰將去？作佛齋僧永不虛。所以，鳳臺樊居士建剎供僧，效古引今，同霑聖恩。霑恩且置，如何是古今同興之句？祗陀太子捨祗園，長者布金作福田，百萬人天為大善，今朝檀信事同然，眾僧居住無能報，早晚拈香爇佛前。」以拄杖一卓，下座。上堂。云：「承虛接響事，今古在投機，莫道尋常是，尋常落依稀。所以，此事不越尋常、不著尋常，且道在甚麼處？」杖一卓，云：「萬里長空一色，千門萬戶何差？盡性養性見性，三教原來一家。百草頭邊雖祖意，吩付禪人眼莫花，覺得自心原是佛，休將好肉",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment, blessing the meal with Prince Jeta's garden and the elder's gold, a million humans and gods making the great good that this day's faithful now match, the resident monks repaying with morning and evening incense."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0244b01",
+          "ToLb": "0244b14",
+          "Kwic": "。」斂衣就座。上首白椎云：「法筵龍象眾，當觀第一義。」乃云：「若論箇事，山僧未到龍泉時，汝等撒手便行，省得許多鹽醬。至於山門前，一見便休，未免減師半德。乃至鐘鼓喧轟，主賓濟濟，興問酬荅，彼此逗漏，有何交涉？倘於三處見徹，當人能事已畢，山僧更不周繇者也。如未，為汝通箇消息。把住牢關，三千諸佛莫窺；傍通線道，百萬人天景仰。景仰時，壁立萬仞，覿體全彰；莫窺處，綿綿密密，了無縫罅。於此於彼，何虧何欠？在暗在明，奚減奚增？苟能直下頓悟生死二關透徹，便知前百丈本來面目無兩樣，後百丈腳跟下事豈異相。亙古亙今沒兩人，頓超人間與天上。山僧與麼告報，諸人還信麼？如信得及，便是大用之機，亦見大機之用正在山僧手裏，驅耕奪食、斬釘截鐵，展托",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, holding the barrier so three thousand buddhas cannot peer in while the side-channel line has a million humans and gods gazing up, walls ten thousand fathoms high yet no seam to find."
+        },
+        {
+          "RelPath": "J/J28/J28nB218.xml",
+          "FromLb": "0639c01",
+          "ToLb": "0639c14",
+          "Kwic": "天曉自分明。」進云：「橫開不在春枝上，別有風流一段奇。」師云：「卻被你道著。」乃云：「天為片瓦地為磚，金輪御日碧空懸，沒量大人親住此，瓦礫森羅盡梵顏。無邊剎海自他不隔於毫端，十世古今始終不離於當念，是以王侯公子合會宰官大護法功德主巴樂軒公同興一念，便向無相國中、毫毛頭上，建立種種瓊樓玉殿、種種殊勝金容，囊藏百萬人天，收盡五湖風月，堅請山僧陞於此座，轉大法輪，舉揚箇事。且道如何是箇事？」驀拈拄杖向空中一畫，云：「八萬四千功德聚，萬古徽猷壯帝都。」上堂。云：「一夏以來，忘鋒結舌，今日因齋慶贊，向開口不得處扭轉舌頭，與諸人通箇消息。良節秋初七月天，西風拂拂柳含煙，香和湛水連天碧，迥出木叉體相圓。此四句中有一句包羅萬彙，氣",
+          "MasterName": "Lanshi Ling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lanshi Ling",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB218.xml). Recorded Sayings of Chan Master Lanshi Ling. Lanshi Ling owns the retained deployment, ruling the new-built towers and golden faces pocket a million humans and gods together with the five lakes' wind and moon, one hair-tip holding worlds without hinderance, before drawing one circle in the air."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J38/J38nB406.xml",
+        "J/J10/J10nA158.xml",
+        "J/J34/J34nB311.xml",
+        "J/J37/J37nB388.xml",
+        "B/B27/B27n0152.xml",
+        "J/J39/J39nB471.xml",
+        "J/J27/J27nB193.xml",
+        "J/J28/J28nB218.xml"
+      ],
+      "RelatedMasters": [
+        "Tianran Hanshi",
+        "Miyun Yuanwu",
+        "Juelang Daosheng",
+        "Yikui Yuankui",
+        "Yulin Tongxiu",
+        "Konggu Daocheng",
+        "Yinyuan Longqi",
+        "Lanshi Ling"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The cosmic-audience hyperbole of the Chan records: a million humans and gods named as one mute multitude, the backdrop against which the single smiler or the newborn buddha stands out. Tianran Hanshi rules the blue lotus raised before a million humans and gods already a fair leak after forty-nine years of talk still missed the message, Miyun Yuanwu traces the special transmission to the moment a million humans and gods all missed the landing place while Kashyapa alone broke into a smile, Juelang Daosheng on Bathing-the-Buddha day watches a single one leap out of the million humans and gods pointing at heaven and earth, ready to beat both the objecting onlooker and the silent one, and Yikui Yuankui chains his four drops, Shaolin's true needle, Kashyapa's hot deceiving of the million humans and gods, and the arm-cutting master's vain talk of marrow. Yulin Tongxiu enters the Shanquan temple and rules the flower-and-smile affair fresh as ever, a million humans and gods gazing together, Konggu Daocheng blesses the donors' meal with Prince Jeta's garden and the elder's gold, a million humans and gods making the great good that this day's faithful match, Yinyuan Longqi opens at Longquan holding the barrier so three thousand buddhas cannot peer in while the side-channel line has a million humans and gods gazing up, walls ten thousand fathoms high, and Lanshi Ling has the patron's new temple pocket a million humans and gods together with the five lakes' wind and moon before insisting the mountain monk mount the seat and turn the great wheel."
+    }
+  ]
+}

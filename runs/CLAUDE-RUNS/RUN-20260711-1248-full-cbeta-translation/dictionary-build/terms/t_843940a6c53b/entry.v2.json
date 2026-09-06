@@ -1,0 +1,174 @@
+{
+  "Id": "t_843940a6c53b",
+  "SourceTerm": "點即不到",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:31:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "point at it and you never arrive",
+      "AlternateTargets": [
+        "pointed at, it stays unreached"
+      ],
+      "SearchAliases": [
+        "the pointing-and-arriving pair",
+        "the unpointed arrival formula",
+        "pointing fails to reach",
+        "the arrive-and-not-point couplet"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 138 hits in 91 files representing 88 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0683c05",
+          "ToLb": "0683c21",
+          "Kwic": "四員善知識。問著箇箇屙轆轆地。只有歸宗老較些子。師云。以強欺弱有甚麼難。我者裏有一味禪。為甚麼不學。但向道。收待伊拈起。有般無眼漢。只管喫吽吽。雪竇門下誰敢。便下座。上堂云。胡蜂不戀舊時窠。猛將不在家中死。若是箇漢。聊聞舉著。剔起眉毛便行。一日六人新到。師問云。還有作家禪客麼。參頭云。和尚道什麼。師云。點即不到。僧擬議。師便喝。僧無語。師云。龍頭蛇尾。復問第二箇僧。指參頭云。和尚問。何不祇對。師與一掌。僧無語。師復指云。第三。其僧茫然。師云。一狀領過。上堂。僧問。如何是時節因緣。師云。瞌睡漢。僧便喝。師云。詐惺惺。復云。譬若世界壞時大水競作。其間無量眾生。或沒未沒。互相悲號。仰望蒼蒼。皆云相救。當爾之時。四禪",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained testing: any author-masters here? — what does the abbot say? — point and you don't arrive; a shout for the deliberator, a slap for the second, one charge-sheet for the third. The registry's English title names him Mingjue; the roster canonical stands."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0009c19",
+          "ToLb": "0010a08",
+          "Kwic": "大自在。劫成也。由我相隨而成。劫壞也。由我相隨而壞。坐斷乾坤而稱尊。斡旋陰陽而作宰。諸禪德且道。修何功德。住何三昧。爾纔踏步向前。敢道非公境界。上堂云。聲色見聞鬧浩浩。恰似兒時鬪百草。兩家拈出一般般。相對無言點頭笑。好笑好笑。人人盡道。香嚴擊竹響而明心。靈雲見桃花而悟道。還端的也無。當時到即不點。而今點即不到。開啟乾龍節。上堂云。好諸禪德。錦雲迎日。玉殿傳春。祥光現尊貴之家。瑞應兆誕生之事。萬椉七寶。親曾父子相承。九重一人。還與弟兄和合。諸人還委悉麼。良久云。洪蕩溫風布炎德。熙和韶日洗寒姿。天池長老至上堂云。虛心能作。白雲起石柱源頭。有應不乖。明月印天池水面。因緣事偶。感應道交。有時孤峯頂上盤結草菴。呵佛",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained ruling: everyone says Xiangyan struck the bamboo and Lingyun saw the peach blossoms — was it really so? At that time, arrive and it wasn't pointed; now, point and you don't arrive."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0424a05",
+          "ToLb": "0424b11",
+          "Kwic": "機祖令當行也方便指群迷師云深進云深意又如何師云淺進云學人如何領會師云點僧云大眾證明學人禮謝師云老僧今日失利問遠離九峯丈室已届歸宗道場如何是不動尊師云鷓鴣啼處百花香進云萎花風掃去香水雨飄來師云今也如是古也如是進云若然者將為少林消息断如今蹤迹宛然存師云如何是少林消息僧禮拜師云點即不到。師云佛法要妙但歸其宗苟歸宗也自然無可不可一切成現海印發光今與大眾同已歸宗住平等本際敢問何者是宗何者是要妙良久云秖為分明極󷘤令所得遲。上堂為新舊化主云舊者已還新者復作新舊相資放過一󷓞遂拈拂子云不可作新舊會既不作新舊會又落在甚麼處若知落處受用無窮若不知落處亦受用無窮知落處受用無窮則可知不知落處因甚麼受用",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Zhenjing Kewen owns the retained answer: the Shaolin tidings cut off, the traces plain — point and you don't arrive — then his own address: the wonder of the teaching only returns to its source; returned, all stands present, the ocean-seal giving light."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0633a26",
+          "ToLb": "0633b09",
+          "Kwic": "宗乘事若何？」師云：「汝但喫棒。」乃云：「棲真初開法席，且喜衲僧雲集；今日檀信設齋，長幼不妨飽食。若或用意參禪，究竟徒勞心力。所以先師道：『禪不須參，道不須悟，直下承當，超佛越祖。』且道超越一句如何舉唱？脫體無依知見外，謳歌此日樂昇平。」上堂。「昔日相見不談禪，今日重逢豈談道？非是山僧沒些權宜，只為個中點即不到。所以道：『設使言前薦得，猶是滯殼迷封；縱僥句下精通，未免觸途狂見。』須是出格英靈，始不向此二途入作。只如不涉迷悟一句作麼生道？嘗憶江南三月裏，鷓鴣啼處百花香。」上堂。「大道本非男女相，只緣念異有差殊。但得不生諸所見，了無一物可分疏。不見昔日末山尼了然開堂，灌溪參問：『如何是末山？』了云：『不露頂。』灌云：",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained excuse: formerly we met without talking Chan — not that this mountain monk lacks expedients, only that here pointing cannot arrive; only the out-of-rank spirit skips both tracks — where the partridge cries, a hundred flowers scent."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0459c17",
+          "ToLb": "0459c30",
+          "Kwic": "國推門落臼。承當過量事，須還過量人，發明過量機，施設過量用，不資餘力，左右逢源，捲舒立方外乾坤，縱橫挂域中日月，於不思議處因行掉臂時，迥出一輪，光吞萬象，非圓非缺，無物比倫，任是靈山話底、曹溪指底，何似水中撈摝得底？且道因甚得到與麼地？月中仙桂和根拔，非比尋常第一枝。」晚參。「電捲星馳，到即不點；纔涉思惟，點即不到。及乎坐斷兩頭，劈開向上一竅，一句中具三玄門、一玄門具三要，且道是甚麼竅？檢點得出，不謬為神鼎禪客；其或未然，鄭州梨、青州棗，大抵勿過出處好。」小參。「離心意識參，澄潭不許蒼龍蟠。絕凡聖處學，豈特無繩而自縛。進前則垛生招箭，退後則墮坑落塹。左不得、右不得，取不得、捨不得，不可得中恁麼得，猶添腦後三斤鐵。畢",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained wedge: lightning rolls, stars race — arrive and it isn't pointed; thought stirs — point and you don't arrive; both ends cut through, the one gate above split open — examine it out and you're no false Shending guest; fail, and nothing beats a good provenance."
+        },
+        {
+          "RelPath": "J/J34/J34nB303.xml",
+          "FromLb": "0362c05",
+          "ToLb": "0362c21",
+          "Kwic": "」良久，擊竹篦一下，云：「頻呼小玉元無事，秪要檀郎認得聲。」』」師云：「欽山、巖頭可謂難兄難弟，不合將祖父赫奕家聲一時變為風花雪月，雖則落落可觀，未免令見聞者心搖目眩。東山老漢只知應物現形，竟忘入泥入水。璣上座不惜眉毛，分明道破。」乃頌云：「同條生也行藏別，騎聲蓋色何殊絕？折得花枝當酒籌，和雨和煙弄風月。點即不到，大巧若拙。驀拈拄杖，云：殘紅滿地無人掃，盡是行人眼中血。」偈頌答同參答同參阿難尊者一日問迦葉曰：「師兄！世尊傳金縷袈裟外，別傳箇甚麼？」迦葉召阿難，阿難應諾。迦葉曰：「倒卻門前剎竿著。」乃頌云：「門前剎竿，阿誰起倒？弟應兄呼，舌大口小。無數聲光藏不得，霜前雪後隨風掃。借問從上白拈，而今竊得多少？」賓",
+          "MasterName": "Xieyun Jiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xieyun Jiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB303.xml). Recorded Sayings of Chan Master Xieyunji at the Fearless Hall, Guoqing. Xieyun Jiji owns the retained verse-close: plucking the flower-branch for a wine-tally, playing wind and moon through rain and mist — point and you don't arrive: great skill seems clumsy — then the staff: fallen red un-swept, all of it the traveler's eyes' blood."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0744a29",
+          "ToLb": "0744b13",
+          "Kwic": "亭對人天眾前豈肯覆卻？記得昔年在太平城裏有一箇得力句，不免舉似大眾。」乃喝一喝，便下座。晚參。「貓有歃血之功，虎有起屍之德，山門騎佛殿，遶四天下，揚聲大叫云：『萬物自有功，當言用及處。』汝等因甚見似不見、聞似不聞？」良久，曰：「特地一場愁。」又曰：「隔身句拈卻一邊，覿面相呈事作麼生？還見壁麼？」晚參。「點即不到，到即不點。黃梅墜腰石，風雨生苔蘚。投子和尚赤腳下桐城，是汝諸人見慣底。銅砂鑼裏滿盛油，作麼生與他辨主？」一僧禮拜便出，師曰：「聞名不如見面。」結制，上堂。「選佛場開，是聖是凡齊著倒；心空及第，十分春色屬吾家。恁麼也得，不恁麼也得，有殺有活，有縱有奪。恁麼不恁麼總得，釋迦老子無出頭分，德山臨濟只可傍觀。有",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained address: point and you don't arrive, arrive and you don't point — Huangmei's waist-dropping stone moss-grown, master Touzi barefoot to Tongcheng, the copper sieve brimming with oil — how to tell the host? One bowed and left; hearing the name is not like meeting the face."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "T/T48/T48n2001.xml",
+        "D/D48/D48n8939.xml",
+        "J/J26/J26nB186.xml",
+        "J/J37/J37nB388.xml",
+        "J/J34/J34nB303.xml",
+        "J/J36/J36nB362.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Hongzhi Zhengjue",
+        "Zhenjing Kewen",
+        "Linye Tongqi",
+        "Yikui Yuankui",
+        "Xieyun Jiji",
+        "Guantao Daqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The point-and-never-arrive of the Chan records: the blocked road — the newcomer shouted down, the bamboo and peach-blossom awakenings ruled past pointing, the Shaolin message, the reunion without expedients, and the whisk-flick on say-and-don't-say. Xuedou Chongxian tests the six newcomers: any author-masters of Chan here? The leader: what does the abbot say? — Point and you don't arrive. The monk goes to deliberate — a shout. Silence. Dragon head, snake tail. The second, asked why he doesn't answer for the leader — one slap. The third, blank — one charge-sheet covers all, Hongzhi Zhengjue weighs the famous awakenings: everyone says Xiangyan struck the bamboo and his mind brightened, Lingyun saw the peach blossoms and woke — was it really so? At that time, arrive and it wasn't pointed; now, point and you don't arrive, Zhenjing Kewen takes the Shaolin-message ask — if it were so, the Shaolin tidings would be cut off, yet the traces stand plain — the monk bows — and he answers: point and you don't arrive; then his own address: the wonder of the way's teaching only returns to its source; returned to source, nothing is not allowed, all stands present, the ocean-seal giving light — now together with the assembly returned to source, dwelling in the equal basis: which is the source, which the wonder? — only because it was utterly plain, the attaining came late, and Linye Tongqi meets an old friend: formerly we met without talking Chan — today reunited, should I talk the way? Not that this mountain monk lacks expedients — only that in this matter pointing cannot arrive: propose it before the words and you're sealed in the shell; master it under the phrase and you run mad along every road. Only the out-of-rank spirit doesn't enter by either track — and the one line beyond delusion and waking? He remembers the third month of Jiangnan: where the partridge cries, a hundred flowers scent. Yikui Yuankui's evening address: lightning rolls, stars race — arrive and it isn't pointed; the moment thought stirs — point and you don't arrive. And once both ends are sat cut through, the one gate above split open: one line holding the three mysteries, one mystery holding the three essentials — what a gate! Examine it out and you're no false Shending guest of Chan; fail, and the Zhengzhou pear, the Qingzhou date — at bottom nothing beats a good provenance, Xieyun Jiji grades the Qinshan-Yantou brothers: they turned the grandfather's resounding family name into wind-flowers-snow-moon — striking in with his own verse: born on the same branch, their bearing differs; riding sound and covering color, what difference? Plucking the flower-branch for a wine-tally, playing wind and moon through rain and mist — point and you don't arrive: great skill seems clumsy — then the sudden staff: fallen red covers the ground with no one sweeping, all of it the traveler's eyes' blood, and Guantao Daqi's evening address: point and you don't arrive, arrive and you don't point — Huangmei's waist-dropping stone, moss-grown in wind and rain; master Touzi barefoot down to Tongcheng — what you are all used to seeing; the copper sieve brimming with oil — how do you tell the host from it? One monk bowed and walked straight out; the master: hearing the name is not like meeting the face."
+    }
+  ]
+}

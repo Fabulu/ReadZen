@@ -1,0 +1,196 @@
+{
+  "Id": "t_6b2e458f01be",
+  "SourceTerm": "無是無非",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:28:43Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no right and no wrong",
+      "AlternateTargets": [
+        "neither right nor wrong",
+        "no is and no is-not"
+      ],
+      "SearchAliases": [
+        "beyond right and wrong",
+        "the refused pair",
+        "no affirmation no denial"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 144 hits in 92 files representing 90 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0002b24",
+          "ToLb": "0002c15",
+          "Kwic": "正恁麼時。作麼生辨。良久云。歷歷機前雙照眼。堂堂象外萬年身。冬至上堂云。陰極而陽潛。布生成之道。虛凝而照。旁分建化之緣。直得俯仰順化。應接無虧去也。諸人還會麼。鏡淨誰嫌差別像。谷虛自應合同音。上堂云。明明百草頭。明明祖師意。於他未甞一。於我未甞異。若祇這便是。當頭觸諱。若祇這不是。甚處藏避。所以道。無是無非。不即不離。三世如來同宣此義。敢問諸人。且道。畢竟是什麼義。良久云。向下文長。付在來日。長蘆書至。上堂云。靈機未轉。難窺青白之痕。寶印當權。密布正偏之位。壺中消息。劫外春光。還他一氣連枝。須是同身共命。明頭轉側。暗裡逢迎。直得千里同風去也。諸人還體悉得麼。明月滿空天水淨。弟兄俱在合同舡。上堂云。居淨",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained ruling: if just this is it, you strike the taboo head-on; if just this is not it, where will you hide — hence no right and no wrong, neither identical nor apart."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0831a16",
+          "ToLb": "0831b10",
+          "Kwic": "與眾生界中作佛法種子況龍學侍郎與大丞相所謂同聲相應同氣相求若論公家縉紳中各出一隻手扶持社稷蘇活生靈在吾教中乃是般若眷屬所以今日得得作此勝緣意為秦國發揚此事然此事不在多知多解不在貴不在賤不在老不在少趙州和尚道百歲老人不及我者我即教之三歲小兒過我者我即師之看他古人何曾執著我能我解高立界墻我是他非來祖師門下法無是無非無人無我這箇拈出呈似人不得說與人不得清涼國師云語證則不可以示人說理則非證不了雖然拈似人不得不可獨是我知我解若如此則佛法不遍一切處只為佛法平等故應以佛身得度者即現佛身而為說法應以宰官身乃至比丘比丘尼身得度者即現此身而為說法這箇說話且道後來曾有効驗也無又安得無豈不見傳燈錄載唐文宗好食蛤唎一日御厨中有擘不開者監",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained ruling: see how the old ones never clung to an I-can and an I-understand, never raised the wall of I-right and you-wrong — at the founding masters' gate the teaching has no right and no wrong, no self and no other."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0433a08",
+          "ToLb": "0434a02",
+          "Kwic": "今朝六月二十五莫問超佛及越祖但秖粥飯飽便休日月朝昏自回󲒠驀拈拄杖云回󲒠不回󲒠佛殿走出三門僧堂趒過𢊍庫拄杖子穿却諸人鼻孔廻而更相涉乃擲下良久云不尓依位住喝一喝下座。上堂一󷨞落天下秋廬山山北到江州驀拈拄杖擲下云若知撲落非他物須信縱橫得自由。解夏日上堂四月十五結夏七月十五解夏𠀍俗諦中有秋有夏有解有結佛法門中無是無非無得無失莫非妙用有時結也九十日內水𣳘不通聖凡路絕誰敢咳嗽若咳嗽也須是你解咳嗽始得有時解也十方通徹去來自在亦須知有路頭去處始得且道不解不結又作麼生良久喝一喝下座。上堂欲識佛性義當觀時節因緣昨日撞鍾送法眼入󷘳今朝擊鼓集禪眾陞堂千般時節萬種因緣緫不出這箇大眾且道這箇是什麼乃喝云異生見解我執不同又爭恠得老僧。",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Zhenjing Kewen owns the retained release address: in the world's truth there are autumn and summer, binding and release; in the Buddha gate no right, no wrong, no gain, no loss — all wondrous function."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0594b23",
+          "ToLb": "0594c10",
+          "Kwic": "延壽集夫諸佛境界。唯趣不思議一心解脫之門。何謂不思議解脫。以一切法非有而有。有而非有。非定量之所知故。稱不思議。既以非有而有。即不住於無。有而非有。即不住於有。有無不住。即於諸法悉皆解脫。以一切法不出有無故。是知一心解脫之中。無有文字。則無生死。無煩惱。無陰界。無眾生。無憂喜。無苦樂。無繫縛。無往來。無是無非。無得無失。乃至無菩提。無涅槃。無真如。無解脫。以要言之。一切世出世間諸法。悉皆無有。如首楞嚴經云。知見立知。即無明本。知見無見。斯即涅槃。無漏真淨。云何是中更容他物。如上所說。世間生死。出世涅槃等。無量差別之名。皆從知見文字所立。若無知見文字。名體本空。於妙明心中。更有何物。如六祖偈云。菩提亦非樹。明",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "compiler",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the Source. Yongming Yanshou owns the retained ladder: in one-mind liberation there are no words — no birth-and-death, no afflictions, no right and no wrong, no gain and no loss, down to no awakening and no nirvana."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0507a09",
+          "ToLb": "0507b15",
+          "Kwic": "悄慍于羣小世祖退命近侍傳語云恨相見之晚庚子秋世祖馬上有省連詔敦請至京世祖就見西苑丈室相視而笑日窮玄奧世祖見一矮戒子指問師師云長者長法身短者短法身世祖喜謝偈頌奉旨進頌深殿焚香永心齋笑坐忘大圓鏡智淨應物妙無方又慈幃色養適侍坐快談玄法界塵塵佛同光照大千雨夜奉旨書心同虛空界示等虛空法證得虛空時無是無非法虛空作麼生證心隨萬境轉轉處實能幽隨流認得性無喜亦無憂見聞覺知是流性作麼生認一念不生全體現六根纔動被雲遮全體現時如何畧約不是趙州橋明月清風安可比旨為保母說法師秉拂云保母善知識凡生世間未免形累菩薩有隔蘊之迷况其次耶既篤信真宗應洞明自性十方無壁落四面亦無門淨倮倮赤灑灑虛空撲落地露柱絕塵奔現前大眾異口同音",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of Chan Master Yulin Tongxiu. Yulin Tongxiu owns the retained command-answer: mind the same as the realm of space, the showing equal to the space-teaching, certified when space is certified — no right and no wrong — and then his crack: how do you certify space?"
+        },
+        {
+          "RelPath": "X/X67/X67n1304.xml",
+          "FromLb": "0342c20",
+          "ToLb": "0343a10",
+          "Kwic": "妙密難明，巍巍相好，擬之則識莫可識，議之則智莫可知，自無始來、從今以去，非凡情可測、非聖解可量，庸愚之流莫可得而親近者也。設使朝朝暮暮、兀兀騰騰，覓茶姑姑、尋酒姨姨，一向世諦流布，至今不得從良，雖然用盡殷勤，到了難為自在，直饒指天指地、獨貴獨尊，第二門頭不勞出現。子細看來，怎如向然燈前、威音外，無名無姓、無是無非却救得一半，擬乘白象欲降王宮，乃至出家成道、說法度人，安待不名傳言送語者歟？只如尊貴一路，未審合向甚麼處瞻仰？還相委悉麼？欲識誕生王子父，鶴騰霄漢出銀籠。第三十七則九峰相傳(佛祖)第三十七則九峰相傳示眾云：住持千嶂月，孰可依栖？衣鉢一溪雲，誰堪承受？儻肯舒心將去，休愁信手拈來。冬苽印莫錯摶䟦，西祖意",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan's Commentary and Chanted Remarks on Chan Master Danxia Zichun's Verses on Ancient Cases: Xutang Collection. Linquan Conglun owns the retained grading: even pointing at heaven and earth, sole and precious — better by far, before the lamp was lit and past Sound-of-Awe, nameless and surname-less, no right and no wrong — that saves half."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0771a18",
+          "ToLb": "0771a29",
+          "Kwic": "僧問：「師住皖山，還知皖山境界否？」師云：「頑石團團，青松鬱鬱。」僧問：「如何是正法眼藏？」師一喝，僧一喝，云：「兩喝後如何？」師云：「合著你的嘴。」鐵壁居靜室。僧問：「如何是無夢無想主人公？」師云：「鐵壁山高。」僧云：「莫就是麼？」師云：「是即頭上安頭，不是即撥波求水。」僧云：「無是無非，是否？」師云：「無是無非，死水身棲。」僧拜云：「恁麼則來朝天池挑泥。」師不顧。僧問：「如何是不思議境界？」師云：「螺螄吞大象。」有僧碧文從少林來，言在北方講下十餘年，少林住三載。師即問曰：「宗教兩般都不問，你將腳跟下一著子道一句看。」僧云：「自己腳跟下沒有甚麼說？」師笑，僧少停，請師道。師云：「待石磉礅開花即向你道。」僧云：「石磉",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained reversal: no right and no wrong — is that it? No right and no wrong: a body perched in dead water."
+        },
+        {
+          "RelPath": "J/J29/J29nB237.xml",
+          "FromLb": "0444a11",
+          "ToLb": "0444a24",
+          "Kwic": "揮本有。禹門院裏養得一隻水牯牛，眼如滄海，口似龍舟，今疆推出，打污身首，驚起無位真人，走向三千里外，高聲云：『好不識羞。』了上座秖得唯唯而退。」召眾云：「且道是何意旨？」良久，云：「委悉麼？」卓拄杖，下座。住貴州安順府靜隱禪院語錄住貴州安順府靜隱禪院達鑑黃居士請上堂。「心同虛空界，示等虛空法，證得虛空時，無是無非法。」拈拄杖○云：「虛空時證得了也，作麼生是無是無非底法？莫不是世尊拈華、迦葉微笑，是無是無非法麼？且喜沒交涉。莫不是迦葉召阿難、難應諾，是無是無非法麼？且喜沒交涉。莫不是德山棒、臨濟喝，是無是無非法麼？且喜沒交涉。莫不是禾山打鼓、石鞏張弓，是無是無非法麼？且喜沒交涉。既總沒交涉，可以將一莖艸作丈六金身用、",
+          "MasterName": "Yuechuang Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuechuang Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB237.xml). Recorded Sayings of Chan Master Yuechuang Liao. Yuechuang Liao owns the retained ladder: is the no-right-and-no-wrong teaching the flower held up and Kāśyapa's smile — happily no connection; Kāśyapa calling Ānanda — no connection; Deshan's staff and Linji's shout — no connection; Heshan's drum and Shigong's drawn bow — no connection."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "M/M59/M59n1540.xml",
+        "D/D48/D48n8939.xml",
+        "T/T48/T48n2016.xml",
+        "B/B27/B27n0152.xml",
+        "X/X67/X67n1304.xml",
+        "J/J26/J26nB188.xml",
+        "J/J29/J29nB237.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Dahui Zonggao",
+        "Zhenjing Kewen",
+        "Yongming Yanshou",
+        "Yulin Tongxiu",
+        "Linquan Conglun",
+        "Ruibai Mingxue",
+        "Yuechuang Liao"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "No right and no wrong: the tail of the transmission verse and the halls' standing refusal — struck by Hongzhi as the one meaning, warned by Ruibai as dead water, and given four happy no-connections by Yuechuang. Hongzhi Zhengjue, on the hundred-grass tip: bright, bright — the patriarch's intent; toward the other, never once one; toward me, never once other — if just this is it, you strike the taboo head-on; if just this is not it, where will you hide? hence no right and no wrong, neither identical nor apart — the one meaning the three-age tathāgatas all proclaim — and I dare ask you: what after all is that meaning? a long pause: the rest is long; I leave it for tomorrow; Dahui Zonggao, preaching to the lay patrons: the thing does not lie in much knowing and much explaining, not in noble or lowly, old or young — Zhaozhou said the hundred-year-old who falls short of me, I teach him; the three-year-old who passes me, I make him my teacher — see how the old ones never clung to an I-can and an I-understand, never raised the wall of I-right and you-wrong: at the founding masters' gate the teaching has no right and no wrong, no self and no other — this cannot be picked out and shown to people, cannot be told to people; Zhenjing Kewen at the summer release: the fifteenth of the fourth month binds, the fifteenth of the seventh releases — in the world's truth there are autumn and summer, binding and release; in the Buddha gate no right and no wrong, no gain and no loss — nothing but wondrous function: when it binds, ninety days with the water dammed and the holy-and-ordinary road cut — who dares cough? if you cough, it must be a cough you know how to cough; when it releases, the ten directions open through, coming and going free — and you must still know where the road-head lies; Yongming Yanshou, in the mirror of the source: all buddha realms course only into the gate of one-mind liberation — in one-mind liberation there are no words, and so no birth-and-death, no afflictions, no aggregates and realms, no beings, no sorrow and joy, no pain and pleasure, no bondage, no coming and going, no right and no wrong, no gain and no loss — down to no awakening, no nirvana, no true-suchness, no liberation. Yulin Tongxiu, commanded by the throne on a rainy night to write, answers with the patriarch's verse and his own cracks verse by verse: mind the same as the realm of space; the showing equal to the space-teaching; certified when space is certified — no right and no wrong — and how do you certify space? the mind turns with the ten-thousand conditions, and the turning can truly be dark — following the flow, recognize the nature, no joy and no sorrow — seeing, hearing, awareness and knowing are the flow — and how do you recognize the nature? not one thought arising, the whole body present; the six roots just stir and clouds cover it — and when the whole body is present, what then? the stepping-stones are not Zhaozhou's bridge; bright moon and clear wind are no comparison; Linquan Conglun, on the birth case: even pointing at heaven and earth, solely noble, solely honored, with no need to appear at the second gate — look closely: how does that compare with, before the lamp was lit and beyond Sound-of-Awe, no name and no surname, no right and no wrong — and even that saves only half; to mount the white elephant and descend toward the palace, leave home, complete the way, teach and deliver — does that not wait on messengers passing words? Ruibai Mingxue, in the question-and-answer record: asked how the dreamless thought-free host is answered, he rules — it is, and you add a head on a head; it is not, and you part waves looking for water — the monk offers: no right and no wrong — is that it? the master turns it back: no right and no wrong — a body perched in dead water; the monk bows: then I have come to Tianchi to carry mud — and he does not look round; Yuechuang Liao, at the patron's request in the Guizhou hermitage: mind the same as the realm of space, certified when space is certified — and what after all is the no-right-and-no-wrong teaching? is it the World-Honored holding up the flower and Kāśyapa's faint smile — happily, no connection; Kāśyapa calling Ānanda and Ānada answering — no connection; Deshan's staff and Linji's shout — no connection; Heshan's drum and Shigong's drawn bow — no connection; since all have no connection, you can use one blade of grass as the golden sixteen-footer and back again."
+    }
+  ]
+}

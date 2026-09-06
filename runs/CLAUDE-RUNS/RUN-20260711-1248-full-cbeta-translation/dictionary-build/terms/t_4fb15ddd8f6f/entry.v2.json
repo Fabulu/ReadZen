@@ -1,0 +1,194 @@
+{
+  "Id": "t_4fb15ddd8f6f",
+  "SourceTerm": "蒼天蒼天",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:04:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "blue sky, blue sky",
+      "AlternateTargets": [
+        "heaven above, heaven above"
+      ],
+      "SearchAliases": [
+        "the doubled cry to heaven",
+        "O blue heavens",
+        "the sky-blue exclamation of last resort"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 196 hits in 70 files representing 68 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0366c06",
+          "ToLb": "0366c19",
+          "Kwic": "學人和合否？」師云：「人來，莫向伊道。」問：「祖意與教意同別？」師云：「才出家未受戒，到處問人。」問：「如何是聖？」師云：「不凡。」云：「如何是凡？」師云：「不聖。」云：「不凡不聖時如何？」師云：「好箇禪僧。」問：「兩鏡相向，那箇最明？」師云：「闍梨眼皮，蓋須彌山。」問：「學人近入叢林，乞師指示。」師云：「蒼天蒼天。」問：「前句已往、後句難明時如何？」師云：「喚作即不可。」云：「請師分。」師云：「問問。」問：「高峻難上時如何？」師云：「老僧不向高峰頂。」問：「不與萬法為侶者是什麼人？」師云：「非人。」問：「請師宗乘中道一句子？」師云：「今日無錢與長官。」問：「學人不別問，請師不別答。」師云：「奇怪。」問：「三乘教外",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment, answering the newcomer's plea for instruction with the doubled cry alone and nothing beside."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0370b15",
+          "ToLb": "0370c04",
+          "Kwic": "皎潔。無餘無欠，無聽無說，韶陽老只得一橛。十聖三賢，聞舉著魂消膽裂，唯普菴迥然寂滅。俄有僧稱道存，自蜀冐雪而來。既見，師曰：此吾不請友也。遂相徵詰，棒喝交馳，心心密契。僧曰：師再來人也，大興吾道，非師其誰？因指雪書頌而行。自是廣津梁，崇塔廟，禦灾捍患，天動物與，雖鬼神莫測其變。符頌藥水，驗世非一。甞自贊云：蒼天蒼天，悟無生法，談不說禪。開兩片皮，括地該天。如何是佛？十萬八千。己丑乾道五年七月二十一日，沐浴書偈于方丈之西壁云：乍雨乍晴寶象明，東西南北亂雲深。失珠無限人遭劫，幻應權機為汝清。○枯木救度。書畢，跏趺而逝。至冬十一月一日，奉全身于塔。己亥淳熈六年正月，弟子應世書，請臨江艮齋謝公諤銘其塔。慈昱不敏，膺二十",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu owns the retained deployment, opening his self-praise with the doubled cry — awakened to the birthless, talking without speaking of Chan, the two opened skin-flaps sweeping earth and heaven, the answer to what-is-buddha the hundred-and-eight-thousand."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0131b25",
+          "ToLb": "0131c10",
+          "Kwic": "倚樹。雖然，切忌問著，問著則頭角生。」小參。「沉空滯寂，齷齷齪齪。混世同塵，潔潔淨淨。長者長法身，短者短法身。月大大盡，月小小盡。狸奴白牯卻知，三世諸佛不省。要得四海平定……」喝一喝，云：「急急如律令。」上堂。「本來無一物，教外有何傳？幾多英靈子，紙裹又麻纏。天台南嶽奔如電，河北江南走似煙。漆桶漆桶，蒼天蒼天。狼藉不止東土，淆訛始自西乾。」女弟子上蓮修淨業，請小參。「口口佛，心心佛，事事佛，步步佛，一撞一磕都是佛。忽然撞著石大郎，口中吐出蓮花碧。」上堂。拈起拄杖云：「看！看！十五日已前，日月未足喻其明；十五日已後，虛空未足喻其廣。正當十五日，有高逾泰華、深越滄海一句子，擬舉似諸人，未免道欺人太煞。有信得及者，",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment, crying over the painted-eye lacquer buckets streaming from Tiantai and Nanyue to Hebei and Jiangnan — the mess not stopping in the eastern lands, the tangle beginning in the western heavens."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0198a07",
+          "ToLb": "0198b11",
+          "Kwic": "窮歲盡許學人探個消息也無師云錯過了也僧喝師云喝後如何僧禮拜起呈坐具云和尚便歸眾師云都盧去也問歲盡年窮即不問斬新一句請師宣師云明日向你道進云恁麼則萬物生輝去也師云未到你在問爆竹聲聲歷亂來是誰的消息師云開眼看進云秪如大眾濟濟又作麼生師云你自道看進云學人便禮拜去師云莫錯認好僧喝師云好一喝只是未知落處在進云蒼天蒼天師云蒼天蒼天師廼云天無蓋地無載森羅萬象無在不在春夏秋冬只恁麼過於中不知誰主宰燈籠露柱最相親佛殿山門咸頂戴東村喫酒西村舞笑倒張家王小妹且道笑個什麼一年四季好風流此際分明都捉敗顧視左右云更有一事一發與你諸人說破今夜小盡圍爐喫茶去。小叅師拽杖入堂云今日有則因緣不得不舉似大眾知道報恩偶得二猫玉林琇書記攜至方",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, echoing his questioner's doubled cry straight back, then versing heaven without a cover and earth without a bearer, the ten thousand images nowhere absent, the east village drinking and the west village dancing with no one to name as ruler."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0297b06",
+          "ToLb": "0298a10",
+          "Kwic": "闤闠中因甚難見士無語。問臨濟以三句接人和尚者裏作麼生師云山僧者裏不見有人云設有出格漢子來時如何師云待有即接僧𠊳喝師云山僧被你一喝僧擬議師𠊳喝。問某甲嘗看無字話頭若道是有違他趙州若道是無一切蠢動含霛皆有佛性爭得無去師云山僧到此一籌莫展云某甲不會師云你也伎倆全消云畢竟如何師云三十棒自領出去云過抂甚麼處師云蒼天蒼天。問如何是大用見歬師厲聲云去你不是者般腳手僧懡㦬而退。問趙州無字公案作麼生會師云寒雁一聲情念斷云畢竟意旨如何師云霜鐘動纔我山摧。居士問古人念念抂定慧為是悟歬事悟後事師云待你悟了向你道忽䎹牆外買菜聲師云且道此人抂定慧外抂定慧裏云定慧裏師云以何為驗云驗抂䎹中師云還我適纔問頭來云非非想天去也師打云因甚卻",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment, granting the failing monk his thirty blows to carry out and answering the plea to name where he went wrong with the doubled cry alone."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0727b21",
+          "ToLb": "0727c05",
+          "Kwic": "金殿無人空侍立，冥王頭戴寶華冠。畢竟怎生奉重聻？」乃望空合掌。小參。「山靜似太古，日長如小年，饑時吃飯睠來眠，看飛鳧泛泛，舞燕翩翩。休錯認，最堪憐，無端遊戲，青梅一嚼，惹得滴牙酸。」小參。「看看五月五，船上蛟龍舞。保福敲鑼，禾山打鼓。門掛艾人兒，牽著玄沙虎。趙州無，雲門普，渡口相逢莫莽鹵。續命絲絲五色迷，蒼天蒼天更增冤苦。當時忠國師勘大耳三藏，第一度在西川看競渡，第二度在天津橋上看弄猢猻，第三度忽然不見。你道國師曾看競渡也無？他外國人卻被國師熱瞞。有般道：國師在三藏鼻孔上。有般道：國師在三藏眼睛上。恁般說話還的當麼？五月五日天中節，赤口白舌盡消滅。五月五日午時書，赤口白舌盡消除。」晚參。「二月二十九，特地揚家醜",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment, finding the five-colored life-threads of the river festival a bewilderment and the doubled cry itself added grief, before raising the three sightings of the big-eared Tripitaka master."
+        },
+        {
+          "RelPath": "J/J29/J29nB222.xml",
+          "FromLb": "0005a04",
+          "ToLb": "0005a18",
+          "Kwic": "只今日也喝、明日也喝，總是鬻飯气，有甚宗眼？雖然，二僧豈無見處？」上堂。「也好箇時節。你道是甚時節？大眾！年頭便見雪飄飄，艸木層層裏碎瑤，凍得荊山寒透骨，思量嬾把舌頭饒。燒獸炭，酌香醪，一園玉竹臨空曲，數樹梅華映遠郊。」上堂。「古佛未生前，一畫九相圜，中有一相是，何曾落正偏？」拈拂子作九圜相云：「還見麼？蒼天蒼天！」上堂。「昨日也口吧吧，前日也口吧吧，乃至過去無始也口吧吧；明日也口吧吧，後日也口吧吧，乃至未來無終也口吧吧。如今四眾已集、寶座已陞，也是要口吧吧。你道畢竟為箇甚麼？如不會，待下座看。」上堂。「天門山青，九溪水碧，唐虞之先，遺我今日。不知幾千億，猶問何消息？」上堂。「昨日雨，今日風，昨日今朝事不仝。事不",
+          "MasterName": "Zishui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zishui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB222.xml). Recorded Sayings of Chan Master Zishui of Wolong, Kuizhou. Zishui owns the retained deployment, drawing the one stroke before the ancient buddha's birth into nine circle-marks wheeled with his whisk, then daring the hall to see — blue sky, blue sky."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0666b19",
+          "ToLb": "0666c05",
+          "Kwic": "、舍利三不壞，睡虎翻身一口吞。第十六世虎丘紹隆禪師第十六世虎丘紹隆禪師通身是斑，一翳在眼。竹密水流，天空雲斷。涌出金輪第一峰，堪作四生大彼岸。第十七世應菴曇華禪師第十七世應菴曇華禪師巾侍半載，鼻孔去半邊。不沾肉氣，惹得滿身羶。外揚父醜，高索價錢。妙喜長姪之惡，彌增逆子之僽。知罪不辭，贊歎贊歎。或為疏密，蒼天蒼天。第十八世密菴咸傑禪師第十八世密菴咸傑禪師掇出砂盆，賣弄家風，正法眼藏，自此流通。被人看破，卻成滯貨，明眼人前，不直一唾。第十九世破菴祖先禪師第十九世破菴祖先禪師徹證根源無本據，教得胡孫倒上樹，烏頭子也早留心，直至于今無覓處。第二十世無準師範禪師第二十世無準師範禪師尺短寸長，量盡虛空無欠剩；殺刀活劍，",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment, praising the ancestor who waited half a year with half his nostril gone and flew the father's shame abroad at a high price — whether for the sparse or the dense, the doubled cry."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB137.xml",
+        "X/X69/X69n1356.xml",
+        "J/J34/J34nB299.xml",
+        "L/L154/L154n1639.xml",
+        "L/L155/L155n1643.xml",
+        "J/J33/J33nB294.xml",
+        "J/J29/J29nB222.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Pu'an Yinsu",
+        "Hanyue Fazang",
+        "Tianyin Yuanxiu",
+        "Muchen Daomin",
+        "Liangting Jingting",
+        "Zishui",
+        "Jifei Ruyi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The doubled cry of the Chan records: blue sky, blue sky — the exclamation of last resort when dismay, wonder, or the refusal to explain takes the voice. Zhaozhou Congshen answers a newcomer's plea for direction with the doubled cry alone, Pu'an Yinsu opens his own praise-verse with it — awakened to the birthless, talking without speaking of Chan, the two opened skin-flaps sweeping earth and heaven — Hanyue Fazang laments the painted-eye lacquer buckets racing from Tiantai and Nanyue to Hebei and Jiangnan, the mess not stopping in the eastern lands and the tangle beginning in the western heavens, and Tianyin Yuanxiu echoes his questioner's cry straight back, then verses that heaven has no cover and earth no bearer, the ten thousand images nowhere absent, the east village drinking and the west village dancing with no one to name as ruler. Muchen Daomin grants the failing monk his thirty blows to carry out and answers the plea to name where he went wrong with the doubled cry alone, Liangting Jingting finds the five-colored life-threads of the river festival a bewilderment with the cry itself added grief, Zishui wheels his whisk into nine circle-marks before any ancient buddha's birth and dares the hall to see — blue sky, blue sky — and Jifei Ruyi, praising the seventeenth ancestor who waited half a year with half his nostril gone and flew the father's shame abroad at a high price, rules that whether for the sparse or the dense it comes back to the same cry."
+    }
+  ]
+}

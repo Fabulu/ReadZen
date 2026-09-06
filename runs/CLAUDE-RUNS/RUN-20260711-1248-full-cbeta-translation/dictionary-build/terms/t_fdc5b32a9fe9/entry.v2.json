@@ -1,0 +1,213 @@
+{
+  "Id": "t_fdc5b32a9fe9",
+  "SourceTerm": "照用不同時",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:52:23Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "shine and work not at the same time",
+      "AlternateTargets": [
+        "the shine and the work coming apart"
+      ],
+      "SearchAliases": [
+        "shining and working out of step",
+        "the apart-turn of shine and work",
+        "light and device not simultaneous"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 194 hits in 76 files representing 74 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0522b21",
+          "ToLb": "0522c05",
+          "Kwic": "：「如何是奪人不奪境？」師云：「煦日發生鋪地錦，嬰孩垂白髮如絲。」云：「如何是奪境不奪人？」師云：「王令已行天下遍，將軍塞外絕煙塵。」云：「如何是人境兩俱奪？」師云：「并汾絕信，獨處一方。」云：「如何是人境俱不奪？」師云：「王登寶殿，野老謳歌。」師示眾云：「我有時先照後用，有時先用後照，有時照用同時，有時照用不同時。先照後用有人在；先用後照有法在；照用同時，驅耕夫之牛，奪饑人之食，敲骨取髓，痛下鍼錐；照用不同時，有問有答，立賓立主，合水和泥，應機接物。若是過量人，向未舉已前撩起便行，猶較些子。」師示眾云：「今時學佛法者，且要求真正見解，若得真正見解，生死不染，去住自由。不要求殊勝，殊勝自至。道流！秪如自古先德，皆",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the root deployment — the fourfold's closing turn, asking and answering with guest and host standing, kneading water and mud to meet the moment."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0197a10",
+          "ToLb": "0197b12",
+          "Kwic": "何是賔中主󲈺云入市雙瞳瞽師別云高声唱叫遶街行問如何是主中賔󲈺云囬鑾兩耀新師別云定國安邦賀太平問如何是主中主󲈺云磨礱三尺劒待斬不平人師別云収畨猛將寸草不留。師出四種照用語問如何是先照後用師云南岳嶺頭雲太行山下賊問如何是先用後照師云太行山下賊南岳嶺頭雲問如何是照用同時師云収下南岳嶺頭雲捉得太行山下賊問如何是照用不同時師云昨日有雨今日晴師出四賔主語問如何是賔中賔師云青山綠水分問如何是賔中主師云棒下耴分明問如何是主中賔師云退己讓人問如何是主中主師云斬盡不留身。師出四料簡語問如何是奪人不奪境師云人前把出遠󲌰千峰問如何是奪境不奪人師云打了不曾嗔冤家難解免問如何是人境兩俱奪師云萬人作一塚時人尽帶悲問如何是人境俱不奪師云問𠁅分明",
+          "MasterName": "Jingqing Daofu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingqing Daofu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Jingqing Daofu owns the retained deployment, answering the apart-turn with yesterday's rain and today's clear sky."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0350b13",
+          "ToLb": "0350c03",
+          "Kwic": "買去也。如何是佛？巖前多瑞草。如何是道？㵎下足靈苗。佛與道相去多少？數片白雲籠古寺，一條綠水遶青山。珍重！與麼來，者上間安排；不與麼來，者下間掛塔。向上人來，獨自悽悽暗渡江，更有一人向什麼處著？良久，云：釣竿斫盡重栽竹，不計工程得便休。珍重。示眾，云：古人道：有時先照後用，有時先用後照，有時照用同時，有時照用不同時。若也先照後用，露師子之爪牙；若也先用後照，縱象王之威猛；若也照用同時，如龍得水，致雨騰雲；若也照用不同時，提獎嬌兒，拊憐愛子。諸人者，此古德建立法門，為合如是？不合如是？若合如是，似紀信登九龍之輦；不合如是，若項羽失千里烏騅。還有人為琅琊出氣也無？如無，山僧自道去也。卓拄杖，下座。僧問：大事未辨時如何",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Langye Huijue owns the retained deployment, giving the apart-turn the coaxing of the darling child and the cherishing of the beloved son, then asking who will breathe for Langye."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0181a13",
+          "ToLb": "0182a13",
+          "Kwic": "氣汝等還知麼喝一喝云者是先照而後用又喝一喝云汝等還聞麼者是先用而後照且道如何是照用同時復喝一喝隨聲以拄杖打云看棒照用不同時廼龍象蹴蹋非驢所堪緩緩地與你們商量咄臨濟大師來也便出堂。天隱禪師語錄卷第六音釋孀。󵙜。覸。妥。屏。天隱禪師語錄卷第七秉七嗣法門人通琇編小參二小叅除夕小叅僧問昨日萬山松今朝千嶺雪一色本同真俄爾成差別如何是不差別法師云當爐不避火進云古人烹露地牛與眾分歲今日磬山以何分歲師云舉意便知有僧禮拜云恁麼則謝恩無𥁞師便喝問燈燈續燄祖祖聯芳濟上一宗至今猶在未審阿誰分中事師高聲云道什麼僧喝師便打僧又喝師亦喝師廼云老漢居山三十年未曾輕舉到人間只因諸子尋蹤迹不肯糢糊放過關大眾今夜大盡佛法",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, shouting the turns out one by one and leaving the apart-turn for dragon-elephants before crying that Linji is coming and walking out."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0158a29",
+          "ToLb": "0158b12",
+          "Kwic": "，著著了在先天之外，縱然奪去，依舊還我。主中主者，垂衣拱手，天下太平。然須會得四喝，方得到者田地。何為四喝？金剛王劍，你看臨濟前來，父父子子，那箇男兒不丈夫？踞地獅子，誰人腳下無一塊方磚？豈是單單珍重便打而已？探竿影草，你走到那裏去？一喝不作一喝用，恰是故有時先照而後用，有時先用而後照。照用同時，緊著眼；照用不同時，問取三日前後，此是無多子底法也。老僧今日要建立臨濟宗旨，汝等諸人成褫我。」便揮杖打散大眾，歸方丈。示眾。「從上祖師見學人于未開口前早用一椎一𡎺，直下斷人命根、頓盡源底，那裏有許多忉忉漉漉、撒屎撒尿作座主態？只為後人胸中理會太多，未入法門先學一肚皮禪道佛法、機鋒轉語、牽經帶論，貴在有知見學、口邊富贍，為做",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment — together, fix your eye; apart, ask after the three days before — the not-much teaching, on the day he dares the assembly to strip him."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0304c24",
+          "ToLb": "0305a13",
+          "Kwic": "迦世尊；若喚作釋迦世尊，又是山僧拂子；若道山僧拂子便是釋迦世尊，釋迦世尊即是山僧拂子，未免顢頇佛性，儱侗真如。且作麼生分得去？若分得去，便可向無中唱有，有中唱無，一為無量，無量為一，小中現大，大中現小，於一毫端現寶王剎，坐微塵裡轉大法輪，提祖師印，駕鉄牛機，或則先照後用，或則先用後照，或則照用同時，或則照用不同時。你要識先照後用麼？如蛇有角。你要識先用後照麼？似虎無齒。你要識照用同時麼？背負須彌，肩橫日月。你要識照用不同時麼？掀翻地軸，蹈斷天關。喝一喝。便與麼隔關山，不與麼絕遮攔，四海五湖皇化裡，吾家曲子萬年懽。擊拂子。復舉：保壽開堂，三聖推出一僧，保壽便打，三聖云：與麼為人，瞎却鎮州一城人眼去在。保壽擲下拄杖，便",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, giving the apart-turn the overturning of the earth's axis and the treading through heaven's gate, then one shout and the family tune."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0811a22",
+          "ToLb": "0811b07",
+          "Kwic": "人披枷帶鎖，出善知識前，善知識更與安一重枷鎖，學人歡喜，彼此不辨，喚作賓看賓。大德！山僧所舉，皆是辨魔揀異，知其邪正。」兩鋒開合展槍旂，互換全機作者知，一點不來雲萬里，絲毫纔失路千岐。吉凶爻象須抽換，生死關頭貴轉移，橫按莫邪全正令，寰中端坐鎮雄基。示眾：「我有時先照後用、有時先用後照、有時照用同時、有時照用不同時。先照後用有人在，先用後照有法在。照用同時，驅耕夫之牛，奪饑人之食，敲骨取髓，痛下鍼錐。照用不同時，有問有畣，立主立賓，合水和泥，應機接物。若是過量人，向未舉已前撩起便行，猶較些子。」古鏡當臺絕去留，胡來漢現足機籌，指南一出狼煙盡，霹靂纔收電火流。把住眾流俱截斷，放行攜手御階遊，回途得玅無多子，一月光含",
+          "MasterName": "Dabian Xianquan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabian Xianquan",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Xianquan owns the retained deployment, sealing the apart-turn with the old mirror on its stand and the compass out, the wolf-smoke ended and the one moonlight held."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0540b16",
+          "ToLb": "0541a12",
+          "Kwic": "堂驀打一僧僧喝師云再喝喝看僧擬議師又打大眾坐香完師命撾鼓陞堂卓拄杖舉臨濟大師云我有時一喝如金剛王寶劍有時一喝如踞地獅子有時一喝如探竿影草有時一喝不作一喝用師云且道新報恩適來在東堂一喝是金剛王寶劍耶是踞地獅子耶是探竿影草耶是一喝不作一喝用耶卓拄杖復舉臨濟大師云我有時先照而後用有時先用而後照有時照用同時有時照用不同時師云適來新報恩在此與麼打那僧是先照後用耶是先用後照耶是照用同時耶是照用不同時耶眾擬議師以拄杖旋風打散晚叅師拈拄杖云我此山中一物也無石頭大的大小的小內外諸人每日出坡三兩度驀有個漢出來道和尚前言不應後語但向他道非汝境界顧左右云若也會得許你不齩一粒米大碗喫飯不挂一縷𮈔終日著衣若也不會不是逐色隨聲即落解脫深坑",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, asking which turn the fresh strike was — and as the assembly hesitates, whirling the staff to scatter them."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "D/D48/D48n8939.xml",
+        "X/X68/X68n1318.xml",
+        "L/L154/L154n1639.xml",
+        "J/J34/J34nB299.xml",
+        "X/X71/X71n1414.xml",
+        "J/J29/J29nB248.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Jingqing Daofu",
+        "Langye Huijue",
+        "Tianyin Yuanxiu",
+        "Hanyue Fazang",
+        "Liao'an Qingyu",
+        "Dabian Xianquan",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The closing turn of Linji's fourfold shine-work formula — shine and work held apart, asking and answering — recited, elaborated, tested, and answered across the records. Linji Yixuan's address to the assembly sets the four turns and their stakes — asking-and-answering with guest and host standing, kneading water and mud, meeting the moment — and the beyond-measure one walks off before it is raised; Jingqing Daofu poses the four sayings himself and answers the apart-turn with yesterday's rain and today's clear sky; Langye Huijue elaborates the old one's formula — shine first bares the lion's claws, work first looses the elephant king's might, together a dragon making rain and cloud, and apart the coaxing of a darling child, the cherishing of a beloved son — then asks whether the gate fits or not, a Jixin mounting the nine-dragon carriage or a Xiangyu losing his thousand-li steed, and who will breathe for Langye; and Tianyin Yuanxiu performs the fourfold live — a shout for shine-first, a shout for work-first, a shout with the staff falling for together, and the apart-turn left for dragon-elephants to tread, beyond any ass's bearing — Linji is coming, and he walks out of the hall. Hanyue Fazang reads the turn through the four shouts — the diamond sword, the crouching lion, the probing pole and shadow grass, the shout that is not a shout — together, fix your eye; apart, ask after the three days before — this is the not-much teaching, and the day he builds the Linji school all present are to strip him; Liao'an Qingyu offers the identifications — shine-first a horned snake, work-first a toothless tiger, together bearing Sumeru with sun and moon across the shoulders, and apart overturning the earth's axis and treading through the gate of heaven — one shout, then the family tune ten-thousand-year glad across the five lakes; Dabian Xianquan recites the whole formula to the assembly and seals it with the old mirror on its stand, the compass out and wolf-smoke ended, the bolt gathered and released, the one moonlight held; and Yulin Tongxiu, after the new Baoyin's shout at the hall, raises the four shouts and the fourfold both and asks which the live strike was — shine-first? work-first? together? apart? — and as the assembly hesitates, whirls the staff and scatters them."
+    }
+  ]
+}

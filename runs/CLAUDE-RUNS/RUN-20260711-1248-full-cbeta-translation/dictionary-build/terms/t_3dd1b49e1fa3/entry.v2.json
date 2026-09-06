@@ -1,0 +1,288 @@
+{
+  "Id": "t_3dd1b49e1fa3",
+  "SourceTerm": "大冶精金，應無變色",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:56:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great smelter's refined gold should show no change of color",
+      "AlternateTargets": [
+        "refined gold in the great forge — it cannot change its color",
+        "gold well refined in the great smelter shows no change of color"
+      ],
+      "SearchAliases": [
+        "the smelter's gold",
+        "the unchanging gold",
+        "Xuedou's gold line",
+        "the refined-gold seal"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 49 hits in 33 files representing 33 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1301.xml",
+          "FromLb": "0228c13",
+          "ToLb": "0229a04",
+          "Kwic": "如今列其派者甚多，究其源者極少。雪竇拈汾陽石門，總道百丈於喝下大悟，似則似，爭奈魚魯參差。若是明眼漢，瞞他一點不得。只如馬祖道：你已後開兩片皮，將何為人？百丈豎起拂子，為復是如蟲禦木？為復是啐󲣅同時？殊不知雪竇一口吞盡，亦乃盡神通妙用，拈出似與人。既拈出他，且畢竟如何出他一隻眼？你等諸人，要見三日耳聾麼？大冶精金，應無變色，這語句沉却多少人了也。雪竇要出氣，露一機一境，千古萬古撲不破，諸人且莫錯會好。第四則崇壽指凳第四則崇壽指凳舉，崇壽指凳子云：識得凳子，周匝有餘。雲門云：識得凳子，天地懸殊。雪竇拈云：澤廣藏山，理能伏豹。師云：無味之談，塞斷人口。且道古人為甚麼至理之言却不舉，却指凳子？諸人且道有什麼奇特處？雲門道：天地",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1301.xml). Record of Fogu's Beat-the-Rhythm Sections. Yuanwu Keqin owns the retained deployment: the gold line itself has sunk how many men — one device, one setting, unbreakable for ten thousand ages."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0619b16",
+          "ToLb": "0619c05",
+          "Kwic": "却問百丈：汝以後開兩片皮將何為人？不可別更有也。百丈亦竪起拂子：好兒終不使爺錢。祖云：即此用，離此用，毫髮無差。百丈掛拂子於舊處，總離遮裏不得。馬祖震威一喝：醜舉止。百丈於此大悟，直得三日耳聾。真箇麼？往往盡道於喝下大悟，殊不知阿魏無真、水銀無假。自古自今，天下老和尚青黃不辨、菽麥不分，獨有雪竇較些子道：大冶精金，應無變色。老汾陽頌云：偶因無事侍師前，師指繩床角上懸。舉放却歸本位立，分明一喝至今傳。順朱填墨，不是作家。真淨文和尚頌云：客情步步隨人轉，有大威光不能見。突然一喝雙耳聾，那吒眼開黃蘗面。大力量人，語默裏轉却。妙喜頌云：馬駒脚下喪家風，四海從今信息通。烈𦦨堆中撈得月，巍巍獨坐大雄峯。說道理則不無，要見馬祖、百丈大遠",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: the age cannot tell yellow from green — only Xuedou came close; the verses trace outlines, speak reason, and still miss Mazu and Baizhang by far."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0127a01",
+          "ToLb": "0127a15",
+          "Kwic": "丈取拂子竪起，祖云：即此用？離此用？丈挂拂子於舊處，祖便喝，丈直得三日耳聾。雪竇云：奇恠諸禪德，如今列其派者甚多，究其源者極少。總道百丈於喝下大悟，還端的也無？然刁刀相似，魚魯參差，若是明眼漢，瞞佗一點不得。只如馬祖道：爾佗後開兩片皮，將何為人？百丈竪起拂子，為復如虫禦木？為復啐󲣅同時？諸人要會三日耳聾麼？大冶精金，應無變色。師云：獅子教兒迷子訣，馬祖有之。百丈直得三日耳聾，美食不中飽人喫。雪竇云：大冶精金，應無變色。好與一喝。舉：崇壽指凳子云：識得凳子，周帀有餘。雲門云：識得凳子，天地懸殊。雪竇云：澤廣藏山，理能伏豹。師云：雪竇與麼道，要且不識凳子。舉：永嘉大師到，六祖遶禪牀三帀，振錫一下，卓然而立。祖云：夫沙門具三千威",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment: the lion's cub-taming device — and the gold line deserves a shout."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0549a17",
+          "ToLb": "0549a29",
+          "Kwic": "在。何故？切忌認奴作郎。即今還有人道得得力句麼？速道！速道！」舉：「興化一日謂克賓維那云：『汝不久為唱導之師。』賓云：『不入這保社。』化云：『會了不入？不會不入？』賓云：『總不與麼。』化便打云：『克賓維那法戰不勝，罰錢五貫，設飯一堂。』至明日，化自白槌云：『克賓維那法戰不勝，不得喫飯。』即便趁出。雲居云：『大冶精金，應無變色。其奈興化令行大嚴，不是克賓維那也大難承當。若是如今泛泛之徒，翻轉面皮多少時也。』」師云：「灼然，灼然。妙喜云：『雲居拗曲作直，要作臨濟烜赫兒孫，直須翻轉面皮始得。』」師云：「妙喜老人不是誘人犯法。諸人還知他落處麼？路逢劍客須呈劍，不是詩人莫獻詩。」舉：「石頭示眾云：『言語動用沒交涉。』藥山云：『非言語動",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunju Shun",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: plainly so — yet the old man is not luring you into lawbreaking; meet a swordsman, show your sword."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0457c28",
+          "ToLb": "0458a10",
+          "Kwic": "得出，一生參學事畢。大眾！且道：是那一句？若也未知，山僧道破去也。」卓拄杖云：「通身無影象，遍界不能藏。」上堂。舉：「興化謂克賓維那曰：『汝不久為唱導之師。』賓曰：『不入者保社。』化云：『汝會了不入？不會不入？』賓云：『總不恁麼。』化便打云：『克賓維那法戰不勝，罰錢五貫，設饡飯一堂，仍須出院。』雲居舜云：『大冶精金，應無變色，其奈興化令行太嚴，不是克賓維那也大難承當。總似而今泛泛之徒，翻轉面皮多少時也。』徑山杲云：『雲居恁麼道，未免拗曲作直。徑山則不然，要作臨濟烜赫兒孫，直須翻轉面皮始得。』」師云：「雲居、徑山只在面皮上作活計，若是興化、克賓就中一著，要且摸索不著。雖然，當時幸有箇面皮容伊葛藤。若是無面皮底，不知二老向甚麼處",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunju Shun",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: both elders only work the face-skin — were there no face, where would the two old men be now?"
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0517a23",
+          "ToLb": "0517b06",
+          "Kwic": "幸乎得人，叢林自然增氣，應緣化物，起舞乘風，於以興慈運悲、於以解粘去縛、於以入淨入染、於以越聖超凡、於以廣度眾生、於以承事諸佛，總在諸知識，各就自己本分，依而行之。」喝一喝，云：「還信得及麼？倒跨楊岐三腳驢，黧奴白牯無驚異。」結制開爐，漢口江善人汝達居士，請上堂。問答不錄。喝一喝，云：「陳爛火種，已見光輝，大冶精金，應無變色，三世諸佛，於此拈卻炙脂帽子，六代祖師，於此脫卻鶻臭布衫，古今天下老和尚，百匝千重，聯芳續燄。你禪和子十箇五雙，江之南、淮以北，齊、魯、燕、趙、吳、越、閩、廣，總恁麼去，不知踏破多少草鞋。今朝因甚麼風吹到洪山門裏？不肯自棄自謾，稍有些子氣息，洪山斷不把汝放薦蓆厚煖處安排，使汝耽延歲月。」驀拈拄杖，卓一卓",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Xiaotang Yunfen owns the retained deployment: the worn-out old fire-seed has shown its light — the buddhas strip their greasy caps, the ancestors their foul shirts."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1301.xml",
+        "X/X70/X70n1397.xml",
+        "X/X71/X71n1409.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB182.xml",
+        "J/J37/J37nB389.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Xuedou Chongxian",
+        "Baizhang Huaihai",
+        "Mazu Daoyi",
+        "Xueyan Zuqin",
+        "Fenyang Shanzhao",
+        "Dahui Zonggao",
+        "Yuejiang Zhengyin",
+        "Tianyin Yuanxiu",
+        "Yunju Shun",
+        "Xinghua Cunjiang",
+        "Wanru Tongwei",
+        "Xiaotang Yunfen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The great smelter's refined gold should show no change of color — Xuedou's seal cast at the close of his picking of Baizhang's three-day deafness, then fought over for six centuries: some rule the gold itself deserves a shout, some find one man in the age who can tell its color, and some stamp it on the faces of the beaten. Yuanwu Keqin, commenting on Xuedou's picking in his beat-the-rhythm record, carries the line to its close: you people — want to see the three-day deafness? The great smelter's refined gold should show no change of color. This one sentence has sunk how many men. Xuedou wants to let his breath out: he bares one device, one setting, unbreakable for a thousand, for ten thousand ages — do not mistake it, all of you. Xueyan Zuqin, retelling the same strike in his raising-old section, rules the age color-blind: from old till now the old masters under heaven cannot tell yellow from green, beans from wheat — only Xuedou came a little closer, saying the great smelter's refined gold should show no change of color. Then he tries the verses that followed: Fenyang's — tracing the outline, no maker. Zhenjing's — a man of great strength turns it over within speech and silence. Dahui's — speaking reason is one thing; to see Mazu and Baizhang, far, far off. Yuejiang Zhengyin raises the strike with Xuedou's whole picking inside it, then rules: the lion's cub-taming device — Mazu had it. Baizhang went three days deaf, and fine food does not fill a man already full. Xuedou said the great smelter's refined gold should show no change of color — good, and give it a shout. The Kebin family. Tianyin Yuanxiu raises the case — Xinghua tells the steward Kebin he will soon be a teacher of the assembly; Kebin will not enter the society; beaten, fined five strings of cash, a meal laid on, expelled — and voices Yunju Shun: the great smelter's refined gold should show no change of color; the pity is Xinghua's command runs too strict — had it not been Kebin, who could have borne it? Today's shallow crew — how long could they keep their faces from turning? Tianyin: plainly so, plainly so. Then Dahui's counter — Yunju bends the crooked into the straight; to make a blazing descendant of Linji, you must turn the face-skin — and Tianyin closes: the old man is not luring you into lawbreaking; do you all know where this lands? Meet a swordsman on the road, show your sword; to one who is no poet, never offer poems. And Wanru Tongwei, raising the same case with both comments inside it: Yunju and Jingshan only work the face-skin; the single move of Xinghua and Kebin — that they never grope their way to. And yet — luckily there was then a face to let them vine upon. Were there no face, where would the two old men be now? Xiaotang Yunfen, opening the furnace for the closed retreat at Hongshan: the worn-out old fire-seed has already shown its light — the great smelter's refined gold should show no change of color. Here the buddhas of the three times strip off their greasy caps; here the six ancestors shed their falcon-foul shirts; the old masters of all the ages, ring within ring, pass the fragrance on. You patch-robed ones, five to a pair — south of the river, north of the Huai, through Qi, Lu, Yan, Zhao, Wu, Yue, Min, Guang — what wind blew you today to Hongshan's gate?"
+    }
+  ]
+}

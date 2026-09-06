@@ -1,0 +1,196 @@
+{
+  "Id": "t_2c9d3ea11235",
+  "SourceTerm": "九旬禁足",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:58:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "ninety days with feet confined",
+      "AlternateTargets": [
+        "the ninety-day confinement"
+      ],
+      "SearchAliases": [
+        "ninety-day confinement",
+        "retreat confinement",
+        "ninety days confined",
+        "summer retreat enclosure"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 169 hits in 97 files representing 94 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0471a08",
+          "ToLb": "0471a22",
+          "Kwic": "刃上翻身去，須是婁羅兒。豈不見外道問佛：不問有言，不問無言。世尊良久，外道云：世尊大慈大悲，開我迷雲，令我得入。諸禪德，要知世尊納敗闕處麼？問取堂中第一座，莫教辜負兩莖眉。死中活，閒雲散盡長空闊。活中死，螺江水流截不住。兩岸蘆花相對開，漁翁撥棹還歸去。去去何處，寒梅已綻嶺南枝，漫漫雪覆千峯寺。三月安居，九旬禁足。物外閒人，何拘何束。青絹扇子足風凉，一任山青并水綠。舉：有僧見修山主，主云：出門見釋迦，入門逢彌勒。僧不肯，復問古德，德云：出門見阿誰？入門逢什麼？這僧便悟去。師云：這僧悟即不無，爭奈未甚諦當。修山主青天白日如被鬼迷，古德頭白齒黃作恁麼說話。懶菴即不然，出門竹徑無人掃，入戶方池照影寒。僧問：如佛見佛，佛",
+          "MasterName": "Lan'an Dingxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lan'an Dingxu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Lan'an Dingxu owns the retained deployment: for one idle beyond things, what confinement, what bond."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1053a01",
+          "ToLb": "1053a16",
+          "Kwic": "進云。只如德山與麼。為復是賞伊罰伊。師云。劍握甑人手。進云。者僧是箇衝波逆浪。慣弄潮頭底。因甚德山覷他不破。師云。爾却被諸人覷破了也。僧云。只如今夜。忽有箇漢出來道。某甲話未問。為什麼打某甲。未審和尚。作麼生答他。師云。我不似德山老婆心。僧云。明眼宗師天然有在。師云。賊是家親。師乃云。古篆不文。新條有制。九旬禁足。剖瓮覓天。三月護生。劈琴煮鶴。致使有志之士。無所舒伸。縱饒別有生機。未免伏聽處分。老僧今夜不惜眉毛。作箇方便。使現前四眾。九夏無虛棄之功。還信得及麼。若信得及。水邊林底切蹉琢磨。必有修證之期。其如不然。各請收歸上科。復舉。涌泉因。雪峯訪。乃門送。峯入轎了。泉云。者箇四人舁。那箇幾人舁。峯聳身云。道甚",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: ninety days confined is splitting the jar to find the sky, three months protecting life is chopping the zither to stew the crane."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0130b08",
+          "ToLb": "0131a12",
+          "Kwic": "必應災無悔而不消正當恁麼時原始要終一句作麼生道拂牛劍豎兵威洗日月咸瞻耀聖明。晚參舉密師伯與洞山在餅舖密於地上畫一圓相謂洞山云把將去山云拈將來後來保寧勇云非但二人提不起盡大地人亦提不起師召眾云諸人還提得起麼良久云也須是箇踞地師子始得若是山僧待他道拈將來便與一掌者一掌有生復有死有利亦有害。上堂古人道九旬禁足魚遊網三月安居鳥入籠生殺盡時蠶作繭如何透得者三重天童今夏因兵荒歲儉故不安居亦不禁足既不安居禁足則無生殺可商量既無生殺可商量則無三重可透脫既無三重可透脫則人人活卓卓赤體無依各各峭巍巍行徃自在然有一事祗如圓覺伽藍豎窮三際橫徧十方敢問諸人作麼生出得若出不得莫道布帒口山僧不曾結却好參。祈雨上堂舉劉禹端公上雲居",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: the ancients' net, cage, and cocoon — and Tiantong's own war-torn summer with no retreat and no confinement."
+        },
+        {
+          "RelPath": "X/X69/X69n1371.xml",
+          "FromLb": "0799c03",
+          "ToLb": "0799c16",
+          "Kwic": "至節，小參。有物先天地，無形本寂寥，能為萬象主，不逐四時彫。拈拄杖，云：大士擊門槌，多年黑似漆。卓拄杖，云：君子道：長寒時寒殺闍黎。又卓拄杖，云：小人道：消熱時熱殺闍黎。萬里無雲，青天正好喫棒，三家村裏明陰洞陽，十字街頭炭輕土重，一任卜度。且道：如何是萬象主？良久，云：只在此山中，雲深不知處。解夏，小參。九旬禁足，網禽宿巢；三月安居，驅狐守塚。向生殺不到處現三頭六臂，掀翻圓覺伽藍，猶是抱樁打泊。浮雲黃山前、雙檮樹下，九十日內風以時、雨以時，二六時中少不添、多不減。一年三百六十日，日日安居、時時自恣，圓者自圓、方者自方、長者自長、短者自短，未免淨地揚塵。畢竟如何？大鵬展翅天路遙，巨鰲轉身海水窄。至節，小參。諸佛出世",
+          "MasterName": "Jieshi Zhipeng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieshi Zhipeng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1371.xml). Recorded Sayings of Chan Master Jieshi Zhipeng. Jieshi Zhipeng owns the retained deployment: netted birds homing to the nest, foxes set to guard tombs — even three heads and six arms still moor to a stake."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0381b12",
+          "ToLb": "0381c10",
+          "Kwic": "分付。生也何曾生，死也何曾死。生本不有，死亦無空。湖光晴㶑灩，山色雨濛瀧。中秋，上堂，并謝離相。西堂：一月在天，影含眾水。且道有相可離？無相可離？若道有相可離，月以何為相？若道無相可離，爭柰一月在天，影含眾水？諸人還知麼？萬古碧潭空界月，再三撈摝始應知。環溪和尚語錄卷上環溪和尚語錄卷下小參小參九旬禁足，截鶴續鳧；三月安居，穿牛絡馬。二千年前，黃面瞿曇於一針鋒上分疆立界，俾一切人依如是住，從古暨今未甞有踰越者。東山自小入眾，不曾受人抑勒，而今四十八歲，匡徒領眾，只據見定，三春持鉢，九夏出鄉，朝往羅浮，暮歸檀特，閙市紅塵，拋沙撒土，深山窮谷，嘯月眠雲，樓閣重新彈指間，風光占斷無邊際。然雖如是，還有佛法道理也",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanxi Weiyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment: cutting the crane to lengthen the duck — the boundary drawn on a needle point two thousand years ago."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0121a11",
+          "ToLb": "0121a23",
+          "Kwic": "：『來日臺山大會齋，和尚還去麼？』又且如何？」師云：「放過即不可。」進云：「山乃放身作臥勢，磨便出去，為復各顯神通？為復別有道理？」師云：「還他老漢始得。」進云：「可謂昔日溈山、今朝和尚。」師云：「不勞潑泥水。」乃云：「衲僧家隨緣放曠、任性逍遙，火爐邊、帽席下，透脫超方眼，三條椽、七尺單，活潑通霄路，更說什麼九旬禁足、三月安居，踞菩薩乘，修寂滅行，正是刻冰求火、蒸沙作飯。殊不知，東山水上行、西河火裏坐，南山起雲、北山下雨，敲空作嚮、擊木無聲，佛祖場中慣作白拈、人天會裏難可安排，要有者等囊藏，纔是百味酸餡。只如今日應齋普利一句作麼生道？端坐單前受供養，都教施主常安樂。」下座。舉本堂首座，秉拂上堂，「黃檗與臨濟三頓棒，如",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: for the roaming patch-robed one, what talk of ninety days confined — that is carving ice to seek fire."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0241a02",
+          "ToLb": "0241a15",
+          "Kwic": "；離一切相底，正是法法全該。即心名慧，便非妄覺之慧；即佛乃定，便非滯寂之定。故為定慧等持。達磨西來直指人心，即心即佛之旨無過此矣。寶華亦有一偈，雖無另出手眼，不妨重為申明。」乃云：「心是本來心，佛乃當下即；一句該古今，雙修離空色。寂寂既非沉，惺惺亦非憶；脫體而現前，身心黑如墨。」下座。結制，上堂。乃云：「九旬禁足處，掙眉努目，分明枉受劬勞；三請陞堂時，鼓舌搖脣，總是遞相鈍置。寶華今日曲順人情，既陞此座，不避譏嫌，只得將諸佛說不到底法、諸祖提不起底機，向上關、末後句，一時舉向諸人，令教一箇箇不費纖毫，向長連床上伸腳打眠，自繇自在去也。諸人急須著眼。」乃顧視大眾，以手指云：「奇哉！奇哉！一箇箇底鼻孔大頭都向下。」眾擬議",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: straining brows and eyes through the confinement is labor squarely wasted, and throne-talk is mutual dulling."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0595b17",
+          "ToLb": "0595c08",
+          "Kwic": "，而常處此菩提座；若謂釋迦老子曾本不滅，面前觸目無非山河大地、草木叢林、桃紅柳綠、燕語鶯吟，畢竟那個是釋迦老子？驀召大眾，眾回首，乃云：將謂瞌睡上堂：海水不可斗量，虗空不可尺度，淨地不可撒沙，爛泥不可著脚。這四轉語，轉轉有落處。且道落在什麼處？東京大相國寺裏有樹蕉芭，風吹雨打，一似破袈裟。解夏，小參。九旬禁足，東廊上、西廊下，灼然寸步不移，休夏自恣。據此堂、坐此座，不妨走盡天下。恁麼見得，猶是露布葛藤，未具透關眼在。且作麼生是透關眼？莫有向天地未形以前、生佛既興以後知得落處者麼？若有道林三百六十骨節，從頂至踵被伊一時󳬇透；其或未然，後五日去到諸方，且居門外。復舉：百丈和尚每上堂，常有一老人聽法。一日眾散，老人",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: not one step moved east or west — yet seated here, he walks the whole world."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "T/T47/T47n2000.xml",
+        "L/L155/L155n1643.xml",
+        "X/X69/X69n1371.xml",
+        "X/X70/X70n1388.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB300.xml",
+        "X/X70/X70n1397.xml"
+      ],
+      "RelatedMasters": [
+        "Lan'an Dingxu",
+        "Xutang Zhiyu",
+        "Muchen Daomin",
+        "Jieshi Zhipeng",
+        "Huanxi Weiyi",
+        "Feiyin Tongrong",
+        "Chaozong Tongren",
+        "Xueyan Zuqin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The summer retreat's enclosure, named by its ninety days — the boundary masters draw, keep, strain against, and sometimes dissolve outright. Lan'an Dingxu, at the retreat's start, verses the other side of the rule: ninety days confined, but for one idle beyond things, what confinement, what bond — a silk fan's breeze is enough, let mountains stay green and waters stay blue; Jieshi Zhipeng, closing the retreat, images the rule as netted birds homing to the nest and foxes set to guard tombs, and even three heads and six arms at the spot where birth and death cannot reach, overturning the awakening-hall, is still mooring to a stake; Huanxi Weiyi calls it cutting the crane to lengthen the duck and threading the ox through the horse — two thousand years ago the yellow-faced one drew the boundary on a needle point, and no one has crossed it since; and Xueyan Zuqin holds both horns: east corridor, west corridor, truly not one step moved — yet seated in this hall on this seat, he walks the whole world freely. Xutang Zhiyu, at the night assembly, names the strain: old seals unadorned, new rules in force — ninety days confined is splitting the jar to find the sky, three months protecting life is chopping the zither to stew the crane, leaving the determined nowhere to stretch; Muchen Daomin quotes the ancients' three cages — fish in the net, birds in the cage, the silkworm in its cocoon — then overturns them for his own war-torn, famine-year summer: Tiantong this summer holds no retreat and no confinement; Feiyin Tongrong dissolves the rule into the patch-robed life — roaming free by conditions, what talk of ninety days confined; that is carving ice to seek fire, steaming sand to make rice; and Chaozong Tongren spares no one on either side: at the ninety-day confinement, straining brows and eyes is labor squarely wasted; at the thrice-requested throne-talk, wagging tongues is mutual dulling."
+    }
+  ]
+}

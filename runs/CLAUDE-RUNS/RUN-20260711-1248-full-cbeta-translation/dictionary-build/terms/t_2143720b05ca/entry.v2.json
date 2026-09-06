@@ -1,0 +1,286 @@
+{
+  "Id": "t_2143720b05ca",
+  "SourceTerm": "諦當甚諦當",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:25:39Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "proper indeed, most proper",
+      "AlternateTargets": [
+        "exactly right — utterly exactly right",
+        "true indeed, and true again"
+      ],
+      "SearchAliases": [
+        "most proper indeed",
+        "the doubled verdict",
+        "correct — but not through",
+        "Xuansha's half-praise"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 125 hits in 88 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0791c18",
+          "ToLb": "0792a05",
+          "Kwic": "教道無也失利。且道。誵訛在什麼處。若明得去。不妨識進退別休咎。始知一句下有分身之意。有出身之路。今日崇寧忽有人問。新年頭還有佛法也無。對他道。不在這兩頭。他或道。為什麼如此。崇寧今日失利。且道。與古人是同是別。舉。靈雲見桃華悟道頌。三十年來尋劍客。幾回葉落又抽枝。自從一見桃華後。直至如今更不疑。玄沙云。諦當甚諦當。敢保老兄未徹在。師云。千鈞之弩不為鼷鼠發機。靈雲既撥動天關。玄沙乃掀翻地軸。且道。那箇是未徹處。具透關眼者試請辨看。舉。遵布衲在藥山浴佛次。山云。爾浴得這箇。還浴得那箇麼。遵云。把將那箇來。師云。藥山問處闇隔重關。遵老答來一槌兩當。不可只守這一路也。或有問崇寧。只浴得這箇。還浴得那箇麼。提起杓子向伊",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Lingyun Zhiqin",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Xuansha Shibei owns the retained deployment: proper indeed, most proper — I guarantee the old brother is not through; a thousand-pound bow does not loose for a gnat."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0683a08",
+          "ToLb": "0683a22",
+          "Kwic": "：示甘露味，大地眾生頓超十地，惟有今辰覺成上座營齏報薦，考妣二位亡靈不在其內。何故？擲拄杖，云：分明一對黃金骨，不必栴檀入細雕。留兩班，上堂。九旬把定重關，今朝放開一線，頂門具眼衲僧，自合知機識變。乃展手，云：依舊平分局面。復舉：靈雲見桃花悟道：刺腦入膠盆。溈山道：從緣入者，永無退失，咬牙封雍齒。玄沙道：諦當甚諦當，敢保老兄未徹在，泣淚斬丁公。伶俐漢！直饒向遮裏見得，更買草鞋行脚三十年，却來喫西峰痛棒。上堂：一不成，二不是，紅底桃，白底李，紅紅白白不相瞞。因甚達磨大師被流支三藏打落當門齒？通寧智顏菴主送法被至，上堂。裁蜀錦，翦吳綾，披白玉，間黃金。打成一片時，針劄不入；羅紋結角處，線路難尋。雖然，只如西峰以諸法空為",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Lingyun Zhiqin",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: even seeing it here — buy straw sandals, travel thirty more years, come back and take Xifeng's painful staff."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0605a21",
+          "ToLb": "0605b11",
+          "Kwic": "樹請和尚道。嚴呵呵大咲。妙喜云：吞得栗棘蓬，透得金剛圈。看這般說話，也是泗洲人見大聖。師云：香嚴老人曲說方便，虎頭上座未辨端倪。若論激揚此事，三生六十劫。舉靈雲見桃花悟道有頌：三十年來尋劍客，幾回落葉又抽枝。自從一見桃花後，直至於今更不疑。舉似溈山，山云：從緣得入，永不退失，汝善護持。次舉似玄沙，沙云：諦當甚諦當，敢保老兄未徹在。妙喜云：一家有事百家忙。師云：人無遠慮，必有近憂。直饒百鍊精金，不免入爐再煅。舉：睦州見僧來，云：見成公案，放你三十棒。僧云：某甲如是。州云：門前金剛為什麼竪拳？僧云：金剛尚乃如是。州便打。妙喜云：雖然無孔笛，撞著氈拍板，直是五音調暢，六律和諧。子細檢點將來，未免傍觀者哂。且道誰是傍觀者",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Lingyun Zhiqin",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: without far thought, near sorrow is sure — even hundred-refined gold cannot escape another smelting."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0050c09",
+          "ToLb": "0050c21",
+          "Kwic": "，是聽仰山散去？不聽仰山散去？抑仰山入內院居第二位，是夢耶？不是夢耶？若是夢，溈山因甚道子已登聖位？今日有為古人作主者，試出來與金粟相見。」舉：「靈雲見桃花悟道，有頌云：『三十年來尋劍客，幾回葉落又抽枝，自從一見桃花後，直至而今更不疑。』舉似溈山，山云：『從緣得入，永不退失，汝善護持。』次舉似玄沙，沙云：『諦當甚諦當，敢保老兄未徹在？』徑山杲舉古今拈提了云：『一家有事百家忙。』」拈云：「說甚一家有事百家忙？直是一盲引眾盲。」舉：「南源明禪師因洞山參方上法堂，明云：『已相見了也。』山便下去。明日卻上，問云：『昨日已蒙和尚慈悲，不知甚麼處是與某甲相見處？』明云：『心心無間斷，流入於性海。』山云：『幾合放過？』」拈云：「天",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: what talk of one household's trouble and a hundred households busied — one blind man leading a crowd of blind."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0054a15",
+          "ToLb": "0054a30",
+          "Kwic": "」舉馬大師不安，院主問：「和尚近日尊候如何？」大師云：「日面佛，月面佛。」拈曰：「人之將死，其言也善，可惜飯袋子不知時節。」頌曰：「高枕繩床舒兩足，夢鼾鼾地渾無物，卒然院主問如何，日面佛兮月面佛。」舉靈雲見桃華悟入，述偈云：「三十年來尋劍客，幾回葉落又抽枝，自從一見桃華後，只至如今更不疑。」玄沙聞云：「諦當甚諦當，敢保老兄猶未徹在。」拈曰：「一翳在眼，空華亂墜，不是玄沙善用金錍，幾乎成箇瞎漢。」頌曰：「香滿枝頭，華滿谿流，靈雲一見，撫掌輕酬。咦！誰知更有桃園客，不放春風逸兩眸。」舉鹽官一日喚侍者：「與我將犀牛扇子來。」者云：「扇子破也。」官云：「扇子既破，還我犀牛來。」侍者無對。拈曰：「侍者太煞不靈利，活卓卓箇牛",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Lingyun Zhiqin",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: had Xuansha not wielded the golden scalpel well, the man would all but have gone blind."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0491b14",
+          "ToLb": "0491b27",
+          "Kwic": "？』州云：『放不下，擔取去。』趙州老人大似布縵天網子，要打衝浪鯤鯨，爭奈不遇，只得飲氣吞聲。若是其人，何必朝三暮四、暮四朝三，蹙額攢眉，東尋西討，剋期取證，畫地為牢？果能放得下，自然虛而靈、寂而妙，風行草偃，水到渠成，一切施為總是成現。至如德山於龍潭吹滅紙燈、臨濟喫黃檗三頓痛棒，庭前柏樹子、乾屎橛、麻三觔，諦當甚諦當，敢保老兄未徹在。乃至四照用、四料揀，賓中主、主中賓，轉換落落地，要拈便拈、要置便置，有甚麼難？若是一絲頭放不下底，問他宗乘中事作麼生？聲色裏如何透？直得舌如匾擔、眼似銅鈴，饒他強作主宰、撐眉努目，豎一拳、喝一喝、拂袖便去，湊得一轉兩轉合頭語，總是識情意解、博記得來，有什麼交涉？等閒被人拶著，卻又去不得了",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained deployment: the cypress tree, the dried shit-stick, three pounds of hemp — proper indeed, most proper, and still not through."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0295a09",
+          "ToLb": "0295a23",
+          "Kwic": "月又一月，拖到彌勒下生，也未得成辦時節。有句誠諦之言，惟在諸人料揀。」擲拂子曰：「自是不歸歸便得，五湖煙景有誰爭？」雲間弟子靈耀薦嚴大拙居士大悲懺期告圓，請上堂。乃顧視左右曰：「觀世音菩薩先進於禮樂，後進於禮樂，草木為之稽首，土石因而放光，一朝摩竭魚鑽透清淨寶目，須彌山壓倒母陀羅臂，三十二應、十四無畏，諦當甚諦當，敢保老兄未徹在。有個漢子，揚眉魚龍得游泳之方，瞬目鬼神無行走之路，摧折刀山不用文殊妙智，消滅地獄不用普賢三昧，法性如此遍圓，心源如此湛寂，今日若不證據，後來如何趨進？」乃合掌曰：「現在可驗。」上堂。「奇怪諸方老宿，盡道善能切磋，然則靈嵒門下直是好笑。禪和子！是木頭？是土塊？就使是木頭土塊，穿鑿將來，還解",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: thirty-two responses, fourteen fearslessnesses — proper indeed, most proper; the present can be tested."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X70/X70n1400.xml",
+        "X/X71/X71n1420.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB177.xml",
+        "J/J26/J26nB183.xml",
+        "J/J34/J34nB301.xml"
+      ],
+      "RelatedMasters": [
+        "Xuansha Shibei",
+        "Lingyun Zhiqin",
+        "Yuanwu Keqin",
+        "Gaofeng Yuanmiao",
+        "Guishan Lingyou",
+        "Chushi Fanqi",
+        "Dahui Zonggao",
+        "Miyun Yuanwu",
+        "Poshan Haiming",
+        "Shiqi Tongyun",
+        "Deshan Xuanjian",
+        "Linji Yixuan",
+        "Jiqi Hongchu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Proper indeed, most proper — Xuansha's doubled grant to Lingyun's peach-blossom awakening, followed at once by the guarantee that the old brother is not through; nine centuries of masters have aimed the same doubling at every correct answer in the book. The origin, as raised by Yuanwu Keqin. Lingyun Zhiqin's verse on seeing the blossoms: thirty years a seeker of the sword; how many times the leaves fell and the branches sprouted again; since the one sight of peach blossoms, down to this day, no more doubt. Xuansha Shibei: proper indeed, most proper — yet I guarantee, old brother, you are not through. Says Yuanwu: a thousand-pound bow does not loose its trigger for a gnat. Lingyun had already pulled open the pivot of heaven; Xuansha then overturned the axis of earth. Tell me — which is the not-through place? Let one with the eye that passes the barrier try to discern it. Gaofeng Yuanmiao interleaves his own three-word glosses into the raising: Lingyun's awakening at the peach blossoms — a skull cracked into the glue-basin. Guishan Lingyou's word, entering by condition never to fall back — teeth clenched, sealing Yong Chi. Xuansha's word, proper indeed most proper, I guarantee the old brother is not through — tears shed, beheading Duke Ding. Clever fellow! Even if you see it right here — buy straw sandals and travel thirty more years, then come back and take Xifeng's painful staff. And Chushi Fanqi, raising the same with Dahui's comment already in line — one household's trouble, a hundred households busied — gives his own: without far thought, near sorrow is sure. Even hundred-refined gold cannot escape the furnace for another smelting. Miyun Yuanwu, picking up the same case and Dahui's busied hundred households: what talk of one household's trouble and a hundred households busied — it is one blind man leading a crowd of blind. And Poshan Haiming, after the raised verse with its single-flip — from the one sight of peach blossoms, only down to today no more doubt — hears Xuansha's doubled verdict and appraises: a film in the eye, flowers falling in empty sky; had Xuansha not wielded the golden scalpel well, the man would all but have gone blind. His ode: fragrance fills the branch-tips, blossoms fill the stream; Lingyun's one sight, a clap of hands in light requital. Ha! Who knew there was still a guest in the peach orchard, not letting the spring wind slip past both eyes. Shiqi Tongyun aims the doubled verdict at the whole arsenal, at the bath-master's seat: Deshan blowing out the paper lamp at Longtan, Linji's three painful staves of Huangbo, the cypress tree in the yard, the dried shit-stick, three pounds of hemp — proper indeed, most proper, I guarantee the old brother is not through. And the four shone-uses and four selectings, guest-within-host and host-within-guest, shift upon shift, all landing free — to lift is to lift, to set is to set: what is hard in that? Only the one who cannot put down a single thread asks how the school's matter goes and how to pass through sound and sight. And Jiqi Hongchu, at the close of the Great-Compassion retreat: the Bodhisattva of what is heard advanced first in rites and music, then advanced in rites and music — grasses and trees bow their heads, earth and stone thereupon give light. But let the makara fish one morning bore through the pure precious eye, let Mount Sumeru crush down the matrix-undoing arm: thirty-two responses, fourteen fearslessnesses — proper indeed, most proper, I guarantee the old brother is not through. There is a fellow: raising his brows, fish and dragons gain their way of swimming; in a blink, ghosts and gods have no road to walk — knife-mountains broken down without Manjusri's wondrous wisdom, hells extinguished without Samantabhadra's sameness. Such is the everywhere-roundness of the way-nature, such the deep stillness of the mind-source. If today it is not verified, how will you go on afterward? Palms together: the present can be tested."
+    }
+  ]
+}

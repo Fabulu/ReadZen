@@ -1,0 +1,210 @@
+{
+  "Id": "t_ee67c5a69f43",
+  "SourceTerm": "不妨疑著",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:09:14Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no harm dwelling in doubt on that",
+      "AlternateTargets": [
+        "you may well stay stuck on it"
+      ],
+      "SearchAliases": [
+        "permission to keep doubting",
+        "go ahead and doubt that",
+        "dwell on the doubt a while"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 145 hits in 90 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0231b23",
+          "ToLb": "0231c10",
+          "Kwic": "義道中。主賓分上。也未為分外。山令打鐘。只見雷霆施號令。眾方集。豈知星斗煥文章。山陞座良久下座歸方丈。一上神通。不同小小。主隨後問云。和尚適來許為眾說法。云何不垂一言。翠巖芝云。藥山下座。院主當初怪不為眾說法。可謂誤他三軍。萬松道。正是將頭不猛。山云。經有經師。論有論師。爭怪得老僧。瑯琊覺云。藥山下座不妨疑著。及乎院主拶著。失却一隻眼。萬松道。再得完全能幾箇。而不知換得兩隻眼。雪竇道。可惜藥山老漢。平地喫交。盡大地人扶不起。萬松道。和尚也須出隻手。無餘頌云。丈室未離已喫交。悄然歸去轉無憀。經師論師猶相告。一欵分明便自招。萬松道。曹司易勘。公案未圓。解與天童。如何判斷。頌云。癡兒刻意止啼錢良駟追風顧影鞭雲掃長",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Langye Huijue owns the retained deployment — the grant over Yaoshan's wordless descent, with Wansong's ruling that losing the one eye traded up to two."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0109c19",
+          "ToLb": "0110a01",
+          "Kwic": "。還信得及麼？自是不歸歸便得，五湖煙景有誰爭。」下座。上堂，僧問：「語默涉離微，向上還有路，且道淨名杜口意作麼生？」師云：「點。」進云：「吹毛威不動，神光射斗牛。」師云：「喪身了也。」問：「世尊初生，一手指天，一手指地，意旨如何？」師便打云：「會麼？」進云：「既然如是，為甚又道雪山六年睹明星悟道？」師云：「不妨疑著。」僧以手指天云：「恁麼則世尊也。」師云：「未夢見在。」僧喝一喝，師云：「再喝看。」僧無語。乃云：「削髮為僧相，善根宿世培，若還不了道，依舊入凡胎。且道又作麼生了？向此豁開正法眼，紅塵堆裏見如來。」遂喝一喝，下座。上堂，僧問：「途中事作麼生？」師云：「草鞋拄杖。」乃云：「展沒巴鼻句，莫不罔措，撥向上關，悉",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment — the blow over the newborn one hand to heaven one to earth, then the grant of doubt over the six snow-mountain years and the star."
+        },
+        {
+          "RelPath": "J/J39/J39nB448.xml",
+          "FromLb": "0436c12",
+          "ToLb": "0436c24",
+          "Kwic": "」又問第二位：「你作麼生？」僧云：「初參。」師云：「參箇甚麼？」僧無語，師云：「將謂你是行腳。」僧送圓，師云：「你送我圓是何心行？」僧頓一足，師云：「此箇是者裏底，作麼生是麻城底？」僧云：「和尚將謂有兩箇鼻孔。」師云：「試向我出氣看。」僧無語，師一喝，僧又無語，師云：「將謂，將謂。」僧參，師云：「未到者裏，不妨疑著；既到者裏，冰消瓦解。疑著則不問，如何是冰消瓦解？」僧云：「謝和尚今日放參。」師云：「如何是你放參底端的？」僧拊掌兩下，云：「有甚麼不端的？」師云：「猶涉兩三。」僧便禮拜，師云：「刺腦入膠盆，便是你一箇。」有暫到僧撞入方丈，禮拜起，問：「學人不敢造次，請師答話。」師厲聲云：「你為甚麼落在陷虎坑裏？」僧擬議，",
+          "MasterName": "Lingji Xingguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingji Xingguan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB448.xml). Recorded Sayings of Chan Master Lingji. Lingji Xingguan owns the retained deployment — the grant made the gate itself: before arriving, no harm doubting; arrived, ice melts and tiles crack."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0507a21",
+          "ToLb": "0507b03",
+          "Kwic": "兩。」師云：「將來看。」僧以坐具一拂，師云：「我不要假銀子。」僧無語。晚參，眾禮拜，侍立，師云：「請歸堂去。」眾走，師喚轉來，眾無顧者，師云：「者一隊漢，秪解恁麼去，不解恁麼來。」王念尼海憲於協府會齋次，問云：「知有底人日用如何修行？」師云：「穿衣喫飯。」士云：「有時穿衣喫飯，沒有時又且如何？」師云：「居士不妨疑著。」一僧看溈山水牯牛公案，至芭蕉托此相呈之處，指問一僧：「是甚麼道理？」僧彈指云：「者裏會得，一串穿卻。」僧云：「未在，更道。」僧便掌，其僧不肯，白師，師云：「他者一掌落在甚處你卻不肯？」僧擬議，師掌之。遂喚前僧，徵云：「芭蕉三圓相，你因甚打他一掌？」僧作掀桌勢，師云：「亂做。」連打三棒。復云：「芭蕉為甚",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained deployment — the day's working granted as dressing and eating, and the none-of-either handed back as the layman's own doubt to dwell on."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0747c05",
+          "ToLb": "0747c20",
+          "Kwic": "會他物格也太遠。在當時，妙喜掉轉船稍，劍起頭落，世間良馬見鞭影而馳，劍去刻舟，不是好手。不見道：子韶格物，妙喜物格，要會一貫，兩個五百麼？」壽撫掌問：「隨流得妙，不失其宗。海門國裏紅輪流而不返，還得妙也未？」師云：「日日廣陵濤。」問：「瘞鶴銘是王羲之寫，有的道陶弘景書，真偽莫辨，以訛傳訛何日了？」師云：「不妨疑著。」問：「白雲影裏怪石露，故遭雷轟；流水光中古木新，阿誰瞧得？只饒瞧得，也是弄影漢。著實處道將一句來。」師云：「勘破了也。」問：「瞭高臺占卻雙峰頂，可謂得地，為甚麼又東倒西歪？只是扶豎不起。」師云：「莫眼花。」問：「既是樵山，又無柴燒，煙火種從此熄矣。冷灰裏的荳幾時得爆？」師云：「多謝記掛。」問：「洞山",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment — the epigrapher's question, true and false past telling and error bred to error, granted the doubt whole."
+        },
+        {
+          "RelPath": "J/J35/J35nB337.xml",
+          "FromLb": "0706b19",
+          "ToLb": "0706b30",
+          "Kwic": "。「禪不用參，道不用學，偷心屏除，隨分安樂，倦來便上繩床，一任諸方圖度。」觀音誕日，張夫人送法衣至，上堂。學人問：「昔日阿難問迦葉云：『世尊付金襴袈裟外別傳何物？』咨和尚為某甲說。」師云：「撒沙撒土。」學云：「迦葉道：『倒卻門前剎竿。』意旨如何？」師云：「堪笑堪悲。」學云：「今日檀越送衣得幾所福？」師云：「不妨疑著。」學云：「金毛師子子，千里見淆訛。」師云：「也不得草草。」學人問：「閃電未收轟霹靂，峰巒纔露海雲遮。如何是臨濟宗？」師云：「開口見膽。」學云：「水底泥牛耕白月，雲中木馬驟清風。如何是雲門宗？」師云：「不許眨眼。」學云：「金烏東上人皆貴，玉兔西沉佛祖迷。如何是溈仰宗？」師云：「別無道理。」學云：「無漏國中留不",
+          "MasterName": "Baochi Xuanzong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baochi Xuanzong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochizong. Baochi Xuanzong owns the retained deployment — the robe's blessing asked in numbers and handed back as doubt, with the lion cub's thousand-mile seeing checked against rushing."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0418b05",
+          "ToLb": "0418b18",
+          "Kwic": "，擲下拄杖，云：「天上有星皆拱北，人間無水不朝東。」上首結槌，師下座。德宗禪人挂鐘，請上堂。僧問：「洪鐘在架，隨扣擊以騰聲，只如不扣不擊時，聲居何地？」師以杖作○相示之，進云：「蒙師親指出，當下了然知。」師云：「知底事作麼生？」僧擬議，師便打。僧問：「一棒清音出，三塗息苦酸，且道是神通也？妙用也？」師云：「不妨疑著。」進云：「一般清意味，料得少人知。」師云：「試吐露看。」僧便喝，師云：「且道者一喝是甚麼味？」僧復喝，師便打，乃云：「一鑪鑄就，表裏先生，覿面懸來，了無回互，只得希聲震處，八難停酸，清韻傳時，三塗苦息。」遂召左右，云：「諸仁者委悉得也未？」良久，擊香几，云：「若將耳聽終難會，眼裏聞聲方始知。」下座。解制",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gusu Zun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. Gusu Zun owns the retained deployment — the bell's one clear staff-sound and the three roads' stilled sourness granted the doubt, then the shout-tasting exchange ended with a blow."
+        },
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0120b11",
+          "ToLb": "0120c06",
+          "Kwic": "云：「雪後始知松柏操，世平方見丈夫心。」真玉宋居士建盂藍會，請上堂。「驢鳴犬吠，祖意西來；見色聞聲，了明自性。諸人分上還有絕測也未？檢點得出，聲色堆頭親見本來面目，亦任顛拈倒弄、豎臥橫眠，與三世諸佛把手共肩、歷代祖師同個鼻孔，現百千三昧、轉大法輪，不妨奇特。大眾未然，山僧拄杖自倒自起去也。雨弄蟾蜍口打蕉，不妨疑著決中交；蝦蟆鼻孔長三丈，嘯月吟風徹九霄。」昭覺竹峰續禪師語錄卷第一終昭覺竹峰續禪師語錄卷第二嗣法門人編住成都府威鳳山昭覺禪寺語錄二結制，上堂。「搖唇鼓舌，拔龜毛於鐵牛背上；敲空遺響，截兔角於石女腮邊。擊石火，閃電光，毘盧頂上拋三放四；騎佛殿，出三門，糞草堆頭摘葉尋枝。坐斷當陽，權衡聖化，週天地之爐",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment — the grant carried into verse, rain teasing the toad and the toad's three-fathom nostrils howling through the ninefold heavens."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2004.xml",
+        "J/J26/J26nB178.xml",
+        "J/J39/J39nB448.xml",
+        "J/J26/J26nB183.xml",
+        "J/J33/J33nB294.xml",
+        "J/J35/J35nB337.xml",
+        "J/J37/J37nB387.xml",
+        "J/J40/J40nB479.xml"
+      ],
+      "RelatedMasters": [
+        "Langye Huijue",
+        "Wansong Xingxiu",
+        "Yaoshan Weiyan",
+        "Feiyin Tongrong",
+        "Lingji Xingguan",
+        "Shiqi Tongyun",
+        "Liangting Jingting",
+        "Baochi Xuanzong",
+        "Gusu Zun",
+        "Zhufeng Zhenxu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A grant-of-doubt formula — no harm dwelling on that — the answer-turn that hands the question back as working material, asked across the Song case-comments and the Ming-Qing halls. Langye Huijue's comment, carried in Wansong Xingxiu's appraisal of Yaoshan's wordless ascent — the master seated a long while, come down, gone to quarters, the prior pressing him: you promised to teach, why not one word? sutras have sutra masters, treatises have treatise masters, how is it the old monk's fault? — and Langye's grant: Yaoshan coming down from the seat, no harm doubting that; pressed by the prior, he lost an eye, and Wansong adds the ruling: how many ever get whole again, not knowing he traded up to two; Feiyin Tongrong takes the newborn Buddha's one hand to heaven and one to earth — a blow, do you get it? — then, told of the six snow mountain years and the morning star: no harm doubting that; the monk points to the sky: then he is the thus-come one — not yet dreamt of; Lingji Xingguan makes the grant the gate itself in the room-testing: not yet arrived here, no harm doubting; arrived here, ice melts and tiles crack — doubt-dwelling set aside, what is the ice melting? thanks for today's release from the hall — and what is the release's very point? two claps — still two or three; and Shiqi Tongyun, asked at the prefect's vegetarian feast how one who knows conducts the day — dressing, eating — and when there is neither dressing nor eating, what then? — hands it back: layman, no harm dwelling in doubt on that. Liangting Jingting, asked in open question-and-answer whose hand wrote the Crane-burial Elegy — some say Wang Xizhi, some Tao Hongjing, true and false past telling, error handed down as error, when does it end? — grants the doubt whole; Baochi Xuanzong, at the bodhisattva's birthday when the lay patroness brings the robe: today's giver of a robe gains how much blessing? — no harm doubting that; and the golden-maned lion cub sees through the tangle a thousand miles off — but no rushing this; Gusu Zun, at the hanging of the Chan worker's bell: one staff's clear sound, the three wretched roads' bitterness stopped — is that supernatural power, or subtle working? — no harm doubting that — and then the exchange of shouts, each shout asked after its taste, the second met with a blow; and Zhufeng Zhenxu, at the Ullambana assembly, works the grant into verse — rain teasing the toad, the mouth striking the banana leaf: no harm dwelling in doubt on the mid-crossing; a toad's nostrils three fathoms long, howling the moon and humming the wind through the ninefold heavens."
+    }
+  ]
+}

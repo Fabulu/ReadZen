@@ -1,0 +1,187 @@
+{
+  "Id": "t_5cedfb691506",
+  "SourceTerm": "不起一念，還有過也無",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:19:10Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "not raising a single thought — is there still fault or not?",
+      "AlternateTargets": [
+        "no thought stirred: still at fault?",
+        "the fault-probe of the unrisen thought"
+      ],
+      "SearchAliases": [
+        "the not-raising-a-thought question",
+        "Yunmen's Sumeru-sealed probe",
+        "is no-thought still a fault"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 42 hits in 37 files representing 37 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0376b02",
+          "ToLb": "0376b13",
+          "Kwic": "翻成毒藥？」師云：「𡎺。」問：「如何是活？」師云：「心不負人。」學云：「如何是殺？」師云：「三日後不得唱衣。」學云：「不殺不活時如何？」師以拄杖趁出。問：「學人與麼來，請師實說。」師云：「知。」問：「金剛為什麼倒地？」師云：「不著力。」問：「殺父、殺母，佛前懺悔；殺佛、殺祖向什麼處懺悔？」師云：「露。」問：「不起一念，還有過也無？」師云：「須彌山。」問：「如來唯一說，無二說，如何是如來說？」師云：「那箇師僧何不問？」問：「闇中如何辨主？」師云：「務原是什麼人坐？」問：「學人實問，請師實答。」師云：「你作麼生辨？」進云：「正當與麼時如何？」師云：「的。」問：「從上古德以何為的？」師云：「看取舌頭。」上堂，云：「諸和尚子！莫妄想，天是",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained root: asked — I do not raise a single thought; is there still fault or not? — he answered: Mount Sumeru."
+        },
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0182a03",
+          "ToLb": "0182a17",
+          "Kwic": "祇如在摩耶胎時作麼生？」以拂子畫此⊙相，曰：「秖如以清淨水浴金色身時又作麼生？」復畫此󱐜相，曰：「秖如周行七步目顧四方，指天指地成道說法，神通變化智慧辯才，四十九年三百餘會，說青道黃指東畫西，入般涅槃時又作麼生？」乃畫此⊕相，復曰：「若是具眼衲僧必也相許；其或未然，一一歷過始得。」上堂，舉：「僧問雲門：『不起一念，還有過也無？』門云：『須彌山。』」師云：「不起一念，向道須彌，舌頭一臠肉，口唇兩片皮。雲門機用妙如許，不落是非知不知？」上堂，舉：「風穴垂語云：『若立一塵，家國興盛；不立一塵，家國喪亡。』」師云：「還有同生同死底衲僧麼？復頌云：『幾許歡心幾許愁，好看野老兩眉頭，家邦平貼清如鏡，水瘦山空一樣秋。』」上堂，舉：「鏡清問",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue owns the retained raising: a monk asked Yunmen — I do not raise a single thought; is there still fault or not? Yunmen said: Mount Sumeru. And Hongzhi's verse: not raising a single thought, answered with Sumeru — the tongue is one strip of flesh, the lips two sheets of skin; so marvelous, Yunmen's device — it falls into neither knowing, not-knowing, nor right and wrong."
+        },
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0293c16",
+          "ToLb": "0294a13",
+          "Kwic": "佛盡在火𦦨裏轉大法輪。雲門云：火燄為三世諸佛說法，三世諸佛立地聽。一堆猛燄貫天紅，三世如來在此中，轉大法輪今已了，眉毛之上起清風。雪峰指獼猴云：人人盡有一面古鏡，這獼猴亦有一面古鏡。僧云：歷劫無明，因什標為古鏡？峰云：瑕生也。堪笑山翁不識羞，為他頭上更安頭，巖前跳躑無尋處，一片殘霞曉未收。僧問雲門：不起一念，還有過也無？門云：須彌山。萬仞峰頭立大乖，須臾眨眼落懸崖。通身不損毫毛者，天上人間安敢埋。僧問洞山：三身中阿那身不墮眾數？山云：吾常於此切。僧問曹山：吾常於此切，意旨如何？曹云：要頭即斬取去。此切堪傷走外求，至親何故似冤讎。始終滿面無慙色，更有曹山乞你頭。別古別古師別慶云：這瞎漢終是難容。雪峰云：世界闊一",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong owns the retained verse: a monk asked Yunmen — I do not raise a single thought; is there still fault or not? Yunmen said: Mount Sumeru. And the verse: standing all awry on the ten-thousand-fathom peak — one blink of the eye and you drop off the cliff; whole body without the least harm — in heaven above or among men below, who would dare bury him?"
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0416b19",
+          "ToLb": "0416c06",
+          "Kwic": "南泉，遶禪床三匝，振錫一下，卓然而立，泉云：「不是，不是。」天童著語云：「錯。」谷云：「章敬道是，和尚為甚道不是？」泉云：「章敬是，是汝不是，此是風力所轉，終成敗壞。」章敬「是」字、天童「錯」字、南泉「不」字，有甚麼語話分？惟麻谷錫杖頭較些子。善丹青者將此四老製作一圖畫，是非窠臼自然瓦解冰消。僧問雲門：「不起一念，還有過也無？」門云：「須彌山。」不起念，橫拈三尺劍。須彌山，墜下一莖毛。博山二十年不著便，從這裏識得雲門。仰山指雪獅子云：「還有過此色者麼？」雲門云：「當時好便與推倒。」雪竇云：「只解推倒，不解扶起。」五色令人眼盲，五音令人耳聾，既與眼對，便成滲漏。仰山指獅子示人，賣弄太甚。只饒推倒、扶起，總在獅子上作活計。不受",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained comment: a monk asked Yunmen — I do not raise a single thought; is there still fault or not? Yunmen said: Mount Sumeru. Not raising a thought — a three-foot sword held crosswise; Mount Sumeru — one hair fallen from it. Twenty years Boshan could not find his opening — it was from here he came to know Yunmen."
+        },
+        {
+          "RelPath": "J/J28/J28nB218.xml",
+          "FromLb": "0638b28",
+          "ToLb": "0638c11",
+          "Kwic": "待客。」問：「學人不參禪、不學道，秖得一把金剛劍舉向師前，作麼生抵敵？」師合掌，云：「善哉，善哉！」乃云：「道本無言，法本無傳，無說無傳，無聞無聽。正恁麼時，不說不聞一句作麼生道？動容揚古路，不墮悄然機。」舉：「僧問雲門：『學人不起一念，還有過也無？』門云：『須彌山。』靜明則不然，今日有箇漢出來問：『學人不起一念，還有過也無？』只對伊道：『天王頭上寶花冠。』大眾且道：山僧與雲門是同？是別？定當得，拄杖子兩手分付；設若不然，拄杖子為諸人通箇消息。」便擲下。臘八日，上堂。僧問：「世尊睹明星即不問，那裏是悟處？」師云：「古廟堂前石獅子。」進云：「與麼猶寒冷在。」師云：「凍殺闍黎。」問：「法不孤起，仗境方生，境相歷然，如何是法？」師",
+          "MasterName": "Lanshi Ling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lanshi Ling",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB218.xml). Recorded Sayings of Chan Master Lanshi Ling. Lanshi Ling owns the retained raising: a monk asked Yunmen — this student does not raise a single thought; is there still fault or not? Yunmen said: Mount Sumeru. Jingming is not so: if today a fellow came out and asked — this student does not raise a single thought; is there still fault or not? — I would answer him: the jeweled crown on the heaven-king's head. Assembly, tell me: are this mountain monk and Yunmen the same, or different? Settle it, and the staff is handed over to you with both hands; failing that, the staff will carry a message for you all. And he threw it down."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0534b29",
+          "ToLb": "0534c13",
+          "Kwic": "兄弟！還識拄杖子麼？若也識得，參學事畢；若也未識，急須識取，他時後日，莫被拄杖子瞞。」連卓拄杖，下座。示眾。云：「一二三四五六七，朝朝暮暮為君決，眉毛剔起好生參，見得分明秖半橛。那半橛，應自瞥，須信人間只一僧，畢竟天無第二月。機解亡，玄路絕，金烏夜半徹天飛，百草頭邊齊漏泄。」喝一喝。復舉：「僧問雲門：『不起一念，還有過也無？』門云：『須彌山。』」師云：「者僧轉身無路，雲門觸處傍通。汝等若向未舉已前薦得，管取天下橫行；其或未然，總被須彌山壓倒。山僧不惜眉毛，更為頌出：只要當人正眼開，何關起念不起念？韶陽拈出須彌盧，一擊虛空七八片。真堪羨，剎剎塵塵達本鄉，縱橫順逆皆方便。」示眾。云：「連日因居士與山僧講四書，驀拈一章要山僧自講",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained raising: a monk asked Yunmen — I do not raise a single thought; is there still fault or not? Yunmen said: Mount Sumeru. The master said: that monk had no way to turn his body; Yunmen opens a way through everywhere he touches. If you get it before the case is even raised, you will walk sideways across the world; failing that, you are all crushed under Mount Sumeru. This mountain monk does not grudge his eyebrow-hairs, and verses it further: it only wants the right eye of the person himself open — what has it to do with raising thoughts or not? Shaoyang held up Sumeru the king of mountains — one blow, and empty space splits into seven or eight pieces. Truly enviable: every land and every dust reaches its home village; across and against, all is expedient."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "J/J32/J32nB272.xml",
+        "X/X69/X69n1350.xml",
+        "J/J27/J27nB197.xml",
+        "J/J28/J28nB218.xml",
+        "J/J39/J39nB452.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Hongzhi Zhengjue",
+        "Baoning Renyong",
+        "Wuyi Yuanlai",
+        "Lanshi Ling",
+        "Lüyan He"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Not raising a single thought — is there still fault or not? The probe that prices stillness, sealed with one mountain. At the root, in Yunmen Wenyan's question hall: asked — I do not raise a single thought; is there still fault or not? — one word: Mount Sumeru. Hongzhi Zhengjue, raising it: so marvelous, Yunmen's device — not raising a single thought, answered with Sumeru: the tongue is one strip of flesh, the lips two sheets of skin; it falls into neither knowing, not-knowing, nor right and wrong. Baoning Renyong, in his verse: standing all awry on the ten-thousand-fathom peak, one blink of the eye and you drop off the cliff; whole body without the least harm — in heaven above or among men below, who would dare bury him? Wuyi Yuanlai, in his comment: not raising a thought — a three-foot sword held crosswise; Mount Sumeru — one hair fallen from it; twenty years Boshan could not find his opening, and it was from here he came to know Yunmen. Lanshi Ling, countering: Jingming is not so — if a fellow asked today, I would answer him: the jeweled crown on the heaven-king's head; are this mountain monk and Yunmen the same, or different? settle it, and the staff is handed over with both hands — and he threw it down. Lüyan He, ruling in his address: that monk had no way to turn his body; Yunmen opens a way through everywhere he touches; get it before the case is raised and you walk sideways across the world — failing that, crushed under Mount Sumeru; and the verse: it only wants the person's own right eye open — what has it to do with raising thoughts or not? Shaoyang held up Sumeru the king of mountains — one blow, and empty space splits into seven or eight pieces."
+    }
+  ]
+}

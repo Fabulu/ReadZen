@@ -1,0 +1,194 @@
+{
+  "Id": "t_30c7ae450d44",
+  "SourceTerm": "一年一度",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:54:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "once each year",
+      "AlternateTargets": [
+        "one round a year"
+      ],
+      "SearchAliases": [
+        "the once-a-year occasion",
+        "each year's single coming",
+        "the annual round of the calendar"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 166 hits in 87 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0122b28",
+          "ToLb": "0122c11",
+          "Kwic": "包羅天地；出於妙用，融貫十虛。眉間挂劍，到處逆水興波；肘後懸符，鞭逼虛空卜度。中興祖席，鼓黃檗吐舌之風；隨緣任運，唱哩囉巴歌之曲。法運流通，佛祖真規烜赫；玄機再兆，衲僧巴鼻遼天。無位真人牽犁拽耙，了影狗子攙前捉後。且道：昭覺有甚履踐作略如斯？向他道：『大人大智，豈假摸名？』」豎拂子，云：「老瞿曇不顧頭顱，一年一度殃及兒孫；續上座隨伊起倒，亦任便宜。今辰是我通省眾姓同文玉白檀越發帑飯眾，珠玉全拋，一念無疑。這般奇特，儼然靈山未散，今古分明。敢問大眾：兩彩一賽作麼生酬唱？」顧眾云：「大眾於斯薦得，端坐齋堂，念佛請齋。脫或躊躇，山僧與眾頌出：白蓮池畔水潺潺，龍象雲臨祝壽延；不是吾儕多點翠，栴檀紫柏一爐煙。」上堂。「威鳳",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment, ruling Old Gautama's day a once-each-year disaster for his descendants while he, the seat-follower Xu, rises and falls along with him, each at his own convenience."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0095b25",
+          "ToLb": "0095c08",
+          "Kwic": "顏、一生死之理，雖佛祖亦不敢正眼覷著。何也？從始至終求其夭壽死生之狀了不可得，況善惡諸曜于中作祟邪？」复揮拂子，云：「會麼？天上石麟兒，人間報英物。」上堂。「六載雪山忽破疑，不知白盡一雙眉。雖然遍界無臧處，說與吾徒那箇知。那箇知，一度華開一度思。」上堂。「樹宗山裏野僧家，飯罷濃煎東院茶，寄語諸方達道者，一年一度笑雲霞。你道笑箇甚麼？」良久，云：「壁潰鐙飛樹，椽差月漏裟。」上堂。「春回陽谷，普賢之家風；華亂支頭，文殊之竟界。起也，山河大地歷歷目前；放也，萬象森羅頭頭不至。」揮拂子，云：「委悉麼？其或未委，且與講戒。」辭院，上堂。「龍潭萬丈碧如秋，為探金鱗放釣鉤，惱恨水寒魚不餌，此回依舊櫂空舟。」以杖指云：「侍者把艸",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, after the meal strongly brewing the East Court tea and counting one laugh each year at the cloud-mists, then holding a long silence before the wall bursts, the lamp flies at the trees, the rafter slips, and the moon leaks through the robe."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0335b07",
+          "ToLb": "0335b20",
+          "Kwic": "咨嗟，是誰之咎？雖然如是，于今休著磨礱手，自有光輝射斗牛。」下座。長至，上堂。問：「陰陽消長即不問，瞻祥佳節事若何？」師云：「捧日雲多瑞。」進云：「葭管飛灰待幾時？」師云：「迎春梅未開。」進云：「如何是和尚說法處？」師云：「汝還聞麼？」僧擬議，師便打，乃云：「空山寞寞，易為風雪所侵；爐火烘烘，不若太陽當照。一年一度暑，一年一度寒。當斯時也，群陰剝盡，一陽復生，巨室高門、村夫野叟互相慶賀，林下道人惟見樹梢葉落、屋角霜堆，衲被蒙頭頻瞌睡，縱教鳥兔頂𩕳催。」常山霜劍首座為師祝壽，請上堂。問：「有一人論劫在途中，不離家舍；有一人論劫不在家舍，也不在途中。敢問和尚：阿那個合受人天供養？」師云：「卻似山僧。」進云：「秪如首座師",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment, counting one heat each year and one cold each year — the massed yin stripped away and one yang reborn, great houses and village elders congratulating each other while the man of the groves sees only leaf-fall at the treetops and frost heaped at the roof-corner, dozing hooded in his patched blanket."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0908a02",
+          "ToLb": "0908a16",
+          "Kwic": "人去也。」卓拄杖，下座。上堂。「三世諸佛是三世諸佛，歷代祖師是歷代祖師，天下老和尚是天下老和尚，諸人是諸人，山僧是山僧。打水無相濺，一切皆自辦。惟有一句子，珍重親切看。且道是那一句？肚餓要喫飯。」達磨忌，拈香。「十萬里航海而來，早是腳跟未穩，梁皇殿上失利，少室峰前拔本，賺他神光斷臂，千古笑殺英靈，因甚麼又一年一度一燒香，五音六律別宮商？」百丈祖忌，拈香。「野鴨飛去各西東，扭住鼻頭空忍痛，禪床角挂拂子兮賣弄爪牙，法堂前卷卻席兮正顯大用，更有一般奇特處，巍巍獨坐大雄峰。」喝一喝。密祖忌，拈香。「當面做賊，弄巧成拙，鞭撘海底泥牛，山頭石虎流血，殃及不肖兒孫，至今放過不得。既放過不得，畢竟如何？」插香，云：「賊！賊！」重",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanyi Ruchun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment, asking why — after the hundred-thousand-li crossing, the losses at court and at the peak, and the tricked arm-cutting that killed the heroic spirits' laughter — there is once each year one burning of incense, the five tones and six pitches each finding their key."
+        },
+        {
+          "RelPath": "J/J29/J29nB230.xml",
+          "FromLb": "0251b28",
+          "ToLb": "0251c11",
+          "Kwic": "。蹋遍三千世界，詎知大地無寸土？看盡五湖風景，誰識總添妄情生？玅道匪從外得，靈機本自現成，火不待日而熱，風不待月而涼。如此會得，不須續鳧截鶴，安用棄水覓波？如此不會，十世古今始終不離於當念，無邊剎海自他不隔於毫端。汝等今日去即是？不去即是？眼裏有筋定得價，皮邊無血一生貧。」誕日，上堂。「慚愧吾儂道業荒，一年一度引人忙，陞堂代鼓無言說，聊借龜毛為敷揚。」豎拂子，曰：「見麼？」擊香几，曰：「聞麼？聞見洞然開笑面，一人有慶萬人歡。」結制，上堂。舉：「倚遇禪師曰：『法昌今日開爐，行腳僧無一箇，唯有十八高人，緘口圍爐打坐。』」師曰：「大小法昌家風嚴冷，十八高人鍛出骨髓。茲者天王開爐，不須木人向火。幸有衲僧數輩，只是不得妝模",
+          "MasterName": "Shaweng Huihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shaweng Huihai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB230.xml). Six-Session Record of Monk Shuijianhai of Tianwang. Shaweng Huihai owns the retained deployment, ashamed his way-work lies fallow while once each year he draws the crowd busy — mounting the hall, standing in for the drum, saying nothing, borrowing tortoise-hair to spread it."
+        },
+        {
+          "RelPath": "J/J33/J33nB281.xml",
+          "FromLb": "0345a19",
+          "ToLb": "0345b05",
+          "Kwic": "，怎得頭上安頭？然雖瞌睡，不覺常安。」頌曰：「舉個拳頭探睡虎，脫然𨁝跳在北斗，水流竹密少人知，出入獰龍大張口。」第十七世應菴華禪師，依虎丘半載，頓明大事。隆忌日，師拈香云：「平生沒興撞著這沒意知老和尚，做盡伎倆，湊泊不得，從此卸卻干戈，隨分著衣喫飯。二十年來坐曲彔床，懸羊頭、賣狗肉，知他有甚憑據？雖然，一年一度燒香著呂，千古令人恨轉深。」拈云：「應菴頓明大事，具他明個甚麼事？鼻孔臭些氣味，至今不絕。」頌曰：「卸卻干戈起息煙，清風明月照靈筵。羊頭狗肉親身喫，氣味熏熏鼻撩天。」第十八世蜜菴傑禪師，參應菴。一日，菴問曰：「如何是正法眼？」師曰：「破沙盆。」菴領之。拈云：「蜜菴老漢問答，雖然體用雙全，不免向破沙盆裏",
+          "MasterName": "Zizhou Chuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zizhou Chuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB281.xml). Recorded Sayings of Chan Master Zizhouchuan of Tanxi. Zizhou Chuan owns the retained deployment, conceding the old teacher's whole career — every trick failing to close, twenty years on the curving chair, sheep's heads hung and dog meat sold — proof-less, and yet the incense burns once each year while a thousand years' regret cuts deeper."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0116c09",
+          "ToLb": "0116c23",
+          "Kwic": "關捩子，不妨南嶽與天台，殺活何曾非手眼，縱橫無不是鉗鎚，擊木敲空行格外，抽釘拔楔許誰猜，呵風罵雨興波浪，喝月棒雲降禍災。倘無如是超方作，莫道親從金粟來。雖然如是，老僧也須喫三十棒始得。」便下座。老和尚忌日，師拈香云：「今朝是老和尚示無為身說寂滅法，諸人不得以眼見并耳聞，只要知其時、識其節。且道是什麼時節？一年一度燒香日，遍界明明不覆藏。」誕日請上堂，師登座云：「混混沌沌，樸樸憨憨，壽宜太古，那同等閑，佛法禪道了不思參，翻身拶入婆伽室，須嚼當空玉一團，也不混，也不沌，也不樸，也不憨，四月芳郊煙景好，華堂飛彩燕喃喃。」下座。解制上堂，「虛空昨夜翻身吼，驚得須彌藏北斗，天大將軍用力撐，堅牢地神笑破口，衲僧更欲蹈芳規，板",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, asking what the season is — the deedless body shown and the stilling teaching spoken, neither eye-seen nor ear-heard — and answering with the once-each-year incense day, the whole realm manifest with nothing hidden."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0014b14",
+          "ToLb": "0014b27",
+          "Kwic": "，眾禮三拜，師云：「者裏倒身三拜，少林分骨分髓。今朝正眼看來，也是搓巴兜鬼。」喝一喝，下座。再住萬峰，開爐，上堂，師云：「萬峰今年結制，柴米事事不濟，不惟凍殺餓殺，且受冷句熱句，珍重四海高流，薦取衲僧巴鼻。大眾且道：衲僧巴鼻如何薦取？」有僧不出眾鼓掌呵呵，師云：「南山起雲，北山下雨。」佛成道日上堂，師云：「一年一度口吧吧，說盡甜瓜併苦瓜，汝等諸人不解薦，毛頭星現眼添沙。」解制，上堂，師云：「天關纔轉，地軸始回，山川獻天然圖畫，艸木吐本地風光，換卻天下人眼睛，透徹衲僧家巴鼻。活情、無情之真機，頑石尚應加額；忘學、無學之妙術，爛柯且自點胸。所以道：萬象之中獨露身，為人自肯乃方親，昔年謬向途中覓，今日方知火裏水。」復召大",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, letting his mouth flap once each year — all the sweet melons and the bitter melons told out together, while the crowd that cannot offer them gets the comet-star and sand in the eye."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J40/J40nB479.xml",
+        "J/J29/J29nB224.xml",
+        "J/J38/J38nB410.xml",
+        "J/J39/J39nB468.xml",
+        "J/J29/J29nB230.xml",
+        "J/J33/J33nB281.xml",
+        "J/J26/J26nB178.xml",
+        "J/J26/J26nB177.xml"
+      ],
+      "RelatedMasters": [
+        "Zhufeng Zhenxu",
+        "Yezhu Fuhui",
+        "Lianfeng Su",
+        "Shanyi Ruchun",
+        "Shaweng Huihai",
+        "Zizhou Chuan",
+        "Feiyin Tongrong",
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The once-each-year of the Chan records: the ritual calendar's single yearly round — counted at the solstice, handed as incense, laughed over the tea, and priced as an annual disaster by turns. Zhufeng Zhenxu raises the whisk and rules Old Gautama's day a once-each-year disaster for his descendants, while he, the seat-follower Xu, rises and falls along with him, each at his own convenience, before the donor feast where pearl and jade are all flung away and the Vulture-peak assembly seems never to have dispersed, Yezhu Fuhui, wild monk of the mountain, after the meal strongly brewing the East Court tea, sends word to the way-attainers everywhere — once each year laughing at cloud-mists — and asked what the laugh is, holds a long silence: the wall bursts, the lamp flies at the trees, the rafter slips, the moon leaks through the robe, Lianfeng Su counts one heat each year and one cold each year at the solstice — the massed yin stripped away, one yang reborn, great houses and village elders congratulating each other while the man of the groves sees only leaf-fall at the treetops and frost heaped at the roof-corner, dozing hooded in his patched blanket, and Shanyi Ruchun, at the founder's memorial, weighs the hundred-thousand-li sea crossing, the loss at the emperor's court, the uprooting before the peak, the tricked arm-cutting that killed the heroic spirits' laughter for a thousand years — why then once each year one burning of incense, the five tones and six pitches each finding their key? Shaweng Huihai on his own annual day is ashamed the way-work lies fallow while once each year he draws the crowd busy — mounting the hall, standing in for the drum, saying nothing, borrowing tortoise-hair to spread it, until seeing and hearing open wide in a laughing face, Zizhou Chuan, reciting the seventeenth generation's Ying'an Hua at the grand memorial, concedes the old teacher's whole career — every trick failing to close, twenty years on the curving chair, sheep's heads hung and dog meat sold — proof-less, and yet the incense burns once each year while a thousand years' regret cuts deeper, Feiyin Tongrong at the old teacher's memorial day asks what the season is — the deedless body shown, the stilling teaching spoken, neither eye-seen nor ear-heard — and answers: the once-each-year incense day, the whole realm manifest with nothing hidden, and Poshan Haiming on the enlightenment day lets his mouth flap once each year — all the sweet melons and the bitter melons told out together, while the crowd that cannot offer them gets the comet-star and sand in the eye."
+    }
+  ]
+}

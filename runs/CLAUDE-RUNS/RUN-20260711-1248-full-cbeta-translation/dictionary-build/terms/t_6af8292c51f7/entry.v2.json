@@ -1,0 +1,156 @@
+{
+  "Id": "t_6af8292c51f7",
+  "SourceTerm": "天得一以清，地得一以寧",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:53:36Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heaven, gaining the one, becomes clear; earth, gaining the one, becomes still",
+      "AlternateTargets": [
+        "heaven by the one is clear, earth by the one is still"
+      ],
+      "SearchAliases": [
+        "the old book's oneness couplet",
+        "heaven clear earth still by the one",
+        "the gained-one couplet",
+        "what does the patch-robe monk gain by the one",
+        "the almsbowl-mouth-up answer to the one"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 84 hits in 60 files representing 59 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0315c21",
+          "ToLb": "0316a10",
+          "Kwic": "：在途中隱隱，猶懷舊日嫌。豈不見雲門大師道：聞聲悟道，見色明心。遂舉起手，云：觀世音菩薩把箇錢來買餬餅。放下手，云：元來却是饅頭。又不見山僧在法華時，甞有示眾道：無業禪師道：一毫頭聖凡情念未盡，未免入驢胎馬腹裏去。大眾！直饒一毫頭聖凡情念頓盡，亦未免入驢胎馬腹裏去。瞎漢！但恁麼看取。掛院額，上堂。僧問：天得一以清，地得一以寧，君王得一以治天下，衲僧得一堪作什麼？師云：苗從地斷。僧云：恁麼則寒來向火，飢來喫飯也。師云：十萬八千。僧云：是。師云：大眾見你。僧禮拜，師乃云：龍舒海會有新聞，金牓高懸耀白雲，樓閣不消彈指入，眉毛眼睫要須分。眉毛眼睫有長有短，直饒道：不長不短，未出常見。更道：長長短短，雪上加霜。且道：如何即是？乃云：分",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained answer: what is the patch-robe monk's one fit for? — seedlings cut off at the ground; pressed on fire-warmth and hunger-meals — a hundred and eight thousand; yes? — the assembly sees you."
+        },
+        {
+          "RelPath": "X/X69/X69n1354.xml",
+          "FromLb": "0346c05",
+          "ToLb": "0346c21",
+          "Kwic": "是不？尊者以手䇿起眉毛，良久云：會麼？王云：不會。尊者云：阿耨達池龍王曾請佛齋，吾是時亦預其數。師云：今日大檀越入山供養羅漢，山僧因齋慶讚，下箇注脚，以手䇿起眉毛，千聖從來不識，一會靈山儼然，說甚今朝昨日？上堂。我有一轉語，歷劫常如此，迥絕無人處，聚頭相共舉。既是無人，阿誰共舉？高聲云：漆桶。歲旦，上堂：天得一以清，地得一以寧，君王得一天下治，衲僧得一眼橫鼻直。皇恩佛恩，一時報畢。上堂：滿眼覰不見，滿耳聽不聞。空劫已前事，分明舉似君。須記取，逢人莫錯舉。佛涅槃，上堂。諸佛於此轉大法輪，諸佛於此而般涅槃。正恁麼時，甚處見釋迦老子？良久，云：三門頭合掌，佛殿裏燒香。上堂：十方諸國土，無剎不現身。舉頭天外看，誰是箇中人？四月八，",
+          "MasterName": "Yuelin Shiguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuelin Shiguan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1354.xml). Recorded Sayings of Chan Master Yuelin Shiguan. Yuelin Shiguan owns the retained opening: heaven by the one clear, earth by the one still, the sovereign's one governing the realm — and the patch-robe monk's one? Eyes level, nose straight. Both graces repaid in one stroke."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0209b25",
+          "ToLb": "0209c09",
+          "Kwic": "舉拳示之。進云：「辨後如何？」問云：「你主在甚處？」僧禮拜，師乃云：「秋風涼，秋夜長，未歸客，思故鄉。大眾！如何是你故鄉？曷幸然，家裡坐，不用苦思量。」上堂：「九月九，家家盡飲茱萸酒。堪笑山居道者家，兩枚豆粽塞卻口。大寒酸，無可有，八角磨盤空裡走。卻有些兒勝俗人，日日面南看北斗。」上堂，舉：「楊岐云：『天得一以清，地得一以寧，君王得一以治天下。衲僧得一堪作甚麼？』良久，云：『缽盂口向天。』」師云：「大小楊岐，熟處難忘。衲僧得一且作麼生？」以拄杖卓一下，喝一喝，下座。示眾：「不是心，不是佛，不是物，是何物？」拈拄杖，云：「崑崙扶起瞎波斯，一槌擊碎黃金骨。」卓一下。上堂：「鼓聲纔動，大眾雲臻，法座高登，主賓互換，箇箇頂天立地，人",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained grade: the almsbowl's mouth turned to the sky — big Yangqi or little, the well-worn words stick — so what is the patch-robe monk's one? One crack of the staff, one shout, down from the seat."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0014a18",
+          "ToLb": "0014b02",
+          "Kwic": "汎荷錢，風飄柳絮，你們便恁麼尋嘗放過，山僧也秖得坐而聽之，一任你鑽龜打瓦，暗裏念灶經，燈下寫神符。箇箇都道才高班馬、智決先天，及乎山僧將箇障眼紗兒向他面上一罩，竟不知爻象從那裏畫起，字句甚麼處寫來？可惜一世辛勤，白首無馮，回頭轉來卻又道：『佛法無靈，祖關無濟。』」擊拂子云：「但向此中提掇得起，舉一不得舉二。天得一以清，地得一以寧，侯王得一而天下平。」豎拂子云：「引起臥龍梁父吟。」擊拂子云：「聽。」上堂。「有緣佛出世，緣盡佛入滅，到處度眾生，猶如水中月。水中月，香山居士李謫僊。」以拂子打圜相云：「捉得便呈君，萬里山河明不徹。山僧夜起，北窗看蘆華，浪靜寒江雪。」上堂。「祖翁巴鼻，達磨不識，流傳至今，織壁織壁。」上堂。「古路坦然誰",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained whisk-work: raise the one, do not raise the two — heaven clear, earth still, the lords' one and the realm at peace; the whisk draws out the Recumbing Dragon's Liangfu chant. Cracks: listen."
+        },
+        {
+          "RelPath": "J/J34/J34nB308.xml",
+          "FromLb": "0537c24",
+          "ToLb": "0538b02",
+          "Kwic": "叉，者一隊老凍膿也是勾賊破家。且道西禪又作麼生？」拍膝，云：「者裏親薦得，鐵樹也開華。」復舉：「世尊陞座，文殊白椎，世尊便下座。文殊云：『諦觀法王法，法王法如是。』」拈云：「大小世尊性命在別人手裏，試聽一頌：『淡妝濃抹打鞦韆，擬欲高高唱哩連；無奈東君漏泄盡，許多清怨落誰邊？』」元旦，上堂。拈拄杖，云：「天得一以清，地得一以寧。元正啟祚，萬物咸新。村歌社舞，佛法分明。無事衲僧，願祝昇平。」卓拄杖，下座。解制，上堂。「說心說性，入海算沙；舉古舉今，波中捉月。德山用棒，臨濟用喝；雖是好心，究竟大錯。且道西禪今日解制又作麼生指示？」拍禪床，云：「路逢達道人，莫將語默對。」象崖珽禪師語錄卷第一象崖珽禪師語錄卷第二潭州",
+          "MasterName": "Xiangya Xingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiangya Xingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB308.xml). Recorded Sayings of Chan Master Xiangya Ting. Xiangya Xingting owns the retained opening: heaven by the one clear, earth by the one still — the first day founding the year, the ten thousand things new; village songs and shrine dances, the way's-law plain. One crack of the staff, down from the seat."
+        },
+        {
+          "RelPath": "J/J38/J38nB420.xml",
+          "FromLb": "0553c27",
+          "ToLb": "0554a11",
+          "Kwic": "爐煙久冷未堪嚴，剔起眉毛又復然，今日為拈香一瓣，全仁全孝裔綿綿。」陳居士請上堂。「昨夜瞿曇現瑞星，今朝座上偶傳心，眼親何似手親好？達者應知無二身。所謂釋迦見量不同，三峰用度各別。且道三峰越格手眼在甚麼處，敢爾自許？七十餘翁乍入場，休將者事抵門墻，就中若要深委悉，只貴閒忙自主張。」雲海羅公薦嚴，請上堂。「天得一以清，地得一以寧，惟有三峰無可得，直拈拄杖薦往生。大眾還見麼？」卓拄杖三下云：「六根纔動被雲遮，一念不生全體現。」佛誕，張居士請上堂。「一聲㘞地許誰知？七步周行自強馳，指天指地施巧玅，全收全放甸邪畿。」為羅孝廉封靈小參。「當年薦妣請陞堂，愧致于今兩鬢霜，覿面仰觀撾毒鼓，雲中鐵笛對誰揚？」住興雲禪院，光祐請上堂。「世尊睹星",
+          "MasterName": "Banshui Fayuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Banshui Fayuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB420.xml). Recorded Sayings of Chan Master Banshuiyuan of Sanfeng. Banshui Fayuan owns the retained memorial: heaven clear, earth still — only the Three-Peak has nothing to gain, the staff taken up outright to offer the passage-over; three cracks: the six roots stirring — clouded; one thought unborn — the whole body present."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1352.xml",
+        "X/X69/X69n1354.xml",
+        "J/J32/J32nB273.xml",
+        "J/J27/J27nB189.xml",
+        "J/J34/J34nB308.xml",
+        "J/J38/J38nB420.xml"
+      ],
+      "RelatedMasters": [
+        "Baiyun Shouduan",
+        "Yuelin Shiguan",
+        "Qianyan Yuanzhang",
+        "Sanyi Mingyu",
+        "Xiangya Xingting",
+        "Banshui Fayuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The heaven-clear-earth-still couplet of the Chan records: the old book's oneness borrowed and broken open — the sovereign's one stilling the realm, and the patch-robe monk's one: seedlings cut at the ground, eyes level and nose straight, the almsbowl's mouth to the sky. Baiyun Shouduan hangs the new hall tablet and the monk rides the couplet in: heaven, gaining the one, becomes clear; earth, gaining the one, becomes still; the sovereign, gaining the one, governs the realm — what is the patch-robe monk's one fit for? Seedlings cut off at the ground. Then — so it is huddling to the fire in cold, eating when hungry? A hundred and eight thousand. Yes? — The assembly sees you. The monk bows, Yuelin Shiguan opens the year: heaven by the one clear, earth by the one still, the sovereign's one governing the realm — and the patch-robe monk's one? Eyes level, nose straight. Imperial grace and the buddhas' grace, repaid in one stroke, Qianyan Yuanzhang raises the elder's turn: Yangqi asked it of old — what is the patch-robe monk's one fit for? — waited, then: the almsbowl's mouth turned up to the sky. And his own grade: big Yangqi or little Yangqi, the well-worn words stick; so what is the patch-robe monk's one? — one crack of the staff, one shout, down from the seat. Sanyi Mingyu works the couplet with his whisk: lift it out from right here — raise the one, do not raise the two: heaven by the one clear, earth by the one still, the lords' one and the realm at peace. The whisk rises: it draws out the Recumbing Dragon's Liangfu chant. Cracks: listen, Xiangya Xingting opens the new year on his staff: heaven by the one clear, earth by the one still — the first day founding the year, the ten thousand things made new; village songs and shrine dances, the way's-law plain — the unbusied patch-robe monk wishes the realm its long peace. One crack of the staff, down from the seat, and Banshui Fayuan takes the memorial seat for Lord Luo: heaven by the one clear, earth by the one still — only the Three-Peak has nothing to gain, taking up the staff outright to offer the passage-over. Assembly, do you see? Three cracks of the staff: the six roots just stirring — clouded over; one thought unborn — the whole body present."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "Id": "t_095fc731a5b2",
+  "SourceTerm": "三世如來",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:42:29Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the thus-come ones of the three times",
+      "AlternateTargets": [
+        "the thus-come ones of past, present, and future"
+      ],
+      "SearchAliases": [
+        "buddhas of the three times",
+        "the three-times thus-come ones",
+        "all buddhas past present future"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 180 hits in 101 files representing 99 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0002b25",
+          "ToLb": "0002c15",
+          "Kwic": "良久云。歷歷機前雙照眼。堂堂象外萬年身。冬至上堂云。陰極而陽潛。布生成之道。虛凝而照。旁分建化之緣。直得俯仰順化。應接無虧去也。諸人還會麼。鏡淨誰嫌差別像。谷虛自應合同音。上堂云。明明百草頭。明明祖師意。於他未甞一。於我未甞異。若祇這便是。當頭觸諱。若祇這不是。甚處藏避。所以道。無是無非。不即不離。三世如來同宣此義。敢問諸人。且道。畢竟是什麼義。良久云。向下文長。付在來日。長蘆書至。上堂云。靈機未轉。難窺青白之痕。寶印當權。密布正偏之位。壺中消息。劫外春光。還他一氣連枝。須是同身共命。明頭轉側。暗裡逢迎。直得千里同風去也。諸人還體悉得麼。明月滿空天水淨。弟兄俱在合同舡。上堂云。居淨而彌耀。歷變而常如。本",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment, having the three-times thus-come ones together proclaim the meaning of no is, no is-not."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0702b07",
+          "ToLb": "0703b03",
+          "Kwic": "悖翕霍劇鏤燬弁惕暠槖𭦟陬磴隮聆謦欬勵邈蹟夔語錄爇肧寰闔轟驀賺鎚聱拋瞥齩覿儞揣摸黏跟廝繳詬頷溈悄輥顢頇儱侗抓癢噬臍忱煨酹粽懡㦬天目中峯和尚廣錄卷第一之下叅學門人北庭臣僧慈寂上進示眾二示眾師子正宗禪寺示眾。所起之因既的。所期之果必親。所操之志惟真。則其所詣之地不期實而實矣。教中謂。三世如來咸為一大事因緣出現于世。欲令眾生開示悟入佛之知見。謂佛知見者。乃破生死根塵之利具也。佛祖諦觀。三界諸微塵剎。滿中眾生無一剎那而不受生。無一剎那而不變滅。浩浩乎不可以數計也。而況妄情起滅剎那不住。生死之理豈細事哉。由是佛祖哀之。於大寂定中隨其迷妄為轉法輪。依處依緣多立名字。謂之華嚴法華。謂之楞嚴圓覺。乃至",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, opening with the teaching's word that all appeared for the one great matter."
+        },
+        {
+          "RelPath": "X/X71/X71n1413.xml",
+          "FromLb": "0272b02",
+          "ToLb": "0272b17",
+          "Kwic": "五百閙浩浩，為渠一一開盲聾。孤雲出沒本無意，何時來此青山中。高歌幾曲碧雲合，下視萬境紅塵空。青松尚識魯君子，白石定有秦人蹤。竹床坐久側兩耳，上塞下塞鳴悲風。當年兵氣王山谷，想見艸木皆英雄。古今夢事有如此，胡不躡足遊空峒。汲泉煑茗供一笑，出門又在山之東。星學王松齋𢹂東洲和尚偈求和星學王松齋𢹂東洲和尚偈求和三世如來同一性，蠢動含靈無多剩。若言狗子佛性無，喪却趙州窮性命。未得箇入頭，須當發深省。驀然打破牢關，高佩毗盧正印。印泥印水復印空，於一切處無不正。上不慕諸聖，下不重己靈。壬癸人屬水，不怕毛頭星。臘月花開，冬行春令。松齋直下承當，諸境自然清淨。送信禪人之南屏送信禪人之南屏但信自己即是佛，於一切處皆天真。須彌峯高日",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1413.xml). Supplementary Gathas and Verses of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, singing one nature for the three times with nothing left over for the stirring and wriggling."
+        },
+        {
+          "RelPath": "X/X72/X72n1442.xml",
+          "FromLb": "0687b15",
+          "ToLb": "0687c07",
+          "Kwic": "作祖禪師塔禮作祖禪師塔聖箭分燈到此間，富沙法化起雲山，古今無間真消息，一帶清溪遶座間。禮報親古航和尚塔禮報親古航和尚塔潭上多年駕鐵舡，至今遺韻尚泠然。我來瞻禮元無間，一縷檀雲繞塔前。本師和尚父母神主前上供拈香本師和尚父母神主前上供拈香師道是吾道，師親即我親。瓣香纔舉處，法界現全身。三世佛開光三世佛開光三世如來一法身，真光點出見丰神，大眾還見儂家麼？旋螺紺髮千峯碧，滿月慈容萬國春。隱含和尚遷化隱含和尚遷化摟空生死窟，推倒涅槃山。兩頭俱坐斷，撒手出重關。恭惟白雲堂上隱公和尚，續耶溪脉，秉龍唐令，立足那畔，垂手今時。大開五位玄門，直指一心捷徑。善說法要，頓教魔外潛蹤；慣穿金針，任是衲僧罔措。精勤荷道，樸實為人。既",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1442.xml). Drafts from Chan Master Weilin’s Traveling Hermitage. Weilin Daopei owns the retained deployment, consecrating the statues as one truth-body whose lit radiance shows its bearing."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0298a09",
+          "ToLb": "0298a24",
+          "Kwic": "同是別？碧潭雲：外不相關。師云：老佛果只解步步登高，不解從空放下，人前一味拍盲，豈信弄真像假？山僧與麼批判，諸人還證明得麼？良久，捧上不成龍。上堂：華綻老梅，日南長至。笋迸陰崖，吉無不利。東隣西舍，鐘鼓喧天。後巷前街，笙簧聒地。冷風吹帽正中偏，顛雨打窻粗裡細。是非榮辱何似生，瞎驢不受靈山記。客至，上堂。三世如來同一舌，大藏教中無法說。衲僧手裡定盤星，萬里長天耀孤月。首座有長處，且不循途轍。荊棘林中放步行，拔出時人釘根橛。先保寧和尚忌日，拈香。出黃泉又入黃泉，穴鼻無繩不受牽，倒轉一枝無孔笛，蘆華明月滿平川。你諸人還知我老和尚落處麼？卷四大海水于舌端，不見涓滴；置微塵剎土於毛孔，囊括大千。總謂其嫌白雲之語拙、愛五祖",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, giving the three times one tongue and the whole canon nothing to say."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0942b15",
+          "ToLb": "0942b27",
+          "Kwic": "，不睹不聞。」問：「如何是選佛場？」師云：「法幢處處張，獨不選兒郎。」進云：「因甚不選某甲？」師云：「為爾自不作佛。」問：「雲從龍，風從虎。仰山拄杖從雷雨，和尚從箇甚麼？」師云：「拂子一揮山海動，太行難比勝崑崙。」問：「清淨比丘不上天堂，造孽眾生不下地獄時是如何？」師云：「二俱不著。」乃云：「不著空空與不空，三世如來一樣同。如站千峰頂上，似行萬仞崖中。四邊荊棘八方火，一踏煙霞定化龍。」以拄杖一卓，下座。上堂。「拄杖𨁝跳，正令施行，擬心即錯，開口乖真，此中誰來當機？」僧近禮竟，疾歸本位，師舉起拄杖云：「獨妨山僧者一著。」問：「火燒初禪，有何憑據？」師云：「但看祝公爐，煙塵未消歇。」進云：「水渰二禪和尚向甚麼處安身立命？",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment, ruling that apart from empty and not-empty the three-times thus-come ones are all one alike."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0141a22",
+          "ToLb": "0141b14",
+          "Kwic": "鯉如雪，海底金烏若雞。今日為君說破，明朝各自東西。示徐居士太原示徐居士太原君家住在何處，身上猶帶落霞。早把機心放下，馮他碓嘴生華。秤錘蟲蠹，久矣不見不聞。隨他前三後三，省得即是吾家叉牙。示何居士常示何居士常迷悟兩塗未判，端居看是何物。分明一段天真，不是依俙仿佛。示王居士幻示王居士幻十類眾生是夢，三世如來夢人。山僧為你直道，爾我亦是浮塵。示楊居士顯示楊居士顯野馬如無玉絡，奔狂之性何調？學人棄此繩墨，未免伴奐自憍。示湯居士昶示湯居士昶萬尺寒潭把釣，細鱗無意吞鉤。可憐襏襫漁叟，香餌翛然別投。示眾示眾今朝白禮諸人，事務不煩問我。有求佛法因緣，但指庭花幾朵。山僧雖是村翁，領眾何常廢禮？只是尋常鬻飯，不曾",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, telling the layman straight that the beings are a dream and the three-times thus-come ones its dreamers."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0260b25",
+          "ToLb": "0260c07",
+          "Kwic": "何是奪人不奪境？」師云：「巢知風，穴知雨。」「如何是奪境不奪人？」師云：「驚衣雖脫了，鵫鴩尚矜誇。」「如何是人境兩俱奪？」師云：「花須連夜發，莫待曉風吹。」「如何是人境俱不奪？」師云：「海闊從魚躍，天空任鳥飛。」進云：「四句已蒙師指示，直截根源事若何？」師便打。乃云：「霜林葉落，體露千山，本來面目無藏處，三世如來口嘴乾。便恁麼去，猶涉途程；總不如何，墮坑落塹。山僧今日為汝諸人放一線道，直教箇箇如獅子兒壁立千仞去也。」卓拄杖，喝一喝。上堂。「教中道：『自心取自心，非幻成幻法，不取無非幻。非幻尚不生，幻法云何立？如幻三昧王，彈指超無學。此阿毘達磨，十方薄伽梵，一路涅槃門。』」拈拄杖，云：「恁麼會去，彈指超無學。」橫置拄",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment, drying the three-times thus-come ones' mouths before the original face with nowhere to hide."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "B/B25/B25n0145.xml",
+        "X/X71/X71n1413.xml",
+        "X/X72/X72n1442.xml",
+        "X/X71/X71n1414.xml",
+        "J/J39/J39nB471.xml",
+        "J/J29/J29nB224.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Zhongfeng Mingben",
+        "Gulin Qingmao",
+        "Weilin Daopei",
+        "Liao'an Qingyu",
+        "Konggu Daocheng",
+        "Yezhu Fuhui",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A title-of-honor string invoking all the thus-come ones of past, present, and future as one body, proclaimed in verse and hall address across the corpus. Hongzhi Zhengjue tells the assembly that with neither is nor is-not, neither joined nor parted, the thus-come ones of the three times together proclaim this very meaning; Zhongfeng Mingben opens his instruction with the teaching's word that they all appeared in the world for the one great matter; and Liao'an Qingyu works it into verse for a visiting guest — one tongue for all the three times, nothing to say in the whole canon. Gulin Qingmao's matched reply verse sings one nature for the three times with nothing left over for the stirring and wriggling; Weilin Daopei, consecrating the three-times statues, points out the one truth-body whose lit radiance shows its bearing; Konggu Daocheng tells the hall that apart from empty and not-empty they are all one alike; Yezhu Fuhui tells the layman straight that the ten kinds of beings are a dream and the three-times thus-come ones its dreamers; and Yunwai Xingze, at the frost-wood hall, has the original face with nowhere to hide and the three-times thus-come ones' mouths gone dry."
+    }
+  ]
+}

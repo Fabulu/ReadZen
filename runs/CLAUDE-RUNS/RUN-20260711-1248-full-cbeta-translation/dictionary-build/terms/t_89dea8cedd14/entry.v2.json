@@ -1,0 +1,215 @@
+{
+  "Id": "t_89dea8cedd14",
+  "SourceTerm": "西瞿耶尼",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:04:36Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Aparagodaniya, the western continent",
+      "AlternateTargets": [
+        "the west continent of the fourfold world"
+      ],
+      "SearchAliases": [
+        "the western of the four continents",
+        "Godaniya in the west",
+        "the ox-gift continent of the west"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 155 hits in 86 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0738a13",
+          "ToLb": "0738b07",
+          "Kwic": "下下一問一荅住汝當荷夾差一問來作麼生當荷代云謂言侵早起更有夜行人又云一起一倒又云生在冀州。上堂云乾坤側日月星辰一時黑作麼生道代云好事不如無師因說事了起立以拄杖打禪牀一下云適來如許多葛藤貶向什麼處去靈利底即見不靈利底著我熱瞞代云雪上加霜。示眾云日月傍照三天下正照四天下我與你注破了也一句道將來代云東弗于代西瞿耶尼或云佛法不用道著世間什麼物最貴代云莫道這箇是賤底又云乾屎橛。一日云今日十五入夏也寒山子作麼生代云和尚問寒山學人對拾得或云你諸人傍家行脚還識西天二十八祖麼代云坐底坐臥底臥又云少喫因齋次指白甆器云這箇知有超佛越祖之談代云五九四十五又云和尚自喫飯。一日云是你傍家行脚作麼生是不落賔主底句道將來代云便出去或云",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment — the four-continent frame glossed and answered in their stead, eastern continent answered by the western."
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0661b26",
+          "ToLb": "0661c12",
+          "Kwic": "也。道不得。還知南泉落處麼。白雲不惜眉毛。與儞注破。得又是誰道來。不得又是誰道來。儞若更不會。老僧今夜為儞作箇樣子。乃舉手云。將三界二十八天作箇佛頭。金輪水際作箇佛脚。四大洲作箇佛身。雖然作此佛兒子了。儞諸人又却在那裏安身立命。大眾還會。也未老僧作第二箇樣子去也。將東弗于逮作一箇佛。南贍部洲作一箇佛。西瞿耶尼作一箇佛。北欝單越作一箇佛。草木叢林是佛。蠢動含靈是佛既恁麼。又喚什麼作眾生。還會也未。不如東弗于逮還他東弗于逮。南贍部洲還他南贍部洲。西瞿耶尼還他西瞿耶尼。北欝單越還他北欝單越。草木叢林還他草木叢林。蠢動含靈還他蠢動含靈。所以道。是法住法位。世間相常住。既恁麼。儞又喚什麼作佛。還會麼。忽有箇漢出來道。",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment — the first model of heavens and waters, then the second model, each continent a Buddha and each thing handed back to itself, dharmas abiding in their positions."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0744a05",
+          "ToLb": "0744a22",
+          "Kwic": "那吒嚼生鐵。勅攝截急急如律令。上堂舉。僧問法眼慧超咨和尚。如何是佛法。眼云。汝是慧超。師云。還委悉麼。病遇良醫。饑逢王饍。醬裏得鹽。雪中送炭。上堂云。昨日風今日風。陣陣不從他發。十日雨五日雨。點點不落別處。大方無外大象無形。盡世界撮如粟米粒。總虛空乃掌中葉。可以拽新羅國與占波國鬪額。直得東勝身洲射箭。西瞿耶尼中垛。所以道。髑髏常干世界。鼻孔摩觸家風。若是未出陰界。尚滯見知聞。恁麼說話。一似鴨聽雷鳴隔靴抓癢。直饒脫却根塵去却機境。尚餘一線路在。且二途不涉一句作麼生道。還委悉麼。佛殿階前石獅子。大洋海底鐵崑崙。散天申節。上堂云。天上古佛人間至尊。五月下降閻浮。五月君臨萬國。奮中興業清四海塵。永固龍圖長堅鳳曆。遙",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment — the world rolled to a millet grain, Silla and Champa dragged to butt heads, the arrow loosed in the eastern continent and the target struck in the western."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0315c09",
+          "ToLb": "0315c23",
+          "Kwic": "聳翠，萬派爭流，既有高低，不無深淺，此皆妄識評䟦，狂情繫綴。若向是法平等處著眼，空劫前時存心，索甚行人泣淚？漫自遲疑，畢竟離言說、絕思慮的消息，豈許等閑容易領會？不見道：只為分明極，翻令所得遲，自己不會浮，休怨河曲剝。雲門忒煞老婆心切，火星昨夜既移牛斗，歲君今日必降灾祥，得之者頭輕眼明，失之者心忙腹熱，想見西瞿耶尼，人總不知。林泉道：因禍致福。須彌四面各有一洲，東曰東弗于逮，南曰南贍部洲，西曰西瞿耶尼，北曰北鬱單越，此四洲之梵音也。還知北斗藏身處麼？徒勞斫額望，枉了強搜求。第九十則五鳳樓前第九十則五鳳樓前示眾云：有時步步踏著，有時頭頭蹉過，須知尊貴一路，豈容取次登陟？有善迴互者麼？舉：僧問風穴：如何是道？穴云：五",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection. Linquan Conglun owns the retained deployment — the one plain definitional row, the four continents named and their sounds ruled Sanskrit, then the Dipper's hiding place demanded."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0030b04",
+          "ToLb": "0030b18",
+          "Kwic": "呵大笑。」師豎起拂子云：「山僧今日上樹去也，置將一問來。」代云：「金香爐下銕崑崙。更聽一頌：黑貂裘敝出秦關，萬言書上不為難，窮到骨頭皮裏出，肘懸金印故鄉還。諸兄弟！一等是箇參禪，這些圈繢若不打徹，盡是鬼家活計。如今一箇箇都道大事了畢，我且問你，十方總一箇法身，為甚麼南閻浮提不曉得北鬱單越事？東弗提婆不曉得西瞿耶尼事？居下方不識忉利天、非非想天事？在天上亦不知地獄道事？」豎拂子云：「山僧今日將東勝神洲為西牛賀洲，轉南贍部洲作北俱盧洲，攪作一團，混作一塊，東西不辨，南北不分。西來意即東土意，恁麼則上樹也是這箇，未上樹也是這箇。拈華微笑，廚庫山門，舉著便知光明寂照，父母未生，符到奉行，豈不快哉。諸仁者！莫道山僧恁麼舉話",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment — everywhere one thing only, so why does the eastern land (written with the Poverty-goddess variant) not know the western continent's business?"
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0221c26",
+          "ToLb": "0222a11",
+          "Kwic": "拄杖，云：「晴天好晒衣。」下座。上堂。云：「今日是趙氏三昆玉領渠合家同朱居士設齋，與大眾送行。善迎不如善送，好頭須得好尾。來時虎笑風生，去時龍騰雲至。等閒豎拂拈槌，惹得如狂似醉。謾誇頑石點頭，浪說天花亂墜。但使黃葉止啼，何妨把賤作貴？三門佛殿交參，露柱燈籠易位。金剛寶劍倚天，外道邪魔膽碎。北俱盧洲鳴鐘，西瞿耶尼犬吠。震動帝釋天宮，東海鯉魚鼎沸。且喜浪靜波平，依舊青山綠水。臨行一句真言，只在遼陽新寺。」卓拄杖，便下座。上堂。云：「山僧與爾者方諸檀及各剎諸禪，原從多劫中同事諸佛、同種般若而來，今日到者裡，正是他鄉遇舊知，不是新相識。正團圞得好，不期又有遼陽新寺之請，不得已要與諸檀及諸禪分手，不覺凄然。古云：『人非",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke owns the retained deployment — the northern continent ringing its bell and the western barking its dogs, Indra shaken and the carp at boil, and still the green hills and waters as before."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0318c24",
+          "ToLb": "0319a14",
+          "Kwic": "北門。師拈云：諸人還會麼？物是定價，錢是足陌。上堂：佛祖真機，曾無準的。鈎鎻連環，刀挑不出。石田有箇道處，未必諸人委悉。摩訶般若波羅蜜，甚深般若波羅蜜。上堂，舉祖師道：心隨萬境轉，轉處實能幽。隨流認得性，無喜亦無憂。師拈云：祖師恁麼道，成一切人，壞一切人。且道利害在什麼處？具眼者辨取。上堂：東弗于逮，西瞿耶尼。清清之水，遊魚自迷。上堂，舉：五祖頌云：庭開金菊宿根生，來雁新聞一兩聲。昨夜七峯牽老興，千思萬想到天明。師拈云：五祖語路分明，知心者少。楓橋則不然，庭開金菊宿根生，來雁新聞一兩聲，猶握金鞭問歸客，夜深誰共御街行？上堂：窮𤺊煎，餓𤺊吵，驢事未去，馬事到來。正當恁麼時，且道還有祖意也無？古㵎青松下，千年長茯",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment — the two continents spent in four graphs each, and the fish themselves lost in the clear clear water."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0496b01",
+          "ToLb": "0496b17",
+          "Kwic": "春回大地也雪滿千山非當年久侍者不知師翁雪滿千山也春回大地三十年後有人共見今日某孫應時獻一杯茗罪過彌天何故不合當面觸犯解制空明師同滌凡劉檀越請上堂問答畢師廼云盡大地是解脫門把手牽不入盡大地是涅槃路倩人得不得入得解脫門行得涅槃路便廼動若行雲止猶谷神既無心於彼此豈有象於去來南贍部洲坐禪北鬱單越腳麻東弗于逮持鉢西瞿耶尼手酸大洋海底翻身打倒兜率天宮觸著閻羅老子鼻孔帶累四大天王齊聲噴嚏天人捧花無路禪鬼窺覷何及如或不然出門便是草腳下好生看清明上堂師云昔日靈山會上文殊請世尊再轉法輪世尊云汝請再轉法輪是吾曾轉法輪耶師召眾云世尊大好言語今日節届清明眾職事及諸大眾請山僧陞座說法是豈山僧有不說法時邪卓拄杖云會中若有仙陀客不用旁人更下",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment — sitting in the south, legs numb in the north, bowl in hand in the east, arms aching in the west, then the ocean-floor turn that topples Tushita and makes the four kings sneeze."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1995.xml",
+        "T/T47/T47n1997.xml",
+        "X/X67/X67n1303.xml",
+        "J/J27/J27nB189.xml",
+        "J/J38/J38nB407.xml",
+        "X/X70/X70n1386.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Zhaozhou Congshen",
+        "Wuzu Fayan",
+        "Nanquan Puyuan",
+        "Yuanwu Keqin",
+        "Linquan Conglun",
+        "Sanyi Mingyu",
+        "Qianshan Shengren Hanke",
+        "Shitian Faxun",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Aparagodaniya, the western continent — the borrowed far edge of the world that the masters drum from, shoot at, sail to, and shuffle out of its seat. Yunmen Wenyan sets the frame at his address to the assembly — sun and moon shine slantwise on three continents and straight on four — then, saying he has it glossed for them, demands the sentence, and answers in their stead: eastern continent... western continent; Wuzu Fayan, styling himself the White Cloud elder, raises his hand and makes a Buddha of the whole apparatus — the twenty-eight heavens for a head, the golden wheel's waters for feet, the four continents for a body — then makes a second model: each continent a Buddha, grass and trees a Buddha, all moving and breathing a Buddha — and hands each thing back to itself, dharmas abiding in their positions, the world's marks ever present; Yuanwu Keqin shrinks the great square beyond-outside into a millet grain and the whole void into a palm-leaf, drags Silla and Champa to butt heads, and shoots: arrow loosed in the eastern body-continent, target struck in Aparagodaniya; and Linquan Conglun, appraising the case of hiding in the Dipper, simply glosses the geography — four continents on Sumeru's four faces, east, south, west, north, these the Sanskrit sounds — then asks where the Dipper hides its body, knocking the forehead in vain, searching in vain. Sanyi Mingyu presses the one-body question at general discourse — everywhere is one thing only, so why does this southern continent not know the northern continent's business, the eastern Poverty-goddess land not know Aparagodaniya's, the lower floors not know the Joy heavens? — then whisks raised, kneads the four continents into one lump, east and west indistinguishable, the western meaning the eastern meaning; Qianshan Shengren Hanke, seeing the Zhao brothers' family off to a new temple in Liaoyang, works the farewell verse through the borrowed map — gate and hall crossing places, pillars and lanterns swapping seats, the northern continent ringing its bell, Aparagodaniya's dogs barking, Indra's palace shaken, the eastern sea's carp at boil — and still the waves calm, the green hills and waters as before; Shitian Faxun spends eight graphs at the hall address — eastern continent, western continent; clear clear water, the swimming fish themselves lost; and Yulin Tongxiu, closing the retreat, runs the whole tour — sitting cross-legged in the southern continent, legs gone numb in the northern, bowl in hand in the eastern, arms aching in the western — then turns over on the ocean floor, knocks down Tushita's palace, tweaks the nose of old Yama until the four great kings sneeze in chorus, and warns: failing that, grass the moment you step out the door — mind your feet."
+    }
+  ]
+}

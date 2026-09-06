@@ -1,0 +1,190 @@
+{
+  "Id": "t_66ced1125316",
+  "SourceTerm": "法不孤起，仗境方生",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:07:30Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the teaching never rises alone; it takes a ground to be born",
+      "AlternateTargets": [
+        "no rising without a ground",
+        "circumstances first, then the talk"
+      ],
+      "SearchAliases": [
+        "the occasioned-teaching couplet",
+        "leaning on the ground, the teaching is born",
+        "no solitary rising"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 73 hits in 51 files representing 51 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0103c15",
+          "ToLb": "0103c28",
+          "Kwic": "，摘到驢年未肯放你在。何故？不見道：河裏失錢河裏摝。諸上座！古人分上如是，汝等分上又作麼生？」一僧出云：「直捷根源佛所印，摘葉尋枝我不能。」師喚侍者點釅茶與者僧吃。一僧云：「皮膚脫落盡，唯有諸貞實。」師云：「作座主奴未許你在。」僧云：「和尚又作麼生？」師云：「今不下手，更待何時？」便掌，戴笠就行。上堂。「法不孤起，仗境方生。」驀豎拂子，云：「者箇喚作境，得麼？」擊禪床，云：「者箇喚作法，得麼？」放下拂子，云：「顢頇則一任顢頇，擬議則千里萬里。得與麼，山僧即是諸人，諸人不是山僧；不與麼，諸人即是山僧，山僧不是諸人。」良久，云：「歸堂吃茶去。」便下座。上堂。「行腳衲僧不是無箇住處，直是歇腳不得。當下歇得腳來，妙覺有箇住處與他。眾",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenfeng Xian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained address: the teaching never rises alone; it takes a ground to be born — then, suddenly raising the whisk: may this be called the ground? Striking the seat: may this be called the teaching? Letting the whisk fall: muddle on, then, if you must — but hesitate, and you are a thousand, ten thousand miles away. If it goes so, this mountain monk is all of you, and you are not him; if not, you are him, and he is not you. A long silence — go back to the hall and drink tea."
+        },
+        {
+          "RelPath": "J/J27/J27nB194.xml",
+          "FromLb": "0310b24",
+          "ToLb": "0310c09",
+          "Kwic": "盡常住水草，猶作者般去就？」下座。白槌云：「諦觀法王法，法王法如是。」上堂。「久雨偶晴，人境紛紜，金烏投東嶺，滴露草橋橫，衲子分中明甚麼邊事？若也分疏得，也是烏龜鑽破壁。」上堂。「白牛山裡上堂，東勝神洲打鼓，石頭瓦礫揚眉，草木禽魚起舞。從上先聖頂門，盡是時人窠窟，若也觸途成滯，問取燈籠露柱。」上堂。「法不孤起，仗境方生，境既弗存，法從何立？」豎拂子云：「此是境，如何是法？」擲下云：「從茲拋在糞掃堆頭雨打風吹去。」上堂。「霧沉沉，雨淒淒，路上行人脛沒泥，山前驟漲一溪水，隔絕行人千萬里。突然斷岸一橋通，薄霧疏林遞暮鐘。此是途路事，如何是到家一句？竹榻懸星斗，挨身倚北辰。」誕日上堂。「吾年四十二，作事多顛躓，佛祖生冤家，怒",
+          "MasterName": "Zhangxue Tongzui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhangxue Tongzui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB194.xml). Recorded Sayings of Chan Master Xuezui of Zhaojue. Zhangxue Tongzui owns the retained address: the teaching never rises alone; it takes a ground to be born — but if the ground is not there at all, from where would the teaching stand? He raised the whisk: this is the ground — what, then, is the teaching? And flung it down: from here it is thrown onto the sweepings-heap, for the rain to beat and the wind to blow away."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0338c29",
+          "ToLb": "0339a14",
+          "Kwic": "薦嚴慈衡陽令湘琳公沈氏孺人，證此不生不滅之體，直與三世諸佛同一道場、同一受用，出沒卷舒，縱橫自在。秪如超然獨脫一句又作麼生？天高雲象正，瑞氣滿庭中。」喝一喝，下座。聖節。以拄杖橫按，云：「世尊不說說，迦葉不聞聞，蜘蛛非烏梅，蜻蜓非銹釘，紫雲峰下折腳鐺。」復卓一卓，云：「金明以此祝聖君。」小參。師云：「法不孤起，仗境方生。悟進自住金明以來，杜門六載，抱病過時，不料於今有執事人等相逼病僧結制，況且柴無一根、米無一粒、菜無一莖，直得空牢牢地，致使諸方衲子到來聞見，笑破脣皮有分。今晚事不獲已，舉個舊案：昔日睦州唆臨濟問話，不是好心；楊岐請慈明晚參，不是好心。今晚執事逼我病僧結制，且道是好心？不是好心？試定當看。苟或不然，未免唐",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie'an Jin. Jie'an Jin owns the retained small-meeting: the teaching never rises alone; it takes a ground to be born. Since Wujin came to dwell at Jinming he has kept the door shut six years, sick through the seasons — and now the officers press a sick monk to close the retreat: not one stick of wood, not one grain of rice, not one stalk of greens, utterly empty — so that roaming monks who arrive and see it earn a share of split lips laughing. Tonight it cannot be helped; an old case is raised: of old Muzhou egging Linji on to ask his question — not a kind heart; Yangqi asking Ciming to the evening meeting — not a kind heart. Tonight the officers press this sick monk to close the retreat — kind heart, or not? Try to settle it."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0404a01",
+          "ToLb": "0404a13",
+          "Kwic": "，一掌一握血。」玉泉張山主、諸山耆宿洎闔城居士請上堂。拈香祝聖畢，僧問：「柏子堂開，人天普集，臨濟宗風，請師舉唱。」師震威，喝一喝。進云：「便恁麼承當去時如何？」師云：「腳跟下猶有重關在。」問：「復古名剎，開選佛場，功勳若何？」師云：「種豆不生麻。」進云：「及第歸時如何？」師云：「錦上鋪華。」乃豎拂，云：「法不孤起，仗境方生。」復以拂打圓相，云：「正覺無名相，隨緣即道場。從上佛祖皆在此箇道場中各建門庭，互陳作略，拈華面壁，舞笏輥毬，提持不一。山僧今日亦不向外打之遶，直捷行箇條令，務要諸人當下見箇落處，只是不得承虛接響。」擲下拂子，喝一喝，云：「千般伎倆皆春澤，一喝如雷起蟄龍。」復舉：「世尊因地布髮掩泥，獻華於然燈佛。然燈見布髮",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianyue Daozheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained address: he raised the whisk — the teaching never rises alone; it takes a ground to be born — then drew a circle with it: true awakening has no name or form; follow the conditions, and there is the seat of the way. From the founders on, all have built their gates inside this one seat, each setting out his own device — the flower raised, the wall faced, the tablet danced, the ball bowled — no two holdings alike. This mountain monk today will not go circling outside either; he runs one straight rule, bent only on making all of you see a resting place on the spot — only, do not catch at echoes. The whisk flung down, one shout: a thousand skills all spring rain — one shout like thunder wakes the hibernating dragon."
+        },
+        {
+          "RelPath": "J/J35/J35nB340.xml",
+          "FromLb": "0769c30",
+          "ToLb": "0770a14",
+          "Kwic": "在雲間，何待指標重重道破？阿呵呵，休蹉過，密移些子射光寒，舉步分明親蹋著。大眾！且道蹋著箇甚麼？」乃起身，喝一喝，云：「大石頭，大石頭，小石頭，小石頭。」真機靜主請小參。「真機離世語，世語即真機，雨滴檐前石，風來樹上枝。離離離更即，即即即還離，離即生分別，堪宜又不宜？」拍膝一下。忠州屏山胡居士請小參。「法不孤起，仗境方生，境既弗存，法從何立？乾矢橛、麻三觔，鎮州蘆菔頭、庭前柏樹子又作麼生？」卓拄杖，云：「一串穿卻。」高琯居士請小參。「沙裏淘金易，火內生蓮難，在家修至道，超然難易間。夫在家之家有幾許？有桑戶捲樞之家、有塵勞業識之家、有錦村繡砦之家、有洞府蓬島之家，未審居士在何等家？修何等道？」眾惘然。師拈拄杖劃此⊕相，云：",
+          "MasterName": "Huijue Yi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huijue Yi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. Huijue Yi owns the retained small-meeting: the teaching never rises alone; it takes a ground to be born — but if the ground is not there at all, from where would the teaching stand? The dried turd-stub, three pounds of hemp, the Chenzhou radish-head, the cypress tree in the yard — what then of these? He rapped the staff: strung through, all on one string."
+        },
+        {
+          "RelPath": "J/J36/J36nB363.xml",
+          "FromLb": "0788a12",
+          "ToLb": "0788a25",
+          "Kwic": "『苦哉！苦哉！僊天今日忘前失後。』曰：『要且得時，終不補失。』僊曰：『爭不如此？』曰：『誰甘？』僊呵呵大笑曰：『遠之遠矣！』僧四顧便出。」師云：「僊天恁麼施設，雖無生擒活捉之機，且喜收放自在。這僧縱解掣電光中轉身，未免傷鋒犯手。雙林今日黨理不黨親，檢點僊天老人合喫拄杖。何故？不見道：多處添些子。」上堂。「法不孤起，仗境方生。」乃豎拄杖，召眾，云：「大眾！且道：這箇是法耶？是境耶？若檢點得出，共你七十三、八十四；其或未然，別峰相見。」卓拄杖，下座。上堂。舉：「雪峰問僧：『甚處來？』曰：『近離浙中。』峰曰：『船來？陸來？』曰：『二途俱不涉。』」師云：「此案古今提唱，故多覓箇不錯會者，不啻水中擇乳。然這僧將謂雪峰屈辱，殊不知卻被同",
+          "MasterName": "Wenmu Nian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wenmu Nian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB363.xml). Recorded Sayings of Chan Master Wenmunian. Wenmu Nian owns the retained address: the teaching never rises alone; it takes a ground to be born — then he raised the staff and called the assembly: tell me — is this the teaching, or is it the ground? Get the reckoning out, and it is seventy-three, eighty-four with you; failing that — we meet on another peak. The staff rapped, he came down."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J34/J34nB298.xml",
+        "J/J27/J27nB194.xml",
+        "J/J29/J29nB233.xml",
+        "J/J29/J29nB235.xml",
+        "J/J35/J35nB340.xml",
+        "J/J36/J36nB363.xml"
+      ],
+      "RelatedMasters": [
+        "Shenfeng Xian",
+        "Zhangxue Tongzui",
+        "Jie'an Jin",
+        "Muzhou Daoming",
+        "Linji Yixuan",
+        "Yangqi Fanghui",
+        "Shishuang Chuyuan",
+        "Lianyue Daozheng",
+        "Huijue Yi",
+        "Zhaozhou Congshen",
+        "Wenmu Nian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The teaching never rises alone; it takes a ground to be born — the couplet that opens an occasion and then gets its footing pulled. Shenfeng Xian, opening the hall: the teaching never rises alone; it takes a ground to be born — and suddenly the whisk: may this be called the ground? the seat struck: may this be called the teaching? the whisk dropped: muddle on if you must, but hesitate and you are a thousand, ten thousand miles away — if it goes so, this mountain monk is all of you and you are not him; a long silence — go back to the hall and drink tea. Zhangxue Tongzui, pulling the couplet's footing: the teaching never rises alone; it takes a ground to be born — but if the ground is not there at all, from where would the teaching stand? the whisk raised — this is the ground, what is the teaching? — flung down: thrown on the sweepings-heap, for the rain to beat and the wind to blow away. Jie'an Jin, at the small-meeting: the teaching never rises alone; it takes a ground to be born — since Wujin came to Jinming, door shut six years, sick through the seasons, and now the officers press a sick monk to close the retreat: no wood, no rice, no greens, utterly empty — the roaming monks split their lips laughing; an old case is raised — Muzhou egging Linji on, not a kind heart; Yangqi asking Ciming to the evening meeting, not a kind heart — tonight's pressing, kind heart or not? try to settle it. Lianyue Daozheng, at the restored monastery: whisk raised — the teaching never rises alone; it takes a ground to be born — a circle drawn in the air: true awakening has no name or form; follow the conditions, and there is the seat of the way; the founders all built their gates inside this one seat — flower raised, wall faced, tablet danced, ball bowled — this mountain monk runs one straight rule: see a resting place on the spot, only do not catch at echoes; the whisk flung down, one shout: a thousand skills all spring rain, one shout like thunder wakes the hibernating dragon. Huijue Yi, for the layman of Pingshan: the teaching never rises alone; it takes a ground to be born — if the ground is not there, from where would the teaching stand? the turd-stub, three pounds of hemp, the radish-head, the cypress tree — what of these? the staff rapped: strung through, all on one string. Wenmu Nian, opening the hall: the teaching never rises alone; it takes a ground to be born — the staff raised, the assembly called: is this the teaching, or the ground? settle it, and it is seventy-three eighty-four with you; failing that — we meet on another peak."
+    }
+  ]
+}

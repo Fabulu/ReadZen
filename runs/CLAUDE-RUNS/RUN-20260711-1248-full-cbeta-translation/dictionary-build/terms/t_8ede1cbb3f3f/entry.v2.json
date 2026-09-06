@@ -1,0 +1,193 @@
+{
+  "Id": "t_8ede1cbb3f3f",
+  "SourceTerm": "作死馬醫",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:30:43Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "to treat the dead horse anyway",
+      "AlternateTargets": [
+        "the cure of the already-dead horse"
+      ],
+      "SearchAliases": [
+        "treat the dead horse as a live one",
+        "medicine for a dead horse",
+        "the hopeless cure performed anyway"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 168 hits in 88 files representing 86 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0016c21",
+          "ToLb": "0017a12",
+          "Kwic": "符云：潦倒世尊，靈龜拽尾瞞文殊則得。我若見道：請吾再轉法輪。是吾曾轉法輪耶？便好合掌云：我今此去，專為流通。世尊於涅槃會上，以手摩胸，告眾曰：汝等善觀吾紫磨金色之身，瞻仰取足，勿令後悔。若謂吾滅度，非吾弟子；若謂吾不滅度，亦非吾弟子。時，百萬億眾悉皆契悟。雲峰悅，云：然則膏肓之病不足以發藥，雲峰今日且作死馬醫，汝等諸人皮下還有血麼？東禪觀云：其時眾中有個作者，纔見伊以手摩胸，便出約住云：瞿曇！你者醜舉止休拈出也。他若知非，決定緘口，免見百萬億眾墮邪倒見。徑山冲云：世尊平生用盡伎倆，臨死之際，求生不得生，求死不得死。山僧則不然，要行便行，要去便去，八臂那吒擡不住。遂化去。徑山琇云：病入膏肓，莫能療治，非但世醫拱",
+          "MasterName": "Yunfeng Wenyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfeng Wenyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Yunfeng Wenyue owns the retained deployment, ruling the sickness past the poultice beyond prescribing, then doing the dead-horse cure all the same and asking the assembly whether there is still blood under their skin."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0227b21",
+          "ToLb": "0227c04",
+          "Kwic": "得雲巖良久秖者是，山高豈礙白雲飛？黃山谷因死心死、學士死，燒作兩堆灰，向那裏相見處？後知死心不肯是真相為。張無垢因舉人境兩俱奪，云：『打破蔡州城，殺卻吳元濟，方得千門萬戶一踏而關。』豈云悟有親疏？秖貴頭正尾正。信知古人有如是奇特、有如是殊勝，末後一句始到牢關，斷不負卻一知半解，誤賺平生。仔細簡點將來，猶是作死馬醫，盡成實法。若要顯大機、發大用，提持向上巴鼻，闡揚佛祖宗猷，更須曹山門下喫棒始得。還委悉麼？朝打三千暮八百，臨機秖要箇獨脫，明頭合了暗頭合，他年定做白拈賊。」下座。元宵，上堂。師舉拂一拂，云：「天上月正圓，也不離者箇消息。」又拂一拂，云：「人間道月半，也不離者箇消息。」又拂一拂，云：「月圓月半則且置，向上",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, ruling that on close inspection even the ancients' head-straight tail-straight awakenings remain dead-horse cures turned fixed things, and that the great display still needs a beating at the Caoshan gate."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0512a02",
+          "ToLb": "0512a16",
+          "Kwic": "門具殺活手段。雖然，若在報恩門下，更須勘過始得。下座。上堂，舉：大愚芝和尚示眾：大家相聚喫莖虀，若喚作一莖虀，入地獄如箭射。師云：好語要且無來處，有人辨得出，與你一兩金。下座。上堂。盡大地無一粟米大，十有九箇刺頭入膠盆。有般瞎漢只管說，照用同時，人境俱奪。盖為鑪鞴之所，鈍鐵尤多；良醫之門，病者愈甚。報恩更作死馬醫，未免撞入漆桶隊裏。復舉：金峰和尚一日因僧問訊，乃把住云：輒不得道我有一則因緣舉似你。僧作聽勢，峰與一掌，僧云：為什麼打某甲？峰云：我要者話行。師云：者僧雖深入虎穴，要且未具師子爪牙。金峰雖有師子爪牙，爭柰有頭無尾？汝等諸人還知報恩著力處麼？一點水墨，兩處成龍。上堂，僧問：呈橈舞棹則不問，且道婆婆手中兒子",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, ruling that at the good doctor's gate the sick only grow worse — so Bao'en will do the dead-horse cure anyway and cannot dodge charging into the lacquer-bucket brigade."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0406b03",
+          "ToLb": "0406b17",
+          "Kwic": "，出入進退無不是空，順逆游泳無不是水，祇為見起情生，所以白雲萬里。昔日投子參翠微，問：如何是西來意？翠微但以目顧視，投子擬進語，微曰：更要第二杓惡水麼？投子便大悟。你看他這裏還容得一點情見麼？後來投子住菴，雪峯往參，投子下禪床立，峯竚思，被投子托出庵外，峯直得哭。你看他這裏還容得一點情見麼？所以山僧今日祇作死馬醫，教人離心意識，參透出箇本有光明，不是鈍置諸兄弟，葢為這箇不是知解邊事也。僧問：如何是本有光明？師笑一聲。僧曰：未笑已前時如何？師云：汝未會在。小參。千思萬慮不如休，千言萬語不如歇。不用捧出破砂盆，何須提起乾屎橛？雖然，也不可一向恁麼道。祇如甘露戒壇跳入你眼睛裏又作麼生？袒膊和尚在你背後行又說甚麼話？也須",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment, conceding he merely does the dead-horse cure in teaching people to leave mind-consciousness and pierce through to the inherent light, and denying that it dulls the brothers."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0290a18",
+          "ToLb": "0290b13",
+          "Kwic": "「絕倒旁觀。」一僧曰：「待問即對。」次曰：「蓋膽毛一莖兩莖，還遮覆得麼？」眾僧競出，師曳拄杖，下座。南岳繼起和尚語錄卷之三嗣法門人濟璣等編住蘇州靈嵒崇報寺語三住蘇州靈嵒崇報寺語上堂。喝一喝，曰：「前聖所知，轉相傳授。能滅億劫倒想，成就無量慧身。離此章句，別有商量。水牯牛欄裡，又添一頭。靈嵒不獲已，且作死馬醫。將知你一生行腳，只是泥裡撼椿，看人喫飯。一法若有，毘盧墮在凡夫；萬法若無，普賢失其境界。你道街頭巷尾敲鐵磬，沿門念高王經底，親見妙覺也無？灼然諦當得，其樂不可量。打筭不下，最苦莫過此也。」復喝一喝。旋顧左右，曰：「洞山古佛道得好：『成佛作祖，越此不得。』不得，伊何要你消磨？」松陵陸懋之居士求嗣，請上堂。",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment, granting that Lingyan cannot help but do the dead-horse cure, then ruling a whole life of pilgrimage just post-shaking in the mud and watching others eat."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0136b25",
+          "ToLb": "0136c08",
+          "Kwic": "法普周，法身常住。現前知識，並及見聞，發菩提心，究竟佛地，利樂有情，永無疲厭。珍重！」小參。豎拂子，云：「大眾！纔與麼會，早已無事生事，參玄之士十箇五雙在者裏絆殺。所以道：鳳縈金鎖，趨霄漢以何期？直得處處破除，猶是靈龜曳尾。大眾！大須知有，若向上頭撥轉關捩，便一腳蹋到底，庶有少分語話在。然雖如是，也不得作死馬醫。百丈再參，巖頭撫掌，六七八九，機輪同別。」復豎拂子，云：「會麼？」臘八，小參。「世尊二千六百年前於此夜睹明星悟道，如今人人有雙眼睛，夜夜睹明星，為什麼不悟？」良久，云：「世尊打草驚蛇，也祇惑亂有眼睛底，忽遇著箇瞎漢又作麼生？」拈拄杖，云：「將謂鬍鬚赤，更有赤鬚鬍。」佛誕，小參。「未離兜率，已降王宮；未出母",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment as the refusal: even so, one must not do the dead-horse cure — the second visit of Baizhang and the clapped palms of Yantou stand beyond it."
+        },
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0605a18",
+          "ToLb": "0605b02",
+          "Kwic": "落後，如何是身裏出門的意？擬議不來，和座掀倒。教知二千年後寥寥日，幹蠱而今亦有人。」供法物，上堂。「好一段真風，被他化母漏洩殆盡。山僧雖則露箇面目，也是蝦因子屈。自小養一頭水牯，涬是可憐生。如今被人曳到曲彔床上，祇得要撒放一遍。」卓拄杖，喝一喝，下座。上堂。「靈源明皎潔，枝派暗流注，拆東籬，補西壁，未免作死馬醫。設有箇漢掀倒禪床、喝散大眾，不唯剿絕葛藤，免見雲峰話墮。」為母金蓮老人七旬，上堂。僧問：「如何是為親祝壽句？」師舉拂子曰：「能扶衰老，益氣長年。」曰：「祇如無量壽又如何慶？」曰：「紫金丹能瘳眾病。」曰：「祝與不祝又作麼生？」師曰：「有箇類聖散方子與你。」僧禮拜，師曰：「可惜不善服用。」乃曰：「那吒析骨肉",
+          "MasterName": "Pinjixiang Zhixiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pinjixiang Zhixiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pinjixiang Zhixiang owns the retained deployment, calling his own tearing down the east hedge to patch the west wall the unavoidable dead-horse cure, and blessing the one who would overturn the seat and shout the assembly away."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0314b26",
+          "ToLb": "0314c09",
+          "Kwic": "蹋蹋倒，起來便道：『百千法門、無量玅義，只向一毫頭上識得根源去。』臨濟喫黃檗三頓痛棒，便道：『元來佛法無多子。』你道者三箇老古錐當時如何做工夫？德山、馬祖又如何考較？須知此事無汝用心處、無汝湊泊處，你纔上蒲團，牚眉努目，惺惺地思量卜度時，早已蹉過了也。直饒你不思量、不擬議，未免坐在黑山鬼窟裏。古人不得已作死馬醫，向第二義門與你和泥合水，說道『喚作竹篦則觸、不喚作竹篦則背，不得有語、不得無語。』與麼稱提，已是八字打開了也。爭奈根性遲鈍，不能領略，遂將此話蘊在八識田中，時刻追究，謂之看話頭做工夫。宋時有箇大慧禪師，常握竹篦鉗鎚學者，一時宗風大振，不減馬祖。嗣後相襲成風，皆以看話頭為參禪。凡學者一進門來，師家亦不管青黃",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, ruling the ancients had no choice but the dead-horse cure — mixing mud and water with you at the second-meaning gate, the neither-touch-nor-turn watchword already eight characters flung open."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "J/J34/J34nB300.xml",
+        "X/X69/X69n1359.xml",
+        "X/X72/X72n1437.xml",
+        "J/J34/J34nB301.xml",
+        "J/J38/J38nB406.xml",
+        "J/J39/J39nB454.xml",
+        "J/J28/J28nB208.xml"
+      ],
+      "RelatedMasters": [
+        "Yunfeng Wenyue",
+        "Chaozong Tongren",
+        "Ying'an Tanhua",
+        "Yongjue Yuanxian",
+        "Jiqi Hongchu",
+        "Tianran Hanshi",
+        "Pinjixiang Zhixiang",
+        "Guxue Zhenzhe"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The dead-horse cure of the Chan records: the master concedes the case is past saving and treats it anyway — speech as the last kindness, or a kindness refused. Yunfeng Wenyue rules the sickness past the poultice beyond prescribing and does the dead-horse cure anyway, asking the assembly whether there is still blood under their skin, Chaozong Tongren finds that on close inspection even the ancients' head-straight tail-straight awakenings remain dead-horse cures turned fixed things still wanting the Caoshan gate's beating, Ying'an Tanhua sets the good doctor's gate where the patients only grow worse and charges Bao'en with the cure anyway, unable to dodge the lacquer-bucket brigade, and Yongjue Yuanxian concedes he merely does the dead-horse cure in teaching people to leave mind-consciousness and pierce through to the inherent light, denying all the while that it dulls the brothers. Jiqi Hongchu grants that Lingyan cannot help but do the dead-horse cure and rules a whole life of pilgrimage just post-shaking in the mud and watching others eat, Tianran Hanshi forbids the cure outright — the second visit of Baizhang and the clapped palms of Yantou stand beyond it — Pinjixiang Zhixiang calls his own hedge-tearing wall-patching the unavoidable cure and blesses the one who would overturn the seat and shout the assembly away, and Guxue Zhenzhe rules the ancients had no choice either: mud and water at the second-meaning gate, the neither-touch-nor-turn watchword already eight characters flung open."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "Id": "t_e04c3bcb6803",
+  "SourceTerm": "四海五湖",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:13:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the four seas and five lakes",
+      "AlternateTargets": [
+        "the whole realm's waters"
+      ],
+      "SearchAliases": [
+        "everywhere under the sovereign's sway",
+        "the Changsha realm couplet",
+        "the four-seas people",
+        "all the lakes and seas of the realm"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 156 hits in 96 files representing 93 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0654c24",
+          "ToLb": "0655a12",
+          "Kwic": "大慈悲。一一看佛面。大眾。佛身充滿於法界。且作麼生看。我道不隔一條線。上堂云。幸然無一事。行脚要參禪。却被禪相惱。不透祖師關。如何是祖師關。把火入牛欄。上堂云。我有一柄󰆠。掃盡雪山雪。我有一張口。臨事無可說我有一雙眼。和盲悖訴瞎。任意過平生。烏龜喚作鼈。處世學為人。喫水須防噎。仰山曾道底。兩口一無舌。四海五湖人。當陽瞥不瞥。上堂舉。靈雲悟桃花頌云。三十年來尋劍客。幾經葉落又抽枝。自從一見桃花後。直至如今更不疑。玄沙云。諦當甚諦當。敢保老兄未徹在。師云。說什麼諦當。更參三十年始得。上堂。僧問。如何是佛。師云。獨木橋子。學云。如何趣向。師云。緊峭草鞋。乃云。幸然可怜生。剛地學參。問既然參得了。未免肚裏悶。悶即",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained verse — the line Yangshan once spoke: two mouths, one no-tongue, a man of the four seas and five lakes — in the full sunlight, does he glimpse or not?"
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0106a11",
+          "ToLb": "0106a24",
+          "Kwic": "風。子厚將仕，平生勤苦，志在青雲，纔得登科，俄沈大夜修崇，用資冥路。願公悟死生如夢幻，了恩愛若空花，脫離凡緣，超登彼岸。諸人還會麼？石火光中高及第，南柯夢裏總無真，綠袍槐簡些兒物，賺殺閻浮多少人。上堂，舉：世尊一日陞座，文殊白槌云：諦觀法王法，法王法如是。世尊便下座。師云：燋甎打著連底凍。結夏，上堂，云：四海五湖人，慧林同禁足。譬如學牧牛，身心要淳熟。常耕自己田，莫犯他人糓。一句若參差，九旬何面目？豈不見道：道人優曇花，迢迢遠山綠。上堂云：萬法是心光，諸緣唯性曉，衲僧恁麼會，鑽頭入荒草。且道出草一句作麼生道？你既無心我也休。上堂，舉：有僧在長沙院側住菴，自云：見南泉來。長沙岑和尚遣僧問：未見南泉時如何？菴主默然據坐",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained opening: people of the four seas and five lakes, Huilin seals the feet with you — plow your own field, infringe no other's grain; one line off, and what face for the ninety days?"
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0051b11",
+          "ToLb": "0051c04",
+          "Kwic": "頭三頓棒，賺他臨濟掣風顛。所以道：正令當行，十方坐斷。仰山斷際未為好手，莫有為二大老作主底麼？良久，云：各請歸堂參取。上堂，云：釋迦出世，拏空塞空；達磨西來，將錯就錯。帶累後代兒孫，一例隨處卜度。休卜度，四海浪平，百川潮落。三月十六日，退院示眾云：欲去不去被去礙，欲住不住被住礙。元不礙，十洲三島鶴乾坤，四海五湖龍世界。平江府覺城山法華禪寺開山語錄平江府覺城山法華禪寺開山語錄指三門云：此門深固幽遠，無人能到。如能到，脚頭脚底長安道。踞方丈云：閑地三寸刃鋒鋩，匝地風霜定紀綱。若是丈夫真意氣，任君敲磕振風光。古人雖則入草求人，其柰土曠人稀，相逢者少。拈山門諸山疏：好事不出門，惡事行千里。好惡不到處，拈起疏云：總",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained couplet: wanting to go, going hinders; wanting to stay, staying hinders — originally no hindrance: the crane-heaven of the ten isles and three islands, the dragon-world of the four seas and five lakes."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0123c13",
+          "ToLb": "0124a01",
+          "Kwic": "黃金殿上一轉語。烜爀紅輪照萬方。草木叢林成正覺。磚頭瓦礫放毫光。舉勅黃云。看恩大難酬。斂衣就座乃云截斷千差。單提一著。那邊放下龜毛。者裡拈起兔角。咦敲開歡喜妙樓閣。瑞靄祥雲充碧落。轉入梅花爛熳看。春風撼動玉欄干。所以人天普會。佛祖透關。發大機顯大用。鐵鎚混隊骨毛寒。正當恁麼衲僧鼻孔。切忌相瞞。畢竟如何。四海五湖皇化裏。太平無象有來端。復舉。僧問趙州。如何是大道。州云。大道透長安。今則大家到者裡。大眾且道。理事相應。著得甚麼語。還委悉麼。四五千條花柳巷。二三萬座管絃樓。謝新舊知事。上堂。一言相契。萬古不移。柳眼發新條。梅花滿舊枝。舉拂子云。總在者裡。看看。機先箇箇英靈漢。上堂。今朝二月初一。拂子眼睛凸出。明",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tiantong Rujing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Monk Rujing. Tiantong Rujing owns the retained seal: after all, how? — the four seas and five lakes under the imperial sway, the peace that has no image yet has its origin."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0477a03",
+          "ToLb": "0477a16",
+          "Kwic": "師云：「你正不問，我正不答。」進云：「還請直捷道一句。」師云：「葡萄架上結冬瓜。」堂云：「道破虛空無箇事，恐驚牛斗臥江寒。」師云：「老僧不是恁麼人。」堂歸眾。乃云：「僧問趙州：『萬法歸一。』且道與第一義底一是同？是別？州云：『我在青州作領布衫重七斤。』且道與第一義已前消息是同？是別？若道同，朗州山、澧州水，四海五湖王化裏；若道別，豆子山打瓦鼓，陽乎山下白雨。也不同、也不別，滕王高閣臨江渚，佩玉鳴鑾罷歌舞。今日尹參府皈依佛法，也只為者第一義；受持五戒，也只為者第一義；因戒生定、因定發慧、因慧參得自性念佛底主人公，也只為者第一義。且道如何是第一義？咦！」上堂。「冬至日，一線天，地雷復，柳含煙，遍地紅輪，真箇是葉上霜珠圓",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the retained deployment: same — the Lang and Li rivers, the four seas and five lakes under the sovereign's sway; different — the bean-mountain tile-drums, the white rain below Yanghu; neither — the Tengwang pavilion, the dance of jade pendants done."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0481b30",
+          "ToLb": "0481c12",
+          "Kwic": "端特地被遮瞞。且道那裏是釋迦老子被瞞處？眼中若不留纖翳，空裏何曾起亂花？」上堂。問：「鳳曆頒新即不問，新年佛法事如何？」師云：「灘頭枯草綠，古石碧苔班。」進云：「還許學人慶讚也無？」師云：「蚊子釘鐵牛。」進云：「大抵還他肌骨好，不搽脂粉也風流。」師云：「弄巧成拙。」復云：「今朝乙未歲新正，萬象森羅氣色新，四海五湖波湛湛，皇都上苑柳青青。且道：山僧拄杖子作麼生？逢春不變，遇秋不凋，能運轉四時，莫能動一毫。所以道：有物先天地，無形本寂寥，能為萬象主，不遂四時凋。既然如是，且道：應時及節一句作麼生道？通身無縫橫抽榦，葉覆三千及大千。」上堂。問：「春雨滴階前，春風大地寒。」以坐具打○相，云：「箇中消息子，解制請師宣。」師云",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained new-year turn: the myriad forms fresh-aired, the four seas and five lakes wave on wave clear, the capital gardens' willows green — and the staff that spring cannot change nor autumn wither."
+        },
+        {
+          "RelPath": "J/J38/J38nB415.xml",
+          "FromLb": "0447a07",
+          "ToLb": "0447a21",
+          "Kwic": "，殿閣生微涼，半百應真僧，次第入道場。有神通的騰空而至，未心空的水陸頻臻，總受檀那供養。只如木上座還受此供養否？」以拄杖一卓，云：「隨眾獲安樂。」晚參。師云：「有箇漢終日行，寸步不移；有箇漢終日坐，足遍天下，都來合喫龍淵二十棒。且道過在甚處？」祈雨，上堂。「山土焦而流金，海水沸而飄爍，稼穡云枯，竹樹葉縮，四海五湖，石出水落。」驀拈杖一卓，云：「震動老龍宮，雷轟并電掣，打著東海魚，雨似盆傾出。且道：神通耶？法爾耶？」喝一喝，云：「雷鞭擊碎金烏窟，瀉出滄溟遍九垓。」景命月旦，上堂。「纔過天中節，便是六月一，草木正方榮，看看九夏畢。人生如轉燭，光陰若瞬息，三塔尾顛天，矗矗望何極？田園在處樂歌聲，箇事分明休別覓。休別覓，",
+          "MasterName": "Miaoyun Zhenxiong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miaoyun Zhenxiong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. Miaoyun Zhenxiong owns the retained prayer: hill-earth scorched to flowing metal, sea-water boiling — the four seas and five lakes, stones out and waters fallen — then the old dragon palace shaken, rain pouring like an overturned bowl: spirit power, or the way of things?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1995.xml",
+        "X/X73/X73n1451.xml",
+        "X/X70/X70n1376.xml",
+        "T/T48/T48n2002A.xml",
+        "J/J29/J29nB239.xml",
+        "J/J28/J28nB212.xml",
+        "J/J38/J38nB415.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Cishou Huaishen",
+        "Chijue Daochong",
+        "Tiantong Rujing",
+        "Juyun Chuiwan Guangzhen",
+        "Eryin Mi",
+        "Miaoyun Zhenxiong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The four seas and five lakes of the Chan records: the everywhere-at-once — the realm under the sovereign's sway in the old couplet, the four-seas folk sealed in one retreat, the dragon-world of the retirement verse, and the drought-bared lake stones. Wuzu Fayan closes his self-portrait with the line Yangshan once spoke — two mouths, one no-tongue, a man of the four seas and five lakes: in the full sunlight, does he glimpse or not?, Cishou Huaishen opens the summer retreat: people of the four seas and five lakes, Huilin seals the feet with you — like learning to herd the ox, body and mind to be seasoned; plow your own field, infringe no other's grain; one line off, and what face for the ninety days?, Chijue Daochong at his retirement: wanting to go, going hinders; wanting to stay, staying hinders — originally no hindrance: the crane-heaven of the ten isles and three islands, the dragon-world of the four seas and five lakes, and Tiantong Rujing seals his hall address — after all, how? The four seas and five lakes under the imperial sway, the peace that has no image yet has its origin. Juyun Chuiwan Guangzhen takes the Zhaozhou cloth-shirt ask — same or different from the first principle? — same: the Lang and Li rivers' water, the four seas and five lakes under the sovereign's sway; different: the bean-mountain drums of cracked tiles, the white rain below Yanghu; neither same nor different: the Tengwang pavilion over the river, the jade pendants and ringing bells done with their dance, Eryin Mi at the new year: the myriad forms fresh-aired, the four seas and five lakes wave on wave clear, the capital gardens' willows green — and the staff that spring cannot change nor autumn wither, and Miaoyun Zhenxiong prays the drought down: hill-earth scorched to flowing metal, sea-water boiling, crops withered, bamboo and trees shrunk — the four seas and five lakes, stones out and waters fallen — then the old dragon palace shaken, thunder and lightning, rain pouring bowl-over: spirit power, or the way of things?"
+    }
+  ]
+}

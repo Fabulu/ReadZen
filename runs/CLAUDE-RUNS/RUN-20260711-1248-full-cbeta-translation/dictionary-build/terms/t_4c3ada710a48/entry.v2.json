@@ -1,0 +1,193 @@
+{
+  "Id": "t_4c3ada710a48",
+  "SourceTerm": "去即印住，住即印破",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:02:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "leave and the seal pins you; stay and the seal breaks you",
+      "AlternateTargets": [
+        "going is sealed fast, staying is smashed open",
+        "the iron-ox seal couplet"
+      ],
+      "SearchAliases": [
+        "the leave-and-stay seal",
+        "the iron ox that seals both moves",
+        "Fengxue's iron-ox mind-seal"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 63 hits in 54 files representing 52 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0166b16",
+          "ToLb": "0166b30",
+          "Kwic": "「襄州。」師曰：「是什麼物恁麼來？」曰：「和尚試道看。」師曰：「適來禮拜底。」曰：「錯。」師曰：「禮拜底錯箇什麼？」曰：「再犯不容。」師曰：「三十年弄馬騎，今日被驢撲。瞎漢，參堂去！」兩度拋綸問淺深，鉤頭密意有浮沉。自從三十年前定，潛躍由他好縱擒。汝州風穴延沼禪師，南院嗣。上堂：「祖師心印，狀似鐵牛之機。去即印住，住即印破。祇如不去不住，印即是，不印即是？還有人道得麼？」時有盧陂長老出問：「學人有鐵牛之機，請師不搭印。」師曰：「慣釣鯨鯢澄巨浸，卻憐蛙步𩥇泥沙。」陂注思，師喝曰：「長老何不進語？」陂擬議，師便打一拂子，曰：「還記得話頭麼？」陂擬開口，師又打一拂子。時有牧主曰：「信知佛法與王法一般。」師曰：「見什麼道理？」主曰",
+          "MasterName": "Fengxue Yanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Fengxue Yanzhao owns the retained root: the founder's mind-seal is shaped like the mechanism of an iron ox — leave, and the seal pins you; stay, and the seal breaks you. And if one neither leaves nor stays — is it sealing, or not sealing? Can anyone say? The elder Luopi came out: I have the iron-ox mechanism — please, master, do not set the seal. Fengxue: used to hooking whales in the vast deep, and now he sighs at frog steps churning the mud and sand. Luopi paused — Fengxue shouted: elder, why not press on? Luopi went to reason it out — Fengxue struck him with the whisk: do you still remember the words? Try to raise them. Luopi went to open his mouth — Fengxue struck him with the whisk again."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0562c09",
+          "ToLb": "0562c23",
+          "Kwic": "：未審此理如何？師云：去去西天路，迢迢十萬餘。乃云：人天眾前激揚此事，也須是本分衲僧始得。若非本分衲僧，未免遭人怪笑。只如適來禪客立箇問頭，恁麼答，他却理會不得。再舉一徧：既是佛法徧天下，為什麼談玄口不開？簷聲未斷前宵雨，電影還連後夜雷。省中把茶回，上堂，舉：風穴在郢州衙內上堂云：祖師心印，狀似鐵牛之機，去即印住，住即印破。只如不去不住，印即是？不印即是？時有盧陂長老出問：某甲有鐵牛之機，請師不搭印。風穴云：慣釣鯨鯢澄巨浸，却嗟蛙步輾泥沙。陂佇思，穴喝云：長老何不進語？陂擬議，穴打一拂子云：還記得話頭麼？試舉看。盧陂擬開口，穴又打一拂子。牧主云：將知佛法與王法一般。穴云：見箇什麼道理？牧主云：當斷不斷，反招其亂。穴便下座。",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained raising: back from presenting tea at the provincial office, he raised the whole case — the founder's mind-seal like an iron ox: leave and it pins you, stay and it breaks you; neither leaving nor staying — sealing, or not? The elder Luopi: I have the iron ox, do not seal me. Fengxue: used to hooking whales in the vast deep — now frog steps churning mud. Luopi paused, Fengxue shouted, struck the whisk, twice; the herding lord said: truly the Buddha's teaching and the king's law are one; when the cut is not made at once, the confusion invites itself — and Fengxue stepped down."
+        },
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0193c07",
+          "ToLb": "0193c22",
+          "Kwic": "看取清涼手段。僧問護國：「鶴立枯松時如何？」國云：「地下底一場懡㦬。」僧云：「滴水滴凍時如何？」國云：「日出時一場懡㦬。」僧云：「會昌沙汰，護法善神向甚麼處去？」國云：「三門頭兩個一場懡㦬。」壯士稜稜鬢未秋，男兒不憤不封侯，翻思清白傳家客，洗耳溪邊不飲牛。風穴郢州衙內上堂云：「祖師心印，狀似鐵牛之機，去即印住，住即印破。只如不去不住，印即是？不印即是？」盧陂長老出問：「某有鐵牛之機，請師不搭印。」穴云：「慣釣鯨鯢沉巨浸，卻嗟蛙步𩥇泥沙。」陂佇思，穴喝云：「長老何不進語？」陂擬議，穴打一拂子云：「還記得話頭麼？」陂擬開口，穴又打。牧主云：「佛法與王法一般。」穴云：「見個甚麼？」主云：「當斷不斷，反招其亂。」穴下座。鐵牛之",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue's section carries the case whole: Fengxue in the Yingzhou prefecture office — the founder's mind-seal like an iron ox: leave and it pins you, stay and it breaks you; neither leaving nor staying — sealing, or not? The elder Luopi: I have the iron ox, do not seal me. Fengxue: whales hooked in the vast deep — frog steps churning the mud. Luopi paused; the shout; the whisk, twice; the herding lord: the Buddha's teaching and the king's law are one; cut not made at once, the confusion invites itself — Fengxue stepped down."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0547a14",
+          "ToLb": "0547a27",
+          "Kwic": "云：「古今多少尊宿，未免向魯祖釣竿頭土插嘴，起模畫樣。或抑或揚，或提或唱，何曾摸索得魯祖腳跟麼？殊不知魯祖恁麼接人，亦是曲垂方便。若有箇性燥底，向他未面壁時一覷覷破，還他這老漢不坐在含元殿裏相見。即今還有人知他落處麼。少林壁觀無多旨，不是神光也大難。」舉：「風穴在郢州衙內上堂云：『祖師心印，狀似鐵牛之機，去即印住，住即印破；只如不去不住，印即是？不印即是？』時有盧陂長老出問云：『某甲有鐵牛之機，請師不搭印。』穴云：『慣釣鯨鯢澄巨浸，卻嗟蛙踄𩥇泥沙。』陂佇思，穴喝云：『長老何不進語？』陂擬議，穴打一拂子云：『還記得話頭麼？試舉看。』陂擬開口，穴又打一拂子。牧主云：『佛法與王法一般。』穴云：『見箇甚麼？』牧云：『當斷不斷，反招其",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained raising: he raised the case — Fengxue in the prefecture office at Yingzhou: the founder's mind-seal like an iron ox: leave and it pins you, stay and it breaks you; neither leaving nor staying — sealing, or not? The elder Luopi: I have the iron ox, do not seal me. Fengxue: whales hooked in the vast deep — now sighing at frog steps treading the mud. Luopi paused, the shout came — elder, why not press on — he went to reason it out, the whisk fell; do you still remember the words? He went to open his mouth — the whisk fell again."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0131c12",
+          "ToLb": "0131c25",
+          "Kwic": "。馬祖震威一喝，雷轟霹靂電光飛。百丈三日耳聾，推倒須彌海水乾。黃檗痛施三頓棒，焦磚打著連底凍。臨濟云：『元來黃檗佛法無多子。』嚼碎通紅火一團。興化云：『悟得先師在黃檗處喫棒的道理。』珊瑚枕上兩行淚，半是思君半恨君。南院云：『赤肉團上壁立千仞，未證據者看看。』火蛇燒面令人驚。風穴云：『佛祖心印狀似鐵牛之機，去即印住，住即印破。』大蟲裏紙帽，驚人又好笑。風穴云：『正恁麼時，是說不說？』拋出金圈看變動。首山拂衲便出堂，百尺竿頭撒手歸。汾陽云：『萬古碧潭空界月，再三撈摝始應知。』不是苦心人不知。慈明云：『悟得臨濟道出常情。』臘月扇子過新羅。楊岐云：『知是般事便休，自是不歸歸便得。』五湖煙景有誰爭。白雲端云：『渠愛人笑，汝怕人笑。』斑",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fengxue Yanzhao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained chain: NanYuan — bare flesh standing a thousand fathoms sheer, unproved ones just look; then Fengxue: the seal of the founders and the sages is shaped like an iron ox — leave and it pins you, stay and it breaks you — and Feiyin's own verdict: a great tiger wearing a paper hat — it startles you, and it makes you laugh."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0196c01",
+          "ToLb": "0196c15",
+          "Kwic": "：「恁麼則超出言相外，不落有無機。」師云：「子既親薦得，須知我不私。」雪禮拜云：「也要大眾證明。」師乃云：「山僧布個漫天網子，意欲撈摝滄海錦鱗，使其一個個大者大成，小者小就。今日蛟龍出現也。」擲拂子云：「佛祖大事親相付，作浪興波任汝為。」下座。解制上堂。僧問：「如何是出門一句？」師云：「看腳下。」乃云：「去即印住，住即印破；不去不住，二俱有過。大眾！作麼生免得此過？」良久云：「四維上下絕遮攔，東西南北無回互。」下座。示眾結制示眾。師云：「真獅出窟吼，林間絕野干。若是獅子兒，請出來相見。」眾默然。師云：「只此就是礙膺不盡，所以臨機用不著了也。山僧此番結制，不比尋常，各各將自己從前眼裡見底、耳裡聞底、心裡記底，盡情放下，將放下",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained address: the retreat closed, a monk asked for the going-out sentence — watch your feet. Then the master: leave and the seal pins you, stay and the seal breaks you; to neither leave nor stay — both are at fault. Assembly! how do you get free of this fault? A long silence — the four quarters up and down with nothing barred, east west south north with no crossing back."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J34/J34nB299.xml",
+        "X/X71/X71n1420.xml",
+        "J/J32/J32nB272.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Fengxue Yanzhao",
+        "Nanyuan Huiyong",
+        "Hanyue Fazang",
+        "Chushi Fanqi",
+        "Hongzhi Zhengjue",
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong",
+        "Daxiu Zhu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Leave and the seal pins you; stay and the seal breaks you: the iron-ox mind-seal that stamps both moves — raised from the prefecture office to the retreat's closing day. At the root, Fengxue Yanzhao in the Yingzhou prefecture office: the founder's mind-seal is shaped like the mechanism of an iron ox — leave, and the seal pins you; stay, and the seal breaks you. And if one neither leaves nor stays — is it sealing, or not sealing? Can anyone say? The elder Luopi came out: I have the iron-ox mechanism — please, master, do not set the seal. Fengxue: used to hooking whales in the vast deep, and now he sighs at frog steps churning the mud and sand. Luopi paused — Fengxue shouted: elder, why not press on? Luopi went to reason it out — the whisk: do you still remember the words? Try to raise them. He went to open his mouth — the whisk again. Chushi Fanqi, back from presenting tea at the provincial office, raised the case whole — leave and it pins you, stay and it breaks you; neither leaving nor staying — sealing, or not? — the elder Luopi: I have the iron ox, do not seal me — whales hooked in the vast deep, now frog steps churning mud — the pause, the shout, the whisk twice — and the herding lord: truly the Buddha's teaching and the king's law are one; cut not made at once, the confusion invites itself; Fengxue stepped down. Hongzhi Zhengjue's old-case section carries the same case to the same stepping-down, whale-hook verse and double whisk inside. Tianyin Yuanxiu raised it after his Luzu series: the founder's mind-seal like an iron ox — Luopi claimed the ox and asked off the seal — the whale-hook sigh at frog steps treading mud — the shout, the whisk, twice. Feiyin Tongrong, in his running comment on the Linji succession: NanYuan — bare flesh standing a thousand fathews sheer, unproved ones just look; then Fengxue: the seal of the founders and the sages like an iron ox — leave and it pins you, stay and it breaks you — and Feiyin's own verdict behind it: a great tiger wearing a paper hat — it startles you, and it makes you laugh. Daxiu Zhu, closing the retreat: a monk asked for the going-out sentence — watch your feet; then the master: leave and the seal pins you, stay and the seal breaks you; to neither leave nor stay — both are at fault. Assembly! how do you get free of this fault? a long silence — the four quarters up and down with nothing barred, east west south north with no crossing back."
+    }
+  ]
+}

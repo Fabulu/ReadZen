@@ -1,0 +1,181 @@
+{
+  "Id": "t_6531cc7966e9",
+  "SourceTerm": "分明記取",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:15:57Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "take clear note of this",
+      "AlternateTargets": [
+        "mark it down distinctly"
+      ],
+      "SearchAliases": [
+        "remember this clearly",
+        "note it well",
+        "take distinct note"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 178 hits in 94 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0652a21",
+          "ToLb": "0652b11",
+          "Kwic": "。趙州曰：蒼天！師便開門。陸大夫問：弟子家中有一片石，或時坐，或時臥，如今擬鐫作佛，得否？師曰：得。陸曰：莫不得否？師曰：不得。問：父母未生時，鼻孔在甚麼處？師曰：父母已生了，鼻孔在甚麼處？師問神山：何處來？神山云：打羅來。師曰：手打？脚打？山無語。師曰：你問我，我與你道。山如問，師曰：分明記取，已後遇明眼人舉似他。師問座主：講甚麼經？座主云：彌勒下生經。師云：彌勒幾時下生？主云：現在天宮未來。師云：天上無彌勒，地下無彌勒。師住庵時，有一僧到庵，師向伊道：我上山去作務，待齋時作飯自喫了，送一分上來。少時，其僧作飯自喫了，却一時打破家事，就牀臥。師待不見來，便歸庵。見僧臥，師亦就伊邊臥，",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. The root deployment — the sifter-question answered for later: take clear note of this, and raise it to a clear-eyed man when you meet him."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0002a05",
+          "ToLb": "0004a02",
+          "Kwic": "真聞至音希聲之常在不作文字之解不生紙筆之見者觀之有暇矣。師川此敘足以標牓此錄矣老朽不可更重󵘸偈言也具擇法眼人一一辨取湖海吕勤云。舒州龍門佛眼和尚上堂語錄上住南康雲居嗣法善悟編上堂師初住舒州天寧開堂日提刑學士權郡承議燒香度䟽與師接得示大眾云天不能蓋地不能載漏泄天機言言堪愛且道如何是堪愛之言良久云分明記取舉似作家遂度與表白宣罷師指法座云古聖道為法來耶為床座來耶我為法來非為床座師咄云是何言歟便陞座拈香云此一瓣香祝延今上皇帝陛下伏願龍圖永固鳳曆長新八表稱臣四維歌化次拈香云此一瓣香奉為提刑學士權郡承議洎𨶩郡尊官伏願嘉聲藹著善政日新頻承雨露之恩坐聽鹽梅之詔次拈香云此一瓣香還知落處麼欲隱彌露在晦愈明本欲拋擲巖阿",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. The retained deployment — heaven cannot cover it, earth cannot bear it, and the worth-loving word sealed with take-clear-note, raise-it-to-a-maker."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0046b18",
+          "ToLb": "0046c09",
+          "Kwic": "子技出一門，然總未免被這僧在背地裏冷笑。馬祖因僧於面前作四畫，上一畫長，下三畫短，曰：不得道一畫長，三畫短，離此四畫外，請和尚答。祖乃於地畫一畫，曰：不得道長短，答汝了也。南陽忠別云：何不問取老僧？溈山果云：借婆衫子拜婆年。高峰妙云：字經三寫，烏焉成馬？西峰忍俊不禁，特為諸人改正去也。良久，召侍者云：分明記取。鼓山賢云：這僧立箇問頭也甚奇怪，若是今時師家，早是一棒打將去。馬祖却不然，就地一畫，可謂投之木桃，報以瓊瑤，這僧小出大遇去也。但祖云：不得道長短。答汝了也，却似嚼飯餧嬰兒。馬祖因龐公問：不與萬法為侶者是什麼人？祖曰：待汝一口吸盡西江水即向汝道。育王觀云：馬大師只知開口易，不覺舌頭長。當時若問育王，但向",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. The retained deployment — a character thrice copied turns crow into horse, the correction made for all, and the attendant called: take clear note of this."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0561b17",
+          "ToLb": "0561c07",
+          "Kwic": "長，急急三春換。世事密如麻，光陰忙似鑽，杖頭窟磊子，舉動令人羨。村歌社舞鬬施呈，直截示人人不薦。上堂。有情說法，無情說法。作麼生是有情？山河大地、竹頭木屑總是有情。作麼生是無情？諸佛菩薩、畜生驢馬總是無情。召眾云：山河大地、竹頭木屑總是無情，因什麼却成有情去？諸佛菩薩、畜生驢馬總是有情，因什麼却成無情去？分明記取，舉似作家。上堂：芭蕉聞雷而開，葵花見日而轉。木人拍手，石女唱歌。筆描菩薩火中行，泥揑金剛水底走。發揚妙旨，指示玄徒。只要諸人識取無面目的。且道無面目的如何識？未明心地印，難透祖師關。上堂，舉：鏡清問玄沙：學人乍入叢林，乞師指箇入路。沙云：還聞偃溪流水聲麼？清云：聞。沙云：從這裏入。鏡清於此得箇入處。五",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. The retained deployment — the sentient-insentient swap set on the assembly, then sealed: take clear note of this, raise it to a maker."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0748a25",
+          "ToLb": "0748b07",
+          "Kwic": "女笑男歌，鼻嗅栴檀薰陸、薝蔔芬陀，意覽善惡諸法，分別過去千佛因地果海、成佛度生、說法難易、壽量久遠、授記多寡、涅槃本事，乃至現在千佛、未來千佛發心無盡、願力無盡、得道證果無盡、壽量記莂無盡。於是拄杖子聞此奇特，歡喜踴躍，為之讚嘆而說偈曰：『容顏甚奇妙，光明照十方，我昔曾供養，今復還親近。』」驀召大眾曰：「分明記取。」晚參。舉：「趙州因僧問：『如何是趙州？』州曰：『東門、西門、南門、北門。』」師曰：「趙州和尚恁麼指疆畫界，其如把手教人行不得。皋亭今日八字打開了也，儘他飽足觀光。為甚如此聻？按劍不須重問主，太平風月儘容與。」晚參。舉：「西堂藏和尚因僧問：『有問有答，賓主歷然。無問無答時如何？』堂曰：『怕爛卻。』又問長慶",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. The retained deployment — the thousand buddhas run through to the staff's own offering verse, then the sudden call: take clear note of this."
+        },
+        {
+          "RelPath": "J/J38/J38nB415.xml",
+          "FromLb": "0445c13",
+          "ToLb": "0446a08",
+          "Kwic": "三塔請，辭眾，上堂。「虛玄大道，無著真宗，隨方建立，遇緣即應。靈符在握，竿木隨身，照用全彰，殺活臨時，去住隨機，自由自在。有時深藏寶鏡，妍醜不立；有時揭開華藏，遍界光輝。兔角杖威獰似虎，著著超方，出頭天外，誰是我般？雖然，只如古人道：『有佛處不得住，無佛處急走過。』眾中莫有會得者麼？」卓拄杖，云：「三千里外分明記取。」玅雲雄禪師語錄卷二住北京玅峰法雲禪寺嗣法門人機相編錄住浙江嘉興府三塔景德寺海會禪院語錄住浙江嘉興府三塔景德寺海會禪院語錄師於康熙辛未，掃金明介老人塔於大慈。次年，受合郡紳衿公請，於二月十二日入院。山門。卓拄杖，云：「既到者裏，那堪回互。不二法門，大方闊步。」喝一喝。韋馱。「脩戒定慧，護佛法僧。四",
+          "MasterName": "Miaoyun Zhenxiong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miaoyun Zhenxiong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB415.xml). Recorded Sayings of Chan Master Miaoyun of Dabei. The retained deployment — the freedom of going and staying gathered, and the seal moved three thousand li away: take clear note of this."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0129c23",
+          "ToLb": "0130a05",
+          "Kwic": "進云：「當臺一鏡明如日。千古晴空絕是非。」師云：「大眾證明。」問：「金爐瑞靄、玉燭輝煌，慈雲普覆於庭階，法雨繽紛於大野，今日韋太守請師高陞此座，且道因齋慶讚一句作麼生？」師云：「落霞孤鶩齊飛。」進云：「可謂選佛場中曾喝采，今日當陽奪錦標。」師云：「秋水長天一色。」進云：「恁麼則一人有慶，萬民賴之。」師云：「分明記取。」乃云：「從上佛祖以妙明心印，囑託國王、大臣、宰官、居士隆重護持，故三千大千世界國土州府，無處不是宗奉三寶者，所以佛法流傳我土數千餘年不損秋毫，良有以焉。今日屬太尊壽誕良辰，特請山僧就此衙內上堂，亦以妙明心印略指一上。且道如何是妙明心印？」遂以拄杖卓一卓，云：「靈靈不昧、了了常知，非生因之所生，乃了因",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. The retained deployment — the paired couplets answered to the color, one man blessed and all people leaning on it, then sealed: take clear note of this."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1319.xml",
+        "D/D48/D48n8939.xml",
+        "X/X66/X66n1296.xml",
+        "X/X71/X71n1420.xml",
+        "J/J36/J36nB362.xml",
+        "J/J38/J38nB415.xml",
+        "J/J26/J26nB178.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Foyan Qingyuan",
+        "Gaofeng Yuanmiao",
+        "Mazu Daoyi",
+        "Chushi Fanqi",
+        "Guantao Daqi",
+        "Miaoyun Zhenxiong",
+        "Feiyin Tongrong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixing seal — take clear note of this — ruled at the root over Nanquan's sifter-question and stamped across first halls, graph-corrections, birthday seats, and farewells from the Song openings to the Qing exchanges. The root sits in Nanquan Puyuan's own answer, carried in the imperially selected record: he asks the arriving monk where he comes from — from sifting flour — hand or foot? and at the silence: you ask me, and I will tell you; asked as told, the seal: take clear note of this; later, meeting a clear-eyed man, raise it to him; Foyan Qingyuan, opening his first hall at Tianning of Shuzhou, receives the installation document from the circuit scholar-official, shows the assembly — heaven cannot cover it, earth cannot bear it, the heaven-leaking secret divulged, every word worth loving — and what is the worth-loving word?; a long stillness, then: take clear note of this, raise it to a maker — and the document passed on to the announcer; Gaofeng Yuanmiao, in the gathered appraisals of Mazu's four strokes — one long above, three short below; say neither long nor short; answer me beyond the strokes — with Mazu's single line drawn on the ground, no long or short, answered — rules the copies themselves: a character thrice copied turns crow into horse; Xifeng cannot hold the laugh and corrects it for you all; a long while, then calling the attendant: take clear note of this; and Chushi Fanqi, at the sentient-and-insentient swap — mountains, rivers, and earth, bamboo ends and wood chips all sentient; the buddhas and bodhisattvas, beasts and donkeys all insentient — calls the assembly: why did the insentient turn sentient, the sentient turn insentient?; take clear note of this, raise it to a maker. Guantao Daqi, after the discourse that ran the thousand buddhas of the past — cause-ground and fruit-ocean, the ease and hardship of their teaching, lifespans long and short, prophecies many and few — through the thousand of the present and the thousand to come, whose vows and attainments have no end, ends on the staff's own rejoicing verse — a countenance of wonder, light filling the ten directions; once I made offering, and now again draw near — and suddenly calls the assembly: take clear note of this; Miaoyun Zhenxiong, taking leave of the hall, gathers going and staying into one freedom — sometimes the treasure-mirror deep-hidden, beauty and ugliness never stood; sometimes the flower-treasury flung open, light filling the whole realm; the rabbit-horn staff fierce as a tiger, every stroke beyond pattern, the head out past heaven itself — and over the old saying — where there is a buddha, do not stay; where there is no buddha, hurry past — does anyone in the assembly get it?; the staff strikes: three thousand li away, take clear note of this; and Feiyin Tongrong, at the prefect Wei's birthday seat in the magistrate's office, trades couplets with the asking monk — falling sunset and lone duck fly together; autumn water and the long sky one color; one man has his blessing and all people lean on it — and seals the exchange: take clear note of this."
+    }
+  ]
+}

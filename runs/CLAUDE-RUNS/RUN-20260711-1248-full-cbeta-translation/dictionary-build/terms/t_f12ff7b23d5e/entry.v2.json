@@ -1,0 +1,201 @@
+{
+  "Id": "t_f12ff7b23d5e",
+  "SourceTerm": "似地普擎",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:25:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "like the earth bearing up all things",
+      "AlternateTargets": [
+        "as the earth universally upholds"
+      ],
+      "SearchAliases": [
+        "like earth sustaining all",
+        "bearing everything as the earth does",
+        "the earth-half of the cover-and-bear simile"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 154 hits in 101 files representing 99 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0724c18",
+          "ToLb": "0725a06",
+          "Kwic": "雲。清清之水遊魚自迷。目前無闍梨。此間無老僧。若能知雲月是同溪山各異。便見但知作佛。愁什麼眾生。如此則三玄三要八字打開。五位君臣一筆句下。諸人還見麼。出頭天外看。須是箇中人。到德山上堂云。高懸古鏡。列萬象於臺前。橫按鏌鎁截。群機於句下。開作家爐鞴。奮佛祖鉗鎚。演見性之真風。紹圓明之宗範。直得如天普蓋。似地普擎。頭頭物物明明了了。要津坐斷選佛場開。到這裏豈可飲氣吞聲。不免借華獻水。大眾。當年見性禪師。據一條白棒。佛來也打。至於隔江搖扇斫木傳心。巖頭雪峯唱末後句。洞山龍牙明殺活機。今古流傳叢林龜鑑。而今堂頭繼此真風。截斷眾流不存涓滴。山僧幸獲觀光。敢問。人境相稱一句作麼生道。五溪清不盡。千古美無虧。入院至方丈",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, landing the panegyric on heaven covering all and earth bearing all before cutting the key ford and opening the buddha-choosing hall."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0823b20",
+          "ToLb": "0824a14",
+          "Kwic": "大梅久享大梅梅子熟是否梅云你向甚麼處下口士云百雜碎未審意旨如何師云鼻孔裏飜筋斗進云只如龐老恁麼問大梅恁麼答畢竟意旨如何師云踏破草鞋赤脚走進云爭奈遍身覓核無尋處可笑癡人去不來師云雲在嶺頭閑不徹水流㵎下太忙生進云草木逢春皆發茂曇花千載一枝開師云有甚了期僧禮拜。師乃云大梅梅子熟向龐居士舌頭上百雜碎旨得如天普蓋似地普擎無一法而不明無一法而不了只這明了處與天地同根與萬物一體既是一體為甚麼有暗有明有僧有俗有男有女有貴有賤有高有低到這裏還有人辨明得麼若辨明得去方知全明即全暗全暗即全明全收即全放全殺即全活淨躶躶絕承當赤洒洒沒可把正當恁麼時直饒有人下得注脚分明也是把鉢盂安柄若下不得敢保你諸人未有參學分到這裏如象王渡河直下截流而過",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, smashing the ripe plums on Layman Pang's tongue-tip and ruling the place of clarity one root with heaven and earth."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0663c20",
+          "ToLb": "0664a04",
+          "Kwic": "多子；其或未然，山僧別資一路去也。片葉飄庭際，西風何處秋？」晚參。拈拄杖，云：「啟解脫門，開無盡藏，大包無外，細入無間，令汝諸人一得永得、一見永見，宜各乘時飽腹觀光，瞻仰取足。會中莫還有欠缺者麼？山僧更為平等分付。」卓拄杖，下座。中元供水陸，上堂。拈拄杖，云：「天人群生類，皆承此恩力。夫此力者，如天普蓋、似地普擎，如日普炤、如風普吹，有承此力而為佛祖身、有承此力而為天人身、有承此力而為威德自在身、有承此力而為貧窮下劣身。應以佛祖身得度者，即現佛祖身而為說法；應以天人身得度者，即現天人身而為說法；應以威德自在身得度者，即現威德自在身而為說法；應以貧窮下劣身得度者，即現貧窮下劣身而為說法。且道：拄杖子即今現甚麼身？",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment, widening the pair with sun and wind and ruling that some bear the power as buddha-ancestor bodies and some as poor and lowly bodies."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0189c11",
+          "ToLb": "0189c24",
+          "Kwic": "百八。』公不曉，遂回。次日再來，至門前，見首座，舉前話，問：『意旨如何？』首座扣齒三下。及見大顛，復理前問，大顛亦扣齒三下。公曰：『原來佛法無兩般。』大顛云：『是何道理？』公曰：『適來問首座亦如是。』大顛遂召首座：『是汝如此對否？』座曰：『是。』大顛便打趁出院。」師以拂子拂一拂云：「若向這裡會得，如天普蓋，似地普擎，將大顛首座鼻孔一串穿卻。試問諸人還簡點得出麼？若簡點不出，聽取山僧一頌：三三兩兩絕商量，個事從來不覆藏。擬問其中何意旨？車行陸路水行航。」下座。付階一禪人，上堂。「一處真，處處真，頭頭盡是本來人。真實顯時聲不現，正體堂堂沒卻身。」遂顧視左右云：「作麼生是堂堂正體？向這裡道得一句，與汝一柄拂子去為人。」階",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Dadian Baotong",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment, flicking the whisk and offering the whole pair for the threading of the head-seat's nostrils on one string."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0058a17",
+          "ToLb": "0058a30",
+          "Kwic": "在佛祖機中；以向上拈提接人去，落在向上拈提中。山僧佛祖機不會、世諦法不通、向上拈提也無有，且作麼生招接？」良久，拍膝一下，云：「閒持經卷倚松立，笑問客從何處來。」請上堂。「一切甚深廣大義，如來一句能演說，且作麼生是如來一句？琅函滿藏，蕃衍空文，畢缽重科，沉埋奧旨，總未見如來一句在。若論如來一句，似天普蓋、似地普擎、似風普吹、似日普照，透聲透色，非寂默可通；離相離名，非語言可造。「山僧今日借此一句為嘉禾淩門朱老孺人六旬壽，使其身安意泰，食息無虞，寶婺星垂，籌添海屋，不亦盡美盡善矣乎？雖然，只此一句畢竟作麼生道？」良久，豎起拂，云：「看看：山僧道去也。」擊香几一下。復舉趙州問僧：「一日看多少經？」僧云：「或七、八、或十",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, granting the thus-come one's one sentence as the four-part simile through sound and color, past silence and language, and lending it to the birthday."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0233b10",
+          "ToLb": "0233b23",
+          "Kwic": "，舉揚了也；再進玉融界，舉揚了也；山門頭，舉揚了也；方丈前，舉揚了也。至於殷勤啟請，鐘鼓喧轟、龍象濟濟，主賓互換，一一舉揚了也。更要山僧舉箇甚麼？諸大德會麼？本來殊勝風光事，拄杖挑來個個圓。」下座。戒子請上堂。師云：「舍偏就圓，回小向大，入方廣之妙門，證普賢之境界，頭頭洞明，事事無礙，通身遍身，靡在不在，似地普擎，如天普蓋。十字街頭，打開布袋，撈摝眾生，還菩薩債。霜花落盡兩眉春，贏得腥風歸滿載。果到與麼時，黃檗項上有百二十斤鐵枷，望汝諸人替代。不須久立。珍重！」下座。上堂。師云：「『三十年來尋劍客』，勞而無功。『幾番落葉又抽枝』，甚麼處出來？『自從一見桃花後』，眼中著屑。『直至于今更不疑』，更參三十年。『諦當甚諦當",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, turning the halves inside out — earth bearing first, heaven covering after — and opening the cloth sack at the crossroads to repay the bodhisattva's debt."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0649b27",
+          "ToLb": "0649c10",
+          "Kwic": "。是風動，是幡動，啞子向人慣說夢。對一說，倒一說，波斯夜半嚼生鐵。靈雲叟，洞山翁，至今猶在半途中。怎如野老渾無事，睡起階前掃落紅。諸仁者！只如能仁與麼道，畢竟意在於何？二十四番花信息，一回雨過一回風。」上堂。「向上一路，千聖不傳；學者勞形，如猿捉影。古人者等說話，正是赤土塗牛奶。若論向上一路，如天普蓋、似地普擎，塵塵剎剎無處不周，說甚傳與不傳？」顧左右，云：「適來能仁大似將枚荔枝連殼剝了，置於諸人一心，只是不解吞卻。眾中還有解吞者麼？」良久，喝一喝，云：「氣急殺人。」上堂。「夫談真則逆俗，順俗則違真。違真故，迷性而莫返；逆俗故，言淡而無味。」豎拂，云：「諸昆弟！此是真耶？是俗耶？是真俗不二耶？者裏洞徹無疑，翛然絕",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, setting the pair under the one road the thousand sages do not transmit and ruling every mote and land nowhere unpervaded."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0500a14",
+          "ToLb": "0500b09",
+          "Kwic": "不會禪道進云伶俐不妨隨處有癡愚端的世間稀師便打師廼云九年面壁計較未成立雪齊腰苦勞徒爾三拜依位直可如禮也懺罪解縛鞭影高飛無性性空松風聒耳本來無一物追金琢玉兩枝嫩桂五葉芬敷異口同音千山一月乃至笑巖老祖挺生神京建立臨濟宗旨禹門浪闊突兀孤危事是恁麼事人須恁麼人但得恁麼入何愁恁麼事且道如何是恁麼事舉袈裟云如天普葢似地普擎好風齊着力盡向此中吹上首復白椎云諦觀法王法法王法如是法師普臨出眾作禮師云為甚當塲不戰進云鐘鳴皷響和尚陞堂閙轟轟向甚麼處去師云且喜殿後有功進云未是某甲去處師云好與三十棒進云謝和尚慈悲師云晴天不走上堂上首白椎竟問窮諸玄辯若一毫置於太虛竭世樞機似一滴投於巨海者般漢曾有為人處也無師云有進云如何是他為人處師云填溝",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, lifting the kasaya with the whole pair — the heaven-half written with the variant cover-graph (葢 for 蓋) — and calling the good wind to blow everything into this one."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "J/J26/J26nB187.xml",
+        "J/J27/J27nB192.xml",
+        "J/J28/J28nB202.xml",
+        "J/J27/J27nB193.xml",
+        "J/J36/J36nB359.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Tian'an Sheng",
+        "Daxiu Zhu",
+        "Dadian Baotong",
+        "Baichi Xingyuan",
+        "Yinyuan Longqi",
+        "Baiyu Jingsi",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The earth-half of the paired totality simile — heaven covering all, earth bearing all — deployed wherever the masters name what holds everything. Yuanwu Keqin, arriving at Deshan, runs the parallel prose — the ancient mirror, the ten thousand images on its stand, the sword cutting the group's devices — until it lands: heaven covering all, earth bearing all, every head and every thing plainly lit, the key ford cut off and the buddha-choosing hall opened; Dahui Zonggao, in a general discourse, cries that the Great Plum's plums are ripe, smashed to a hundred bits on Layman Pang's tongue-tip — heaven covering all, earth bearing all, not one thing not lit, not one thing not clear, that very place of clarity one root with heaven and earth, one body with the ten thousand things; Tian'an Sheng, at the mid-seventh water-land service, names the power all beings lean on — heaven covering, earth bearing, sun shining, wind blowing — some bearing it as buddha-ancestor bodies, some as heaven-born bodies, some as poor and lowly bodies; and Daxiu Zhu, after the Dadian head-seat case, flicks his whisk once: meet it here — heaven covering all, earth bearing all — and thread the head-seat's nostrils on one string. Baichi Xingyuan, for a laywoman's sixtieth year, asks after the thus-come one's one sentence — the canon multiplies empty words and buries the purport — then grants it: heaven covering, earth bearing, wind blowing, sun shining, through sound and through color, past silence and past language; Yinyuan Longqi, for the precept-candidates turning from the partial to the round, turns the halves inside out — earth bearing first, heaven covering after — then opens the cloth sack at the crossroads to fish beings out and repay the bodhisattva's debt; Baiyu Jingsi sets it under the one road the thousand sages do not transmit — heaven covering all, earth bearing all, every mote and every land nowhere unpervaded, so what talk of transmitting or not; and Yulin Tongxiu, at the installation, lifts the kasaya — heaven covering all, earth bearing all — the good wind bearing on every side, everything blown into this one."
+    }
+  ]
+}

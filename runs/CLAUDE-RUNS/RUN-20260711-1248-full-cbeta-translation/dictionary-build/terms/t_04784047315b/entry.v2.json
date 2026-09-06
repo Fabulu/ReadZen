@@ -1,0 +1,196 @@
+{
+  "Id": "t_04784047315b",
+  "SourceTerm": "清風明月",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:33:02Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the clear breeze and the bright moon",
+      "AlternateTargets": [
+        "clear wind, bright moonlight"
+      ],
+      "SearchAliases": [
+        "breeze and moon",
+        "clear breeze bright moon",
+        "wind and moonlight",
+        "breeze-moon scene"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 161 hits in 92 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0107a11",
+          "ToLb": "0107a25",
+          "Kwic": "與汝相見了也，烏石嶺與汝相見了也，僧堂前與汝相見了也。』然三處既皆相見，秪如雪峰未出世時又作麼生體悉？若向者裏透脫得去，則知山僧與薛居士空劫之前早已眉毛廝結，威音那畔亦曾握手共行。且道有何憑準？」良久云：「識得舊時真面貌，相逢相見總無偏。」卓拄杖，下座。中秋上堂，「中秋時節不寒不熱，透體清涼，遍界朗徹，清風明月古猶今，流水高山無間歇，人人合知有，不用多饒舌。」復舉：「盤山云：『心月孤圓，光吞萬象，光非炤境，境亦非存，光境俱忘，復是何物？』盤山大似喫官酒、臥官街，當地死、當地埋。洞山云：『光境未忘復是何物？也是風頭撥剌、夢裏惺惺。』大慧云：『白鷺下田千點雪，黃鸝樹上一枝花。』縱救得來，未免平地上死人無數。又我本師密",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: the breeze and moon ancient as ever, flowing water and high zither without pause."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0271a19",
+          "ToLb": "0271b11",
+          "Kwic": "，大眾作麼生理會？若就此言句中透脫也不難；其或未然，各自喫茶歸堂去好。宗伯何芝岳居士請茶話，何居士問：古德云：肯即永脫根塵，不肯永沉生死，肯與不肯，一齊抹殺。敢問如何得入？師舉杯，云：且請喫茶。士良久，師云：會麼？士云：略會。師云：切不可向者裏住脚。乃云：宗門底事少人知，大事因緣各有時，今日與君通一線，清風明月滿前溪。潘次魯居士請就大羅菴茶話，投子嶺頭雲：古今多變幻，跨過趙州橋，始得絕思算。絕思算，止一半，更有一半向下文長留，待明旦珍重。雪後携諸禪人南來閣茶話。大雪封山日，層樓邂逅歡。寒凝鴉不語，白結霧成團。皎潔禪心寂，清凉色界寬。明知都是水，切莫被他瞞。無方諸禪人請茶話，諸人要知得博山行履處麼？五鼓燒香，",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: one thread run through to you, and the breeze and moon fill the stream ahead."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0378b24",
+          "ToLb": "0378c13",
+          "Kwic": "投師；絕念忘思，探經論而只觀自性。若清淨便證法身，更不別求一足永足。張三李四，相逢似覩夢形；同道師資，稽首如觀幻境。知一切法不得自性，惟我玄通，似空含像。指燈籠而真機誰解？撥黃葉而箇意誰知？且不問年月日時，秋冬四季，不談佛法，不解吟詩，一番紙被重三斤，一領布衫拈不起。也不愁明朝無飯，後日乏衣，一頓馨香，清風明月，禪悅法喜，飽懶何為？佗家鼓樂助吾機，半夜松聲謳一曲。千巖萬竹，眉毛家風；海島巒崖，肚皮活計。說什麼蘆芽穿膝，元來不受人瞞；道什麼灌頂鵲巢，這裏司通意氣。喚南作北，我自無邊；相叫大哥，有何交涉？我見世間之物，無有不壞，今明自性天真，不憂生死。雖然如是，未得見解妙圓者，不可輕忽於人。法身定從慈悲智慧而成，不",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu'an Yinsu. Pu'an Yinsu owns the retained deployment: a meal's fragrance, breeze and moon, chan-joy enough for a full lazy nothing."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0775b29",
+          "ToLb": "0775c11",
+          "Kwic": "八問，師一一荅竟，更請師頌，師頌八首以示之。僧問：「如何是一色？」師云：「雲封古岫。」復頌云：「雲封古岫本無差，心境何勞驗作家？兩岸蘆花飛白雪，禪人依舊眼睛沙。」問：「如何是不得色？」師云：「根境不到。」復頌云：「鐵壁銀山若個攀，大千沙界絕遮攔。石牛高臥忘水草，獨坐巍巍睡正殘。」問：「如何是借？」師云：「清風明月。」復頌云：「脫體無依絕往還，也須垂手過前山。桃紅柳綠花狼藉，滿面東風開笑顏。」問：「如何是借借？」師云：「明月炤見夜行人。」復頌云：「一顆摩尼全體露，赤白青黃影現中。方圓長短渾無礙，癡兒切忌墮偏中。」問：「如何是不借借？」師云：「石牛吐露三冬暖。」復頌云：「夜深獨自寂無依，開門閒步月明時，藤蘿倒挂懸崖下，",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment, answering what borrowing is with the four graphs alone before versing the descending hand."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0579a20",
+          "ToLb": "0579b03",
+          "Kwic": "境此時誰領略？愈思愈想轉凄其。』三人唱和不已，善權於中解嘲云：『昔年富，盡來親，今日無親祇為貪，自是老人行處別，非關弟子不知恩。』爾時頗得龜毛上座進前一揖，大家而退。是汝諸人終日在此開基掘土、砌石栽松，東邊上來、西邊下去，還知者箇消息也未？」擊香几，云：「無縫塔，沒字碑，萬松嶺畔共維持，欲詢洞口深深意，惟有清風明月知。」結夏，上堂。舉：「五祖演禪師示眾：『今夏無可管顧，諸人近作一家讌。』遂抬手，曰：『囉囉招，囉囉搖，囉囉送，莫怪空疏，伏惟珍重。』」師云：「老東山忙忙碌碌，慣將官物做人情。善權亦不作家讌，亦不致空疏，但是饑則同餐、渴則同飲、倦則同眠，一味平常。汝等諸人只是不得動著，動著三十棒。」晚參。舉：「睦州示眾",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: to ask the cave mouth's deep meaning, only the breeze and moon know."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0678a23",
+          "ToLb": "0678b10",
+          "Kwic": "。者凍儂，嬾迎送，佛祖來，坐不動。不睡眠，常作夢，嚴四大，空五蘊。自忖道德沒些些，怎受人王日日供？未能為人法子，妄稱佛祖之師。我自知之不智，你畫我之何愚。曷若忘形以事我，大千何處不逢渠。弄假像真，真卻是假。非假非真，怎生描寫？咄！看破汝也。說雖落人之後，行必在乎言前。故國胡不歸去，此方夙有因緣。喜則清風明月，怒則奔雷閃電。道人肝膽，一時露現。且道喜怒未形，如何相見？聞名不如見面。若道即我，覿面相瞞。若道非我，爭奈者個。咄！渾金璞玉，切忌鑿破。文彩未彰，已成露布；身名纔立，特地乖張。不用燒檀片，春來花自香。曾向萬人腳下過，博得千僧頂上行。插漢高樓從地起，百川到海自吞聲。邈得壁間影，翻成身外身。喜得一枝兔角杖",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: joy is breeze and moon, anger running thunder and lightning — the wayfarer's liver and guts shown at once."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0526a21",
+          "ToLb": "0526b04",
+          "Kwic": "見而難親。何故？諸方善知識，道眼高、福德大，叢林整齊、飲食精潔，可謂難見而易親也。老僧這裏，世緣淺薄，闢草開荒、茶粗飯糲，可謂易見而難親也。難得親近，難中之難，雪裏送炭者少；易得親近，易中之易，錦上添花者多。」左右顧視云：「眾中還有道得不難不易一句者麼？」驀卓拄杖云：「拄杖子勃跳出來道：『也不難，也不易。清風明月共知音，天上人間隨所去。』」師復笑云：「不然，不然。老僧還要用著你。」曳拄杖便歸方丈。小參，師云：「今辰二月十九，菩薩應身普救，人人要證圓通，打破無明窠臼。」舉拂子云：「觀音妙智力，能救世間苦。」復打一下，云：「還聞麼？如若不聞，除是生來耳。如若聞，又聞箇什麼來？雲門大師道：『觀音菩薩將錢買胡餅，放下手，",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: not hard, not easy — the breeze and moon share the note wherever one goes."
+        },
+        {
+          "RelPath": "J/J32/J32nB272.xml",
+          "FromLb": "0190c14",
+          "ToLb": "0190c30",
+          "Kwic": "「叱！叱！」僧云：「噉餧何物？」山曰：「喫！喫！」露地白牛起問端，隨緣叱叱齒牙寒，不知飲啄是何物？喫喫直教滄海乾。張拙問長沙岑禪師曰：「百千諸佛但見其名，未審居何國土？」沙曰：「黃鶴樓崔顥題詩後，秀才還曾題也未？」曰：「未曾。」沙曰：「得閒題取一篇。」黃鶴樓前共語時，白蘋紅蓼對江湄，衷腸已訴無人會，惟有清風明月知。趙州因僧辭，州曰：「甚處去？」曰：「諸方學佛法去。」州豎起拂子曰：「有佛處不得住，無佛處急走過，三千里外，逢人不得錯舉。」曰：「與麼則不去也。」州曰：「摘楊花，摘楊花。」青山不異，白玉無瑕，茫茫流水，擾擾黃花。有佛處纖毫不立，無佛處萬別千差，長安路上未歸客，尋溪猶自摘楊花。僧問趙州：「至道無難，惟嫌",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB272.xml). Recorded Sayings of Chan Master Hongzhi Jue of Tiantong Jingde Monastery, Mingzhou. Hongzhi Zhengjue owns the retained deployment: hearts poured out at the Yellow Crane Tower with none to heed — only the breeze and moon know."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "X/X72/X72n1435.xml",
+        "X/X69/X69n1356.xml",
+        "J/J26/J26nB188.xml",
+        "J/J37/J37nB392.xml",
+        "J/J38/J38nB425.xml",
+        "J/J25/J25nB171.xml",
+        "J/J32/J32nB272.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Wuyi Yuanlai",
+        "Pu'an Yinsu",
+        "Ruibai Mingxue",
+        "Hansong Zhicao",
+        "Jifei Ruyi",
+        "Tianyin Yuanxiu",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The breeze-and-moon scene that Chan rows set out as the realized life's own face and hand over as an answer. Feiyin Tongrong, at mid-autumn, grants the season neither cold nor hot, cool through the body, bright through all bounds — the clear breeze and bright moon ancient as ever, flowing water and high zither without pause, so everyone should know it without more chatter; Wuyi Yuanlai, over tea with the layman He, verses that school-gate matters few know and the great matter has its hour — today one thread runs through to you, and the breeze and moon fill the stream ahead; Pu'an Yinsu, tallying his mendicant freedom, counts a meal's fragrance, the breeze and moon, and chan-joy enough for a full lazy nothing, their drums aiding his workings while the midnight pine-song chants a tune; and Hongzhi Zhengjue, versing Zhang Zhuo's meeting with Changsha at the Yellow Crane Tower, rules that with hearts poured out and no one to heed, only the clear breeze and bright moon know. Ruibai Mingxue, asked what borrowing is in the five-rank drill, answers with four graphs — the clear breeze and bright moon — then verses the bodiless going and the descending hand past the front mountain; Hansong Zhicao, staking the seamless stupa and wordless stele on Wansong ridge, rules that to ask the cave mouth's deep meaning only the breeze and moon can answer; Jifei Ruyi, facing his donors' portrait, confesses joy is breeze and moon, anger running thunder and lightning — the wayfarer's liver and guts shown at once; and Tianyin Yuanxiu's staff leaps out on its own to say not hard, not easy — the breeze and moon share the note, heaven above or the human world below, wherever one goes."
+    }
+  ]
+}

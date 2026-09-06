@@ -1,0 +1,270 @@
+{
+  "Id": "t_2d076a8c062e",
+  "SourceTerm": "承虛接響",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:22:18Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "riding the empty and catching echoes",
+      "AlternateTargets": [
+        "taking the hollow for substance and the echo for voice"
+      ],
+      "SearchAliases": [
+        "echo-chasers of the empty",
+        "secondhand voicing",
+        "catching the echo, riding the void"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 105 hits in 72 files representing 71 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0958c24",
+          "ToLb": "0959a11",
+          "Kwic": "劍來處。帶累釋迦老子。通身是口也分疎不下。五百比丘恁麼悟去。入地獄如箭射。忽若踏翻大海。趯倒須彌。雲門扇子𨁝跳上梵天。𡎺著帝釋鼻孔。東海鯉魚打一棒。雨似盆傾。又作麼生商量。良久云。自從舞得三臺後。拍拍元來總是歌上堂。以楔出楔。翻成途轍。以心傳心。轉見病深。達磨不會當頭句。却向嵩山。面壁九年。後代兒孫。承虛接響。揚眉瞬目。行棒行喝。盡是黃葉止啼。烏巨到遮裏。直得上天無路。入地無門。咬定牙關。且與諸人和泥合水。卓拄杖一下云。不是一番寒徹骨。爭得梅花撲鼻香。下座。因雪上堂。滿目紛紛呈瑞雪。填溝塞壑誰辨別。文殊無處頓渾身。普賢失却真妙訣。烏鵶變作白頭鵶。鐵樹翻成銀線結。報諸人瞥不瞥。庭際無人立片時。便是太平底時節。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment — the descendants ruled echo-riders, their brows and shouts all leaves stopping a baby's cry, against his own no-road-no-door and the plum blossom's earned scent."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0877a06",
+          "ToLb": "0877a22",
+          "Kwic": "便向多處添些子。少處減些子。五祖和尚得此印於白雲。賤賣擔版漢。貼稱麻三斤。百千年滯貨。無處著渾身。圜悟老師得此印於五祖。將三百六十骨節八萬四千毛竅。一時撒向諸人懷裏。師驀拈拄杖面前畫一畫云。不得過界。復舉起云。這一隊不唧𠺕老漢。性命盡在雲門手裏。即今對眾將這印子。為他打破。欲使後代兒孫各各別有生涯。免得承虛接響遞相鈍置。遂卓一下云。印子百雜碎了也。且道。這一隊老漢。在甚麼處安身立命。還見麼。良久云。眼睫眉毛都落盡。轉使傍觀笑不休。復卓一下喝一喝。劉侍郎親書華嚴經施師。仍請普說。僧問。擲大千於方外。納須彌於芥中。是甚麼人分上事。師云。是沒量大人分上事。進云。因甚麼。被學人蹋在脚下。師云。爾見箇甚麼道理。便開許大",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment — the seal smashed before the assembly so each descendant gets a livelihood of his own, spared riding the empty and catching echoes down the line."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0698a05",
+          "ToLb": "0698a18",
+          "Kwic": "說底是我底。終不干汝事。將謂將謂。元來元來。嚴乃焚棄文字結茅自處。錯擊竹有省。邪法難扶。遙禮溈山。面皮厚多少。若為我說破何有今日之事。如何是今日事。一擊忘所知。那裏學得來。更不假修持。遠在。動容揚古路。礙塞殺人。不墮悄然機。未敢相許。處處無蹤跡。要眼作麼。聲色外威儀。莫謗他好。諸方達道者。那箇是咸言上上機。承虛接響。所以道向自己胷中流出蓋天蓋地。回觀見聞學解者。又何翅以十較百以千較萬矣。乃至聖賢應世。所有遺言往行。皆歷代之元龜百世之師法。於此可不發深省哉。是則是矣。須知男兒自有衝天志。不向古人行處行。且作麼生是。衝天志。咄不是知音徒勞側耳。示眾。瞻在前忽在後。竹鷄晝啼華鯨夜吼。未了聽一言。如今誰動口。嗟夫學人將此一",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xiangyan Zhixian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment — the men of the Way everywhere asked which truly says the uppermost vehicle, ruled echo-riders against what flows from one's own chest."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0549a27",
+          "ToLb": "0549b10",
+          "Kwic": "。』」師云：「妙喜老人不是誘人犯法。諸人還知他落處麼？路逢劍客須呈劍，不是詩人莫獻詩。」舉：「石頭示眾云：『言語動用沒交涉。』藥山云：『非言語動用，亦沒交涉。』頭云：『我這裏鍼劄不入。』山云：『我這裏如石上栽花。』」師云：「二大老，如彈沒絃琴，唱出無生曲，可謂父子投機，師資道合。雖然，不顧傍觀者見其家醜。承虛接響漢切忌動著，動著則三十棒。」舉：「世尊初生下，周行七步，目顧四方，一手指天、一手指地云：『天上天下唯吾獨尊。』」師咄云：「這老漢！百劫千生磨煉得來，你看他一時發露，英氣逼人。若到衲僧分上，也只是箇石火電光底影子，說甚天上天下惟我獨尊耶？雖然如是，將此身心奉塵剎，是則名為報佛恩。」舉：「雪峰住菴，有一僧到，",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment — the stringless zither granted and the family shame shown, then the echo-rider warned off with thirty blows for touching it."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0231b07",
+          "ToLb": "0231b21",
+          "Kwic": "，一時漏逗了也。且道承誰恩力有如是奇特？」良久云：「少年曾決龍蛇陣，潦倒還聽稚子歌。」下座。上堂。師云：「禾黍不陽艷，競栽桃李春，返令力耕者，半作賣花人。黃檗冬行春令去也，還有移時換節與黃檗爭輝者，出來酬價看。」眾無對。良久云：「可憐不遇攀花手，浪籍枝頭多少香。」下座。上堂。師云：「大驚小怪，達磨攜來東土；承虛接響，六祖提過嶺南。將謂度人已竟，多少師僧不甘。爭如黃檗當土開泥，平高就下，要提便提，要放便放。汝等諸人還甘否？如甘，終日忙忙，那事無妨。擔荷一任擔荷，休歇一任休歇。如未，秪恐梆聲又入耳，回頭轉腦百千番。」下座。獅巖夏居士請上堂。師云：「寒巖戲約幾經秋，此日光臨信有繇。嶽面回容山骨煖，頂門迸出凍雲流。諸上座",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment — the clamor carried east and the echoes hauled south, then Huangbo's clod-breaking as the way out for the unwilling."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0663c11",
+          "ToLb": "0663c23",
+          "Kwic": "？」上堂。問：「人人本具，箇箇不無，因甚有迷有悟？」師云：「幾人平地喫交來？」進云：「如何是悟？」師云：「貪觀天上月。」「如何是迷？」師云：「失卻手中橈。」「正當迷悟俱忘，如何是學人轉身句？」師云：「速禮三拜。」進云：「即今和尚陞座，有甚佛法惠諸人？」師云：「無甚佛法見惠。」進云：「多蒙和尚指示。」師云：「承虛接響漢。」乃曰：「欲說又成剩語，不說又成鈍置。且道：說即是？不說即是？若道說，即今曾說甚麼來？若道不說，現今牙齒敲嗑何？且道：是已說？是不曾說？於此倜儻分明，方知佛法無多子；其或未然，山僧別資一路去也。片葉飄庭際，西風何處秋？」晚參。拈拄杖，云：「啟解脫門，開無盡藏，大包無外，細入無間，令汝諸人一得永得、一見永",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment — the monk's much-obliged answered with two words, then the said-or-not-said turned until the teeth's chattering itself is asked after."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0514a08",
+          "ToLb": "0514b05",
+          "Kwic": "麼卓拄杖下座示眾舉雪峰在德山作飯頭一日飯遲峰曬飯巾次見德山自托鉢至法堂前峰遂問者老漢鐘未鳴皷未響托鉢向甚麼處去山便回方丈峰舉似巖頭頭云大小德山未會末後句在山聞令侍者喚巖頭間汝不肯老僧那頭遂密啟其意山迺休去明日陞堂果與尋常不同頭至僧堂前撫掌大笑云且喜老漢會末後句他後天下人不奈伊何雖然如是也只得三年活師云承虛接響者蹉過德山抑疆扶弱者埋沒巖頭山僧老實告報諸方師勝資彊還他德山父子喝一喝云好手手中呈好手知音知外有誰知示眾舉法眼禪師指凳子云識得凳子周匝有餘雲門偃云識得凳子天地懸殊天衣懷云識得凳子榆楠木做大慧杲云識得凳子好鬀頭洗腳師云諸大老與麼各出好手放過則盡可居寶華王座仔細簡點將來合各與三十矮凳腳示眾舉慧力昌禪師因僧",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment — the echo-catcher ruled to gloss over Deshan and the bender to bury Yantou, the strength returned to the Deshan father and son."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0262b11",
+          "ToLb": "0262b23",
+          "Kwic": "年前有箇超諸方便句子，今日布施諸人，且道是什麼句子聻？」擊拂子，云：「達磨大師無當門齒。」下座。上堂。師舉：「《金剛經》『爾時世尊至實無眾生得滅度者。』」乃豎拂子，云：「世尊一條生銕脊梁壁立千仞，纔被須菩提輕輕磕著，便向草裏輥將去。雖然如是，可謂入水見長人也。當時若只向『應如是住、如是降伏其心』處便休，今時承虛接響漢向什麼處摸索？若是山僧則不然，見他道：『唯然，世尊！願樂欲聞。』便云：『穿卻了也。』」復豎拂子，顧大眾，云：「還見世尊麼？」良久，喝，云：「若向遮裏了徹將去，一大藏教當下圓成；如或未然，且行羅漢慈，解結縛故；行如來慈，度眾生故。」喝一喝。上堂。「實際理地，不受一塵。靈光獨耀，無古無今。佛事門頭，不缺一法。",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment — the sutra stopped at thus-abide would leave today's echo-riders nowhere to grope, against his own pierced-straight-through at the willing-to-hear."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1999.xml",
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB193.xml",
+        "J/J26/J26nB187.xml",
+        "B/B27/B27n0152.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Mi'an Xianjie",
+        "Bodhidharma",
+        "Dahui Zonggao",
+        "Wuzu Fayan",
+        "Yuanwu Keqin",
+        "Zhongfeng Mingben",
+        "Xiangyan Zhixian",
+        "Tianyin Yuanxiu",
+        "Shitou Xiqian",
+        "Yaoshan Weiyan",
+        "Yinyuan Longqi",
+        "Huineng",
+        "Tian'an Sheng",
+        "Yulin Tongxiu",
+        "Deshan Xuanjian",
+        "Yantou Quanhuo",
+        "Xuefeng Yicun",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The idiom of secondhand realization — riding the empty, catching echoes — the masters' charge against heirs who take the hollow of the ancestors' words and pass on only the sound, from the Song halls to the Qing. Mi'an Xianjie, at the Wuju mountain hall, sweeps the whole apparatus away — wedge driven out by wedge turns into ruts, mind transmitted by mind deepens the sickness, Bodhidharma missed the head-on word and faced the wall nine years — and the descendants after him ride the empty and catch echoes: raised brows and blinking eyes, staff-work and shout-work, all leaves stopping a baby's cry, while Wuju goes straight up with no road to heaven and no door into earth, teeth clenched, kneading mud and water with them until the staff falls: without one bout of bone-piercing cold, how could the plum blossom scent the nose; Dahui Zonggao, eulogizing two Chan men at their stupa, walks the seal down the line — Baiyun sold it cheap to the board-carrying man, Wuzu pasted it over with three pounds of hemp, Yuanwu his teacher scattered all three hundred sixty bones and eighty-four thousand pores into the assembly's laps — then draws a border with the staff that may not be crossed, and breaks the seal before them all so the descendants each get a livelihood of their own, spared riding the empty and catching echoes and dulling one another down the line; eyelashes and brows all fallen and the onlookers laugh without end; Zhongfeng Mingben works Xiangyan's enlightenment verse line by line — one strike and all knowing forgotten, the nod and the ancient road, no trace anywhere, dignity beyond sound and sight — then rules the men everywhere who claim the Way: which of them truly says the uppermost vehicle? They ride the empty and catch echoes; hence what covers heaven and earth must flow out of your own chest, and next to it the seers-and-hearers school-solutions count ten against a hundred; Tianyin Yuanxiu raises Shitou and Yaoshan — words and deeds no concern, not-words and not-deeds no concern either, a needle will not enter here, flowers planted on stone — grants the two elders the stringless zither and its birthless song, father and son squared; yet the family shame shows to bystanders, and the man who rides the empty and catches echoes had best not touch it: touch it, thirty blows. Yinyuan Longqi spends the idiom on the carriers themselves — the great clamor Bodhidharma carried east to this soil; riding the empty and catching echoes, the Sixth Patriarch hauled it over the Lingnan ranges; they thought the ferrying of beings done, and how many monks are still unwilling — so Huangbo breaks the clods where it stands, levels the high and fills the low, lifts when it lifts, releases when it releases; Tian'an Sheng, run through the maze of delusion and awakening at the Qingzhou hall — how many trip on flat ground, watching the moon above and losing the oar in hand — and when the monk, three bows in, answers much-obliged for the master's instruction, gets back two words: a man riding the empty and catching echoes; then the said-or-not-said turned once more — to speak is surplus, not to speak is dulling; if spoken, what has been spoken; if not, what are the teeth chattering now; Yulin Tongxiu takes up Xuefeng as rice-cook under Deshan — bell not yet rung, drum not yet beaten, where does the old man carry his bowl? — big Deshan never got the last word, and next day, the master risen different from usual, Yantou claps and laughs: glad the old man has it, none under heaven can touch him, and even so only three years to live — and Yulin rules the echo-catcher glosses over Deshan while the strength-or-weakness bender buries Yantou: the mountain monk reports it straight to the schools, teacher strong and heir strong, give it back to the Deshan father and son; and Yunwai Xingze holds up the Diamond Sutra at the Qizhou Bodhi hall — one raw-iron spine of a World-Honored One standing ten thousand fathoms, barely knocked by Subhuti and rolling off into the grass — yet a man who enters the water knows the tall one: had the sutra stopped at thus-abide and thus-subdue, where would today's echo-riding men grope for it? The mountain monk is otherwise — hearing willing indeed, World-Honored One, joyful to hear — pierced straight through."
+    }
+  ]
+}

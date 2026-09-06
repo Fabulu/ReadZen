@@ -1,0 +1,195 @@
+{
+  "Id": "t_e68d2ddbeefb",
+  "SourceTerm": "折旋俯仰",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:22:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "turning and bowing",
+      "AlternateTargets": [
+        "the body's whole round of movement"
+      ],
+      "SearchAliases": [
+        "every turn and bow",
+        "turning, rising and bowing",
+        "all the body's movements"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 184 hits in 100 files representing 99 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0820a03",
+          "ToLb": "0820a21",
+          "Kwic": "看千佛名經問曰許多佛秪聞其名未審居何國土長沙曰黃鶴樓崔顥題後秀才還曾題否對曰不曾長沙曰無事題一篇好秀才罔措大眾秀才問佛居何國土長沙為什麼却恁麼道秀才尋常嘲風詠月為什麼長沙面前一辝不措若是黃鶴樓有什麼難題處听取山僧題破遂云容顏甚奇妙光明照十方我適曾供養今復還親近下座。上堂平旦寅狂機內有道人身大眾二六時中折旋俯仰行來走去說是說非分南說北運用施為開單展鉢喫粥喫飯盡是狂機且道那个是道人身良久云碧落有情空悵望瑤臺無路可追尋下座。上堂適來山僧夢在寢堂上聞法皷遂下堂階夢見諸人上來近前問訊便登法座侍者燒香了如今正作夢中之人施陳夢事你等諸人還夢見麼若真見得是為覺人不省夢鄉宛尔沉沒還有一法與你為對麼不見古人道目前無法意在目前",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment, reading the whole round of the day as the mad mechanism and asking which within it is the person of the Way."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0826b20",
+          "ToLb": "0827a14",
+          "Kwic": "岳邊止万派聲歸海上消進云正是陽和無偏黨曇花再發一枝春師云相隨來也進云只如薌林居士昔日與和尚相見未審最初一句作麼生道師云便是你口裏道底進云恁麼則眾生普聞盡皆成佛去也師云錯下注脚進云自從一見桃花後剎剎塵塵總是渠師云速禮三拜。師乃云自從一見桃花後剎剎塵塵總是渠且道渠畢竟是何面目若識得渠面目方知薌林居士十二時中折旋俯仰語默動靜未嘗不與諸人把手共行須知薌林居士昔日雖生本不曾生今日雖滅本不曾滅既無生又無滅如擊石火似閃電光聊聞舉著剔起便行到這裏無生死可出無菩提可求無佛道可成無眾生可度亦無人亦無佛大千沙界海中漚一切聖賢如電拂。復云適來提宮學士坐間說自從薌林居士傾背後兩年長齋看經不知其數而今已看大般若經至二十空處所內空外空內外空",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, saying whoever knows that one's face has walked hand in hand with everyone through every turn and bow."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0602c17",
+          "ToLb": "0603a07",
+          "Kwic": "暑處迴避？僧云：如何是無寒暑處？山云：寒時寒殺闍黎，熱時熱殺闍黎。師拈云：洞山與麼答話，是則頭正尾正，只是鼻孔落在遮僧手裡，明眼道流試檢點看。上堂：坐教直，猛著力，提箇狗子佛性無，萬緣俱屏息。似銀山，如鐵壁，驀然一拶粉碎。天地空，人境忘，寤寐如，死生一，萬別千差盡空寂。上堂：佛法世法，一彩兩賽。行住坐臥，折旋俯仰，著衣喫飯，坐禪打眠，總是現前三昧。還信得及麼？話在。元宵，上堂。元宵令節，且喜天晴，高燒銀燭，照佛光明。集雲峰無油不點，非常烜爀，迥出常情。何也？我見燈明佛，本光瑞如此。無準和尚忌拈香。盡道先師今日死，誰知今日是生朝。不知却有何憑據，紫栢黃檀一處燒。上堂，舉：僧問趙州和尚：學人乍入叢林，乞師指示。州",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment, ruling the whole round of postures, dressing, eating, sitting, and sleeping to be the great composure present at hand."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0579c18",
+          "ToLb": "0580a08",
+          "Kwic": "世界，尚被他向上人喚作無慚愧懈怠菩薩。此中學道，大難，大難！不坐空王殿，不挂本來衣，何須在恁麼？切忌未生時到這田地，方有些些子衲僧氣息。示眾。見老和尚陞堂，舉起拂子便道：指示學人，你在長連牀上開單展鉢、喫粥喫飯，這裏何不悟去？你妄想起時便有禪，你不起妄想時便無禪，禪不是你妄想得的。山僧尋常道：語默動靜，折旋俯仰，一一明妙，一一天真。德山、臨濟不假棒喝，直下見得可煞分明。祇這些子透不過，誰障礙你？何不即今了却？雖然，了了了時無可了，玄玄玄處直須訶。會麼？示眾：如今要見自心，作麼生見？且那箇是心？若道只這推窮尋逐的是心，又遭佛訶斥，推窮尋逐的決定不是心，此但妄識。識有生滅，心無生滅，生滅屬識不屬心。眾生從無始劫來不",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, making it his standing saying that every turn and bow is each one bright and each one native."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0247a20",
+          "ToLb": "0247b10",
+          "Kwic": "布施些子。還肯麼？毗目仙人執手時，善財眼底微塵佛。珍重。上堂：三界無法，何者是生？三界無法，何者無生？生與無生，二俱增語。若謂是生，前村古路坦然平；若謂無生，海門波浪萬千尋。若道生即無生，樓頭戍鼓正三更；若道無生即生，彩筆將來𦘕不成。諸昆仲，幻化門頭高著眼，莫將陽𦦨亂紛紜。生與無生姑置勿論，且道二六時中折旋俯仰，畢竟承誰恩力？良久，云：六窻虗淨無倚，將來用度恰好。珍重！上堂。大道虗曠，無有程途。幾動之微，自當審細。若藕絲而牽大象，匪假神通。如寶樹之宿蟭螟，難窺異色。活中死句，笑容含氷銕之姿。死處活來，寒谷動陽春之𦦨。更須知當機劈面，毋待指陳。互換相資，那容凑泊。諸昆仲，當此時也，寒灰發燄，雪覆紅爐。氷玉相啣，誰",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, asking whose sustaining strength the day's turns and bows finally rest on."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0110a03",
+          "ToLb": "0110a17",
+          "Kwic": "作麼生道？萬丈峰頭獨足立，十方世界示全身。」下座。師誕日請上堂，「若道今日是生，日前湛無水之波；若道今日無生，劫外糝枯木之花；若道無生即生、生是無生，也是秤錘裏呷汁；更說離四句、絕百非，是他端的處，亦是靈龜曳尾，自取喪身之兆。既爾，畢竟如何？燈籠露柱呵呵笑，驚得鐵牛遍體麻。」下座。上堂，「向上無門撥不開，折旋俯仰幾多回，等閒踏倒珊瑚樹，格外風光特地來。如是則轉短壽為長年，改粟柄為禾莖，不是曩劫培成，亦非今時造就。且道端的在什麼處？千紅萬紫從君看，那把春風度與人。」下座。請上堂，問：「弟子請師陞座，將什麼超拔先親？」師云：「一毫頭上可翻身。」進云：「畢竟向何處安身立命？」師云：「遍界明明不覆藏。」乃云：「父死多年未",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, working the compound into verse — how many turns and bows before the coral tree falls."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0139b06",
+          "ToLb": "0139b20",
+          "Kwic": "「天上無明月，天下無明月。」解夏，小參。豎拄杖，云：「今日夏便解了，且道拄杖子解即是？不解即是？眨上眉毛，好痛與三十。」卓拄杖一下，云：「白雲萬里無人見，祇見門前草漫青。」中秋，小參。「今夕中秋，雨濛濛，雲黯黯，且道月在何處？」以拄杖作圓相，云：「明如漆，黑如日，尖相既隱，圓相亦無。汝若覷著，即瞎汝眼。然折旋俯仰，要且躲避不得。」卓拄杖，云：「咱合錯過。」小參。「老僧適在方丈，纔聞鼓聲，蚤有一人出眾問道：『今日臘八，適值上堂，還許弟子伸問否？』老僧道：『四眾俱有問話分，安得不許他？』迺問云：『弟子是殿前樹神，前日承西堂大師見示，要弟子遷居，業已從命。祇是有一疑：「盡大地是箇道場，如何偏要拆毀弟子房舍？」』老僧應聲",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, holding that in turning and bowing there is no dodging it."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0010b20",
+          "ToLb": "0010c03",
+          "Kwic": "地不是地、山不是山、水不是水、僧不是僧、俗不是俗、男不是男、女不是女、佛不是佛、祖不是祖、賓不是賓、主不是主，一道平等，浩然大均。且兩頭不涉，獨脫一句作麼生道？還委悉麼？雲有出山勢，水無投澗聲。」便下座。上堂。「今朝十月十六，天色陰晴反覆，不欲隨世變遷，悟取本來面目。已過關者，聞恁麼道，掉臂而去，二六時中折旋俯仰，無非本地風光；脫未諳悉，二六時中未免業識茫茫無本可據，且如何是本來面目？」喝一喝，云：「還見麼？地缺東南，天空西北。」復喝一喝，下座。上堂。「突出難辨，坐斷千差萬別；一塵舉起，透徹萬別千差。所以道：一法若有，毘盧墮在凡夫；萬法若無，普賢失其境界。」豎起拄杖云：「者是拄杖子，如何是普賢境界？若也放過，從教",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, telling those past the barrier that every turn and bow through the twelve double-hours is none other than the home ground."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "M/M59/M59n1540.xml",
+        "X/X70/X70n1397.xml",
+        "X/X71/X71n1420.xml",
+        "X/X72/X72n1435.xml",
+        "J/J26/J26nB178.xml",
+        "J/J38/J38nB406.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [
+        "Foyan Qingyuan",
+        "Dahui Zonggao",
+        "Xueyan Zuqin",
+        "Chushi Fanqi",
+        "Wuyi Yuanlai",
+        "Feiyin Tongrong",
+        "Tianran Hanshi",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "An etiquette-derived unit naming the body's whole round of turning and bowing through the day, the very place the records locate the working. Foyan Qingyuan reads the day's turning and bowing, the walking and talking, the spreading of the bedding and the porridge and rice, as all of it the mad mechanism, and asks which within it is the person of the Way; Dahui Zonggao, speaking for the departed Xianglin layman, says whoever knows that one's face has walked hand in hand with everyone all along through every turn and bow, speech and stillness; and Xueyan Zuqin rules the same round of postures, dressing, eating, sitting, and sleeping to be the great composure present at hand. Chushi Fanqi makes it his standing saying that speech and stillness and every turn and bow is each one bright and each one native; Wuyi Yuanlai asks his brothers whose sustaining strength the day's turns and bows finally rest on; Feiyin Tongrong works it into verse — no gate above to push open, how many turns and bows, casually felling the coral tree, the scenery beyond the pattern arrives on purpose; Tianran Hanshi holds at the mid-autumn meeting that in turning and bowing there is no dodging it; and Miyun Yuanwu tells those past the barrier that every turn and bow through the twelve double-hours is none other than the home ground."
+    }
+  ]
+}

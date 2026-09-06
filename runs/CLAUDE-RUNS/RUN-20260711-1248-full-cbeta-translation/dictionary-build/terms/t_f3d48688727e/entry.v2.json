@@ -1,0 +1,222 @@
+{
+  "Id": "t_f3d48688727e",
+  "SourceTerm": "說心說性",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:41:35Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "speaking mind, speaking nature",
+      "AlternateTargets": [
+        "discoursing on mind and nature",
+        "the mind-and-nature talk"
+      ],
+      "SearchAliases": [
+        "talk about mind and nature",
+        "mind-and-nature discourse",
+        "preaching mind and preaching nature"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 150 hits in 88 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1986A.xml",
+          "FromLb": "0509a29",
+          "ToLb": "0509b17",
+          "Kwic": "曰。自有廊幕在。巖曰。還出入否。師曰。不出入巖曰。豈不出入。師便拂袖出去。巖來日侵早入堂召師。師近前。巖曰。昨日秖對上座話不愜老僧意。一夜不安。今請上座別下一轉語。若愜老僧意。便開粥相伴過夏。師曰。却請和尚問。巖曰。不出入是如何。師曰。太尊貴生。巖乃開粥同過夏。師與密師伯行次。指路傍一院曰。裏面有人。說心說性。伯曰是誰。師曰。被師伯一問。直得去死十分。伯曰。說心說性底誰。師曰。死中得活。師供養雲巖真次。僧問。先師道。秖這是。莫便是否。師曰是。云意旨如何。師曰。當時洎錯會先師意。云未審。先師還知有也無。師曰。若不知有。爭解恁麼道。若知有。爭肯恁麼道。長慶云。既知有。為甚麼恁麼道。又云。養子方知父慈。雲巖諱日",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1986A.xml). Recorded Sayings of Chan Master Wuben of Dongshan, Yunzhou. Dongshan Liangjie owns the Tang root: someone inside there speaks mind and nature — asked who, he is dead ten-tenths; asked who the speaker is, alive out of death."
+        },
+        {
+          "RelPath": "T/T47/T47n1998B.xml",
+          "FromLb": "0950a28",
+          "ToLb": "0950b16",
+          "Kwic": "行。一人陸行。二人俱至。師聞此語。乃曰。草堂得也。須菩提解空第一。生時家室盡空。世尊纔陞座。須菩提便出眾云。希有世尊。且道。見箇什麼道理。便恁麼道。天親菩薩作無量偈。只贊希有二字。圓悟禪師云。一句是一箇鐵橛。故六祖聞應無所住而生其心。便悟去。圓悟佛眼佛鑑。同在五祖。一日相謂曰。老和尚秖是乾嚗嚗地。往往說心說性不得。因請益佛身無為不墮諸數。祖曰。譬如清淨摩尼寶珠映於五色。五色是數。摩尼是佛身。圓悟謂二老曰。他大段會說。我輩說時費多少工夫。他秖一兩句。便了分明。是箇老大蟲。祖聞之乃曰。若說心說性。便是惡口。又曰。猫有歃血之功。虎有起屍之德。所謂驅耕夫之牛。奪飢人之食。若不如是。盡是弄泥團漢。師一日謂趙巨濟曰。老",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "case-figure",
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "later-quoter"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998B.xml). Dahui Pujue's Armory of the Chan School. Wuzu Fayan owns the root ruling: to speak mind and speak nature is evil mouth — the cat's blood-oath, the tiger's corpse-raising; drive the plowman's ox, snatch the starving man's food, or be a mud-pie man."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0768a10",
+          "ToLb": "0768a14",
+          "Kwic": "打箇圓相。或進前三步退後三步。作女人拜。拍一下喝一聲。或撑眉努目。或說心說性。只是情塵業識。所謂學道之人不識真。只為從前認識神。無量劫來生死本。癡人喚作本來人。只如",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: circles drawn, steps taken, bows and slaps and shouts — or speaking mind and speaking nature: all of it mood-dust and habit-mind, the knower mistaken for the never-born."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0796a13",
+          "ToLb": "0796b07",
+          "Kwic": "詐明頭進云或有箇漢截斷臨濟德山葛藤又作麼生支遣師云未嘗見此人進云腦後見腮莫與往來師微笑。師乃云德山見僧入門便棒大似無風起浪臨濟見僧入門便喝猶如夢裏虗驚須知各各當人分上一段大事因緣天不能蓋地不能載與一切凡聖作主宰一切凡聖與伊作主宰不得淨躶躶絕承當赤洒洒沒窠臼如萬仞崖前獨定立相似到這裏須是箇人始得若是求玄求妙說心說性說理說事欲入這箇門風大似隔靴用拳頭抓痒且喜沒交涉所以道群靈一源假名為佛體竭形消而不滅金流朴散而常存性海無風金波自湧心靈絕兆萬象齊照體斯理者不言而徧歷河沙不用而功益玄化如何背覺返合塵勞於陰界中妄自囚執且道出陰界後又作麼生商量良久云洎合錯下注脚復云古來許多尊宿多是閩中人典刑猶在往往近來有於此事上著忙甚多自妙",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: seeking mystery and marvel, speaking mind and nature, reason and fact, wanting to enter this gate — like pummelling an itch with a fist through a boot, and happily nothing to do with it."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0698b01",
+          "ToLb": "0698b15",
+          "Kwic": "湊泊處。又如吹毛利劒。等閑拈出直欲要斷人命根。此豈可以心意識卜度而為得哉。若然則阿難不假再修。二祖不勞斷臂。何則彼阿難二祖聰慧過人意識明了。如汝所解者彼豈未聞耶。蓋是心不妙悟見地不脫。若見地不脫。則動是情意識輥作一團。在處依草附木承虛接響。致使上味醍醐蘊在伊不淨器中變成毒藥。一切時中如箇不解脫鬼相似。見人說心說性。便乃扶籬摸壁湊泊將去。纔見有人舉起沒巴鼻捩轉面皮突出牙爪處。未免意識不行便乃渾侖吞棗。如此等人日用一心中。常有二主互相起滅。有時緣般若則忘世諦。或緣世諦則忘般若。自不知是脚跟下蹉過。却謂我工夫未熟履踐未純而然。便乃精修白業。作有漏因以為資助。又有一等顢頇佛性儱侗真如者。日用遇一切境界。只作一箇道理硬自排",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: all day long like an unliberated ghost — seeing someone speak mind and nature, they grope along fences and walls to shore themselves against it."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0320b11",
+          "ToLb": "0320b15",
+          "Kwic": "那裏是鍾山不通方處？後五日看。請首座掛牌，上堂。舉古舉今，和泥合水。說心說性，畫虎成狸。所以道，千人排門，不如一人拔關。一人拔關，千人萬人得到無疑安樂之地。",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment: citing old and present kneads mud into water, speaking mind and nature paints a tiger and gets a wildcat — a thousand men pushing the gate is not worth one man drawing the bolt."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0340b19",
+          "ToLb": "0340c02",
+          "Kwic": "心，決不相賺。』」示眾。問：「春風吹大野，萬物盡光新，為復法爾如然？為復神通妙用？」師云：「脫㲉烏龜飛上天。」進云：「一聲幽鳥雲天外，靄靄山光翠欲流。」師云：「卻被風吹別調中。」乃云：「十方聚會，臭肉來蠅；選佛場開，懸羊賣狗；閉門打睡，接上上機；落艸求人，示種種說。要而言之，不出好肉剜瘡、缽盂安柄。所以道：說心說性是太平奸賊，行棒行喝乃亂世英雄。秖如神鼎，有時與你諸人作生冤家；有時與你諸人如陌路人；有時與你諸人開山掘土，則人境俱忘、主賓不立；有時與你諸人拈椎豎拂，則海水騰波、須彌岌崿。且道巴鼻尋常又落在什麼處？而今禪和家愛向人口邊覓佛、覓祖、覓禪、覓道，覓真如解脫、菩提涅槃，拋卻了自家現成家業，失頭狂走，見人鼓動",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Feng. Yuan'an Liao owns the retained deployment: at best carving sores in good flesh and riveting a handle on the almsbowl — speaking mind and nature is the traitor of a peaceful age; stick and shout are the heroes of a lawless one."
+        },
+        {
+          "RelPath": "J/J34/J34nB309.xml",
+          "FromLb": "0553b22",
+          "ToLb": "0553c04",
+          "Kwic": "且道者一著子是箇什麼？」良久，卓拄杖云：「海神知有不知貴，留與人間光照夜。」復白椎云：「諦觀法王法，法王法如是。」下座。開爐，上堂。問：「丁一卓二，本分鉗鎚，捏聚放開，作家受用。去此二途，還有為人處也無？」師云：「漫天網舉不饒伊。」進云：「直下翻身去時如何？」師云：「看汝伎倆。」僧擬議，師驀頭一棒，乃云：「說心說性，紅爐點雪；舉古舉今，眼中著屑。若是生鐵鑄就衲僧，豈肯循途守轍？即今還有恁麼人麼？若無，莫怪山僧壓良為賤，攝將香水無邊剎，併入鉗鎚爐鞴中。」上堂。問：「向上一路，千聖不傳；向上一路，千聖不然。是何意旨？」師云：「來日說向你。」僧喝，師便打。乃舉：「天童悟云：『當頭一著，坐斷要津；纔然側耳，喪卻家珍。從來佛",
+          "MasterName": "Yunfu Daozhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfu Daozhi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB309.xml). Recorded Sayings of Chan Master Yunfu Zhi. Yunfu Daozhi owns the retained deployment: speaking mind and nature — snowflakes on the red furnace; citing old and present — grit in the eye; a pig-iron patchrobe will not keep to the ruts."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1986A.xml",
+        "T/T47/T47n1998B.xml",
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml",
+        "X/X70/X70n1386.xml",
+        "J/J37/J37nB386.xml",
+        "J/J34/J34nB309.xml"
+      ],
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Wuzu Fayan",
+        "Dahui Zonggao",
+        "Yuanwu Keqin",
+        "Fojian Huiqin",
+        "Foyan Qingyuan",
+        "Zhongfeng Mingben",
+        "Shitian Faxun",
+        "Yuan'an Liao",
+        "Yunfu Daozhi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Speaking mind, speaking nature: the explanatory talk the masters refuse — evil mouth, boot-scratching, snow on the red furnace. Dongshan Liangjie, walking with his senior fellow, points at a roadside cloister: inside there is someone speaking mind and speaking nature — who? says the uncle, and Dongshan dies ten-tenths dead; who is the speaker? — alive out of death; Wuzu Fayan's ruling survives in Dahui Zonggao's armory: the three disciples found the old man too dry to speak it and asked him about the buddha-body beyond all counts; he gave them the mani-pearl mirrored in the five colors, they marveled that he finished in a line or two — a real old tiger — and when he heard their praise he ruled: to speak mind and speak nature is evil mouth; the cat has its blood-oath, the tiger its corpse-raising; you drive the plowman's ox and snatch the starving man's food, or you are mud-pie men; Yuanwu Keqin lists the stage-gestures of the imitators — drawing a circle, three steps forward and back, a woman's bow, a slap and a shout, knitted brows, or speaking mind and speaking nature — all of it just mood-dust and habit-mind, the knower mistaken for the one who was never born; Dahui Zonggao, in the general discourse, sets the gate: to seek mystery and marvel, to speak mind and speak nature, reason and fact, wanting to enter this gate — like pummelling an itch with a fist through a boot, and happily nothing to do with it. Zhongfeng Mingben diagnoses its hearers: all day long like an unliberated ghost — the moment they see someone speak mind and speak nature they prop themselves along fences and walls to shore up against it, and when a paw is suddenly bared they swallow the date whole; Shitian Faxun pairs it against the citing of old cases: citing old and present is kneading mud into water, speaking mind and speaking nature paints a tiger and gets a wildcat — a thousand men pushing at the gate is not worth one man drawing the bolt; Yuan'an Liao strips his own work to it: at best it is carving sores in good flesh and riveting a handle on the almsbowl — speaking mind and speaking nature is the traitor of a peaceful age, stick and shout are the heroes of a lawless one; Yunfu Daozhi melts it in two strokes: speaking mind and speaking nature — snowflakes on the red furnace; citing old and present — grit in the eye; a patchrobe cast of pig-iron will not keep to the ruts."
+    }
+  ]
+}

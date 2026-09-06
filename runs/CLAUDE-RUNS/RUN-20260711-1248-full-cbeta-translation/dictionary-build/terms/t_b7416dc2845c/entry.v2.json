@@ -1,0 +1,194 @@
+{
+  "Id": "t_b7416dc2845c",
+  "SourceTerm": "應時及節",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T07:53:25Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "answering the hour, hitting the season",
+      "AlternateTargets": [
+        "right for the occasion"
+      ],
+      "SearchAliases": [
+        "fitting the occasion",
+        "phrase for the hour",
+        "in season and on time"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 182 hits in 97 files representing 97 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0117c03",
+          "ToLb": "0117c17",
+          "Kwic": "」進云：「恁麼則光前耀後去也。」師云：「親言出親口。」進云：「謝和尚。」師喝一喝，乃云：「釋迦文佛法衣留在雞足山中，密雲老人法衣藏于金粟塔裏，且道是同是別？若道是同，則自古至今事有千差；若道是別，從前及後理唯一致。若向一致，千差分曉，得來便見，一有多種，二無兩般，而與十方檀那叢林僧眾永遠祥瑞。正當恁麼時，應時及節一句作麼生道？一把柳絲收不得，和煙搭在玉闌干。」便下座。師到東明寺，禮東明旵、海舟慈、寶峰瑄三位遠祖塔，安溪眾居士請上堂，遂陞座，云：「遠祖東明剎，今朝輒一登，面目儼然在，時人識未曾。且道遠祖面目即今在什麼處？」遂以拄杖指云：「南山雲，北山雨，自古至今常在此，湛然不動于其間，凜凜宗風播寰宇。雖然如是，不肖",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, asking for the phrase that answers the interment hour and answering with willow silk on the jade railing."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0008a28",
+          "ToLb": "0008b10",
+          "Kwic": "絕言詮，凜凜神威如王寶劍。與麼，與麼，萬里人荒；不與麼，不與麼，金鋀莫辨。然事無一向，山僧曲為諸人八字打開去也。」遂豎起拂子，云：「還委悉麼？乾坤以此覆載，日月以此照臨，嶽瀆以此峙流，群靈以此生育，諸佛以此出世，祖師以此西來，聖明以此端拱馭民，士庶以此安家樂業。風光廓爾，遍界無遺，亙古亙今，絲毫弗易，且應時及節一句如何道？」擊拂子，云：「景星纔示現，八表納雍熙。」復舉僧問百丈：「如何是奇特事？」丈云：「獨坐大雄峰。」僧禮拜，丈便打。師云：「一問一荅，賓主歷然，這僧禮拜雖非好心，爭柰百丈棒頭有眼。今日或有問山僧：『如何是奇特事？』秪向他道：『李居士禱嗣設齋。』僧若禮拜，但云：『已後莫相辜負好。』」下座。上首復白槌，云",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, striking his whisk on the auspicious star that answers the heir-praying feast."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0474b20",
+          "ToLb": "0474c04",
+          "Kwic": "及大地，大地融成一化境，十方世界無兩人。所謂十方國土中，唯有一乘法，無二亦無三。既無二三，且道喚誰為一？」卓拄杖，云：「當陽無背面，覿體露全機。」上堂。「今朝十一月十七，道是彌陀佛生日，彌陀稱云無量壽，無量壽源誰諳悉？若諳悉，時時是好時，日日是好日，頭頭法法體全彰，逆順縱橫無不是。然雖如是，也要應個時節。應時及節一句作麼生道？霜凝千嶂玉，菊綻滿籬金。」法寶菴，上堂。「烏弄奇聲，春機漏洩，陽和漸暖，萬卉爭芳，色色示自家境界，聲聲唱佛祖風規。諸人若也薦得，便見法寶滿目森然；其或未然，未免觸途成滯。先德道：『若是會底人，便能於一莖草上現瓊樓玉殿；其或未會，縱有玉殿瓊樓，卻被一莖草蓋卻。』天童密師翁因僧問：『如何是三寶",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment, conceding that even the all-good days need a phrase for the season and answering with frost-jade cliffs and golden chrysanthemums."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0467b13",
+          "ToLb": "0467b28",
+          "Kwic": "見他標格？嫩桂香清優缽水，一枝秀出玉芙蓉。」開爐，上堂。「寒則圍爐，熱則揮扇。天真佛內裏打坐，老趙州卻不相賺。眼裏著不得，通身擔板臨河叫，渴底堆堆無限。薦不薦，莫似青州棗子囫圇吞嚥，閻羅面子青如靛。」冬夜，小參。「六陰今已伏，來日一陽生，便見碓嘴開花，寒冰發燄，萬卉芬芳。從茲伊始，汝等諸人心華發明，不妨應時及節。山僧恁麼告報，也是抑而為之。忽有箇漢出來道：『能為萬象主，不屬四時推。又作麼生？』快刀割肉渾閑事，惡口傷人恨爭消？」晚參。「心月孤圓，覆藏不得，謾云在天在水，再三撈摝，方知撈摝不得。不撈而得，誰知一貫兩箇五百？設有得，亦非真。要見真實處麼？」豎拂子，云：「分明月在梅花上，看到梅花早已遲。」歲夜，小參。「",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment, ruling the hearers' flowering minds fit for the solstice hour while doubting his own telling."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0129a14",
+          "ToLb": "0130a02",
+          "Kwic": "靜夜鐘聲隨扣擊以無虧觸波瀾而不散猶是生死岸頭事明則普天帀地明暗則普天帀地暗要且明不自明暗不自暗所以道當明中有暗勿以暗相遇當暗中有明勿以明相睹不見當時百丈深撥溈山便知落處龍潭吹滅德山忽爾洞然老僧今晚也不用吹滅也不用深撥驀豎拂子云大眾還見麼於此見得徹去人人常光現前個個壁立萬仞順逆卷舒縱橫自在正與麼時且道應時及節一句作麼生道良久云巖上雪消春水󲳃󲊷前玉綻蝶梅香。示眾林臯出眾問云雲影到山賓作主谿聲入海主為賓賓主歷然如何施設師舉如意云還見麼進云敢謂是和尚為人處也無師云知則不問進云騰騰煙雨裏春濤送客新師云且過一邊進云臨濟大師道我於黃檗先師處喫三頓痛棒如蒿枝拂相似為是報恩耶伸冤耶師云你還知麼進云和尚在禹門大師處曾喫棒",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, stopping long at the festival hour and showing the snow melting into spring water on the cliff."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0746b26",
+          "ToLb": "0746c09",
+          "Kwic": "拳曰：「便恁麼捏聚將來，離名離相，絕照絕用。直得天地易位，七曜迷方，萬象藏形，生佛泯跡。德山臨濟，有眼如盲，有口如啞。汝等向甚麼處摸索。」乃展掌曰：「放開一線道，隨汝等顛倒所欲。於泥牛背上加鞭，令木馬絕塵奔逸。便見金烏東上，玉兔西移。四序迭彰，五行交錯。山河煥彩，草木敷榮。物逐人興，時亨道泰。正當恁麼時，應時及節一句作麼生道？侵陵雪色還萱草，漏洩春光有柳條。」解制，上堂。師卓拄杖，曰：「未結制已前，山僧口似扁擔，將千二百斤擔子人人肩上著到；及結制已來，山僧口似紡車，罵佛呵祖，自矜自誇。正當今日，有人道得一句子，坐斷山僧舌頭，便能於拄杖頭上風颯颯地，七縱八橫；草鞋跟下踢著踏著，印水印泥。天台普請，南岳遊山，隨處作主",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment, letting the snow-shaded daylilies and spring-leaking willow twigs answer the new season for him."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0321c07",
+          "ToLb": "0321c20",
+          "Kwic": "欲放梅。」進云：「臘雪連山白，雄風透戶寒。」師云：「大抵還他肌骨好。」進云：「千里特來呈舊面。」師便打，乃云：「古木寒巖一片冰，瀟瀟鳥道斷人行，大家束手爐頭坐，嬴得眉毛眼上橫。到這裏，普天匝地滴水滴凍，縱有鎗旗亦無展處、棒喝亦無施處，無賓無主、無佛無法，無佛法而佛法全該、無賓主而賓主歷然，趙州茶、雲門餅不妨應時及節，破沙盆、乾屎橛一任東擲西拋，更有一般奇特事，梅花幾點放高梢。」復舉：「雪竇云：『客從遠方來，遺我徑寸璧，中有四個字，字字無人識。』古尊宿鬧裏有錢，素長老靜處安身，原憲兒孫雖不可與陶朱公鬥富，亦可高低唱和。客從遠方來，遺我一盤果，不是鄭州梨，亦非青州棗，上下及四維，無處可尋討。」豎拳，云：「和盤托出獻諸方",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment, finding Zhaozhou's tea and Yunmen's cakes fit for the season while cracked basins fly where they please."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0400c01",
+          "ToLb": "0400c14",
+          "Kwic": "，指鹿為馬；若謂聲色不是，掘地覓天。正恁麼時如何轉身？」以拂擊禪床，云：「擊碎是非關，迥然超佛祖。」浴佛，解制，上堂。「指天指地，撒沙撒土，平地孤堆，禍遺千古，引得忤逆兒孫一棒打殺，頻添冤苦。今我此中聖制告圓，箇箇向前當機轉語，忽有箇抱不平的憤性出來，推倒禪床，喝散大眾。東印門下雖則未敢全然相許，不妨大家應時及節，足蹈手舞。既然一總吝慈，正上座只得自行此令去也。」乃拽杖一齊打散。復召大眾，眾回首，師云：「逢人切莫錯舉。」住重慶府巴縣白巖山寶輪禪寺住重慶府巴縣白巖山寶輪禪寺順治庚子十月初一，師在塗山覺林禪寺受請。入院。佛殿。喝一喝云：「好一殿功德，禮拜則見相發心，不禮拜則當面蹉過。且道禮拜是？不禮拜是？」乃展具云：「",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianyue Daozheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment, inviting the whole hall to answer the hour hand in hand and, when all withhold, scattering them with his staff."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J28/J28nB202.xml",
+        "J/J28/J28nB212.xml",
+        "J/J37/J37nB388.xml",
+        "L/L154/L154n1639.xml",
+        "J/J36/J36nB362.xml",
+        "J/J38/J38nB410.xml",
+        "J/J29/J29nB235.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Baichi Xingyuan",
+        "Eryin Mi",
+        "Yikui Yuankui",
+        "Tianyin Yuanxiu",
+        "Guantao Daqi",
+        "Lianfeng Su",
+        "Lianyue Daozheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A hall-address pivot that summons the one phrase answerable to this very hour of the year. Feiyin Tongrong, sending Miyun's robe into the stupa, asks for the phrase that answers the hour and hands over willow silk on the jade railing; Baichi Xingyuan, at a layman's feast praying for an heir, strikes his whisk and shows the auspicious star appearing; Eryin Mi, on Amitabha's birthday, concedes that even the all-good days need a phrase for the season and pours out frost-jade cliffs and golden chrysanthemums; and Guantao Daqi, at the beginning of spring, lets the snow-shaded daylilies and spring-leaking willow twigs answer for him. Yikui Yuankui's winter-night xiaocan rules the hearers' flowering minds fit for the solstice hour while doubting his own telling; Tianyin Yuanxiu's lantern-festival address stops long and shows the snow melting into spring water on the cliff; Lianfeng Su finds Zhaozhou's tea and Yunmen's cakes fit for the season while cracked basins and dung-chunks fly where they please; and Lianyue Daozheng, closing the summer seat, invites the whole hall to answer the hour hand in hand and, when all withhold, drags his staff and scatters them himself."
+    }
+  ]
+}

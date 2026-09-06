@@ -1,0 +1,225 @@
+{
+  "Id": "t_edf400f6e4cb",
+  "SourceTerm": "如何是透法身句",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:32:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "what is the phrase that threads through the truth-body",
+      "AlternateTargets": [
+        "what is the phrase that gets through the body of reality",
+        "what is the line that pierces the truth-body"
+      ],
+      "SearchAliases": [
+        "threading-through phrase",
+        "the truth-body phrase",
+        "the through-the-body question",
+        "Yunmen's Dipper question"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 172 hits in 76 files representing 73 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0375b19",
+          "ToLb": "0375c03",
+          "Kwic": "師云：「速退，速退！妨他別人問。」問：「如何是非思量處？」師云：「識情難測。」問：「鑿壁偷光時如何？」師云：「恰。」問：「一言道盡時如何？」師云：「裂破。」進云：「和尚作麼生下手拈掇？」師云：「拈取糞箕掃帚來。」問：「如何舉唱即得不負來機？」師云：「道什麼？」進云：「還可來意也無？」師云：「且緩緩。」問：「如何是透法身句？」師云：「北斗裏藏身。」問：「如何是本來宗？」師云：「不問不答。」問：「如何是三界唯心，萬法唯識？」師云：「我今日不荅話。」進云：「為什麼不答話？」師云：「驢年會麼？」問：「如何是吹毛劍？」師云：「骼又云胔。」問：「如何是內外光？」師云：「向什麼處問？」學云：「如何明達？」師云：「忽然有人問你作麼生道？」",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment: what is the phrase that threads through the truth-body — hide the body in the Dipper."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0828c18",
+          "ToLb": "0829a07",
+          "Kwic": "為甚麼却用不著。乃顧視左右云。還知徑山落處麼。若知徑山落處。禪狀元即是儒狀元。儒狀元即是禪狀元。即今拈却禪與儒。且道。當面一句作麼生道。要知死底張宣教。便是活底狀元爺。結夏上堂。文殊三處安居。誌公不是閑和尚。迦葉欲行正令。未免眼前見鬼。且道。徑山門下今日事作麼生。下座後大家觸禮三拜。上堂舉。僧問雲門。如何是透法身句。門云。北斗裏藏身。師云。雲門老人恁麼道。只答得法身句。未答得透法身句。今日或有人問徑山。如何是透法身句。即向他道。蟭螟眼裏放夜市。大蟲舌上打鞦韆。上堂。今朝又是端午節。文殊善財忙不徹。殺人活人藥不靈。自添腦後三斤鐵。驀拈拄杖卓一下云。觀音妙智力。能救世間苦。遂擲下云。是甚麼鐵蛇鑽入土。上堂舉。馬祖",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: the old man answered only the truth-body phrase — a night-market in a midge's eye, a swing on a great tiger's tongue."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0008a08",
+          "ToLb": "0008a22",
+          "Kwic": "，孟夏稍熱，且道是何物？若也識得，天地日月、森羅萬象無纖毫過患；脫或未然，來年更有新條在，惱亂春風卒未休。」下座。佛誕上堂。「今朝正是四月八，釋梵王宮生悉達，秪為時人不知因，年年枉遭惡水潑。眾中若有知因者，出來為這老漢雪屈。」良久，云：「若無，雲門大師來也。」拽拄杖下座，一時打散。上堂，舉：「僧問雲門：『如何是透法身句？』門云：『北斗裡藏身。』大慧云：『雲門恁麼道，只答得法身句，未答得透法身句。今日或有人問徑山：「如何是透法身句？」向他道：「蟭螟眼裡放夜市，大蟲舌上打鞦韆。」』」師云：「通玄今日又且不然，如有問如何是透法身句，劈脊便棒，縱使不會，管教永劫不忘。」下座。久雨將晴，施主臨行請上堂。「春雲欲開未開，春雨欲息未",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: ask me the threading-through phrase — a staff across the spine, and never forgotten for a whole eternity."
+        },
+        {
+          "RelPath": "X/X71/X71n1423.xml",
+          "FromLb": "0748a18",
+          "ToLb": "0748b11",
+          "Kwic": "方？藍云：學憑入室，知乃通方。僧云：到蘇摩城，為甚麼彌勒却遣見文殊？云：道󳷻無涯，逢人不盡。日出昇空高下周，崑崙源派入川流。春山雲逗風無盡，雁去回南天地秋。僧問洛浦：如何是一大藏教收不得者？浦云：雨滋三艸秀，片玉本來輝。畢鉢嵓華曉帶春，香風時結鷲峯層。須知玉象瓶中塔，別有輝天照地燈。僧問芭蕉情和尚：如何是透法身句？蕉云：一不得問，二不得休。僧云：學人不會。蕉云：第三度來與儞相見。休問維摩臥病城，靈山空自掩光陰。流沙欲渡全無難，莫聽鶯鳴在那林。僧問芭蕉徹和尚：有一人不捨生死、不證涅槃，師還提𢹂也無？徹云：不提𢹂。僧云：為甚麼不提𢹂？徹云：老僧粗識好惡。百歲童兒出戶來，滿身紅爛惹塵埃。火中閒步清凉地，識者無因敢近",
+          "MasterName": "Touzi Yiqing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Yiqing",
+              "Roles": [
+                "verse-author",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Bajiao Huiqing",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1423.xml). Recorded Sayings of Chan Master Touzi Yiqing. Touzi Yiqing owns the retained deployment: ask not of Vimalakirti lying ill — do not hear the oriole crying in that grove."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0184a24",
+          "ToLb": "0184b06",
+          "Kwic": "安，欽願干戈寢息、八表安康。更冀滿朝文武及道鎮府廳諸位尊官，生生游戲法海，共作善友提攜；世世廣作津梁，佛法付囑有在。」斂衣就座云：「指天指地口嘮叨，識得曹君罵老曹。杓柄落在兒孫手，未免惡水驀頭澆。大眾！還委悉麼？」拈拄杖云：「雲門大師來也。」卓一卓，云：「國清才子貴，家富小兒嬌。」上堂。舉：「芭蕉因僧問：『如何是透法身句？』師曰：『一不得問，二不得休。』僧云：『學人不會。』師曰：『第三度來，與汝相見。』」師頌曰：「一不問，二不休，法身不在嘴尖頭。若然三度來相見，走殺溈山水牯牛。」佛誕上堂。「今朝正是四月八，處處叢林洗悉達，惟有曹溪則不然，從始至終無一法。若謂說法度眾生，淨眼無端著砂撒，丈夫志氣本天然，是則名為摩訶薩。」",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bajiao Huiqing",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: the truth-body is not on the tip of the tongue — three comings would run the Guishan water-buffalo to death."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0114a04",
+          "ToLb": "0114a18",
+          "Kwic": "示現受生。師云：念言語漢。師乃云：三界無法，何處求心？四大本空，佛依何住？淨飯國王是聖父，摩耶夫人是聖母。甲寅年四月八日，悉達太子向毗藍園中無憂樹下降生。從上所供，竝皆詣實。上堂，僧問：如何是諸佛出身處？師云：澱湖水滿也未？進云：如何是吹毛劍？師云：井底揚塵。進云：如何是露地白牛？師云：斫頟望曹溪。進云：如何是透法身句？師云：者販私鹽賊。師乃云：白日青天，開眼作夢底，如麻似粟，與我拈取夢中事來看。你見我與麼道，便道：老漢休寐語。且你不夢時，目前是箇什麼？伏惟尚享。上堂：東弗于逮打鼓，南瞻部州上堂，西瞿耶尼聞鐘，北󳬂單越作舞，忉利居日月之上，四禪無風火之灾。且道帝釋宮中所說何法？一牛飲水，五馬不嘶。斷江和尚至，上堂：天平",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment: what threads through the truth-body — that smuggler of private salt; when you are not dreaming, what is before your eyes?"
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0499b20",
+          "ToLb": "0499c02",
+          "Kwic": "在甚處？」山云：「湖南報慈。」門云：「幾時離彼？」山云：「八月二十五。」門云：「放汝三頓棒！」山至來日，問：「昨蒙和尚賜棒，不知過在甚處？」門云：「飯袋子！江西、湖南便恁麼去也！」山乃大悟。「洞山若非末後慇懃，墮在爛泥坑裏，永拔不出。」又云：「只為末後慇懃，墮在爛泥坑裏，永拔不出！」福朗上座因僧問雲門：「如何是透法身句？」門云：「北斗裏藏身。」朗罔測，遂問門，門把住，云：「道，道！」朗擬議，門托開，復示偈云：「雲門聳剔白雲低，水急遊魚不敢栖，入戶已知來見解，何勞更舉轢中泥？」朗大悟。把住托開，渾身草裏輥。重說偈言，舌頭咸拖地。福朗上座雖向這裏開得隻眼，也只是個漆桶。趙州到一菴主處，云：「有麼？有麼？」主豎起拳頭，州云：",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment: gripped and pushed away with a verse — the elder who opened an eye there is still only a lacquer bucket."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J10/J10nA158.xml",
+        "X/X71/X71n1423.xml",
+        "J/J27/J27nB192.xml",
+        "X/X71/X71n1409.xml",
+        "J/J28/J28nB212.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Dahui Zonggao",
+        "Miyun Yuanwu",
+        "Touzi Yiqing",
+        "Bajiao Huiqing",
+        "Daxiu Zhu",
+        "Yuejiang Zhengyin",
+        "Eryin Mi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "What is the phrase that threads through the truth-body — the school's standing demand for the word that goes through rather than points, asked of Yunmen and answered with the Dipper, then ruled, re-answered, versed, and smuggled for five hundred years. The origin, in Yunmen Wenyan's own catechism. Question after question runs the gauntlet — the Yunmen sword: the ancestor; the birthplace of all buddhas: ask me another; the white ox in the open: the confronting cue that changes no road. Then: what is the phrase that threads through the truth-body? The master: hide the body in the Dipper. And next after: what is the original school? Not asking, not answering. Dahui Zonggao raises the exchange in the hall and rules on it: the old man of Yunmen, answering thus, answered only the truth-body phrase — he did not answer the phrase that threads through. If today someone asked Jingshan, what is the phrase that threads through the truth-body — I would tell him: a night-market opened in a midge's eye, a swing swung on a great tiger's tongue. And Miyun Yuanwu, raising both at the Tongxuan temple, turns it a third way: if anyone asks me what the threading-through phrase is — a staff across the spine on the spot; even if he does not understand, I guarantee he will not forget it for a whole eternity. The other line of the family: a monk asks Bajiao Huiqing, what is the phrase that threads through the truth-body? Bajiao: first, you may not ask; second, you may not rest. The monk: I do not understand. Bajiao: come a third time and I will meet you. Touzi Yiqing verses it: ask not of Vimalakirti lying ill within the city; Vulture Peak idly shuts away its light. To cross the flowing sands is without difficulty — only do not hear the oriole crying in that grove. And Daxiu Zhu, raising the same at the Buddha-birthday hall and versing: not asking, not resting — the truth-body is not on the tip of the tongue; but let the third coming bring the meeting, and it will run the Guishan water-buffalo to death. Yuejiang Zhengyin, in his own hall catechism at Dianshan: what is the birthplace of all buddhas? Is the Dianshan lake full yet? What is the blow-hair sword? Dust rising from a well-bottom. What is the white ox in the open? Hewing the forehead, gazing toward Caoxi. And what is the phrase that threads through the truth-body? That smuggler of private salt. Then he turns on the assembly: under white sun and blue sky, dreamers with open eyes are as hemp and millet — bring me the dream-thing to look at. You see me talk thus and say the old man talks in his sleep — but when you are not dreaming, what is the thing before your eyes? And Eryin Mi, picking old cases: the elder Fulang, meeting the questioner's line at Yunmen's gate — the master hid the body in the Dipper; Fulang could not fathom it and pressed further. Yunmen gripped him: Speak, speak! Fulang hesitated; the master pushed him away and gave a verse — the cloud-gate tower sheers off the low white clouds; fish in rushing water dare not rest; entering the gate, your seeing was already known — why trouble to lift the rutting mud again? Fulang woke whole. Gripped and pushed away, rolling whole-bodied through the grass; the verse retold, the tongue dragging on the ground — yet the elder who opened an eye right there, says Eryin, is still only a lacquer bucket."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "Id": "t_0ee2c666d414",
+  "SourceTerm": "琉璃殿上",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T09:21:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "atop the lapis-lazuli hall",
+      "AlternateTargets": [
+        "on the lapis-lazuli hall floor"
+      ],
+      "SearchAliases": [
+        "lapis-lazuli hall",
+        "atop the lapis hall",
+        "the shining hall's height",
+        "on the glazed palace hall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 141 hits in 88 files representing 86 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X78/X78n1554.xml",
+          "FromLb": "0601c06",
+          "ToLb": "0601c18",
+          "Kwic": "，有云：體得底人，心若臘月扇，口邊直得醭出，不是強為，任運如此。又云：不見古人道：學處不玄，盡是流俗。閨閤中物捨不得，俱為滲漏，併盡一切事，始得無過。如人頭頭上明、物物上通，只喚作了事人，終不喚作尊貴，將知尊貴一路自別。不見道：從門入者非寶，捧上不成龍。知麼？僧問：有人衣錦入來見師後，為甚寸絲不掛？曰：直待琉璃殿上行，撲倒也須粉碎。師令侍者送袴與一庵主，主曰：自有娘生袴。不受。再令送去，問：娘未生時，著箇甚麼？主無語。後遷化，燒得舍利，持以似師。師曰：直饒出得八斛四斗，不如當初下取一轉語好。僧問：山河大地從何而有？曰：從妄想而有。曰：與某甲想出一鋌金，得麼？師休去。佛日空參次，問：二龍爭珠，誰是得者？曰：卸却業身來，",
+          "MasterName": "Yunju Daoying",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunju Daoying",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X78/X78n1554.xml). Praise of the Orthodox Lineage of the Five Houses. Yunju Daoying owns the retained deployment: wait till he walks atop the lapis-lazuli hall — even thrown down, he must shatter."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0004b06",
+          "ToLb": "0004b24",
+          "Kwic": "。句中宛轉。似肯不肯。量外提撕。箇是洞山底。或有人問普照邈得師真。對他道什麼。良久云。心不負人。面無慚色。上堂云。照與照緣。混融不二。心與心法。㳷合無差。所以道。如珠發光。光還自照。還會麼。百草頭上閑和尚。買盡風流不著錢。上堂云。雲斂長空風日和。太平樵牧共高歌。衲僧飯飽無他事。密密機前弄玉梭。所以道。琉璃殿上。玉女拋梭。明月堂前。石人撫掌。作麼生。行履得恁麼相應去。暗裡抽橫骨。明中坐舌頭參。上堂云。水中鹽味。色裏膠青。體之有據。取之無形。用時密密。寂處惺惺。是諸佛之本覺。乃眾生之妙靈。廓大千而為量。破微塵而出經。浴佛上堂云。清淨彌滿。是法性水。真覺靈明。是法性身。同水是身。乃現灌沐邊事。通身是水。方成離垢",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: atop the lapis-lazuli hall the jade maiden throws her shuttle — how do you walk so as to accord?"
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0003a13",
+          "ToLb": "0003b04",
+          "Kwic": "一聲鳴嚗嚗，已是重重添註脚。梁王何事不回頭？誌公將錯還就錯。唐肅宗帝問忠國師：和尚百年後所須何物？師云：檀越與貧道造箇無縫塔。帝云：請師塔樣。師良久，云：會麼？帝云：不會。師云：貧道有付法弟子耽源却諳此事，請詔問之。師遷化後，帝詔耽源問：此意如何？源對云：湘之南，潭之北，中有黃金充一國，無影樹下合同船，琉璃殿上無知識。雪竇顯拈云：肅宗不會且致，耽源還會麼？祇消箇請師塔樣。盡西天此土諸位祖師，遭這一拶，不免將南作北，有傍不肯底出來。我要問你，那箇是無縫塔？神鼎諲云：前來國師若此作用，不能明了，次問耽源，又恁麼頌。且道盡善未盡善？雖然方便，須體解始得。會麼？神鼎為你諸人下四轉語：湘之南，潭之北，君臣有路。中有黃",
+          "MasterName": "Danyuan Yingzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyang Huizhong",
+              "Roles": [
+                "person-discussed",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Danyuan Yingzhen owns the retained deployment, the seamless-tower verse: atop the lapis-lazuli hall, no knowing."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0753a21",
+          "ToLb": "0753b04",
+          "Kwic": "山僧拂子頭上大小相容，淨穢交泰，重重無礙。會麼？如此會得，十世古今始終不離於當念。如此不會，無邊剎海自他不隔於毫端。今日是仕望陳居士為令先君十周年，特自入山齋僧，請山僧陞座敷揚般若。以此功德，惟冀見彌陀於極樂，授記莂於蓮臺。」又豎拂云：「如此會得，君臣道合父子一如。其或未會，山僧更與通個消息。」良久云：「琉璃殿上青苔冷，翡翠簾前玉枕寒。」有僧問：「檀越設齋，請師說法。即今陳處士在甚麼處安身？」師云：「歸家樂業。」又僧問：「一念普觀無量劫，無去無來亦無住。為甚麼目前有生有死？」師云：「空花鏡裏觀。」僧打圓相云：「恁麼恁麼聻？」師云：「親見彌陀，親蒙授記。」僧拜，師下座。解制上堂。「百日道場功德聚，三身圓現十方尊。提",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: atop the lapis-lazuli hall the green moss is cold, before the kingfisher curtain the jade pillow is chill."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0041c16",
+          "ToLb": "0042a01",
+          "Kwic": "菴，見僧臥，泉亦至僧邊臥，僧便起去。師云：「可惜這僧泯然無聞當時風儀，令人可愛。南泉過後思君子，見之晚矣。彼時下山來，何不掘箇坑，將這僧埋卻，豈不據款一結？或云：『老漢聻？』老僧與一頓棒，趁出山門。」萬松示眾云：「踢翻滄海，大地塵飛；喝散白雲，虛空粉碎。嚴從立令，猶是半提。大用現前，如何施設？」師云：「琉璃殿上無知識。」南泉示眾云：「喚作如如，早是變了也，如今師僧須向異類中行。」歸宗云：「雖行畜生行，不是畜生報。」泉云：「孟八郎漢又與麼去也。」師云：「似地擎山，不知山之孤峻；如石含玉，不知玉之無瑕。大通智勝遷座而成正覺；善財童子別峰而見德雲。」僧云：「智不到處，切忌道著，道著即頭角生卻。為甚麼作這般語話？」乃",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: the great functioning present, how install it? — atop the lapis-lazuli hall, no knowing."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0569b13",
+          "ToLb": "0569b26",
+          "Kwic": "月不獲尋之以年，愈不見而愈加精進、益不聞而益加猛利，以至神疲力倦、廢寢忘餐，累年積月，正於沒下手處無奈何時，驀然撞著元來在者裏，則從前馳求之心不待歇而自歇、過河之筏不待棄而自棄，方知大悟不由人、到岸不須舟者，豈欺我哉？雖然，青龍要問你諸人：既已到岸，因甚卻在平地上喫交？」拈拄杖，一齊打散。佛成道，上堂。「琉璃殿上，寶鏡含八表之輝煌；瑪瑙階前，珠簾捲一天之星斗。時時翠影侵人目，夜夜清光照客顏。此時此際，若道一齊悟去，未免落他釋迦老子底圈繢。更云：總不恁麼。拄杖亦未肯放過在。到者裏，必須苦其心志、勞其筋骨、餓其體膚、空乏其身，直待一旦豁然，方堪相應。正與麼時，要脫他釋迦老子圈繢則易，要拄杖放過則難。且道：拄杖有甚長處？",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: the mirror holds the eight quarters' radiance — and say they all woke at once, you fall into old Shakya's noose."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0351a09",
+          "ToLb": "0351a21",
+          "Kwic": "是第三玄？」師云：「善買何須用半錢？」進云：「如何是第一要？」師云：「還記得三玄句子麼？」進云：「和尚答過了也。」師云：「是何意旨？」僧擬議，師打，云：「三玄、三要是甚閒家具？」問：「熏風鳴殿角，法雨已均滋，向上全提句，祈師決眾疑。」師云：「瑪瑙盤中珠宛轉。」進云：「恁麼則山河及大地，全露法王身也。」師云：「琉璃殿上月徘徊。」僧禮拜，師乃云：「浩浩塵中先須辦主，識得真主始可報不報之恩、行難行之事，非特枯業海、蕩罪山，且將八萬四千煩惱海翻為諸佛清淨慧海、八萬四千塵勞門轉為諸佛大解脫門。所以道：塵勞之儔為如來種。然雖如是，銅沙鑼裏滿盛油即不問你，芥子吸乾滄海水時如何？」豎如意，云：「六榕寶塔高峨峨。」天童先和尚諱日，靖藩",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "respondent",
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: the pearl turns in the agate dish — atop the lapis-lazuli hall the moon lingers."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0538b07",
+          "ToLb": "0538b20",
+          "Kwic": "」乃云：「江月照，松風吹，永夜清霄何所為？釋迦示寂，露雙趺于擴外，到底婆心未歇；臨濟垂死，滅正眼于驢邊，至今毒氣猶存。丈夫氣概合如斯，吾師但唱雪花飛，渾身骨肉冷如銕，不遇知音不解頤。」以兩手呈書，顧眾云：「祗這箇便是知音，一切成現，不用周由者也。孰效代宗索樣，國師胡亂指呈，帶累後代兒孫湘南潭北描畫難成，至令琉璃殿上果無知識。汝等要見無縫塔麼？」良久，云：「佛祖於中藏不得，天人萬古共瞻依。」師在塔頭，同野潛、居寧、運機三大師圍爐，行者以手過茶，遂戲之曰：「箇是一夥不上臺盤的漢。」因而為題，各各衝口說法。師云：「阿哥不上臺盤，諸弟何由見客？大丈夫豈肯畏刀避箭？一齊推向堂前，播弄一場家醜。」舉盞云：「箇盃茶幾人吞吐得下？",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment: copying the emperor's begging a design leaves, indeed, no knowing atop the lapis-lazuli hall — buddhas and patriarchs cannot hide within it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X78/X78n1554.xml",
+        "T/T48/T48n2001.xml",
+        "X/X67/X67n1299.xml",
+        "J/J26/J26nB188.xml",
+        "J/J27/J27nB189.xml",
+        "J/J37/J37nB392.xml",
+        "J/J28/J28nB208.xml",
+        "J/J37/J37nB390.xml"
+      ],
+      "RelatedMasters": [
+        "Yunju Daoying",
+        "Hongzhi Zhengjue",
+        "Danyuan Yingzhen",
+        "Nanyang Huizhong",
+        "Xuedou Chongxian",
+        "Ruibai Mingxue",
+        "Sanyi Mingyu",
+        "Hansong Zhicao",
+        "Guxue Zhenzhe",
+        "Chulin Shangrui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Atop the lapis-lazuli hall — the shining height where walking shatters, where moss grows cold, and where, in the seamless-tower verse, there is no knowing. Yunju Daoying answers the brocade-clothed monk: wait till he walks atop the lapis-lazuli hall — even thrown down, he must shatter; Hongzhi Zhengjue tells the assembly the old saying — atop the lapis-lazuli hall the jade maiden throws her shuttle, before the bright-moon hall the stone man claps his hands — how do you walk so as to accord?; Hansong Zhicao, on the anniversary of the way's completion, opens the scene: atop the lapis-lazuli hall the precious mirror holds the radiance of the eight quarters, before the agate stairs the beaded curtain rolls up a sky of stars — say they all woke at once, and you fall into old Shakya's noose; Guxue Zhenzhe answers the upward-lift question with the pearl turning in the agate dish, and to the follow-up — mountains, rivers, and the great earth all baring the king's body — atop the lapis-lazuli hall the moon lingers; and Ruibai Mingxue, at the ten-year memorial for the layman's father, holds the fly-whisk, falls silent, then gives one couplet: atop the lapis-lazuli hall the green moss is cold, before the kingfisher curtain the jade pillow is chill. Danyuan Yingzhen, asked by the emperor for the meaning of the national teacher's seamless tower, answers in verse: south of the river, north of the pool, gold between them fills a nation; under the shadowless tree we share one boat — atop the lapis-lazuli hall, no knowing — and Xuedou Chongxian pinch-hits the emperor's not-understanding: does Danyuan understand? Just that one 'please show the tower's design' — all the patriarchs of India and China, squeezed thus, take south for north; Sanyi Mingyu, appraising the raised assembly words — kick over the seas, the great earth flies with dust; the great functioning present, how install it? — answers in four graphs: atop the lapis-lazuli hall, no knowing; and Chulin Shangrui, presenting the tower-gold for his late teacher, asks who would copy Emperor Daizong begging a design, the national teacher pointing at random, burdening later descendants who cannot paint Xiang-nan and Tan-bei — leaving, indeed, no knowing atop the lapis-lazuli hall — do you want to see the seamless tower? A long silence: buddhas and patriarchs cannot hide within it; gods and humans revere it for ten thousand ages."
+    }
+  ]
+}

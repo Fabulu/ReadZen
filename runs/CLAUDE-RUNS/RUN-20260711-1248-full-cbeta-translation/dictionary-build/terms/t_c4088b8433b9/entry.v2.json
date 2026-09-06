@@ -1,0 +1,187 @@
+{
+  "Id": "t_c4088b8433b9",
+  "SourceTerm": "從空放下",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:42:28Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "letting it down out of the empty",
+      "AlternateTargets": [
+        "the downward stroke from open sky"
+      ],
+      "SearchAliases": [
+        "letting down from emptiness",
+        "dropped out of the void",
+        "the empty-handed descent"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 142 hits in 94 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0386a17",
+          "ToLb": "0386b04",
+          "Kwic": "未在，為人門中即得。」舉：「生死涅槃合成一塊。」乃拈起扇子云：「是什麼不是合成一塊，得與麼不靈利？直饒與麼，也是鬼窟裏作活計。」舉：「僧問南泉：『牛頭未見四祖時，為什麼百鳥啣花獻？』泉云：『步步蹋佛階梯。』僧云：『見後為什麼不啣花獻？』泉云：『直饒不來，猶較王老師一線道。』」師云：「南泉秪解步步登高，不解從空放下。」僧云：「如何是步步登高？」師云：「香積世界。」僧云：「如何是從空放下？」師云：「填溝塞壑。」有時云：「若問佛法兩字，東西南北，七縱八橫，朝到西天，暮歸唐土。雖然如此，向後不得錯舉。」舉：「祖師偈云：『心隨萬境轉，轉處實能幽。』」僧問：「如何是轉處實能幽？」師云：「吃嘹舌頭，老僧倒走三千里。」又問：「",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the root deployment — Nanquan only knew climbing step by step, and the letting-down answered with ditches filled and ravines stopped."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0420c23",
+          "ToLb": "0421a15",
+          "Kwic": "，到處為祥為瑞。還委悉麼？掬水月在手，弄花香滿衣。太虗寥廓，萬彚森然。正眼洞明，纖毫不立。孤峻處祖師莫近，坦夷處人天共知。擊開大解脫門，識取無面目漢。且作麼生是無面目底漢？芍藥花開菩薩臉，椶櫚葉散夜叉頭。一向不恁麼，目視雲漢不徇人情；一向恁麼，灰頭土面帶水拖泥。恁麼中不恁麼，就下平高；不恁麼中却恁麼，從空放下。或有箇恁麼不恁麼總不管，亦無明亦無暗，亦不放亦不收。且道如何？到頭霜夜月，任運落前溪。第一句下薦得，祖佛乞命。第二句下薦得，人天膽落。第三句下薦得，虎口橫身。不是循途守轍，亦非革轍移途。透得則六臂三頭，未透亦人間天上。且道三句外一句作麼生道？生涯只在絲綸上，明月扁舟泛五湖。住道林，開堂云：大道無向背，",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Yuanwu Keqin owns the retained deployment — not-so-within-so, letting down out of the empty — against the one who minds neither, the frost-night moon falling into the stream of itself."
+        },
+        {
+          "RelPath": "X/X69/X69n1358.xml",
+          "FromLb": "0499a22",
+          "ToLb": "0499b11",
+          "Kwic": "若也薦得，不用重說偈言；其或未然，切須分明聽取。師陞座，拈香云：此一瓣香，恭為今上皇帝祝延聖躬萬歲萬萬歲。次拈香云：此一瓣香，奉為知府．朝議．通判大夫．闔郡尊官，伏願福深滄海，壽等椿松。末後拈香云：此一瓣香，大有人疑著，三十年出一叢林，入一寶社，遇賤則貴，遇貴則賤，末後撞著箇無面目老子，向命脉上一劄，不覺從空放下，如今不免對眾拈出，奉為見住潤州金山佛果圜悟禪師大和尚，用報法乳之恩。上首白槌云：法筵龍象眾，當觀第一義。師云：垂鈎四海，祇釣鯨鰲。離鈎三寸，莫有道得底，出來道看。時有僧出問：朝斾證明且為國一句作麼生道？師云：一願皇帝萬歲，二願羣臣千秋。僧云：只如生佛未興時，一著落在什麼處？師云：吾常於此切。僧云：恁麼則",
+          "MasterName": "Huqiu Shaolong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huqiu Shaolong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1358.xml). Recorded Sayings of Chan Master Huqiu Shaolong. Huqiu Shaolong owns the retained deployment — thirty years cheap and dear, the no-faced old man's life-vein strike, and the letting-down out of the empty held up before all as the milk-debt repaid."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0695a07",
+          "ToLb": "0695b01",
+          "Kwic": "古播人寰。平江路鴈蕩幻住禪菴示眾。慧劒單提日用中。天然元不犯磨礱。神號鬼哭喪魂膽。遍野橫屍不露鋒。古人與麼說話。已是自傷己命了也。殊不知我王庫內無如是刀。嗟夫叅學之士。不知此心空寂本來清淨於一切法元無取捨。只貴󷘓身一擲抹過太虛。脫體無依隨處自在。更說甚麼生死涅槃真如煩惱。猶如昨夢。何有於我哉。到這裏却不妨從空放下。更就他尊宿痛鉗鎚下。煆鍊一回。等閑伸出三頭六臂。將從上差別因緣聱訛公案。縛作一束拋在他方世界之外。便乃索空雙手。向閙市門頭孤峯頂上。現神通十八變。使他依門傍戶者斫額有分。所以達磨西來謂之單傳直指。初無委曲。後來法久成弊生出異端。或五位君臣。四種料揀。三關九帶十智同真。各立門庭互相提唱。雖則一期建立。却",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment — here one may indeed let down out of the empty, then be forged under the elders' tongs and stand with both hands empty at market gate and lone peak."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0015b30",
+          "ToLb": "0015c14",
+          "Kwic": "沒；既皆說法，可謂大悲願力示現受生。如是，則剎說、眾生說、十方三世一時說，又烏用山僧播兩片皮、掉三寸舌？何故？遍界盡非嘗草木，何山松柏不青青？」下座。上堂。「雨下地濕，天晴日出，水綠山青，桃紅李白，一一皆呈奇特，只是不得將眼看并口說。為甚如此？風前鐵樹花開，別是一般春色。」下座。上堂。「三世諸佛不知有，從空放下；狸奴白牯卻知有，憑地昇高。從空放下，無眾生可度；憑地昇高，超佛越祖。超佛越祖，眾生度盡；恒沙佛無眾生可度，諸佛何曾度一人？雖然如是，忽若兩頭坐斷，中間撒開，突出難辨一句又作麼生道？披簑側立千峰外，引水澆蔬五老前。」下座。鄭居士誕日，請上堂。「突出難辨，不容擬議，尋思正眼，豁開洞徹，去來無際。所以道：未離",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment — the three-era buddhas not knowing there is, letting down out of the empty, the cat and ox knowing there is, rising past buddha and patriarch."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0720a18",
+          "ToLb": "0720b01",
+          "Kwic": "鑒聽。」示眾。「鐵鋸𨮂秤錘，秤錘痛不禁，走入溈山水牯隊，觸發雲門拄杖子，將山河大地一摑粉碎，驚起杜順和尚慌慌忙忙高聲唱言：『懷州牛喫禾，益州馬腹脹，天下覓醫人，灸豬左膞上。』」乃呵呵大笑，云：「錯下名言。」示眾。「讒言纔入，屈子沉骨于湘潭；雲夢偽遊，淮陰被縛于漢室。可惜二子乃小丈夫，當時只解步步登高，不解從空放下。吾見其愚，未見其智也。功高者必危，名重者必忌。若使當時知腳跟下有一段奇特因緣，富可敵國而敵國不能侵、尊逾侯王而侯王不能奪、智同佛祖而佛祖莫能窺、明如日月而日月不並炤、功折怨魔而怨魔莫能害，居天下之廣居、立天下之正位、行天下之大道，得志與民由之、不得志獨行其道，富貴不能淫、貧賤不能移、威武不能屈，豈不毅然",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment — the Xiang-sinking exile and the Cloud-Dream-bound general ruled climbers only, against the rare bond under the heel that no kingdom can invade."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0023a22",
+          "ToLb": "0023b06",
+          "Kwic": "三拊掌，斷送了一箇俱胝老漢。魯祖無轉身句子，且喜堂頭老漢果與尋常不同。所以雲門有腦後箭，巖頭有末後句，此是古今透不過底重關，從來割不斷底葛藤。」左拂一拂云：「罷！罷！罷！」右拂一拂云：「休！休！休！這總之和尚門庭高峻，何不向侍者邊覓箇入處。」卓拄杖復擿下云：「薦。」小參。豎拂子云：「還委悉麼？自地登空，也須從空放下，以其培風厚，所以波瀾闊。從一毛竅中、繡針眼裏，總不著意流出些珍珠、瑪瑙、珊瑚、琥珀。雖是世寶，他卻也會拈弄些佛事，或放光明，或震世界，或供養諸佛，或成就眾生，或莊嚴佛剎，或廣行萬行，或為寶樓閣雲、寶宮殿雲、寶池、寶樹輪臺基陛。好一箇華藏莊嚴世界海。」豎拂云：「我是善財，善財始自文殊、德雲，以至彌勒、普",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment — rising from ground into empty sky and still needing to let down out of the empty, the bearing wind thick so the waves run wide, and the whole treasury flowing from a needle's eye."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "X/X68/X68n1318.xml",
+        "X/X69/X69n1358.xml",
+        "B/B25/B25n0145.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB187.xml",
+        "J/J27/J27nB189.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Nanquan Puyuan",
+        "Yuanwu Keqin",
+        "Huqiu Shaolong",
+        "Zhongfeng Mingben",
+        "Miyun Yuanwu",
+        "Tian'an Sheng",
+        "Sanyi Mingyu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The downward stroke out of the empty — the counter-move to every step-by-step climb, ruled at the root over Nanquan and turned from the Song incense-seat to the Qing halls. The root sits in Yunmen Wenyan's own room-essence: the monk asks Nanquan — before Ox-head saw the Fourth Patriarch, why did the hundred birds offer flowers? stepping step by step on the buddha-stairway; and after seeing, why no offering? even not coming, still a thread short of this Old Wang — and Yunmen rules: Nanquan only knew climbing step by step, not letting down out of the empty; asked what the climbing is, the incense world; asked what the letting-down is, fill the ditches and stop the ravines; Yuanwu Keqin, at night discourse, works the four turns of the true eye — always-not-so, gazing at the Milky Way and no favoring of feelings; always-so, ash-head and earth-face, hauling water and dragging mud; so-within-not-so, leveling the high downward; not-so-within-so, letting down out of the empty — and the one who minds neither: neither light nor dark, neither releasing nor gathering, the frost-night moon falling of itself into the stream ahead; Huqiu Shaolong, at his incense-seat, spends the stroke on his own awakening — thirty years out of one grove and into another treasure-shrine, cheap made dear and dear made cheap, and at the last knocking into the no-faced old man who struck the life-vein, and letting down out of the empty without meaning to — now he cannot but hold it up before all, one stick of incense for his teacher the buddha-fruit Yuanwu of Jinshan, repaying the milk of the way; and Zhongfeng Mingben, after the wisdom-sword that already cost its own life — the king's treasury holds no such knife — rules that here one may indeed let down out of the empty, then go under the elders' bitter tongs to be forged again: three heads and six arms at ease, the tangled old cases bound in one bundle and flung beyond the other worlds, both hands held out empty at the market gate and the lone peak's top, eighteen transformations for the door-leaners to knock their brows at. Miyun Yuanwu turns the stroke against the buddhas of the three eras — not-knowing-there-is, letting down out of the empty; the cat and the ox knowing-there-is, rising from the ground; let down, no beings to ferry; risen, past buddha and past patriarch — past buddha and patriarch, the beings all ferried; the sand-grit buddhas with no being to ferry, what buddha ever ferried one? — and with both ends cut and the middle flung open, the hard-to-tell one line: straw-cloaked, standing aside past the thousand peaks, drawing water to water the greens before the Five Elders; Tian'an Sheng reads the two doomed heroes with it — slander entered, Qu Yuan sank boned in the Xiang; the Cloud-Dream hunt feigned, the Han founder's general bound: pity the two, small men, who only knew climbing step by step and not letting down out of the empty — their folly, not their wisdom; had they known the rare bond under their own heels, wealth to match a kingdom and no kingdom could invade, honor past marquis and king and none could strip it, wisdom the buddhas and patriarchs cannot spy — dwelling in the world's broad dwelling, standing in the world's right place, walking the world's great way; and Sanyi Mingyu, whisk raised, ties the two motions into one breath — rising from the ground into empty sky, and even so you must let down out of the empty: the wind that bears you thick, therefore the waves run wide — and out of one pore of hair, out of a needle's eye, pearls and agate, coral and amber flow with no minding: a treasury that plays at the buddhas' work, lighting worlds and feeding buddhas, the whole flower-treasury ocean in good order."
+    }
+  ]
+}

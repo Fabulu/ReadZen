@@ -1,0 +1,227 @@
+{
+  "Id": "t_cc755e9058e6",
+  "SourceTerm": "外息諸緣",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:39:31Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "outside, rest all conditions",
+      "AlternateTargets": [
+        "rest every outer condition",
+        "outwardly let all conditions rest"
+      ],
+      "SearchAliases": [
+        "rest the outer conditions",
+        "the outer resting",
+        "the first half of the wall instruction",
+        "the entry-gate instruction"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 85 hits in 53 files representing 53 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0982b07",
+          "ToLb": "0982b23",
+          "Kwic": "通。四方八面。活鱍鱍地。千人萬人。羅籠不住。恁時方有自由自在分。終日在聲色中出沒。聲色不能染污。世出世間。如蓮花不著水。豈不慶快平生。若只管向他人口頭取辨。方策中尋。要契合心田。縱饒參到彌勒下生。也不能得悟。也不能得安樂。何故。蓋起心動念。便被情識欃先為累也。所以二祖參初祖。種種說心說性。祖乃示一偈云。外息諸緣。內心無喘。心如牆壁。可以入道。初無奇異語似之。外息諸緣。內心無喘。且置之勿論。作麼生說箇心如牆壁。可以入道。遮裏疑不破。只在遮裏疑。古者道。大疑之下。必有大悟。誠不誣也。為南上座下火為南上座下火一人發真歸元。十方虛空。𡎺著磕著。便乃以四大為正體。以生死為妙用。以壽齡修短。為游戲之場。以畢盡寂滅為歸根得",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi'an. Mi'an Xianjie owns the retained deployment: set the resting aside — how do you say mind like a wall? Beneath great doubt, a great awakening."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0813b09",
+          "ToLb": "0813b25",
+          "Kwic": "。若作格外商量。又却不是。諸人且作麼生辯明。時中如何受用。適來知縣學士疏中有言。馬師圓相遠緘千里之清規。欽老機鋒點破一時之群惑。群惑既破。則人人脚根下大事洞明。大事既明。則十二時中折旋俯仰彈指謦欬無非佛之妙用。既是佛之妙用。則不從人得。既不從人得。亦不在己躬。既不在己躬。則內不放出外不放入。既外不放入則外息諸緣。內不放出。則內心無喘。既內心無喘外息諸緣。則一切智通無障礙。既無障礙。則一切智智清淨。無二無二分。無別無斷故。正當恁麼時。不是世間法。亦非出世間法。拽取占波國與新羅國鬪額。豈是分外。雖然如是。更有事在。敢問諸人。只如忠國師為甚麼却道。欽師猶被馬師惑。即今莫有定當得出底麼。若定當得出。許爾諸人。盡是出格",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: nothing let in, and every outer condition rests — then all-knowing runs through without obstruction."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0756a05",
+          "ToLb": "0756a19",
+          "Kwic": "底時節。且古人皆是負大根器秉大志願。尚且三十年二十年孜孜不舍寸隂。克究此道以期妙悟。而况今日根器浮濁志願卑微。只箇世間麤重五欲。無時不與之作對。盡形打屏不去。反開口便要向佛祖頭上坐臥欺罔自心輕毀先聖。豈道人之心也哉。故古德教人處最簡徑直捷。謂不學佛法惟務休心。但休得一分心。即是學得一分佛法。達磨大師亦云。外息諸緣內心無喘心如墻壁乃可入道。然達磨秉單傳直指之要。貴在領於機先得於言外。豈可又教人息緣止念如墻壁耶。蓋亦眼不耐見此一等無决定志之士日夜馳求不息。以曲順機宜故。設此方便耳。又有古德。教人十二時中但如一箇大死人相似去。只與麼過十年若不悟去。老僧大妄語成。如上所說。只為學者最初不具决定信心欲洞明生死大事。無端反於",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: the wall was only an expedient bent to the will-less who chase day and night."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0351b21",
+          "ToLb": "0351c11",
+          "Kwic": "究去，一朝知痛癢時，向大愚肋下築三拳，是大丈夫作略，非分外也。若依草附木，東引西證，說心說性者，可請一義學沙門將三經五論細說一遍，禪之一字拋向萬丈深坑過，不可說，不可說，劫後再可談不了之緣，未為晚也。不識大居士於此寧甘心乎？昨承諭入道貴在真實，真實二字誠入道基本也。不識居士於真實處曾入道乎？少林大師云：外息諸緣，內心無喘，心如墻壁，乃可入道。果得心如墻壁，則真實二字不言可喻。若心中揣摩，生諸解路，早是不真實。欲得心如墻壁，安可得乎？果得心如墻壁，正堪入道。若以心如墻壁，便欲住足，祇是箇心如墻壁漢，不堪與語道也。然心如墻壁，不容易到。有一等人將妄心遏捺，令心不起，謂之心如墻壁，大似水上按葫蘆，從少至壯，從壯至老，",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: the wall-fellow is worth no talk of the way — and the pressed gourd comes up anyway."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0043b27",
+          "ToLb": "0043c14",
+          "Kwic": "人方寸中默默理會，看見聞覺知者是阿誰主張，忽地裏覷破，㘞地一聲，原來伸手就在縮手裏。勉之。示去慵上人示去慵上人平山勝概，巴水豐隆，其實地靈人傑也。雖生亂世，始終無患，復啟此山，如龍得水。試問營營終日還識得此忙閒否？示禪源戒子示禪源戒子老僧取號「禪源」者，深有意焉。此禪出自何來？為我鼻祖西來示一大意，外息諸緣，內心無喘，身如墻壁，可以入道。今得吾戒、習吾訓，若依此參，終成大器。示心空禪人示心空禪人既為佛子，當報佛恩，所行佛行。然而佛行者何？只在閒忙動靜處著隻眼，看是甚麼。示真空戒子示真空戒子受戒之後務要堅遠大志，以生死為極，則二六時中看生從何來、死從何去。若會得生之來處，死處亦明，忽然情忘見絕，即是真持戒、",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: the name names the source — work it thus and you will yet make a great vessel."
+        },
+        {
+          "RelPath": "J/J33/J33nB286.xml",
+          "FromLb": "0499b08",
+          "ToLb": "0499b22",
+          "Kwic": "為求透生死一著，特同嗣耀雲乞報薦先親。」乃召云：「汝若向一念不生已前認得面目，只汝多生父母頓超劫外，世、出世間孝道普為圓成。不煩久立。」下座。德普善人設供薦親，請上堂。師云：「句超象外，韻別宮商，高山流水尚乃罕遇知音，撥動獅絃，群機安不塞耳？是以智者超方，愚人錯亂。從上先德闡揚個事，離語言、絕意識，要汝等外息諸緣。外息諸緣則內心無喘，心如墻壁方可入道。」即拈起拂，云：「會麼？會則途中受用；不會則眼底生塵，急宜照顧。驚看時光如箭急，虛生浪死一場悲。爾等過患不在別人誤汝，秪為汝刻刻在六根門頭播弄業識，口說魔話、心行魔事，秪知檢點他人好惡長短，不識自己本命元辰，將來眼光一散，向鐵圍山裏扯拽不開，噬臍何及？且道：這裏還堪",
+          "MasterName": "Yingning Zhijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingning Zhijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing owns the retained deployment: rest the conditions and the heart stops panting — understand, and it serves on the road; fail, and dust rises in the eyes."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0134c01",
+          "ToLb": "0134c13",
+          "Kwic": "！當知世尊舉處卻不許人向舉處會。阿難問迦葉尊者：『世尊傳金襴袈裟外，別傳何物？』者召阿難，難應諾，者云：『倒卻門前剎竿著。』也當知尊者道處卻不許人向道處會。汝若會得，便會得者一句子著落。後來達磨初祖至我東土，向少林九年面壁，汝看他嘴都盧地，不是無語，且道語甚麼？汝若會得，便會得者一句子著落。後與可大師道：『外息諸緣，內心無喘，心如牆壁，乃可入道。』及至可大師云：『我已息諸緣。』祖云：『莫成斷滅去否？』可云：『不成斷滅。』且道既息諸緣，因甚不成斷滅？祇此不成斷滅底，還有許多外緣內心、息與不息底道理麼？豈不勞而無功？饒汝會得，也只是者一句子註腳。青原見六祖道箇：『聖諦亦不為。』既聖諦亦不為，還假到曹溪作麼？南嶽見六祖道箇",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: the conditions rested — why no extinction? Even if you get it, only a footnote to the one phrase."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1999.xml",
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml",
+        "X/X72/X72n1435.xml",
+        "J/J26/J26nB177.xml",
+        "J/J33/J33nB286.xml",
+        "J/J38/J38nB406.xml"
+      ],
+      "RelatedMasters": [
+        "Mi'an Xianjie",
+        "Bodhidharma",
+        "Huike",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Wuyi Yuanlai",
+        "Poshan Haiming",
+        "Yingning Zhijing",
+        "Tianran Hanshi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Outside, rest all conditions — the first half of the First Patriarch's instruction to the Second, the outer cut of the entry-gate that every later master quotes, bends, and refuses to let anyone live in. Mi'an Xianjie, writing to the layman Zhenyin: the Second Patriarch consulted the First — speaking mind, speaking nature, citing texts as proof — and none of it matched the ancestor's intent; the ancestor showed one verse: outside rest all conditions, inside the heart does not pant, mind like a wall — then one may enter the way. There were no strange words in it. Resting and panting, set them aside for now — how do you say mind like a wall, then entering the way? Where this doubt is not broken, right there keep doubting: beneath great doubt there must be a great awakening — the ancients did not lie. And Dahui Zonggao, working the chain in the hall: what is the buddha's working is not gotten from another, not lodged in one's own body — nothing let out inside, nothing let in outside; nothing let in, and every outer condition rests; nothing let out, and the heart within does not pant; both thus, and all-knowing runs through without obstruction, pure without twoness or division. At just such a time it is no world-word and no beyond-world-word — drag the realm of Zhanbo and the realm of Silla to butt heads: is that beyond your share? Zhongfeng Mingben rules the instruction itself: the First Patriarch held the single-transmission direct pointing — its worth is in catching the trigger before it moves, getting it beyond the words. How could he go on to teach resting conditions and stopping thoughts like a wall? It is only that his eyes could not bear this breed without settled will, chasing day and night without rest — bending to their needs, he set up this expedient. Wuyi Yuanlai, answering the censor Shen: the master of Shaolin said it — rest all outer conditions, no panting within, mind like a wall, and so one may enter the way. Truly gain the wall-mind and the two words true and real go without saying; grope in the heart and breed explanations, and it is already untrue — could the wall-mind be gained thus? Gain it, and it is right for entering the way; but take mind-like-a-wall for a resting place and you are only a wall-fellow, not worth talking the way with. Nor does it come easy: the sort who press the errant mind down and keep the heart from rising, calling that mind like a wall, are pressing a gourd under water — from youth to prime, from prime to age. And Poshan Haiming, naming his precept-disciple Chanyuan — the source of the stream — explains the name: this chan, where does it come from? For my first ancestor, coming from the west, showed one great intent — rest all outer conditions, no panting within, body like a wall, and so one may enter the way. Take my precepts, train under my instruction, work it just thus — you will yet make a great vessel. Yingning Zhijing, at the hall for the fallen ancestors: the worthies of old set this matter forth beyond language and past thinking — they want you to rest all outer conditions; rest them, and the heart within does not pant; mind like a wall, and only then may the way be entered. He lifts the whisk: Understand? Understand, and it serves you on the road; fail, and dust rises before the eyes — look to it quickly. Aghast to see time fly like an arrow; a whole life vainly born, vainly dead, one grief. And Tianran Hanshi at the small assembly, on the one phrase: later the First Patriarch told Master Ke — rest all outer conditions, no panting within, mind like a wall, and so one may enter the way. And when Master Ke said: I have rested the conditions — the ancestor: not gone into extinction, then? Ke: no extinction. Tell me: the conditions rested, why no extinction? Does this non-extinguished thing still hold all those arguments of outer condition and inner heart, resting and not resting? Is that not labor without result? Even if you get it, it is only a footnote to this one phrase."
+    }
+  ]
+}

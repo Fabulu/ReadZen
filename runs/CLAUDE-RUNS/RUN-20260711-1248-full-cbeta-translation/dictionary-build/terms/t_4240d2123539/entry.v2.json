@@ -1,0 +1,195 @@
+{
+  "Id": "t_4240d2123539",
+  "SourceTerm": "大地平沉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:29:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great earth sinks away",
+      "AlternateTargets": [
+        "the great ground sinks level"
+      ],
+      "SearchAliases": [
+        "the earth sinks flat away",
+        "the whole earth goes under",
+        "earth sinking away"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 175 hits in 91 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0520a03",
+          "ToLb": "0520a18",
+          "Kwic": "刺狂妄謬亂害人不淺貧人妄號帝王罪不容誅况假冒法王妄行法王之令耶峰後挂撘徑山憶著萬法歸一一歸何處話疑情頓發工夫成片直得東西不辯寢食俱忘從朝至暮從暮至朝澄澄湛湛卓卓巍巍純清絕點一念萬年境寂人忘如癡如兀至第六日隨眾在三墖諷經擡頭忽睹五祖演和尚真讚打破拖死屍句子魂飛膽喪絕後再甦何啻放下百二十斤擔子又云直得虛空粉碎大地平沉物我俱忘如鏡照鏡百丈野狐狗子佛性青州布衫女子出定話從頭密舉驗之無不了了般若妙用自信不誣真叅實悟迺是如斯大眾你看高峰錄中前後自述悟繇甚是分明迺如魔外因自己叅杜撰長老亦曾被問甚麼人拖著你者死屍來又被連牽問道即此問話者又是誰人便錯會道長老要我識得者拖死屍的者問話的瞎做幾日工夫見神見鬼道忽然間似手一提者邊提過那",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Gaofeng Yuanmiao owns the retained root deployment, his own account of the sixth day: void shattered, earth sunk away, self and things forgotten, like a mirror reflecting a mirror."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0246a04",
+          "ToLb": "0246a19",
+          "Kwic": "汝，也解唱巴歌；汝若似石人，雪曲也應和。恁麼商量，惟木上座却較些子。珍重。上堂，僧問：如何是法身理？師云：伸手不見掌。進云：法身向甚麼處安立？師云：暗地始驚人。進云：未審法身是何境界？師云：山河大地。進云：離了法身又且如何？師云：爍破四天下。僧禮拜，師云：是法非法，是心非心，非法即法，非心即心，打翻漆桶，大地平沉。雲門大師甚是奇恠，盞子落地，碟子成七片。又云：扇子𨁝跳上三十三天，築著帝釋鼻孔，東海鯉魚打一棒，雨似盆傾。諸昆仲！博山今日亦如雲門大師，氣宇如王，若渠來相見時，又作麼生定奪？眾無對，師云：拄杖不在，苕帚柄聊與三十。何以故？若不挫其來鋒，將來必成過患。上堂：道非明暗，法離有無。布袋頭邊逴得，看來猶是半途",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, knocking over the lacquer bucket after the law-not-law exchange so the great earth sinks away."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0035c30",
+          "ToLb": "0036a13",
+          "Kwic": "』我云：『恁麼道又爭得？』乃亦豎一指，本師云：『也當不得。』「三十七歲，本師將北往，以院事付管。當晚室中擬舉話問大眾，我即向前云：『和尚恁麼擬舉話，正好劈口大巴掌。』便出。雖然如是，只是恍恍惚惚、昭昭靈靈，也未得個安穩。一日自城歸過銅棺山頂，忽覺情與無情煥然等現，覓纖毫過患不可得，大端說似人不得，正所謂大地平沉底境界。爾時，恍恍惚惚、昭昭靈靈底，要起起不來、欲覓覓不得，不知甚處去了。又自密舉前所見所會古人因緣宛爾不同，亦不自疑道是與不是。「至三十九歲，同覺宇、三藐二師弟到京省覲本師，本師問：『老僧離汝等三年，汝等有新會處麼？』我即出云：『有。』本師云：『有甚麼新會處？』我云：『一人有慶，萬人樂業。』本師云：『汝又",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, his first-person naming of the summit where the sentient and insentient showed evenly and not a flaw could be found."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0620b04",
+          "ToLb": "0620b16",
+          "Kwic": "大行普賢超格外，凝然苦行事如何？」師云：「古井含新月。」進云：「樹凋葉落金風露，衲破衣穿作麼生？」師云：「殘枝帶晚霞。」進云：「髼頭林下為閑客，跣足人閒作野僧。」師云：「再道一句看。」進云：「石人頭上插金花。」師云：「相隨來也。」結制，上堂。拈拄杖，云：「把住六門關，撥開大火聚，聖凡無處逃，佛祖豈能避？直得大地平沉，千差路絕，海水逆流，須彌倒卓，鶻眼龍睛不敢覷著，銅頭鐵額那容近前？正恁麼時，便乃點鐵成金，轉凡為聖，變娑婆為極樂，翻荊棘為栴檀，驢乳、牛乳盡為無上醍醐，有情、無情共證不二真覺，箇箇如獅子兒哮吼一聲，驚天動地，縱饒到此，正好喫棒。」復卓一卓，云：「權威黑帝令尤切，那許東風弄柳狂？」問：「一雨均施，三根普潤，",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, sinking the earth away and cutting the thousand roads, the sea flowing backward and Sumeru standing on its head."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0527a22",
+          "ToLb": "0527b06",
+          "Kwic": "以來信位不足，如何參得我祖師禪？驢年也未有出頭日子在。你若果具這大丈夫氣概，猛省將來，拼此四大，也不管貪窮困苦，也不管饑寒凍餒，也不管病魔纏擾，也不管世諦紛紜，單單提箇話頭，澄澄湛湛、切切思思，行也參、坐也參、住也參、臥也參，不顧得失危亡、不知迷悟境界，只如此挨拶去。歲久月深，驀然打失鼻孔，恰如虛空粉碎、大地平沉，漫漫甦醒，將來方有少分相應。到這田地，急急見人，不可耽著。須知祖師門下，本無有實法繫累他人。若有一法繫累他人，入地獄如箭射。故笑巖師翁云：『聖人之道，箇箇完具。惟不自究明，甘自輕棄。』且道那裏是自輕棄處？須時時簡點，不可放過。珍重珍重。」優婆夷眾請開示，師云：「汝等身居富貴中，不被富貴之所羅籠，信知有",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, telling the trainee the nose is knocked loose just like void shattered and earth sunk away, waking slowly to a first share of accord."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0596c08",
+          "ToLb": "0596c23",
+          "Kwic": "東勝神洲解制，北俱盧洲作舞，須彌頂上撞金鐘，直得三十三天梵王帝釋一個個退位求出身活路，乃至天魔外道知非便捨，與二乘、聲聞、緣覺離涅槃床，及至五十五位菩薩直上階梯造等妙二覺，纔得捨功就位，即轉位旋機，復於向上竿頭更進一步，爭奈須彌山底、金剛際下那一個強遭瘟底躲根漢子不肯放下偷心？若能全心放下，豈不虛空粉碎、大地平沉、橫身劫外、獨步大方也哉？雖然，此猶是指蹤極則，秪如壽昌全提祖令為諸人結制，且道：曾與諸人向何處結聻？令又向何處解聻？解制之後，諸人向何處安身立命？作甚麼活計聻？」乃擊案，云：「一拳拳倒須彌山，一踢踢翻金剛際，不向如來行處行，男兒自有衝天志。」擊案，下座。黃海岸司理請上堂黃海岸司理請上堂師陞座，士拈香云",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, asking who, laying all heart down, would not have void shattered and earth sunk away, the body flung beyond the eon."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0100b30",
+          "ToLb": "0100c13",
+          "Kwic": "隔羅見月，得入維摩不二法門，直得覓他病處不得、生處不得、死處不得，到者裏，說個郡侯安人全體獨露已是不堪，何況更修追悼？雖然，公于唯識宗旨，生死以之、夢寐以之，已知山河大地、明暗色空都是識體。山僧有一問：既知都是識體，為甚麼道生滅與不生滅和合，非一、非異，名阿賴耶識？能于百尺竿頭更進此步，則虛空粉碎何須顧，大地平沉不用疑。珍重。」德藏寺為修殿，請上堂。「大功無功，因真果的；大德不德，形端影直。慣聽沒絃琴，閒吹無孔笛，三十餘年思故鄉，及至故鄉人不識。人不識，打動鄉談俱點額。還知鄉談麼？揭諦揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶。此個鄉談，從威音王佛傳至如今，不論男女僧俗、富貴貧賤俱能傳誦，于中智不能知、識不能識，所",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Recorded Addresses of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment, ruling that a step further up the hundred-foot pole leaves no need to look back at the shattering and no room to doubt the sinking."
+        },
+        {
+          "RelPath": "J/J28/J28nB205.xml",
+          "FromLb": "0226b05",
+          "ToLb": "0226b19",
+          "Kwic": "般人？」便下座。上堂。「情生智隔，念別差殊。所以，動靜乖張，閒忙得失，而不能澄清絕點。是故，道不屬知，知乃眾禍之門；心必由悟，悟乃迷源之本。知本無方，道從何立？」喝一喝，便下座。上堂。豎起拂，云：「山僧拂子頭上放大寶光，演說無量妙義，為汝諸人一音證據了也。」復揮一揮，云：「假爾再運神通，鼓陣卒風暴雨，一時大地平沉，虛空粉碎。正恁麼時，作麼生迴避得去？看看，各自眉毛還在眼上麼？」良久云：「不是久經風浪者，難將大海作家鄉。」卓拄杖，下座。觀察黃公百日之辰，孝子復仲請對靈陞座。僧問：「向上全提，當陽剖露，即今薦親一句請師酬唱。」師云：「大眾證明。」進云：「恁麼則覿體迥超生死外，人間天上任逍遙。」師云：「且道黃老居士在什",
+          "MasterName": "Jieweizhou Xingzhou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieweizhou Xingzhou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. Jieweizhou Xingzhou owns the retained deployment, summoning storm and rain till at one stroke the earth sinks away and the void shatters, with no dodging it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "B/B27/B27n0152.xml",
+        "X/X72/X72n1435.xml",
+        "J/J10/J10nA158.xml",
+        "J/J36/J36nB359.xml",
+        "J/J25/J25nB171.xml",
+        "J/J34/J34nB311.xml",
+        "J/J27/J27nB190.xml",
+        "J/J28/J28nB205.xml"
+      ],
+      "RelatedMasters": [
+        "Gaofeng Yuanmiao",
+        "Yulin Tongxiu",
+        "Wuyi Yuanlai",
+        "Miyun Yuanwu",
+        "Baiyu Jingsi",
+        "Tianyin Yuanxiu",
+        "Juelang Daosheng",
+        "Shiyu Mingfang",
+        "Jieweizhou Xingzhou"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A collapse formula naming the great earth sinking away at the breakthrough point, the standing lower half of the paired formula that shatters the sky. Gaofeng Yuanmiao's own self-account, recited by Yulin Tongxiu for the assembly, runs from the sixth day's loss of sleep and food to void shattered, earth sunk away, self and things both forgotten, like a mirror reflecting a mirror; Miyun Yuanwu's first-person record names the Copper-Coffin summit, where the sentient and insentient showed up evenly and not a flaw could be found, precisely the realm of the earth sunk away; and Tianyin Yuanxiu tells the trainee to hold one topic through walking, sitting, and lying until the nose is knocked loose, just like void shattered and earth sunk away, waking slowly to a first share of accord. Wuyi Yuanlai answers the questioning monk with law not law, mind not mind — knock over the lacquer bucket and the great earth sinks away; Baiyu Jingsi, taking up the staff at the season's binding, sinks the earth away and cuts off the thousand roads, the sea flows backward, Mount Sumeru stands on its head; Juelang Daosheng asks who, laying all heart down, would not have void shattered and earth sunk away, the body flung beyond the eon; Shiyu Mingfang tells the mourning household that a step further up the hundred-foot pole leaves no need to look back at the shattering and no room to doubt the sinking; and Jieweizhou Xingzhou, whisk raised, summons storm and rain till at one stroke the earth sinks away and the void shatters, asking how anyone could dodge it."
+    }
+  ]
+}

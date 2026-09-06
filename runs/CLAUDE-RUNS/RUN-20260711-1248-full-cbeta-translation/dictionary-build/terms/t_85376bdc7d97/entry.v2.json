@@ -1,0 +1,215 @@
+{
+  "Id": "t_85376bdc7d97",
+  "SourceTerm": "不墮諸數",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:22:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "falls into no enumeration",
+      "AlternateTargets": [
+        "does not fall among the counted things",
+        "falling outside the categories"
+      ],
+      "SearchAliases": [
+        "beyond enumeration",
+        "the uncounted",
+        "outside the countings"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 135 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0625c21",
+          "ToLb": "0626a15",
+          "Kwic": "刀於釋氏如云菩薩行五無間而不入無間地獄他是圓通無間不同眾生五逆無間從波旬直至佛盡是垢膩都無纖毫依執如是名二乘道况乎諍論覓勝負說我能我觧秖名諍論僧不名無為僧秖如今但不貪染一切有無諸法是名無生是名正信信著一切法名信不具亦名信不圓亦名偏信不具故名一闡提如今欲得驀直悟觧但人法俱冺人法俱絕人法俱空透三句外是名不墮諸數人者是信法者是戒施聞慧等菩薩忍不成佛忍不作眾生忍不持戒忍不破戒故云不持不犯智濁照清慧清識濁在佛名照慧在菩薩名智在二乘及眾生𨓉則名識亦名煩惱在佛名果中說因在眾生名囙中說果在佛名轉法輪在眾生名法輪轉在菩薩名瓔珞莊嚴具在眾生名五陰叢林在佛名本地無明是無明明故云無明為道體不同眾生暗敵無明彼是所此是能彼是所聞此",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Huangbo Xiyun owns the root deployment: erase self and things together, empty them together, get through beyond the three sentences — that is called not falling into the enumerations."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0010b20",
+          "ToLb": "0010b26",
+          "Kwic": "草偃。水到渠成。上堂云。好諸禪德。念盡智明。玉壺引步。神虛鑑遠。寶鏡含輝。應萬化而無當。不墮諸數。湛一真而獨照。不外餘塵。且作麼生。行履得恁麼相應去。良久云。翡翠踏翻荷葉雨。鷺鷥衝破竹林煙。上堂舉僧問洞山。四山相逼時如何。山",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained image-chain: the jewel mirror holds its glow, answering the ten-thousand transformations with no lodging, not falling into the enumerations."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1046b25",
+          "ToLb": "1046c03",
+          "Kwic": "道吾舌頭。亦免夾山打落水中。會麼。卓主丈。泉聲中夜後。山色夕陽時。佛涅槃上堂。法身無為。不墮諸數。為什麼却有生滅。恁麼會得。許爾每日開單展鉢。親見釋迦老子。其或未然。點鐵化成金玉易。勸人除却是非難。上堂舉。梁山因園頭僧問。家賊難",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained turn: the truth-body is unconditioned and falls into no enumeration — why then is there birth and perishing? Meet it so and I grant you see Śākyamuni himself at each spreading of the bowl."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0715a13",
+          "ToLb": "0715a19",
+          "Kwic": "然，暫時不在便不堪也。三佛一日相謂曰：老和尚祗是乾𪹼𪹼地，往往說心說性不得，因請益佛身無為，不墮諸數。師曰：譬如清淨摩尼寶珠，映於五色，五色是數，摩尼是佛身。圓悟謂二老曰：他大段會說，我輩說時，費多少工夫，他祗一兩句便了，分明是箇老",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Wuzu Fayan owns the retained pearl: like a pure mani pearl mirrored in the five colors — the five colors are the enumerations, the pearl is the Buddha-body."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0603c01",
+          "ToLb": "0603c15",
+          "Kwic": "夫！時人見此一株花，如夢相似。你畢竟如何會？天寧不惜眉毛，為你諸人下箇註脚：平蕪盡處是青山，行人更在青山外。舉鵝湖問諸碩德：行住坐臥畢竟以何為道？對云：知者是。湖云：不可以智知，不可以識識，何謂知者是？有對云：無分別是。湖云：善能分別諸法相，於第一義而不動，安得無分別？有對云：四禪八定是。湖云：佛身無為，不墮諸數，安得四禪八定是耶？舉眾杜口，妙喜云：相罵饒你接觜，相唾饒你潑水。師云：僧投寺裡宿，賊打不防家。舉：百靈一日路次見龐居士，乃問：昔日南嶽得力句曾舉向人麼？士云：曾舉來。靈云：舉向甚人？士以手自指云：龐公。靈云：真是妙德空生也。贊之不及。士却問靈：得力句是誰得知？靈便戴笠子而去。士云：善為道路。靈一去，更不",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Ehu Dayi",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained raising: Ehu's absorption answer — the Buddha-body is unconditioned, falls into no enumeration — silenced the assembly; Dahui let the splash pass; the master: the monk lodges in the monastery, the thief robs the unguarded house."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0704a06",
+          "ToLb": "0704a20",
+          "Kwic": "而量之之謂虛空。總不出見分。皆生死也。當知此心未即了悟。使其立地成佛。要且亦在生死網中。原夫生死之大。欺凡壓聖籠古罩今。未有一法不遭其淪溺者。以故目之曰大事因緣。有等闡提漢聞說箇生死。乃掉頭不顧。遽引經書文字中相似語言。謂法性清淨猶若虛空。世界壞時此性不壞。圓滿湛寂逈絕動搖。聲色全真見聞不昧。所謂佛身無為不墮諸數。何處更覔生死去來之跡。有問生從何處來。便道水流元在海。死向何處去。遽謂月落不離天。似此等見解。喚作喫鐵棒陷鐵圍之張本。儞若不曾向真實法中脫然超悟。更於悟外別立生涯。不存窠臼豈堪於生死岸畔立得脚牢。苟或纖毫不盡。未免復為勝妙境緣惑在那邊起諸異想。雖曰曉了其實未然。古所謂努力今生須了却。莫教永刦受餘殃。又云",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained counterexample: those who cite the unconditioned body to deny birth-and-death's traces are preparing their own iron rod and iron ring."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0031c04",
+          "ToLb": "0031c17",
+          "Kwic": "：「劈面當鋒即不問，如何是臨機一句？」師便打。問：「如何是學人自己？」師云：「我不識你。」師過松陵，熊明府設齋，問：「弟子隨逐世緣，不得參究，此事若何？」師云：「甚處去也？」云：「向日用應酬中去了。」師云：「將甚麼應？」熊佇思良久，云：「畢竟如何得力？」師打一掌，云：「不得向者裡放過。」問：「如何是佛身無為不墮諸數？」師云：「合取狗口。」問：「堂中止了靜，堂外又敲門時如何？」師云：「三門頭是甚麼人過？」僧擬議，師云：「門外漢。」問：「古人睹明星悟道，今人睹明星為甚麼不悟道？」師云：「你眼睛瞎麼？」問：「動轉是風，分別是識，如何是學人安身立命處？」師云：「看腳下。」問：「疑情頓發，因甚命根不斷？」師云：「只為你疑情，",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained cut: asked what is the unconditioned Buddha-body that falls into no enumeration — shut your dog's mouth."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0189b19",
+          "ToLb": "0189c02",
+          "Kwic": "十甲子數將來，未出母胎度人畢。」師召眾云：「大眾還會麼？若也會得，佛殿咬住山門脊；若也不會，山門咬住佛殿脊。會與不會即且置，秪如者僧問山僧壽量，山僧答伊今年四十，謂復是佛法聻？謂復是世法？」卓拄杖云：「還委悉麼？揭諦揭諦僧，揭諦摩訶般若波羅蜜。」下座。師誕日，潯中必成無瑕、上生定水菴主請上堂。僧問：「法身不墮諸數，幻身豈能長久？法身向上事，乞師指示。」師云：「脫下破襤衫，不著清淨襖。」乃云：「脫下破襤衫，不著清淨襖。法身不墮諸數，幻身豈能長久？向上向下一齊拈，到處逢人誇好手，南北東西任意遊，牯牛食盡溪頭草。」喝一喝。必成問：「自古至今原不二，不生不滅事如何？」師云：「領取話頭。」成便禮拜。云：「法王座上獅子吼，點",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained birthday turn: the truth-body falls into no enumeration — can the illusory body last? Take off the tattered shirt, don't wear the clean robe; up and down together seized, the ox grazes off the grass at the stream's head."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n2000.xml",
+        "X/X68/X68n1319.xml",
+        "X/X71/X71n1420.xml",
+        "B/B25/B25n0145.xml",
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Hongzhi Zhengjue",
+        "Xutang Zhiyu",
+        "Wuzu Fayan",
+        "Yuanwu Keqin",
+        "Chushi Fanqi",
+        "Ehu Dayi",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Miyun Yuanwu",
+        "Daxiu Zhu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Falls into no enumeration: the stock line the halls both cite and crack — the uncounted body against the counted colors, from Huangbo's three sentences to Zhongfeng's iron-rod warning. Huangbo Xiyun, in the discourse the anthology carries in his section, works the faith ladder down to the icchantika and then turns it: wanting the headlong awakening — erase self and things together, extinguish them together, empty them together, and get through beyond the three sentences — that is called not falling into the enumerations; the person is the faith; the teaching, the precepts, giving, hearing, wisdom; the bodhisattva patience that does not become buddha, does not become sentient being, does not hold or break the precepts — hence not holding and not breaking; Wuzu Fayan, asked by the three Buddhas — who had said the old man is just dry thatch and cannot be drawn to speak mind or nature — answers the request for instruction on the unconditioned body that falls into no enumeration with a pearl: like a pure mani jewel mirrored in the five colors — the five colors are the enumerations, the pearl is the Buddha-body; and Yuanwu Keqin told the two elders: he can really talk — when we speak it costs us so much effort, he finishes it in a line or two; plainly a great old tiger; Hongzhi Zhengjue, in the hall of his Nengren entry: good, worthies — thoughts exhausted, wisdom bright; the jade jug leads the step; the spirit empty, the gaze far; the jewel mirror holds its glow — answering the ten-thousand transformations with no lodging, not falling into the enumerations, steeped in the one true alone-shining, no dust outside — and how do you walk so as to accord with that? a long pause: the kingfisher treads and overturns the rain on the lotus leaf; the egret bursts the mist of the bamboo grove; Xutang Zhiyu opens nirvana day with the crack itself: the truth-body is unconditioned and falls into no enumeration — why then are there birth and perishing? meet it so, and I grant you see Śākyamuni himself each day as you open your mat and spread your bowl; fail, and — turning iron into gold is easy; persuading a man out of right and wrong is hard. Chushi Fanqi, in his case-raising, hands down Ehu Dayi at the capital: asked by the emperor what the way is, he turned it on the assembled doctors — walking, standing, sitting, lying, what after all is the way? — the one who knows, they said; but it cannot be known by wisdom or known by consciousness; the undiscriminating, they said; but well able to discriminate the marks of things while unmoved on the first meaning, how is that undiscriminating? the four absorptions and eight concentrations, they said; the Buddha-body is unconditioned, falls into no enumeration — how could the four absorptions and eight concentrations be it? — and the whole assembly fell mute; Dahui Zonggao: in a quarrel we let you keep your mouth; in spitting we let you splash the water; the master adds his own line: the monk lodges in the monastery; the thief robs the unguarded house; Miyun Yuanwu, asked point-blank what is the unconditioned Buddha-body that falls into no enumeration, answers with the door slammed: shut your dog's mouth; Zhongfeng Mingben, in the treatise on the great matter, turns the phrase against its riders: there are icchantika fellows who, hearing birth-and-death named, turn their heads away and drag similar-sounding lines out of the sutra books — the nature of reality pure as space, unbroken when the world breaks; the so-called unconditioned Buddha-body, not falling into the enumerations — so where would you look for the traces of birth-and-death's coming and going? asked where birth comes from, they say the flowing water was always in the sea; where death goes, the moon sets but never leaves the sky; such views are the setup for biting the iron rod and sinking into the iron ring — if you have not broken free into the true teaching, you cannot stand firm on the bank of birth-and-death; Daxiu Zhu, on his birthday, takes the question — the truth-body falls into no enumeration; can the illusory body last long? the truth-body's upward matter, please show it — and answers: take off the tattered shirt, don't put on the clean robe; then sings it through himself: up and down seized together, everywhere praised as a good hand — roaming free north, south, east, west, the gelded ox grazes off the grass at the stream's head."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "Id": "t_3f34687063de",
+  "SourceTerm": "不離家舍",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:54:29Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "never leaving home while on the road",
+      "AlternateTargets": [
+        "on the way, not apart from home"
+      ],
+      "SearchAliases": [
+        "the road-and-home non-departure",
+        "traveling yet staying home",
+        "the founder's road-home pair",
+        "home never left though on the road"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 150 hits in 93 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0083a03",
+          "ToLb": "0083a17",
+          "Kwic": "絕，日輪正當午，自在如獅子，不與物依怙。師云：大小歸宗，脚跟不點地。冬至，上堂。󳫴運推移，日南長至，上下四維，慶無不利。且道中間事作麼生？擲下拄杖，云：如是，如是。上堂：雪雪，明明漏泄。枯木開花，虗空迸裂。無位真人徹骨寒，燈籠露柱眉毛結。忽然晴，沒可說，齊賀豐年好時節。上堂，舉：臨濟道：有一人論劫在途中，不離家舍；有一人離家舍，不在途中。那箇合受人天供養？師云：眼觀東南，意在西北。歲旦，上堂。元正改旦，事事成現。有時放行，有時坐斷。不惜兩莖眉，和坐盤掇轉。佛法世法，都盧一片。既是佛法世法，如何得成一片？但辨肯心，必不相賺。上堂，舉：梁山云：南來者與三十棒，北來者與三十棒。雖然如是，不當宗乘。後來瑯瑘云：梁山好一片",
+          "MasterName": "Songyuan Chongyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Songyuan Chongyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. Songyuan Chongyue owns the retained answer: one on the road for whole aeons never leaving home, one left home not on the road — which of the two deserves the gods' and men's offering? Eyes on the southeast, mind on the northwest."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0634a09",
+          "ToLb": "0634a23",
+          "Kwic": "。」至湖州永豐菴，請上堂。「江城二月柳煙新，幽鳥枝頭笑語頻，好箇圓通門大啟，知音不必更叮嚀。到者裏，不許思量，那容計較？若是頂門眼開、腳下線斷，自然翻身北斗、轉步南辰，眉毛掛劍、銀漢乘槎，處處興無緣之慈、時時作不請之友，奇特中現大奇特、殊勝裏為大殊勝，直教佛祖無處摸索，凡情豈能測度？雖然，更有一人常在途中不離家舍，不離家舍常在途中，且道誰是其人？」顧左右，喝一喝，下座。至晟溪利濟寺，請上堂。「大道懸曠，體絕修證。性海湛寂，不立纖塵。那畔承當，守株待兔。言前領荷，緣木求魚。直須掀翻鳥道，迥絕階梯。截斷要津，不通凡聖。正謂別人行處我不行，別人住處我不住。到與麼田地，一任奪猛虎食，抉驪龍珠。黑暗獄中，敲枷打鎖。餓鬼隊裏",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained raising — one more: always on the road, never leaving home; never leaving home, always on the road — and who is that one? A glance right and left, one shout, down from the seat."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0208c02",
+          "ToLb": "0208c16",
+          "Kwic": "上𨁝跳，拍手呵呵大咲，人人鼻孔遼天，只為目前不了。卓主丈一下。上堂：好大眾，薰風自南來，殿閣生微凉。老妙喜向者裏𡎺著磕著，豈為分外？白雲道：薰風自南來，殿閣生微凉。短者自短，長者自長，本無迷悟，豈涉思量？無限扁舟何處去？夜深元不在瀟湘。為蹔到生侍者秉炬云：生如著衫，死如脫袴，侍者參得禪，何曾有分付？在途路不離家舍，在家舍不離途路，火熱風動搖，水濕地堅固。上堂，僧問：不著佛求，不著法求，不著僧求時如何？師云：除却面前𡏖𡒁著。進云：恁麼則西天此土任性優游去也。師云：還我草鞋錢來。僧禮拜，師乃云：三日前，五日後，若不揮劒，漁父棲巢。與麼說話，大似擔水河頭賣，光非照境，境亦非存，光境俱亡，復是何物？大慧和尚云：千年常住",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained pyre verse — living is putting on the shirt, dying taking off the trousers: on the road not leaving home, at home not leaving the road; fire hot and wind stirring, water wet and earth firm."
+        },
+        {
+          "RelPath": "J/J35/J35nB336.xml",
+          "FromLb": "0674b15",
+          "ToLb": "0674b29",
+          "Kwic": "傍觀并撫掌，卷舒一線未容覷。」問云：「雲從龍，風從虎，相逢覿面時如何？」師云：「直得五年分疏不下。」進云：「恁麼則霧啟便是龍吟，風生知是虎笑。」師云：「異類豈堪同爪角？藏身誰更羨蹤由？」僧禮拜，云：「紫羅帳裏君臣合，金殿重重顯至尊。」師云：「華封雖頌祝，帝自不知聞。」問云：「臨濟大師云：『有一人常在途中，不離家舍。』如何是不離家舍一句？」師云：「池中撈白月。」進云：「如何是常在家舍，不離途中？」師云：「夢裏度黃河。」進云：「竹影掃階塵不動，月穿潭底水無痕。」師云：「莫把鴛鴦誇巧繡，須知胡蝶正莊周。」問云：「此事如明鏡當臺，妍來妍現、媸來媸現。秪如鏡破臺亡，妍媸不來，又作麼生？」師云：「灼然無諱。」僧一喝，師云：「",
+          "MasterName": "Huigong Kaixiong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huigong Kaixiong",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB336.xml). Recorded Sayings of Chan Master Huigongxiong of Baoxianglin, Nanhai. Huigong Kaixiong owns the retained answers: asked the one sentence of never-leaving-home — scooping the white moon from the pool; asked the staying-home-yet-not-leaving-the-road line — crossing the Yellow River in dream."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0380a24",
+          "ToLb": "0380c05",
+          "Kwic": "恁麼時，如何是據款結案一句？撾鼓陞堂放爾曹，棒頭劈脊與攔腰。他年變化龍門上，記取來時路一條。」下座，以拄杖直打出院。辭院，陞座。「道人行履，如鶴如雲，要住即住，欲行便行。其住也，有松可餐、有澗可飲、有葉可書、有石可坐；其行也，有笠可頂、有雲可披、有山可觀、有水可翫。敢問大眾：且道行住相去多少？倘若會得便會，不離家舍，常在途中；常在途中，不離家舍。苟或未能，兩隻草鞋獰似虎，一枝竹杖活如龍。」以杖橫肩，下座。東山梅溪度禪師語錄卷第一終東山梅溪度禪師語錄卷第二嗣法門人慶緒等編上堂二上堂二康熙壬子二月初一，受威武守禦所美升趙護法暨紳衿眾居士等請，就關聖祠結制上堂。師以杖指",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained doubling: grasp it and you grasp — never leaving home, always on the road; always on the road, never leaving home — fail, and two straw sandals fierce as a tiger, one bamboo staff alive as a dragon."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0348c06",
+          "ToLb": "0348c19",
+          "Kwic": "鏡，真照無方；橋鎖清關，沿流不止。所以，佛佛授手，祖祖相傳，莫不於此丁一、卓二、放兩、拋三，用陷虎機關，弄白拈手腳，提破沙盆，滅正法眼，發棒頭燄，續不盡燈，直得如日普照、如雨普滋，頓使三艸二木發劫前春色，十虛三際露本地風光。不見道：一毫現神變，一切佛同說，經於無量時，不得其邊際。有時現賓，則周遊湖海，要且不離家舍；有時示主，則坐斷乾坤，何妨混跡類中？正當符到令行，不涉化門一句作麼生道？但見皇風成一片，不知何處是封疆？」復舉：「僧問投子：『如何是一大事因緣？』子云：『尹司空請老僧開堂。』佛果拈云：『投子古佛叢林，推其得逸群之令，朴實頭道用，看其等閒拈掇，不妨世法佛法打成一片，惜乎不甚寬廓。有問天寧：「如何是一大事因緣",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained binding: playing guest he roams the lakes and seas, yet never leaves home; showing host he sits cross-legged on heaven and earth — what harm in mixing among the crowd? The imperial wind one whole sheet, nowhere a border."
+        },
+        {
+          "RelPath": "J/J39/J39nB451.xml",
+          "FromLb": "0515b21",
+          "ToLb": "0515c05",
+          "Kwic": "悟自心。所以，李長者閱經悟金剛不壞之體。今我大之耆舊請黔靈陞座，摩頂受記，於一言之下悟見本真，與李長者無二無別。諸昆仲！如何是不別處？」卓拄杖，云：「一毫端上知消息，偏界全身不覆藏。」下座。刻先老人錄入藏，上堂。「虛空世界口，為得巨靈手，日午打三更，面南看北斗。今日為先師未了公案，命彼東下，有一人長在途中不離家舍，有一人不離家舍卻在途中，且道是甚麼人？」悅眾云：「遠則十萬人千，近則不離當處。」師云：「畢竟是甚麼人？」悅眾便喝，師打云：「一人有慶，萬事咸寧。」副臺王公為太夫人薦福，請上堂。「大哉天地理深洪，質秉坤元造化中。曾受誥封齡百歲，母儀閨節有千功。養葬終身心已矣，資冥幾次忌重逢。是日修齋展孝意，仙人脫化率陀",
+          "MasterName": "Chisong Daoling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chisong Daoling",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB451.xml). Recorded Sayings of Chan Master Chisongling. Chisong Daoling owns the retained exchange — one always on the road never leaving home, one never leaving home yet on the road: who is it? — Far, a hundred thousand; near, not apart from right here — a shout, a blow: one man blessed, the ten thousand matters at peace."
+        },
+        {
+          "RelPath": "J/J40/J40nB488.xml",
+          "FromLb": "0306c13",
+          "ToLb": "0306c27",
+          "Kwic": "裏金獅哮。」「如何是第三要？」師云：「眼底聞聲向上竅。」進云：「玄要齊拈無箇事，九天雲淨鶴飛高。」師云：「又恁麼去也。」乃揮拂子，云：「勝地名山，一毫端出，萬派朝宗，鎮海獨步，梵音現相，磐陀趺坐，佛國天然，栴檀馥郁，說法圓通，因緣會遇，四眾臨筵，切忌錯過。」復拂一拂，云：「正當恁麼時，在家舍不離途中。在途中不離家舍一句作麼生？千里特來呈舊面，相逢相見笑呵呵。」擲拂子，下座。退院，上堂。拈拄杖云：「昨日今朝事不同，江心船便好開篷，一雙窮相持竿手，到處垂綸秪釣龍。」曳杖便行。住無錫慈雲禪寺。住無錫慈雲禪寺康熙三十九年庚辰七月十二日，師受邑侯李公護法，闔邑縉紳黎媚鄒公、勗如楊公等公請，暨方丈老人慈命入院。三門。「要津把",
+          "MasterName": "Dounan Wei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dounan Wei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB488.xml). Recorded Sayings of Chan Master Dounan Wei. Dounan Wei owns the retained ask-and-verse: right at this moment at home not leaving the road — the on-the-road never-leaving-home line, how does it go? A thousand li to show an old face; meeting, we laugh — whisk cast down, down from the seat."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X70/X70n1377.xml",
+        "J/J36/J36nB359.xml",
+        "X/X71/X71n1412.xml",
+        "J/J35/J35nB336.xml",
+        "J/J39/J39nB447.xml",
+        "J/J37/J37nB386.xml",
+        "J/J39/J39nB451.xml",
+        "J/J40/J40nB488.xml"
+      ],
+      "RelatedMasters": [
+        "Songyuan Chongyue",
+        "Baiyu Jingsi",
+        "Gulin Qingmao",
+        "Huigong Kaixiong",
+        "Meixi Fudu",
+        "Yuan'an Liao",
+        "Chisong Daoling",
+        "Dounan Wei"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The never-leaving-home of the Chan records: the founder's road pair — answered with eyes southeast and mind northwest, the white moon scooped from the pool and the Yellow River crossed in dream, worn as the road being home, asked who that one is, and bound into guest and host. Songyuan Chongyue raises the founder's pair — one on the road for whole aeons, never leaving home; one has left home, not on the road — which of the two deserves the offering of gods and men? — and answers: eyes on the southeast, mind on the northwest, Baiyu Jingsi at the Yongfeng hermitage hall adds one more: one always on the road, never leaving home; never leaving home, always on the road — and who is that one? a glance right and left, one shout, descending, Gulin Qingmao fires the pyre verse for his short-stayed attendant — living is putting on the shirt, dying taking off the trousers, the attendant's Chan never given over in words: on the road not leaving home, at home not leaving the road; fire hot and wind stirring, water wet and earth firm — and Huigong Kaixiong answers the ask that quotes the founder's line: asked the one sentence of never-leaving-home — scooping the white moon from the pool; asked the staying-home-yet-on-the-road line — crossing the Yellow River in dream. Meixi Fudu at his leave-taking of the hall: the way-man's walking is like a crane, like a cloud — stopping when he will, going when he will; how far apart are walking and staying? Grasp it and you grasp — never leaving home, always on the road; always on the road, never leaving home — fail, and two straw sandals fierce as a tiger, one bamboo staff alive as a dragon, Yuan'an Liao binds guest and host by it: playing guest, he roams the lakes and seas, yet never leaves home; showing host, he sits cross-legged on heaven and earth — what harm in mixing among the crowd? — then asks the word-free one-line, Chisong Daoling at the carving of his late teacher's record into the canon — one always on the road never leaving home, one never leaving home yet on the road: who is it? — hears the ritual officer answer: far, a hundred thousand; near, not apart from right here — a shout, a blow: one man blessed, the ten thousand matters at peace, and Dounan Wei at the reception: right at this moment, at home not leaving the road — the on-the-road never-leaving-home line, how does it go? A thousand li come specially to show an old face; meeting, we see each other and laugh."
+    }
+  ]
+}

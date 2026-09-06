@@ -1,0 +1,216 @@
+{
+  "Id": "t_051ba669b428",
+  "SourceTerm": "明月堂前",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:09:11Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "before the hall of the bright moon",
+      "AlternateTargets": [
+        "at the bright-moon hall",
+        "in front of the moonlit hall"
+      ],
+      "SearchAliases": [
+        "moon hall",
+        "before the moon hall",
+        "the bright moon hall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 169 hits in 93 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0723b16",
+          "ToLb": "0723b21",
+          "Kwic": "而虗照。事理雙明，軆用無滯。玄中之旨，其在斯焉。太陽門下，日日三秋；明月堂前，時時九夏。森羅萬象，古佛家風；碧落青霄，道人活計。靈苗瑞艸，野父愁芸；露地白牛",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "verse-author",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Gāthās and Verses of the Chan Gate's Patriarchs. Dongshan Liangjie owns the root: fact and principle both bright — under the sun's gate day after day autumn; before the hall of the bright moon hour after hour summer."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0273b14",
+          "ToLb": "0273b18",
+          "Kwic": "嗔癡。雖難斷。却是輕。若是無事無為淨潔。此箇重無以加也。所以洞山道。明月堂前時時九夏也。至道不可形容。古人近取諸身。遠取諸物。比興連類以喻至道。報慈贊龍牙半",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong's Commentary and Chanting on Tiantong Jue's Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained root-attribution: the passionless purity is heavier than greed, anger, and delusion — that is why Dongshan said, before the hall of the bright moon, always summer."
+        },
+        {
+          "RelPath": "X/X71/X71n1425.xml",
+          "FromLb": "0766c08",
+          "ToLb": "0766c13",
+          "Kwic": "，獨拔當時。言語不要多，多則無用處。門頭戶尾事千差，了盡猶來未到家。明月堂前無影木，嚴凝雪夜正開花。青林䖍禪師因僧問：學人徑往時如何？師曰：死蛇當大路，勸子",
+          "MasterName": "Danxia Zichun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Zichun",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1425.xml). Recorded Sayings of Chan Master Danxia Zichun. Danxia Zichun owns the retained verse: gate-head and door-edge affairs by the thousand — seen through, and still not home; before the hall of the bright moon the shadowless tree, on the strictest snow-night, precisely in bloom."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0048c26",
+          "ToLb": "0048c29",
+          "Kwic": "。正當十五日。覷破兩頭。直得君臣道合。父子氣和。瑠璃殿上。玉女搖頭。明月堂前。石人撫掌。退一步也。萬仞崖前撒手。進一步也。百尺竿頭轉身。生滅去來。動靜出沒。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: right on the fifteenth day, see through both ends — lord and vassal join, father and son accord — the stone man claps before the hall of the bright moon."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0823a17",
+          "ToLb": "0823b11",
+          "Kwic": "久矣此一則法門若非證入莫曉宗猷若縱心猿終成觧會尋常盡道甚麼處不是盧舍那更不識了再問豈不是過去久矣又道國師自受用三昧再三若問盧舍那自是古佛過去久矣又云如何是本身盧舍那良久處好會取若不委知遂落草向你道與我過淨󰦘來如斯觧會但縱心猿不見國師云得之於心伊蘭作旃檀之樹失之於旨甘露乃蒺蔾之園要知麼大陽門下日日三秋明月堂前時時九夏大眾如何是盧舍那㱕堂喫茶去。上堂昔趙州和尚訪庵主問曰有麼有麼庵主竪起拳頭趙州曰水淺不是泊舩處拂袖而出又訪一庵主問曰有麼有麼庵主竪起拳頭趙州曰能縱能奪能殺能活禮三拜而去師曰庵主一般竪起拳頭趙州何故肯一个不肯一个且道得失在什麼處趙州自起自倒勘破多少阿師庵主坐断要津過了幾多寒暑要識趙州麼拍禪牀右角云",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained close: under the great sun's gate day after day autumn, before the hall of the bright moon hour after hour summer — what after all is Vairocana? Back to the hall, drink your tea."
+        },
+        {
+          "RelPath": "X/X67/X67n1304.xml",
+          "FromLb": "0349b24",
+          "ToLb": "0349c03",
+          "Kwic": "，猶是眼中塵。此雖半路抽身，終未到其家矣。當可從偏入正，兼帶叶通，向明月堂前受用，時時九夏；於太陽門下看承，日日三秋。無影林中，列森森之古木；大庾嶺上，綻馥",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "utterer",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Danxia Zichun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1304.xml). Elder Linquan's Commentary and Chanted Remarks on Chan Master Danxia Zichun's Verses on Ancient Cases: Xutang Collection. Linquan Conglun owns the retained grading: half-road pulling out is still not home — go from the partial into the true, and take your ease before the hall of the bright moon, hour after hour summer."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0376a22",
+          "ToLb": "0376a25",
+          "Kwic": "則普天匝地熱，熱時熱殺闍黎，寒時寒殺闍黎，因甚又道太陽門下日日三秋，明月堂前時時九夏？若向者裏著得隻眼去，直透威音那畔撒手，空劫已前折膠墮指而不寒，爍石流金",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Feng. Yuan'an Liao owns the retained turn: why do they say always-autumn under the sun's gate and always-summer before the moon hall, when cold kills and heat bakes? Put the one eye in — cracked fingers, not cold; melted metal, not hot."
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0788b23",
+          "ToLb": "0788c05",
+          "Kwic": "將軍壽固然，龍門聊以為君宣，本生父母如何睹？問取當年戲馬前。」下座。雲居先老人忌日，上堂。問：「青山靄靄，碧水滔滔，恁麼境界，如何提唱？」師云：「竹舞千峰空劫外，香焚一片玉爐中。」進云：「空劫玉爐承師指，父子相見事如何？」師云：「珊瑚枕上兩行淚，半是思君半恨君。」僧作女人拜，師云：「也是黑地穿針。」乃云：「明月堂前，青山靄靄；空王殿外，碧水滔滔。雖則竹舞千峰，香焚玉炷，未免愁腸暗結，方寸咨嗟。黃花泣秋露，慎終追遠；紅葉墜朝曦，難逢清鑒。諸人還知先師去來麼？本不曾生焉有滅？去來生滅好思量。」遂插香，云：「以此供養。」臘八，圓戒，上堂。問：「和尚踞虎頭，某甲收虎尾，第一句下明宗旨，如何是中間底？」師打，云：「百雜碎。」",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. Faxi Yin owns the retained memorial: before the hall of the bright moon, green hills in gray haze; outside the empty king's hall, rolling water — and do you know the late teacher's coming and going? Never born — how would he end?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1298.xml",
+        "T/T48/T48n2004.xml",
+        "X/X71/X71n1425.xml",
+        "T/T48/T48n2001.xml",
+        "C/C077/C077n1710.xml",
+        "X/X67/X67n1304.xml",
+        "J/J37/J37nB386.xml",
+        "J/J28/J28nB220.xml"
+      ],
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Wansong Xingxiu",
+        "Caoshan Benji",
+        "Danxia Zichun",
+        "Hongzhi Zhengjue",
+        "Foyan Qingyuan",
+        "Linquan Conglun",
+        "Yuan'an Liao",
+        "Faxi Yin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Before the hall of the bright moon: the always-summer inside the coldest frame — the back half of the couplet the Caodong line built its five positions on, from Dongshan's inscription down to the memorial-day haze. Dongshan Liangjie sets the root in the Inscription on the Mystery-Within: fact and principle both bright, essence and function unblocked — the purport of the mystery-within is right here — under the sun's gate, day after day, the deep-month autumn; before the hall of the bright moon, hour after hour, the ninth-month summer; the myriad forms filling the sky, the old buddha's household style, the azure vault above, the wanderer's livelihood; Wansong Xingxiu, in the Record of the Congrong Hermitage, hands down the grading: Caoshan Benji said the world's coarse and heavy greed, anger, and delusion, though hard to cut, are light — it is the no-affair, no-deed purity that is heavy beyond adding — and that is why Dongshan said, before the hall of the bright moon, hour after hour summer; the ultimate way cannot be pictured; the old ones took it near from the body, far from things, pairing and likening to hint at it; Danxia Zichun verses the halfway house: gate-head and door-edge affairs by the thousand — see through them all and you still have not reached home; before the hall of the bright moon the shadowless tree, on the strictest frozen snow-night, precisely in bloom; Hongzhi Zhengjue takes the middle of the month: right on the fifteenth day, see through both ends, and it comes to lord and vassal joined in the way, father and son in accord — on the glazed-tile hall the jade girl tosses her head, before the hall of the bright moon the stone man claps his hands; step back, and it is letting go the hands over the ten-thousand-fathom cliff; step forward, and it is turning the body at the hundred-foot pole's tip. Foyan Qingyuan closes the hall address on Vairocana: want to know it? Under the great sun's gate, day after day, autumn; before the hall of the bright moon, hour after hour, summer — and what after all is Vairocana? — back to the hall, drink your tea — and he steps down; Linquan Conglun grades the half-way monk: this is still only pulling the body out at half road, you have by no means reached home — you must go from the partial into the true with the paired-through carrying, to take your ease before the hall of the bright moon, hour after hour summer, and be waited on under the sun's gate, day after day autumn — in the shadowless grove the ancient trees stand tiered, on Dayu ridge the cold plum splits into fragrance; Yuan'an Liao puts it to the assembly himself: cold — the whole sky wrapped cold; hot — the whole sky wrapped hot; hot it bakes you shaven-heads, cold it kills you — why then do they say under the sun's gate always autumn, before the hall of the bright moon always summer? Put the one eye in there, and you slip loose past the Sound-of-Awe side, back before the empty kalpa — fingers cracked and dropped by freezing, yet not cold; stone and gold glowing melted, yet not hot; Faxi Yin, on his late teacher's memorial day, after the pair of answers on father and son meeting, gives it in haze: before the hall of the bright moon, green hills banked in gray mist; outside the hall of the empty king, blue-green water rolling on — bamboo dancing on a thousand peaks, incense burning in the jade holder, and still the gut secretly knotted, the heart's square inch sighing — the yellow flowers weep the autumn dew in the end-tracking of the far-gone; and do you all know the late teacher's coming and going? Never born — how would he end?"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "Id": "t_29a70d6bb244",
+  "SourceTerm": "毗盧頂上行",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T12:09:47Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "walking on the crown of Vairocana's head",
+      "AlternateTargets": [
+        "treading atop Vairocana's crown"
+      ],
+      "SearchAliases": [
+        "above the all-shining one's crown",
+        "the ten-body sovereign ask",
+        "the Nanyang emperor answer",
+        "no further way to stand upon",
+        "one line recommended before the sound"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 78 hits in 54 files representing 52 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0835c07",
+          "ToLb": "0836a01",
+          "Kwic": "是未在你道如何先師聞了心下不安得七日七夜不成腸肚正中心下乃自思惟曰既悟了說亦說得明亦明得如何却未在忽然中夜方會得從前寶惜一時放下遂白端師翁師翁起來手舞足𮛫某曾侍奉先師聞先師舉此因緣謂某曰叅學須是一時放下方得安樂大眾還見得否放得下好脫洒放不下牛拽杷堪笑諸方老古錐打鼓說禪無尾󰚁無尾󰚁不驚怕不驚怕可嗟訝解踏毗盧頂上行不言亦自傳天下好大哥。上堂舉百丈大智禪師謂眾曰併却咽喉脣吻道將一句來溈山云却請和尚道五峯云和尚也須併却雲嵓云和尚有也未師云此是叢林中流布底事雪竇禪師後來品評此三人語各有淺深却請和尚道虎頭生角出荒草和尚也併却龍蛇陣上看謀略和尚有也未金毛師子不踞地如今眾中或去請益或去過話有人道此三句語未契得百丈喚作抑而",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained verse-close: the old awls of every quarter drumming and talking their Chan — unafraid, and yet to be wondered at: treading the crown of Vairocana's head, unspoken it spreads itself under heaven. The clause keeps its edition's unpunctuated projection verbatim."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0426c06",
+          "ToLb": "0426c22",
+          "Kwic": "西。阿呵呵！知不知？堪笑當年尼總持，少室峯前逢達磨，更無一法可當情。咄！冬至，云：陰消陽復物光華，節令推排豈有差？勿謂枯株無煖氣。拈拄杖，云：且看拄杖子生花，見麼？嗅著即腦裂。卓一下，下座。咄咄，何似生，穿雲俊鶻摩青天。擡眸一顧十萬里，林間鈍羽空忙然。求解會，著言詮，還同日午打三更。爭如一句聲前薦，獨向毗盧頂上行。推真真無有相，窮妄妄無有形。真妄兩無所有，廓然露出眼睛。眼睛既露，見个什麼？曉日爍開巖畔雪，朔風吹綻臘梅花。開口有時非，開口有時是，麤言及細語，皆歸第一義。釋迦老子盌鳴聲，達磨西來屎臭氣，惟有山前水牯牛，身放毫光照天地。咄！淨人打鼓，三世諸佛向鼓聲裏轉大法輪；侍者燒香，六代祖師向香爐烟上深談實相。諸人",
+          "MasterName": "Dagui Foxing Fatai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dagui Foxing Fatai",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Dagui Foxing Fatai owns the retained verse-close: the cloud-piercing falcon against the dull wings; word-talk the third watch at noon — how better, one line recommended before the sound, walking alone on the crown of the shining-one's head. The printed section head names the Yuanwu heir; the roster knows him by his abbacy and his aka."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0322b12",
+          "ToLb": "0322c03",
+          "Kwic": "浪翻空，大地山河俱失色。金風體露，葉落歸根，只堪惆悵不堪陳。上堂：不結毗盧印，那弘古佛心。明月照幽谷，寒濤助夜砧。師云：法華山裏舉師叔空擔片板，直至而今不是石田提掇，幾乎只麼平沉，幾箇聞絃解賞音？滿散。寧宗小祥，上堂：至人變化，體妙難名。去來不以象，動靜不以形。通途自寥邈，何處不稱尊？更無一法可當情，直踏毗盧頂上行。蔣山長老至，上堂：獨能崗上，慧日峯前。雲月是同，溪山各異。正法眼，破沙盆。勸君更盡一杯酒，西出陽關無故人。上堂：風蕭蕭，雨蕭蕭，絲毫不動，平步丹霄。便恁麼去，南山門下土亦難消。上堂：赤肉團上，壁立萬仞。臨濟德山，因邪打正。羅紋結角，百匝千重。等閑拋一釣，驚起碧潭龍。上堂：寸絲不掛，赤肉猶存。黃頭碧眼",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained obsequies close: the finished one's changes past naming, the through-road sheer and far — where is he not the honored one? No further way to stand on the feeling, straight treading the crown of Vairocana's head."
+        },
+        {
+          "RelPath": "X/X71/X71n1417.xml",
+          "FromLb": "0448a21",
+          "ToLb": "0448b10",
+          "Kwic": "座。法空寶座人人共登，須彌燈王猶較一級。登座，拈香祝聖罷，斂衣就座。護聖和尚白椎云：法筵龍象眾，當觀第一義。師云：有問有答，未出常情；無事無為，猶存知解。莫有獨脫無依底麼？不妨相見。僧出問：崑山那畔肯笑堂前，歸源正印早已親傳。今日籜峰祝聖開堂，願聞法要。師云：須彌頂上擊金鐘。進云：逈然一句超今古，高蹈毗盧頂上行。師云：不打者鼓笛。進云：昔日保壽開堂，三聖橫身相為；臨濟住院，普化盡力扶持。畢竟明箇什麼？師云：兩頭俱坐斷，一劒倚天寒。進云：與麼則五位君臣齊裂下，三玄戈甲一時收。師云：錯下名言。僧喝一喝，禮拜歸眾。師云：亂統禪和，如麻似粟。乃云：如我按指，海印發光。古佛堂前，敲空覓響。非風旛動，仁者心動。曹溪路上，好",
+          "MasterName": "Liaotang Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaotang Weiyi",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1417.xml). Recorded Sayings of Chan Master Liaotang Weiyi. Liaotang Weiyi owns the retained answers: the golden bell struck atop Sumeru; for the beyond-past-and-present line — I do not beat that drum-and-fife; both ends sat shut at once, one sword leans cold against the sky."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0365c27",
+          "ToLb": "0366a17",
+          "Kwic": "單扶起破沙盆。大劫臨頭各有因，同群喫肉殺同親。乾坤合目君臣隱，鐵石人聞也斷魂。戎裝個個似天神，我亦㲯毿不認真，可惜千期猶未滿，沙場添得一堆塵。為明我禪人為明我禪人天姿挺秀快超群，自古燈傳絕世情。不做一回腦後看，難將祖脈繼兒孫。為問我禪人為問我禪人每把肝腸倒腹傾，闍黎何故自沉吟？龜毛截斷人天路，直蹋毗盧頂上行。法派法派通圓行果，覺海弘昌。悟宗真了，祖印聯芳。智慧普照，正脈常光。山居山居移松幾樹就春栽，瀑布慇勤日夜回；埜鶴高吟群鳥靜，山童微笑百花開。頻推竹戶隨雲去，深築瑤池待月來；秖恐時人作境會，許多幽韻若安排。白髮鬖鬖兩鬢生，年來懶向別峰行。倦眠竹榻忘賓主，兀坐茅齋少送迎。鶴唳長空驚幻夢，心灰世外識虛名",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained verse: every time pouring liver and gut clean out of the belly — acarya, why do you sink into mumbling? Turtle-hair cuts off the road of heaven and man — tread straight the crown of the shining-one's head."
+        },
+        {
+          "RelPath": "J/J35/J35nB343.xml",
+          "FromLb": "0811c01",
+          "ToLb": "0811c13",
+          "Kwic": "海又向甚麼處消？」師和聲便打，僧擬議，師又打，乃云：「雷轟宇宙，北濟家風；火迸青天，德山境界。真獅子兒便能當下嗥吼，奮迅一聲，猛然突出見礙，表裏一如，玄解雙泯，不昧本有，共報深恩，致使漂舟到岸，遠客還鄉，覓佗種艸，綿綿不絕。果如此志，不枉林下走一回也。」喝一喝，扶杖起身云：「還共委悉麼？翻身跳出狐蹤路，便向毗盧頂上行。」上首白椎云：「諦觀法王法，法王法如是。」下座。上堂。僧問：「寶壽開堂，三聖推出一僧，壽便打，且道意旨如何？」師云：「具分石火眼。」進云：「三聖道：『恁麼為人，瞎卻鎮州一城人眼去在。』便是不肯佗麼？」師云：「不得錯會。」進云：「未審此意若何？」師云：「不待黠兒落節。」進云：「寶壽擲拄杖歸方丈，是甚麼消息？",
+          "MasterName": "Miyin Zhenchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyin Zhenchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain. Miyin Zhenchuan owns the retained close: a shout, rising on the staff — do we share the bent of it? Spring out of the fox-track road and straightaway walk the crown of the shining-one's head — the white-hammer's beholding, down from the seat."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X68/X68n1318.xml",
+        "X/X70/X70n1386.xml",
+        "X/X71/X71n1417.xml",
+        "J/J32/J32nB276.xml",
+        "J/J35/J35nB343.xml"
+      ],
+      "RelatedMasters": [
+        "Foyan Qingyuan",
+        "Dagui Foxing Fatai",
+        "Shitian Faxun",
+        "Liaotang Weiyi",
+        "Buhui Fatong",
+        "Miyin Zhenchuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The crown-walk of the Chan records: above the shining-one's very head — the emperor's unanswered tread, the falcon's one glance, the monk's hall-opening line, and the old awls laughed at for not walking it unspoken. Foyan Qingyuan tells his assembly the old story — his late teacher seven days unsettled, midnight release, all treasure dropped — then his own verse: put it down and how free; drag it and the ox-pull rake. He laughs at the old awls of every quarter drumming and talking their Chan — tail-less, unafraid, and yet to be wondered at: treading the crown of Vairocana's head, unspoken it spreads itself under heaven. Good elder brother, Dagui Foxing Fatai sets the falcon against the dull wings: tut, tut — what is it like? The cloud-piercing falcon brushes the blue sky; one raised glance, a hundred thousand li; the dull wings in the woods busy themselves for nothing. Seeking understanding, wearing word-talk — same as beating the third watch at high noon. How better: with one line recommended before the sound, walking alone on the crown of the shining-one's head, Shitian Faxun, at the emperor's second obsequies: the finished one changes, the body-wonder past naming; going and coming not by image, stir and still not by shape — the through-road sheer and far: where is he not the honored one? No further way to stand on the feeling — straight treading the crown of Vairocana's head. Liaotang Weiyi opens the hall at Tuofeng: the monk asks after the source-returning essentials — the golden bell struck atop Sumeru — then rides his own line: a single line utterly beyond past and present, walking high on the crown of Vairocana's head. The master: I do not beat that drum-and-fife. Pressed on Baoshou's hall-opening with Sansheng throwing himself in, Linji's residence with Puhua straining to prop him — what did they make clear in the end? — Both ends sat shut at once; one sword leans cold against the sky, Buhui Fatong verses it for the Chan person Wenwo: every time pouring liver and gut clean out of the belly — acarya, why do you sink into mumbling? Turtle-hair cuts off the road of heaven and man: tread straight the crown of Vairocana's head, Miyin Zhenchuan ends the address: a shout, rising on the staff — do we share the bent of it? Spring out of the fox-track road, and straightaway walk the crown of the shining-one's head. The seat-head's white-hammer: behold the law-king's law, the law-king's law just so — down from the seat."
+    }
+  ]
+}

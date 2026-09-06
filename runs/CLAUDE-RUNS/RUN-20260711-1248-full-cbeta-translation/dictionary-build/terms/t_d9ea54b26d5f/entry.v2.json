@@ -1,0 +1,224 @@
+{
+  "Id": "t_d9ea54b26d5f",
+  "SourceTerm": "多子塔前",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T09:44:45Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "before the Stupa of Many Sons",
+      "AlternateTargets": [
+        "at the Many-Sons Stupa",
+        "before the Many-Sons shrine"
+      ],
+      "SearchAliases": [
+        "Stupa of Many Sons",
+        "Many-Sons Stupa scene",
+        "the shared-seat handing-over",
+        "first robe relay site",
+        "duozi ta"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 158 hits in 87 files representing 85 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0745c22",
+          "ToLb": "0746a10",
+          "Kwic": "揀。師乃云何。物高於天生天者是何。物厚於地育地者是何。物寬於虛空包虛空者是何。物超越佛祖植佛祖者是。六合之外惟道。存而勿論。若據本分事。未道得一半。還知盡大地撮來。盡在諸人眉毛眼睫上。化作天大將軍。現無邊神通。若也見得。轉凡成聖。若也不見。切忌躊蹰。撥轉上頭關捩子。分身百億化無邊。請長蘆覺禪師上堂。多子塔前分半座。截斷眾流。少林端拱歷九年。壁立萬仞。奮作家爐鞴。施向上鉗鎚。顯大用大機。全生全殺。與一切人抽釘拔楔解黏去縛。令大地人各各如獅子兒奮迅吒沙踞地返躑。所以道。法王法力超群生。常以法財施一切。久積淨業稱無量。導眾以寂故稽首。夫如是則向萬仞懸崖垂手。敲唱俱行。百尺竿頭進步。主賓互換。正當恁麼時如何。龍吟",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: the half-seat before the stupa cut against the nine silent years at Shaolin."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0965a27",
+          "ToLb": "0965b14",
+          "Kwic": "見肚裏熱悶。小女阿八從後門出。長聲歌曰。尋牛須訪跡。學道訪無心。跡在牛還在。無心道易尋。山僧聞得呵呵大笑。且道笑箇什麼。喝一喝云。三十年後。聖節上堂。靈機廓徹。妙叶無私。智鑑洞明。通途絕迹。一切處現吉祥事。不昧見聞覺知。亘塵沙劫堅密身。突出行住坐臥。天上天下歌有道。五湖四海樂無為。林下道人。將何報德。多子塔前消息在。一回拈出一回新。上堂。釋迦不說說。抝曲作直。迦葉不聞聞。望空啟告。馬祖即心即佛。掛羊頭賣狗肉。趙州勘庵主。貴買賤賣。分文不直。且如文殊是七佛之師。因什麼出女子定不得。河天月暈魚分子。檞葉風微鹿養茸。上堂。經行及坐臥。常在於其中。做牛便要拕犁拽把。做馬便乃㘅鐵負鞍。為人原始要終。不求諸聖。不重己靈",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi'an. Mi'an Xianjie owns the retained deployment: the news before the Stupa of Many Sons stands — each time raised, each time new."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0129c19",
+          "ToLb": "0130a02",
+          "Kwic": "。」良久，卓拄杖云：「長相憶，只有這個賊。」上元，上堂。「繁鉦雜鼓夜駢闐，火樹星橋燦遠天，誰把娘生雙白眼？看到威音更那邊。」金粟老和尚送僧伽黎至，上堂。專使出問：「佛佛授手，祖祖相傳。佛佛授手即不問，如何是祖祖相傳底事？」師云：「金縷分明說向人。」使禮拜，師云：「三十棒留與老和尚打。」乃舉起衣，云：「自從多子塔前籠罩迦葉，遂使至今在雞足山前冷坐；黃梅室裏遮圍六祖，致令馬駒腳下熱鬧不休。」復展開，云：「今日遞代相傳，送向安隱堂前。仔細看來，只好裹三十年前底破草鞋。」放下，云：「若是釋迦老子、金色頭陀、大滿大鑒出來道：『內傳法印以契證心，外付袈裟以定宗旨。』正好劈脊一棒，用酬金粟堂上本師和尚法乳之恩。還有旁不甘底，",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "teacher",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: ever since the stupa wrapped Kasyapa he sits cold at Cockfoot, while the robe's fencing of the Sixth keeps the bustle going."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0396b04",
+          "ToLb": "0396b17",
+          "Kwic": "君有志于大道，切不得落于知解、滯于語言，須是謝去聲色，專其心、一其志，將通身精神、通身力量用在一句無義味話頭上，精研之久，一朝黑漆桶忽然爆裂，自然通天徹地放大光明。古宿甞云：要明此事，須是如猫捕鼠，絕無他顧；亦如鷄抱卵，煖氣相接，自然得入。不見道：君子愛財，取之有道。大眾久立，珍重。李羽吉居士施衣，請上堂。多子塔前，露柱共燈籠鬬額；黃梅夜半，黧奴與白牯交參。正當恁麼時，所付何事？師拈起袈裟角，示眾云：不是天孫組織，全因化母機梭。若是一線相通，直可遮天盖地。果然寸絲不挂，便好七縱八橫。昔阿難問迦葉云：世尊傳金襴袈裟外，更有何事？迦葉召阿難，阿難應諾。迦葉云：倒却門前剎竿著。諸人還會也未？如其未會，老僧不免頌出：剎竿倒",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: pillars and lanterns butt heads before the stupa; the black cat and white calf cross at midnight in Huangmei."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0599c12",
+          "ToLb": "0599c25",
+          "Kwic": "。秪如頂門具眼，肘後懸符，寶印當空，全提向上一句作麼生道？」居士云：「專為流通。」師乃授拄杖云：「恁麼則圓通新拄杖分付居士去也。」士云：「謝大眾證盟。」師云：「大好山中枯木秀，少林室內祖燈新。」士禮拜，師下座。送居士入室云：「金粟如來曾據此室，今日海岸重振宗風。」士禮云：「親承旻佛記，普現白衣身。」師云：「多子塔前知我貴，夜明簾外法王尊。珍重！」黃元公設合山齋請上堂黃元公設合山齋請上堂師云：「達摩不來東土，二祖不去西天，震旦更無別路，兒孫腳下親傳。既然如是，匡山諸祖法席列剎可以相望，如何數百年來卻成土曠人稀，相逢者少聻？今日圓通新杖人特提得壽昌一把沒柄钁頭，湧向匡山峰頂著力一掘，直得十方國土六種震動，歷代祖師靈塔舍",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: before the Stupa of Many Sons he knows my nobility; outside the night-lit curtain the king of the teaching is honored."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0040c20",
+          "ToLb": "0041a02",
+          "Kwic": "，上堂。「心地含諸種，普雨悉皆萌，頓悟花情已，菩提果自成。「善哉，善哉，大小能祖恰似翫弄手中明月珠，令彼魚龍知性命，丹山生鸑鷟，獅子產狻猊，棒下摩醯眼，徒誇第一機。「快哉，快哉，大小杲師恰似十字街頭看廝撲，為他喝采長威風。「金粟此者相席打令，順水行舟，且貴正脈流通，家聲不墜，未審汝等如何趣向？」良久，云：「多子塔前消息在，一番提起一番新。」復舉僧問興化：「多子塔前，合談何事？」化云：「一人傳虛，萬人傳實。」師云：「秉殺活力劍，不無興化老，而今或有恁麼問，但云：『東君回暖律，華發樹南枝。』汝若識得來處，報答檀那有分。」超瑗請上堂。「靈機迅發，射穿凡聖髑髏；智鑑晶瑩，洞徹人天肝膽。縱擒互換，照用齊彰，三玄戈甲，精鮮九",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "case-figure",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: one raising, one renewal — and Xinghua's one-man-emptiness passed on as fact by ten thousand, under his ready-sword seal."
+        },
+        {
+          "RelPath": "J/J39/J39nB453.xml",
+          "FromLb": "0559b12",
+          "ToLb": "0559b25",
+          "Kwic": "密，良似砒霜毒藥。雖是土宜，聊且應箇時節。」便燒。付玄輔弼西堂，上堂。「提持衲僧巴鼻，須是克家；流通佛祖淵源，貴乎眼正。不待呼剎竿，預知向上未。曾入新豐已經罷參，且道是誰？」顧西堂？曰：「你看他昔侍先師於崆峒，其切磋一一可法。先師過後又經七載，指體投機更非一也。先師一箇未了公案，只得累及。」遂舉衣，曰：「多子塔前原不了，轉相授受到如今。山僧兩手親分付，五葉一花大地春。」堂乃接衣，對眾，曰：「降旗不豎方隅窄，若豎降旗四海非。借問眾兄弟：秪如旌旗大展、法令高宣，當此之際，豎則是？不豎則是？」眾皆默然。堂曰：「金簇慣調曾百戰，鐵鞭多力恨無讎。不如折弓解甲去也。」復問：「大庾嶺上提不起，阿誰持向此山來？」師曰：「闍黎只顧承",
+          "MasterName": "Yuanjie Ying",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanjie Ying",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB453.xml). Recorded Sayings of Chan Master Yuanjie Ying. Yuanjie Ying owns the retained deployment: before the Stupa of Many Sons it was never finished — this mountain monk with both hands gives it over, five petals, one flower, spring across the great earth."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0694b11",
+          "ToLb": "0694b26",
+          "Kwic": "：「如何是和尚家風？」師曰：「金雞抱子歸霄漢，玉兔懷胎入紫微。」曰：「忽遇客來，將何祗待？」師曰：「金果早朝猿摘去，玉花晚後鳳銜來。」徹底打開寶藏，傾來滿地奇珍。就中那復擇疏親？博施逢人不吝。家風凜凜，無比尊貴，堂堂絕倫。凡流切莫妄評論，此箇門牆萬仞。第十四祖鳳棲同安志大師，參先同安，將示寂，上堂曰：「多子塔前宗子秀，五老峰前事若何？」如是三舉，眾無對，師曰：「夜明簾外排班立，萬里歌謠道太平。」安曰：「須是者驢漢始得。」老不休心更可嗟，教兒汲汲做人家。恁麼舉，太周遮，遺來枯井填難滿，日後方知怨恨爺。第十五祖梁山緣觀大師，上堂曰：「垂絲千尺，意在深潭。一句橫空，白雲自異。孤舟獨棹，不犯清波。海上橫行，罕逢明鑑。」",
+          "MasterName": "Tongan Daopi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tongan Guanzhi",
+              "Roles": [
+                "respondent",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "verse-author",
+                "record-owner",
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Tongan Daopi owns the retained deployment: before the Stupa of Many Sons the true heir shows — asked three times, none answered, until one came out with the night-lit curtain answer."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1999.xml",
+        "J/J34/J34nB299.xml",
+        "X/X72/X72n1437.xml",
+        "J/J34/J34nB311.xml",
+        "J/J28/J28nB202.xml",
+        "J/J39/J39nB453.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Mi'an Xianjie",
+        "Hanyue Fazang",
+        "Miyun Yuanwu",
+        "Yongjue Yuanxian",
+        "Juelang Daosheng",
+        "Baichi Xingyuan",
+        "Xinghua Cunjiang",
+        "Yuanjie Ying",
+        "Tongan Daopi",
+        "Tongan Guanzhi",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Before the Stupa of Many Sons — the spot the tradition fixes for the first handing-over, and the emblem Chan rows reach for whenever a robe moves, an heir is weighed, or the old news is raised once more. Yuanwu Keqin, opening the hall for the invited elder of Changlu: before the Stupa of Many Sons the half-seat was shared, the stream cut off; at Shaolin nine years seated still, a wall of ten-thousand fathoms — rousing the smith's bellows, applying the upward tongs, the great function and great machine wholly alive and wholly killing, drawing nails and stripping glue for everyone; and Mi'an Xianjie, at the sovereign's birthday: the forest-dweller — how shall he repay the grace? The news before the Stupa of Many Sons stands; each time it is raised, it is new. Hanyue Fazang, raising the robe his own teacher at Jinsu had sent: ever since before the Stupa of Many Sons it wrapped Kasyapa, he has sat cold to this day before Cockfoot Peak; in the room at Huangmei it fenced the Sixth Patriarch, and under the horse's hooves the bustle has not stopped — and today it is handed on down the generations to the hall of Quiet Rest, and on close inspection is only good for wrapping a thirty-year-old broken straw sandal; Yongjue Yuanxian, at a layman's robe-gift: before the Stupa of Many Sons, the pillars and the lanterns butt heads; at midnight in Huangmei, the black cat and the white calf cross in study — just at that moment, what was handed over? He lifts the corner of the kasaya: not woven by the Weaver Maid, but all the mother-of-change's loom; one thread running through, and it can shade heaven and cover earth; truly not an inch of silk hung, and then it may range seven ways and eight. Juelang Daosheng, sending the warden-layman into the room: the Tathagata of Jinsu once occupied this room, today the coast re-raises the line's wind — and closes: before the Stupa of Many Sons he knows my nobility; outside the night-lit curtain the king of the teaching is honored — take care! Baichi Xingyuan, at the hall held for the patron praying for an heir: the news before the Stupa of Many Sons stands; one raising, one renewal — then raises the old case, the monk asking Xinghua: before the Stupa of Many Sons, what was to be discussed? One man passes on emptiness, ten thousand pass it on as fact — the master stamps him: the ready sword of life-and-death, that old man of Xinghua; and Yuanjie Ying, at the decade-memorial handing the robe to the elder of the west hall: before the Stupa of Many Sons it was never finished; the handing-on has gone round until today — this mountain monk with both hands gives it over in person: five petals, one flower, spring across the great earth. And the scene that set the standard: Baiyu Jingsi's lineage-source cycle retells the fourteenth patriarch Tongan Guanzhi attending the earlier Tongan — Tongan Daopi at the point of death ascending the hall: before the Stupa of Many Sons the true heir shows; before Five Elders Peak, how stands the matter? Asked three times, none answered — then the master came out: outside the night-lit curtain, standing in rank; ten thousand miles of song proclaim the great peace. The dying one said: it had to be this blind fellow. Baiyu's own verse on it: the old man never resting his mind, alas — teaching his boy to busy himself keeping house."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "Id": "t_c0e6a6e1f716",
+  "SourceTerm": "受用不盡",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:52:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "use it and never exhaust it",
+      "AlternateTargets": [
+        "enjoyment never exhausted",
+        "never used up"
+      ],
+      "SearchAliases": [
+        "unexhausted use",
+        "endless enjoyment of the thing received",
+        "inexhaustible in use"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 124 hits in 88 files representing 88 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0865b14",
+          "ToLb": "0865c01",
+          "Kwic": "無語。尼去後。俱胝自歎云。我雖是箇丈夫漢。却不如箇婦人。便要燒菴下山。忽夜夢神人曰。和尚不須下山。且候。當有肉身大士來為和尚說法也。過數日果見天龍和尚到來。俱胝遂舉前話似之。天龍曰。爾問我。我與爾道。俱胝曰。道得即放下笠子。天龍遂豎起一指。俱胝忽然大悟。後凡有所問。只豎一指。每曰。我得天龍一指頭禪。一生受用不盡。瑯瑘覺和尚嘗有頌曰。俱胝一指教君知。朝生鷂子摶天飛。若無舉鼎拔山力。千里烏騅不易騎。爾看這一頌。便是會得這一指頭禪分曉也。這箇如何學得。俱胝身畔有一供過童子。每見人問他事。也學豎指祇對。有人謂俱胝曰。和尚這童子也不可得。亦會佛法。凡有人問他。皆如和尚豎指。俱胝聞得。一日潛將一柄刀在袖中。喚童子近前來",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-raiser",
+                "teacher",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao retells the root: whenever Juzhi was asked he only raised one finger, saying — I got Tianlong's one-finger teaching, a lifetime's use never exhausted — and Dahui reads Langye Jue's verse for the hall: look at this verse and you know what it is to get the one-finger teaching; and how could this be learned?"
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0094a01",
+          "ToLb": "0094a15",
+          "Kwic": "力下禪床。上堂。云：一法若有，毗盧墮在凡夫；萬法若無，普賢失其境界。若得，有無都盡，凡聖混同。南泉不用喚如如，趙州不在明白裏。譬如洪爐猛焰，豈分釵釧缾盤？明鏡當臺，休問青黃赤白。正當恁麼時，且道有照有用、能殺能活一句作麼生道？良久，云：墻壁有耳。上堂云：學道做工夫，正如人鑿井，一日見泉源，平生用不盡。且道受用不盡一句作麼生道？一滴普霑沙界潤，十方休聽轆轤聲。上堂，云：仲春天氣喜初晴，燕語彫梁有好聲，會得玄沙當日意，便能日午打三更。卓拄杖一下，云：活鱍鱍地，非常伶利，德山覰著骨毛寒，不用南山尋鱉鼻。上堂，僧問：什麼人不被無常吞？師云：只恐他無下口處。僧云：恁麼則一念通玄箭，三尸鬼失姧也。師云：汝有一念，定被他吞了。",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained image: working at the way is like a man digging a well — the day he strikes the spring-source, a lifetime of use; and how do you say the never-exhausted-use line? One drop moistens the whole sand-realm, and the ten directions stop hearing the windlass."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0973b12",
+          "ToLb": "0973c06",
+          "Kwic": "向舉起處承當速道速道荅云杜撰長老如麻似粟慧云你是第幾箇荅云今日捉敗這老賊慧深肯之上曰如此相投師云禪家當機不讓遂舉靈雲見桃花悟道頌云三十年來尋劒客幾回葉落又抽枝自從一見桃花後直至如今更不疑玄沙云諦當甚諦當敢保老兄未徹在每舉問禪和子那裏是不疑處陛下且道那裏是不疑處上擬議師云只就疑處看驀然看破不疑處便是陛下受用不盡底上曰長老且道那裏是不疑處師云紅爐上一點雪上乃點頭師云昔黑齒梵志淂五神通常在雪山說法感淂梵王帝釋閻羅王洎諸天神常來聽法一日說法畢閻羅王目視梵志而泣志曰大王何淂視吾而泣王曰吾觀於汝善能說法七日後命終當來吾界受諸苦痛梵志惶怖求免無門雪山諸天神謂梵志曰欲免斯難唯有大覺世尊乃能為汝免淂此難梵志曰世尊者何人也",
+          "MasterName": "Fozhao Deguang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fozhao Deguang",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Fozhao Deguang owns the retained answer: where is the not-doubting place? — look right in the doubting; break it open suddenly, and that is Your Majesty's own never-exhausted use — asked the same question back, he says: a fleck of snow on the red hearth."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0231a11",
+          "ToLb": "0231a25",
+          "Kwic": "東西有路通南北。南北既通，東西有路，作麼生是諸人最初一步？喝！看腳下。」行至橋那邊，復云：「婺州橋是趙州橋，今日大家行一遭，不獨度驢并度馬，人人平步上青霄。」為樓清翁入壙為樓清翁入壙「天公豈可沒人情，雨雪堆中揀得晴，修福自然招福報，生前死後顯光明。大眾！還見面前一片田地麼？這是我清翁老人親手做得來底，生也受用不盡，死也受用不盡，傳之子子孫孫亦復受用不盡。現前諸人若能見樣學樣，各請歸家做取這一片田地好。不然，山僧更為鋪花錦上。世有英傑，積善種德，一句合頭，千車共轍。即日恭惟故我檀越清翁老朝奉智者國師，種族義烏縣裏老成，八十四年生，生本不生，行而能說、說而行；八十四年死，死亦不死，子又生孫孫又子。三年之喪，孝也；今日",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained address: do you all see the stretch of field before you? This the old man Qingweng made with his own hands — alive, its use unexhausted; dead, its use unexhausted; passed to sons and grandsons, again its use unexhausted."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0732a21",
+          "ToLb": "0732b06",
+          "Kwic": "來現成，不假外爍也。示知白關主示知白關主從上佛祖，秪是一個指迷人；一切參學，秪是一個自求人。是故諸知識更無實法與人，秪教人憤起自求生死性命之心，一朝瞥然自悟，了無一毫得失於其間也。譬如失珠之者，日久不知珠為何狀，因問知識指示，知識曰：「此珠清淨圓照，覺明無礙，更無纖毫損缺瑕玼，你但能勤而求之，則平生如意受用不盡也。」其人不知彼之所指，但自心念口言：「此珠有如是清淨圓照；有如是光明無礙；又且毫無損缺瑕玼。」行住坐臥、語默動靜，如是想念思惟至於廢寢忘餐，勞精疲神，重增迷悶終不能獲，反以善知識誑誕，誤賺我如此參求之法絕無靈驗。遂至退墮不信，此古今參學之通病也。彼知識秪與你說個形狀，恐你妄認一切瓦礫土石、泥丸魚目以為",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained comparison: the guide says — this pearl is pure and round-reflecting, bright and unobstructed, without a flaw or lack; seek it diligently and a whole life everything as you wish, its use unexhausted — and the seeker, mouthing the description instead, loses sleep and finds nothing, the old sickness of students everywhere."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0330b14",
+          "ToLb": "0330b28",
+          "Kwic": "但向他道：『一層山石一層灰。』『如何是塔中人？』『團圞相對坐，共語不知名。』」開爐，上堂。「一住谿頭寺，五開沒燄爐，誰是銅頭客？當機捋虎鬚。」僧問：「庫樓新就，七尺單成，箇箇剔起眉毛，明明諸佛同體。請問：如何是諸佛底體？」師云：「石頭土塊。」乃云：「打開自己庫藏，一物渾無；運出自己家珍，受用不盡。三世諸佛受用不盡、歷代祖師受用不盡、一切眾生受用不盡，既是受用不盡，因甚一物渾無？者裏薦得，石頭土塊盡是精金；脫或未然，玉殿瓊樓翻成蔓草。正恁麼時，爐𩍁弘開，轉凡成聖一句作麼生道？萬機休歇無餘事，正是心空及第時。」上堂。僧問：「倒握烏藤，乃佛乃祖之宗綱已振；安居半月，鍛聖鍛凡之爐𩍁且精。祇如非聖、非凡，非佛、非祖又作麼生",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained ladder: open your own storehouse — not one thing; carry out your own family treasure — its use unexhausted; the buddhas of the three ages use it unexhausted, the patriarchs generation after generation use it unexhausted, all beings use it unexhausted — and since it is never exhausted, why is there not one thing?"
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0638c30",
+          "ToLb": "0639a13",
+          "Kwic": "鑿影析塵之能，雖則各遑玅手、互相激揚，怎奈鷸蚌相持、漁翁得利？如問青龍：『初生孩子還具六識也無？』但道：『好箇消息。』者裏見得，一任參天地、育萬物、紹宗祧、承祖業，可謂室內真子不同門外遊人。有麼？」揮拂，云：「春未去，夏又回，參差綠影漸成堆，庭前不種梧桐樹，也有丸苞天外來。」上堂。「山僧昔日得一句子，至今受用不盡，幾欲拈出，只是罕遇其人，卷而懷之二十餘年。大眾！且道是那一句子？」良久，云：「金生麗水，玉出崑岡。」元旦，上堂。「天無私蓋，地無私載，日月任流遷，春風無向背。有者道：衲僧家一味饑餐渴飲、目視雲霄，倦則向折腳繩床曲肱打眠，總饒乾坤覆墜而不驚、洪波滔天而非覺，說甚月之大小、年之新舊？看來猶是徐六擔板。那知青",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained withholding: this mountain monk once got a single line, its use unexhausted to this day; I have half a mind to bring it out, but rarely meet the man for it — rolled up and held twenty years and more — and which line is it? A long pause: gold is born in the Li waters, jade comes out of the Kunlun ranges."
+        },
+        {
+          "RelPath": "J/J39/J39nB449.xml",
+          "FromLb": "0460a25",
+          "ToLb": "0460b09",
+          "Kwic": "久，云：「令我空相思，一天雲靉靆。」立春，早參。師云：「泥牛剛倒地，大地盡皆春，森羅及萬象，煥然一時新。殿角梅花破玉，寒香襲襲；庭前古柏參天，翠色森森。於此會得，一團春色無高下；其或未然，莫把花枝較短長。」早參。師云：「今日摘茶已畢，啟上座有個末後句子向諸兄弟道：收了菜麥插了秧，大家搖扇取風涼。會得的受用不盡，不會得的風涼也許你風涼，切須要小心。且道小心個甚麼？切忌傷風。」早參。「今朝七月初五，放出玄沙猛虎，眾中有負命者出來。」眾無出，師云：「猛虎不食伏肉。」便行。早參。「古人道：『終日行，不曾踏著一片地。』」師云：「黃檗老老大大，發語沒來由。既是終日行，不曾踏著一片地，難道踏在虛空裡？資福則不然，終日行，步步",
+          "MasterName": "Zuliang Chaoqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zuliang Chaoqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB449.xml). Recorded Sayings of Chan Master Zuliangqi. Zuliang Chaoqi owns the retained close of the tea harvest: the vegetables and wheat in, the seedlings planted, everyone fans himself in the cool — those who get it, the use is unexhausted; those who do not, the cool breeze is granted you all the same — only be careful — careful of what? Mind you do not catch cold."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "X/X73/X73n1451.xml",
+        "C/C077/C077n1710.xml",
+        "J/J32/J32nB273.xml",
+        "J/J25/J25nB174.xml",
+        "J/J28/J28nB208.xml",
+        "J/J36/J36nB359.xml",
+        "J/J39/J39nB449.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Cishou Huaishen",
+        "Fozhao Deguang",
+        "Qianyan Yuanzhang",
+        "Juelang Daosheng",
+        "Guxue Zhenzhe",
+        "Baiyu Jingsi",
+        "Zuliang Chaoqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Use it and never exhaust it: Juzhi's one-finger line, the well dug to its spring, the emperor's doubt-spot — and Baiyu's single line rolled up twenty years for want of a hearer. Dahui Zonggao, retelling the root for his hall: the nun gone, Juzhi sighed that a man of his size was outdone by a woman, and was about to burn the hut and come down the mountain when a spirit bade him wait for a flesh-body bodhisattva; days later Tianlong came, Juzhi raised the affair, and Tianlong said — you ask, I will tell you; at 'say it and I drop my rain-hat' Tianlong held up one finger and Juzhi woke on the spot — from then on, whatever he was asked, he only raised one finger, saying: I got Tianlong's one-finger teaching, a lifetime's use never exhausted; Dahui reads Langye Jue's verse for the hall — the morning-born sparrow-hawk wheels into the sky; without the strength to lift a tripod and pull a mountain, the thousand-li black steed is not easy to ride — look at this verse and you see what it is to get the one-finger teaching; and how could this be learned? Cishou Huaishen, in the hall: working at the way is like a man digging a well — the day he strikes the spring-source, a lifetime of use — and how do you say the never-exhausted-use line? One drop moistens the whole sand-realm, and the ten directions stop hearing the windlass. Fozhao Deguang, answering the emperor on Lingyun's peach-blossom waking — Xuansha had said 'right indeed, right indeed, but I dare guarantee my old brother is not through': where is the not-doubting? Your Majesty, where do you say it is? The emperor went to weigh it, and the master said: look right in the doubting — break that open suddenly, and that is Your Majesty's own never-exhausted use; asked back, he answered: a fleck of snow on the red hearth, and the emperor nodded. Qianyan Yuanzhang, at the burial of the patron Qingweng: heaven is not without feeling — a clear day picked out of the snow-pile; blessings call blessings — do you all see the stretch of field before you? This the old man made with his own hands: alive, its use unexhausted; dead, its use unexhausted; passed to sons and grandsons, again its use unexhausted — if you can see the pattern and copy it, go home and make yourselves such a field; otherwise the mountain monk will embroider flowers on the brocade. Juelang Daosheng, instructing the hermitage keeper: from the first, the buddhas and patriarchs were only pointers for the lost, and all study only seekers after themselves; like the man who lost his pearl and no longer knew its shape — the guide says: this pearl is pure and round-reflecting, bright and unobstructed, without flaw or lack; seek it diligently and a whole life everything as you wish, its use unexhausted — and the seeker, reciting the description while walking, standing, sitting, lying, forgets sleep and food and only grows more tangled, ending by cursing the guide: the old sickness of students everywhere — the guide only showed you the shape, fearing you would take gravel and fish-eyes for the pearl. Guxue Zhenzhe, opening the furnace: open your own storehouse — not one thing; carry out your own family treasure — its use unexhausted; the buddhas of the three ages use it unexhausted, the patriarchs generation after generation use it unexhausted, all beings use it unexhausted — since it is never exhausted, why is there not one thing? Get it here and clods of earth and stone are all wrought gold; miss it, and jade halls and jasper towers run to weeds — the furnace flung wide, how do you say the line that turns the common into the holy? The ten-thousand workings at rest with nothing left over — just the time the mind is empty and passes the examination. Baiyu Jingsi, in the hall: this mountain monk once got a single line, its use unexhausted to this day; I have half a mind to bring it out, but rarely meet the man for it — rolled up and held twenty years and more — which line is it? A long pause: gold is born in the Li waters, jade comes out of the Kunlun ranges. Zuliang Chaoqi, at morning assembly after the tea harvest: the vegetables and wheat in, the seedlings planted, everyone fans himself in the cool — those who get it, the use is unexhausted; those who do not, the cool breeze is granted you all the same — only be careful — careful of what? Mind you do not catch cold."
+    }
+  ]
+}

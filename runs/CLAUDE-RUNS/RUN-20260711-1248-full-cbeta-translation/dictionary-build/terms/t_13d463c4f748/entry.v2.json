@@ -1,0 +1,194 @@
+{
+  "Id": "t_13d463c4f748",
+  "SourceTerm": "三百餘會",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:46:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the three hundred-odd assemblies",
+      "AlternateTargets": [
+        "the 300-odd sermon assemblies"
+      ],
+      "SearchAliases": [
+        "the three hundred-odd sermon assemblies",
+        "the Buddha's three hundred-odd assemblies",
+        "the sermon corpus by its assembly count"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 209 hits in 110 files representing 110 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0425b24",
+          "ToLb": "0425c12",
+          "Kwic": "，云：衲子玄關，群生命脉，鋒𨦵未兆，便好承當，文彩纔形，翻成影事。何也？空劫已前，乾坤未剖，凝然一片，非聖非凡，不涉熏修，豈從外有？洎乎世界安立，四姓雜居，憎愛情生，悟迷相返，妄認四大為自身相，六塵緣影為自心相，譬彼病目見空中花，造種種業，受種種報，枉流諸趣，曠劫于今。繇是釋尊不離兜率，下降閻浮，四十九年三百餘會，演無量義，分布塵剎，拯物導迷，應病與方，明師罕值，真藥未逢。賴遇程君，為不請友，捐潤屋珍寶，屆開福道場，命五湖衲子看閱毗盧大藏，欲使禪人不動舌頭，五千四十八卷彈指一時周足，直得須彌起舞，海水騰波，天雨四花，地搖六種，因收果海，果徹因源，因果兩忘，是真常住。儻或端倪未辨，依前重說偈言：你等諸人發卷看時，急須",
+          "MasterName": "Kaifu Daoning",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Kaifu Daoning",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Kaifu Daoning owns the retained deployment, tracing the sage's descent from Tusita through the boundless meanings spread across forty-nine years and three hundred-odd assemblies, sicknesses matched with prescriptions while true drugs went unmet."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0748a09",
+          "ToLb": "0748b02",
+          "Kwic": "。古人作此偈傷身世之浮脆。了夢幻之起滅。指情妄之所緣。示斯道之真寂。五十六言網羅殆盡。真道人之龜鑑也。學佛之士當向這裏體取。則知未了此心之際。通身是病徧界是病。盡形畢命起心動念。更不問儞成佛作祖皆是病緣。於中或有人。指出一法不是病者悉是妄見。又豈待形拘枕席跡涉沉痾而謂病耶。由是雪山大醫王眼不耐見。四十九年三百餘會塵說剎說。今結集為一大藏教。是治此病之藥方。今日所叅底一箇無義味話頭。是方中所秘傳之神藥。要起此膏肓必死之病。常以一念不退轉不變易之湯。使向一切時中送此神藥。然此藥之治此病百發百中。今之服藥而病不瘳者。蓋與藥忌並進。所以不取効也。苟不能盡其所忌。不惟不効。將見執藥成病。又未易療之也。所謂忌者。即第二念是",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, ruling the dust-talk and world-talk of those years and assemblies, now bound into one canon, the prescription for the sickness, with the tasteless old case as the secret drug carried through every hour."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0135b05",
+          "ToLb": "0135b18",
+          "Kwic": "道達磨祖師即今在甚麼處？杖頭風月輝千古，驀路相逢若個知。」下座。上堂，僧出，師云：「昨日答汝了也。」僧云：「人人具足個個不無，是如何？」師云：「無山不帶雲。」進云：「撥草瞻風只圖見性，即今性在甚處？」師云：「又是從頭起。」乃云：「向上一著子，今日又重舉，舉得十分明，猶未敢相許。何也？即世尊住世四十九年，說法三百餘會，法門無量義海莫窮，若較之向上一著子，大似逆風揚塵，把捉不得。就五宗並峙巧言異唱，臨濟三玄三要四主四賓，雲門三句旨一字關，曹洞五位君臣三種滲漏，溈仰圓相暗機父慈子孝，法眼三界惟心萬法惟識，若較之向上一著子，亦似癩馬繫枯樁，令人無自由分。除非夙有靈骨過量底漢，向父母未生已前一覷覷破，始信古人謂『釋迦不降生，",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, rating the World-Honored One's forty-nine years and boundless meaning-sea of three hundred-odd assemblies against the one upward move as dust flung against the wind, beyond grasping."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0245c17",
+          "ToLb": "0246a04",
+          "Kwic": "明生死。此生死非從天降地湧，乃當人于無量劫來，不知不覺，頭出頭沒，以至今日。苟不奮大力量、大勇猛將箇四大、五蘊，通身打做一片，下死志做工夫，今日明日，只是恁麼，挨至眼光落地，縱是大悲菩薩，千眼放光、千手提挈，亦難代此生死之苦也。豈不聞常人說「木匠造枷，自作自受」。慎之慎之！如來出世，為一大事因緣。四十九年，三百餘會，塵說剎說，說之不盡。因甚古人教學者總不要看文字，一切休去歇去，單單提箇話頭，如大死人？一旦發明所得，則頓見四十九年，三百餘會，盡是外事。既是外事，且釋迦老人面目向什麼處著落？所以宗門下獨以超佛越祖為正見，去此超佛越祖，縱現大神通，說過釋迦老人，總無用處，況學者些小學解文字，貢高我慢乎？老僧初不知所謂",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment, ruling that once the old case breaks open one suddenly sees the forty-nine years and three hundred-odd assemblies all external business, with Shakyamuni's own face left nowhere to rest."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0797c24",
+          "ToLb": "0798a07",
+          "Kwic": "滅雙林樹下？」師云：「魏殿舞春風。」進云：「祇如達磨大師葬於熊耳山前，因甚又隻履西歸？」師云：「也要你知者箇消息。」進云：「某甲則不然，來去無留礙，卷舒任自繇。」師云：「且信你一半。」乃云：「老瞿曇沒意智，纔出胞胎，四顧稱尊，因甚又往雪山，夜睹明星，方纔瞥地？自說諸法寂滅相不可以言宣，因甚四十九年播土揚塵，三百餘會口勞舌沸？自說諸行無常是生滅法，因甚又道：於然燈佛所得值八百四千萬億那由他諸佛，悉皆供養承事，與夫無量劫中捨頭目髓腦、國城妻子、象馬七珍，修諸苦行，種種布施？自說於然燈佛所實無有法可得，因甚拈華示眾，付屬飲光，流通正法眼藏，與諸菩薩授阿耨多羅三藐三菩提記？自說常在靈鷲山及餘諸住處，因甚向拘尸那畔雙林樹下",
+          "MasterName": "Dabian Xianquan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabian Xianquan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Xianquan owns the retained deployment, asking why, after declaring things beyond words, the old man threw dust for forty-nine years with three hundred-odd assemblies of tongue-boiling toil, and why entrust the flower to Kashyapa after all."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0011a23",
+          "ToLb": "0011b07",
+          "Kwic": "謂：惟過量人能為過量事。且今日離塵得度一句作麼生道？金刀削盡娘生髮，皎皎冰輪頂上圓。」臘八，上堂。居士問：「世尊睹明星便悟，未審悟箇甚麼？」師云：「不是苦心人不知。」乃云：「六年雪嶺坐如呆，忽拾明珠笑滿腮，破布千重包不住，忙忙拓出下山來。咄！這老漢可謂貴買精神賤價賣，爭柰無人承當？彼時若有箇承當底，亦何用三百餘會長收短販，及至臨末梢頭本利盡行消折乎？然雖如是，不到真窮處，知他未肯休。」戒子請上堂。僧問：「內傳心印，外付袈裟，諸戒師三衣已具，和尚心印作麼生傳？」師云：「六耳不同謀。」乃云：「一切有心者，皆應攝佛戒。眾生受佛戒即入諸佛位，此區區之論也，忽若無佛、無眾生，無心可攝，無戒可受，又作麼生？到這裏亦須是箇中",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, ruling that one taker that dawn would have spared the three hundred-odd assemblies their long buying and short selling, principal and interest all lost at the last branch-tip."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0454c05",
+          "ToLb": "0454c19",
+          "Kwic": "楔抽釘。不意時節忽至，撒手那邊，於勝熱門頭直趨而過，無縫塔裏正好安身，當下坐斷古今，湛然凝寂。且道：向後如何受用？蒼松翠竹常圍繞，日倚青山看白雲。」臘八，上堂。「最初淨裸裸，末後赤條條，從來絕遮障，不了徒忉忉。所以黃面瞿曇雪山坐了六年，到臘月八夜，抬眸觸著明星，便知者一著子落處。忙忙出來說法四十九年，談經三百餘會，本欲顯揚者一著子，未免說真方賣假藥，誰知並無一實？末後拈花，當時百萬人天罕聞就體知歸，多見韓盧逐塊，惟有飲光尊者破顏微笑，即將正法眼藏、涅槃妙心付囑摩訶迦葉。從上西天四七、東土二三遞相印證，以為心法。及乎南嶽青原之後，便有五宗之別：臨濟以立三要三玄；曹洞以五位君臣；雲門以一鏃破三關，分明箭後路；溈仰以父",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment, having the sage come rushing down to preach forty-nine years and three hundred-odd assemblies to display the one move, prescribing true formulas and selling false medicine with nothing real in the lot until the final flower."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0664a18",
+          "ToLb": "0664b04",
+          "Kwic": "。不圖話行千古，只貴正眼流通，佛祖面目一時點開，不傳之旨大家領荷。釋迦牟尼佛釋迦牟尼佛受然燈記，成賢劫佛，托質皇宮，度生母腹。㘞地獅吼，三界尊獨，容顏殊特，秋蟾春旭。御遊鳳城，悟世迅速，視金輪位，不啻帚禿。雪嶺六霜，突開頂目，光被河沙，道成兩足。忉利首登，為酬鞠育，普副群機，春行艸木。天人歸敬，魔外降伏，三百餘會，響答空谷。拈花啟笑，尾巴露出，不了命根，迦葉能續。丈六金身，幻臨片牘，永陳供養，筆底燈燭。第一祖摩訶迦葉尊者第一祖摩訶迦葉尊者株守金襴於雞足山中，鈍置黃老；喚倒剎竿於王舍城畔，貽累阿難。九十一劫身金色，面皮厚也不堪觀。第二祖阿難陀尊者第二祖阿難陀尊者如來成道祖生日，珠聯合璧。三十二相祖缺一，飴甘如蜜",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment, praising humans and gods bowing and fiends subdued, the three hundred-odd assemblies an echo answering an empty valley, the tail showing at the flower-and-smile and Kashyapa keeping the life-root alive."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "B/B25/B25n0145.xml",
+        "J/J26/J26nB178.xml",
+        "J/J25/J25nB163.xml",
+        "J/J29/J29nB248.xml",
+        "J/J28/J28nB202.xml",
+        "J/J26/J26nB182.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Kaifu Daoning",
+        "Zhongfeng Mingben",
+        "Feiyin Tongrong",
+        "Guting Shanjian",
+        "Dabian Xianquan",
+        "Baichi Xingyuan",
+        "Wanru Tongwei",
+        "Jifei Ruyi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The conventional count of the sage's sermon assemblies, named as one bulk corpus to be weighed against the one thing beyond words. Kaifu Daoning tells his assembly the sage came down from Tusita to Jambudvipa and spread boundless meanings through forty-nine years and three hundred-odd assemblies, matching sicknesses with prescriptions, Zhongfeng Mingben writes to the ailing monk Lin that those years and assemblies, dust-talk and world-talk now bound into one canon, are the prescription with the tasteless old case as its secret drug, Feiyin Tongrong weighs the same years and assemblies against the one upward move and calls them dust flung against the wind, beyond grasping, and Guting Shanjian rules that once the old case breaks open one suddenly sees them all as external business, with Shakyamuni's own face left homeless. Dabian Xianquan asks why, after declaring things beyond words, the old man threw dust for forty-nine years with three hundred-odd assemblies of tongue-boiling toil, Baichi Xingyuan rules that one taker that dawn would have spared the assemblies their long buying and short selling, principal and interest all lost at the last branch-tip, Wanru Tongwei has the star-struck sage come rushing out to preach those years and assemblies, prescribing true formulas and selling false medicine with nothing real in the lot until the final flower, and Jifei Ruyi praises the image with humans and gods bowing and fiends subdued, the three hundred-odd assemblies an echo answering an empty valley, the tail showing at the flower-and-smile."
+    }
+  ]
+}

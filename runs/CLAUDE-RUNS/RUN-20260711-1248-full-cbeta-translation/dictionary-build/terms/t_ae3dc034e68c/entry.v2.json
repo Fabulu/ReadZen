@@ -1,0 +1,194 @@
+{
+  "Id": "t_ae3dc034e68c",
+  "SourceTerm": "千七百則",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:02:25Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the seventeen hundred old cases",
+      "AlternateTargets": [
+        "the 1,700 inherited cases"
+      ],
+      "SearchAliases": [
+        "seventeen hundred cases",
+        "the 1,700 old cases",
+        "the inherited case corpus by count"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 235 hits in 118 files representing 117 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0709b14",
+          "ToLb": "0710a09",
+          "Kwic": "具三種心。第一具大信心。第二具了生死心。第三具不退轉心。信得及則始終不惑。生死切則用心必至。不退轉則决定成就。三心既具則十二時中無虛棄底工夫。既不虛棄則念念爾心心爾塵塵爾剎剎爾。忽然向用心不及處著力不得時。和箇信得及底了生死底不退轉底。一時打失。當體洞明如十日並照。間不容髮。說甚麼崑崙騎象舞三臺。縱饒一千七百則葛藤。不直一笑而氷釋矣。即此便是真叅實悟底時節。恁時不妨於山河大地四大五蘊中。如香象王擺脫鐵鎻。獨步大方遊行自在。豈不韙歟。是則是矣。更須知有祖師門下衲僧面前換轉眼睛突出牙爪一著子猶隔天涯在。結夏示眾。大眾。踞菩薩乘修寂滅行。以大圓覺為我伽藍。身心安居平等性智。此是二千年外老釋迦畫地為牢。與當時眾比丘。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, rating even a thousand vines of the seventeen hundred worth less than one laugh once the whole body shines through at once."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0733b12",
+          "ToLb": "0733c11",
+          "Kwic": "註了，講也為你講了，這公案何等明白！一春九十日，終日講故事，話新聞，有甚麼限？春雨如膏，夏雨如饅頭，周文王是糊餅。莫道雲溪不道，雲溪長老從來老實，一句不打誑語的。」雲溪俍亭挺禪師語錄卷之二雲溪俍亭挺禪師語錄卷之三侍者編示眾示眾。「溪山雲月處處同風，水鳥樹林時時顯道。古人不謾語。一大藏教是謾語，千七百則公案是謾語，天下老和尚舌頭是謾語。為甚道古人不謾語？須知古人話頭總只應個時節有問有荅，蓋是尋常一切處成現，轉轆轆地不費纖毫氣力，自成文彩、自有眼目，不是尋常湊泊得的。祗如芙蓉楷與投子青遊園次，青以拄杖付楷曰：『理合與麼。』楷曰：『與和尚提鞋挈杖不為分外。』青曰：『有同行在。』楷曰：『那一個不受教？』青遂休",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment, declaring the whole store, the seventeen hundred cases, and every old monk's tongue to be lies, yet the ancients no liars."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0549a09",
+          "ToLb": "0549a22",
+          "Kwic": "且正當今日，畢竟生何國土？」乃揮拂子云：「香雲疊疊承雲馭，咫尺蓮邦信可居。」中秋，示眾。「濃雲積霧已經旬，忽地天拋片月新，雨後舒光當此夜，風前得旨是何人？靈山話，涉吻唇，曹溪指，隔關津，爭似天寧一句親？但得陰霾都掃盡，清光喜見十分真。」晚參。「諸佛意，祖師禪，釋迦心明似鏡，達磨口直如弦，一大藏教光流東土，千七百則聲振西乾，說頓說漸、說實說權、談照譚用、談要談玄，從頭一一生按過，都盧不值半文錢。天寧不是抑人揚己，亦不是欺聖罔賢，參透其中一句旨，從教鼻孔自遼天。」歲節，晚參。舉：「昔日僧問鏡清：『新年頭還有佛法也無？』清云：『有。』僧云：『如何是新年頭佛法？』清云：『元正啟祚，萬物咸新。』僧云：『謝師荅話。』清云：『山",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment, crediting the store with flowing east and the seventeen hundred with shaking the western dryness, then rating the whole pressed-over pile at half a copper coin."
+        },
+        {
+          "RelPath": "J/J27/J27nB191.xml",
+          "FromLb": "0158b19",
+          "ToLb": "0158c01",
+          "Kwic": "舌頭在不在？」僧擬進語，師便喝。晚參。「二七去、三七來，也曾大遣、也曾大排，白汗出了又出，妄緣灰而復灰，秪恁麼休去歇去、木頭石塊去，第一義諦灼然昭著，從教枯木花開。大眾還信枯木花開麼？」作手舞勢，云：「只有一雙無相手，不曾容易舞三台。」小參。「三七從來二十一，若智若愚俱委悉，及問前三與後三，十個五雙會不得。千七百則亦復然，拶未透時如鐵壁。朝鐵壁、暮鐵壁，二六時中無罅隙，人人不奈鐵壁何，誰知鐵壁好消息？好消息，識不識？遠山濃似佛頭青，近水湛如僧眼碧。」乃舉：「昔日白雲端云：『參究古人公案，未透時如鐵壁相似；及乎透了，元來自己是鐵壁。』山僧則不然，參究未透時如鐵壁，及乎透了百雜碎。且道：古人道的是？山僧道的是？試簡別看",
+          "MasterName": "Jinian Jingxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinian Jingxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. Jinian Jingxian owns the retained deployment, pressing the seventeen hundred into an iron wall that yields good news only when it breaks."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0341c27",
+          "ToLb": "0342a10",
+          "Kwic": "洞宗？」僧擬議，師打，云：「不勞納敗。」乃云：「如如向上，沒可安排，大火聚中，不容蚊蚋。」拈拄杖，卓一卓，云：「然則神鼎今日當爐不避火，要且鎔缾盤釵釧為一金、攪酥酪醍醐為一味，且道是向上、不是向上？無論世界闊一丈、火爐闊一丈，直得豎窮三際、橫亙十虛，一切是聖、是凡？是魔、是佛？有學、無學？有情、無情？乃至千七百則爛葛藤、五千餘軸破故紙都盧向此中一時銷鑠，無有纖毫透漏，且道是安排、不是安排？設有純鋼打就、生鐵鑄成、不顧危亡底漢來，正好朝與三千、暮與八百，且道容蚊蚋、不容蚊蚋？還委悉麼？」復卓拄杖，云：「換骨洗腸重整頓，通身手眼更須參。」示眾。「金剛圈，栗棘蓬，陳爛骨董，不用拈出。祕魔叉，石鞏弓，多年滯貨，撥置一邊。",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment, melting the seventeen hundred rotten vines and five thousand-odd worn scrolls into one gold in the fire with no thread leaking through."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0611a22",
+          "ToLb": "0611b12",
+          "Kwic": "，折旋俯仰，豈不是佛是法？這箇是諸方叢林中學得底家常茶飯，有什麼交涉？既無交涉，又莫是泥龕塑像，黃卷赤軸，是佛是法麼？又莫是即心非心，亦有亦無，半合半開，是佛是法麼？又莫是麻三斤，乾屎橛，庭前栢樹子，是佛是法麼？又莫是觀世音將錢買胡餅，放下手元來是饅頭，蝦䗫𨁝跳上天，蚯蚓驀過東海，是佛是法麼？又莫是盡一千七百則主賓互換生殺之機，與一大藏五時八教權實之旨，是佛是法麼？這箇又是諸方老凍膿嘔出底野狐涎唾，又有什麼交涉？既無交涉，又莫是即今口吧吧地與眼眨眨地，是佛是法麼？這箇喚作鼓無明袋，弄粥飯氣，沒交涉中更沒交涉。既無交涉，畢竟佛法二字却教甚麼人說？又教甚麼處了？喝一喝。若是師子，便合翻身，韓獹一任逐塊。所以道：赤肉",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment, sweeping the seventeen hundred exchanges of host and guest with the whole store's weighing of provisional and real into the old monks' fox spit."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0109b13",
+          "ToLb": "0109b27",
+          "Kwic": "家境界，現成覿體不受囊藏，施機發用八面威光。所以道：若論戰也，各各力在轉處。雖然如是，秪如今日，開堂祝聖一句作麼生道？邊邦寧靜歸王化，萬姓謳歌樂太平。」下座。開爐上堂，「淨裸裸、赤灑灑、沒可把，長連床上消閒過日，猛火爐頭話無主賓，撫沒絃琴唱無腔曲，笑他釋迦老子捏怪多事，達磨祖師勉強出頭，三藏玄文拭瘡疣紙，千七百則破爛草鞋，真是貽子害孫，鈍置殺人。忽有人問蓮峰：『今日出來，作甚麼即得退身有分？』」復舉：「趙州謂眾云：『我向行腳到南方，火爐頭有個無賓主話，直至如今無人舉著。』」師云：「大小趙州，舊習不忘，賣弄己醜。今日恰遇此個時節，不妨與他頌出：無賓主話若何論，覿露當陽世界吞，越色超聲常顯煥綿延終古逾彌存。」下座。臘",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, calling the store paper for wiping sores and the seventeen hundred worn straw sandals that becalm and blunt his sons and grandsons."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0767c03",
+          "ToLb": "0767c17",
+          "Kwic": "行住坐臥，莫不承他恩力。但於此密密體認，即此便是下手處、即此便是趣向處也。便須直下承當，切忌等閑蹉過，發大勇猛、起大精進，要在箭鋒相拄、機筈相投。古人云：一不做，二不休，一拳拳倒黃鶴樓，一踢踢飜鸚鵡洲。有意氣時添意氣，不風流處也風流。果有古人如是作略，則德山與臨濟，與你是同參；釋迦與彌陀，阿曾有兩箇？併將千七百則諸祖機緣，與正法眼藏、涅槃妙心，穿作一串，颺在一邊，然後獨步大方，普告諸人道：丈夫自有通霄路，不向如來行處行。當此之時，則上座望風展拜有分。其或未然，莫恠壓良為賤，再下一箇註脚：世事茫茫沒了期，自家活計猛提撕。落湯螃蠏人人見，投火飛蛾箇箇知。病到始憐身是苦，死來惟有業相隨。浮光幻影須臾過，火急脩行也是遲。",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment, stringing the seventeen hundred ancestral moves with the true-eye treasury and the subtle heart and tossing the string aside to walk his own road through the sky."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J33/J33nB294.xml",
+        "J/J40/J40nB494.xml",
+        "J/J27/J27nB191.xml",
+        "J/J37/J37nB386.xml",
+        "X/X70/X70n1397.xml",
+        "J/J26/J26nB178.xml",
+        "X/X70/X70n1403.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Liangting Jingting",
+        "Yushan Shangsi",
+        "Jinian Jingxian",
+        "Yuan'an Liao",
+        "Xueyan Zuqin",
+        "Feiyin Tongrong",
+        "Tianru Weize"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The conventional count of the inherited old cases, invoked as one bulk body to be dismissed, melted, or settled at a stroke. Zhongfeng Mingben rates even a thousand vines of the seventeen hundred worth less than one laugh as they melt, Liangting Jingting's opening instruction declares the whole store, the seventeen hundred cases, and every old monk's tongue to be lies that yet do not lie, Yushan Shangsi's evening verse credits the store with flowing east while the seventeen hundred shake the western dryness, and Jinian Jingxian's small-assembly verse presses the seventeen hundred into an iron wall until it breaks open into good news. Yuan'an Liao sets his Shending furnace to melt the seventeen hundred rotten vines and five thousand worn scrolls at once with nothing leaking through, Xueyan Zuqin sweeps the seventeen hundred exchanges of host-and-guest and the whole store into one bulk and calls them fox spit, Feiyin Tongrong names the seventeen hundred as worn straw sandals that dull his descendants while he teases Zhaozhou's old footnote, and Tianru Weize strings the seventeen hundred ancestral moves with the treasury and the subtle heart and tosses the string aside to walk the road the buddha never walked."
+    }
+  ]
+}

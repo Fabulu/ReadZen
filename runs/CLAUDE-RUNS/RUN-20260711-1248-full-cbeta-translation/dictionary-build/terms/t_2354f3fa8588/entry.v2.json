@@ -1,0 +1,201 @@
+{
+  "Id": "t_2354f3fa8588",
+  "SourceTerm": "事事無礙",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T08:43:33Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "thing with thing, nothing obstructed",
+      "AlternateTargets": [
+        "every thing holds every thing",
+        "no thing blocks any thing"
+      ],
+      "SearchAliases": [
+        "the fourth realm",
+        "mutual non-obstruction of things",
+        "each thing interfusing each thing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 206 hits in 98 files representing 98 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0246c08",
+          "ToLb": "0246c22",
+          "Kwic": "隨聲應，奪得荊蠻一個船。且道賓家分上？主家分上？寶峰上堂：衲僧門下無非過量境界、自在禪定。乃喝一喝，曰：豈不是過量境界？又謦欬一聲，曰：豈不是自在禪定？阿呵呵！將此深心奉塵剎，是則名為報佛恩。雲居莊云：顯示過量境界，自在禪定，還他真淨老人。若是衲僧門下，猶欠悟在。徑山則不然。拈拄杖，卓一卓，云：得之於心，事事無礙；應之於手，法法圓成。靠拄杖，云：他家自有通霄路，不向如來行處行。寶峰法界三觀六頌。其一曰：事事無礙，如意自在。手把猪頭，口誦淨戒。趂出婬房，未還酒債。十字街頭，解開布袋。一指海，云：寶峰老漢奇特！甚奇特！冷眼看來，只是個破戒比丘。山僧則不然，事事無礙，如意自在，食不論頓，睡嬾解帶，見惡不瞋，見好亦愛，一",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate's Raising of Old Cases. Zhenjing Kewen owns the retained deployment: the freedom refrain that every later row in this entry either quotes, corrects, or fences."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0022c10",
+          "ToLb": "0022c22",
+          "Kwic": "子身中入定時，女子身中從定出；東方人定，西方起；男身沒，女身彰，如是則何妨母身沒，子身彰？佛佛悟此，不見優劣相，不生人我見，成一真法界。故永嘉云：『夢裡明明有六趣，覺後空空無大千。』蓋法界體各各圓滿具足，只爭悟與不悟。悟則當下透脫，覿體全彰，永斷輪迴。所以相替不得，各要努力。然法界有事、有理、有事理無礙、有事事無礙。未悟之人只見其事，不見其理，業識茫茫，無本可據；若悟之人只據本分一著，蓋天蓋地，無天堂可欣、無地獄可厭，處處圓融、事事無礙。故真淨和尚云：『事事無礙，如意自在。手把豬頭，口誦淨戒，趁出婬坊，未還酒債，十字街頭解開布袋。』」驀拈拄杖云：「事事無礙，如意自在，信手拈來，貫徹法界。佛鬼妖魔，無此無彼，地獄天堂。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhenjing Kewen",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, stamping the couplet with his staff: whatever the hand picks up runs through the whole realm-field, with no this-and-that between buddha, ghost, and fiend."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0165a07",
+          "ToLb": "0165a21",
+          "Kwic": "當然，承惠《華嚴品旨》，謹覽一遍，足下以妙嚴一品貫攝三十九品，謂華嚴品品是世主妙嚴，又謂此品是主，餘品是伴，據此亦是一見，但在品品位位當宗門中，意有相乖，足下高明，一舉便知，蓋華嚴意旨雖圓融行布、包博無遺，而在當宗當位其亦圓融行布攝無不盡，何得昧此而反另作一說，恐於當宗當品未必然耳。又以山河大地一時坐斷是事事無礙法界，誤錯甚矣，殊不知一時坐斷乃是得入空境證理無礙，若事事無礙，即山河上明一山河遍入無量山河，且不壞一山河之相，無量山河攝入一山河之內，亦不壞無量山河之相，到此即得迥出於思議之表。古人於內打出，則曰事事無礙，如意自在，手把豬頭，口誦淨戒，趁出婬坊，未還酒債，顧此豈是一時坐斷為事事無礙耶？如此之意教家謂之綱",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, ruling that cutting off mountains and rivers at one stroke is still the principle-realm, while thing with thing means one range entering numberless ranges with neither face broken."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0478a08",
+          "ToLb": "0478b11",
+          "Kwic": "向伊道個瞎若於此未會須更聽山僧葛藤乃曰今辰四月八日正是我釋迦如來當時示生降誕之日捨身命處所以既從出家成道以來則有曰淨法界身本無出沒大悲願力示有去來又言法身無相藉法界以為身心智無依等太虛而為量所言法界者即四聖六凡是也上至諸佛下至一切含靈莫不總是我如來一個根本法身更言法界有四所言事法界理法界事理無礙法界事事無礙法界該盡世間出世間法矣然總爾既是一個如來法身則何處更有個眾生可度也耶以有大悲願力故示同人生死同人壽命同人好惡同人取捨同人哀樂同人是非於是中間遂有佛道可成有眾生可度然有眾生即有佛有佛即有眾生皆不出我一念靈知之心所以一念悟去即佛一念迷即眾生又一念善即天堂一念惡即地獄所謂心佛眾生三無差別即心即佛不其然乎山僧",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment, running the four realms to their end and gathering world and world-transcending truth into the one root body."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0744a05",
+          "ToLb": "0744a19",
+          "Kwic": "文字之外。別喚甚麼作佛境界。其外見有所書之經。內見有能書之心。以能所之二見未忘。欲淨其意等太虛空。未知其可也。一真如性元無分別。經卷與世俗文字等。讚歎與辱罵等。諸佛與眾生等。法界與一塵等。即其等心亦不自立。妄想乃盡諸取亦離。安有此經為我所書者哉。此心無礙則法無礙。法無礙故則理無礙。則事無礙。則理事無礙。則事事無礙。則一切法界俱無礙。則書亦無礙。不書亦無礙。喚作華嚴亦無礙。不喚作華嚴亦無礙。其所書之經今有人以七寶摩尼珠而用莊嚴。以無量諸香雲而用熏染亦無礙。有人以不善心。碎其卷軸投之水火。置之穢濁等處亦無礙。乃法性之本然。非以力排而智使之至此無礙之地。儻於此無礙法中。微加一毫心力情意而欲和合。則展轉成有礙也。即今日用",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, climbing the ladder of no-obstruction until copying the Garland and not copying it are both unobstructed."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0777a04",
+          "ToLb": "0777a17",
+          "Kwic": "下；聖天子得之，奄有四海，恊和萬󳬛；阿羅漢得之，具五神通，證四果位；辟支迦得之，出無佛世，度有緣人；諸菩薩得之，行願相資，智悲雙運；佛世尊得之，演說一大藏教，化度九界眾生。至如天台宗師，談具談即，談空假中，或談折攝二門，四種淨土，皆此法也。華嚴宗師，說毗盧性海，說普賢行門，說理法界．事法界．理事無礙法界．事事無礙法界，亦此法也。達磨一宗，說不立文字，直指人心，或說佛祖命燈，或說本來面目，總不外乎此法也。恁麼則含吐十虗，該羅萬有，口口道著，步步踏著，因甚麼百姓日用而不知，飯籮邊坐却嫌飢？不知者且莫說，只如古今以來，多少聦明之士，知有此法者，却向文字上講明，義理中尋究，講也講得明，究也究得到，爭奈文字自是文字，義理自是",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment, listing the Garland teachers' four realms beside the Pure Land gates and the founding teacher's one line as all pointing at the same one truth."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0153b25",
+          "ToLb": "0153c08",
+          "Kwic": "侍者、書記、監收、直歲、庄頭及餘一切諸職各各有應管底業務麼？若以此為事，則必以長連單上參得底為理，恁麼則理不是事、事不是理，作麼生說箇事無礙、理無礙？若道長連單上參得底便是諸職事做底，諸職事做底便是長連單上參得底，謂之事理無礙法界。須知更有信手拈來一毫頭獅子、百千億毫頭獅子，無論順逆大小，當處全真，謂之事事無礙法界。若總與麼定當，恰好做得箇座主使下，何處復有宗門眼目？何況更說某甲職事與某乙職事不著，便某處堂頭好、某處堂頭不好，某保社規矩嚴謹、某保社散誕，較長度短、辯是爭非，只管終日聚著頭絮絮忉忉，你道還有星子衲僧氣息麼？龐蘊居士云：『日用事無別，惟吾自偶諧，頭頭非取捨，處處莫張乖。朱紫誰為號？丘山絕點埃，神通與妙",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, granting the realm its lion-hair showing and then warning that pinning the four realms down neatly would only make a lecturer's assistant and lose the school's eye."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0332a01",
+          "ToLb": "0332a05",
+          "Kwic": "教當入我之一念，為徑中之徑，不亦宜乎？謂此經分屬圓教。天台以圓教獨歸法華，鈔云：事事無礙，惟華嚴有之。既云圓教，豈不攝事事無礙？以事事無礙標法界觀名，豈不攝圓彌陀分屬？如掬海之一滴，不妨同於全",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, asking how a perfect teaching could fail to hold thing with thing, one drop of the sea no less than the whole tide."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB178.xml",
+        "L/L153/L153n1637.xml",
+        "B/B25/B25n0145.xml",
+        "X/X70/X70n1403.xml",
+        "J/J38/J38nB406.xml",
+        "X/X72/X72n1435.xml"
+      ],
+      "RelatedMasters": [
+        "Zhenjing Kewen",
+        "Miyun Yuanwu",
+        "Feiyin Tongrong",
+        "Huanyou Zhengchuan",
+        "Zhongfeng Mingben",
+        "Tianru Weize",
+        "Tianran Hanshi",
+        "Wuyi Yuanlai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The fourth realm: where thing and principle merging was still a halfway house, every single thing now enters and holds every other thing. Zhenjing Kewen's own six verses on the three realm-views open with the freedom refrain — pig's head in hand, precepts on the lips, brothel left, wine debt unpaid, the bag opened at the crossroads; Miyun Yuanwu raises the same couplet in his hall and then stamps it with his staff: thing with thing nothing obstructed, as-you-wish and free, whatever the hand picks up runs through the whole realm-field; Feiyin Tongrong writes back to a fellow master that cutting off mountains and rivers at one stroke is still only the principle-realm — thing with thing means one range entering numberless ranges with neither face broken; Huanyou Zhengchuan on the birthday day runs the four realms to their end and says they gather up world and world-transcending truth entire. Zhongfeng Mingben climbs his ladder of no-obstruction from the unobstructed heart through every rung until copying the Garland and not copying it are both unobstructed; Tianru Weize tells an assembly the Garland teachers' four realms, the Pure Land gates, and the founding teacher's one line all point at the same one truth; Tianran Hanshi warns that pinning the realms down neatly would only qualify a man to be a lecturer's assistant and lose the school's eye; and Wuyi Yuanlai, answering a letter on where the fourth realm belongs, turns the boundary question back on its asker — if it is the perfect teaching, how could it fail to hold thing with thing?"
+    }
+  ]
+}

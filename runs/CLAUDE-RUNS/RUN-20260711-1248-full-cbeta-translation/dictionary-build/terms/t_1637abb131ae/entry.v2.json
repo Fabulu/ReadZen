@@ -1,0 +1,193 @@
+{
+  "Id": "t_1637abb131ae",
+  "SourceTerm": "行解相應",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:24:55Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "walking and understanding in accord",
+      "AlternateTargets": [
+        "conduct accordant with insight"
+      ],
+      "SearchAliases": [
+        "the walking matches the understanding",
+        "walking and knowing in step",
+        "the accord of walking and understanding"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 148 hits in 96 files representing 95 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0428b04",
+          "ToLb": "0428b19",
+          "Kwic": "地。入聖智門。以此相應。名宗通相。此是行時。非是解時。因解成行。行成解絕。則言說道斷。心行處滅。如楞伽經云。佛告大慧。宗通者。謂緣自得勝進相。遠離言說文字妄想。趣無漏界自覺地自相。遠離一切虛妄覺想。降伏一切外道眾魔。緣自覺趣光明輝發。是名宗通相。所以悟心成祖。先聖相傳。故達磨大師云。明佛心宗。寸無差悟。行解相應。名之曰祖。又偈云。亦不覩惡而生慊。亦不觀善而勤措。亦不捨愚而近賢。亦不拋迷而就悟。達大道兮。過量。通佛心兮。出度。不與凡聖同躔。超然。名之曰祖。問。悟道明宗。如人飲水。冷暖自知。云何說其行相。答。前已云。諸佛方便。不斷今時。密布深慈。不令孤棄。已明達者。終不發言。只為因疑故。問因問故答。此是本師。於楞伽",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained citation, setting the founder's stamp into the charter chapter: bright in the buddha-mind lineament, without a hair of error, walking and understanding in accord — thereby named the ancestor."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0135a03",
+          "ToLb": "0135a16",
+          "Kwic": "綱宗有交涉麼？諸如臨濟三玄、三要、四料揀，須知面目現在；雲門三句，不是強作；法眼六義，豈為區區；溈仰九十七種圓相，雖則大珠小珠落玉盤，在作家分上一擲粉碎，卻來伸手問你取。還會麼？大眾！饒你一家家宗旨透脫，都只是者一句子註腳。所以古人一言一句，棒打石人頭，嚗嚗論實事，不是知解穿鑿得來、道理捏合得去。古人云：『行解相應，名之曰祖。』他解處即是行處、行處即是解處，不是今日如是解、他日纔如是行，古人如是行、今人纔如是解。有等禪和子在長連單上學得口頭滑溜，如何是佛？如何是祖師西來意？如何是萬法歸一？一歸何處？燈籠露柱、佛殿三門，撥牌子過去道：『我會佛法，我會禪道。』莫問他本分上事，且作得箇知解道理看麼？我在青州做一領布衫重七",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, unpacking the verdict — his understanding-place is his walking-place — against the recitation-bench smooth-talkers who mouth what is the buddha and what is the founder's coming-intent."
+        },
+        {
+          "RelPath": "J/J25/J25nB159.xml",
+          "FromLb": "0139b25",
+          "ToLb": "0139c08",
+          "Kwic": "無有不定時」。或者云：「某人雖不會道，柰何死得好，有堅固子。」此是夢中說夢。僧問古德云：「大死底人卻活時如何？」荅云：「不許夜行，投明須到。且無你用心處。你若古今見盡、迷悟情消，則常轉法輪，一切時出生、一切時滅度。」貧道痛以慧命危甚，若一絲九鼎，觀今玄紹之徒，概似兒戲之所為耳！但要誑得入手則已，豈知吾祖有行解相應名之曰祖之誡乎？亦是為師不審學者之才器堪否，而苟圖收拾門人之私，致招法門之辱累也。如子順大川禪人自捨緣入道，於真定、金臺二處掩關，下得定力之功，而本地風光未發，故南詢師匠決擇，懷香禮余，呈似功夫次第，余知做到湛不搖處，猶未出他識陰區宇。此是靜想不脫，所以己見不明，殊知勞慮永斷，得法界靜，即彼靜解，為自障礙",
+          "MasterName": "Dufeng Shan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dufeng Shan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB159.xml). Essential Sayings of Chan Master Tianzhen Dufengshan. Dufeng Shan owns the retained deployment, asking whether the tricksters who merely want the thing in hand have ever met the ancestor's admonition, and blaming the teachers who never weigh the student's vessel yet gather disciples for private credit, dragging the school into shame."
+        },
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0100b17",
+          "ToLb": "0100b28",
+          "Kwic": "。」師云：「且道得何利益？」進云：「施者、受者還得受用也無？」師云：「龍得水時添意氣，虎逢山勢長威獰。」進云：「野老謳歌忘帝力，相逢同樂太平年。」師云：「再三撈摝始應知。」問：「當陽一句，作者難謾，覿面相呈，請師一接。」師云：「大座當軒孰敢窺？」進云：「若有一法，毘盧墮在凡夫；萬法若無，普賢失其境界。如何得行解相應去？」師云：「話頭何在？」進云：「二俱坐斷，和尚如何舉揚？」師云：「打點不是好手。」進云：「吸乾鴛渚水，獨坐驗龍蛇。」師云：「作家，作家。」僧便喝，師便打。進云：「只得禮拜了退。」師打，云：「不妨疑著。」乃云：「動靜一原，往復無際，彈指功圓，不離當處。行時無說路，說時無行路，行取說不得，說取行不得，此行解相應",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenfeng Xian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained answer: asked how to get to walking-and-understanding accord — with one thing left Vairocana falls among ordinary men, with the myriad gone Samantabhadra loses his sphere — he turns it back: where is the word-head?"
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "1029a04",
+          "ToLb": "1029a17",
+          "Kwic": "訓門人十要訓門人十要一既得法印必加精研差別不得離師太早一、既得法印，必加精研差別，不得離師太早古之學者，嘉言可以軌物、善行可以服人，故奮志於百城、置身於萬里，饑寒不顧、毀譽不動，秪期悟明生死大事而後已。一旦穿透，投契師資，如空合空、如水入水，麾之不去、召之不來，有不可測度者。蓋慮祖道恐不得人，則失其傳，必須行解相應之士，俾紹厥統，庶可以唱道利生，而名譽勢利不足以為籓也。今之學者則異焉，既不誠懇咨決心疑，亦無淵弘博雅之量足以服物，汲汲以囑累虛名，挂眸長老或委曲裁成，學人竟居然承續，由是狂者妄行、巧者僭竊，既為高飛得志，遂爾遠舉暢懷，至覈其差別因緣，十箇有九箇茫然。無稽之談，饒舌大書於冊，貽笑明眼，不可勝指，此非候蟲亂",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment, ruling that an accorded one must carry the line so fame and gain cannot fence him, while today's learners scramble for bequeathed titles and go blank at the probe of their difference-conditions."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0623a16",
+          "ToLb": "0623b02",
+          "Kwic": "熟三更讖，喜得功成九月秋。○更透者重關捩子，蘆花和影浸滄洲。」僧蓮果火。「一段風光本成現，蓮開陸地花如霰，拈來覿面須親薦。莫留戀，大冶爐中看轉變。」也魯火。「爾方十六齡，棄俗尋師友。經律頗相應，死生悟非久。燄裏好翻身，雲閒須撒手。也魯也魯，出世因緣尚未周，此番歸去早回首。」三喻禪人火。「翛然一笠遍天涯，行解相應玅法華，霜老煙成堅固後，逢人正好喻三車。」少谿火。「生從何來？谿邊梅蕊帶霜開；死從何去？燄裏芙蕖和雪露。生死兩途俱踏翻，依舊眉毛眼上安。」舉火。「來是恒如來，去是恒如去，來去總恒如，何必更回互？不回互，火光迸出珊瑚樹。」湛得侍者火。「家住瓊州大海邊，卻來吳地覓生緣。轉身不必余三喚，自有清風舞翠煙。」舉",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment, firing the verse over the pyre — one bamboo hat at ease across the whole world, walking and understanding in accord with the wondrous Lotus Flower, the three carts ready wherever he meets people."
+        },
+        {
+          "RelPath": "L/L154/L154n1638.xml",
+          "FromLb": "0026a09",
+          "ToLb": "0026b12",
+          "Kwic": "甚喜甚九峯是牛頭獄吏泰首座是地獄阿旁那時若無九峯扶出石霜幾被首座累他墮坑落塹幻有老人竪起拳頭且道為九峯為首座和尚今日拳頭在那裏大似貧兒索舊債他道個沒有曾奈拳頭何拳頭失却鼻孔元止半邊當時若是徑山劈脊便打這半邊還知痛癢麼擬議即喝出驚起汗出夜夢不祥近今末法衰替要個真叅實悟的人萬中無一此事大不容易達磨大師云行解相應是名曰祖而今人總之不論意識卜度生死結根縱得十分相似皮毛而已便向人前亂做宗門掃地今日矣或竪指或喝或云和尚何不領話或打○相或拂袖便行或女人拜此等皆是滅胡種之魔子也可悲可痛嗟杜撰長老如麻似粟朽到開先原非本意自念福薄德淺言語不重何能似古人匡宗行道帶水拖泥只可深埋山谷茅屋石鐺隨春秋問花問柳捱一日是一日有何道可悟",
+          "MasterName": "Xueqiao Yuanxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueqiao Yuanxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 7–10). Xueqiao Yuanxin owns the retained deployment: one truly-investigating, truly-awake person in ten thousand, yet people today care nothing — opinion-guessing with the life-death knot intact, ten-tenths fur-and-feather resemblance, then acting wildly before others until the school gate's floor is swept."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0307c11",
+          "ToLb": "0308a01",
+          "Kwic": "出手面一輪，直是清光萬里。三關不立，開鑿人天；四句頓除，光揚祖道。擊拂子，云：八萬四千非鳳毛，三十三人入虎穴。開爐，上堂。古鏡闊狹，火爐淺深。柴炭全無，光𦦨萬丈。無賓主話，不用商量。殺活靈機，何須舉唱。語是誑，默是謗，語默向上有事在。懷州牛喫禾，益州馬腹脹。天下覓醫人，灸猪左膊上。喝一喝，下座。祖忌拈香。行解相應，宗說俱通。眼空四海，氣吐長虹。未離西乾，好椎一頓。既來東土，聊且相容。一華開五葉，隨分得春風。客至，上堂。達磨西來，不立文字，直指人心，見性成佛。者箇說話是人知有，只如一大藏教五千四十八卷，是佛說？是魔說？定當得出，不妨小玉聲中承虗接響，琉璃殿上簸土揚塵，拈三條篾束取肚皮，到處住山去。其或未然，且聽壽",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, crowning the founder in verse — walking and understanding in accord, lineage-telling both penetrating, eyes emptying the four seas — one flower, five leaves, each taking its share of spring wind."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "J/J38/J38nB406.xml",
+        "J/J25/J25nB159.xml",
+        "J/J34/J34nB298.xml",
+        "J/J36/J36nB369.xml",
+        "J/J37/J37nB392.xml",
+        "L/L154/L154n1638.xml",
+        "X/X71/X71n1414.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Tianran Hanshi",
+        "Dufeng Shan",
+        "Shenfeng Xian",
+        "Zhe'an Jingfan",
+        "Hansong Zhicao",
+        "Xueqiao Yuanxin",
+        "Liao'an Qingyu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The walking-and-understanding accord of the Chan records: the founder's test — set in the mirror-treatise, unpacked as the understanding-place being the walking-place, turned back with where-is-the-word-head, demanded of lineage heirs, and crowned in verse at the founder's own memorial. Yongming Yanshou sets the founder's stamp into the charter chapter of the Source-Mirror — bright in the buddha-mind lineament, without a hair of error, walking and understanding in accord, thereby named the ancestor — as the witness his whole transmission argument leans on, Tianran Hanshi quotes the ancients' same verdict and unpacks it in his own ruling: his understanding-place is his walking-place and his walking-place his understanding-place — not understanding so today and only walking so another day, but the ancients walked so first and only now do we understand so — against the recitation-bench monks who learn a smooth mouth and cry I know the buddha, I know the Chan way, Dufeng Shan grieves that the tricksters who merely want the thing in hand have never met the ancestor's admonition, and blames the teachers who never weigh the student's vessel yet scheme to gather disciples for private credit, dragging the school into shame, and Shenfeng Xian, asked — with one thing left Vairocana falls among ordinary men, with the myriad things gone Samantabhadra loses his sphere — how does one get to walking-and-understanding accord, turns the ask back: where is the word-head? Zhe'an Jingfan opens his ten essentials for disciples with it: the ancient learners strove hundred-citied and ten-thousand-li, hunger and cold unheeded, praise and blame unmoving, until the great matter pierced through — a walking-and-understanding-accorded one must carry the line, so fame and gain cannot fence him, while today's learners scramble for bequeathed titles and nine in ten go blank when their difference-conditions are probed, Hansong Zhicao fires the verse over monk Sanyu's pyre — one bamboo hat at ease across the whole world, walking and understanding in accord with the wondrous Lotus Flower, and after the frost-age smoke hardens, wherever he meets people the three carts are there to point to, Xueqiao Yuanxin writes the minister Li Mengbai that in this late age one truly-investigating, truly-awake person is one in ten thousand — the great master said, walking and understanding in accord, thereby named the ancestor, yet people today care nothing for it: opinion-guessing with the life-death knot intact, ten-tenths fur-and-feather resemblance, then acting wildly before others until the school gate's floor is swept, and Liao'an Qingyu at the founder's memorial holds up the incense and crowns him in verse — walking and understanding in accord, lineage-telling both penetrating, eyes emptying the four seas, breath spitting the long rainbow — not yet left the Western Heaven, deserving a good beating; once come to the Eastern Land, tolerated for now — one flower, five leaves, each taking its share of spring wind."
+    }
+  ]
+}

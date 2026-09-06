@@ -1,0 +1,212 @@
+{
+  "Id": "t_ab585bf763a8",
+  "SourceTerm": "如是如是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T08:25:51Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "so it is, so it is",
+      "AlternateTargets": [
+        "just so, just so"
+      ],
+      "SearchAliases": [
+        "thus indeed thus",
+        "exactly so, exactly so",
+        "it is thus, it is thus"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 234 hits in 97 files representing 94 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1989.xml",
+          "FromLb": "0579a07",
+          "ToLb": "0579a26",
+          "Kwic": "事。古來事作麼生。仰山退後立。師云。汝屈我。我屈汝。仰山便禮拜。仰山香嚴侍立次。師舉手云。如今恁麼者少。不恁麼者多。香嚴從東過西立。仰山從西過東立。師云。這個因緣。三十年後。如金擲地相似。仰山云。亦須是和尚提唱始得。香嚴云。即今亦不少。師云。合取口。師坐次。仰山入來。師以兩手相交示之。仰山作女人拜。師云。如是如是。師方丈內坐次。仰山入來。師云。寂子近日宗門令嗣作麼生。仰山云。大有人疑著此事。師云。寂子作麼生。仰山云。慧寂祗管困來合眼。健即座禪。所以未曾說著在。師云。到這田地也難得。仰山云。據慧寂所見。祇如此。一句也著不得。師云。汝為一人也不得。仰山云。自古聖人。盡皆如此。師云。大有人。笑汝恁麼祗對。仰山云。解笑",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1989.xml). Recorded Sayings of Chan Master Lingyou of Weishan, Tanzhou. Guishan Lingyou owns the retained deployment, sealing his heir's answering bow the moment it is given."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0617b20",
+          "ToLb": "0617c14",
+          "Kwic": "起祖云即此用離此用師亦掛拂子於舊處祖便喝師直得三日耳聾。後住洪州大雄山以居處巖巒峻極故號百丈既處之未朞月參玄之賔四方󰦶至溈山黃檗當其首一日師謂眾曰佛法不是小事老僧昔被馬大師一喝直淂三日耳聾黃檗聞舉不覺吐舌師曰子已後莫承嗣馬祖去麼檗曰不然今日囙和尚舉得見馬祖大機大用然且不識馬祖若嗣馬祖已後喪我兒孫師曰如是如是見與師齊减師半德見過於師方堪傳授子甚有超師之見檗便禮拜。囙僧問西堂有問有荅即且置無問無荅時如何堂曰怕爛却那師聞舉乃曰從來疑這箇老兄曰請和尚道師曰一合相不可淂。師謂眾曰有一人長不喫飯不道饑有一人終日喫飯不道飽眾無對雲巖問和尚每日區區為阿誰師曰有一人要巖曰囙甚麼不教伊自作師曰他無家活。僧問抱璞投師請師一决",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Baizhang Huaihai owns the retained deployment, granting Huangbo's reading of Mazu while warning that a view level with the teacher is worth only half the teacher's virtue."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0025b09",
+          "ToLb": "0025b27",
+          "Kwic": "。雲陣煇煇急飛電。箇中人看轉變。遇賤則貴。貴則賤。得珠罔象兮至道綿綿。游刃亡牛兮赤心片片。舉僧問仰山。和尚還識字否。山云隨分。僧乃右旋一匝云。是什麼字。山於地上書箇十字。僧左旋一匝云。是甚麼字。山改十字作卍字。僧畫一圓相。以兩手托。如脩羅掌日月勢云。是什麼字。山乃畫一圓相。圍却卍字。僧乃作樓至勢。山云。如是如是。汝善護持。頌曰。道環之虛靡盈。空印之字未形。妙運天輪地軸。密羅武緯文經。放開揑聚。獨立周行。機發玄樞兮。青天激電。眼含紫光兮。白日見星。舉僧問雲門。如何是超佛越祖之談。門云胡餅。頌曰。胡餅云超佛祖談。句中無味若為參。衲僧一日如知飽。方見雲門面不慚。舉長沙令僧問會和尚。未見南泉時如何。會良久。僧云。",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "record-owner",
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Yangshan Huiji owns the retained deployment, sealing the monk's stance and charging him to guard it well, in the telling Hongzhi versified."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0671a03",
+          "ToLb": "0671a15",
+          "Kwic": "為汝提回便，則不侔合于從上。」驀豎拂子，云：「于此剎那際入得轉字法門，轉到盡頭極底處透出一線，頓使山河大地、草木叢林，生機活潑、錦簇花攢。且結底什麼果？」擲下拂子，云：「看郎有分。」臘八日，圓菩薩戒，邑侯王護法、儒學鄒護法設齋，請上堂。僧問：「拈出千華，佛土亦如其數；榮敷一葉，法身光遍虛空否？」師云：「過去如是如是，未來如是如是，現在如是如是。」僧云：「恁麼則毛頭心地通攝河沙也。」師云：「當當常有因故。」僧迴視左右一匝，云：「誰不忍者說？」師云：「僧忍默然故，是事如是持。」僧問：「望月瞻星，如何是性？」師云：「目前了了不爭多。」僧云：「作麼生脫？」師云：「秪在目前千萬里。」僧云：「則洒洒落落，隨處安身立命也。」師打一",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shanzan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi'an. Yi'an Shanzan owns the retained deployment, spreading one seal across the three times in answer to whether one leaf arrays the whole truth body."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1004c28",
+          "ToLb": "1005a03",
+          "Kwic": "谷。與棘林老子也如是。別去一十餘年。今日相見亦如是。且道。其中意作麼生。卓主丈。如是如是而已矣。解夏小參。防微杜漸。深切著明。也是無風。匝匝之波。更若立制安",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment, closing a reunion story of a dozen years apart with the doubled grant and nothing more."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0837b12",
+          "ToLb": "0837b15",
+          "Kwic": "官使直閣判府敷文亦如是簽判節推亦如是縣丞司法亦如是光孝法姪禪師亦如是現前大眾亦如是妙喜亦如是畢竟如何如是如是便下座。姜機宜請",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, letting the single grants pile up and ending the whole discourse on the doubled one."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0297c30",
+          "ToLb": "0298a02",
+          "Kwic": "曰：「趁向水牯隊裡。」曰：「甘麼？」師曰：「不怕他苦死。」曰：「善知識如是乎？」師曰：「如是如是。」僧問：「如何是佛？」師曰：「飽叢林。」曰：「如何是法？」",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment, answering the whole question about what a guide of the way is with the doubled grant alone."
+        },
+        {
+          "RelPath": "J/J29/J29nB240.xml",
+          "FromLb": "0560c07",
+          "ToLb": "0560c21",
+          "Kwic": "來看來，真箇真箇。何故？一二三四五。」上堂。「主山高，案山低。左青龍，右白虎。年年三百六，月月二十五。逆數順數，數到牛首山雲巖寺大殿裡，恰似佛幻三月前鞔底鹿皮鼓。」一喝居士打口鼓，師呵呵大笑。上堂。「吾宗迥別，有口難說。設或有說，早不中節。如說如行，轉不相應。顛顛倒倒，卻也恰好。說如是，行如是，元來元來，如是如是。」喝一喝。師住南濱寶聖寺，啟藏上堂。「釋迦如來撒土拋沙，又道四十九年無一字；歷代祖師牽藤引蔓，豈止千七百則之多？即今人天座上又作麼生？」良久，云：「喜得山僧無口。」牟總戎祈嗣，請上堂。師以拂子畫○，「元正啟祚」；○，「乾父坤母」；○，「坎男離女」；○，「鼻祖耳孫。」○○。袁總戎供大衣，上堂。舉袈裟云：「",
+          "MasterName": "Qingzhong Tiebi Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qingzhong Tiebi Huiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Qingzhong Tiebi Huiji owns the retained deployment, pairing the doubled grant with a doubled (元來) and sealing the sermon with a shout."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1989.xml",
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2001.xml",
+        "J/J37/J37nB394.xml",
+        "T/T47/T47n2000.xml",
+        "M/M59/M59n1540.xml",
+        "J/J34/J34nB301.xml",
+        "J/J29/J29nB240.xml"
+      ],
+      "RelatedMasters": [
+        "Guishan Lingyou",
+        "Yangshan Huiji",
+        "Baizhang Huaihai",
+        "Huangbo Xiyun",
+        "Hongzhi Zhengjue",
+        "Yi'an Shanzan",
+        "Xutang Zhiyu",
+        "Dahui Zonggao",
+        "Jiqi Hongchu",
+        "Qingzhong Tiebi Huiji"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The doubled seal: what the other side just said or showed is granted outright, and the second grant closes the case. Guishan Lingyou crosses his two hands and, when Yangshan answers with a woman's bow, seals it on the spot in his own record; Baizhang Huaihai, in the ancient worthies' record, grants Huangbo's reading of Mazu and straight away warns that view matching the teacher earns only half his virtue; Yangshan Huiji, inside Hongzhi Zhengjue's verse file, seals the monk who takes the future-buddha stance and tells him to guard it well; and the Yi'an master spreads one seal across past, future, and present in answer to the thousand-flower question. Xutang Zhiyu closes the story of meeting his old friend after a dozen years with the bare doubled grant and nothing more; Dahui Zonggao runs his roll-call — the officials, the assembly, himself — and drops the seal before leaving the seat; Jiqi Hongchu, asked whether a guide of the way is really thus, answers with the doubled grant alone; and Qingzhong Tiebi Huiji seals his own sermon on saying-thus and acting-thus, laughs, and shouts."
+    }
+  ]
+}

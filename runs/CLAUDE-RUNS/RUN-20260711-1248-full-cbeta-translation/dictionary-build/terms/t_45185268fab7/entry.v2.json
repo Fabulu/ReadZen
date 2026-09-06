@@ -1,0 +1,209 @@
+{
+  "Id": "t_45185268fab7",
+  "SourceTerm": "如天普蓋",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:49:34Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "like heaven overspreading",
+      "AlternateTargets": [
+        "as the sky covers all",
+        "heaven-like, blanketing everything"
+      ],
+      "SearchAliases": [
+        "covering all like heaven",
+        "the heaven-covering reach",
+        "overspreading like the sky"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 121 hits in 87 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0623c11",
+          "ToLb": "0623c15",
+          "Kwic": "乾坤。群靈普入。有生有殺。無匿無私。麗水之真金不重。塵途之瓦礫非輕。如天普蓋。似地普擎。孤窮之子歸家。錯判之徒共爭。歷歷落落。撈撈摝摝。滿滿兮十方世界。蕩蕩",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the Song root: true gold weighs no more, gravel no less — heaven overspreading, earth upbearing — the poor son comes home, the misjudging crowd quarrels."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0727b14",
+          "ToLb": "0727c02",
+          "Kwic": "未知。先覺覺後覺。打開無盡藏。運出無價珍。不依倚一物。顯示本來人。浴佛上堂云。一手指天一手指地。末上一機衲僧巴鼻。步步蓮華金盆澡洗。西天東土共流傳。至今處處燒香水。良久云車不橫推。理不曲斷。下座。劉提舉請。上堂云。般若智光。破生死昏衢之暗。金剛寶劍。截結使纏縛之憂。透脫處一念無多。受用處通身具眼。直得如天普蓋似地普擎。如日普照如風普涼。一絲不移纖塵不翳。所以道。一切法不生。一切法不滅。若能如是解。諸佛常現前。又道未達境唯心。起種種分別。達境唯心已。分別即不生。於分別不生法中。認取不變不移無窮無盡。清淨本然周遍法界本來自性。若了得去。於天地未分生佛未立。乃至劫火洞然大千俱壞。於中無一絲毫動搖。無一絲毫起滅。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: one thought is not more at the break-through, the whole body eye in the use — heaven overspreading, earth upbearing, sun on all, wind cooling all, not one thread shifted."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "1012b11",
+          "ToLb": "1012b15",
+          "Kwic": "念前念未止後念相續教中謂之掉舉不知有人人脚跟下不沈不掉底一段大事因緣如天普蓋似地普擎未有世界早有此段大事因緣世界壞時此段大事因緣不曾動著一絲毫頭往往士大夫多",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: under each person's heels a stretch of the great matter that neither sinks nor races — heaven overspreading, earth upbearing; before there was a world it already was; when the world breaks it will not have stirred a hair-tip."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0711c13",
+          "ToLb": "0711c16",
+          "Kwic": "真文殊，無二文殊，若有是者，即二文殊。因甚有百千萬億文殊？」師云：「如天普蓋，似地普擎。」進云：「世尊云：『汝擬擯那箇文殊？』迦葉無對，則笑倒傍觀去也。」師",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an of Longyou. Tian'an Sheng owns the retained deployment: asked why, if there is one true Wenshu and no second, there are a hundred-million Wenshus — heaven overspreading, earth upbearing, the bare couplet as the whole answer."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0250a15",
+          "ToLb": "0250a19",
+          "Kwic": "過舒城，聞濤菴，晚參。云：「若是宗師，須以本分事為人。德山入門便棒，如天普蓋；臨濟入門便喝，似地普擎，終不落二落三，誤賺人家男女。若是隨機引導，自有三乘十二",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: Deshan's stick at the gate is heaven overspreading, Linji's shout is earth upbearing — never second or third, never cheating anyone's sons and daughters."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0216a12",
+          "ToLb": "0216a16",
+          "Kwic": "。山僧不是好為人師，觀法門寥落、祖道衰微，大丈夫在天地間當立身行道，如天普蓋、似地普擎，法雨均霑，三草二木悉得受潤。若也苟圖安逸，耽聲聞行，則被佛祖所呵。今",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: a great man standing between heaven and earth must plant his body and walk the way — heaven overspreading, earth upbearing, the teaching's rain falling equal, three grasses and two trees all moistened."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0414b02",
+          "ToLb": "0414b05",
+          "Kwic": "眾，云：「委悉得麼？即此一法，在凡不減、處聖不增，直下見得徹去，便見如天普蓋、似地普擎，了無向背、不有疏親。若能如是，匪但起禪風于既墜、扶法道于將傾，誠可壯",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gusu Zun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusu Zun. Gusu Zun owns the retained deployment: this one thing is not less in the commoner nor more in the sage — see straight through and it stands heaven overspreading, earth upbearing, no facing or backing, no near and far."
+        },
+        {
+          "RelPath": "J/J40/J40nB477.xml",
+          "FromLb": "0074a26",
+          "ToLb": "0074a30",
+          "Kwic": "舍本求枝，一場畫餅。抑思萬法是心光、諸緣為性曉，若識一心，便明萬法，如天普蓋、似地普擎，日月星辰、山川嶽瀆以至萬象森羅，無不于中發現、于中洞曉，未曾欠缺一點",
+          "MasterName": "Tianyi Juxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyi Juxiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB477.xml). Recorded Sayings of Chan Master Tianyi of Haihui. Tianyi Juxiang owns the retained deployment: the ten thousand things are the light of mind — know the one mind and the ten thousand things are clear, heaven overspreading, earth upbearing, sun and moon and stars and the whole treasury of forms showing forth within it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1992.xml",
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "J/J26/J26nB187.xml",
+        "J/J34/J34nB300.xml",
+        "J/J27/J27nB192.xml",
+        "J/J37/J37nB387.xml",
+        "J/J40/J40nB477.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Tian'an Sheng",
+        "Chaozong Tongren",
+        "Deshan Xuanjian",
+        "Linji Yixuan",
+        "Daxiu Zhu",
+        "Gusu Zun",
+        "Tianyi Juxiang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Like heaven overspreading: the total reach of the one thing — Deshan's stick for one master, the great matter under everyone's heels for another, and the bare answer to a hundred-million Wenshus. Fenyang Shanzhao sets the Song root in verse: true gold from the Li river weighs no more, road gravel no less — heaven overspreading, earth upbearing — and under that roof the utterly poor son comes home while the misjudging crowd quarrels over him; Yuanwu Keqin, at the request of the transport official Liu, works it through the wisdom-light that breaks the dark of birth-and-death and the diamond sword that cuts the fetters: where the break-through happens one thought is not more, and in the use of it the whole body is eye — until it comes to heaven overspreading and earth upbearing, sun shining on all, wind cooling all, not one thread shifted, not one mote screening; Dahui Zonggao diagnoses the racing mind the teaching calls restlessness, and then plants what none of it touches: under each person's heels a stretch of the great matter that neither sinks nor races — like heaven overspreading, like earth upbearing; before there was a world this great matter already was, and when the world breaks, it will not have stirred a hair-tip; Tian'an Sheng, pressed on the one true Wenshu — no second Wenshu, so why a hundred-million Wenshus? — answers with the bare couplet: heaven overspreading, earth upbearing, and when the disciple laughs at Kashyapa's silence he lets the bystanders fall over laughing. Chaozong Tongren, at the evening assembly of Wen-tao hermitage in Shucheng, rules what a lineage master must do: Deshan's stick at the gate is heaven overspreading, Linji's shout at the gate is earth upbearing — never dropping to second or third, never cheating anyone's sons and daughters, while those who guide by capacity have the three vehicles and twelve divisions instead; Daxiu Zhu, watching the gate dwindle, refuses to play teacher for pleasure: a great man standing between heaven and earth must plant his body and walk the way — like heaven overspreading, like earth upbearing — the rain of the teaching falling equal, the three grasses and two trees all moistened; Gusu Zun asks the assembly whether they see it through: this one thing is not less in the commoner nor more in the sage — see straight through and it stands like heaven overspreading and earth upbearing, with no facing or backing, no near and far; Tianyi Juxiang, against branch-chasing after a painted cake, turns it home: the ten thousand things are the light of mind, the conditions announce the nature — know the one mind and the ten thousand things are clear, like heaven overspreading and earth upbearing, sun, moon, and stars, rivers and sacred peaks, down to the whole treasury of forms, all showing forth within it, never lacking one point."
+    }
+  ]
+}

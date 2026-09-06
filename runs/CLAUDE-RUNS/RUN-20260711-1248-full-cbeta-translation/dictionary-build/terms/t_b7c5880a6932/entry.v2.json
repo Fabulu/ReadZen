@@ -1,0 +1,180 @@
+{
+  "Id": "t_b7c5880a6932",
+  "SourceTerm": "一輪明月",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:04:05Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one wheel of bright moon",
+      "AlternateTargets": [
+        "a single disk of moonlight",
+        "one round shining moon"
+      ],
+      "SearchAliases": [
+        "the single bright moon",
+        "one round of clear moonlight",
+        "the moon's one wheel",
+        "a lone bright moon"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 170 hits in 97 files representing 95 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0693b18",
+          "ToLb": "0694a09",
+          "Kwic": "石畔土金色見瞿曇二三七八五僧請益古人十二時謌乃頌之僧請益古人十二時謌乃頌之雞鳴丑夢裏逢人莽莽鹵平旦寅覺來路上弄精䰟日出卯赫赫光明影裏坐食時辰食飽還知是病因禺中巳買賣論量入市肆日南午萬像分明作咲具日昳未張公喫酒李公醉晡時申省來端坐醉醺醺日入酉𦭘蓬竹戶硬撑拄黃昏戌日落西山狐魅出人定亥老鼠牀頭作隊隊夜半子一輪明月蘇嚧哩慈明禪師偈頌語錄終古尊宿語錄卷第十二密古尊宿語錄卷第十三勿一南泉禪師語錄馬祖大寂禪師法嗣。南泉禪師諱普願鄭州王氏子也示眾云王老師賣身去也還有人買麼時有僧出眾云某甲買師云不作貴不作賤你作麼生買僧無對。師同魯祖埽宗杉山喫茶次祖提起盞子云世界未成時便有這箇師云今時只識這箇且不識世",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Shishuang Chuyuan owns the retained deployment: midnight at the hour of the rat — one wheel of bright moon, su-lu-li."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0010b13",
+          "ToLb": "0010c04",
+          "Kwic": "丹霞淳頌云：妙相圓明不可親，奴兒婢子自慇懃。指天指地稱尊大，也是傳言送語人。同安察禪師。僧問：如何是天人師？師云：頭上角不全，身上毛不出。丹霞淳頌云：祕殿重幃曉尚寒，丹墀苔潤未排班。寶香鳳燭煙雲合，寂寂簾垂不露顏。雲住禪師。僧問：如何是諸佛師？師云：文殊聳耳。丹霞淳頌云：無相光中未兆身，清虗渺邈豈為隣。一輪明月當軒照，玉殿蕭蕭不見人。趙橫山柔禪師。僧問：如何是佛？師云：平地望高坡。投子青頌云：江山歷盡幾施功，方得逢人話背同。春到洞庭南壁岸，鳥啼西嶺月生東。曹山霞禪師。僧問：佛未出世時如何？師云：曹山不如。云：出世後如何？師云：不如曹山。五祖演云：若以世諦觀之，曹山合喫二十棒。若以祖道觀之，白雲合喫二十棒。然雖",
+          "MasterName": "Danxia Zichun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Zichun",
+              "Roles": [
+                "verse-author",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Danxia Zichun owns the retained deployment: one wheel of bright moon shining before the porch — the jade hall silent, no one to be seen."
+        },
+        {
+          "RelPath": "X/X70/X70n1396.xml",
+          "FromLb": "0583b06",
+          "ToLb": "0583c01",
+          "Kwic": "太子𨚗吒太子廓清五蘊吞十方，平分風月已乖張。陽春雪曲知音少，打瓦鑽龜謾度量。達磨門人各言所得達磨門人各言所得甜瓜生苦瓠，美棗多荊棘。利旁固有刀，貪人還自賊。六祖風幡六祖風幡不是風幡不是心，紫荊樹上結林檎。高山流水尋常事，不是子期誰賞音。百丈野狐百丈野狐不落不昧強名模，𨚗個男兒是丈夫。夜靜虗堂人寂寂，一輪明月照平湖。南泉斬猫南泉斬猫狸奴提起太生獰，擬議停機隨見坑，最好一刀分兩段，免教千古競頭爭。頭戴草鞋便出去，趙州何事太匇匇？沾衣欲濕杏花雨，吹面不寒楊柳風。不是心不是佛不是物不是心，不是佛，不是物。頂門竪亞摩醯眼，肘後斜懸奪命符。堪咲東村王大姐，却來壁上畵葫蘆。陸亘大夫問南泉天地與我同根陸亘大夫問南泉天",
+          "MasterName": "Wujian Xiandu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wujian Xiandu",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1396.xml). Recorded Sayings of Chan Master Wujian Xiandu. Wujian Xiandu owns the retained deployment: in the still night the empty hall hushed — one wheel of bright moon lighting the level lake."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0619b16",
+          "ToLb": "0619c10",
+          "Kwic": "求。大地一塵，大海一漚。正體不動，分身徧周。圓通面目，描寫難成。直下便是，多少分明。風動綠楊千萬葉，曉來黃鳥兩三聲。妙智之力，眼聲耳色。逼塞虗空，了無痕迹。遮身向上數重雲，應念現前元不隔。慈悲誓願如山重，業識塵勞似海深。十字街頭賣魚去，護生心是殺生心。金剛石畔善財參，未免慈悲為指南，但道現前無可說，一輪明月在寒潭。圓通不許離塵寰，道在尋常日用間。數抹淡煙籠碧樹，一條飛瀑下青山。水中月影如何取？脚下蓮舟不用撑。提起數珠一百八，何曾佛外覔眾生？聞思修，悲智願。此身本空，無剎不現。碧落光明白月輪，玉毫突出黃金面。娑婆人有大因緣，但一稱名現在前。只這如今誰動口，却須問取白衣仙。分明覺觀離根塵，普度羣迷出苦輪。須",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: what stands present cannot be spoken — one wheel of bright moon in the cold pool."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0258c21",
+          "ToLb": "0259a16",
+          "Kwic": "廣錄卷第四無異禪師廣錄卷第五住博山法孫弘瀚彚編首座法孫弘裕同集住建州董巖禪寺語錄上堂。不來相而來，不見相而見，城東母指皆佛面。來已更不來，見已更不見，萬別千差成一片。欲知萬法皆空，大似浮雲閃電。智者了無分別，愚徒強㭊名言。欲求正智，當於六十二見中求幾片白雲橫谷口。欲求解脫，當於眾生心行中求一輪明月印波心。野狐向金毛隊裏翻身，金毛向野狐窟中踞地。如斯會去，則一切眾魔及諸外道皆吾侍也。眾魔者樂生死，生死亦不惡。菩薩於生死而不捨，把將生死來。外道者樂諸見，還見諸見起處麼？菩薩於諸見而不動，太跛挈生。雖是拈空塞空，正好以楔出楔。及盡去也，三界何安？倒跨泥牛，縱之無所。縱之無所，則攀緣何生？攀緣不生，拔其病",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: seek release in the mind-conduct of beings — one wheel of bright moon sealing the wave-heart."
+        },
+        {
+          "RelPath": "J/J40/J40nB490.xml",
+          "FromLb": "0450b03",
+          "ToLb": "0450b18",
+          "Kwic": "住信州博山能仁寺語錄一住信州博山能仁寺上堂一師於康熙己酉正月十二日，受信州郡伯易菴高公，暨現任諸大護法，併七邑紳衿，諸大檀越，及同門雲怡玄三大師，本寺兩序，諸山耆舊請開堂。受請上堂。舉如意云：「一家有事百家忙，師命頻催難躲藏，矧乃郡侯重抑逼，無何勉強為登堂。秪如登堂作個甚麼？」擊如意云：「佇看碧天雲氣靜，一輪明月印千江。」佛殿。「麻三觔，乾屎橛，是什麼？」展具，云：「今朝蓋覆將來，免教重重漏洩。」韋馱。「衛法安僧，摧邪輔正。外道天魔……」以具打○相，云：「咸遵此令。咄！」伽藍。「有者片地，賴君守護，此地未生，當何所務？伽藍神須照顧。」祖師。「你扶頭，我把尾，抬搦交加，瞞神嚇鬼。」據室。「偏不附物，正豈立玄？機",
+          "MasterName": "Suru Honghan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Suru Honghan",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB490.xml). Recorded Sayings of Chan Master Suruhan of Boshan. Suru Honghan owns the retained deployment: the blue sky's cloud-breath stilled — one wheel of bright moon printing a thousand rivers."
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0484a19",
+          "ToLb": "0484b02",
+          "Kwic": "印之中還有透出無疑、越格超宗者麼？若有，始信百年三萬六千朝，返復原來是這漢；若無，佛法在世間，不離世間覺，離世覓菩提，恰如求兔角。還有不離世間、不求兔角者麼？出來與老僧道；若無，不免老僧自道去也。」良久，云：「非但我今俱合煞，恒沙諸佛體皆同。」下座。上堂。「腰包萬里到臺山，答者前三與後三，今日大疑方有悟，一輪明月照寒潭。所謂大疑必有大悟，小疑必有小悟。不疑不悟，且作麼生是悟處？淨裸裸，脫塵情；赤灑灑，無蓋覆。莫道見月休觀指，歸家罷問程。者麼到者裏，鬱蒸無處避，覿體相同；熏風自南來，披襟獨得。何以故？一月普現一切水，一切水月一月攝，諸佛法身入我性，我性同共如來合。仔細檢點將來，只悟得如來禪，未悟祖師禪。何為祖師禪？",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. Minshu Ruxiang owns the retained deployment: today great doubt at last has its awakening — one wheel of bright moon lighting the cold pool."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X67/X67n1299.xml",
+        "X/X70/X70n1396.xml",
+        "X/X71/X71n1420.xml",
+        "X/X72/X72n1435.xml",
+        "J/J40/J40nB490.xml",
+        "J/J39/J39nB450.xml"
+      ],
+      "RelatedMasters": [
+        "Shishuang Chuyuan",
+        "Danxia Zichun",
+        "Wujian Xiandu",
+        "Chushi Fanqi",
+        "Wuyi Yuanlai",
+        "Suru Honghan",
+        "Minshu Ruxiang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "One wheel of bright moon — the corpus's round light for the whole mind, sung at midnight, sealed on the wave-heart, printed on a thousand rivers, and won at last by great doubt. Shishuang Chuyuan's twelve-hour song, versified at a monk's request, runs the day down to its turn: dusk at the hour of the dog, the sun fallen west of the mountain and fox-spirits abroad; stillness at the hour of the boar, rats swarming at the bed's head; midnight at the hour of the rat — one wheel of bright moon, su-lu-li; and Danxia Zichun's verse on the Yunzhu case — who is the teacher of the buddhas? Manjusri pricks up his ears: in the light without marks no body has yet portended, pure void far and neighborless — one wheel of bright moon shining before the porch; the jade hall silent, no one to be seen. Wujian Xiandu, versifying Baizhang's wild fox: neither falling nor obscuring, a forced name-model — in the still night the empty hall hushed and quiet, one wheel of bright moon lighting the level lake; and Chushi Fanqi, praising the Great One of Compassion: by the vajra rock Sudhana comes calling, and inevitably compassion serves as the guide — just say that what stands present cannot be spoken: one wheel of bright moon in the cold pool. Wuyi Yuanlai, opening the hall at Dongyan: coming without the marks of coming, seeing without the marks of seeing; to seek right wisdom, seek it amid the sixty-two views — a few white clouds crossing the valley mouth; to seek release, seek it in the mind-conduct of beings — one wheel of bright moon sealing the wave-heart; Suru Honghan, pressed into the seat by the prefect and the patrons: one household's business, a hundred households busied — and what is this ascending the hall, after all? — striking the wish-gem: only watch — the blue sky's cloud-breath stilled, one wheel of bright moon printing a thousand rivers; and Minshu Ruxiang: waist-pack ten thousand miles to Mount Wutai, answered with the front-three and the back-three — today great doubt at last has its awakening, one wheel of bright moon lighting the cold pool: great doubt, great awakening; small doubt, small awakening; no doubt, no awakening."
+    }
+  ]
+}

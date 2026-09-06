@@ -1,0 +1,188 @@
+{
+  "Id": "t_afe4145c541b",
+  "SourceTerm": "內不放出，外不放入",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:14:41Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "inside, do not let out; outside, do not let in",
+      "AlternateTargets": [
+        "nothing out from within, nothing in from without",
+        "the sealed-gate stance"
+      ],
+      "SearchAliases": [
+        "the both-ways-sealed gate",
+        "the in-and-out couplet",
+        "nothing leaves, nothing enters"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 48 hits in 39 files representing 39 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0631c17",
+          "ToLb": "0632a01",
+          "Kwic": "，要且不在行軍之下。正所謂男兒自有沖天志，不向他人行處行。」梁公張行人請上堂。「林下高賢，方外禪客，二六時中，遇緣莫惑。所謂境緣無好醜，好醜起于心。萬法本閒，為人自鬧。須知塵塵剎剎，物物頭頭，但得意遣情忘，便見自他不隔。且道和光混俗一句作麼生道？相逢相見呵呵笑，更有春風春又春。」上堂。「昔日達磨老子云：『內不放出，外不放入。心如牆壁，可以入道。』據山僧則不然，內須放出，外須放入，如盤走珠，可以入道。不見臨濟大師曰：『有一人論劫在途中不離家舍；有一人離家舍不在途中。此二人那個合受人天供養？』便下座。現前大眾！要識此二人面目麼？」驀拈拄杖卓一卓云：「也不出者個消息。且道是個甚麼消息？」復卓兩卓云：「龍得水時添意氣，虎逢山勢長",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained address: of old the old man Bodhidharma said — inside, do not let out; outside, do not let in; mind like a wall, and so one may enter the way. But as this mountain monk sees it, not so: inside, one must let out; outside, one must let in — like a pearl rolling in a bowl, and so one may enter the way. And did not the great master Linji say: one person spends kalpas on the road yet never leaves home; another leaves home yet is not on the road — which of these two deserves the offerings of gods and men? He came down from the seat. Assembly before me! want to know these two faces? He snatched up the staff and rapped it once: this too does not go outside this message — and tell me, what message is it? Two more raps: when the dragon gets water its spirit rises; when the tiger meets the mountain its power grows."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0069b02",
+          "ToLb": "0069b16",
+          "Kwic": "壁。」心珠禪人掩關。「拗折拄杖，高挂缽囊。達磨老漢，請出門外；德山臨濟，喚來栽樹。到這裏，天地澄平，萬物雍熙。根本智，一切智，從這裏流出；三昧門，神通門，亦從此中收攝。古人得意之後，向茆茨石室中長養聖胎。名利不干懷，聲色不攖慮，其出其處，無所不可。且道：憑箇甚麼道理？天高群象正，海闊百川朝。」拈封帖云：「內不放出，外不放入。寒山拾得來，又作麼生？蘇嚕蘇嚕。」亡僧入塔。「火出木盡，風送漁舟到岸；灰飛煙滅，露出腦後圓光。此是他身後底形模，卻是爾輩生前底儀狀。可惜許！唐喪光陰。我為汝等，盡情道破。」舉骨云：「會麼？」復云：「莫妄想。」天真寺存虛老僧火。「師子巖秋風蕭瑟，鳳皇山江天一碧。為提持額上之珠，偶打失祖翁巴鼻。為甚麼？群",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained seal-up address: snap the staff, hang the bowl high. Old man Bodhidharma — please step outside the door; Deshan and Linji — called over to plant trees. Here heaven and earth lie clear and still, all things at peace: the root-knowing, the all-knowing, stream out from this place; the concentration gates and the power gates are gathered back in here as well. The men of old, once they had it, nurtured the holy embryo in thatch hut and stone room — fame and profit never touched their hearts, sights and sounds never snagged their thoughts. On what ground do they stand? — sky high, the array of forms upright; sea wide, a hundred rivers pay homage. Then he took up the sealed notice and said: inside, do not let out; outside, do not let in — and if Hanshan and Shide come, what then? Soo-loo, soo-loo."
+        },
+        {
+          "RelPath": "J/J36/J36nB345.xml",
+          "FromLb": "0083b08",
+          "ToLb": "0083b21",
+          "Kwic": "無往而非者也。山僧有口，祇堪挂壁。」驀豎拂，云：「獨有者著子，三世諸佛命脈、歷代祖師心髓，把斷要津，不通凡聖。且道伊在甚麼處安身立命？山僧不惜泥水，敢為通一線道。咦！頂門正眼紅如日，爍破昏衢照大千。」彌陀古佛、觀音大士安臟，示眾。「聖人無己，靡所不己。法身無相，誰云自他？」以拂○云：「本如來藏，妙淨明心。內不放出，外不放入。萬類不曾移，千聖如弦直。東土二三，西天四七。總之儘力分疏不下，直須會得壺中日月，方知格外乾坤，摩醯罔測，帝釋難窺。」復以拂○：「苟能恁麼人，親知恁麼事。可以報君親，可以安家國。可以集禎祥，可以胤子孫。乃至人天七趣，明暗色空，情與無情，有想無想，塵塵剎剎，皆入此宗。○諸仁者，今日因齋慶贊一句又作麼生道？」良",
+          "MasterName": "Zhu'an Zhenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhu'an Zhenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB345.xml). Recorded Sayings of Chan Master Zhuyan Yan of Suzhou. Zhu'an Zhenyan owns the retained enshrining address: the sage has no self, and so nothing is not himself; the body of reality has no form — who speaks of self and other? A circle drawn with the whisk: this is the treasury of the thus-come, the wondrous pure bright heart. Inside, do not let out; outside, do not let in. The myriad kinds have never shifted; the thousand sages stand straight as a bowstring — the two or three of the eastern earth, the four and seven of the western heaven. All told, no effort of words gets it down; only grasp the sun and moon inside the pot, and then you know the world beyond the measure — beyond the reach of the great eye, past the peering of Sakra."
+        },
+        {
+          "RelPath": "J/J39/J39nB448.xml",
+          "FromLb": "0434a06",
+          "ToLb": "0434a17",
+          "Kwic": "散亂，不得自由。」師劈面掌云：「惺惺著。」進云：「領略不來。」師云：「青天白日，瞌睡作麼？」僧喜躍而出。僧問：「能為萬象主，不逐四時凋。春至百花問，秋來黃葉飄。如何是不凋底意？」師云：「赤骨露堂堂。」僧禮拜，師打云：「還會麼？」僧云：「赤骨露堂堂。」師云：「學我來也。」僧又拜，師云：「墮也，墮也。」僧問：「內不放出，外不放入，以何為界？」師云：「內不放出，外不放入，我道無可為界。」進云：「如何得翻身去？」師云：「須是上座始得。」僧便喝，師便打。問：「不在內，不在外，不在中間，畢竟在甚麼處？」師云：「覿面卻相逢。」問：「趙州訪二菴主，主一般豎拳，因甚麼肯一不肯一？」師云：「分身兩處看。」僧便拜，云：「能殺能活，能縱能奪。」師云：「",
+          "MasterName": "Lingji Xingguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingji Xingguan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB448.xml). Recorded Sayings of Chan Master Lingji. Lingji Xingguan owns the retained echo-answer: a monk asked — inside, do not let out; outside, do not let in — what serves as the boundary? The master said: inside, do not let out; outside, do not let in — I say there is nothing that can serve as the boundary. How then does one turn the body over? — that must be you yourself, sir. The monk shouted; the master struck him."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0908a17",
+          "ToLb": "0908b01",
+          "Kwic": "麼？若是登高到頂底漢子，自然眼空四海，氣蓋諸方，依稀彷彿之流，只得青山綠水西來意，翠竹黃花古佛心。」喝一喝，下座。開爐，上堂。「大冶紅爐今豁開，銅頭鐵額此中埋，等閒煉作金剛彈，拋出人前打落腮。且道公幹在甚麼處？」良久，云：「不須柴炭扇風火，直教寒爐撥死灰。」喝一喝，下座。結制，上堂。「把定牢關，坐斷岐路，內不放出，外不放入，明明個裏絕商量，九十日中自成屈。且道屈個甚麼？山僧畫蛇添足，諸人無繩討縛，直饒向者裏散去，每人腳跟下早已三十痛棒。雖然如是，要且事無一向。何故？閻羅老子打算飯錢。莫道山僧不言，且道言個甚麼？」良久，卓拄杖一下，云：「一等共行山下路，眼頭各自看風煙。」喝一喝，下座。上堂。「惟此一事實，餘二則非真。且道是",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanyi Ruchun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained retreat-opening: hold the firm pass, sit across the forking roads — inside, do not let out; outside, do not let in; in this bright business there is plainly no consulting, and in ninety days it bends of itself. Bends to what, tell me? This mountain monk drew legs on the snake; you all hunt a rope to bind yourselves with — and even if you scatter from here, each of you already carries thirty smart blows under his heels. And yet the thing is not one-sided. Why? Old man Yama is reckoning the rice-money. Do not say the mountain monk said nothing — and what, then, did he say? A long silence, one rap of the staff: all alike they walk the road below the mountain — each pair of eyes reads its own wind and smoke. One shout; he came down."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0725a23",
+          "ToLb": "0725b06",
+          "Kwic": "揮寶劍，斬諸見之稠林；暗度金針，繡沖霄之彩鳳。去此二途，未審和尚作麼為人？」師云：「花開劫外春。」僧呈坐具，云：「者個且置，夜半正明，天曉不露，又作麼生？」師云：「寒蘆兩岸，孤鴈一群。」僧禮拜，師乃云：「冬至一陽生，花開劫外春，慣炊無米飯，耑理沒絃琴。不見道：玄酒味淡，太音希聲，雷在地中復，先王以至日閉關，內不放出，外不放入，商旅不行，出門便是草，真饒不出門也是草漫漫地。后不省方，金殿巍巍鎖至尊，切忌離宮失位。大眾！看看一泓晴碧，兩岸寒蘆，天地之心宛然逼露了，直待他銅儀步晷，葭管飛灰，堪作什麼？」上堂。「雪色迷離，宮庭路杳；霜威肅穆，禁苑人寒。不萌枝上，飛翻玉鳳千翎；無影林中，穿過泥龍獨角。到這裏，說個春深雉尾，切怪今時；",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained solstice address: at the winter solstice the one yang is born, flowers open in a spring beyond the kalpa — he is used to cooking rice-less meals, wholly bent on tuning the string-less zither. Has it not been said: the wine of the dark has a thin taste, the greatest music has scarce sound; thunder lies in the earth in Return, and the former kings closed the passes at the solstice — inside, do not let out; outside, do not let in; merchants and travelers do not journey; to step out the gate is to step into grass — and even never stepping out, it is grass, grass, all the way. The queen does not inspect the regions: the golden hall towers, locked on the honored one — take care not to leave the palace and lose your station. Assembly! look — one pool of clear blue, cold reeds on both banks: the heart of heaven and earth stands forced into the open — and when the bronze dial paces the shadow and the reed pipe flies its ash, what is it good for?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB186.xml",
+        "J/J27/J27nB189.xml",
+        "J/J36/J36nB345.xml",
+        "J/J39/J39nB448.xml",
+        "J/J39/J39nB468.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Linye Tongqi",
+        "Bodhidharma",
+        "Linji Yixuan",
+        "Sanyi Mingyu",
+        "Deshan Xuanjian",
+        "Zhu'an Zhenyan",
+        "Lingji Xingguan",
+        "Shanyi Ruchun",
+        "Liangting Jingting"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Inside, do not let out; outside, do not let in — the double-sealed gate of the wall-instruction, spoken over retreats, statues, and solstices, and then flipped. Linye Tongqi, in the hall: of old the old man Bodhidharma said — inside, do not let out; outside, do not let in; mind like a wall, and so one may enter the way — but as this mountain monk sees it, not so: inside, one must let out; outside, one must let in; like a pearl rolling in a bowl, and so one may enter the way; and did not great master Linji say — one person spends kalpas on the road yet never leaves home, another leaves home yet is not on the road — which deserves the offerings of gods and men? the staff rapped: this too does not go outside this message. Sanyi Mingyu, sealing a monk's retreat: snap the staff, hang the bowl; old man Bodhidharma, please step outside; Deshan and Linji, come plant trees; the root-knowing streams out from here, the concentration gates gather back in; and the notice taken up: inside, do not let out; outside, do not let in — and if Hanshan and Shide come, what then? soo-loo, soo-loo. Zhu'an Zhenyan, enshrining the two statues: the sage has no self and so nothing is not himself; the body of reality has no form — who speaks of self and other? a circle drawn with the whisk: the treasury of the thus-come, the wondrous pure bright heart — inside, do not let out; outside, do not let in; the myriad kinds have never shifted, the thousand sages stand bowstring-straight; only grasp the sun and moon inside the pot, and you will know the world beyond the measure. Lingji Xingguan, in the exchange: the monk asked — what serves as the boundary? and the master answered with the couplet itself — inside, do not let out; outside, do not let in — I say there is nothing that can serve as the boundary; how does one turn the body over? that must be you yourself, sir; the monk shouted, the master struck. Shanyi Ruchun, opening the retreat: hold the firm pass, sit across the forking roads — inside, do not let out; outside, do not let in; in this bright business no consulting, and in ninety days it bends of itself; this mountain monk drew legs on the snake, you all hunt a rope to bind yourselves; even scattering from here, thirty smart blows already wait under each pair of heels — and old man Yama is reckoning the rice-money; one rap of the staff: all alike walk the road below the mountain, each pair of eyes reads its own wind and smoke. Liangting Jingting, at the solstice: the one yang is born, flowers open in a spring beyond the kalpa — used to cooking rice-less meals, wholly bent on the string-less zither; the wine of the dark has a thin taste, the greatest music scarce sound; thunder lies in the earth in Return, and the former kings closed the passes at the solstice — inside, do not let out; outside, do not let in; merchants and travelers do not journey; to step out the gate is grass, and never stepping out is still grass, grass, all the way — look: one pool of clear blue, cold reeds on both banks, the heart of heaven and earth forced into the open."
+    }
+  ]
+}

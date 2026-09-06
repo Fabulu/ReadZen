@@ -1,0 +1,176 @@
+{
+  "Id": "t_55ae75a7d997",
+  "SourceTerm": "無問無答",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:48:27Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no asking and no answering",
+      "AlternateTargets": [
+        "without question and without answer"
+      ],
+      "SearchAliases": [
+        "the no-ask-no-answer ask",
+        "the silence pair ask",
+        "when there is neither question nor answer",
+        "the guest-and-host pair gone quiet",
+        "the ancient-road answer to the no-ask"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 113 hits in 58 files representing 56 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0675a15",
+          "ToLb": "0675b02",
+          "Kwic": "不肯。官便打。師云。大眾。古人機變出在一時。其間別有商量。亦未言著。且如雪竇。今日再入靈隱。也似百尺竿頭。依南泉之言。得進一步。喜與大眾相見。則十方世界一時周匝。便下座。師到越州承天寺。眾請陞座。僧問。學人不問西來意。藏身北斗意如何。師云。拈頭作尾漢。進云。請師答話。師云。西天令嚴。問有問有答賓主歷然。無問無答時如何。師云。古路草漫漫。進云。若不上來。焉知與麼。師云利劍不斬死漢。師乃云。作者相見。一拶一捺。撩起便行。若佇思停機。卒摸𢱢不著。若言問在答處答在問宗。箇箇依草附木。問不在答處答不在問宗。罕見頂上有眼。諸人還薦得也無。薦得薦不得。並是新雪竇之過。且莫鈍致承天和尚。越州檀越備茶筵。請師陞座。僧問。檀越",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained answer: no asking, no answering — what then? The ancient road, grass stretching endless — and his sword cuts no dead man. The registry's English title names him Mingjue; the roster canonical stands."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0198b10",
+          "ToLb": "0198c01",
+          "Kwic": "山云：正當現時，毛前現？毛後現？第一座云：現時不說前後。山乃出。溈山云：獅子腰折了也。師云：溈山此語，坐斷兩邊百億毛頭，百億獅子現，諸人作麼生會？舉梵志詩云：梵志死去來，魂魄見閻老，讀盡百王書，不免被捶拷。風穴云：一稱南無佛，皆已成佛道。師云：獅子一滴乳，迸散六斛驢乳。舉僧問西堂和尚：有問有答，賓主歷然。無問無答時如何？堂云：怕爛却那。僧問長慶：有問有答，賓主歷然。無問無答時如何？慶云：相逢盡道休官去，林下何曾見一人？師云：總向語脈裏轉却，有問有答，賓主歷然。無問無答時如何？一年春已老，臺榭綠陰多。舉鶴林素禪師，一日有屠者禮謁，願就所居辨供。素欣然而往，眾皆訝之。素曰：佛性平等，賢愚一致。但可度者，吾即度之，",
+          "MasterName": "Hengchuan Xinggong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Xinggong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Xinggong owns the retained turn: the rot-fearing answer and the no-one-under-the-trees answer — all turned back into the word-veins; his own re-ask answers itself: the year's spring already old, the terraces green with shade."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0296b18",
+          "ToLb": "0296c07",
+          "Kwic": "地湧青蓮華，自然棒雙足，南北及東西，各行於七步，分手指天地，作大師子吼，上下及四維，無能尊我者，豈不是大丈夫兒成就大丈夫事？汝等諸人幸生聖世，得聞正法，快須信取，勤而行之。設或暫肯回光，則山僧鼓兩片皮、搖三寸舌，不為分外。施主辨供，功有所歸。擊拂子云：我不敢輕於汝等，汝等皆當作佛。小參。有問有答，有佛有法，無問無答，佛法在什麼處？竪起拂子，云：還見麼？擊拂子，云：還聞麼？聞見歷然，是箇什麼？莫怱怱，休草草，燈籠皺斷眉頭，露柱呵呵大笑。昨日生，今日老，兩手競拏瓶裡󳭋，頂門失却冲天󳬧。又擊拂子，云：龐居士來也，十方同聚會，箇箇學無為，此是選佛場，心空及第歸。喝一喝：春風得意馬蹄疾，一日看盡長安花。復舉：僧問睦州：一言",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: asking and answering, there is buddha and way's-law; no asking, no answering — where is the way's law? Whisk raised — see it? Cracked — hear it? The lantern knits its brow, the pillar laughs aloud."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0107a13",
+          "ToLb": "0107a26",
+          "Kwic": "拋下，云：「既不會，大家噇眠去。」晚參。有俗士作圓相云：「者是甚麼？」師云：「將謂將謂，元來元來。」士禮拜，師云：「放不下，擔將去。」又一士問：「如何是色？」師云：「滿眼攃紅綠。」進云：「如何是空？」師云：「長長看不盡。」進云：「色空兩忘時如何？」師云：「昆池浮皓月，太華插青霄。」乃云：「有問有答，石頭路滑；無問無答，來朝初八。祇饒恁麼，不翻為黃楊木禪，即翻為徐六擔板。正恁麼時，如何是獨超一句？寒巖石鼓敲三點，破寺金鐘扣五更。」晚參。「聒聒秋風一夜雨，華山高卓白雲中，忽然卷盡煙氛後，依舊冰輪出海東。者箇喚作全明全暗，雙放雙收。且如何是正令全提句？白棒當軒立。」結制，晚參。「剋期取證，畫地為牢；立限調心，敲空追響。者",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained evening talk: asking and answering — Shitou's road slippery; no asking, no answering — the morrow's eighth day; even so, boxwood Chan or plank-carrying — the stone drum struck three points, the bronze bell at the fifth watch."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0748b02",
+          "ToLb": "0748b14",
+          "Kwic": "問：『如何是趙州？』州曰：『東門、西門、南門、北門。』」師曰：「趙州和尚恁麼指疆畫界，其如把手教人行不得。皋亭今日八字打開了也，儘他飽足觀光。為甚如此聻？按劍不須重問主，太平風月儘容與。」晚參。舉：「西堂藏和尚因僧問：『有問有答，賓主歷然。無問無答時如何？』堂曰：『怕爛卻。』又問長慶：『有問有答，賓主歷然。無問無答時如何？』慶曰：『相逢盡道休官好，林下何曾見一人？』」師曰：「兩員尊宿總被一箇擔板漢勘破。設有人問皋亭：『無問無答時如何？』劈脊便棒。他既把髻投衙，我者裏殺活有主。」解制，上堂。驀卓拄杖曰：「十五日已前諸佛生，拄杖子也未敢相許。十五日已後諸佛滅，拄杖子也未敢相許。正當今日，拄杖子東湧西沒，舉體全真。春風拂拂",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained grading: two venerables seen through by one plank-carrying fellow — were someone to ask Gaoting, a staff across the spine; here killing and living have a master."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0537a19",
+          "ToLb": "0537b04",
+          "Kwic": "閒閒天地外，笑看日月為誰忙？」師在道場山首座寮。結制，秉拂，上堂，方丈和尚引座，云：「今朝十月二十，四眾年年雲集，盡道老僧母難，實為結制起七。若道結制起七，又是老僧母難。到者裏畢竟如何即得？不是真師子，兒果難分晰。大眾，要識真師子麼？」遂喝一喝，云：「問取堂中第一座。」師陞座，云：「有問有答，賓主歷然；無問無答，玄微莫辨。還有識機宜、別休咎者麼？出眾相見。」問答畢，乃云：「行腳高人結制，堂頭和尚慶生，不惟兩彩一賽，實乃好事多同。一一稽首問訊，各各人事匆匆，獨有堂中憍陳如尊者，自把暖簾放下，與十方衲子眉毛廝結，和氣氤氳，鉗鎚密運，爐鞴通紅，深錐痛劄，截鐵斬釘。秉拂上座，未免讚歎有分。且道讚歎箇甚麼？煆教表裏明如",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained opening: asking and answering, guest and host in ranks; no asking, no answering — the mystery-dark unjudgeable. Any who know the season and can tell the fortunes, step out and meet me."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0500c27",
+          "ToLb": "0501a09",
+          "Kwic": "孔定動，立問立答，正是依草附木精靈，豈堪持論？若向衲僧門下打殺千個萬個，有甚麼過？秪如今日山僧與眾位居士覿面相逢一句又作麼生道？相見又無事，不來還憶君。」結夏上堂。僧問：「大開爐鞴，煆煉聖凡，出格人來如何？」師云：「且站一邊。」進云：「向上宗乘如何舉唱？」師云：「揭開頂門眼。」進云：「有問有答，賓主歷然。無問無答時如何？」師云：「速退。」進云：「信步踏翻空界月，大千無處不稱尊。」師打云：「者裏不得放過。」王紹箕問：「高峰枕子落地便悟去，枕子向高峰道個甚麼？高峰又悟個甚麼？」師便打。進云：「雖則和盤托出，未免眼裏生花。」師云：「腳跟下更與三十棒。」士禮拜。乃云：「我本山中人，還自山中住，今復來於此，只為舊賓主。所以道",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained strike: no asking, no answering — what then? Quickly withdraw. The follow-up — the moon of the empty realm kicked over, nowhere in the great thousand not supreme — and his blow: here, no letting pass."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "X/X71/X71n1411.xml",
+        "X/X71/X71n1414.xml",
+        "J/J29/J29nB224.xml",
+        "J/J36/J36nB362.xml",
+        "J/J39/J39nB452.xml",
+        "J/J26/J26nB183.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Hengchuan Xinggong",
+        "Liao'an Qingyu",
+        "Yezhu Fuhui",
+        "Guantao Daqi",
+        "Lüyan He",
+        "Shiqi Tongyun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The no-ask-no-answer of the Chan records: the pair gone quiet — the ancient road grass-grown, the rot-fearing lantern, Shitou's slippery stones, the morrow's eighth day, and the staff across the spine for whoever asks. Xuedou Chongxian, invited to the seat at Chengtian in Yuezhou, takes the monk's ask live: asking and answering, guest and host in ranks — and when there is no asking and no answering, what then? The ancient road, grass stretching endless. Pressed — had I not come up, how would you know it so? — his sword cuts no dead man. His own address: makers meet, one squeeze, one press, lift the hem and walk; park the thought and you never grope it — say the ask stands in the answer's place, and everyone nests in grass and trees, Hengchuan Xinggong raises the old double ask: the monk asks Xitang — asking and answering, guest and host in ranks; no asking, no answering — what then? Xitang: afraid it would rot! Asks Changqing: — everyone says they will quit the office, yet who has ever been seen under the trees? And his own turn: all turned back into the word-veins — asking and answering, guest and host in ranks; no asking, no answering — what then? The year's spring already old, the terraces green with shade, Liao'an Qingyu's informal talk: asking and answering, there is buddha, there is way's-law; no asking, no answering — where is the way's law then? He raises the whisk: see it? Cracks it: hear it? Seeing and hearing plain — what is it? Don't rush, don't brush past: the lantern knits its brow to breaking, the pillar laughs aloud. Yezhu Fuhui's evening talk runs the pair on stones: asking and answering — Shitou's road is slippery; no asking, no answering — the morrow's eighth day. Yet even so, you will either flip into boxwood Chan or into Xu Liu's plank-carrying. Right at that time, what is the one line that leaps alone? The cold crag's stone drum struck three points, the ruined temple's bronze bell knocked at the fifth watch, Guantao Daqi raises the same double ask at his evening talk and grades it: two venerables both seen through by one plank-carrying fellow — were someone to ask Gaoting, he would answer: a staff across the spine — since he has surrendered to the yamen, here killing and living have a master, Lüyan He ascends the retreat seat: asking and answering, guest and host in ranks; no asking, no answering — the mystery-dark unjudgeable. Any who know the season and can tell the fortunes, step out and meet me — and once the asking done: the wandering worthies bind the retreat, the hall's elder takes his birthday — two colors, one wager, Shiqi Tongyun takes the summer ask live: asking and answering, guest and host in ranks; no asking, no answering — what then? — Quickly withdraw. The follow-up — strolling, I kick over the moon of the empty realm, nowhere in the great thousand not supreme — and his strike: here, no letting pass."
+    }
+  ]
+}

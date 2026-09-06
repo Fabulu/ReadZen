@@ -1,0 +1,224 @@
+{
+  "Id": "t_9b84a4257257",
+  "SourceTerm": "諸方老宿",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:30:41Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the elder masters of the various quarters",
+      "AlternateTargets": [
+        "the senior teachers everywhere"
+      ],
+      "SearchAliases": [
+        "the elders of all quarters",
+        "elder masters abroad",
+        "the veteran teachers of every place"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 179 hits in 92 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0560a10",
+          "ToLb": "0560a25",
+          "Kwic": "。僧云。如何是普。師云。天光迴照。僧云。如何是天光迴照。師云。骼胔少人知。師有時云。一顆圓光明已久。還有人問麼。僧便問。如何是一顆圓光明已久。師云。西天斬頭截臂。又云。除却須彌山。拈却佛殿脊。師一日披袈裟云。我抖擻法身也。總無對。師云。汝問我。僧便問。和尚抖擻法身意旨如何。師云。我也知爾親。舉玄沙示眾云。諸方老宿盡道接物利生。忽遇三種病人來。作麼生接。患盲者拈槌竪拂他又不見。患聾者語言三昧他又不聞。患瘂者教伊說又說不得。且作麼生接。若接此人不得。佛法無靈驗。有僧請益師。師云。爾禮拜著。僧禮拜起。師以拄杖便挃。僧退後。師云。爾不是患盲。復喚近前。僧近前。師云。爾不是患聾。乃竪起拄杖云。還會麼。僧云不會。師云。爾不",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Xuansha Shibei owns the root deployment — the address that pressed the elder corps with the three patients and the forfeit of all proof."
+        },
+        {
+          "RelPath": "X/X67/X67n1301.xml",
+          "FromLb": "0229b17",
+          "ToLb": "0229c07",
+          "Kwic": "：仰山指雪獅子云：還有過此色者麼？雲門云：當時便與推倒。雪竇拈云：只解推倒，不能扶起。師云：仰山侍奉溈山，前後二十餘年，乃去行化。一日歸省侍溈山，山問：子稱善知識，爭辨得諸方來者，知有不知有？有師承無師承？是義學是玄學？試說看。仰山云：有箇驗處。但見諸方僧來，竪起拂子問伊：諸方還說這箇不說這箇？這箇且置，諸方老宿意作麼生？溈山歎曰：此是宗門中牙爪。仰山有如此為人手段，所以一日指雪獅子問云：還有過得此色者麼？且道他意在什麼處？莫是明一色邊事麼？且得沒交涉。既不明一色邊事，又明箇什麼？所以道：鷺鷥立雪非同色，明月蘆花不似他。巴陵鑒和尚。僧問：如何是提婆宗？鑒云：銀椀裏盛雪。雪竇拈拄杖示眾云：把斷世界不漏絲毫，還搆得",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1301.xml). Record of Fogu’s Beat-the-Rhythm Sections. Yangshan Huiji owns the retained deployment — the whisk lifted for every visiting monk, the quarters' speech set aside, and the elders' meaning asked after as the school's claw and fang."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0598a22",
+          "ToLb": "0598b10",
+          "Kwic": "旨。纖毫纔動即參差。如何是一句後事。師云。兩陣相逢不迴避。恁麼則透皮徹骨去也。師云。橫拕倒拽任塵漫。終不敢辜負和尚。師云。至孝是重華。問一毫穿眾穴時如何。師云。萬里絕纖毫還許學人蕩除也無。師云。有即須除遣無即莫施功。恁麼則依理行之。師云。理即如是作麼生行。僧以脚振地。師云。見前知音者更不在人通。師云。諸方老宿。事不獲已。東語西話。爾等將謂。合恁麼地。廣陳詞說。各競聚頭。不眠不睡。道我參尋。爾擬向那裏參。古人云。向外作功夫。總是癡頑漢。快須信取。不用久立。珍重。上堂云。當明對暗。應物舒光。萬別千差參羅一貫。還有照不著處麼。有即對眾決擇。親明取好。僧問。親切處請師指示。師云。㖿。此意如何。師云。天牓樣。問如何",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment, ruling the elders' east-and-west talk a compelled display and the sleepless crowding no seeking at all."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0173b07",
+          "ToLb": "0174b01",
+          "Kwic": "𡖖大人高之樞密鄧公洵武聞其風奏錫紫衣師名司諫陳公瓘見所傳法語歎曰諸佛心宗眾生性海遠公涵泳深矣皆未識師也況其親𬉹者乎與佛果佛鑑同門莫逆道價相尚𠀍稱東山二勤一遠云甞宗百門義著圎融禮文又摭楞嚴法華著普門禮文並行于𠀍其叅學得法者無慮數十人士珪善悟為之首而宿松無着道人李法慧頗臻其奧師壽五十有四僧臘四十將逝謂其徒曰諸方老宿必留偈辝𠀍𠀍可辝耶且將安往逮終無一言初在龍門作靈光臺以會塟苾蒭之火化者且自為志曰余他日亦藏于此後門人函骨以歸龍門龍門之人悲且喜奉之如生以宣和三年正月壬寅塔成銘曰。大智唯心無南北祖一離其源遂開牖戶守玄尚同執解隨趣岐行𣲖流既倒莫遡洪融混合演得其醇師則嗣之道益以尊如收全潮眾波莫分如舉大地萬有以陳用晦而明厥",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment — naming the elders' custom of the parting verse and refusing it, dying without one word."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0234c08",
+          "ToLb": "0234c22",
+          "Kwic": "有人問山僧：王索仙陀婆時如何？答云：者漆桶。且道與香嚴、趙州是同是別？具眼者辨取。舉鼓山示眾云：若論此事，如一口劒。時有僧問：承和尚有言：若論此事，如一口劒。和尚是死屍，學人是死屍，如何是劒？山云：拕出者死屍。僧應諾，歸衣鉢下打疊便行。山至晚問首座：問話僧在否？座云：當時便去也。山云：好與二十棒。雪竇云：諸方老宿總道皷山失却一隻眼，殊不知重賞之下必有勇夫。然雖如此，若子細點檢來，未免一時埋却。師云：鼓山好一口劒，爭奈柄󰚁在者僧手裏。雪竇云：重賞之下，必有勇夫。也是自傷己命。舉：睦州問武陵長老：了即毛端吞巨海，始知大地一微塵。作麼生？陵云：和尚問誰？州云：問長老。陵云：何不領話？州云：我不領話，爾不領話。雪竇云：墮",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Xuedou Chongxian owns the retained deployment — the elders all say Gushan lost an eye, and the bounty's brave man still gets them all buried at once."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0580b09",
+          "ToLb": "0580b23",
+          "Kwic": "一塵，又是鈍鳥逆風飛，與他坐的何別？還有人搆得麼？石火電光，那容眨眼？快與快與，時不待人，有志參禪，終不得少為足。登山須到頂，入海須到底。登山不到頂，不知宇宙之寬廣；入海不到底，不知滄溟之淺深。既到百尺竿頭，直須進步始得。我這裏無解路教你入，無言句共你商量，一味朴實頭如馬前相撲，更不周由者也倒地便休，不似諸方老宿密室裏說的禪道佛法有不啗󲣅處，口遞一口、人傳一人，將為向上提持宗門命脉，冷地󳬇見鑊湯爐炭一般，得便宜是落便宜。若是真正道流，爭肯喫他這般茶飯？急須吐却。示眾。一大藏教，只是箇賣田鄉帳。東西四至，一一分明。畆步短長，亦無增減。買者却須親到地頭。五十年前，有人將鮑郎浦為田，賣與楊總管宅。及乎驗實，竝是虗文。西",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment — his open falling-flat set against the elders' locked-room teaching passed mouth to mouth, cold-spying the cauldron and furnace."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0282b03",
+          "ToLb": "0282b18",
+          "Kwic": "拄杖子，強生節目。山僧自先三峰手中接下，年來放在冷壁角裡，動也不曾動著。諸人道是識得識不得？參學事畢也未？將來入地獄否？簡得出，汾陽入地獄如箭，泐潭參學事畢；點不出，拄杖子在汝眼裏為災為祟。爭得如金鱗透網，游泳波瀾，俊鳥離籠，翱翔碧落？夫山有個方便。」遂拗折拄杖曰：「大眾即不得話作兩橛。」普請，上堂。「諸方老宿盡道接物利生，開門七件事尚不知來處，又爭知匾擔腳籮一向在雜收寮裡？」喝一喝，曰：「夫山今日一齊搬出，手親眼辨底接得便行，千五百人善知識不愁不隨他去。其或縮手縮腳，怕寒畏熱，無位真人在鼓聲裏惡發，莫怪！」上堂。「地搖六震，既不為祥；天雨四華，亦豈曰瑞？夫山門下來一個衲子，與他七尺地鋪，橫也繇他、豎也繇他，但",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment, granting the elders' meet-and-foster claim and asking how they would know the carrying-baskets in the miscellany store when the seven kitchen things's origin escapes them."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0532a10",
+          "ToLb": "0532a22",
+          "Kwic": "待冷來看。」進云：「且道與香嚴上樹是同是別？」師云：「臨崖看滸眼。」進云：「若不上來伸此問，焉能得達慶雲機？」師云：「如何是慶雲機？」進云：「請師荅話。」師打，云：「錯過也不知。」進云：「等閒垂一釣，容易上鉤來。」師云：「三十年弄馬騎，今日卻被驢子撲。」乃云：「玄沙老人雖則費盡周遮，未免直路成迂。慶雲則不然，諸方老宿盡皆接物利生，汝諸人不是盲聾瘖啞，拈椎豎拂分明是見，言語音聲分明是聞，轉語機鋒分明是說。」驀卓拄杖一下，云：「但不得動著者裏。何故聻？不許夜行剛把火，直須當道與人看。」除夕，晚參。「昔日北禪分歲，特烹露地白牛，者老漢管顧大眾，雖則曲盡心動，其奈藞䕢太甚，致令官府勾追成底模樣。慶雲今夜亦有條露地白牛，更不游",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment — the elders all meet and foster, but the assembly before him is none of the three patients, and the one thing not to stir is named."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "X/X67/X67n1301.xml",
+        "T/T47/T47n1992.xml",
+        "D/D48/D48n8939.xml",
+        "X/X71/X71n1412.xml",
+        "X/X71/X71n1420.xml",
+        "J/J34/J34nB301.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Xuansha Shibei",
+        "Yunmen Wenyan",
+        "Yangshan Huiji",
+        "Yuanwu Keqin",
+        "Fenyang Shanzhao",
+        "Foyan Qingyuan",
+        "Xuedou Chongxian",
+        "Gulin Qingmao",
+        "Chushi Fanqi",
+        "Jiqi Hongchu",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A collective address naming the corps of elder masters across the quarters — the standing whetstone every speaker grades his own gate against. Xuansha Shibei's address to the assembly presses the corps — the elders all say they meet beings and foster life, but meeting the blind, the deaf, and the mute, how will they meet them? fail there and the teaching has no proof — the case raised whole in Yunmen's record with the poke-and-call answer hard behind; Yangshan Huiji's proving device, told in Yuanwu's appraisal, lifts the whisk for every visiting monk — do the quarters still speak of this or not? set that aside: what do the elders mean? — the very claw and fang of the school in Guishan's praise; Fenyang Shanzhao closes an address on them — the elders, unable to do otherwise, talk east and west, the whole assembly crowding heads sleepless and calling it seeking: where will you go seek? work done outward is dullard's work; and Foyan Qingyuan, dying at fifty-four, tells his disciples the elders all leave a parting verse — can the world be bid farewell? where would one go? — and to the end, not one word. Xuedou Chongxian, weighing the Gushan sword case — the elders all say Gushan lost an eye, not knowing that under a heavy bounty there must be a brave man, though on close inspection all get buried at once — carried in Gulin Qingmao's re-raising, where the sword's own handle sits in the monk's hand; Chushi Fanqi wants none of their locked-room teaching — unlike the elders' hidden-room talk of the way, passed mouth to mouth and one man to one man, cold-spying the cauldron and furnace as they guard the school's lifeline — the true seeker must spit that food out; Jiqi Hongchu, at the work-day address, grants that the elders all say they meet beings and foster life — yet not knowing where the seven kitchen things come from, how would they know the carrying-baskets hidden in the miscellany store? — and hauls the lot out at once; and Yushan Shangsi rules the old man's roundabout a detour — the elders all meet beings and foster life, but you people are not blind, deaf, or mute: the whisk raised is plainly seen, the words plainly heard, the turning phrases plainly spoken — only do not stir this place."
+    }
+  ]
+}

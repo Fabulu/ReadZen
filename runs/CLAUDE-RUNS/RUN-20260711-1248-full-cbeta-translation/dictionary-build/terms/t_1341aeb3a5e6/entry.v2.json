@@ -1,0 +1,213 @@
+{
+  "Id": "t_1341aeb3a5e6",
+  "SourceTerm": "先照後用",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:18:39Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "shine first, work after",
+      "AlternateTargets": [
+        "shining first and working later"
+      ],
+      "SearchAliases": [
+        "illuminate first, deploy after",
+        "the shine-first turn",
+        "light before device"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 213 hits in 86 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0522b20",
+          "ToLb": "0522c04",
+          "Kwic": "，有時人境俱奪，有時人境俱不奪。」時有僧問：「如何是奪人不奪境？」師云：「煦日發生鋪地錦，嬰孩垂白髮如絲。」云：「如何是奪境不奪人？」師云：「王令已行天下遍，將軍塞外絕煙塵。」云：「如何是人境兩俱奪？」師云：「并汾絕信，獨處一方。」云：「如何是人境俱不奪？」師云：「王登寶殿，野老謳歌。」師示眾云：「我有時先照後用，有時先用後照，有時照用同時，有時照用不同時。先照後用有人在；先用後照有法在；照用同時，驅耕夫之牛，奪饑人之食，敲骨取髓，痛下鍼錐；照用不同時，有問有答，立賓立主，合水和泥，應機接物。若是過量人，向未舉已前撩起便行，猶較些子。」師示眾云：「今時學佛法者，且要求真正見解，若得真正見解，生死不染，去住自由。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the root deployment — the address that fixed the four turns, a person there in the first and a scheme there in the second."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0197a07",
+          "ToLb": "0197b09",
+          "Kwic": "云阿誰道有異師代云紹得麼又云見有前後又云今朝二十五。師出風󲈺四賔主語僧云如何是賔中賔󲈺云攢眉看白雲師別云去來長自在不與白雲齊問如何是賔中主󲈺云入市雙瞳瞽師別云高声唱叫遶街行問如何是主中賔󲈺云囬鑾兩耀新師別云定國安邦賀太平問如何是主中主󲈺云磨礱三尺劒待斬不平人師別云収畨猛將寸草不留。師出四種照用語問如何是先照後用師云南岳嶺頭雲太行山下賊問如何是先用後照師云太行山下賊南岳嶺頭雲問如何是照用同時師云収下南岳嶺頭雲捉得太行山下賊問如何是照用不同時師云昨日有雨今日晴師出四賔主語問如何是賔中賔師云青山綠水分問如何是賔中主師云棒下耴分明問如何是主中賔師云退己讓人問如何是主中主師云斬盡不留身。師出四料簡語問如何是奪人不奪境師云",
+          "MasterName": "Jingqing Daofu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingqing Daofu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Jingqing Daofu owns the retained deployment, answering the first turn with clouds on the Nanyue ridge and a thief below the Taihang mountains."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0350b12",
+          "ToLb": "0350c01",
+          "Kwic": "可，山僧者裏也有些子。若無人買，山僧自賣自買去也。如何是佛？巖前多瑞草。如何是道？㵎下足靈苗。佛與道相去多少？數片白雲籠古寺，一條綠水遶青山。珍重！與麼來，者上間安排；不與麼來，者下間掛塔。向上人來，獨自悽悽暗渡江，更有一人向什麼處著？良久，云：釣竿斫盡重栽竹，不計工程得便休。珍重。示眾，云：古人道：有時先照後用，有時先用後照，有時照用同時，有時照用不同時。若也先照後用，露師子之爪牙；若也先用後照，縱象王之威猛；若也照用同時，如龍得水，致雨騰雲；若也照用不同時，提獎嬌兒，拊憐愛子。諸人者，此古德建立法門，為合如是？不合如是？若合如是，似紀信登九龍之輦；不合如是，若項羽失千里烏騅。還有人為琅琊出氣也無？如無，山僧",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Langye Huijue owns the retained deployment, baring the lion's claws and fangs for the shine-first turn and asking who will take a breath for Langye."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0979a15",
+          "ToLb": "0979b09",
+          "Kwic": "心所行即非希有法既非希有法此法無實亦無虗既無虗實喚作有亦不得喚作無亦不得喚作亦有亦無亦不得喚作非有非無亦不得喚作非非有非非無亦不得不見適來禪客問一法若有毗盧墮在凡夫萬法若無普賢失其境界去此二塗請師速道雲門答佗道脫殼烏龜飛上天諸人且作麼生辨明為是有耶是無耶是虗耶是實耶試出來道看如無更引些葛藤所以先聖道有時先照後用有時先用後照有時照用同時有時照用不同時若也先照後用則瞎一切人眼若也先用後照則開一切人眼若也照用同時則半瞎半開若也照用不同時則全開全瞎此四則語有一則有賓無主有一則有主無賓有一則賓主俱無有一則全具賓主即今眾中或有箇不受人謾底漢出來道遮裏是甚麼所在說有說無說虗說實說照說用說賓說主攔胸搊住拽下禪牀爛椎一頓也怪佗不",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, ruling the first turn blinds everyone's eyes and the second opens them, then mapping the four onto guest and host."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0182b02",
+          "ToLb": "0183a05",
+          "Kwic": "知多見埋沒自己一𫨻大事老僧說到者裡記得雲門大師道盡乾坤大地無有纖毫過患猶為轉句不見一法猶是半提若到者裡更須知有全提時節且道那個是全提時節不見臨濟大師道大凡演唱宗乘一句中須具三玄門一玄門須具三要有權有實有照有用今時有等杜撰長老以玄為權以要為實定言前為照後為用咄你還曾夢見我臨濟大師汗臭氣麼他明明向你道有時先照後用有時先用後照有時照用同時有時照用不同時先照後用有人在先用後照有法在照用同時驅耕夫之牛奪饑人之食敲骨打髓痛下針錐照用不同時有問有答立主立賔合水和泥應機接物若是過量人向未舉時撩起便行猶較些子所以汾陽老人云三玄三要事難分得意忘言道易親一句明明該萬象重陽九日菊華新此頌正治者般病所謂醍醐上味為世所珍遇此等人翻",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, shaming the fabricators with the formula Linji clearly tells you, before weighing Fenyang's ode against the same disease."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0477b26",
+          "ToLb": "0477c08",
+          "Kwic": "「畢竟向甚麼處去？」問：「如何是聚雲境？」師云：「蒼松連翠柏。」「如何是境中人？」師云：「明歷歷底雙跏趺。」進云：「人境不立時如何？」師云：「站過一邊。」乃云：「參禪人悟後須透宗旨，既透宗旨方明大法，既明大法始可鍛煉得學人偷心。所以臨濟老人道：『我有時先照後用，有時先用後照，有時照用同時，有時照用不同時。先照後用有人在，先用後照有法在。照用同時，驅耕夫之牛，奪饑人之食，敲骨打髓，痛下針錐。照用不同時，有問有答，立賓立主，和泥合水，應機接物。』如何今人悟後便休，不透宗旨，不明大法？如此之輩，若悟得頭，秪是箇有足無眼人；若悟得尾，秪是箇有眼無足人。怎能做得眼中垂手、足下放光底大丈夫？故臨濟老人又云：『大凡演唱宗乘，一語",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the retained deployment, schooling the thief-heart through the four turns and warning the head-only walker he has feet and no eyes."
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0716b18",
+          "ToLb": "0716c02",
+          "Kwic": "，不辨來端由，笑伊目如瞽。」「如何是主中賓？」答：「暗室沒明燈。」頌：「主中賓，甘作外遊人，東西路不辨，南北豈能分？」「如何是主中主？」答：「當軒塗毒鼓。」頌：「主中主，紅日正當午，寶劍高提時，觸殺佛與祖。」總頌：「賓主相逢事不同，一番雨過一番風，輕風細雨頻頻度，李自白兮桃自紅。」臨濟示眾云：「我有時先照後用；有時先用後照；有時照用同時；有時照用不同時。先照後用有人在；先用後照有法在；照用同時，驅耕夫之牛，奪饑人之食，敲骨取髓，痛下針錐；照用不同時，有問有答、立主立賓，合水和泥，應機接物。若是過量人，向未舉以前撩起便行猶較些子。」拈云：「也不消得。」「如何是先照後用？」答：「點燈喫飯。」頌：「先照後用，",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment, brushing off the whole fourfold with one 'not even needed,' then answering the first turn with lighting the lamp and eating the rice."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0490a06",
+          "ToLb": "0490a19",
+          "Kwic": "頭花，顏色驚人。非聲非句，提唱分明；非文非字，指示的切。若是當家種草，觸著自然安貼。所以靈雲見桃，打失眼睛；山谷聞桂，打失鼻孔。終日聲色堆頭坐臥，便與聲色打成一塊，了無間然，方能隨處作主，遇緣即宗，左右逢源，了無罣礙。且道逢源無礙一句作麼生道？野色更無山隔斷，青天直與水相連。」示眾。舉：「臨濟道：『我有時先照後用，有時先用後照，有時照用同時，有時照用不同時。』」師云：「先照後用，分明腦後更添錐；先用後照，挨拶直須重勘辨；照用同時，眼裏瞳人機活卓；照用不同時，花放春時節、果收秋後天。此雖古人建立法門，猶涉程限。若是越量超宗底，觸處全體露，照用何更施？眾中莫有恁麼人麼？驚群須是英靈漢，敵勝還他獅子兒。」時有僧問：「如何",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment, adding one more awl behind the head for the shine-first turn, then outdoing the gate: for the beyond-measure one everything shows whole, and what work would the shine still do?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "D/D48/D48n8939.xml",
+        "X/X68/X68n1318.xml",
+        "M/M59/M59n1540.xml",
+        "L/L154/L154n1639.xml",
+        "J/J29/J29nB239.xml",
+        "J/J29/J29nB244.xml",
+        "J/J28/J28nB212.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Jingqing Daofu",
+        "Langye Huijue",
+        "Dahui Zonggao",
+        "Tianyin Yuanxiu",
+        "Juyun Chuiwan Guangzhen",
+        "Sanshan Denglai",
+        "Eryin Mi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The opening turn of Linji's fourfold shine-work formula, posed, elaborated, recited, and oded upon across the corpus. Linji Yixuan's address to the assembly sets the four turns — sometimes shine first work later, sometimes work first shine later, sometimes both together, sometimes not together — with a person there in the first, a scheme there in the second, and in the third the ploughman's ox driven off and the starving man's food seized; Jingqing Daofu poses the four sayings himself and answers the first with clouds on the Nanyue ridge and a thief below the Taihang mountains; Langye Huijue elaborates the old one's formula in his own voice — shine first work later bares the lion's claws and fangs, work first shine later lets loose the elephant king's might, both together a dragon taking water, making rain and cloud; and Dahui Zonggao, citing the former sage, rules that the first blinds everyone's eyes, the second opens them, both together leaves them half-blind half-open, and not together wholly open and wholly blind. Tianyin Yuanxiu shames the fabricating elders who fix the shine before the work — have you even dreamed of my Linji's sweat? — reciting the whole formula he clearly tells you; Juyun Chuiwan Guangzhen tells the assembly that after waking one must still pass through the ancestral schemes, reciting the four turns to school the thief-heart, warning the head-only walker he has feet and no eyes; Sanshan Denglai raises the root address, brushes it off with one 'not even needed,' answers his own asking with lighting the lamp and eating the rice, and opens his ode on the shine-first turn; and Eryin Mi, after raising the two opening lines, comments in matched verses — shine first work later, plainly one more awl behind the head — then outdoes them all: for the beyond-measure one everything shows whole at a touch, and what work would the shine still do?"
+    }
+  ]
+}

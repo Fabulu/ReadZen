@@ -1,0 +1,194 @@
+{
+  "Id": "t_0a11d2771e28",
+  "SourceTerm": "有問有答",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:03:43Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "asking and answering both present",
+      "AlternateTargets": [
+        "the full asking-and-answering display"
+      ],
+      "SearchAliases": [
+        "with asking, with answering",
+        "questioning and answering in exchange",
+        "the asked-and-answered exchange"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 179 hits in 87 files representing 85 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0375a12",
+          "ToLb": "0375a23",
+          "Kwic": "「清波無透路。」進云：「和尚從何得？」師云：「再問復何來？」進云：「正與麼時如何？」師云：「重疊關山路。」有官問：「千子圍繞，何者為的？」師云：「化下住持，已奉來問。」問：「今日開筵，將何指教？」師云：「來風深辨。」進云：「莫秪者便是麼？」師云：「錯。」問：「從上古德以心傳心，今日請師，將何施設？」師云：「有問有答。」進云：「與麼則不虛施設也。」師云：「不問不答。」問：「凡有言句皆是錯，如何是不錯？」師云：「當風一句，起自何來？」進云：「莫秪者便是也無？」云：「莫錯。」問：「如何是啐啄之機？」師云：「響。」進云：「還應也無？」師云：「且緩緩。」問：「如何是學人的的事？」師云：「痛領一問。」問：「如何是祖師西來意？」師云",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment, answering what he deploys with the unit itself and flipping it straight to no asking, no answering."
+        },
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0522b23",
+          "ToLb": "0522c07",
+          "Kwic": "下遍，將軍塞外絕煙塵。」云：「如何是人境兩俱奪？」師云：「并汾絕信，獨處一方。」云：「如何是人境俱不奪？」師云：「王登寶殿，野老謳歌。」師示眾云：「我有時先照後用，有時先用後照，有時照用同時，有時照用不同時。先照後用有人在；先用後照有法在；照用同時，驅耕夫之牛，奪饑人之食，敲骨取髓，痛下鍼錐；照用不同時，有問有答，立賓立主，合水和泥，應機接物。若是過量人，向未舉已前撩起便行，猶較些子。」師示眾云：「今時學佛法者，且要求真正見解，若得真正見解，生死不染，去住自由。不要求殊勝，殊勝自至。道流！秪如自古先德，皆有出人底路。如山僧指示人處，秪要你不受人惑，要用便用，更莫遲疑。如今學者不得，病在甚處？病在不自信處。你若自",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the retained deployment, listing asking-and-answering with guest and host established as the fourth of his shine-and-work turns."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0754b08",
+          "ToLb": "0754b24",
+          "Kwic": "。不可土上更加泥。師乃云。恁麼恁麼。如虎帶角。不恁麼。不恁麼。似兔無角。恁麼又却不恁麼。暗隔兩重關。不恁麼又却恁麼。全行向上路。此四句若排著四邊。則為禍為崇。若一時劃斷。則為祥為瑞。何故他從上來本無許多事。只為群機有利鈍所悟有淺深。是故勞他諸聖出來。應物現形隨機逗教。便有權有實有照有用有殺有活。有賓有主有問有答。萬別千差只如。正當恁麼時。可中若有箇漢。牙如劍樹口似血盆。一棒打不回頭。出來掀翻露布截斷葛藤。天是天地是地。山是山水是水。長是長短是短。方是方圓是圓。一絲毫不得動著。直下承當。便能丹霄獨步。與他諸聖把手共行。有佛世界互為賓主接物利生。無佛世界風颯颯地。坐斷要津不通凡聖。然雖恁麼。若是於中端的恁麼來底。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, tracing the whole wealth of devices, asking-and-answering among them, to the aims and depths of the group."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0824b11",
+          "ToLb": "0824b27",
+          "Kwic": "。爾若不信。但向田中立看兩頭仰山云。不必中間立亦莫住兩頭。溈山云。若如是著水看水能平物。仰山云。水亦無定。但高處高平。低處低平。溈山便休。師云。顯諸仁藏諸用鼓萬物。而不與聖人同憂。盛德大業至矣哉。喝一喝。上堂。僧問。釋迦掩室於摩竭。淨名杜口於毘耶。為復計較未成。為復伎倆俱盡。師云。計較未成。伎倆俱盡。問有問有答一切處風流。無問無答還有佛法也無。師云。是何言歟。進云。未審向甚麼處行履。師云。向無佛法處行履。乃云。有問有答有放有收。有主有賓有殺有活。活時無殺時道理。殺時無活時道理。賓家無主家道理。主家無賓家道理。賓則始終賓。主則始終主。賓主交參當門按劍。不見適來禪客問。釋迦掩室於摩竭。淨名杜口於毘耶。為復計較未成",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, opening with asking-and-answering, releasing-and-gathering, and ruling each holds to its own rule with guest and host crossed at the gate, sword at hand."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0127b19",
+          "ToLb": "0127c09",
+          "Kwic": "僧云：飲者如何？州云：死。雪峯聞舉云：趙州古佛從此不答話。雪竇云：眾中總道雪峯不出者僧問頭，所以趙州不肯。如斯話會，深屈古人。雪竇即不然，斬釘截鐵，本分宗師；就下平高，難為作者。師云：鑽龜打瓦，激濁揚清，坐斷天下人舌頭不無。雪竇要且不知古人相見處，還知雪峯、趙州麼？得人一牛，還人一馬。舉：僧問西堂和尚：有問有答，賓主歷然。無問無答時如何？堂云：怕爛却去那？僧問長慶：有問有答，賓主歷然。無問無答時如何？慶云：相逢盡道休官去，林下何曾見一人？雪竇云：何不與本分草料？師云：一人截斷眾流，一人隨波逐浪，一人函盖乾坤。有問育王：有問有答，賓主歷然。無問無答時如何？只向道：賓主歷然，免見者僧奔南走北。舉：臨濟示眾云：我於先",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment, staging the asking for himself and answering only with guest and host standing out, sparing the monk his running south and north."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0229c11",
+          "ToLb": "0230a02",
+          "Kwic": "何？州云：苦。云：飲者如何？州云：死。雪峯聞舉云：趙州古佛從此不答話。雪竇云：眾中總道雪峰不出者僧問頭，所以趙州不肯。如斯話會，深屈古人。雪竇即不然，斬釘截鐵，本分宗師；就下平高，難為作者。師云：是則草偃風行，不是則𦘕蛇添足。山僧道：雪峰、趙州總被者僧穿却了也。何以見得？雪峰從此不答話。舉僧問西堂和尚：有問有答，賓主歷然，無問無答時如何？堂云：怕爛却去那？僧問長慶：有問有答，賓主歷然，無問無答時如何？慶云：相逢盡道休官去，林下何曾見一人？雪竇云：何不與本分草料？師云：將謂猴白，更有猴黑。忽有問：山僧有問有答，賓主歷然。無問無答時如何？只向道：一抽三，二添四。畢竟如何？高祖殿前樊噲怒。舉：臨濟示眾云：我於先師處",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, answering the staged asking with drawing one and adding three, the angry Fan Kuai before the founder's hall."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0674a18",
+          "ToLb": "0674b14",
+          "Kwic": "返照，莫記吾言，汝無始劫來背明投暗，妄想根深，卒難頓󳫠，所以假設方便奪汝麤識，如將黃葉止啼，有什麼是處？師云：盡十方世界是諸人自己，盡十方世界是諸人本有光明，為我拈針鋒，許妄想麤識來看。喝一喝，下座。上堂。庚申好日逢元旦，四海歌謠樂太平。聖德如天何以報？卓拄杖，云：萬年松上一枝藤。上堂，舉：僧問長慶：有問有答，賓主歷然。無問無答時如何？慶云：怕爛却那僧。又問睦州，州云：相逢盡道𠇾官去，林下何曾見一人？師云：長慶放頑、睦州檐板等是有問有答，要且未會無問無答底道理在。今日忽有問徑山：有問有答，賓主歷然。無問無答時如何？只向道：一曲自歌山自綠，此情不與白雲知。愚菴和尚語錄卷第四愚菴和尚語錄卷第五再住徑",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained deployment, ruling the two elders never met the exchange-free half, then answering with a song the green hill sings alone, a feeling the white clouds never know."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0107a12",
+          "ToLb": "0107a25",
+          "Kwic": "會麼？」眾無對，遂拋下，云：「既不會，大家噇眠去。」晚參。有俗士作圓相云：「者是甚麼？」師云：「將謂將謂，元來元來。」士禮拜，師云：「放不下，擔將去。」又一士問：「如何是色？」師云：「滿眼攃紅綠。」進云：「如何是空？」師云：「長長看不盡。」進云：「色空兩忘時如何？」師云：「昆池浮皓月，太華插青霄。」乃云：「有問有答，石頭路滑；無問無答，來朝初八。祇饒恁麼，不翻為黃楊木禪，即翻為徐六擔板。正恁麼時，如何是獨超一句？寒巖石鼓敲三點，破寺金鐘扣五更。」晚參。「聒聒秋風一夜雨，華山高卓白雲中，忽然卷盡煙氛後，依舊冰輪出海東。者箇喚作全明全暗，雙放雙收。且如何是正令全提句？白棒當軒立。」結制，晚參。「剋期取證，畫地為牢；立限",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, pairing the unit with the slippery stone road and the coming eighth day, then beating out his surpassing phrase in drum taps and bell watches."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "J/J23/J23nB134.xml",
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X71/X71n1409.xml",
+        "X/X71/X71n1412.xml",
+        "X/X71/X71n1421.xml",
+        "J/J29/J29nB224.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Linji Yixuan",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Yuejiang Zhengyin",
+        "Gulin Qingmao",
+        "Yu'an Zhiji",
+        "Yezhu Fuhui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A four-graph unit naming the full display of asking and answering, granted by the masters and flipped the moment it is granted. Asked by an official what he deploys since the old worthies transmitted mind to mind, Yunmen Wenyan answers with the unit itself — asking and answering both present — and when the official presses that the deployment is not empty, flips it: no asking, no answering; Linji Yixuan lists it as the last of his four deployings, where asking-and-answering with guest and host established, kneading water and mud, meets the moment; Yuanwu Keqin traces the wealth of devices — weighted and real, shining and working, killing and quickening, guest and host, asking and answering — to the many aims and depths of the group; and Dahui Zonggao opens his address with the doubled strings, asking-and-answering, releasing-and-gathering, host and guest, killing and quickening, each holding to its own rule. Yuejiang Zhengyin, weighing the root case, stages the asking for himself at Ayuwang and answers only: guest and host standing out — sparing the monk his running south and north; Gulin Qingmao stages it for the mountain monk and answers with drawing one and adding three, the angry Fan Kuai before the founder's hall; Yu'an Zhiji, ruling Changqing and Muzhou never met the exchange-free half, stages it for Jingzan and answers with a song the green hill sings alone, a feeling the white clouds never know; and Yezhu Fuhui pairs it with the slippery stone road and the coming eighth day, warning that either way one turns to boxwood dullness or plank-carrying blindness, his surpassing phrase beaten out in three drum taps on the cold cliff and five watches on the broken temple's bell."
+    }
+  ]
+}

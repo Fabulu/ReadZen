@@ -1,0 +1,195 @@
+{
+  "Id": "t_fae6a87608e5",
+  "SourceTerm": "古佛家風",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:20:53Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the old buddha's household style",
+      "AlternateTargets": [
+        "the ancient buddha's family manner",
+        "the way of the household of old"
+      ],
+      "SearchAliases": [
+        "the old buddha's style",
+        "the ancient master's household manner",
+        "old-buddha family style"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 194 hits in 112 files representing 110 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0656a22",
+          "ToLb": "0656b14",
+          "Kwic": "生。未免有甜有苦。且道畢竟如何。南山白額大蟲元是西山猛虎。上堂云。日可冷月可熱。眾魔不能壞真說。大眾。作麼生是真說。潑狼潑賴。若信不及。白雲為儞道。一要眾人會。二要龍神知。乃拈起法衣云。者箇真紅色。剛然道是緋。中法演禪師語錄卷中舒州白雲山海會演和尚語錄舒州白雲山海會演和尚語錄上堂云。風和日暖古佛家風。柳綠桃紅祖師巴鼻。眼親手辦未是惺惺。口辯舌端與道轉遠。從門入者不是家珍。且道畢竟如何相見。又云。無事不來還憶君。上堂。僧問。如何是白雲為人親切處。師云。愛捩轉人鼻孔。學云。便恁麼去時如何。師云。不知痛痒漢。乃云。四海五湖奇士。圍遶無狀村夫。只解拕犁拽耙。水草無底鉢盂。高懸羊頭賣狗肉。時中那辨精與麁。恁",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the root deployment: wind mild, sun warm — the old buddha's household style; yet eyes and hands are not yet awake, and what enters by the gate is not the family treasure."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0740a05",
+          "ToLb": "0740a21",
+          "Kwic": "云。待一切眾生盡皆成佛了。然後發菩提心。豈不是龍象蹴踏師子嚬呻。敵勝驚群蘊大丈夫意氣。始可承當擔荷。所以道。殺人不眨眼底。立地成佛。立地成佛底。殺人不眨眼。還他過量人。持提過量智。發明過量機。展演過量用。正當恁麼時。向過量境界中作麼生道。還知麼。仰祝聖君無量壽。河清海晏樂升平。上堂云。大眾。赤肉團上人人古佛家風。毘盧頂門。處處祖師巴鼻。拈一機千機萬機通透。用一句千句萬句流通。不假他人全彰己用。若也人人恁麼返照。則亘古亘今。凝然寂照。一段光明。非中非外。非色非心。行棒也打他不著。行喝也喝他不得。直得淨裸裸赤灑灑。是箇無生法忍不退轉輪。截斷兩頭歸家穩坐。正當恁麼時。不須他處覓。只此是西方。秦魯國大長公主。降香請陞",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: on every person's bare flesh-ball the old buddha's household style, at every point of Vairocana's crown the patriarch's handle — bare, clean, neither in nor out."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0320a26",
+          "ToLb": "0320b09",
+          "Kwic": "，誰敢當頭正眼看？」師云：「如何是金剛劍？」僧便喝。師云：「三十棒，一棒也不饒。」問：「人人鼻孔遼天，箇箇舌頭拖地，本分一著，為甚有明與不明？」師云：「未到烏江畔，知君未肯休。」進云：「明知生是不生之理，為甚麼卻被生死之所流轉？」師云：「知之一字，眾禍之門。」乃云：「碧水丹山，盡是當人自己；鴉鳴鵲喿，無非古佛家風。乃至妄想昏沉、無明煩惱、三毒四倒、九結十纏，一一精明、一一解脫。所以道：『一切障礙即究竟覺。』然雖如是，鍼眼魚吞卻嘉州大象即不問，你觀世音菩薩將錢買胡餅，放下手為甚麼卻是饅頭？不到烏江畔，知君未肯休。」上堂。僧問：「五參提唱，百丈成規，照例施行即不問，如何是繼往開來底句？」師云：「高低山色朝昏見，斷續鐘",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: blue water and cinnabar hills are the very self, crow cries and magpie chatter the old buddha's household style — down to the three poisons and ten bindings, each one shining, each one freed."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0349b12",
+          "ToLb": "0349b25",
+          "Kwic": "云：「又有道：『逢人即便出，出則不為人。』又作麼生？」師云：「小兒不著鞋。」乃云：「若論舉揚宗教，第一句下薦得，堪與佛祖為師；第二句下薦得，堪與人天為師；第三句下薦得，自救不了。猿啼嶽麓，漁唱瀟湘，嫩柳搖金，寒梅吐玉，是第二句；風宣萬偈非干舌，月寫千身不用媒，是第三句。若待撾動法鼓，鼓動唇皮，道箇紅塵鬧市，古佛家風，柳巷花街，衲僧活計，是多少節文了也。且道畢竟如何是第一句？」良久，云：「豈不見鹿苑和尚云：『我欲舉揚宗教，法堂前艸深一丈。抑不得已，向你道：「盡大地是般若光。」光未發時，無佛無眾生消息，山河大地甚處得來？要知麼？不離當處常湛然，覓則知君不可見。』」師到溈山，慧山和尚請上堂。展拂子云：「秖者箇父子激揚，建",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan'an Feng. Yuan'an Liao owns the retained deployment: to wait for the hall-drum and moved lips, and only then say red-dust market, old buddha's household style, willow lane, patchrobe's livelihood — how much ceremony has already crept in?"
+        },
+        {
+          "RelPath": "J/J34/J34nB308.xml",
+          "FromLb": "0534a19",
+          "ToLb": "0534b03",
+          "Kwic": "不問，傳衣付法事若何？」師云：「大庾嶺頭提不起。」進云：「魚過禹門電燒尾，雷霆齊助采聲來。」師云：「雞足山中笑點頭。」乃云：「雲霞體上衣，謝是天邊賜，何以荅重恩？當陽只一句，且道是那一句？」喝一喝，云：「玉鼎長焚白月團，隨風直到巾缾處。」上堂。「宇宙之內有一老人，頭靠五須彌，腳踏四大海，簡點微塵經卷，賣弄古佛家風。且道此人有多少春秋？還委悉麼？」卓拄杖，云：「劫數芥城終有盡，斯人福壽實難窮。」呵呵下座。臘八，上堂。「獨坐少人知，自憐雙眼碧。夜半睹明星，無端瞎一隻。三七思惟沒奈何，樹下經行虛歎息。騰今耀古累兒孫，箇箇扶籬與摸壁。唯有龍蟠鐵蒺藜，撐天拄地無窮極。因齋慶讚釋迦文，當陽對眾亂拋擲。木童火裏笑嘻嘻，石女谿",
+          "MasterName": "Xiangya Xingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiangya Xingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB308.xml). Recorded Sayings of Chan Master Xiangya Ting. Xiangya Xingting owns the retained deployment: an old man in the cosmos sorting dust-mote scriptures and showing off the old buddha's household style — his years outlast mustard-seed cities, and he comes down laughing."
+        },
+        {
+          "RelPath": "J/J35/J35nB343.xml",
+          "FromLb": "0815a29",
+          "ToLb": "0815b11",
+          "Kwic": "師云：「截斷呈解舌頭。」進云：「如何是德山棒？」師云：「敲破當機腦蓋。」進云：「諸人到此，退身有分。」師云：「皇恩開詔後，有劍不斬渠。」問：「上無佛道可成，下無眾生可度時如何？」師云：「汝為甚麼納敗闕？」僧擬議，師便喝，乃云：「隔河旅館對高樓，兩岸煙霞喝下收，放出紅輪開牖看，往來俱是度人舟。煙筏浪艇，全皆古佛家風；柳陌花街，盡是維摩境界。法法顯露，直在一微塵中；祖祖出興，不離五濁世內。千般指示，獨貴知歸；一念推窮，白雲萬里。若遇知歸到此，又作麼生指示？」卓杖一下，云：「隨類三尺一丈六，分明觸處露堂堂。」下座。上堂。僧問：「如何是賓中主？」師云：「見得分明還是瞽。」進云：「如何是主中賓？」師云：「峰頭拔劍斬浮雲。」進",
+          "MasterName": "Miyin Zhenchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyin Zhenchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB343.xml). Recorded Sayings of Chan Master Miyin of Shengjue Monastery, Guangfu Mountain. Miyin Zhenchuan owns the retained deployment: smoke-rafts and wave-skiffs all the old buddha's household style, flower streets all Vimalakirti's territory — each thing showing itself in a single dust-mote, and what is prized is knowing the way home."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0904b03",
+          "ToLb": "0904b16",
+          "Kwic": "老和尚，用酬法乳之恩。」白椎竟，師拍禪床一下云：「三世諸佛、歷代祖師並天下老和尚，到者裏皆云提揭向上宗猷，發明第一義諦，殊不知遞相鈍置了也。何故？頭上是天，腳下是地，物物春生夏長，人人眼橫鼻直，一切本自見成，那容節外生枝？既然，且道今日新長老入院陞堂又為甚麼邊事？若道為了先人未了公案，猶是孤負先人；若道顯揚古佛家風，猶是孤負古佛；若道揭示人天正眼，猶是孤負人天。正恁麼時總不與麼，畢竟為甚麼邊事？」復拍一拍云：「從前汗馬無人識，只要重論蓋代功。」喝一喝，下座。上堂。良久，云：「若向者裏倜儻得去，直下纖塵不立，截斷佛祖命根，人人常光現前，各各壁立萬仞，縱橫挂寰中日月，卷舒立方外乾坤，更說甚麼聞聲悟道、見色明心，眼裏塵沙",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanyi Ruchun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment: even to claim displaying the old buddha's household style betrays the old buddha — head is sky, feet are ground, eyes sideways, nose straight."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0376a30",
+          "ToLb": "0376b16",
+          "Kwic": "語錄目次終東山梅溪度禪師語錄卷第一嗣法門人慶緒等編上堂一上堂一康熙戊申六月三十，師在安順清源庵，受鎮西守府任護法洎文學檀越、居士、諸山禪德請，住忠義禪院。三門。「滿徑苔痕綠，一門草色新，雖然絕蓋覆，錯過幾多人？正恁麼時，還識忠義路頭麼？」召大眾，云：「看腳下。」大殿。云：「昔日雲長境界，凜凜神威；今朝古佛家風，重重瑞彩。」顧左右，云：「且道今昔相去多少？」遂拈香，云：「兩彩一賽。」據室。「有如是室，據如是人；有如是人，據如是室。雖然，秪如銅頭鐵額的衲僧到來又且如何？」拈拄杖，云：「直教棒棒見血。」十月十五日結制上堂。師以杖指法座云：「曲彔木床，當陽獨露，要登便登，有何回互？」卓拄杖，遂陞座，拈香云：「此瓣香",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained deployment: Lord Guan's frosty majesty of old beside today's layered radiance of the old buddha's household style — how far apart? Two colors, one contest."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1995.xml",
+        "T/T47/T47n1997.xml",
+        "J/J28/J28nB208.xml",
+        "J/J37/J37nB386.xml",
+        "J/J34/J34nB308.xml",
+        "J/J35/J35nB343.xml",
+        "J/J39/J39nB468.xml",
+        "J/J39/J39nB447.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Yuanwu Keqin",
+        "Guxue Zhenzhe",
+        "Yuan'an Liao",
+        "Xiangya Xingting",
+        "Miyin Zhenchuan",
+        "Shanyi Ruchun",
+        "Meixi Fudu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The old buddha's household style: the inherited manner that shows itself in willows and crows, brothel quarter and crossroads — before any drum is struck. Wuzu Fayan opens with the root couplet — wind mild and sun warm, the old buddha's household style; willows green and peaches red, the patriarch's handle — but then takes it back a step: eyes seeing and hands doing are not yet awake, mouth arguing and tongue tipping run further from the way, what comes in by the gate is not the family treasure; Yuanwu Keqin plants it on every person's bare flesh-ball and every place at Vairocana's crown-door: one machine lifted, a thousand and ten thousand machines pass through; Guxue Zhenzhe answers the knowing-one word with the gate of a hundred ills and then spreads it wider — blue water and cinnabar hills are all one's own self, crow cries and magpie chatter are nothing but the old buddha's household style, down to muddled moods, the three poisons, the nine knots and ten bindings, each one shining, each one freed; Yuan'an Liao grades the formulas themselves: monkey cries and fisher songs are the second sentence, wind preaching ten thousand verses the third — but to wait for the hall-drum and moved lips and then say red-dust market, old buddha's style, willow lane and flower street, the patchrobe's livelihood — how much ceremony is that already? Xiangya Xingting sets an old man in the cosmos, head against the five Sumerus, feet on the four seas, sorting through dust-mote scriptures and showing off the old buddha's household style — how many springs and autumns has this person?; Miyin Zhenchuan, after the shout that gathers two banks' mist, says smoke-rafts and wave-skiffs are all the old buddha's household style and willow paths and flower streets are all Vimalakirti's territory — each thing showing itself within a single dust-mote; Shanyi Ruchun at his installation rules that all the claimants dull each other: to say he completes the predecessor's unfinished case betrays the predecessor, to say he displays the old buddha's household style betrays the old buddha, to say he unveils the true eye of gods and humans betrays gods and humans — and then claps once: the sweating warhorse no one knew, only the fame-covering deed gets re-judged; Meixi Fudu at the loyal-and-righteous hall's founding sets Lord Guan's frosty majesty of old beside today's old buddha's household style in layered auspicious radiance — how far apart are past and present? Two colors, one contest."
+    }
+  ]
+}

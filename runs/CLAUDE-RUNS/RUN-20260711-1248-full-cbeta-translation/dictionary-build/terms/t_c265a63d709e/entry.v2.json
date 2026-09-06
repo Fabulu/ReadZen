@@ -1,0 +1,154 @@
+{
+  "Id": "t_c265a63d709e",
+  "SourceTerm": "光非照境，境亦非存",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T12:18:44Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the light does not shine upon realms, nor do the realms remain",
+      "AlternateTargets": [
+        "light shines on no realm, and no realm abides"
+      ],
+      "SearchAliases": [
+        "the mind-moon alone round",
+        "light swallowing the ten thousand forms",
+        "when light and realm are both forgotten",
+        "what thing is it then",
+        "Panshan's mind-moon address"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 81 hits in 66 files representing 65 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0612c01",
+          "ToLb": "0612c17",
+          "Kwic": "師師嘗與南泉同行，後忽一日相別，煎茶次，南泉問曰：從來與師兄商量語句，彼此已知。此後或有人問，畢竟事作麼生？師曰：這一片地大好卓菴。南泉曰：卓菴且置，畢竟事作麼生？師乃打翻茶銚便起。南泉曰：師兄喫茶了，普願未喫茶。師曰：作這箇語話，滴水也難銷。幽州寶積禪師幽州寶積禪師上堂：夫心月孤懸，光吞萬象。光非照境，境亦非存。光境俱亡，復是何物？上堂：禪德可中學道，似地擎山，不知山之孤峻；如石含玉，不知玉之無瑕。若如此者，是名出家。故導師云：法本不相礙，三際亦復然。無為無事人，猶是金鎖難。所以靈源獨耀，道絕無生。大智非明，真空無跡。真如凡聖，皆是夢言。佛及涅槃，並為增語。禪德直須自看，無人替代。上堂：三界無法，何處求心？四",
+          "MasterName": "Panshan Baoji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Panshan Baoji",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Panshan Baoji owns the originating address: the mind-moon lone and round, swallowing the ten thousand forms — light not shining on realms, realms not remaining — both gone: what thing is it? This edition reads the moon as hung and the forgetting as perishing; the clause keeps both variant readings byte-exact."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0578b19",
+          "ToLb": "0578c10",
+          "Kwic": "住！不用展炊單，遮裏無殘羹餿飯與汝。曰：賴遇無，設有，向甚麼處著？山便打，聖接住，推倒向牀上。山大笑，聖哭蒼天，便下參堂。堂中首座號踢天泰，問：行脚高士須得本道公驗，作麼生是本道公驗？聖云：道甚麼？座再問，聖打一坐具，云：遮漆桶前後，觸忤多少賢良？座擬人事，聖便過第二座人事。大愚芝和尚示眾，舉盤山頌云：光非照境，境亦非存，光境俱忘，復是何物？乃豎起拂子云：微塵諸佛光明總在遮裏，照破你諸人心肝五臟，衲僧面前不得道著，切宜忌口。小參，示眾云：一擊響玲瓏，喧轟宇宙通，知音纔側耳，項羽過江東。恁麼會，恰認得驢鞍橋作阿爺下頷。翠巖真和尚舉：黃檗在南泉作首座，甘贄行者請施財，檗云：財法二施，等無差別。行者舁錢出堂，須臾復云：請施財",
+          "MasterName": "Cuiyan Shouzhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cuiyan Shouzhi",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Law Eye. Cuiyan Shouzhi owns the retained whisk-turn: the dust-grain buddhas' bright light all inside this — shining through your liver and five viscera; before the patch-robe monk it must not be spoken of; best keep your mouth shut."
+        },
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0306b10",
+          "ToLb": "0306b24",
+          "Kwic": "露風骨句，未語先分付，進步口喃喃，知君大罔錯。大眾，雲門老人只解無佛處稱尊，且不解移風易俗，承天也揑一箇呈似。大眾，不露風骨句，有鹽兼有醋，憑君子細看，九曲珠難度。便下座。上堂云：大象不遊於兔徑，大悟不拘於小節。是何言歟？承天道：針眼裏躍出獰龍，藕絲中開張世界。何謂如此？功多業熟，水到渠成。參！上堂，云：光非照境，境亦非存。拈起拄杖，云：者拄杖子，遇貴則賤，遇賤則貴。何謂如此？誰知冷灰裏，九轉透瓶香。卓拄杖，下座。上堂。云：今日至節，一陽生於此日。遂拈起拄杖云：大眾！且道者箇作麼生便恁麼搆得？且恁麼應時納祐。若數至大年朝，前頭大有雪在。所以承天尋常十度發言九度休。何謂如此？當門不用栽荊棘，後代兒孫惹著衣。然雖如是，三十年後",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained address: the couplet set down, then the staff taken up — this staff, meeting the honored it turns cheap, meeting the cheap it turns honored. This is his second row in this cohort."
+        },
+        {
+          "RelPath": "J/J28/J28nB210.xml",
+          "FromLb": "0426c04",
+          "ToLb": "0426c17",
+          "Kwic": "之地，方為穩當，方知我不欺汝。」復示偈云：「宗門中事貴真參，二六時中莫放寬；拶得一身白汗出，自然四大得輕安。」十月十五日，古宿上座仝錢門吳氏設普茶。師示眾云：「十五日以前，大地山河皆有月；十五日以後，誰家灶裏火無煙？今日正當十五日，天上月正圓，人間道月半；欲得兩相應，分身兩處看。所謂心月孤圓，光吞萬象。光非照境，境亦非存；光境俱忘，復是何物？」西堂義川云：「說似一物即不中。」師云：「畢竟是箇什麼？」進云：「相逢者多，知音者少。」師便打。進云：「一棒當陽亙古今。」師云：「若不同床睡，焉知被底穿？」進云：「伏惟和尚珍重。」問：「寶印當空妙，花拈一小春。」師云：「風吹拂子千條線。」進云：「今日蒙師指，方知有一冬。」師云：「人人徹骨",
+          "MasterName": "Qiyuan Xinggang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qiyuan Xinggang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB210.xml). Recorded Sayings of Chan Master Fushi Qiyuan. Qiyuan Xinggang owns the retained deployment: heaven's moon just round, the human world calling it half-month — the mind-moon lone and round, swallowing the ten thousand forms; both forgotten, what thing is it? Told that to say it is like some thing will not do, she presses — in the end, what is it? — and strikes."
+        },
+        {
+          "RelPath": "J/J33/J33nB288.xml",
+          "FromLb": "0568b11",
+          "ToLb": "0568b25",
+          "Kwic": "了也，不可向有無處作計較，須具超格眼始有領荷分。你稍涉遲回，早已鷂子過新羅去也。畢竟如何聻？垂鉤千尺浪，直釣金鱗回。」上堂。問：「心月孤圓，光吞萬象。且道光光未發時如何？」師云：「南山虎咬大蟲。」進云：「三春果滿菩提樹，一夜花開世界香。」師云：「腦後見腮。」乃云：「心月孤圓，光吞萬象，明諱虛空，無端立狀。光非照境，境亦非存，眼中著楔，腦後抽釘。光境俱忘，復是何物？耳見始真，眼聞方確。古德曲不藏直，乾明直不藏曲。且道還有傍不肯者麼？試道看。若也道得分明，許你具一隻眼。」因觀戲，上堂。云：「聲色堆頭，全彰本地風光；眼見耳聞，獨露當人玅用。秖為情生智隔，想變體殊，有大威光，不能發現。秪如道：『聞聲悟道，見色明心。』且問諸人：今朝",
+          "MasterName": "Hanyu Hongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyu Hongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB288.xml). Recorded Sayings of Chan Master Hanyu Xian. Hanyu Hongxian owns the retained run: the bright taboo of empty space, groundlessly standing its indictments — the couplet a wedge driven into the eye, a nail drawn behind the head; both forgotten, what thing is it? Hearing with the eye first true, seeing with the ear first sure."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0027b28",
+          "ToLb": "0027c11",
+          "Kwic": "清寧鄉闔姓然點七處光明燈滿散，請陞座。「赫赫心燈，光爛映發，日居月諸，窮上極下，若幽若顯，咸脫苦輪，照開劫外幽昏，振曜將來瑕玼，其則功歸一揆，履踐殷勤，自爾可以上沾法化，普利群生，頭頭彌勒樓開，處處靈樞密運，平高就下，發明格外風光，豎撥橫挑，開舜若身中活眼，修治中修治、殊勝中殊勝，所以心月孤懸，光吞萬象，光非照境，境亦非存，光境俱忘，復是何物？」卓拄丈，云：「只者一段本自光明，一毫端上莫能逃影，且道從願力中所發？從自性中流出？佛祖以百億日月而為燈燭，能使一切眾生所證光明清淨微妙、佛法幽深，然此一燈、千燈、萬燈從一燈起，只者一燈從甚麼處起？識得一燈、千燈、萬燈，燈燈無疑，于此一燈不從天降、不從地涌，皆從我信心眾檀越根本智中發",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang owns the retained close: this one stretch bright of itself, on a hair-tip no shadow can escape — does it rise from vow-power, pour out from self-nature? The staff comes down on the couplet itself."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1319.xml",
+        "X/X67/X67n1309.xml",
+        "X/X69/X69n1352.xml",
+        "J/J28/J28nB210.xml",
+        "J/J33/J33nB288.xml",
+        "J/J37/J37nB371.xml"
+      ],
+      "RelatedMasters": [
+        "Panshan Baoji",
+        "Cuiyan Shouzhi",
+        "Baiyun Shouduan",
+        "Qiyuan Xinggang",
+        "Hanyu Hongxian",
+        "Foyuan Chegang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The light-and-realm couplet of the Chan records: the mind-moon lone and round, swallowing the ten thousand forms — light that shines on no realm, realms that do not remain — and the question pressed after: when both are forgotten, what thing is it? Panshan Baoji ascends the hall of Youzhou and the couplet is born: the mind-moon lone and round, swallowing the ten thousand forms — the light shines on no realm, the realms do not remain — light and realm both gone: what thing is it? Cuiyan Shouzhi raises the verse before his assembly and turns his own whisk: the dust-grain buddhas' bright light is all inside this — shining through your liver and five viscera; before the patch-robe monk it must not be spoken of; best keep your mouth shut, Baiyun Shouduan sets the couplet down and takes up his staff: this staff — meeting the honored it turns cheap, meeting the cheap it turns honored. How so? Who knows that inside the cold ash the nine-turned scent threads the vase? Qiyuan Xinggang holds the fifteenth-day tea service: before the fifteenth, the great earth's hills and streams all have their moon; after the fifteenth, whose stove lacks smoke? Today, just the fifteenth — heaven's moon round, the human world calling it half-month. The so-called mind-moon lone and round, swallowing the ten thousand forms — light shining on no realm, realms not remaining; both forgotten, what thing is it? The hall elder offers the old answer — to say it is like some thing will not do — and she presses: in the end, what is it? Many meet; few know the sound — she strikes, Hanyu Hongxian runs it through the hall: the bright taboo of empty space, groundlessly standing its indictments — the couplet: a wedge driven into the eye, a nail drawn behind the head. Both forgotten, what thing is it? Hearing with the eye first true, seeing with the ear first sure — the ancient worthy did not hide the straight; does anyone beside me refuse? Say it plainly and earn your one eye, Foyuan Chegang completes the seven-lamps service: so the mind-moon hangs lone, swallowing the ten thousand forms — light shining on no realm, realms not remaining; both forgotten, what thing is it? The staff comes down: this one stretch bright of itself — on a hair-tip no shadow can escape. Does it rise from vow-power, pour out from self-nature?"
+    }
+  ]
+}

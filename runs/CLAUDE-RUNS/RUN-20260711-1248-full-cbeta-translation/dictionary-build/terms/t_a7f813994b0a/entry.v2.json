@@ -1,0 +1,194 @@
+{
+  "Id": "t_a7f813994b0a",
+  "SourceTerm": "出來道看",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:29:59Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "come out and try to say it",
+      "AlternateTargets": [
+        "step out of the ranks and say it"
+      ],
+      "SearchAliases": [
+        "come out and say it, if you dare",
+        "step forward and try to say it",
+        "come out and speak, let the hall see"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 263 hits in 99 files representing 95 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0562a13",
+          "ToLb": "0562a29",
+          "Kwic": "能伸。罕遇奇人。置將一問來。代云過。師有時問僧。作麼生。代云少喫。或云。是爾諸人繞天下行脚。不知有祖師意。露柱却知有祖師意。爾作麼生明得露柱知有祖師意。代云。九九八十一。示眾云。一舉不再說。作麼生是一舉。又云。爾若不相當。且覓箇入頭路。微塵諸佛盡在爾舌頭上。三藏聖教在爾脚跟下。不如悟去好。還有人悟得麼。出來道看。代云。養子之緣。代前語云。長安雖樂。上堂大眾集定云。風不來樹不動。便下座。代云。樹折船沈。或云。第一句作麼生道。若道不得。作麼生得心息。代云。和尚莫要草鞋拄杖麼。一日云。從上古人作麼生辨人代云。城地因君置。師因摘茶云。摘茶辛苦。置將一問來。無對。又云。爾若道不得。且念上大人。更不相當。且順朱。代云。功",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment, urging better to awaken and daring anyone who has to come out and say it, then answering in their place with the bond of raising a son."
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0649c08",
+          "ToLb": "0649c24",
+          "Kwic": "殃及子孫。至今分疎不下。更說什麼妙訣。若人識祖佛當處便超越。超越與未超越則且置。儞道。祖佛即今在什麼處。若無人道得。山僧不惜眉毛。與汝諸人拈出。拍禪床一下。小參。僧問。如何是佛。師云。肥從口入。乃舉。德山示眾云。今夜不答話。有問話。者三十棒。眾中舉者甚多。會者不少。且道向什麼處見德山。有不顧性命底漢。試出來道看。若無。山僧為大眾與德山老人相見去也。待德山道。今夜不答話問話者三十棒。但向伊道。某甲話也不問。棒也不喫。儞道。還契他德山老人麼。到者裏須是箇漢始得。況法演遊方十有餘年。海上參尋見數員尊宿。自謂了當。及到浮山圓鑑會下。直是開口不得。後到白雲門下。咬破一箇鐵餕餡。直得百味具足。且道餡子一句作麼生道。乃云。",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment, daring any man who disregards his own life to try to come out and say it, and promising that if none does, the mountain monk will meet the old man Deshan on the assembly's behalf."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0522b18",
+          "ToLb": "0522b30",
+          "Kwic": "僧擬議，濟托開云：『無位真人是什麼乾屎橛？』」師云：「當時臨濟大師，雷聲甚大、雨點全無。何故？他道：『未證據者看。』及至被這僧一拶，直自下禪床手忙腳亂，幸是不遇其人。若法濟作這僧，待他扭住時，輕輕道箇：『老漢忙甚麼？』又待他托開云：『無位真人是什麼乾屎橛？』我也知你說真方，賣假藥。這裏未證據者且置，已證據者出來道看。如無，山僧更為頌破：『赤肉團中無位人，面門出入最相親，可憐未遇知音者，卻把真金換六塵。』」示眾，舉：「丹霞和尚問龐居士：『昨日相見何似今日。』士云：『如法舉昨日事來，作箇宗眼。』霞云：『秪如宗眼，還著得龐公麼？』士云：『我在你眼裏。』霞云：『某甲眼窄，何處安身？』士云：『是眼何窄，是身何安？』霞休去，士云",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, setting aside those without proof and daring those with proof to come out and say it, then verse-breaking the pity of true gold traded for the six dusts when none appears."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0134a13",
+          "ToLb": "0134a26",
+          "Kwic": "「古人住山，嘗有偈云：『釅茶三五盞，意在钁頭邊。且道是甚麼意？』老僧則不然，蠶豆茶邊採，西瓜竹裏栽，鋤成生熟地，一月兩番開。今古同風，宛有住山氣象。若是真獅子兒，不妨向這邊跳躑。所謂獅子兒，眾隨後，三歲便能大哮吼。諸仁者！簑衣索索，官人不落三耳朵，草鞋放在禪床腳下，省得諸方亂走行腳。還有真正赤骨律，住山漢子出來道看。」良久，云：「開田儲夏水，種樹埡春雲。」上堂。舉：「睦州和尚云：『汝等諸人還得個入頭處也未？若未得個入頭，須得個入頭；若得個入頭，不得孤負老僧。』」師云：「賺臨濟喫棒、拶雲門腳折底本事甚處去也？反自出出入入、兩頭三緒，教壞人家兒女。萬峰若不徹底掀翻，使彼承言滯句者一個個李向赤邊咬，埋沒己靈，深為可惜。眾",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment, daring any true bare-boned mountain man to come out and say it, then resting his long silence on opening fields to store summer water and planting trees to bank spring clouds."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0578c11",
+          "ToLb": "0578c25",
+          "Kwic": "了也。』便合掌進前云：『高揖彌勒，不拜釋迦，又如何？』待擬開口，拂袖便出，非但笤帚柄短，縱使拄杖子長也打不著。還有為睦州出氣者麼？縱然出得，也是同坑無異土。」上堂。「時逢五月，芒種時節，東家插秧，西家刈麥。賓頭盧尊者剔起眉毛，達磨大師剛言不識佛法、世法，打成一片，檀那遠供亦可消得。眾中還有恁麼人麼？有，則出來道看；若無，山僧自道去也：漠漠水田飛白鷺，陰陰夏木囀黃鸝。」西堂白嶠請上堂。「六月熱，五穀結，大有之年驗在今日，將謂世俗之談，未具衲僧眼目。所以道：言無展事，語不投機，承言者喪，滯句者迷。報恩到者裡不敢望空啟告，節外生枝。是故，世尊說法四十九年，談經三百餘會，末後乃云：『始從鹿野苑，終至跋提河，于此二中間未嘗",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, daring anyone in the crowd who matches the season to come out and say it, and answering himself with white egrets over the misty paddies and orioles in the summer trees."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0624c03",
+          "ToLb": "0624c17",
+          "Kwic": "者裏會得，說甚長期、短期，結制、解制？一任諸人緊捎草鞋、橫擔楖栗，或向孤峰頂上嘯月眠雲、或向十字街頭呵佛罵祖。有時恁麼，電捲星馳、山崩海竭。有時不恁麼，龍吟虎嘯、玉轉珠回。卻恁麼中不恁麼，拈頭作尾、拏兩道三。不恁麼中卻恁麼，冰河發燄、枯木生花。恁麼、不恁麼且置，祇如夜明簾外轉身一句作麼生道？有道得相應者，出來道看。」一僧纔出，師便下座。上堂。「乍雨乍晴三二月，桃花欲放柳含煙，現前佛法如能委，始信壺中別有天。」揮拂，云：「若也會得，不求神通而神通自至、不求玅用而玅用現前，可以酬罔極之深恩、可以增無邊之壽考，百千三昧、恒沙解脫、無量玅義總在裏許，自利利他無不具足。」復舉拂，云：「大眾還見麼？雲外九峰青更青。」誕前一日",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, asking the turning-around phrase outside the night-bright curtain and daring whoever says it in accord to come out — one monk barely steps out and he leaves the seat."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0536b14",
+          "ToLb": "0537a10",
+          "Kwic": "小叅一小叅小叅舉僧問睦州如何是急州云通伱一問進云如何是急中急州云朝向西瞿耶尼暮向北鬱單越師云者老漢恁麼答話非但頂門具金剛正眼抑且腳下有通天活路然而說佛法各有時節因緣新報恩則不然若有人問如何是急但向道近日厨中少油沒醬更問如何是急中急但向道錢糧既難處戶役更難何且道新報恩恁麼答話與古人是同是別有知得落處的出來道看顧左右云若知落處則便知得大法的人無時無處不可扶竪佛祖綱宗叢林富足也好叢林澹薄也好住現成叢林有遺米遺銀也好住苦難叢林有遺債遺累也好初復叢林要墾土掘地搬石運水也好叢林完備安閒樂道也好若未知落處便迺汩沒塵勞住富足叢林色色週全前人有遺米遺銀也苦住苦難叢林事事虧欠前人有遺債遺累也苦眾兄弟大家在者裡撑老漢難撑之門行",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, daring whoever knows the landing place, same as the ancients or different, to come out and say it, then ruling that whoever knows the landing knows the person of the great teaching in every estate of the community."
+        },
+        {
+          "RelPath": "J/J29/J29nB222.xml",
+          "FromLb": "0004c24",
+          "ToLb": "0005a08",
+          "Kwic": "大慧在。』」師云：「投子因風放火，不是好心；雲巖路見不平，亦非本分；大慧矢上著尖，翻成特地；天如不忍袖手，俛力為人。天皇如是處斷，且道還有曲直也無？」上堂。僧問：「如今說箇甚麼即得？」師云：「者桼桶猶問話在。」乃云：「雨雪風吹上翠微，大功一色露全機，卻笑夜來人不識，層層包裹豈知非？如今還有知非者麼？有則出來道看，無則天皇鼓兩片皮去也。」眾皆側耳，師便下座。上堂。有二僧出，眾齊喝，師一時趁散，复召眾云：「天皇門下須是別有始得。若只今日也喝、明日也喝，總是鬻飯气，有甚宗眼？雖然，二僧豈無見處？」上堂。「也好箇時節。你道是甚時節？大眾！年頭便見雪飄飄，艸木層層裏碎瑤，凍得荊山寒透骨，思量嬾把舌頭饒。燒獸炭，酌香醪，一",
+          "MasterName": "Zishui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zishui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB222.xml). Recorded Sayings of Chan Master Zishui of Wolong, Kuizhou. Zishui owns the retained deployment, daring whoever knows their own wrong to come out and say it, else the Tianhuang will drum his two skins — the crowd lends all ears and he leaves the seat."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "T/T47/T47n1995.xml",
+        "J/J25/J25nB171.xml",
+        "J/J34/J34nB299.xml",
+        "J/J26/J26nB185.xml",
+        "J/J36/J36nB359.xml",
+        "B/B27/B27n0152.xml",
+        "J/J29/J29nB222.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Wuzu Fayan",
+        "Tianyin Yuanxiu",
+        "Hanyue Fazang",
+        "Fushi Tongxian",
+        "Baiyu Jingsi",
+        "Yulin Tongxiu",
+        "Zishui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The standing dare of the Chan hall: whoever claims the matter steps out of the ranks and tries to say it, while the master stakes the seat on the answer. Yunmen Wenyan asks whether anyone has awakened and dares them to come out and say it, answering in their place with the bond of raising a son, Wuzu Fayan raises Deshan's no-questions-tonight ruling and dares any man who disregards his life to come out and say it, promising to meet the old man on the assembly's behalf if none does, Tianyin Yuanxiu sets aside those without proof at Linji's rank-pulling and dares those with proof to come out and say it, verse-breaking the gold-for-six-dusts trade when none appears, and Hanyue Fazang, raising beans and melons on Dengwei, dares any true bare-boned mountain man to come out and say it, then rests on opening fields to store summer water. Fushi Tongxian dares anyone in the crowd who matches the seed-time season to come out and say it, answering himself with white egrets over the misty paddies and orioles in the summer trees, Baiyu Jingsi asks the turning-around phrase outside the night-bright curtain and dares whoever says it in accord to come out — one monk barely steps out and he leaves the seat, Yulin Tongxiu sets his new temple's answers against the old man's urgent-state replies and dares whoever knows the landing place, same or different, to come out and say it, and Zishui dares whoever knows their own wrong to come out and say it, else the Tianhuang will drum his two skins while the crowd lends all ears and he leaves the seat."
+    }
+  ]
+}

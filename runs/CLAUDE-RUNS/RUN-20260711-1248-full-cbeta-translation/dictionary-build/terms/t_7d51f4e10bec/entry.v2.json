@@ -1,0 +1,157 @@
+{
+  "Id": "t_7d51f4e10bec",
+  "SourceTerm": "止止不須說，我法妙難思",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T11:01:48Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "stop, stop — no need to speak; my way is wondrous, beyond thinking",
+      "AlternateTargets": [
+        "enough, enough, there is no need to tell; my way is wondrous and hard to think",
+        "cease, cease, it need not be said — my way outstrips thought"
+      ],
+      "SearchAliases": [
+        "the stop-stop refusal",
+        "the unsayable-way seal",
+        "the Lotus stopping words",
+        "the doubled stop",
+        "wondrous beyond thinking"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 60 hits in 49 files representing 48 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0366a17",
+          "ToLb": "0366a29",
+          "Kwic": "失心。還有答話分也無？」有僧出將沙彌打一掌，便出去，師便歸方丈。至來日，問侍者：「昨日者師僧在什麼處？」侍者云：「當時便去也。」師云：「三十年弄馬騎，被驢子撲。」問：「與麼來底人，師還接也無？」師云：「接。」云：「不與麼來底人，師還接也無？」師云：「接。」云：「與麼來，從師接；不與麼來，師如何接？」師云：「止止不須說，我法妙難思。」鎮府大王問：「師尊年，有幾箇齒在？」師云：「只有一箇牙。」大王云：「爭喫得物？」師云：「雖然一箇，下下咬著。」問：「如何是學人珠？」師云：「高聲問。」僧禮拜。師云：「不解問，何不道：『高下即不問，如何是學人珠？』何不與麼問？」僧便再問。師云：「洎合放過者漢。」問：「二邊寂寂，師如何闡揚？」師云：「今年無",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment: the not-thus-comer — how do you receive him? Stop, stop; what receives is not a how."
+        },
+        {
+          "RelPath": "X/X69/X69n1369.xml",
+          "FromLb": "0759b09",
+          "ToLb": "0759b23",
+          "Kwic": "我將謂你是箇人。便歸方丈。師云：皂纛旗下，一犯不再。上堂。僧問：蓮花峯庵主拈拄杖示眾云：古人到者裏因甚麼不肯住？是如何？答云：愁人莫向愁人說。進云：蓮花庵主自代云：為他途路不得力。畢竟如何？答云：說向愁人愁殺人。進云：庵主又代云：楖栗橫擔不顧人，直入千峯萬峯去。又作麼生？答云：腦後見腮，莫與往來。師乃云：止止不須說，我法妙難思。含血噴人，先污其口。鐘未鳴，皷未響，天寧早喫棒三十了也。諸人若知落處，也好喫三十棒。清明，上堂。乍晴乍雨禁煙天，桃花爛熳春風寒。靈雲見利忘義，玄沙蔗齩甜頭。天寧今日向古墓上添新土去也。卓拄杖一下，前三後三。上堂，舉：金牛和尚於僧堂前作舞大笑，乃云：菩薩子喫飯來！菩薩子喫飯來！有僧問長慶：古人道：菩薩子",
+          "MasterName": "Dachuan Puji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dachuan Puji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji owns the retained deployment: bell unstruck, drum unsounded — the hall has already eaten its thirty blows."
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0785a21",
+          "ToLb": "0785b13",
+          "Kwic": "，木人撫掌。略較些子，眾中還有會得的麼？良久，云：會得的，端坐念實相；若也未會，聽老僧下文分解。老儂不識字，錯讀己已巳。去問大大人，答道彌是襧。且道識字的是，不識字的是？良久云：若是獅子，終不逐塊。取不得，捨不得，不可得中只麼得。老僧胡亂且拈來，上一橫，下兩直，任君持去問達磨，達磨只好道不識。何以故？止止不須說，我法妙難思。光非炤境，境亦非存，光境俱忘，復是何物？豎起拂子，云：大眾看看！老僧拂子放眉間白毫相光，十方各炤萬八千土，具大神通，有大利害。你等諸人舉眼則瞎却汝眼，若欲側耳塞却汝耳，若欲起念則觸碎汝心，直欲眼不得而見、耳不得而聞、心不得而念。正當恁麼時，老僧與你通個消息。良久，云：黃鶯上樹一枝金，白鷺下田千點雪。對",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran Yuancheng owns the retained deployment: lift the eye and it is blinded, lean the ear and it is stopped — the egret down the field, a thousand points of snow."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0557a08",
+          "ToLb": "0557a20",
+          "Kwic": "。』『有幾卷？』云：『兩卷。』云：『既是無言，為甚麼卻有兩卷？』僧無對。」師代云：「莫會無言好。」「有人問僧：『點甚麼燈？』僧云：『長明燈。』云：『甚麼時點？』云：『去年點。』云：『長明何在？』僧無語。」師代云：「瞞他半點不得。」「有僧入冥，見地藏菩薩藏問：『你平生修何業？』僧云：『念《法華經》。』云：『「止止不須說，我法妙難思。」為是說？是不說？』僧無語。」師代云：「謝指示。」「有一官人，入鎮州天王院，睹神像，問院主云：『此是甚麼功德？』云：『護國天王。』云：『秖是護此國，遍護餘國。』云：『在秦為秦，在楚為楚。』云：『臘月二十九日打破鎮州城，天三向甚麼處去？』主無對。」師代云：「無剎不現身。」舉：「僧問石霜：『咫尺之間，為甚不睹",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: is this line speaking or not speaking? — thank you for the instruction."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0231a25",
+          "ToLb": "0231b08",
+          "Kwic": "通風。鼻孔通風，便知自家消息；腳跟穩實，不落他人窠臼。諸大德！盡大地是腳跟，鼻孔向甚麼處著？盡大地是鼻孔，腳跟向甚麼處著？恐孤諸人，不敢說破。汝等也須著些精彩，向箇裏窺破毫芒，買鐵得金，一場富貴，脫或莽鹵承當，黃檗作驢楸，始知苦在後。」卓拄杖，下座。上堂。師豎拂子云：「釋迦老子來也，在山僧拂子頭上道箇『止止不須說，我法妙難思。』大眾！信得及，各各歸家穩坐，無事不辦。脫或未然，山僧打葛藤，絆汝諸人去也。」以拂子畫一畫，云：「一二三四五，突出一群虎，五四三二一，回鸞無等匹；一五二四三，龍象兩交參，三一五二四，各各展巴鼻。從上諸佛諸祖種種神通妙用，一時漏逗了也。且道承誰恩力有如是奇特？」良久云：「少年曾決龍蛇陣，潦倒還聽稚子歌。」下",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: the old man speaks it from the whisk-tip — and the counting game leaks every spirit-power entire."
+        },
+        {
+          "RelPath": "J/J29/J29nB240.xml",
+          "FromLb": "0559a19",
+          "ToLb": "0559b03",
+          "Kwic": "佛，喚作虧為得麼？及至世亂莫容，乘時先退，喚作虧為得麼？」驀豎拂子，云：「途中路上莫商量，來去惟乘斯願長，斯願既乘無來去，無來來去自平常。」上堂。「烏龜向火，乃劫前未兆之機；碓嘴開花，實教外別傳之旨。露迥迥，山明水秀；孤燦燦，日往月來。庭前柏子正呈機，座後桃花已映色。正恁麼時，是誰家曲調？」卓拄杖，云：「止止不須說，我法妙難思。」上堂。「天上無彌勒，地下無彌勒，日出滿山紅，蘆開兩岸白。葦渡碧眼僧，花拈黃面客，撞著石波斯，幾箇知恩德？」擊禪床一下。啟藏，上堂。「以字不成以，八字未是八，金鉤解遼天，二人左右掛，佛祖不敢前，三藏居其下。且道是箇甚麼？」以拂子作癶，云：「若人識得，參學事畢。」臘八，鑄釋迦像成，上堂。「紅爐飛玉片，雪",
+          "MasterName": "Qingzhong Tiebi Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qingzhong Tiebi Huiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Qingzhong Tiebi Huiji owns the retained deployment: the cypress-nut showing its machine, the peach mirroring its color — whose family's tune? The staff cracks."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB137.xml",
+        "X/X69/X69n1369.xml",
+        "X/X72/X72n1444.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB193.xml",
+        "J/J29/J29nB240.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Dachuan Puji",
+        "Zhanran Yuancheng",
+        "Tianyin Yuanxiu",
+        "Yinyuan Longqi",
+        "Qingzhong Tiebi Huiji"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Stop, stop, no need to speak; my way is wondrous, beyond thinking — the Lotus assembly's own refusal, taken over by the Chan hall as its standing seal for what words cannot carry, then beaten, blinded, and re-spoken from a whisk-tip for eight hundred years. The oldest retained use is an answer, not a lecture. In Zhaozhou Congshen's record a monk asks: the one who comes thus — do you receive him? Receive. The one who come not-thus — do you receive him too? Receive. Then: the thus-comer you receive from the master; the not-thus-comer — how do you receive him? Stop, stop — no need to speak; my way is wondrous, beyond thinking. The question about how is sealed with the refusal itself: what receives is not a how. Dachuan Puji, closing a cascade of exchange-questions in the Tianning hall — the lotus-peak hut-master's three self-answers fielded one by one (tell it to no sorrowful man; say it to a sorrowful man and you kill him; staff across the shoulder, straight into a thousand peaks — cheeks behind the skull, have no dealings) — then says: stop, stop — no need to speak, my way is wondrous, beyond thinking. Spitting blood at a man defiles first one's own mouth. The bell not yet struck, the drum not yet sounded — Tianning has already eaten his thirty blows. Know where this lands, and you too may rightly eat thirty. And Zhanran Yuancheng, raising the Lotus lecture for the officials: of the four lines I opened with, one kills and quickens; the old man of the Sakyas strained his utmost and got only half. Why? Stop, stop — no need to speak; my way is wondrous, beyond thinking. Light is not shining on a world, the world is not there to hold; light and world both forgotten — what is it then? His whisk between his brows casts the white-tufted beam to eighteen thousand lands: lift your eyes and it blinds them; lean your ear and it stops them; raise a thought and it shatters the heart — eye cannot see it, ear cannot hear it, mind cannot think it. At just such a time the old monk passes you word: a golden oriole up the tree, one branch of gold; a white egret down the field, a thousand points of snow. Tianyin Yuanxiu, answering for the speechless: a monk died, went into the dark, and met the Earth-store bodhisattva, who asked — what did you work at all your life? I recited the Lotus. Then this line — stop, stop, no need to speak, my way is wondrous, beyond thinking — is it speaking, or is it not speaking? The monk had no word. Tianyin answers in his place: thank you for the instruction. Yinyuan Longqi, holding up the whisk: the old man of the Sakyas has come — on the tip of this mountain monk's whisk he says stop, stop — no need to speak; my way is wondrous, beyond thinking. Trust it and each of you sits steady at home, nothing left undone; fail, and this monk will weave brambles to tangle your feet. One stroke of the whisk through the air: one-two-three-four-five, out springs a pack of tigers; five-four-three-two-one, the returning phoenix has no peer; one-five-two-four-three, dragons and elephants interweave; three-one-five-two-four, each shows its handle. The spirit-workings of all buddhas and patriarchs have leaked out entire — say, on whose grace-strength does such marvel rest? Long silent: in youth he broke the dragon-snake battle-line; grown old and stooped, he still hearkens to the little boys' song. And Qingzhong Tiebi Huiji in the hall: the tortoise crawling to the fire — the machine unbroken before the eon; the pestle blooming — the intent handed down outside the teaching. Bare and far-standing, hills bright, waters fair; solitary and gleaming, suns go, moons come. The cypress-nut before the court shows its machine even now; the peach-blossom behind the seat already mirrors its color. Just at such a time — whose family's tune is it? The staff cracks: stop, stop — no need to speak; my way is wondrous, beyond thinking."
+    }
+  ]
+}

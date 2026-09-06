@@ -1,0 +1,170 @@
+{
+  "Id": "t_8c2d981340fa",
+  "SourceTerm": "是法平等，無有高下",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:43:29Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "this teaching is level and equal, without high or low",
+      "AlternateTargets": [
+        "the teaching is even — no high, no low"
+      ],
+      "SearchAliases": [
+        "equal teaching without high or low",
+        "level and without high or low",
+        "the leveler of the Diamond Sutra"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 49 hits in 36 files representing 35 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1362.xml",
+          "FromLb": "0632b11",
+          "ToLb": "0632b24",
+          "Kwic": "謂曰：禪有傳授，豈佛祖自證自悟之法？棄之，依湛堂和尚。一日，湛堂問曰：你今日鼻孔為什麼無半邊？對曰：寶峯門下。湛堂曰：杜撰禪和。又一日，於粧十王處問曰：此官人姓甚麼？對曰：姓梁。湛堂以手自摩頭曰：爭柰姓梁底少个幞頭。對曰：幞頭雖無，鼻孔相似。湛堂曰：杜撰禪和。又看經次，問曰：看甚麼經？對曰：金剛經。湛堂曰：是法平等，無有高下。為甚麼雲居山高，寶峯山低？對曰：是法平等，無有高下。湛堂曰：你却做得座主使下。湛堂一日謂師曰：杲上座！我這裏禪，你一時理會得，也教你說，也說得，教你做拈古、頌古、小參、普說，你也做得。只是有一件事，你還知麼？對曰：不知甚麼事。湛堂曰：你欠㘞地一解在。你不得這一解，我方丈與你說時便有禪，纔出方丈便無了；惺",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "teacher",
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1362.xml). Recorded Sayings of Chan Master Pujue Zonggao. The root deployment — the sutra read in the teacher's room, the couplet turned into a question of why one mountain stands high and one low, answered with the couplet itself, and the errand-boy grading."
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0819b15",
+          "ToLb": "0819b27",
+          "Kwic": "若，普利存亡。存亡且置，般若作麼生舉？昔僧問古宿：『動容揚古路，不墮悄然機。且道那箇有分？那箇無分？』宿云：『有功者賞。』古人恁麼答話，只知杖頭點額，不解拂尾垂鉤。如今有人問山僧：『動容揚古路，不墮悄然機。那箇有分？那箇無分？』劈脊便打。且道意在甚麼處？」復卓拄杖，下座。為眾職事，上堂。僧問：「教中道：『是法平等，無有高下。』為甚萬仞峰頭底人，卻在千尋海底相遇？千尋海底底人，卻向萬仞峰頭相逢？」師云：「是法平等，無有高下。」進云：「恁麼則處處逢場作戲，人人拄杖撩天。」師云：「你將甚麼作拄杖？」僧一喝，師云：「喝與拄杖有甚交涉？」僧擬議，師便打。進云：「今日和尚為眾說法，未審兩序有分別也無？」師云：「棒棒打著。」進云：「是賞？",
+          "MasterName": "Fangrong Ruxi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Ruxi",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. The retained deployment — the peak-head man meeting the seabed man answered with the leveler itself, and the staff-waving checked: what will you use for a staff?"
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0692a13",
+          "ToLb": "0692a27",
+          "Kwic": "不動干戈定太平，鐵壁崖前迸出華嚴真法界。」上堂：過去心不可得，萬里山河憑點墨；未來心不可得，千古老鴉一樣黑；現在心不可得，天上有星皆拱北。取不得，捨不得！相逢誰是知音客？雖然向下文長，須看一則兩則。世尊乞食歸，空生特地歎希有；德山托缽出，巖頭皮裏作陽秋。一箇感悟流涕，空谷生春；一箇撫掌呵呵，吹毛露刃。雖則是法平等，無有高下；爭奈車不橫推、理無曲斷，還有向這裏作得主麼？兔馬有角，牛羊無角。上堂。師拈如意示云：「會麼？舉不顧，即差互；擬思量，穿過諸人鼻孔去也。饒你能衝流度刃、疾燄過風，到這裏不論搆得搆不得，未免喪身失命。不見清涼法眼禪師初開堂日，僧問：『大眾雲集，請師舉唱。』眼曰：『大眾既盡在這裏，山僧不可無言，舉一則古人現成",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. The retained deployment — the leveler conceded, and yet the cart is not pushed sideways and reason cuts no curves; rabbits and horses have horns, oxen and sheep have none."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0012b21",
+          "ToLb": "0012c05",
+          "Kwic": "開悟，悔昔所作盡是有為功用。今日山僧看來，一佛一祖，鼻孔各別。一箇是荷葉團，團團似鏡；一箇是菱角尖，尖尖似錐。」上堂，師云：「有問有荅，踏著秤錘原是鐵；無問無荅，鼻孔依然搭上唇。且道問底是？不問底是？」良久，卓拄杖一下，云：「參。」浴佛上堂，師云：「年年四月八，處處浴悉達，者裏不恁麼，焚香活燒殺。何以故？是法平等，無有高下。」復舉：「世尊初生，一手指天，一手指地，便道：『天上天下，惟吾獨尊。』後雲門大師道：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』」師云：「一佛一祖，手眼各別。一箇意在東南，一箇志向西北。無際今日各與三十棒。何故如此？山僧棒頭有眼。」上堂，師云：「今日陞座無他，為裔宇張居士求嗣，特特舉揚宗教，續佛祖",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. The retained deployment — everywhere they bathe Siddhartha, here we burn him alive with incense: why? the leveler — and then the newborn, Yunmen's blow, and thirty blows for each."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0112a08",
+          "ToLb": "0112a22",
+          "Kwic": "山便踏翻船子而化，故稱船子祖師。此即菩薩度人榜樣，凡為佛子者須辦苦心，勿令放逸。」示眾。「『大道本無男女相』，不知出何教典？此語有一利一害。如世尊說法，有比丘、比丘尼、優婆塞、優婆夷四眾人等同緣共會，和光相集，僧盡僧學、尼盡尼戒，助轉法輪，了無異說，此一利也。若僧尼混雜，壞教敗倫，此一害也。有一等俗人聞得是法平等，無有高下之說，便君不成君、臣不成臣、父不成父、子不成子、主不成主、僕不成僕，乃至男不像男、女不像女，攪亂世間，皆因錯會佛語，不通理路，以至如是。殊不知，世尊大意要汝君君、臣臣、父父、子子，主是主、僕是僕、男是男、女是女，不得動著、不得違越，自然平等平等。如世尊為母上忉利天說法竟，眾欲遙迎，有蓮花色比丘尼自念女身，",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Teaching Platform of Chan Master Shiyu. The retained deployment — the leveler misread until ruler fails as ruler and the world churns; the intent rather that ruler be ruler, minister minister: level and equal of itself, level and equal."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0718b01",
+          "ToLb": "0718b13",
+          "Kwic": "「飢逢王膳不能餐。」問：「華藏莊嚴遍法界，老人壽量祝無疆。如何是不思議的句？」師云：「華藏莊嚴遍法界。」進云：「恁麼則壽若須彌，福同泰岱。」師云：「你那裏見來？」僧喝，師云：「你也學它喝。」乃云：「今辰乃自牧禪師領雲環王檀越設齋修供，端為恭祝老和尚壽誕，以此勝因回向王公自己，壽山高聳，福海綿延。據秉拂看來：是法平等，無有高下。我師大誕是九月初八，王公壽誕是九月初九；我師大誕是七十；王公壽誕是四十。王公四十即是我師過去的四十，我師七十即是王公將來的七十。七也、四也，有何殊？八也、九也，實平等。過去平等、未來平等、現在平等，我師平等、王公平等，百千諸佛平等、現前四眾平等、盡大地眾生平等，秉拂以平等心說平等法，福壽莊嚴，千周百匝。」",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. The retained deployment — the eighth and the ninth, the forty and the seventy, past and future and present all leveled, the whisk held with a level mind speaking the level teaching."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1362.xml",
+        "J/J29/J29nB249.xml",
+        "J/J25/J25nB174.xml",
+        "J/J26/J26nB177.xml",
+        "J/J27/J27nB190.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Zhantang Wenzhun",
+        "Fangrong Ruxi",
+        "Juelang Daosheng",
+        "Poshan Haiming",
+        "Yunmen Wenyan",
+        "Shiyu Mingfang",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Diamond Sutra's leveler — this teaching is level and equal, without high or low — answered at the root over a high mountain and a low one, conceded but checked against the cart that will not push sideways, and folded into bathing rites, rank-orders, and birthdays from the Song teacher's room to the Qing whisk-seat. The root sits in Dahui Zonggao's own answer, told in his record of his years under Zhantang Wenzhun: caught reading the Diamond Sutra, and the teacher — this teaching is level and equal, without high or low — so why is Yunju mountain high and Baofeng mountain low?; the young answer given back whole: this teaching is level and equal, without high or low — and the grading: you would make a fine exegete's errand-boy; Fangrong Ruxi, at the Tianjie hall for the staff-holders' assembly, takes the monk's citing — the peak-head man meeting the seabed man, the seabed man climbing to meet the peak-head man — and answers with the couplet itself, then takes hold of the monk's staff-waving: what will you use for a staff?; and Juelang Daosheng, over the two who met the begging round — one stirred to tears, spring in an empty valley; one clapping aha with the bared blade — concedes the couplet and then checks it: true, this teaching is level and equal, without high or low — and yet the cart is not pushed sideways, and reason cuts no curves; who here can be master of it?; rabbits and horses have horns, oxen and sheep have none. Poshan Haiming, at the bathing of the Buddha: every year the eighth of the fourth month, everywhere they bathe Siddhartha — not here: we burn him alive with incense. why? this teaching is level and equal, without high or low — and then the newborn raised again: one hand pointing at heaven, one at earth, alone the honored one under heaven — and Yunmen's old wish: had I been there, one blow to kill him and feed him to the dog, for the sake of the great peace; one buddha, one founder, hands and eyes each their own, thirty blows for each — why so? this monk's staff-head has an eye; Shiyu Mingfang, instructing the assembly over the talk of the great way having no man-or-woman face: one sort of worldly man hears this teaching is level and equal, without high or low — and so ruler fails as ruler, minister as minister, father as father, son as son, master as master, servant as servant, men unlike men, women unlike women, the world churned — all from misreading the Buddha's word with no grip on the thread of reason; the World-Honored One's great intent is that ruler be ruler, minister minister, father father, son son — master master, servant servant, man man, woman woman — touch nothing, overstep nothing: level and equal of itself, level and equal; and Tian'an Sheng, holding the whisk at the birthday offering: by the whisk's light, this teaching is level and equal, without high or low — my master's birthday the eighth of the ninth month, the patron's the ninth; my master seventy, the patron forty; the patron's forty is my master's forty gone by, my master's seventy the patron's seventy to come; seven and four — what differs?; eighth and ninth — truly level; past level, future level, present level; my master level, the patron level, the hundred thousand buddhas level, the assembly before us level, every being of the whole earth level — the whisk held with a level mind speaking the level teaching: blessing and life wound round a thousand turns."
+    }
+  ]
+}

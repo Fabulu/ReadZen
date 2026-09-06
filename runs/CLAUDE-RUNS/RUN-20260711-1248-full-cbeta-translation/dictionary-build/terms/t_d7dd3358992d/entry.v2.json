@@ -1,0 +1,171 @@
+{
+  "Id": "t_d7dd3358992d",
+  "SourceTerm": "蓮華未出水時如何",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:57:27Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "how is it when the lotus has not yet come out of the water?",
+      "AlternateTargets": [
+        "what about the lotus before it rises from the water?"
+      ],
+      "SearchAliases": [
+        "lotus before emergence question",
+        "the lotus not yet out of the water",
+        "unrisen lotus how then"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 78 hits in 30 files representing 27 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0673a11",
+          "ToLb": "0674a04",
+          "Kwic": "何透得師云三生六十劫問一機未發如何辨其語脉師云大眾可驗僧云學人如何進向師云退後三步問格外稱提請師舉唱師云你合作麼生進云與麼則承𢫾示也師云莫妄想問曹溪路上還有俗談也無師云六祖是盧行者問一切智智清淨還有地獄也無師云𨶒羅王是鬼作問如何是佛師云踏破草鞋赤脚走進云如何是佛向上事師云拄杖頭上挑日月問蓮華未出水時如何師云蓮華進云出水後如何師云荷葉師乃云一法若有毗盧墮在凡夫萬法若無普賢失其境界正當與麼時文殊向什麼處出頭若也出頭不得金毛師子𦝫折又云幸好一盤飯莫待󰍙椒薑便下座因舉僧問香林雲門親的󳋩今夜囑何人林云涅槃經僧云與麼則親的林云末後品時有僧問師涅槃經意󳋩如何師云大喻八百小喻三千進云末後品意󳋩如何師云雞足三峯頭",
+          "MasterName": "Zhimen Guangzuo",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhimen Guangzuo",
+              "Roles": [
+                "respondent",
+                "record-owner",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. The root deployment — the lotus answered with the lotus, the leaf with the leaf, and the ruling past them: where does Manjusri come out from, and the golden-maned lion's breaking waist."
+        },
+        {
+          "RelPath": "X/X71/X71n1425.xml",
+          "FromLb": "0768b13",
+          "ToLb": "0768c07",
+          "Kwic": "委，獨有虗空暗點頭。廣德延禪師。僧問：如何是透法身句？師曰：無力登山水，茅戶絕知音。體妙探玄盡涉程，爭如野老異中行。功忘日用平懷穩，免事君王寵辱驚。石門蘊禪師。僧問：如何是和尚家風？師曰：物外獨騎千里象，萬年松下擊金鐘。夜明簾外月󳬿朧，騎象飜身擊寶鐘。洪韻上騰三界外，聾夫何事睡猶濃。淨眾禪師。僧問：蓮華未出水時如何？師曰：菡萏滿池流。曰：出水後如何？師曰：葉落不知秋。白藕未萌非隱的，紅花出水不當陽。遊人莫用傳消息，自有清風透遠香。同安志禪師。僧問：二機不到處如何舉唱？師曰：偏處不逢，玄中不失。這邊那畔總難逢，一句無私不處中。紅日暮沉西嶂外，空留孤影照溪東。廣德義禪師。僧問：古人云：言語道斷，非去來今。此理如何",
+          "MasterName": "Wuxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuxiang",
+              "Roles": [
+                "respondent",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Danxia Zichun",
+              "Roles": [
+                "verse-author",
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1425.xml). Recorded Sayings of Chan Master Danxia Zichun. The retained deployment — the pool running full of buds, the leaves falling unannounced of autumn, and Danxia's ode: the white root no hidden truth, the red blossom no claiming of the sun, the clear wind carrying the scent unbidden."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0346c15",
+          "ToLb": "0346c28",
+          "Kwic": "現前諸公若能親證此如幻解脫三昧，則箇箇是金粟再來，不妨撫治邦家，又安宗社，孝以事親，忠以事君，慈以御下，惠以濟物，全理全事，無是無非。所以道：『知幻即離，不假方便；離幻即覺，亦無漸次。』雖然如是，紫芝山頂即不問你，平政橋邊道將一句來。」眾下語畢，師乃云：「一回及第心空後，方信橋流水不流。昔有僧問智門禪師：『蓮華未出水時如何？』門云：『蓮華。』僧云：『出水後如何？』門云：『荷葉。』大眾！智門與麼荅話，固是截斷眾流，仔細檢點將來，猶有依傍在。今日或有問山僧：『蓮華未出水時如何？』但向他道：『開元石烏龜。』『出水後如何？』但向他道：『揚州朱頂鶴。』更有一偈：三十年前到水西，樓臺幻出與天齊，如今擊目蓬蒿遍，誰復區區被幻迷？」通都橋",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhimen Guangzuo",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. The retained deployment — Zhimen's cutting of the stream still checked for a leaning on something, and the fresh answers: the Kaiyuan stone turtle, the Yangzhou red-crowned crane."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0423b24",
+          "ToLb": "0423c07",
+          "Kwic": "寶已明，向上事如何指示？」師便打。士問：「弟子尋常念佛，只是不知念佛的是誰？」師召云：「禮拜著。」士禮拜，師云：「會麼？」士無語，師直打出。僧問：「如何是學人本來面目？」師云：「眉橫額上，耳挂腮邊。」僧以手摹面，云：「不因漁父引，爭得見波濤？」師云：「你見箇甚麼道理便乃如是？」僧禮拜，師與一蹋。僧問：「蓮華未出水時如何？」師云：「根在泥裡。」僧云：「出水後如何？」師云：「葉覆清波。」僧云：「出與未出時如何？」師云：「放開捏聚任憑他。」僧禮拜，師云：「汝會也。」僧擬語，師便打。師問僧：「貓兒因甚愛捉老鼠？」僧云：「是伊活計。」師云：「有鼠捉鼠，無鼠又作甚麼？」僧云：「吃飯了打睡。」師云：「恁麼則虛消歲月去也。」僧云：「得安",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gusu Zun",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. The retained deployment — the root in the mud, the leaf roofing the clear waves, and out-and-not-yet-out let go or gathered in; the bow accepted, the speech struck down."
+        },
+        {
+          "RelPath": "X/X72/X72n1443.xml",
+          "FromLb": "0748b06",
+          "ToLb": "0748b23",
+          "Kwic": "許多辛苦作麼？問答問答僧問：現前且道承誰恩力？師云：上座也解恁麼問。進云：建化門庭且置，未萌以前道將一句來。師云：即今是什麼？進云：兔角杖子為什麼能穿電影？師云：大慈悲菩薩。僧問：倩女離魂，那個是真底？師云：大眾！看者僧也解恁麼問。僧問：大事未明時如何？師云：一二三。明後如何？師云：四五六。靈泌問：蓮華未出水時如何？師云：巖下煑茶燒樹葉。出水後如何？師云：㵎邊流水散桃花。僧問：某甲參學以來，苦無見處。師云：你要見作麼？進云：也須有個真實見處。師云：幸自可憐生。僧罔措。師坐次，僧問無我之旨畢，僧復問：祇者能無我者是什麼？師云：有病眚者，請醫治眚。眚愈，醫云：你眚已去了，是什麼？僧無對。師坐次，指銅鍋問僧：有人問你是什",
+          "MasterName": "Kongyin Daodu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Kongyin Daodu",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. The retained deployment — under the cliff, brewing tea and burning leaves; by the stream, flowing water scattering peach blossoms."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0284c07",
+          "ToLb": "0284c19",
+          "Kwic": "。問：佛法禪道，相去多少？師舉手曰：展則成掌，握則成拳。僧禮拜，師曰：狂狗趁塊。問：如何是毗盧師？師曰：斷跟草鞋。曰：如何是法身主？師曰：尖簷席帽。曰：學人不會。師曰：現成行貨，有甚麼不會？僧擬議，師便喝。問：至道無難，唯嫌揀擇。不揀擇時如何？師曰：遇飯即飯，遇茶即茶。僧禮拜，師曰：放汝三十棒。問：蓮華未出水時如何？師曰：寒則普天普地寒。曰：出水後如何？師曰：熱則普天普地熱。曰：如何是佛法大意？師曰：門前一湖水。問：心佛及眾生，是三無差別。還端的也無？師曰：的。曰：不是心，不是佛，不是物，是箇甚麼？師曰：不識。問：佛身無為，不墮諸數。因甚有千百億化身？師豎拂子曰：你道者箇是第幾身？僧擬進語，師便喝。問：如何是本",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection. The retained deployment — cold, then cold through the whole of heaven and earth; heat, then heat through the whole of heaven and earth."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "X/X71/X71n1425.xml",
+        "J/J28/J28nB208.xml",
+        "J/J37/J37nB387.xml",
+        "X/X72/X72n1443.xml",
+        "X/X85/X85n1592.xml"
+      ],
+      "RelatedMasters": [
+        "Zhimen Guangzuo",
+        "Wuxiang",
+        "Danxia Zichun",
+        "Guxue Zhenzhe",
+        "Gusu Zun",
+        "Kongyin Daodu",
+        "Yu'an Zhiji"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The lotus question — how is it when the lotus has not yet come out of the water? — answered at the root with the lotus itself and the leaf, paralleled by the Jingzhong elder's full pool of buds, and re-answered with stone turtles, mud-roots, cliff-side tea, and world-filling cold and heat from the Song case-desks to the Qing hermitages. The root sits in Zhimen Guangzuo's own exchange, carried in his record among the ancient venerables: asked how it is when the lotus has not yet come out of the water — the lotus; and after it emerges — the leaf; and then his own ruling: if one thing exists, Vairocana falls among the unenlightened; if the ten thousand things do not exist, Samantabhadra loses his field — right at such a moment, where does Manjusri come out from?; and if he cannot come out, the golden-maned lion's waist breaks; the Jingzhong elder's parallel answer, carried in Danxia Zichun's ode section: how is it when the lotus has not yet come out of the water — a pool running full of buds; and after it emerges — the leaves fall and no one knows autumn; and Danxia's ode over it: the white root not yet sprouted is no hidden truth, the red blossom at the water no claiming of the sun; travelers, send no message of it — a clear wind of itself carries the scent far; and Guxue Zhenzhe, at the Huangyan temple, raises the root case to the assembly — Zhimen answering thus truly cuts off the crowd's stream, yet examined closely, there is still a leaning on something — so today, were someone to ask this mountain monk how it is when the lotus has not yet come out of the water, he is told: the Kaiyuan stone turtle; and after it emerges: the Yangzhou red-crowned crane. Gusu Zun, in the recorded exchanges of his own record: asked how it is when the lotus has not yet come out of the water — the root is in the mud; after it emerges — the leaf roofs the clear waves; and both at once, out and not yet out — let go or gathered in, it is up to him; the monk bows — you have it; the monk starts to speak, and the blow falls; Kongyin Daodu, in the fireside talk of his own record, asked the same by the trainee Lingmi: how is it when the lotus has not yet come out of the water — under the cliff, brewing tea and burning leaves; and after it emerges — by the stream, flowing water scattering peach blossoms; and Yu'an Zhiji, carried in the Hidden Black Beans collection: asked how it is when the lotus has not yet come out of the water — cold, then cold through the whole of heaven and earth; and after it emerges — heat, then heat through the whole of heaven and earth."
+    }
+  ]
+}

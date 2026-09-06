@@ -1,0 +1,192 @@
+{
+  "Id": "t_db96a72a0d5a",
+  "SourceTerm": "天地懸殊",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T10:18:15Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heaven and earth apart",
+      "AlternateTargets": [
+        "poles apart, the hung gap"
+      ],
+      "SearchAliases": [
+        "the heaven-to-earth gap",
+        "utterly different as sky from earth",
+        "the hung-apart measure"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 224 hits in 85 files representing 81 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0637b22",
+          "ToLb": "0637c16",
+          "Kwic": "風不見地眾生不入法界佛不出法界所以法性無去來無能所見既如此因什麼道我見我聞於善知識處淂契悟善知識與我說法諸佛出世與眾生說法迦旃延秖為以生滅心傳實相法被淨名呵責分眀道一切法本來無縛何用觧他本來不染何用淨他故云實相如是豈可說乎汝今秖成是非心染淨心學得一知一觧繞天下行見人便擬定當取誰有心眼誰強誰弱若也如此天地懸殊更說什麼見性。問既言性即見見即性秖如性自無障碍無劑限云何隔物即不見又於虗空中近即見遠即不見者如何師云此是你𡚶生異見若言隔物不見無物言見便謂性有隔碍者全無交涉性且非見非不見法亦非見非不見若見性人何處不是我之本性所以六道四生山河大地揔是我之性淨眀骵故云見色便見心色心不異故秖為取相作見聞覺知去却前物始擬得見",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Huangbo Xiyun owns the retained deployment, warning that the right-and-wrong mind that walks the world sizing eyes and strength stands heaven and earth apart — so what more is there to say of seeing-nature."
+        },
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0523a19",
+          "ToLb": "0523b02",
+          "Kwic": "，免被這一般精魅惑亂。無事是貴人，但莫造作，秪是平常。你擬向外傍家求過覓腳手，錯了也。秪擬求佛，佛是名句，你還識馳求底麼？三世十方佛祖出來，也秪為求法，如今參學道流，也秪為求法，得法始了，未得依前輪迴五道。云何是法？法者，是心法，心法無形，通貫十方，目前現用。人信不及，便乃認名認句，向文字中求，意度佛法，天地懸殊。道流！山僧說法，說什麼法？說心地法，便能入凡入聖，入淨入穢，入真入俗。要且不是你真俗凡聖，能與一切真俗凡聖安著名字；真俗凡聖與此人安著名字不得。道流！把得便用，更不著名字，號之為玄旨。山僧說法與天下人別，秪如有箇文殊、普賢出來目前，各現一身問法，纔道咨和尚，我早辨了也。老僧穩坐，更有道流來相見時，我盡辨",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the retained deployment, pricing the seekers who aim at the buddha-way inside letters and guess it by opinion poles apart — then answering his own ask: the mountain monk speaks the mind-ground teaching, entering holy and common, pure and defiled, true and conventional."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0512a20",
+          "ToLb": "0512b08",
+          "Kwic": "麼處見巖頭？僧云：劄。師云：杜撰禪和。進云：婆生七子，六箇不遇知音，只者一箇也不消得，便擲向水中，又且如何？師云：少賣弄。進云：巖頭當時不覺吐舌，意作麼生？師云：樂則同懽。僧提起坐具云：但識取者箇。師云：放下著。復舉：趙州一日雪中倒叫云：相救！相救！有僧便去身邊臥，州便起去。師云：者僧如蟲禦木，要見趙州，天地懸殊。有一般瞎漢便道：報恩扶強不扶弱。殊不知我王庫內無如是刀。喝一喝，下座。元正上堂，舉：僧問鏡清：新年頭還有佛法也無？清云：有。僧云：如何是新年頭佛法？清云：元正啟祚，萬物咸新。僧云：謝師答話。清云：鏡清今日失利。僧又問智門：新年頭還有佛法也無？門云：無。僧云：年年是好年，為什麼却無？門云：張公喫酒李公醉。僧",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, grading the monk who lay down beside the snow-crying Zhaozhou like the insect boring wood — to see Zhaozhou, heaven and earth apart — and ruling that those who cry Bao'en backs the strong do not know the king's treasury holds no such knife."
+        },
+        {
+          "RelPath": "X/X73/X73n1447.xml",
+          "FromLb": "0043b03",
+          "ToLb": "0043b16",
+          "Kwic": "人天交集，四眾臻臨，如何是和尚為人底句？師云：淥水泛清波。學云：點。師云：過。學人撫掌，師云：退。問：一喝分賓主，照用一時行，此意如何？師云：乾柴濕䉰。學人便喝，師云：紅焰炎天。復云：衲僧相見，不涉言詮，爭奈俗士在筵，又須開一線道。然雖如是，且作麼生辨明？直饒見得諦當，分明在俗士分上即得，衲僧分上天地懸殊。大眾！作麼生是衲僧分上事？試道看。莫道錢是足陌，莫道地肥茄子嬾，若作此見解，與俗何殊？若不然者，且作麼生是衲僧分上事？久參先德，不在言之，後學初機，直須子細，不勞久立。珍重！檀越請晚參，僧問：青青翠竹，盡是真如；󳬂󳬂黃花，無非般若。如何是般若？師云：黃泉無老少。進云：春來草自青。師云：聲名不朽。進",
+          "MasterName": "Jianfu Chenggu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jianfu Chenggu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1447.xml). Recorded Sayings of Chan Master Jianfu Chenggu. Jianfu Chenggu owns the retained deployment, ruling that even rightly-and-exactly seeing serves on the layman's ground while on the patched-robe's ground it is heaven and earth apart — then asking what the patched-robe's ground-matter is."
+        },
+        {
+          "RelPath": "X/X69/X69n1368.xml",
+          "FromLb": "0731a15",
+          "ToLb": "0731b05",
+          "Kwic": "非驢所堪。要知麼？保福入僧堂。蔣山石谿和尚至，上堂：破圓悟一關，開衲僧活路，雲離鍾阜，潮打空城，盡大地人知是石谿和尚出沒卷舒之用。只如擘破面門，現大人相，又且如何湊泊？杖頭曲尺并翦刀，須知不是閑和尚。至節，上堂：一冬二冬，叉手當胸。廿一廿二，兩手摸鼻。前輩恁麼道，萬壽恁麼舉，只是諸人不得恁麼會。若恁麼會，天地懸殊。除夜，小參。鐘聲纔動鼓聲催，看取如今是甚時？閙浩浩中靜悄悄，須臾小立是便宜。敢問法筵清眾：那裡是便宜處？擬為說舊年尾佛法，劒去久矣，切忌刻舟；擬為說新年頭佛法，見彈求炙，又恐早計。不如將我五祖師翁所陳家宴，重向風前燈下長吹慢打、淺斟低唱，管顧諸人一上。遂舉拂子，云：囉囉招，囉囉搖，囉囉送。其間忽有人出",
+          "MasterName": "Yanxi Guangwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanxi Guangwen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi Guangwen owns the retained deployment: the elders said it so, Wanshou raises it so — only you must not take it so; to take it so is heaven and earth apart."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0471b14",
+          "ToLb": "0472b02",
+          "Kwic": "但這個肉團孔竅纔有些些粘痰遮蔽了即平日六根門頭所攬底一切塵緣等事毫無知覺便是昏天黑地作顛作狂去也且止是事你看老龐叅馬祖後再見石頭頭云你自見老僧以來日用事作麼生士云若問日用事即無開口處乃呈偈曰日用事無別唯吾自偶諧頭頭非取捨處處弗張乖朱紫誰為號丘山絕點埃神通并妙用運水及搬柴若以傅大士夜夜抱佛眠之偈較之則天地懸殊反不如個在家居士也旦問汝等總是在家居士作麼生是日用事莫是從早辰睡睲了便要穿衣穿衣了便要喫飯喫飯了便要屙屎放尿屙屎放尿了便要迎賔送客迎賔送客了便要抱子引孫抱子引孫了或要燒火掃地從燒火掃地了或也要運水搬柴既在這行戶且莫說是與不是可謂無別若要唯吾自偶諧須見天地與我同根萬物與我一體始相應耳頭頭非取舍只是見色",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment, measuring the water-hauling firewood-carrying daily affair against the nightly sleeping arm-in-arm with the buddha — heaven and earth apart, not matching one householder — before asking his householders their own daily affair."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0343c05",
+          "ToLb": "0343c19",
+          "Kwic": "切有此境界，所謂東西不辨、南北不分，見山不是山、見水不是水，大地山河打成一片純淨潔白田地了也。等待朔風一起，掃盡寒雲，海日高昇，照開碧落，光生大野，氣轉洪鈞，陰崖之沍凍全消，幽壑之層冰頓釋，然後見山依舊是山、見水依舊是水，謂之洞明劫外風光，徹證本來面目。呵呵！與麼匹配，正是陷人阬塹，埋沒人家男女。神鼎門下天地懸殊。豈不見道：道人行處如火消冰，箭既離弦無反回勢。那有許多之遶？直得盡乾坤大地無有纖毫過患尤是轉句，不見一色始為半提，更須知有全提時節。若欲做箇灑脫漢子，須是恁麼一回，方始寒暑推遷不到，日月照耀無門。然雖如是，只如雪覆千山，孤峰不白，畢竟是何道理？」良久，云：「堪羨一堂無事客，臥雲深處不朝天。」示眾。「戒之",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment, ruling that such matching is the man-burying pit while under Shending it is heaven and earth apart — the way-man walks where fire melts ice, and the arrow once off the string has no returning force."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0451c06",
+          "ToLb": "0451c20",
+          "Kwic": "本有，者條通天大路，只要各自知歸，歸即且置，不動步而達本鄉、滅化城而登寶所一句又作麼生？」拈拄杖，云：「手握金鞭問歸客，夜深誰共御街行？」下座。請上堂。「諸供養中，法供養最。大眾！作麼生是法最底道理？今日羅氏檀越捐金辦供、齋僧行嚫，是汝諸人缽裏飯、桶裏水，各各飽齁齁地，不可不法、不可不最也。若到衲僧分上，天地懸殊。莫是如來禪、祖師意、德山棒、臨濟喝是最麼？且喜沒交涉。莫是金剛圈、栗棘蓬是最麼？你諸人要且吞不下、跳不出。然則如何即是？彫弓已掛狼煙息，美食元非中飽人。」晚參。「畫地為牢，試玉須經火；磨磚作鏡，打艸要驚蛇。良馬見鞭影而行，鈍鳥豈翔乎天漢？雖則石中有玉，其如玉本無瑕。臨濟在黃檗喫三頓痛棒，至今有屈難伸；雲",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment, setting the patched-robe's ground poles apart from the teaching-offering feast — not the thus-come's Chan, not the founder's intent, not Deshan's staff, not Linji's shout: happily, no connection at all."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "J/J23/J23nB134.xml",
+        "X/X69/X69n1359.xml",
+        "X/X73/X73n1447.xml",
+        "X/X69/X69n1368.xml",
+        "L/L153/L153n1637.xml",
+        "J/J37/J37nB386.xml",
+        "J/J37/J37nB388.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Linji Yixuan",
+        "Ying'an Tanhua",
+        "Jianfu Chenggu",
+        "Yanxi Guangwen",
+        "Huanyou Zhengchuan",
+        "Yuan'an Liao",
+        "Yikui Yuankui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The heaven-and-earth-apart of the Chan records: the greatest gap, set between the sizing mind and seeing-nature, between letters and the living address, between the snow-cry and the insect in the wood, and between two householders' verses. Huangbo Xiyun warns the student who has built a right-and-wrong mind and a defiled-and-pure mind, learned one knowing and one understanding, and walks the whole world sizing people — who has the eye, who is strong, who weak — that measured so, it is heaven and earth apart, so what more is there to say of seeing-nature, Linji Yixuan prices the letter-seekers: aiming only at the buddha-way inside words, they guess it by opinion — poles apart; way-folk, the mountain monk speaks a teaching — what teaching? the mind-ground teaching, entering the holy and the common, the pure and the defiled, the true and the conventional, yet it is none of your holy-common-true-conventional, Ying'an Tanhua raises Zhaozhou's snow-cry — Save me! Save me! — and the monk who lay down beside him while Zhaozhou rose and left, grading that monk like the insect boring wood that by accident writes a character: to see Zhaozhou, heaven and earth apart — and the blind crowd that cries Bao'en backs the strong and not the weak does not know the king's treasury holds no such knife, and Jianfu Chenggu rules that even seeing rightly and exactly serves on the layman's ground, but on the patched-robe's ground it is heaven and earth apart — so, assembly, what is the patched-robe's ground-matter? Say it and see. Yanxi Guangwen at the solstice: the elders said it so, Wanshou raises it so — only you must not take it so; to take it so is heaven and earth apart, Huanyou Zhengchuan sets the two lay verses against each other — Layman Pang's daily affair of no-other and self-harmony, hauling water and carrying firewood, measured against the elder Fu's nightly sleeping arm-in-arm with the buddha: heaven and earth apart, not matching one householder — then asks his all-householder audience what their daily affair is, Yuan'an Liao rules that such matching is exactly the man-burying pit — under Shending, heaven and earth apart: does one not see it said, the way-man walks where fire melts ice, the arrow once off the string has no returning force, and Yikui Yuankui at the donor feast — of all offerings the teaching-offering is greatest, the patron's gold already in your bowls and bellies — sets the patched-robe's ground poles apart: is it the thus-come's Chan, the founder's intent, Deshan's staff, Linji's shout? Happily, no connection at all."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Id": "t_e511b79ee639",
+  "SourceTerm": "三無差別",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T11:35:39Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the three — mind, buddha, and beings — without difference",
+      "AlternateTargets": [
+        "mind, buddha, and living beings: no difference"
+      ],
+      "SearchAliases": [
+        "the mind-buddha-beings sameness",
+        "the three with no difference",
+        "the sameness verse of the Flowery Adornment",
+        "one taste of mind buddha and beings",
+        "water moon and self-so body without difference"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 132 hits in 91 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1224.xml",
+          "FromLb": "0026a01",
+          "ToLb": "0026a13",
+          "Kwic": "大眾普集，久而不散。師曰：諸人何故在此不去？貧道已對而相呈，還肯休麼？有何事可疑？莫錯用心，枉費氣力。若有疑情，一任諸人恣意早問。時有僧法淵問曰：云何是佛？云何是法？云何是僧？云何是一體三寶？願師垂示。師曰：心是佛，不用將佛求佛。心是法，不用將法求法。佛法無二，和合為僧，即是一體三寶。經云：心佛與眾生，是三無差別。身口意清淨，名為佛出世。三業不清淨，名為佛滅度。喻如瞋時無喜，喜時無瞋。唯是一心，實無二體。本智法爾，無漏現前。如蛇化為龍，不改其鱗。眾生迴心作佛，不改其面。性本清淨，不待修成。有證有修，即同增上慢者。真空無滯，應用無窮。無始無終，利根頓悟。用無等等，即是阿耨菩提心。無形相，即是微妙色身。無相，即是實相法",
+          "MasterName": "Dazhu Huihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dazhu Huihai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1224.xml). Recorded Sayings of Disciples’ Visits and Questions from Various Places. Dazhu Huihai owns the retained answer: mind is the buddha, mind is the way's law, their harmony the assembly — the sutra's three without difference, and the snake becoming a dragon without changing its scales."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0480c09",
+          "ToLb": "0480c25",
+          "Kwic": "切業報。一切塵毛等。各各顯現菩提涅槃等。為佛出世也。若一處不了。即不成佛。亦不出現。何以故。由不了處。仍是無明。是故不成佛。不出現也。是以諸佛出世。知機知時。俯為下根。示生減劫。空拳誘引。黃葉提撕。若上上機人。則諸佛不出不沒。故經云。有佛無佛。性相常住。華嚴經頌云。如心諸佛爾。如佛眾生然。心佛與眾生。是三無差別。只是一法。名別理同。何者。覺此無依無住絕待不思議心不動時。入十信之初。號不動智佛。不覺此絕待真心。不守自性隨緣差別時。名法身。流轉五道。號曰眾生。但有迷悟之名。不離一心之體。更有何法而作凡聖名字為差別乎。如文殊般若經云。佛言。佛法無上耶。文殊答。無有一法如微塵許名為無上。又經云。如世尊說此法時。無有菩",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained gloss: mind, buddha, beings — three without difference — one way only, names differ, principle one; waking, the unmoving-wisdom buddha of the ten faiths; unwoken, the law-body wandering the five roads, called the being."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0248b05",
+          "ToLb": "0248b18",
+          "Kwic": "認賊為子，當知真見真知，知無知知，見無見見，了知見無即無離是真知見也。知非知，則知知無知，不知知亦知知矣。見非見，則見見無見，不見見亦見見矣。人為知見所迷，子為知見所悟，人迷知見而失知見，不知知見之所以；予悟知見而頓證知見，能知知見之所以。人以知見為別，知見見則迷矣；子以知見而悟，知見見則悟矣。心佛眾生，三無差別。《般若經》云：「無二無二分，無別無斷故。」此理非出常情、非不出常情卜度，大難摩索。蓋知之者謂見性，見之者謂知性，非見性而知性則無以為知見一、見性一。佛祖相承以來，不為別事，以心印心，心外無知，以法印法，法外無見。見知心見、知見知心，如鏡照空，似空涵鏡，無變易、無隱顯、無暗明、無色空，不可滯知于寂，滯寂則知",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained seal: true knowing knows without knowing-known, true seeing sees without seeing-seen — mind, buddha, beings three without difference; no two, no two-parts, no difference, no cutting-off."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0491a02",
+          "ToLb": "0491b05",
+          "Kwic": "身心且無棲泊處也信知是歸依佛即法即僧都在其間矣歸依法者即指心法非有別法可依歸也既知爾我這個身心在如來法身之中則又當知如來這箇法身又在爾我這一點靈竅心中矣所謂心包太虛量周沙界不其然乎又所謂心生則種種法生心滅則種種法滅除却心法則無別法可依歸也況慈悲喜捨等法又豈外是乎歸依僧者僧為和合之義佛即法法即心心佛眾生三無差別又所謂即心即佛即境即心舉一而三言三即一者也如是則歸依佛竟歸依法竟歸依僧竟今屬八月十五日乃當今天下十三布政南北兩京選舉之辰如昔丹霞所謂即選舉亦何如選佛耶所謂十方同聚會箇箇學無為此是選佛塲心空及地歸擲拂子咄一聲下座。上堂師云鄙人將謂今時佛法門頭沒有可商量人仔細檢點也有一箇半箇有僧出問誰是一個師曰即今如閙",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained unfolding: taking refuge in the assembly — buddha just is law, law just is mind, mind buddha beings three without difference — raise one and three, say three and one: all three refuges done."
+        },
+        {
+          "RelPath": "J/J29/J29nB238.xml",
+          "FromLb": "0461c01",
+          "ToLb": "0461c15",
+          "Kwic": "。」合十，云：「僧伽耶。」禮拜起，復云：「聻。」方丈。「古人喚作方丈地，老僧喚作方丈室。將來烹佛煉祖，道是衲僧巴鼻。」喝一喝。上堂。拈香罷，維那白槌，師隨喝一喝，云：「玄要料揀，賓主照用，一並漏逗了也。若也不會，聽取一偈：野寺孤明夜月斜，高臺飛閣遠人家，綠水金輝浮桂影，青山玉曉墮霜華。」問：「心佛與眾生是三無差別，如何是心？」師云：「門前幾竿竹。」進云：「如何是佛？」師云：「嶺上數株松。」進云：「還有眾生也無？」師云：「心佛與眾生是三無差別。」僧禮拜，師下座。上堂。「出眾者三十棒，不出眾者三十棒，出眾不出眾者三十棒。」一僧出，問話不契，師乃云：「直下三玄已露，何曾三要無施？落花流水空去，殿前古柏當機。」上堂。「春",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB238.xml). Recorded Sayings of Chan Master Chuiwanzhen of Juyun. Juyun Chuiwan Guangzhen owns the retained triple: what is mind — bamboo before the gate; what is buddha — pines on the ridge; and beings? Mind, buddha, and beings, the three without difference — the monk bows, down from the seat."
+        },
+        {
+          "RelPath": "J/J25/J25nB156.xml",
+          "FromLb": "0059a20",
+          "ToLb": "0059b13",
+          "Kwic": "春隨根蒂動香魂，東風吹出林間去，惹得遊蜂滾到今。讚讚觀音觀音云從聞思修，蝢入三摩地，無為未必真，有作何所取？良哉濟世者，出此方便語，勿以耳聞聲，眼觀猶不許。某人寫爾形，目之皆可喜，若謂這箇是，遠之又遠矣。除此別相見，驢年何所似，突出劫前眸，鑑此慈悲體。水月觀音水月觀音大智若水，大滿若月，自在體同，三無差別。是境界中，誰生誰滅？我作是解，認龜作鱉。魚籃觀音魚籃觀音筐攜小鱗，索撩天價，遇知味人，可賣不賣。負之而趨，償馬郎債，翳形而去，從人笑怪。指顧觀音指顧觀音從聞思修，至成寶覺，曲盡時機，也知絡索。不耳聞聲，眼聞亦惡，一指頭禪，何處描摸。題二祖圖題二祖圖達摩何曾面壁，神光何曾立雪，圖者，如虫嚙木，偶爾成",
+          "MasterName": "Wuhuan Xingchong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuhuan Xingchong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Wuhuan Xingchong owns the retained praise: great wisdom like water, great fullness like the moon, the self-so body one — the three without difference; who is born, who dies? I make this reading — mistaking the turtle for the soft-shell."
+        },
+        {
+          "RelPath": "J/J33/J33nB287.xml",
+          "FromLb": "0542a18",
+          "ToLb": "0542b03",
+          "Kwic": "說甚高高山頂立，深深海底行？」驀以拂子打圓相云：「山僧今日變大地作黃金，攪長河為酥酪，使海水揚波、黃花滿目，一一消歸自己。還委悉麼？婆子臺山親指路，獻珠龍女坐蓮花。」端午，上堂。以拂子打圓相云：「此箇角黍大如斗，喫著通身都是口，艾虎桃符過一邊……」喝一喝云：「平地一聲獅子吼。」放生，請上堂。「心佛眾生，三無差別，本體如如，常自寂滅。威音那畔不立一塵，今世門頭不拾一法。所以道：『凡有血氣者必同知，凡有知者必同體。』如是則鱗甲羽毛同登覺地，麤身細智悉稟威光。轉凡成聖即不無，乘時展演一句作麼生道？竹影掃階塵不動，月穿潭底水無痕。」孝子彥彪薦親，請陞座。舉拂子云：「大圓覺海，無去無來無向背；心光獨耀，絕凡絕聖絕羅籠。",
+          "MasterName": "Zixian Jue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zixian Jue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB287.xml). Recorded Sayings of Chan Master Zixianjue. Zixian Jue owns the retained release: mind, buddha, beings — three without difference; whatever has blood and breath knows alike, whatever knows shares one body — the scaly and feathered climb the awakened ground together."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1224.xml",
+        "T/T48/T48n2016.xml",
+        "J/J25/J25nB163.xml",
+        "L/L153/L153n1637.xml",
+        "J/J29/J29nB238.xml",
+        "J/J25/J25nB156.xml",
+        "J/J33/J33nB287.xml"
+      ],
+      "RelatedMasters": [
+        "Dazhu Huihai",
+        "Yongming Yanshou",
+        "Guting Shanjian",
+        "Huanyou Zhengchuan",
+        "Juyun Chuiwan Guangzhen",
+        "Wuhuan Xingchong",
+        "Zixian Jue"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The three-without-difference of the Chan records: mind, buddha, and beings one — the one-body three treasures, the ten faiths and the five roads, the refuges unfolded, the bamboo and the pines, the water and the moon, and the life-release ground. Dazhu Huihai answers the monk Fayuan's three-treasure ask: mind is the buddha — don't seek buddha with buddha; mind is the way's law — don't seek law with law; no two in buddha and law, their harmony the assembly: that is the one-body three treasures. The sutra says: mind, buddha, and beings — the three without difference. Body, mouth, and intent clean: a buddha appears in the world; the three deeds unclean: the buddha's extinction. Like anger without joy, joy without anger — one mind only, truly no second body; the snake becomes a dragon without changing its scales, beings turn their minds to buddhahood without changing their faces, Yongming Yanshou glosses the Flowery-Adornment verse in his mirror of the school: as mind is, so the buddhas; as the buddha is, so the beings — mind, buddha, and beings, the three without difference — only one way, the names differ, the principle is one. Wake to this un-leaning un-abiding unconditioned unthinkable mind unmoved: the first of the ten faiths, named the unmoving-wisdom buddha; unwoken, the true mind not keeping its own nature, following conditions into difference: the law-body wandering the five roads, called the being — names of delusion and waking only, never leaving the one mind's body, Guting Shanjian seals his knowing-view treatise: true knowing knows without knowing-known, true seeing sees without seeing-seen — taking knowing-views as difference and seeing them one is delusion; waking through knowing-views and seeing them one is waking: mind, buddha, beings — the three without difference; the Wisdom sutra: no two, no two-parts, no difference, no cutting-off — and Huanyou Zhengchuan unfolds the refuges: taking refuge in the assembly — assembly is harmony's meaning: buddha just is law, law just is mind, mind buddha beings three without difference — also called mind-just-is-buddha, realm-just-is-mind: raise one and three, say three and one — so refuge in buddha done, refuge in law done, refuge in assembly done. Juyun Chuiwan Guangzhen takes the triple ask head on: mind, buddha, and beings, the three without difference — what is mind? A few stalks of bamboo before the gate. What is buddha? Several pines on the ridge. And are there beings or not? Mind, buddha, and beings — the three without difference. The monk bows; down from the seat, Wuhuan Xingchong praises the Water-Moon Guanyin: great wisdom like water, great fullness like the moon, the self-so body one — the three without difference. In this field of sights, who is born, who dies? I make this reading — mistaking the turtle for the soft-shell, and Zixian Jue releases the living: mind, buddha, beings — three without difference, the base-body thus-and-so, ever itself still and quenched. Before the Awesome-Sound one not one dust is set up; at this age's gate not one way is picked up — whatever has blood and breath knows alike; whatever knows shares one body — so the scaly and the feathered climb the awakened ground together, the coarse-bodied and fine-minded all partake of the awesome light. Turning the common into the worthy — yes, that there is."
+    }
+  ]
+}

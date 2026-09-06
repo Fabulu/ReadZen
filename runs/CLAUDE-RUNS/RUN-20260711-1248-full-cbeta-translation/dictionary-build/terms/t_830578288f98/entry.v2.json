@@ -1,0 +1,184 @@
+{
+  "Id": "t_830578288f98",
+  "SourceTerm": "殺活自繇",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T12:35:40Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "free in killing and giving life",
+      "AlternateTargets": [
+        "killing and quickening at one's own discretion",
+        "the two-door device at liberty"
+      ],
+      "SearchAliases": [
+        "the kill-and-free device",
+        "free to kill, free to give life",
+        "the master's own two doors"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 11 hits in 9 files representing 9 independent works. Evidence floor: 3. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0104b10",
+          "ToLb": "0104b22",
+          "Kwic": "秋，今日蒙師呈此令，臨濟家風事若何。」師便打，進云：「恁麼則昔日臨濟、今朝和尚。」師云：「汝增我不得。」乃云：「全機展演，一道提持，蓋古覆今，超聲越色，突出報化佛頭，拽脫娘生鼻孔，向此辨的得去，便可施大機、發大用，與銅頭鐵額敲枷打鎖，超宗異目碎骨取髓，天上人間解粘去縛，佛祖場中抽釘拔楔，所以道：『縱橫無礙，殺活自繇，我為法王，於法自在。』正當恁麼時，安家定業一句作麼生道？」拈拄杖按膝，云：「橫按莫邪全正令，太平寰宇斬癡頑。」復舉：世尊初生，一手指天，一手指地，目顧四方，周行七步，云：「天上天下唯我獨尊。」後來雲門文偃禪師云：「我當時若見，一棒打殺與狗子喫，卻貴圖天下太平。」師云：「世尊衍鐵牛機，雲門明格外句，雖則各露",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained address: the whole device unfolds, one way held up, covering the old and outdoing the new, overleaping sound and color — the heads of the recompense and transformation bodies thrust out, the nostrils of the birth-mother pulled free; discern the mark here and you can deploy the great device and issue the great use — breaking chains and locks with the iron-browed, crushing bone and taking marrow with the exceptional-eyed, loosening the stuck in heaven and among men, drawing nails and pulling wedges in the field of the buddhas and patriarchs. That is why it is said: unobstructed across and athwart, free in killing and giving life, I am the king of the teaching, at ease in the teaching. Just at such a moment — what is the one sentence that settles the house and fixes the estate? The staff lifted and pressed on the knee: the Moye held crosswise, the full true command; the peaceful world beheads the dull and stubborn."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0248c28",
+          "ToLb": "0249a11",
+          "Kwic": "默、一動一靜之下轉凡成聖者乎？故我臨濟見僧入門便喝，德山見僧入門便棒，又云：『夫參學者，不避喪身失命。我在黃檗處，三度問佛法的的大意，三蒙痛棒如蒿枝拂相似，而今再思一頓，無人下手。』僧云：『某甲下手。』濟度棒與僧，僧擬接，濟便打。看這老漢機用，如返風回火，奔流度刃，毒中之毒，鋒上加鋒，牙上生牙，角上生角，殺活自繇，亙赫千古，苟承其宗，須明厥旨，豈可呴呴之仁、硜硜之德、詹詹之言、屑屑之行混雜其間，以玷從上綱宗也。茲乃結夏之期，眾等請陞此座，欲山僧舉揚正法眼藏，於清淨大圓覺中，一一點出正知正見，與諸人共知。未審諸人還委悉麼？掃卻腥臊千萬里，惟餘正脈永流通。」下座。追薦請上堂。師云：「超生越死證涅槃，須具金剛眼目。治國",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained address: that is why our Linji, seeing a monk enter the gate, cried out, and Deshan, seeing a monk enter the gate, took the rod — and: the true student does not shrink from losing his body and his life; at Huangbo I three times asked the great intent of the Buddha's teaching and three times took a painful beating, like wormwood brush flicking past; even now I long for one more taste, but no one dares strike. A monk said: I will strike. Linji handed him the rod; as the monk reached to take it, Linji struck. Look at this old fellow's working — like wind turning back into fire, like a galloping current crossing a blade: poison within poison, edge upon edge, teeth growing on teeth, horns growing on horns, free in killing and giving life, blazing through a thousand ages. Whoever inherits his lineage must understand its purport — how could babbling kindness, clinking little virtue, twittering words, and trifling conduct mix in and stain the outline handed down from of old? Now is the summer-session season; the assembly has asked me to ascend this seat and unfold the treasury of the true eye, point by point setting out right knowing and right seeing in the pure great perfect awakening, for all to share. Do you all fully grasp it or not? Swept clear the stench ten thousand li; only the true vein flows on forever. And he descended."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0450c06",
+          "ToLb": "0450c19",
+          "Kwic": "正眼，洞徹無遺。妙淨明心，超今越古。寬若太虛，明如杲日，當陽顯赫，智者猶迷。袖裏藏鋒，作家罔措。淨裸裸，絕承當。赤灑灑，莫可把。故云『常在動用中，動用中收不得。』到者裏，還容得三玄五位麼？還容得黑白圓相麼？還容得一字三句麼？還容得六相十玄麼？既總不容，只貴直下坐斷，默爾知歸。如夜光在盤，橫斜莫測；太阿在握，殺活自繇。且道：隨流得妙一句作麼生道？白鷺下田千點雪，黃鸝上樹一枝花。」師過顯親寺，諸護法請上堂。「無邊法界一塵中，百億須彌不露蹤，檢點將來猶空缺。當知別有一家風。所以道：大人具大見、大智得大用，掀翻野狐窠窟，截斷生死根株。若寶月之行空、如吹毛之出匣，殺活擒縱，佛祖不知。出入行藏，鬼神莫測，圓融無際，妙用恒沙，烜",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained address: the true eye, pierced through without remainder; the wondrous pure bright mind, outdoing today and surpassing the old; wide as the great void, bright as the noon sun, blazing in the open — even the wise go astray; a blade hidden in the sleeve, the adept at a loss; nakedly clean, beyond taking up; bare and dripping, beyond grasping. Hence it is said: always within activity, and within activity not gathered in. Arrived here — does it admit the three mysteries and five positions? does it admit the black-and-white circle? does it admit the one word with three sentences? does it admit the six attributes and ten mysteries? Admitting none of them, what is prized is only cutting straight through and sitting it down, silent, knowing the return. Like night-pearl in the dish, slantwise beyond measuring; the Tai'e in the grip, free in killing and giving life. Tell me: what is the one sentence that wins the marvel while following the stream? — a white egret into the field, a thousand flecks of snow; an oriole up the tree, one branch of flowers."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0805b08",
+          "ToLb": "0805b22",
+          "Kwic": "片，情境俱忘，觸著磕著，忽爾㘞地一聲，始知諸佛無二道，聖人無兩心也。住弁山復嚴文學(季玉)住弁山復嚴文學接來翰，知居士意氣聳聳然，鋒鋩銛銛然，大似一員猛將，有八面受敵之威風。但未久經行陣，若遇強中強、勝中勝，恐被他生擒活捉，則體面不雅。只宜深蓄厚養，餘思淨盡、般若圓明，那時出頭來，一棒一條痕、一掌一握血，殺活自繇、收放自在，豈不快哉！住弁山復張居士住弁山復張居士接來書，知用心之深、造詣之切，真塵勞中丈夫也。來書云：昔日聰明見解，山河大地都向盤古已前去了。是則固是。且道盤古已前是甚麼人？道一句看。又云：忽將佛祖化作一團沒眼耳鼻口的東西，塞住三千大千沙界。既無眼耳鼻口，且道足下在何處安身立命？又作麼生見聞？作麼生唱飲",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained letter, written from Bian Mountain in reply to the scholar Yan Jiyu: your letter received — I know the layman's spirit towers and his edge is keen, truly like a seasoned general with the bearing of one who receives enemies on eight sides. But not yet long seasoned in the line of battle, should he meet the strong of the strong and the best of the best, I fear he will be seized alive and taken captive — and the face would not be pretty. Better only to store deep and nurture full: when stray thoughts are exhausted and prajna is round and bright, then come forward — one rod, one stripe of scar; one palm, one handful of blood; free in killing and giving life, at ease in gathering and releasing — would that not be a joy!"
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0895c13",
+          "ToLb": "0895c27",
+          "Kwic": "罷金雞天未曉，斜飛玉鷺過橫塘。」請同門兩序，上堂。「一繡之裳，未為美觀；孤絃之瑟，惡可聳聽？須得同氣相求，同聲相應，屈尊就卑，鼓揚法化，親疏一致，新舊兩忘，內外雍肅，號令森嚴。用睦州心行，激勵滹沱受棒；挺高菴氣岸，呵斥佛鑑鹹虀。撾楊岐之鼓，逼慈明晚參；縱雪竇之辯，款太陽佳賓。寶壽生薑，到老辛辣；溈山菜刀，殺活自繇。縱有英傑到來，也知此間門庭高峻，僅可向侍者邊領箇消息。如此，可以廓人天正眼，播佛祖玄機，成叢林不磨之業，砥長江趨下之瀾。敢保威音王未見者般韙勣，毘盧師焉知此等風規？」召眾，曰：「且道據箇甚麼有如是奇特？更聽一偈：翻雲覆雨世紛紛，雅奏塤篪喜再聞；掌上一絲能繫鼎，胸中五岳自生雲。」結制，小參。「聖制咸尊十月",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe'an Fan. Zhe'an Jingfan owns the retained address, asking the fellow-monks of the two ranks to the hall: one embroidered garment is no fine sight; a single-stringed zither hardly stirs the ear — it takes those of the same breath seeking each other and the same voice answering, the honored bending to the humble, drumming wide the teaching's transformation, near and far made one, new and old both forgotten, inner and outer solemn, commands stern. Use Muzhou's heart-conduct to spur those beaten on the Hutuo; hold up Gao'an's bearing to scold Fojian's pickled greens. Beat Yangqi's drum, press Ciming's evening hall; let loose Xuedou's eloquence, entertain Taiyang's fine guest. Baoshou's raw ginger, sharp to the very last; Guishan's kitchen knife, free in killing and giving life. Even should a hero arrive, he will know this gate stands high — he may pick up a hint at most from the attendant's side. Thus can the true eye of heaven and humankind be widened, the hidden device of the buddhas and patriarchs broadcast, an unfading estate of the grove built, and the downward-rushing billows of the Long River stemmed. I dare pledge: King Shengyin never saw such a deed — how would the teacher Vairocana know this style of rule? Summoning the assembly: tell me — according to what is there such wonder?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "J/J27/J27nB193.xml",
+        "J/J26/J26nB182.xml",
+        "J/J26/J26nB188.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Feiyin Tongrong",
+        "Yinyuan Longqi",
+        "Linji Yixuan",
+        "Huangbo Xiyun",
+        "Deshan Xuanjian",
+        "Wanru Tongwei",
+        "Ruibai Mingxue",
+        "Zhe'an Jingfan",
+        "Muzhou Daoming",
+        "Yangqi Fanghui",
+        "Shishuang Chuyuan",
+        "Guishan Lingyou"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Free in killing and giving life — the master's own hand on both doors of the device, the stroke that ends and the stroke that revives. Feiyin Tongrong, charging the hall: the whole device unfolds — break chains with the iron-browed, crush bone with the exceptional-eyed, and that is why it is said: unobstructed across and athwart, free in killing and giving life, I am the king of the teaching, at ease in the teaching; the staff pressed on the knee: the Moye held crosswise, the full true command. Yinyuan Longqi, opening the summer session: our Linji cried out at the entering monk, Deshan took the rod — at Huangbo three askings, three beatings like wormwood brush; even now one more taste is longed for and no one dares strike — and when a monk offered, the rod was handed, and taken back with a blow as he reached. Look at this old fellow's working: like wind turning back into fire, like a galloping current crossing a blade — poison within poison, edge upon edge, teeth growing on teeth, horns growing on horns, free in killing and giving life, blazing through a thousand ages; whoever inherits the lineage must understand its purport. Wanru Tongwei, on what no device contains: nakedly clean, beyond taking up; always within activity, and within activity not gathered in — three mysteries and five positions, the black-and-white circle, six attributes and ten mysteries, none admitted; like night-pearl in the dish, slantwise beyond measuring; the Tai'e in the grip, free in killing and giving life. Ruibai Mingxue, writing to the scholar Yan from Bian Mountain: store deep and nurture full; when stray thoughts are exhausted and prajna is round and bright, then come forward — one rod, one stripe of scar; one palm, one handful of blood; free in killing and giving life, at ease in gathering and releasing — would that not be a joy! Zhe'an Jingfan, before the two ranks: beat Yangqi's drum, press Ciming's evening hall; Baoshou's raw ginger, sharp to the very last; Guishan's kitchen knife, free in killing and giving life — even a hero arriving may pick up a hint at most from the attendant's side; tell me, according to what is there such wonder?"
+    }
+  ]
+}

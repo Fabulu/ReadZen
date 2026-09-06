@@ -1,0 +1,262 @@
+{
+  "Id": "t_b3953fa3e29d",
+  "SourceTerm": "依位而立",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:58:05Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "standing in place at one's station (the marrow-succession sign)",
+      "AlternateTargets": [
+        "taking one's place and standing",
+        "the bow-then-stand answer"
+      ],
+      "SearchAliases": [
+        "the standing that won the marrow",
+        "the silent standing answer",
+        "stand according to your station"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 114 hits in 82 files representing 79 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1000c24",
+          "ToLb": "1001a13",
+          "Kwic": "何。師云。乞兒弄飯椀。僧云。只如馬大師道。待汝一口吸盡西江水。却向汝道聻。師云。劈腹剜心。僧云。且道。龐老子興此一問。是會了問。不會了問。師云。會了問。僧云。既是會了問。何必悟去。師云。不悟爭得會。僧云。人天眾前豈無方便。師云。踏泥漢。乃云。自家田地不肯從實履踐。只要冒姓佃官田。還知二祖對達磨禮三拜。依位而立麼。除夜小參。僧問。年窮歲逼。烏龜上壁。豈不是和尚語。師云。只得自傷己命。僧云。忽然眾中有箇通方作者。冷笑一聲。老師未免面熱汗下。師云。爾更近前驗我看。僧近前云了。師云果然。乃云。日日日東上。日日日西沈。無為無事者。子細好推尋。既是無為無事。又推尋箇甚麼。若推尋佛法要妙。每日起來。呵奴使婢。說東道西",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained address: you will not honestly walk your own field, you only want to till the official's land under a borrowed name — do you know: the Second Founder faced Bodhidharma, bowed three times, and stood in place at his station?"
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0776c09",
+          "ToLb": "0777a03",
+          "Kwic": "祖宗門下作天地發生之氣春夏秋冬决含靈顛倒之心常樂我淨若據衲僧用處又且不然變大地為黃金攪長河為酥酪猶未稱白雲在忽有箇漢出來道似恁說話只是個貪心不足漢自云道著叅。上堂舉達磨大師云誰得吾正宗出來與汝證眀尼捴持云據某見處如慶喜見阿閦佛國一見更不再見達磨云汝得吾皮道育云據某見處寔無一法當情磨云汝得吾肉二祖禮三拜依位而立磨云汝得吾髓師云當時若見他三人恁麼道各人好與三十棒只如白雲今日也合喫二十九棒㽞一棒與汝諸人其間若有知痛痒者不辜負先聖亦乃得見白雲其或未知堂裏喫粥喫飯更須爛嚼多見是渾𡈻吞却。上堂舉釋迦如來往忉利天為母說法優填王思佛命匠人雕栴檀像及至世尊下來像亦出迎諸人且道下來底是出迎底是又教中道如來者無所從來亦無所去",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Baiyun Shouduan owns the retained address: the founder asked who would vouch for the true line — one saw the Akshobha realm and never saw again: skin; one held no single thing against his feeling: flesh; the Second Founder bowed three times and stood in place at his station: marrow. Had I seen the three of them answer so, a good thirty sticks each — and Baiyun today is due twenty-nine himself, leaving one for all of you; whoever feels the sting neither fails the old sages nor misses Baiyun; failing that — you chew your gruel in the hall, but most of you swallow it down in one muddy lump."
+        },
+        {
+          "RelPath": "J/J25/J25nB159.xml",
+          "FromLb": "0139b01",
+          "ToLb": "0139b14",
+          "Kwic": "「大事因緣」。空生身子，睥睨不著，三賢十聖只為聖心未忘，見性如隔羅縠。饒你才並馬鳴、解齊龍樹，亦只得一生、兩生不失人身。此是根思夙淨，聞之即解，去道逾遠，況小智薄德浮淺之學者乎？又如慧可大師無書不解、無經不通，到初祖面前一詞不措方覓安心，從斯一切放下，心如牆壁。至於立雪斷臂，猶不肯可，及乎瞥地一下則禮三拜依位而立，始曰：汝得吾髓。此豈造次？近世學者心粗，認指為月，天地懸殊，自既錯解，將此印證後昆，一盲引眾盲，為害非細。或者謂：「我已坐禪得箇安樂處，身心輕安更無異念，直是靈靈不昧了了常知，於生死岸頭已得不疑，只未會古今差別公案。」是何言歟？蓋因邪師法眼未明，妄據師位以方便為真實，是非不辨，認箇湛不搖處作空劫那邊事，豈",
+          "MasterName": "Dufeng Shan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dufeng Shan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB159.xml). Essential Sayings of Chan Master Tianzhen Dufengshan. Dufeng Shan owns the retained essay: Great Master Huike — no book he could not explain, no scripture he had not mastered — yet before the First Founder he could not frame one word, and only then sought mind-calming; from that he dropped everything, mind like a wall; snow-standing and arm-cutting still won no nod; then one sudden breakthrough — three bows, standing in place at his station, and at last the word: you have my marrow. Was that a casual feat? Lately students, coarse of mind, take the finger for the moon, misread it themselves, and stamp it on later generations — one blind man leading a crowd of blind men."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0731c22",
+          "ToLb": "0732a05",
+          "Kwic": "示韓叔夜居士初祖達磨西來不為別事，只求一個不自欺不被人欺底人而已矣！二祖神光初見達磨，更不求西來所傳底意旨，但曰：「弟子此心不安，請師為我安心。」達磨亦不教彼參究我西來所傳底意旨，但曰：「將心來為汝安！」光曰：「覓心了不可得？」磨曰：「為汝安心竟。」光於言下大悟。異日，磨復問諸門人各言所得，獨神光作禮三拜依位而立，磨曰：「汝得吾髓。」只此便是達磨與神光不自欺，亦不被人欺也。使達磨不深見神光真見不自欺處，雖與曰：「為汝安心竟。」神光安能直下證悟？使今人亦曰：「我亦覓心了不可得。」心既不可得，則一切法亦不可得；真如佛性菩提涅槃，乃至一千七百機綠公案皆不可得。且道此人還真自欺否？若真不自欺，則不被人欺，亦終不肯欺天下古",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained letter: on a later day the founder asked each disciple to state what he had attained; Shen'guang alone bowed three times and stood in place at his station, and the founder said: you have my marrow. This very thing is Bodhidharma and Shen'guang neither fooling themselves nor being fooled."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0014a21",
+          "ToLb": "0014b04",
+          "Kwic": "為湊泊，末後於福城東際驀頭一拶，迸破頂門，當下得個小休歇，不敢唐突於大方。今日非特絡索舉揚根源，自知冷煖，此是第一回拈出，爇向爐中，供養現住昭覺堂上傳臨濟正宗三十二世上丈下雪醉和尚，用酬法乳之恩。」白槌云：「法筵龍象眾，當觀第一義。」師云：「第一義自從世尊拈花、迦葉微笑以觀了也，末後卻被斷臂阿師便禮三拜、依位而立以觀了也，何得更觀？若有不向聲塵中出沒，亦非光影裏埋蹤，試出相見。」僧問：「東弗于逮打鼓，為甚西瞿耶尼不聞？」師云：「塵剎是要津。」進云：「南贍部洲點燈，為甚北鬱單越暗坐？」師云：「巨壑易填，漏卮難滿。」進云：「遍界無覓處，分明剖露看。」師云：「寶劍拈來覿面陳。」進云：「眉毛剔起無回互，祖佛家風煥古今。」",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang owns the retained address: the first truth was already beheld when the World-Honored raised the flower and his first disciple smiled; at the end the arm-cutting fellow merely bowed three times and stood in place at his station — already beheld — so what more is there to behold? If there is one who neither rises and sinks amid sound and dust nor buries his tracks in light and shadow — step out and meet me."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0580b25",
+          "ToLb": "0580c07",
+          "Kwic": "，云：「轟。」「如何是無句？」師云：「徒勞側耳。」「如何是如藤倚樹？」師云：「古今榜樣。」「樹倒藤枯，句歸何處？」師云：「隨人語脈轉，豈是作家？」「溈山呵呵大笑歸方丈，又作麼生？」師云：「須防爛泥裏有刺。」僧禮拜，師云：「會了禮？不會禮？」進云：「總不恁麼。」師云：「囫圇吞箇棗，有甚了期？」一僧出，作禮畢，尋依位而立，師云：「昔二祖依位而立，達磨謂之得髓，你今日得箇甚麼？」進云：「莫惑亂人好。」師云：「毛也未到你在。」乃舉：「東山演祖示眾云：『舉則公案事事成辦，向外馳求是大癡漢，大小東山生捺人向死水裏，全沒些子活變。』三峰則不然，現成公案不勞幹辦，卻怪古人欺胡瞞漢，縱然歇得不馳求，也是秦時轢𨍏鑽。」結夏日說沙彌戒，",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained challenge: a monk stepped out, finished his bow, and at once stood in place at his station — the master said: of old the Second Founder stood in place at his station, and Bodhidharma called it winning the marrow — what have you won today? The monk said: do not bewilder people, please. The master said: the hair has not even reached you yet."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0555b16",
+          "ToLb": "0556a12",
+          "Kwic": "鞋拈小叅師云時屆新春山僧為諸大眾舉出從上宗師爪牙令各各奮發新鮮志氣昔日五祖演和尚舉達磨大師命門人云時將至矣汝等盍各言所得時道副云如我所見不執文字不離文字而為道用祖云汝得吾皮尼總持云我今所解如慶喜見阿閦佛國一見更不再見祖云汝得吾肉道育云四大本空五陰非有而我見處無一法可當情祖云汝得吾骨最後慧可大師出禮三拜依位而立祖云汝得吾髓五祖云當時若見四人恁麼各與三十棒只如白雲也合喫二十九棒留一棒與汝諸人其間若有知痛癢者不惟不孤負先聖亦乃得見白雲脫或未然堂中喫粥喫飯也須爛嚼多見囫圇吞卻師驀卓拄杖高聲召云大眾法王自有真耳解制後一日檀越請小叅師云古之人生死心切把成佛作祖視作一件無大至大的事死盡世間心全力了辦所以入此門來築著磕著一",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained small-meeting: the season turns to the new year, so this mountain monk sets out the teeth and claws of the founding teachers to rouse fresh spirit in you all — of old Wuzu Fayan raised how the founder bade his disciples each state what he had attained: not wed to words, not leaving them: skin; like Qingxi seeing the Akshobha realm, one look and never a second: flesh; the four elements empty from the start, not one thing to set against feeling: bone; last, Great Master Huike came out, bowed three times, stood in place at his station: marrow. Wuzu said: had I seen the four of them answer so, thirty sticks each — and this Baiyun of today is due twenty-nine, one stick left over for you; whoever feels the sting wrongs neither the old sages nor Baiyun; failing that, you chew your gruel in the hall but gulp it down whole — then he rapped his staff and called out: assembly! the king of the teaching has a true ear of his own."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n2000.xml",
+        "C/C077/C077n1710.xml",
+        "J/J25/J25nB159.xml",
+        "J/J25/J25nB174.xml",
+        "J/J37/J37nB371.xml",
+        "J/J40/J40nB494.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Xutang Zhiyu",
+        "Bodhidharma",
+        "Huike",
+        "Baiyun Shouduan",
+        "Dufeng Shan",
+        "Juelang Daosheng",
+        "Foyuan Chegang",
+        "Yushan Shangsi",
+        "Yulin Tongxiu",
+        "Wuzu Fayan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Bow three times, then stand in place at your station: the answer that won the marrow — raised at hall addresses, letters, record openers, and live challenges. Xutang Zhiyu, in the hall: you will not honestly walk your own field; you only want to till the official's land under a borrowed name — do you know: the Second Founder faced Bodhidharma, bowed three times, and stood in place at his station? Baiyun Shouduan, on the raised case: who will vouch for the true line? — one saw the Akshobha realm and never saw again: skin; one held nothing against his feeling: flesh; the Second Founder bowed three times and stood in place at his station: marrow — had I seen the three of them answer so, thirty sticks each; Baiyun today is due twenty-nine himself, one stick left for all of you; whoever feels the sting neither fails the old sages nor misses Baiyun — failing that, you chew your gruel in the hall but most of you swallow it down in one muddy lump. Dufeng Shan, in the essay: Great Master Huike, no book unexplained, no scripture unmastered, could not frame one word before the First Founder and only then sought mind-calming; everything dropped, mind like a wall; snow-standing and arm-cutting won no nod; then one sudden breakthrough — three bows, standing in place, you have my marrow: was that a casual feat? — while lately students take the finger for the moon, stamp their misreading on later generations, one blind man leading a crowd of blind. Juelang Daosheng, writing to the layman: on a later day the founder asked each disciple to state what he had attained; Shen'guang alone bowed three times and stood in place at his station — you have my marrow — this very thing is the two of them neither fooling themselves nor being fooled. Foyuan Chegang, opening the record: the first truth was already beheld when the World-Honored raised the flower and his first disciple smiled; at the end the arm-cutting fellow merely bowed three times and stood in place at his station — already beheld — so what more is there to behold? step out and meet me. Yushan Shangsi, in the live exchange: a monk stepped out, finished his bow, and at once stood in place — of old the Second Founder stood in place, and Bodhidharma called it winning the marrow: what have you won today? do not bewilder people, please — the hair has not even reached you yet. Yulin Tongxiu, at the New Year small-meeting: the founders' teeth and claws, to rouse fresh spirit — Wuzu Fayan raised the founder's each-state-what-you-attained: skin, flesh, bone; last, Great Master Huike came out, bowed three times, stood in place: marrow — thirty sticks each had he seen them, this Baiyun of today due twenty-nine, one stick left for you; whoever feels the sting wrongs neither the old sages nor Baiyun; failing that, the gruel gulped down whole — and he rapped his staff: assembly! the king of the teaching has a true ear of his own."
+    }
+  ]
+}

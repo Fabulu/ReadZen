@@ -1,0 +1,198 @@
+{
+  "Id": "t_4de7957717e1",
+  "SourceTerm": "大事未明",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:55:02Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great matter not yet clear",
+      "AlternateTargets": [
+        "the great matter still unsettled"
+      ],
+      "SearchAliases": [
+        "great matter not yet clear",
+        "before the great matter is settled",
+        "the great matter yet unclarity"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 160 hits in 92 files representing 92 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0114a11",
+          "ToLb": "0114b11",
+          "Kwic": "領過。復顧左右云：險。睦州上堂，問眾曰：首座𠰚？答曰：在。寺主𠰚？答曰：在。維那𠰚？答曰：在。州曰：三段不同，今當第一。向下文長，付在來日。便下座。昭覺勤云：一等是借路經過，就中睦州奇特。若是崇寧又且不然，首座𠰚在，寺主𠰚在，維那𠰚在。因行不妨掉臂，打草只要驚蛇。若能一撥便轉，免致撒沙撒土。睦州示眾。大事未明，如喪考妣。大事既明，亦如喪考妣。青峰楚因僧問：大事既明，為什麼亦如喪考妣？楚云：不得春風花不開，及至花開又吹落。天目禮云：大事未明，如喪考妣。則固是大事既明，因甚亦如喪考妣？曾經巴峽猿啼處，不待三聲已斷魂。宗門拈古彚集卷第十九宗門拈古彚集卷第二十古杭白巖嗣祖沙門淨符彚集△南四鎮州",
+          "MasterName": "Muzhou Daoming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyan Fu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Muzhou Daoming owns the root deployment — the address that fixed the doubled mourning line for both the unclear and the settled great matter."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0727b06",
+          "ToLb": "0728a07",
+          "Kwic": "鐵蒺藜當面擲琉璃坑壍遶身開勸君莫問臺山路多少平人被活埋洞山三頓棒蹉口相酬罪莫逃放伊三頓轉忉忉使他飯袋江西去添得廬陵米價高石鞏張弓平生𠆸倆盡施呈𫼡折蓬蒿箭兩莖半箇聖人還不薦依前日午打三更僧問夾山境法眼拈云我二十年只作境會哭月狂猿攀古樹嘯風猛虎踞懸崖人間別有通霄路不必行從這裏來大事未明如喪考妣大事已明亦如喪考妣萬里山河平似掌一條官路直如絃行人若問窮通事鐵壁銀山在面前丹霞燒木佛火燒木佛丹霞罪脫落鬚眉院主災一陣東風回暖律幾多春色上梅腮則監寺叅青峯法眼丙丁童子公案觸著神鋒劈面揮電光石火較猶遅不因洗耳池邊過肯信人間有是非丹霞訪龐居士靈照提籃因緣放籃斂手舉籃歸自是多情",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, answering the doubled mourning with level mountains, a straight road, and iron walls and silver mountains standing ahead."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0279b26",
+          "ToLb": "0279c09",
+          "Kwic": "結制來四十餘日了也，山僧今日為你們拈卻，再不可放在堂裏。既不放在堂裏，且道放在什麼處？還會麼？」眾無語，師擊竹篦一下。良久，云：「眼若不睡，諸夢自除；心若不異，萬法一如。大小祖師可謂不辭泥水，點破諸人命脈了也。更道箇歸根得旨，便可洗腳上船，無端隨照失宗，依舊穿靴打睡。」眾禮拜。小參。「光陰迅速，歲序遷流，大事未明，如喪考妣。汝等還知有光陰常住、歲序不遷者麼？」卓拄杖，云：「快些悟去，事同一家，纔涉思惟，流轉不息。」復卓拄杖，顧大眾，云：「會麼？杖頭日月絕遷流，六道人天一鑑收，亙古亙今無別物，有何玄玅可貪求？」喝一喝。解制，小參。「山僧近來因邪流混雜，羞與為伍，故普說已後了不陞堂，擬於解制後便將遠引他行，不意本山大",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment, opening with time flying and the seasons flowing, then asking who knows the light that never moves."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0398a21",
+          "ToLb": "0398b11",
+          "Kwic": "師云：不是闍黎跨足處。問：有言有句即不問，無言無句時如何？師云：且收蝦䗫聲。乃云：無言無句，其事轉親；有言有句，其事轉遠。蓋為有言有句皆在機境中求，所以德山云：汝但無事於心，無心於事則虗而靈、寂而玅。先興聖國師云：不如休去、歇去、一念純朴去，時中無間，却易現露這箇。此乃先聖誠言。若好在機境上求，則無論你大事未明，即自謂大事已明，而掀翻世界、推倒佛祖，亦未免毒氣未消、殺活自由、縱橫莫測，亦未免伎倆未化、止滯半途，非為究竟。何以故？塵中雖有隱形術，爭似全身入帝鄉？冬至，上堂。積陰之下，一陽復生，此造化之復也；積迷之下，一念頓醒，此人心之復也。當其未復，潛於何所？及其方復，來於何方？及其既復，何所標指？還知麼？於此窮",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment, ruling that even the self-declared settled one who overturns worlds still has the poison undispelled."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0312b24",
+          "ToLb": "0312c07",
+          "Kwic": "，不落言詮，便請相見。」僧問：「一棒全提，古今不異。請問和尚：如何是不異底境界？」師云：「徹骨徹髓。」進云：「衲僧到此還有行腳分也無？」師云：「截斷腳跟。」進云：「若遇銅頭鐵額漢來，和尚又作麼生與他相見？」師云：「正好與他三十棒。」進云：「也須另著眼始得。」師云：「依稀似曲纔堪聽，又被風吹別調中。」乃云：「大事未明謂之結，活捉虛空敲出血；大事已明謂之解，蟭螟吞卻東洋海。解非解，結非結，倒跨楊歧三腳驢，等閒挨落天邊月。大眾！還會麼？會得，也是眼裏一粒黃金屑。會不得，他時撞著黑面老兒打算飯錢，莫怪翠巖預先不為諸人說。」復舉：「提刑郭功甫過訪白雲端禪師，雲為上堂。『夜來枕上作得箇山頌，謝功甫大儒廬山二十年之舊，遠訪白雲",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, naming the unclear a knot that knocks blood from seized empty space and the settled a loosing in which the gnat swallows the eastern sea."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0240b05",
+          "ToLb": "0240b18",
+          "Kwic": "知：一切佛法，教則頓漸偏圓、宗則三玄五位，皆是衣，不得在衣上認青、認黃、認赤、認白，須認著衣底人方有入作分。彩雲影裏仙人現，手把紅羅扇遮面，急須著眼看仙人，莫看仙人手中扇。寶華今日將佛衣、法衣一時脫卻，應時即事為諸人露箇消息去也。」良久，云：「𩖼𩖼熏風來入奏，赤條條地我為尊。」下座。慧雲禪人請上堂。師云：「大事未明，如喪考妣，無明貪愛本無依，廢寢忘食成分外。大事已明，如喪考妣，智度方便閒家具，泥牛入海杳無蹤。今日慧雲上座請寶華陞座說法以薦考妣，且道所薦底考妣是無明貪愛邪？智度方便邪？」良久，云：「當陽薦取自家底，下載清風付與誰？」下座。上堂。云：「若論此事，忒煞現成。佛祖未出世以前也恁麼，佛祖既出世以後也恁麼，即今",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, turning the doubled mourning into matched verses on groundless dark craving and wisdom as idle furniture."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0518b03",
+          "ToLb": "0518b19",
+          "Kwic": "是只得八成或有人問徑山如何是展演之言即向他道問十答百有甚麼難如何是不展演之言喝一喝云且莫矢窖沸師云大慧老人土上加泥直饒道得十成是猶五十步而笑百步也若有問新報恩如何是展演之言不說一字如何是不展演之言其聲如雷送亡僧回示眾師云莫道亡僧遷化去松青草綠澗華香春風八面難迴避擬議思量落二三起不臥七示眾師拈拄杖云古者道大事未明如喪考妣大事已明如喪考妣你看大事已明尚是如喪考妣况大事未明者乎所以云叅須實叅悟須實悟直須廢寢忘餐向一念未生前識取自己廣大心體豈容魔外家亂承當個昭昭靈靈識神為主人公大事未明如喪考妣人共曉得你道大事已明為甚亦如喪考妣若透過者關方見過佛祖可與佛祖為師如或不然直饒大徹大悟如雲開月朗夜暗燈明識自本心見自本性未免見",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, granting that the settled still mourn and asking how much more the unclear, then calling for real digging and real waking before the first thought."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0100a03",
+          "ToLb": "0100a16",
+          "Kwic": "王秉和為會成祈永年又作麼生道？八萬四千塵勞門，流入莊嚴智慧海。」上堂。「太和令陳公於催科撫字之暇，捧出無盡香飯供養無邊高僧，為母樊夫人祈益福算，仍要嵩山陞此座子舉揚宗乘，藉此法利並答罔極。嵩山既到此座，說箇甚麼即得？」良久，云：「我有箇方便。」以杖連畫，云：「福於斯，壽於斯，與滄海並，與南山齊。」上堂。「大事未明，如喪考妣；大事已明，如喪考妣。大事未明固是，大事已明因甚如喪考妣？當時祇道毛長短，燒了方知地不平。」玄初劉公請上堂。「談笑梁州十載餘，白雲深處每相期，碑文白字還須刻，莫厭慈明相為時。」复舉：「李狀元訪徑山杲，杲上堂，舉：『僧問雲門：「如何是和尚家風？」門云：「有讀書人來報。」』杲云：『讀書人已在者裏，作麼",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, conceding the unclear yet asking why the settled still mourn, answered by hair long and short — burn it and the ground's unevenness shows."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "B/B25/B25n0145.xml",
+        "J/J33/J33nB280.xml",
+        "X/X72/X72n1437.xml",
+        "J/J28/J28nB208.xml",
+        "J/J34/J34nB300.xml",
+        "B/B27/B27n0152.xml",
+        "J/J29/J29nB224.xml"
+      ],
+      "RelatedMasters": [
+        "Muzhou Daoming",
+        "Baiyan Fu",
+        "Zhongfeng Mingben",
+        "Yunwai Xingze",
+        "Yongjue Yuanxian",
+        "Guxue Zhenzhe",
+        "Chaozong Tongren",
+        "Yulin Tongxiu",
+        "Yezhu Fuhui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The opening half of Muzhou's doubled mourning formula — with the great matter not yet clear, mourn as for parents — carried from his address to the assembly through centuries of re-deployment. Muzhou Daoming's address to the assembly fixed the doubled line — unclear, mourn as for parents; settled, mourn as for parents — raised verbatim in Baiyan Fu's collection of old-case commentaries; Zhongfeng Mingben absorbs both lines into his own ode and answers with mountains and rivers level as a palm, a straight official road, iron walls and silver mountains standing ahead for whoever asks about fortune; and Yezhu Fuhui proclaims the pair himself, concedes the unclear, then asks why the settled too should mourn, answering that at the time he only spoke of hair long and short — burn it and you know the ground was never level. Yunwai Xingze opens his small meeting with time flying and the seasons flowing, the great matter not yet clear, mourning as for parents, then asks who knows the light that never moves and the seasons that never flow; Yongjue Yuanxian warns that whether the great matter is yet unclear or one claims it settled, even overturning the world and toppling the buddhas and ancestors leaves the poison not yet dispelled; Guxue Zhenzhe names the unclear a knot — seizing empty space alive and knocking out blood — and the settled a loosing, the gnat swallowing the eastern sea; Chaozong Tongren, at the memorial service for a monk's parents, turns the doubled mourning into matched verses on the groundless dark craving and the wisdom that is idle furniture; and Yulin Tongxiu, staff raised, grants the old one's line and presses further — the settled still mourn, how much more the unclear — calling for the digging to be real digging and the waking real waking, food and sleep forgotten, to know one's own vast mind before the first thought."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "Id": "t_3190612071b2",
+  "SourceTerm": "正當今日",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:40:47Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "right now, on this very day",
+      "AlternateTargets": [
+        "just at this present day"
+      ],
+      "SearchAliases": [
+        "on this very day",
+        "right at this day",
+        "this present day",
+        "just now today"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 173 hits in 86 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0123b04",
+          "ToLb": "0124a07",
+          "Kwic": "我觀三千大千世界無有芥子許而非菩薩舍身命處過去諸佛子已學已解已行已成未來諸佛子當學當解當行當成見在諸佛子一僧出班立座歬師拈拄杖云不得動著僧方擬開口師便打云動著三十棒復問僧云見在諸佛子因甚麼不許動著僧無對師乃云猛虎不餐几上肉紅爐豈鑄囊中錐擿拄杖下座。乙酉秋設華嚴無遮會為祈天下太平陞座釋迦已過去彌勒猶未來正當今日華藏界中甚麼人為主還有知源達委者麼正緣未達所以迷宗一迷其宗則情生智隔影認頭迷執謬解而外道門開邊邪網密伇妄念而凡途業起生死波橫由是十軍擾擾六賊芒芒真空變為緣慮之場實際翻成名相之境然覺天絕點雲中之皓月恆明塵內有經雨後之青山長在百草頭上正堪薦取老僧閙市樷中何妨識取天子儻能直下知歸親證自家境界則念念而霛山出",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: the between-buddhas squeeze that asks who rules the flower-treasury world today."
+        },
+        {
+          "RelPath": "J/J39/J39nB453.xml",
+          "FromLb": "0562c28",
+          "ToLb": "0563a12",
+          "Kwic": "佛殿共山門鬥額，更說甚麼長期短期、安禪靜慮？」遂豎拂子，曰：「且道在者箇分上成得什麼邊事？一滴水成一滴凍，一花開放一枝春。」師誕日，上堂。以拂子向虛空畫○，曰：「只者箇謂之頂王三昧、智印三昧，不動不變，無古無今。即山僧在四十四年以前，光景自住昔，不從今以至昔；在今四十四歲以後，光景自住今，不從昔以至今。正當今日，凡聖交參，賓主協會，其間求同異相了不可得。秖如眼眼相覷，又且如何通信？」復畫○，曰：「也不免借渠鼻孔出氣去也。」擊拂子，下座。上堂。「一句全提，千差合轍；一機圓現，萬法皆如。」卓拄杖，曰：「者箇是第二句，且道那是第一句？不見古德道：『具足凡夫法，凡夫不知；具足聖人法，聖人不會。聖人若會，即同凡夫；凡夫若",
+          "MasterName": "Yuanjie Jingying",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanjie Jingying",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB453.xml). Recorded Sayings of Chan Master Yuanjie Ying. Yuanjie Jingying owns the retained deployment: on the birthday itself, sage and ordinary interlace and no mark of same or different is found."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0534c18",
+          "ToLb": "0534c30",
+          "Kwic": "悟得箇甚麼？」一僧云：「正是時。」師云：「是甚麼時？」進云：「謾和尚不得。」師打云：「豈止差了一度？」一僧云：「有甚奇特？」師打云：「莫道不驚華。」又一僧云：「時節若至，其理自彰。」師云：「如何是自彰底理？」僧擬議，師打云：「花須連夜發，莫待曉風催。」乃云：「一九與二九，相逢不出手；三九與四九，騎馬冰上走。正當今日又且如何？釋迦老子一場沒興。何故？半夜三更不點燈，拈得鼻孔打失口。」仰山順弗和尚率兩序入山設齋，請上堂。僧問：「如何是奪人不奪境？」師云：「雪下少人行。」「如何是奪境不奪人？」師云：「孤舟獨自橫。」「如何是人境兩俱奪？」師打，云：「識得木上座也未？」「如何是人境俱不奪？」師云：「賓主相逢闔院忻。」乃云：「光",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment: what is the day now — old Sakya's whole affair gone flat."
+        },
+        {
+          "RelPath": "D/D51/D51n8948.xml",
+          "FromLb": "0005b06",
+          "ToLb": "0006b01",
+          "Kwic": "僧云和尚還聞𤍠麼堂云不聞僧云為甚麼不聞堂搖扇云為我有者箇在師云南堂老應機如疾風掣電非但南堂老人人手裏亦有者箇囙甚用不得万緣遷變都閑㕝五月山房冷似氷。中夏上堂僧問汾陽如何是祖師西来意汾陽云青󲎥扇子足風凉意在那裏師云築著帝釋鼻孔進云爭奈畫前元有易𠜂後更無詩師云上大人丘乙己師乃云前半夏劈箭離弦後半夏長劒𠋣天正當今日莫有超宗越格底翡翠踏󷘓荷󷨞雨鷺鷥衝破竹林𤇆。六月半上堂炎炎六月蟬聲嗚𠰸西来祖意何更重󵘸休重󵘸𤍠時普地普天𤍠。上堂僧問禁足護生敗落清時衲僧門下如何進步師云乱走作什麼進云與麼則頂門上󱯾跟下時時九夏日日三秋師云烏飛兔走進云徳山一日齋晚托鉢下来未審意旨如何師云飢過心𮎰進云雪峰云鐘未鳴鼓未響托鉢向什麼處去又作麼",
+          "MasterName": "Koho Kennichi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Koho Kennichi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D51/D51n8948.xml). Recorded Sayings of Chan Master Foguo. Koho Kennichi owns the retained deployment: right this very day, is there anyone who tops the school's measure."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0743c09",
+          "ToLb": "0743c22",
+          "Kwic": "居。威音那畔，田地穩密。空劫已前，家風日盛。高捲洞簾，露出好山秀色；衝開碧落，倒迴九曲文瀾。筆花燦而大地皆春，祥麟出而眾角齊伏。野老自此謳歌，家國以之安怗。雖然共見熙皞，其奈遞相鈍置。若有箇漢向者裏著得眼、出得身，自然不肯循途守轍，溺於名言，脫卻本來衣，不食空王俸，橫身物外，獨步大方，建立埽除，未為分外。正當今日，三世諸佛、歷代祖師性命俱在新長老手裏，放行也得，把住也得，總不由別人。且道憑箇甚麼得恁般奇特？不見僧問曹山霞和尚：『佛未出世時如何？』山曰：『曹山不如。』『出世後如何？』山曰：『不如曹山。』」師曰：「曹山老漢將威音王已前、婁至佛已後，一手提來，一肩擔荷，大似以己方人。今日或問新長老：『佛未出世時如何？』只",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment: the lives of all buddhas and founding teachers rest in the new elder's hand — release or hold, no one else decides."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0933b10",
+          "ToLb": "0933b24",
+          "Kwic": "後達摩開疆少室、衍祚新豐，綿綿若此。但相傳底事，恐者僧鹵莽承當，似無轉變。山僧今夜分疏不來，明日為眾說破。」上堂。「風霜操其常柄，毀譽任其眾言，笑古人之未能，忘自己之無猒。此山僧三十年前親證法門，今日舉似大眾。」拍案一下，曰：「但自歇狂，莫從他覓。」上堂。「釋迦已過去也，何必追思？彌勒猶未來也，不消預慕。正當今日，汝等有智者，切勿生餘疑。且道不疑箇甚麼？我是英雄大丈夫。」上堂。「終日穿衣，不曾挂著寸絲，是凍不殺底樣子；終日喫飯，不曾嚼著粒米，是餓不死底規模。大丈夫不由也。試問諸人：如何是大丈夫事？樂意風塵似故園，江鴻不必傳消息。」上堂。舉：「僧問雲門：『學人正在迷途，請師一接。』門曰：『道甚麼？』」師曰：「雲門披",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: no chasing the past, no yearning ahead — the wise today breed no stray doubt."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0342c20",
+          "ToLb": "0343a02",
+          "Kwic": "道：二祖不往西天，達磨不來東土。如是，則諸人昔日來本不曾來，山僧結又何曾結？今日去本不曾去，山僧解又何曾解？解不曾解，風吹不動天邊月；結不曾結，雪厭難摧澗底松；去不曾去，野色更無山隔斷；來不曾來，天光直與水相通。山僧到者裏，結也如是、解也如是；諸人到者裏，來也如是、去也如是。雖然，秖如九十日內因甚水洩不通？正當今日因什麼玄關大啟？」良久，云：「還委悉麼？晦夜明宵無二月，花開花落總春風。」晚參。舉：「僧問香嚴：『如何是道？』嚴云：『枯木裏龍吟。』云：『如何是道中人？』嚴云：『髑髏裏眼睛。』僧又問石霜：『如何是枯木裏龍吟？』霜云：『猶帶喜在。』云：『如何是髑髏裏眼睛？』霜云：『猶帶識在。』又問曹山：『如何是枯木裏龍吟？",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: why did the ninety days leak no water, and what great gate swings wide today."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0549a02",
+          "ToLb": "0549a16",
+          "Kwic": "？茲者惟龍居士痛念令先嚴生平殺業深重，特請山僧說法以祈澡雪。記得宋時王公韶帥邊時，亦以殺業深重，特請佛印元禪師就上藍說法，元公拈香云：『此香為殺人不眨眼上將軍、立地成佛大居士。』眾稱善，公亦悠然意消。今日天寧則不然，此香為調甫無面目漢，伏願冤業場中成解脫、煩惱海裏得清涼。豈不與元公並駕爭驅於千古上下哉？且正當今日，畢竟生何國土？」乃揮拂子云：「香雲疊疊承雲馭，咫尺蓮邦信可居。」中秋，示眾。「濃雲積霧已經旬，忽地天拋片月新，雨後舒光當此夜，風前得旨是何人？靈山話，涉吻唇，曹溪指，隔關津，爭似天寧一句親？但得陰霾都掃盡，清光喜見十分真。」晚參。「諸佛意，祖師禪，釋迦心明似鏡，達磨口直如弦，一大藏教光流東土，千七百則聲",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: right this very day, what land is born into after all."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "L/L155/L155n1643.xml",
+        "J/J39/J39nB453.xml",
+        "J/J37/J37nB390.xml",
+        "D/D51/D51n8948.xml",
+        "J/J36/J36nB362.xml",
+        "J/J36/J36nB369.xml",
+        "J/J37/J37nB386.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Muchen Daomin",
+        "Yuanjie Jingying",
+        "Chulin Shangrui",
+        "Koho Kennichi",
+        "Guantao Daqi",
+        "Zhe'an Jingfan",
+        "Yuan'an Liao",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The pivot that stamps the day at hand as the one point where the question lands — between two buddhas, or at the hinge of an occasion. Muchen Daomin, holding the unrestricted Avatamsaka assembly, sets the squeeze: Sakya has passed, Maitreya is yet to come — right this very day, who rules as lord inside the flower-treasury world? Zhe'an Jingfan works the same formula free of longing: Sakya gone, why chase the past; Maitreya unbuilt, why yearn ahead — right this very day, you with wits, breed no stray doubt, for the doubtless one is the hero. Yuanjie Jingying turns his own birthday: forty-four years before he dwelt in the past, after in the present — right this very day sage and ordinary interlace, host and guest converge, and no mark of same or different can be found; Chulin Shangrui rides the counting-nines rhyme over the ice to the enlightenment-day feast and asks what the feast is now — old Sakya's whole affair gone flat; Koho Kennichi, mid-summer, splits the season — first half an arrow off the string, second half a long sword propped on heaven — and right this very day asks who tops the school's measure; Guantao Daqi hands the new abbot the enthronement knife: right this very day the lives of all buddhas past and the founding teachers rest in the new elder's hand — release or hold, no one else decides; Yuan'an Liao at the winter release asks why the ninety days leaked no water, and what great gate swings wide right this very day; and Yushan Shangsi, at the requiem for a slaughtered-life karma, asks where the father is born — right this very day, what land after all?"
+    }
+  ]
+}

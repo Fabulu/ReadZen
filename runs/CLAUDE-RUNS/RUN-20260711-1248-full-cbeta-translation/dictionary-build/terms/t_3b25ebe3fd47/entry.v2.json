@@ -1,0 +1,183 @@
+{
+  "Id": "t_3b25ebe3fd47",
+  "SourceTerm": "曠大劫來",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:12:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "since the vast great kalpas",
+      "AlternateTargets": [
+        "from beginningless great eons past"
+      ],
+      "SearchAliases": [
+        "through immeasurable past eons",
+        "all along the vast kalpas",
+        "from before the great eons"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 140 hits in 91 files representing 88 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2009.xml",
+          "FromLb": "0374b02",
+          "ToLb": "0374b17",
+          "Kwic": "問曰。既若施為運動。一切時中。皆是本心。色身無常之時。云何不見本心。答曰。本心常現前。汝自不見。問曰。心既見在。何故不見。師云。汝曾作夢否。答。曾作夢。問曰。汝作夢之時。是汝本身否。答。是本身。又問。汝言語施為運動。與汝別不別。答。不別。師云。既若不別。即是此身是汝本法身。即此法身是汝本心。此心從無始曠大劫來。與如今不別。未曾有生死。不生不滅。不增不減。不垢不淨。不好不惡。不來不去。亦無是非。亦無男女相。亦無僧俗老少。無聖無凡。亦無佛亦無眾生。亦無修證。亦無因果。亦無筋力。亦無相貌。猶如虛空。取不得捨不得。山河石壁不能為礙。出沒往來自在神通。透五蘊山。渡生死河。一切業拘此法身不得。此心微妙難見。此心不同色心。",
+          "MasterName": "Bodhidharma",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2009.xml). Six Gates of Shaoshi. The attributed root — the mind since the beginningless vast great kalpas no different from now, unborn and undying, no karma able to bind it."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0916c04",
+          "ToLb": "0916c20",
+          "Kwic": "話。敗闕亦不少。但方投誠自難隱逃。良可愍故。至扣。承敘及。自幼年至仕宦參禮諸大宗匠。中間為科舉婚宦所役。又為惡覺惡習所勝。未能純一做工夫。以此為大罪。又能痛念無常世間種種虛幻無一可樂。專心欲究此一段大事因緣。甚愜病僧意。然既為士人仰祿為生。科舉婚宦。世間所不能免者。亦非公之罪也。以小罪而生大怖懼。非無始曠大劫來承事真善知識熏習般若種智之深。焉能如此。而公所謂大罪者。聖賢亦不能免。但知虛幻非究竟法。能回心此箇門中。以般若智水。滌除垢染之穢。清淨自居。從脚下去一刀兩段。更不起相續心足矣。不必思前念後也。既曰虛幻。則作時亦幻。受時亦幻。知覺時亦幻。迷倒時亦幻。過去現在未來皆悉是幻。今日知非。則以幻藥復治幻病。病瘥藥",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. The retained deployment — terror at a small guilt read as seeds soaked since the vast great kalpas under true teachers, then the cut below the feet with no continuing thought."
+        },
+        {
+          "RelPath": "X/X71/X71n1419.xml",
+          "FromLb": "0529a20",
+          "ToLb": "0529b10",
+          "Kwic": "克賓維那法戰不勝，不得喫飯。即便趂出院。興化此令雖行，無奈傍觀者醜。雲居舜老夫云：不是克賓維那也大難承當，總是而今之流飜轉面皮多少時矣。大慧師祖云：要作臨濟炟赫兒孫，也須是飜轉面皮始得。二大老一期截長補短，檢點將來，總欠悟在。且道當時別作什麼道理，向興化門下免致罰錢出院？試下一轉語看。示染禪人示染禪人曠大劫來，生生死死，如旋火輪，無有休息，如汲井輪，互為高下。良由迷自本心，昧自本性，逢境便緣，逢塵便執，頭出頭沒，不自知非而已。天台染禪人，無染其名，絕塵其號。蓋以眼無所染，則色塵絕；耳無所染，則聲塵絕。一根既爾，諸根亦然；諸根既爾，諸塵亦然；諸塵既爾，諸法亦然；諸法既爾，則曠大劫來，舍身受身，出胎入胎，四大、五蘊",
+          "MasterName": "Yuansou Xingduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuansou Xingduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1419.xml). Recorded Sayings of Chan Master Yuansou Xingduan. The retained deployment — births and deaths wheeled like the fire-wheel and the well-rope wheel since the vast great kalpas, all from losing the basic mind and chaining to every dust."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0621b17",
+          "ToLb": "0621c08",
+          "Kwic": "月，身心清淨似芙蕖。奇禽異獸來圍繞，瑞靄祥雲復卷舒。此地時時鐘梵作，儼然佛轉法輪初。第十六位持軸山中注茶半托迦尊者第十六位持軸山中注茶半托迦尊者持軸山中大士家，明珠絕纇玉無瑕。晝披般若千行偈，天雨曼陀四色花。楗椎遠傳僧布薩，香煙濃染佛袈裟。白牛自可兼羊鹿，先引兒童駕小車。第九祖伏䭾蜜多贊第九祖伏䭾蜜多贊從曠大劫來，未嘗譚一字。誰道五千年，方纔啟唇齒。有說與無說，且莫謗祖師。折筯攪大海，燈心拄須彌。口不搖舌，足不逾戶。五十年宴坐一牀，三千界禪門九祖。諸佛非道，父母非親。若心若行，何偽何真。山頭翻白浪，井底起紅塵。布袋贊布袋贊花衢柳巷任經過，虎穴魔宮不奈何。背上忽然揩隻眼，幾乎驚殺蔣摩訶。烏藤只麼往來挑，布袋雖輕",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. The retained deployment — never one word preached since the vast great kalpas, and the broken chopstick churning the great sea."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0252b24",
+          "ToLb": "0252c14",
+          "Kwic": "家風笑展，從他野渡無人；寶樹風清，須信白雲有主。向者裏別有生涯，可與古人把手；其或未然，博山有箇方便。卓拄杖，云：急著眼薦。展墓，歸山，上堂。離山九十日，誰是能離者？本無心外境，愚者妄分別。諸昆仲！會得此意，雖經歷恒河沙世界，無彼此之分、無自他之想。良以世人祇知有一生身及一生底父母、一生身底處所，殊不知曠大劫來能生、所生底父母及一一生身底處所，盡其智力不得其數量。諸昆仲！若以恩報恩，大恩莫能報；不見報恩者，始乃得常住。是故，諸菩薩借此世間孝，運無緣之慈、興無礙之悲耳。諸昆仲！金棺扶襯，認父骨於亂屍之中；義井薦親，見天人於寶墖之頂。此等俱見超物表、理出常情。若以世間情想擬報深恩，雖肝膽塗地不能報也。昔興化令他人助",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. The retained deployment — the parents and birth-places since the vast great kalpas past all counting, and grace repaid only by not seeing a repayer."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0043a14",
+          "ToLb": "0043a29",
+          "Kwic": "窺覷，世界都盧一口吞。龍池正傳禪師龍池正傳禪師不落今時機，迥出那伽定。正令本全提，兩浙亦何幸。燈花爆，演出腦後風光；驀踢鞋，展開古佛心印。急流劄定腳跟，暴雨難經幾陣。濟道端然寶劍舒，禹門不禁蒼龍困。天童圓悟禪師天童圓悟禪師頂門眼正單提，向上生銕蒺藜。佛祖不讓，震動五岳。三山縱擒，有收有放。移足踢碎桐官，曠大劫來沒量。奪食驅耕，俾人人盡脫輪迴；抽釘拔楔，使個個同歸道況。喫飯不曾咬米，著衣何嘗挂纊？露柱舞三臺，燈籠解提唱，紅爐焰上燦青蓮，太白峰頂翻白浪。雙桂海明禪師雙桂海明禪師雷厲風飛，電揮雨走，只者撲落非他，方踰嵒限立久。行作象王行，吼作獅子吼，攪長河變為酥酪，舞太阿不傷其手。一氣轉一大藏教，全肩擔宗門窠臼，飽法",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. The retained deployment — the kick that shattered the Tong-pass beyond measure since the vast great kalpas, and eating rice without biting grain."
+        },
+        {
+          "RelPath": "J/J40/J40nB475.xml",
+          "FromLb": "0041c11",
+          "ToLb": "0041c24",
+          "Kwic": "卻你耳。」復豎拂子，曰：「見麼？若見，則瞎卻你眼。秪如不見不聞，畢竟如何即得？」揮拂子，曰：「見不見，須彌倒挂龜毛線；聞不聞，折角泥牛入洞庭。更有一機超佛祖，蟭螟眼裏法王城。」上堂。問：「佛法元要即不問，乞師直指本來心。」師曰：「火裏冰。」曰：「如何是本來性？」師曰：「水中燈。」曰：「如何是佛？」師曰：「曠大劫來無面目。」曰：「如何是祖？」師曰：「今時那畔未曾睹。」僧禮拜，曰：「謝師指示。」師曰：「莫妄承當。」乃曰：「本來心，火裏水。本來性，水中燈。曠大劫來無面目，今時那畔未曾睹。未曾睹，絕回互，遍界全彰渾不露。臘月蓮花雪裏芳，馨香撲鼻誰人悟？悟不悟，佛祖心肝盡傾吐。」上堂。「掀翻香水海，放出魚鱉蛟龍。推倒須彌盧，",
+          "MasterName": "Jingting Dezong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jingting Dezong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB475.xml). Recorded Sayings of Chan Master Jingtingsong. The retained deployment — what is the buddha? no face since the vast great kalpas; then the pair re-given: ice in fire, lamp in water, the whole realm plain with nothing showing."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2009.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X71/X71n1419.xml",
+        "X/X71/X71n1420.xml",
+        "X/X72/X72n1435.xml",
+        "J/J37/J37nB371.xml",
+        "J/J40/J40nB475.xml"
+      ],
+      "RelatedMasters": [
+        "Bodhidharma",
+        "Dahui Zonggao",
+        "Yuansou Xingduan",
+        "Chushi Fanqi",
+        "Wuyi Yuanlai",
+        "Foyuan Chegang",
+        "Miyun Yuanwu",
+        "Jingting Dezong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A far-past measure — since the vast great kalpas — ruled at the root in the blood-lineage treatise's unborn mind, and turned to count births, silences, seeds, parents, kicks, and the faceless across eight centuries of halls, letters, and odes. The root sits in the blood-lineage treatise attributed to the first patriarch: was it your own body in the dream? no different — then this body is your own truth-body, this truth-body your own basic mind; and this mind, since the beginningless vast great kalpas, no different from now: never born, never dying, neither more nor less, neither foul nor clean, no coming, no going, no right and wrong, no male or female, no monk or lay, no sage, no commoner, no buddha, no being, no cultivating, no cause and fruit — like empty sky, beyond taking and leaving; through the five-skandha mountain and across the birth-death river, no karma can bind this body; Dahui Zonggao, writing to the official Zeng who calls his own worldly life a great guilt, reads the terror itself as depth: had he not, since the beginningless vast great kalpas, served true good teachers and soaked in the seed-of-wisdom knowing, how could he shake so?; what you call the great guilt even the sages could not escape — knowing all hollow, turn the heart into this gate, wash the stain with the water of wisdom, cut once below the feet and raise no continuing thought; Yuansou Xingduan, instructing the Tiantai trainee whose name is Unstained and whose number Dust-Cut, sets the wheel turning: since the vast great kalpas, birth after birth, death after death, like the whirling fire-wheel, no rest, like the well-rope wheel, high and low by turns — all from losing one's own basic mind, shaming one's own basic nature, chaining to every object, grasping at every dust, head out and head under, never knowing it wrong; and Chushi Fanqi, oding the ninth ancestor of the western line: since the vast great kalpas, never once preached a word — who says that only after five thousand years the lips first parted?; spoken or unspoken, do not slander the ancestors: a broken chopstick churning the great sea, a lamp-wick propping Sumeru. Wuyi Yuanlai, back from the grave-visit, ninety days away from the mountain — who is the one able to leave?; no world beyond mind, only fools divide — brothers, the world knows one lifetime's body, one lifetime's parents, one lifetime's place, and does not know that the parents who bore and the places of every single birth-body, since the vast great kalpas, outrun all counting by wit and strength; repay grace with grace and the great grace cannot be repaid — only not seeing a repayer begins the ever-abiding, and so the bodhisattvas borrow this worldly filiality to work the unconditioned kindness and the unblocked grief; Foyuan Chegang, in the ode for his teacher Tian-tong Yuanwu: eye straight at the crown of the head, the upward raw-iron thorn-burr; yielding nothing to buddha or ancestor, shaking the five peaks; three mountains in his grip, caught and released — the shifting foot that kicked the Tong-pass to shards, beyond measure since the vast great kalpas; seizing the food and driving the plow-oxen, that every one slip the wheel; drawing the nails and knocking the wedges, that every one return to the way's abundance — eating rice without biting grain, wearing cloth without once hanging floss; and Jingting Dezong, asked to the face what the buddha is, answers: no face since the vast great kalpas; what is the ancestor? — this side of now, not yet seen; the monk bows, thanks the teacher, and is warned: do not take it on blindly; then to the hall the pair is given again: the basic mind, ice in fire; the basic nature, a lamp in water; no face since the vast great kalpas, this side of now not yet seen — not yet seen: the mutual mirroring cut off, the whole realm plain with nothing showing, the winter lotus fragrant in the twelfth-month snow."
+    }
+  ]
+}

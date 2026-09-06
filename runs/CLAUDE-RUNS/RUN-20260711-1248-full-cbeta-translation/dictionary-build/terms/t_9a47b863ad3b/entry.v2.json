@@ -1,0 +1,251 @@
+{
+  "Id": "t_9a47b863ad3b",
+  "SourceTerm": "瞎却鎮州一城人眼去在",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:52:13Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "you have gone and blinded the eyes of the whole city of Zhenzhou",
+      "AlternateTargets": [
+        "blinded the eyes of everyone in Zhenzhou city — gone and done it",
+        "the eyes of a whole town of Zhenzhou are put out, gone and done it"
+      ],
+      "SearchAliases": [
+        "the blinding of Zhenzhou city",
+        "Sansheng's blinding verdict",
+        "the whole city's eyes put out",
+        "the Zhenzhou blinding line"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 52 hits in 44 files representing 44 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0609b09",
+          "ToLb": "0609b26",
+          "Kwic": "不在苦多端。了解都由瞥爾間。定道師姑女人作。癡人積雪作銀山。普化喫生菜。臨際云。普化大似一頭驢。化便拓地作驢鳴。濟云。直歲與他。細抹草料。著化云少室人不識金陵又再來。臨際一隻眼。到處為人開。老倒分明兩路差。箭鋒相柱勿喎斜。龍蛇混雜人難辨。白日長空下雪花。保壽開堂三聖推出一僧。壽便打。聖云。爾恁麼為人。瞎却鎮州一城人眼去在。壽擲下拄杖歸方丈。三聖擔他保壽槍。推僧出眾擬商量。塞外將軍行正令。直得盲人滿大唐。普化見馬步使喝街聲。化當街舉手云。滕行者相撲一交來。官人吽云。侮弄人。遂喚當直檐上打五棒。化云。這田舍兒。似即似。是即不是。官人云。說甚是不是。打得爾便休。混俗和光用最難。相逢正是兩風顛。雖然大化無方所。俗官且不是僧官。",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment: the general beyond the passes enforces the true command — till blind men fill the whole Great Tang."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0686a27",
+          "ToLb": "0686b16",
+          "Kwic": "見有。何佛法可重。云闍黎受戒多少時。僧云。二十夏。云大好。不見有人。便打。師云。者僧棒即喫要且去不再來。棗樹令雖行。爭奈無風浪起。舉。趙州問婆子。什麼處去。云偷趙州笋去。州云。忽遇趙州又作麼生。婆子便掌。州便休去。師云。好掌。更下兩掌。也無勘處。舉。保壽開堂日。三聖推出一僧。壽便打。聖云。漝麼為人。瞎却鎮州一城人眼去在。壽便歸方丈。師云。保壽三聖雖發明臨濟正法眼藏。要且只解無佛處稱尊。當時者僧若是箇漢。纔被推出。便掀倒禪床。直饒保壽全機。也較三千里。舉。無業馬祖。僧問如何是佛。云莫妄想。師云。塞却鼻孔。又問。如何是佛。云即心是佛。師云。拄却舌頭。舉。僧問德山。從上諸聖什麼處去。山云。作麼作麼。僧云。勅點飛龍馬。跛鼈",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: the pair only lords it where there is no buddha — had the monk been a man, he would have overturned the couch."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0796a29",
+          "ToLb": "0796b17",
+          "Kwic": "宗風。雖然如是只明得法身邊事。未明得法身向上事。且如何是法身向上事。域中無向背。閫外有權衡。舉。保壽開堂。三聖推出一僧。壽便打。聖云。恁麼為人。非但瞎却這僧眼。瞎却鎮州一城人眼去在。壽便歸方丈。師拈云。保壽全機擔荷。不妨奇特。要且只得一邊。當時若善發明臨濟正法眼藏。待三聖道恁麼為人。非但瞎却這僧眼。瞎却鎮州一城人眼去在。便與本分草料。何故。一不做二不休。舉。金牛行食次。問龐居士。生心受食淨名已呵。去此二途。居士還甘否。士云。當時善現豈不作家牛。云豈干他事。士云。食到口邊被人奪却。金牛便行食。士云。不消一句子。師拈云。善現作家金牛奇特。盡被龐居士一時領過了也。只如龐居士道不消一句子。且道。是那一句。端坐受供養。施主常安",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: wait for the line, then plain everyday fodder — one not-doing, two not-stopping."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0305a06",
+          "ToLb": "0305a20",
+          "Kwic": "用後照，或則照用同時，或則照用不同時。你要識先照後用麼？如蛇有角。你要識先用後照麼？似虎無齒。你要識照用同時麼？背負須彌，肩橫日月。你要識照用不同時麼？掀翻地軸，蹈斷天關。喝一喝。便與麼隔關山，不與麼絕遮攔，四海五湖皇化裡，吾家曲子萬年懽。擊拂子。復舉：保壽開堂，三聖推出一僧，保壽便打，三聖云：與麼為人，瞎却鎮州一城人眼去在。保壽擲下拄杖，便歸方丈。師云：用劈箭機，發千鈞弩，固是兵隨印轉，將逐符行。且畢竟成得什麼邊事？拍禪床，云：天南并地北，一舉一時收。小參，僧問：承師有言：未入門時有一句子。畢竟是什麼一句？師云：盡力吐不出。進云：既到者裡，因什麼半字全無？師云：相逢自有知音知，何必清風動天地？進云：遠離中山，來赴本覺，作麼",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the retained deployment: arrow-splitting machine, thousand-jun crossbow — but what does it bring off? One lift gathers all."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0593a14",
+          "ToLb": "0594a03",
+          "Kwic": "間天上一切獰惡鬼神悉皆集會受佛付囑擁護正法設有不赴者四天門王飛熱鉄輪追之令集既集會已無有不順佛勑者各𤼵弘誓擁護正法唯有一魔王謂世尊云瞿曇我待一切眾生成佛盡眾生界空無有眾生名字我乃𤼵菩提心。師徵云且道這個魔王是皈依佛語是不皈依佛語。鎮州第二世保壽和尚開堂日三聖乃推出一僧壽便打聖云恁麼為人非但瞎却這僧眼瞎却鎮州一城人眼去在壽便歸方丈。師云據這公案恰似路見不平未免遭人齒頰統要中紛紛評論有十五人俱是當世明眼宗匠若約正知正見判斷處三分中但有其一耳不可不知。鎮州大悲和尚因僧問除上去下請師便道州云我開口即錯僧云與麼則真是學人師也州云今日向弟子手中死。師云且道這語是錯不錯。吉州資福和尚示眾云隔江見資福剎竿便回去脚跟下也好與三十",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment: fifteen clear-eyed masters of the age, and one share in three is all they get."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0067b10",
+          "ToLb": "0068a14",
+          "Kwic": "業債難逃無端被人推上曲彔木牀口裏水漉漉地說性說心說玄說玅雖然如是若說著一字當墮拔舌犂耕所以承言者喪滯句者迷直令鵾鵬變化點鐵成金海嶽夷平移星轉斗有恁麼驅耕手𫨻方可撐門拄戶為法為人揄揚祖道正當今日開堂新行條令一句作麼生道拈起鏌鎁光燦爛銅頭鐵額也攢眉復舉寶壽開堂三聖推出一僧壽便打聖云恁麼為人非但瞎却者僧眼瞎却鎮州一城人眼去在壽便歸方丈師云寶壽劈太華之手三聖擒猛虎之機二老雖竿木隨身逢塲作戲一時足可觀光若謂扶臨濟正宗太遠在何謂只見波濤湧未見海龍宮。當晚小叅若論此事如無毛鷂子遼空不留其跡直得星攢碧落月浸丹邱山青水寒風恬浪靜者個說話猶坐在潔白地上未到縣崖撒手在新法喜不作者般去就要且大家委悉山僧昔在天台通玄寺一日飯裏咬著一粒沙向",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baoshou Zhao",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained deployment: you see only the waves surging — you have not yet seen the dragon palace beneath the sea."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1992.xml",
+        "T/T47/T47n1996.xml",
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1414.xml",
+        "L/L153/L153n1637.xml",
+        "L/L158/L158n1652.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Baoshou Zhao",
+        "Sansheng Huiran",
+        "Xuedou Chongxian",
+        "Yuanwu Keqin",
+        "Liao'an Qingyu",
+        "Huanyou Zhengchuan",
+        "Mingjue Cong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "You have gone and blinded the eyes of the whole city of Zhenzhou — Sansheng Huiran's verdict on Baoshou Zhao's opening-hall strike, raised and re-tried for seven centuries, every raiser asking who was really blinded. The earliest retained raiser states the strike and verses it. Wude of Fenyang: Baoshou opens the hall; Sansheng pushes out a monk; Baoshou strikes at once; Sansheng says — you help people like this? You have gone and blinded the eyes of the whole city of Zhenzhou — and Baoshou throws down the staff and returns to his quarters. Fenyang's verse: Sansheng shoulders Baoshou's spear; pushing the monk out to parley; the general beyond the passes enforces the true command — till blind men fill the whole Great Tang. Xuedou Chongxian, raising the same opening in his picking-old section: Baoshou and Sansheng, though they brought to light the Linji treasury of the true eye, only know how to lord it where there is no buddha. Had that monk been a man, the moment he was pushed out he would have overturned the Chan couch — and even then Baoshou's whole working would be three thousand leagues short. Yuanwu Keqin both raises the strike and re-speaks the line: Baoshou's whole-device shouldering is remarkable indeed, yet it holds only one side. Had he known how to bring forth the Linji treasury of the true eye, he would have waited for Sansheng to say — helping people like this, you have not only blinded this monk's eye, you have gone and blinded the eyes of the whole city of Zhenzhou — and then handed him plain everyday fodder. Why? One not-doing, two not-stopping. Liao'an Qingyu, at the Benjue temple hall: an arrow-splitting machine, a thousand-jun crossbow — true, the troops move as the seal turns, the general follows the tally; but what affair does it in the end bring off? He claps the Chan couch: south of the sky together with north of the earth — one lift, and all is gathered in at once. Huanyou Zhengchuan, in his probing-the-old section: this case is like meeting injustice on the road — it cannot escape the cluck of men's teeth. In the Tongyao the disputants number fifteen, all of them clear-eyed masters of their age; yet judged by right knowing and right view, one share in three is all they get. This must be known. And Mingjue Cong, opening the hall at Faxi: Baoshou's hand splitting Mount Tai, Sansheng's grip on the fiercest tiger — two old men carrying their poles, playing their show wherever they halt, well worth the watching; but say they prop the Linji true line — far, far too far. Why? You see only the waves surging; you have not yet seen the dragon palace beneath the sea."
+    }
+  ]
+}

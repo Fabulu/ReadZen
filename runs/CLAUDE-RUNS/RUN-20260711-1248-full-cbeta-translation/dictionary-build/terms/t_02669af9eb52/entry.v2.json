@@ -1,0 +1,201 @@
+{
+  "Id": "t_02669af9eb52",
+  "SourceTerm": "三十二相",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T07:49:05Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the thirty-two marks",
+      "AlternateTargets": [
+        "the thirty-two marks of the awakened body"
+      ],
+      "SearchAliases": [
+        "thirty-two marks",
+        "marks of the awakened body",
+        "thirty-two bodily marks"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 206 hits in 105 files representing 103 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0418b18",
+          "ToLb": "0418c04",
+          "Kwic": "性自是門。性無有相。亦無有門。故云。無門為法門。亦名空門。亦名色門。何以故。空是法性空。色是法性色。無形相故。謂之空。知見無盡故。謂之色。故云。如來色無盡。智慧亦復然。隨生諸法處。復有無量三昧門。遠離內外知見情執。亦名總持門。亦名施門。謂不念內外善惡諸法。乃至皆是諸波羅蜜門。色身佛。是實相佛家用。經云。三十二相。八十種好。皆從心想生。亦名法性家焰。亦法性功勳。菩薩行般若時。火燒三界內外諸物盡。於中不損一草葉。為諸法如相故。故經云。不壞於身而隨一相。今知自性是佛。於一切時中行住坐臥。更無一法可得。乃至真如不屬一切名。亦無無名。故經云。智不得有無。內外無求。任其本性。亦無任性之心。經云。種種意生身。我說為心量。即",
+          "MasterName": "Mazu Daoyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "record-owner",
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Mazu Daoyi owns the retained deployment, citing the sutra's thought-born marks to seal the one-mind reading of the gateless gate."
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0788a11",
+          "ToLb": "0788b01",
+          "Kwic": "光陰，於理何益？珍重。小參。目前無法，意在目前。不是目前法，非耳目之所到。大眾！既非耳目所到，何有是非逆順之可得也？然則雖非目前，要在目前以驗其實。經中所謂：行於非道，通達佛道。何為非道？即目前一切逆順中𢫫身而過，無障無礙。是故提婆達多是佛積劫惡友，而云：我因提婆達多善知識故，令我疾得阿耨菩提，乃至證得三十二相、八十種好。又云：一切眾生聞提婆達多品，受持讀誦，不復墮於三惡道也。如此則豈非觀逆成順，繇非道而通達佛道耶？而今多見兄弟發心坐禪，因師友警䇿昏沉，勃然動其嗔心，以致諍論，似不如無情之木頭也。何則？木頭者，為良匠多方彈削，始成梁棟。如彼木頭忽作嗔云：我在山中，大塊載我，雨露滋我，何等自在？爾無端取我回來，多",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran Yuancheng owns the retained deployment, crediting the bad friend of the non-path with the marks that swift awakening wins."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0334a23",
+          "ToLb": "0334b06",
+          "Kwic": "大雄寶殿金額至，小參。「佛恩難報，佛法難聞，佛理難明，佛世難值。所以，教中道：『諸佛出世如優曇缽羅華，時一現耳。』大眾！要知三世諸佛不離自心，是故，自心眾生滅則佛現，自心眾生生則佛隱。然一切眾生生滅流注，念念不停，爭得諸佛時時出現？諸佛既不現，則一切佛法亦不現，一切佛宮殿亦不現，一切佛玅莊嚴具亦不現，一切佛三十二相、八十種好亦不現，一切佛殊勝希有事亦不現。既皆不現，則一切眾生無由瞻仰、無由起信、無由種天人之福、無由越三塗之苦、無由聞難聞之法、無由報難報之恩。譬如翠巖祖庭自淹沒以來，殿閣莊嚴一切化為烏有，四鄉善士雖欲植福，無地可植；雖欲聞法，無處可聞；雖欲報佛深恩，無因可報。幸有護法善神先懸雪上之讖，諸山耆舊同罄缽",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, counting the marks among all the buddha-things that vanish while the heart's beings stream on."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0663c24",
+          "ToLb": "0664a09",
+          "Kwic": "佛罵祖哉？子若肯究竟，此事不難，如草必有根，見草尋根何難之有？人為萬物最靈，豈無根本？將自己身心排放面前，看他在甚麼處安立？身從何來？終歸何所？心從何有？終成何物？看來看去忽然看破，方知此事不從人得。那時不但無身心可得，盡虛空界無芥子許佛法知見而與子作障礙，盡十方界是自己個面孔，隨自己開也好、合也好，將三十二相作乾屎橛也好，將乾屎橛作三十二相也好，豈不暢快平生？而知見又奚能作障礙者哉？子果能到此田地，方信自己可名性照，真是慧心，原如來藏中有遍照法界義、有大智慧光明義，此是自性具足，不屬脩證。如是智照，子縱不照管他，他亦不失，但不得受用。子能決志檢點身心是甚麼物？甕裏必不能走了鱉。勉之！」示興化乘子示興化乘子乘",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, telling his correspondent that at the breakthrough the marks and the dung-chunk trade places freely."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0857b20",
+          "ToLb": "0858a15",
+          "Kwic": "則列羣峯於五嶽。咸消高下之形。引萬派於四溟。共失淺深之跡。豈真妄之復云乎哉。或問。六根具含妙用。而如來單辯其見者何也。答五色可盲。老子未盡傾肝膽。千里能視。離婁欠剔起眉毛。覩薄伽梵忽起愛源。遇摩登伽幾沉欲海。不因樵子徑爭到葛洪家。手頭撥動金剛錍。髑髏揭盡根塵瞙。其所以單辯其見者。首因阿難謂我以眼見如來三十二相之說。乃辨之耳。一根既了六處同明。今分其所見有二。一者如來以心體靈知了了不昧之為見。是謂真見。二者阿難依眾生執以眼對前塵諸有色象之為見。是謂妄見。其言妄者。離種種前塵則無有見。其言真者。不涉前塵乃至因緣和合等相。指真寂體中廓爾靈鑑。豈日輪黑月使之能見哉。而如來與阿難揀辨前塵不出八種。各還所屬乃顯其離塵無見",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, tracing the debate over seeing back to Ananda's claim to see the marks with his eyes."
+        },
+        {
+          "RelPath": "T/T48/T48n2017.xml",
+          "FromLb": "0967c13",
+          "ToLb": "0967c28",
+          "Kwic": "量行願念念增進益。十一、鸚鵡舍利宣揚法音益。十二、清風動樹如眾樂益。十三、摩尼水漩宣說苦空益。十四、諸樂音聲奏眾妙音益。十五、四十八願永絕三塗益。十六、真金身色益。十七、形無醜陋益。十八、具足五通益。十九、常住定聚益。二十、無諸不善益。二十一、壽命長遠益。二十二、衣食自然益。二十三、唯受眾樂益。二十四、三十二相益。二十五、無實女人益。二十六、無有小乘益。二十七、離於八難益。二十八、得三法忍益。二十九、身有常光益。三十、得那羅延身益。』如上略述法利無邊，聖境非虛，真談匪謬。何乃愛河浪底，沈溺無憂；火宅焰中，焚燒不懼？密織癡網，淺智之刃莫能揮；深種疑根，汎信之力焉能拔？遂即甘心伏意，幸禍樂災。却非清淨之邦；顧戀恐畏",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2017.xml). Collection on the Convergence of Myriad Good Deeds. Yongming Yanshou owns the retained deployment, entering the marks as the twenty-fourth benefit of the western land in his own collection."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0664a26",
+          "ToLb": "0664b10",
+          "Kwic": "人歸敬，魔外降伏，三百餘會，響答空谷。拈花啟笑，尾巴露出，不了命根，迦葉能續。丈六金身，幻臨片牘，永陳供養，筆底燈燭。第一祖摩訶迦葉尊者第一祖摩訶迦葉尊者株守金襴於雞足山中，鈍置黃老；喚倒剎竿於王舍城畔，貽累阿難。九十一劫身金色，面皮厚也不堪觀。第二祖阿難陀尊者第二祖阿難陀尊者如來成道祖生日，珠聯合璧。三十二相祖缺一，飴甘如蜜。為佛侍者三十年，智慧總持稱第一。從上正法眼，展轉流通，遺下多羅藏。如是結集，人天信受奉行。迦葉證明已訖，向恒河涅槃。許二王親到中流彼岸，度五百仙人，唯商那會得眼橫鼻直。第三祖商那和修尊者第三祖商那和修尊者胎六白而出世，感九枝以降祥。兆符佛記，百歲後法輪常轉；迸開法眼，二火龍匿耀無光。鞠多",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment, sweetening the ancestor's portrait with the one mark the second ancestor lacks."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0526c22",
+          "ToLb": "0527a05",
+          "Kwic": "中，遍地香風並響。為善男，為善女，莫不典解珞燃臂之想。故監寺有會後所餘之朱提也，副寺有會後所餘之白粲也，此亦衲子之至誠而必動云爾。有智者曰：「檀信之脂膏，法門錢糧是已。既不足，則取諸四方；有餘，則置諸常住。且相好若是其古也，宜以閻浮檀箔之焉；夜光若是其欠也，宜倣粢盛田賦之焉。」于是鳩諸善士，再捐以金其功，則三十二相重新，夜光之燄無盡矣。袁司馬曰：「人傑還能使地靈。」其明喜金先之謂乎？喜則開斯山也，先則續斯燈也。然則山有崇伏，峙有列兼，正與人而合諸也。當勒其石，以記後來。作記者，先之參學師也，即聚雲吹萬子也。治平寺燈田記治平寺燈田記或曰：記者，紀其事也。既紀其事，則諱其心而飾其辭，孰若以心記心，即心記事，曷不亦大揚",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the retained deployment, renewing the statue's marks in gold leaf through the donors' endowment."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "X/X72/X72n1444.xml",
+        "J/J28/J28nB208.xml",
+        "J/J28/J28nB219.xml",
+        "B/B25/B25n0145.xml",
+        "T/T48/T48n2017.xml",
+        "J/J38/J38nB425.xml",
+        "J/J29/J29nB239.xml"
+      ],
+      "RelatedMasters": [
+        "Mazu Daoyi",
+        "Yongming Yanshou",
+        "Zhanran Yuancheng",
+        "Guxue Zhenzhe",
+        "Zhuanyu Guanheng",
+        "Zhongfeng Mingben",
+        "Jifei Ruyi",
+        "Juyun Chuiwan Guangzhen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The thirty-two marks of the perfected body, carried by the records as the visible measure that mind is set against. Mazu Daoyi, quoted in the Mirror of the School, reads the sutra's marks as born from thought and turns them into proof that the mind-made body is the house the teaching uses; Guxue Zhenzhe counts the marks among everything that fails to appear once the heart's beings flow on; Zhuanyu Guanheng tells his correspondent that at the breakthrough one may treat the marks as a dung-chunk and the dung-chunk as the marks; and Zhongfeng Mingben traces the Seeing debate back to Ananda's claim to see the marks with his eyes. Zhanran Yuancheng reads the Devadatta chapter so that the marks are won through the bad friend on the non-path; Yongming Yanshou's own collection lists the marks as the twenty-fourth benefit of the western land; Jifei Ruyi's eulogy verse hands Ananda a sweetness that is one mark short of the thirty-two; and Juyun Chuiwan Guangzhen's endowment inscription renews the marks in gold leaf on the temple's statue."
+    }
+  ]
+}

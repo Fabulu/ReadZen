@@ -1,0 +1,226 @@
+{
+  "Id": "t_2a5ae18f89cb",
+  "SourceTerm": "隻履西歸",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:49:40Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "returning west with a single sandal",
+      "AlternateTargets": [
+        "one sandal, westward home",
+        "the single-sandle return"
+      ],
+      "SearchAliases": [
+        "the single-sandle return west",
+        "the one-sandle departure",
+        "the founder's empty tomb"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 158 hits in 89 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0779a15",
+          "ToLb": "0779b15",
+          "Kwic": "無隱乎爾少林初祖少林初祖揚子江心波少林峯頂月寥寥一片心直指成曲折謂其有傳兮胡為乎壁觀九年謂其無傳兮因甚麼花開五葉秋山落木猿晝啼行人眼底流鮮血大鵬展翅取龍吞一攪滄溟徹底渾觸碎珊瑚枝上月至今千古暗昏昏遮漢捏怪為欠禪債此土西天重重納敗最初見梁王言不識末後受神光禮三拜凄凄隻履西歸漆桶依前不快似遮般阿師貶向師子巖頭雲蒸霧鎻千百年且看眉毛壞不壞栽松道者栽松道者種得千山無空地一枝猶挂钁頭邊不因脫賺周家女衣法何緣到你傳粥薪漢子粥薪漢子荷條柴檐眼頭空路入黃梅伎已窮賣得叢林枝葉盡嶺南無地種春風馬郎婦馬郎婦深願弘慈無縫𦉑乘時走入眾生界窈窕丰姿都沒賽提魚賣堪",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained verse: that fellow cooked up wonders to repay a Chan debt — this land, that west, defeat on defeat; first he met the king of Liang and said 'no knowing', at the last he took Huike's three bows; chill and cold, one sandal returning west — the lacquered bucket still unlightened; a teacher like that, banished to the lion-crag head, mist and cloud locking it a thousand hundred years — just watch whether the brow-hairs rot or not."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0206c04",
+          "ToLb": "0206c18",
+          "Kwic": "：「文殊、普賢起佛見、法見，世尊威神貶向二鐵圍山。」師拈云：「大眾！不起佛見、法見，還免得貶向鐵圍山麼？世尊也是憐兒不覺醜。」冬至，上堂：「六陰已極一陽生，佛道還同世道亨。唯有祖師門下客，依前日午打三更。」示眾：「莊子能齊物，千巖無物齊。饑來喫麥粥，衣垢洗清溪。」初祖忌，示眾：「九年面壁，坐斷天下人舌頭；隻履西歸，喪卻自家窮性命。吾本來茲土，又喪不盡也；傳法救迷情，又坐不斷也。既坐不斷、喪不盡，畢竟作麼生？一花開五葉，結果自然成。」示眾：「江月照，松風吹，面面青山展笑眉。經有經師，論有論師，莫怪老僧無法說，勞汝諸人立片時。」示眾云：「一切世界中，有以音聲為佛事，有以光明為佛事，有以飲食為佛事，有以莊嚴為佛事，是人",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained address at the Founder's remembrance: nine years facing the wall cut off the whole world's tongues; one sandal returning west lost him his own poor life — 'I came to this land' — and still the losing is not finished; 'to hand on the way and save the deluded' — and still the cutting-off is not done; since neither is done nor lost, what, in the end? one flower opens five petals, and the fruit sets of itself."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0337a14",
+          "ToLb": "0337a28",
+          "Kwic": "。且道金明在此燈光裏又作麼生施設？試道看。」良久，遂起身，云：「大眾謝茶。」便歸方丈。示眾。舉：「楊岐會和尚示眾：『楊岐乍住屋壁疏，滿床盡撒雪珍珠，縮卻項，暗嗟吁，翻憶古人樹下居。』山僧亦有一偈舉似大眾：十載金明敗屋居，從教風雨懶嗟吁，高枕臥，勝山廬，等閒唱個樂餘餘。」祖師進堂，示眾。「九年面壁，水出高原；隻履西歸，苗從地起。且道祖師到金明作麼生？」師顧左右，云：「攜瓶拽杖著。」病中示眾。「病乃眾生之良藥，所以佛病眾生病，眾生病佛病。咄！喚什麼作病？若會得此病根源，不獨覓他起處不得，亦非攢簇不得底，說甚三百六十骨節、八萬四千毛竅，通身是？遍身是？直得絕後再甦，出一身白汗始得自在，方可津濟四生、梯航九有，所以入眾生",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie'an Jin. Jie'an Jin owns the retained address: nine years facing the wall — water rising from the high plain; one sandal returning west — sprouts rising from the ground; and say — how does the Founder arrive at Jinming? the master glanced left and right: carrying the bottle, dragging the staff."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0260c22",
+          "ToLb": "0261a19",
+          "Kwic": "年事，月到中天哭夜猿。其二其二禪到語言文字外，洞然不載祖師機，禪公今日攜囊去，秋雨人家半掩扉。其三其三禪到無心無亦無，時清才子孰歸湖，唐言梵語泥今古，縱得全提滯半途。其四其四禪到無參始寂寥，秋空孤月照岧，此行策杖江南去，待看來年三月潮。其五其五禪到歸源絕悟迷，機前句外落尋思，老胡弄巧翻成拙，隻履西歸腳帶泥。擬古德十可行十首擬古德十可行十首寥寥忘睡亦忘炊，靜坐怡然亦不知，未等痴禪空守默，至今佛祖絕狐疑。入室入室不著語言文字外，當機滯句早相欺，鋒芒未敵猶傷犯，擬欲生心亦是迷。普示普示此事叢林古鑑模，大家齊力去相扶，作麤擔重加精銳，肯作人前大丈夫。粥飯粥飯缽盂收轉尋常事，飯後東行又到西，試問滿堂諸",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting's Sayings. Guting Shanjian owns the retained farewell verse: when Chan reaches the source, waking and delusion both cease; beyond the trigger, outside the phrase, thought falls away — the old foreigner's cleverness turned to clumsiness: returning west with one sandal, mud still on the sandal."
+        },
+        {
+          "RelPath": "J/J25/J25nB155.xml",
+          "FromLb": "0046c12",
+          "ToLb": "0046c27",
+          "Kwic": "：「汝得恁麼無記性？」沖曰：「秪為和尚徹骨徹髓。」師笑曰：「不然，為子一人即得，爭柰大眾何？」沖曰：「取即不辭孤負先代、喪我後人。」師曰：「如是如是！」始祖像前示眾：「廓然無聖，知音未在；直言不識，猶欠投機。從此大梁殿上，折了兩遭老本；少林室中，受了九載清灰。末後要做好漢，不顧骨肉髓皮；通身分付與人，杖擔隻履西歸。熊耳峰前了些宿債；蔥嶺頭上弄箇大奇。卻被宋雲覷破，踏步不知高低。要識造佛造祖之宗匠，即此儱侗顢頇之鬍鬚。盡道祖師昔年去了。」以拂子指像云：「現今這箇聻且道是誰？」乃說偈曰：「廓然無聖顯真機，不識重將正令提；兩度赤心功不奏，秋江踏葦去悽悽。」示眾：「今日佳節七月七，通身收拾巧來喫；絕妙奇能一併吞，淨盡勿",
+          "MasterName": "Wuqu Rukong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuqu Rukong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB155.xml). Recorded Sayings of Elder Wuqu. Wuqu Rukong owns the retained portrait address: wide open and no sage — no true hearer yet; straight-out 'no knowing' — still short of accord; from then on, in the hall of Great Liang, twice he lost his old capital; in the room at Shaolin, nine years of clean ash; at the last, to play the true man, he spared neither flesh, bone, marrow, nor skin — handed his whole body to others, shouldered his staff, one sandal returning west; settled old debts below Bear-Ear peak, played a great wonder on Onion-Ridge head — and was seen through by Song Yun, striding along unsure of high and low; to know the craftsman who builds buddhas and founders — just this sloppy bewhiskered face; all say the Founder left years ago — and the whisk pointed at the portrait: this one right here — say, who is it? then the verse: wide open, no sage — the true mechanism shown; 'no knowing' — the true command lifted again; twice his red heart won no hearing; chill he trod the reeds away down the autumn river."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0836b03",
+          "ToLb": "0836b21",
+          "Kwic": "州府汾陽縣普通禪寺上堂。師於康熙壬子秋，受護法紳紟洎兩序闔院大眾請，於十月望日進院。山門。「潑天門戶，八字打開，要入便入，本無疑擬。」拽杖便入。伽藍。「新長老入院，舊伽藍生喜。海眾辦道心，身命全賴你。」韋馱。「三洲感應驅魔業，十世童真護法門，今日長老親到此，互相扶起破沙盆。」祖師。「折葦渡江也是你，隻履西歸也是你，將謂有多少伎倆，咄，原來也只在這裏。」佛殿。「入門須辨主，端的甚分明，今古誰敢敵，三界獨稱尊。」遂展具拜。方丈。「既到此地，當仁不讓。佛來魔來，盡教喫棒。且道新長老具何手眼，有如是作略？」乃卓拄杖一下曰：「區區七尺烏藤，敢作人天榜樣。」指法座。「過去燈王亦陞斯座，現在新長老亦陞斯座。且道過去底是",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained installation address at the Founder's shrine: the reed crossed the river — that was you; one sandal returning west — that was you; I thought how many tricks you had — bah, it turns out you were only here all along."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0402a23",
+          "ToLb": "0402b06",
+          "Kwic": "我宗，豈期一旦失其望？致令山水嗟吁，花鳥惆悵，休惆悵。」以火打圓相，云：「惟有這些子不礙去來，不妨收放。然雖若是……」遂以火指龕，云：「且道這些子著向甚處？」復云：「四大本來空，五蘊無非妄。」下火，云：「盡情付與祝融君，鍛出真金無比況。」為法主矩度和尚舉火。「瑞木半天飛北嶺，梅花幾點放南枝，霎然翻轉乾坤色，隻履西歸正此時。恭惟矩公和尚降蹟滇海，披緇黔山，紹完公之衣缽，弘鷲嶺之風規。經論講時，岌岌青山點道；毘尼演處，悠悠綠水揚眉。所以，萬姓皈心，中丞贈偈，將謂百世慈航，豈期一朝撒手？致令猿鶴舉哀，山林披白。正恁麼時，收因結果一句作麼生道？白雲來去本無心，明月升沉非有意，秪因覷破這些兒，把住放行無不是。」顧左右，云：",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained cremation verse, lighting the fire for the abbot: auspicious wood half-sky flying the north ridge, plum-blossom points opening on the southern sprays — in a flash heaven and earth flip their colors: one sandal returning west — just now."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J32/J32nB273.xml",
+        "J/J29/J29nB233.xml",
+        "J/J25/J25nB163.xml",
+        "J/J25/J25nB155.xml",
+        "J/J39/J39nB466.xml",
+        "J/J39/J39nB447.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Bodhidharma",
+        "Huike",
+        "Qianyan Yuanzhang",
+        "Jie'an Jin",
+        "Guting Shanjian",
+        "Wuqu Rukong",
+        "Baishan Dekai",
+        "Meixi Fudu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "One sandal, westward home: the tomb opened and holding nothing but a shoe — read at memorials, portraits, installations, and pyres. Zhongfeng Mingben, in the encomium: that fellow cooked up wonders to repay a Chan debt — this land, that west, defeat upon defeat; he met the king of Liang and said 'no knowing', took Huike's three bows; chill and cold, one sandal returning west — the lacquered bucket still unlightened; banished to the lion-crag, mist-locked a thousand years — just watch whether the brow-hairs rot. Qianyan Yuanzhang, at the Founder's remembrance: nine years facing the wall cut off the whole world's tongues; one sandal returning west lost him his own poor life — 'I came to this land', and still the losing is not finished; 'to hand on the way and save the deluded', and still the cutting-off is not done — what, in the end? one flower opens five petals, the fruit sets of itself. Jie'an Jin, as the tablet enters the hall: nine years facing the wall — water rising from the high plain; one sandal returning west — sprouts rising from the ground; and how does the Founder arrive at Jinming? a glance left and right: carrying the bottle, dragging the staff. Guting Shanjian, seeing off a departing master: when Chan reaches the source, waking and delusion cease — the old foreigner's cleverness turned to clumsiness: returning west with one sandal, mud still on it. Wuqu Rukong, before the portrait: wide open, no sage; straight-out, no knowing — twice he lost his old capital in the hall of Liang, nine years of clean ash in the Shaolin room; at the last, a true man spares neither flesh, bone, marrow, nor skin — hands his whole body to others, shoulders the staff, one sandal returning west; old debts settled below Bear-Ear peak, a great wonder played on Onion-Ridge head — seen through by Song Yun — and then the whisk points at the picture: this one right here, who is it?; twice his red heart won no hearing; chill he trod the reeds away down the autumn river. Baishan Dekai, entering his monastery: at the Founder's shrine — the reed crossed the river, that was you; one sandal returning west, that was you; I thought how many tricks — bah, you were only here all along. Meixi Fudu, lighting the pyre: auspicious wood half-sky flying the north ridge, plum-blossom points on the southern sprays — in a flash heaven and earth flip their colors: one sandal returning west — just now."
+    }
+  ]
+}

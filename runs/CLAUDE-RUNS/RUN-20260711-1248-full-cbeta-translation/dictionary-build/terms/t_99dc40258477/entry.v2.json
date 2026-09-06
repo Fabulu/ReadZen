@@ -1,0 +1,204 @@
+{
+  "Id": "t_99dc40258477",
+  "SourceTerm": "豈不快哉",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:22:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "is it not a joy?",
+      "AlternateTargets": [
+        "how could this not delight?",
+        "what pure joy this is"
+      ],
+      "SearchAliases": [
+        "the joy exclamation",
+        "capping burst of delight",
+        "delighted indeed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 143 hits in 87 files representing 85 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0534a05",
+          "ToLb": "0534a20",
+          "Kwic": "尚，全以本分草料，覿面提持，如斷命刀子相似。若是識痛痒漢，便知落處。其如皮下無血，眼裏無珠底，且留待彌勒下生，為佗說破。示湛禪人示湛禪人明果門下，無禪可說，無道可傳。祇有一口劒，不問佛來祖來，聖來凡來，拈起便斬。若解向劒刃下翻得身底，一任出一叢林，入一保社，把禪床上老漢與一拶。若見口裏水漉漉地，腰包便行，豈不快哉。若也未能徹證，扶荷也不得草草，深宜子細。神鼎諲和尚道，參須實參，悟須實悟，閻羅大王不怕多語也。不負平生行脚初志，盡此報身，靠却本色人，一二十年間，忽然遭佗毒手，頂門裂，眼睛落，光影盡，伎倆除，活鱍鱍地，吒吒呀呀，如師子王去住自由，哮吼自在，豈不是大丈夫意氣，做大丈夫事業，方謂之出群英特之士也。白雲端和",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying'an Tanhua. Ying'an Tanhua owns the retained instruction: under Mingguo's gate there is no Chan to speak and no way to transmit — one sword only, and whoever it is, buddha or ancestor, saint or commoner, he lifts it and cuts; turn your body over under that blade-edge and you may leave one cloister and enter another and squeeze the old man on the seat — see the mouth still dripping and sling your satchel and walk: is it not a joy? and he closes with Shending Yan's word — the seeking must be real seeking, the waking real waking; King Yama has no patience for much talk."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0749b24",
+          "ToLb": "0749c11",
+          "Kwic": "透漏。是箇金剛眼睛更無外物。所以尋常與兄弟道。爾纔觀色早塞却眼。纔聽聲早塞却耳。纔嗅香早塞却鼻。纔吐氣早塞咽喉。纔動轉早塞却身。纔起念早塞却意。六根門頭淨裸裸赤灑灑。只是不肯回光返照。看他古人於先德言下契證通箇消息也。不妨親切。水潦被馬祖一踏。起來呵呵大笑云。百千法門無量妙義。只向一毫頭上識得根源去。豈不快哉。臨濟在黃檗三度設問。喫六十棒。及至大愚面前不覺道。元來黃檗佛法無多子。似此得處。豈不驚群。諸公還曾消息麼。若也翻覆參詳。實是得箇入處。始知二六時中行住坐臥動轉施為。一一超古越今無間無斷。與他從上祖佛把手共行。尋常只守閑閑地。不起毫髮凡聖情量。更有什麼得失可疑生死可出。似此說話。可謂對諸公面前。無夢說夢",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Shuilao Heshang",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained address: watch the ancients seal the news at an elder's word — no lack of intimacy there: Shuilao, taken by one of Mazu's treads, rose and roared with laughter — a hundred thousand gates, an ocean of meanings, all recognized at the root of a single hair-tip: is it not a joy? and the address runs on to Linji's sixty blows at Huangbo and the plain rice-gruel before the master at Dayu."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0320b13",
+          "ToLb": "0320c03",
+          "Kwic": "，又見一陽來復；靈光洞耀，依然體露真常。撥開向上玄關，突出眼睛鼻孔。釋迦彌勒猶是他奴，且道他是阿誰？擊拂子，云：嶺梅殘雪後，雲𩯭未梳時。上堂。三世諸佛說不到，六代祖師傳不到，天下老和尚見不到。夜來首座、藏主一一為諸人說了也，山僧贏得口喫飯。且山僧喫飯，諸人還得飽也無？者裡道得一句，直教凡聖混融、彼我不二，豈不快哉？其或未然，一曲自歌山自綠，此情不與白雲知。擊拂子，下座。小參。去年臘月三十日，今年臘月二十九。少處不減多不添，年去年來總仍舊。舊者不去新不來，新舊何妨自前後？所以道：礙處非墻壁，通處勿虗空。若能與麼會，心色本來同。喝。止止不須說，我法妙難思。諸增上慢者，聞必不敬信。喝。當時五千比丘禮佛而退，豈不是皮下",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao'an Qingyu. Liao'an Qingyu owns the retained address: the three-age buddhas cannot say it, the six founders cannot transmit it, the old abbots under heaven cannot see it — last night the seat-leader and the store-keeper said it all for you, and the mountain monk won himself a mouthful of rice; and if I eat, are you filled? speak one line here that fuses holy and common, self and other undivided: is it not a joy? failing that — one song sung to green hills, a feeling the white clouds never know."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0295c19",
+          "ToLb": "0296a10",
+          "Kwic": "，不知是無記。只如趙州古佛，端的是知？是不知？若道他知，栽他頭角；道他不知，減伊聲價。向知不知處，當合許他。何故？親口不出疎言，只為慈悲大甚，傾心吐膽，連忙指示，貴圖易曉易會，不知者飜成笑具，難見難聞不弱。關山路隔，鄉國程遙，衣錦還時，終須索去。儻爾正偏兼到，理事叶通，不滯長途，優遊鳥道，作箇脫灑衲僧，豈不快哉？不是趙州親指示，臨岐險不費盤纏。第五十一則仰山山河第五十一則仰山山河示眾云：文約義豐，都在筆端斡運；心真語直，全因舌本宣揚。揀緊要處，試請道看。舉：仰山湧和尚示眾云：一言說盡山河。僧便問：如何是一言？山以火筯插向爐邊，却收舊處。師云：舌頭無骨，得言句之總持；眼裏有筋，具游戲之三昧。東坡云：溪聲便是廣長舌",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan's Commentary on Touzi Qing's Verses on Ancient Cases: Empty Valley Collection. Linquan Conglun owns the retained close: should you arrive at both the upright and the slant, principle and working in accord, no long road to bog you — stroll the bird-path and be a free-and-easy patched monk: is it not a joy? were it not for Zhaozhou's own pointing, the parting peril would have cost the traveler his toll."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0011c18",
+          "ToLb": "0012a01",
+          "Kwic": "：「見麼？」喝一喝，復舉：「德山云：『今晚不答話，問話者三十棒。』時有僧出禮拜，山便打，僧云：『某甲話也未問，為甚卻打某甲？』山云：『你是甚處人？』僧云：『新羅人。』山云：『未跨船舷時，好與三十棒。』」師云：「德山行逸群之令格外提持，固是好手，老僧即不然，待伊云：『新羅人。』便與連棒打出，使伊做個脫灑衲僧，豈不快哉？卻云『未跨船舷時，好與三十棒。』者僧未免向未跨船舷時新羅國裡躲根，大似龍頭蛇尾。老僧恁麼批判，眾中莫有為德山作主者出來，與老僧拄杖子相見；無則老僧作一場獨弄去也。」拽拄杖下座，一時打散，歸方丈。爾立董居士請上堂。「聲前一句，人人本具，放過一著，落在第二，若不放過，打出骨髓。因甚如此？只為諸人不自薦取；",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained re-raising: Deshan ran a peerless decree and held them up beyond the rule — a good hand indeed; but this old monk is otherwise: the moment he said 'a man of Silla' — out with him on a linked string of blows, and make him a free-and-easy patched monk: is it not a joy? to say instead 'before you step over the ship's rail, thirty good blows' — that monk still hides out in Silla before the rail, head of a dragon, tail of a snake."
+        },
+        {
+          "RelPath": "J/J20/J20nB098.xml",
+          "FromLb": "0510b06",
+          "ToLb": "0510b20",
+          "Kwic": "聲驚覺，就認影忘真，以覺認覺，轉背轉遠。爾等只在知見上立知，正是生死根本也。復丘參將長孺復丘參將長孺公睿姿朗識，絕無俗懷，再來人也。第恐今入富貴中，應接不暇，將從前自己事盡情忘卻了。惟急早回頭，趁此熱鬧處作大休歇場，茶裏、飯裏，醒時、夢時，接待時、休暇時，歡喜時、煩惱時，刻刻提起，把此一生了卻萬劫大事，豈不快哉？恐富貴易過，轉盻間臘月三十日到來，將何相抵敵也？公頗記十五年前夢中事否？一切富貴眷屬，帶一些不去。止此孤身，又被他六賊併害，好不怕人。就今二十年，戎馬功名霎時便過，又豈能帶得去耶？若待臨時求佛，恐叫他不應，那時入在六賊手中，任他毒弄，豈是大丈夫所為？若信得及，提起便行，更莫躊躇，一朝大事了畢，方不枉知僧一",
+          "MasterName": "Wunian You",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wunian You",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J20/J20nB098.xml). Further Questions to Chan Master Huangbo Wunian. Wunian You owns the retained letter: turn your head back quickly — make the very hubbub your great resting place; in tea and rice, waking and dreaming, greeting and leisure, delight and vexation, lift it up moment on moment, and finish the ten-thousand-age affair in this one life: is it not a joy? fear rather that rank and wealth pass soon — the thirtieth of the twelfth month arrives between glances, and what will you set against it?"
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0602c21",
+          "ToLb": "0603a04",
+          "Kwic": "大好山、坐也大好山、住也大好山、去也大好山，只得仰面不見天、低頭不見地、覿面不相知，卻是好消息。雖則如是，秖如綏安瞳禪人偕張甯余諸居士成群逐隊，帶水拖泥，特來鼓山，作麼生始得不孤負他去？咦！一箇箇與他箇鐵酸餡。若是滿口嚼得破，更與他濃煎苦辣茶，出卻一身冷汗，待得天明日朗，牽那折角鐵牛兒與他顛顛倒倒騎將去，豈不快哉？」喝一喝，下座。黃道授居士設供請上堂黃道授居士設供請上堂法海公問：「東方來者東方立，西方來者西方立，其中還有賓主也無？」師云：「金烏一點，萬里無雲。」進云：「如何是賓中主？」師云：「袖裏弄金鎚。」進云：「如何是主中賓？」師云：「風前拋玉尺。」進云：「如何是賓中賓？」師云：「逢人且說三分話。」進云：「如何",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained close: when sky lightens and the sun is bright, lead out that broken-horned iron ox and ride it tumbling head over tail away: is it not a joy? — a shout, down from the seat; before it, the whole address plays the good-news turn — coming is a fine mountain, sitting, staying, going a fine mountain, only you look up and see no sky."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1359.xml",
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1414.xml",
+        "X/X67/X67n1303.xml",
+        "J/J10/J10nA158.xml",
+        "J/J20/J20nB098.xml",
+        "J/J34/J34nB311.xml"
+      ],
+      "RelatedMasters": [
+        "Ying'an Tanhua",
+        "Yuanwu Keqin",
+        "Shuilao Heshang",
+        "Mazu Daoyi",
+        "Liao'an Qingyu",
+        "Linquan Conglun",
+        "Zhaozhou Congshen",
+        "Miyun Yuanwu",
+        "Deshan Xuanjian",
+        "Wunian You",
+        "Juelang Daosheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Is it not a joy: the laugh after the master's tread, the satchel slung under the blade, the iron ox ridden into daylight — one exclamation poured over a finished picture. Ying'an Tanhua, instructing the monk Zhan: under Mingguo's gate there is no Chan to speak, no way to transmit — one sword only; whoever comes, buddha or ancestor, saint or commoner, lift and cut; turn your body under that edge and you may leave one cloister for another and squeeze the old man on the seat — see the mouth still dripping, sling the satchel, walk: is it not a joy? Yuanwu Keqin, before the assembly: watch the ancients seal the news at an elder's word — Shuilao, taken by one of Mazu's treads, rose and roared laughing: a hundred thousand gates, an ocean of meanings, all recognized at the root of a single hair-tip — is it not a joy? and on to Linji's sixty blows and the rice-gruel plainness before Dayu. Liao'an Qingyu, at the new year: the three-age buddhas cannot say it, the six founders cannot transmit it, the old abbots under heaven cannot see it — last night the seat-leader and store-keeper said it all, and the mountain monk won a mouthful of rice; if I eat, are you filled? one line here that fuses holy and common: is it not a joy? else — one song sung to green hills, a feeling the white clouds never know. Linquan Conglun, closing the Zhaozhou knowing-or-not commentary: should you arrive at both upright and slant, principle and working in accord, no long road to bog you — stroll the bird-path, be a free-and-easy patched monk: is it not a joy? were it not for Zhaozhou's own pointing, the parting peril would cost the traveler his toll. Miyun Yuanwu, re-raising Deshan: a peerless decree, held up beyond the rule — a good hand; this old monk is otherwise: the moment he says 'a man of Silla' — out on a linked string of blows, make him a free-and-easy patched monk: is it not a joy? Wunian You, to the general: turn your head back quickly, make the hubbub itself your resting place — tea and rice, waking and dreaming, delight and vexation, lift it moment on moment and finish the ten-thousand-age affair in this one life: is it not a joy? fear only that rank passes fast and the year's last day stands at the door. Juelang Daosheng, seeing the visitors off: it is all a fine mountain — coming, sitting, staying, going; only you look up and see no sky; when sky lightens and the sun is bright, lead out the broken-horned iron ox and ride it tumbling away: is it not a joy? — a shout, down from the seat."
+    }
+  ]
+}

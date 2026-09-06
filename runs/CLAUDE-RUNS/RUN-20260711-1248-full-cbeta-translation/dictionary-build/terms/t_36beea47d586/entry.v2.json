@@ -1,0 +1,195 @@
+{
+  "Id": "t_36beea47d586",
+  "SourceTerm": "帶水拖泥",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:29:39Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "dragging through water and mud",
+      "AlternateTargets": [
+        "wet and muddy all the way"
+      ],
+      "SearchAliases": [
+        "dragging mud",
+        "slogging through mud",
+        "trailing mud and water",
+        "muddy-footed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 170 hits in 105 files representing 105 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0010b25",
+          "ToLb": "0010c08",
+          "Kwic": "人做。」乃云：「宏機獨唱，地覆天翻；正令當行，星飛電捲。惟許超方作者始透閞牢，倘或鼠膽之流，望崖何啻？事弗獲已，未免按下雲頭，道箇山是山、水是水，男是男、女是女，僧是僧、俗是俗，各住其位、各安其居，有般沒鼻孔底又卻向背地裏冷笑，謂百山愛說老婆禪，好與三十拄杖。是即也是，百山總未甘在。何故？驅耕奪食渾閒事，帶水拖泥看轉難。」上堂。僧出位擬問，師云：「若是久經行陣者，何須立地念篇章？」便下座。冬至，上堂。僧纔出，師舉拂，云：「一線陽春曲，繇來和者稀，闍黎還和得麼？」僧云：「月色和雲白，松聲帶露寒。」師云：「未是知音者。」僧佇立，師云：「且退。」問：「如何是冬來意？」師云：「幾點梅花帶雨開。」僧禮拜，云：「去也。」師云",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, owning the granny-talk slander: snatching plow and grain is idle matter, but dragging water and mud gets harder to watch."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0642c28",
+          "ToLb": "0643a12",
+          "Kwic": "箇還涉春秋數量也無？放蕩天涯五十年，而今賸得一雙拳，半空雲裏興樓閣，萬仞峰頭泛鐵船，戴角披毛混異類，和泥合水且同躔。愧薄福，又無緣，慈悲多是惹冤愆，風流獨羨曹家女，愛捉楊花不是顛。」請上堂。「久雨不晴，春風作亂。楊柳寒而腰傴，梅花瘦而魄散。毘盧頂𩕳渾打溼，衲僧鼻孔都浸瀾。灶裏柴也無，倉中米又斷。普賢菩薩帶水拖泥，文殊大士默然嗟怨。今日檀越設齋，何似雪裏送炭！堂中聖僧喜之不勝，山野只得合掌讚嘆。讚嘆且置，未審今辰齋主得福幾何？碧眼胡僧也不知，留得明朝重打算。」請上堂。「煙光明媚，鳥弄笙簧；景物殊佳，花鋪錦繡。九峰露長春之色，三泖騰無盡之波，不是人間氣象，迥超格外家風。󳱲唯有者箇，虛空無以包其體，須彌無以并其高，居",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, casting Samantabhadra as the one who drags water and mud while Manjusri sighs silently."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0420c22",
+          "ToLb": "0421a13",
+          "Kwic": "頭土面處壁立千仞，壁立千仞處土面灰頭，自然雙放雙收，到處為祥為瑞。還委悉麼？掬水月在手，弄花香滿衣。太虗寥廓，萬彚森然。正眼洞明，纖毫不立。孤峻處祖師莫近，坦夷處人天共知。擊開大解脫門，識取無面目漢。且作麼生是無面目底漢？芍藥花開菩薩臉，椶櫚葉散夜叉頭。一向不恁麼，目視雲漢不徇人情；一向恁麼，灰頭土面帶水拖泥。恁麼中不恁麼，就下平高；不恁麼中却恁麼，從空放下。或有箇恁麼不恁麼總不管，亦無明亦無暗，亦不放亦不收。且道如何？到頭霜夜月，任運落前溪。第一句下薦得，祖佛乞命。第二句下薦得，人天膽落。第三句下薦得，虎口橫身。不是循途守轍，亦非革轍移途。透得則六臂三頭，未透亦人間天上。且道三句外一句作麼生道？生涯只在絲綸",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Yuanwu Keqin owns the retained deployment, setting ash-headed mud-faced mud-dragging against the cliff of no favor, then folding the two stances together."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0241b23",
+          "ToLb": "0241c06",
+          "Kwic": "無可不可，無得不得。只如山僧前日離黃檗寓城山，過西院遊萬安，訪護國上東金，到處之遶一遍，要且來無來跡，住無住相，去無去所，不妨如是來，如是住，如是去。我為法王，於法自在，我為法王，於法無礙。且道明日又向甚麼處去？青山踏遍誰知己？收拾春風歸去來。」下座。辭眾上堂。師云：「八載住持受苦艱，呵風罵雨不安閒。今朝帶水拖泥去，十二峰頭展笑顏。大眾！且道笑箇甚麼？波裏橫行波裏睡，幸然不沒小江間。」下座。師到芙蓉，亙法弟請上堂。云：「黃檗枝枝秀，芙蓉朵朵新，雖然舊面目，一見一番新。諸人如此會得，各各歸家穩坐。脫或未能，山僧一一為汝說破。發明底人，可大可小，能方能圓，重法忘軀，損己利物，舍我芙蓉法弟者誰歟？山野丁丑歲開法於黃檗，",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: after eight hard years, today he goes dragging water and mud, and the twelve peaks break into smiles."
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0692b20",
+          "ToLb": "0692c02",
+          "Kwic": "李四張三，不問趙甲錢乙。耳朵原是兩片皮，一個鼻頭兩孔氣。山僧恁麼告報，若有伶俐衲僧出來道：『曾老師，莫屎沸！』一棒打折你驢脊。」僧問：「爐鞴新開、鉗錘初舉，何處是聚雲心印？」師云：「山前山後、溪西溪東。」進云：「因甚落在和尚手裡？」師噓一聲。進云：「即今普對人天，如何施設？」師便喝，僧禮拜。師云：「問來問去帶水拖泥，豎指豎拳添釘著楔。如或懡㦬而散，未免辜負今時，且聽木上座道個開場偈子。」卓一卓云：「囉囉哩哩哩囉囌嚕㗭哩娑婆訶！」維那再白槌云：「諦觀法王法，法王法如是！」師下座。上堂。僧纔出，師便打，僧擬議，師打云：「汝從甚處去來？」僧云：「三日不相見，莫作等閑看。」師復打。僧出，師打云：「還見前僧麼？」僧便喝，",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment, diagnosing question traded for question as mud-dragging and raised fist and finger as added nails and wedges."
+        },
+        {
+          "RelPath": "J/J35/J35nB337.xml",
+          "FromLb": "0706b10",
+          "ToLb": "0706b24",
+          "Kwic": "傾西北。」學云：「向上更有事也無？」師云：「太無厭生。」乃云：「十方薄伽梵，擺撥不開；一路涅槃門，挨擠不上。跛腳阿師一向與人鬥勝慣了，手中扇子也解跋扈飛揚。若是妙湛又且不然，十方薄伽梵，一路涅槃門，未審路頭在甚麼處？但向道：『此問不弱。若是踏步便知高下底，自然脊背汗出，一免得帝釋驚心、二免得鯉魚喫棒、三免得帶水拖泥、四免得沿途覓路。』更有一種利益，待汝得到涅槃門裏款款商量。」晚參。「禪不用參，道不用學，偷心屏除，隨分安樂，倦來便上繩床，一任諸方圖度。」觀音誕日，張夫人送法衣至，上堂。學人問：「昔日阿難問迦葉云：『世尊付金襴袈裟外別傳何物？』咨和尚為某甲說。」師云：「撒沙撒土。」學云：「迦葉道：『倒卻門前剎竿。』意",
+          "MasterName": "Baochi Xuanzong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baochi Xuanzong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB337.xml). Recorded Sayings of Chan Master Baochizong. Baochi Xuanzong owns the retained deployment, listing freedom from mud-dragging third among the four frees the knowing step grants."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0512b18",
+          "ToLb": "0512c01",
+          "Kwic": "聞又聞箇什麼？見又見箇什麼？老僧說到這裏，話頭也忘卻了，且道報恩一句又如何？」左右顧視云：「全憑一點無私力，報答四恩咸有餘。」維那云：「諦觀法王法，法王法如是。」下座。師在荊溪磬山受請陞座辭眾，拈拄杖云：「一十五年成小搆，謝諸檀信護持心，別行一路暫時去，汝等堅修守寂岑；目視雲霄已有年，酬恩報德不相關，而今帶水拖泥也，杖笠迎風過遠山。還有同起同倒者麼？出眾相見。」僧問：「法性如如無云來，從來普遍周沙界。即今和尚去耶？非去耶？」師豎起拄杖云：「你還識得這箇麼？」進云：「祖禰不了，殃及兒孫。」師便打，良久云：「雲本無心出岫，乘風縹緲於長空，往來無礙；月非有意臨溪，趁水光含於四海，映徹何窮。住也則心包太虛，無欠無餘；行也",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, versing his own leave-taking: now I too go dragging water and mud, staff and hat in the wind over far mountains."
+        },
+        {
+          "RelPath": "J/J26/J26nB183.xml",
+          "FromLb": "0492c25",
+          "ToLb": "0493a08",
+          "Kwic": "』士無語。州云：『果然不知。』」師云：「可惜者居士，蹉過睦州。聽取山僧一頌：道在尋常日用中，不知知也體玲瓏，分明一味無多子，變換調羹手不同。」解制上堂，「十月十五正月半，九十日期虛打筭，威音那畔本現前，鼻直眼橫誰解看？若得徹去，不妨孤峰頂上盤結草庵的一任盤結草庵、十字街頭縱橫遊戲的一任縱橫遊戲，壁立萬仞、帶水拖泥總非分外；脫或未然，三十年後不得辜負老僧。」上堂，「二月十五，春寒山塢，風兮鳴條，雨兮破土。釋迦老子遍現色身，文殊普賢觸處顯露，達磨西來，不立文字，直指人心，見性成佛，有何所補？」召眾云：「會麼？唵折唎主唎準提莎婆訶。」剃染，陞座。「景際清和候，紅稀綠暗時，一般好消息，能有幾人知？苟時節未至、心地不明，業",
+          "MasterName": "Shiqi Tongyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiqi Tongyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB183.xml). Recorded Sayings of Chan Master Shiqi of Xuedou. Shiqi Tongyun owns the retained deployment: cliff-standing and mud-dragging are all within one's lot — fail that, and do not wrong the old man thirty years on."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "J/J36/J36nB359.xml",
+        "X/X68/X68n1318.xml",
+        "J/J27/J27nB193.xml",
+        "J/J29/J29nB244.xml",
+        "J/J35/J35nB337.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB183.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Xingyuan",
+        "Baiyu Jingsi",
+        "Yuanwu Keqin",
+        "Yinyuan Longqi",
+        "Sanshan Denglai",
+        "Baochi Xuanzong",
+        "Tianyin Yuanxiu",
+        "Shiqi Tongyun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The wet-footed slog of the teaching life, praised, diagnosed, and owned as the price of staying down among people. Yuanwu Keqin splits the two stances: eyes on the Milky Way with no favor to human feeling, or ash-headed and mud-faced dragging water and mud — then folds them: thus-in-not-thus levels the heights, not-thus-in-thus lets go from empty space; Baiyu Jingsi, in the long rain with the stove bare and the grain gone, has Samantabhadra dragging water and mud while Manjusri sighs silently, and the hall's silent sage can only applaud the donor's snow-day charcoal; Yinyuan Longqi, leaving Huangbo after eight hard years of scolding wind and rain, verses the send-off — today I go dragging water and mud, and the twelve peaks break into smiles; and Shiqi Tongyun, closing the summer, grants the hut on the lonely peak to the hut-builder and free play at the crossroads to the player — cliff-standing and mud-dragging are all within one's lot. Baichi Xingyuan, hearing that some nose-less ones sneer behind his back that Baishan loves granny-talk, owns the slander: snatching plow and grain is idle matter — dragging water and mud gets harder and harder to watch; Sanshan Denglai, at his opening furnace, rules that question traded for question drags water and mud and raised fist and finger add nails and wedges; Baochi Xuanzong promises the step that knows high and low at first tread: it spares Sakra a fright, spares the carp its beating, frees one from dragging water and mud and from searching the road; and Tianyin Yuanxiu, leaving the mountain that took fifteen years to build, verses the departure — repaying grace has nothing to do with it, now I too go dragging water and mud, staff and hat in the wind over far mountains."
+    }
+  ]
+}

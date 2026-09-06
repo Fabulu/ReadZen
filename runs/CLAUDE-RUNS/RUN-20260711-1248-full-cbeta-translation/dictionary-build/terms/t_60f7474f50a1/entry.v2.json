@@ -1,0 +1,248 @@
+{
+  "Id": "t_60f7474f50a1",
+  "SourceTerm": "放身命處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:31:11Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the place to set body and life down",
+      "AlternateTargets": [
+        "where the whole self is staked and rested"
+      ],
+      "SearchAliases": [
+        "the resting place of body and life",
+        "where to lay the self down",
+        "the staked-life place"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 147 hits in 93 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0348a09",
+          "ToLb": "0348a23",
+          "Kwic": "故無差舛。唯餘一喝，尚要商量。具眼禪流，冀無賺舉。宣和庚子中秋日謹序。汾陽昭禪師語嗣首山汾陽昭禪師語嗣首山語要師問首山：百丈卷席，意旨如何？山云：龍袖拂開全體現。師云：未審師意如何？山云：象王行處絕狐蹤。師因此有省，拜起曰：萬古碧潭空界月，再三撈摝始應知。或問：見何道理，便爾自肯？師曰：正是我放身命處。僧問：如何是大道之源？師云：掘地覓青天。如何是祖師西來意？師云：青絹扇子足風凉。師乃云：汾陽門下有西河師子當門踞坐，但有來者即便咬殺，有何方便入得汾陽門？見得汾陽人？若見汾陽人者，堪與祖佛為師；不見汾陽人，盡是立地死漢。如今還有人入得門麼？快須入取，免得辜負平生。不是龍門客，切忌遭點額；邢箇是龍門客，",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Fenyang Shanzhao owns the root deployment — the moon of the jade pool dredged a third time, claimed as the very place he sets body and life down."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0071c25",
+          "ToLb": "0072a12",
+          "Kwic": "舉棹別波瀾。然而截斷眾流之機。則詮表不及。且如隨波逐浪底句。又作麼生道。要會麼。冬不寒﨟下看。今夜寒色憶得。僧問曹山。雪覆千山。為甚麼孤峯不白。山云。須知有異中異。僧云。如何是異中異。山云。不墮諸山色。師云。者僧問處。如雛鳳離巢不留影迹。曹山答時。似老龍退骨。脫盡廉纖。直饒千里同風。十方一色。未是衲僧放身命處。畢竟作麼生。是衲僧放身命處。神物無尋處。臺盤徹底乾。小參云。諸緣放盡。正念無私。撒手那邊。遊神真際。雲山隱隱。水月依依。堂戶深沈。機梭暗動。六窓未曉。皓然一片虛明。三際齋平。泊爾十方洞照。白牛飽於肥膩穩臥雪山。丹鳳㗸得元珠。捿遲玉樹。混融偏正。豈落有無叶路通宗。當風得妙全超就位。不落尊嚴。回互旁參。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment — the place refused to the ten-directions-one-color and then demanded, answered with the divine thing that has no find-place and the tray dry to the bottom."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0908b16",
+          "ToLb": "0909a10",
+          "Kwic": "你也須入地三尺進云某甲問栢樹子麻三斤乾屎橛入地三尺王老師別作麼生吐露師云逢人但恁麼舉進云相逢會有知音知何必清風動寥廓師云剎竿頭上仰蓮心僧禮拜。師乃云庭前栢樹子麻三斤乾屎橛粟棘蓬金剛圈以拂子擊禪牀云盡向這裏百雜碎便恁麼明得去盡十方世界是沙門一隻眼盡十方世界是箇大解脫門盡十方世界是箇真實人體盡十方世界是諸人放身命處若能如是解如是承當如是受用便能回三毒為三聚淨戒回六識為六神通回煩惱為菩提回無明為大智有時拈一枝草作丈六金身有時將丈六金身却作一枝草用譬如壯士屈臂不借他力獅子返擲東西南北初無定度妙喜恁麼舉揚於唱教門中猶較些子若向衲僧門下過更買草鞋行脚始得為甚麼如此庭前栢樹子麻三斤乾屎橛栗棘蓬金剛圈甚麼處得這消息來喝一喝。復",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment — the props broken to pieces and the whole ten-direction world granted as the eye, the release-gate, the true body, the place to set body and life down."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0159c20",
+          "ToLb": "0160a03",
+          "Kwic": "路。參禪人不得遣昏沉，若遣昏沉，則轉鬥轉多，精神疲倦，于心力極微細處不得發越，籠罩殺人，擔閣日子，極是禍事。昔高峰妙禪師三年不倒身，立死限學禪，日夜打坐，終日輥在昏沉中，愈遣愈疲，話頭轉不親切，雖為狗子無字難起疑情，未必不與昏沉作對所致。古人曰：『得者一放。』又曰：『須中夜大睡一覺。』此豈誤人語哉？參禪須到放身命處，放身命處乃識心不到處也，識心絕則真心出矣。若於種種威儀禮節周旋無失，語言酬醋照顧不差，處處用心、頭頭著意，摩挲缽杖，裝飾几筵，顧履瞻衣，遮前掩後，皆為修行障礙。故藥山曰：『我何能屑屑事布巾耶？』由此觀之，直到忘前失後，如高峰之啟鑰不扃，中單如廁，此真放身命處也。做工夫以之。」示眾。「單坐禪不看話頭，謂",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yaoshan Weiyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment — the place ruled beyond the discriminating mind, every composed posture an obstacle, and the unlocked door and lowered trousers named the true place."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0419b26",
+          "ToLb": "0419c11",
+          "Kwic": "一朝打失眼睛，方見得我與諸佛同一面孔、同一受用，是時求迷悟生死了不可得。示春巖禪人示春巖禪人此事的要過量人，方能操到徹頭處去。然而日常用心，只不可坐在無疑之地，但有一毫礙塞，畢竟不肯放過，自然日益日損，透頂透底。諦觀先聖是何標格，斷不可淺淺自待。凡是閒門破戶，必須一一踐履，直入從上老古錐，深深閫奧，方是放身命處也。勉之！示雨谷水頭示雨谷水頭六度萬行，非徒事勤苦，將以助發般若之力也。儻能善用其心，只在古人言句上奮然疑將去，閒時、忙時總是一箇疑情，不可一念暫生起滅，忽然桶底脫時，方知從前無可奈何處是我得力處。高峰大師云：「泥多佛大，水漲船高。」旨哉言乎！示秀峰禪人示秀峰禪人祖燈秋晚，慧命如絲，叢林紀綱，罕能大振。",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianyue Daozheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment — never sit in the no-doubt place, walk every broken door into the old augers' deepest chambers, and that is the place to set body and life down."
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0214c23",
+          "ToLb": "0215a06",
+          "Kwic": "麼？又難道去投太子河淹殺喚作捨麼？山僧在南塔結夏一百三十五日，不知廢了無瑕大德多少口舌，化米、化麵，腳底皮也走薄了。於今結冬第二日，又是無瑕父子領同李居士諸檀設供。大眾！怎麼食去甚是容易？你莫道念幾聲佛、誦幾句經，便消得他底麼？諸善知識，你於今直下放得下，便識得世尊當年道底，若識得世尊當年道底，便識得你現今放身命處，莫道無瑕父子，便是三十三天天子一齊跪捧微妙上供，也消受得起，不然，祗恐閻老子打算飯錢有日在。諸善知識，畢竟作麼生是你放身命處聻？」卓拄杖，云：「夜半雪飛窗外白，夢中錯認是梅花。」下座。上堂。舉：「文殊一日喚善財童子採藥，道：『是藥者，採將來。』善財遍觀大地，無不是藥，卻回白文殊云：『無有不是藥者。』文",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke owns the retained deployment — set it straight down under the rice bowl, the deva-kings' offering receivable, Old Yama's rice-account otherwise, and midnight snow mistaken for plum blossom."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0029a01",
+          "ToLb": "0029a14",
+          "Kwic": "得多少力。雖然，家有白澤之圖，必有如是妖怪。」上堂。僧問：「金剛寶劍截斷天下老和尚舌頭，和尚如何回避？」師便打，云：「可憐頑石子，徒抱連城價。」問：「如何是自性彌陀？」師云：「通身披七條。」問：「無法可說，今日說甚麼？」師云：「有條攀條，無條攀例。」乃云：「山山橫翠，物物沈秋，野樹鳴鳩，竹籬吠犬，一一是諸人放身命處，為甚桼桶不快？」复舉：「世尊在摩竭陀國說法，是時將白夏，乃謂阿難曰：『諸大弟子、天龍四眾聞我說法，不生敬仰。我於因沙舊室坐夏九旬，有人來問法，汝代我說「一切法不生，一切法不滅。」』言訖，掩室而坐。」師云：「諸方斷此公案，謂之全提正令。倘不如此，何以掩室而坐？殊不知也是萬年松下長青苔。」道府檀越至，上堂。",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment — hills, autumn things, the dove and the dog each granted as the place, and the lacquer bucket still asked after for brightness."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0046b03",
+          "ToLb": "0046b17",
+          "Kwic": "絲，救得兒曹早是遲。不許差途行古路，轉身壁立鳳凰池。」第十世汾陽昭禪師。遊方參七十餘員善知識，末後到首山，問：「百丈卷席，意旨如何？」山曰：「龍袖拂開全體現。」師曰：「師意如何？」山曰：「象王行處絕狐蹤。」師于言下大悟，云：「萬古碧潭空界月，再三撈摝始應知。」首座問曰：「見何道理，便爾自肯？」師曰：「正是我放身命處。」拈云：「恁麼悟去，也是風搖古柏。若到放身命處，且緩緩。」頌曰：「象王行處絕狐蹤，石虎南山咬大蟲。路上行人須著眼，血流遍地染山紅。」第十一世石霜圓禪師。謁汾陽，經二十年，未許入室。每見，必詬罵。一日，訴曰：「自至法席，不蒙指示。念歲月飄忽，己事未明，有失出家之利。」語未卒，汾叱曰：「是惡知識，敢裨販我",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang owns the retained deployment — the root story carried whole, then the heir slowed at the threshold: to awaken that way is wind shaking the cypress; reaching the place, take it slow."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "T/T48/T48n2001.xml",
+        "M/M59/M59n1540.xml",
+        "J/J34/J34nB299.xml",
+        "J/J29/J29nB235.xml",
+        "J/J38/J38nB407.xml",
+        "J/J29/J29nB223.xml",
+        "J/J37/J37nB371.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Shoushan Xingnian",
+        "Hongzhi Zhengjue",
+        "Caoshan Benji",
+        "Dahui Zonggao",
+        "Zhaozhou Congshen",
+        "Yunmen Wenyan",
+        "Hanyue Fazang",
+        "Yaoshan Weiyan",
+        "Gaofeng Yuanmiao",
+        "Lianyue Daozheng",
+        "Qianshan Shengren Hanke",
+        "Shanhui Huan",
+        "Foyuan Chegang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The place to set body and life down — claimed at the root enlightenment, refused to every halfway seat, and granted to the whole ten directions, from the Song case-seats to the Qing supply-halls. The root sits in Fenyang Shanzhao's own road-worn claiming — seventy teachers and more, and at the last Shoushan: rolling up the mat at Baizhang, what is the purport? the dragon sleeve brushed aside, the whole body shows; and the teacher's own meaning? where the elephant king walks, no fox trace — and at those two lines, waking: the moon of the empty sky over the ten-thousand-year jade pool, dredged a third time before it is known; asked what truth he saw that he certified himself, one answer: this is where I set body and life down; Hongzhi Zhengjue, reading the Caoshan snow-case at night discourse — snow on a thousand hills, why does the lone peak not whiten? know there is difference within difference, falling out of every mountain's color — grades the asker a fledgling phoenix leaving the nest and Caoshan an old dragon shedding bone, silk-floss all shed; and yet, a thousand li one wind, the ten directions one color — still not the patchwork monk's place to set body and life down; what, after all, is it? the divine thing has no find-place, the serving-tray dry to the bottom; Dahui Zonggao, at the general discourse, breaks the four props on the bench with the whisk — cypress in the yard, three pounds of hemp, dried shit-stick, chestnut burr, diamond ring, all smashed to pieces here — know it that way and the ten-direction world is the monk's one eye, a great gate of release, a true man's body, the place for every one of you to set body and life down; and Hanyue Fazang, instructing in the drift of the dark forces, rules the place beyond the discriminating mind — where the discriminating mind ends, the true mind comes out — while every composed posture, every attended bowl and staff and robe, is an obstacle to the working; even Gaofeng's unlocked door and trousers lowered to the privy: that is the true place, and the working is done with it. Lianyue Daozheng, writing to the Chunyan Chan man, sets the price — only an beyond-measure man works it to the head-end; never sit in the no-doubt place, refuse to pass one hair of blockage, and it grows day by day as it lessens, through crown and sole; walk every broken door and idle gate one by one, straight into the old augers' deepest inner chambers — that is the place to set body and life down; Qianshan Shengren Hanke, at the winter supply-hall in exile Liaoyang, sets it under the rice bowl — set it all straight down and you know what the World-Honored One said that year; knowing that, you know your present place to set body and life down, and not only the Wuxia father and son but the Thirty-Three Heavens' deva-kings kneeling with the finest offering could be received — otherwise Old Yama will one day call the rice-account; and what, after all, is it? snow flying white past the window at midnight, mistaken in dream for plum blossom; Shanhui Huan, in the autumn hall, spends it on the scenery itself — hills on hills banded green, every thing sinking into autumn, dove calling in the wild tree, dog barking at the bamboo fence — each and every one the place for all of you to set body and life down; and why is the lacquer bucket not bright?; and Foyuan Chegang, in the lineage nod-and-verse, carries the Fenyang root whole and then slows the heir at the threshold — to awaken that way is only wind shaking the old cypress; as for reaching the place where body and life are set down: take it slow."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "Id": "t_3358af7b6047",
+  "SourceTerm": "青黃赤白",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T10:00:08Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "blue-green, yellow, red, and white",
+      "AlternateTargets": [
+        "the four bare colors",
+        "blue, yellow, red, white"
+      ],
+      "SearchAliases": [
+        "the four colors blue yellow red white",
+        "the color catalogue",
+        "colors themselves"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 178 hits in 96 files representing 92 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0604a13",
+          "ToLb": "0604a16",
+          "Kwic": "何名摩訶？摩訶是大。心量廣大，猶如虗空，無有邊畔，亦無方圓大小，亦非青黃赤白，亦無上下長短，亦無瞋無喜，無是無非，無善無惡，無有頭尾。諸佛剎土，盡同虗空。世",
+          "MasterName": "Huineng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Huineng owns the root refusal: the mind's reach is wide as empty space — no square or round, not blue-green-yellow-red-white, no long or short, no right or wrong, no head or tail."
+        },
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0390c23",
+          "ToLb": "0391a08",
+          "Kwic": "：「塵無自性，攬真成立。作麼生是成立底事？」代云：「五尺拄杖三尺竹。」一日云：「說即天地懸殊；不說即眼睫裏藏身，眉毛上勃跳。」代云：「三三。」或云：「古人道：『一語無二語。』作麼生是一語？」代云：「早朝粥齋後茶。」師或拈起拄杖云：「是你諸人作麼生辯雲門？雲門作麼生辯你諸人？」代云：「平。」問僧：「佛法還有青黃赤白也無？」代云：「東方甲乙木，西方庚辛金。」一日云：「作麼生是塵中辯主？」代云：「道州去江華不遠。」師或云：「有一人問著口似木𣔻，有一人問著口似懸河，你道二人過在甚處？」代云：「有過即拈出。」示眾云：「叢林言話即不要，作麼生是宗門自己？」代云：「但展兩手。」或云：「迷身一句作麼生道？」代云：「何處有也！」或云",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the root exchange: does the buddha-teaching have blue-green-yellow-red-white or not? — answer given for him: east, chia-yi wood; west, keng-hsin metal."
+        },
+        {
+          "RelPath": "X/X73/X73n1445.xml",
+          "FromLb": "0008a10",
+          "ToLb": "0008a13",
+          "Kwic": "，有什麼堪共理論佛法？諸上座！應須是附近人，決擇人我，破却儱侗，識其青黃赤白，辯其是非，知其好惡，長之與短，人決定是人，天決定是天，脩羅是脩羅，脩羅中得解脫",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1445.xml). Expanded Record of Chan Master Xuansha Shibei. Xuansha Shibei owns the counter-demand: break the lump — recognize its blue-green-yellow-red-white, tell right from wrong, know good from bad — human definitely human, heaven definitely heaven, freed in each."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0532c16",
+          "ToLb": "0532c20",
+          "Kwic": "礙。二者所礙。俱礙色者。謂五根五境。能造四大。此乃總體。於中別者。即青黃赤白。此四是實。長短方圓麁細高下。若正若不正。此十是假。依實有故。名為形色。能礙於他",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "compiler",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou's Mirror owns the filing: the particulars of the obstructing forms are blue-green, yellow, red, and white — these four are real; the ten derivative shapes borrow the real and are hence called form-shapes."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0774c02",
+          "ToLb": "0774c14",
+          "Kwic": "不外此山中。」師微笑。僧從天童來，呈頌一本、行腳機緣一本，乞師印政。師曰：「若求印政，則非正也。」僧不服，無語，師斥之曰：「野狐精！處處食人涎唾，濟得甚麼事？」僧知非，乞開示求住。師令焚之，復開示。僧半月不睡，後有省。師住崆峒，座主率眾參問云：「如何是無聲聞？」師云：「鴉鳴鵲噪。」「如何是離色見？」師云：「青黃赤白。」「如何是和尚眼？」師便喝。「如何是學人心？」師云：「鑑炤。」進云：「和尚莫分別。」師哂云：「汝又向分別處作活計。」僧問：「如何是子仙禪院事？」師云：「人人鼻孔撩天。」進云：「秪如崆峒八景又作麼生？」師云：「怪石奇峰秀。」進云：「崆峒八景與子仙禪院事，是同是別？」師云：「青流落貢溪。」石鼓參，問云：「學人",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: what is the soundless hearing — crows calling, magpies chattering; what is leaving-color seeing — blue-green, yellow, red, and white."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0221c08",
+          "ToLb": "0221c12",
+          "Kwic": "，中有一寶，秘在形山。拈燈籠來佛殿裏，將山門向燈籠上。」無明有一寶，青黃赤白皁。深山開鋪席，鬧市沿門叫。賣與世間人，可憐都不要。黑漆皮燈籠，撞著呵呵笑。雲門",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: in mindless ignorance one treasure — blue-green-yellow-red-black — a stall in deep hills, hawking door to door, sold to the world's people who pitifully all refuse it."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0113a06",
+          "ToLb": "0113b09",
+          "Kwic": "如不清清不澹澹不叢叢不簇簇又作麼生良久云天上一輪滿清光何處無復云諸行者人人真心獨朗比如秋月圓明迺因雲霧氤氳翳障不得光明透露如人根塵相對便有三六一十八界纏縛不得自由何謂三六一十八界所謂六根六塵六識如眼耳鼻舌身意謂之六根色聲香味觸法謂之六塵既有六根六塵中間發起六識所謂眼識耳識鼻識舌識身識意識也眼與色對便有青黃赤白長短男女等相而起好惡心光不能透脫耳與聲對便有宮商清濁音韻言辭而起好惡心光不能透脫鼻與香對便有薰蕕穢馥腥羶等而起好惡心光不能透脫舌能嘗味便有甘肥鮮美酸醎甜淡等而起好惡心光不能透脫身能覺觸便有軟煖細滑輕重等而起好惡心光不能透脫此五根所對謂之外塵惟意識分別思慮取舍謂之內塵所以內外相應起惑造業無暫停息如蠶作",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained diagnosis: eye meets color and the four colors with long-short male-female shapes rise, the liking-hating mind-light cannot break through — the same blockage at every door, like the silkworm in its cocoon."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0339b22",
+          "ToLb": "0339c05",
+          "Kwic": "生道？鶴飛千丈雪，龍起一團冰。」擲拄杖下座。春日，孝徒道忱、道愷薦本師象埜，請上堂。師以杖擊靈案，震威一喝，云：「盡空空外是當人，眼遍河沙國體全，彰世出世間無住礙，報恩誰不露堂堂？應化迥如千江月，非離非合透陰陽，今古換衫無來去，常寂光中不覆藏。既不覆藏，即今象埜禪人在拄杖頭上全身顯露，無增減、無明暗，現前青黃赤白，人人具足，同一眼見，了了明明，天地同根，萬物一體。」復一喝，云：「等閒識得東風面，萬紫千紅總是春。是則是，分明香在梅花上，莫向梅花更覓香。」問：「和尚追薦，本師甚處安身？」師云：「夾岸桃花風雨後，馬蹄何處避殘紅？」孝徒照佑、照受為師竟九，春日請上堂。師至座前一喝云：「遇水安橋，逢場作戲，三世諸佛，無處迴",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained grant: nothing hidden in the ever-still light — the present blue-green-yellow-red-white, everyone endowed, seen with one eye, heaven and earth one root, the ten-thousand things one body."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1319.xml",
+        "J/J24/J24nB138.xml",
+        "X/X73/X73n1445.xml",
+        "T/T48/T48n2016.xml",
+        "J/J26/J26nB188.xml",
+        "J/J32/J32nB273.xml",
+        "L/L154/L154n1639.xml",
+        "J/J32/J32nB276.xml"
+      ],
+      "RelatedMasters": [
+        "Huineng",
+        "Yunmen Wenyan",
+        "Xuansha Shibei",
+        "Yongming Yanshou",
+        "Ruibai Mingxue",
+        "Qianyan Yuanzhang",
+        "Tianyin Yuanxiu",
+        "Buhui Fatong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Blue-green, yellow, red, and white: the bare palette the records argue over — what the mind is not, what must be told apart color by color, and the treasure sold door to door that nobody buys. Huineng, asked what maha is, answers with what it is like: the mind's reach is wide as empty space, without edges — no square or round, no big or small, not blue-green-yellow-red-white, no up or down, no long or short, no anger or joy, no right or wrong, no good or evil, no head or tail — the buddha-lands all one empty sky; Yunmen Wenyan, in the run of answers he gives in the monks' stead, holds up his staff — how do you tell Yunmen apart, how does Yunmen tell you apart? — level — and then puts the palette itself to the monk: does the buddha-teaching have blue-green, yellow, red, and white or not? — answer given for him: east, chia and yi, wood; west, keng and hsin, metal — the directions answering the colors; Xuansha Shibei, against those who smear everything into one lumpish suchness and call it done — the whole ten directions just my going-place, no blue-green-yellow-red-white, no light or dark, no earth-water-fire-wind — that has nothing to do with it: you must break the lump, recognize its blue-green, yellow, red, and white, tell its right from wrong, know its good from bad, its long from its short — human definitely human, heaven definitely heaven, the asuras asuras — freed in each one; Yongming Yanshou's Mirror files the catalogue: the obstructing forms are the five roots, five fields, and the four great elements that build them — the particulars are blue-green, yellow, red, and white, and these four are real, while the ten — long, short, square, round, coarse, fine, high, low, straight, crooked — are derivative shapes borrowing the real, hence called form-shapes that obstruct others and are obstructed. Ruibai Mingxue, residing at Kongtong, takes the sutra-master crowd's four questions: what is the soundless hearing — crows calling, magpies chattering; what is leaving-color seeing — blue-green, yellow, red, and white; what is the master's eye — a shout; what is the student's mind — mirror-shining — and when told not to sort them, he smiles: there you go making a living in the sorting-place; Qianyan Yuanzhang sings the treasure: in mindless ignorance there is one treasure — blue-green, yellow, red, and black — a market-stall opened deep in the hills, hawking door to door in the busy quarter, sold to the world's people who pitifully all refuse it; a black-lacquered skin lantern bumps into it with a ha-ha laugh; Tianyin Yuanxiu diagnoses the door: eye meets color and blue-green-yellow-red-white, long-short, male-female shapes rise, and the liking-hating mind-light cannot break through; ear meets sound, nose meets scent, tongue taste, body touch — the same blockage at every door, inner and outer dust corresponding without pause, like the silkworm in its cocoon; Buhui Fatong, at the memorial hall for his late teacher, strikes the table and shouts: throughout empty space and beyond it is the very person — changing robes through past and present, no coming or going, nothing hidden in the ever-still light — and since nothing is hidden, the present blue-green, yellow, red, and white, everyone endowed, seen with one eye, bright and clear, heaven and earth one root, the ten-thousand things one body."
+    }
+  ]
+}

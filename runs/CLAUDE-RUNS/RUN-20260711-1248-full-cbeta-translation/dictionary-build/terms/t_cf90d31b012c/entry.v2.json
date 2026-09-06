@@ -1,0 +1,194 @@
+{
+  "Id": "t_cf90d31b012c",
+  "SourceTerm": "莫言不道",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T08:55:27Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "don't say it wasn't said",
+      "AlternateTargets": [
+        "do not say I didn't tell you"
+      ],
+      "SearchAliases": [
+        "don't say you weren't told",
+        "let no one say it went unsaid",
+        "I have said it, don't complain later"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 239 hits in 114 files representing 109 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0369b15",
+          "ToLb": "0369c05",
+          "Kwic": "驢年得休歇麼？更有一般底，纔聞說箇休歇處，便向陰界裏閉目合眼，老鼠孔裏作活計，黑山下坐，鬼趣裏體當，便道：我得箇入路也。還夢見麼？這一般底打殺萬箇，有什麼罪過？喚作打底不遇作家，至竟祇是箇掠虗漢。你若實有箇見處，拈將來看，共汝商量。莫空過不識好惡，󳯽󳯽詷詷地聚頭說葛藤，莫教老僧見，捉來勘，不相當，槌折腰。莫言不道：汝皮下還有血麼？到處自欲受屈作麼？這滅胡種盡是野狐羣隊，總在這裏作麼？以拄杖一時趂下。從上來且是箇什麼事。如今抑不得已。且向汝諸人道。盡大地有什麼物與汝為對為緣。若有針鋒與汝為隔為礙。與我拈將來。喚什麼作佛作祖。喚什麼作山河大地日月星辰。將什麼為四大五蘊。我與麼道。喚作三家村裏老婆說話。忽然遇著本色行",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Yunmen Wenyan owns the retained deployment, warning that the huddled vine-talkers caught for examination who do not measure up will have their backs broken — don't say it wasn't said — and asking whether there is still blood under their skin, before sweeping the whole fox pack out with his staff."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0106b11",
+          "ToLb": "0107a15",
+          "Kwic": "者來劈脊便棒若患啞者來便以拂子打圓相示之今日還有三種病的麼良久迺云如無老僧今日失利。示眾師拈拄杖云老僧有時拈拄杖子不作拄杖子用有時拈拄杖子作拄杖子用有時以拄杖子行徧四天下擲向壁角落裏有時拋下拄杖子獨自打頓去也諸人者裏見得便迺會得我臨濟大師的賔中主主中賔賔中賔主中主雖然切不得動著動著一字打你頭破腦裂莫言不道驀卓拄杖歸方丈。望日示眾師云剛纔過初一又是月半了也諸人本分事作麼生會若也會得出來與老僧通個消息眾無語師遂出堂左右顧云天晴日頭出。示眾師云垂鉤四海秖釣獰龍獨步大方為尋知己賔中有主豈肯倚戶傍門主中有賔不用撒沙撒土賔主互換縱奪交馳各各有坐斷之機著著有出身之路誰是恁麼人行恁麼事大眾看舉慈明和尚見泉大道來迺",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, forbidding the brothers to touch a single word of the master-guest turns — touch one word and the head splits open — sealing the ban with the receipt, striking the staff, and returning to his quarters."
+        },
+        {
+          "RelPath": "L/L154/L154n1640.xml",
+          "FromLb": "0417a15",
+          "ToLb": "0418a03",
+          "Kwic": "現正體堂堂沒卻身乃顧視大眾喝一喝下座。晚參上堂今宵正是正月半家家點起上元燈禹門院裏家風別卻將吹滅暗中行遂吹息燭下座佇立云眾兄弟還見麼若也見得則諸暗相永不能昏若也未見高聲喚侍者云移取皮燈籠來引大眾過堂喫茶去。上堂今日禹門院裏結制須與眾兄弟一議不用眾兄弟參禪不用眾兄弟會理單單不許瞌睡若也瞌睡一棒打出骨髓莫言不道立秋上堂舉諺云朝立秋陰颼颼暮立秋熱殺秋此中大有好消息所謂治世語言皆與實相不相違背只是世間人未曾一簡點若也簡點就要會天地同根萬物一體有甚麼難眾中有曾簡點其中消息者麼一總未曾悟上座試為簡點朝暮且置不知喚什麼作秋卻說陰颼颼熱殺秋還知麼不見道不因夜來雁爭見海門秋拍香几下座。上堂舉洞山云秋初夏末兄弟東去西去直",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1640.xml). Recorded Sayings of Chan Master Miyun Wu. Miyun Yuanwu owns the retained deployment, opening the retreat with one rule — the brothers need no truth-grasping and no view-collecting, only no dozing, and the dozing get one blow driven into the bone marrow — don't say it wasn't said."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0759b11",
+          "ToLb": "0759b23",
+          "Kwic": "：「千江有水千江月。」進云：「凍灘獨立遲春信，為甚不見東風弄柳堤？」師云：「寒氣太重。」僧云：「何時得一聲嘹喨斜陽外，帶得平安書信歸？」師云：「一枝梅蕊傳消息，萬里山河享太平。」僧禮拜，師回方丈。小參。「越州一朵梅，爐峰東畔西，有人玄會得，綠竹放紅絲。會麼？會即便會，不許節外生枝。若要節外生枝，打折你驢腰。莫言不道。」有僧問：「如何是威音那畔事？」師云：「石傘峰𨁝跳。」進云：「恁麼則離家轉卻雲山外。」師云：「伶俜漢。」進云：「過在甚麼處？」師打云：「教你不要節外生枝。」僧禮拜，師回方丈。住延慶小參。「一段真風本現成，當人何必苦追尋。森羅萬象舒光彩，隨緣用處即天真。眾兄弟做工夫，不可驅昏敵散、不可斷妄求真、不可高標聖境",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment, ruling that the matter is grasped the instant it is grasped with no branches beyond the joint allowed — whoever sprouts them gets his donkey's waist broken across — don't say it wasn't said."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0047b25",
+          "ToLb": "0047c11",
+          "Kwic": "脫塵禪人神光二祖初見達磨大師，某心未寧，乞師安心，大師云：「將心來與汝安。」「覓心了不可得。」「與汝安心竟。」試問爾等：曾恁麼一回也未？若恁麼，何用取我求實？示等持禪人示等持禪人具足住山氣岸，痛與「生死」二字如遠蛇虎，畢竟步步蹋在潔白地上，左窺右盼，并無舉心動念生恐怖處，即此定當到家消息，一棒打折驢腰，莫言不道。示瞿止禪者示瞿止禪者北道來者禪不參、道不學，只要老僧寫篇語句、寫幾箇字以當生平，誠然是邯鄲學步，自醜不知。老僧萬不得已，厚著面皮說兩句以了來意：棒打石人頭，嚗嚗論實事。示含明禪人示含明禪人儒宗尚要十年窗下九載熬油，況我釋門亦要六度萬行，始可不負為人來天地間走一回，作箇出格漢子。若然如是，一般苦志徹頭",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, certifying that the recluse who shuns the two words of birth-and-death like snakes and tigers treads spotless ground with no dread stirring, and settling the homecoming news with one blow across the donkey's waist — don't say it wasn't said."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0276a30",
+          "ToLb": "0276b13",
+          "Kwic": "不肯歸家穩坐、捨父逃走，只顧貪圖義句知解、廣念文詞，弄口頭騙嚇人道：『我是某處付法禪師、善知識，我通宗通教，會作詩作文。』被人問著，不是盲枷瞎棒，便是東曳西纏，將合頭語抵對，或廣引教典，增長稠林。理解稍通，急忙付拂子手卷，籠罩好人，隨例顛倒。他時牛頭阿旁將銕索穿你鼻孔繫著，愛河橋下鐵蛇鐵蛆鑽你肚腸有分。莫言不道。神鼎者裏也不圖你攢集，不希人讚嘆。雖則昔時被陽山授老賊將衣拂塗污一上，只是箇赤條條地精窮赫赤漢，亦不是什麼善知識，也沒有什麼佛法，無知無解，饑來化飯喫，冷則募衣穿。莫道臨濟兒孫，即使活臨濟大師到來，也則只可與山僧作箇洗腳奴子。黃面老兒是箇擔糞漢、捉死蛇的手，三乘十二分教盡是釣蝦蟆的香餌，六度萬行是蝦蟆衣",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment, reading the fake teachers their after-fate — the ox-headed escort's iron rope through the nostrils, iron snakes and maggots boring the belly under the love-river bridge — and closing the reckoning with the receipt."
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0693b05",
+          "ToLb": "0693b18",
+          "Kwic": "？」師云：「燈籠頭觸地。」進云：「覷後如何？」師云：「露柱尾朝天。」善禮拜。師云：「九八六十七，蝦蟆鑽象鼻；六九七十三，烏龜上樹顛，惟有向上難委悉。一二三四五，六七八九十，生數成數不相十，衲僧切忌知端的。」卓一卓云：「習！」順治乙未，師受請住夔州府梁山縣興龍禪院，結制上堂。拈香畢，維那白槌，師擲下拄杖云：「莫言不道。」便下座。楊副戎請上堂。「相逢一笑，乃是作家，列陣排兵，未為好手。與興龍作麼相見？」僧問：「單刀直入時如何？」師云：「險！」僧便喝，師亦喝，僧又喝，師云：「苦哉佛馱耶！」僧作禮，師云：「草賊大敗。」問：「和尚慣向異類中行，成得甚麼邊事？」師云：「今日不與交鋒。」進云：「剖腹剜心即不無，如何得完本體去？」",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment, letting the monitor's mallet finish, dropping his staff with the one receipt — don't say it wasn't said — and descending before a word of the address could begin."
+        },
+        {
+          "RelPath": "J/J38/J38nB408.xml",
+          "FromLb": "0263c29",
+          "ToLb": "0264a12",
+          "Kwic": "業、如是懺摩，不須噴嚏一聲，三門前土地與金剛揩背，一擦骨出。雖然如是，且道是九十日內事？是九十日外事？若簡點得出，許爾受迦絺那衣，五事便利；其或未然，少林晏坐客，不是壁觀婆羅門。珍重！」長至日，師云：「譬如眼光不自見眼，譬如虛空不自說空。諸兄弟！直饒牛頭沒、馬頭出，猶較金剛七步在。今日隨順世間赴箇時節，莫言不道。」下座。臘月初八日，師云：「釋迦老子云：『一切眾生具有如來智慧德相，但以妄想執著，不能證得。』諸兄弟！喚甚麼作智慧德相？又喚甚麼作妄想執著？」豎拂子，云：「者箇是智慧德相，討一點妄想執著，消息不可得。復豎拂子，云：者箇是妄想執著，討一點智慧德相消息不可得。還知麼？所以，古人道：『會則途中受用，不會則世諦",
+          "MasterName": "Azi Jinwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Azi Jinwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Chan Master Aziwa of Haichuang. Azi Jinwu owns the retained deployment, ruling that even with ox-heads sinking and horse-heads rising the matter still falls seven steps short of the vajra, then granting the season its observance and filing the day under the same receipt before descending."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "L/L154/L154n1639.xml",
+        "L/L154/L154n1640.xml",
+        "J/J26/J26nB188.xml",
+        "J/J26/J26nB177.xml",
+        "J/J33/J33nB280.xml",
+        "J/J29/J29nB244.xml",
+        "J/J38/J38nB408.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Tianyin Yuanxiu",
+        "Miyun Yuanwu",
+        "Ruibai Mingxue",
+        "Poshan Haiming",
+        "Yunwai Xingze",
+        "Sanshan Denglai",
+        "Azi Jinwu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The receipt formula of the Chan hall: a demand or a stated penalty stamped as already said — don't say it wasn't. Yunmen Wenyan warns the assembly that the huddled vine-talkers caught for examination who do not measure up will get their backs broken — don't say it wasn't said, is there still blood under their skin — Tianyin Yuanxiu turns his staff through its four uses and forbids the brothers to touch one word of it: touch a word and the head splits, don't say it wasn't said, and he strikes the staff and returns to his quarters, Miyun Yuanwu opens the retreat with a single rule — no dozing, or one blow drives into the bone marrow — don't say it wasn't said — and Ruibai Mingxue rules the matter grasped the instant it is grasped, no branches beyond the joint, whoever sprouts them gets his donkey's waist broken across, don't say it wasn't said. Poshan Haiming certifies to the recluse Dengchi that treading the pure-white ground settles the homecoming news — one blow across the donkey's waist, don't say it wasn't said — Yunwai Xingze reads the counterfeit heirs their after-fate, the ox-headed escort's iron rope through the nostrils, iron snakes and maggots boring the belly, and closes the reckoning — don't say it wasn't said — Sanshan Denglai lets the monitor's mallet finish at his installation seat, drops his staff with the one receipt and descends before a word of the address can begin, and Azi Jinwu, ruling that even with ox-heads sinking and horse-heads rising the matter falls seven steps short of the vajra, grants the winter-solstice season its observance and files the day under the same receipt."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "Id": "t_501eecc4f10c",
+  "SourceTerm": "不覺不知",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T07:56:35Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "unaware and unknowing",
+      "AlternateTargets": [
+        "without ever noticing"
+      ],
+      "SearchAliases": [
+        "unaware",
+        "without knowing",
+        "never noticing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 188 hits in 100 files representing 97 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0556c25",
+          "ToLb": "0557a12",
+          "Kwic": "之渺瀰。攝歸毛孔。用須彌之高廣。內入芥中。飛佛土於十方。未移本處。擲大千於界外。含識莫知。日月懸於毫端。供具現於體內。腹納劫燒之焰。火事如然。口吸十方之風。身無損減。斯皆自心轉變。不動而遠近俄分。一念包容。無礙而大小相入。天台疏云。以須彌之高廣。內芥子中。無所增減。須彌山王本相如故。而四天王忉利諸天。不覺不知己之所入。唯應度者。乃見須彌入芥子中。是名不可思議解脫法門。又以四大海水入一毛孔。不嬈魚鼈黿鼉水性之屬。而彼大海本相如故。諸龍鬼神阿脩羅等。不覺不知己之所入。於此眾生。亦無所嬈。此是明不思議之大用也。正以實慧與真性合。故得有斯莫測之用。此如大智論偈云。水銀和真金。能塗諸色像。功德和法身。處處應現往。若須",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment, leaving the dragons and asuras unaware of entering the pore-ocean in his mind-only argument."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0351c08",
+          "ToLb": "0351c22",
+          "Kwic": "諸佛放光明，助發實相義。竪起拄杖，云：者箇是南源拄杖子，阿那箇是實相義？你若見去，被見聞所轉；若也不見，行脚眼在什麼處？喝一喝。吾有一言，絕慮忘緣。巧說不得，只要心傳。更有一語，無過直與。且道作麼生是直與一句？良久，以拄杖劃一劃，喝一喝，下座。竪起拄杖，云：恒沙諸佛、恒沙國土被南源拄杖子一時吞却，其中眾生不覺不知，你衲僧鼻孔在什麼處？若也知得，橫擔拄杖，目視雲霄；若也不知，長連牀上有粥有飯。卓拄杖。受道吾請，云：先寶應道：第一句薦得，堪與祖佛為師；第二句薦得，堪與人天為師；第三句薦得，自救不了。若是道吾即不然，第一句薦得，和泥合水；第二句薦得，無繩自縛；第三句薦得，四稜榻地。所以道：起也，海晏河清，行人避路；坐也",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Shishuang Chuyuan owns the retained deployment, swallowing the Ganges-sand buddhas and lands with his staff while their beings stay unaware."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0790a14",
+          "ToLb": "0790b08",
+          "Kwic": "暗中坐他在明處見你明與暗喻凡聖迷悟虗空之性喻自家本地風光本來面目虗空明暗日月循環有晝有夜日沒之時虗空不曾暗日出之時虗空不曾明自家本地風光亦不曾明亦不曾暗自家本來面目亦不曾迷亦不曾悟迷悟在眾生一念間一念迷便受沉淪一念悟當體寂滅所以法華經云我今為汝保任此事終不虗也無常迅速生死事大念念做好事尚恐遲豈況塵勞業識不覺不知剎那造罪殃墮無間一失人身萬劫不復你看諸佛菩薩道眼觀眾生造罪可驚可怖眾生被日用塵勞只管輥將去只見眼前受用之具喚作樂眾生顛倒迷己逐物諸佛菩薩喚作苦然眾生顛倒造業受苦本無自性只在當人迷之與悟若以智慧照破善惡都不可得所以道善惡如浮雲於中無起滅古人又道具足凡夫法凡夫不知具足聖人法聖人不會聖人若會即是凡夫凡夫若知即是",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, warning that the dust-laden mind sins unaware for an instant and drops into the unrelieved depths."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0712a01",
+          "ToLb": "0712a15",
+          "Kwic": "未到涅槃。又不可遽言箇無遷無變底道理。既隨遷變則即今遷向何法界中。變作甚麼頭面。便從這裏不相知處。奮起一片猛利决定不退轉身心。向自己躬下。提起箇所叅底話頭。孜孜而叅。密密而究。遺寒遺暑忘寢忘飡。胷中念念如撞著鐵壁相似。只與麼一礙礙住。更不要前思後筭。今日也與麼。明日也與麼。久久不移易。將見情祛識謝塵盡念消不覺不知驀然撞透。便見他三人於未出母胎時。早行脚了早叅禪了早成佛了早如是而往了。直下更教喚誰為病者。誰為死者。誰為迷者。誰為叅禪行脚及了悟者。緫是夢言皆名剩語。由是永嘉謂。了了見無一物。亦無人亦無佛。大千沙界海中漚。一切聖賢如電拂。審如是能與五百年外老永嘉同時。如是了了見得一回。則永嘉說底即我所說。永嘉見底即我所",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, promising that feelings shed and dust drain away until the striver breaks through unaware."
+        },
+        {
+          "RelPath": "T/T48/T48n2009.xml",
+          "FromLb": "0373b24",
+          "ToLb": "0373c11",
+          "Kwic": "。得否。虛空但有名。亦無相貌。取不得捨不得。是捉空不得。除此心外覓佛。終不得也。佛是自心作得。因何離此心外覓佛。前佛後佛只言其心。心即是佛。佛即是心。心外無佛。佛外無心。若言心外有佛。佛在何處。心外既無佛。何起佛見。遞相誑惑。不能了本心。被他無情物攝。無自由分。若又不信。自誑無益。佛無過患。眾生顛倒。不覺不知自心是佛。若知自心是佛。不應心外覓佛。佛不度佛。將心覓佛。而不識佛。但是外覓佛者。盡是不識自心是佛。亦不得將佛禮佛。不得將心念佛。佛不誦經。佛不持戒。佛不犯戒。佛無持犯。亦不造善惡。若欲覓佛。須是見性。性即是佛。若不見性。念佛誦經持齋持戒亦無益處。念佛得因果。誦經得聰明。持戒得生天。布施得福報。覓佛終不",
+          "MasterName": "Bodhidharma",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2009.xml). Six Gates of Shaoshi. The Bloodline Treatise owns the retained deployment, laying the fault on beings inverted and unaware of their own mind as the buddha."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0388c16",
+          "ToLb": "0389a05",
+          "Kwic": "處嚲。某不因夙習般若，安能智悟無師？如今到裏許，方知千萬中實難淘一二。古佛今佛，藏教顯然，有大慈悲，碎身難報。東西二土得法祖師，撮略玄機，直明心印，不立文字，竪拂拈槌，只蠢動見聞，齊登正覺。問：聰明多智，久參方而猶尚難聞，豈可蠢動含靈，一聞見而便能覺悟？華嚴經云：一切諸佛於一微塵眾生心中成等正覺，而其眾生不覺不知。又云：一切眾生是諸佛之果源。善男子，莫作是說。經云：蠢動含靈，皆一佛性耳。所以佛說華嚴經云：我初成道之時，於自身中見一切眾生悉皆成道；我入涅槃時，見一切眾生盡入涅槃。如一眾生未成佛，終不於此取泥洹，無非真得道人，在處含靈獲益。金剛經云：在在處處，若有此經，一切世間天、人、阿修羅所應供養。當知此處則為是塔",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu owns the retained deployment, quoting the Garland so that every buddha wakes inside one dust-mote's beings while they stay unaware."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0448c16",
+          "ToLb": "0448c30",
+          "Kwic": "塵起、雲騰鳥飛，皆為諸人顯揚第一義諦。若也會得，便可歸家穩坐。雖然如是，劫火洞然，大千俱壞，且道：第一義諦在甚麼所在？」卓拄杖云：「不是苦心人不知。」上堂。「鶯化為鳩眼在，魚化為龍鱗在，凡化為聖心在。」拈拂子云：「拂子化為天大將軍，無在不在。有時把此世界擲於他方世界中、有時把他方世界向此世界安著，其中眾生不覺不知。」擊拂子云：「天大將軍復化為拂子，此世界原依此世界住、他世界原依他世界住，未常動著一絲頭。何以見得？曠劫至今日，從來不變遷。」擲拂子，下座。臘八上堂。「巖頭道：『從門入者，不是家珍。須向自己胸襟流出，方始蓋天蓋地。』大眾！秪如世尊睹明星成道，還是從門入耶？胸襟流出耶？若道從門入者，埋沒先聖；若道胸襟流出",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment, tossing this world into another with its beings never noticing, then setting both back where they stood."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0696a27",
+          "ToLb": "0696b11",
+          "Kwic": "禪、講、律原是一法，亦在善誘者隨宜互換，以新人之心，使其銳志而克功。觀音一門自明教、大慧、知禮之後，疲之久矣！若亡也，就其所亡而起之，豈非新歟？所以新之一字難言也。淨土一門幸雲栖大師起之；觀音一門為此方切體之教，何未見人拈掇耶？衡根器下劣，眾中糠秕，但髫年嬉戲愛供養觀世音菩薩。十二歲持齋後，凡遇恐懼事，不覺不知念觀世音菩薩。彼時不知其然，後日追思不從人教而自能者，誠宿緣所使，既有宿緣而又下劣者，信是多生罪業感集此生乃爾。十四歲出家、十九歲上五臺山，依師子窟空印大師習聽經論。二十二過南方，初住天台，但讀《楞嚴經》，從前未經大師決擇，所有疑礙都在此《經》中破之。又詳此《經》勝玅重在耳門圓通，從聞、思、修入三摩地，矧",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, remembering that the frightened child called on Avalokitesvara before anyone taught him."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "X/X68/X68n1318.xml",
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml",
+        "T/T48/T48n2009.xml",
+        "X/X69/X69n1356.xml",
+        "J/J26/J26nB182.xml",
+        "J/J28/J28nB219.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Shishuang Chuyuan",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Bodhidharma",
+        "Pu'an Yinsu",
+        "Wanru Tongwei",
+        "Zhuanyu Guanheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The fixed sutra negative for all a being fails to register, from moving worlds to its own mind-buddha. Yongming Yanshou, quoting the Tiantai commentary in his Mirror, leaves the dragons and asuras unaware of entering the pore; Dahui Zonggao warns that the dust-laden mind, unaware and unknowing, sins for an instant and drops into the unrelieved depths; the Bloodline Treatise in the Bodhidharma attribution lays the blame squarely: the buddha has no fault, beings inverted and unaware call anything but their own mind the buddha; and Zhuanyu Guanheng remembers that as a frightened child he would, unaware and unknowing, call on Avalokitesvara before anyone taught him. Shishuang Chuyuan's staff swallows the sands-of-Ganges buddhas and lands at one gulp, their beings unaware, while he demands to know where the patch-robed nose is; Zhongfeng Mingben promises that when feelings shed and dust drains away, the striver breaks through unaware and finds the three men already footloose before birth; Pu'an Yinsu quotes the Garland so that every buddha wakes inside one dust-mote's beings while those beings stay unaware; and Wanru Tongwei's whisk tosses this world into another with its beings never noticing, then sets both worlds back where they always stood."
+    }
+  ]
+}

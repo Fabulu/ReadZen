@@ -1,0 +1,197 @@
+{
+  "Id": "t_d9f68b799404",
+  "SourceTerm": "水邊林下",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T09:33:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "by the water, beneath the trees",
+      "AlternateTargets": [
+        "at the water's edge under the trees"
+      ],
+      "SearchAliases": [
+        "water's edge, tree shade",
+        "hermit streamside",
+        "the retired hermit ground",
+        "streamside grove"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 125 hits in 81 files representing 81 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X63/X63n1257.xml",
+          "FromLb": "0763c07",
+          "ToLb": "0763c21",
+          "Kwic": "，謂之功課，於世法中，亦是好事，參究分中，當得甚麼事？古德云：切莫向他機境上求。謂禮佛是機境，求懺是機境，佛法中一切好事，悉機境也。不是教你不行此一切善事，但用心一處，此一切善事，悉能助發，滋培善根，他日道眼忽開，燒香掃地，皆佛事耳。做工夫，疑情發不起，便欲散誕去，便欲活潑去，逢人則自歌自舞，自歡自樂，或水邊林下吟咏笑談，或市井街坊橫行直撞，自謂是箇了事人。見善知識開叢林，立規矩，或坐禪，或念佛，或行一切善事，則撫掌大笑，生輕慢心，謗凟心。自不能行道，障人行道；自不能𮘗經禮懺，障人諷經禮懺；自不能參禪，障人參禪；自不能開叢林，障人開叢林；自不能說法，障人說法。凡有善知識出世，設幾個難問，向人天眾前多答一句，多問一",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1257.xml). Boshan's Chan Admonitions. Wuyi Yuanlai owns the retained deployment, the counterexample: the idler laughs and chats by the water beneath the trees and calls himself finished."
+        },
+        {
+          "RelPath": "J/J25/J25nB159.xml",
+          "FromLb": "0137c06",
+          "ToLb": "0137c20",
+          "Kwic": "用不著也。山僧雖說到此，猶恐滑在可畏可畏，有志之士得聞此說便著精彩，看他古人做功夫得何三昧，臨行如是自由自在？不可只似鴨聽雷鳴而已。「山僧從初學道以至於今三十餘年，單單在此事上用心，尋常東考西究窮盡幽微深知弊病，乃吾苦口叮嚀汝等，後來若得入頭處，切忌草草便去弄虛頭，為人之師，誤己誤人為害非小。須效古人且向水邊林下，保養聖胎，待時龍天推出，方可為人，則自利利人無往不可也。至囑至囑！「且做工夫提話頭一著或看『無』字，要緊在因甚狗子無佛性？因甚道無？趙州意作麼生無？畢竟意作麼生無吽？這兩句子上著力。或看萬法歸一，要緊在『一』歸何處。一歸何處？畢竟一歸何處吽？這兩三句子上著力。或參究念佛，要緊在念佛底是誰。念佛底是誰？畢",
+          "MasterName": "Dufeng Shan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dufeng Shan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB159.xml). Essential Sayings of Chan Master Tianzhen Dufengshan. Dufeng Shan owns the retained deployment: go first to the water's edge beneath the trees, nurse the holy embryo, wait to be pushed forth."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0758a25",
+          "ToLb": "0758b08",
+          "Kwic": "為他得入的人，急轉一篙，不容坐住，坐著則墮坑落塹矣。敷文試回光返照，果得一念萬年，冷湫湫地，如石霜首座燃起香來，脫得去否。果得內外純清，絕鮮瑕垢，秋空片月，萬里無雲，如雪峰做飯頭時，砂米一齊去否？誠然如此，許你得到半途，須知有百尺竿頭進步一著。若祗是塵勞暫息，終有起時，與他一念不生尚隔遠在。古人得手後，水邊林下長養聖胎，或向異類中行，入水入泥，自由自在，理須頓悟，事以漸除。譬諸牧牛，切忌犯他國王水草，四十年打成一片，除二時粥飯無雜用心，此是何等操持？何等行履？學道如鑽火，逢煙漫罷休，直待金星現，歸家始到頭。勉之而已。楊翰林、李駙馬後，西江逆流，寥寥絕響。敷文因病得閒，直請問到家消息，吾助汝喜。何日入山？豎起脊梁，",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: after the ancients got their hand, the water's edge beneath the trees nursed the embryo — forty years beaten into one."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0469b16",
+          "ToLb": "0469c01",
+          "Kwic": "卻炙脂帽相似。若終日識心紛飛，觸境不能忘情，雖坐禪床上，如猢孫繫露柱，敢保血肉團包裏無位真人、妄想坑埋沒自家寶藏，縱得透脫，猶是枯樁邊事，況未得透脫耶？學道須以高遠為期，苟不至於大悟，不可隨情生滅放縱身心，及離了真正明眼師匠，別圖去就、建立生涯，作半路抽身漢，如渡海人牢把風柁到岸方休。古人喫折腳鐺中飯，向水邊林下保養聖胎，是諦當後事，直須打徹一迴頂天立地，可以與祖佛奪權衡、可以與人天作眼目，斯乃大乘菩薩發心，真不負出家之志矣！心地未明，開口即錯，縱有高論，非是定見。居學地者不可輕易持論古今得失，但當存疑，俟他日道眼明白，方可決定是非邪正。眼前有一毫順境來迎我，不可過生歡喜，當觀如夢幻空花，快意後一場懡㦬；眼前",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin owns the retained deployment: the broken-legged pot and the water's edge are the business after certainty — but first smash through once."
+        },
+        {
+          "RelPath": "J/J33/J33nB284.xml",
+          "FromLb": "0431b27",
+          "ToLb": "0431c10",
+          "Kwic": "，主賓互用。且道得甚麼人證明？露柱𥅄眼睛；燈籠笑破口。」上堂。僧問：「如何是真佛？」師云：「普！」「如何是真法？」師云：「怕！」「如何是真道？」師云：「直！」乃云：「祖佛行不到處行取一步，三家村、五里舖；祖佛說不到處說取一句，融四歲，能讓梨。大眾！如今行說俱到，不但孤峰頂上嘯月眠雲、鬧熱場中冰絲玉管，正好水邊林下、聚落城隍便與麼去。還知麼？白鷺下田千點雪；黃鸝上樹一枝花。」密化、允目二上座請上堂。「到得者裏，行也好，呼則應、舞則跳；住也好，窮廝煎、餓廝炒。我愛趙州老，壁上挂胡蘆；我愛善財老，信手拈來草。其餘說甚麼？更有不眠人，莫道君行早。」闊修上座請就法界菴，上堂。「夜來天柱峰與拄杖子論議：『道觀仁者善能濟時扶危",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB284.xml). Later Record of Chan Master Yezhu of Mount Song in Yizhou. Yezhu Fuhui owns the retained deployment: lonely peak or hot marketplace — just right, by the water beneath the trees, in hamlet and town-wall, go thus."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0542c03",
+          "ToLb": "0542c15",
+          "Kwic": "寬。蓮宮佛剎花無數，眨起眉毛仔細看。』」師拈云：「眨起眉毛仔細看，天堂地獄任君安。百骸未散當先取，莫待臨時撒手難。」舉：「肇法師道：『天地同根，萬物一體。』」師拈云：「座主那裏得這消息。灼然天何言哉，萬象懸懸；地何言哉，森羅鮮鮮。陰陽言哉，時之傳傳；空谷言哉，應之綿綿。咄！秖如衲僧分上合作麼生？一缽千家飯，水邊林下閒。」舉：「南泉、歸宗、麻谷三人同去見忠國師。至中途，南泉就地畫一圓相，云：『道得則去。』歸宗坐圓相裏，麻谷作女人拜。泉云：『恁麼則不去也。』」師拈云：「三大老雖同條生，不同條死，各各有箇出身之路。然三人中有一人堪為師法，若人擇得出，許你具參學眼。」舉：「僧問汾陽：『如何是祖師西來意？』陽云：『青絹扇子足",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: one bowl of a thousand households — idle by the water beneath the trees."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0008a11",
+          "ToLb": "0008a25",
+          "Kwic": "似落花。犬吠只疑門有客，原來竹裏有人家。大眾！且道：是甚麼人家？還是彭澤五柳，還是右丞輞川？山僧只是不能忍事，往往向人道破，放年籤相似，不管人要不要送上門來。然一生止有者點熱腸，別無長處。倒弔起來，要點墨水也無。昨日受請，勉強打點得幾句，及乎陞座，卻一字也忘了。罷罷罷，休休休，四十餘年早白頭，破衲勝重裘，水邊林下得優游處且優游，青目睹人少，白眼笑王侯，殘霞落盡前峰外，又見飛鴻過渡頭。雲門云：『六不收。』」上堂。「鐘鳴鼓響下堂來，鬱鬱慚惶撥不開，若問舊時閒骨董，風吹黃葉滿蒼苔。大眾！古往今來列聖相傳，原秖得這些子，間或倚門傍戶，沾著纖毫氣息，便好驟千里追風之馬，展鵬搏六息之翼。火不能焚，水不能溺，入軍不避甲兵，入林",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: wherever the water's edge beneath the trees gives ease, take your ease — the white eye laughs at lords."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0130c03",
+          "ToLb": "0130c17",
+          "Kwic": "卓拄杖，云：「大眾！還聞麼？既聞矣，更不聞；既見矣，更不見。見聞如空華，萬法了一電，突出大好山，滿目難分辨。更擬問如何，惡水當頭濺。」喝一喝。上堂。「去年雷峰夏九十，今夏丹霞一百二，一任諸人顛倒顛，跳不出雲門乾矢橛。乾矢橛，棒頭有眼明如日。打得著，驪龍拗角折；打不著，木馬追風疾。」上堂。「一二三，四五六，水邊林下，千足萬足，一回喫撲，青黃赤綠，切忌撞著孟八郎，打你驢頭嚗嚗。何以故？黑漆盤裏，不分麥菽。」長至，上堂。「內含陽曜，外積陰霾。仁智見同，百姓日用。天地蔽塞，元氣潛藏。人事希夷，萬機休謝。大眾安住，正在此時。一念瞥興，轉見淆亂。」上堂。卓拄杖左右顧，云：「元是舊年人，卻看新曆日，曆日年年新，儂渠刻刻故。既刻",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: one two three, four five six — by the water beneath the trees, a thousand feet' worth, ten-thousand feet' worth."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X63/X63n1257.xml",
+        "J/J25/J25nB159.xml",
+        "J/J33/J33nB294.xml",
+        "J/J27/J27nB198.xml",
+        "J/J33/J33nB284.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB189.xml",
+        "J/J38/J38nB406.xml"
+      ],
+      "RelatedMasters": [
+        "Wuyi Yuanlai",
+        "Dufeng Shan",
+        "Liangting Jingting",
+        "Yingshan Zhiyin",
+        "Yezhu Fuhui",
+        "Tianyin Yuanxiu",
+        "Sanyi Mingyu",
+        "Tianran Hanshi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "By the water, beneath the trees — the hermit ground the tradition names in four graphs, where the holy embryo is nursed, the finished traveler rests, and, in one warning, the idler hides. Dufeng Shan's open talk to the assembly: when you finally find your entry point, do not rush off playing hollow tricks as a teacher, misleading yourself and others — copy the ancients: go first to the water's edge beneath the trees, nurse the holy embryo, and wait for the dragons and heavens to push you forth; only then teach; Liangting Jingting, instructing the ailing layman through the oxherding image: after the ancients got their hand they nursed the holy embryo by the water and trees, or walked among other kinds, entering water and mud, free and at ease — principle needs sudden awakening, affairs are shed stepwise; forty years beaten into one, apart from the two porridge-times no other use of mind; and Yingshan Zhiyin, in his night-talk warnings: the ancients ate from the broken-legged pot and went to the water's edge beneath the trees to nurse the holy embryo — that is the business after certainty — one must first smash through once, standing between heaven and earth, to wrest the scales from the patriarchs and buddhas and be eyes for humans and gods. Yezhu Fuhui: walking a step where patriarchs and buddhas cannot walk, speaking a word where they cannot speak — now that walking and speaking are both arrived at, not only howling at the moon on the lonely peak or the silk-and-pipe of the hot marketplace — just right, by the water beneath the trees, in hamlet and town-wall, go thus; Tianyin Yuanxiu, after appraising Sengzhao's root-and-body saying, snaps: on the patch-robed one's ledger, what then? — one bowl of a thousand households, idle by the water beneath the trees; Sanyi Mingyu, invited to Roar Mountain, sings himself: enough, enough — forty-odd years and the head already white; the torn robe outdoes heavy furs; wherever the water's edge beneath the trees gives ease, take your ease — few meet the blue-eyed gaze, the white eye laughs at lords; and Tianran Hanshi, hall talk: one two three, four five six — by the water beneath the trees, a thousand feet's worth, ten-thousand feet' worth; one tumble and the green-yellow-red shows — only beware colliding with Meng the Eighth, who'll whack your donkey's head with a crack; why? In the black-lacquered dish, wheat and beans are not told apart. And the warning: Wuyi Yuanlai's admonitions describe the man whose doubt will not fire, who wants to go loose and lively, singing and dancing for whoever comes, or laughing and chatting by the water beneath the trees, or swaggering through the market lanes, calling himself a finished man — who sees a knowing teacher open a monastery and set the rules and claps his hands and laughs with scorn; the admonition keeps the place honest: without the doubt fired, the water's edge is only scenery."
+    }
+  ]
+}

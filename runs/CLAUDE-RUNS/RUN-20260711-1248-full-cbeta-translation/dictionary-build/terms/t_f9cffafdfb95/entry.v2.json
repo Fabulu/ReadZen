@@ -1,0 +1,220 @@
+{
+  "Id": "t_f9cffafdfb95",
+  "SourceTerm": "一切時中",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T08:58:37Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "in every moment, at all times",
+      "AlternateTargets": [
+        "through every hour",
+        "all times alike"
+      ],
+      "SearchAliases": [
+        "at all times",
+        "in every time",
+        "throughout all times"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 190 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1985.xml",
+          "FromLb": "0496c29",
+          "ToLb": "0497a15",
+          "Kwic": "思得一頓棒喫，誰人為我行得？」時有僧出眾云：「某甲行得。」師拈棒與他，其僧擬接，師便打。上堂，僧問：「如何是劍刃上事？」師云：「禍事，禍事。」僧擬議，師便打。問：「秖如石室行者，踏碓忘却移脚，向什麼處去？」師云：「沒溺深泉。」師乃云：「但有來者不虧欠伊，總識伊來處。若與麼來，恰似失却；不與麼來，無繩自縛。一切時中莫亂斟酌，會與不會都來是錯。分明與麼道，一任天下人貶剝。久立珍重。」上堂，云：「一人在孤峯頂上，無出身之路；一人在十字街頭，亦無向背。那箇在前？那箇在後？不作維摩詰、不作傅大士。珍重。」上堂，云：「有一人論劫在途中不離家舍、有一人離家舍不在途中，那箇合受人天供養？」便下座。上堂，僧問：「如何是第一句？",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1985.xml). Recorded Sayings of Chan Master Huizhao of Linji, Zhenzhou. Linji Yixuan owns the retained deployment: whoever comes is not shortchanged, and yet no idle sorting-out in any moment — understanding or not, it is all wrong, and the whole world may strip it off him."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0634b20",
+          "ToLb": "0634c14",
+          "Kwic": "是自心作那得文字中求如今但識自心息却思惟妄想塵勞自然不生淨名云唯置一牀寢疾而臥心不起也如人臥疾攀緣都息妄想歇滅即是菩提如今若心裏紛紛不定任你學到三乘四果十地諸位合殺秖向凢聖中坐諸行盡歸無常勢力皆有盡期猶如箭射於空力盡還墜却歸生死輪廻如斯脩行不觧佛意虗受辛苦豈非大錯誌公云未逢出世眀師枉服大乘法藥如今但一切時中行住坐臥但學無心亦無分別亦無依倚亦無住著終日任運騰騰如癡人相佀世人盡不識你你亦不用教人識不識之心如頑石頭都無縫罅一切法透汝心不入兀然無著如此始有少分相應透得三界境過名為佛出世不漏心相名為無漏智不作人天業不作地獄業不起一切心諸緣盡不生即此身心是自由人不是一向不生秖是隨意而生經云菩薩有意生身是也忽若未會無",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Huangbo Xiyun owns the retained deployment: in every moment, through the four postures, aim only at no-mind — dumb-faced and drifting all day, like a man the world does not know."
+        },
+        {
+          "RelPath": "T/T48/T48n2008.xml",
+          "FromLb": "0348c05",
+          "ToLb": "0348c19",
+          "Kwic": "修，有大利益。』令門人炷香禮敬，盡誦此偈，即得見性。門人誦偈，皆歎善哉。「祖，三更喚秀入堂，問曰：『偈是汝作否？』秀言：『實是秀作，不敢妄求祖位，望和尚慈悲，看弟子有少智慧否？』祖曰：『汝作此偈，未見本性，只到門外，未入門內。如此見解，覓無上菩提，了不可得；無上菩提，須得言下識自本心，見自本性不生不滅；於一切時中，念念自見萬法無滯，一真一切真，萬境自如如。如如之心，即是真實。若如是見，即是無上菩提之自性也。汝且去，一兩日思惟，更作一偈，將來吾看；汝偈若入得門，付汝衣法。』神秀作禮而出。又經數日，作偈不成，心中恍惚，神思不安，猶如夢中，行坐不樂。「復兩日，有一童子於碓坊過，唱誦其偈；惠能一聞，便知此偈未見本性，雖未",
+          "MasterName": "Huineng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Shenxiu",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2008.xml). Platform Sutra of the Sixth Patriarch. Huineng owns the retained deployment: supreme awakening must see its own mind at the word's fall — thought after thought in every moment, ten thousand things unblocked, one true and all true."
+        },
+        {
+          "RelPath": "X/X63/X63n1218.xml",
+          "FromLb": "0002b02",
+          "ToLb": "0002b06",
+          "Kwic": "解答汝？汝若無心，因何解問吾？問吾即是汝心，從無始曠大劫以來，乃至施為運動，一切時中，一切處所，皆是汝本心，皆是汝本佛。即心是佛，亦復如是。除此心外，終無別佛可得。離此心外，覓",
+          "MasterName": "Bodhidharma",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1218.xml). Master Bodhidharma's Treatise on Bloodline. Bodhidharma owns the retained deployment: from the farthest past to every act and move, in every moment and every place, it is your own original heart and original buddha — nothing else to be found."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0615b17",
+          "ToLb": "0615b22",
+          "Kwic": "心處，汝等勤而行之。溈山和尚示眾云：夫道人之心，質直無偽，無背無面，無詐妄心行，一切時中，視聽尋常，更無委曲，亦不閉眼塞耳，但情不附物即得。從上諸聖，只是說濁邊過患，若無如許多惡覺情見",
+          "MasterName": "Guishan Lingyou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the Eye of the True Teaching. Guishan Lingyou owns the retained deployment: the practitioner's heart plain and unfeigned, sight and hearing ordinary in every moment, neither eye shut nor ear stopped — only let feeling not stick to things."
+        },
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0374b24",
+          "ToLb": "0374c11",
+          "Kwic": "：「是。」師云：「你驢年夢見灌溪麼？」僧云：「某甲話在。」師云「我問你十方無壁落，四面亦無門，淨裸裸，赤灑灑，沒可把。你道大梵天王與帝釋商量箇什麼事？」僧云：「豈干他事？」師喝云：「遂隊喫飯漢。」陳尚書問雲居供養主云：「雲居高低於弟子。」主無語。尚書問師，師云：「尚書莫教話墮。」師在嶺中時，問一老宿：「一切時中如何辯明？」老宿云：「喚什麼作一切時中？」師云：「釋迦老子道了也，彌勒猶自不知。」又見一老宿上堂云：「若是商量舉覺，如當門利劍相似，一句下須有殺活始得。」師出眾云：「和尚上堂多時，大眾歸堂。」老宿云：「道什麼？」師云：「日月易流。」師在嶺中順維那處，起彼時問：「古人豎起拂子，放下拂子，意旨如何？」維那云：",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment: asked-back what he would even call an every-moment, he answers that Sakyamuni has already said it and Maitreya still does not know."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0047b09",
+          "ToLb": "0047b22",
+          "Kwic": "便下座。上堂。「五日一參諸方舊例，明發頭陀舌如秤錘，逗到檀信臨門，便乃推托不開。嘴吧吧地，不說心、不說性，不說直指禪、不說靈山記，秪為當人說箇日用便宜底事。且如何是便宜底事？諸惡莫作，眾善奉行，騰騰任運，無黨無爭，西風刮浪如雷吼，穩坐虛舟夢亦寧。」復舉臨濟示眾云：「若與麼來，恰似失卻；不與麼來，無繩自縛。一切時中莫亂斟酌，會與不會都來是錯，分明與麼道，一任天下人貶剝。」元叟端云：「若與麼來，無繩自縛；不與麼來，恰似失卻。一切時中，切宜斟酌會與不會，莫錯，莫錯。分明與麼道，是甚秦時𨍏轢？」師云：「山僧則不然，若與麼來，未曾失卻；不與麼來，何嘗自縛？一切時中，隨分斟酌會與不會，絲毫不錯。分明與麼道，大有人笑我水潦鶴。」",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Yuansou Xingduan",
+              "Roles": [
+                "later-quoter"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: not forbidden sorting, not forced sorting — in every moment sort it out as it comes, not a hair wrong, and let them laugh at the water-owl."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0138c18",
+          "ToLb": "0139a01",
+          "Kwic": "妄，還出得者箇麼？何不向者裏一切永息？雖然如是，截斷天下人舌頭則不無，爭教無舌人解語？」以竹篦敲案，云：「無舌人解語也，汝諸人還聞麼？」小參。「者箇猶不是，況復張三李？真空與非空，將來不相似，了了如目前，不容毫髮擬。」豎拂子，云：「可惜許。」小參。「大眾！此事無有形段，亦無指示。汝但不於一切境上起分別心，一切時中不為諸虛妄覺想流轉，應事接物不庸安置，亦無自見之地。到者裏，祇要你自甘自休。此自甘自休，一切人天二乘所不能窺，諸佛諸祖亦奈何不得。是你自受用三昧，還肯麼？」歸堂。除夕，小參。「臘月三十日來也，諸人作麼生？」卓拄杖，云：「歲月已窮，人事暫息，見聞不到，思慮未萌，到者裏將謂別有安排處，豈知清明、端午、中秋、重",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: not carried around by false thoughts and dreamt-up notions in any moment, answering affairs without setting anything up — until one gladly rests."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1985.xml",
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2008.xml",
+        "X/X63/X63n1218.xml",
+        "X/X67/X67n1309.xml",
+        "J/J24/J24nB138.xml",
+        "J/J28/J28nB202.xml",
+        "J/J38/J38nB406.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Huangbo Xiyun",
+        "Huineng",
+        "Shenxiu",
+        "Bodhidharma",
+        "Guishan Lingyou",
+        "Dahui Zonggao",
+        "Yunmen Wenyan",
+        "Baichi Xingyuan",
+        "Yuansou Xingduan",
+        "Tianran Hanshi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The all-times locator: no special hour — what is asked of the learner is asked in every moment alike. Linji Yixuan tells the hall that whoever comes is not shortchanged — yet do not go sorting it out wrongly in any moment, for understanding or not understanding, it is all wrong, and let the whole world strip it off him; Huangbo Xiyun in the Wanling record says: in every moment, in walking, standing, sitting, lying, aim only at no-mind, with no sorting, no leaning, no lodging, drifting dumb-faced all day like a man no one knows; Huineng tells the verse-writer that supreme awakening must see its own mind at the word's fall, thought after thought in every moment, ten thousand things unblocked, one true and all true; the bloodline treatise of Bodhidharma answers the no-mind questioner: every act and every move, in every moment and every place, is your own original heart, your own original buddha. Guishan Lingyou's assembly instruction, kept in Dahui's treasury, sets the practitioner's heart plain and unfeigned — sight and hearing ordinary in every moment, eyes not shut, ears not stopped; Yunmen Wenyan on the road asks an old host how to make things out in every moment, gets the question thrown back — call what an every-moment? — and answers that Sakyamuni has already said it and Maitreya still does not know; Baichi Xingyuan turns Linji's old address over with Yuansou Xingduan's comment and rules his own: in every moment sort it out as it comes, not a hair wrong; Tianran Hanshi tells his assembly not to be carried around by false thoughts and dreamt-up notions in any moment, answering affairs without setting anything up."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "Id": "t_3a5daeab0e3f",
+  "SourceTerm": "東語西話",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:15:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "talk east and west",
+      "AlternateTargets": [
+        "talk this way and that",
+        "pour out loose talk in every direction"
+      ],
+      "SearchAliases": [
+        "east talk and west talk",
+        "scattered everyday speech",
+        "the summer's talk"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 144 hits in 91 files representing 86 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0598a22",
+          "ToLb": "0598b10",
+          "Kwic": "如何是一句後事。師云。兩陣相逢不迴避。恁麼則透皮徹骨去也。師云。橫拕倒拽任塵漫。終不敢辜負和尚。師云。至孝是重華。問一毫穿眾穴時如何。師云。萬里絕纖毫還許學人蕩除也無。師云。有即須除遣無即莫施功。恁麼則依理行之。師云。理即如是作麼生行。僧以脚振地。師云。見前知音者更不在人通。師云。諸方老宿。事不獲已。東語西話。爾等將謂。合恁麼地。廣陳詞說。各競聚頭。不眠不睡。道我參尋。爾擬向那裏參。古人云。向外作功夫。總是癡頑漢。快須信取。不用久立。珍重。上堂云。當明對暗。應物舒光。萬別千差參羅一貫。還有照不著處麼。有即對眾決擇。親明取好。僧問。親切處請師指示。師云。㖿。此意如何。師云。天牓樣。問如何是正法眼。師云。已曾",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained dismissal: the old hosts everywhere, compelled by circumstance, talk east and talk west; you lot suppose it should be just so — spreading words wide, competing to gather in knots, going without sleep, saying 'I am seeking' — where do you plan to seek? the ancients said: doing the work outward marks the fool outright; believe it quickly; no need to stand long; take care."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0054c19",
+          "ToLb": "0055a09",
+          "Kwic": "云：這野狐精。常侍云：這漢徹也。師云：若不酬價，爭辨真假？便恁麼見得徹去，便知米胡與王常侍有主賓互換之機，闡啐󲣅同時之用。苟或尚留觀聽，更為頌出：賓主機先有路通，筆端不是判虗空。筯頭再運回天力，千聖齊教立下風。小師德言先做道士再為僧請普說小師德言：先做道士再為僧，請普說。昨日徒弟德言炷香請就五參，時為眾東語西話，是日適當明慶祈禱，於是就今晚小參，為了此事。然德言本先為道士，便知有此事，特來南方見尊宿辨此事。往年來蔣山相聚，自念頭腦不相似，何日得一度牒為僧，以陪廣眾？遂以此意白寶公，庶祈加護。若遂此心，必為蔣山之徒弟。山僧是時適丁旱澇眾少，遂令其入僧堂辨道，其純一無雜，視聽言動無一絲毫不在規矩繩墨之中，雖久歷叢林",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained narrative: yesterday the disciple Deyan burned incense and asked for the five-station talk, and at the time I talked east and west for the assembly; that day chanced to fall on the Mingqing prayers, so this evening's small gathering was set to settle this matter — and the address then traces Deyan's road from Daoist to monk, through Jiangshan to the full ordination."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0307a18",
+          "ToLb": "0307b08",
+          "Kwic": "外三山，片月輝輝而少逢明鑑。切忌情存向背，隄防見處偏枯，不應口苦心甜，何必唇寒齒冷？欲發明第一義諦，須大開不二法門。截流之機，豈在有句無句？談天之辯，元來是精識精。若非摩詰忘言，爭顯曼殊本意？索甚說樹倒藤枯，句歸何處？也不消賣布，單買草鞋，向禪床角重來舉似。不見道：但有言說，俱無實義。故於第二門頭，許汝東語西話。頌曰：空劫前時曠路閑，聲前無句信人難。欲窮滄浪白雲曲，且看石人露半顏。師云：一人發真歸源，十方世界悉皆消殞，何必直待空劫前時而已哉？若肯言辭路絕，分別意窮處，優游放曠，廓落幽閑，聲音未發已前，箇裏本無言句，求人取信，端的為難。欲窮其源，擬探其底，若滄浪之深，似白雲之遠，曲高和寡，聽者還稀。不如向真淨界中",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linquan Conglun",
+              "Roles": [
+                "commentator",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan's Commentary on Touzi Qing's Verses on Ancient Cases: Empty Valley Collection. Linquan Conglun owns the retained gloss: have you not heard — wherever there is speech there is no real meaning; therefore at the second gate-head he permits you the east-talk and west-talk. Verse: the open road before the empty aeon; before sound there is no phrase, and trust in others is hard; to exhaust the white-cloud song of Canglang, just watch the stone man show half his face."
+        },
+        {
+          "RelPath": "X/X70/X70n1393.xml",
+          "FromLb": "0539b05",
+          "ToLb": "0539b19",
+          "Kwic": "，汝又入深村。解夏，小參。教流像季，去聖時遙，土曠人稀，言多道遠，欲得摧邪顯正，故須託境依人，人境既以一如，道業自然成辦。山僧九十日已前與汝諸人同一安居，九十日已後與汝諸人同一自恣，行住坐臥、語默動靜與諸人初無絲毫間隔，若是宗乘邊事，未甞蹉口道著。何故？雙峰不曾引人落草。復舉：翠岩參和尚示眾云：一夏與兄弟東語西話，看翠岩眉毛在麼？頌云：翠岩眉毛在不在？山未為高海未深。一曲無絃千古意，相逢誰是好知音？解夏，上堂。鵝護雪，臘人冰，此地無金二兩，俗人沽酒三升。拍禪牀，堪笑暮雲歸未合，遠山無數碧層層。上堂，舉：雪竇和尚偈云：三分光陰二早過，靈臺一點不揩磨，貪生逐日區區去，喚不回頭爭奈何？師云：膏肓之疾固不足以發藥，然雙峰",
+          "MasterName": "Pingshi Rudi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pingshi Rudi",
+              "Roles": [
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Cuiyan Lingcan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1393.xml). Recorded Sayings of Chan Master Pingshi Rudi. Pingshi Rudi owns the retained raising: Cuiyan Can, instructing the assembly, said — all summer I talked east and west with you brothers; are Cuiyan's eyebrows still there? — and his own verse answers: are Cuiyan's eyebrows there or not? the mountain is not yet high, the sea not yet deep; one tune without strings, a thousand ages of meaning — when we meet, who is the true friend of the sound?"
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0038b23",
+          "ToLb": "0038c11",
+          "Kwic": "幸老僧愚徒雪公收為弟子，刊老僧全錄善書，手筆點畫頗精，然而老僧布施一金又不如布施一言以佳其志俟。異日相撞時，奉上三十棒。且道是賞伊？罰伊？示佛語禪人示佛語禪人禪道佛法，非是前人不了殃及後人，即當喜怒哀樂處、行住坐臥時，看是阿誰主宰，忽地裏覷破，伸手原在縮手裏。示徹骨禪人示徹骨禪人雪笠雲瓢，放身天地，東語西話，朝參暮請，是我衲僧本分事。然雖如是，要且不是祖師西來意。示谷音禪人示谷音禪人立雪斷臂，不知有寒；衝風破暑，不知有熱。此正是為道忘軀，非木石謂也。有谷音禪人欲老僧法語，只向伊道：「莫妄想。」示月宗禪人示月宗禪人打口鼓子說禪說道，播弄腥羶快，驢唇馬觜道短論長者，是無意話，總沒交涉。只在日用尋常一動一靜看",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained instruction: snow hat, cloud gourd, setting the body free between heaven and earth; talking east and west, morning inquiry and evening calling — that is my patched-robe's own affair; and yet even so, it is still not the meaning of the Founder's coming from the west."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0028a25",
+          "ToLb": "0028b08",
+          "Kwic": "入蛇阬中坐臥，雲峰向虎穴裏遊戲。蝎不能螫，蛇不能毒，虎不能措其爪牙，果然玅手。據山僧判斷，趙州也無洗缽盂話，雲門縱有畫蛇之筆，向甚處添足？還是雲峰入地獄，此僧入地獄？」拍案一下云：「山僧今日將三大老頂相光明，神通玅用，拈向諸人面前，漆桶不快。」喝一喝云：「萬山紫翠煙嵐裏，濃淡浮沈畫不成。」普說。「連日來東語西話打一返，觀八萬四千毛孔，根根卓立。且道病在何處？」良久，云：「作賊人心虛。」復云：「山僧病處，惟我自知。諸兄們何不自體貼看？莫只南去北來東奔西討，學得些些以當平生。及乎被山僧輕輕拶著，蝦蟆禪也跳兩跳，總沒箇絲線脈絡。曾記陸亙大夫問南泉云：『肇法師也大奇，解道天地與我同根，萬物與我一體。』泉指庭前牡丹云：『時",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained self-diagnosis: for days on end I have talked east and west one round through; watch the eighty-four thousand pores, each root standing upright — say, where does the sickness lie? a long pause, then: the thief's heart is guilty — and the address runs on: my sick place I alone know; why do you brothers not feel it out for yourselves?"
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0214b30",
+          "ToLb": "0214c11",
+          "Kwic": "天暑，請和尚歸方丈。」師云：「恁麼則攜手同歸也。」林無語，師云：「又是一尊。」西堂出，禮拜云：「某甲願隨和尚去。」師云：「爾作麼生去？」進云：「鍋湯裏添火，冰山裏澆水。」師云：「情知爾去不得。」復云：「大眾！人人成佛，不肯相救，只得倩拄杖相救去也。」卓拄杖，下座。解制，上堂。舉：「翠巖和尚道：『一夏與諸兄弟東語西話，看翠巖眉毛在麼？』長慶云：『生也。』雲門云：『關。』保福云：『作賊人心虛。』大眾，你看他古人恁麼酬唱，可謂一盲引眾盲。」遂以手撥眉毛，云：「且喜，且喜。賴是山僧一夏與諸兄弟並不曾東語西話。」下座。上堂。卓拄杖，云：「諸善知識！放下著。」復卓一下，云：「諸善知識！放下著。」又卓一下，云：「諸善知識！放下著。",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "later-raiser",
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Cuiyan Lingcan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke owns the retained reversal: Cuiyan said — all summer with you brothers, talking east and west; are Cuiyan's eyebrows still there? — Changqing: born; Yunmen: a bar; Baofu: the thief's heart is guilty — look at the ancients answering so: one blind man leading a crowd of blind; then he brushed his eyebrows with his hand: how fortunate, how fortunate — it was well that this mountain monk, all summer with you brothers, never once talked east and west."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0270b20",
+          "ToLb": "0270c03",
+          "Kwic": "界作如此廣大佛事、說如此難信之法，甚為希有。釋迦如來度未盡底眾生，今日被你一網打盡，快活，快活。」乃震聲一喝，下座。解制，上堂。橫按拄杖，云：「諸方解制正月半，神鼎何如早一旬？破院難支鹽米盡，禪和猶把散昏論，巨海不堪蚯蚓渡，乘時收網地天新。還有薦得此意者麼？不見昔日翠巖令參禪師解夏示眾云：『一夏來為眾兄弟東語西話，看翠巖眉毛在麼？』古人雖則一期方便，直是光前絕後，後人往往向眉毛上著倒，大不唧溜。神鼎一冬亦為眾兄弟東語西話，且道還有一句子到諸人分上也無？好大眾！諸方參得的、學得的，皆是印板上打來、模子中脫出。神鼎遮裏雖則向你道：開口也打、不開口也打。且道：是有指示？無指示？今日恁麼道，明日又不恁麼了；你不恁麼時，我",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "later-raiser",
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Cuiyan Lingcan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained winter repeat: of old Cuiyan Lingcan at the summer's end instructed the assembly — all summer I talked east and west for you brothers; are Cuiyan's eyebrows still there? — the ancients' device for one season was truly glory before and never after, yet later folk keep toppling over on the eyebrows, utterly undiscerning; Shending too, all winter, has talked east and west for you brothers — say, is there one sentence that reaches your share?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1992.xml",
+        "X/X70/X70n1376.xml",
+        "X/X67/X67n1303.xml",
+        "X/X70/X70n1393.xml",
+        "J/J26/J26nB177.xml",
+        "J/J27/J27nB189.xml",
+        "J/J38/J38nB407.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Chijue Daochong",
+        "Linquan Conglun",
+        "Pingshi Rudi",
+        "Cuiyan Lingcan",
+        "Poshan Haiming",
+        "Sanyi Mingyu",
+        "Qianshan Shengren Hanke",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "East talk and west talk: a whole summer of speech staked against a pair of eyebrows — and the winter that asks whether one sentence of it reached anyone. Fenyang Shanzhao, in the hall: the old hosts everywhere, compelled by circumstance, talk east and talk west; you lot suppose it should be just so — spreading words wide, competing to gather in knots, going without sleep, saying 'I am seeking' — where do you plan to seek? the ancients said: doing the work outward marks the fool outright; believe it quickly; no need to stand long; take care. Chijue Daochong, in a general address: yesterday the disciple Deyan burned incense and asked for the five-station talk, and at the time I talked east and west for the assembly; that day chanced on the Mingqing prayers, so this evening's small gathering was set to settle the matter — and he traces Deyan's road from Daoist to monk. Linquan Conglun, glossing in the Empty Valley Collection: have you not heard — wherever there is speech there is no real meaning; therefore at the second gate-head he permits you the east-talk and west-talk; verse: the open road before the empty aeon; before sound there is no phrase, and trust in others is hard; to exhaust the white-cloud song of Canglang, just watch the stone man show half his face. Pingshi Rudi, at the end-of-summer small gathering: Cuiyan Can, instructing the assembly, said — all summer I talked east and west with you brothers; are Cuiyan's eyebrows still there? — his own verse answers: are the eyebrows there or not? the mountain is not yet high, the sea not yet deep; one tune without strings, a thousand ages of meaning — when we meet, who is the true friend of the sound? Poshan Haiming, charging the monk Chegu: snow hat, cloud gourd, setting the body free between heaven and earth; talking east and west, morning inquiry and evening calling — that is my patched-robe's own affair; and yet even so, it is still not the meaning of the Founder's coming from the west. Sanyi Mingyu, in a general address: for days on end I have talked east and west one round through; watch the eighty-four thousand pores, each root standing upright — say, where does the sickness lie? a long pause — the thief's heart is guilty; my sick place I alone know; why do you brothers not feel it out for yourselves, instead of running south and north learning bits to pass for a lifetime? Qianshan Shengren Hanke, at the end of retreat: Cuiyan said — all summer with you brothers, talking east and west; are Cuiyan's eyebrows still there? — Changqing: born; Yunmen: a bar; Baofu: the thief's heart is guilty — one blind man leading a crowd of blind; then he brushed his eyebrows: how fortunate, how fortunate — it was well that this mountain monk, all summer with you brothers, never once talked east and west. Yunwai Xingze, at the end of winter: of old Cuiyan Lingcan instructed the assembly at the summer's end — all summer I talked east and west for you brothers; are Cuiyan's eyebrows still there? — the ancients' device for one season was glory before and never after, yet later folk keep toppling over on the eyebrows; Shending too, all winter, has talked east and west for you brothers — say, is there one sentence that reaches your share?"
+    }
+  ]
+}

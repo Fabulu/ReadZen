@@ -1,0 +1,201 @@
+{
+  "Id": "t_40b359c787ed",
+  "SourceTerm": "一動一靜",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:09:03Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "each stirring and each stillness",
+      "AlternateTargets": [
+        "every motion and every rest"
+      ],
+      "SearchAliases": [
+        "in motion and at rest",
+        "each movement and stillness",
+        "stirring and resting alike"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 157 hits in 87 files representing 87 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0529c06",
+          "ToLb": "0529c19",
+          "Kwic": "箇入處，還契大顛也無？師云：家醜莫外揚。進云：青山不鎻長飛勢，滄海合知來處高。師云：無錢沽酒。僧禮拜，師云：何不進語？師乃舉：教中道：若以色見我，以音聲求我，是人行邪道，不能見如來。乃喝一喝，云：諸人還聞麼？要且不是聲。提起袈裟角，云：諸人還見麼？要且不是色。既不向聲色上辨，向什麼處見如來？若道二六時中一動一靜、一語一默、折旋俯仰處見如來，即是認賊為子；若道不向二六時中動靜語默、折旋俯仰處辨，正是癡狂外邊走。到者裏若是明眼漢，瞞它一點不得。豈不見本仁和尚道：尋常不欲向聲前句後鼓弄人家男女，要且聲不是聲、色不是色。時有僧出問：如何是聲不是聲？仁云：喚作色得麼？曰：如何是色不是色？仁云：喚作聲得麼？且道為你說、答你話",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, banning both the locating of the thus-come one in each stirring and stillness and the refusal to discern him there."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0958b05",
+          "ToLb": "0958b21",
+          "Kwic": "瞎却鎮州一城人眼去在。保壽擲下拄杖歸方丈。師云。二尊宿。美則美矣。若要扶臨濟正宗。每人各欠一頓棒在。且道。那裏是他欠處。具擇法眼者。試定當看。上堂。佛說一切法。為度一切心。我無一切心。何用一切法。既無心。又無法。山河大地。甚處得來。見聞覺知。復是何物。乃喝一喝云。臨崖看滸眼。特地一場愁。上堂。一進一退。一動一靜。須信那伽常在定。一擒一縱。一殺一活。四方八面話鱍鱍。嘉州大象喫鹽多。陝府鐵牛添得渴。若作佛法商量。喫鐵棒有日在。上堂。知幻即離。不作方便。以拂子左邊擊一下云。向遮裏薦取。離幻即覺。亦無漸次。以拂子右邊擊一下云。向遮裏薦取。一人發真歸元。十方虛空。悉皆消殞。以拂子中間劃一劃云。向遮裏薦取。烏巨葛藤。盡被",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment, stringing the pairs on the hall seat with the naga trusted ever in composure."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0224c20",
+          "ToLb": "0225a10",
+          "Kwic": "眾中有下得毒手底，為我拈却。若也拈得，許諸人十二時中有箇安樂處；若拈不得，香自至鼻，亦謂之偷。上堂。今朝七月一，明朝七月二，一日是一日，幾箇知慚愧？顧視大眾，云：有麼？有麼？乃搖手，云：不是，不是。謝新舊知事并監收，上堂：靜中有動，動中有靜，然於動靜之間無有分別，而不見絲毫動靜之相。動靜之相既不可得，則一動一靜、一出一入、一放一收、一進一退，無非神通光明、游戲解脫之處。既然如是，只如默時說、說時默，獅子吼、野犴鳴，野犴鳴、獅子吼，畢竟是分不分？良久：會麼？洞庭山下水，南嶽嶺頭雲。重九，上堂。重陽九月九，箇箇盡知有。喫了茱萸茶，多是眉頭皺。唯有陶靖節，獨歡顏解道。採菊東籬下，悠然見南山。雖然，俗氣不除。瑞慶節，上",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment, ruling that once the shapes of stirring and stillness cannot be found, each of the pairs is nowhere other than the playground of the uncanny light and freedom."
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0093a04",
+          "ToLb": "0093a17",
+          "Kwic": "急走過，三千里外逢人不得錯舉。既然如是，因什麼到者裏三間茅屋一請便行？良久，云：劒為不平離寶匣，藥因投病出金缾。師在長蘆辭眾僧，問：師今欲入紅塵去，臨岐相別意如何？師云：黃葉紛紛古路頭。進云：自慚多逆順，不得從師行。師云：著上芒鞋未是遲。進云：特把一聲歸去笛，夜深吹過汨羅江。師云：又却恁麼去也。師乃云：一動一靜，似野鶴之翱翔；或卷或舒，如浮雲之聚散。休分南北，豈有去來？道人之心亦復如是。若恁麼也，便乃紅塵閙市，虎穴魔宮，觸處皆渠，無往不利。青山綠水，頗稱幽情；紅蓼白蘋，頓光行色。便請輕帆高挂，短槳頻搖，一句臨岐，不勝珍重。師於八月十七日入院，便歸方丈，踞座云：摩竭當年獨掩關，銀山鐵壁莫追攀。如今大施門開也，魔佛休",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained deployment, likening each stirring and stillness to the wild crane's wheeling and the clouds' gathering — no north or south, no coming or going."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0758a19",
+          "ToLb": "0758b09",
+          "Kwic": "力呌，無人應；盡力喝，無人知。當時諸人政在夢中，今日諸人眼開，老僧却當說夢。第一、不許作說夢會；第二、不許作實法會。是什麼？床下泥猫兒，咬破銕酸餡。打鼓，上堂。入室據座，舉揚般若，提唱宗乘，且拈過一邊著。老僧從早起下床，屙屎送尿，洗面漱口，撥火燒香，和南問訊，喫粥喫飯，呼童掃落葉，臨水看遊魚，一語一默，一動一靜，將諸人本命元辰恣意賣弄，晝夜六時未嘗間歇。如今百億須彌山聚在諸人眼睛裏，百億香水海灌在諸人耳孔中，諸人猶來者裏嫌少在。臨濟云：我在黃檗先師處喫六十痛棒，如蒿枝拂相似。師云：好箇頑皮癩骨，不知痛痒底麤漢。何似近代兒孫，箇箇皮下有血，動著他絲毫不得也。奇哉！即此用，離此用，馬祖百丈少賣弄。越格超宗有一機，說",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment, running his whole day out loud and hawking the assembly's life-lord through each word, silence, stirring, and stillness without pause."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0212c20",
+          "ToLb": "0213a03",
+          "Kwic": "掃地時、喫粥喫飯時、阿屎送尿時，未嘗不與諸人眉毛廝結，性命相負，的的舉揚，又要打大鼓、升法座、做模打樣作甚麼？適來禪客與麼問，老僧與麼答，如此問答，如此激揚，汝諸人這一句子還分曉也未？若分曉，父母未生前面目亦分曉；父母未生前面目分曉，四大分散後底事亦分曉；四大分散後事分曉，即今日用事亦分曉；即今日用事分曉，一動一靜，一語一默，一起一倒，一生一死，生也與麼，死也與麼。生死中有佛，則不迷生死；生死中無佛，則無生死。與麼則無有不分曉底時節。所以道：『十方世界是箇老僧，盡十方世界是箇法座，盡十方世界是箇院子，盡十方世界是你諸人自己，盡十方世界只是這一句子。』這一句子明得，無有不明底句子；這一句子透得，無有不透底道理。前故",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment, tying each stirring and stillness to birth and death — living just so, dying just so."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0231c16",
+          "ToLb": "0232a02",
+          "Kwic": "橫說豎說，剎說塵說，山僧所謂一拂一喝處，縱橫獨步，千變萬化，種種奇特。你學者聞山僧說，不得作無事種種著到。古德云：「學者看千處萬處，不如實看一處。若看破一處，則千處萬處自然一一透過。」山僧說箇譬喻，此事如鳥抱卵，孜孜于動靜處不失所抱。抱來抱去，時節忽至、殼漏子七零八落，中間跳出箇活潑潑的來，便能知其饑飽、一動一靜，久久羽力皆全，又是一番無礙，南北縱橫，高低遠近，飛騰任意。確然之理，千經萬論也只與麼說，除此再無別事較量。不然縱通三藏窮盡五車，及餘諸子百家，若不死心故工夫，有箇悟門，總是外事。《華嚴經》云「如人數他寶，自無半錢分。」山僧也曾討經論、學機緣，到這裏都無用處。川老云：「欲知端的意，北斗面南觀。」透過，殼漏",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment, hatching the bird on the clutch of stirring and stillness until the lively one knows hunger and fullness and flies where it will."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0186c14",
+          "ToLb": "0186c26",
+          "Kwic": "。「出鄉半月餘，眼睛對鼻孔，囊中無一物，拾得個骨董，送入常住中，庫司供大眾，莫作佛法商量，休作世諦儱侗。」召眾云：「既不許作佛法商量，又不作世諦儱侗，畢竟如何理會聻？」卓拄杖云：「步行踏斷流水聲，大地山河掌握中。」復舉：「高峰云：『盡十方世界是個缽盂，汝等諸人喫粥喫飯也在裡許，屙屎放尿也在裡許，行住坐臥乃至一動一靜總在裡許。若也識得，達磨大師只與你做得個洗腳奴子；若也不識，二時粥飯將甚麼喫參？』」師云：「白蓮則不然，盡十方世界雖是個缽盂，喫粥喫飯也不在裡許，屙屎放尿也不在裡許，行住坐臥乃至一動一靜俱不在裡許。若人識得，達磨大師與汝做個同參；若也不識，燒茶用水，炊飯用米，喫得屙得，福不思議。」僧問：「為尋知己即不問，格",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment, ruling the porridge and rice, the walking and sitting, each stirring and stillness all not in the bowl of the world, with Bodhidharma as fellow traveler for the one who knows."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1359.xml",
+        "T/T47/T47n1999.xml",
+        "X/X70/X70n1382.xml",
+        "X/X73/X73n1451.xml",
+        "X/X70/X70n1403.xml",
+        "J/J32/J32nB273.xml",
+        "J/J25/J25nB163.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Ying'an Tanhua",
+        "Mi'an Xianjie",
+        "Wuzhun Shifan",
+        "Cishou Huaishen",
+        "Tianru Weize",
+        "Qianyan Yuanzhang",
+        "Guting Shanjian",
+        "Daxiu Zhu",
+        "Gaofeng Yuanmiao"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A paired unit naming each stirring and each stillness of the day, listed beside its sibling pairs and ruled on wherever the records locate the working. Ying'an Tanhua rules that to say the thus-come one is seen in the twelve double-hours' each stirring and stillness, word and silence, turn and bow is taking the thief for a son — and to say he is not discerned there is madness running outward; Mi'an Xianjie strings the pairs on the hall seat — one advance one retreat, one stirring one stillness, trust the naga ever in composure — with one seize one release, one kill one quicken, the Jiazhou elephant salt-heavy and the Shanfu iron bull thirsty; Wuzhun Shifan, before the assembly, holds that once the shapes of stirring and stillness cannot be found, each stirring and stillness, exit and entry, release and gather, advance and retreat is nowhere other than the playground of the uncanny light and freedom; and Cishou Huaishen, taking leave of the assembly, likens it to the wild crane's wheeling and the floating clouds' gathering and scattering — no north or south, no coming or going, the wayfarer's heart just so. Tianru Weize runs his own day before the assembly — rising, washing, porridge, sweeping leaves, watching the fish, one word one silence, one stirring one stillness — hawking the assembly's life-lord without pause through the six watches of day and night; Qianyan Yuanzhang ties it to the one sentence: today's doing clear, then each stirring and stillness, word and silence, rise and fall, birth and death — living just so, dying just so; Guting Shanjian hatches his bird on it — brooding without losing the clutch through stirring and stillness until the shell falls apart and the lively one hops out knowing hunger and fullness, feathers whole, flying where it will; and Daxiu Zhu, reversing Gaofeng Yuanmiao's bowl of the world, rules the porridge and rice, the dung and water, the walking and sitting, each stirring and stillness all not in it — know that and Bodhidharma becomes one's fellow traveler; miss it and one boils tea with water and cooks rice with rice."
+    }
+  ]
+}

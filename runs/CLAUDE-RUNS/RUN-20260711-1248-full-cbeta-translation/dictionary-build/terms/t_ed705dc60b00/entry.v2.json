@@ -1,0 +1,174 @@
+{
+  "Id": "t_ed705dc60b00",
+  "SourceTerm": "到即不點",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T11:30:42Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "arrived, and so not pointed out",
+      "AlternateTargets": [
+        "arrival leaves nothing to point to"
+      ],
+      "SearchAliases": [
+        "once arrived no pointing",
+        "arrival without indication",
+        "to arrive is to leave the pointing behind"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 108 hits in 76 files representing 74 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0692c06",
+          "ToLb": "0692c23",
+          "Kwic": "不開。上堂云。不得春風華不開。箇箇道我會。會即且致。作麼生舉。代云。時人相師。又云。空劫已前徒指注。空劫之後錯商量。正當空劫什麼人為主。代云。本是將軍致太平。有時云。太平本是將軍致。莫錯認定盤星。我為拈了也。還會麼。代云。掩面。出去。或云。交鋒兩刃。要定生死。彼此無傷。功勳不立。作麼生是將軍正令。代云。到即不點。或云。到即不點。還甘也無。代云。赤心片片。有時云。釋迦老子出氣不得。甚麼處誵訛。代云。填溝塞壑。又代云。退身三步。問云。填溝塞壑負恩者多。甚處見老底。代云。香積世界。或云。五千四十八卷。止啼之說。如今啼止也。還我黃葉來。代云。事不孤起。有時云。事不孤起。爾也分一半。代云㖿。又云。合到某甲。又云。單傳",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. The root deployment — the general's true command answered as arrived-not-pointed, and the raised follow-up — does arrived-not-pointed satisfy you? — answered with red heart, shard on shard."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0912b21",
+          "ToLb": "0912c15",
+          "Kwic": "子擊禪床下座。上堂僧問浩浩之中如何辨主師云波斯入閙市進云與麼則不假披沙也師云學語之流僧便禮拜師云語不離巢道焉能出蓋纏片雲橫谷口迷却幾人源下座。上堂拂子吞却須󳇐山尋常言論德山卓牌閙市裏作麼生商量良久云官不容針私通車馬下座。上堂僧問金烏未必常當午玉兔半夜不曾昬時如何師云點即不到僧無語師云會麼僧云不會師云到即不點問如何是心地法門師云莫從人覔進云不從人覔如何得師云此去衡陽不遠乃云諸禪德既入叢林善叅知識知識非他非他謾覔法性偏圓心源湛寂避尚無門求之何益君不見黃檗掩耳百丈卷蓆直下分明無別消息得失是非一時冰釋喝一喝下座。上堂玄沙不出嶺保壽不渡河善財叅知識五十三員慧遠結黑白一十八士雪峯三度上投子智者九旬談法華且道這箇漢是",
+          "MasterName": "Yunfeng Wenyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfeng Wenyue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. The retained deployment — the golden crow never surely at noon, the jade rabbit never dark at midnight; the pointing half answered, the silence met, and at the confession of not getting it, the arrival half given."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0419b20",
+          "ToLb": "0419c12",
+          "Kwic": "向上關棙在。如何是向上關棙？瞎却諸聖眼，啞却山僧口。日午打三更，面南看北斗。聞五祖訃音，云：大庾嶺頭笑却成哭，崇寧門下哭却成笑。何故？喫泉水，貴地脉，且要正眼流通，宗風不墜，所謂無常生死法，與我不相干。若能如是見，不用哭蒼天。既不用哭蒼天，如何通信？請大眾拈香，兩彩一賽。點即不到，一大藏教，錦上鋪花。到即不點，祖師西來，金聲玉振。且道祖意教意，是同是別？碧潭雲外不相關。三轉法輪於大千，其輪本來常清淨，一切諸佛皆恁麼轉。若向下去，三乘五性頓漸偏圓。若向上去，不唯覓下口處不得，臨濟德山目瞪口呿。且道不落上下又作麼生？誰是出頭人？入田不揀，三千里外黑漫漫。牛頭沒，馬頭回，百億萬劫沒交涉。拈一放一，節外生枝。舉古舉",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. The retained deployment — the pointing half the whole storehouse, flowers on brocade; the arrival half the patriarch come from the west, bronze voice and jade ring; and the deepest pool's cloud beyond, unrelated."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0611a20",
+          "ToLb": "0611b02",
+          "Kwic": "賢父子遊行之處相與出大手眼，拽回天下人鼻孔，靈山慧焰豈不快哉？諸仁者！還知快此直下麼？」捏一拳，拍一掌，下座。大音惲道生大劍唐祖命二中翰皈依請上堂大音惲道生、大劍唐祖命，二中翰皈依請上堂僧問：「和尚開選聖場，還選甚麼人先入？」師云：「門外漢問甚麼？」進云：「某甲一無所能，請和尚垂手攝入。」師云：「點即不到，到即不點。」僧禮拜，曰：「謝和尚婆心。」師云：「白撞人不許在此。」師舉：「蔡五岳云：『三界是大戲場，究竟傀儡係何人提弄浪？』杖人云：十方為空棋局，始終著子繇自己主張。有能於此問答透去，不妨縱橫自在，更須知有向上關捩子在。昔陸亙大夫問南泉：『弟子少時養一鵝於瓶中，漸見長大，如何得不毀瓶而令鵝出？』南泉召大夫，陸應諾",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. The retained deployment — the field for choosing sages: who enters first? the outsider's question turned back, the one of no skill gathered in by the reaching hand, and the gate-crasher ruled off after the bow."
+        },
+        {
+          "RelPath": "J/J33/J33nB286.xml",
+          "FromLb": "0490c06",
+          "ToLb": "0490c19",
+          "Kwic": "黎問：「五位君臣即不問，如何是賓中主？」師云：「簷前雨滴聲飄室。」「如何是主中賓？」師云：「正令全提建化門。」「如何是賓中賓？」師云：「六街人簇簇，遙指玉門孤。」「如何是主中主？」師云：「垂衣含妙旨，密步踢雙明。」進云：「賓主已蒙師指示，向上還有事也無？」師云：「天空海際低。」進云：「過在甚麼處？」師云：「到即不點。」進云：「大似紅爐飛片雪。」師云：「點即不到。」便踴身下座。信解禪人同魯居士設供，請上堂。「馬蹄殘跡，鎖歸雪夜蘆花；畫角聲孤，吹出清霜玉露。老船子拋鉤撒網，末遇神龍；任公子七牛作犗，不逢蝦蟹。須得與麼人，堪承與麼事。昔雲巖和尚示洞山老祖云：『价闍黎承當個事，大須審細。』山因過水睹影，徹見雲巖骨髓，頓翻舊",
+          "MasterName": "Yingning Zhijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingning Zhijing",
+              "Roles": [
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. The retained deployment — guest and host run through to the further matter still unsaid; the fault? arrived, not pointed; the snowflake on the red furnace answered with the pointing half, and the leap down from the seat."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0459c16",
+          "ToLb": "0459c29",
+          "Kwic": "根元；黃檗安名，相國推門落臼。承當過量事，須還過量人，發明過量機，施設過量用，不資餘力，左右逢源，捲舒立方外乾坤，縱橫挂域中日月，於不思議處因行掉臂時，迥出一輪，光吞萬象，非圓非缺，無物比倫，任是靈山話底、曹溪指底，何似水中撈摝得底？且道因甚得到與麼地？月中仙桂和根拔，非比尋常第一枝。」晚參。「電捲星馳，到即不點；纔涉思惟，點即不到。及乎坐斷兩頭，劈開向上一竅，一句中具三玄門、一玄門具三要，且道是甚麼竅？檢點得出，不謬為神鼎禪客；其或未然，鄭州梨、青州棗，大抵勿過出處好。」小參。「離心意識參，澄潭不許蒼龍蟠。絕凡聖處學，豈特無繩而自縛。進前則垛生招箭，退後則墮坑落塹。左不得、右不得，取不得、捨不得，不可得中恁麼得，",
+          "MasterName": "Shending Yikui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shending Yikui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. The retained deployment — lightning-roll and star-race: arrived, not pointed; a whisker of thinking: pointed, not arrived; and past both, the cleft of the upward with three mysteries and three essentials inside one sentence."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0548b10",
+          "ToLb": "0549a06",
+          "Kwic": "打鐵師云昨有人恁麼道自領三十棒去也一僧云剎竿頭上仰蓮心師便喝進云也須和尚證明師云隨語生解問臨濟大師道有一無位真人未審是何面目師云笑須三十年問某甲做工夫疑情發不起時如何師云高聲問將來僧復埋前問師云山僧近日患聾柴頭請益師云樵柴樵著無根的即來向我道師擲拄杖云善財叅後誰相訪樓閣門開竟日閑晚叅師云點即不到一語傷慈到即不點言言壁立亦到亦點月朗秋空不到不點風橫海嶺大眾問此結冬憑何不負生平良久驀喝一喝問答不錄師迺云拈華微笑肇祖開宗數千年來源深流遠青出於藍代不乏人或拈或頌或抑或揚日月光天德山河著地靈殊不知清光萬古穿鑿浮雲讚歎也讚歎不及評論也評論不及抑之如打水平江揚之如負土足嶽今日一老僧呈似二偈一拈華偈云佛法本無法粥飯家常話以",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. The retained deployment — the twin given weight for weight, then opened fourfold: both arriving and pointing, the moon bright over autumn sky; neither arriving nor pointing, the wind across sea and ridge."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "C/C077/C077n1710.xml",
+        "X/X68/X68n1318.xml",
+        "J/J34/J34nB311.xml",
+        "J/J33/J33nB286.xml",
+        "J/J37/J37nB388.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Yunfeng Wenyue",
+        "Yuanwu Keqin",
+        "Juelang Daosheng",
+        "Yingning Zhijing",
+        "Shending Yikui",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A counter-pointer's twin — arrived, and so not pointed out — staged at the root as the general's true command, answered over the midnight sun, set against the whole storehouse, and opened fourfold from the Song case-desks to the Qing evening seats. The root sits in Xuedou Chongxian's own staged answers, in the case-raising section of his Mingjue record: two blades crossing, out to settle living and dying, neither side hurt, no merit established — what is the general's true command? the staged answer: arrived, and so not pointed out; and when the line is raised again — does arrived-not-pointed satisfy you? — the answer: red heart, shard on shard; Yunfeng Wenyue, in his record carried among the old worthies, meets the midnight query — the golden crow never surely at noon, the jade rabbit never dark at midnight; what then? — with the pointing half: pointed, and so not arrived; the monk goes silent; do you get it? no — and then the arrival half is given; Yuanwu Keqin pairs the halves against the two treasuries: pointed-not-arrived is the whole storehouse — flowers laid on brocade; arrived-not-pointed is the patriarch come from the west — bronze voice, jade ring; and are the patriarch's intent and the teaching's intent the same or different? the deepest pool's cloud: beyond, unrelated; Juelang Daosheng, at the refuge-taking of the two scholar-officials, opens the field for choosing sages — who enters first? ask the outsider; the one of no skill begs the reaching hand to gather him in, and the twin is given whole: pointed-not-arrived, arrived-not-pointed; the bowing monk thanks the grandmotherly heart and is ruled a gate-crasher not allowed here. Yingning Zhijing walks the four positions for the questioning layman — guest in host, host in guest, guest in guest, host in host: the robed one holding the subtle purport, the quiet step kicking the paired lights — then the ascent: guest and host shown by the master; is there a further matter? the sky low at the sea's rim; and the fault? arrived, not pointed; a snowflake flying at the red furnace is answered with the pointing half, and the master leaps down from the seat; Shending Yikui, at the evening instruction: lightning rolls and stars race — arrived, not pointed; a whisker of thinking — pointed, not arrived; and once both ends are sat through and the one cleft of the upward split open, one sentence holds the three mysteries, one mystery holds the three essentials — name that cleft; weigh it rightly and you shame no Shending trainee; miss it, and Zhengzhou pears and Qingzhou dates mostly will not pass for a source; and Yulin Tongxiu, at the evening seat, gives the twin weight for weight — pointed-not-arrived, one sentence wounding kindness; arrived-not-pointed, every word a standing wall — then opens the fourfold: both arriving and pointing, the moon bright over the autumn sky; neither arriving nor pointing, the wind across sea and ridge; and the assembly asked what this winter retreat owes a whole life — a long stillness, then the sudden shout; asking and answering not recorded."
+    }
+  ]
+}

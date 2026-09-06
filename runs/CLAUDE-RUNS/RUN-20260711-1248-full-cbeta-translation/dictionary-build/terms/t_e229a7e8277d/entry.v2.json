@@ -1,0 +1,220 @@
+{
+  "Id": "t_e229a7e8277d",
+  "SourceTerm": "吾無隱乎爾",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T09:24:56Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "I hide nothing from you",
+      "AlternateTargets": [
+        "I conceal nothing from you"
+      ],
+      "SearchAliases": [
+        "nothing hidden from you",
+        "I hide nothing",
+        "no concealment here",
+        "the nothing-hidden saying"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 153 hits in 92 files representing 91 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0498a08",
+          "ToLb": "0498a25",
+          "Kwic": "衛州王大夫參元豐，于言下知歸。豐一日謂曰：「子乃今之陸亙也。」公便掩耳。拈云：元豐老子只知用腐鼠引鴟鳶，豈料鵷鶵黃鶴？竹實梧桐更雅，金衣溶水恒新。莫須有將無，同言前興喪，未為通拜將，終流患絕糧。豈是窮，勿謂失明嗟父子，楚王司馬不曾攻。太史黃山谷居士依晦堂乞指徑捷處，堂曰：「秪如仲尼道：二三子以我為隱乎？吾無隱乎爾。太史居常如何理論？」公擬對，堂曰：「不是，不是？」公迷悶不已。一日，侍堂山行次，時巖桂盛放，堂曰：「聞木花香麼？」公曰：「聞。」堂曰：「吾無隱乎爾。」公釋然，即拜之曰：「和尚得恁麼老婆心切？」堂笑曰：「秪要公到家耳。」拈云：據者一回絡索，好與晦堂三十棒，為渠只將自己茶飯慳吝不捨，反拾他人唾餘鉤釣，復令人明不",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Huitang Zuxin owns the retained deployment: the cassia-bloom answer — I hide nothing from you — and Chuiwan's thirty-stick ruling follows."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0474c05",
+          "ToLb": "0474c20",
+          "Kwic": "萬四千偈，他日如何舉似人？」後過金山，有寫公照容者，公戲題曰：「心似已灰之木，身如不繫之舟；問汝生平功業，黃州惠州瓊州。」拈曰：坡公面目他人描寫不出，其題自像二十餘字，可謂無斧鑿痕、有金石聲，瀟灑之極也。秪如身歷三州畢竟是何功業？咄！問取戒闍黎。太史黃山谷庭堅參晦堂禪師，乞指徑捷處，堂曰：「秪如仲尼道：『吾無隱乎爾！』太史如何理論？」公擬對，堂曰：「不是不是！」公迷悶不已。一日侍堂山行次，時巖桂盛放，堂曰：「聞木樨花香麼？」公曰：「聞。」堂曰：「吾無隱乎爾！」公釋然，即拜之曰：「和尚得恁麼老婆心切？」堂笑曰：「秪要公到家耳！」拈云：吾無隱乎爾！桂子月中落，天香雲外飄，山谷不遇晦堂，鼻孔搊他不住。雖然，爭奈腳跟紅線猶",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Huitang Zuxin owns the retained deployment, and Yingshan Zhiyin's appraisal sings it: cassia seeds fall from the moon, heaven's scent drifts beyond the clouds."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0140b19",
+          "ToLb": "0140c01",
+          "Kwic": "通車馬，是如何？」師云：「昨日有人天台來，今日卻往徑山去。」乃云：「數日施櫓棹，忽然到吳江，歷逢諸檀護，相與建法幢。法幢建也，五峰雙徑繞，鐘鼓響鏗鏘，八十餘燈復起焰，龍騰鳳舞賴名邦。只如法喜相交一句又作麼生道？太湖一片深秋月，徹夜無雲照上方。」復舉：「當時晦堂和尚問黃山谷居士云：『公是讀書人，只如孔子云：「吾無隱乎爾。」又作麼生會？』山谷擬開口答，晦堂便云：『不是。』山谷於是疑之不已。明日晦堂同山谷閒行次，時木樨花盛開，晦堂云：『是什麼香？』山谷曰：『木樨花香。』晦堂云：『吾無隱乎爾。』山谷直下便悟。據晦堂，拈木樨花塞卻山谷鼻孔，則固是然，黃山谷因是自得之旨。山僧今日不妨舉出，要與現前諸大護法眉毛一動。且道意旨如何？",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer",
+                "teacher"
+              ]
+            },
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Huitang Zuxin owns the retained deployment: the cassia flower stopped the scholar's nostrils — yet the going-through was his own."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0006b13",
+          "ToLb": "0006b27",
+          "Kwic": "財遍採，無不是藥，卻來白云：「無不是藥者。」文殊云：「是藥者採將來。」善財拈一莖草與文殊，文殊提起示眾，云：「此藥亦能殺人，亦能活人。」師云：「善財解採藥，文殊解用藥，採用即無差，阿誰病喫著？而今在山僧手中，不免盡行布施。」遂拈拄杖，下座，一齊打散。因吳漈濱居士上堂。「梅熟亞枝黃，雲開列嶂紫，以我為隱乎？吾無隱乎爾。老仲尼面孔已在這裏橫三豎四，諸人還覷捕得麼？若不然者，寶峰更為撥沒絃琴，向他家裏人說他家裏話。」乃橫按拄杖作撫琴勢，云：「上大人丘乙己化三千七十士爾，小生八九子佳作，仁可知禮也。」良久，云：「是什麼章句？高山流水非同調，一任知音笑點頭。」上堂。「鹽荒米貴，廚庫生塵，一等茄子瓠子，識甚麼苦辛？寶峰無柰，秪",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: old Zhongni's face already lies here crosswise and lengthwise — can you catch it?"
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0266b29",
+          "ToLb": "0266c12",
+          "Kwic": "』郭公言下大悟。山僧今日亦為王居士作得箇山頌子，此頌不唯為居士點開正眼，且能為天下衲僧脫卻炙脂帽子、卸卻鶻臭布衫去在。一二三四五六七，恭喜諸人事事畢，老君顛倒著衣裳，天師口念波羅密，老祖寺裏逞風流，石鞏禪師踢氣毬，推倒門前下馬石，黃梅城裏鬧啾啾，低頭拾得水晶珠，拈起卻是太湖石。尒小生，八九子，以我為隱乎？吾無隱乎爾。不須說。止！止！止！孔門弟子不能知，達磨老官打失兩箇當門齒。」召大眾，云：「你道山僧恁麼說話，可似箇三家村裏教學先生也無？」拈拄杖，卓一下，云：「勸君更進一盃酒，西出陽關無故人。」下座。歲朝，上堂。「歲除春已暖，吾道大亨通，要坐即便坐，要行即便行。堪笑香嚴老漢無端瞌睡惺惺，道箇『去年貧未是貧，今年貧始是",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: no need to say it — stop, stop, stop! Confucius's gate could not know it; old Bodhidharma lost his two front teeth."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0449c04",
+          "ToLb": "0449c16",
+          "Kwic": "際外，已見不磨心。」師卓拄杖云：「者箇又作麼生？」僧喝，師云：「亂喝。」僧又喝，師便打。乃云：「玄機獨露，妙體虛靈，不假修證，本自圓成。於此悟入者，未免粘皮搭骨。獨脫無依底，自然觸處玲瓏。直得須彌頂上波濤滾滾、大洋海底赤焰騰騰，天台五百尊羅漢趕齋路絕，舜若多神叫屈連聲。大眾！且道：是何意旨？」拍香几，云：「吾無隱乎爾。」晚參。舉：「丹霞問僧：『從甚麼處來？』僧云：『山下來。』霞云：『喫飯也未？』僧云：『喫飯了。』霞云：『將飯與汝喫底人，還具眼麼？』僧無語。後來長慶問保福：『將飯與人喫，報恩有分，因甚卻不具眼？』福云：『施者、受者，二俱瞎漢。』慶云：『盡其機來，還成瞎否？』福云：『汝道我瞎，得麼？』」師云：「丹霞幸是問著",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: after Sumeru's rolling waves and the ocean floor's red flame — a slap on the incense table, and the five graphs."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0005a29",
+          "ToLb": "0005b13",
+          "Kwic": "，將珠塵玉屑輕輕攃向諸人面前，更要山僧說些閒話，向雪裏送炭。好雪呀，片片不落別處。且道：落在那裏？」豎拂子云：「求福者福臻，祈壽者壽永，求消災者災消，禪德家又作麼生？雪與梅共嚼，不惟齒頰生香，亦且清芬腸胃。歸堂去，試嚼看。」上堂。「描不成兮畫不就，山光飄渺水連天。髑髏有眼看霜葉，枯木龍吟古路邊。逢迎處，吾無隱乎爾，何必道象帝之先。幽禽處處呼人夢，莫待春風聽杜鵑。」上堂。「隔林殘月曉諸峰，竹色霜華薦朔風，山得我遊權有主，雲過西嶺碧玲瓏。若物屬他，他所守護。世間一事一物，總屬于人。惟谿上清風，山間明月，儘可以適性怡情，取之不盡，用之無窮，是所謂造物之無盡藏也，卻又被拄杖子管轄。沒奈何，只得行則偕往，往則同居，休戚相關",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: where paths meet, I hide nothing from you — why invoke what preceded the Lord of Images?"
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0682a16",
+          "ToLb": "0682a30",
+          "Kwic": "是說話，想恐病僧索蓮蒂之價。病僧不索蓮蒂之價，老居士亦不必作瞞心語耳！答六長劉公答六長劉公睹來言：「夙習根深，心花隱隱。」想是假設通書之常套，不然何作是說？若說心花隱隱，衡不知其所隱，不知天覆著、地埋著，若天地不能蓋覆，萬物又豈能遮藏？天地萬物既不能掩蔽，又何為隱耶？豈不知仲尼有言：「二三子以予為隱乎？吾無隱乎爾！」病僧曾有〈詩〉曰：「明明大覺心，土木與瓦石。」若爾，明暗色空、飛空走陸、言思動靜，一切妄想又非大覺心耶？既爾，盡法界囫圇是個大覺心，不知隱向何處？又不知為何物所隱？若謂不隱於處，不為物隱，目為隱隱。既爾，而山河大地、明暗色空又是何物耶？是知足下言「心花隱隱」實為套語。今人處處不能了然者，總是不肯安心，種",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: heaven, earth, and the ten thousand things cannot screen it — what hiding is there?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J29/J29nB239.xml",
+        "J/J27/J27nB198.xml",
+        "J/J26/J26nB178.xml",
+        "J/J28/J28nB202.xml",
+        "J/J33/J33nB280.xml",
+        "J/J26/J26nB182.xml",
+        "J/J27/J27nB189.xml",
+        "J/J28/J28nB219.xml"
+      ],
+      "RelatedMasters": [
+        "Huitang Zuxin",
+        "Juyun Chuiwan Guangzhen",
+        "Yingshan Zhiyin",
+        "Feiyin Tongrong",
+        "Baichi Xingyuan",
+        "Yunwai Xingze",
+        "Wanru Tongwei",
+        "Sanyi Mingyu",
+        "Zhuanyu Guanheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The nothing-hidden declaration — Confucius's own words, borrowed whole by the Chan hall: what is shown is all there is, and the master proves it with a flower's scent. Huitang Zuxin, pressed by the court scholar for a shortcut, asks him only: as Confucius said, I hide nothing from you — how do you take it? — and when the scholar gropes for an answer, cuts him off: wrong, wrong; walking the hills at cassia-bloom, he asks — do you smell the wood-flowers? — and at the yes, gives him the saying again, and the scholar went through; Juyun Chuiwan Guangzhen, retelling it in his old-verse cycle, rules the whole affair worth thirty sticks — for hoarding his own rice and soup, fishing with another man's spit; Yingshan Zhiyin, appraising it, finds the cassia seeds falling from the moon and heaven's scent drifting beyond the clouds — without Huitang, the scholar's nostrils could never have been gripped; and Feiyin Tongrong, raising it for his patrons, grants that Huitang stopped Huang Shangu's nostrils with a cassia flower, yet the scholar's insight was his own — and today the mountain monk lifts it out to make your eyebrows twitch once. Baichi Xingyuan, for the entering layman, seasons it with the plum: plums yellowing on the branch, clouds opening on the ranked peaks — do you take me for hiding? I hide nothing from you — old Zhongni's face is already here laid crosswise and lengthwise, can you catch it?; Yunwai Xingze, capping the primers he sings for the layman, runs the small-school rhyme to its burst — you little students, eight or nine sons — do you take me for hiding? I hide nothing from you — no need to say it — stop, stop, stop! Confucius's gate could not know it; old Bodhidharma lost his two front teeth; Wanru Tongwei, after the surging Sumeru and the burning ocean floor, slaps the incense table at the what-is-the-meaning question and gives five graphs; and Sanyi Mingyu sings it into verse: where paths meet, I hide nothing from you — why invoke what preceded the Lord of Images? Zhuanyu Guanheng, answering the letter that claims a mind-flower dimly hiding, turns heaven and earth against the claim: if heaven's cover and earth's burial cannot hide it, what of the ten thousand things? Since heaven, earth, and the things cannot screen it, what hiding is there? Did you not know Confucius's word — you disciples take me for hiding? I hide nothing from you! — the sick monk once had a verse: the clearly awakening great awakened mind, earth-and-wood and tiles and stone."
+    }
+  ]
+}

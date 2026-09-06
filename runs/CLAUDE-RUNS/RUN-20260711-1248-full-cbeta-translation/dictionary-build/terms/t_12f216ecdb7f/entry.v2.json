@@ -1,0 +1,193 @@
+{
+  "Id": "t_12f216ecdb7f",
+  "SourceTerm": "開我迷雲，令我得入",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:42:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "you have opened my clouds of delusion and let me enter",
+      "AlternateTargets": [
+        "opening my clouds of confusion, you let me enter",
+        "clear away my clouds of delusion and let me in"
+      ],
+      "SearchAliases": [
+        "the outsider's praise",
+        "opened the clouds of delusion",
+        "the clouds-parting praise",
+        "the long-silence case's payoff"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 58 hits in 51 files representing 50 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0598c12",
+          "ToLb": "0599a02",
+          "Kwic": "尊像，請雲門安名，即向道：清淨法身毗盧遮那佛。若云謝師安名，即向道：下坡不走，快便難逢。師云：裴公捧像，黃檗安名，冷地看來，如大家教新婦相似，直是好笑，笑須三十年。妙喜既不能坐斷，未免隨例顛倒，喚作清淨法身毗盧遮那佛。周人以栢，殷人以栗。舉外道問佛：不問有言，不問無言。世尊良久，外道讚嘆云：世尊大慈大悲，開我迷雲，令我得入。外道去後，阿難問佛：外道有何所證，而言得入？世尊云：如世良馬，見鞭影而行。雪竇云：邪正不分，過由鞭影。妙喜云：邪正兩分，正由鞭影。師云：欲識邪正不分麼，誰是外道？誰是世尊？欲識邪正兩分麼，世尊自世尊，外道自外道。此是天寧見處，一任諸方貶剝。舉：僧問趙州：如何是趙州？州云：東門、南門、西門、北門。僧云：",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "commentator",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: who is the outsider, who is the World-Honored One — this is Tianning's seeing."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0051a21",
+          "ToLb": "0051b04",
+          "Kwic": "云：「既曰：『潭又不見、龍又不現。』因甚道：『子親到龍潭。』且甚麼處是親到處？試斷看。」舉：「世尊因文殊在門外立，乃云：『文殊何不入門來？』殊云：『我不見一法在門外，何以教我入門？』」徵云：「門外、入門則且置，喚甚麼作門？」舉：「世尊因外道問：『不問有言、不問無言。』世尊據坐，外道讚歎云：『世尊大慈大悲，開我迷雲，令我得入。』」徵云：「世尊據坐，外道未嘗據坐，且甚麼處是外道入處？」舉：「龐居士到芙蓉山太毓禪師處，毓行食與居士，士擬接，毓縮手，云：『生心受施，淨名早呵。去此一機，居士還甘否？』士云：『當時善現豈不作家？』毓云：『非關他事。』士云：『食到口邊，被他奪卻。』毓乃下食，士云：『不消一句。』」徵云：「秪如居士道：『不",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: the One sat fast, the outsider never sat fast — where is the entry-place?"
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0542a21",
+          "ToLb": "0542b05",
+          "Kwic": "僧便掀倒禪床。院云：『你看這瞎漢亂做。』僧擬議，院便打趁出。」師拈云：「這僧欲成九仞之山，未進一簣之土。當時待南院和尚道：『你看這瞎漢亂做。』不若一不做、二不休，總然南院打殺，也不得趁你出院。即今還有人於壁立千仞處與這僧出氣麼？」舉：「外道問佛：『不問有言，不問無言。』世尊良久。外道讚云：『世尊大慈大悲，開我迷雲，令我得入。』外道去後，阿難問佛：『外道有何所證而言得入？』世尊云：『如世良馬，見鞭影而行。』雪竇云：『邪正不分，過山鞭影。』大慧云：『邪正兩分，正由鞭影。』」師拈云：「二大老恰在鞭影裏批判。且道離卻鞭影一句作麼生道？」良久，云：「三十年後此語大行。」舉：「洞山頌云：『貪嗔癡，太無知，賴我今朝識得伊。行便打，坐便",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: both elders judge inside the whip-shadow — one phrase apart from it, how is it said?"
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0171a23",
+          "ToLb": "0171b08",
+          "Kwic": "靈驗，全係者婦為苦痛饑渴所逼，故易為飲食耳。雖然如是，若殃崛傳話未到時便乃產下，則瞿曇之蓬蒿湯亦只得風吹日炙，有什麼用處？可見出門便利，偶爾撞彩。若是山僧，待長者云：『當有何法，能免產難？』但云：『盡大地是個女子。』看他又如何折合。」世尊因外道問：「不問有言，不問無言。」世尊良久，外道讚嘆曰：「世尊大慈，開我迷雲，令我得入。」拈云：「世尊良久，填溝塞壑，外道得入，舊瘢著艾，簡點將來，各與草鞋一緉，且要天下人疑著。今日忽有人問山僧：『不問有言，不問無言。』惟豎一指，還與世尊是同是別？」城東老母與佛同生而不欲見佛，每見佛來即便迴避，雖然如此，回顧東西總皆是佛，遂以手掩面，於十指掌中亦總是佛。拈云：「老母不欲見佛，天然氣概，",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: the silence filled the ditches — each gets straw sandals, and all under heaven must doubt."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0711a13",
+          "ToLb": "0711a26",
+          "Kwic": "邊，誰道東家點燈，西家卻乃暗坐？只苦睦州道底，眼裏無筋；堪笑投子鋒前，桼桶不快。祇如三乘十二分教是破故紙，千七百則公案是爛葛藤，昇上座終日口吧吧地，是故紙邪？是葛藤邪？」震威喝一喝，云：「三尺浪高魚化龍，癡人猶戽夜塘水。」復舉：「昔日外道問世尊：『不問有言，不問無言。』世尊良久，外道讚歎云：『世尊大慈大悲，開我迷雲，令我得入。』外道去後，阿難問佛：『外道有何所證而言得入？』佛云：『如世良馬，見鞭影而行。』」師云：「我有六十拄杖，分作三分：一分、打外道，不合平白受人欺瞞；一分、打世尊，不合容易與人冬瓜印子；一分、昇上座自喫，不合簡點佛祖。若是阿難，且教向世尊右手立地著。」秉拂。問：「昨日今朝事不同，炎炎朱夏又金風，不傷物義如何",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the retained deployment: sixty staffs in three shares — the outsider, the One, and himself."
+        },
+        {
+          "RelPath": "J/J29/J29nB234.xml",
+          "FromLb": "0383b23",
+          "ToLb": "0383c09",
+          "Kwic": "「若向這裏見得，鷲嶺端不拈花；如其更或躊躕，少室翻成面壁。頭頭杲日麗天，一一真風壁立。雖然如是，秪如今日諸大護法并諸法姪光臨為山僧五旬初度作麼生？」良久，云：「且喜相看非外客，都來盡是個中人。」拂拂子，下座。示眾示眾師示眾，舉：「世尊因外道問：『不問有言，不問無言。』世尊良久，外道歎曰：『世尊大慈大悲，開我迷雲，令我得入。』作禮而去。阿難白佛：『外道得何道理，稱讚而去？』世尊曰：『如世良馬，見鞭影而行。』」師云：「大好世尊，被外道勘破。外道雖然伶俐，入地獄如箭。阿難白佛，卻被世尊熱瞞大眾。且道山僧又作麼生？」乃卓拄杖，云：「誰知遠煙浪，別有好商量。」一時打散，歸方丈。師示眾，以拄杖左邊卓一下，云：「若向這裡見，瞎。」右邊",
+          "MasterName": "Yichu Wuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yichu Wuyuan",
+              "Roles": [
+                "utterer",
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. Yichu Wuyuan owns the retained deployment: a fine World-Honored One, cracked by the outsider — yet the clever one enters hell like an arrow."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1420.xml",
+        "J/J10/J10nA158.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml",
+        "J/J26/J26nB187.xml",
+        "J/J29/J29nB234.xml"
+      ],
+      "RelatedMasters": [
+        "Chushi Fanqi",
+        "Xuedou Chongxian",
+        "Dahui Zonggao",
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong",
+        "Tian'an Sheng",
+        "Yichu Wuyuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "You have opened my clouds of delusion and let me enter — the outsider's praise of the long silence, quoted whole by six centuries of raisers who then refuse to let either the silence or the praise rest. The case, as raised by Chushi Fanqi in his raising-old section: an outsider asked the Buddha — I ask not of words, not of wordlessness. The World-Honored One held a long silence. The outsider praised: great mercy — you have opened my clouds of delusion and let me enter. After he left, Ananda asked what the outsider had attained that he spoke of entry; the Buddha: like a fine horse of this world, it moves at the shadow of the whip. Xuedou Chongxian: right and wrong undivided — the fault lies with the whip-shadow. Dahui Zonggao: right and wrong both divided — rightly by the whip-shadow. Chushi: want to see the undivided? Who is the outsider, who is the World-Honored One? Want to see them divided? The One is the One, the outsider the outsider. This is Tianning's seeing — let the four directions disparage it as they will. And Miyun Yuanwu, probing the old in his own record, reads the variant closely: the World-Honored One sat fast — the outsider never sat fast. Where, then, is the outsider's place of entry? Tianyin Yuanxiu lifts the exchange with both elders' comments already inside it, then turns: the two great elders judge exactly inside the whip-shadow — tell me, one phrase apart from the whip-shadow: how is it said? A long silence: thirty years from now, these words will run everywhere. And Feiyin Tongrong's picking: the World-Honored One's long silence filled the ditches and plugged the ravines; the outsider got in — an old scar meeting moxa. Inspect it closely and each gets a pair of straw sandals: he only wants everyone under heaven to doubt. If today someone asked this mountain monk — not of words, not of wordlessness — I would just raise one finger. Same as the World-Honored One, or different? Yichu Wuyuan, showing the assembly: a fine World-Honored One — cracked by the outsider. The outsider, clever as he is, will enter hell like an arrow. And Ananda's white report to the Buddha — the whole assembly hotly deceived by the One. What does this mountain monk make of it? One crack of the staff: who knew that beyond the far mist-waves there is still good consulting to be had. And Tian'an Sheng, holding the whisk for the head seat: I have sixty staffs, split in three shares — one share beats the outsider, for letting himself be deceived plain and white; one share beats the World-Honored One, for handing out winter-melon seals so easily; one share Sheng the seat-holder eats himself, for inspecting the buddhas and the patriarchs. As for Ananda — let him go stand at the One's right hand."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "Id": "t_74a674395c66",
+  "SourceTerm": "一片田地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T08:17:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "one whole stretch of field",
+      "AlternateTargets": [
+        "a single expanse of field"
+      ],
+      "SearchAliases": [
+        "a whole field",
+        "one expanse of field",
+        "the handed-down field"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 225 hits in 87 files representing 85 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X73/X73n1445.xml",
+          "FromLb": "0011c01",
+          "ToLb": "0011c13",
+          "Kwic": "尚。雪峯舉神楚闍棃問我：亡僧遷化向什麼處去？我向伊道：如冰歸水。師云：是即是，某不與麼道。峯云：你作麼生？師云：如水歸水。峯又向師道：我時時全機提持，把三箇木毬一時拋，要他全提去。師云：和尚拋後，忽被箇師僧出來道：和尚看毬作麼生？峯云：道什麼？師云：某不與麼。峯云：你作麼生？師云：也未是分外。雪峯云：此事如一片田地相似，一任眾人耕種，無有不承此恩力者。師云：且作麼生是一片田地？峯云：看。師云：是即是，某不與麼。峯云：是你作麼生？師云：只是人人底。師問雪峯云：某如今大用去，和尚且作麼生？峯遂將三箇木毬一時拋，師遂作斫牌勢祗對。峯云：你親在靈山，方得如此。師云：也只是自家事。師問道怤云：你作麼生說？是什麼？怤云：只是從來",
+          "MasterName": "Xuefeng Yicun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "interlocutor",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1445.xml). Expanded Record of Chan Master Xuansha Shibei. Xuefeng Yicun owns the retained root deployment, declaring the matter like a field left open for everyone to till."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0853a19",
+          "ToLb": "0853b10",
+          "Kwic": "方丈。大眾隨至立定。招云。纔到煖室便見瞌睡。以拄杖一時趁下。頌云。夜半明星當午現。愚夫猶待曉雞鳴。可憐自屎不知臭。又欲重新拈似人。保壽開堂。頌云。提起須彌第一槌。電光石火太遲遲。象王行處狐蹤絕。師子咆哮百獸危。古德莊上喫油餈。頌云。和尚不赴堂。莊主謝臨屈。一字入公門。九牛撤不出。玄沙云。若論此事。喻一片田地。四至界分。結契賣與諸人了也。只有中心樹子猶屬老僧在。頌云。祖父田園都賣了。四邊界至不曾留。奈何猶有中心樹。惱亂春風卒未休。首山新婦騎驢阿家牽。頌云。新婦騎驢阿家牽。步步相隨不著鞭。歸到畫堂人不識。從今嬾更出門前。烏臼見玄紹二上座來。遂問。二禪伯近離甚麼處。僧云江西。臼便打。僧云。久嚮和尚有此機要",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Xuansha Shibei owns the retained deployment, deeding the field's four borders to all while keeping only the center tree for himself."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0360c08",
+          "ToLb": "0360c22",
+          "Kwic": "有句無句，如藤倚樹，且任諸人點頭。及乎樹倒藤枯，上無充天之計，下無入地之謀，刢利漢這裏著得一隻眼，便見七縱八橫。乃舉起拂子云：看看，太陽溢目，萬里不掛片雲。若是覆盆之下，又爭恠得山僧。若論此事，老胡本不渡江，二祖不曾得髓。及至黃梅夜半，一人傳虗，萬人傳實。若據老盧見解，只是舂米漢，至今走遍天下人。殊不知這一片田地，分付來亦多時也。自是諸人不肯紹繼，致使荊棘漸長，禾黍不生，馳走東西，日求升合。何如便向這裏，直下識取本來契券，教伊四至界畔，一一分明，免見異時別生辭訟。只如今還識也未？爾若識得，一恁恣意耕鋤。若也未知，且受人天供養。風卷殘雲宇宙寬，碧天如水月如環。祖師心印分明在，對此憑君子細看。普賢行，文殊智，補陀巖",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huitang Zuxin",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Huitang Zuxin owns the retained deployment, blaming heirs who let the handed-down field grow brambles while chasing daily grain."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0719c28",
+          "ToLb": "0720a15",
+          "Kwic": "三三。河沙莫算。低低處平之有餘。高高處觀之不足。東勝身洲走馬。南贍部洲著撲。扇子𨁝跳上天。東海鯉魚發怒。直得雨似盆傾。大千沙界悉己瀰漫。且道。是牛頭沒馬頭回。是前三三後三三。海神知貴不知價。留向人間光照夜。下座。上堂云。棒頭取證。撤土撒沙。喝下承當。承虛接響。向上向下。轉更顢頇。說妙談玄。和泥合水。這一片田地。分付來多時也。平白欺人。盡大地撮來如粟米粒大。掉棒打月。佛祖凡聖拈向一邊。總不依倚時如何。紅霞穿碧海。白日遶須彌。下座。上堂。僧問。生死交謝寒暑迭遷。未審無位真人還有寒暑也無。師云。汗流似雨。進云。分明在目前也。師云。莫向目前作窠窟。進云。爭奈即今何。師云。鈍置阿師。乃云。暑氣蒸人如墮甑。四肢流汗似澆",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, ruling that the field was handed over long ago and the misses are plain deceit."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0832b06",
+          "ToLb": "0832b20",
+          "Kwic": "是故敢問法筵大眾只如今日知府朝議為顯考通奉顯妣碩人二位尊靈作此佛事且道未作佛事已前還有箇消息也無若道有落在一邊畢竟如何還委悉麼二由一有一亦莫守一心不生萬法無咎。復云無常迅速生死事大這雨句子便是先德參禪底題目今時有一種士大夫被世間名利所奪脚跟下一段大事因緣往往闊略日往月來不覺不知相將到結交頭便手忙脚亂若是這一片田地知得下落了了分明底人任從生死變遷直是移易他一絲毫不得如未知得須是回光返照每日自家纔下床來洗漱了便與世間相酬酢或好或惡折旋俯仰這箇道理從甚麼處來妙喜常說士大夫家九經十七史裏面興亡治亂逆順邪正纔舉起滔滔念將去稍一事不知便以為耻恐人嗤笑為孤陋寡聞及乎問他尊官今年幾歲或云五十歲却問他五十一年前未託母胎時本命元辰安",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, holding that whoever knows where this whole field lands cannot be moved a hair by birth and death."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0345b01",
+          "ToLb": "0345b14",
+          "Kwic": "何？』沙云：『要騎便騎，要下便下。』」師云：「若有問：『破山和尚遷化向甚處去？』向他道：『十方諸國土，無剎不現身。』『未審意旨如何？』答云：『既為法王，於法自在，生以不生生，死以不死死，恁麼不恁麼，泥牛入海底，無相身無遷，魔王空歡喜，殃及破沙盆，兒孫冤債起，欲識吾師恩，聞香鼻孔裏。』」小參。「古人道：『者一片田地分付來多時也，我立地待你搆去。』法眼云：『者一片田地分付來多時也，我坐待你搆去。』」師云：「者一片田地不用分付。」復以杖指云：「四維上下，無處不是。」小參。僧問：「金鼇峰頂即不問，登堂哮吼事如何？」師云：「一句了然超百億。」進云：「三心不可得又如何？」師云：「兔子喫牛奶。」乃云：「既作出家兒，莫逐情妄使，有",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained deployment, refusing any re-deed because the field needs no handing over and the four directions are nowhere else."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0710a27",
+          "ToLb": "0710b10",
+          "Kwic": "見道：「君子千里同風。」』沙聞之曰：『山頭老漢蹉過也不知。』」杖人云：「以尋常觀他父子，大似家富小兒嬌，殊不知雪峰慣撒漫天絲網，玄沙卻肯向明眼人前打失鼻孔。今日壽昌成長老，遣使到博山為杖人作供，乃有一牘，即以火焚之，不妨千里燒卻人眉毛，但汝等喫他油麵䭔子，切忌東屙西屙。」小參，舉：「雪峰一日云：『此事如一片田地相似，一任眾人耕種，無有不承此恩力者。』玄沙云：『且作麼生是一片田地？』峰云：『看！』玄沙云：『是則是，某甲則不然。』峰云：『你又作麼生？』玄沙云：『秪是人人底。』師云：『一千五百人善知識！』父子親承作，恁麼舉止雖好，一片田地未免互相荒棄。若問博山作麼生是一片田地？便與一棒，教他知些痛癢，則種田博飯有餘力，",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, judging the pair as leaving the field mutually abandoned and answering the asking with a staff."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0920c16",
+          "ToLb": "0920c30",
+          "Kwic": "。更聽約法三章：第一、不得聚緣內搖，趣外奔逸；第二、不得將心待悟，怠玩因循；第三、共住不許知名，相逢不容相識。然後，將僧問趙州：『萬法歸一，一歸何處？』州曰：『我在青州做領布衫，重七斤。』細審參詳，毫無差錯，山僧與汝證據。且道：證據箇什麼？」以拂子畫一畫，「括囊無咎。」結制，上堂，就謝車智望齋。「人人有此一片田地，雖是寒暑推遷，歷來無敢侵損，何待重分疆界？」豎拂子，曰：「明見斯事無有錯謬，無一處不是汝諸人放捨身命處、無一時不是汝諸人出離生死時，雲門關裏橫身而入、任意而為，殺活縱奪一切自由，世胤、道胤爭繁，食輪、法輪並轉，異日兒孫遍天下，其起根發脈莫不從者裏去，蓋為未是其人，望之如天闊遠、窮之似海洪深，欲進懼臨大敵",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment, telling the assembly everyone has this field, undamaged through every season, so no bounds need redrawing."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X73/X73n1445.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X68/X68n1318.xml",
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "J/J32/J32nB276.xml",
+        "J/J25/J25nB174.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Xuefeng Yicun",
+        "Xuansha Shibei",
+        "Dahui Zonggao",
+        "Huitang Zuxin",
+        "Yuanwu Keqin",
+        "Buhui Fatong",
+        "Juelang Daosheng",
+        "Zhe'an Jingfan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A measured metaphor unit naming the inherited endowment as one whole field, handed over long ago and left open for all to till. Xuefeng Yicun, recorded in his disciple's extensive log, declares the matter like one whole stretch of field left for everyone to till, with none who fail to owe it strength; Xuansha Shibei, preserved in Dahui's old-case verses, deeds away the field's four borders to all while keeping only the center tree for the old monk; and Huitang Zuxin laments heirs who let the handed-down field run to brambles while chasing daily grain, telling them to claim the original deed with its borders plain. Yuanwu Keqin runs his hall address through false takes at the staff's head and the shout below before landing on the field handed over long ago and plain deceit; Dahui Zonggao holds that one who knows where this whole field lands cannot be moved a hair by birth and death; Buhui Fatong answers the elders' chain by refusing any re-deed, since the field needs no handing over and the four directions are nowhere else; Juelang Daosheng judges the Xuefeng and Xuansha pair as leaving the field mutually abandoned and answers the asking with a staff; and Zhe'an Jingfan tells the assembly everyone has this field, which no season has ever dared damage, so why redraw its bounds."
+    }
+  ]
+}

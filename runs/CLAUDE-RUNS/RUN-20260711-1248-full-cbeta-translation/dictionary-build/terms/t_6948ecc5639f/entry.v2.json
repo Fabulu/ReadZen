@@ -1,0 +1,191 @@
+{
+  "Id": "t_6948ecc5639f",
+  "SourceTerm": "去聖時遙",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T10:18:28Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "far from the sages in time",
+      "AlternateTargets": [
+        "long since the sages passed",
+        "remote from the wise ones' age"
+      ],
+      "SearchAliases": [
+        "the late age",
+        "distant from the sages",
+        "since the sages left",
+        "far down from the wise"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 118 hits in 93 files representing 90 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0035c22",
+          "ToLb": "0036a15",
+          "Kwic": "不到和尚此間。雲居錫云：此二尊宿盡扶背後，只如南泉休去，為當扶面前扶背後？天界盛云：南泉井底架高樓，國師漆桶裏斫額。此外兩兩三三，扶面前，扶背後，正是揚州拾馬糞，却去蘇州賣合香。國師因丹霞參，纔展具，師曰：不用，不用。霞退後三步。師曰：如是，如是。霞進前三步。師曰：不是，不是。霞繞禪牀一帀出去。師曰：去聖時遙，人多懈怠。三十年後，覓個漢也難得。保福展云：丹霞貪程，不覺行困。溈山󳭷云：丹霞可謂懷藏至寶，遇智者乃增輝。國師鴻門大啟，陟者須是其人。如今還有為丹霞作主者麼？出來與大溈相見。有麼？不是龍門客，切忌遭點額。泐潭準云：客路如天遠，侯門似海深。登彌天釋之門者，須是其人接待高賓，應有孟甞君之度量。苟不如是，",
+          "MasterName": "Nanyang Huizhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyang Huizhong",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "person-discussed",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanyang Huizhong owns the retained deployment: far from the sages in time, men are mostly slack — thirty years on, one man will be hard to find."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0865a04",
+          "ToLb": "0865a22",
+          "Kwic": "處未能如此莫道是諸聖行履處十二時中行履處何甞分明秖為無始刼來顛倒迷乱六趣何曾見還猶如蠅子透䆫相似不見端師翁有頌云為愛尋光紙上鑽不能透處幾多難忽然撞着來時路始覺從前被眼瞞如今既在此門中不可中塗困躓縱然學道得旨後閨閤中物颺不下明得此事還被此事留滯不見道金鎻玄關留不住行於異𩔗且輪迴到得恁麼田地方可為人師如今去聖時遙人多懈怠尋常說正法像法末法山僧道法無正像末佛法常在世間得時便是正法失時便是像末法諸人决然要辦此事緊要是出生死然本無生死可得何故三際求之不可及先佛道過去心不可得現在心不可得未來心不可得秖如歷歷分明听法者是誰是過去耶現在耶未來耶須知是一个無始時來無知覺者如此看來豈是與一法為緣為對如今天下禪僧盡道秖是者箇漢",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment: the way has no true, semblance, or last phase — hit the moment and it is the true phase."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0287b05",
+          "ToLb": "0287b18",
+          "Kwic": "，的實要明，亦非造次，直須發大志、立大願，殺却心猿意馬，斷除妄想塵勞，如在急水灘頭泊舟相似，不顧危亡得失、人我是非，忘寢忘餐，絕思絕慮，晝三夜三，心心相次，念念相續，劄定脚頭，咬定牙關，牢牢把定繩頭，更不容絲毫走作。假使有人取你頭，除你手足，剜你心肝，乃至命終，誠不可捨，到這裏方有少分做工夫氣味。嗟乎！末法去聖時遙，多有一等泛泛之流，竟不信有悟門，但只向遮邊穿鑿，那邊計較，直饒計較得成，穿鑿得就，眼光落地時，還用得著也無？若用得著，世尊雪山六年，達磨少林九載，長慶坐破七箇蒲團，香林四十年方成一片，趙州三十年不雜用心，何須討許多生受喫？更有一等成十年、二十年用工，不曾有箇入處者，只為他宿無靈骨，志不堅固，半信半疑，或",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection. Gaofeng Yuanmiao owns the retained deployment: if reckoning served at the eye's falling, why the six years in the snow and the forty years to one piece?"
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0899a04",
+          "ToLb": "0899a18",
+          "Kwic": "直指尚曰迂曲。此迂曲中之又迂曲者也。已而自侍者寮朝叅暮請親熏熟炙開鑿見聞俾掌藏鑰。涉獵名相。與夫博究儒書通內外等學使之分座說法。然後待時出為人師。上則付衣表信。下則瓣香稟承。斯又不勝其迂曲矣。至若派為五宗不相混濫。其授受之際細密委曲。異說殊途莫之紀極。豈直指之道果有是理哉。蓋前人非不知不立文字之直指也。以去聖時遙。人心日趨而下。觀其體道之念不密徇境之識日遷。乃不得已而救之。如百丈未建叢林時。人皆草衣垢面。棲遲於空山大澤中極情向道。至百丈時早有老病畏怯。由是建叢林以慰安其老病而輔祖道也。使前輩或不曲徇時宜巧施方便。則直指二字亦滅絕無聞矣。近代持公論者。惟責人不直指而之迂曲。是不鑑其迂曲乃伸直指之異方便也。且責之固是",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: because far from the sages in time hearts sink daily, the compound was built to rescue the way of the patriarchs."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0249b16",
+          "ToLb": "0249c02",
+          "Kwic": "面，如大死人，日夕孜孜，惟一無二，不知不覺，地轉天翻，而見而明，珠回玉變。是以人法雙泯、非是兩空，佛祖位中不存朕兆，拄杖子任其拈放，栗棘蓬從其吐吞。山川草木，同發一光，通塞晦明，絕無二見。掀翻佛祖，玅在一毫，捏碎虛空，無勞餘力。不拘真諦俗諦，總一切聲即廣長舌相，豈論這邊那邊；盡一切色，是無見法身。傷叢林秋季去聖時遙，人人爭蝸角之利名，懷鶻臭骨董，不務真實、鼓弄虛頭，問口處多冊子上之鑽研，舉念間盡情塵中之知見，縱其攢花簇錦，合四六以成文，題實對虛，聯四五而為句，空持心所，總失正因。縱然覺發本明，未免認賊為子。似此之輩，以當宗乘如來正法眼藏，未有如今日者矣。子數于方外，歷遍諸老宿門庭，正統甲子春到金臺，次年二丑過西山",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: grieved for the grove's autumn — everyone scrambling for snail-horn profit and fame, taking the thief for the son."
+        },
+        {
+          "RelPath": "X/X72/X72n1443.xml",
+          "FromLb": "0761c19",
+          "ToLb": "0762a09",
+          "Kwic": "捨，愈絕消息，愈加逼拶，拶得心路俱斷，祇有此一疑，頓在面前，柰何不得。到恁麼時，切勿生異念，起速效，待悟等心，反為障礙，古人訶為偷心也。參禪要死偷心，偷心死後，方能瞥地，方纔慶快平生。先聖云：窮玄極玅，以悟為則。斯言盡之矣。然初心做工夫誠難，前無進路，退失故居，實是踏脚不住，若非大根器人，未有不退墮者。況去聖時遙，魔強法弱，稍知趨向此門，又以作福行善為極則，斷不信有立地見性得道之理，聞舉即心即佛，能不掉頭者，實難其人。居士智慧過人，幸自勉，生死事大，無常迅速，莫只當一句話，恁麼念過也。示能善韓道人示能善韓道人學道惟貴痛切，一刻不可放過。蓋從無始劫以來，迷而不覺。今一旦知愧，已是三四十歲。若更因循，更有百年，亦頃",
+          "MasterName": "Kongyin Daodu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Kongyin Daodu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1443.xml). Recorded Sayings of Chan Master Zongbao Daodu. Kongyin Daodu owns the retained deployment: demons strong and the way weak — one who hears mind-itself-is-buddha and does not turn his head is truly hard to find."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0670b16",
+          "ToLb": "0670b29",
+          "Kwic": "是處是慈氏，無門無善財。」師云：「金剛寶劍逼人寒。」進云：「慈雲普覆三千界，法雨均沾萬國中。」師便打，乃云：「此箇廣大門戶，威德自在，騰今耀古，阿誰無分？貴乎直下承當，全身擔荷。不見世尊在靈山會上覿面分付，廣令流布，勿使斷絕，自後祖祖授受，以及三千年來，花分五葉，派列千岐，月燭慧燈，星排道樹，可謂盛矣。邇來去聖時遙，魔強法弱，善慶到此，事不獲已，只得脫珍御服，著敝垢衣，入廛垂手，帶水拖泥，欲覓一箇半箇，上報佛恩，下化眾生，務使正法流通。正恁麼時如何慶祝？日月兩輪明聖德，山河百億壯皇圖。」復舉：「法燈禪師云：『山僧本欲潛棲嵒壑，養拙過時，無奈清涼老人有件不了公案，今日出來，特為了卻。』時有僧問：『未審有甚麼不了？』燈",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: strip off the robe of jewels, don the tattered cloth, reach into the market dust — hoping for one man, or half of one."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "C/C077/C077n1710.xml",
+        "X/X85/X85n1592.xml",
+        "B/B25/B25n0145.xml",
+        "J/J25/J25nB163.xml",
+        "X/X72/X72n1443.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Nanyang Huizhong",
+        "Danxia Tianran",
+        "Foyan Qingyuan",
+        "Gaofeng Yuanmiao",
+        "Zhongfeng Mingben",
+        "Baizhang Huaihai",
+        "Guting Shanjian",
+        "Kongyin Daodu",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Far from the sages in time — the corpus's standing diagnosis of a thin age, first sighed over Danxia and then turned against itself: no last phase of the way, no excuse at the eye's falling. The origin. Nanyang Huizhong, national teacher: Danxia comes to visit and has barely spread his mat when the teacher says — no need, no need. Danxia steps back three paces. Thus it is, thus it is. He steps forward three paces. It is not so, it is not so. Danxia circles the seat once and walks out. Says the teacher: far from the sages in time, men are mostly slack — thirty years on, to find even one man will be hard. Baofu's comment: Danxia hurried his journey and never felt his weariness. Foyan Qingyuan refuses the excuse the clause had become: nowadays, far from the sages in time, men are slack — the usual talk runs true phase, semblance phase, last phase. Says this mountain monk: the way has no true, semblance, or last phase — the way of the buddha is always in the world. Hit the moment and it is the true phase; miss the moment and it is semblance and last. You must resolve to settle this thing; the crux is getting out of birth-and-death — and birth-and-death was never there to get out of: seek it in the three times and it cannot be found. The past buddhas said it — the past mind cannot be got, the present mind cannot be got, the future mind cannot be got. Then who is the one, distinct upon distinct, listening to the way right now? And Gaofeng Yuanmiao, over the litany of the old hard years: ah — in the last phase, far from the sages in time, there is a whole breed of drifting types who simply do not believe there is a gate of awakening; they only bore on this side and reckon on that side. Grant the reckoning done and the boring finished — when the eyes fall to the ground, will any of it serve? If it would serve, why did the World-Honored One need six years in the snow mountains, Bodhidharma nine years at Shaolin, Changqing seven mats worn through sitting, Xianglin forty years to make one piece, Zhaozhou thirty years with no mixed intentions — why did they buy themselves all that suffering? Zhongfeng Mingben turns the clause into the reason the institutions exist: the earlier ones knew full well the direct pointing of no-letters-established — but because far from the sages in time, men's hearts sink day by day, their will to embody the way no longer close-grained, their consciousness chasing objects daily adrift — they had no choice but to rescue it. Before Baizhang built the monasteries, men went ragged and unwashed, lingering in empty mountains and great marshes, all-out for the way; by Baizhang's time there were already the old, the sick, the fearful — hence the monastery compound, to comfort the old and sick and support the way of the patriarchs. Had the elders not bent to the times and deftly set up the means, the two words direct-pointing would long since have died out unheard. Guting Shanjian, writing to the old pine monk: grieved for the grove's autumn season — far from the sages in time, everyone scrambling for snail-horn profit and fame, nursing hawk-stinking curds, not working on what is real, drumming up hollow heads; where they open their mouths, mostly book-drilling; when a thought rises, all dust-world opinions. Pile flowers and cluster brocade as they may, matching four-six into essays and pairing four-five into lines, holding mere mind-objects all the while — the true cause is lost entire; even should the root-light stir, they take the thief for their son. And Kongyin Daodu, writing to the scholar Huang: for the beginner the work is truly hard — no road ahead, the old dwelling lost behind, nothing to stand the foot on; none but the great-rooted fail to fall back. Add to it that far from the sages in time the demons are strong and the way weak: the few who incline to this gate take blessing-making and good works for the ultimate, flatly refusing to believe there is a truth of seeing the nature and attaining the way on the spot — one who hears mind-itself-is-buddha and does not turn his head is truly hard to find. Your wisdom outruns most — encourage yourself: the great matter of birth-and-death, the swiftness of impermanence — do not just chant it past as a line. Baiyu Jingsi, at the installation on Mount Shanqing: of late, far from the sages in time, the demons are strong and the way weak — Shanqing has come to this pass with no way out of it: he can only strip off the robe of jewels and don the tattered cloth, reach his hand into the market dust, drag through water and mud, hoping to find one man, or even half of one, to repay the buddha's kindness above and bring beings across below, set on keeping the true way circulating. And just at such a moment, how to celebrate? Two wheels, sun and moon, brighten the sage virtue; a hundred million mountains and rivers swell the royal design."
+    }
+  ]
+}

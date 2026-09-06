@@ -1,0 +1,208 @@
+{
+  "Id": "t_dbe708d373dc",
+  "SourceTerm": "從朝至暮",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T09:35:30Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "from morning to evening",
+      "AlternateTargets": [
+        "all through the day"
+      ],
+      "SearchAliases": [
+        "from dawn till dusk",
+        "the whole working day",
+        "morning to nightfall"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 153 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0542c01",
+          "ToLb": "0542c12",
+          "Kwic": "」進云：「如何是世諦流布？」師云：「江西湖南新羅渤海。」問：「密室不通風時如何？」師云：「響露鳴風。」進云：「如何是密室中人？」師云：「再陳難辨。」問：「直與麼來時如何？」師云：「照從何立？」進云：「不去不來時如何？」師云：「前語道什麼？」問：「進向無門時如何？」師云：「三千八百。」上堂，云：「放你橫說豎說，從朝至暮，無人塞你口；不放你說，又作麼生？」上堂，大眾集良久，驀拈拄杖云：「看！看！北鬱單越人見汝搬柴不易，在中庭裏相撲供養你。更為你念《般若經》云『一切智智清淨，無二無二分，無別無斷故。』」僧便問：「如何是一切智智清淨？」師云：「西天斬頭截臂，這裏自領出去。」問：「挂錫幽巖時如何？」師云：「在什麼處？」問：「如",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Yunmen Wenyan owns the retained deployment, throwing the day open for crosswise and lengthwise speech with no one to stop the mouth, then asking what remains when speech is not granted."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0521a13",
+          "ToLb": "0521b03",
+          "Kwic": "施，盡大地人喪身失命；古鏡未彰，盡十方世界向甚處出頭？這般野狐見解，是諸方普請會底，汝等諸人作麼生折合？片雲歸洞晚，斜日去天低。入羅漢五臟，示眾云：黃面老人乾屎橛，參隨一火爛泥團，心肝腸胃皆條直，𮒄飯茶花照膽寒。佛法雖然未夢見，神通却許入雲端，應須痛念歸宗寺，時復持盂下翠巒。上堂，云：三十二相，八十種好，從朝至暮，啾啾唧唧，說黃道黑，不知那裏是二時？上堂：喫粥喫飯，不覺嚼破舌頭，血濺梵天，四天之下霈然有餘。玉皇大帝惡發，追東海龍王向金輪峰頂鞫勘，頃刻之間追汝諸人作證見也。且各請依實供通，切忌回避。儻若不實，喪汝性命。上堂，舉僧問徑山：掩息如灰時如何？山云：猶是時人功幹。僧云：幹後如何？山云：耕人田不種。僧云：畢",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, grading the marks and adornments a day-long chirping that talks yellow and black without knowing where the two periods are."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0606a24",
+          "ToLb": "0606b13",
+          "Kwic": "益。我與侍者說，每遇五參，須說做工夫一段，他何不領略？又何須到方丈聽說？方纔便是這裡無口傳心授底佛法。待此後五參，把我自己為伊再說一遍。山僧五歲出家，在上人侍下，聽與賓客交談，便知有這事，便信得及，便學坐禪，一生愚鈍，喫盡萬千辛苦。十六歲為僧，十八歲行脚，銳志要出來究明此事，在雙林鐵橛遠和尚會下打十方，從朝至暮，只在僧堂中，不出戶庭，縱入眾寮，至後架，袖手當胸，徐來徐往，更不左右顧，目前所視，不過三尺。洞下尊宿，要教人看狗子無佛性話，只於雜識雜念起時，向鼻尖上輕輕舉一箇無字，纔見念息，又却一時放下著，只麼默默而坐，待他純熟，久久自契。洞下門戶工夫，綿密困人，動是十年二十年不得到手，所以難於嗣續。我當時忽於念頭起處",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment, spending the ten-direction retreat morning to evening inside the hall, eyes never past three feet."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0678c03",
+          "ToLb": "0678c17",
+          "Kwic": "雲頭，向虗空裏書一本上大人，教諸人依樣畫猫兒去也。山僧昔年在雙徑歸堂未及一月，忽於睡中疑著萬法歸一、一歸何處，自此疑情頓發、廢寢忘餐，東西不辨、晝夜不分，開單展鉢、屙屎放尿，至於一動一靜、一語一默，總只是箇一歸何處，更無絲毫異念，亦要起絲毫異念了不可得，正如釘釘膠粘、撼搖不動，雖在稠人廣眾中如無一人相似，從朝至暮、從暮至朝，澄澄湛湛、卓卓巍巍，純清絕點、一念萬年，境寂人忘、如癡如兀，不覺至第六日隨眾在三塔諷經次，擡頭忽覩五祖演和尚真讚，驀然觸發日前仰山老和尚問拖死屍句子，直得虗空粉碎，大地平沈，物我俱忘，如鏡照鏡。百丈野狐狗子佛性，青州布衫女子出定話，從頭密舉驗之，無不了了。般若妙用，信不誣矣。前所看無字，將及三",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment, holding the doubt-mass nailed and glued through the doubled day-span until the void shatters at the stupa recital."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0897c29",
+          "ToLb": "0898a12",
+          "Kwic": "法法全周。把住時，深宮藏尾，密室垂頭。寶閣香殘，誰能摸索？瑤階月冷，孰敢追尋？若是收放雙行，直得佛祖膽喪，正偏絕跡，賓主忘形。說甚句到意不到，意到句不到。」遂卓拄杖曰：「雄圖霸業人何在，踏月敲門我獨留。」上堂，僧問：「向上一路如何進步？」師曰：「天左旋，地右轉。」曰：「得力處乞師指示。」師曰：「一日三飧，從朝至暮。」曰：「學人不會。」師曰：「日裏看牛，夜間推磨。」乃曰：「向上路，欲進步，天左旋，地右轉。得力處乞指示，一日三飧，從朝至暮。者裏若有箇漢出來赤身擔荷，我當覿面分付。且分付箇甚麼？日裏看牛，夜間推磨。」佛成道，上堂。「受盡饑寒五六年，宸宮不假鴈書傳，星光照眼乘機變，步轉青蘿下雪巔。識時務，達權宜，在世尊固",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment, answering the working point with three meals a day, morning to evening, and herding the ox by day while the mill turns by night."
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0829a15",
+          "ToLb": "0829a29",
+          "Kwic": "間穩草鋪睡，饑時用茶淘飯喫，水牯牛走下明月湖，喚牧童趁起，有甚麼奇特？雖然如是，明眼人難瞞。」示眾。「種田博得家常飯，住山不用買柴燒，生涯本分只如此，安眠飽食任兒曹。雖然如是，要切記：早起來了下單，下單了洗面，洗面了禮誦，禮誦了喫粥，喫粥了出坡，出坡了洗足，洗足了喫茶，喫茶了止靜，止靜了放參，放參了過午。從朝至暮，行坐次第，語默平常，諸有所作，惟此一事。若道別有佛法，便是向外馳求，雲居門下無如是漢。」僧問：「一氣不來，向甚麼處安身立命？」師云：「鑊湯鑪炭。」誕日，因齋請，示眾。「七月七，阿娘生我犯好日。若不犯好日，怎得圓通力？有生有滅也不是，無生無滅也不是，非有生非有滅也不是，非無生非無滅也不是。離四句，絕百非，",
+          "MasterName": "Fangrong Ruxi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Ruxi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. Fangrong Ruxi owns the retained deployment, running the whole day's order aloud and ruling every doing this one thing, with no outward chaser under the Yunju gate."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0126c03",
+          "ToLb": "0126c17",
+          "Kwic": "堂崇禎壬午，住廣州訶林，上堂。師拈香祝聖畢，復拈香云：「此一瓣香，天日覆而不知高，地日載而不知厚，舉起則耀古騰今，放下則傾湫倒嶽，在山僧手裏以無名，示人天目前而爍破，爇向爐中，耑申供養，見住羅浮華首臺堂上空隱獨和尚，用酬法乳之恩。」遂就座。問荅別錄。乃云：「盡大地是我人安居之場，盡日月歲時是我人安居之候，從朝至暮穿衣喫飯、掃地燒香、搬柴運水、迎賓待客，乃至普天之下四民作息、百務繁興，盡是我人安居之事，方寸之內是非生滅、昏沈掉舉、散亂禪寂，盡是我人安居之心。然既如此，還有甚麼制可結？諸兄弟！事不得一向，在佛法上須有箇宣揚底時節，在諸人本分事上也有箇緣起底時節，山僧承諸大居士、大耆德請住此院，今日為諸兄弟結制，事不獲",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Kongyin Daodu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, making the whole earth the retreat ground and the day's dressing, eating, sweeping, and greeting the retreat's own business, until no retreat is left to close."
+        },
+        {
+          "RelPath": "J/J38/J38nB408.xml",
+          "FromLb": "0268c15",
+          "ToLb": "0268c29",
+          "Kwic": "，不在四事。』者話大似持缽不得，詐道不饑。豈有愛貧？但聽之緣耳。秖如箇事是你腳根下具足，不須聽緣，豈宜等待？不見五祖演禪師在白雲答靈源和尚云：『一年諸莊顆粒不收，不以為憂，可憂者一堂數百衲子無一箇透狗子無佛性話，恐佛法將滅耳。』故知雖無四事，未是我們可憂處。諸兄弟！我尋常入室并不曾教你參話頭，秖教在事物上從朝至暮許多相續，就中看出箇不相續底，便是你本來面目。若看得出，世尊拈花也瞞你不得、達磨面壁也瞞你不得、狗子無佛性、麻三斤、乾屎橛都瞞你不得，一一都是你註腳，故不必參話頭。若必要參，恰似抱橋柱洗澡，胸次中平白地又生起一座須彌。你但體認中莫用意卜度者箇是、那箇不是，如失物人一般，止存箇得回之心，久久在事物上忽然得心",
+          "MasterName": "Azi Jinwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Azi Jinwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Chan Master Aziwa of Haichuang. Azi Jinwu owns the retained deployment, teaching no headword in the room but only this: out of the day's long continuity, see the one discontinuous — your original face."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "X/X69/X69n1359.xml",
+        "X/X70/X70n1397.xml",
+        "X/X70/X70n1400.xml",
+        "J/J36/J36nB369.xml",
+        "J/J29/J29nB249.xml",
+        "J/J38/J38nB406.xml",
+        "J/J38/J38nB408.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Ying'an Tanhua",
+        "Xueyan Zuqin",
+        "Gaofeng Yuanmiao",
+        "Zhe'an Jingfan",
+        "Fangrong Ruxi",
+        "Tianran Hanshi",
+        "Kongyin Daodu",
+        "Azi Jinwu",
+        "Wuzu Fayan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A day-span unit naming the whole stretch from morning to evening — granted, graded, scheduled, and seen through across the records. Yunmen Wenyan throws the whole day open — speak crosswise, speak lengthwise, morning to evening, no one stops your mouth; and not letting you speak, how then? — the grant and the trap in one address, carried in the five-house selection; Ying'an Tanhua grades the thirty-two marks and the eighty adornments — morning to evening they chirp and squeak, talking yellow and black, never knowing where the two periods are; Xueyan Zuqin tells his own young seeking — tonsured at five, walking out at eighteen, spending the ten-direction retreat at the Twin Grove hammer-stake's assembly morning to evening inside the monks' hall, never past the courtyard gate, hands folded at chest, eyes never past three feet; and Gaofeng Yuanmiao, his doubt-mass nailed and glued, unmoved in a crowd as though alone, morning to evening and evening to morning, limpid and towering, pure clarity without a speck, one thought ten thousand years — until the sixth day at the stupa recital the void shatters and the great earth sinks. Zhe'an Jingfan answers the asking after the working point — three meals a day, morning to evening — and, told it is not understood, herding the ox by day and turning the mill by night; Fangrong Ruxi runs the whole schedule aloud — rising, washing, reciting, porridge, field-work, foot-washing, tea, still-sitting, the afternoon past — morning to evening in ordered sitting and walking, plain word and plain silence, every doing this one thing, and any talk of another teaching thrown out as outward chasing with no such fellow under the Yunju gate; Tianran Hanshi opens the retreat with the whole earth the retreat ground and all suns and moons its season — dressing and eating, sweeping and incense, firewood and water, greeting guests, the four peoples' work and the hundred tasks rising, and even the rise and fall of right and wrong inside the square inch, all the retreat's own mind — so what retreat is there left to close?; and Azi Jinwu, who never taught headwords in the room, teaches only this: on the things themselves, through the day's long continuity, see out the one discontinuous — that is your original face, and the held-up flower and the wall-facing one can no longer fool you."
+    }
+  ]
+}

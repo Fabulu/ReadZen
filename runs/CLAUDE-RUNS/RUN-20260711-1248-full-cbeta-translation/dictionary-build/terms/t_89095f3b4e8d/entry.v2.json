@@ -1,0 +1,203 @@
+{
+  "Id": "t_89095f3b4e8d",
+  "SourceTerm": "亙古亙今",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T08:35:17Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "from the deepest past to this very moment",
+      "AlternateTargets": [
+        "through all time",
+        "the same then as now"
+      ],
+      "SearchAliases": [
+        "spanning past and present",
+        "from eternity to now",
+        "one sweep of time, past and present"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 160 hits in 84 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0008a28",
+          "ToLb": "0008b10",
+          "Kwic": "言。」乃云：「從上來事迥絕言詮，凜凜神威如王寶劍。與麼，與麼，萬里人荒；不與麼，不與麼，金鋀莫辨。然事無一向，山僧曲為諸人八字打開去也。」遂豎起拂子，云：「還委悉麼？乾坤以此覆載，日月以此照臨，嶽瀆以此峙流，群靈以此生育，諸佛以此出世，祖師以此西來，聖明以此端拱馭民，士庶以此安家樂業。風光廓爾，遍界無遺，亙古亙今，絲毫弗易，且應時及節一句如何道？」擊拂子，云：「景星纔示現，八表納雍熙。」復舉僧問百丈：「如何是奇特事？」丈云：「獨坐大雄峰。」僧禮拜，丈便打。師云：「一問一荅，賓主歷然，這僧禮拜雖非好心，爭柰百丈棒頭有眼。今日或有問山僧：『如何是奇特事？』秪向他道：『李居士禱嗣設齋。』僧若禮拜，但云：『已後莫相辜負好。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, pinning the open scenery as spanning all time without a hair's shift."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0133b27",
+          "ToLb": "0133c10",
+          "Kwic": "復處震天機。」乃喝一喝，云：「諸仁者！這一喝有時作一喝用，有時不作一喝用，有時一喝不作一喝用，若人會得，管取參學事畢。會麼？王師合藉干城力，四海歸降賀太平。」李侍御請上堂。「有言無意號離鉤，拋出先天紫氣浮，泰華擘開輕有力，黃河畫斷水西流。若人會得這一句，則手握乾坤、指呼日月，先天地而不生、後天地而不老，亙古亙今只是個自己。諸人還道得麼？不然，老僧自道去也。今朝二月廿四，飯僧作大佛事，策起三丈白眉，直下為君指示。」乃揮拂大喝，下座。上堂。喝一喝，云：「特牛生兒也。」又喝一喝，云：「一馬生三寅。」又喝一喝，云：「此中一句，能令山河大地、草木風雲、情與無情一時轉大法輪、成等正覺。諸人要會麼？」復喝一喝，云：「向這裏入。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment, holding birth-before-heaven and deathless-after-earth in one breath and naming the whole span as only oneself."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0634a25",
+          "ToLb": "0634a28",
+          "Kwic": "覓起止。顛提起數珠示之，無孔鐵鎚當面擲。韓云：不會，六律分明。顛云：晝夜一百八，亙古亙今。山僧恁麼舉似，還當得慶讚也無？」突豎拂子云：「大顛和尚來也，即今在山僧拂子頭上合掌讚歎",
+          "MasterName": "Dadian Baotong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dadian Baotong",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Dadian Baotong owns the retained deployment, answering the puzzle with the bead-count that runs day and night through all time, in the telling Jifei Ruyi raises and seals with his whisk."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0760b24",
+          "ToLb": "0760c07",
+          "Kwic": "」進云：「如何是不恁麼一句？」師云：「弁山絕消息。」進云：「如何是恁麼中不恁麼？」師云：「弁山峰頂雲，太湖波底月。」進云：「如何是不恁麼中卻恁麼？」師云：「太湖波底月，弁山峰頂雲。」僧禮拜。小參。「因中明果德，果後施因行。因行一齊彰，聖凡無二道。既無二道，則知未離兜率已降皇宮，未出母胎度人已竟。如是則知亙古亙今秪是一念，無凡聖、無得失、無是非、無生佛，無有無塵塵爾剎剎爾，處處綠楊堪繫馬，頭頭顯、物物露，著著全是祖師機。於此會得，總是建化門頭邊事。須知更有向上一著子在。」良久云：「木人纔撫掌，石女笑呵呵。」僧問：「寒山雪覆烏藤樹，枯木逢春花再開，是如何？」師云：「九夏雪花飛。」進云：「等閑識得東風面，萬紫千紅總是春",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment, collapsing the whole sweep of time into a single thought with no ordinary and no sage, no gain and no loss."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0232a23",
+          "ToLb": "0232a27",
+          "Kwic": "怪性躁。」便打散，歸方丈。端午上堂。師云：「胸中流出，蓋天蓋地沒遮欄；時節到來，亙古亙今全體現。諸上座！且道即今是甚麼時節？正值五月五，山僧打退鼓，撞破勝負",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, letting the whole of it pour out of the chest and show entire the moment the season arrives."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0173c07",
+          "ToLb": "0173c21",
+          "Kwic": "元辰落處，便見歷代祖師本命元辰落處；見得歷代祖師本命元辰落處，便見三世諸佛本命元辰落處；見得三世諸佛本命元辰落處，便見汝諸人箇箇自己本命元辰落處；見得汝諸人自己本命元辰落處，便見山僧本命元辰落處；見得山僧本命元辰落處，方知在聖不增、在凡不減，非彼非此，無滅無生，一念平等，頓超十地，便乃隨處作主，遇緣即宗，亙古亙今，若出若沒，要且動他當人本體一些兒不得。然雖如是，秪如即境明心一句又作麼生道？」驀豎拂子，云：「還會麼？八方寧謐歸吾道，萬古乾坤化育中。」下座。天童林老和尚大祥，上堂。「多子塔前親分付，罕遇知音；麟湖岸上絕承當，難瞞明眼。欲其正脈流通，貴在源頭清楚，所以巴陵三轉語足可報德酬恩，興化一爐香便見披肝瀝膽。山僧",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment, riding the span on the everywhere-master line as what surfaces and sinks without anyone being able to stir the person's own standing ground."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0333a11",
+          "ToLb": "0333a25",
+          "Kwic": "不我前，日日是好日，年年是好年，臘翠雪庭樹，春回桃李天，龍華寺裡客，同悟未生前。」遂顧視左右，下座。上堂。「有一人日餐萬物不道飽，有一人從古至今不喫一物不道饑，這二人阿那個合受人天供養？」中秋，上堂。「松風清，山澗冽，八月秋，何處熱？天熱有時涼，人熱無間歇，欲間歇，回頭須見靈山月。這片月，也不圓，也不缺，亙古亙今照世間，不待今宵始皎潔。」遂顧視左右，云：「汝等諸人還見麼？」眾皆罔措，師下座，一齊打散。謝士祥為母祝壽，請上堂。「飲水要知源，學道要通理，理通一切真，壽量無所比。松柏有榮枯，海嶽竟深峙，月滿還復虧，日升還復止。」卓拄杖，云：「惟有這片地，無終亦無始，萬劫與千生，超越於彈指。善哉諸善人，為母祈福祉，人眷共",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment, closing on the moon that neither rounds nor wanes and lights the world through all time, needing no festival night to shine."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0260c05",
+          "ToLb": "0260c18",
+          "Kwic": "生，幻法云何立？如幻三昧王，彈指超無學。此阿毘達磨，十方薄伽梵，一路涅槃門。』」拈拄杖，云：「恁麼會去，彈指超無學。」橫置拄杖，云：「恁麼會去，停四長智，養病喪軀。」復卓拄杖，喝一喝，云：「這段葛藤貶向什麼處去也？」良久，云：「神龍一舉透無邊，纖鱗猶在泥中躍。」下座。上堂。「月月有箇初一，諸人那箇不識？雖然亙古亙今，未免有虛有實。還有知虛識實者麼？」問答竟，乃云：「三世諸佛證不到，歷代祖師說不及，作善便生樂方，作惡還沉苦地。娑婆世界斗量來，秪得三千一百斛，憑中賣與阿修羅，十貫銅錢猶不足。告汝大眾，此事不可使外人知。外人知道，將謂山僧既稱一方善知識，為什麼將大斗量常住東西私下出賣？」良久，云：「山僧有箇道理回復他，且",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment, granting the span and at once leaving room in it for the true and the false."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "J/J34/J34nB299.xml",
+        "J/J38/J38nB425.xml",
+        "J/J26/J26nB188.xml",
+        "J/J27/J27nB193.xml",
+        "J/J28/J28nB203.xml",
+        "J/J38/J38nB410.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Xingyuan",
+        "Hanyue Fazang",
+        "Dadian Baotong",
+        "Jifei Ruyi",
+        "Ruibai Mingxue",
+        "Yinyuan Longqi",
+        "Yun'e Xi",
+        "Lianfeng Su",
+        "Yunwai Xingze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The time-span: what the teacher points at is fixed from the deepest past to this breath, while everything that moves, moves across it. Baichi Xingyuan pins the open scenery at an offering hall as reaching everywhere and spanning all time without a hair's shift; Hanyue Fazang tells his assembly that whoever gets that line holds sky and earth by the hand, born before heaven and earth and never aging, and the whole span is only oneself; Dadian Baotong, in the old case Jifei Ruyi raises, lifts his beads at the exiled official's puzzle and answers with the hundred-and-eight count that runs day and night through all time; Ruibai Mingxue folds the whole coming-and-going of the teaching story into one thought that spans all time with no ordinary and no sage. Yinyuan Longqi at the fifth-month gathering lets the whole of it show the moment the season arrives; Yun'e Xi rides the span on the everywhere-master line, coming and going like a thing surfacing and sinking; Lianfeng Su closes his hall address on the moon that neither rounds nor wanes and lights the world through all time; and Yunwai Xingze warns the assembly that even so, the span-member still leaves room for the true and the false."
+    }
+  ]
+}

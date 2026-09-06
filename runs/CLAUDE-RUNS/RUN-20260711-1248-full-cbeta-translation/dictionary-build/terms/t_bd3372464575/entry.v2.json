@@ -1,0 +1,205 @@
+{
+  "Id": "t_bd3372464575",
+  "SourceTerm": "趙州關",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A4",
+  "WrittenUtc": "2026-09-06T08:49:49Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the Zhaozhou pass",
+      "AlternateTargets": [
+        "the Zhaozhou barrier"
+      ],
+      "SearchAliases": [
+        "Zhaozhou pass",
+        "Zhaozhou barrier",
+        "Zhaozhou checkpoint",
+        "the pass of Zhaozhou"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 186 hits in 105 files representing 104 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0003c12",
+          "ToLb": "0003c24",
+          "Kwic": "仞峰頭，把臂行於際天洪浪，縱使一色邊也須盡情鏟卻，果是無瑕玉，也要一椎擊碎。」遂拍案云：「呵！呵！呵！前無村兮後無坫，雨過谿塘柳如線。青簑綠笠舊家風，吹落荷華三四片。」擿拂云：「鑑。」祈雨，上堂。拈拄杖云：「震法雷兮鳴法鼓，山門頭彌勒開眉，布慈雲兮灑甘露，塔尖上商羊起舞。四海龍王腦門裂，三十三天叫冤苦。雲鎖趙州關，雨打雲門普。拈起一豪端，塵剎無焦土。於此作佛法商量，笑諸君從頭莽鹵。所以此一著子，大似龍王行雨，不從龍王身出，不從心出，不自雲生，亦非空有，以不思議力時行雨事，成熟穀稼，繁長艸木。大眾！既不從身、心、空、雲中出，且道雨自何來？」卓拄杖云：「赫連皇甫。」爾密和尚入塔，上堂。白椎竟。師云：「若論第一義，適纔",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: clouds lock the Zhaozhou pass, rain beats the Yunmen universal — yet one hair-tip lifted leaves no scorched earth."
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0368a17",
+          "ToLb": "0368a29",
+          "Kwic": "云：「《金剛般若波羅蜜經》，如是我聞，一時佛在舍衛國。」僧云：「不是。」師云：「我自理經也不得？」因僧辭去，師云：「闍梨出外，忽有人問：『還見趙州否？』你作麼生祗對？」云：「只可道見。」師云：「老僧是一頭驢，你作麼生見？」無語。師問新到：「從什麼處來？」云：「南方來。」師云：「還知有趙州關麼？」云：「須知趙州關者。」師叱云：「者販私鹽漢。」又云：「兄弟！趙州關也難過。」云：「如何是趙州關？」師云：「石橋是。」有僧從雪峰來，師云：「上座莫住此間，老僧者裏只是避難所在，佛法盡在南方。」云：「佛法豈有南北？」師云：「直饒你從雲居、雪峰來，也只是箇擔板漢！」云：「未審那邊事如何？」師云：「你因什麼夜來尿床？」云：「達後如何",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment, the eponym source: the pass is hard to cross, and what it is — the Stone Bridge."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0710a21",
+          "ToLb": "0710b03",
+          "Kwic": "捎艸鞋去，抱得雲中師子兒？如何是師子兒？」師云：「蹋殺無邊裴大蟲。」進云：「雖具爪牙，未聞哮吼在。」師云：「霹靂過頭猶瞌睡。」進云：「既具爪牙，又善哮吼，因甚被文殊騎卻？」師云：「斧斫不開。」乃云：「炎夏已去，金風徐來。白露微微，浦口之歸帆似箭；新煙匝匝，林梢之曉月如眉。砌蛩引出萬家砧，羌笛吹來千里怨。雲出趙州關，一任東穿西穴。秋入雲門普現前，七縱八橫。無力打禾山之鼓，何心拋象骨之毬？德山棒拈過海東，臨濟喝吞聲河北，直得釋迦、彌勒無處出頭，文殊、普賢退身有分。于斯時也，喚作佛，眼中著屑；喚作法，千錯萬錯；喚作禪，獼猴弄𥻿膠；喚作道，癩馬繫枯樁。不見道：即此見聞非見聞，無餘聲色可呈君。箇中若了全無事，體用何妨分不",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian'an Sheng. Tian'an Sheng owns the retained deployment: the clouds leave the Zhaozhou pass and bore east and west at will."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0751b24",
+          "ToLb": "0751c17",
+          "Kwic": "見前。直須頓歇妄緣。無念無為放教虛靜。千聖萬聖未有不從此門而得入者。只在存誠堅固努力向前。但辦肯心必不相賺。珍重。圓悟佛果禪師語錄卷第八圓悟佛果禪師語錄卷第九宋平江府虎丘山門人紹隆等編小參二小參二夾山寺入院小參。師云。收光攝彩信天真。事事圓成物物新。內既無心外無相。更於何處覓通津。還有透得趙州關底麼。試出眾相。見問承師有言逶得趙州關。如何是夾山關。師云。退身三百步。進云。恁麼則九天雲靜鶴飛高。師云。豈干闍黎事。進云。共相證據也何妨。師云。持聾作啞。師乃云。牛頭沒馬頭回。全彰照用。金烏急玉兔速。略露權衡。透得過底。似虎靠山如龍得水。透不過底。聞恁麼道。似鴨聽雷鳴。蓋未諳悉元由一向情存知解。山僧今",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: anyone who has got through the Zhaozhou pass, step out and show themselves."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0477b03",
+          "ToLb": "0477b17",
+          "Kwic": "似將錢買油餈，喫了便不饑，其餘便道是瞞他亦可笑也。」公唯唯。拈曰：理會別人貓兒，走卻自家狗子，箇箇都是如此，潘待制且喜免得過，秪是不知有向上事。且道如何是向上事？咄！參箇頭正尾正始得。參政李公邴，字漢老，醉心祖道有年，聞大慧排默照邪禪，疑怒相半。及見慧示眾，舉趙州庭柏垂語曰：「庭前柏樹子，今日從新舉；打破趙州關，特地尋言語。既是打破趙州關，因甚麼特地尋言語？當初秪道茆長短，燒了方知地不平。」公領悟，謂慧曰：「無老師後語，幾乎錯過。」後以書咨決曰：「某近扣籌室，承蒙擊發，蒙滯忽有省入。顧惟根識暗鈍，平生學解盡落情見，一取一捨如衣壞絮行荊棘中適自纏繞，今一笑頓釋所疑，欣幸可量，非大宗匠委曲垂慈何以致此？自到城中著衣",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "later-quoter",
+                "commentator",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Dahui Zonggao owns the retained deployment, preserved in Yingshan Zhiyin's record: break through the Zhaozhou pass and he still hunts for words."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0329c15",
+          "ToLb": "0329c28",
+          "Kwic": "。」僧禮拜，師乃云：「金色伽黎異樣精，線行畦路似生成，披來獨踞華王座，說法分明不是聲。既不是聲，所說底是何法？還有證據得底麼？若證據得，便見得一切色是佛色、一切聲是佛聲，夢幻泡影全體無生，涅槃玅心當陽顯露。所以道：『塵說、剎說、熾然說，無間歇。』既無間歇，因甚十箇到者裏有五雙不聞？委悉麼？劍閣路危終易度，趙州關險實難行。」復舉：「阿難問迦葉尊者云：『世尊傳金襴袈裟外，更傳何物？』尊者呼：『阿難！』難應諾，尊者云：『倒卻門前剎竿著。』大眾！推倒即易，扶起即難。翠巖今日為阿難扶起剎竿去也。」卓拄杖一下，喝一喝，下座。諸郡化士歸，上堂。「敲遍千門萬戶，戴月披星；奔走四海五湖，衝寒犯暑。忘軀為法，堪作典型；垂手入廛，是",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: the Sword-Pavilion road is dangerous but crossable — the Zhaozhou pass is truly hard to walk."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0763a27",
+          "ToLb": "0763b13",
+          "Kwic": "處不安然？遠觀遠水渺無際，深入深山別有天。晝永樵歌聯谷口，夜來漁火出江干，休將春夏秋冬事，換卻白雲深處禪。次郡侯熊翁韻次郡侯熊翁韻插草藏身澬水東，毘耶消息許誰通？鶴蹤獨立千峰外，車駕何來萬樹中？有意尋真真否幻，無心對境境耶空，聲前一句如應問，夜海煙消杲日紅。初遊雲居作初遊雲居作路入雲霄山外山，幾人曾過趙州關，碧溪流水隔塵遠，明月湖光自古閒。千載樹神靈有在，萬年香火信無慳，徘徊祖道重輝日，杖缽相期去復還。輓六來王郡伯輓六來王郡伯雙清磯後五臺庵，此道思君是指南，松榻有時欣共塵，竹林無間喜深談。西峰遙下鵝頭髮，南國頻來鴈足函，獨悵死生情未盡，空教孤月照蘿龕。璧黃介公玻璃瓶璧黃介公玻璃瓶介公接得曼殊盞，化作頻伽甘",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: how many have crossed the Zhaozhou pass — blue streams shut the dust far off, moonlight on the lake idle from of old."
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0825a14",
+          "ToLb": "0825a27",
+          "Kwic": "退，師云：「祖師不會西來意，夫子忘懷上大人，說與時人不肯信，盲龜跛鱉最相親。」驀卓拄杖，云：「珍重！」掃膺祖塔，拈拄杖遶塔三匝，卓一卓，云：「這座窣堵波，自唐、宋、元、明，今近千載，聲跡尚存。喚作古塔，辜負今人；不喚作古塔，欺罔先聖。畢竟作麼生兩得相應去？看取璽上座。」撒開坐具大展三拜。示眾。僧問：「如何是趙州關？」師云：「大遠在。」乃云：「盡大地是個趙州關。有一等人未入謂入，欲出沒個出處；有一等人未出謂出，欲入沒個入處；有一等人未得出入自由，謂得出入自由，欲出入自由時又沒個出入自由處。此三等人費盡伎倆，還有透脫分也無？苦瓠連根苦，甜瓜徹蒂甜。」示眾。僧問：「如何是道？」師云：「步步踏著。」進云：「如何到家？」師",
+          "MasterName": "Fangrong Ruxi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Ruxi",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. Fangrong Ruxi owns the retained deployment: the whole earth is the Zhaozhou pass, and the three kinds of self-deceivers exhaust their tricks."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J27/J27nB189.xml",
+        "J/J24/J24nB137.xml",
+        "J/J26/J26nB187.xml",
+        "T/T47/T47n1997.xml",
+        "J/J27/J27nB198.xml",
+        "J/J28/J28nB208.xml",
+        "J/J28/J28nB219.xml",
+        "J/J29/J29nB249.xml"
+      ],
+      "RelatedMasters": [
+        "Sanyi Mingyu",
+        "Zhaozhou Congshen",
+        "Tian'an Sheng",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Yingshan Zhiyin",
+        "Guxue Zhenzhe",
+        "Zhuanyu Guanheng",
+        "Fangrong Ruxi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The pass named for the old master himself, where the school sets its barrier: his own Stone Bridge gate, the clouds that lock it, and the ruling that the whole earth is the crossing. Zhaozhou Congshen, meeting a monk fresh from the south, asks whether he knows the Zhaozhou pass — the monk claims to, and is called a salt-smuggler; the pass is hard to cross, and asked what it is, the master answers: the Stone Bridge; Yuanwu Keqin, entering Jiashan, verses that all things round themselves out and calls for anyone who has got through the Zhaozhou pass to step out — and when asked what the Jiashan pass is, backs off three hundred paces; Guxue Zhenzhe, at the kasaya presentation, rules the Sword-Pavilion road is dangerous but crossable — the Zhaozhou pass is truly hard to walk; and Fangrong Ruxi, sweeping the founding teacher's stupa, widens the image: the whole earth is the Zhaozhou pass, and three kinds of people — those who claim entry, claim exit, claim free passage — exhaust their tricks with no escape left. Sanyi Mingyu, at the rain prayer, verses that clouds lock the Zhaozhou pass and rain beats the Yunmen universal, yet lifting one hair-tip, no mote of scorched earth in any land; Tian'an Sheng, staff in hand at the autumn turn, lets the clouds leave the Zhaozhou pass and bore east and west at will while autumn enters the Yunmen universal, seven-free and eight-across; Dahui Zonggao, raising the cypress-tree case anew for Li Hanlao — verses that breaking through the Zhaozhou pass he still hunts for words, since at first he only spoke of the thatch's length and only when it burned knew the ground was uneven — is preserved by Yingshan Zhiyin's raised-old commentary; and Zhuanyu Guanheng, on his first visit to Yunju, asks how many have crossed the Zhaozhou pass — blue streams shut the dust far off, moonlight on the lake idle from of old."
+    }
+  ]
+}

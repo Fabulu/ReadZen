@@ -1,0 +1,175 @@
+{
+  "Id": "t_b2306ab1e9ed",
+  "SourceTerm": "全身放下",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T11:27:35Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "lay the whole body down",
+      "AlternateTargets": [
+        "set the whole self down",
+        "put everything down entire"
+      ],
+      "SearchAliases": [
+        "the whole-body put-down",
+        "total letting-drop",
+        "all held, all set down"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 118 hits in 81 files representing 79 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0006c19",
+          "ToLb": "0007a09",
+          "Kwic": "。尊賓互換。突曉途中眼不開。夜明簾外機旋轉。騎牛戴帽異中來。百煉真金色不變。上堂云。孤光轉夜。自然枯木也生花。垂手入𮠔。妙得荒田不揀草。可謂世界爾。眾生爾。塵塵爾。剎剎爾。念念爾。於恁麼時。更無異法。還會麼。機絲不掛梭頭事。文彩縱橫意自殊。上堂云。未痕青白。豈涉離微。坐斷報化佛頭。不見成住壞相。所以道全身放下。始解承當。作麼生是承當底事。良久云。十洲春盡花彫殘。珊瑚樹林日杲杲。上堂云。心月孤圓。義天洞曉。照中之虛。虛中之照。不萠枝上鳥初惺。無影樹頭春不老。垢衣權掛類中來。出門信手拈來草。上堂舉棱嚴會上十六開士。因僧浴時。隨例入室。忽悟水因。既不洗塵。亦不洗體。中間安然。得無所離。於是妙觸宣明。成佛子住。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained address: before the trace of blue and white, beyond parting and subtlety — sit astride the heads of the retribution and transformation buddhas, see no phase of forming, abiding, breaking; therefore it is said: lay the whole body down, and only then do you first understand undertaking — and what is the affair of undertaking? a long silence: spring spent in the ten isles, flowers withering; in the coral grove the sun shines bright."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0711a05",
+          "ToLb": "0711a19",
+          "Kwic": "今多少靈利人。向一色邊立定主宰。一切處禪將去。禪也禪得是。儞若不親向自己脚根下卒地斷嚗地折一回。殊不知和箇禪底。亦不曾脫他輪回生死。此事是博地凡夫。立地便要向他佛祖頭上坐臥。要於一剎那頃將他積刦根深蔕固底輪回生死連底一󷘓󷘓轉。是謂大事因緣。豈口出耳入而能及之者哉。如果未相應。且不要人別求方便。但只於十二時全身放下。單單靠取箇所叅話頭。日亦然夜亦然。行亦然坐亦然。生亦然死亦然。乃至上刀山入劒林亦皆然。更不生第二念。只麼純一無雜挨拶將去。久久純熟和箇亦然底同時脫略。心空及第其在斯焉。政與麼時喚一陽作六隂也得。喚六隂作一陽也得。喚全消是長亦得。喚全長是消亦得。喚不消不長即消即長總得。可謂真正衲子本色道流。遇緣即宗應時納",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained instruction: seek no other expedient — through the twelve hours lay the whole body down, lean singly on the examined saying: so by day, so by night; walking, sitting; living, dying; up the knife-mountain, into the sword-forest — no second thought rising; push through pure and unmixed, and when long ripened, even the 'so-it-is' drops off together — the empty-mind graduation falls just here."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0136a13",
+          "ToLb": "0136b02",
+          "Kwic": "陀破顏微笑，也未夢見教外別傳底意旨在。缺齒老胡，十萬里得得西來，面壁九年，二祖禮三拜，起來依位而立，喚作汝得吾髓，且莫誑謼別人好。自餘德山、臨濟、趙州、雲門天下老和尚，用盡自己查梸，總是平地生堆，無風起浪。點撿將來，各人脚跟下好與爛椎一頓，免見教壞人家男女。兄弟，若非真正要了辦生死大事，𢬵得十年二十年工夫，全身放下，靠一本色宗匠，與之決擇。如金在鑛中，入其爐韛，受其鉗鎚，千鍛萬煉，去其鑛穢，則金之本體，自然現前。又如清淨摩尼寶珠，處塵勞中，忽遇智人指出，去其塵垢，則珠之本體光明，頓然發現。而此金珠，乃是當人本有之體，非假外求，但經敏手煅煉，磨瑩出來，則其本地風光，何曾欠少。不見靈雲和尚，三十年做工夫，一日見桃花，",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained instruction: brothers — unless you truly mean to settle the great affair of birth and death, stake ten years, twenty years of work: lay the whole body down, lean on a true-rooted workman and have it out with him — like gold in the ore entering the furnace and bellows, taking the tongs and hammer, smelted a thousand times till the dross is gone and the gold's own body stands forth of itself; and that gold is your own originally-held body, never borrowed from outside."
+        },
+        {
+          "RelPath": "X/X63/X63n1257.xml",
+          "FromLb": "0762c10",
+          "ToLb": "0762c23",
+          "Kwic": "做工夫疑情發不起，便欲尋行數墨，檢討文字，廣求知解，將佛祖言教一串穿過，都作一箇印子印定，纔舉起一則公案，便作道理會去。於本參話頭上不能發起疑情，逢人難問，著則不喜，此是生滅心，非禪也。或隨聲應答，竪指擎拳，引筆疾書，偈頌開示，使人參究，亦有意味，自謂得大悟門。殊不知疑情發不起，皆是識心使然。若肯一念知非，全身放下，見善知識，求箇入路則可。不然，生滅心勝，久之則成魔著，殆不可救。做工夫疑情發不起，於境緣上生厭離，喜到寂靜無人處坐去，便覺得力，便覺有意思，纔遇著些動處，心即不喜，此是生滅心，非禪也。坐久則與靜境相應，冥然無知，絕對絕待，縱得禪定，凝心不動，與諸小乘何所異也？稍遇境緣，則不自在，聞聲見色，則生怕怖，由",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1257.xml). Boshan's Chan Admonitions. Wuyi Yuanlai owns the retained admonition: when the doubt-spring will not rise, do not go counting lines and inking letters, threading the buddhas' and founders' words into one stamp — that is the rising-and-falling mind, not Chan; but if you will know the wrong in a single thought, lay the whole body down, see a knowing friend and ask him for a way in — that will do; else the rising-and-falling mind wins, and in time it becomes a haunting no remedy reaches."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0227c21",
+          "ToLb": "0228a04",
+          "Kwic": "，盡屬純剛利器。庭前柏樹子成佛多時，檻外木樨花觸碎鼻孔，燈籠露柱喜氣盈眉，廚庫僧堂歡聲慶贊，只得屋角上鴟吻忍俊不禁，咬殺殿脊；虛空裏磨盤，手舞足蹈，踏碎蟾光。若有箇漢於斯承當得去，不妨坐斷報化佛頭，掀翻是非窠臼，橫身宇宙，獨步丹霄，不拜釋迦，高揖彌勒，不為分外；脫或未然，正好於三條椽下、七尺單前高掛缽囊，全身放下，豎起生鐵脊梁，務要剋期取證，驀地冷灰豆爆，裂破面門，究竟不離者裏。只如火燄為三世諸佛說法，三世諸佛立地聽，且道是甚麼意旨？」遂揮拂子，云：「三叉路口石人蹲。」除夕，小參。「捏不成團撥不開，何須南嶽又天台？六根門首無人用，空守寒爐撥死灰。殊不知，有句無句，如藤倚樹；日面月面，空中閃電。海底起紅塵，靈機透脫",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained exhortation: failing that, then just here, under three rafters and before the seven-foot mat — hang the alms-bag high, lay the whole body down, rear the raw-iron spine and spine through, set a date and take the proof: all at once a bean bursts in the cold ash and the face-gate splits — and the end never leaves this spot."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0183a15",
+          "ToLb": "0184a03",
+          "Kwic": "挂壺中師云貪觀天上月失卻手中橈進云還有向上事也無師云你且向下薦取進云莫𠊳是麼師云䥘乃云風和日麗萬象昭宣鳥語華香暜天同泰諸仁者縱𠊳心通無量時歷劫何曾異今日况復妙峰孤頂鳥道虛玄活計出青霄煙霞餐物外石頭大底大小底小明彰古佛之心󲊷竹一莖兩莖曲三莖四莖衺密闡西來祖意直得譚玄長老伏豹理竆說妙沙門雕龍技盡若果如此全身放下歇卻馳求則可謂道場不動參徧百城樓閣尚扄行周法界諸人參學事畢山僧出世功終其或未肰拈拄杖卓一下云我此法印為欲利益一切世間故說抂所遊方勿𡚶宣傳霛山三千秊外親敕山僧底今日仰仗道峰列祖旁資護法宰官近勞執事高人遠辱諸山大德同臨法會那隱綱宗特為諸人宣傳去也擿下拄杖復舉僧問投子如何是一大事因緣子云尹司空與山僧開堂佛",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained verdict: if it is truly so — the whole body laid down, the chasing-seeking rested — then the site never stirred though you walked all hundred cities, the tower-gates stay shut though you circled the whole realm: your seeking is finished, the mountain monk's work in the world is done; and the address closes on the seal he was ordered not to hand around carelessly."
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0224a22",
+          "ToLb": "0224b06",
+          "Kwic": "「禪宗五派還有優劣也無？」師豎拂，云：「總向者裡會取。」進云：「和尚鬼眼。」師云：「臨行放你一著。」光禮拜。乃云：「若論個事，三世諸佛提不起，歷代祖師傳不及，三乘十二分刻影鏤空，一千七百則拿三道兩。所以，釋迦於然燈會上徒勞布髮，神光於熊耳山前空爾埋腰。果是大丈夫漢，向黃面老人未曾出世、碧眼阿師未曾西來以前全身放下，便解橫衝直撞、倒捋斜拋，寒騎石馬，追回沙磧之風；夜放泥牛，踏碎澄潭之月，到恁境界，正須一粒巴豆盡情瀉卻，然後不妨在天同天、在人同人、在僧同僧、在俗同俗，遼陽底不妨長在遼陽，海州底不妨各還海州，牛庄上一任送往迎來，金塔下從教饑飧渴飲。」喝一喝，云：「三十年後莫道老僧誤賺諸人。」下座。上堂。師云：「盡十方",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke owns the retained stake: the three-age buddhas cannot lift it, the founders cannot hand it on — a true great man lays the whole body down before the yellow-faced elder ever left home, before the blue-eyed one ever came west, and then he can charge crosswise and fling aslant: cold, riding the stone horse, win back the desert wind; by night, loose the mud ox to tread the bright moon of the clear pool to pieces."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "B/B25/B25n0145.xml",
+        "X/X71/X71n1409.xml",
+        "X/X63/X63n1257.xml",
+        "J/J37/J37nB383.xml",
+        "L/L155/L155n1643.xml",
+        "J/J38/J38nB407.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Zhongfeng Mingben",
+        "Yuejiang Zhengyin",
+        "Wuyi Yuanlai",
+        "Hanxiu Ruqian",
+        "Muchen Daomin",
+        "Qianshan Shengren Hanke"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Lay the whole body down: the precondition of undertaking, the twelve-hour stake, the raw-iron spine upright under three rafters — everything held, set down entire. Hongzhi Zhengjue, in the hall: sit astride the heads of the retribution and transformation buddhas, see no phase of forming, abiding, breaking — therefore it is said: lay the whole body down, and only then do you first understand undertaking; and what is the affair of undertaking? a long silence — spring spent in the ten isles, flowers withering; in the coral grove the sun shines bright. Zhongfeng Mingben, instructing the trainee: seek no other expedient — through the twelve hours lay the whole body down, lean singly on the examined saying; so by day, so by night; walking, sitting; living, dying; up the knife-mountain, into the sword-forest; no second thought rising — push through pure and unmixed, and when long ripened even the 'so-it-is' drops off together: the empty-mind graduation falls just here. Yuejiang Zhengyin, to the brothers: unless you truly mean to settle the great affair, stake ten years, twenty years: lay the whole body down, lean on a true-rooted workman and have it out — gold in the ore, furnace and bellows, tongs and hammer, smelted a thousand times till the dross is gone and the gold's own body stands forth; and it never was borrowed from outside. Wuyi Yuanlai, in the Admonitions: when the doubt-spring will not rise, do not go threading the words into one stamp — that is the rising-and-falling mind; but know the wrong in a single thought, lay the whole body down, see a knowing friend and ask for a way in. Hanxiu Ruqian, opening the retreat: if not that, then just here, under three rafters before the seven-foot mat, hang the alms-bag high, lay the whole body down, rear the raw-iron spine, set a date and take the proof — all at once a bean bursts in the cold ash, the face-gate splits, and the end never leaves this spot. Muchen Daomin, in the hall: if it is truly so — the whole body laid down, the chasing-seeking rested — the site never stirred though you walked all hundred cities, the tower-gates stay shut though you circled the realm: your seeking is finished, the mountain monk's work in the world is done. Qianshan Shengren Hanke, before the assembly: the three-age buddhas cannot lift it, the founders cannot hand it on; a true great man lays the whole body down before the yellow-faced elder left home and before the blue-eyed one came west — then he can charge crosswise and fling aslant: cold, riding the stone horse, win back the desert wind; by night, loose the mud ox to tread the bright moon of the clear pool to pieces."
+    }
+  ]
+}

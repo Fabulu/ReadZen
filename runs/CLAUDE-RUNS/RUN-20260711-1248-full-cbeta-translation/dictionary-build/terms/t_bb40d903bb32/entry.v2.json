@@ -1,0 +1,193 @@
+{
+  "Id": "t_bb40d903bb32",
+  "SourceTerm": "如喪考妣",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T07:52:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "as if mourning one's own parents",
+      "AlternateTargets": [
+        "grieving as at a parent's death"
+      ],
+      "SearchAliases": [
+        "as though bereft of both parents",
+        "grief-stricken like a parent's death",
+        "mourning as after father and mother"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 255 hits in 98 files representing 96 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0114a18",
+          "ToLb": "0114a23",
+          "Kwic": "不妨掉臂，打草只要驚蛇。若能一撥便轉，免致撒沙撒土。睦州示眾。大事未明，如喪考妣。大事既明，亦如喪考妣。青峰楚因僧問：大事既明，為什麼亦如喪考妣？楚云：不得春風花不開，",
+          "MasterName": "Muzhou Daoming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muzhou Daoming",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of Raised Old Cases from the School Gate. Muzhou Daoming owns the retained deployment, fixing parental mourning as the standing order for the great affair in either state, in the old-case anthology's section under his own name."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0279b26",
+          "ToLb": "0279c09",
+          "Kwic": "餘日了也，山僧今日為你們拈卻，再不可放在堂裏。既不放在堂裏，且道放在什麼處？還會麼？」眾無語，師擊竹篦一下。良久，云：「眼若不睡，諸夢自除；心若不異，萬法一如。大小祖師可謂不辭泥水，點破諸人命脈了也。更道箇歸根得旨，便可洗腳上船，無端隨照失宗，依舊穿靴打睡。」眾禮拜。小參。「光陰迅速，歲序遷流，大事未明，如喪考妣。汝等還知有光陰常住、歲序不遷者麼？」卓拄杖，云：「快些悟去，事同一家，纔涉思惟，流轉不息。」復卓拄杖，顧大眾，云：「會麼？杖頭日月絕遷流，六道人天一鑑收，亙古亙今無別物，有何玄玅可貪求？」喝一喝。解制，小參。「山僧近來因邪流混雜，羞與為伍，故普說已後了不陞堂，擬於解制後便將遠引他行，不意本山大眾懇留再三",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwai of Shending. Yunwai Xingze owns the retained deployment, setting the mourning measure against the rush of seasons and asking who knows the unshifting one."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0518b04",
+          "ToLb": "0518b20",
+          "Kwic": "何是展演之言即向他道問十答百有甚麼難如何是不展演之言喝一喝云且莫矢窖沸師云大慧老人土上加泥直饒道得十成是猶五十步而笑百步也若有問新報恩如何是展演之言不說一字如何是不展演之言其聲如雷送亡僧回示眾師云莫道亡僧遷化去松青草綠澗華香春風八面難迴避擬議思量落二三起不臥七示眾師拈拄杖云古者道大事未明如喪考妣大事已明如喪考妣你看大事已明尚是如喪考妣况大事未明者乎所以云叅須實叅悟須實悟直須廢寢忘餐向一念未生前識取自己廣大心體豈容魔外家亂承當個昭昭靈靈識神為主人公大事未明如喪考妣人共曉得你道大事已明為甚亦如喪考妣若透過者關方見過佛祖可與佛祖為師如或不然直饒大徹大悟如雲開月朗夜暗燈明識自本心見自本性未免見齊佛祖減他佛祖半德悟境不",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Yulin. Yulin Tongxiu owns the retained deployment, granting that the settled affair still grieves and driving home what that means for the unsettled one."
+        },
+        {
+          "RelPath": "J/J28/J28nB204.xml",
+          "FromLb": "0215c22",
+          "ToLb": "0215c26",
+          "Kwic": "毛收拾盡，單刀何故不承當？」裴增瑞薦嚴，請上堂。「大事未明，如喪考妣；大事已明，亦如喪考妣。試問大眾：大事未明，如喪考妣，宜然；大事已明，亦如喪考妣，何也？",
+          "MasterName": "Binya Jian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Binya Jian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya Jian owns the retained deployment, opening the memorial service with the whole pair and then asking the assembly why the settled half still mourns."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0100a03",
+          "ToLb": "0100a17",
+          "Kwic": "成祈永年又作麼生道？八萬四千塵勞門，流入莊嚴智慧海。」上堂。「太和令陳公於催科撫字之暇，捧出無盡香飯供養無邊高僧，為母樊夫人祈益福算，仍要嵩山陞此座子舉揚宗乘，藉此法利並答罔極。嵩山既到此座，說箇甚麼即得？」良久，云：「我有箇方便。」以杖連畫，云：「福於斯，壽於斯，與滄海並，與南山齊。」上堂。「大事未明，如喪考妣；大事已明，如喪考妣。大事未明固是，大事已明因甚如喪考妣？當時祇道毛長短，燒了方知地不平。」玄初劉公請上堂。「談笑梁州十載餘，白雲深處每相期，碑文白字還須刻，莫厭慈明相為時。」复舉：「李狀元訪徑山杲，杲上堂，舉：『僧問雲門：「如何是和尚家風？」門云：「有讀書人來報。」』杲云：『讀書人已在者裏，作麼生與伊相",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, hanging the pair at the head of the address and answering his own press with the level-road verse about hair length and uneven ground."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0240b05",
+          "ToLb": "0240b18",
+          "Kwic": "法，教則頓漸偏圓、宗則三玄五位，皆是衣，不得在衣上認青、認黃、認赤、認白，須認著衣底人方有入作分。彩雲影裏仙人現，手把紅羅扇遮面，急須著眼看仙人，莫看仙人手中扇。寶華今日將佛衣、法衣一時脫卻，應時即事為諸人露箇消息去也。」良久，云：「𩖼𩖼熏風來入奏，赤條條地我為尊。」下座。慧雲禪人請上堂。師云：「大事未明，如喪考妣，無明貪愛本無依，廢寢忘食成分外。大事已明，如喪考妣，智度方便閒家具，泥牛入海杳無蹤。今日慧雲上座請寶華陞座說法以薦考妣，且道所薦底考妣是無明貪愛邪？智度方便邪？」良久，云：「當陽薦取自家底，下載清風付與誰？」下座。上堂。云：「若論此事，忒煞現成。佛祖未出世以前也恁麼，佛祖既出世以後也恁麼，即今以至盡未來",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, singing the unset half into verse about rootless confusion and the settled half into verse about idle furniture and the mud ox gone to sea."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0474b02",
+          "ToLb": "0474b15",
+          "Kwic": "云：「怪石從來雲外賞，雲外別無怪石看。」進云：「主賓互換天然妙，結制陞堂又若何？」師云：「為汝不薦。」進云：「烹佛烹祖須爐鞴，煆凡煆聖賴鉗鎚。」師云：「正要闍黎委悉。」復云：「今日十月初十，法祥寺裏結制，正值水冷草枯，諸凡事事不備，惟有門前數峰，一日幾變秀麗，衲子一味蒙頭，瞻視不知所以。為甚如此？大道未明，如喪考妣；大道既明，如喪考妣。有箇衲僧出來道：『大道未明，如喪考妣且從，大道既明，因甚如喪考妣？』向道：『愁人莫向愁人說，說向愁人愁殺人。』畢竟作麼生？山海易令冰透骨，日月難教凍破顏。」上堂。「東圊頭，搕𢶍裏，狼籍多少？牛欄柵，佛殿上，收攝無餘。若是會底人，囫圇擘不破，遍界悉皆圓，即一塵而塵塵顯露，遍剎塵而只一微",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment, doubling the mourning beside peaks that change beauty by the day and trainees who sleep hooded."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0985c25",
+          "ToLb": "0986a08",
+          "Kwic": "請進營供養。何也？莫不是山僧素行一點真實，不遭此凶神惡魔，而返來恭敬護法？彼花壩山係綦江、仁懷、桐梓三縣交界，實乃夜郎總府趙檀之地。初進山時，淒淒而上，捕鹿跡而踄，漸至山頂，倚樹相依。剛坐間，猛獸臨傍，入不思議色空無相定，諸境潛藏，邈無形跡。如是住三載，種種辛苦，未有剎那不在本念。所以古云：『大事未明，如喪考妣；大事已明，如喪考妣。』或時站立懸崖，或時經行露地，客來無迎送，饑寒失其時。行則直直無回互；坐則死死似癡愚。無理事不舉，有益話纔言，此是山僧數年前害的執著病。後轉綏陽，李總府及楊、趙留住萬佛山，予防人情難避，又恐攬繁嘈雜，即相謂曰：『山僧係是郊外蘆蓬之客，不熟人情，遂吾之志，方可住耶？』答曰：『隨師何志，無",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Konggu Daodeng. Konggu Daocheng owns the retained deployment, holding the old pair as the thread of three years at cliffs and open ground with no hour off the one concern."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "J/J33/J33nB280.xml",
+        "B/B27/B27n0152.xml",
+        "J/J28/J28nB204.xml",
+        "J/J29/J29nB224.xml",
+        "J/J34/J34nB300.xml",
+        "J/J28/J28nB212.xml",
+        "J/J39/J39nB471.xml"
+      ],
+      "RelatedMasters": [
+        "Muzhou Daoming",
+        "Yunwai Xingze",
+        "Yulin Tongxiu",
+        "Binya Jian",
+        "Yezhu Fuhui",
+        "Chaozong Tongren",
+        "Eryin Mi",
+        "Konggu Daocheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The grief-measure of the great affair: a mourning as raw as a parent's death, required while the matter is unset and still required once it is settled. Muzhou Daoming speaks the root hall instruction itself — the great affair unset, mourn like this; the great affair settled, still mourn like this — and the anthology keeps the later questioners circling it; Yunwai Xingze rings it as the small-meeting bell for time running out; Yulin Tongxiu lifts the staff, credits the old worthies with the saying, and presses why the settled affair still grieves; and Binya Jian opens a memorial hall service by making the whole pair the sermon before asking the assembly why the settled half mourns. Yezhu Fuhui hangs the pair at the head of a hall address and levels it with a road verse; Chaozong Tongren sings it into paired verse for the patron's memorial service, rootless confusion and idle furniture both under the same grief; Eryin Mi swaps the frame to the great way and voices the double mourning beside his own peaks; and Konggu Daocheng, recounting three years of standing at cliffs and walking open ground, holds the old formula as the thread of the whole striving."
+    }
+  ]
+}

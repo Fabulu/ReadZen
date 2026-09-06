@@ -1,0 +1,230 @@
+{
+  "Id": "t_39ad18af65ac",
+  "SourceTerm": "雲月是同",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A2",
+  "WrittenUtc": "2026-09-06T10:15:53Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the clouds and moon are the same",
+      "AlternateTargets": [
+        "one moon over every stream"
+      ],
+      "SearchAliases": [
+        "clouds and moon all one",
+        "the same moon, the differing hills",
+        "one sky over many mountains"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 141 hits in 90 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0691b28",
+          "ToLb": "0691c14",
+          "Kwic": "問投子。依稀似半月。髣象若三星。乾坤收不得。師於何處明。子云。道什麼。云想師只有湛水之波。且無滔天之浪。子云。閑言語。師云。投子古佛。不可道不知。若點撿來。直是天地懸隔。纔問。便和聲打。舉。洛浦久為臨濟侍者。到夾山問。自遠趨風。乞師一接。山云。目前無闍梨。此間無老僧。浦便喝。山云。住住闍梨。莫草草怱怱。雲月是同溪山各異。截斷天下人舌頭即不無。爭教無舌人解語。浦無對。山便打。師云。者漢可悲可痛。鈍致他臨濟。他既雲月是同。我亦溪山各異。說什麼無舌人不解語。坐具劈口便摵夾山。若是箇知方漢。必然明窓下安排。舉。三聖問雪峯。透網金鱗以何為食。峯云。待汝出網來向汝道。聖云。一千五百人善知識。話頭也不識。峯云。老僧住持事煩",
+          "MasterName": "Jiashan Shanhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Jiashan Shanhui owns the root deployment — the sameness-half answering Luopu's shout, with the tongueless-speaking demand and the blow that seated Luopu at his side."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0239b02",
+          "ToLb": "0239b16",
+          "Kwic": "麼？云：想師只有湛水之波，且無滔天之浪。子云：閑言語。雪竇云：投子古佛，不可道不知，若點檢來，直是天地懸隔。纔問，便和聲打。師云：雪竇只知投子把定，不知投子放行，直饒檢點將來，也是泥裏洗土。舉洛浦久為臨濟侍者，到夾山問：自遠趍風，乞師一接。山云：目前無闍黎，此間無老僧。浦便喝，山云：住住，闍黎莫草草怱怱。雲月是同，溪山各異。截斷天下人舌頭即不無，爭教無舌人解語？無對，山便打。雪竇云：者漢可悲可痛，鈍致他臨濟。他既雲月是同，我亦溪山各異，說什麼無舌人不解語？坐具劈口便摵。夾山若是箇知方漢，必然明窻下安排。師云：夾山說道理即不無，爭奈不能塞斷人口何？也不見道：他既雲月是同，我亦溪山各異。還會麼？一等共行山下路，眼頭各",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Xuedou Chongxian owns the retained deployment — pitying the dulling of Linji, taking the differing-half for himself, and setting the sitting-cloth snap under the bright window."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0366b13",
+          "ToLb": "0366c02",
+          "Kwic": "瓣香懷藏久矣，從上佛祖尚討頭鼻不著，諸方老宿怎知氣息有無？遍游湖海三十年，惟有無準較些子。今日當陽，一爐爇却，初非報德酬恩，且要熏夫炙地。遂趺座，乃云：釋迦不出世，盡大地人成佛多時；達磨不西來，亘塵剎海談禪不歇。恁麼會得，便知一上座未離徑塢，已與扣氷古佛赤體相挨。今到瑞巖，元共國一祖師眉毛𤺊結，溪山有異，雲月是同。既然雲月是同，說甚溪山有異？直得車書混一，天地清寧，一人高拱無為，萬國咸歸至化。且太平無象一句作麼生道？但見皇風成一片，不知何處是封疆？復舉：僧問曹山：佛未出世時如何？山云：曹山不如。僧云：出世後如何？山云：不如曹山。師拈云：大小曹山，名喧宇宙，氣衝牛斗，恁麼答這僧話，直是未在今日。或有問新瑞巖：佛未出",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanxi Weiyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment — the pair turned twice over the nation's-first ancestor's knotted hills, until one man sits high and the lands return, with no border left to see in the imperial wind."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0247c02",
+          "ToLb": "0247c16",
+          "Kwic": "得堦前神鬼泣。泣！泣！好將斷臂完膚，一生參學事畢。結制，上堂。天地與我同根，萬物與我一體，時人見此一株花如夢相似。諸昆仲，古人於黑漆桶底鑑貌辯色，無影樹下笑月吟風，掣開金鎻玄關，扯破漫天網子。博山則不然，有人問：天地與我同根，萬物與我一體，意旨如何？祇向他道：昨日有人從燕京來，寄得廣南信，豈不見溪山各異而雲月是同？又云：時人見此一株花如夢境相似，意旨如何？祇向他道：老僧見此一株花切於肯綮，豈不見人無遠慮必有近憂？珍重！鑄佛，上堂。天雨四花，地搖六震。拈拄杖，云：覿面相呈，是何祥瑞？釋迦于迦維國土降生，累及諸大菩薩、天龍八部趨侍成勞，唯十方諸佛各住本國，合掌宣揚，讚歎不及。諸昆仲還見也未？若見，虗空落地成幾片；若不",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment — the letter from Yanjing to Guangnan carrying the whole pair, granted against heaven-and-earth one root."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0387c08",
+          "ToLb": "0387c21",
+          "Kwic": "過，祇得將太虗空揑作箇小粽子，要與諸人充腸果腹。乃以手托起香盒，示大眾云：大眾若咀嚼得破，行見競龍舟、歌楚些，一任煙波自由，不用飲蒲酒、挂艾旗，自然妖蹤頓息；如咀嚼不破，一箇小粽子塞斷諸人口門去也。咦！臨淵無限傷心處，安得黃金鑄屈原？誕日示眾，師舉扇子云：祇這箇，放開則比比不同，谿山各異；收住則十方坐斷，雲月是同。至於不收不放又作麼生？今日三世諸佛在老僧扇子頭上放光動地，若有伶俐衲僧，請出相見。僧問：拄杖子年多少？師云：露柱證明。進云：和尚年多少？師云：問取露柱。進云：如何是無量壽？師云：剎那剎那。問：未出母胎時如何？師云：人疑殺。進云：已出母胎時如何？師云：疑殺人。進云：二俱不涉時如何？師云：鑑。進云：天上天下，",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment — the pair baited on the fan's open and shut, with the neither-open-nor-shut left asking and the buddhas shedding light atop the fan."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0661a13",
+          "ToLb": "0661a25",
+          "Kwic": "謂百尺嵒頭探虎穴，千尋海底攫驪珠。」師云：「罕遇虎子。」乃云：「問答俱備，總涉繁詞。賓主歷然，未稱好手。不見道：金不博金，水不洗水；佛不求佛，心不傳心。是處有慈氏，華柳叢生菩薩雲；無門無善財，瓦礫遍圓華藏界。於此信得及去，便見古釋迦不先、今彌勒不後，如鏡炤鏡、如空合空，萬古徽猷，真風不墜。直得如天普蓋，家家雲月是同，南北本通途而合轍；似地普擎，在在封疆不隔，齊魯不待變而同風。然此猶是區隅自守，未堪紹續門風。若欲倒接無根樹，振滹沱舊日風規，橫挑海底燈，行河北斬新條令，直須撥轉天關、掀翻地軸，糝華枯木，放出曹谿浪裏春；橫按吹毛，活逼生蛇頭帶角；別有生機一路，不攀從上枝條，方能遇緣即宗，隨處作主。子四生、家三界，艸偃風行；",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment — every house clouds-and-moon-the-same under heaven's covering and every border unblocked under earth's bearing, then corner-keeping ruled unfit for the gate's succession."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0649a15",
+          "ToLb": "0649a27",
+          "Kwic": "「失其旨也，徒修因於曠劫；得其門也，等諸佛於一朝。」卓拄杖，云：「者裏搆去，無得、無失，無修、無證，直教蜣蜋、蛆蟲同現三十二相，沙磧、荊棘共放百千毫光，是凡、是聖，一體無差，情與無情，混融不二。正恁麼時，又不妨一拳拳倒黃鶴樓，一踢踢翻鸚鵡洲，有意氣時增意氣，不風流處也風流。雖然，腳跟下好與三十棒。何故？只知雲月是同，那識溪山各異？」二僧競出，一僧問：「二龍爭珠，誰是得者？」師打，云：「一箭落雙鵰。」進云：「恩大難酬。」師云：「沒交涉。」上堂。拈拄杖，云：「金鎚影動，寶鏡光寒，急須薦取，勿勞眼看。諸公果能會去，說甚目擊道存、指掌意喻？便乃聲色堆頭玅運神機、熱鬧場中大興佛事，處處為雨為霖、時時作舟作楫，不離世間而常作出世",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment — sameness granted to beetle and grub, then the heel's thirty blows for knowing only the same clouds and moon."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0667a06",
+          "ToLb": "0667a21",
+          "Kwic": "得釣艇。第二十八世海舟普慈禪師第二十八世海舟普慈禪師𥗋𥗋論實義，扁舟過洞庭，琉璃忽墮地，築碎水晶缾。七十四僧臘，九十六報齡，寂呼瑄長老，無語可丁寧。第二十九世寶峰明瑄禪師第二十九世寶峰明瑄禪師面門放光，燎卻眉毛。現成公案，悟個甚麼？我見燈明瑞如此，高提古鏡印山河。第三十世天奇本瑞禪師第三十世天奇本瑞禪師雲月是同，蕩然一片古皇風；諸佛不識，平欺佛祖超常倫。從前聞見非聞見，獨露一枝優缽紅。第三十一世無聞明聰禪師第三十一世無聞明聰禪師人家教壞不知羞，卻向龍天說悟由，露柱揚聲罵不徹，燈籠鼓腹笑無休。第三十二世笑巖德寶禪師第三十二世笑巖德寶禪師㘞地一聲雷，通身手眼開，光明遮宇宙，標格露崔嵬。賢聖目中屑，爹孃爐底灰，曹谿一",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "verse-author",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Tianqi Benrui",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment — the sameness-half given the succession itself, the ancient emperor's wind in one sweep and one udumbara branch bared."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "X/X71/X71n1412.xml",
+        "X/X70/X70n1388.xml",
+        "X/X72/X72n1435.xml",
+        "X/X72/X72n1437.xml",
+        "J/J26/J26nB187.xml",
+        "J/J36/J36nB359.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Jiashan Shanhui",
+        "Xuedou Chongxian",
+        "Luopu Yuanan",
+        "Gulin Qingmao",
+        "Huanxi Weiyi",
+        "Wuyi Yuanlai",
+        "Yongjue Yuanxian",
+        "Tian'an Sheng",
+        "Baiyu Jingsi",
+        "Jifei Ruyi",
+        "Tianqi Benrui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The sameness-half of the paired formula — the clouds and moon the same though streams and mountains differ — ruled at the Luopu visit and turned across eight centuries of halls. The root sits in Jiashan Shanhui's own ruling, carried in Xuedou Chongxian's case-raising: Luopu, long Linji's attendant, comes from afar begging one receiving — no monk before me, no old monk here — Luopu shouts, and Jiashan stops him: hold, hold, no hurrying — the clouds and moon are the same, streams and mountains differ; cutting off every tongue under heaven, not denied — but how will you get the tongueless man to speak? — and at Luopu's silence, the blow that seated him at Jiashan's side for years; Xuedou's own comment, carried in Gulin Qingmao's re-raising, pities the man for dulling Linji — since he is clouds-and-moon-the-same, I am streams-and-mountains-differing — what talk of tongueless speaking, and the sitting-cloth snapped in his face: had Jiashan been a man who knows the directions, he would have set it under the bright window; Huanxi Weiyi, arriving at Ruiyan where the nation's-first ancestor's eyebrows are knotted into the hills, turns the pair twice — streams and mountains differ, the clouds and moon are the same; since the clouds and moon are the same, what talk of streams and mountains differing? — until carriages and script run as one, one man sits high doing nothing, all lands return to the utmost turning; and Wuyi Yuanlai, opening the retreat against the same-root saying, answers it with a letter — yesterday someone came from Yanjing bearing a letter from Guangnan: have you not seen the streams and mountains differ while the clouds and moon are the same? Yongjue Yuanxian, on his birthday, lifts the fan: this — opened, each differs from each, streams and mountains apart; shut, the ten directions cut off, the clouds and moon one — and as for neither opening nor shutting? today the three-era buddhas shed light and shake the earth atop this old monk's fan; Tian'an Sheng, at the Qingzhou hall, spreads it to the compass — heaven covering all, every house clouds-and-moon-the-same, north and south one road whose ruts join; earth bearing all, every border unblocked, Qi and Lu one wind without reforming — yet this, he rules, is still corner-keeping, unfit to continue the gate: to catch the rootless tree upside down and haul the Haituo's old wind-rules, heaven's gate must be swung and the earth's axis overturned; Baiyu Jingsi turns the pair against its knowers — dung-beetles and grubs sporting the thirty-two marks, sands and thorns shedding the hundred thousand rays, sage and commoner one body without gap — and yet, fine as that is, thirty blows at the heel: for knowing only the clouds-and-moon-the-same, who recognizes the streams and mountains differing?; and Jifei Ruyi, in the lineage ode for the thirtieth heir Tianqi Benrui, gives the formula the succession itself — clouds and moon the same, one plain sweep of the ancient emperor's wind; the buddhas do not know him, and he outfaces buddha and patriarch; the seeing and hearing of before were never seeing and hearing — one branch of the udumbara red, alone bared."
+    }
+  ]
+}

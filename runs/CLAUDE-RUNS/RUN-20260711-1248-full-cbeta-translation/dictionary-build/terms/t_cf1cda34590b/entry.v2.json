@@ -1,0 +1,203 @@
+{
+  "Id": "t_cf1cda34590b",
+  "SourceTerm": "四大五蘊",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T08:49:39Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the four elements and five aggregates",
+      "AlternateTargets": [
+        "the element-and-aggregate heap",
+        "the borrowed body-mind make-up"
+      ],
+      "SearchAliases": [
+        "four great elements and five aggregates",
+        "the psychophysical heap",
+        "earth, water, fire, wind with form, feeling, perception"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 193 hits in 93 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0555b13",
+          "ToLb": "0555b18",
+          "Kwic": "。舉寶公云。如我身空諸法空。千品萬類悉皆同。師云。爾立不見立。行不見行。四大五蘊不可得。何處見有山河大地來。是爾每日把鉢盂噇飯。喚什麼作飯。何處更有一粒米來。舉一切聲是佛聲",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment: not seeing their own standing and walking, the hearers cannot get the heap at all — so where would mountains and rivers come from, or the one grain of rice in the bowl."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0592c23",
+          "ToLb": "0593a03",
+          "Kwic": "面三千里。又僧問趙州：未生世界，早有此性；世界壞時，此性不壞。如何是不壞之性？州云：四大五蘊甘草甜。僧云：這箇是壞底。如何是不壞之性？州云：四大五蘊黃連苦。還知趙州老漢舌頭落處麼？盡山河大地是四大五蘊",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Zhaozhou Congshen owns the retained deployment: asked for the undecaying nature he answers with the decaying heap twice — first sweet, then bitter — and Chushi seals it: the whole of mountains and rivers is the heap, the whole of mountains and rivers is the undecaying nature."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0768c20",
+          "ToLb": "0769a07",
+          "Kwic": "得失長短是非。無邊境界不消一瞥。這僧見機而作。當時禮拜。為什麼却道不動著子細檢點。大似龍頭蛇尾。山僧即不然。或有人問。萬境來侵時如何。亦對他道。莫管他。這僧或若便禮拜。只向他道。伶利衲僧。一撥便轉。師云。父母未生已前。淨裸裸赤灑灑。不立一絲毫。及乎投胎既生之後。亦淨裸裸赤灑灑。不立一絲毫。然生於世。墮於四大五蘊中。多是情生翳障。以身為礙。迷却自心。若是明眼人。明了四大空寂五蘊本虛知四大五蘊中。有箇輝騰今古逈絕知見底一段事。若能返照。無第二人。根脚下淨裸裸赤灑灑。六根門頭亦淨裸裸赤灑灑。乃至山河大地窮虛空界。盡無邊香水海。亦淨裸裸赤灑灑。恁麼說話。莫是撥有歸無麼。且喜沒交涉。若撥有歸無。杳杳冥冥。墮在豁達空撥",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: the clear-eyed one knows the elements empty and the heaps baseless, and inside the heap finds the one thing shining past and present, cut off from knowing and seeing."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "1014a16",
+          "ToLb": "1014a20",
+          "Kwic": "便是生大今生且限百歲百歲後你待飛出三千大千世界外去須是與佗入棺林始得當爾之時四大五蘊一時解散有眼不見物有耳不聞聲有箇肉團心分別不行有箇身火燒刀斫都不覺痛到遮裏歷歷孤明底却向甚麼處去",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, walking his hearer to the coffin: the heap dissolves all at once, eyes and ears stop, the flesh-heart no longer sorts — so where does the lone shining one go?"
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0710a01",
+          "ToLb": "0710a05",
+          "Kwic": "縱饒一千七百則葛藤。不直一笑而氷釋矣。即此便是真叅實悟底時節。恁時不妨於山河大地四大五蘊中。如香象王擺脫鐵鎻。獨步大方遊行自在。豈不韙歟。是則是矣。更須知有祖師門下衲僧面前換轉眼睛突出",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: at the true season one moves through mountains, rivers and the whole heap like the scent-elephant king slipping its iron chain — and even then, he adds, the patch-robed one must still turn the eye."
+        },
+        {
+          "RelPath": "J/J34/J34nB310.xml",
+          "FromLb": "0565b23",
+          "ToLb": "0565c06",
+          "Kwic": "于八月望日集眾，付寺事書偈。二十三日，問曰：「涅槃生死，盡是空華，佛及眾生，並為增語，汝等諸人，合作麼生？」尚亦于八月三日書單囑後事，以眾未集，監侍輩請少留以俟，尚允之。至望前一日，垂問曰：「四大本空，五蘊非有，且道病從何受？」又曰：「四大五蘊散滅之後，且道者受病底人還病？還不病？」又曰：「且道者受病底人即四大五蘊病？非四大五蘊病。」才于火浴獲舍利，并靈骨塔寺西北隅，尚亦于火浴中頂齒不壞，合靈骨入塔，其再來之蘇嚕乎？是則巖所云蓋天蓋地者也所為，西出陽關無故人者也。又三祖以大法付信祖，囑曰：「慎勿言自我處得來。」明教謂祖師以名跡為道之累，故雖師承亦囑以絕之。尚以日下衣拂印授，未能如水傳器，即皮履斗笠亦不予人。惟示雪",
+          "MasterName": "Yunsou Benzhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunsou Benzhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded Sayings of Chan Master Yunsou Zhu. Yunsou Benzhu owns the retained deployment, hanging his deathbed questions over the sickbed: after the heap scatters, does the one who felt the sickness still sicken — and is that one the heap or not the heap?"
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0154b14",
+          "ToLb": "0154b27",
+          "Kwic": "，當盡情一放，放卻兩頭心不起，方為下手做工夫地步。工夫者，不得坐在乾淨意地上，要將以上一切對待法、四句法，都盧收在一竹篦子話頭上，觸不得、背不得，兩路截斷，目前萬法去不得，正向去不得處，盡力發憤，心力合并，千掙萬掙，勇猛不過，心識不行，于聞聲見色處，一逗逗斷，目前萬境平沉，三心不起，謂之前後際斷，那時不見有四大五蘊，何況生死涅槃，直是快活自在。大慧曰：『我到者裏卻快活，更理會不得也。』圓悟曰：『不疑言句，是為大病。』此是得體不得用，暫時光景所見之理，非正法身，是法身之邊，通身死水，解脫深坑，不可坐著。若坐在此等境界光景中，開口便要說者好處，全是心路，不是開悟。開悟者，即此前後際斷處，忽然會得祖師家句子，句中具有開悟",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: at the severing of thought's front and back, the heap is no longer seen — let alone birth-and-death and quiescence — and it is sheer free ease."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0655b20",
+          "ToLb": "0655b24",
+          "Kwic": "戴艸鞋出去，是何意旨？」師云：「貍奴頭角猶在。」僧踊躍禮謝而退。師垂語云：「明知四大五蘊是生死根本，為甚入此皮袋？」一僧云：「如龍得水，似虎靠山。」師云：「山崩冰竭時如何？」進云：「別",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: all know the heap is the root of birth-and-death — so why does it enter this skin-bag, and what happens when the mountain collapses and the ice runs dry?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "X/X71/X71n1420.xml",
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml",
+        "J/J34/J34nB310.xml",
+        "J/J34/J34nB299.xml",
+        "J/J38/J38nB425.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Zhaozhou Congshen",
+        "Chushi Fanqi",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Yunsou Benzhu",
+        "Hanyue Fazang",
+        "Jifei Ruyi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The heap: the four greats and five heaps that make up a person, spoken of as one borrowed thing to be answered with and finally dropped. Yunmen Wenyan raises Baogong's verse and tells them they do not see their own standing or walking — the heap cannot be got at all, so where would mountains and rivers come from; Zhaozhou Congshen, asked what does not decay when the world ends, answers twice with the heap itself — sweet as licorice (甘草甜), then bitter as goldthread (黃連苦); Yuanwu Keqin tells the small-evening gathering the clear-eyed one knows the elements empty and the heaps baseless, and inside the heap finds the one thing shining past and present, cut off from knowing and seeing; Dahui Zonggao walks his hearers to the coffin — when the heap dissolves all at once, eyes no longer see and ears no longer hear, so where does the lone shining one go? Zhongfeng Mingben says at the true season of awakening one moves through mountains, rivers and the whole heap like the scent-elephant king slipping its iron chain and walking free across the great expanse; Yunsou Benzhu's deathbed questions hang over the sickbed — after the heap scatters, does the one who felt the sickness still sicken or not, and is the sick one the heap or not the heap; Hanyue Fazang traces the severing where the front and back of thought are cut at once and the heap is no longer seen, let alone birth-and-death and quiescence; Jifei Ruyi hangs the statement that everyone knows the heap is the root of birth-and-death — so why does it enter this skin-bag at all?"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "Id": "t_98e925792d7e",
+  "SourceTerm": "青山綠水",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A3",
+  "WrittenUtc": "2026-09-06T09:56:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "green hills and flowing waters",
+      "AlternateTargets": [
+        "the green hills, the flowing water",
+        "blue hills and green streams"
+      ],
+      "SearchAliases": [
+        "green mountains and blue waters",
+        "the hills and the streams standing on",
+        "verdant hills and flowing water"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 150 hits in 91 files representing 89 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0671c23",
+          "ToLb": "0672a17",
+          "Kwic": "云回鑾兩耀新師別云定國安邦賀太平問如何是主中主󲈺云磨礱三尺劒待斬不平人師別云收番猛將寸草不留師出四種照用語問如何是先照後用師云南岳嶺頭雲太行山下賊問如何是先用後照師云太行山下賊南岳嶺頭雲問如何是照用同時師云收下南岳嶺頭雲捉得太行山下賊問如何是照用不同時師云昨日有雨今日晴師出四賔主語問如何是賔中賔師云青山綠水分問如何是賔中主師云棒下耴分眀問如何主中賔師云退己讓人問如何是主中主師云斬盡不留身師出四料簡語問如何是奪人不奪境師云人前把出遠送千峯問如何是奪境不奪人師云打了不曾嗔冤家難解免問如何是人境兩俱奪師云萬人作一塚時人盡帶悲問如何是人境俱不奪師云問處分眀荅處親師出德山三轉語於一句中各下三轉問如何是凾盖乹坤句師",
+          "MasterName": "Shoushan Xingnian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Shoushan Xingnian owns the root answer: guest within guest — green hills and flowing waters, divided; guest within host — the clarity under the stick; host within guest — yield to others; host within host — slay to the last, leaving no body."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0857b04",
+          "ToLb": "0857b18",
+          "Kwic": "自不著問人參禪須如此始得妙喜十七歲上便知有此事其時已是發心參禪在受業院裏買一部傳燈錄讀來讀去至法眼開堂曰大眾立定主事覆云大眾已簇法座前了法眼曰大眾却參真善知識又有頌云六街鍾鼓響鼕鼕即處鋪金世界中池長芰荷庭長栢更將何物演真宗因看這箇早是會得心性禪但未曾見宗師未知入室道理然自此便有箇趣向處又修山主道欲識本來心青山綠水深不是身心境徒將聞見尋識得便識取不用更沉吟也理會得元初已入得唯心法門後來却被揚眉瞬目底打作兩橛淈𣸩不見了修山王說得多少分明渠却來難自家不是過得幾時元來他底不是我底是只如是柱不見柱非柱不見柱是非已去了是非裏薦取當時幸自會得好却被他向我道這箇不在言語上可知是不在言語上却問他在那裏云在指處元來也只不是在何故有手",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained root-verse telling: to know the original mind — green hills and flowing waters, deep; not mind, body, or realm; seek it with eye and ear and you seek in vain."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1047a20",
+          "ToLb": "1047a24",
+          "Kwic": "早是桑田變海。淨慈門下。毀於佛謗於法。不入眾數。尚且救不得一半。何況青山綠水。盡是安居。花笑鳥啼。無非禁足。山僧今夜。咬定牙關放一線道。卓主丈。復舉。乾峯和",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: even one who slanders buddha and teaching cannot be half saved — how much more so, green hills and flowing waters are all the retreat-quarters, flowers laughing and birds crying all the restricted walking."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0961b27",
+          "ToLb": "0961c10",
+          "Kwic": "者裏不見，正好其中具隻眼，同證金剛不壞身。」舉杖，云：「還見麼？無為真佛從老僧者拄杖頭，飛在諸人眉睫上放光動地，總教人人覿體承當，休錯過，徹底掀翻可放心，若信人王在世佛，當知法王出劫尊。」進法堂，云：「多年行腳身居外，今日方知得到家，經歷十方留正眼，任回西蜀利三巴。利生且止，如何是到家一句？」良久，云：「青山綠水還依舊，世事人情毫不差。」即日，眷眾辦齋，請上堂。至座，云：「老衲離鄉十八春，四海攀罾獨捕麟，百計千方隱不住，任回聖壽顯精神。」喝一喝，便陞。拈香，云：「此瓣香不老不嫩、無舊無新，拈爇爐中，奉為聖君、滿朝文武、闔國公卿、西蜀尊官、文武紳衿、諸山耆宿、合道場人，大家伸出補天手，早悟伽陀身外身。」斂衣坐。白椎",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment: the profit-of-life set aside — what is the one line of arriving home? A long pause: the green hills and flowing waters stay as of old, the world's ways and human feeling not off by a hair."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0553c10",
+          "ToLb": "0553c21",
+          "Kwic": "作麼？」那云：「蒼天！蒼天！」問：「如何是父母未生前本來面目？」師云：「眼瞎耳聾。」問：「前日喫和尚一棒，只是不明。」師云：「易開終始口，難保歲寒心。」問：「不問上大人，請問丘乙己。」師云：「闍黎因甚帶伴來？」問：「學人不會問話時如何？」師云：「甕裏何曾走卻鱉。」僧問：「四大分離時，甚處與和尚相見？」師云：「青山綠水邊。」問：「如何是轉換之機？」師云：「山不是山，水不是水。」進云：「畢竟是甚麼？」師云：「老僧口門窄。」進云：「恁麼則一塵不動，三界高超。」師云：「大好一塵不動。」問：「坐斷兩頭，中間因甚提掇不起？」師云：「鬼爭漆桶。」僧禮拜。云：「脫底又如何？」師云：「一場笑話。」問：「霜天搖落，萬彙歸根。如何是歸根底意",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Seven-Session Recorded Sayings of Monk Muyun. Muyun Tongmen owns the retained deployment: when the four elements split apart, where will you meet me? — at the edge of green hills and flowing waters."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0056b01",
+          "ToLb": "0056b05",
+          "Kwic": "磨後如何？」師云：「黑似桼。」僧問：「牛頭未見四祖時如何？」師云：「青山綠水。」進云：「見後如何？」師云：「綠水青山。」僧問：「牛頭未見四祖時，為甚百鳥銜華",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Niutou Farong",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Daoxin",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: before Niutou saw the Fourth Founder — green hills and flowing waters; after seeing — flowing waters and green hills, the reversal itself the whole answer."
+        },
+        {
+          "RelPath": "J/J29/J29nB222.xml",
+          "FromLb": "0002b02",
+          "ToLb": "0002b16",
+          "Kwic": "，早落第二義。」良久云：「不是，不是！」上堂。「止止不須說，我法玅難思，諸增上慢者，聞必不敬信。」良久，擿拂子云：「誣人之罪，不堪持論。」上堂。「釋迦老人在你面門唱言：『惟此一事實，餘二則非真。』你諸人還見麼？」便下座。上堂。僧問：「西來大意且置，未出方丈時如何？」師便打，僧喝，師复打，乃云：「一法不存，青山綠水，野艸閒華，頭頭不至。一念纔舉，塞北安南，人倫物理，歷歷在前。諸人向者裏如何究竟？若究竟得，我與女仝枕共被；若究竟不得，你向瀟湘我向秦。」胡憲卿護法祈嗣，請上堂。師以拂子畫一畫，云：「無上玅道盡在於此；天地萬物盡在於此。如是，則憲卿居士不向佛求、不向法求、不向僧求。求男得男，便生福德智慧之男；求女得女，便",
+          "MasterName": "Zishui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zishui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB222.xml). Recorded Sayings of Chan Master Zishui of Wolong, Kuizhou. Zishui owns the retained deployment: with not one thing stored — green hills and flowing waters, wild grasses and idle flowers, nowhere arriving; one thought rises — north frontier, south seas, all ranged in front; succeed and I share your pillow; fail, and you go to Xiaoxiang while I go to Qin."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0388c01",
+          "ToLb": "0388c14",
+          "Kwic": "片春光從甚處發？」師云：「拄杖頭上。」進云：「九十日後又向甚處去也？」師云：「拄杖頭上。」進云：「正當恁麼時又在何處？」師云：「拄杖頭上。」乃云：「吐玉碧桃開夾岸，拖金細柳拂層臺，乘時敲唱陽春曲，幸有知音接拍來。須是恁麼人方佐恁麼事，欲佐恁麼事還他恁麼人，方使宗風不墜，道眼流通。流通且置，作麼生是道眼？莫是青山綠水麼？未免住於色相；莫是鶯啼燕語麼？未免住於音聲。大眾！聞見既都不是道眼，畢竟在甚麼處？這裏見得端的，始知我慕大檀越天爵、人爵齊修，選官、選佛兩得，說甚麼共打無腔鼓，同撐不二門，扶破沙盆於今時，拋爛冬瓜於那畔，露鳶飛魚躍旨趣，洩水流風動機緣。到這裏，則河圖、洛書端由莫測，妙德、空生玄妙罔知，三賢啟口無能，十",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Fudu of Dongshan. Meixi Fudu owns the retained deployment: what is the way-eye? Is it green hills and flowing waters — that lodges in sight's shapes; orioles crying, swallows chattering — that lodges in sound; hearing and seeing are both not it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "M/M59/M59n1540.xml",
+        "T/T47/T47n2000.xml",
+        "J/J39/J39nB471.xml",
+        "J/J26/J26nB184.xml",
+        "J/J29/J29nB223.xml",
+        "J/J29/J29nB222.xml",
+        "J/J39/J39nB447.xml"
+      ],
+      "RelatedMasters": [
+        "Shoushan Xingnian",
+        "Dahui Zonggao",
+        "Xutang Zhiyu",
+        "Konggu Daocheng",
+        "Muyun Tongmen",
+        "Shanhui Huan",
+        "Niutou Farong",
+        "Daoxin",
+        "Zishui",
+        "Meixi Fudu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Green hills and flowing waters: the oldest stock answer in the records — guest-within-guest for Shoushan, the original mind's depth in the old verse, and the after-answer that runs the graphs backwards. Shoushan Xingnian, in the device ladder of the ancient-worthies anthology, works through the four workings of shine and use — south-peak clouds, Taihang bandits, yesterday's rain, today's clear sky — and then the four guest-and-host stations: asked what is guest within guest, he answers with the bare scene, green hills and flowing waters, divided; guest within host gets the clarity under the stick, host within guest the yielding to others, host within host the slaying that leaves no body; Dahui Zonggao, telling of his own seventeenth year — buying the Lamp Record at his home cloister and reading it through — quotes the old mountain master's verse: to know the original mind, green hills and flowing waters, deep — it is not mind, not body, not realm; seek it with eye and ear and you seek in vain; know it and take it, do not keep musing; and he admits that by this he had entered the mind-only gate, until the eyebrow-flashers later cracked it in two and muddied it out of sight; Xutang Zhiyu at the summer retreat: even the man of Jingci's gate who slanders buddha and teaching and stands outside the assembly count cannot be half saved — how much more so, green hills and flowing waters are all the retreat-quarters, flowers laughing and birds crying all the restricted walking; tonight the mountain monk grits his teeth and lets out one line of way — the staff cracks; Konggu Daocheng, back in Sichuan after his years afield, asks himself for the profit-of-life aside — what is the one line of arriving home? — and after a long pause: the green hills and flowing waters stay as of old, the world's ways and human feeling not off by a hair. Muyun Tongmen takes the death question straight: when the four elements split apart, where will you meet me? — at the edge of green hills and flowing waters; and the pivot of conversion: the mountain is not a mountain, the water not water — what after all is it? — the old monk's mouth is narrow; Shanhui Huan runs the Niutou pair: before Niutou Farong saw the Fourth Founder Daoxin — green hills and flowing waters; after seeing — flowing waters and green hills, the reversal itself the whole answer; Zishui of Wolong, having struck the asking monk twice, lays it out: with not one thing stored — green hills and flowing waters, wild grasses and idle flowers, nowhere arriving; but the moment one thought rises — the north frontier and the south seas, human relations and things' principles, all ranged in front; succeed in tracing it here and I share pillow and quilt with you; fail, and you go to Xiaoxiang while I go to Qin; Meixi Fudu, at the great patron's assembly where the way-eye must circulate if the founders' manner is not to fall, cuts both lodgings: is it green hills and flowing waters? — that stays with sight's shapes; is it orioles crying and swallows chattering? — that stays with sound; since hearing and seeing are both not it, where after all is it — see to the bottom of that and only then know the choice of office and the choice of buddha both gotten."
+    }
+  ]
+}

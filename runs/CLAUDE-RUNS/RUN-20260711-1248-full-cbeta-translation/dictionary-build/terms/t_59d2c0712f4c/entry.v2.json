@@ -1,0 +1,194 @@
+{
+  "Id": "t_59d2c0712f4c",
+  "SourceTerm": "見後如何",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r9 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T09:10:56Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "and after seeing, how is it?",
+      "AlternateTargets": [
+        "after the seeing, then what?"
+      ],
+      "SearchAliases": [
+        "after seeing, what then?",
+        "and once seen, how?",
+        "the after-seeing follow-up"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 480 hits in 109 files representing 104 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0349c15",
+          "ToLb": "0350a04",
+          "Kwic": "朵開。云：開後如何？師云：金蘂銀絲承玉露，高僧不坐鳳凰臺。如何是正中偏？師云：玉兔既明初夜後，金鷄須報五更前。如何是偏中正？師云：毫末成大樹，滴水作江河。如何是兼中至？師云：意氣不從天地得，英雄豈藉四時推？如何是兼中到？師云：玉女攛梭鳴軋軋，石人打皷響鼕鼕。僧問：牛頭未見四祖時如何？師云：師神更著師婆賽。見後如何？古廟重遭措大題。師乃云：聞聲見色，觸目舒光，山高海闊，地久天長。作麼生辨得主中主？并汾地苦寒，遂罷夜參。有異僧振錫而至，曰：會中有大士六人，因何不說法？言訖而去。師密記以偈曰：胡僧金錫光，為法到汾陽。六人為法器，勸請為敷揚。師謂眾曰：夫說法者，須具十智同真。若不具十智同真，邪正不辨，緇素不分，不能與人",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Fenyang Shanzhao owns the retained answer-pair, ruling the before-meeting half needs the shamaness to finish the shaman's rite and the after-seeing half an old temple inscribed over again by a threadbare scholar."
+        },
+        {
+          "RelPath": "X/X69/X69n1344.xml",
+          "FromLb": "0229a08",
+          "ToLb": "0229a21",
+          "Kwic": "、水、火、風四緣和合，假名為身。四緣壞散，地還地，水還水，火還火，風還風。四大各還，身在什麼處？良久，云：山花開似錦，㵎水湛如藍。上堂，舉僧問雲門：樹凋葉落時如何？門云：體露金風。師云：大小雲門境上縛殺。雲巖即不然，樹凋落葉時如何？珊瑚枝枝若月。上堂，舉僧問投子：牛頭未見四祖時如何？子云：與人為師。僧云：見後如何？子云：不與人為師。師云：投子只解閉門作活，未能垂手利人。雲巖則不然，牛頭未見四祖時如何？紫氣氤氳。見後如何？與天下人作牓樣。上堂，舉：僧問長沙岑和尚：如何是沙門眼？岑云：長長出不得。又云：成佛成祖出不得，六道輪迴出不得。僧云：未審出箇什麼不得？岑云：晝見日，夜見星。僧云：不會。岑云：妙高山色青又青。師云：",
+          "MasterName": "Sixin Wuxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sixin Wuxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1344.xml). Recorded Sayings of Chan Master Sixin Wuxin (Huanglong Four Houses Record, No. 3). Sixin Wuxin owns the retained deployment, rating Touzi's paired answers closed-door housekeeping without the reaching hand, then recasting the exchange as his own: purple mist billowing before the meeting, a model for the people of the world after it."
+        },
+        {
+          "RelPath": "X/X71/X71n1425.xml",
+          "FromLb": "0762a22",
+          "ToLb": "0762b14",
+          "Kwic": "心安。便下座。歇直前曰：今日陞座，更謾某甲不得也。師曰：你試舉我今日陞座底看。歇良久，師曰：將謂你瞥地。歇便出。宏智參次，師問：如何是空劫已前自己？智曰：井底蝦蟇吞却月，三更不借夜明簾。師曰：未在，更道。智擬議，師打一拂子，云：又道不借。智於言下大悟。僧問：牛頭未見四祖時如何？師曰：金菊乍開蜂競採。曰：見後如何？師曰：苗枯華謝了無依。舉古舉古舉：北院問青峰：洛浦道：入荒田不揀，信手拈來草。何不道：作麼生是信手拈來草？峰作拈勢。師別曰：是則是，只是未能喫草。舉：甘贄行者接待，有僧曰：行者接待不易。贄云：譬如餵驢餵馬。明安曰：也知行者常行此路。師別曰：來年與行者買一領直裰。頌古頌古僧問九峯虔云：承聞和尚有言：諸",
+          "MasterName": "Danxia Zichun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Zichun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1425.xml). Recorded Sayings of Chan Master Danxia Zichun. Danxia Zichun owns the retained answer-pair: golden chrysanthemums suddenly open with bees scrambling to gather before the meeting, the sprout withered and flowers gone with nothing to lean on after."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0308a05",
+          "ToLb": "0308a18",
+          "Kwic": "僧云：明年更有新條在，惱亂春風卒未休。師云：洎不問過。師乃云：相逢不拈出，舉意便知有，撥轉上頭關，大作師子吼。展開驢脚，伸出佛手，握金剛椎，碎？窠臼，東土西乾何似生？个个看來日中斗。冬至，小參。僧問：陰極陽生則不問，祖師門下事如何？師云：石笋抽條長丈二。進云：牛頭未見四祖時如何？師云：華陰山前百尺井。進云：見後如何？師云：祝融峯頂萬年松。進云：去此二途，願聞法要。師云：休將閑學解，埋沒祖師心。師乃云：前佛性命、後佛紀綱總在者裡，把住則六陰充塞、放行則一陽復生，不說笋迸石頭、不說華開鐵樹，只教行者擊鼓。小參。且免諸人大家瞌睡，委悉麼？眼若不睡，諸夢自除；心若不異，萬法一如。拈須彌山秤作二兩，東頭賣賤、西頭賣貴，任是本",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained answer-pair — the hundred-foot well below Mount Huayin before the meeting, the ten-thousand-year pine on Zhurong's peak after — then refuses the monk's plea past both roads."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0675a20",
+          "ToLb": "0675b10",
+          "Kwic": "冒雨連宵去，回時帶水又拖泥。自恠一生無定力，尋常多被業風吹。愚菴今日再住徑山，亦有一頌舉似大眾：去日應須償宿債，回時宿債本來空。山上鯉魚打𨁝跳，一國之師展咲容。上堂：至道無難，惟嫌揀擇。如何是佛？蔴三斤。如何是佛？乾矢橛。庭前栢樹子，一夜風吹落。上堂，僧問：牛頭未見四祖時如何？師云：深山藏毒虎。進云：見後如何？師云：淺草露群蛇。進云：見與未見時如何？師云：日出東方夜落西。僧禮拜，師乃云：千波競起，是文殊家風；一亘晴空，是普賢床榻。春光澹蕩，鳥語綿蠻，萬壑爭妍，千嵓並秀。且道是什麼人境界？直下會得，更須知有人境俱奪，向上一路。拈拄杖：有時卓向千峯頂，劃斷飛雲不放高。上堂：無漏真淨，云何是中更容他物？良久：啼得血流",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained answer-pair — the poison tiger hidden in deep mountains before the meeting, the snake nests bared in shallow grass after — then sets sun rising in the east and night falling in the west over seeing and not-seeing alike."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0029a24",
+          "ToLb": "0029b06",
+          "Kwic": "看將起來，何曾是數聲清磬是非之外，一箇閒人天地之間？」复舉：「僧問洞山：『如何是佛？』山云：『麻三斤。』」師云：「頑皮癩肉，屈辱先宗。謂老洞山如鸞鳳獨翮，不與眾群。殊不知，龜負出來，早取喪兆。雖然，一種天然趣，分付阿誰知？」大參涂公請上堂。僧問：「靈雲未見桃華時如何？」師云：「缽盂也少不得兩度溼。」進云：「見後如何？」師云：「缽盂也少不得兩度溼。」問：「獅子未出窟時如何？」師云：「四海清如鏡。」進云：「出窟時如何？」師云：「千山走衲僧。」問：「十方諸國土，無剎不見身，如何普眼不見普賢？」師云：「者裏不得道箇失。」進云：「二大士相見時如何？」師云：「兩箇不識姓。」乃云：「玄風易辨，平實難知，故我濟北一宗貴圖委悉，不是",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained answer-pair, giving the peach-blossom question the same verdict before and after — the alms bowl cannot escape two soakings."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0098b04",
+          "ToLb": "0098b18",
+          "Kwic": "云：「趙州祇知有屋裏皮毛，不知有孤峰獨露；開聖祇知有孤峰獨露，不知有屋裏皮毛。所以一箇誇富於石崇，一箇誇貴於商嶺，各與二十拄杖。為甚如此？將此深心奉塵剎，是則名為報佛恩。」開聖老人誕，上堂。僧問：「老人誕期猶是者邊事，如何是那邊事？」師云：「鞭撻不回。」問：「牛頭未見四祖時如何？」師云：「落得一場喜。」「見後如何？」師云：「落得一場喜。」「見與未見時如何？」師云：「向女道落得一場喜。」乃云：「大眾與吾師慶誕，慧上座不惜與大眾作箇滿散。」遂作女人拜，下座。上堂。喝一喝，云：「會麼？視之不見名曰夷，聽之不聞名曰希，摶之不得名曰微，正打旁敲下下隨。」复喝一喝，云：「者兩喝，有一喝是賓、有一喝是主，試柬點看。」受嵩山請，",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained answer-pair, returning one gain — a whole stretch of joy — to the before-meeting half, the after-seeing half, and seeing-and-not-seeing alike the same words again."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0460b05",
+          "ToLb": "0460b17",
+          "Kwic": "見洞宗五位，妙握樞紐圓旋，不落思議，寧容穿鑿？豈不見跛腳阿師道：『高低一顧，萬象齊彰，擬議之間，橫屍萬里。』秪如不涉擬議底人是何境界？關津容易過，祖道不通風。」結制上堂，僧問：「昔時黃龍，今日瀛山，法席不同，法門不二，如何是不二之談？」師云：「眉毛分八字。」進云：「分後如何？」師云：「壘壘見青山。」進云：「見後如何？」師云：「拈卻著。」進云：「青山青翠翠，綠水綠盈盈。」師云：「除卻山水之外，道一句來！」進云：「此去博山不遠。」師云：「未夢見瀛山在。」進云：「門裏出身易即不問，如何是身裏出門難？」師云：「一線通天別有門。」進云：「好箇無生曲，繇來和者稀。」師云：「誰是其人？」僧禮拜歸眾。僧問：「如何是正中偏？」師云：「",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yingshan Zhiyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin owns the retained answer to the word-play chain — brows part in eight, ridge on ridge of green mountains seen, and after the seeing — put it down — before he demands one word beyond the mountains and waters."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "X/X69/X69n1344.xml",
+        "X/X71/X71n1425.xml",
+        "X/X71/X71n1414.xml",
+        "X/X71/X71n1421.xml",
+        "J/J29/J29nB223.xml",
+        "J/J29/J29nB224.xml",
+        "J/J27/J27nB198.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Sixin Wuxin",
+        "Danxia Zichun",
+        "Liao'an Qingyu",
+        "Yu'an Zhiji",
+        "Shanhui Huan",
+        "Yezhu Fuhui",
+        "Yingshan Zhiyin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The after-seeing follow-up of the Chan test exchange: the asker splits the occasion at a meeting, and the answer shows whether anything changed. Fenyang Shanzhao splits the Niutou question in the old shaman-and-medium key — the shaman needs the shamaness to finish the rite, and after the seeing an old temple gets inscribed over by a threadbare scholar — Sixin Wuxin grades Touzi's paired answers closed-door housekeeping and recasts the exchange as his own: purple mist billowing before the meeting, a model for the people of the world after it, Danxia Zichun answers with the golden chrysanthemums suddenly open and mobbed by bees before, the sprout withered and flowers gone with nothing to lean on after, and Liao'an Qingyu gives the hundred-foot well below Mount Huayin before and the ten-thousand-year pine on Zhurong's peak after, refusing the plea to go past both roads. Yu'an Zhiji hides the poison tiger deep in the mountains before the meeting and bares the snake nests in the shallow grass after, then sets sun rising in the east and night falling in the west over seeing and not-seeing alike, Shanhui Huan answers Lingyun's peach-blossom question with the same verdict before and after — the alms bowl cannot escape two soakings — Yezhu Fuhui returns one gain, a whole stretch of joy, to the before-half, the after-half, and seeing-and-not-seeing alike the same words again, and Yingshan Zhiyin chains his word-play from brows parting in eight to ridge on ridge of green mountains seen, then to the after-seeing follow-up — put it down — before demanding one word beyond the mountains and waters."
+    }
+  ]
+}
