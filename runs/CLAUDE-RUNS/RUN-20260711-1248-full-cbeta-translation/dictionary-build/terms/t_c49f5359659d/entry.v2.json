@@ -1,0 +1,143 @@
+{
+  "Id": "t_c49f5359659d",
+  "SourceTerm": "不為分外",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:35:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "nothing beyond one's own due",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "no more than one's own share",
+        "nothing extra beyond one's original portion"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 212 hits in 126 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0501a03",
+          "ToLb": "0501a16",
+          "Kwic": "且蹉過侍者。雪竇云：我要不全底頭角。師云：大小雪竇跳侍者圈繢不出。石霜云：若還和尚即無也。師云：尾巴已露。雪竇云：犀牛兒猶在。師云：其柰頭角不全。資福畫一圓相，中間書一牛字，師云：草本不勞拈出。雪竇云：適來為什麼不將出？師云：事在。保福云：和尚年尊，別請人好。師云：只恐難為別人。雪竇云：可惜勞而無功。師云：不為分外。師驀召大眾云：箇一隊老漢，若教佗親得犀牛扇子受用，終不恁麼窮煎餓吵。汝等諸人還曾得受用也無？各請歸堂點撿看。上堂，舉：米倉和尚，有僧來參，遶禪床三匝，擊禪床云：不見主人翁，更不參堂去。米云：情識甚處去來？僧云：果然不在。米便打，僧云：幾落情識。呵呵大笑。米云：村草步頭逢著一箇，有甚語處僧參堂去？師云：這",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment: retelling the rhino-fan case turn by turn and grading each ancient in it — then, where Xuedou pities Baofu's aged master as effort wasted, dropping his own one-line verdict: nothing beyond his due."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0399b26",
+          "ToLb": "0399c07",
+          "Kwic": "擬議便棒。」拈云：「慈明老賊放去較危，收來太速，若非鐵眼銅睛，鮮不當頭蹉過。東印當時若入門時，便咦一聲；他若再指，踢倒便行。恁麼出身，免相鈍置。還有委得者麼？格外知歸休擬議，魔宮虎穴定權衡。」紹南黃居士至，因事請上堂。問：「寶劍露鋒鋩時如何？」師云：「血濺梵天。」進云：「魔王腦裂，狐狸潛蹤去也。」師云：「不為分外。」乃云：「辨魔揀異，須是頂門具眼；訶佛罵祖，還他腦後見腮。若要全提正令，佛來魔來總與三十棒。何故？這裏放過即不可。」復舉：「西天脅尊者與一外道論議，約其負者為弟子，外道曰：『誰當先語？』尊者曰：『吾既年邁，又從遠來，理應先語。』外道曰：『可爾，恣汝所說，吾當盡破。』尊者曰：『當今天下太平，國王長壽。』語已",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment: answering a lay patron's exclamation that the bared sword has split the demon kings' skulls and driven the foxes to ground with the same flat seal — nothing beyond his due — before opening his demands for the eye at the crown of the head."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0498b06",
+          "ToLb": "0498b19",
+          "Kwic": "門即錯，不入亦錯。小乘錢貫，大乘井索。」重九，示眾。「今日重陽節，淵明酒興狂，採菊東籬下，語笑發幽香。山僧不會先賢意，三嗅寒香立晚陽。」示眾。舉：「高峰上堂，豎拂云：『到者裏，進前一步也不得，退後一步也不得，總不恁麼也不得。畢竟如何不得不得？』」師曰：「高峰用盡九牛之力，只是轉身不得。金明與古人抖筋抖骨，不為分外。」豎拂子，召眾曰：「金明者裏，進前一步也得，退後一步也得，總不恁麼亦得。畢竟如何得得？」龍興和尚忌日，拈香。「一自巾瓶後，倏焉十四秋，始知墮馬腹，更不問來由。今日重相見，又添多少愁？華峰與碧雲，八載意綢繆。大眾！如何是相見底事？」拈香，云：「者個還當得麼？」燒香，云：「長憶江南三月裏，杜鵑啼血染枝頭。」",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: ruling, on the raised whisk, that Gaofeng spent nine oxen's strength and still could not turn his body — then announcing that Jinming shaking out sinew and bone with the ancients is nothing beyond his due, and licensing forward, back, and neither-nor alike."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0476a14",
+          "ToLb": "0476a28",
+          "Kwic": "幽鳥語喃喃，辭雲入亂峰，我行荒草裏，汝正入山村。」上堂。「大道只在目前，要且目前難睹。欲識大道真體，不離聲色言語。如何是聲色？黃鶯啼柳樹，白鷺立沙灘。如何是言語？佛印遭墨刑，面面都是字。」浴佛，上堂。「今日釋迦誕辰，諸人皆以殿前太子用香湯澆灌，大作一場漏逗。老僧單鼓兩片皮，打些葛藤，撥開眾生界中諸佛知見，不為分外。為甚麼如此？朝三暮四，朝四暮三，又令猴怒，又令猴歡。伏惟尚饗。」盂蘭日，上堂。「秋風清，秋水綠，煙鎖幽林霜露拂，雪陣蘆花萬里綿，金雕沙渚千丘粟，於斯得見境中人，體素素兮文郁郁。大眾知麼？歡喜日喜於此，盂蘭盆營於此，僧伽耶供於此，百萬億座世界花，阿誰不在花光裏？一回舉著一回新，剎那脫卻皆由爾。作麼生是皆由",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the retained deployment: claiming at the Buddha's birthday, against the assembly's fragrant soup for the crown prince, that his own two-drumhide clatter pushing open the buddhas' knowledge inside the beings' realm is nothing beyond his due."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0229a16",
+          "ToLb": "0229a28",
+          "Kwic": "之。進云：「恁麼則石人舞掌笑呵呵去也。」師便打。問：「和尚上堂，鐘聲鼓響。鐘鼓響後，聲落何處？」師云：「山僧耳聾。」乃豎拂子云：「三世諸佛、歷代祖師、天下老和尚，都向山僧拂子頭上結制，猶如寶網交羅，互攝互入。雖然如是，更有一人呵呵大笑。且道笑個甚麼？若人拂袖便行，敢保坐斷報化佛頭，掀翻是非窠臼，日消萬兩黃金不為分外。脫或躊躇，未免作死馬醫。十方高人聚會，正值聖制之日。黃檗不循舊例，貴在單刀直入，磕碎露柱燈籠，打翻銀山鐵壁，安南塞北並收，萬境千機頓息。得到與麼田地，速來方丈通箇消息。」喝一喝云：「也是糊餅裏捏汁。」下座。上堂。問：「不落凡聖二邊，不落有無諸數。正當恁麼時，獨脫一句作麼生道？」師云：「截斷舌頭。」進云：「",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: daring to guarantee that sitting astride the transformation-buddhas' heads, overturning the nest of right and wrong, and daily digesting ten thousand taels of gold is nothing beyond his due."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0221a01",
+          "ToLb": "0221a15",
+          "Kwic": "，立地成佛；立地成佛底，殺人不眨眼。提持過量事，還他過量人。然雖如是，只如過量中超脫應機一句又作麼生道？還知麼？但願雨拋金鎖甲，河清海宴樂昇平。」解制，上堂。「一冬九十日，今朝事方畢，報爾參元人，流光如箭急。年光既如箭急，汝等諸人各各添了一歲，試問本分事還徹也未？若也徹去，不妨朝遊西天、暮歸東土，神通遊戲不為分外；若也未徹，興善與諸人通箇消息。」驀豎拂子，云：「一切禪與道，觸目無非妙，殺活在臨時，不用生機巧。」擲拂子。大佛殿落成，滿漢當道大護法懸字額，請上堂。「殿宇重新，全憑檀施信力；琳宮革故，曾下實地功夫。橫一梁，豎一柱，根根骨骨愈精奇；鋪一磚，蓋一瓦，鱗鱗密密甚堅固。黃坤滿載，拽來門外三車；朱漆流丹，勝鋪階前",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: dissolving the retreat and asking each trainee whether the original-portion matter is penetrated — whoever has penetrated may roam the western heaven by morning and return east by dusk, gods' games nothing beyond his due."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0630c15",
+          "ToLb": "0631a15",
+          "Kwic": "胡行榮助刻林野奇禪師語錄卷第二住檇李秀水龍淵寺嗣法門人行覺等編住浙江嘉興府福城東塔禪寺語錄住浙江嘉興府福城東塔禪寺語錄順治丁亥十一月廿四日入院。山門。以杖指云：「解脫門八字打開，沒量漢今朝始至，賓主既已相逢，切莫停思住步。何故？」復以杖指云：「寶處在近。」便入？佛殿。「煒煒煌煌，容儀自在，禮拜燒香，不為分外。」伽藍。「靈山致囑，正在此時。吾今來此，須賴護持。」祖師。「這一夥漢，殃害非小，累及兒孫，至今不了。」方丈。以杖指門云：「此是住持燕息之處，亦乃歷祖辨驗之場。雖然險似虎穴魔宮，到此難以卻步。且道正當此時，如何剖決？不入驚人浪，難逢稱意魚。」上堂。指座云：「此這寶華王座，歷祖共登。山僧既忝隊中，豈可更途易",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment: reading at his own mountain-gate inauguration, before the radiant seated one of the buddha hall, the ceremony verse — worship and incense, nothing beyond his due."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0723c02",
+          "ToLb": "0723c16",
+          "Kwic": "，室中歡喜不徹。碧巖青嶂是處留題，木女石人到來著價。猶憶五年前，鳳凰山頂刻羽調宮，瑪瑙坡旁吟風弄月，末後句為君舉揚，破沙盆大家扶起。皇天降割，祖道凌夷，歸雙履于七個蒲團，走千山于一條楖栗。金棺自舉，豈甘落在他人？一色全消，個裏不留朕跡。火中銕鷂撲地高飛，燄裏寒冰當陽顯出，這是我法兄和尚一生受用不盡的，卻也不為分外。只可惜崦嵫匿景，震旦晦冥，崑崙倒流，蔥嶺荒忽。今日雲溪末席酌水獻花，要為我法兄傳下個最後消息，但依依楊柳，玉欄干上遍界藏真；灼灼桃花，金絡索邊相逢覿面。即如長慶道：『萬象之中獨露身。』莫便是這個麼？呀！呀！過去了也。大眾！且向長慶門前作禮三拜。」為明經沈寶先居士對靈小參。「秋虫日以悲，秋草不常好，惆悵林",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: sealing his dead dharma-brother's lifelong use at the coffin — the phoenix-peak years, the iron hawk rising from fire, the use that was never exhausted — with the verdict that it too was nothing beyond his due."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X70/X70n1376.xml",
+        "J/J29/J29nB235.xml",
+        "J/J38/J38nB418.xml",
+        "J/J29/J29nB239.xml",
+        "J/J27/J27nB193.xml",
+        "J/J37/J37nB383.xml",
+        "J/J26/J26nB186.xml",
+        "J/J33/J33nB294.xml"
+      ],
+      "RelatedMasters": [
+        "Chijue Daochong",
+        "Xuedou Chongxian",
+        "Lianyue Daozheng",
+        "Huiyue Xu",
+        "Gaofeng Yuanmiao",
+        "Juyun Chuiwan Guangzhen",
+        "Yinyuan Longqi",
+        "Hanxiu Ruqian",
+        "Linye Tongqi",
+        "Liangting Jingting"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Nothing beyond one's own due. Chijue Daochong, retelling the rhino-fan case turn by turn and grading every ancient in it — Xuedou's head-and-horns, Shishuang's already-gone tail, Zifu's circle with an ox inside, Baofu's advice that the aged master get someone else — hears Xuedou pity the effort as wasted and drops his one-line verdict: nothing beyond his due; Lianyue Daozheng, when a lay patron describes the bared sword — demon kings' skulls split, foxes gone to ground — answers the exclamation with the same flat seal before opening his discern-demons demands; Huiyue Xu raises Gaofeng's held whisk — no step forward, no step back, nothing at all, and what is it that neither-nor — rules that Gaofeng spent nine oxen's strength and still could not turn his body, then announces that Jinming shaking out sinew and bone with the ancients is nothing beyond his due, and at once licenses forward, back, and neither-nor alike. Juyun Chuiwan Guangzhen, at the Buddha's birthday where everyone bathes the crown prince in fragrant soup, claims that his own two-drumhide clatter of vines pushing open the buddhas' knowledge inside the beings' realm is nothing beyond his due; Yinyuan Longqi dares guarantee that sitting astride the transformation-buddhas' heads and overturning the right-and-wrong nest — daily digesting ten thousand taels of gold — is nothing beyond his due; Hanxiu Ruqian, dissolving the retreat and asking each trainee whether the original-portion matter is penetrated, rules that whoever has penetrated may roam the western heaven by morning and return east by dusk, gods' games nothing beyond his due; Linye Tongqi, at his own mountain-gate inauguration, reads the ceremony to the radiant seated one — worship and incense, nothing beyond his due; and Liangting Jingting, standing before his dead dharma-brother's coffin, traces the five years of phoenix-peak music and the iron hawk rising from fire, then seals the whole lifelong use — this was what my dharma-brother used up his life on, and it too was nothing beyond his due."
+    }
+  ]
+}

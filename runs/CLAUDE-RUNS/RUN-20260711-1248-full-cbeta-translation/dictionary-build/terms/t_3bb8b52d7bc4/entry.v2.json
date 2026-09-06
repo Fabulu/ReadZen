@@ -1,0 +1,131 @@
+{
+  "Id": "t_3bb8b52d7bc4",
+  "SourceTerm": "將此深心奉塵剎，是則名為報佛恩",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T01:34:29Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "offer this deep mind to the dust-grain realms — that alone is repaying the buddha's kindness",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "repaying the buddha's kindness",
+        "Ananda's repayment vow"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 35 hits in 28 source files. Evidence floor met with 6 retained exact deployments from 6 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0012b03",
+          "ToLb": "0013a01",
+          "Kwic": "祖法身佛像佛祖法身佛像佛祖佛祖世尊纔生下，乃一手指天，一手指地，周行七步，目顧四方云：天上天下，唯我獨尊。雲門云：我當時若見，一棒打殺與狗子喫，貴圖天下太平。雪竇云：便與掀倒禪床。法眼云：雲門氣勢甚大，要且無佛法道理。時有老宿代云：將謂無人證明。雪竇又別云：鉤在不疑之地。琅瑘覺云：雲門可謂將此深心奉塵剎，是則名為報佛恩。雲峯悅云：雲門雖有定亂之謀，且無出身之路，若也辯得，許你頂門具一隻眼。洞山聦頌云：四月八佛降生日，指天指地稱第一。九龍噴水沐金軀，摩訶般若波羅蜜。泉大道云：指天指地語琅琅，送語傳言出𦘕堂。使者尚能多意氣，主人應是不尋常。保寧勇云：混沌未分人未曉，乾坤纔剖事潛彰。天生伎倆能奇恠，末上輸他弄一場。",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Langye Huijue owns the retained deployment: the origin verdict of the Chan career: capping Yunmen's if-I-had-been-there one-blow killing of the newborn World-Honored One (buying the world its peace) — that, says Langye, may truly be called offering this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness — printed among Xuedou's seat-tipping, Fayan's no-buddha-dharma-in-it and Yunfeng's no-way-out rulings."
+        },
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0406a03",
+          "ToLb": "0406a17",
+          "Kwic": "上堂。云：入林不動艸，入水不動波，入鳥不亂行。大眾！者箇是把纜放船底手脚，且道衲僧家合作麼生？以手拍禪床一下，云：掀翻海嶽求知己，撥動乾坤見太平。上堂。拈起拄杖，卓一卓，云：一漚生，波瀾始。又卓一卓，云：一漚生，文殊起。又連卓三下，云：者箇又作麼生？良久，云：誰知遠烟浪，別有好思量。參。上堂云：古者道：將此深心奉塵剎，是則名為報佛恩。圓通即不然，時挑野菜和根煑，旋採山柴帶葉燒。參！上堂。云：佛身無為，不墮諸數。且道六入、十二緣、十八界乃至八萬四千法門從甚處來？以手拍禪牀一下，云：好女不著嫁時衣。參。上堂，云：泥佛不度水，木佛不度火，金佛不度鑪。大眾！趙州老子十二劑骨頭、八萬四千毛孔，一時拋向諸人懷裏了也。圓通今日路見不平，為古人出",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained deployment: lifting the vow-couplet in hall and turning it down the mountain: the old worthy said — offer this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness; Yuantong is otherwise: just now and then boil the wild greens with their roots, gather the raw firewood with its leaves still on — Go!."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0598b11",
+          "ToLb": "0599a06",
+          "Kwic": "，豈干修造？只為執心成境，背覺勞生，智者權設標宗，信心便能頓契。以褒念父想之罔極，恨報芥子以無門，憂母患以有身，憑何功而慶永？是用捐輸金糓，大竪寶坊，妙音圓徹鎮敷𫾻，天地同根如一體。即心是佛，佛外無心，含靈盡入於光中，父母緣生而俱寂。父寂滅而為樂，母生法以無生，季昆萬行以圓明，九族靈蹤而含識。正當恁麼時，將此深心奉塵剎，是則名為報佛恩。同輪歌(師乾道四年佛生之月書于東井以益參徒之知而不昧也)同輪歌應機互換不空同，任運隨時轉此公，豈用千尋麻索拽，指端輕撥滿寰中。活潑潑，耀玲瓏，相繼聯綿不斷窮，誰識那邊關捩子，閑搖取笑各西東。能應也資慵，無求不得此輪中，墜石此時猶拙計，力多功淺眾難供。斯用",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu owns the retained deployment: setting the vow at the head of a stone stupa built with donated gold and grain for his parents: father passed into quiescence and that is joy, mother birthed the dharma and that is the unborn, the brothers' ten-thousand deeds grown round and bright, the nine clans' spirit-traces all holding awareness — right at such a time, offer this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0145b10",
+          "ToLb": "0146a06",
+          "Kwic": "迦未生時會取；欲明教外別傳正法眼藏，須向世尊未拈花、迦葉未微笑時會取；欲明安心之理，須向達磨未開口、二祖未斷臂時會取。於斯時節會得，猶較些子。若待世尊生下時，一手指天、一手指地，周行七步，目顧四方，自云：天上天下，惟吾獨尊。便已納敗闕了也。所以雲門大師云：我當時若見，一棒打死與狗子喫却，貴圖天下大平。可謂將此深心奉塵剎，是則名為報佛恩。諸昆仲！其中還有知恩報恩者麼？若有，可請出來與吾相見；其或未然，可趂此手強脚徤。快須努力決明此事，始不被天下老和尚舌頭瞞也。良久，云：會麼？相逢不飲空歸去，洞口桃花也笑人。上堂。諸昆仲！欲參博山禪，於未開口時會得，猶是落二落三了也。稍覺遲疑，便合喫痛棒，又何待開口以來？縱能會得，堪作甚麼？豈不見從門入",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: moving the repayment before anything to repay: meet the Treasury where the flower is not yet twirled and the smile not yet smiled, the mind where Bodhidharma has not yet spoken and the arm is not yet cut; wait for the seven steps and heaven-above earth-below, and the defeat is already conceded — so Yunmen's one blow feeding him to the dog for the great peace may be called the repayment-vow; brothers, is there one who knows the kindness and repays it? If so, come out and meet me."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0212b06",
+          "ToLb": "0212b22",
+          "Kwic": "致書幣，請住金粟禪林。於九月十五日入院。至山門，云：「無上法門，廓通內外，當陽直截，往來無礙。何以見得？」卓拄杖云：「看腳下。」便入。彌勒殿。「爾憨我憨，趁隊打夥。城市山林，無可不可。終日笑嘻嘻，布袋常包裹。今日當陽捉敗渠，路逢窄處難避躲。」佛殿。「佛之一字，吾不喜聞。水不洗水，金不博金。新長老則不然，將此深心奉塵剎，是則名為報佛恩。」遂展拜。祖師。「花笑庭前，鳥啼松際，滿眼滿耳，早已多事。」伽藍。「既是護法，特為相囑，一草一葉，皆常住物。」韋馱。「示童真體，現將軍身，降伏魔外，衛護叢林。吾今到來，煩著精彩，看取令行。」方丈。「這個所在，先老人昔年於此建法幢，立宗旨，辨驗龍蛇。不肖今日繼席，不敢違條越例，亦要於此覓取一個半個，續佛",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: carrying the vow hall to hall at his entrance into the monastery — at the Maitreya hall the fat brother caught in the open cannot dodge the narrow road — and at the Buddha hall: the word buddha, I do not like to hear it; water does not wash water, gold does not trade for gold; the new elder is otherwise: offer this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness — and he bows."
+        },
+        {
+          "RelPath": "J/J36/J36nB355.xml",
+          "FromLb": "0550b25",
+          "ToLb": "0550c10",
+          "Kwic": "通信？桐溪水急魚行濁；太白峰高鶴宿安。」下座。上堂。驀拈拂子擊香几一下，又連擊兩下，光悠西堂白椎云：「諦觀法王法，法王法如是！」下座。佛誕，上堂。舉：「世尊才生下，一手指天、一手指地，周行七步，目顧四方云：『天上天下，惟吾獨尊。』雲門云：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』瑯琊云：『雲門可謂將此深心奉塵剎，是則名為報佛恩。』又云：『賊過後張弓。』」師云：「二大老大似潑油救火，綠蘿則不然，任他稽首麻三觔，我但南無乾屎橛。且道與古人是同是別？還知落處麼？」遂喝一喝云：「有佛處不得住，無佛處急走過。」同鄉道舊至，上堂。「巫山一帶，錦水吳綾，木鵝三峽，且聽同音。還委悉麼？逢源不盡長河起，流入滄溟引興長。」擊拂子，下座。上堂。拈",
+          "MasterName": "Hengxiulin Falin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB355.xml). Recorded Sayings of Chan Master Hengxiulin of Lülüo. Hengxiulin Falin owns the retained deployment: raising the birthday case with Yunmen's killing-line and Langye's verdict-cap and his too-late-drawing-the-bow — then grading both elders as very much pouring oil to save the fire, and ruling in his own name: Luluo is otherwise — let them bow to hemp-three-catties; I but namo to the dried-shit-brick; same as the men of old, or different?."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1299.xml",
+        "X/X69/X69n1352.xml",
+        "X/X69/X69n1356.xml",
+        "X/X72/X72n1435.xml",
+        "J/J37/J37nB383.xml",
+        "J/J36/J36nB355.xml"
+      ],
+      "RelatedMasters": [
+        "Langye Huijue",
+        "Yunmen Wenyan",
+        "Baiyun Shouduan",
+        "Pu'an Yinsu",
+        "Wuyi Yuanlai",
+        "Hanxiu Ruqian",
+        "Hengxiulin Falin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Offer this deep mind to the dust-grain realms — that is repaying the buddha's kindness. The couplet is Ananda's own vow from the Śūraṅgama — and the Chan hall's use of it begins with a killing. The newborn World-Honored One takes seven steps, eyes sweeping the four quarters, heaven-above earth-below I-alone-venerable; Xuedou would tip over the Chan seat; Fayan grants the momentum but denies the buddha-dharma in it; and Langye Huijue caps the whole exchange where it stands: Yunmen's if-I-had-been-there, one blow to kill him and feed him to the dog, buying the world its peace — that, says Langye, may truly be called offering this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness. Baiyun Shouduan lifts the couplet in the hall and turns it down the mountain: the old worthy said it — offer this deep mind, repay the buddha's kindness; Yuantong is otherwise: just now and then boil the wild greens with their roots, gather the raw firewood with its leaves still on — Go! Pu'an Yinsu sets it at the head of a stone stupa built for his parents: father passed into quiescence and that is joy, mother birthed the dharma and that is the unborn, the brothers' ten-thousand deeds grown round and bright, the nine clans' spirit-traces all holding awareness — right at such a time, offer this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness. Wuyi Yuanlai moves the repayment before anything to repay: to read the Treasury of the True Eye one must meet it where the World-Honored One has not yet twirled the flower and Mahakasyapa has not yet smiled; to settle the mind one must meet it where Bodhidharma has not yet opened his mouth and the Second Patriarch has not yet cut off his arm — catch it at that season and you are still a little ahead; wait for the World-Honored One to be born, point at heaven and earth, walk his seven steps and say heaven-above earth-below I-alone-venerable, and the defeat is already conceded; so Yunmen's one blow, feeding him to the dog, buying the great peace — that may be called the repayment-vow; brothers, is there one among you who knows the kindness and repays it? If there is, let him come out and meet me. Hanxiu Ruqian, entering a new monastery, carries it hall to hall — at the Maitreya hall teasing the fat brother who cannot dodge him on the narrow road, and at the Buddha hall: the word buddha, I do not like to hear it; water does not wash water, gold does not trade for gold — the new elder is otherwise: offer this deep mind to the dust-grain realms, that alone is repaying the buddha's kindness — and bows. And Hengxiulin Falin, raising the birthday case with Langye's cap and his too-late-drawing-the-bow, grades both elders as pouring oil on the fire — and Luluo is otherwise: let them bow to hemp-three-catties; I but namo to the dried-shit-brick. Same or different from the men of old?"
+    }
+  ]
+}

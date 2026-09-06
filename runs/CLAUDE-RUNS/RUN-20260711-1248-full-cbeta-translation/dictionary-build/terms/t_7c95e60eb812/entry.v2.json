@@ -1,0 +1,194 @@
+{
+  "Id": "t_7c95e60eb812",
+  "SourceTerm": "聖諦第一義",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:16:19Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the holy truth, the first meaning",
+      "AlternateTargets": [
+        "the supreme meaning of the holy truth"
+      ],
+      "SearchAliases": [
+        "the emperor's first-meaning question",
+        "holy truth first meaning",
+        "the first meaning of the sacred truth"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 140 hits in 109 files representing 107 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0767a23",
+          "ToLb": "0767b17",
+          "Kwic": "云謝師證明師云知音底事作麼生僧劃一劃師云又被風吹別調中學云往往隨他口頭走師云更是阿誰乃云李白桃紅山青水淥雲橫洞口月皎長空若只向者裏薦得法眼道月明幽室寒星兮拱辰異便須瓦解冰消韶國師道通玄峯頂不是人間心外無法滿目青山亦須百雜碎何也盡乹坤大地不消一捏然雖如是事無一向今夜且放過一著。上堂舉梁武帝問達磨如何是聖諦第一義磨云廓然無聖帝云對朕者誰磨云不識又僧問六祖黃梅意旨什麼人得祖云會佛法底人得僧云和尚還淂麼祖云不淂僧云和尚為什麼不得祖云我不會佛法師云大小大祖師問著底便是不識不會為什麼却兒孫徧地乃云一人傳虗萬人傳實小叅僧問施主遠趨於丈室請師一句利於人師云教天下人成佛去學云悠悠塵內客不謾入山來師云中間猶有眾生在僧便喝師云",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Wuzu Fayan owns the retained deployment, raising the emperor's question and the founder's no-saint answer, setting it beside the sixth patriarch's not-knowing, and faulting founders who answer every asking with not-knowing yet have descendants everywhere."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0921a12",
+          "ToLb": "0921b06",
+          "Kwic": "磨相見便問朕造寺供僧不可勝數未審有何功德蓋為他頓一箇希望心在面前正在有為羅網中達磨祖師欲裂其愛網直截向渠道無功德梁武帝因緣時節未至遂不領略當時若使會箇無功德祖師豈肯一葦渡江既理會不得又問如何是真功德猶自希求功德在祖師不得已於第二義門向他道淨智妙圓體自空寂如是功德不以世求梁武帝素於教乘留心知教中有真諦俗諦唯聖諦第一義是教家極則處便拈來問達磨如何是聖諦第一義祖師痛與一錐云廓然無聖武帝不會復問對朕者誰意謂達磨是聖人既云無聖只今對我者為誰向語言上著到所以達磨更與一錐云不識好箇不識可惜武帝依前不會遂成勞而無功此是達磨老婆心切為破執有為功德故示以無為之道佛祖固如是豈道教不言無為乎昔唐睿宗召司馬子微至京師問曰知卿有數術能為朕",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, teaching that the emperor, steeped in the teaching vehicles, knew this very formula as the teaching school's utmost and picked it to ask, so the founder struck him a sharp awl with no saint at all."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0616a19",
+          "ToLb": "0616b08",
+          "Kwic": "，黃蘗吐舌，龍潭吹滅紙燭，臨濟喫三頓痛棒，異端並起，邪法難扶。到遮裏，須是箇漢始得。有麼？有麼？如無，更聽一頌：無影枝頭一點春，笑他無地可藏身。黃金自有黃金價，何必和沙賣與人。上堂。金不博金，水不洗水。啐󲣅同時，劒去久矣。且道是什麼人發明如是事？試舉看。達磨大師自西天竺國而至金陵，見梁武帝。帝問曰：如何是聖諦第一義？達磨答云：廓然無聖。武帝曰：對朕者誰？磨云：不識。帝不契。達磨因此折蘆渡江。至魏後，武帝舉問誌公。公曰：陛下識此人否？曰：不識。誌云：此是觀音大士傳佛心印。帝曰：當遣使去詔。誌公曰：莫道陛下，合國人追他亦不回。達磨與武帝一挨一拶，如兩鏡相照，間不容髮。無端被誌公向明鏡上彩畫虗空，翻成瑕翳。武帝問云：如何",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment, retelling the whole crossing and faulting the mirror-painter who named the founder, ruling the exchange two mirrors facing with no hair between."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0507a08",
+          "ToLb": "0507b11",
+          "Kwic": "體洞然自他靡間向上一着由來千聖不傳若其曲順機宜未免入泥入水乃舉起拂子云汝等諸人還會得者個麼良久云本有之性要會有什麼難葢謂今時人好聞義理禪并老婆說想起當初忠國師好說老婆禪山僧今日也不免效伊去且如達磨大師自南天竺國特特航海而至此方只說直指人心見性成佛但未委指那個心見那箇性成什麼佛試看伊初遇梁武帝問如何是聖諦第一義磨云廓然無聖帝云對朕者誰磨云不識如此看來達磨大師大似善治眼底一箇太醫但能刮磨去人眼中底翳病外不能有光明與人可惜武帝護病不肯容達磨刮磨去得眼中翳病奈何使達磨未免一塲懡㦬而退所以遂擲蘆過江至魏在熊耳山前面壁九年待得個慧可大師出來做了箇割煞且言慧可大師為求法故立雪齊腰乃至斷臂托呈後云我心未安乞和尚安心磨云但",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment, reading the founder as an eye-doctor who can scrape away the film but cannot lend his own light, the emperor guarding his sickness and refusing the cure."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0415c11",
+          "ToLb": "0416a01",
+          "Kwic": "不古，宗風日變，由是門庭各立，穿鑿百端。雖金亦昔時之金，玉亦昔時之玉，而琢玉成器，鑄金成像，尖巧艶麗，反似遠勝古人，而淳厖渾厚之意，則索然無存矣。今日老僧這裏，也不用行喝行棒，也不用玄提玄唱，也不用格外相逢，也不用埋兵索鬬，但舉幾則古人臭爛葛藤刻的示人處，為諸人指箇入路。昔日達磨初來此土，武帝問云：如何是聖諦第一義？武帝精通教理，而教家以聖諦第一義為極則，故舉以問。達磨答云：廓然無聖。乃是用金剛王寶劍當頭一揮，驅耕夫之牛，奪饑人之食。怎奈武帝不能領略，却在人我上較計。再問：對朕者誰？達磨也不與他論人論我，只奉箇不識兩字，直似鐵壁千尋，窺伺無門。這公案乃宗門打頭一節，若能從此悟入，便可歸家穩坐。後渡江至少林九年，面",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment, naming the formula the teaching school's utmost and reading the answer as the diamond blade's single head-stroke, driving off the plowman's ox and seizing the starving man's food, a thousand-fathom iron wall with no door to peer through."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0323c16",
+          "ToLb": "0323c30",
+          "Kwic": "僧，忽見鬼使來捉，僧云：『吾以主院事忙，未暇修行，容七日後同去何如？』使云：『待歸白大王，若許即如命。』七日後，鬼使復來，遂尋此僧不見。試問大眾：七日前來尋得見，七日後來為甚麼尋不見？」眾下語不契，師代云：「片雪點紅爐。」萬歲牌成，行裁汪居士請上堂。「一人端拱無為，萬國咸歸至化，干戈偃息、河海澄清，豈不是聖諦第一義？著衣持缽，埽地焚香，抴木上高灘，褰衣渡深水，衝風冒雨，戴月披星，豈不是聖諦第一義？乃至紅塵堆裏、火宅頭邊，挈斗持衡，沽鹽買醋，豈不是聖諦第一義？與麼觀得，則不離火宅便獲清涼，不斷髮鬚高超正覺。三車是甚閒家具？八教何異碗鳴聲？然雖如是，達摩祖師因甚對武帝云廓然無聖？橫按莫邪全正令。」喝一喝。復舉：「世尊成",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, asking the formula three times over of the throne, the robe-and-bowl day, and the salt-and-vinegar counter, then faulting his own asking before the shout."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0646b26",
+          "ToLb": "0646c10",
+          "Kwic": "為不二法門。然後問文殊，殊云：『如我意者，於一切法無言、無說，無示、無識，離諸問答，是為入不二法門。』殊復謂維摩曰：『我等各自說已，仁者當說何等是菩薩入不二法門？』維摩默然。」師云：「維摩病多諳藥性，徹底老婆心，末後被文殊翻轉藥頭，直得佛病、祖病、眾生病一時掃蹤滅跡。」舉：「達磨大師因梁武帝問：『如何是聖諦第一義？』磨云：『廓然無聖。』帝云：『對朕者誰？』摩不識。」師云：「梁帝逢而不逢，初祖識而不識，子細觀來，兩兩無面目漢。會得廓然聖，惟我獨尊。」舉：「布袋和尚以破布一塊裹乾菌橛，逢人則拈起云：『兜率陀天底，兜率陀天底。』瑯琊云：『慈氏菩薩。』徑山云：『牢收取。』」師云：「瑯琊鏤糞作栴檀，徑山囊業作香袋，擬欲並",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment, ruling that the emperor met without meeting and the founder knew without knowing, two no-face men, and holding that whoever meets the no-saint saint is the alone-honored one."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0567c30",
+          "ToLb": "0568a13",
+          "Kwic": "。』即今諸上座明白也，且道：西天無量壽與解脫月二員古佛相見時商量箇甚麼？」良久，云：「金牛飯，廬陵米，知其味者或寡矣。」便下座。甲子十月二十二日，皇上駕幸當山，坐方丈，道話最久，且書「蕭閒」二字扁賜師。臨行，命侍衛官馬武齎金飯僧。次日，師上堂，拈香謝恩罷，乃舉：「昔達磨初祖至東土，梁武帝問云：『如何是聖諦第一義？』祖云：『廓然無聖。』帝云：『對朕者誰？』祖云：『不識。』帝不契，祖遂渡江。」乃云：「初祖手握輪槌，將千門萬戶一擊而開，惜乎梁主挨身不入，致使靈光妙音近在咫尺，遂又邈若河山。爭似我當今聖主昨者駕幸當山，問云：『禪與宗是一是二？』云：『非一非二。』上云：『宗門離文字相麼？』云：『難逃聖鑑。』其餘言句不及",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment, raising the exchange the day after the throne visited his mountain, and grieving that the lord of Liang brushed past the one-stroke opening of ten-thousand gates while the light and the sound stood inches away."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "M/M59/M59n1540.xml",
+        "X/X70/X70n1397.xml",
+        "L/L153/L153n1637.xml",
+        "X/X72/X72n1437.xml",
+        "J/J28/J28nB208.xml",
+        "J/J38/J38nB425.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Wuzu Fayan",
+        "Dahui Zonggao",
+        "Xueyan Zuqin",
+        "Huanyou Zhengchuan",
+        "Yongjue Yuanxian",
+        "Guxue Zhenzhe",
+        "Jifei Ruyi",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The emperor's own asking formula from the founding exchange: the holy truth, the first meaning. Wuzu Fayan raises the emperor's question with the founder's no-saint answer, sets it beside the sixth patriarch's not-knowing, and faults founders who answer every asking with not-knowing yet have descendants everywhere, Dahui Zonggao teaches that the emperor, steeped in the teaching vehicles, knew this very formula as the teaching school's utmost and picked it to ask, so the founder struck him a sharp awl with no saint at all, Xueyan Zuqin retells the whole crossing and faults the mirror-painter who named the founder, ruling the exchange two mirrors facing with no hair between, and Huanyou Zhengchuan reads the founder as an eye-doctor who can scrape away the film but cannot lend his own light, the emperor guarding his sickness and refusing the cure. Yongjue Yuanxian names the formula the teaching school's utmost and reads the answer as the diamond blade's single head-stroke, driving off the plowman's ox and seizing the starving man's food, a thousand-fathom iron wall with no door to peer through, Guxue Zhenzhe asks the formula three times over of the throne, the robe-and-bowl day, and the salt-and-vinegar counter, then faults his own asking before the shout, Jifei Ruyi rules the emperor met without meeting and the founder knew without knowing, two no-face men, and Yushan Shangsi, the day after the throne visited his mountain, raises the exchange and grieves that the lord of Liang brushed past the one-stroke opening of ten-thousand gates while the light and the sound stood inches away."
+    }
+  ]
+}

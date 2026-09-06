@@ -1,0 +1,211 @@
+{
+  "Id": "t_9bf9e69c96ef",
+  "SourceTerm": "少分相應",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a small measure of accord",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a partial matching",
+        "some small share of entry"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 190 hits in 114 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0630c19",
+          "ToLb": "0631a13",
+          "Kwic": "若是無物更何用照你莫開眼寱語去上堂云百種多知不如無求最第一也道人是無事人實無許多般心無事亦無散去。問如何是世諦師云說葛藤作什麼本來清淨何假言說問荅但無一切心即名無漏智汝每日行住坐臥一切言語但莫著有為法出言瞬目盡同無漏如今末法向去多是學禪道者皆著一切聲色何不與我心心同虛空去如枯木石頭去如寒灰死火去方有少分相應若不如是他日盡被閻老子拷你在你但離却有無諸法心如日輪常在虛空光明自然不照而照不是省力底事到此之時無棲泊處即是行諸佛路便是應無所住而生其心此是你清淨法身名為阿耨菩提若不會此意縱你學得多知勤苦脩行草衣木食不識自心盡名邪行定作天魔眷属如此脩行當復何益故誌公云佛本是自心作那得向文字中求假饒你學得三賢四果十地滿",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Baizhang Huaihai owns the retained deployment: teaches that a hundred kinds of knowing are not as good as no seeking, that the way-man is a man of nothing-to-do with no many-moded mind, and that in this ending age those who study the way all cling to sight and sound, so go with him mind-and-mind the same as empty space, like dried wood, like stone, like cold ash and dead fire, and only then is there a small measure of accord, otherwise one day Old Man Yama will rack you, though to leave behind the dharmas of being and non-being with the mind like a sun-wheel always in empty space, shining without shining, takes no effort at all."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0145a11",
+          "ToLb": "0145a26",
+          "Kwic": "米。山云。淘沙去米。淘米去沙。峯云。沙米一齊去。山云。大眾喫箇什麼。峯便覆盆。山云。子緣在德山。指令見之。纔到便問。從上宗乘中事。學人還有分也無。德山打一棒云。道什麼。因此有省。後在鰲山阻雪。謂嵓頭云。我當時在德山棒下。如桶底脫相似。嵓頭喝云。爾不見道。從門入者。不是家珍。須是自己胸中流出。蓋天蓋地。方有少分相應。雪峯忽然大悟。禮拜云。師兄今日始是鰲山成道。如今人只管道。古人特地做作。教後人依規矩。若恁麼。正是謗他古人。謂之出佛身血。古人不似如今人苟且。豈以一言半句。以當平生。若扶竪宗教。續佛壽命。所以吐一言半句。自然坐斷天下人舌頭。無爾著意路作情解。涉道理處。看他此箇示眾。蓋為他曾見作家來。所以有作家鉗鎚。凡",
+          "MasterName": "Yantou Quanhuo",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yantou Quanhuo owns the retained deployment: shouts at Xuefeng, snowed in at Ao mountain after his bottom-fell-out release under Deshan's staff, that he has not seen the saying, what enters by the gate is not family treasure, it must pour out of your own chest and cover heaven and cover earth, and only then is there a small measure of accord, at which Xuefeng suddenly wakes, bows, and says his dharma-brother has today completed the way at Ao mountain."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0029b04",
+          "ToLb": "0029b18",
+          "Kwic": "。大眾，雲門只見錐頭利，不見鑿頭方。寶峰即不然。乃擲下拄杖云：勿於中路事空王，䇿杖還須達本鄉。昨日有人從淮南來，不得福建路信，却道嘉州大像吞却陝府鐵牛。喝云：是甚說話，笑倒雲居土地。雲葢智和尚示眾云：不離當處常湛然，覔即知君不可見。雖然，先聖恁麼道，且作箇模子搭却。若也出不得，只抱得古人底；若也出得，方有少分相應。雲葢即不然，騎駿馬，遶須彌，過山尋螘跡，能有幾人知？盤山和尚云：譬如擲劒揮空，莫論及之不及，斯乃空輪無跡，劒刃無虧。若能如是，心心無知。妙喜曰：咄！咄！咄！我王庫內無如是刀。洞山聰和尚開堂日，僧問：大眾雲臻，師登寶座。向上宗乘，請師舉唱。曰：下坡不走，快便難逢。云：師唱誰家曲，宗風嗣阿誰？曰：竹杖挑擎千",
+          "MasterName": "Yungai Zhi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yungai Zhi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "compiler",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Yungai Zhi owns the retained deployment: instructs that not leaving this very place it is ever serene, seek it and you cannot be seen, yet the sage saying so is only a mold thrown over, fail to exit it and you merely hug what belonged to the ancients, exit it and there is a small measure of accord, whereupon Yungai is otherwise, riding a fine horse around Sumeru, over the mountains hunting ant-tracks, and how many can know it."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0519a04",
+          "ToLb": "0519b08",
+          "Kwic": "長江万里清師云罕遇知音僧問如何是琅邪境師云山高海闊進云如何是境中人師云天長地久進云人境已蒙師𢫾示向上宗乗事若何師云速禮三拜僧問談󷹋即逆俗順俗即違󷹋如何得不相違去師云杖頭挑日月進云施主臨筵請師再𡸁方便師云袖裏貯𠃵坤進云野花連地發春草徧󷧀生師云釣人江上立不覺失魚舟師乃云只麼地散去亦有少分相應雖然有少分相應有似鈍鳥棲於枯枝游魚處於涸澈作麼生是透󷑆一句卓拄杖下座。僧問承師有言開口錯擬心𭅒離此二途請師別道師云󷑐武不入單于帳進云與麼則今日失利去也師云旁觀塞草乱斑斑進云早知今日事悔不慎當初師云愁人莫向愁人󵘸。師因出州看陳轉運喫茶次乃問師云佛法惣不在思量是否師云既不在思量如何道得運使大",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Langye Huijue owns the retained deployment: after the patrons' banquet questions, lets the assembly scatter just so and grants that this too has a small measure of accord, though a small measure of accord is still a dull bird perched on a withered branch and a swimming fish stuck in a drained pond, so he raps his staff and asks for the one phrase that breaks through, before descending."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0880c06",
+          "ToLb": "0880c22",
+          "Kwic": "段未了。又問一段。恰如村人打傳口令相似。我今不惜口業。為爾諸人葛藤註解一遍臨濟一日示眾云。有時奪人不奪境。有時奪境不奪人。有時人境兩俱奪。有時人境俱不奪。會麼。良久左右顧視便下座。遮箇便是金剛王寶劍。我昨日說底。將蜈蚣毒蛇蝎子并諸雜毒。貯在一甕裏。爾試將手就中。拈一箇不毒底出來看。若拈得出。不妨於此事有少分相應。若拈不出。自是爾根性遲鈍。夙無靈骨也。怪妙喜不得。臨濟當時道這幾句閑言長語。面目現在。自是爾不會看得出爾若領得此意。自從胡亂後三十年。不少鹽醬鐘樓上念讚床脚下種菜之類。不著問人。一一自知下落。古人垂箇方便。豈是間開口。須知爛泥裏有刺。當時有箇克符道者。理會得臨濟意。便出來問。如何是奪人不奪境。臨濟當時",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: glosses Linji's four takings, now taking the person, now the circumstances, now both, now neither, as the diamond-king sword, then sets centipedes, vipers, scorpions, and assorted poisons in one jar and dares the assembly to reach in and pick out one that is not poison, pick it out and you have a small measure of accord with this matter, fail and it is your own dull root-nature, lacking the numinous bone, and no fault of Miaoxi."
+        },
+        {
+          "RelPath": "J/J20/J20nB098.xml",
+          "FromLb": "0508a01",
+          "ToLb": "0508a15",
+          "Kwic": "羅矣。若秪討論些義味，逍遣悶懷、浮沉世俗乃可，要濟生死關津，豈能得乎？實務了此大事，須卸卻一生裝載，乾竭累積珍藏，將至玄至妙的、能覺能悟的、陰結不化的、隱隱在臟腑中作奇作怪的劫賊陰魔通身打落，罄教淨盡，全無倚托，如靈魂不得附屍相似，倒向平地上，忽轉過身來，纔有一星見量現前，急須吹毛鏟落，無令纖土停針，方許少分相應。復傅考功泰衡復傅考功泰衡接蔣考功書，道公吞過栗棘蓬三個，不受人瞞。僧特過訪，果不虛也。若非夙植德本，累劫薰修，焉能一信至此？雖然，切不可認著。何也？若作聖解，迷在中途。所以前步工夫只圖見性，後步須要透出重關、覷破生死。譬如駕船，無風浪時，撐篙盪槳之人也都扶得柁，若遇風浪滔天，須是久慣的稍公柁柄在手，隨波",
+          "MasterName": "Wunian You",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wunian You",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J20/J20nB098.xml). Further Questions to Chan Master Huangbo Wunian. Wunian You owns the retained deployment: writes that merely savoring meanings to pass the time will never cross the toll-gates of birth and death, so to settle the great matter you must unload a lifetime's cargo and dry up the hoarded treasure, smash down through the body the robber-yin demons, the most-mysterious and most-marvelous, the able-to-awake, knotting untransformed in the organs, until with nothing at all to lean on the soul falls flat on open ground and suddenly turns itself over, and when one star of seeing-measure appears, shave it off at once with a blown-hair blade, letting not a hair of dust stop on the needle, and only then is a small measure of accord permitted."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0580a06",
+          "ToLb": "0580a18",
+          "Kwic": "。大眾且道：誰是不饑不渴者？」拈杖，云：「上大人，丘乙己，尒小生，可知禮也。」歸院，上堂。「大道只在目前，要且目前難睹，欲識大道真體，不離聲色言語。」豎拂，云：「大眾看看，誌公和尚來也，即今在山僧拂子頭上橫說豎說，汝等諸人還聞麼？若道聞，且道他說箇什麼？若道不聞，汝等諸人豈無耳耶？向這裏轉得身、吐得氣，許汝少分相應；其或未能，山僧未免聊通一線：前月十七去，今月十三回，當此何時候，臘梅滿樹開。」喝一喝，擲拂子，下座。歲旦，上堂。「元正啟祚，萬物咸新，年新、月新、日新、時新，纖洪長短莫不皆新。」拈杖，云：「且道：者條拄杖子還有新舊也無？諸方盡道本無新舊，也是布袋裡老鴉。山僧即不然，閑時倚壁渾如舊，拈出當陽宛似新。」喝一",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: on returning to the monastery, sets Zhigong the monk come now, preaching sideways and upright on the whisk-tip, and asks whether they hear him or not and whether they lack ears, granting that whoever can turn their body and breathe out a breath at this point has a small measure of accord, and for those who cannot, threading one thin line, the seventeenth of last month gone, the thirteenth of this month back, and the winter plum in full bloom on the tree."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0763b15",
+          "ToLb": "0763b29",
+          "Kwic": "鐵牛不怕獅子吼。」進云：「恁麼則石傘峰前演摩訶。」師云：「如何是摩訶？」僧一喝，師便打，僧禮拜。茶話。「緊著程途再著鞭，草鞋更用把繩添，行到水窮山盡處，大家齊和太平年。而今眾兄弟做工夫，必須要透頂透底，徹頭徹尾，徹將去方好，不可半途而廢。如人行路相似，但有路可上，更高人也行。直行到水窮山盡，再跨一步，方有少分相應。亦如將軍上陣一般，雖然捉其先鋒、擒其殿後。若餘黨未盡，待汝卸甲停戈，賊兵復起，依舊喪身失命。必須破其窠窟，勦其巢穴，滅其餘黨，然後為太平也。前半期排昏敵散去其麤重，後半期有微細流注，必須以智慧炤破盡淨無餘，方可心地太平。雖然如是，此乃功勳邊事，須知更有不涉功勳坐見太平者。且如何是坐見太平底事？」良久云：",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: tells the brothers at tea that the work must be thorough to the crown and the tail, never quitting halfway, for like walking a road, wherever there is a path the higher man still walks, go straight to where the water ends and the mountains are done and take one more step, and only then a small measure of accord, still like a general in the field who may have seized the vanguard and captured the rear guard, but with the routed bands unfinished, the moment he doffs armor the bandit soldiers rise again and he loses his life as before, so the dens must be broken, the lairs cleaned out, the remnants annihilated, and only then is there peace."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T48/T48n2003.xml",
+        "X/X67/X67n1309.xml",
+        "D/D48/D48n8939.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J20/J20nB098.xml",
+        "J/J26/J26nB185.xml",
+        "J/J26/J26nB188.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Yantou Quanhuo",
+        "Xuefeng Yicun",
+        "Yuanwu Keqin",
+        "Yungai Zhi",
+        "Dahui Zonggao",
+        "Langye Huijue",
+        "Wunian You",
+        "Fushi Tongxian",
+        "Ruibai Mingxue"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The first foothold on the way, priced by the masters at withered wood and one more step past water's end. Baizhang Huaihai teaches that a hundred kinds of knowing are not as good as no seeking, the way-man is a man of nothing-to-do, and in this ending age those who study the way all cling to sight and sound, so go with him mind-and-mind the same as empty space, like dried wood, like stone, like cold ash and dead fire, and only then is there a small measure of accord, otherwise one day Old Man Yama will rack you, Yantou Quanhuo shouts at Xuefeng snowed in at Ao mountain that what enters by the gate is not family treasure, it must pour out of your own chest and cover heaven and cover earth, and only then is there a small measure of accord, at which Xuefeng suddenly wakes and bows that today his dharma-brother has completed the way at Ao mountain, Yungai Zhi instructs that the sage's words are only a mold thrown over, fail to exit it and you merely hug what belonged to the ancients, exit it and there is a small measure of accord, and Langye Huijue lets the assembly scatter just so and grants that too a small measure of accord, though a small measure of accord is still a dull bird perched on a withered branch and a fish stranded in a drained pool. Dahui Zonggao glosses Linji's four takings as the diamond-king sword, then sets centipedes, vipers, scorpions, and assorted poisons in one jar and dares the assembly to reach in and pick out one that is not poison, pick it out and you have a small measure of accord with this matter, fail and your own root-nature is dull, Wunian You writes that to settle the great matter you must unload a lifetime's cargo and smash down through the body the robber-yin demons nesting in the organs, until with no support at all the soul falls flat on open ground and suddenly turns itself over, and when one star of seeing-measure appears you must shave it off at once with a sharp blade, and only then is a small measure of accord permitted, Fushi Tongxian sets Zhigong on the whisk-tip preaching sideways and upright, and whoever can turn their body and breathe out a breath there is granted a small measure of accord, and Ruibai Mingxue tells the brothers at tea that like walking a road you must go straight to where the water ends and the mountains are done and take one more step, and only then a small measure of accord, still like a general in the field who must burn out the last of the bandits' dens before there is peace."
+    }
+  ]
+}

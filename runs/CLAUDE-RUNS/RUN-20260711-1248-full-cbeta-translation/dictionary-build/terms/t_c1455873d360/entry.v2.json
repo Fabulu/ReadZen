@@ -1,0 +1,247 @@
+{
+  "Id": "t_c1455873d360",
+  "SourceTerm": "十五日已後",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T00:37:11Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "after the fifteenth day",
+      "AlternateTargets": [
+        "past the full-moon day"
+      ],
+      "SearchAliases": [
+        "beyond the fifteenth",
+        "after the full moon of the month",
+        "the waning half of the month"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 416 hits in 140 files representing 137 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0231b16",
+          "ToLb": "0231c07",
+          "Kwic": "今日施設？縣曰：有你者瞎驢在。曰：與麼則打鼓弄琵琶。縣曰：捺胃放屁聲。雲峰悅，云：然則一期以勢欺人，其奈事不孤起。葉縣老人失却一隻眼，還有人撿點得出麼？你若撿點得出，雲峰分半院與你；若撿點不出，良久，云：橫按鏌鎁全正令，太平寰宇斬痴頑。襄州谷隱山蘊聰慈照禪師襄州谷隱山蘊聰慈照禪師上堂。十五日已前諸佛生，十五日已後諸佛滅。十五日已前諸佛生，你不得離我者裏。若離我者裏，我有鈎子鈎你。十五日已後諸佛滅，你不得住我者裏。若住我者裏，我有錐子錐你。且道正當十五日，用鈎即是，用錐即是？正當十五日，鈎錐一時息。更擬問何如，回頭日又出。昭覺勤云：放行處把住，把住處放行，雖是為人鉗錘，怎奈傷鋒犯手？若是崇寧則不然，十五日已前，不",
+          "MasterName": "Guyin Yuncong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guyin Yuncong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Guyin Yuncong owns the retained deployment, posting buddhas born before the fifteenth and dead after it, a hook for whoever leaves and an awl for whoever stays."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0860a04",
+          "ToLb": "0860a18",
+          "Kwic": "是向上拈提與了底人說便得若是入泥入水炙脂決灢禪依文解義老和尚却不會妙喜初行脚曾參一尊宿來喚作實印和尚寶印先參興教坦和尚也見雪竇後來法嗣琅瑘山僧在他處作侍者兩年每日商量公案如雲門示眾云十五日已前不問汝十五日已後道將一句來自代云日日是好日此是古本雲門語錄上面說是四月八日上堂因甚麼道十五日已前不問汝謂初八在其中十五日已後道將一句來自代云日日是好日謂何日不是佛降生時節雪竇頌曰去却一拈得七上下四維無等匹徐行踏斷流水聲縱觀寫出飛禽跡草茸茸煙冪冪空生巖畔花狼藉彈指堪悲舜若多莫動著動著三十棒謂去却一拈得七乃是八也世尊生下一手指天一手指地云天上天下唯我獨尊故曰上下四維無等匹徐行踏斷流水聲謂正當四方徐行七步時為你眾生故直饒流水聲也須踏",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, tracing the frame to Yunmen Wenyan's April-eighth address and reading why the eighth stands inside the unasked half while every day is the sage's birthday."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0990b06",
+          "ToLb": "0990b23",
+          "Kwic": "履茲而去。各各水草常甘。無致嘴長毛瘦。上堂舉。大愚辭歸宗。宗云。爾。向甚處去。愚云。諸方學五味禪去。宗云。我者裡有一味禪。為甚不學。愚云。如何是和尚一味禪。宗便打。愚云。我會也。宗云。道來看。愚擬開口。宗又打。師云。是則是青出於藍而青於藍。若其交鋒之際。氷生於水寒於水。則未可也。解夏上堂。十五日已前休。十五日已後住。正當十五日。休也休不得。住也住不得。何故況諸人九十日內。各各所證法門。未甞一一引驗。以主丈畫一畫。過。上堂。舉。雲門因。僧問。初秋夏末。前程忽有人問。未審對他道甚麼。門云。大眾退後。僧云。過在甚麼處。門云。還我九十日飯錢來。師云。者僧是王小波草鞋。雲門雖縱奪可觀。未免暗中著箭。上堂。山僧恰似抱璞者",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment, barring rest before and staying after, so that on the day itself neither works."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0511c01",
+          "ToLb": "0511c15",
+          "Kwic": "落在什麼處？師云：你又醉也。進云：忽有人問和尚：如何是佛？未審如何對佗？師云：劈脊便棒。僧便禮拜，師云：不識痛痒漢。師乃云：五百力士揭石義，萬仞崖前撒手行；十方世界一團鐵，虗空背上白毛生。直饒拈却膱脂帽子、脫却尳臭布衫，向報恩門下正好喫棒。何故？半夜起來屈膝坐，毛頭星現衲僧前。上堂。十五日已前，水長船高；十五日已後，泥多佛大。正當十五日，東海鯉魚打一棒，雨似盆傾，直得三千大千世界一切眾生悉皆懽喜，謂言：打者一棒，不妨應時應節報恩。不覺通身踴躍，遂作詩一首，舉似大眾：蜻蜓許是好蜻蜓，飛來飛去不曾停，被我捉來摘却兩邊翼，恰似一枚大鐵釘。上堂，謝維邪舉：興化問克賓維那：汝不久為唱道之師。賓云：不入者保社。化云：會了不入？",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment, letting the water rise with the boat before, the mud buddhas grow fat after, and one blow to the East Sea carp bring the rain down in basinfuls on the day itself."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0219a10",
+          "ToLb": "0219b01",
+          "Kwic": "也有了，獅子窟中獅子，旃檀林裏旃檀，爪牙未備已見英靈，枝葉纔敷爭看馥郁？且道侍者還有長處也無？寸不如尺。上堂。収來放去，妙在無私。減少添多，當機有準。若要千差合轍，直須草偃風行。更言向上提持，直是徹骨徹髓。正與麼時如何？竚看汗血八駿駒，何啻日馳三萬里。卓主丈，喝一喝。中秋，上堂。十五日已前，掘地覓青天。十五日已後，擕籃盛水走。正當十五日，天明日頭出。待得黃昏月到窻，無限清光滿虗空。豈不見寒山子曾有言：巖前獨靜坐，圓月當空耀。萬象影現中，一輪本無照。若謂中秋分外圓，墮它光影何時了？下座。上堂：有利無利，不離行市。買帽相頭，長人入水。上堂。今朝九月初一。次第寒風凜慄。衲僧主丈化龍。吞却青天白日。江東西湖南北即不問。",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, digging for the sky before, carrying water in a basket after, and on the day itself the sky brightens and the sun comes out."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0296c08",
+          "ToLb": "0296c23",
+          "Kwic": "裡。又問雲門，門云：裂破。師云：二老各逞神通，却被者僧勘破。有問開福，只向他道：相逢且說三分話，未可全拋一片心。久立。上堂。十四十五，考鐘伐鼓。結却布袋頭，剎海無行路。日不待火而熱，月不待風而凉。是人知有南斗七、北斗八一句又作麼生道？良久，云：幸然平似鏡，何用曲如鈎？上堂：十五日已前，有得有失，有長有短。十五日已後，無高無下，無黨無偏。正當十五，洞裡無雲別有天，桃華如錦柳如綿。仙家不解論冬夏，石爛松枯是一年。上堂，舉：五祖和尚云：難難幾何般？易易沒巴鼻，好好催人老，默默從此得。過者四重關了，泗洲人見大聖參。師云：山僧即不然，難難沒多般，易易有巴鼻，好好元不老，默默無所得。過者四重關了，普州人送賊。喝一喝。上堂：識",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, setting gain and loss, long and short before, and no high, no low, no side after."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0006c09",
+          "ToLb": "0006c22",
+          "Kwic": "馬祖，亦如前問，祖云：『待汝一口吸盡西江水，即向汝道。』士得其玄旨。如有問通玄：『不與萬法為侶者是什麼人？』向他道：『東海江頭李鬍子。』且道與二老漢是同？是別？忽有個衲僧出來道：『者裡甚麼所在，說同？說別？』通玄道：『還我中心樹子來。』待伊眼目定動，劈脊便棒。」喝一喝，下座。上堂。「十五日已前，誰復重打筭？十五日已後，孰肯定從容？正當十五日，又且如何透脫？」驀拈拄杖云：「龍袖拂開全體現，象王行處絕狐蹤。」卓一卓，下座。上堂。「茲當六月廿五，況是日輪明露，本無雲翳覆藏，爭柰時人不睹。」驀拈拄杖云：「若也睹，自然超佛越祖。」便下座。上堂，拈拄杖指云：「不得舉二惟舉一，老僧拄杖為竭力，指示分明須荐取，莫待將來驀頭楔。」喝一",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, asking who would bother reckoning before and who dares be at ease after, then flinging the dragon sleeve wide with one stroke of the staff."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0005b18",
+          "ToLb": "0005c02",
+          "Kwic": "交涉。既然未得，且道作麼生是覺然上座底黃金骨？」喝一喝。云：「百骸俱潰散，一物鎮長靈。」上堂，僧問：「虛空無背面，八面絕玲瓏，向什麼處安身立命？」師云：「懷州牛喫禾，益州馬腹脹。」問：「衲僧共住學無為，誰是心空及第者？」師便打。僧喝一喝，師復打。僧連喝，師連打。僧禮拜，師乃云：「十五日已前，為人膿滴滴地；十五日已後，為人血滴滴地；正當十五日，為人乾暴暴地。朝打三千，暮打八百，畢竟落處如何？黃狗喫食，黑狗遭殃。」清白知客為受業師覺凡入塔，請上堂，師云：「纖塵不染，淨裸裸地絕承當；寸絲不挂，赤條條地無回互。所以道：和合妄生、和合妄死，既生死都盧是妄，安有罣礙染污而著其間哉？今辰覺凡定公數門人請山僧為伊陞座露布葛藤，翻",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, serving them dripping pus before, dripping blood after, and dry and bare on the day itself."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0104b27",
+          "ToLb": "0104c10",
+          "Kwic": "，嘗在鬧市門前，間著劈頭便棒，徹底更無廉纖，因甚致得金烹大冶，玉出藍田。」復云：「九十日中間，結住布袋口，日用卓卓然，從新自抖擻，拶透頂門關，能為獅子吼，大地悉平沉，百獸都奔走，堪入臨濟門，白棒劈脊摟。如何是獅子吼？」乃喝一喝云：「薦取攙先一著子，發機不落諸人後。」下座。上堂：「十五日已前，回首俱陳跡，十五日已後，未來望莫及，正當十五日，頭頭呈露，物物披真，衲僧門下，一一現成，九年面壁，未解作活，六載雪山，徒受苦辛，爭似明州憨布袋，逢人無事笑吟吟。」拈拄杖下座。上堂，僧問：「高步毘盧頂，截斷威音喉，婢視釋迦，奴呼彌勒，此人面目如何？」師云：「半邊鼻孔。」進云：「若然，即今來也，請和尚答話。」師便打。進云：「忽若道個",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, turning the past to worn traces before and the future past all hoping after, with the day itself showing true in every thing."
+        },
+        {
+          "RelPath": "J/J38/J38nB414.xml",
+          "FromLb": "0419c02",
+          "ToLb": "0419c14",
+          "Kwic": "情，倫祖向個裏認為己有。若依憲斷，朝打三千，暮打八百。皓老極力擔當，依舊可憐生。東林亦有一頌：春眠不覺曉，處處聞啼鳥，夜來風雨聲，花落知多少？」示眾。「不是心，不是佛，不是物，火燒松樹勢如蛇。者裏道得一轉語，喫棒有分。何故？從前汗馬無人識，只要重論蓋代功。」復舉：「東林正覺禪師上堂：『十五日已前放過一著，十五日已後未可商量，正當十五日試道一句看。』良久，云：『山色翠濃春雨歇，柏庭香擁木蘭開。』」師高聲咄，云：「是甚麼語話？十五日已前，犀因玩月文生角；十五日已後，象被雷驚花入牙；正當十五日，紅葉山頭寺，白雲江上樓，荷花迎秋水，明月盪輕舟，正好一帆風過海，無人弄得竹篙頭。」示眾。「裂開捏聚，三九廿七。菩提涅槃，真如實際。",
+          "MasterName": "Shanduo Zhenzai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanduo Zhenzai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB414.xml). Recorded Sayings of Chan Master Zhenzai of Shanduo. Shanduo Zhenzai owns the retained deployment, giving the rhino its horn from toying with the moon before and the elephant its flower-teeth from the thunder after."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "M/M59/M59n1540.xml",
+        "T/T47/T47n2000.xml",
+        "X/X69/X69n1359.xml",
+        "X/X71/X71n1412.xml",
+        "X/X71/X71n1414.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB177.xml",
+        "J/J26/J26nB178.xml",
+        "J/J38/J38nB414.xml"
+      ],
+      "RelatedMasters": [
+        "Guyin Yuncong",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Yunmen Wenyan",
+        "Xutang Zhiyu",
+        "Ying'an Tanhua",
+        "Gulin Qingmao",
+        "Liao'an Qingyu",
+        "Miyun Yuanwu",
+        "Poshan Haiming",
+        "Feiyin Tongrong",
+        "Shanduo Zhenzai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The after-station of the moon-calendar formula that splits the month into before, after, and right at the fifteenth. Guyin Yuncong posts the frame that ruled the schools, buddhas born before the fifteenth and dead after it, with a hook for whoever leaves and an awl for whoever stays, and on the day itself both rest, Dahui Zonggao traces the frame to Yunmen Wenyan's own April-eighth address and reads why the eighth stands inside the unasked half while every day is the sage's birthday, Xutang Zhiyu closes the summer with rest barred before and staying barred after, so on the day itself neither works, Ying'an Tanhua has the water rise with the boat before and the mud buddhas grow fat after, and on the day itself one blow to the East Sea carp brings the rain down in basinfuls, and Gulin Qingmao digs for the sky before, carries water in a basket after, and on the day itself the sky brightens and the sun comes out. Liao'an Qingyu sets gain and loss, long and short before, and no high, no low, no side after, Miyun Yuanwu asks who would bother reckoning before and who dares be at ease after, Poshan Haiming serves them dripping pus before, dripping blood after, and dry and bare on the day itself, Feiyin Tongrong turns the past to worn traces before and the future past all hoping after, with the day itself showing true in every thing, and Shanduo Zhenzai gives the rhino its horn from toying with the moon before and the elephant its flower-teeth from the thunder after, and on the day itself the red-leaf temple and the white-cloud tower."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "Id": "t_fe95ce79b98b",
+  "SourceTerm": "相去多少",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-05T23:48:17Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "how far apart do they stand",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "by how much do they differ",
+        "what is the distance between them"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 498 hits in 182 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0502b18",
+          "ToLb": "0503a15",
+          "Kwic": "滋味，看來太薄。細思量，休卜度。令人常憶老龍牙，手裡把柄木杓。上堂。謝興化首座：人從興化來，接得劒州信，說道：淩霄峰頂碁盤元是錢王石鏡，二十年前一共看。今日重逢，有何照證？展手，云：面目見在。元宵，上堂。雨中燈，雲中月，最分明，太皎潔。汝等諸人聞恁麼道，將謂夢中說夢，殊不知荊棘林中一片田園迥別。且道與仰山相去多少異車同轍？上堂：一塵入正受，諸塵三昧起。鉢裏飯，桶裏水。身空萬法空，眾類悉皆同。柳自綠，花自紅。眾中莫有胸藏日月、袖裹乾坤底麼？出來露箇消息。如無，各自嘴盧都。無準和尚忌拈香。巴陵三轉語，大仰一甌茶。有恩成怨恨，無事是讎家。杜䳌啼血染山花。上堂。晨朝喫粥，齋時喫飯，人人盡知有。開單展鉢，拈匙放筯，一一",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: asking at the lantern festival how far his rain-lamp and cloud-moon scene sits from Yangshan's, answering that they are a different cart on the same track."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0105c19",
+          "ToLb": "0106a01",
+          "Kwic": "如然，要且不從別處傳來，秪在當人無陰陽地上流出。且無陰陽地上一句作麼生道？」拋拄杖云：「撲落非他物，縱橫不是塵。」復舉：「僧問古德云：『如何是冬來意？』古德云：『京中出大黃。』山僧有一偈略為表揚：有問冬來意，京中出大黃，頭頭渾坐斷，獨露句超方。今日忽有人問山僧，如何是冬來意？山僧便答道：朔風凜凜。且道與古人相去多少？」便下座。上堂，兩僧並出擬問，師云：「一得一失。」僧罔措，師便打。問：「雪嶺六年，埋沒本來眼，悟星子夜，鈍置天下人，釋迦老子捉敗了也，和尚如何出氣？」師云：「想汝也跳不出。」僧一喝，師便打，乃云：「臘八午夜，一天星刺破瞿曇眼裏睛，透漏頂門關上竅，方知滿目是真人，故云：『奇哉！大地眾生皆具有如來智慧德相，",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: capping an old winter-answer case with his own frost-blowing verse and asking how far his answer stands from the ancient's."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0376b02",
+          "ToLb": "0376b17",
+          "Kwic": "人慶緒等編上堂一上堂一康熙戊申六月三十，師在安順清源庵，受鎮西守府任護法洎文學檀越、居士、諸山禪德請，住忠義禪院。三門。「滿徑苔痕綠，一門草色新，雖然絕蓋覆，錯過幾多人？正恁麼時，還識忠義路頭麼？」召大眾，云：「看腳下。」大殿。云：「昔日雲長境界，凜凜神威；今朝古佛家風，重重瑞彩。」顧左右，云：「且道今昔相去多少？」遂拈香，云：「兩彩一賽。」據室。「有如是室，據如是人；有如是人，據如是室。雖然，秪如銅頭鐵額的衲僧到來又且如何？」拈拄杖，云：「直教棒棒見血。」十月十五日結制上堂。師以杖指法座云：「曲彔木床，當陽獨露，要登便登，有何回互？」卓拄杖，遂陞座，拈香云：「此瓣香，金枝挺秀，玉葉扶疏，爇向爐中，端為祝延今上",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained deployment: asking at his inauguration of the Zhongyi cloister how today's hall stands against the general's erstwhile realm, calling it two fine shows in one contest."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0842b09",
+          "ToLb": "0843a06",
+          "Kwic": "魔王。魔佛一心作，佛真魔即狂。見性非言說，何千海藏文。舉心明了，義不在廣云云。從前學問幾能知，拾礫泥中辨寶稀。唯有隱淪高趣者，騰騰兀兀混時機。琅瑘覺和尚語嗣汾陽琅瑘覺和尚語嗣汾陽上堂。拈起拄杖，云：山僧有時一棒諸佛降生，有時一棒轉大法輪，有時一棒入般涅槃。你且道：諸佛降生、轉大法輪、入般涅槃相去多少？良久，云：莫謗如來正法輪。珍重！師舉：先梁山云：南來者與三十棒，北來者與三十棒。然雖如是，不當宗乘。師云：梁山好一片真金，將作頑鐵賣却。琅琊即不然，南來者與三十棒，北來者與三十棒，從教天下衲僧貶駮。珍重！舉：僧問馬大師：如何是佛？大師云：即心是佛。如何是道？云：無心是道。云：佛與道相去多少？大師云：佛如",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Langye Huijue owns the retained deployment: lifting his staff — one blow each for the buddha's birth, wheel-turning and nirvana — and asking how far even those three deeds stand apart."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0661b11",
+          "ToLb": "0661b24",
+          "Kwic": "年不少鹽醬。』」師云：「義出豐年，還它馬祖，然未免帶累南嶽和尚縣挂心頭。今日新大覺出世，堂上老人且喜未離丈室，現前昆仲尚乃鷺立鴛行，有華當面插，不用送語傳言，白手並空拳，也不著鹽蘸醬。生平列列挈挈，畜得一條拄杖。遇聖好與三十，當下空其聖量；遇凡好與三十，當下滌其凡情。直使箇箇如師子兒，哮吼自在。且道與馬師相去多少？」喝一喝，云：「掀翻海嶽求知己，撥轉乾坤見太平。」復白椎，云：「諦觀法王法，法王法如是。」師卓拄杖，下座。當晚小參。問：「靈山佛法付王臣，敲唱須憑過量人，華蓋今宵臨寶座，宗乘向上乞施陳。」師舉拂子，云：「有眼皆見。」進云：「彼此相逢全意氣，攢眉何必羨淵明。」師云：「卻被闍黎道著。」進云：「三尺莫邪橫宇宙，",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: brandishing the staff that gives thirty blows to saint and commoner alike and asking how far that stands from Mazu."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0347c22",
+          "ToLb": "0348a05",
+          "Kwic": "中身。」進云：「意氣不從天地得，英靈豈藉四時推？」師云：「鷦鷯雖脫殼，不免抱寒枝。」乃云：「月白風清掃得去，群陰剝盡；冰枯雪老打得徹，一陽復生。與麼說話，聊拘時機，赴箇程限。若論此事，散冰片於炎天、撒琪華於枯木，猶未是出格提持在。把驢唇先生一摑，直得天回地轉、海立山奔。正恁麼時，且道與陰陽未判、天地未分之際相去多少？若向者裏緇素得出，不妨能為萬象主，不逐四時凋；其或未然，有寒暑兮促君壽，有鬼神兮妒君福。」晚參。「耳裏觀音打鼓，眼裏文殊作舞，胸中有箇普賢王，騎象亦來相合夥，大好一場曲調，不知出在何譜？諸人若也覷得破，不妨聲色裏坐、聲色裏臥；若也覷不破，未免眼裏被他撒沙、耳裏被他築上，有時引上天堂、有時牽入地府，雖是",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: slapping the cosmologist's calendar aside and asking how far this very moment stands from before heaven and earth split."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0227b20",
+          "ToLb": "0227c03",
+          "Kwic": "向前來。」進云：「某甲去也。」師云：「什麼處去？」進云：「他家自有通霄路。」師云：「腳跟下好與三十棒。」乃云：「釋迦老子午夜睹星悟，云：『奇哉奇哉。一切眾生俱有如來智慧德相，皆因妄想執著不能證得。』也是憐兒不覺醜，未免話作兩截。黃檗午夜豎剎竿，大家在裏許，無有智慧德相可證，亦無有妄想執著可得。且道與釋迦老子相去多少？有具擇法眼者，出來判斷看。」眾下語不契。復云：「昔日世尊昇忉利天為母說法。說甚麼法？」驀豎拂云：「也只是這箇。今日山僧不動本際，為諸父老談禪。談甚麼禪？也只是這箇。這箇又是箇什麼？上士一決一切了，中下多聞多不信。若論箇事，正如八十翁翁入場屋，真誠不是小兒戲。今日幸逢家裏人，說家裏話、拈家中物、示家中人",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: weighing Huangbo's midnight banner against Śākyamuni's midnight star and calling for a judge with the dharma-selecting eye."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0075b04",
+          "ToLb": "0075b17",
+          "Kwic": "競出頭來，未免指鹿為馬，到者裏說個什麼即得？指東指西得麼？點胸點肋得麼？好晴好雨得麼？行棒行喝得麼？總是弄粥飯氣，佛法未夢見在，平白散去，孤負上來，鼓這兩片皮謾大眾不少，今作麼生？歸堂。上堂。巖頭道：須是一一從自己𮌎中流出，與我葢天葢地去。恁麼道，被他掘窖深埋了也。茫茫宇宙人無數，那個男兒是丈夫？男兒、丈夫相去多少？待你出窖來，却向你道。朝京回，上堂祝聖罷，僧出問云：奉詔迢迢上玉京，京師早已播師名，天香滿袖歸來也，恰值黃河一度清。學人上來請師祝贊，師云：天無私覆。進云：金枝永茂千千界，玉葉長數萬萬春。師云：且得闍黎證明。進云：昔日宋太宗皇帝因僧朝見，垂問云：甚處來？答云：廬山臥雲菴。帝云：朕聞臥雲深處不朝天，因甚",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yantou Quanhuo",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: burying Yantou's own-chest flow as a deep pit and asking how far man and true man stand apart until the hearer climbs out."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0310a12",
+          "ToLb": "0310b09",
+          "Kwic": "似雲門，門云：南泉水牯牛，隨處納些些。且道在牛內納？牛外納？直饒說得納處分明，我更問你索牛在。師云：王老師道：十八上便解作活計。只個水牯牛也不解牧得，累他雲門騎牛覔牛。普慈這裏自小牧一頭水牯牛，不免食他國王水草，只是不曾犯人苗稼，有時牽梨拽杷、有時臥月眠雲，飢則加飡、渴則就飲，數十年來但恁麼過。且道與南泉相去多少？召眾，云：千頭萬頭，但識取一頭。上堂：廣尋文義，鏡裏求形，息念觀空，斬頭覔活。總不與麼，無孔鐵鎚劃拄杖，三邊不用安戈甲，萬里歌謠賀太平。普請㘽松，上堂。僧問：記得臨濟在黃檗㘽松次，檗云：深山裏㘽許多松作什麼？濟云：一與山門作境致，二與後人作標榜。道了，以钁打地三下，意旨如何？師云：今日普請㘽松。進云：",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained deployment: measuring his decades of ox-herding against Nanquan's water-buffalo and answering that of a thousand heads the assembly need only know one."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0004b11",
+          "ToLb": "0004b25",
+          "Kwic": "見胡餅便喚作饅頭，饅頭喻心，胡餅喻境，不即不離，即境即心，故謂之見色明心。』悟上座道：若如此商量，要見他雲門老子，三生六十劫也未夢見在。殊不知雲門老賊放去較危，收來太速。纔擬議時便換卻汝眼睛。今日長明覺姪做新麥麵饅頭供佛并供大眾。悟上座借花獻佛，普請大眾喫飽了，放下手來恰是東瓜直儱侗。且道悟上座告報與古人相去多少？還知麼？選佛若無如是眼，假饒千載又奚為！久立，珍重。」下座。普請上堂。「據眾兄弟擔了飯米來伴悟上座，各各計明己躬事不該動靜。然而俗諺有之曰：『有例不可滅，無例不可置。』如百丈大智禪師創叢林、立規矩，有普請例，及諸家語錄亦有普請說，所謂作則均其勞、飯則同其食。自今觀之，似乎不然，作者應當作、閒者應當閒，致",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: after bread is offered at a Yunmen memorial meal, asking how far his own report stands from the old master's move."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X70/X70n1397.xml",
+        "J/J26/J26nB178.xml",
+        "J/J39/J39nB447.xml",
+        "X/X68/X68n1318.xml",
+        "J/J26/J26nB187.xml",
+        "J/J37/J37nB386.xml",
+        "J/J27/J27nB193.xml",
+        "X/X71/X71n1420.xml",
+        "X/X71/X71n1421.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [
+        "Xueyan Zuqin",
+        "Yangshan Huiji",
+        "Feiyin Tongrong",
+        "Meixi Fudu",
+        "Langye Huijue",
+        "Tian'an Sheng",
+        "Mazu Daoyi",
+        "Yuan'an Liao",
+        "Yinyuan Longqi",
+        "Huangbo Xiyun",
+        "Chushi Fanqi",
+        "Yantou Quanhuo",
+        "Yu'an Zhiji",
+        "Nanquan Puyuan",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "How far apart do they stand. Xueyan Zuqin asks at the lantern festival how far his rain-lamp and cloud-moon scene sits from Yangshan's, answering himself that they are a different cart on the same track, Feiyin Tongrong caps an old winter-answer with his own frost-blowing verse and asks how far it stands from the ancient's, Meixi Fudu asks at his inauguration how today's hall stands against the general's erstwhile realm and calls it two fine shows in one contest, and Langye Huijue lifts his staff — one blow for the buddha's birth, one for turning the wheel, one for nirvana — and asks how far even those three deeds stand apart. Tian'an Sheng brandishes the staff that gives thirty blows to saint and commoner alike and asks how far that stands from Mazu, Yuan'an Liao slaps the cosmologist's calendar aside and asks how far this very moment stands from before heaven and earth split, Yinyuan Longqi weighs Huangbo's midnight banner against Śākyamuni's midnight star and calls for a judge with the dharma-selecting eye, Chushi Fanqi buries Yantou's own-chest flow as a deep pit and asks how far man and true man stand apart until the hearer climbs out, Yu'an Zhiji measures his decades of ox-herding against Nanquan's water-buffalo with 'thousand heads, ten-thousand heads — just know one head', and Miyun Yuanwu, after bread is offered at a Yunmen memorial meal, asks how far his own report stands from the old master's move."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "Id": "t_abc897c09eeb",
+  "SourceTerm": "普天匝地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T00:46:30Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "everywhere under heaven and around the earth",
+      "AlternateTargets": [
+        "the whole world over"
+      ],
+      "SearchAliases": [
+        "all over the world at once",
+        "filling sky and earth entirely",
+        "the whole of the world in one sweep"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 269 hits in 139 files representing 138 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1371.xml",
+          "FromLb": "0787b23",
+          "ToLb": "0787c14",
+          "Kwic": "行逐隊、虗生浪死？今夏九十日已過半了也，諸人十二時中又作麼生？喫粥喫飯、行住坐臥，還曾見得親切麼？咄！上堂。佛祖說：不到處道得一句，綴骨粘皮；行不到處進得一步，撞墻撞壁。未開口時道著，未舉步時踏看，荊棘參天，葛藤遍地。只為諸人不肯盡情放下拄杖子，今日勸諸人放下去。卓拄杖，下座。上堂：動絃別曲，落葉知秋。普天匝地，騎牛覔牛。水潦和尚被馬師一踏，便道：識得百千三昧、無量妙義根源於一毫頭，直至如今笑不休。上堂。釋迦已去，彌勒未生，正當今日，拄杖子向大梅峰頂與諸人舉揚自恣佛事。卓拄杖，云：若到諸方，不得錯舉。謝首座、維那，上堂。摩訶衍法，離四句，絕百非。仰山居第二座所說之法，且道第一座所說何法？不具睦州指臨濟喫棒底眼",
+          "MasterName": "Jieshi Zhipeng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieshi Zhipeng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1371.xml). Recorded Sayings of Chan Master Jieshi Zhipeng. Jieshi Zhipeng owns the retained deployment, hanging the whole world on falling leaves that know autumn and riding the ox in search of the ox."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0633b26",
+          "ToLb": "0633c09",
+          "Kwic": "有去有來，極其本體不變不動。且道釋迦老子憑個甚麼得恁麼自在？」復以拂子擊香几云：「天人群生類，皆乘此恩力。」結夏上堂。「檀信普設香饌，衲子結制安居。若或進前求解，白棒打破頭皮。須知本分中擬親返疏，欲近轉遠。設使總不恁麼，猶非衲僧正眼。畢竟如何？」乃仰視云：「白鷺下田千點雪，黃鸝上樹一枝花。」上堂。「寒則普天匝地寒，熱則普天匝地熱。須是沒量人，寒暑侵不得。不見僧問洞山：『寒暑到來，如何迴避？』山云：『何不向無寒暑處去？』僧云：『如何是無寒暑處？』山云：『寒時寒殺闍黎，熱時熱殺闍黎。』又僧問一老宿：『時節恁麼熱，向甚處迴避？』宿云：『向鑊湯爐炭裏。』僧云：『鑊湯爐炭裏如何迴避？』宿云：『眾苦不能到。』後大慧云：『二老",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment, giving the whole world to cold and then to heat, and barring the seasons from the measureless one."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0015c02",
+          "ToLb": "0015c16",
+          "Kwic": "宗風；奇哉，俊哉，善哉，偉哉，多非遙之桂月。因如是地產如是人，因如是人行如是事，非但地勝人賢，要且名成實就。大眾且道：新佛恩眉毛還在麼？」卓拄杖，云：「千千龍象從茲止，萬萬獅麟自此歸。」天童悟和尚忌日，寶曇禪人設供，請上堂，師云：「七月七巧，雲集秋風秋露及秋雨，乍寒乍熱透皮毛，欲脫欲穿徹骨髓。所以道：熱則普天匝地熱，寒則普天匝地寒。熱則熱殺闍黎，寒則寒殺闍黎。若如此會，得寒暑不能遷、生死不能易。正當恁麼時，且獨脫一句作麼生道？勞煩大眾同到先師真前露布者箇消息。」下座，詣真前拈香云：「戒香、定香、慧香、解脫香、解脫知見香，觸碎吾師肉鼻孔，管教遍界不能藏。」住開縣龍城山紫雲禪寺，解制，上堂，師云：「年年七月十五，處處",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, serving heat that kills and cold that kills, and ruling that so understood neither season nor birth and death can move one."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0537b15",
+          "ToLb": "0537b28",
+          "Kwic": "之談。山僧若在眾中，便道：『恁麼則不相當也。』何故？不見他將佛法賤使。今日眾中有人出來掀倒禪床，喝散大眾，山僧劈脊便棒。且道是賞伊？是罰伊？」燈節示眾，師云：「光前薦得，截斷眾流；照後知歸，踢翻影像。不是依依稀稀零零落落當得平生。直饒得似澄潭月影、靜夜鐘聲，隨扣擊以無虧、觸波瀾而不散，猶是生死岸頭事。明則普天匝地明，暗則普天匝地暗。要且明不自明、暗不自暗。所以道：『當明中有暗，勿以暗相遇。當暗中有明，勿以明相睹。』不見當時百丈深撥，溈山便知落處；龍潭吹滅，德山忽爾洞然。老僧今晚也不用吹滅、也不用深撥。」驀豎拂子云：「大眾！還見麼？於此見得徹去，人人常光現前，個個壁立萬仞，順逆卷舒、縱橫自在。正與麼時，且道應時及節一",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, filling the whole world with light and with dark, yet the light lights not itself nor the dark itself."
+        },
+        {
+          "RelPath": "L/L158/L158n1652.xml",
+          "FromLb": "0038b13",
+          "ToLb": "0039b03",
+          "Kwic": "夜覩明星悟道又悟個什麼良久云夢裡惺惺有彌勒覺後空空無釋迦。立春上堂僧問臘盡寒猶在心空性不空若明叅學事大地鼓春風如何是逢春一句師云鳥啼無影樹花發不萌枝進云萬里陽和動千家喜氣新師云須信壺中別有天乃云無陰陽地律初回無影枝頭花始發今值春王之首三陽開泰之辰風光扇野暢人懷負酒携琴遊郭外若論衲僧分上自有本地風光普天匝地不被寒暑推遷不屬生死交謝直饒虛空粉碎大地平沉不曾動着脚跟下一𮈔頭毘嵐風起刼火洞然亦未曾壞著腳跟下一毫毛不見道大火所燒時我此土安隱。嵗旦上堂僧問元正啟祚景物重新祝聖一句請師舉揚師云祝融峯頂萬年松進云恁麼則三足臨霄漢重輪貫紫微師云五鳳樓前彩鳳舞九龍亭上現龍圖進云為報寰中百川水來朝此地莫東歸師云但得雪消",
+          "MasterName": "Mingjue Cong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingjue Cong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L158/L158n1652.xml). Recorded Sayings of Chan Master Mingjue Cong. Mingjue Cong owns the retained deployment, settling the patched monk's own native ground over the whole world, unmoved by season's shift and owing nothing to birth and death."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0034a15",
+          "ToLb": "0034a28",
+          "Kwic": "照碧雲峰，石女下階拜，此後复如何？處處觀自在。達磨當西來，從梁歷至魏，文字先焚棄，直示佛三昧。五人得法印，一人獨超邁，我本適子孫，為翁傳缽袋。此後繼衣者，門戶須光大。」上堂。僧問：「世尊拈花，迦葉微笑，未審笑箇甚麼？」師云：「笑女在桼桶裏。」進云：「撲破時如何？」師卓杖，云：「向者裏透過始得。」乃云：「熱則普天匝地熱，任從犀牛扇打蚋撲蚊、石榴火燒天灼地；寒則普天匝地寒，任從雪珍珠填溝塞壑、碧琉璃積岳𠂤山。所謂生死交謝，寒暑迭遷，有物流動，人之常情。只是你中間一片田地不曾穩密，為他所轉，若真正親見一回，不落寒暑，亦不作寒暑見，又何妨村歌社舞，笑傲人間，運水般柴，風流叢席？者箇道理且拈向一邊，如今安養大師嶽降之辰，且如",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment, letting the heat come with rhino-fan swatting gnats and pomegranate fire scorching the sky, and the cold with snow-pearls filling ditches and blue glass piling hills."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0631c16",
+          "ToLb": "0631c30",
+          "Kwic": "繡幃，佳人倚戶淚沾衣。堪憐異國伶俜子，歲暮如何不見歸？歸不歸，真懊惱。庭前殘雪日輪消，室內紅塵教誰掃？」冬至，值雪，上堂。「群陰剝盡，一陽復生，弱線工添於繡紋，密室灰飛於律管，柳眼舒而冰河發燄，梅萼笑而枯木回春，直得物物含新、人人納泰，千家樓閣氣騰珂貝之輝，萬疊林巒光燦瓊瑤之色，普賢境界塞壑盈渠，少室真機普天匝地。」召眾，云：「惟有華林拄杖子，風光不藉四時催。」化主至，上堂。舉：「黃龍南禪師上堂云：『世間有五種不易：第一、化者不易；第二、施者不易；第三、變生為熟者不易；第四、端坐受供者不易。且道第五種不易是甚麼人聻？』便下座。」乃云：「弁山不似黃龍小膽子，今日要與諸人覿面拈出。」顧左右，云：「且道第五種不易是甚麼",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, reading the Samantabhadra range plugging ravines and brimming channels while the Shaolin true pulse rings the whole world."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0023b26",
+          "ToLb": "0023c09",
+          "Kwic": "齊拍掌，野老任優游。」師云：「恰是恁麼時節。」乃云：「久雨不晴，纔晴又雨，東舍西鄰，望空叫苦。一者、灶無柴燒，二者、鍋無米煮，三者、菜麥爛根，四者、床頭積水。我出家兒，高堂廣廈雖則受用，多般默坐思量，鼻孔無處曬，眼也太苦哉。「既然如是，普請大眾佛殿裏燒香，同演蓮經，妙義伏，捲盡濃雲絕點埃，紅輪湧出玉樓臺，普天匝地陽和氣，白牯黧奴笑滿腮。且畢竟以何為驗？」遂舉拂子，打圓相，云：「還見麼？」下座。超輝顧氏請上堂。僧問：「歷劫來事則不問，薦揚一句是如何？」師云：「腳下無拘繫，香雲入蓋浮。」進云：「畢竟水須朝海去，到頭雲定覓山歸。」師云：「靈利人難得。」乃云：「無計留春住，殷勤請薦夫，山僧默許可，依樣畫葫蘆。」以手打圓相",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, rolling back the thick clouds without a speck, the sun wheeling up the jade tower, spring warmth filling the whole world, and the black steer and dun colt grinning cheek to cheek."
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0784b22",
+          "ToLb": "0784c06",
+          "Kwic": "？」進云：「四至分明須記得，不知何處有封疆？」師云：「照驗明白。」乃云：「畫蛇添足，劃地為牢，此是古人屈為今時。同安者裏要且不然，直教虛空粉碎、大地平沉，不勞脊梁高豎、挨拶疑團，便與三世諸佛、歷代祖師、天下老和尚同一鼻孔；設若不然，趙州東壁挂胡蘆，諸人也須疑著。」一喝，下座。元旦，上堂。問答不錄，師云：「普天匝地祥雲起，正是山僧祝聖時，惟願風調並雨順，頓令家國樂熙怡。諸兄弟還會麼？設若會得，人人叨堯舜之恩，個個享無為之化；其或未然，山僧只得八字打開去也。」遂起身，云：「八方霢霂無為化，萬國歌謠樂太平。」解制，付門人松等，上堂。「正月解制元宵節，燈王法法明皎潔，古今不改舊山川，直下相承聯未歇。」驀拈杖，云：「釋迦",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. Faxi Yin owns the retained deployment, opening the year with blessing clouds rising over the whole world at his wishing-the-sage hour."
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0871b05",
+          "ToLb": "0871b19",
+          "Kwic": "樣開，珠簾翠捲法雲臺，個中句子分明舉，匝地熏風遍九垓。」舉：「玉芝聚禪師啟關云：『三年丈室，坐斷十方世界；一念蒲團，頓圓十世古今。依俙彌勒樓中，不妨開已還閉；畢竟普賢界裏，要看絕後再蘇。』」師云：「看他過量人，提持過量事；提持過量事，須是過量人。然雖如是，當作啟關句子，大似萬里崖州。生上座于癸丑正月進關，普天匝地一時入；今朝期滿出關，普天匝地一時出。塵塵剎剎，法法頭頭，九有四生，各歸本位。且道：與古人是同？是別？若道同，法無同相；若道別，豈有兩般？」驀拈拄杖，卓一卓，云：「若將耳聽終難會，眼底聞聲方始知。」崇慶州青城山鳳林寺閱龍藏，四歷秋霜而終，法兄懶和尚請上堂。「無上宗乘，不落言詮，本無形聲，奚假見聞？」驀拈拄",
+          "MasterName": "Zhulang Chesheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhulang Chesheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng owns the retained deployment, having the whole world go into the retreat at once and come out with it, every dust and thing back in place."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1371.xml",
+        "J/J26/J26nB186.xml",
+        "J/J26/J26nB177.xml",
+        "J/J25/J25nB171.xml",
+        "L/L158/L158n1652.xml",
+        "J/J29/J29nB223.xml",
+        "J/J36/J36nB359.xml",
+        "J/J28/J28nB202.xml",
+        "J/J28/J28nB220.xml",
+        "J/J38/J38nB427.xml"
+      ],
+      "RelatedMasters": [
+        "Jieshi Zhipeng",
+        "Linye Tongqi",
+        "Poshan Haiming",
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Mingjue Cong",
+        "Shanhui Huan",
+        "Baiyu Jingsi",
+        "Baichi Xingyuan",
+        "Faxi Yin",
+        "Zhulang Chesheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed totality formula that sweeps the whole world, sky and ground, into one loaded stroke. Jieshi Zhipeng hangs the whole world on falling leaves that know autumn and riding the ox in search of the ox, Linye Tongqi gives the whole world to cold and then to heat and bars the seasons from the measureless one, Poshan Haiming at his old teacher's memorial serves heat that kills and cold that kills, and rules that so understood neither season nor birth and death can move one, Tianyin Yuanxiu fills it with light and fills it with dark, yet the light lights not itself nor the dark itself, and Mingjue Cong settles the patched monk's own native ground over the whole world, unmoved by season's shift and owing nothing to birth and death. Shanhui Huan lets the heat come with rhino-fan swatting gnats and pomegranate fire scorching the sky, and the cold with snow-pearls filling ditches and blue glass piling hills, Baiyu Jingsi reads the Samantabhadra range plugging ravines and brimming channels while the Shaolin true pulse rings the whole world, Baichi Xingyuan rolls back the thick clouds without a speck and the sun wheels up the jade tower while spring warmth fills the whole world and the black steer and dun colt grin, Faxi Yin opens the year with blessing clouds rising over the whole world at his wishing-the-sage hour, and Zhulang Chesheng has the whole world go into the retreat at once and come out with it, every dust and thing back in place."
+    }
+  ]
+}

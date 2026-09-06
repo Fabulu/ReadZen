@@ -1,0 +1,192 @@
+{
+  "Id": "t_c6f57aaec963",
+  "SourceTerm": "能殺能活",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:37:09Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "can kill and can give life",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "power to kill and to revive",
+        "killing and quickening both in hand",
+        "free to kill, free to quicken"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 188 hits in 115 files representing 113 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0895a07",
+          "ToLb": "0895b02",
+          "Kwic": "藥者採將來善財如教入山徧觀所有一草一木無不是藥回白文殊曰徧觀大地無有不是藥者文殊曰是藥者採將來善財遂拈一枝草度與文殊文殊接得乃云此藥亦能殺人亦能活人據妙喜見處善財善採藥文殊善用藥雖然恁麼若遇無位真人又殺他不得又活他不得如是則文殊成妄語去縱使能殺能活文殊於無位真人分上如何施設到這裏具眼者方能證明如今諸方禪講互相攻擊其故何也蓋為不識古人方便殊不知一大藏教盡皆如此座主家多不信禪謂之虗頭良由氷炭不相入須是你證我亦證眼眼相對自然無是無非祖師西來見眾生根器淺漏滯在教乘不能得見自己本來面目只去㳂教網走讚歎佛乘是故佛言若但讚佛乘眾生沒在苦所以達磨大師說一箇方便道我不立文字語言直指人心見性成佛如今人錯認方便把教乘都撥置了豈不知教是佛口禪是佛心佛豈有心口不相應來你要會麼教是醫書禪",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: runs Manjusri to his stop — Sudhana good at gathering the herb, Manjusri good at using the herb, yet meet the rankless true person and one can neither kill him nor give him life; grant the killing and the quickening: how would Manjusri lay a hand on the rankless true person's share?."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0640c02",
+          "ToLb": "0640c08",
+          "Kwic": "汝等諸人要識趙州老漢麼？也秪是個觀音院裏燒牛糞底老和尚。」示眾。「從上老宿，大有韜略。能擒能縱，能殺能活。山僧雖無如是伎能，單單秪善解黏去縛。解卻黏，釋卻縛，珍重諸君休咬嚼。適纔惟德禪人進方丈，問棒下意旨如何。山僧答：『一棒一條痕，一握一掌血。』德罔措。山僧云：『擬議即不得。』德猶問：『畢竟意旨如何？",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment: credits the old teachers with deep strategy — can seize, can release, can kill, can give life — and claims for himself no such skill: only the one talent of ungluing and unbinding; unglued, unbound, treasures, sirs — stop the chewing."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0120c11",
+          "ToLb": "0120c18",
+          "Kwic": "』便去又到一菴主處，亦如前問云：『有麼，有麼？』主亦豎起拳，趙州云：『能縱能奪，能殺能活。』便禮拜。據前後兩個菴主一般豎拳，趙州一褒一貶，天淵各別，且道淆訛在甚麼處？若向者裏辨別得出，則佛祖禪機一時覷破，當人生死亦自明了，若去若來，活活潑潑。又有一婆子，將淨財請趙州老漢代轉藏經，趙州得財乃下禪床走一匝，回報云：『轉藏經已竟。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: raises Zhaozhou at the hermitage doors — the same raised fist twice, once read as churning water and no place to moor, once met with a bow: can release and can seize, can kill and can give life — and presses the assembly: one praise, one blame, heaven-and-deep apart, where is the mix-up?."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0171a06",
+          "ToLb": "0171a13",
+          "Kwic": "師曰：「水淺不是泊船處。」便行。又到一菴主處，問：「有麼？有麼？」主亦豎起拳頭。師曰：「能縱能奪，能殺能活。」便作禮。沙之汰之，瓦礫在後；簸之揚之，糠秕在前。石門兩扇關如鐵，半夜何人叩冷煙？師示眾曰：「此事的的，沒量大人出者裏不得。老僧到溈山，見僧問：『如何是祖師西來意？』山云：『與我過床子來。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: gives the same case and closes the sifting verse — sand washed and the grit stays behind, chaff winnowed and the husks ride in front; the two stone gate-leaves shut like iron: who knocks at the cold smoke of midnight?."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0233c01",
+          "ToLb": "0233c07",
+          "Kwic": "」乃云：「無邊剎境頒王令，率土生民祝聖恩，一塢臥雲猶未醒，斬新日月耀乾坤。此中有權有實，有炤有用，能縱能奪，能殺能活。若也一一明得，堪入黃檗之室，不妨各垂隻手，共扶法幢，獨露丹心，以酬至德。人情佛事，兩得周足，濟物資恩，一時畢備。若也未明，再垂方便，令汝證入。」擲下拂子云：「會麼？倏垂新雨露，瀰漫舊山川。",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: opens the new year under the royal writ: within it the provisional and the real, the shining and the working, can release and can seize, can kill and can give life — master them each and you are fit to enter the Huangbo chamber."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0484b03",
+          "ToLb": "0484b09",
+          "Kwic": "鬧市場中高豎剎竿，須憑古聖機權。機權明，能高能下、能大能小，高下融通、大小圓攝；手段具，能縱能奪、能殺能活，縱奪自由、殺活自在。具得者般手段，方能大中現小、小中現大，一為無量、無量為一，於一微塵現寶王剎，於一剎中轉大法輪，就中所談，理無礙、事無礙、理事無礙、事事無礙，一一破塵越量、句句出格超宗，豈為量所限哉？",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment: builds it into means: pivot clear, one is high and low, big and small, all interfused; means at hand, one releases and seizes, kills and gives life, free in both — and only such means make the great show in the small and the one hold the measureless."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0188a26",
+          "ToLb": "0188b02",
+          "Kwic": "但不得動著，動著則頭破腦裂。」僧纔出，師便打云：「動了也。」示眾。「有收有放，鞭繩在手，能殺能活，鮮血淋漓。是者等人，方能喫佛飯、穿佛衣，受佛戒罵佛，非不脩福、不造罪，隻手提起利剛錐；佛也錐，祖也錐。何故聻？」良久云：「者裡無處著落，莫怪山僧用鉗錘。」示眾。卓拄杖云：「如是見，如是知，如是解，不生法相。",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: brands it in blood at the instruction — gather and release, whip-rope in hand, can kill and can give life, fresh blood dripping — such a one can eat the buddha's rice, wear the buddha's robe, and take the buddha's precepts while cursing the buddha."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0351c09",
+          "ToLb": "0351c15",
+          "Kwic": "」師云：「有令有條。」「如何是末生王子？」師云：「無高無下。」「如何是化生王子？」師云：「能殺能活。」「如何是內生王子？」師云：「不即不離。」進云：「當今天子那一位中來？」師云：「六宮分宅不他宗。」進云：「天生貴胤天然別，德合乾坤化日長。」師云：「且喜普天同慶贊。」進云：「先皇功業垂無極，聖子神孫億萬年。",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: run through the schema of the princes and asked which is the transformation-born prince, answers: can kill and can give life."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J26/J26nB186.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB299.xml",
+        "J/J27/J27nB193.xml",
+        "J/J28/J28nB212.xml",
+        "J/J27/J27nB192.xml",
+        "J/J37/J37nB386.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Linye Tongqi",
+        "Feiyin Tongrong",
+        "Hanyue Fazang",
+        "Yinyuan Longqi",
+        "Eryin Mi",
+        "Daxiu Zhu",
+        "Yuan'an Liao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The wielding pair: release and seize, kill and give life — the old teachers had it in both hands. Zhaozhou read it in two raised fists, bowing to one and faulting the other; Manjusri himself stops at the rankless true person. The fist case and the stopped hand: Feiyin Tongrong raises Zhaozhou at the hermitage doors — have it? have it? — one hermit raises a fist and Zhaozhou reads him as churning water, no place to moor, and walks; the next hermit raises the same fist and Zhaozhou bows — can release and can seize, can kill and can give life — and Feiyin presses: one praise, one blame, heaven-and-deep apart, where is the mix-up?; Hanyue Fazang gives the same case and sifts it — sand washed, the grit stays behind; chaff winnowed, the husks ride in front — the two stone gate-leaves shut like iron: who knocks at the cold smoke of midnight?; Dahui Zonggao stops even Manjusri: Sudhana good at gathering the herb, Manjusri good at using the herb — yet meet the rankless true person and one can neither kill him nor give him life; grant the killing and the quickening: how would Manjusri lay a hand on the rankless true person's share? The hand at work: Linye Tongqi credits the old teachers with deep strategy — can seize, can release, can kill, can give life — and claims for himself no such skill, only the one talent of ungluing and unbinding; Yinyuan Longqi opens the new year under the royal writ — within it the provisional and the real, the shining and the working, can release and can seize, can kill and can give life — master them one by one and you are fit to enter the Huangbo chamber; Eryin Mi builds it into means: pivot clear, one is high and low, big and small, all interfused; means at hand, one releases and seizes, kills and gives life, free in both — and only such means make the great show in the small and the one hold the measureless; Daxiu Zhu brands it in blood at the instruction — gather and release, whip-rope in hand, can kill and can give life, fresh blood dripping — such a one can eat the buddha's rice, wear the buddha's robe, take the buddha's precepts and curse the buddha; Yuan'an Liao, run through the schema of the princes and asked which is the transformation-born prince, answers: can kill and can give life."
+    }
+  ]
+}

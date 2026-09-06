@@ -1,0 +1,232 @@
+{
+  "Id": "t_40adc8bebc47",
+  "SourceTerm": "天下老和尚",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-05T23:47:18Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "all the old masters under heaven",
+      "AlternateTargets": [
+        "every aged master of the age"
+      ],
+      "SearchAliases": [
+        "the elder masters of the age",
+        "every old master in the world",
+        "all aged masters everywhere"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 1023 hits in 240 files representing 235 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0368a18",
+          "ToLb": "0368b07",
+          "Kwic": "是得底人，道火不能燒口，終日說事，未甞挂著脣齒，未曾道著一字，終日著衣喫飯，未曾觸著一粒米、掛一縷絲。雖然如此，猶是門庭之說，須是實得與麼始得。若約衲僧門下，句裏呈機，徒勞佇思，直饒一句下承當得，猶是瞌睡漢。時有僧問：如何是一句？師云：舉。問：如何是塵塵三昧？師云：桶裏水，鉢裏飯。三乘十二分教，橫說豎說。天下老和尚縱橫十字，說與我拈針鋒許說底道理將來看。與麼道，早是死馬醫。雖然如此，且有幾箇到此境界。不敢望你言中有響，句裏藏鋒。瞬目千差，風恬浪靜。伏惟尚饗。問：如何是透法身句？師云：北斗裏藏身。問：如何是吹毛劍？師云：骼。又云：觜。問：如何轉動即得不落階級？師云：南斗七，北斗八。舉一則語教汝直下承當，早是撒屎",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Yunmen Wenyan owns the retained deployment, naming the whole corps after the twelvefold teaching and daring it to show a needle-tip of the way."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0644c07",
+          "ToLb": "0645a01",
+          "Kwic": "你善知識無眼不得嗔他有一般不識好𢙣禿奴即指東劃西好晴好雨好燈籠露柱你看眉毛有幾莖這箇具機緣斈人不會便即心狂如是之流㹅是野狐精魅魍魎被他好學人嗌嗌微咲言瞎老禿奴惑乱他天下人道流出家兒且要斈道秪如山僧徃日曾向毗𡰱中㽞心亦曾於經論尋討後方知是濟世藥表顯之說遂乃一時拋却即訪道㕘禪後遇大善知識方乃道眼分明始識得天下老和尚知其邪正不是娘生下便會還是体究練磨一朝自省道流你欲得如法見觧但莫受人惑向裏向外逢著便殺逢佛殺佛逢祖殺祖逢羅漢殺羅漢逢父母殺父母逢親眷殺親眷始得觧脫不與物拘透脫自在如諸方學道流未有不依物出來底山僧向此間󴌰頭打手上出來手上打口裏出來口裏打眼裏出來眼裏打未有一箇獨脫出來底皆是上他古人閑機境山僧無一法与人祗",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Linji Yixuan owns the retained deployment, crediting the great teacher whose eye-opening let him finally tell the corps of elder masters' crooked from straight."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0225c11",
+          "ToLb": "0225c25",
+          "Kwic": "巍巍堂堂，坐斷十方，正當與麼時，好與三十拄杖。何故？不見道：斫卻月中桂，清光應更多。」伽藍堂，云：「城塹三寶即不無，重振家風如何著力？」舉香云：「一番提起一番新。」祖師堂，云：「西天四七，眼橫鼻直，東土二三，寐語喃喃，惑亂天下人無了時。今日不肖兒孫活捉將來，一爐燒卻。」方丈，云：「掩室杜口，浪籍不少。古今天下老和尚，潑天潑地，蝦跳不出斗。琦上座到這裏又作麼生？」驀拈拄杖畫一畫云：「破也破也。」擲下拄杖云：「放出一隊老古錐。未證據者看看。」即日眾請上堂。師至座前，拈侍御心弘林公請啟云：「只者箇，爍破重關，徹法源底，逼得山僧無藏隱處，今日不免對眾舉揚。煩維那宣讀。」宣畢，指法座云：「寶華王座，流露真宗，我今更踏向上一著",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, gathering the past and present corps into one splash of sky and earth that the shrimp still cannot leap past."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0134b02",
+          "ToLb": "0135a05",
+          "Kwic": "卓拄杖下座。當晚小參山僧往日久矣知聞山海之交有一霛峰古剎岧嶤天外頓落羣岡肰欲於中分明曉了路之高低山之峻嶮峰巒回合竹𡬾參差則莫若今朝籃輿親到一回也當知此事不在言說貴乎親到亦復如是驀忽有箇漢冷笑一聲摳衣出眾扼腕立地道長老將謂你來自太白名山必開應菴甘露必新宏智條章元來得與麼絮你宛不知此事直饒三世諸佛歷代祖師天下老和尚也則跳他不出說甚到與不到邪山僧噓噓畢竟上座是說到底敢問作麼生是親到底歸堂󱘓茶復舉外道問佛不問有言不問無言世尊良久外道云世尊大慈大悲開我迷雲令我得入雪竇顯云迷雲既開決定見佛還許他同參也無若其相委知則天下宗師并為外道伴侶如各非印證則東土衲僧不如西天外道師云山僧今夜不𢡽眉毛要斷者椿公案拈拄杖云七十二棒翻成",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment, granting the whole array of buddhas, patriarchs, and elder masters no leap past the place arrived at."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0792b13",
+          "ToLb": "0793a07",
+          "Kwic": "芒繩縛鬼子進云今日蒙師相領也師云無孔鐵鎚進云爭奈腦後三千師云爭恠得老僧進云今日起動和尚師云川僧家討甚頭腦進云古人道有句無句如藤倚樹時如何師云教我與你下一轉語得麼進云專為流通師云速禮三拜。師乃云有句無句如藤倚樹直得上無攀仰下絕己躬人人鼻孔遼天箇箇壁立萬仞忽然樹倒藤枯前不迭村後不迭店正當恁麼時三世諸佛諸代祖師天下老和尚各各雖有鼻孔直是無出氣處何也此事如大火聚如按太阿近之明燎却面門擬之則喪身失命不擬不近土木無殊到這裏須是箇活漢始得若是箇活漢終不向樹倒藤枯處著到亦不向有句無句處挅根敢問大眾既不向樹倒藤枯處著到又不向有句無句處挅根畢竟那箇是當人安身立命處若也直下知歸三世諸佛諸大祖師天下老和尚同一眼見同一耳聞同一鼻齅同一舌嘗",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, finding that when the tree falls and the vine dries, even the corps of elder masters has no place to draw breath."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0055a24",
+          "ToLb": "0055b14",
+          "Kwic": "不明，隨物流轉無有了日。迦葉是此一念明底人，釋迦老子遂乃分付正法眼藏、涅槃妙心，且道是有分付無分付？若道有分付，屈辱迦葉尊者；若道無分付，辜負釋迦老子。這裏須是自家一念洞明，分付不分付自然分明，不著問人。所以達磨大師自西天航海而來，向少室峯前九年冷坐，別無他說，於是二祖得安心法。自此西天四七、唐土二三，天下老和尚人傳一人，的的相承，綿綿不斷。至於垂一機、示一境、一言半句，皆是激揚天地未判、父母未生底消息，只要各人一念分明，自證自悟，初不以實法繫綴人也。後來有箇潭州雲盖志安禪師，便是自證自悟此一念底人。一日到雲居，問云：某甲不柰何時如何？居云：只為工夫不到。安不肯，直造石霜，又如是問。霜云：非但闍梨，老僧亦不柰何。",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, filing the whole corps into the single-file succession handed from India's twenty-eight to China's six."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0111a01",
+          "ToLb": "0111a15",
+          "Kwic": "：黃面老漢二千年前將一條無絲線索子，把盡十方世界海情與無情脚跟下一結結定，喚作安居禁足法門，至今未有箇剔脫得底。者裏莫有天然氣槩、逸格變通底衲僧麼？我要問你，因甚聞鍾聲披七條？上堂，舉：浮石示眾云：山僧開箇卜鋪，斷人貧富生死。僧便問：離却貧富生死，不落五行，請師直指。石云：金木水火土。拈云：從上若佛若祖，天下老和尚摠是箇賣卜漢。浮石與麼指示，只是罕遇知音。者僧擬透重關，不覺撞頭磕額。只如浮石道：金木水火土作麼生會？識取鈎頭意，莫認定盤星。上堂：斬釘截鐵，出眼中屑。百丈耳聾，黃蘗吐舌。上堂，舉東山空和尚示眾云：千五百眾雪峯住，無面軟餅褁露柱，橫咬竪咬飽便休，莫倚他門傍他戶。山僧即不然，翻著襴衫歌雪曲，倒携蓆帽趕村齋。",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuejiang Zhengyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment, counting every buddha, patriarch, and elder master as one more fortune-teller at the stall."
+        },
+        {
+          "RelPath": "X/X85/X85n1592.xml",
+          "FromLb": "0271c04",
+          "ToLb": "0271c21",
+          "Kwic": "慧見，以偈寄贈曰：坐斷金輪第一峯，千妖百怪盡潛踪。年來又得真消息，報道楊岐正脈通。其歸重如此。後出住天童。上堂：九年面壁，壞却東土兒孫。隻履西歸，鈍置黃面老子。以拄杖畫一畫，曰：石牛攔古路，一馬生三寅。上堂：臨濟在黃檗處三度喫棒底意旨，你諸人還覰得透也未？直饒一咬便斷，也未是大丈夫漢。三世諸佛口挂壁上，天下老和尚將甚麼喫飯？上堂：德章老瞎禿，從來沒滋味。拈得口，失却鼻。三更二點唱巴歌，無端驚起梵王睡。喝一喝，曰：我行荒草裏，汝又入深村。。上堂：十五日已前，水長船高。十五日已後，泥多佛大。正當十五日，東海鯉魚打一棒，雨似盆傾。直得三千大千世界一切眾生悉皆歡喜，謂言：打者一棒，不妨應時應節。報恩不覺通身踊躍，遂作詩一",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X85/X85n1592.xml). The Hidden Black Beans Collection. Ying'an Tanhua owns the retained deployment, hanging the buddhas' mouths on the wall and asking what the whole corps of elder masters eats with."
+        },
+        {
+          "RelPath": "X/X71/X71n1410.xml",
+          "FromLb": "0159c13",
+          "ToLb": "0160a03",
+          "Kwic": "投子：枯木裏還有龍吟也無？投子云：我道汝髑髏裏獅子吼。師頌云：枯木老龍吟，髑髏師子吼；九九八十一，面南看北斗。解夏，小參。諸方有為人句，青山無為人句；諸方有殺人刀、活人劒，青山無殺人刀、活人劒；諸方有結、有解，青山無結、無解。是汝諸人向者裏立，地皮下還有血麼？若約山僧看來，三世諸佛不如你、六代祖師不如你、天下老和尚不如你。復云：不用思量不用疑，目前法法是全提，即今休去便休去，欲覓了時無了時。久立，珍重。上堂。明暗有去來，虗空無動轉。萬象既歷然，一真自忌鑑。竪拂，釋迦老子在拂子頭上說大法要。放拂，云：見汝諸人不會，走人露柱裏去也。喝一喝，下座。上堂。古德道，蕪湖蕪湖見，當塗當塗見。八月十五夜，恰似沒柄扇。美則美矣",
+          "MasterName": "Tanfang Shouzhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tanfang Shouzhong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1410.xml). Recorded Sayings of Chan Master Tanfang Shouzhong. Tanfang Shouzhong owns the retained deployment, ranking the buddhas, the six patriarchs, and every elder master below the one present."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0003c22",
+          "ToLb": "0004a05",
+          "Kwic": "道：剎那契本，三有均資，一念知歸，四恩總報。是汝今日還委悉麼？潑天大路如絃直，努力勤行尚未遲。」上堂。僧問：「如何是蓮峰境？」師云：「門映東溪水。」「如何是境中人？」師云：「扶笻看落花。」進云：「人境且置，達磨西來意若何？」師豎拂，云：「向這裏薦取。」僧禮拜，師乃云：「若向這裏薦得也，達磨祖師喚來洗腳有分。天下老和尚暮打八百、朝打三千，窮廝煎、餓廝炒，上刀山、履劍樹，蓋是尋常。三十年後有般漆桶效恁麼去就，亦怪伊不得。何故？彼彼丈夫兒，氣分決然相應。然雖如是，當門不用栽荊棘，致使行人惹著衣。」冬至，上堂。「冬至月頭賣被買牛，冬至月尾賣牛買被，山僧牛幸有一頭，且不必買，被只有一領，且無可賣，無買無賣，隨時自在，直裏橫騎",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, naming the corps' dusk-eight-hundred and dawn-three-thousand drubbing as its daily fare."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1318.xml",
+        "C/C077/C077n1710.xml",
+        "J/J27/J27nB193.xml",
+        "L/L155/L155n1643.xml",
+        "M/M59/M59n1540.xml",
+        "X/X70/X70n1376.xml",
+        "X/X71/X71n1409.xml",
+        "X/X85/X85n1592.xml",
+        "X/X71/X71n1410.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Linji Yixuan",
+        "Yinyuan Longqi",
+        "Muchen Daomin",
+        "Dahui Zonggao",
+        "Chijue Daochong",
+        "Yuejiang Zhengyin",
+        "Ying'an Tanhua",
+        "Tanfang Shouzhong",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A collective address that sweeps every elder master of the age into one body. Yunmen Wenyan dares the whole corps, after the twelvefold teaching, to bring him a needle-tip of the way, Chijue Daochong counts them into the single-file succession from Bodhidharma onward, Dahui Zonggao finds that when the tree falls and the vine dries even they have nowhere to breathe, Tanfang Shouzhong ranks the three sets of buddhas, patriarchs, and every elder master below the one standing there, and Baichi Xingyuan has them drubbing eight hundred at dusk and three thousand at dawn as their daily fare. Linji Yixuan says his eye cleared only after meeting a great teacher, so that he could tell the corps' crooked from straight, Muchen Daomin grants that even the buddhas, patriarchs, and every elder master cannot leap past the place, Yinyuan Longqi has them splashing sky and earth while the shrimp still cannot leave the ladle, Yuejiang Zhengyin calls them all fortune-tellers, and Ying'an Tanhua hangs the buddhas' mouths on the wall and asks what the corps eats with."
+    }
+  ]
+}

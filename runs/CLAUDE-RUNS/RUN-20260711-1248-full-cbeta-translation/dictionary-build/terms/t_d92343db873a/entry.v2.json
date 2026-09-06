@@ -1,0 +1,172 @@
+{
+  "Id": "t_d92343db873a",
+  "SourceTerm": "一切眾生具有如來智慧德相",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:55:57Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "all beings are endowed with the thus-come one's wisdom and virtue-marks",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "every being carries the wisdom and marks of a thus-come one",
+        "all beings possess the wisdom of the thus-come one",
+        "beings all hold the wisdom and virtue-marks"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 114 hits in 74 files representing 74 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0854b08",
+          "ToLb": "0855a02",
+          "Kwic": "復云教中道是法住法位世間相常住若了得這兩句世間法與出世間法一網打就何以故佛說一大藏教盡是隨眾生器量而說所以釋迦老子初於正覺山前覩明星現忽然悟道於所證處便見大地一切眾生與他同體平等乃云奇哉一切眾生具有如來智慧德相但以妄想執著而不證得謂我所證處與十方諸佛乃至含蠢蠕動一時同得同證以海印三昧向人人脚跟下一印印定更無纖毫以為透漏以是知諸佛菩薩法門廣大一證一切證一悟一切悟一了一切了一用一切用却到後來眾生根器狹劣所見亦微如人以針去󰈧上面劄得一箇窟籠兒自謂我這窟籠是不可思議廣大境界便要與人天為師將有所得心傳授與人若他處窟籠差大即以為非何故蓋不是他所見境界有箇小話正可喻這箇道理有一懶龍不樂行雨為龍王所怒遂走入井底藏身井蛙一見便問你是甚人曰我",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: tells it whole — the morning star before the mountain of right awakening, the great earth and all beings of one body, equal — what he verified the ten directions' buddhas and even the wriggling creatures attained all at once, the ocean-seal set at each person's heel."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0464b07",
+          "ToLb": "0465a08",
+          "Kwic": "汝道汝還信否訓曰和尚誠言焉敢不信宗曰即汝便是訓曰如何保任宗曰一翳在眼空華亂墜你看這則因緣甚好消息汝等還曾體悉麼還曾悟得麼倘爾悟去即世間何法而不可通耶況大乘圓頓之不合哉所謂未有圓而不空空而不圓者也只如塵說剎說眾生說三世十方一切說可謂圓矣又我觀一切眾生具有如來智慧德相但以𡚶想執着而不證得既無執着豈非空乎況身意諸情根一切空無性耶如金剛曰眾生眾生者如來說非眾生是名眾生如來說世界非世界是名世界所以謂未有空而不圓者也爾我若不悟去華嚴元是華嚴般若還他般若佛元是佛眾生依舊眾生於爾我何預畢竟作麼生是你們底悟處故曰學道須當有悟由還如爭鬬快龍舟雖然舊閣閒田地一度贏來方始休。",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment: reads it round and empty — with no clinging, is that not empty? — beside the Diamond's beings-beings are no beings."
+        },
+        {
+          "RelPath": "J/J26/J26nB184.xml",
+          "FromLb": "0545a19",
+          "ToLb": "0545a25",
+          "Kwic": "諸佛甚是靈明，諸人也不曾遮蔽。此便是普說底意。所以差別者何？記得黃面老子在雪山頂上，嘆曰：『奇哉！奇哉！一切眾生具有如來智慧德相，但以妄想執著而不證得。』且如何是妄想？但忘卻此一大事，觸處茫然，所作所為皆妄想也。縱然位至君侯，最為榮貴，皆是生死邊事。所以諸佛興慈運悲，出世來提持你，使你知有此大事，不做眾生。",
+          "MasterName": "Muyun Tongmen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muyun Tongmen",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB184.xml). Seven-Session Recorded Sayings of Monk Muyun. Muyun Tongmen owns the retained deployment: preaches the plain price — what is deluded thinking? just forgetting this one great matter; touch any place blankly and all one does and makes is deluded thinking."
+        },
+        {
+          "RelPath": "J/J28/J28nB204.xml",
+          "FromLb": "0206a21",
+          "ToLb": "0206a29",
+          "Kwic": "明如杲日，利似吹毛，剿絕生死根株，開鑿人天眼目。所以釋迦老子始於正覺山前，夜睹明星，忽然大悟，乃云：『奇哉！一切眾生具有如來智慧德相，皆因妄想執著而不能證得。』世尊雖則全機獨露，直截根源，檢點將來，大似依模脫墼。法海今朝乃一期慶賀千載奇逢，滿堂龍象個個達境惟心，四海英賢人人縱橫自適，金鐘扣處聲聲清韻響乾坤，法鼓催時浩浩洪音鳴梵院，堅冰浮野水而競注，寒梅待春信以方開。",
+          "MasterName": "Binya Jian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Binya Jian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya Jian owns the retained deployment: grants the whole mechanism wholly bared and the root cut through — yet inspected closely, very much like stamping from a mold."
+        },
+        {
+          "RelPath": "J/J29/J29nB222.xml",
+          "FromLb": "0013a29",
+          "ToLb": "0013b10",
+          "Kwic": "」夔州臥龍字水禪師語錄卷二夔州臥龍字水禪師語錄卷三住開縣棲靈寺門人完矩錄書問書問與瑞環陳居士與瑞環陳居士雪山老子常言：「一切眾生具有如來智慧德相。」此老子一片苦心，徹底要人當下寤去；而人只不肯，盍忽於平常返欲務高求深良可歎也。公肯信此言之切而當下寤去否？如不能，切須留神，不可甘為經史耽誤平生。前之人，即塵勞中做去者有之，即潔白中做去者亦有之。",
+          "MasterName": "Zishui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zishui",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB222.xml). Recorded Sayings of Chan Master Zishui of Wolong, Kuizhou. Zishui owns the retained deployment: writes to a layman — the old man's one piece of bitter heart is to make people wake on the spot, but people neglect the ordinary and hurry to seek the lofty and deep: how lamentable."
+        },
+        {
+          "RelPath": "J/J36/J36nB345.xml",
+          "FromLb": "0082b19",
+          "ToLb": "0082b26",
+          "Kwic": "師云：「昨夜山僧拄杖子驀地高聲報道：『黃面老子深居雪嶺，夜半抬頭，忽見明星，大驚小怪，便道：「奇哉！一切眾生具有如來智慧德相，但以妄想執著，不能證得。」』聲未絕時，山僧道：『一翳在眼，空花亂墜。』便將拄杖子一摑，𨁝跳上三十三天，直得地震六搖，鳥飛兔走，驚起森羅萬象、露柱燈籠，一一端拱呈解。山僧只得呵呵大笑，向他道：『汝等也須各領三十痛棒始得。",
+          "MasterName": "Zhu'an Zhenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhu'an Zhenyan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB345.xml). Recorded Sayings of Chan Master Zhuyan Yan of Suzhou. Zhu'an Zhenyan owns the retained deployment: has his staff report it in a loud voice, then before the sound ends: one film over the eye, sky-flowers falling in profusion — a slap of the staff."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0840c28",
+          "ToLb": "0841a05",
+          "Kwic": "」乃豎起拂子，召眾，曰：「還見麼？黃面老瞿在拂子頭上，入正定三昧，睹明星豁然大悟，曰：『奇哉，一切眾生具有如來智慧德相，但以妄想執著而不能證得。』拂子忍俊不禁，揚聲大叫，曰：『諦當！甚諦當，敢保老兄未徹在。』諸昆仲！且道那裏是瞿曇未徹處？若能於此明得，非惟親見拂子落處，亦能親見黃面老子悟處，方可向孤峰頂上呵佛罵祖，十字街頭播土揚塵，竿木隨身，逢場作戲；",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained deployment: lifts the whisk — the yellow-faced one on the whisk-tip sees the morning star and says the line — and the whisk laughs: quite right, very apt, yet I dare guarantee the old brother is not through."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "L/L153/L153n1637.xml",
+        "J/J26/J26nB184.xml",
+        "J/J28/J28nB204.xml",
+        "J/J29/J29nB222.xml",
+        "J/J36/J36nB345.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Huanyou Zhengchuan",
+        "Muyun Tongmen",
+        "Binya Jian",
+        "Zishui",
+        "Zhu'an Zhenyan",
+        "Baishan Dekai"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The line from the morning star: how strange — all beings are endowed with the thus-come one's wisdom and virtue-marks, only by deluded thinking and clinging do they fail to attain it. The whisk at Baishan's hall hears it and laughs out loud — quite right, very apt — yet dares guarantee the old brother is not through. The telling and the plain price: Dahui Zonggao tells it whole — before the mountain of right awakening the morning star appeared and Shakyamuni suddenly woke; at the place he had verified he saw the great earth and all beings of one body with him, equal, and said the line: what I verified, the ten directions' buddhas and even the wriggling creatures attained all at once — and he set the ocean-seal at each person's heel; Huanyou Zhengchuan reads it round and empty — I observe all beings are endowed with the thus-come one's wisdom and virtue-marks but by deluded thinking and clinging do not verify it; with no clinging, is that not empty? — the Diamond's beings-beings are no beings beside it; Muyun Tongmen preaches the plain price — what is deluded thinking? just forgetting this one great matter; touch any place blankly and all one does and makes is deluded thinking; Zhu'an Zhenyan has his staff report it in a loud voice — the yellow-faced old man deep on the snow ridge lifted his head at midnight, suddenly saw the morning star, made much ado and said the line — and before the sound had ended: one film over the eye, sky-flowers falling in profusion — a slap of the staff. The halls that doubt it: Binya Jian grants the whole mechanism wholly bared, the root cut through — yet inspected closely, very much like stamping from a mold; Zishui writes to a layman — the old man of the snow mountain's one piece of bitter heart is to make people wake on the spot, but people simply will not: they neglect the ordinary and hurry to seek the lofty and deep, how lamentable; Baishan Dekai lifts the whisk — the yellow-faced one on the whisk-tip enters right settledness, sees the morning star, wakes, says the line — and the whisk cannot help laughing, crying quite right, very apt, yet I dare guarantee the old brother is not through."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "Id": "t_e45275e9148e",
+  "SourceTerm": "菩提涅槃",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "bodhi and nirvana",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "awakening and release",
+        "the awakened fruit"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 368 hits in 131 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0618c20",
+          "ToLb": "0619a14",
+          "Kwic": "門已受白四羯磨訖具足全是戒定慧力更向它與麼說名非時語說不應時亦名綺語若是沙門湏說淨法邊垢須說離有無等法離一切脩證亦離於離若於沙門中剝除習染沙門除貪嗔病不去亦名聾俗亦湏教渠修禪學慧若是二乘僧他歇得貪瞋病去盡依住無貪將為是是無色界是鄣佛光明是出佛身血亦湏教渠脩禪學慧湏辯清濁語濁法者貪嗔愛取等多名也清法者菩提涅槃觧脫等多名也只如今鑑覺但於清濁兩流凡聖等法色聲香味觸法世間出世間法都不得有纖毫愛取既不愛取依住不愛取將為是是初善是住調伏心是聲聞人是戀筏不捨人是二乘道是禪那果既不愛取亦不依住不愛取是中善是半字教猶是無色界免墮二乘道免墮魔民道猶是禪那病是菩薩縛既不依住不愛取亦不作不依住知觧是後善是滿字教免墮無色界免墮禪",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Baizhang Huaihai owns the retained deployment: grades the pure stream of names, bodhi-nirvana and liberation, against the turbid stream of greed, hate, and grasping, and bars love-grasp on both banks."
+        },
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0522c30",
+          "ToLb": "0523a13",
+          "Kwic": "無不甚深，無不解脫。道流！心法無形，通貫十方，在眼曰見，在耳曰聞，在鼻嗅香，在口談論，在手執捉，在足運奔。本是一精明，分為六和合，一心既無，隨處解脫。山僧與麼說，意在什麼處？秪為道流一切馳求，心不能歇，上他古人閑機境。道流！取山僧見處，坐斷報化佛頭，十地滿心猶如客作兒，等妙二覺擔枷鎖漢，羅漢辟支猶如廁穢，菩提涅槃如繫驢橛。何以如此？秪為道流不達三祗劫空，所以有此障礙。若是真正道人，終不如是，但能隨緣消舊業，任運著衣裳。要行即行，要坐即坐，無一念心希求佛果。緣何如此？古人云：『若欲作業求佛，佛是生死大兆。』大德！時光可惜，秖擬傍家波波地學禪學道，認名認句，求佛求祖，求善知識意度。莫錯。道流！你秪有一箇父母，更求何物",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the retained deployment: loads the whole graded ladder onto the burdened traveler, with the ten stages a hired hand, the two awakenings a cangue, and bodhi-nirvana a hitching post."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0037b13",
+          "ToLb": "0038a09",
+          "Kwic": "著布裙，貴圖人知道我是禪師要出頭處。若作如此見解，打那鬼骨臀，入󳫠舌地獄有日在。到處覔人道我是祖師門下客，被佗問著本分事，口似木𣔻，便却與佗說菩提涅槃、真如解脫，廣引三藏言教是禪是道，誑佗閭閻，有甚麼交涉謗我先祖？德山老漢見處即不然，遮裏佛也無，法也無，達磨是老臊胡，十地菩薩是擔糞漢，等妙二覺是破戒凡夫，菩提涅槃是繫驢橛，十二分教是鬼神簿、拭瘡膿紙，四果三賢、初心十地是守古塚鬼，自救得也無？佛是老胡屎橛。仁者莫錯，身被瘡疣衣，學甚麼事？飽喫飯了，說真如涅槃，皮下還有血麼？須是箇丈夫始得。汝莫愛聖，聖是空名，向三界十方世間，若有一塵一法可得與你執取生解、保任貴重者，盡落天魔外道。是有學得底，亦是依草附木、精魅野狐",
+          "MasterName": "Deshan Xuanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Deshan Xuanjian owns the retained deployment: declares his hall empty of buddha and dharma, with Daruma an old barbarian and bodhi-nirvana a hitching post for donkeys."
+        },
+        {
+          "RelPath": "T/T47/T47n1987A.xml",
+          "FromLb": "0530b05",
+          "ToLb": "0530b21",
+          "Kwic": "味。盡為滯著。先師曰。擬心是犯戒。若也得味是破齋。且喚什麼作味。只是佛味祖味。纔有忻心便是犯戒。若也如今說破齋破戒。即今三羯磨時早破了也。若是麁重貪瞋癡雖難斷。却是輕。若也無為無事淨潔。此乃重無以加也。祖師出世亦只為這箇。亦不獨為汝。今時莫作等閑。黧奴白牯修行却快。不是有禪有道。如汝種種馳求覓佛覓祖乃至菩提涅槃。幾時休歇成辦乎。皆是生滅心。所以不如黧奴白牯兀兀無知。不知佛不知祖乃至菩提涅槃及以善惡因果。但饑來喫草渴來飲水。若能恁麼不愁不成辦。不見道。計較不成。是以知有。乃能披毛戴角牽犁拽來。得此便宜始較些子。不見彌勒阿閦及諸妙喜等世界。被他向上人喚作無慚愧懈怠菩薩亦曰變易生死。尚恐是小懈怠。在本分事合作麼生。",
+          "MasterName": "Caoshan Benji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1987A.xml). Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou. Caoshan Benji owns the retained deployment: tells seekers that hunting for buddha, patriarch, and bodhi-nirvana is all birth-and-death mind, no better than the black calf and white ox that simply eat grass and drink water."
+        },
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0553a11",
+          "ToLb": "0553a27",
+          "Kwic": "樹果子熟也未。師云。什麼年中得信道生。上堂云。爾諸人無端走來這裏覓什麼。老僧秖解喫飲屙屎。別解作什麼。爾諸方行脚參禪問道。我且問。爾諸方參得底事作麼生。試舉看。又云。中間󱓋汝屋裏老爺得麼。向老漢𦜇臀後。覓得些子睇唾嚼。將為自己便道。我解禪解道。饒爾念得一大藏教。擬作麼生去。古人事不得已。見爾亂走。向汝道菩提涅槃。是埋沒爾。是釘橛繫却爾。又見爾不會。向汝道。非菩提涅槃。知是般事。早是不著便也。又更覓他注解這般底。滅胡種族。從上來總似這般。何處到今日。我向前行脚時。有一般人與我注解。他是不惡心。被我一日覷見是一場笑具。是我三五年不死。這般滅胡種底一斧打折脚。如今諸方大有出世紐揑。爾何不去彼中。在這裏覓什麼乾屎橛。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment: relates how the ancients, forced by listeners running wild, called bodhi-nirvana a burying of them and a stake to tether them, then seeing they still failed, called it not-bodhi-nirvana either."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0820c24",
+          "ToLb": "0821a10",
+          "Kwic": "狀。詳書其實。聞疾已革。有來問訊者。亦以慈悲攝化。不及世間一言。啟手足時。談笑自若。跏趺而逝。淨名所謂設身有苦。念惡趣眾生起大悲心。我既調伏。亦當調伏一切眾生。但除其病而不除法。遂召大眾云。魏公疾已革。而能忍苦。為諸來者隨宜說法。足見學佛之驗。今日幸遇在會諸人同此證明。不免借渠鼻孔出氣要識法麼。真如佛性菩提涅槃是。要識病麼。妄想顛倒貪瞋邪見是。雖然如是。離妄想顛倒。無真如佛性。離貪瞋邪見。無菩提涅槃。且道分即是不分即是。若分存一去一其病益深。若不分正是顢頇佛性𢤱侗真如。畢竟作麼生說箇除病不除法底道理。有般漢聞恁麼說便道。即法是病。即病是法。但有言說。都無實義。順真如則顛倒妄想貪瞋邪見悉皆是法。隨顛倒則真如佛性",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: at a memorial seat names the dharma, true suchness, buddha-nature, bodhi-nirvana, and the sickness, delusion, inversion, greed, and wrong view, then warns that keeping them apart deepens the disease."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0430b09",
+          "ToLb": "0430b24",
+          "Kwic": "也。所以首楞嚴經云。佛告阿難。一切眾生從無始來。種種顛倒。業種自然。如惡叉聚。諸修行人。不能得成無上菩提。乃至別成聲聞緣覺。及成外道諸天魔王。及魔眷屬。皆由不知二種根本。錯亂修習。猶如煮砂欲成嘉饌。縱經塵劫。終不能得。云何二種。阿難。一者。無始生死根本。則汝今者。與諸眾生。用攀緣心。為自性者。二者。無始菩提涅槃。元清淨體。則汝今者。識精元明。能生諸緣。緣所遺者。由諸眾生遺此本明。雖終日行而不自覺。枉入諸趣。釋曰。此二種根本。即真妄二心。一者無始生死根本者。即根本無明。此是妄心。最初迷一法界。不覺忽起而有其念。忽起即是無始。如睛勞華現。睡熟夢生。本無元起之由。非有定。生之處。皆自妄念。非他外緣。從此成微細業識。則",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: deploys the Shurangama's two roots, naming the beginningless bodhi-nirvana, originally pure, as what beings lose while its light follows them all day."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0703a18",
+          "ToLb": "0703b10",
+          "Kwic": "咸為一大事因緣出現于世。欲令眾生開示悟入佛之知見。謂佛知見者。乃破生死根塵之利具也。佛祖諦觀。三界諸微塵剎。滿中眾生無一剎那而不受生。無一剎那而不變滅。浩浩乎不可以數計也。而況妄情起滅剎那不住。生死之理豈細事哉。由是佛祖哀之。於大寂定中隨其迷妄為轉法輪。依處依緣多立名字。謂之華嚴法華。謂之楞嚴圓覺。乃至菩提涅槃真如般若正法眼藏涅槃妙心等。一依此心建立。名常異而體常同也。名異故方便善權。體同故不離本際。必欲眾生悟本際越生死情妄而後已。凡學者跨門。靡有不以為生死事大無常迅速而為辭者。逮扣其所以。或者茫然無所加對。或者謂。自出母胎至命光遷謝。其生不知來死不知去。是生死也。又或指終日竟夜念慮遷流後念倐生前念忽滅。取舍去",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: counts bodhi-nirvana among the many names the buddhas set up by place and condition, all built on this one mind, names forever different and essence forever the same."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0662b08",
+          "ToLb": "0662b22",
+          "Kwic": "，不知與俗何異？惜哉！又有一等出家，不求明師指示，朋於愚黨，南遊普陀、北走清涼，徒悅耳目，苟趁衣食，比前樁橛者尤可厭也。大抵出家一事甚是難言，非徒離俗室、削俗髮為出家，要知五蘊四大是家，放下五蘊四大是真出家。乃至六根、六塵、十二處、十八界、百八煩惱、六十二見是家，超此方名出家。又復四諦、十二緣、六度萬行、菩提涅槃，總之世出世法有一纖毫許放之於心，即名染污、即名繫縛，即是居家；若世出世法一切淨盡，不即不離，方是究竟出家，是大解脫人。果能如是，雖不離俗土，周遍十方，而在家即出家也；或不解此，任從走遍天下名山，見過天下善知識，徒費草鞋錢。乃至有神通妙用，一念能游四天下，若有一法當情即名家繫，而出家行腳之士可不慎哉！桂輪",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: instructs a trainee that leaving home is dropping the five aggregates, and that holding even a hair's worth of the truths, the perfections, or bodhi-nirvana in the heart is itself defilement and bondage."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0244b27",
+          "ToLb": "0244c10",
+          "Kwic": "用，千古英靈作指南。」師云：「多華不如少實。」乃云：「麟不吠守，鳳不司晨。獅子遊行不求伴侶，象王顧盻野狐潛蹤。汝看我釋迦老子，纔出娘胎便云：『天上天下惟吾獨尊。』眼空四海傍若無人，等閒豎一機，蓋覆三千大千，現前眾等，各各具有金剛眼睛，人人本有生鐵骨頭，智慧德相與佛無二，慈悲喜捨與佛無二，妙用神通與佛無二，菩提涅槃與佛無二，為甚麼不肯承當？設若脫體承當，直下便與釋迦老子無二無別。只如雲門一棒打殺餵狗子喫，貴圖天下太平。又作麼生？到這裏，要見釋迦老子則易，要見雲門則難。要知釋迦老子麼？」豎拂子云：「穿過鼻孔了也。要見雲門麼？擉瞎眼睛了也。要見釋迦雲門則易，要見琦上座則難。且道琦上座有甚麼長處？」僧云：「將此身心奉塵剎",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: at the Buddha's birthday seats bodhi-nirvana with wisdom, virtue, and power as nothing other than the buddha's own, and asks the assembly why no one dares claim it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "J/J23/J23nB134.xml",
+        "X/X67/X67n1309.xml",
+        "T/T47/T47n1987A.xml",
+        "T/T47/T47n1988.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T48/T48n2016.xml",
+        "B/B25/B25n0145.xml",
+        "J/J28/J28nB219.xml",
+        "J/J27/J27nB193.xml"
+      ],
+      "RelatedMasters": [
+        "Baizhang Huaihai",
+        "Linji Yixuan",
+        "Deshan Xuanjian",
+        "Dahui Zonggao",
+        "Caoshan Benji",
+        "Yunmen Wenyan",
+        "Yongming Yanshou",
+        "Zhongfeng Mingben",
+        "Zhuanyu Guanheng",
+        "Yinyuan Longqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Two names for the fruit, and the masters who both hand them over and stake them to the ground. Baizhang Huaihai grades bodhi-nirvana among the pure stream of names against the turbid stream of greed and grasping, Linji Yixuan loads the whole graded ladder onto the burdened traveler with bodhi-nirvana a hitching post, Deshan Xuanjian declares his hall empty of buddha and dharma with bodhi-nirvana a stake for donkeys, Caoshan Benji calls the hunt for buddha, patriarch, and bodhi-nirvana birth-and-death mind no better than the grazing ox, and Yunmen Wenyan relates how the ancients called it a burying peg and then revoked even that. Dahui Zonggao at a memorial seat names bodhi-nirvana as the dharma and greed and hate as the sickness, warning that splitting them deepens the disease, Yongming Yanshou deploys the Shurangama's beginningless bodhi-nirvana as the pure root beings lose while its light follows them, Zhongfeng Mingben counts it among the many names all built on one mind, Zhuanyu Guanheng instructs a trainee that holding even a hair of it in the heart is defilement, and Yinyuan Longqi seats it with wisdom and virtue as nothing other than the buddha's own."
+    }
+  ]
+}

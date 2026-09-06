@@ -1,0 +1,962 @@
+{
+  "schemaVersion": "generic-dictionary-publication-manifest.v1",
+  "cohort": "fresh10k-r8",
+  "buildRoot": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/runs/CLAUDE-RUNS/RUN-20260711-1248-full-cbeta-translation/dictionary-build",
+  "termsRoot": "terms",
+  "publicRoot": "/mnt/c/temp/NewTranslationrepos/CbetaZenTranslations",
+  "stageRoot": "fresh-build/fresh10k-r8/publication-stage",
+  "installReceipt": "maintenance/fresh10k-r8-generic-install-receipt.json",
+  "authority": {
+    "path": "maintenance/fresh10k-r8-final-release-authority.json",
+    "sha256": "c327d6d9d49c0abfef0782ee24e195e2712b78aadf0298ee3061acb255d7ba1e"
+  },
+  "reviews": [
+    {
+      "path": "fresh-build/fresh10k-r8/fresh10k-r8-release-review.json",
+      "sha256": "62b765425439f11dbb868603d4d387c2f22820f589130dc0a066f65dea5ccc16"
+    }
+  ],
+  "products": [
+    {
+      "id": "t_17b4746140b7",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_17b4746140b7",
+      "entrySha256": "cf8e06ad98406d5899a210bd1ad713c3ecec5af6ce3ca0bed57d15736cb562ce",
+      "worksheetSha256": "160fc0721f38d01a8cade0086957a1cf5d01763a0fcf0958013064784972b40a",
+      "workSha256": "4b56523513ab67534b524be751b1b568927e9b4c0c3784e482f88a6e26a1ed8d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_127fd7bd1073",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_127fd7bd1073",
+      "entrySha256": "046f97ca46faf816aed5962133d9b40288d860cab513d614bdd70812eb89f1ae",
+      "worksheetSha256": "d3be6f095cc467f41726d8fb439647d1daa6b74b6e569f4a7d3ddb156c0529dc",
+      "workSha256": "badc1e8709956c58901cd4efa6892564a9d03f77bef6695971cc229bbdd59b48",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_384251ee2695",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_384251ee2695",
+      "entrySha256": "dcc45db35241fb40dee253dce43211256bd5fb7142153cc054e0a978beabf343",
+      "worksheetSha256": "7289faa01b12ecfe37b8b456ab7fe336abe1572bfa07cb57db4e57d005933964",
+      "workSha256": "b90674ba5230ba03e4661bf1d5ae8bde61b000ddf26a5f5ba49412b56dd18994",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_6f839d8716a7",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_6f839d8716a7",
+      "entrySha256": "67054ef15d088a4b7431950956976f4d26f8e7ff97dc87b1bbe0b2fe538f7669",
+      "worksheetSha256": "c4144dfda6818bfe077b93073f94c53b2fa539f036beddf0fcb39856d09c41cb",
+      "workSha256": "2dd37bbc2d5243d6be0d1a71c6b2fd6e5938d7da2527cb2f9c0e9c30b324dc7a",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_40adc8bebc47",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_40adc8bebc47",
+      "entrySha256": "99f9199f648b08a5847b91daae7718e185b78e06362d9b52a9901a97b63eb127",
+      "worksheetSha256": "ab2d9ea98c3cf05f56df025bc23965fef4b0edea86b01890ecfd6a9ba0a50c65",
+      "workSha256": "0bec31b83ae2335a57c354967f97d2d06b03d8b742f4372f8e9d35ed480877a5",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_b36bf04fbd44",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_b36bf04fbd44",
+      "entrySha256": "0d5695a4e8db3596c5c169ffa8e41aa934f4e1477bf6ea59fbc2e8f83212a11e",
+      "worksheetSha256": "db2be7917ea07364451470c9fe6919d5c60bea6d85131a9c4cf372809647261d",
+      "workSha256": "d61d382b8ab97450863f48ae509e83ae3c7db9854c95718314afe26b13d683b8",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7b259c466126",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7b259c466126",
+      "entrySha256": "c9c41f65a6f8ec6a253acb0819112e22a15f769f2c1cb0bfc45a94da6bd1794e",
+      "worksheetSha256": "26deaca58d2df89fa15545d02260d5e251fc05b1986327a257f7c9ef2caecca7",
+      "workSha256": "cd0d12a8f4f7cd084281ca5766dcab7e9711b39e3c13546c6a6d93e9921b99d7",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9e86b07e5ae6",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9e86b07e5ae6",
+      "entrySha256": "54dc75515b1372fcdad3af6c2e317387b08b5099a086e4719b67c7026b0352fb",
+      "worksheetSha256": "a13ab1c54da118805122f16f9b17e09530afe08b6bb4b3a9c054f337f29bfe4f",
+      "workSha256": "4d5bbb2b495303c2d08e959516eb3d455262c12c7029a7b13b7d1adc46c7354b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4f817d061bf2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4f817d061bf2",
+      "entrySha256": "c5d0476ce124aeea6573df4cbd10bcc7532d73fa4d3eef8e98929ffea833bba9",
+      "worksheetSha256": "d94310e2102e294c2fcc0feec25404b34f26a445f6c57186bebfe40ff421df69",
+      "workSha256": "516a81d226030cea8e3670b3552bfb6e51301bad336d475ce0ba833c58d3cede",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_89c93f35ed63",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_89c93f35ed63",
+      "entrySha256": "1a69b97e22bac900cbffa10c8cb703a81761b7839489eb95b4a682cdd10fe67f",
+      "worksheetSha256": "499e06d24d2fab9e61aa6ff8d943eae9fa3f8e124bc86a3bd733147817283e05",
+      "workSha256": "c75309c69251085297b407e59d96b26b2db7488e9e4f53c86fc9a90a0e2e42fc",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_eea303b5993b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_eea303b5993b",
+      "entrySha256": "66d06024e51c94dbdd3ad45c6ca436e2665ab0e104a2d96bbc5e7d980256c6bd",
+      "worksheetSha256": "4121c4286623e8b246bf0a1d76022adbb68d28d3428a91318d3163f098a51481",
+      "workSha256": "21b5c424c083fdcea9e80eae48f145c89ef982fb4679751ae0730c3cfdde42e8",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_94182878cda4",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_94182878cda4",
+      "entrySha256": "c70752696bb4a2370dfe0fc5a7e7c0208a9682767ddb628c0d074affeb20a1b1",
+      "worksheetSha256": "6d66f1aca1e45690f739df7f26d5b70f46cd9dbd1d9c88f7f6486aaf7232d85b",
+      "workSha256": "925341c1a4b0718ef789421a01329f4cde2d6d11e3333f4db1057326ae72e68e",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_75230eec9da2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_75230eec9da2",
+      "entrySha256": "a8165fd4945fe0d087cb95bd939a74e5c953a75fa7d4b3d669e4a2fbd9427131",
+      "worksheetSha256": "2f6a280c407d8c887ff4d5bbd0d3715d169f22fb7402aa75f6e895a1e65b7130",
+      "workSha256": "90d0121b32de846938a255fab4dc172a1ee5d86c1c8cd50bffd37e24c983c044",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_fe95ce79b98b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_fe95ce79b98b",
+      "entrySha256": "ce17332d4cf49c29a2f25da6183eac841b98d387980e4660923a34ef07c5b3f4",
+      "worksheetSha256": "4accc092f20b5e512218d493601bbbc365af66b27aa42c0e54713fb3e92312ab",
+      "workSha256": "05e903a6c08ac92740530c00406ec3c025bd326713d569cf9fd098b1deb1c4fb",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_57efbed3e4b4",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_57efbed3e4b4",
+      "entrySha256": "6331bc89a1f5280ac7cfb839c584a5f543d28c40255b3aa035bf2cd1abd2a4b2",
+      "worksheetSha256": "acb56d754972c162f37aeef97589b4460a73c68a4f039a787b620f6d543241da",
+      "workSha256": "a32ac89c9694ae54d67c84d4823f07bede612deebe3a1595c1c9862a6e33ebfc",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d3be7a130305",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d3be7a130305",
+      "entrySha256": "ce12dff5fe4d45e487a6d7ef25b3e94798f0082473896bd90f6c6de2a293c18e",
+      "worksheetSha256": "d429f04c88b90a1e1f1599194846246384e43bde450f7e7bcb884098f1a7c49f",
+      "workSha256": "07dd60488a8a0ed8feab783f73375058fed54b756e6e98cdad941c3d4aaa6f95",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_128bee5fc853",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_128bee5fc853",
+      "entrySha256": "eb4b8ced6b6338ca67b4a4077002c6b70497dfe96d5b56bf9cde7610f8af484a",
+      "worksheetSha256": "33e677e6228c00f2fe9077d4481ee2030d7007360d5279acaa7a7b44e690f7f2",
+      "workSha256": "d8615189071dd91ed37bb12983ff6054ce4ee4eb0f5c1d476acd2de9116abe9d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7160c71fc9be",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7160c71fc9be",
+      "entrySha256": "c2f4fd2721a8e32727d7d541f239097becd805b959a3cdd77177fb8cc3584e7c",
+      "worksheetSha256": "b16ba032c0ef003395b501d10e9488ec85296fa3ad64330ce203beb87e08f922",
+      "workSha256": "6094d741891a29c299a34d650800771277b71d6d4d3ee13611e4c74328125b71",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7919c45999c7",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7919c45999c7",
+      "entrySha256": "bc1c790f6f8c73c1511329922afb3273c2b1da8ecb6eb6d98488377dd2f33570",
+      "worksheetSha256": "de8e9fb169f1f4fbb7073e0abeb525dd506ee29dea95331e9c32c4043ce20c7d",
+      "workSha256": "acca8289dd00e4fdb096abb54930418d0677002db9c8b47967a028d2ec753d36",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_28f8ad3d317b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_28f8ad3d317b",
+      "entrySha256": "d9667ca6523ade9e9b240b418ad99a52c63fe8cf43105e0e1e28546dad77e69d",
+      "worksheetSha256": "13610f3dc87e6f001804657c640dce107f82f8fc2f7a576a178044eba9ed9643",
+      "workSha256": "01bde8feb550d36e6d7529415e9182e3a7ab3484f5a0c92432d617cc13dc9c24",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ca90618b6466",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ca90618b6466",
+      "entrySha256": "426df71c1d1023a3e65f856098abf232782bef12868243fc97944f6de2d0a3cc",
+      "worksheetSha256": "b11da4c0bf9104af588aad9f54ed3473abe750c63e732cd7db9fa5570fda08e0",
+      "workSha256": "e76a6423cc89277290b0e391fd0a27188cdba90c51ab996dc030f767ea920441",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_0b73d663e1fb",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_0b73d663e1fb",
+      "entrySha256": "bf69fca422a30b530b3a3693ad976f49b0b6c3fce6c9bd28b5680a2b2c65f71d",
+      "worksheetSha256": "4d752762cac34ae8a415205234d544e4ed8412d967bf7ffd5fa85006e2707742",
+      "workSha256": "da8592fe2f11690f1516e1283363018dca81f62c1dcee9cb2cb871c19bb5c645",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_e45275e9148e",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_e45275e9148e",
+      "entrySha256": "f15b40ca7809ae999727c6c90a7e9058a760f23f7cac3cc1974904b1fe90e9c5",
+      "worksheetSha256": "8fe7291d2c93cbc0ce9f04b3e667b5b930c49d2932a32a1874ee00f2edffe08e",
+      "workSha256": "180dcfd047504d8afff947a353b541bb5598c0954ee53d00463b418c67f2d997",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_1740cd97a9ba",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_1740cd97a9ba",
+      "entrySha256": "4c9f434d80e602657425dbcd4732aab23c1794166d73f6f6cd85f4a470d11e36",
+      "worksheetSha256": "977acddb89198cafac9b8dd9e02664bf20a3a2019c66627aa2ab76f5ef2f7197",
+      "workSha256": "b8af6e37e96ab4c6382a4139b262a4663b2ecc63286a8930d5a47ecebad9490d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_97adb0e79b04",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_97adb0e79b04",
+      "entrySha256": "d621a0c83ceb66b073ffcc0ce3254b4c6d5974ce35b89fd781b8102add01be7f",
+      "worksheetSha256": "586fb835b42b81863bd370aa343462f1dfafa69d74c9878b75c2cd1d9af74807",
+      "workSha256": "fe04d29fd8a0c4298195c259231b558f4caee21541b44f1dd62417a875c5a745",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4871c3defb43",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4871c3defb43",
+      "entrySha256": "a585b2e8436b8a860a85584686fb5c8c09e1a6a24571870282b566b4a4311643",
+      "worksheetSha256": "ab327894c4a8e064e3b8d581b07b89d6b64d99dc6ca858e4e48adabecf359aa7",
+      "workSha256": "93c9ca3103613c5486ce26a0f47cbe355bd2591807a2e330757de29be361098e",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4d9895cc302e",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4d9895cc302e",
+      "entrySha256": "fad8523f19544ff869dfbe9b0ddf1b6006eb5324da2d5bcdcb940abcc7928c46",
+      "worksheetSha256": "88ae6997f2832f340c7a46a1f922de7cb4571bf159939ef40bf5faec0af5d5a1",
+      "workSha256": "68497ec1390b7f344ac92d992bf21e33451996554d0358c04bb513bc4937aa46",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_365652e3f1bd",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_365652e3f1bd",
+      "entrySha256": "a702d0230e5f01ff3e958cf6575008ecb149bea010ca5e1d75f09503b3698fb1",
+      "worksheetSha256": "3d5191c05e801129ac4567402393c72fcf69e0ef2840f361775f156bf75f019d",
+      "workSha256": "ff4ad35270374657d5cd7a327a76fb9625e911ca7ee301611554652d3ec1322a",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_482c866c4cc4",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_482c866c4cc4",
+      "entrySha256": "1472217719a2271dca27cb385d48c5e452fc4b40524cfdd2061c3962c773e733",
+      "worksheetSha256": "90aa7fd17eca511522509fa85135c02c40cab74ff8dcf4ad5714e6f51e2919e7",
+      "workSha256": "bab9d2dc52b01795d2cef322fb7625387abcedb8e1eb5d0761e32f9fa46bf250",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_726104c8379a",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_726104c8379a",
+      "entrySha256": "4de0ff34229cb69168bbee2b83bead4bc15fc2e21c7ffdc1d783b0a8681d84fb",
+      "worksheetSha256": "4761f393b814c6f1445fecd4d9b94b2f2a5004a9edb4261acc7d142f992b6bb4",
+      "workSha256": "3611d39277e518d9dbc3c3482fde9d644879eeaeb8741c8d184f6df63338e153",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ceee2c8e54b0",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ceee2c8e54b0",
+      "entrySha256": "11bd11cd9e3418b4ef598bd0ab4219259c4dfc660070fb104c5a07fd1495ab26",
+      "worksheetSha256": "d90e182fb7da65b162f8015561e35920eadd3b0857fb4fc4f163ed15ba558950",
+      "workSha256": "095708f804e0882308acb85a271ff4ec880d519c19a4cfad29b9cab7813a0060",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4abf1d3f253b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4abf1d3f253b",
+      "entrySha256": "8585f666f9603393aa4ce00826a7a6a2e25e09542c7b5d02656a89047f6bd979",
+      "worksheetSha256": "d54bf2ea1c1d2de2a7136edcab48adb02554fea63adcb46d0062ba99a4ccab72",
+      "workSha256": "f4d3caa8163ff261899f6de124c523f8f3e9c41c435d1bd1f9b0ae39266f55e4",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9e6bbf7ec81f",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9e6bbf7ec81f",
+      "entrySha256": "e0e143358d3f6ea6d59c2d3ab333ca4e0110b5a1bb348a410572146c4f122b38",
+      "worksheetSha256": "dc13b9aa6c49b7abcc54fdf96968216e0a65fe15bd725fa155411ede8d6aed8f",
+      "workSha256": "46249a0c3f3176843a7d7a6ab66862095f7474723948965fc0aa0116e500cac9",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_99487277faa8",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_99487277faa8",
+      "entrySha256": "aaace91edd0101c8604d9b5b50beadd315417558844fbf75d75e95da06578710",
+      "worksheetSha256": "478058092903f56fff4c7dcc1f56c044eba4c119124b7e1d254e5166e145e4c4",
+      "workSha256": "0393904c4a5948bed801983053cdbd3fc4325355d54ae9cd53c1579d2ec83a80",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_79bffdb7569e",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_79bffdb7569e",
+      "entrySha256": "b9505029f78322799529cb3a65111ef081e5f3747569cfda8a6ffe5ce0016ce1",
+      "worksheetSha256": "3ecfae0edf5da7178a0da4e6d7b30652ae662a85c1e5734b86214cd97ea663fe",
+      "workSha256": "c4d01fff2b7590a093636cd396924a286c2d8b9de52b1e7c5fbdfbc8a102df46",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_8d0280aec167",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_8d0280aec167",
+      "entrySha256": "0c402813344506b5d039326b4af0d6dad481076cc818ad06b5dd4462bbb10bad",
+      "worksheetSha256": "44dd1f13b92beaba5647c66c47472268e72f7fe50764a570d250f5e708e26ebc",
+      "workSha256": "75de417f3ece9bcb2da1d6699a817cc428852b80ffc33e44e68e716f779e4013",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_6e19388d2ff5",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_6e19388d2ff5",
+      "entrySha256": "98e8601359fe9a6926a7ed5f3066f86e892c97950e93dc0c32fef681777e4200",
+      "worksheetSha256": "1c04f7aa9104a671815340809d464272909914bde50b2527f31596443515a49b",
+      "workSha256": "8ee4b07a446ec8ac430730f39c3eae2dd79c318b3a7725baf767f876bf72b297",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_fb8e99239b56",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_fb8e99239b56",
+      "entrySha256": "5694cd5a0cfe2176a4f065db5106762a73c7af3c562bebb12bbc35e8f8cede53",
+      "worksheetSha256": "423947e84923d7f230c79d3171adb3f0022cca6d91d50b6cee763a0985b2ff19",
+      "workSha256": "8221484dc29ee3d80752c9855b75520868929c05bbe055e935d13a3ec685925e",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_31e21473c908",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_31e21473c908",
+      "entrySha256": "c760ace3dfbf5d95e208b077d78c1834514bc1c3b3899478932cfdbdd5a9b450",
+      "worksheetSha256": "9a0ddfd43402a2fad44d1af86bb9bd6ab59fdaf614127f1072a14f68749b11eb",
+      "workSha256": "9c9c2bdd5c348b34c2e28bc7951c5ee95f6b12eba321e6c4c5a4402879e23221",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_94f0e01d3981",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_94f0e01d3981",
+      "entrySha256": "a49a6ddecd007888b30285f8f0f34a020ad95bd081b76cea6a2573ae177c388d",
+      "worksheetSha256": "207bffc12cd6ee5c9489f209a87f172e75bcf1c6b3a1fce654fda5b84833ec9b",
+      "workSha256": "111a6ea0d8f015706f3585816e3c7c79d6418d29da294af1e9f6c7b74ff0568d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c1455873d360",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c1455873d360",
+      "entrySha256": "549df3b6bcbf6dc6e93a85b4300a85e54816adbe61ccf2cfa87189a9f54b1d44",
+      "worksheetSha256": "eba08f8650794c14239f979ef167e5e19fccf4cb2eca9430de8aee153628df39",
+      "workSha256": "7bf9869525740766a3ac57c7d3acb6f76efa8efb68545f988a7084b70a5a2302",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_1d6664fb87c2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_1d6664fb87c2",
+      "entrySha256": "5a2e1a33a527b0a08ecf3fc28c93e1fade42ee7ac5ea4dcd9b51e40293f59292",
+      "worksheetSha256": "2e9d4d0b89cc35b64ce8201be3868de0114842bbb0460f7b222ffdd496d8878b",
+      "workSha256": "ffa27bdb76f7bb8122b4d55abd83833b8f0642fb27d101c268d0eb1b886c38bd",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_3a5b59f68447",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_3a5b59f68447",
+      "entrySha256": "69cd22abe9e874658d6048dd8642dd92c2be3e69371a02a7bda8ca6a8994fa06",
+      "worksheetSha256": "f225f84f50a51802a1633ecd751eb362c3aa70045bb15d62e9012dd10e962ec6",
+      "workSha256": "c51ac587e601e27b1b554a54535282027ea88d922252ea200fb760f7a888c0c6",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7b7d556d0f35",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7b7d556d0f35",
+      "entrySha256": "0902bb24187122db864fcbac3e6da94b934ebef82272c45f5fd7d3a26a31f84a",
+      "worksheetSha256": "2bebd27cf17eb83fe9a82e2eeb7486992cbcf011553d399f7247dfb2b9c235fe",
+      "workSha256": "a218ac5fb58879ae502fe9f3291b52f5e969d880cefbe9b9a72a66148292ef02",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_abc897c09eeb",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_abc897c09eeb",
+      "entrySha256": "0740255785f422f1e862265b2eee69d67bfb6d630ac95c0ccd20553bab8eed86",
+      "worksheetSha256": "75ab08056aa6171efd1fcb35f30e2e503dd8b3a1f26a52cae25afb45e03a2460",
+      "workSha256": "9fe3daf9d375c7b75cf5911b3899c9b0f344d9de8e26518d3623783562a556f8",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_f1b2b0e4272c",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_f1b2b0e4272c",
+      "entrySha256": "2a023a1f66afc4bef9990b5c7ab068e5a3d8504f91de4095cdde98e4aebabfc1",
+      "worksheetSha256": "dde94b4e94066df942241f22862a2302c0485b38b3003f41b438eec042dcac48",
+      "workSha256": "db411cfad8a198abffc791f48d76ff71c9339b9b46440c915c1386f10a22700b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_50ef9722a8e5",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_50ef9722a8e5",
+      "entrySha256": "7aaeb0e7bcb678dd026bf84674028b3dc6c503e6552ddb6fe57443cfa314cf00",
+      "worksheetSha256": "169c42a337320b5f43890244599b7eef2aedd90b1e578096447e280a93da1b16",
+      "workSha256": "68e708fb8133361a7aecc80c480c30e616192ffc40fdb4d5a6b510eadc2a8d5c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_3eef16e5c6f7",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_3eef16e5c6f7",
+      "entrySha256": "a6d7025fc02576fa361f6dc67ca1f7d861f0062f4dd71311a21a593490d9191a",
+      "worksheetSha256": "77f0faf28ab2f79eeaa737df26198f8d0cc27e279b35d2300457c6f4ac245ee9",
+      "workSha256": "c928a103fc5af439cf280ebeedb05ebe82112af44ee7ec250e3e650a2f6acbd6",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_84b7c0e1cecb",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_84b7c0e1cecb",
+      "entrySha256": "0c783a0049c85054fc0b755e90f244ef934b893607dd02ed76b4fa12976865fd",
+      "worksheetSha256": "44775b60409d445937c465b697c3f62ac72b6491876a8218b1cd6d39fe5421a2",
+      "workSha256": "1cb04b3cb26d34490243d1422cbcf6137bbb0868afcd8d7fa039c36dfe6161e3",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_88aebd267a87",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_88aebd267a87",
+      "entrySha256": "d10f36749cda372c83ca069e3e9621276edb88cb547ea8fdfdaf59fe4ae0dec0",
+      "worksheetSha256": "37966753e3b7b47228a0897ad8c34718c4c9147ba50240d60a312f1bb8398a45",
+      "workSha256": "2158f3f101d43909edc5a1409e92036dc92b2fd0d4f6006c1dc5adbbc2e8faae",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ee3c9f387139",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ee3c9f387139",
+      "entrySha256": "7a98e19141ad5b99dcad1ced6f29902e7700fb6cec53817951faa5b0dec7d20c",
+      "worksheetSha256": "cd152ea3058508684e7ede96ffc1e44c61db151ee2309c50751b3490fe153ecb",
+      "workSha256": "d857a3deb8ac0179e75e2518ef89982755a7b0afa190e629b8e83dd20819f132",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9e7985c6b7b5",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9e7985c6b7b5",
+      "entrySha256": "ddf204d033a2bd92aeac154bbe2fac63002bf4e1eaef5085ee6c88e0b3a4e787",
+      "worksheetSha256": "7618d9ee14fd507ef4fcbd31978e96f64ff83ef991c688ece9da26b2859342ce",
+      "workSha256": "dcd5941a4f162a0b875e3061e145f05c9a4ac2c5083d435b5ade07163da3ef70",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_227807682d8b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_227807682d8b",
+      "entrySha256": "153e697efe4e755184038383cebe6271fe291a63e3627f9709added94ecffd11",
+      "worksheetSha256": "112ccb709ece97d54316efabf120877211e548b7a264178738829208ab2ef7ab",
+      "workSha256": "f227f5225da2487b56b356fa3b837d68d3bc08a6c0a685cce14cb678296cc5d7",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_f7a50473b372",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_f7a50473b372",
+      "entrySha256": "229b41ee4a9363263d68fe6b27e97018c866f599cbba9440cb6a932d841da310",
+      "worksheetSha256": "b59fc51212a403a6a1f33f0c0d5b21c17ced3c976c9783132de245aca0be15dd",
+      "workSha256": "4928372ae19b02cfdd469470234be5d89e5c70c9256729a461c8fd88e5c4ce7c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_73d682d24270",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_73d682d24270",
+      "entrySha256": "7ae7b1013b7ab6a3a91732180cf17ab422ecbc3a4b92c399c4b41579fe257383",
+      "worksheetSha256": "aed04f753cf426282e68deb7e6068c4351fe2817d72fe52d93e45ee92c9e5182",
+      "workSha256": "efa56bf9d3f4e8ce5b1ec4dae12aea373b9e42768522727d659306acb8b6a350",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d75a96fde4f6",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d75a96fde4f6",
+      "entrySha256": "f76bd3e7273d633d29fa64244af5c081b9a5ae824c8d31660a5c742ae8e38651",
+      "worksheetSha256": "930b8bfeaa8f7b67fd4207ed015a9d4cb20f4241b7abfb7f057ca60da0ab2935",
+      "workSha256": "30c89c7a48168c7af9685e747d400a9f7e2582394cd6d4ebece1d641e7e0c9ab",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_66904aefd6d1",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_66904aefd6d1",
+      "entrySha256": "cfa86656be7e26005e9d394a1077ca02b9f79202310b1e2f1fc048d468b61128",
+      "worksheetSha256": "3bcd39798a29da62e0da8c6c37495c3e2debf6c55688b31ba8303bdb0b7e3fab",
+      "workSha256": "64c6f828d20fe2831a91f7bb76e09e2f8f43324640e714f16caf39b20e5d1d22",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ec53f0a532ac",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ec53f0a532ac",
+      "entrySha256": "fb90e98995ccfc13fc43f2d26568f30f5051b26446a7f41f534e1790a230ba82",
+      "worksheetSha256": "5ac732fba5b09c5a3598bdf222d2e48d9cea658581e70426f42055c19ac66666",
+      "workSha256": "be620beccf5d948b445b71db7f229efd9a146331d9a4b1ad399bba7533f4be9d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_e09f05b88790",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_e09f05b88790",
+      "entrySha256": "bf1a99533777f506a5bec39ec56d89daf96061fb571f5138bec7fecc71e8c413",
+      "worksheetSha256": "b957d9ce7e714edda5d7df199bceeb286ea457901c08c8bdfce9e4480e7bd115",
+      "workSha256": "98e4f0a4dacb92261c04ad4addf959812fbe482bf254687222c2b48cd8a744d7",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_bd974f8b9ce0",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_bd974f8b9ce0",
+      "entrySha256": "21f368a658680a029576ab47acc395f7176824e93c0f2f71bbe484eec142ded3",
+      "worksheetSha256": "d432748de98b1bf3eae539bf85f97588ccb6743c798a66272140f2c6cc69e317",
+      "workSha256": "e0f28168254736538e859fe1316cb07f55502ea7fdb332b73cf0792153281567",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4273d9a5f9f9",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4273d9a5f9f9",
+      "entrySha256": "fcbbc375f563a1f1a5c9e8297a261e116ac8c1f617874d4ac8b2e62086760e10",
+      "worksheetSha256": "81f84ebe3f68484e2cbeaeaa9b81465ca9c3d9c69f60f1c39594d843b14000e0",
+      "workSha256": "74554a096b56562173d5ad60b3e32d4e63dba3a4dbcacf5eacf9f691306c454b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c49f5359659d",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c49f5359659d",
+      "entrySha256": "a6b53ddfe18e55285922b24caa27ff056cecd8959dc5c458fd8a61077e5c7219",
+      "worksheetSha256": "531f7694a8c3d5c2d3fac49c17fdeef4e69e0ff11b84fb294d45f3fedc14bd6e",
+      "workSha256": "99a72f86a6d784a9439d0a5fc3729b73c7816178505c317a38009f3f0587afb4",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_fa19943ea8bf",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_fa19943ea8bf",
+      "entrySha256": "dccac8796009ec7854885027eb7263fa176356d098ea37fb302a856013e1bd85",
+      "worksheetSha256": "6c977554651b6c98036ba11d72e19422c6cf1c983766a6b490bf3f8b83e88b2d",
+      "workSha256": "2d36f969cb2f1ccf9bc4bdf3552e46715c46d994e7c887a025dcc7e7de16bcf0",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_b643bfb52bc2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_b643bfb52bc2",
+      "entrySha256": "a969623738f87a775d44b43a509543dce9d18936f0d56226e4dd3d1c5ea7641d",
+      "worksheetSha256": "34db52a9a369da87198e00795d23b4857801801b694b8d288c56fb8a655b90bb",
+      "workSha256": "bec073da1a1eeb7be8b7db8fbdb4548d5a8875a81c5dd865c3d1986a9ae7412d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_188663bbf443",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_188663bbf443",
+      "entrySha256": "14daae94b5e1c4bbc6bc596e8ec56b2855f2b6201c57cf04c1763728d0f15e4d",
+      "worksheetSha256": "242a62c6678ea1ea001e563059315a9217d590aa13bc64ce3f65faa70552d710",
+      "workSha256": "036c187680b12f1cb8edc665b41efd8a0de2a3133b3d337d6f8c006a73e57d6c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_941de15fd4f2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_941de15fd4f2",
+      "entrySha256": "5207ff514b31cec23f805eb11c3f766b3097db3fd50fcb6821a5d91d69bb8b4c",
+      "worksheetSha256": "fa0ed318c73c4bd8dc0eeee63522493fbb0b3ddc695366ae0ce4970d6e9af546",
+      "workSha256": "63412329b2a495b004dd36eb8ea05c14f63b4acbd51cc21f6fef6b7cffb4695b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_8ef52c882bb4",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_8ef52c882bb4",
+      "entrySha256": "5b933909bb0dbdf72ace5bf59d748f9b3949ba157d0a6c367f778c9aa8907b46",
+      "worksheetSha256": "3ef7abf11a1086c1fa1132919194b7fde9d929104758cb1ee51a5849cc8fbfd8",
+      "workSha256": "a3eb8ff901ad88535a9215216f8c71e3bd3648388173a773d4c16dec18690237",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ac5585fec9e6",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ac5585fec9e6",
+      "entrySha256": "7985dc1aad28fcf05067175b510a358f804a8c26677a7e4cda182c79acbc7472",
+      "worksheetSha256": "1490024b709e35cbee777561c03b6bce38b98f7ee9b4d2f99232081be84e3310",
+      "workSha256": "dd9c27ebcaa460a39cac06099b22ec786f9926ae47b5c05eae30f7a0b5155b93",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_860a9cacd5a6",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_860a9cacd5a6",
+      "entrySha256": "606eb6e5f2baaf3bf4d83d6e13758f5f1f2bf1a900e10d38fffc7902c46fa6d3",
+      "worksheetSha256": "d78c75935fec4e963836144884527675d1b6370b63d52140d74e26884a9052f8",
+      "workSha256": "e15e605fad618bd98e523eb7cc046fec11bd2e0c12a1b6dd0d8bdbddcfc70fe3",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c760c93c7876",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c760c93c7876",
+      "entrySha256": "025e3a19464e90302884566baae6e8a1a75bf7bba30dd844b6bfe23cf02a5122",
+      "worksheetSha256": "a207e78e3d37ddacac5305bc63f9ccd2b6463c5e67db3b6cbddab26d535fbf0d",
+      "workSha256": "260c538a8f423b2d6da128a690f9ea50085a8ec6e52e50b1206dbf659a44b873",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_db20bbbfc7a1",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_db20bbbfc7a1",
+      "entrySha256": "b9db563e5d7525bd6e5b3af45bdde4a3feeed0db6dff5c85f0dc7ad52c5de6e5",
+      "worksheetSha256": "5f265a59a42c897708806893d8e879e0255cd191ea44e104d3228b3976bad5af",
+      "workSha256": "b390094ca9ffa2b2784e9e0983c77753d904770bc7b4767c52f009f04f4d6866",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_58590b52f7a9",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_58590b52f7a9",
+      "entrySha256": "7ff4ab2b68ad86a221bceaaafaa965dcf7f3be52742cec01a49037f4a5732233",
+      "worksheetSha256": "6f27a7fbebe0e3fc48701986badf71a79b81a182ec6a48c72b68b38c44c3ce8b",
+      "workSha256": "78e357be73ac9e0b10880382c877b6e782dffb5171e939e81e9e6c9503651920",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d89d99831a1b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d89d99831a1b",
+      "entrySha256": "49c8a83be314ea9884d23a3cd5c92b0ce9e2003858b40feec9b2a5d3595d193b",
+      "worksheetSha256": "3e3860f01e4df88d1f4a0ab67f9303068a3f2d6f0a692f1bb61c008a92ddf7fe",
+      "workSha256": "d146bd4a0f672e96a49a1dbcf78a18efaf6adfc6f8eb4aee7c6dc0050a2761f4",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d7c1ebcffe3f",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d7c1ebcffe3f",
+      "entrySha256": "99f3863c879505eb2bd912d5c90ec00c1d5e93b5682cb5ea4e8f61f513ee0c94",
+      "worksheetSha256": "9706a2a900204ba0e56c5dd2d82095b02681f34192f934c2b398d213dc2a7132",
+      "workSha256": "5e422ed523b398dfe1438e098fba70435bbe6555e73595fcf6a14e3e4642587b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_35a90a9e8398",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_35a90a9e8398",
+      "entrySha256": "a9a4019c2c6f58d3bcabb334e3500703d7d8f2364d2f0e2a4597309d0abf137c",
+      "worksheetSha256": "f303912fcbf5ac53133e08f1d47a541b29a211093d308d3296ed56d110ca5695",
+      "workSha256": "15e644bf02c4bf46f7362345cd274d4e489678d6f9bb4836c1d72c7663e50da9",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9f92fbf68c3a",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9f92fbf68c3a",
+      "entrySha256": "c69e03bb1822cd028e81dd8e0b619addfcb0c9d283982eb338c0a0eb06a0ca70",
+      "worksheetSha256": "c773cd75cd0520a17c175a2464469d81eed28123342feb4887a3752874b61970",
+      "workSha256": "df944a55e6e8b59be245307c11969ef470523e37a8c315c385fdb88257a797b6",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d22e8032eea9",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d22e8032eea9",
+      "entrySha256": "25ccc6cbcf5becff32111cc28b7a303be5f1a5f03f7db481b9f8f248fa17b5ba",
+      "worksheetSha256": "c05d15bf6b36338d9ce644965e05770df78dbf19fcdb6ed1e9dc130b79749803",
+      "workSha256": "f32a29a073ce896eb63020adb6aa01b846428cc96f6e52eb436263d39d8904a7",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_acc78fd1f53b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_acc78fd1f53b",
+      "entrySha256": "a5f4aeb93ff1a5cc342daef7e305a206606e248409ea889777c110c52121274d",
+      "worksheetSha256": "4df5367a902429643ea266c939cbaa8fd05dcd20d857c7dc6089c4136e62a4c3",
+      "workSha256": "f95200cbdf5ad1c4fedc56a8753690166044a54341c0739ed3caa50de06cb231",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9bf9e69c96ef",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9bf9e69c96ef",
+      "entrySha256": "291402549c1de7872acd50ce7ed063e198603de9926f8820e6addefdb36c11fc",
+      "worksheetSha256": "0e53ffe21bb7686e5cc66aa9bbef1370a9e548460a7d73bcca20c7534063f21e",
+      "workSha256": "e61f438e6c362619c721ced97205db01cd325ff4f2130d0220631ece9817634d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_e07ccd7380b2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_e07ccd7380b2",
+      "entrySha256": "4b400f87b5bdda3d7fbb06c1d8edaf92614c6ee1e0f4cf1e553b591b8c4c7b91",
+      "worksheetSha256": "1e4613dbb3817fd9b472f0973588ce0e7b5ffe8f014f77beb39f7d1d4f4c62cb",
+      "workSha256": "363f63895501b1163e2608e7653c7ea15c29c519a08272b408af02b3de1cbe98",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_b2ebbfc277e3",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_b2ebbfc277e3",
+      "entrySha256": "8745854fba924b5b4a5f6ae2900b19fdd2c132157eb6667f80e352298560d6e1",
+      "worksheetSha256": "0914cc511a94103fd831ad2b045f9eb3a43103b279a6c5fd19ac788fe64fb726",
+      "workSha256": "f85fa587ec16693cf1be78f3b0f0f068745718540c18be04d5e1f0f1e0a58f25",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c4b2c1ab34eb",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c4b2c1ab34eb",
+      "entrySha256": "9d981679e62ca7f57cb08d7971cb286da28d22353e9fe63b20cf59394f8b5c1e",
+      "worksheetSha256": "edf45727d4cdd9c91fdd2c15dabbc63ee8c9fd6d162a16d57aebce74e5c66929",
+      "workSha256": "76a1e5d3d7d286318e588f63dcc9d912da91ea0b2b7b06e29fbe67e07c9a1c69",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_cd938a7bbd37",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_cd938a7bbd37",
+      "entrySha256": "6d1f9a1996619de7ce4d998275b6f12f1b6acc7aeeda7c54009465b123d078fb",
+      "worksheetSha256": "974530949cca8e2a176482e1af2fb15ba3795d1973e739f20a6b35286f1e23e0",
+      "workSha256": "8288e21ba90e16910f22d16a98cf8fbbc419cd289ba686e2d2fcdd2cf51e02ae",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c6f57aaec963",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c6f57aaec963",
+      "entrySha256": "9888d4cfb91c1a58989d6dfc45b69d2329ed683e877f84ec3d56aecacf801029",
+      "worksheetSha256": "3e31cbd336566dc1560ab82dbc5b215cd1d2728d5eaf5e71854ea2d64a855f6a",
+      "workSha256": "cf6f4c39b5a26f617fc6ec16985117e432b0f725349a1a0dc94b640195899cdb",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_b1dde7371854",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_b1dde7371854",
+      "entrySha256": "4a260f9cb0c03d1411cda31d55dc6d41f2ef5a044c8b9a0ac6a6f12c8088ed9f",
+      "worksheetSha256": "fdfca4f68d2d6cf4a4c096dd0d7c66285fc150536bdc311832bf2b3634982ce3",
+      "workSha256": "959bee51073bce4bd497e53dc1f3a31fa40170dd21a8874e6e3aed393d6b601e",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_045701f63adb",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_045701f63adb",
+      "entrySha256": "ed7ba548806ba4f2bf16e889e66a867bdeffd3e99c8546c8b5a28b7e58439d19",
+      "worksheetSha256": "f2b9326d63c507ef0aa367984e6bd056f40dfc7d3f8f5c8bda3fba16cb0adff2",
+      "workSha256": "ec997303a7f3ceffea75c658c7e5e195508014fb3a005d0df88ab77a89c12238",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_923437fe8834",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_923437fe8834",
+      "entrySha256": "9d3ba6d9240d7a38de5a5bcb27a30907dc1d4328e469cd0e6708bbf328599ac7",
+      "worksheetSha256": "59cb89891f31e7a06c2a83f3e792736292027dff95e6e6004b17cae9b80cb768",
+      "workSha256": "c0b0f45fd4f60f5359c91d542aeb9a06698318a8da34b9a283b3e2c07fc4b405",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ca6ec8f2e847",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ca6ec8f2e847",
+      "entrySha256": "23f9bf2b85cad43fe00bd83ba467b4c01c4fd0a3422dbf602399a9705a847a21",
+      "worksheetSha256": "d1e182cf60d36b454fc14875b4f3eaa5d8e4a96cf353193f67281b9bc93b007c",
+      "workSha256": "eeac56e286299af8b0f8c28d7a69626fe08171a9cc852dd85523873c600ab891",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_697c1b5ea8bf",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_697c1b5ea8bf",
+      "entrySha256": "66b5a6d5ee29ae2be02bc5b4f84d1b8ce91b2a9e17dc37947fdb551d334baa69",
+      "worksheetSha256": "4e8a2948e5bc8ab232a2e3fbd6b51b0a1b7ce18eb98d584b0d692564760e44c8",
+      "workSha256": "fd3d473b06f0fbe9966cefb85766b8e63310cc4b70d75b5bbec43723a12dbfe0",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_18c58e69a6d2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_18c58e69a6d2",
+      "entrySha256": "34c26bb1da02bd18b24de00921d0e7bae39c900ca4d29c86f5db63d143ab2047",
+      "worksheetSha256": "2df6ee2b0cfe21f6b7f0088f873471722432c7f83fb985a0228582a4c2cdcd38",
+      "workSha256": "c99131a800ad9e933ded618a31ae6c7a53683581b839246fc287ff0adfb07488",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_c21697c9ac62",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_c21697c9ac62",
+      "entrySha256": "92c25a1e578eb08e891b9974458a78143df83b1dd387ea6019ad9dd63739b30a",
+      "worksheetSha256": "ee85b553dea13b91bb5d347c770b705ab355a5830ac1e24d0cd884b0f9b261dd",
+      "workSha256": "2de65dd1957bc20dd8b4fb33bd9165d3285419d0a8407e2813549987cd42ca9c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_19dbbef1a559",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_19dbbef1a559",
+      "entrySha256": "5005afbc648773cefc607381d40543fca440d582d18ebf4a4eed2c8561cd56df",
+      "worksheetSha256": "35db8195cd8a0e07d3c065ec350196e3e7b8d9a2c4361083823aa976d917c0c2",
+      "workSha256": "1602536e028c197f4b1c9c65dab1030734fcadc645093e659ad460151204713c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_683a637cf1bd",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_683a637cf1bd",
+      "entrySha256": "08deb2afc3f3493e1573b9025c8ba9d27c5df7c713dab0aabba23fffc231d1db",
+      "worksheetSha256": "d75ce3e49752d6d260322b9a2e48515e7da19530f537105ab000994e97360878",
+      "workSha256": "9d93d2a58c345cd86cab5c1a5ddc020971ec708a04dfbd26991921b45eb9ea5c",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_4b6306c2314b",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_4b6306c2314b",
+      "entrySha256": "4125df84fb8bb85734580dec9fd8442429d35dd8b340eac7690767160a202ecb",
+      "worksheetSha256": "a7f47ee66fe3ad70d9296a57d207ed83ddc804c3d0c1be20a9b177bf42efab52",
+      "workSha256": "93c471aaef3362dc902993b993f2b6a90f54668f565df834b0d4c4d483c126b6",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_8e9fe57f1181",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_8e9fe57f1181",
+      "entrySha256": "502e29f5d8bed874cf88f2024c25cb3d1711d8e18ef558b6f1cad6f9d96cda66",
+      "worksheetSha256": "3f21509f5b6458fdbaaef586f175d8b6b3ee16ac8534b360a4efce030a7cbe88",
+      "workSha256": "91b58b899f6a600c86e077d227a89671ddea570627053f84c3c36f7ac1045bc8",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_fa6f30cfbb75",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_fa6f30cfbb75",
+      "entrySha256": "2fb0809e78addc911b7b29fb68d3ba10cc6708de8cd180e79028bd434f96320d",
+      "worksheetSha256": "39aaf18643a588a07f811bd46d0853d02c107ec48b4e3871e7c7cfb8e5cf7030",
+      "workSha256": "6c52e65a2ad7c7b81e6087a4a25d69336684cda38253ae153758308c7de1306a",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7c95e60eb812",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7c95e60eb812",
+      "entrySha256": "d68ffd69861e3c0267ad109174369615f53e274f3d81241a82859a22cd6684b4",
+      "worksheetSha256": "fe13a6f957038903b2452a373acd55bc410ca15a99ecc1d810d08ffcdb142e9f",
+      "workSha256": "29489b3f75b1b39c087daf474ade467e16949ec9235275da7aa9bd708a7bffcf",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_a7f67301c916",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_a7f67301c916",
+      "entrySha256": "940551fd242bf2aa72dd6804d10e0c2e2e85de56fe556fda8e71a3c7b60115bb",
+      "worksheetSha256": "4d614ce0727ab7d68d47d360b9dfc6332c9c4e63e683f493e8b76a66a8a81334",
+      "workSha256": "a9abdaf4198b4ff2e742943f00f92bee31b5989e7eb9b1290281713758e830c0",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ab3d63035bb2",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ab3d63035bb2",
+      "entrySha256": "b46415540959f21df02c3385fed56d9ecb44e43e21d11fe25a69050a633cfa1d",
+      "worksheetSha256": "005c7275bed702c9d1bc9c2c1ea3a7ef9e13244b22b319b46ae26950acb87b1d",
+      "workSha256": "8d06fd36528356afa1d858212fbed1c83a3ab71f23483358fe135483073c2033",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_07a254db5e10",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_07a254db5e10",
+      "entrySha256": "5e3fa7eecb15a1d4183d37863d1d54ef303c3f1dcf0173f84ad5780d14c2a990",
+      "worksheetSha256": "8c48a079097710f9c4ea29744ae923429f0add1b738d9b8cab600b8e3f097e0c",
+      "workSha256": "5ff59b6ca9a9064e86a587480581fe3e88463e4cff5685bea30c686fd3de72ee",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_8ef7b96ea753",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_8ef7b96ea753",
+      "entrySha256": "f1eabe72bd89178b4f8e912148290a5c560cc6f20daa2b82bb96504af9a89443",
+      "worksheetSha256": "b0ab57b6da801b572db337c3e9be785f8995a2365cb0eb1a014becc8197adfda",
+      "workSha256": "d4f1e5d4e92f4d8020e700468dec27790fe1726ed1dfe42e27df9902aad29e37",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_ca67d19dc571",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_ca67d19dc571",
+      "entrySha256": "f257286bdd5dbb72f529cf8a7f19eeaf4c47c44561201fd6a96ea0967bf25c3d",
+      "worksheetSha256": "2d17ca43df92dd204ae1e7c423814a394af2823d749fec1e290d90a63f53f2f1",
+      "workSha256": "4508c40a66aa50c2f550147473da684f2741d6dd6e635de94a127dc561099d74",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_1e1f18e92f60",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_1e1f18e92f60",
+      "entrySha256": "3b2d75cead341c894dd44f273d0d84489a4742974dfaa13a472516dd98642d01",
+      "worksheetSha256": "bf8ff1b4d9e44734a162ac6e47e7649c6b1a1f0bef93e92965cecd079d49708d",
+      "workSha256": "d921f62bad6e9a60d40e5b8cdc3d1c0d24fc1ebb1d4a3df2f0dc29a2ed742327",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_461d7a88c44f",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_461d7a88c44f",
+      "entrySha256": "dd51b470c6043f1ec6f60f65be4257d19d9306c01a3bb5cb99ca50afe9f64312",
+      "worksheetSha256": "fe82c9c952b82416f5b381a864760417a25da3027c8d7ab4b73cfc71015a0dde",
+      "workSha256": "84187e35eb983426d2cbbc14b4e7e5614d1a5caa896c21c7ae7502b3436360a2",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_08e93da601c7",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_08e93da601c7",
+      "entrySha256": "45193cce39ab7a6f536f52afb99570e2064c2cb4463621404e3af15b6513a7a7",
+      "worksheetSha256": "875fe8d428306006b8d53a516c3f51fb49d997ab465f2514cd2a61ec528fb1bb",
+      "workSha256": "ef85827b6602a5a3d4aeab006e2fa633bb5ebbc7be06b0cfa53a21812939601f",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_934dfc88a138",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_934dfc88a138",
+      "entrySha256": "172bd780d47f752c3b2a1d8a5b68994278b92d517d02fe30405efa18cf9d3130",
+      "worksheetSha256": "6a44d83506a6dfc97ba62e3e2ee1b0007e0c474c167dc53422f6959b32614b14",
+      "workSha256": "6ca34093ea6f5691492721488185602b8df1b728f686348039fe88f6993803bd",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_abc42ddbddde",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_abc42ddbddde",
+      "entrySha256": "e680e6650bca9032109ecf3a61d8b6e0a74060af022f82378337fecd07d2e3c6",
+      "worksheetSha256": "4ab36eef87c85d17445b037f32094a84aff8f40bf187bf54e61fee82685bc030",
+      "workSha256": "a95df23d88d0d6e9a633edace2833249253dab0639f95fa53e3f8f5273cb8190",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d92343db873a",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d92343db873a",
+      "entrySha256": "c154a6fef3a0cfa05fa1dff5c86f90d9599824f63d842436cce4fee17faf7e31",
+      "worksheetSha256": "11786b690a63a9883f6175da5f5f397dfeeb0af47baec6eab7ca1b3088b5daa9",
+      "workSha256": "7e1e3a034db5713b80ab256a146b92b8122065f9f024c25e46a4e0ae6226753d",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_5b7a965f8823",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_5b7a965f8823",
+      "entrySha256": "e0ee2e8f5152863d15398f15d14dca908afec6232cd40cb57b9fbc1a8bfdce10",
+      "worksheetSha256": "0e641f91c73bce3bc41b6725f8bd72f6431e05542fc7e4df3cd67ca60e185506",
+      "workSha256": "5ab9006aa942dcd61cbe917061731bc73504f1955b56f6c8c9390b356feac958",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_7a9db63069b9",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_7a9db63069b9",
+      "entrySha256": "60a56364592a53f64e72787a66076c12b7aa069d9e9f14ec830808932640ca90",
+      "worksheetSha256": "fa08c864c4ede60dd8a7d539666abf3107f9abf081847af30caebfc9a51da856",
+      "workSha256": "25936a61509e59f389794149f51a0ad193fb903fb967bb7d99073606546fbd2a",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_df4246f8b540",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_df4246f8b540",
+      "entrySha256": "7347d53aac6e13e4685809d982b27e74b9ca0ae2a576f34bc3e71badfee20d61",
+      "worksheetSha256": "19822b68002d56300c246995370dadfc3cd1ab0fda16368a70e8f752e3a66868",
+      "workSha256": "5dd64716adb2b7fdccfe132de0f80d38427126492d3eae04e436df589460d9ed",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_d4cc96a3da65",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_d4cc96a3da65",
+      "entrySha256": "2a89e4e4015d6d410e71ec9050f32398784ae5874d4412a83d10c230b3ece976",
+      "worksheetSha256": "e67988f53cd8f146345eb3610233540e40f32ba882da5e5aabd77d4db40ab55c",
+      "workSha256": "dcb041247e8ee4f3f0de31403f23d5637c422a070f6e06efa58e2e8776a6c483",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_f8983e4cb440",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_f8983e4cb440",
+      "entrySha256": "a58944481990d753d5a1286543723d71f60c81d7af62f5b4cf215c350f23c28e",
+      "worksheetSha256": "837342ab152d23a101c1e31ed02b0da074d86ac30d1ba27d8030056528ed2213",
+      "workSha256": "06b8c8ad807d4389752e16abe858cc43e53459a90b99c181db2b15f2c5397607",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_3bb8b52d7bc4",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_3bb8b52d7bc4",
+      "entrySha256": "3bdc462be5ea894f525b5d136c7fabf191cb2ffe99279cd6663add3e3930b27d",
+      "worksheetSha256": "a25adce7d4eee0b2beae73c1f61bc4ff4b481fb0b07cd55f9b8089fbd215f111",
+      "workSha256": "9302472554f1ccce6361bc9b42a7482ceb1173ffa3eb997148c1879241852043",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_9fa373259db6",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_9fa373259db6",
+      "entrySha256": "cc063925584a36050da8b6faa5d23f9ca499dd2aa86b47cc46eccc832d579cf0",
+      "worksheetSha256": "5b2546fe4958177d3c7f93a2ba3734e63d61720c2da53f8f073b6663d6ac4041",
+      "workSha256": "58664e7987e4b3d07ab7610061609d17b5bd646f7a283b4fac9f140ce90d046b",
+      "termsMode": "create"
+    },
+    {
+      "id": "t_2fa173f10312",
+      "sourceDir": "fresh-build/fresh10k-r8/products/t_2fa173f10312",
+      "entrySha256": "98dcf08897f711a942327c2690f623f78c500e68b706fca2a9a9613f34abcfdd",
+      "worksheetSha256": "1890275bf9aaf7a95dabed47b89255193cab02fec73fc13547bd95ddf21e101f",
+      "workSha256": "5f07a58d02480ca701baeb72f467e8afb12789b079469cc02b1706d97a0b9826",
+      "termsMode": "create"
+    }
+  ],
+  "roster": {
+    "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/Assets/Data/lineage-masters.json",
+    "sha256": "bdee500537cffced1759f28f2516d8ac613f2d10e3bbdc7b4d35da6bb9bc474a"
+  },
+  "node": {
+    "windowsNodeExe": "/mnt/c/Program Files/nodejs/node.exe",
+    "script": {
+      "path": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator/eng/tools/merge-dict-entries.js",
+      "sha256": "83e7df825338b11652786541941610a7501b4ad288524846d145ae9e7a912d35"
+    },
+    "cwd": "/mnt/c/programmieren/MergeWorkCbeta/CBETA-Translator",
+    "status": "fresh10k-r8-ready"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Id": "t_2fa173f10312",
+  "SourceTerm": "恁麼也不得，不恁麼也不得，恁麼不恁麼總不得",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:56:05Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "thus it may not be, not-thus it may not be, thus and not-thus together — all may not be",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "neither this nor that nor both",
+        "not allowed thus, not allowed not-thus",
+        "the three-fold refusal"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 130 hits in 70 files representing 68 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1390.xml",
+          "FromLb": "0456a02",
+          "ToLb": "0456a10",
+          "Kwic": "舉：石頭因藥山問：三乘十二分教，某甲粗知。常聞南方直指人心，見性成佛，實未明了。望和尚慈悲指示。頭云：恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。汝作麼生會？山佇思。頭云：子因緣不在此，江西見馬大師去。山至祖處，復如前問。祖云：我有時教伊揚眉瞬目是，有時教伊揚眉瞬目不是。",
+          "MasterName": "Xisou Shaotan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xisou Shaotan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1390.xml). Expanded Record of Chan Master Xisou Shaotan. Xisou Shaotan owns the retained deployment: raises the source whole — Yaoshan's question, Shitou's triple refusal, Yaoshan standing lost, and the sending on to Master Ma in Jiangxi."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0249c23",
+          "ToLb": "0250a08",
+          "Kwic": "正恁麼時，文殊三處度夏即不問，至諸佛集處，因甚出女人定不得？小處多官府，空山有鬼神。結夏，小參。集方儲藥，病者愈多；剖㪷折衡，爭端益盛。恁麼也不得，不恁麼也不得，恁麼不恁麼總不得，然後徑山與諸人向沒交涉處同此受用、同此安居，忘彼忘此，非實非虗，二時粥飯氣力麤，試問諸人會也無？除夜，小參。舊歲即新歲，新年即舊年，要知新歲歲，元是舊年年。",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: spends it on the summer retreat — herbs gathered, the sick multiply; bushel split, scale broken, disputes grow — and only after the triple refusal does Jingzhan share the enjoyment at the place of no connection, forgetting this and that, neither real nor empty."
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0125c18",
+          "ToLb": "0125c23",
+          "Kwic": "若據本分相見，眨上眉毛，蹉過久矣。且如釋迦掩室，已涉繁詞；居士默然，囊錐已露。須信道：恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。若向箇裏轉得過來，便乃拽轉祖師鼻孔，不歷古佛階梯，向函蓋乾坤處隨波逐浪，向隨波逐浪處却能截斷眾流。然雖如是，且道：舉一明三一句作麼生道？",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained deployment: at the patron's lecture — Shakyamuni shutting his room already wades in words, Vimalakirti's silence has shown the awl — trust the triple refusal, turn inside it, drag the patriarch's nostril back, skip the ancient buddha's stairs."
+        },
+        {
+          "RelPath": "X/X72/X72n1432.xml",
+          "FromLb": "0195a16",
+          "ToLb": "0195a23",
+          "Kwic": "小參心有一法，在處不安；心無一法，未免顢頇。有無心不著，畢竟是何端？江山礙眼情非瞥，心境居胸識未乾。故恁麼也不得，不恁麼也不得，恁麼不恁麼總不得，透過三句外，自然與佛無差，橫行也得，直行也得，無能攔攩，殺也不怕，活也不怕，豈解傷鋒？為伊有通霄路徑，行於鳥道，何處覔蹤？繇似幻人，把捉伊不住，佛祖尚不柰何，況天堂地獄耶？",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1432.xml). Recorded Sayings of Chan Master Wuming Huijing. Wuming Huijing owns the retained deployment: prices the passage at the small sitting — the mind holding one law uneasy everywhere, the mind with no law muddling on — pass beyond the three sentences and walk sideways or straight, killing does not scare, living does not scare."
+        },
+        {
+          "RelPath": "J/J38/J38nB409.xml",
+          "FromLb": "0288a20",
+          "ToLb": "0288a29",
+          "Kwic": "』若是跳盪兒郎，疋馬單刀向百萬軍中將者插草標兒底一刀兩段，我者裏擂鼓三通，不枉平生志氣。然雖如此，不是說到者裏便休。且道如何即是？忽有箇出來道：『恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。』卻向道：『你也說到者裏便休。』」下座。上堂。「一喝分賓主，照用一時行，要識箇中意，日午打三更。若只懸羊頭、賣狗肉，達磨一宗掃地而盡。且作麼生委悉？蟻子慣從腥處走，蒼蠅偏向奧邊飛，不妨昧卻水老鶴，何苦明他諸佛機？",
+          "MasterName": "Danxia Tianran",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB409.xml). Recorded Sayings of Chan Master Dangui of Danxia. Danxia Tianran owns the retained deployment: sets a questioner in his own hall to say the triple — and answers him: you too will stop at saying it here."
+        },
+        {
+          "RelPath": "J/J38/J38nB432.xml",
+          "FromLb": "0986c15",
+          "ToLb": "0986c22",
+          "Kwic": "然雖如是，此段靈機，聖賢若知，即同凡夫；凡夫若會，即是聖賢。何也？有名呼不得，無位可安排，團圞無縫罅，恁麼也不得，不恁麼也不得，恁麼不恁麼總不得。大眾且道，正恁麼時如何？若道得，不枉常檀越夫婦攜男元白來山營齋供佛飯僧，請山埜陞座露布葛藤，直得透頂徹底，搜括將來，本無一個元字腳；若或未然，不得辜負信心。還委悉麼？意氣不從天地得，靈苗豈被四時催。",
+          "MasterName": "Huanzhu Ming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanzhu Ming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB432.xml). Recorded Sayings of Chan Master Huanzhuming. Huanzhu Ming owns the retained deployment: rounds it seamless — no name to call it by, no seat to set it in, round with no crack — and asks the assembly: what about right at such a time?."
+        }
+      ],
+      "SourceTexts": [
+        "X/X70/X70n1390.xml",
+        "X/X70/X70n1382.xml",
+        "X/X73/X73n1451.xml",
+        "X/X72/X72n1432.xml",
+        "J/J38/J38nB409.xml",
+        "J/J38/J38nB432.xml"
+      ],
+      "RelatedMasters": [
+        "Xisou Shaotan",
+        "Wuzhun Shifan",
+        "Cishou Huaishen",
+        "Wuming Huijing",
+        "Danxia Tianran",
+        "Huanzhu Ming"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Yaoshan brings Shitou his question — the three vehicles I roughly know, the southern direct pointing is still unclear — and Shitou closes every exit: thus it may not be, not-thus it may not be, thus and not-thus together, all may not be. How do you understand it? Yaoshan stands thinking; your conditions are not here — go to Jiangxi and see Master Ma. The closing of exits: Xisou Shaotan raises the source whole — the three vehicles and twelve divisions roughly known, the southern pointing at mind still unlit — Shitou answers with the triple refusal, asks how he takes it, sees him standing lost, and sends him on to Master Ma; Wuzhun Shifan spends it on the summer retreat — gathering herbs by the square, the sick only multiply; splitting the bushel, breaking the scale, disputes grow — and only after the triple refusal does Jingzhan share the enjoyment at the place of no connection: dwelling together, forgetting this and forgetting that, neither real nor empty, the two gruels giving coarse strength — do you understand?; Cishou Huaishen at the patron's lecture — Shakyamuni shutting his room already wades in words, Vimalakirti's silence has already shown the awl — you must trust the triple refusal: turn around inside it and you drag the patriarch's nostril back, skipping the ancient buddha's stairs. The price of passing: Wuming Huijing prices the passage — the mind holding one law is uneasy everywhere; the mind with no law still muddles on; set on neither — what is it after all? Hence the triple refusal: pass beyond the three sentences and you are naturally no different from a buddha — walk sideways or straight, none can block you, killing does not scare you, living does not scare you; Danxia Tianran sets a questioner in his own hall to say the triple — and answers him: you too will stop at saying it here; Huanzhu Ming rounds it seamless — if sages know it they match commoners, if commoners get it they are sages: no name to call it by, no seat to set it in, round with no crack — the triple refusal, and what about right at such a time?"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "Id": "t_66904aefd6d1",
+  "SourceTerm": "不得動著",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:00:14Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "do not touch it",
+      "AlternateTargets": [
+        "don't set it moving"
+      ],
+      "SearchAliases": [
+        "leave it untouched",
+        "do not stir it",
+        "hands off the thing at hand"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 303 hits in 127 files representing 124 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0058a04",
+          "ToLb": "0058a20",
+          "Kwic": "：如斯問答，還他南泉父子遞相讚仰，也須妙喜雲峰。開先又作麼生？昨夜三更月到牕，雲峰妙喜兩窺光。如今欲識山前事，且去襄陽問老龐。洞山瑩云：雲峰看樓打樓，徑山因孔著楔，若約衲僧眼目，敢保俱未夢見。且道洞山有甚長處？良久，云：獅子不食鵰殘，俊鷹不打死兔。南泉問維那：今日普請作甚麼？那曰：拽磨。泉曰：磨從你拽，不得動著磨中心樹子。那無語。保福展代僧云：比來拽磨，如今却不拽。法眼益代僧云：恁麼即不拽也。南泉問黃檗：黃金為世界，白銀為壁落，是什麼人居處？檗曰：是聖人居處。泉曰：更有一人居何國土？檗义手而立。泉曰：道不得，何不問王老師？檗却問：更有一人居何國土？泉曰：可惜許！天寧琦云：二大老一人無事生事，一人將錯就錯，直是",
+          "MasterName": "Nanquan Puyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanquan Puyuan owns the retained deployment, letting the bursar pull the mill all he likes while barring him from the heart-tree at its center."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0814a01",
+          "ToLb": "0814a18",
+          "Kwic": "睛相見。亦無祖師禪可失。亦不曾拾得骨董。既無骨董則無以奉釋迦牟尼佛。亦無以奉多寶佛塔。畢竟得箇甚麼。夜靜水寒魚不食。滿船空載月明歸。上堂。去年臘月二十五有恁麼消息。今年臘月二十五無恁麼消息。有恁麼消息。是諸人分上事。徑山不預。無恁麼消息。是徑山分上事。諸人無分。或有人問。徑山未審是甚麼消息。驀拈拄杖云。不得動著。動著打折爾驢腰。擲拄杖下座。歲旦上堂。拈拄杖空中。作書字勢云。正朝把筆萬事皆吉。應時納祐慶無不宜。若作世諦流布平地。喫交更在佛法商量眉鬚墮落。卓拄杖下座。上堂。買鐵得真金。求雨得瑞雪。五峯玉琢成。千樹銀華結。龍王降吉祥。普賢呈醜拙。三世如來祕密門。今日一時都漏泄。雖然如是這裏有一處可疑。且道。疑箇甚",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, snapping the staff up at the question about the news and daring anyone to touch on pain of a broken donkey-waist."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0222c17",
+          "ToLb": "0223a08",
+          "Kwic": "：體露金風。須是恁麼始得。中秋，上堂。八月十五，月圓當戶，夜半正明，天曉不露。取箇眼兮耳必聾，捨箇耳兮目必瞽，君不見老長沙弄爪牙，一踏踏倒小釋迦，將謂是箇老大虫，元來却是一隻虎。上堂。乾坤之內，宇宙之間，中有一寶。拈拄杖示眾云：見麼？若真箇見得去，隨時受用，亦只可可地，終不大驚小怪。若不見，且安舊處，不得動著。遂靠拄杖。上堂。南泉和尚道：山僧十八上解作活計。趙州道：山僧十八上解破家散宅。清凉不然，山僧十八上做僧、十八上行脚，出一叢林、入一寶社，到處橫草不拈、豎草不把，於一切時只領現成受用。如今四十五也，依然只是舊時人，懵懵懂懂，百無一能。阿呵呵！堪對暮雲歸未合，遠山無限碧層層。上堂：一冬二冬，你儂我儂。暗中偷",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment, showing the one treasure inside heaven and earth and telling them that if they do not see it, to leave it where it has always lain."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0567c18",
+          "ToLb": "0568a09",
+          "Kwic": "動靜去來，子細躊躇看。上堂：達磨不來東土，二祖不往西天，臨濟不參黃檗，趙州不見南泉。是處池中有月，誰家竈裏無煙？有問分明向伊道：新羅國在海東邊。上堂。是柱不見柱，非柱不見柱，是非已去了，是非裏薦取。師云：教裏少哩。修山主有多少奇特？也只是座主見解，未夢見我祖師意旨在。見露柱但喚作露柱，見燈籠但喚作燈籠，不得動著，動著三十棒。堂上祖禰不了，殃及兒孫。壽山無端走入水牯牛隊裏，牽犁拽耙，與你諸人抵債。還有人相救麼？若有，不妨出來道看。如無，釣竿斫盡重栽竹，不計功程得便休。上堂。言發非聲，色前不物，泥像手中拂子𨁝跳上三十三天，木魚口裏明珠吞却山河大地，諸人向什麼處安身立命？不得春風花不開。開爐，上堂：寒則普天普地寒，",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, having them call the pillar a pillar and the lantern a lantern, with thirty blows for touching."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0513b24",
+          "ToLb": "0513c07",
+          "Kwic": "。」乃拈拄杖云：「禪非解會，道絕功勳，妙體湛然，真機獨露。不可以心思，不可以意想，不可以言宣，不可以默照，不可以色見，不可以聲求，但一念回光，便同本有。恁麼則釋迦老子睹明星時見箇什麼來？者裏透得，頓越三祇、坐斷報化佛頭，隨時著衣、喫飯。還有向上一路，即今釋迦老子在什麼處？咦！在諸人眼睫毛上放光動地。只是不得動著，動著則三十拄杖。何故？不見道『丈夫自有衝天志，不向如來行處行。』」卓拄杖下座。示眾，舉：「張無垢居士參楚明禪師問入道之要。明曰：『此事唯念念不捨，久久純熟，時節到來，自然證入。』復舉趙州柏樹子話，令時時提撕。士久之無省，謁善權禪師，問：『此事人人有分、箇箇圓成，是否？』善曰：『然。』士曰：『為甚麼某無箇入",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, finding the old sage lighting and stirring the ground on the tips of their eyelashes and barring every touch with thirty blows."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0228c21",
+          "ToLb": "0229a03",
+          "Kwic": "如萬里無寸草，又作麼去？』」師云：「蒼天蒼天。石霜云：『出門便是草。』」師云：「蒼天蒼天。明安道：『直得不出門，亦是草漫漫地。』」師云：「蒼天蒼天。諸兄弟！古人與麼提持，山僧與麼著語，畢竟意旨如何？倘若會去，對眾吐露看。吐露得出，歷劫宗親當下超拔，現前海眾即時解脫。山僧有箇護身符子，與汝東去西去。脫若未然，不得動著，動著打折汝驢腰。」有僧便喝，師云：「蒼天蒼天。」復云：「金風體露，萬木凋殘。行腳高人，急著眼看。明月灘頭休著腳，蘆花影裏出頭難。諸兄弟！畢竟向甚麼處去？」驀拈拄杖卓一卓云：「且把一聲歸去笛，夜深吹過汨羅灣。」下座。求懺悔請上堂。師舉：「僧問雲門：『殺父殺母，佛前懺悔。殺佛殺祖，向甚麼處懺悔？』門云：『露",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, handing out an amulet for going east and west, and barring every touch on pain of the donkey-waist."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0640c28",
+          "ToLb": "0641a11",
+          "Kwic": "箇顛蹶，連果老仙人一齊掀翻在地，然後掉轉尾直走到青龍寺裏，山僧不免將他收下了也。雖然隨高就下，出入得力，只有些習氣未除。大眾！且道畢竟如何除得？吸乾滄海紅輪現，獨朗乾坤耀太虛。」解制日，求嗣，請上堂。左卓拄杖，云：「十五日已前，天寒地凍，水冷艸枯，飛鳥息影於深林，遊魚潛蹤於大壑，直饒三世諸佛、歷代祖師也不得動著。」右卓拄杖，云：「十五日已後，東風解凍，萬卉萌芽，梅花孕白玉之胎，蘭房協熊羆之兆，於一毛頭現百億毛頭獅子亦不為分外。正當十五又作麼生湊泊？」連卓拄杖，云：「打開趙州關，拈卻雲門普，拍手唱陽春，倒跨豐干虎。或西秦、或東魯，天上人間無所阻。呵呵呵，休莽鹵，歸家得力是兒孫，祖父從來不出戶。」誕日，上堂。「潦倒",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, freezing the fortnight before the fifteenth so cold that not even the three-time buddhas and the founding teachers may touch it."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0183b04",
+          "ToLb": "0183b17",
+          "Kwic": "備。」驀豎拂子云：「現前諸仁者！聽取末後句。」上首復白椎云：「諦觀法王法，法王法如是。」下座。結制上堂。拈香云：「這些子，從來匝地普天，今日拈來普天匝地，熱向爐中，供養象田即念老和尚，用酬法乳之恩。」乃云：「年年此日有此結，只為應個好時節。拄杖靠壁冷光生，竹篦底下黑漆漆。」擲拄杖云：「是甚麼聻？」高聲云：「不得動著。」佛成道日，張鎮臺請上堂。「盡道釋迦今日成道，我道釋迦今日全身落草，秪個無位真人，踢著一跌便倒。所以云：『道可道，非常道』，十二時中休做造。『名可名，非常名』，只貴一箭中紅心。於中薦得端的旨，喫飯穿衣本現成，大休原不曰大休，示現僧中為知識；鎮公本不曰荊翁，亦爾應身在張宅。一為宗門主，一為儒門客，車之輪，",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daxiu Zhu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment, throwing down the staff, asking what it is, and crying out at the top of his voice not to touch it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X70/X70n1382.xml",
+        "X/X71/X71n1420.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB193.xml",
+        "J/J36/J36nB359.xml",
+        "J/J27/J27nB192.xml"
+      ],
+      "RelatedMasters": [
+        "Nanquan Puyuan",
+        "Dahui Zonggao",
+        "Wuzhun Shifan",
+        "Chushi Fanqi",
+        "Tianyin Yuanxiu",
+        "Yinyuan Longqi",
+        "Baiyu Jingsi",
+        "Daxiu Zhu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed warning formula that bars every touch on the thing planted before the assembly. Nanquan Puyuan lets the bursar pull the mill all he likes but bars him from touching the heart-tree at its center, and the bursar has no word, Dahui Zonggao snaps the staff up at the question about the news and dares anyone to touch, on pain of a broken donkey-waist, Wuzhun Shifan shows the one treasure inside heaven and earth and tells them that if they do not see it, leave it where it has always lain, and Chushi Fanqi has them call the pillar a pillar and the lantern a lantern, with thirty blows for touching. Tianyin Yuanxiu finds the old sage lighting and stirring the ground on the tips of their eyelashes and bars every touch with thirty blows, Yinyuan Longqi hands out an amulet for going east and west, and if they have not got it, no touching, on pain of the donkey-waist, Baiyu Jingsi freezes the fortnight before the fifteenth so cold that not even the three-time buddhas and the founding teachers may touch it, and Daxiu Zhu throws down the staff, asks what it is, and cries out at the top of his voice not to touch it."
+    }
+  ]
+}

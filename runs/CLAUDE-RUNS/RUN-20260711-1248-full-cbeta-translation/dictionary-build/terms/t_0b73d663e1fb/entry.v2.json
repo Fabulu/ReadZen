@@ -1,0 +1,167 @@
+{
+  "Id": "t_0b73d663e1fb",
+  "SourceTerm": "神通妙用",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:11:13Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "numinous power and wondrous function",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "miraculous powers and subtle functioning",
+        "wondrous powers at work"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 366 hits in 164 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1986A.xml",
+          "FromLb": "0508a22",
+          "ToLb": "0508b11",
+          "Kwic": "。師曰。難得不相見。師臨行又問雲巖。和尚百年後。忽有人問還邈得師真否。如何秖對。巖曰。但向伊道。只這是。師良久。巖曰。价闍黎承當箇事。大須審細。後因過水覩影。大悟前旨。因有偈曰。切忌從他覓。迢迢與我疎。我今獨自往。處處得逢渠。渠今正是我。我今不是渠。應須與麼會。方始契如如。師侍雲巖。巖問。如何是价子神通妙用。師叉手近前而立。又問。如何是神通妙用。師便珍重出。師到參魯祖寶雲禪師。禮拜侍立。少頃而出。却再入來。祖曰。秖恁麼秖恁麼。所以如此。師曰。大有人不肯。祖曰。作麼取汝口辨。師便禮拜。乃侍奉數月。僧問魯祖。如何是不言言。祖曰。汝口在甚麼處。云無口。祖曰。將甚麼喫飯。僧無對。師代曰。他不飢。喫甚麼飯。師到南",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunyan Tansheng",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1986A.xml). Recorded Sayings of Chan Master Wuben of Dongshan, Yunzhou. Dongshan Liangjie owns the retained deployment: answering Yunyan's twice-asked question of his numinous power and wondrous function by first standing with palms joined, then bowing out."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0152a05",
+          "ToLb": "0152b01",
+          "Kwic": "去後無消息，野老猶敲祭鼓聲。又云：春寒料峭，凍殺年少。切忌參商，別無奇妙。低頭侍奉，歡喜問訊。佛法商量，傷子性命。佛燈珣云：倚竈惟靈不是靈，靈從斷處一堆塵。野老不來敲祭鼓，因正打邪別是春。仰山寂禪師一日忽見異僧乘虗而至，作禮而立於前。師問：近離甚處？云：早晨離西天。師云：何太遲生？云：遊山翫水。師云：神通妙用則不無，闍黎佛法須還老僧。僧云：特來東土禮文殊，却遇小釋迦。遂出西天貝多葉與師作禮，乘雲騰空而去。東林總云：諸方商量，如麻似粟。盡道這碧眼胡兒，來無蹤，去無跡，直是光前絕後。若不是仰山，也難為縱奪。諸禪德，殊不知這碧眼胡兒，騰空而來，騰空而去，一生只在虗空裏作活計，有甚麼光前絕後？大小仰山，被他將兩杓惡水",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Yangshan Huiji owns the retained deployment: granting, before a monk who flew in from the western sky, that the numinous power is not lacking, while demanding that the monk return the dharma to him."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0720a16",
+          "ToLb": "0720b03",
+          "Kwic": "。下座。上堂。僧問。須彌山意旨如何。師云。推不向前。約不退後。進云。未審還有過也無。師云。坐却舌頭。問法不孤起仗境方生。提坐具云。這箇是境。如何是法。師云。却被闍梨奪却槍。進云。和尚今日為什麼退己讓人。師云。只有先鋒無殿後。進云。未審如何是殿後。師云。還我話頭來。乃云。田地穩密底。擡脚不起。探頭太過。神通妙用底。放脚不下。收身未轉。直饒十字縱橫朝打三千。猶較些子。且道。謷訛在什麼處。若知有去。始見全提半提。儻或未知。布袋裏老鴉雖活如死。下座。上堂。僧問。南泉斬猫兒意旨如何。師云。殺活臨時。進云。趙州戴草鞋又作麼生。師云。是他屋裏事。進云。打鼓弄琵琶去也。師云。且莫詐明頭。乃云。有佛處羅籠不住。無佛處荒草尋",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: saying in a hall address that those whose ground is dense and secure cannot lift a foot while those of numinous power and wondrous function cannot put one down or turn their bodies."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0105c12",
+          "ToLb": "0105c25",
+          "Kwic": "寒是寒，暑是暑，人是人，物是物。』秪要人回光返炤究本尋源，眼不自見，耳不自聞，鼻不自嗅，舌不自嘗，身不自觸，意不自覺，便知天不是天，地不是地，陰不是陰，陽不是陽，寒不是寒，暑不是暑，人不是人，物不是物，全體豁然獨露、見聞闃爾無寄，然後拈一莖草作丈六金身，以丈六金身作一莖草，擲大千於方外，納須彌於芥子，不是神通妙用，亦非法爾如然，要且不從別處傳來，秪在當人無陰陽地上流出。且無陰陽地上一句作麼生道？」拋拄杖云：「撲落非他物，縱橫不是塵。」復舉：「僧問古德云：『如何是冬來意？』古德云：『京中出大黃。』山僧有一偈略為表揚：有問冬來意，京中出大黃，頭頭渾坐斷，獨露句超方。今日忽有人問山僧，如何是冬來意？山僧便答道：朔風凜凜。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: listing hurling the great-thousand beyond bounds and folding Sumeru into a mustard seed, then denying that this is numinous power and wondrous function or even thus-by-dharma-nature."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0511a12",
+          "ToLb": "0511b08",
+          "Kwic": "個十二時中生死路頭事諸人明得麼有人喚生迷亂無人喚遭繫絆若能行生死斷萬兩金終不換師云雖是雪上加霜實乃赤心片片然而有人喚無人喚且未暇論如今人多道應的是也領覽的是也如何得不作入地獄漢子若向者裡下得一轉語則一任你穿衣喫飯任運過時應機接物道有人喚也得道無人喚也得若也未能則認定開口動舌的為主人公妄以穿衣喫飯擔柴運水為神通妙用後日閻羅老子將鐵棒打鬼𦜇臀莫言無人道過師說頌曰龍門老面如秋月皎大家高著眼莫只埋荒草中夏示眾舉僧問洞山本大師寒暑到來如何迴避本云何不到無寒暑處去僧云什麼處是無寒暑處本云寒時寒殺闍黎熱時熱殺闍黎師徵問大眾曰既是無寒暑處為甚又寒時寒殺熱時熱殺既是寒時寒殺熱時熱殺如何道是無寒暑處若有知得古人落處下得一轉語的",
+          "MasterName": "Yulin Tongxu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxu owns the retained deployment: warning the assembly that those who mistakenly take dressing, eating, carrying water and firewood as this power will meet Yama's iron rod."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0208b26",
+          "ToLb": "0208c09",
+          "Kwic": "為佛事，化荊棘作栴檀。履險若夷，騎聲蓋色，不消彈指，樓閣門開。所以道：萬法是心光，諸緣唯性曉。本無迷悟人，只要今時了。既無迷悟，諸人聚頭向這裏又討甚麼碗？只要今時了，且今時作麼生了？」卓拄杖，喝一喝。解制，上堂。「紅爐燄裏翻身，萬里搏風方有分；荊棘林中得路，虛空住腳始無疑。大道只在目前，一任橫三豎四，神通妙用，游戲自如，動靜去來，何憂何喜？攝十方世界於一微塵裏，促百千億劫於一剎那間，解脫門日日打開，安樂神時時應現，又何必南天台、北五臺，禮文殊、參達磨，明明百草頭，歷歷無藏覆？只如今日九旬告滿，聖制功圓，布袋解開，逍遙物外一句又作麼生道？掣斷鳳樓金鎖鑰，放歸天上玉麒麟。」風穴雲老和尚遷化訃音至，師集眾，乃捧幀舉起",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: declaring at the close of the training season that with the great way right before one's eyes, the powers roam free in every direction, with nothing to grieve or rejoice over."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0082a20",
+          "ToLb": "0082b03",
+          "Kwic": "通？切忌道『依稀相似』，誰敢云『彷彿不同』？不特儒扶釋教，亦乃釋合儒宗，喜得山僧閒卻，眾檀越又要向蜃樓上重施棟樑、冰花上刻畫青紅，有時向顯聖堂前屙屎、撒尿於淨白地上，有時向天華寺裏說妙談玄於鬧市場中，更有閑工夫於若耶溪汲水浣石傘峰。若欲撐天柱地，須仗眾兄弟各顯神通，有麼？」問答竟，師曰：「如此問答，還當得神通妙用麼？明日天晴再主張。」剃度，上堂。「天華寺以九龍水沐浴已竟，顯聖堂將金剛刀剃度為僧，倘得不待雪山六年苦行而睹星成道，則不惟觀彼久遠猶若今日，則心、佛、眾生三無差別，情與無情共一體真。大眾！此個語話才入門來，阿那不知？且問：既共一真，何故一人食時難令眾飽？」問答俱不契，師曰：「恁麼則無量劫來頭髮把盡在山僧",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: asking after a round of question-and-answer whether it can match the numinous power and wondrous function, and deferring the ruling to tomorrow's fair weather."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0035c19",
+          "ToLb": "0036a01",
+          "Kwic": "云：「倒握無星秤，長遊不夜天。」僧禮拜，師乃云：「無影樹千條萬葉，無縫塔入穴七穿，無鬚鎖掣動難開，無絃琴宮商莫韻。山僧今日將此四般物件送與聖林禪德，向無生國裏安居，無底船中垂手，有時提無文印，印破毗盧面門；有時挈無底籃，包括須彌泰岱；有時倒握無星秤，稱量三十三天梵王；有時橫拈無孔鎚，擊碎一十八重地獄。不是神通妙用，亦非法爾如然，是汝諸人如何折合？」良久，云：「臘盡春回冰已泮，嶺頭梅放數枝斜。」卓拄杖，下座。歲旦，上堂。僧問：「昔日鏡清有僧問：『新年頭還有佛法也無？』清云：『有。』意旨如何？」師云：「隨他語脈走。」進云：「又，僧問明教，教云：『無。』又作麼生？」師云：「總與一筆勾下。」進云：「二大老雖則正按旁敲，簡",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: handing a departing elder the keyless lock, stringless qin, bottomless basket and starless scale — weighing the heavens and smashing the hells — then denying both poles."
+        },
+        {
+          "RelPath": "J/J37/J37nB401.xml",
+          "FromLb": "0776b14",
+          "ToLb": "0776b27",
+          "Kwic": "動，猶若虛空，一切時中心不間斷。若能如是，即塵勞而得解脫，即煩惱以證菩提。不見石頭和尚一日問龐居士曰：『子自見老僧以來，日用事作麼生？』士以偈荅曰：『日用事無別，唯吾自偶諧。頭頭非取捨，處處沒張乖。朱紫誰為號？丘山絕點埃。神通并妙用，運水及搬柴。』頭乃然之。敢問諸人：浦峰者裏日日搬柴運水，動轉施為，且道是神通妙用？不是神通妙用？若道是神通妙用，正是頭上安頭；若道不是神通妙用，又是斬頭覓活。試定當看。若定當得，可以彈指收功，剎那證聖；其或未然，萬古碧潭空界月，再三撈摝始應知。」示眾。云：「春生夏長，秋收冬藏，四時遷改，萬彙無常。」驀呈拄杖，云：「惟有我木上座卻甚奇特，迥出無遷無改之外，不墮萬彙無常之中，終日淨裸裸、沒",
+          "MasterName": "Changming Xingjiong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "verse-author"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB401.xml). Recorded Sayings of Chan Master Changming Jiong of Pufeng. Changming Xingjiong owns the retained deployment: raising Pang Yun's carrying-water-and-firewood verse and ruling that calling daily tasks this power adds a head atop the head, while denying it cuts off the head to seek life."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0405a21",
+          "ToLb": "0405b08",
+          "Kwic": "，何處求心？四大本空，佛依何住？經云：『夫求法者，不著佛求、不著法求、不著眾求，乃至若求法者於一切法應無所求。』然則盡大地光皎皎地，無你開眼處、無你藏身處、無你開口處、無你下足處，四大五陰向甚麼處安著？山河大地從什麼處得來？然此則孤迥迥、峭巍巍、淨裸裸，沒可把，盡大地無針鋒許空缺處，釋迦老人亦無開口處，神通妙用總用不著，又何勞斷取妙喜世界、借座燈王如來、斂沙界於毫端、擲大千於方外、納須彌於芥子、藏劫火於腹中、延七日為永年、促長年為頃刻？大似聚沙作塔，等同兒戲，衲僧分上總用不著。且道：衲僧有什麼長處？自從劫外花敷後，直至如今笑未休。」上堂。「諸佛是幻，眾生是幻，菩薩亦幻，幻出無根，幻復成幻，幻佛既知，幻我",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment: declaring, where no crack big as a needle's point remains and even Śākyamuni has no place to open his mouth, that the numinous powers are entirely useless next to it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1986A.xml",
+        "X/X67/X67n1299.xml",
+        "T/T47/T47n1997.xml",
+        "J/J26/J26nB178.xml",
+        "B/B27/B27n0152.xml",
+        "J/J37/J37nB383.xml",
+        "J/J27/J27nB190.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB401.xml",
+        "J/J27/J27nB197.xml"
+      ],
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Yunyan Tansheng",
+        "Yangshan Huiji",
+        "Yuanwu Keqin",
+        "Feiyin Tongrong",
+        "Yulin Tongxu",
+        "Hanxiu Ruqian",
+        "Shiyu Mingfang",
+        "Baichi Xingyuan",
+        "Changming Xingjiong",
+        "Pang Yun",
+        "Wuyi Yuanlai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Numinous power and wondrous function. Dongshan Liangjie answers Yunyan's twice-asked question of his numinous power and wondrous function by first standing with palms joined, then bowing out, Yangshan Huiji, facing a monk who flew in from the west sky, grants that the power is not lacking but demands the monk return the dharma to him, Yuanwu Keqin says those of such power cannot put their foot down or turn their body, and Feiyin Tongrong lists hurling the great-thousand beyond bounds and folding Sumeru into a mustard seed — then denies it is this power or even thus-by-dharma-nature. Yulin Tongxu warns that taking dressing, eating, carrying water and firewood as this power earns Yama's iron rod, Hanxiu Ruqian lets a master roam free in it with the great way right before his eyes, Shiyu Mingfang asks whether the assembly's question-and-answer can match it and defers the ruling to tomorrow's fair weather, Baichi Xingyuan hands over the keyless lock and bottomless basket and again denies both poles, Changming Xingjiong raises Pang Yun's carrying-water verse and rules that calling it this power adds a head atop the head while denying it cuts off the head to seek life, and Wuyi Yuanlai, with no place left for Śākyamuni to open his mouth, declares the power entirely useless next to the Buddha of the Jeweled Seat."
+    }
+  ]
+}

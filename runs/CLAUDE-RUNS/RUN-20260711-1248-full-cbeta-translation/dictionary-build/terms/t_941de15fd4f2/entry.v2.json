@@ -1,0 +1,127 @@
+{
+  "Id": "t_941de15fd4f2",
+  "SourceTerm": "以何為驗",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:38:28Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "by what is it verified",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "what is the proof",
+        "how is it attested"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 264 hits in 121 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0984b05",
+          "ToLb": "0984b20",
+          "Kwic": "人咨參也無。師云。崑崙嚼生鐵。僧云。與麼則把斷要津去也。師云。將謂爾是箇出厩良駒。僧噓一聲便禮拜。師云。果然。乃云。大機圓應大道無方。去來不以象。掇轉虛空。動靜不以心。當軒大坐。兵隨印轉。將逐符行。遇物應緣。隨處作主。直得。嘉禾合穗。秀水朝宗。鳳凰來儀。麒麟現瑞。發揮西來祖意。成就興聖門庭。雖然如是。畢竟以何為驗。良久一氣不言含有象。萬靈何處謝無私。復舉。三聖道。我逢人則出。出則不為人。興化道。我逢人則不出。出則便為人。師云。二大老。一人向占波國裏打鼓。一人向大食國裏作舞。若要扶樹臨際正宗。大似接竹點月。山僧今日出世。亦無禪道佛法為人。只一味有口喫飯。忽有箇漢出來。道謝和尚指示。拈主丈便打。何故。一不做。二不休",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: inaugurating the Xingsheng temple on the great mechanism and round response — the west's ancestor-intent achieved, the temple's gate completed — and still asking: after all, by what is it verified? then answering with a long silence, one breath wordless yet holding the images."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0124b17",
+          "ToLb": "0124c06",
+          "Kwic": "。莫有眼開底麼。咄向者裡跳出草窠。其或未然。華亭舊有能言鴨。越國今無寫字鵝。清禪師歸水菴塔。上堂。壽皇頂𩕳老冤魔。痛念先師舊草窠。聊借蒲團供打坐。大家拍手唱山歌。正當恁麼。湖海觀光。人天交慶。咦。滅盡綱宗行正令。大石鼓至。上堂。獨瞎頂門眼。大人具大見。掀翻瓮裡天。大智具大機。以大入小。萬化普施。且道。以何為驗。鶯遷喬木調新舌。梅吐清香發舊枝。上堂。涅槃堂裡死功夫。風袞葫蘆水上浮。恁麼點開參學眼。釋迦彌勒是他奴。忽有箇漢出來道。爭似春眠不覺曉。落花處處聞啼鳥。又且如何。拍禪床云。將謂無人。上堂。雨打虛空乾剝剝。日明大地黑漫漫。箇中開得金剛眼。生死何甞有異端。須彌山大海水。衲僧頂上波濤起。歲朝上堂。天得一以",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Monk Rujing. Tiantong Rujing owns the retained deployment: greeting the arrived great stone drum with the lone blind eye at the crown and the great entering the small — and asking by what it is verified, answered by the oriole tuning a new tongue on the tall tree and the plum breathing old fragrance from an old branch."
+        },
+        {
+          "RelPath": "D/D51/D51n8948.xml",
+          "FromLb": "0021a02",
+          "ToLb": "0021b08",
+          "Kwic": "白雲外便禮拜師云重疊𨵿山路師廼云九旬結制今朝期滿一隊水牯鼻索拽󱹊擺尾搖頭甚處去不顧南泉納些些且道犯佗國王水草麼。上堂日用應緣左轉右旋低頭覻地仰靣看天靈犀無背靣神珠九曲穿。中秋上堂秋水泠泠秋風浙浙良夜寒蟾分外皎潔尀耐寒山子眼中却添屑。歲旦上堂去年今年新禪舊禪劃一劃云一時劃󱹊却得完全以何為驗六合祥風𧺫萬邦和氣流。五月旦上堂舉僧問南堂靜和尚祖師心印請師直指堂曰伱聞𤍠麼曰聞堂曰且不聞寒曰和尚還聞𤍠否堂曰不聞曰為甚麼不聞堂搖扇曰為我有者箇師拈曰南堂老應機如疾風掣電非但南堂人人手裏也有者箇為甚用不著用不著萬緣遷變都閑事五月山房冷似氷。正月一上堂天得一以清地得一以寧一得一以元正啟祚衲僧得一",
+          "MasterName": "Foguo Weibai",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (D/D51/D51n8948.xml). Recorded Sayings of Chan Master Foguo. Foguo Weibai owns the retained deployment: crossing out last year and this year, new Chan and old Chan, with one stroke of the stick on New Year's Day — all annulled at once and made complete — then asking, knocking once, and letting the six directions' auspicious wind and ten thousand regions' harmony flow."
+        },
+        {
+          "RelPath": "X/X70/X70n1394.xml",
+          "FromLb": "0403b02",
+          "ToLb": "0403b17",
+          "Kwic": "祝萬年之壽。然雖如是，豎拂云：且道這箇法門是那箇佛說？擲拂於背後，便下座。退院，上堂。來住瑞峯，去住瑞巖，未操雪曲，且打鄉談。撫禪牀，云：會麼？天上人間一十三。斷橋和尚遷住台州瑞巖淨土禪寺語錄斷橋和尚遷住台州瑞巖淨土禪寺語錄侍者編入寺，指三門云：昔年出此門去，步步踏著；今日入此門來，頭頭撞著。畢竟以何為驗？乃顧視寺額云：洎合道著。佛殿。㘞！多時不相見也。乃揖云：瞿曇萬福。踞室。內不放出，外不放入。眨得眼來，鐵壁鐵壁。拈帖。擒虎兕，辨龍蛇，一句子，絕周遮。何故？太白不曾登便殿，筆頭昨夜自生花。指法座：峭峻一方，玲瓏八面，須彌燈王，有眼者見。若不見，乃登座，云：隨我脚跟轉。拈香祝聖罷，斂衣就座，示眾云：大智",
+          "MasterName": "Duanqiao Miaolun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X70/X70n1394.xml). Recorded Sayings of Chan Master Duanqiao Miaolun. Duanqiao Miaolun owns the retained deployment: pointing at the three gates as he enters the temple — every leaving step trod on it, every entering meeting collides with it — and asking after all by what it is verified, answered by looking up at the temple plaque: bound to be said."
+        },
+        {
+          "RelPath": "X/X71/X71n1405.xml",
+          "FromLb": "0047b01",
+          "ToLb": "0047b16",
+          "Kwic": "坐中盡是江南客。開爐，上堂。舉：僧問葉縣：自遠趍風，乞師一接。縣夾火示之，云：會麼？僧云：不會。縣云：爐中添炭猶嫌冷，路上行人只守寒。師云：好一爐宿火，輕輕觸著，烈焰熾然。今日香匙火筯一時分付了也，夜深一撥，燎却面門，莫言不道。壽慶節，上堂。威音已前，空劫那畔，消息未兆，正體全彰，殊勝吉祥，盡在于是。以何為驗？九天瑞氣曉盤礴，四海同觀奉母儀。上堂。橫按主丈云：便與麼去，如渴得漿，如旱得雨，喜從何來？憂從何去？卓主丈云：野老不知堯舜力，鼕鼕打皷祭江神。上堂。昨日同木上座遊鍾山回，極目田疇栽插俱畢，今秋得熟，一飽可期，何幸如之！何喜如之！更願邊城無皷鼙，太平曲子大家吹。舉：主丈云：是何曲調？上堂：一人出沒於寒暑",
+          "MasterName": "Shixi Xinyue",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Sayings of Chan Master Shixi Xinyue. Shixi Xinyue owns the retained deployment: gathering the dowager-empress's birthday auspiciousness into the moment before King Glorious Silence, beyond the empty kalpa, where the true body is fully displayed — then asking, with the ninth heaven's dawn air coiling and the four seas beholding her who models motherhood."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0004b22",
+          "ToLb": "0004c05",
+          "Kwic": "百丈大智禪師創叢林、立規矩，有普請例，及諸家語錄亦有普請說，所謂作則均其勞、飯則同其食。自今觀之，似乎不然，作者應當作、閒者應當閒，致令古風彫喪、法門澹薄。無他，蓋主者不舉之故也。」乃云：「要且者般事無處得藏竄，所以為大道、所以為公案，擔荷者般事須是者般漢，若畏刀避箭、躲懶偷閒，不足為伴。雖然，恰有個驗處，以何為驗？」舉手鼓掌云：「打鼓，普請看。」上堂。「今日陞座為通如法姪乞老僧上堂說第一句，老僧不覺失笑，殊不知第一句乃古人之方便耳。若執第一句為寶，則達磨單傳之旨撲地了也。又不知未作意時，分明覿體現前，纔擬心來乞，說時腳跟下已蹉過了，直饒恁麼見得、領略得，已是言中取則、句裡承當，落在第二句了也。所謂承言者喪、滯句",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: mourning that no one raises the old cases anymore and that only this kind of man can shoulder this kind of affair, then granting there happens to be a proof-place — by what verified? — and clapping his raised hands: beat the drum, everyone look."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0104a05",
+          "ToLb": "0104a18",
+          "Kwic": "士龍，請師住福建福州府福清縣黃檗山萬福禪寺，於十月初五日入院，至山門云：「盡大地是個解脫門，且道從何處入？」良久云：「從腳跟下入。」便進。佛殿，云：「過去已過去，未來猶未來，現在作麼生坐斷？主人公向何處出氣？容上座到者裏，即得大展三拜。」伽藍堂，拈香云：「叢林藩籬，佛法金湯，自受靈山付囑，直至而今不忘，且道以何為驗？看燒者一瓣香。」祖師堂，云：「西天四七，東土二三，盡在者裏，日午打三更。」乃舉香云：「今日不肖兒孫到來，一時捉敗。」便燒。方丈，云：「釋迦在者裏掩室，維摩在者裏默然，古今天下老和尚在者裏橫說豎說，容上座在者裏作麼生施設？一棒一條痕，一掌一握血。」遂據坐。當日，眾請上堂，師至座前拈山門疏云：「披歷佛祖肝膽",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: naming, at the shrine-hall station of his entry, the guardian the grove's hedge and the dharma's golden moat, charged at Vulture Peak and unforgotten to this day — then demanding by what it is verified: watch this one petal of incense burn."
+        },
+        {
+          "RelPath": "J/J40/J40nB493.xml",
+          "FromLb": "0502a03",
+          "ToLb": "0502a17",
+          "Kwic": "苦被鬚髮纏繞，請法去縛。吾今不教伊成佛作祖去，亦不教伊向驢胎馬腹去，亦不教伊情識漏盡、苦樂雙忘去，亦不教伊智過鶖子、察盡秋毫去。但各將一把斷命刀子，教伊向無始劫前把命根一刀兩斷，更向波波吒吒羅羅城中重重打過，然後見佛殺佛、見祖殺祖、見魔殺魔，殺盡始安居。若有纖毫，便是翳生。所以道：『你若無心我便休。』畢竟以何為驗？觀世音菩薩將錢買胡餅，放下手卻是饅頭。」擊拂子，下座。示眾。「數月以來，雪峰道的，未及與諸人說佛法。今晚稍暇，試問我提爾挈、我遞爾接、我坐爾歇，阿家嘗醋三尺喙，新婦洗面摸著鼻。因甚山是山、水是水，僧是僧、俗是俗？咄！三尺浪高魚化龍，癡人猶戽夜塘水。」開爐。「年年十月十五，諸方結制開爐，永鎮不入保社，依舊",
+          "MasterName": "Pufu Zhuo",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB493.xml). Recorded Sayings of Chan Master Pufuzhuo of Muketing, Qingshan. Pufu Zhuo owns the retained deployment: ordering each trainee to take the life-cutting knife and sever the life-root before the beginningless kalpa — kill buddha, ancestor and demon until finished, the least fiber and a film grows over the eye — then closing: after all by what is it verified? Guanyin spends cash on a hu-bing, puts down her hand, and it is a steamed bun."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n2000.xml",
+        "T/T48/T48n2002A.xml",
+        "D/D51/D51n8948.xml",
+        "X/X70/X70n1394.xml",
+        "X/X71/X71n1405.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB178.xml",
+        "J/J40/J40nB493.xml"
+      ],
+      "RelatedMasters": [
+        "Xutang Zhiyu",
+        "Tiantong Rujing",
+        "Foguo Weibai",
+        "Duanqiao Miaolun",
+        "Shixi Xinyue",
+        "Miyun Yuanwu",
+        "Feiyin Tongrong",
+        "Pufu Zhuo"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "By what is it verified? Xutang Zhiyu, inaugurating the Xingsheng temple — great mechanism, round response, the way without directions, troops following the seal, generals the tally, the phoenix come to rite and the qilin to omen, the ancestor-intent of the west achieved — still asks: after all, by what is it verified? and answers with a long silence, one breath wordless yet holding the images. Tiantong Rujing, when the great stone drum arrives — the lone blind eye at the crown of the head, the great man's great seeing tipping over the sky inside the jar, the great entering the small and the myriad transformations bestowed on all — asks it and answers with the oriole tuning a new tongue on the tall tree and the plum breathing old fragrance from an old branch. Foguo Weibai, on New Year's Day, crosses out last year and this year, new Chan and old Chan, with one stroke of the stick — all annulled at once, and made complete — then asks, knocks once, and lets the auspicious wind of the six directions rise and the harmony of ten thousand regions flow. Duanqiao Miaolun, returning to enter the temple, points at the three gates: the years he left through this door every step trod on it, today entering every meeting collides with it — after all by what is it verified? — and answers by looking up at the temple plaque: bound to be said. Shixi Xinyue, at the dowager-empress's birthday hall, gathers all the auspiciousness into the moment before King Glorious Silence, beyond the empty kalpa, before news omens anything and the true body is fully displayed — then asks, and the ninth heaven's auspicious air coils at dawn while the four seas together behold her who models motherhood. Miyun Yuanwu, mourning that no one raises the old cases anymore and that only this kind of man can shoulder this kind of affair, grants that there happens to be a proof-place — by what verified? — and claps his raised hands: beat the drum, everyone look. Feiyin Tongrong, at the shrine-hall station of his entry, names the guardian its hedge and the dharma its golden moat, charged at Vulture Peak and unforgotten to this day — and by what verified? watch this one petal of incense burn. Pufu Zhuo, in instruction, orders each trainee to take the life-cutting knife and sever the life-root at one stroke before the beginningless kalpa, killing buddha, ancestor and demon until finished — the least fiber and a film grows over the eye — after all by what is it verified? Guanyin bodhisattva spends cash on a hu-bing, puts down her hand, and it is a steamed bun."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Id": "t_c4b2c1ab34eb",
+  "SourceTerm": "萬里無寸草處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:50:48Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the grassless place of ten thousand miles",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the place without an inch of grass",
+        "the grassless destination"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 205 hits in 105 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0850b01",
+          "ToLb": "0850b15",
+          "Kwic": "理會來初行脚時曾參洞山微和尚二年之間曹洞宗旨被我一時參得又參泐潭準和尚其時會中有箇堅侍者久依揩和尚盡得洞下要領我當時道他是則是然裏面有些不是處如何見得不曾悟在若實有悟由不妨一時得受用其或未然只是箇傳言語漢不干他曹洞事況言悟是建立落在第二頭故不在說也又見一老宿共我商量洞山夏末示眾云初秋夏末兄弟東去西去直須向萬里無寸草處去此話既出一時下語皆不契洞山意有僧傳到石霜霜云何不道出門便是草洞山聞得深喜之云瀏陽有古佛出世老宿商量道此處綿密謂根蔕下事有事有理又喚作無中唱出洞山道直須向萬里無寸草處去是理上問這裏若答他語不活則死在一邊所以石霜就事上答云出門便是草要得血脉不斷又引僧問香嚴如何是道嚴云枯木裏龍吟僧云學人不會嚴云髑髏裏眼睛謂枯",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: recalling how the age's answers all failed the charge and Shishuang's grass-at-the-door won Dongshan's Liuyang-ancient-buddha praise, and supplying the analysis in his own voice: the order to the grassless place is the question on the principle side — answer it with dead words and it dies on one side — which is why Shishuang answered on the fact side."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0010c25",
+          "ToLb": "0011a15",
+          "Kwic": "帝自長生。上堂舉。定上座參臨際問。如何是佛法的的大意。際下禪床。與一掌便托開。定佇思。傍僧云。定上座。何不禮拜。定方禮拜豁然大悟。師云。黃蘗傳來。臨際用底。定上座觸著關捩。廓然一念忘緣。泊爾十方無寄。現前不用安排。直下何勞擬議。不風流處也風流。有意氣時添意氣。上堂舉洞山云。初秋夏末。或東或西。直須向萬里無寸草處去。良久云。祇如萬里無寸草處。又作麼生去。後僧舉問石霜。霜云。出門便是草。明安云。直是不出門。亦是草漫漫地。師云。出門是草。涉芊芊莽莽之閒。葉落知秋。墮黯黯青青之處。到者裏。須體取機雖轉紐。印未成文處始得。還端的麼。良久云。水明老蚌懷胎後。雲重蒼龍退骨時。江州能仁禪寺語錄真州長蘆崇福禪院語錄真州長蘆",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: raising the charge and its two answers, then ruling on the whole exchange: out the door is grass — one wades the thick-springing tangle, leaves falling to announce autumn, dropping into the dark green — and here one must catch the mechanism where the lock turns but the seal is not yet formed."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0105c26",
+          "ToLb": "0106a08",
+          "Kwic": "鄉去麼？』山曰：『無。』巖曰：『幾時回？』山曰：『待和尚有住處即回。』巖曰：『此去難得相見。』山曰：『難得不相見。』今日若道『難得相見』，便生幾多情見了也，只因洞山是個得的，便道個『難得不相見』，看他何等穩密？何等把細？佛日期中豈少一知半解？只是到者些原委處未免走作，即今你要東去西去。不見古人道：『直須向萬里無寸草處去。』又云：『出門便是草。』又云：『不出門亦是草。』便見舉措不得，只因你不能向異類中行。且道：異類又如何行？」乃屈指，曰：「一、雞，二、犬，三、豬，四、羊，五、牛，六、馬，為甚麼『七、人』不道？參。」即晚，陞座。辭眾，曰：「一期圓滿，可謂有始有終。若論本分家風，一落始終必不免於始終之患。須知：本自無始，又何",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: stacking all three old lines — the grassless destination, the grass at the door, the grass even indoors — and ruling they leave one no move at all, only because one cannot walk among the other-kind; then counting chicken, dog, pig, goat, ox, horse on his fingers and asking why the seventh, human, goes unsaid."
+        },
+        {
+          "RelPath": "J/J28/J28nB204.xml",
+          "FromLb": "0210b06",
+          "ToLb": "0210b18",
+          "Kwic": "雖多蹉路，如來藏裏本沒淆訛，但能息慮忘緣，處處現成受用。眾中還有別錙銖、識豐儉者麼？若無，試聽山僧唱箇太平曲子去也。」以拂子撫几案，云：「哩𠺕蓮蓮，花落明月堂前。光皎皎，須彌打鼓虛空。𨁝跳驚起那吒揭諦神，當陽滿口叫休要。且道：休要作甚麼？休要飯飽弄箸。」便舉：「洞山示眾云：『秋初夏末，兄弟家或東或西，直須向萬里無寸草處去。』良久，云：『秪饒萬里無寸草處作麼生去？』石霜云：『出門便是草。』明安云：『不出門亦是草蔓蔓地。』」師云：「這夥老漢大似普州人，一箇鵰心雁爪，說得行不得；一箇虎面熊肝，行得說不得；一箇臥在荊棘林中，無出頭分。海寶也無許多勞攘。秋初夏末，兄弟家或東或西，去則任去，住則任住，設有推不向前、約不退後底，畢竟如",
+          "MasterName": "Binya Jian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB204.xml). Recorded Sayings of Chan Master Binya. Binya Jian owns the retained deployment: typing the three old men of the raised exchange like smugglers: one an eagle-hearted goose-clawed type who can say it but not do it, one a tiger-faced bear-livered type who can do it but not say it, one lying in the bramble thicket with no hope of standing up."
+        },
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0098b18",
+          "ToLb": "0098c01",
+          "Kwic": "底，只消覓得鬍鬚赤，不須更覓赤鬚鬍。」擿拂子，下座。晚參。拈竹篦子畫一畫，云：「江西來也在者裏，河南來也在者裏，四川、八閩來也在者裏，山東、山西來也在者裏。秪如有一人總不恁麼來，且道安放何處？」放下竹篦，云：「煙霞生背面，星月繞檐楹。」結夏，小參。舉：「洞山老祖示眾云：『秋初夏末，兄弟或東去、西去，直須向萬里無寸草處去。』良久，云：『秪如萬里無寸草處作麼生去？』有僧舉似石霜，霜云：『何不道出門便是草？』」師云：「諸兄弟！如今腳跟下遍地荊棘，擬向萬里無寸草處去，大難，大難！縱使踏破幾緉草鞋，究竟不離者裏，不如本分好。諸兄弟！要識洞山麼？」拍禪床左邊一下。「要識石霜麼？」拍禪床右邊一下。「秪如更有箇道『不出門亦是草漫漫地",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained deployment: turning the charge against the assembly at his own summer's close: brambles cover the ground under their heels — to set out for the grassless ten thousand miles is very hard, very hard; wear out pairs of straw sandals and you still never leave this spot — better to keep to one's original portion."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0332c24",
+          "ToLb": "0333a07",
+          "Kwic": "下座。解制，良忠堂主偕慧燈禪人請上堂。「一番雨又一番晴，依舊燈花賽月明，布袋解開活潑潑，芒鞋拄杖任縱橫。是以，昔日安居而門開八字，一朝分手而足跨千峰，東亦通、西亦通，腳尖到處起春風，頂門眼正、及第心空，由來遍界不曾藏，逢人若問安居事，莫如螃蟹落鑊湯。」復舉：「洞山禪師解夏云：『諸兄弟！東去、西去，直須向萬里無寸草處去，只如萬里無寸草處作麼生去？』石霜聞，云：『出門便是草。』又，大陽云：『直得不出門，亦草漫漫地。』」師云：「三尊宿無端向淨白地上拈出一莖草，絆殺多少行腳僧，山僧今日路見不平，向火爐頭撥出一星火與他焚卻，免致法堂前草深一丈，還有同出一隻手者麼？」擲拂子，下座。師誕日，眾請上堂。「面目現然迥眾儔，本來無喜亦無",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment: ruling that the three worthies plucked one blade of grass out of a clean white ground and tripped up countless wandering monks — then, seeing injustice on the road, poking one spark from the stove to burn the blade and spare the dharma-hall a deeper grass."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0550a20",
+          "ToLb": "0550b05",
+          "Kwic": "：「大小德山未會末後後句。」師聞，令侍者喚來問：「汝不肯老僧那？」頭密啟其意，師乃休去。至明日陞堂，果與尋常不同。頭至僧堂前，撫掌大笑曰：「且喜老漢會末後句。雖然如是，只得三年。」師果三年而沒。鐘鼓未鳴何處去，低頭未會末後句。三年活話幾人疑，箇是吾門大火聚。洞山示眾曰：「秋初夏末，兄弟或東去西去，直須向萬里無寸草處去。」又云：「只如萬里無寸草處且作麼生去？」後僧舉似石霜，霜云：「出門便是草。」僧回舉似師，師曰：「大唐國裏能有幾人？」萬里無寸草，茫茫宇宙行人少。出門便是草，落花流水聞啼鳥。皇道無私顯至尊，鼓腹謳歌人已老。洞山因僧問：「亡僧遷化向甚麼處去？」師曰：「火後一莖毛。」善赴來機是洞山，莖毛火後倩誰看？抽條石",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment: answering the whole raised exchange in verse after Dongshan's how-many-in-the-great-Tang cry: the grassless ten thousand miles — in the vast universe, travelers are few; out the door it is grass — falling flowers, flowing water, birds crying; the imperial way shows its honor without favor, and the drum-bellied singers of its peace have grown old."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0003c30",
+          "ToLb": "0004a14",
+          "Kwic": "口也難中。所謂處處真，處處真，塵塵盡是本來人，真實說時聲不現，正體堂堂沒卻身。」乃顧視大眾，喝一喝，下座。結制上堂。「今日禹門院裡結制，須與眾兄弟一議，不用眾兄弟參禪、不用眾兄弟會理，單單不用瞌睡。若也瞌睡，一棒打出骨髓，莫言不道。」喝一喝，下座。解制上堂。舉：「洞山云：『秋初夏末，兄弟東去西去，直須向萬里無寸草處去。』禹門又卻不然，禹門今日解制，兄弟東去西去。」驀拈拄杖云：「逢人切莫錯舉。」擲拄杖，喝一喝，下座。因雪上堂。「昨日青山，今朝白雪，眾兄弟好消息，野鹿、行人步步成跡，惟有樹角羚羊絕氣息，從來獵犬難尋覓，高著眼始得。」便下座。上堂。「人人本具，個個不無，不是聖賢了事凡夫，且事又作麼生了？」舉起拂子云：「不",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: raising the charge at his own retreat's end and refusing it with replacement: Yumen today does not ask east-going or west-going — go to where withered wood flowers, go to where the icy river flames — then snatching up the staff with the warning not to miss the mark, throwing the staff, shouting, and descending."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2001.xml",
+        "J/J27/J27nB190.xml",
+        "J/J28/J28nB204.xml",
+        "J/J34/J34nB298.xml",
+        "J/J38/J38nB410.xml",
+        "J/J37/J37nB390.xml",
+        "J/J10/J10nA158.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Hongzhi Zhengjue",
+        "Shiyu Mingfang",
+        "Binya Jian",
+        "Shenfeng Xian",
+        "Lianfeng Su",
+        "Chulin Shangrui",
+        "Miyun Yuanwu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The grassless place of ten thousand miles. Because the headword is the destination inside Dongshan's close-of-retreat charge, most windows carry it in the quoted case; the retained witnesses are the masters whose own turns deploy the exchange. Dahui Zonggao, recalling how the whole age's answers failed the charge and Shishuang's grass-at-the-door won Dongshan's Liuyang-ancient-buddha praise, supplies the analysis in his own voice: Dongshan's order to the grassless place is the question on the principle side — answer it there with dead words and it dies on one side — which is why Shishuang answered on the fact side. Hongzhi Zhengjue, raising the charge and its two answers, rules on the whole exchange: out the door is grass — one wades the thick-springing tangle, leaves falling to announce autumn, dropping into the dark green — and here one must catch the mechanism where the lock turns but the seal is not yet formed. Shiyu Mingfang stacks all three old lines — the grassless destination, the grass at the door, the grass even indoors — and rules they leave you no move at all, only because you cannot walk among the other-kind; then counts on his fingers chicken, dog, pig, goat, ox, horse — and asks why the seventh, human, goes unsaid. And Binya Jian, having raised the same triple, types the three old men like smugglers: one an eagle-hearted goose-clawed type who can say it but not do it, one a tiger-faced bear-livered type who can do it but not say it, one lying in the bramble thicket with no hope of standing up. Shenfeng Xian, at his own summer's close, turns the charge against the assembly: brambles cover the ground under your heels — to set out for the grassless ten thousand miles is very hard, very hard; wear out pairs of straw sandals and you still never leave this spot — better to keep to one's original portion. Lianfeng Su, raising the three worthies, rules they plucked one blade of grass out of a clean white ground and tripped up countless wandering monks — so he, seeing injustice on the road, pokes one spark from the stove to burn the blade and spare the dharma-hall a deeper grass. Chulin Shangrui, after the charge, the door-grass and Dongshan's how-many-in-the-great-Tang cry, answers the whole thing in verse: the grassless ten thousand miles — in the vast universe, travelers are few; out the door it is grass — falling flowers, flowing water, birds crying; the imperial way shows its honor without favor, and the drum-bellied singers of its peace have grown old. And Miyun Yuanwu, raising the charge at his own retreat's end, refuses it with replacement: Yumen today does not ask east-going or west-going — go to where withered wood flowers, go to where the icy river flames — then snatches up the staff: when you meet someone, by all means do not miss the mark; throws the staff, shouts, and descends."
+    }
+  ]
+}

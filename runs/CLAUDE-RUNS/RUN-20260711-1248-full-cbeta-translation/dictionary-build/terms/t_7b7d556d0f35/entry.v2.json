@@ -1,0 +1,232 @@
+{
+  "Id": "t_7b7d556d0f35",
+  "SourceTerm": "人間天上",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:15:23Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "in the human world and the heavens above",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "through the human and heaven realms",
+        "on earth and in the heavens",
+        "the human world and the heavens"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 292 hits in 154 files representing 150 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0597c17",
+          "ToLb": "0597c24",
+          "Kwic": "即西天二十四祖師子尊者。親弟亦是出家。龍子比丘。是智慧辯才。無人過者。九十一劫。常生人間天上。受勝福樂。今日邑眾。施鐘必生善利。要知果證。即今明取。還有問事者麼。問鴻鐘纔擊。聲震大千。未審聞底事如何。師云。僧集六和。儀範足俗。開五義壯英雄。恁麼則大眾總得聞也。師云。於中爾一箇耳瞶。",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment: tells the bell patrons that the twenty-fourth patriarch's younger brother, a dragon-child monk of unexcelled wit, was born ninety-one kalpas running in the human world and the heavens receiving fine blessings."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0242b24",
+          "ToLb": "0242c04",
+          "Kwic": "切思身寄空門，心當厭俗，佛祖教誡，念念存思。無字參疑，心心莫捨，智眼大明，慧光迥出。人間天上，獨步縱橫，逆去順來，隨心自在。如此方堪傳佛心印，接引後昆。不然虛喪光陰，沉淪生死。古人叮嚀，殊不為己，大抵欲學者究明此事。古人為你說得，你若不行，無奈你何。佛佛授受，祖祖傳持，不曾私屈學者絲毫，學者不信心努力向前，自家轉便，欲佛祖把箇現成受用與你。",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: instructs that with the Word doubted at every thought and never dropped the wisdom eye goes bright and the light towers up — walking alone and crosswise through the human world and the heavens, going against and coming with at the heart's ease."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0676b29",
+          "ToLb": "0676c08",
+          "Kwic": "問：「二祖說法天華亂墜、地湧金蓮，為甚麼立雪求達磨安心？」師曰：「這老有些意思，不解將金博金，卻解以塵去塵。」頌曰：三藏琅函砌滿懷，人間天上歎奇哉；知非斷臂求心法，誰想獃獃亦是獃？問：「神秀在五祖會下為教授師，因甚將衣缽付盧行者去？」師曰：「盧公何曾受衣缽？莫謗盧公好。」頌曰：老成人愛老成人，一錠金還一錠金；具眼終須知本色，豈應看錯定盤星？",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Wuming Huijing owns the retained deployment: verses the arm-cutting ask — sandalwood cases stacked in the bosom and sighs of wonder through the human world and the heavens: knowing wrong, cutting the arm, seeking the mind-way, who would have thought the dull one was also dull."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0013a07",
+          "ToLb": "0013a13",
+          "Kwic": "」便禮拜，師乃云：「今日不肖兒孫高陞遠祖之堂，不必更說偈言，覿面為眾舉揚，急著眼，莫思量，逴得便行真漢子，人間天上更無雙。」師卓拄杖，藏率眾禮拜便喝，師便打，下座。師至海鹽天寧寺，眾請千佛閣基上堂，僧問：「昔年唱導，今日重臨，未審如何話會？」師云：「喚你是漆桶。」進云：「寶閣纔興，千佛即今在甚麼處安頓？",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: at the raising to the far ancestor's hall tells them no verse is needed, the raising is face to face — eyes quick, no deliberating, the one who moves as soon as he grasps is a true man, no second such in the human world and the heavens."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0110b02",
+          "ToLb": "0110b09",
+          "Kwic": "」乃云：「一機獨脫，立地超卓，拈三放兩，妖精伎倆，流布差殊作話端，到處逢人便喫棒，爭似全機截眾流，人間天上更無兩。明指破，休魍魎，拶著不知劈面掌。」元旦上堂，僧問：「新年頭有佛法，正是雪上加霜，新年頭無佛法，又成當面蹉過。不涉二途，請和尚別接來機。」師云：「元正啟祚，萬物咸新。」進云：「恁麼則直下有無俱不立，迥然獨露句超方。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: verses that catching ghosts and trick-devils only earns the staff everywhere — how does that compare with the whole machine cutting the streams at one stroke, no two such in the human world and the heavens."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0130a14",
+          "ToLb": "0130a20",
+          "Kwic": "」放下拂子，云：「只為他有尾無頭。此時金棺涌于虛空，高七多羅樹，化火自焚，得舍利八斛四斗，流布人間天上。」師喝一喝，云：「猶未許渠在。即今二月十五佛般涅槃之日，這則公案還有人緇素得出麼？若緇素得出，速來道取。」良久，卓拄杖，云：「杏花含雨濕，柳眼帶煙嚬。」晚參。「入得安隱門，得到安隱地；",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: on the nirvana day tells the end — the gold coffin rising seven talas high, the fire burning of itself, eight bushels and four pecks of relics streaming through the human world and the heavens — then shouts that even so he is not yet let off."
+        },
+        {
+          "RelPath": "J/J34/J34nB310.xml",
+          "FromLb": "0577b12",
+          "ToLb": "0577b18",
+          "Kwic": "」師曰：「子是甚麼心行？」門曰：「也要和尚委悉。」師曰：「直須與麼始解穩坐。」門應諾諾。人間天上數如麻，弄鬼精魂事可嗟。古墓鐵蛇頭戴角，嵒前石虎尾吒沙。動絃別曲風雷合，輥芥投針日月拏。打破韶陽菴外句，木人夜半照菱華。麻谷參忠國師，繞禪床三匝，振錫而立。國師曰：「汝既如是，吾亦如是。",
+          "MasterName": "Yunsou Benzhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunsou Benzhu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB310.xml). Recorded Sayings of Chan Master Yunsou Zhu. Yunsou Benzhu owns the retained deployment: verses the count — packed like hemp through the human world and the heavens, ghost-trick souls a thing to sigh at: the iron snake of the old grave horned, the stone tiger's tail lashing sand, strings touched to another tune and wind and thunder joining."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0596a11",
+          "ToLb": "0596a17",
+          "Kwic": "「一、拽石山門騎佛殿；二、搬土露柱拽僧堂。長短方圓本自然，發機不用千鈞弩。所以白雲殿堂，迥別人間天上。諸佛處此殿，是故此殿最吉祥；諸佛入此堂，是故此堂最嚴淨。當知此殿此堂，不屬陰陽攝受，不拘年月推移，盡從諸公玅明性中流出，直得十方諸佛異口同音宣說。偈曰：兩彩功成喜有期，玲瓏八面鎮坤維。",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: after the work-gangs haul stone to the gate and cart earth to the pillars, rules the White Cloud hall utterly apart from the human world and the heavens — the buddhas dwell in this hall, therefore this hall is most auspicious."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0236b10",
+          "ToLb": "0236b16",
+          "Kwic": "元旦上堂。云：「王言如絲，其出如綸。等閒拈一毫頭，家隆國泰；信口道一句子，草偃風行。人間天上，共沐恩光；此界他方，均鋾至化。是以在天天中之聖，在人人中之尊，在物物中之貴，在法法中之王。且道在衲僧分上成得甚麼？」豎拂子云：「會麼？為瑞為祥彌法界，如雲如雨覆三千。」下座。解制上堂。",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: opens the new year with the king's word like a thread going out like a cord — one hair-tip plucked and the family flourishes and the land is at peace — grace bathing the human world and the heavens together, this world and other lands."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0342b27",
+          "ToLb": "0342c04",
+          "Kwic": "」為林俊良母進壙，小參。云：「飄飄兩鬢白如雲，教子有方德可尊，九九竟歸何國土？人間天上性長存。自性既存，六門和睦增不得一毫，四大分離減不得一毫，去歲遊魔宮不為魔著，今朝入佛界不為佛求，逍遙樂土、出沒神洲，中途撞著馬即婦，笑道：『林母、陳老婆卻是我同流。』政當斯際，把手共行則固是，高枕青山事若何？",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment: at the graveside for the mother whose temples drifted white like clouds and whose teaching of her son was true — nine-times-nine, to what land does she return: across the human world and the heavens the nature endures."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1992.xml",
+        "J/J25/J25nB163.xml",
+        "J/J25/J25nB173.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB299.xml",
+        "J/J34/J34nB310.xml",
+        "J/J37/J37nB392.xml",
+        "J/J27/J27nB193.xml",
+        "J/J38/J38nB410.xml"
+      ],
+      "RelatedMasters": [
+        "Fenyang Shanzhao",
+        "Guting Shanjian",
+        "Wuming Huijing",
+        "Miyun Yuanwu",
+        "Feiyin Tongrong",
+        "Hanyue Fazang",
+        "Yunsou Benzhu",
+        "Hansong Zhicao",
+        "Yinyuan Longqi",
+        "Lianfeng Su"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The widest inhabited range the hall can name in four graphs, swept in one breath: the peerless one stands alone across it, the relics stream through it, the new year's grace bathes it, and at the graveside the nature endures across it. The peerless sweep: Miyun Yuanwu at the ancestor hall — eyes quick, no deliberating, the one who moves as soon as he grasps is a true man, no second such in the human world and the heavens; Feiyin Tongrong verses the whole machine cutting the streams at one stroke — no two such in the human world and the heavens; Wuming Huijing verses the arm-cutting ask: sandalwood cases stacked in the bosom, sighs of wonder through the human world and the heavens — knowing wrong, cutting the arm, seeking the mind-way, who would have thought the dull one was also dull. The range's other jobs: Fenyang Shanzhao tells the bell patrons that the twenty-fourth patriarch's younger brother, a dragon-child monk of unexcelled wit, was born ninety-one kalpas running in the human world and the heavens receiving fine blessings; Guting Shanjian instructs that with the Word doubted and never dropped the wisdom eye goes bright — walk alone and crosswise through the human world and the heavens, going against and coming with at the heart's ease; Hanyue Fazang on the nirvana day has the gold coffin rise seven talas high and the fire burn of itself, eight bushels and four pecks of relics streaming through the human world and the heavens; Yunsou Benzhu verses the countless packed like hemp through the human world and the heavens, ghost-trick souls a thing to sigh at — the iron snake of the old grave horned, the stone tiger's tail lashing sand; Hansong Zhicao at the hall-raising rules the White Cloud hall utterly apart from the human world and the heavens, the buddhas dwelling in it, the hall most auspicious; Yinyuan Longqi at new year has the king's word go out like a cord from a thread, grace bathing the human world and the heavens together; Lianfeng Su at the graveside asks nine-times-nine to what land she returns — across the human world and the heavens the nature endures."
+    }
+  ]
+}

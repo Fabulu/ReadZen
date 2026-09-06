@@ -1,0 +1,244 @@
+{
+  "Id": "t_31e21473c908",
+  "SourceTerm": "如何若何",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "how about this, what about that",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a how-or-what inquiry",
+        "deliberative question-making"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 285 hits in 129 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0653a09",
+          "ToLb": "0653b03",
+          "Kwic": "擬議濟便打至晚濟謂師云我今日問新到是將死雀就地彈就窠裡打及你出得語又喝起向青雲裡打師云草賊大敗濟又打。師開堂日示眾云此一炷香本為三聖師兄三聖為我太孤便合承嗣大覺大覺為我太󰫼我於三聖處會得󰠢主句若不遇大覺師兄洎乎誤却我平生我於大覺處吃棒見得臨濟先師在黃檗處喫棒𢇹道理此一炷香供養我臨濟先師。示眾云今日不問如何若何便請單刀直入興化与你證明時有旻德長老出作禮起便喝師亦喝德又喝師又喝德作禮㱕眾師云適來若是別人三十棒一棒也不較何故為他旻德長老會一喝不作一喝用。師入堂見首座乃云我見你了也座便喝師打露柱一下便出去首座隨後上方丈云適來觸忤和尚便作禮師就地打一棒座無語。師見同㕘來纔上法堂師便喝僧亦喝行三兩步師又喝僧亦喝湏󱅨",
+          "MasterName": "Xinghua Cunjiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Xinghua Cunjiang owns the retained deployment: opens his hall with incense for his late teacher Linji and tells the assembly that today he asks no how-or-what but bids them enter with the single blade, Xinghua to witness for them, then proves Minde's answering shout as one shout not used as one shout."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0848a11",
+          "ToLb": "0848b09",
+          "Kwic": "嶺南山草。一雨潤無邊，根苗壯枯槁。五湖參禪人，可問虗空討。死脫夏天衫，生披冬月襖。分明無事人，特地生煩惱。喝一喝。世尊三昧，迦葉不知；迦葉三昧，阿難不知；阿難三昧，商那和修不知；從上諸聖三昧，互相不知。乃拈拄杖，劃一圓相，云：者箇是什麼？良久，云：路逢劍客須呈劍，不是詩人莫獻詩。即與麼去，早成多事。更乃如何若何，和泥合水？所以靈山會上，迦葉親聞；少室巖前，祖師斷臂。且道斷臂作箇什麼？卓拄杖一下，下座。昨夜漫天總雪，大地一時皎潔。今朝庭際無人，莫道山僧不說。若論此事，汝今已得，更無欠少，與佛無殊，更無別法。良久，云：諸仁者！瞥地也未？古人無端貴買而賤賣。入興化，以拄杖擊繩牀一下，云：大眾還會麼？不見道：一擊忘所",
+          "MasterName": "Ciming Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ciming Chuyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Ciming Chuyuan owns the retained deployment: rules that just going like that is already too much, that any how-or-what merely kneads mud into water, and grounds it in Kasyapa hearing at Vulture Peak and the patriarch breaking his arm at Shaolin before striking his staff once."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0098a11",
+          "ToLb": "0099a03",
+          "Kwic": "得豈不是自由自在久立。師云不問又不得纔問來又成自輕了不問又焉知亦須解問始得我向頂上錐劄你要你識痛痒如揭你灸瘡甲相似靈利人便知始得莫自欺我不瞞你不見古人問如何是祖師西來意尊宿大驚曰你問他西來意作麼何不問你自己意如何是自己意曰當觀密作用如何是密作用尊宿以目開合示之古人多少苦口後來子孫又不恁麼也入門來便喝更無如何若何生怕你明不得有恁麼一件事何不識取諸方愛教人看公案我者裏現成公案好看莫教看破大小大事諸人十二時中秖是妄想塵勞心念智惠未能發生所有流布皆從意思中來要作何用智惠如日出無不開朗喚作無分別智現前須得恁麼一回了從此去有著脚手處有與你語言分若是妄想塵勞山僧於你無著脚手處好笑好笑󵘸東入西󵘸西入東不柰你何若能轉頭來智慧開",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment: contrasts the ancients, who answered with painstaking secret-work, with later descendants who shout the moment you enter the gate, no how-or-what at all, only afraid you might not understand."
+        },
+        {
+          "RelPath": "X/X71/X71n1404.xml",
+          "FromLb": "0014b07",
+          "ToLb": "0015a02",
+          "Kwic": "死從何去。生死去來，絲毫無疑。到任麼田地，方謂之大休大歇。無生死可怖，無菩提可求。盡十方世界，通上徹下，是箇真實人體。豈不見古德道，若有一人發真歸源，十方虗空悉皆消殞。信不誣矣。然後道，香果熟入纏垂手，隨機接物，自然綽綽有餘裕哉。若是半信半疑，今日問一句，明日問一句。更歇數日，又看𠕋子中記得兩句。又問，如何若何，央央庠庠。更有一等薄福闡提，專要點檢別人，並不點檢自己，決不堪為種草散保。此等之人，參到驢年，也未夢見在。豈不見良遂座主，講得極是淵源，乃知教相文字之學，非是究竟。聞麻谷和尚門墻孤峻，弃去文字之學，特去參扣。麻谷一見，便知是箇漢，便去菜園裏。善知識者，是大因緣，且不與你周由者也。如何若何，只要箇人向無入作",
+          "MasterName": "Wu'an Puning",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wu'an Puning",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu’an Puning. Wu'an Puning owns the retained deployment: sizes up the half-believing who ask one line today and one tomorrow, rest a few days, remember two lines from their books, and still come asking their how-or-what, solemn and courtly, next to the ill-fated who only inspect others."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0209c03",
+          "ToLb": "0209c16",
+          "Kwic": "天下。衲僧得一堪作甚麼？』良久，云：『缽盂口向天。』」師云：「大小楊岐，熟處難忘。衲僧得一且作麼生？」以拄杖卓一下，喝一喝，下座。示眾：「不是心，不是佛，不是物，是何物？」拈拄杖，云：「崑崙扶起瞎波斯，一槌擊碎黃金骨。」卓一下。上堂：「鼓聲纔動，大眾雲臻，法座高登，主賓互換，箇箇頂天立地，人人鼻孔遼天，不問如何若何，自然現成受用。不見道：『百味珍羞，無過一飽。』」下座。師因俗官見貓兒，問云：「貓兒喫肉否？」師云：「不喫肉，只喫老鼠。」官云：「善知識如何容得他？」師云：「教官人莫來不得。」上堂，僧問：「釋迦、彌勒猶是他奴，未審他是阿誰？」師云：「糞掃堆頭生苕帚。」進云：「學人不會。」師云：「問取淨頭。」進云：「大悲千",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: tells the assembly that when the drum sounds, the crowd gathers, the dharma seat is mounted and host and guest change places, everyone standing sky-crowned with nostrils flung wide, no one asks how-or-what, the enjoyment ready-made as it is."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0139c05",
+          "ToLb": "0139c18",
+          "Kwic": "棒，忍氣吞聲，從來無人為之雪屈。今又七百年後，萬峰遠孫要斷不平之事，亦不得扶強抑弱，直將黃面老子、折腳阿師，縛作一團、打作一塊，推向堂前，貴令生與同生、死與同死，大家無出頭分。諸仁者會麼？」乃起立，澆香水浴佛，云：「須與當頭一杓惡水。且道是不是？」又澆水，云：「汝等諸人聞此見此，便欲鼓唇嗾舌，踏步向前，問個如何若何，我也預先與你一杓惡水。且道是不是？」又澆水，云：「九龍天外風雷壯，霢霂絪縕萬國恩。」西來羅漢請上堂。「十萬里來不說一字，依稀像達磨，彷彿同真諦。芭蕉柄上書梵字，蝌蚪蟲文不相似。拈起○相問伊，叉手睜睛直示。老僧點頭道：『從前不是，這回恰是。』問大眾：是不是？」良久，云：「寧說阿羅漢有三毒，不說如來有二語。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: at the Buddha bathing stands and pours scented water, rules the first ladle foul water for the yellow-faced one and the broken-legged master bound into one lump, and promises anyone who stirs lips and tongue and steps forward to ask a how-or-what a ladle of foul water in advance."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0012c12",
+          "ToLb": "0012c25",
+          "Kwic": "，其功是同？是別？」師云：「鼻孔原來下頭大。」進云：「何不直截道一句？」師驀頭一棒。僧禮拜，師乃云：「自我達磨初祖觀東震旦國有大乘根器，特特航海而來，直指人心，見性成佛，以言句露者箇消息，易引人情識，乖戾直指之旨。後出臨濟大師以棒喝接機，杜絕情識，如擊石火、似閃電光直下，令人無回避處。如將梵位直授凡庸，更不如何若何，是謂之知痛癢。近來去聖時遙情竇日鑿，又將棒喝處穿鑿不少，以打處云痛，切審痛底是誰？可憐生，不獨不會吾祖棒喝之旨，且不會鼻祖西來之意也。然而鼻祖以言句定旨，蓋疏通執心執性之謂；後以棒喝定旨，蓋疏通嚼言嚼句之謂，豈是以打處痛處云知痛癢也耶？若如是會，則吾祖者條棒早已拗折了也，西來大意早已抹殺了也，又安繼於今",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: traces Daruma's words pointing straight at the mind and Linji's blows that leave no place to dodge, and calls the grant of the sacred seat straight to the common man with no how-or-what the knowing of where it hurts."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0007a07",
+          "ToLb": "0007a21",
+          "Kwic": "折倒了也。汝諸人還知出身處也無？若也知得，日費斗金，非分外脫；或未然，萬古碧潭空界月，再三撈摝始應知。」喝一喝，下座。上堂。「天上月正圓，人間道月半。半即背於圓，圓定違於半，欲得兩相應，分身兩處看。」噫一聲便下座。開爐，上堂。「烹佛烹祖大爐鞴，煆生煆死惡鉗鎚。」驀拈拄杖云：「若是超佛越祖、出生逾死者，不用如何若何，便請單刀直入，與通玄拄杖子相見。」良久乃云：「今日十月十五，今古謂之開爐，老僧更指虛空是個爐子，其中山河、大地、草木、叢林，凡有事物俱是煤炭，世間僧俗、男女、一切人天皆在者個爐子裡苦樂逆順、聲色逼惱、晝夜煎熬，生情取捨遂成輪轉，謂之三界無安，猶如火宅，唯有一門可出而復狹小，故立戒謹恐懼，不睹不聞，要知出",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: at the furnace opening lifts his staff and bids whoever transcends buddha and ancestor and outlives birth and death skip the how-or-what and enter with the single blade to meet the Tongxuan staff, then points at the void itself as the furnace where all beings simmer day and night."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0108b03",
+          "ToLb": "0108b16",
+          "Kwic": "」師云：「弄泥團漢。」問：「如何是結制本分事？」師云：「點過冷地坐。」僧云：「恁麼答話未在。」師云：「汝又作麼生？」僧擬開口，師便打，乃云：「黃檗今日結制，不依修證舊例，顯發莫大威光，免得諸人鈍置。所以道：以大圓覺為我伽藍，身心安居平等性智，放去則八面玲瓏，收來則四稜蹋地，若也不收不放，直下如紅爐火聚，將欲如何若何，早已喪身失命。還會麼？圓覺伽藍渾我體，虛空爐鞴自鎔中。」下座。上堂，西堂亙信問：「寶座纔登，百匝千圍，未出方丈，還有為人也無？」師云：「截斷汝舌頭。」進云：「恁麼則兩重公案。」師云：「斬釘又截鐵。」進云：「風行草偃一句，作麼生道？」師云：「闍黎自領去。」信喝一喝歸位，師乃云：「問話且置，直饒問如雲興、答",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: opens the retreat at Huangbo outside the old rules of cultivation and attainment, seats the assembly in the great perfect-awakening monastery, and warns that in the red furnace of neither releasing nor holding, to be about to how-or-what is already to lose body and life."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0107a14",
+          "ToLb": "0108a02",
+          "Kwic": "機著著有出身之路誰是恁麼人行恁麼事大眾看舉慈明和尚見泉大道來迺云片雲橫谷口道人何處來泉左右顧視云夜來何處火燒出古人墳明云未在更道泉作虎聲明以坐具一摵泉接住推明向禪牀上明卻作虎聲泉大笑云我見七十餘員善知識今日始遇作家師云你看他二大老驀劄相逢正所謂師子遊行象王踞地全機出沒大用現前諸人還識得麼若也識得不假如何若何便請單刀直入其或未然盲龜跛鼈豈堪克紹老僧更有個頌子諸人聽取二虎爭雄猛作威爪牙全露震崔嵬同音哮吼驚羣獸千古傳聞似怒雷休眨眼電光回不是等閒相共語漫將狐兔亂真規。示眾舉巴陵示眾云祖師道不是風動不是幡動既不是風幡向什麼處著有人與祖師作主出來與巴陵相見雪竇云風動幡動既是風幡向什麼處著有人與巴陵作主出來與雪竇相",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Ciming Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: raises the meeting of the two old worthies, the one who gave tiger cries and the one who laughed and called him a master, and says whoever recognizes the full workings before their eyes needs no how-or-what but enters with the single blade, while a blind turtle and lame turtle cannot carry it on."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "X/X68/X68n1318.xml",
+        "D/D48/D48n8939.xml",
+        "X/X71/X71n1404.xml",
+        "J/J32/J32nB273.xml",
+        "J/J34/J34nB299.xml",
+        "J/J26/J26nB177.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB178.xml",
+        "L/L154/L154n1639.xml"
+      ],
+      "RelatedMasters": [
+        "Xinghua Cunjiang",
+        "Linji Yixuan",
+        "Ciming Chuyuan",
+        "Foyan Qingyuan",
+        "Wu'an Puning",
+        "Qianyan Yuanzhang",
+        "Hanyue Fazang",
+        "Poshan Haiming",
+        "Miyun Yuanwu",
+        "Feiyin Tongrong",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Two questions folded into one, and the masters who bar the asking at the gate. Xinghua Cunjiang opens his hall with incense for his late teacher Linji and tells the assembly that today he asks no how-or-what but bids them enter with the single blade, Ciming Chuyuan rules that just going like that is already too much and any how-or-what merely kneads mud into water, Foyan Qingyuan contrasts the ancients' painstaking answers with descendants who shout the moment you enter the gate, no how-or-what at all, only afraid you might not understand, Wu'an Puning sizes up the half-believing who ask one line today and one tomorrow and still come asking their how-or-what, solemn and courtly, and Qianyan Yuanzhang has the drum sound, the assembly gather, host and guest change places, and no one asks how-or-what, the enjoyment ready-made as it is. Sanfeng Hanyue bathes the Buddha and promises a ladle of foul water in advance to any of them who stirs lips and tongue and steps forward to ask a how-or-what, Poshan Haiming traces Daruma's words and Linji's blows to the grant of the sacred seat straight to the common man with no how-or-what, and that as knowing where it hurts, Miyun Yuanwu at the furnace opening bids whoever transcends buddha and ancestor skip the how-or-what and meet the Tongxuan staff, Feiyin Tongrong warns the retreat assembly that in the red furnace of neither releasing nor holding, to be about to how-or-what is already to lose body and life, and Tianyin Yuanxiu raises the two old worthies' tiger-roar meeting and says whoever recognizes it needs no how-or-what but enters with the single blade."
+    }
+  ]
+}

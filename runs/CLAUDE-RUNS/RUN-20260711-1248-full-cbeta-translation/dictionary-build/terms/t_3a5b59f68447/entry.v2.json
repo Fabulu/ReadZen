@@ -1,0 +1,258 @@
+{
+  "Id": "t_3a5b59f68447",
+  "SourceTerm": "四方八面",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the four quarters and eight directions",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "every side at once",
+        "all around, every quarter"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 286 hits in 147 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0648a24",
+          "ToLb": "0648b18",
+          "Kwic": "內坐囙說普化每日在街市掣風掣顛知佗是凡是聖言猶未了普化入來師便問汝是凡是聖普化云汝且道我是凡是聖師便喝普化以手指云河陽新婦子木塔老婆禪臨濟小廝兒却具一隻眼師云這賊普化云賊賊便出去。一日普化在僧堂前吃生菜師見云大似一頭馿普化便作馿鳴師云這賊普化云賊賊便出去。囙普化常於街市搖鈴云明頭來明頭打暗頭來暗頭打四方八面來旋風打虛空來連架打師令侍者去纔見如是道便把住云㹅不与麼來時如何普化托開云來日大悲院裡有齋侍者回㪯似師師云我󴌰來疑著這漢。有一老宿㕘師未曾人事便問禮拜即是不禮拜即是師便喝老宿便禮拜師云好箇草賊老宿云賊賊便出去師云莫道無事好首座侍立次師云還有過也無首座云有師云賔家有過主家有過首座云二俱有過師云過在什麼處",
+          "MasterName": "Puhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Puhua",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "record-owner",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Puhua owns the retained deployment: rings his bell through the streets striking whichever way they come, light-heads with open eyes and dark-heads with closed, the four quarters and eight directions as a whirlwind and the void with a flail, until Linji's messenger grabs him and he wards it off with tomorrow's feast at the Great Compassion Hospice."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0601b18",
+          "ToLb": "0601c04",
+          "Kwic": "群生。問門門一切境。迴互不迴互。如何是不迴互。師云。今日過泥不易。問甘露頻霖。為什麼。百草不生芽。師云。田疎不貯水。龍王爭那何。問如何是心地法門。師云。莫從人覓。乞師再指。師云。爾是谷隱出家。問簾捲扇開。當人何在。師云。萬姓歌皇化。玄音廓太虛。恁麼則明鏡當懸於此日。時人盡賀太平年。師云。一音普演三邊靜。四方八面總來朝。問如何是西河一滴水。師云。飲者永無飢。恁麼則冷味少人知。師云。潤濟不從源。問如何是諸佛行李處。師云。直下無生路。行時不動塵。恁麼則謝師方便也。師云。東西南北路。不用更奢華。師云。適來上座問。如何是諸佛行李處。對他道。直下無生路。行時不動塵。且問諸上座。既是無生路。且作麼進步誠進看。若不進步。不",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment: answers the rolled-blind-swung-fan exchange on where the person is, first with the myriad surnames singing the imperial sway and its tone filling the void, then rules that one voice preached abroad sets the three borders still and the four quarters and eight directions all come to court."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0053b01",
+          "ToLb": "0053b17",
+          "Kwic": "切莫拈䭔䑛指，直須截斷舌頭，放下身心，自然快活。眼若不睡，諸夢自除；心若不異，復名何物？快活！快活！歸堂喫茶。雪竇顯頌云：編辟曾挨老古錐，七斤衫重幾人知。而今拋向西湖裏，下載清風付與誰。白雲端云：七斤衫重豈難提，日出東方定落西。一擊珊瑚枝粉碎，轟轟雷雨滿山溪。保寧勇云：獨坐獨行真竭斗，無規無矩老禪和。四方八面難拘檢，天下誰能柰你何。文殊道云：趙老布衫重七斤，問處分明答處親。大地山河都蓋却，誰是當機裁剪人。普融平云：七斤衫重絕纖挨，妙手何人解剪裁。堪笑東村王大姐，滿身風雨入門來。趙州僧問：方外忽有人問：和尚說甚麼法？如何祗對？師云：鹽貴米賤。西禪需頌云：鹽貴米賤，諸事成現，擬欲商量，腦後拔箭。洛浦安禪師",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Baoning Renyong owns the retained deployment: praises the lone walker of Zhaozhou's seven-pound-shirt case, a true dipper who sits and walks alone, an old practitioner beyond rule and measure, unconfined in the four quarters and eight directions, whom none under heaven can touch."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0822c11",
+          "ToLb": "0822c27",
+          "Kwic": "喫飯有甚麼難。山云。何不道披毛戴角。門禮拜。師云。二尊宿恁麼問答。未免在驢胎馬腹裏作活計。雖然如是。狗銜赦書諸侯避道。上堂。僧問。明頭來時如何。師云。頭大尾顛纖。進云。暗頭來時如何。師云。野馬嘶風蹄撥剌。進云。明日大悲院裏有齋。又作麼生。師云。雪峯道底。乃云。明頭來明頭打。開眼著。暗頭來暗頭打。閉眼著。四方八面來旋風打。漏逗不少。虛空裏來連架打。著甚來由。總不恁麼來。却較些子。明日大悲院裏有齋。特地一場愁。復云。古人恁麼道。今人恁麼提。於宗乘中成得甚麼邊事。喝一喝。上堂。僧問。過去心不可得。現在心不可得。未來心不可得時如何。師云。親言出親口。進云。未審如何受持。師云。但恁麼受持。決不相賺。僧禮拜。師乃云。過去",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Puhua",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: replays the sweep at his own hall after the monks' light-head and dark-head questions, striking the four quarters and eight directions as a whirlwind, quite a few leaks, and the void with a flail to what end, granting that if they do not come like that at all it is a bit better, and tomorrow there is a feast at the Great Compassion Hospice, a specially concocted sorrow."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0958b06",
+          "ToLb": "0958b22",
+          "Kwic": "。二尊宿。美則美矣。若要扶臨濟正宗。每人各欠一頓棒在。且道。那裏是他欠處。具擇法眼者。試定當看。上堂。佛說一切法。為度一切心。我無一切心。何用一切法。既無心。又無法。山河大地。甚處得來。見聞覺知。復是何物。乃喝一喝云。臨崖看滸眼。特地一場愁。上堂。一進一退。一動一靜。須信那伽常在定。一擒一縱。一殺一活。四方八面話鱍鱍。嘉州大象喫鹽多。陝府鐵牛添得渴。若作佛法商量。喫鐵棒有日在。上堂。知幻即離。不作方便。以拂子左邊擊一下云。向遮裏薦取。離幻即覺。亦無漸次。以拂子右邊擊一下云。向遮裏薦取。一人發真歸元。十方虛空。悉皆消殞。以拂子中間劃一劃云。向遮裏薦取。烏巨葛藤。盡被諸人覷破了也。諸人鼻孔眼睛。被烏巨拂子穿却。因",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: teaches that one advance one retreat, one move one stillness, the naga ever in samadhi, one seize one release, one kill one live, the four quarters and eight directions talking freely, with the Jiazhou elephant grown salt-thirsty and the Shanfu iron ox the more parched, and that taking it as buddha-dharma discussion earns the iron staff."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0993a03",
+          "ToLb": "0993a20",
+          "Kwic": "如此。佛涅槃上堂。今日則有。明日則無。釋迦老子一生賣峭。臨死自納敗闕。致令後代兒孫。箇箇以鰕為目。萬松丈人。屋上之烏。與之救看。拈起主丈。吹一吹。上堂。破家散宅。毀祖滅宗。不挂條絲。獨超象外。此人只會得接手句。未具透關眼。若能洗面摸著鼻。啜茶濕却嘴。許爾。是半箇衲僧。未可全展鉢盂喫飯。上堂。放一線道。四方八面絕遮攔。收一毛頭。無邊剎海煙塵起。不收不放。萬松口似磉盤。是汝諸人。也須救取。上堂。舉。白雲瑞和尚示眾。古人留下一言半句。未透。時撞著鐵壁相似。忽然一日透去。方知。自己便是鐵壁。且道。如今作麼生透。乃云。鐵壁鐵壁。師云。白雲恐人不會。只管依文解義。衲僧家。融萬象於目前。摶虛空於掌上。猶是轉句。況那邊事耶",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: lets out one thread of a way and the four quarters and eight directions stand unblocked, gathers in one hair-tip and the boundless seas of lands smoke up with dust, and with neither gathered nor let out Wansong's mouth is a stone roller, so they too must save themselves."
+        },
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0322b08",
+          "ToLb": "0323a03",
+          "Kwic": "山諲禪師：掩息如灰時如何？諲云：猶是時人功幹。僧云：幹後如何？諲云：畊人田不種。僧云：畢竟如何？諲云：禾熟不臨場。師云：諲禪師與麼答話，勞而無功。這僧若是個漢，決不依他作解。後來應菴和尚道：鳳閤香沈，雪巢夜冷，半窓明月，和氣藹然。正與麼時，且道歸宗與徑山還有相見分也無？喝！直饒相見，也是蝦蟆窟裏作活計，要見四方八面逸格變通，別著個眼始得。新徑山莫有長處麼？拍禪床，云：敲出鳳凰五色髓，擊碎驪龍明月珠，千古華山山脚下，只應潘閬倒騎驢。久立，珍重。上堂。舉睦州道：揑聚也在我，裂開也在我。有僧便問：如何是裂開？州云：菩提涅槃，真如解脫，三九二十七，即心即佛。我且與麼道，你又作麼生？僧云：某甲不與麼道。州云：𧣴子撲落地，楪子",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained deployment: rules over the Guizong and Jingshan meeting that even if they met it would be living in a toad's hole, that seeing the four-quarters-eight-directions transcendent mode of exchange takes setting another eye, and taps the couch for the phoenix marrow and the dragon's bright pearl."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0138a04",
+          "ToLb": "0138a18",
+          "Kwic": "多少？師云：頻添花甲子，數到劫雲初。進云：只如和尚未出世時一句又作麼生？師云：手中拂三十錢買來底。進云：謝師答話。師云：且道劫雲之前是何景象？進云：今朝不用重追究，曾向湖南佛國來。師云：三十棒自領出去。乃云：從本無生，誰曰有生？無生緣生，緣生無生，達此生理，不妨生生。所以云：生生謂之道，萬古碧潭光皎皎，四方八面絕遮攔，曰聖曰凡俱不了。慈明和尚云：手鑠黃河乾，脚蹋須彌倒，天堂并地獄，皆繇心所造。卓拄杖，云：若真獅子兒，不向那邊討。知非首座請上堂。博山久不上堂，諸人生出幾多妄想，如渴鹿趂陽𦦨，有甚了期？何不向自己脚跟下薦取？諸昆仲！若欲向自己脚跟下薦取，最先要看破依正二報、四生六道，悉從因緣生，還從因緣滅。釋迦老子",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Ciming Chuyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: teaches from the originally unborn that reaching the life-in-life makes no obstacle to birth, sings the ten-thousand-age pool shining bright and unblocked in the four quarters and eight directions with sage and commoner alike failing to know it, then adds Ciming's drying the Yellow River by hand and treading Sumeru down."
+        },
+        {
+          "RelPath": "J/J29/J29nB240.xml",
+          "FromLb": "0557c25",
+          "ToLb": "0558a08",
+          "Kwic": "：「撞木鐘。」僧歸眾，師云：「撞木鐘。」乃云：「聚雲新木鐘，扣擊得玲瓏，千聖齊掩耳，雪火一爐紅。若是伶俐衲僧，自具一付快便手腳，纔見宗師，眼目定動，早已錯過了也。所以，下雨地必滑，天晴日光達，喝中賓主，棒下縱奪，敲骨取髓，痛下針錐，玄節要關，拈一放一，謹嚴高古，細密簡明，末後轉身，異類親切，只得葫蘆苕帚，四方八面一場打鬨。且道：如何是即今為人處？有意掩爐還點雪，無心張弩更開弓。」上堂。以拄杖打○相，云：「天上星辰日月。」卓一下，云：「地下走飛魚鱉。」橫按，云：「佛法不用商量。」豎起，云：「一任衲僧捫摸。珍重！諸人好承當，莫把秤錘喚作鐵。不喚作鐵，且道喚作甚麼？」上堂。「一棒一條痕，久雨復還晴；一摑一掌血，凄風驚落",
+          "MasterName": "Qingzhong Tiebi Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qingzhong Tiebi Huiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB240.xml). Recorded Sayings of Chan Master Tiebiji of Qingzhong. Qingzhong Tiebi Huiji owns the retained deployment: sums the swift hands and feet of the sharp-witted monk, the guest-and-host within the shout, the seize-and-release under the staff, marrow knocked from bone and needles driven home, down to the final turn into other kinds, as nothing but a gourd and a cob-brush, one free-for-all in the four quarters and eight directions, and asks what his helping of them is now."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0227a02",
+          "ToLb": "0227a14",
+          "Kwic": "意氣時添意氣，不風光處卻風光。」卓拄杖，下座。延生請上堂。問：「龐公云：『大家團圞頭，共說無生話。』如何是無生話？」師云：「放汝三十棒。」進云：「看破龐公了也。」師云：「看破在什麼處？」僧以手掩面云：「蒼天蒼天。」師打云：「放汝不過。」問：「如何是金剛不壞身？」師翹足云：「者箇壞不壞？」乃云：「豁開正法眼，四方八面洞明；突出本來身，天上人間獨露。奇特處奇特，弓弦走馬；殊勝中殊勝，錦上添花。須是奇特人，方明殊勝事；須是殊勝事，方顯奇特人。正當此際，以何為驗？」以拂子擊香几左邊云：「豈不是奇特人？」復擊香几右邊云：「豈不是殊勝事？若向箇裏信得及、作得主，把得住、放得開，便與三世諸佛同一鼻孔出氣，與天地萬物同一根生，與山",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: at the life-extension seat pries open the true dharma eye, lucid in the four quarters and eight directions, and juts out the original body, alone revealed in heaven and among men, the strange in the strange, riding horseback on the bowstring."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1992.xml",
+        "X/X67/X67n1299.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T47/T47n1999.xml",
+        "T/T47/T47n2000.xml",
+        "X/X71/X71n1421.xml",
+        "X/X72/X72n1435.xml",
+        "J/J29/J29nB240.xml",
+        "J/J27/J27nB193.xml"
+      ],
+      "RelatedMasters": [
+        "Puhua",
+        "Linji Yixuan",
+        "Fenyang Shanzhao",
+        "Baoning Renyong",
+        "Zhaozhou Congshen",
+        "Dahui Zonggao",
+        "Mi'an Xianjie",
+        "Xutang Zhiyu",
+        "Yu'an Zhiji",
+        "Wuyi Yuanlai",
+        "Ciming Chuyuan",
+        "Qingzhong Tiebi Huiji",
+        "Yinyuan Longqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "All directions folded into one frame, and the masters who strike, open, or light them up. Puhua rings his bell through the streets striking whichever way they come, light-heads and dark-heads, the four quarters and eight directions as a whirlwind, the void with a flail, until Linji's messenger grabs him, Fenyang Shanzhao answers the mirror-hung-in-broad-daylight exchange with one voice preached abroad and the four quarters and eight directions all coming to court, Baoning Renyong's verse on the seven-pound shirt praises the lone walker no rule restrains, unconfined in every direction, whom none under heaven can touch, Dahui Zonggao replays the same sweep at his own hall, whirlwind for the four quarters and eight directions, flail for the void, quite a few leaks, and Mi'an Xianjie holds one advance one retreat, one seize one release, one kill one live, with the four quarters and eight directions talking freely. Xutang Zhiyu lets out one thread of a way and the four quarters and eight directions stand unblocked, gathers in one hair-tip and the boundless seas of lands smoke up, Yu'an Zhiji rules that even meeting would be living in a toad's hole and seeing the all-directions transcendent mode of exchange takes another eye, Wuyi Yuanlai sings the ten-thousand-age pool shining bright and unblocked in every direction, sage and commoner alike failing to know it, Tiebi Huiji sums his lineage's work as a gourd and a cob-brush, one free-for-all in every direction, and Yinyuan Longqi pries open the true dharma eye, lucid in every direction, the original body jutting out alone in heaven and among men."
+    }
+  ]
+}

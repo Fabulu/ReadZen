@@ -1,0 +1,191 @@
+{
+  "Id": "t_8ef52c882bb4",
+  "SourceTerm": "如大火聚",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "like a great mass of fire",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "like a great blazing heap",
+        "as an unapproachable fire-mass"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 205 hits in 120 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0963b11",
+          "ToLb": "0963b26",
+          "Kwic": "還聞麼。進云。五天吹不起。漢地和難齊。師云。又被風吹別調中。進云。只如太師循王。今日深領和尚法音。未審超何地位。師云。泥多佛大。進云。還許學人借水獻花也無。師云。又且何妨。進云。亡過無疑登九品。見存此去列三台。師云。只消遮一句。僧禮拜。師乃云。心生種種法生。心滅種種法滅。心法兩忘。如撾塗毒鼓。聞者皆喪。又如大火聚。近之則燎却面門。悟之者。立地成佛。迷之者。永劫輪迴。所以諸佛所說。唯說此心。祖師所傳。唯傳此法。靈山會上。五百比丘得之。自悟本心。如夢如幻。於夢幻中。不見有我人眾生。廣額屠兒得之。挑下屠刀叉手云。我是千佛一數。大集會中。大力魔王得之。便道。我待一切眾生成佛淨盡。眾生界空。無有眾生名字。我乃發菩提心。豈",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: teaches at the grandee's service that when mind and dharmas are both forgotten it is like drumming the poison drum where all who hear perish, and again like a great mass of fire, near it and it scorches your face, so that those who wake stand as buddhas on the spot and those lost revolve for eternal kalpas, since the buddhas only speak this mind and the patriarchs only transmit this dharma."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0864b10",
+          "ToLb": "0865a05",
+          "Kwic": "當人直截荷負，卸却從前學解，明昧兩岐，到淨裸裸處，更須轉向那邊，見佛殺佛，見祖殺祖，向衲僧門下，猶是奴兒婢子邊事。大丈夫漢，莫向禪床角老和尚口邊，覔禪覔道，覔玄覔妙，𡎺向臭皮袋裏，為究竟法，不亦謬乎？睦州凡見僧云：見成公案，放你三十棒。俱胝見僧竪指，秘魔見僧擎杈，至於玄沙未徹，從上諸宿德，無不的的痛處提持，如大火聚，孰敢近傍？近傍則燎却面門。又如金翅擘海，直取龍吞，更無回互。有如是氣槩，具如是英特，方可稱為大丈夫事。莫祇守老鼠見解，弄三寸光，巡門傍戶，見人道好，從之於好，見人道惡，從之於惡，誠可憐憫。麻谷一日持錫至章敬，遶禪床一匝，振錫一下，卓然而立。敬云：是，是。又持錫至南泉，遶禪床一匝，振錫一下，卓然而立。泉云",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment: runs Muzhou's ready-made case, Zhizhi's one raised finger, and Bimo's trident down the whole line of old worthies from Xuansha's half-clearing, each held up at its exact aching point like a great mass of fire that none dare approach, approach it and it scorches your face, again like the golden-winged bird splitting the sea to swallow the dragon outright with nothing held back."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0698a13",
+          "ToLb": "0698b07",
+          "Kwic": "遺言往行。皆歷代之元龜百世之師法。於此可不發深省哉。是則是矣。須知男兒自有衝天志。不向古人行處行。且作麼生是。衝天志。咄不是知音徒勞側耳。示眾。瞻在前忽在後。竹鷄晝啼華鯨夜吼。未了聽一言。如今誰動口。嗟夫學人將此一等言句。作箇相似底道理。商量把自家一片潔白田地。添這般野狐涎沫點汙了也。却不思。古人開口處。如大火聚。如大風輪。無儞湊泊處。又如吹毛利劒。等閑拈出直欲要斷人命根。此豈可以心意識卜度而為得哉。若然則阿難不假再修。二祖不勞斷臂。何則彼阿難二祖聰慧過人意識明了。如汝所解者彼豈未聞耶。蓋是心不妙悟見地不脫。若見地不脫。則動是情意識輥作一團。在處依草附木承虛接響。致使上味醍醐蘊在伊不淨器中變成毒藥。一切時中如箇",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: warns students not to take such sayings as a kind of principle and so smear their own field of clean white with wild-fox spittle, since the ancients' opening of the mouth was like a great mass of fire and a great wind-wheel with nowhere for you to touch down, and like a sharp sword drawn casually out, wanting straight out to cut the life-root, which no measuring by mind, consciousness, and conception can attain."
+        },
+        {
+          "RelPath": "L/L153/L153n1638.xml",
+          "FromLb": "0688b03",
+          "ToLb": "0689a07",
+          "Kwic": "不墮人間受諸苦惱平坦坦地佛祖安身立命之處喝一喝云者裏是甚麼所在容伊着脚經云諸佛智慧甚深無量其智慧門難解難入復喝一喝云什麼智慧門只消一個乾屎橛擊碎流出一切麻三斤庭前栢樹子三玄三要五位君臣有句無句打作一串不消老人一拂化為微塵久立珍重。解制陸登之居士請上堂師陞座云結制解制為個甚麼秪為當人脚跟下一叚大事不明如大火聚不得清凉所以道十方同聚會個個學無為此是選佛塲心空及第歸一期過了堂中不見一箇半箇雖然且喜太平良久云一二三四五六七萬仞峰頭獨足立問伊你更是阿誰我是人間白拈賊遂喝一喝云十字街頭撞着馬相公與你索飯錢你作麼生秪對眾無語師云老人與你代一轉語春風日日到園林夜夜面南看北斗。到雲門顯聖請上堂喝一喝云法王法座如此如彼三",
+          "MasterName": "Xueqiao Yuanxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueqiao Yuanxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6). Xueqiao Yuanxin owns the retained deployment: opens the end of the retreat for the layman Lu Dengzhi saying the binding and loosing were all for the one great matter under each person's heels, unclear like a great mass of fire with no coolness to be had, and though not one head showed in the hall the whole term through, all is at peace, naming himself the one-legged stand on the crest of ten thousand fathoms, the white-taking thief of the human world."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0138b13",
+          "ToLb": "0139a08",
+          "Kwic": "靈，寂而玅。纔思惟，行不到。請和尚行到一句佈施大眾。師云：山濶猿長嘯。進云：謝和尚指示。師云：林踈鳥不驚。僧禮拜，師乃云：若人欲知佛境界，當淨其意如虗空。遠離妄想及諸取，令心所向皆無礙。諸昆仲，汝等即今本具底四大、五蘊、六根、六塵、六識及阿賴耶識，念念生、念念住、念念異、念念滅，是礙耶？非礙耶？所以道：會得如大火聚，會不得亦如大火聚，會得如大火聚高山無宿鳥，會不得如大火聚深水有嘉魚。博山恁麼道，也是杓卜聽虗聲。汝等諸人大須審細。茲因相國張居士入山飯僧，此居士位極人臣，謙光導物，靈苗智種，天性帶來，不忘靈山付囑，殷勤懇請博山上堂。當知居士一片婆心，祇要諸人得箇入處。諸人還知入處麼？卓拄杖，云：山中光耀輝天地，佇看堂堂",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: tells his cousins that getting it is like a great mass of fire and not getting it is also like a great mass of fire, on the high mountain no roosting birds, in the deep water fine fish, before granting that Boyan saying it this way is also just ladling at empty sounds, and that they must all look closely, since the grand counselor Zhang's one grandmother-heart only wants them to find a place to enter."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0586b17",
+          "ToLb": "0587a14",
+          "Kwic": "。照用同時，要失其旨矣。僧問汾陽：如何是學人著力處？師曰：嘉州打大像。曰：如何是學人轉身處？師曰：陝府灌鐵牛。曰：如何是學人親切處？師曰：西河弄師子。乃曰：若人會得此三句，已辯三玄。更有三要語在，切須薦取，不是等閒。與大眾頌出曰：三玄三要事難分，得意忘言道易親。一句明明該萬象，重陽九日菊花新。汾陽三句，如大火聚，近之不得，背之非火。若能會取，三玄無剩旨矣。然猶云更有三要語在，切須薦取。何也？汾陽不云乎：一句明明該萬象，重陽九日菊花新。若未忘言，難契此旨。又舉三玄語曰：汝還會三玄底時節麼？直須會取古人意旨，然後自心明去，更得變通自在，受用無窮，喚作自受用身。佛不從他教，便識得自家活計。所以南泉曰：王老師十八上解",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: grades Fenyang's three phrases, the Liao州 elephant, the Shaan府 iron ox, and the western-river lion, as like a great mass of fire, near it you may not go, turn your back and it is not fire, and verses the one line that openly gathers the myriad images at chrysanthemum season, holding that whoever can take it up finds no leftover meaning in the three mysteries."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0011a09",
+          "ToLb": "0011a23",
+          "Kwic": "欺，直截單提全正令，要使個個超佛越祖，人人鼻孔遼天。」驀拈拄杖云：「當恁麼時如何通氣？他家自有通霄路。」便下座。上堂。「樹彫葉落，明明脫體全彰；雲散天空，杲杲日輪當午。正恁麼時，霜風劈面來，諸人還覺寒毛卓豎也無？若也覺得，如龍得水、似虎靠山，日用頭頭全體露，折旋俯仰沒遮攔。」喝一喝，下座。開爐上堂。「般若如大火聚，擬之則燎卻面門。」驀拈拄杖連卓云：「當爐不避火者，與拄杖子相見。」僧問：「正偏兼帶即不問，臨濟家風事若何？」師便打，僧擬進語，師復打云：「再犯不容。」乃云：「火焰為三世諸佛說法，炤顧眉毛多少莖？三世諸佛立地聽，歷歷分明赤骨惺，死柴頭發渾身燄，始可聯輝繼祖燈。」喝一喝，卓拄杖下座。上堂。「有問有答，正是業",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: opens the furnace with prajna as a great mass of fire, propound on it and it scorches your face, then suddenly snatches up his staff and raps it again and again for the one who does not shun the fire at the furnace to come meet the staff, teaching that the flame itself preaches for the buddhas of the three times and that only the dead log gone all-body- blaze may join its light to the patriarch lamp."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0005b23",
+          "ToLb": "0005c07",
+          "Kwic": "正好喫山僧手中拄杖。因甚如此？不見道？祖襧未了，殃及兒孫。」卓拄杖，下座。漈濱護法請上堂。僧問：「應以此身得度者，即現此身而為說法，今日居士到來，如何相見？」師云：「不敢相瞞。」進云：「雲月雖同，爭柰溪山各異。」師云：「闍黎道亦著。」僧禮拜，師云：「得箇驢兒便喜歡。」乃云：「諸佛關樞，祖師巴鼻，歷落當前，如大火聚。」驀拈拄杖，云：「喚作拄杖則觸，不喚作拄杖則背，灼然此箇說話實無針鋒，許與人作道理摶量，惟要夙根利智，纔聞舉著便乃倒轉鎗頭，方不辜從上牙爪。政恁麼時，安家樂業一句如何道？寬懷共坐和風裏，擺手長歌漈水濱。」遂靠拄杖，下座。上堂。「春眠不覺曉，處處聞啼鳥，衲僧家總道我會。夜來風雨聲，花落知多少，十箇有五雙",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: at the seat the seaside patrons request, sets the pivots of the buddhas and the handles of the patriarchs strewn plainly before him like a great mass of fire, then snatches up his staff so that calling it a staff is a miss and not calling it a staff is a turning away, a saying with no needle-point of room for anyone to reason over, needing only the well-rooted and sharp-witted who reverse the spearhead at first hearing."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1999.xml",
+        "X/X69/X69n1359.xml",
+        "B/B25/B25n0145.xml",
+        "L/L153/L153n1638.xml",
+        "X/X72/X72n1435.xml",
+        "X/X72/X72n1437.xml",
+        "J/J10/J10nA158.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Mi'an Xianjie",
+        "Ying'an Tanhua",
+        "Zhongfeng Mingben",
+        "Xueqiao Yuanxin",
+        "Wuyi Yuanlai",
+        "Yongjue Yuanxian",
+        "Miyun Yuanwu",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Like a great mass of fire, and the masters who forbid approach to what they hold up. Mi'an Xianjie teaches that when mind and dharmas are both forgotten it is like drumming the poison drum, all who hear it perish, and again like a great mass of fire, near it and it scorches your face, so that those who wake stand as buddhas on the spot and those lost revolve for eternal kalpas, Ying'an Tanhua runs Muzhou's ready-made case, Zhizhi's one finger, Bimo's raised trident down the whole line of the old worthies, each held up at its exact aching point like a great mass of fire that none dare approach, approach it and it scorches your face, again like the golden-winged bird splitting the sea to swallow the dragon outright, Zhongfeng Mingben warns students not to smear their own clean field with fox spittle by taking such sayings for some kind of principle, since the ancients' opening of the mouth was like a great mass of fire and a great wind-wheel with nowhere to touch down, and like a sharp sword drawn casually to cut the life-root, and Xueqiao Yuanxin opens the retreat's end saying it was all for the one great matter under each person's heels, unclear like a great mass of fire with no coolness to be had, naming himself the white-taking thief standing on one foot at the crest of ten thousand fathoms. Wuyi Yuanlai tells his cousins that getting it is like a great mass of fire and not getting it is also like a great mass of fire, on the high mountain no roosting birds, in the deep water fine fish, before granting that Boyan too is just ladling at an empty sound, Yongjue Yuanxian grades Fenyang's three phrases as like a great mass of fire, near it you may not go, turn your back and it is not fire, Miyun Yuanwu opens the furnace with prajna as a great mass of fire, propound on it and it scorches your face, then raps his staff for the one who does not shun the flame at the furnace, and Baichi Xingyuan sets the pivots of the buddhas and the handles of the patriarchs strewn before him like a great mass of fire, where calling it a staff is a miss and not calling it a staff is a turning away."
+    }
+  ]
+}

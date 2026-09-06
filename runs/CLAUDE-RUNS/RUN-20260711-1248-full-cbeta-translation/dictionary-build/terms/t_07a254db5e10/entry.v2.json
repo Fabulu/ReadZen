@@ -1,0 +1,171 @@
+{
+  "Id": "t_07a254db5e10",
+  "SourceTerm": "臘月二十五",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:48:52Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the twenty-fifth of the last month",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "twelfth-month twenty-fifth",
+        "the 25th day of the last lunar month",
+        "last-month five-and-twenty"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 166 hits in 73 files representing 71 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0545b25",
+          "ToLb": "0545c04",
+          "Kwic": "轉沒交涉擬心即差。況復有言莫是不擬心是麼。更有什麼事。珍重。問如何是雲門一曲。師云。臘月二十五。進云。唱者如何。師云。且緩緩。問如何是祖師西來意。師云。日裏看山。問如何是和尚家風。師云。久雨不晴。進云。如何是久雨不晴。師云。曬㫰著。問如何是不帶眹。師云。天台普請。南嶽遊山。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment: asked straight in his own record — what is Yunmen's one tune? — and answers with the date; asked who will sing it: take it slowly."
+        },
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0376a14",
+          "ToLb": "0376a19",
+          "Kwic": "問：「如何是實學底事？」師云：「大好消息。」進云：「畢竟是誰家之子？」師云：「臘月二十五。」問：「承教有言一切智智清淨時如何？」師便唾之。進云：「古人方便又作麼生？」師云：「來，來！截卻汝腳跟，換卻汝髑髏，缽盂裏拈卻匙箸，拈卻鼻孔來。」進云：「甚處有許多般？」師云：「者掠虛漢。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment: asked what the truly-studied affair is — grand good news — and whose son it is in the end — again the date, in the Jiaxing record of the same sayings."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0228c24",
+          "ToLb": "0229a05",
+          "Kwic": "既歸之者，不得守住家鄉。何故？座久成勞。上堂，舉僧問雲門：如何是雲門一曲？門云：臘月二十五。師云：雲門一曲，從來無譜，韻出五音，調高千古。就中妙旨許誰知，幾擬黃金鑄子期。天基節，上堂：君臣道合，正是法身邊事。",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: raises the same ask and rules: the one tune never had a score — its note rises out of the five tones, its key above a thousand ages — who knows the purport within? I have half a mind to cast Zhong Ziqi in gold."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0690b11",
+          "ToLb": "0690b17",
+          "Kwic": "」乃云：「臨濟用金剛寶劍，斬盡癡頑；楊岐將玉笛橫吹，驚天動地。鹽官打破虛空鼓，雲門臘月二十五，雖然曲調也稱奇，若到大覺門下，直令賽采不得。且道：大覺將甚麼與它賽采？㘞！只者㘞地一聲，天下人賽采不得。」除夜，小參。問：「小盡二十九，大盡三十日，東村王老夜燒錢，還有佛法道理也無？",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: runs the set list — Linji's diamond sword, Yangqi's jade flute shocking heaven and earth, Yanguan breaking the empty-space drum, Yunmen's twelfth-month twenty-fifth — and asks what Dajue will set against them: one crash."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0015b12",
+          "ToLb": "0015b18",
+          "Kwic": "」進云：「恁麼則乾坤育聖德，萬物共霑恩也。」師云：「喜慶有分。」乃云：「韶陽一曲，臘月二十五，太平移向新年頭，吹唱端為聖明御極之初，嵩祝萬壽，直得風和日暖，五彩雲凝，鳳舞龍蟠，千祥駢集，人人歌至化，在在樂無虞。然雖如是，且道：這一曲從什麼處得來？又作麼生吹唱？灼然不落宮商調，自有徽音動地天。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: at the sage sovereign's first reign-day sings Shaoyang's one tune — the twenty-fifth of the last month, great peace moved to the new year's head — for the sovereign's first holding of the reins, till the wind turns warm and the five-colored clouds congeal."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0511a27",
+          "ToLb": "0511b10",
+          "Kwic": "「跨鰲門內一隊漆桶，無端輥入鬧籃裏，把階前上馬臺一摑，直得十字街頭石敢當，咬牙切齒痛教徹。何以見得？寒山、拾得、豐干三人證龜成鱉。」上堂。「雲門一曲高，臘月二十五。無人和得齊，打破禾山鼓。」上堂。「龍象蹴踏，非驢所堪。三山疊翠，揚子波翻。清風一陣來，明月正當天。」除夜，小參。「到此十一個月，叢林百凡肘挈，獨有無位真人依舊眉高眼闊，等閒出入不羈，踏碎毘盧頂骨，打著帝釋鼻梁，忽底達磨齒缺，雲門扇子吞聲一吸，滄溟水竭，露出龐老腳跟，截斷馬師鐵舌，凌雲亭子叫冤，北固山頭痛裂，五聖巖𨁝跳上天，秋月潭咆吼入澤，鳳皇池九霄縈迴，跨鰲門一直超出，海門拄杖騰身一擊，渾教打徹，臨風獨露劫前機，歲",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: lifts it at the hall — Yunmen's one tune is high, the twenty-fifth of the last month; none can join it in time; it breaks Heshan's drum."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0668c19",
+          "ToLb": "0668c29",
+          "Kwic": "以手候火，拈瓣香插向爐中，隨曖視左右一匝，曰：「如是大陀羅尼神玅章句，舉集虛空之中，卍字千輪迴旋奮迅，而今在我襟袖以極萬類，蓋緣秪是未曾觀，何得自輕而棄絕？」乃朗吟曰：「體明無盡尋常事，奇特商量滿眼泥。」小參。「今朝臘月二十五，白雪陽春同遍普，阿哆補萬象森羅齊起舞，雲門大師在𨍏鑠鑽裏努出頭來道：『我當年一曲無過此也。』」遂左右顧視，曰：「你道當年是甚麼曲？菩薩巒腔音韻別，聽得分明和不齊。」除夕，小參。舉：「僧問三峰師翁：『如何是臘月三十日到來底事？",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shanzan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained deployment: at the little sitting — today is the twenty-fifth of the last month, white snow and spring-song both everywhere, and great master Yunmen pokes his head out of the drill-bit: my tune of those years was never better than this."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "J/J24/J24nB138.xml",
+        "X/X70/X70n1382.xml",
+        "J/J26/J26nB187.xml",
+        "J/J28/J28nB202.xml",
+        "J/J38/J38nB418.xml",
+        "J/J37/J37nB394.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Wuzhun Shifan",
+        "Tian'an Sheng",
+        "Baichi Xingyuan",
+        "Huiyue Xu",
+        "Yi'an Shanzan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Asked what Yunmen's one tune is, the master gives a date: the twenty-fifth of the last month. Asked who will sing it — take it slowly. The halls have sung the date at every year's turn since, grading the singers and asking what news the day carried. The date given and graded: in his own record Yunmen Wenyan is asked straight — what is Yunmen's one tune? the twenty-fifth of the last month — and when the monk asks who will sing it: take it slowly; asked elsewhere in the record what the truly-studied affair is — grand good news — whose son is it in the end? — again the date; Wuzhun Shifan raises the same ask and rules: Yunmen's one tune never had a score — its note rises out of the five tones, its key above a thousand ages — who knows the purport within? I have half a mind to cast Zhong Ziqi in gold; Tian'an Sheng runs the set list — Linji's diamond sword cutting the dull-witted dead, Yangqi's jade flute blown across, shocking heaven and earth, Yanguan breaking the empty-space drum, Yunmen's twelfth-month twenty-fifth — fine tunes indeed, but at Dajue's gate they cannot even compete: what will he set against them? One crash of the drum of the teaching. The date sung at the year's turn: Baichi Xingyuan at the sage sovereign's first reign-day — Shaoyang's one tune, the twenty-fifth of the last month, great peace moved to the new year's head, blown and sung for the sovereign's first holding of the reins, till the wind turns warm and the five-colored clouds congeal, phoenix dancing and dragon coiling; Huiyue Xu lifts it at the hall — Yunmen's one tune is high, the twenty-fifth of the last month; none can join it in time; it breaks Heshan's drum; Yi'an Shanzan at the little sitting — today is the twenty-fifth of the last month, white snow and spring-song both everywhere, and great master Yunmen pokes his head out of the drill-bit to say: my tune of those years was never better than this."
+    }
+  ]
+}

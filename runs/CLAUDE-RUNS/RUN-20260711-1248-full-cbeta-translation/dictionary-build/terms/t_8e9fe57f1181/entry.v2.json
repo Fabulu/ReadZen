@@ -1,0 +1,210 @@
+{
+  "Id": "t_8e9fe57f1181",
+  "SourceTerm": "無量妙義",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "measureless subtle meanings",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the meanings beyond count",
+        "numberless fine meanings"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 179 hits in 111 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0616b15",
+          "ToLb": "0616c09",
+          "Kwic": "師直上󳬇士禮拜師歸方丈居士隨後云適來弄巧成拙。問如何問佛師云即心是佛問離四句絕百非請師直指西來意師云我今日無心情汝去西堂問取智藏僧至西堂問西堂以手指頭云我今日頭痛不能為汝說得汝去問海兄僧去問海兄海兄云我到者裏却不會僧回舉似師師云藏頭白海頭黑。師採藤次見水潦便作放勢水潦近前接師即便踏倒水潦起來呵呵大咲云無量妙義百千三昧盡在一毛頭上識得根源去。師令僧馳書與徑山欽和尚書中畫一圓相徑山纔開見索筆於中著一點後有僧舉似忠國師國師云欽師猶被馬師惑。問和尚為甚麼說即心即佛師曰為止小兒啼曰啼止時如何師曰非心非佛曰除此二種人來如何指示師曰向伊道不是物曰忽遇其中人來時如何師曰且教伊體會大道。問如何是西來意師曰即今是甚麼意。師",
+          "MasterName": "Shuilao Heshang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shuilao Heshang",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "record-owner",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Shuilao Heshang owns the retained deployment: asking Mazu Daoyi for the meaning of the coming from the west and bidden to come forward, is felled by the chest-block tread at the vine-gathering, rises with the great laugh that the measureless subtle meanings and the hundred-hundred samadhis are all known at their root on the tip of one hair."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0716c05",
+          "ToLb": "0716c21",
+          "Kwic": "處熱。下座。上堂云。一即一切。實際理地。一切即一。本來無物。拈起也吒吒沙沙。放下也綿綿密密。三界長時獨露。十方無處容身。孤峯頂上倒行。十字街頭橫臥。目視雲霄則且致。魚行酒肆一句作麼生道。放憨作麼。下座。改昭覺寺為崇寧。勅黃到。開堂師拈。勅黃示眾云。匝地普天皆承恩力。九州四海悉稟威靈。百千法門中殊特法門。無量妙義中真實勝義。如今從天降下。不在眼目定動唇吻合開。驗在目前一時薦取。宣勅罷。指法座云。大眾。這一條路。千聖共知。徐行踏斷流水聲。縱觀寫出飛禽跡。且道。如何進步。要提無相毘盧印。須向千峰頂上行。陞座拈香示眾云。光吞萬象氣絕諸塵。始從撥草瞻風。以至入鄽垂手。等閑不欲全彰。切恐驚群動眾。今日拈來。奉為今上皇帝祝",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: opening the hall when the yellow rescript renames the temple, declares to the assembly that sky-wrapping earth all sustains itself on grace and the four seas hold its sway, that among the hundred-hundred dharma-gates this is the special gate and among the measureless subtle meanings the true superior meaning, now come down from heaven, residing neither in the eyes' stillness nor the lips' parting, but proved at this moment before the eyes for one taking-up."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0531b01",
+          "ToLb": "0531b15",
+          "Kwic": "前後際斷，生滅心死，三祇劫空。然後於一念中，以一剎那為阿僧祇劫而不長，以阿僧祇劫為一剎那而不促，從朝至暮，念念無虗弃底工夫。儻不如此，何暇閑情妄為雜事？十二時中，四威儀內，貪瞋愛慢，諂曲嫉妬，墮在三界二十五有中，被八萬四千塵勞煩惱籠󰋪，無有出期，固是雜事。然學佛法，求玄妙，事泯默，廣見聞，以至百千法門，無量妙義，一一透徹，及盡精微，尤為雜事。豈知我此宗中無剩底法，但能一念頓證三界二十五有，八萬四千塵勞當下平沈，貪瞋愛慢、諂曲嫉妬復是何物？百千法門、無量妙義，直下如紅爐上一點雪相似，覓其蹤跡了不可得。學佛法、求玄妙、事泯默、廣見聞是什麼人？當恁麼時，閑情尚無，安有雜事？儻不如此，何以隆釋種、紹門風？且道是什麼門風",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment: teaches that even studying the way, seeking the subtle, keeping to silence, and widening one's seeing, down to threading the hundred-hundred dharma-gates and the measureless subtle meanings one by one through to their finest grain, is still miscellaneous business, for this school holds no leftover dharma, and at one thought's sudden attestation the eight-myriad dusts sink on the spot, the gates and meanings going straightway like one fleck of snow on the red furnace, their trace not to be found."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0842c19",
+          "ToLb": "0843a06",
+          "Kwic": "若恁麼商量。不唯謗他釋迦老子。亦乃辜負雲門大師。到這裏若知雲門落處。即知自己落處。且道。落在甚麼處。良久云。萬古碧潭空界月。再三撈摝始應知。復舉。僧問五祖。如何是佛。祖云。露胸跣足。如何是法。云大赦不放。如何是僧。云釣漁船上謝三郎。師云。此三轉語。一轉具三玄三要。四料揀四賓主。洞山五位雲門三句。百千法門無量妙義。若人揀得。許爾具一隻眼。結夏示眾。今日是眾僧結制之辰。雲門菴比丘宗杲。與赤肉團上無位真人現前清淨大眾。以法界為伽藍。同諸菩薩九十日內安居其中。跳金剛圈吞栗棘蓬。作夢中佛事。降鏡裏魔軍。三業清淨六根明潔。身四威儀無諸過患。懸契如來一百四十大願。紹三寶種永不斷絕。苟能如是修證。如是安居。是大丈夫漢。是",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: raises Wuzu's three turns in hall, the buddha with bare chest and bare feet, the dharma as the great amnesty that none release, the monk as Xie the third son on the fishing boat, and rules that each turn carries the three mysteries and three essentials, the four selections and four host-guests, Dongshan's five ranks and Yunmen's three sentences, the hundred-hundred dharma-gates and the measureless subtle meanings, and that whoever sorts them out is granted a single eye."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0207c22",
+          "ToLb": "0208a06",
+          "Kwic": "澹予垣、淵充滋云：「嘗見學徒呈解，吐得一句子出，連忙追他，是何意旨？真正有個悟入處，他自然擊首知尾，不說死語。古人道：『且喜師兄會得活人句也。』活人句不是會得三玄三要旨趣，道不得三玄三要即一句底旨趣。參學人先要識得言句差別，當時水潦謂百千法門、無量玅義，向一毫頭上識得根源去。識得根源了，又要識得百千法門、無量妙義。無量妙義、百千法門，世出世間大約有三種說話：有聲聞一種說話、有佛菩薩一種說話、有凡夫一種說話。如何是佛？曰：麻三斤。如何是諸佛出身處？曰：東山水上行。狗子還有佛性也無？曰：無。以至廓然無聖。新婦騎驢阿家牽，雲在青天水在瓶，體露金風心識不到處。句身有差別，用處無兩般，所以一句當天，八萬門永絕生死。臨濟說",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: teaches the students of the living word that Shuilao's saying must be doubled, for having known the root on the hair-tip one must again come to know the hundred-hundred dharma-gates and the measureless subtle meanings, and that of these in world and beyond there are roughly three kinds of speech, the hearer's kind, the buddha-and-bodhisattva kind, and the common person's kind, hemp three ciphers and east mountain walking on water, the dog with no buddha-nature and nothing vast and nothing holy, word-bodies different while the working is never two, so one sentence held to the sky settles the eight-myriad."
+        },
+        {
+          "RelPath": "L/L154/L154n1640.xml",
+          "FromLb": "0440b11",
+          "ToLb": "0441a15",
+          "Kwic": "三十五年在紹興護生菴黃昏時屋角頭裏見老僧而有親意三十七年老僧行脚來秦山積善菴同住一夏亦未有省發處直至天啟甲子年老僧住金粟伊來同住遂於室中每每與伊痛棒一日謂老僧云某甲思和尚者條棒真是大總持說到此正似水潦和尚參馬大師問如何是祖師西來意馬大師云向前來與汝道潦向前大師與伊攔胸一蹋蹋倒潦起來呵呵大笑云百千法門無量妙義只向一豪端上識得根源去也豈不似景西禪人於棒下識得根源而謂大總持耶雖然祇有一件不得滿他願每每到室中索老僧拄杖打人此在本分中為妄念然亦參禪人利己利人之願也何以起身云將此深心奉塵剎是則名為報佛恩卓拄杖下座。開爐上堂金粟今日開爐竟無半箇榾柮莫言冷落空疎要凍諸人徹骨苟徹骨撞頭磕𬱃乾坤窄喝一喝下座。董爾立請上堂",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Shuilao Heshang",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1640.xml). Recorded Sayings of Chan Master Miyun Wu. Miyun Yuanwu owns the retained deployment: tells the assembly of the monk Jingxi, thirty-five years seeking, whom he boxed with the painful staff until the monk called that staff the great comprehensive holder, and likens it to Shuilao asking Mazu for the meaning of the coming from the west, bidden forward and felled with the chest-block tread, rising with the great laugh that the hundred-hundred dharma-gates and measureless subtle meanings are known at their root on the tip of a single hair."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0067c25",
+          "ToLb": "0068a09",
+          "Kwic": "陌紅塵外；佛法奧妙與汝沒交涉，拶出落花流水邊。行住坐臥、喫飯穿衣，且要識取無位真人嘗在面門出入，只如今閒談抵對，歷歷孤明，莫便是無位真人麼？咄！此正是無量劫來生死根本，切忌錯認好。且畢竟那裏是無位真人？還識得麼？推戶偶驚玄鶴夢，一輪羲馭印天心。」九座蓮峰公同鄉紳柯濟谷、文學柯士賓等請上堂。「百千法門、無量妙義，逼塞虛空，滿眼滿耳。就滿眼滿耳處討箇出身路頭，㘞地一聲豁然開悟，不妨施機發用，與奪自由，扶豎綱宗，摧伏魔外，然後知玉屏銀管固有家風，焦尾青萍現成公案，歌樓舞榭無非清淨講堂，薤葉鱗紋總屬寶華王座。「龐居士云：『十方同聚會，箇箇學無為，此是選佛場，心空及第歸。』今日諸大護法入山亦須恁麼一回始得，山僧忍俊不禁，",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: sought to the hall by the elders of Nine Peaks with the gentry, tells them the hundred-hundred dharma-gates and measureless subtle meanings cram the empty sky, filling eye and ear, so that just where eye and ear are full one should hunt a road out, and with one cracking shout and sudden opening may deploy workings, granting and seizing freely, holding up the school's net-cords and crushing demons and outsiders, till song-towers and dance-pavilions are the pure lecture hall."
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0511a11",
+          "ToLb": "0511a24",
+          "Kwic": "來，諸兄弟在我這裏不為看山水過時，單單要明生死大事，坐則共你坐，行則其你行，曾無箇佛字到你分上，亦無箇禪字安汝胸中。如今春末夏初聖制解也，腳跟下那有一法繫綴得你？人人八面玲瓏，箇箇十方通暢。」遂喝一喝，云：「直下知歸，須要箇護身符子作麼？」毘盧殿落成，檀越馮符石率公郎文悅請上堂。「百千法門，祗從一門而入；無量妙義，要在一義而宣。」乃橫按拄杖，云：「此豈不是一門？」卓一卓，云：「此豈不是一義？一門既入，百千法門頓開；一義能宣，無量妙義斯演。正恁麼時，祖佛齊到，人天共知。毘盧師，法身主，根塵中妙體獨露，色聲外正坐當陽，應物應機，隨事隨理，直得萬峰仰止，眾派流通，樓閣莊嚴，林泉安隱，扇真風於世表，聚禪侶於雲中，廣作無等等",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Xiaotang Yunfen owns the retained deployment: at the completion of the Vairocana hall sought by the patron and his son, sets the formula that the hundred-hundred dharma-gates enter only from one gate and the measureless subtle meanings are proclaimed only in one meaning, then lays the staff across asking whether this is not the one gate, stamps once asking whether this is not the one meaning, the one gate entered and the hundred gates burst open at once, the one meaning able to proclaim and the measureless meanings thereupon unfold, till the ten-thousand peaks look up and the streams all run."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1997.xml",
+        "X/X70/X70n1376.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J34/J34nB299.xml",
+        "L/L154/L154n1640.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB389.xml"
+      ],
+      "RelatedMasters": [
+        "Shuilao Heshang",
+        "Mazu Daoyi",
+        "Yuanwu Keqin",
+        "Chijue Daochong",
+        "Dahui Zonggao",
+        "Hanyue Fazang",
+        "Miyun Yuanwu",
+        "Baichi Xingyuan",
+        "Xiaotang Yunfen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The counted plural of the hall, the meanings masters pile up only to land on the tip of one hair or melt into one meaning. Shuilao Heshang, asking Mazu Daoyi for the meaning of the coming from the west and bidden forward, is felled by the chest-block tread, rises with the great laugh that the measureless subtle meanings and the hundred-hundred samadhis are all known at their root on the tip of one hair, Yuanwu Keqin, opening the hall when the yellow rescript renames the temple, declares sky-wrapping earth under grace and the four seas under its sway, among the hundred-hundred dharma-gates the special gate and among the measureless subtle meanings the true superior meaning, now come down from heaven, not in the eyes' stillness or the lips' parting but proved at this moment before the eyes, Chijue Daochong rules that even studying the way, seeking the subtle, sitting silent, and widening one's seeing, down to threading the hundred-hundred gates and the measureless subtle meanings one by one to their finest grain, is still miscellaneous business, since this school holds no leftover dharma and at one thought's awakening they go straightway like one fleck of snow on the red furnace, no trace to be found, and Dahui Zonggao raises Wuzu's three turns, the bare chest and bare feet, the great amnesty that none release, Xie the third son on the fishing boat, ruling that each turn carries the three mysteries and three essentials, the four selections and four host-guests, Dongshan's five ranks and Yunmen's three sentences, the hundred-hundred dharma-gates and measureless subtle meanings, and whoever sorts them out is granted a single eye. Hanyue Fazang teaches the students of the living word that Shuilao's saying must be doubled, for having known the root on the hair-tip one must again know the hundred-hundred gates and measureless subtle meanings, and that in world and beyond there are roughly three kinds of speech, the hearer's, the buddha-and-bodhisattva's, and the common person's, hemp three ciphers and east mountain walking on water, the dog with no buddha-nature and nothing vast and nothing holy, word-bodies different but workings never two, Miyun Yuanwu tells of the monk Jingxi who under his staff found the root and called that staff the great comprehensive holder, just as Shuilao, felled by Mazu's tread and rising with the laugh, knew the hundred-hundred gates and measureless subtle meanings at the tip of a single hair, Baichi Xingyuan, sought to the hall by the elders of Nine Peaks, tells them the hundred-hundred dharma-gates and measureless subtle meanings cram the empty sky, filling eye and ear, so that at the very place where eye and ear are full one should hunt a road out, and with one cracking shout and sudden opening may work freely, holding up the school's net-cords and crushing what stands outside, and Xiaotang Yunfen, at the completion of the Vairocana hall, sets the formula that the hundred-hundred gates enter only through one gate and the measureless meanings are proclaimed only in one meaning, then lays the staff across asking whether this is not the one gate, stamps once asking whether this is not the one meaning, the one gate entered and the hundred gates burst open, the one meaning able to proclaim and the measureless meanings unfold."
+    }
+  ]
+}

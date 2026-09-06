@@ -1,0 +1,232 @@
+{
+  "Id": "t_384251ee2695",
+  "SourceTerm": "然雖如是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "even so, that being so",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "even so",
+        "granted all that"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 1332 hits in 222 files. Guide depth floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0003b21",
+          "ToLb": "0003c04",
+          "Kwic": "師云：「話頭也不識。」乃云：「火燄為三世諸佛說法，三世諸佛在火燄裏轉大法輪，這般說話，知他是有耶？是無耶？蓮峰若放過，廁坑籌子瞞殺諸人；若不放過，諸人又覺皮焦面赤。」驀拈拄杖，卓云：「看看：今日事已到頭了也，頑銅鈍鐵、美璞精金，且入此紅爐中千烹百鍊，他時成龍者躍天、成蛇者攛草，各各具一種神通，也信未敢相負。然雖如是，寒猿夜叫巫山月，客路繇來不易行。」上堂。僧問：「草鞋踏破已多年，拄杖橫擔萬里天，跛鱉魯吞三世佛，賣來不值半文錢。」以坐具打圓相，云：「學人上來請和尚鑑。」師便打。進云：「秪這箇，還有麼？」師又打。進云：「少年一段風流事，只許佳人獨自知。」師云：「未必心頭似口頭。」乃云：「鴟睛射日，鳳尾凌空，樹染霜華分",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: closes a furnace-opening address by granting the smelting image and conceding the traveler's hard road."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0842b11",
+          "ToLb": "0843a08",
+          "Kwic": "，拾礫泥中辨寶稀。唯有隱淪高趣者，騰騰兀兀混時機。琅瑘覺和尚語嗣汾陽琅瑘覺和尚語嗣汾陽上堂。拈起拄杖，云：山僧有時一棒諸佛降生，有時一棒轉大法輪，有時一棒入般涅槃。你且道：諸佛降生、轉大法輪、入般涅槃相去多少？良久，云：莫謗如來正法輪。珍重！師舉：先梁山云：南來者與三十棒，北來者與三十棒。然雖如是，不當宗乘。師云：梁山好一片真金，將作頑鐵賣却。琅琊即不然，南來者與三十棒，北來者與三十棒，從教天下衲僧貶駮。珍重！舉：僧問馬大師：如何是佛？大師云：即心是佛。如何是道？云：無心是道。云：佛與道相去多少？大師云：佛如展手，道似握拳。師云：古人方便即不可，山僧者裏也有些子。若無人買，山僧自賣自買去也。如何是佛",
+          "MasterName": "Liangshan Yuanguan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "later-raiser",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Liangshan Yuanguan owns the retained deployment: denies his thirty-blow welcome to travelers from either direction the rank of the school vehicle."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0336c07",
+          "ToLb": "0336c19",
+          "Kwic": "耶？還會麼？」卓一下，云：「出頭天外看，誰是我同條？」復舉：「黃檗示眾云：『汝等諸人盡是噇酒糟漢，與麼行腳，何處有今日？還知大唐國裏無禪師麼？』時有僧出眾，云：『秖如諸方匡徒領眾又作麼生？』檗云：『不道無禪，只是無師。』」師云：「氣吞佛祖，眼蓋乾坤，不無黃檗老祖檢點將來，爭奈龍頭蛇尾，本分艸料因甚不與者僧？然雖如是，秖如道：『不道無禪，只是無師。』畢竟作麼生？曹溪波浪如相似，無限平人被陸沉。」示眾。問：「教中道：『諸佛寂滅相，不可以言宣。』和尚今日如何舉唱？」師云：「有耳者聞。」進云：「秖如恁麼道，落言宣？不落言宣？」師云：「你那裏去來？」問：「熏風自南來，殿閣生微涼，意旨如何？」師云：「直不藏曲。」進云：「鳥道不通",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: grants Huangbo's scolding its power and then presses its dragon-head snake-tail residue against the monk."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0473b09",
+          "ToLb": "0473b22",
+          "Kwic": "大衢禪師入塔，上堂。「塔無縫，影層層，形無影，明歷歷，若透這個關捩子，法身何曾有出入？若是明中有暗、暗中有明，顯中有隱、隱中有顯，乃至明暗雙彰、隱顯全露，終未是直截到家，安享樂業。作麼生是安享樂業？三秋月白非為白，九夏天青未是青。」上堂。「鎮海明珠，時時顯露；靈峰寶劍，日日現前。既爾本自圓成，何須畫地自限？然雖如是，爐鞴之所，鈍銕猶多；良醫之門，病夫愈勝。所以，久參上士，不必弄影撈形，未悟初機，應須猛著精彩。忽爾失腳跌倒，撲破娘生面門，又遇一個咬豬狗手段，東磨西錯，一錯錯得通身眼露，便能將斷貫索穿天下衲僧鼻孔。到這裏，三世諸佛立在下風，歷代祖師尋覓無地。直饒果到恁麼田地，猶未是衲僧本分行履。作麼生是本分行履？松子火",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment: concedes that dull iron and sick patients still crowd the forge after affirming the ever-present pearl and sword."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0116b13",
+          "ToLb": "0117a08",
+          "Kwic": "得說夢。是本無今有耶？諸人面前不得說夢。看破夢境時如何？諸人面前不得說夢。何以故？箇中求其生無生不可得、滅無滅不可得、有本有不可得、無本無不可得，又將何而為壽也？以諸佛身、眾生身為壽，聖凡不可增減；以過去劫、未來劫為壽，日月不可遷移；以玅高峯、娑竭海為壽，燥濕不可損壞；以盡虗空、遍法界為壽，天地不可覆藏。然雖如是，今日因甚麼喚作四十歲？良久，云：棲鳳巖前雲霧捲，伏牛山下古今傳。除夕，上堂。諸昆仲！年月告盡，旬候云週，衲衣下一段大事還會也未？若論參禪，須要立得心真，便頭正尾正，其間亦不顛倒，更要識得病根始得。其禪有多種病，不可不知。若不識得病根，縱能精進，皆魔業耳。何為病根？試聽博山從頭告報，免使傷鋒犯手。第一、不",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: spans lifespan measures across buddhas and worlds and then asks why today is called a fortieth birthday."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0752a12",
+          "ToLb": "0752b09",
+          "Kwic": "義是何言歟楊岐兩日種禾無有個奇特語乃云達磨大師無當門齒。上堂楊岐一言隨方就圓若也擬議十萬八千下座。上堂楊岐一語呵佛叱祖眀眼人前不得錯舉下座。上堂不見一法是大過患拈起拄杖云穿𨚫釋迦老子鼻孔作麼生道得脫身一句向水不洗水處道將一句來良久云向道莫行山下路果聞猿呌断膓聲。上堂坐断乹坤天地黯黑放過一着雨順風調然雖如是俗氣未除在僧問欲免心中閙應湏看古教如何是古教師云乹坤月明碧海波澄進云未審作麼生看師云脚跟下進云忽遇洪波浩渺時如何師云放過一着十字縱橫又作麼生僧便喝撫掌一下師云看者一員戰將進云打草蛇驚師云也要大家知。上堂秋雨洗秋林秋林咸翠色傷嗟傅大士何處尋󳇐勒。上堂凡聖不存佛祖何立大眾清平世界不許人󲾏奪行市。師於興",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangqi Fanghui",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yangqi Fanghui owns the retained deployment: grants his hall turn its heaven-darkening sweep and then tags it with unshed common air."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0492b11",
+          "ToLb": "0493a08",
+          "Kwic": "興府報恩光孝禪寺語錄癡絕和尚住嘉興府報恩光孝禪寺語錄侍者智沂編師於嘉定己卯五月二十日入院。指三門，云：我此一門全無肯路，是汝諸人如何進步？乃彈指一下，云：入。入佛殿，云：孰名為佛？禮者是誰？設或未辨端倪，看四稜塌地，謾汝諸人去也。便禮拜。據方丈云：大凡據此床榻，提持箇事，如孫武令商君法，有死無犯。然雖如是，盡法無民。指法座云：正令當行，十方坐斷作禮，須彌燈王討什麼椀？祝聖罷，復拈香云：三世諸佛盡力提持不起，歷代祖師瞻仰有分，諸方老宿卒討頭鼻不著，獨有二十年前鄱陽東湖曹源老人較些子，不免當陽拈出，一任天下人貶剝。便就座。僧問：古人道：且向未相見已前薦取。還有為人處也無？師云：無為人處。進云：劒甲未施，賊身",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment: likens his abbatical rule to Sun Wu's statutes and then withholds full enforcement because law to the letter leaves no people."
+        },
+        {
+          "RelPath": "X/X73/X73n1451.xml",
+          "FromLb": "0538a09",
+          "ToLb": "0538b05",
+          "Kwic": "在何曾有間然，休分城市與林泉，重來問法棲禪處，依舊清風滿目前。信知法無固必亦隨緣，在山林則一事不為，入塵勞則萬機俱掃，一動一靜無非真淨界中，或去或來盡是菩提場內，如拳作掌開合有時，似水生波起滅無定，是以長蘆唱起雲門曲，資福和起德山歌，拍拍無私、頭頭有據，更不談玄說妙、抑古揚今，自然水乳和同，休問溪山各異。然雖如是，忽若有箇氣不平底出來高聲喝云：不會為客吵噪叢林，又教資福如何祗對？良久，云：洎合停囚長智。冬至，上堂。云：今朝一陽生，明日便數九，張三依舊肥，李四從來瘠。喫盡天下藥，舊病依前有，用盡自家心，笑破他人口。為什麼如此？花根本艶，虎體元斑。上堂，云：一夜飜空大雪，玉殿銀樓皎潔，曉來庭際無人，莫道山僧不說。雖",
+          "MasterName": "Cishou Huaishen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cishou Huaishen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1451.xml). Expanded Record of Chan Master Cishou Huaishen. Cishou Huaishen owns the retained deployment: pictures two elders in perfect accord and then tests the scene with a shouting dissatisfied guest."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0661c24",
+          "ToLb": "0662a07",
+          "Kwic": "竟如何？大象蕅絲突出，神龍鍼眼翻身。」上堂。問：「重頒祖令，揭日月之光輝；克紹宗猷，為四生之調御。安居結夏則不問，如何是一言天下化？」師云：「七尺枯藤為君決。」乃云：「大丈夫秉慧劍，般若鋒兮金剛燄，非但能摧外道心，早曾落卻天魔膽。魔膽既落，天清地寧。三條椽下、七尺單前，一任坐臥經行，是名禁足、是名護生。然雖如是，設遇釋迦老子現三十二相、八十種形，喚你遊蓮華國土玅莊嚴城，你還肯去？不肯去？」擿下拄杖，云：「不得動著，動著禍生。」于郡侯至，請上堂。問：「為佛法金湯，必也靈山付屬；作蒼生福佑，當知金粟種來。不滯二途，請師一句。」師云：「閭丘親見寒山子。」進云：「昔日李駙馬問谷隱禪師云：『某甲還參得禪不？』谷云：『參禪乃",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: blesses the summer retreat's sitting and walking and then asks whether the assembly would follow even the World-Honored One into the lotus land."
+        },
+        {
+          "RelPath": "X/X69/X69n1352.xml",
+          "FromLb": "0401b11",
+          "ToLb": "0402a07",
+          "Kwic": "好思量。上堂，撫掌呵呵大笑，云：大眾！得風流處且風流。到圓通，上堂。僧問：二師相見，合談何事？師云：六耳不合謀。僧云：謝師答話。師云：聽事不真，喚鐘作甕。僧喝，師云：過。乃云：秋江清淺時，白鷺和煙島，良哉觀世音，全身下荒草。大眾！承天未出世時，或有一箇半箇衲子相疑著，誰知道出世後直得無言可說、無理可伸？然雖如是，猶賴得侯溪主人在。何謂如此？千古萬古無人知，眼裏瞳兒看馬騎。到歸宗，上堂云：真性心地藏，無頭亦無尾，應緣而化物，方便呼為智。大眾！承天此者來禮拜歸宗師叔，師叔若行一丈，承天也行一丈；師叔若行一尺，承天也行一尺。何謂如此？得風流處且風流。有般漢到者裏道：耶舍塔高，金輪峰峻，眨眼回頭早是󳬧子過新羅。似恁麼，",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1352.xml). Expanded Record of Chan Master Baiyun Shouduan. Baiyun Shouduan owns the retained deployment: grants that after his advent there is nothing left to say or argue and then credits the patron of Hou Creek."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J28/J28nB202.xml",
+        "X/X68/X68n1318.xml",
+        "J/J37/J37nB386.xml",
+        "J/J28/J28nB212.xml",
+        "X/X72/X72n1435.xml",
+        "C/C077/C077n1710.xml",
+        "X/X70/X70n1376.xml",
+        "X/X73/X73n1451.xml",
+        "J/J26/J26nB187.xml",
+        "X/X69/X69n1352.xml"
+      ],
+      "RelatedMasters": [
+        "Baichi Xingyuan",
+        "Liangshan Yuanguan",
+        "Langye Huijue",
+        "Yuan'an Liao",
+        "Eryin Mi",
+        "Wuyi Yuanlai",
+        "Yangqi Fanghui",
+        "Chijue Daochong",
+        "Cishou Huaishen",
+        "Tian'an Sheng",
+        "Baiyun Shouduan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Granted all that; one thing is still not settled. Baichi Xingyuan closes a furnace-opening address by conceding the traveler's hard road, Eryin Mi concedes that dull iron and sick patients still crowd the forge, Yuan'an Liao grants Huangbo's scolding its power and then presses the residue against the monk, and Wuyi Yuanlai spans lifespan measures across buddhas and worlds before asking why today is called a fortieth birthday. Yangqi Fanghui grants his hall turn its sweep and tags it with unshed common air, Chijue Daochong withholds full enforcement of his Sun-Wu statutes because law to the letter leaves no people, Liangshan Yuanguan denies his thirty-blow welcome the rank of the school vehicle, Cishou Huaishen tests two elders' accord with a shouting dissatisfied guest, Tian'an Sheng asks whether the assembly would follow even the World-Honored One into the lotus land, and Baiyun Shouduan credits the patron of Hou Creek after conceding there is nothing left to say."
+    }
+  ]
+}

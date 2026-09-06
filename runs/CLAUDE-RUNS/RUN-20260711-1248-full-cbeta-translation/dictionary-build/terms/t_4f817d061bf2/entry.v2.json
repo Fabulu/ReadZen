@@ -1,0 +1,239 @@
+{
+  "Id": "t_4f817d061bf2",
+  "SourceTerm": "三千里外",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-05T23:53:33Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "three thousand li away",
+      "AlternateTargets": [
+        "a full three thousand li off"
+      ],
+      "SearchAliases": [
+        "far beyond three thousand li",
+        "at three thousand li's remove",
+        "three thousand li removed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 669 hits in 222 files representing 217 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0095b18",
+          "ToLb": "0095c10",
+          "Kwic": "茶去？州喚院主，主應諾。州曰：喫茶去。保福展云：趙州慣得其便。鏡清怤舉問僧云：汝作麼生會？僧便去。清云：邯鄲學唐步。雪竇顯云：這僧不是邯鄲人，為甚學唐步？若辨得出，與汝茶喫。青龍斯云：趙州老漢通身為人，不免被院主看破。趙州因僧辭，州問：甚處去？曰：諸方學佛法去。州豎拂曰：有佛處不得住，無佛處急走過。三千里外，逢人不得錯舉。曰：與麼則不去也。州曰：摘楊花，摘楊花。徑山杲云：有佛處不得住，生鐵秤錘被蟲蛀；無佛處急走過，撞著嵩山破竈墮。三千里外，逢人不得錯舉。兩個石人相耳語，恁麼則不去也。此語已徧天下。摘楊花！摘楊花！唵！摩尼達哩！吽！㗶吒！天童覺云：沉空滯跡，犯手傷鋒，俱未是衲僧去就。直須不入人行市，不上他牀榻",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Zhaozhou Congshen owns the retained deployment, barring the departing monk that far out from misreporting his parting instruction."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0717c04",
+          "ToLb": "0717c20",
+          "Kwic": "所以道。無邊剎海。自他不隔於毫端。十世古今。始終不移於當念。不隔處總十方為真境。不移處貫十世於目前。淨躶躶脫塵情。赤灑灑無蓋覆。直得千聖同躔萬機頓赴。還會麼。竿頭絲線從君弄。不犯清波意自殊。下座。上堂。僧問。如何是教外別傳一句。師云。問取燈籠。進云。謝師答話。師云。自領出去。進云。却是禪外別傳也。師云。三千里外過崖州。問學人不恁麼時如何。師云。莫亂統。進云。趙州庭前柏。崇寧庭前楠。是同是別。師云。莫眼華。進云。一種沒絃琴。惟師彈得妙。師云。山僧亦不承當。乃云。在天成象在地成形。日月為照臨。四時作寒暑。居谷盈谷處坑滿坑。有情則動轉施為。無情則森羅顯煥。如今在山僧拄杖頭上。指山山崩。指海海竭。點鐵成金。點金成鐵。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, pitching the monk's borrowed claim past Yazhou at three thousand li's remove."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0070a07",
+          "ToLb": "0070a22",
+          "Kwic": "方能把住放行，有自由分。保寧勇頌云：堂堂好箇丈夫兒，剛被胡麻取次欺。若解奮拳張意氣，世間何處可容伊？天童覺云：青山不異，白玉無瑕。茫茫流水，擾擾黃花。有佛處纖塵不立，無佛處萬別千差。長安路上未歸客，尋溪猶自摘楊花。佛慧泉云：截斷三關過者稀，臨鋒誰解振全威？楊花摘處何人見？風送漫天似雪飛。普融平云：三千里外兩重關，衲子紛紛過者難。回首石橋南北路，楊花風散雪漫漫。龍潭信禪師在天皇三年，忽一日問云：某甲自到來，不蒙和尚指示心要。皇云：自汝到來，吾未甞不指示汝心要。師云：甚處是指示某甲心要處？皇云：汝擎茶來，吾為汝接。汝行食來，吾為汝受。汝和南時，吾便低首。何處不指示汝心要？師竚思，皇云：見即直下便見，擬思即差。",
+          "MasterName": "Zhihai Purong Daoping",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhihai Purong Daoping",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Zhihai Purong Daoping owns the retained deployment, singing two gates that stand three thousand li out where few patch-robed ones get past."
+        },
+        {
+          "RelPath": "X/X70/X70n1386.xml",
+          "FromLb": "0327c01",
+          "ToLb": "0327c16",
+          "Kwic": "前來。待他近前，却向道去。何故？白雲乍可離青嶂，明月難教下碧空。開爐上堂，舉雪峯和尚道：世界闊一丈，古鏡闊一丈。玄沙云：火爐闊多少？雪峯云：如古鏡闊。師拈云：雪峯、玄沙父子激揚，大似泥裏洗土，若望臨際門下，遠之遠矣。且道臨濟門下如何？良久，云：看火色。上堂。拈拄杖卓一下，云：子承父業，依而行之，影響之流，三千里外。還有獨脫底麼？退後，退後，久雨不晴，妨我晒眼皮革。上堂，舉光侍者向玄沙道：師叔若參得禪，某甲打鐵舡泛海去。後玄沙住院，令人傳語光侍者：還曾打就鐵舡也未？師拈云：猛虎不食伏肉，可惜玄沙撞在光侍者網裏。冬節，上堂。節令不相饒，陽生第一爻，諸佛道長，眾生道消。拈拄杖，云：拄杖子，獨孤標，且道隨節令？不隨節令",
+          "MasterName": "Shitian Faxun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shitian Faxun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1386.xml). Recorded Sayings of Chan Master Shitian Faxun. Shitian Faxun owns the retained deployment, filing the imitators who merely inherit the father's trade three thousand li away."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0749b18",
+          "ToLb": "0750a13",
+          "Kwic": "。是則固是。只如臨濟󷘳在真定。雪峯󷘳在福州。五祖󷘳於淮江。六祖󷘳居嶺海。還能未動脚頭。道得箇一塵不隔底句麼。燈上人遊方禮祖。出紙求語。故發是問以扣之。并為說偈。白雲黃葉石稜稜。一󷘳中藏一祖燈。三尺炊巾無地展。又󵈢金錫下危層。示希有上人行脚示希有上人行脚有一句子在拄杖頭邊。有一句子在草鞋根底。有一句子在三千里外。有一句子在六根門頭。向六根門頭薦得。則三千里外底不用別尋。三千里外薦得。則六根門頭底總在裏許。惟是拄杖頭一句子只在拄杖頭。草鞋根底一句子只在草鞋根底。不得動著。還知麼。盡無邊法界是條拄杖。遍十方虛空是緉草鞋。拈得拄杖則失却草鞋。著得草鞋則失却拄杖。須知拄杖無儞拈處。草鞋無儞著處。儞若擬心拈著。則一齊都打",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, stationing one sentence at the staff tip, one at the sandal sole, and one three thousand li away."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0208c13",
+          "ToLb": "0209a04",
+          "Kwic": "云：三日前，五日後，若不揮劒，漁父棲巢。與麼說話，大似擔水河頭賣，光非照境，境亦非存，光境俱亡，復是何物？大慧和尚云：千年常住一朝僧。卓主丈云：竹影掃階塵不動，月穿潭底水無痕。上堂。一切法即是佛法，燈籠自灯籠，露柱自露柱；一切法不是佛法，蝦蟇吞却大象，蚯蚓咬殺麒麟，辨龍蛇，擒虎兕。穿却天下衲僧鼻孔即不問，三千里外逢人不得。錯舉一句作麼生道？以主丈畫一畫，云：星河秋一鴈，砧杵夜千家。上堂：金風扇野，玉露垂珠。葉墮林間，蛩吟砌畔。解脫門宏開八字，真實義綿亘十方。諸人眼見耳聞，一一超今邁古。向上一路，別有誵訛。槌折你腰，第一莫將來。將來不相似，禿却你舌。壁立萬仞沒商量，打刀須是邠州鐵。謝道舊，上堂。敲空作響，罕遇知",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, piercing the nose-strings of the realm's patch-robed ones and barring the misreport three thousand li out."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0698a18",
+          "ToLb": "0698b01",
+          "Kwic": "落箭鋒機。解制上堂：「鐵生銹自食其鐵；珠生光還自照珠。同是天地所住，何一物自生自滅、一物自生自全？有能辯得，許他具一隻眼。」僧纔出，師便打曰：「自生自滅漢。」僧云：「某甲未開口，如何便打？」師云：「你還知這一棒麼？」僧云：「謝和尚點省。」師又打曰：「賺殺一船人。」僧云：「過在何處？」師云：「不關汝事，且退三千里外。」師復顧眾云：「攝山今日失利。」乃擲拄杖云：「且救取這一半。」壬辰再住金陵天界寺結制上堂。拈拄杖示云：「當機覿面提，覿面當機疾；驚起鐵崑崙，高聲叫奇絕。何奇絕？乾峰拄杖，畫斷十方路頭；雲門扇子，打翻法界門戶。直得南山起雲，北山下雨，三十三天洪波浩渺，大鵬展翅直取龍吞。若向者裏奪得此拄杖子，則一任他明頭",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, telling the marked monk the blow is not his affair and ordering him back three thousand li."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0458c08",
+          "ToLb": "0458c22",
+          "Kwic": "？」師云：「地無私載。」進云：「與麼則和尚坐致太平也。」師云：「不許夜行，投明須到。」乃云：「歲朝春，黃河清，真罕遇，聖人生。天地合其德，日月合其明，地平如掌，瑩潔如銀。林下道人若為話會？野老不知堯舜力，鼕鼕打鼓樂昇平。」解制，上堂。「長期短期，以悟為期。大象不遊免徑，大海不宿死屍。只許老胡會，不許老胡知。三千里外，逢人不得錯舉。」清明，掃諸祖塔，上堂。「春日晴，春花明，春禽瑣碎，春水鳴琴。無縫塔中祖師忍俊不禁，突出百艸頭上，指點安心法門，塞乎天地，充滿乾坤。若也觸途成滯，便見屍橫萬里，白骨堆山。大眾！還見祖師麼？淚血染成紅杜鵑。」上堂。「今日是佛生日，為他人喝彩，終無了日。不是佛生日，乍可違條，不可越例。雲門一",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment, letting only the old barbarian know without grasping and barring the misreport three thousand li out."
+        },
+        {
+          "RelPath": "J/J37/J37nB389.xml",
+          "FromLb": "0505c07",
+          "ToLb": "0505c22",
+          "Kwic": "豐儉。」祖堂。「東土西天，一堂風冷。接響承虛，有人不肯。」據室。拈拄杖，云：「打開青嶂踞虎頭，按下白雲收虎尾，一掌一握，一棒一條，皮下有血底，自不怪新長老手腳毒辣。且道畢竟圖個甚麼？」卓一卓，云：「不入虎穴，爭得虎子？」拈當道請疏。「昔日靈山親付囑，直須當道與人看。」紳衿疏。「一毫頭上文彩全彰，有眼者見；三千里外音響各別，有耳共聞。」顧左右云：「此回不是夢，真箇到廬山。」山門疏。「相隨來也，言端語端，山僧要放此話大行，諸人切須記取這轉。」指法座，云：「大寶華王座，究竟如虛空，作禮而陞，忒煞難為。作者因地而起，還他本分宗。」師喝一喝，云：「出頭天外看，誰是我般人？」遂陞。拈香祝聖罷，又拈香，云：「此一瓣香著甚來由",
+          "MasterName": "Xiaotang Yunfen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiaotang Yunfen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB389.xml). Recorded Sayings of Chan Master Yuzhaoyunfen of Hongshan. Xiaotang Yunfen owns the retained deployment, spreading one hair-tip's pattern for those with eyes while its sound differs three thousand li out for those with ears."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0687b16",
+          "ToLb": "0687b29",
+          "Kwic": "到京師見天子來。有人問曰：『聖上穿戴的是甚麼服色？』盲云：『頭戴金子打就的金冠，身穿金子打就的金袍，腳穿玉石雕成的玉履。』傍有一班瞎老婆聽得，遂各驚詫：『聖上真是恁般服色。』共相傳說，以為實然。適遇智者憫其愚魯，向它道：『者是瞎說，無恁麼事。』一班瞎漢反共詈其欺己。大眾！生長京師，不識天子，況吳地盲人去京師三千里外，如何得見聖上來？無怪一盲引眾盲，相傳總不真。即今要識鬧市天子麼？蕩蕩仁風扇八方，歌謠滿路知何極？」晚參。「此事如兩家做交易一般，買者急切要買、賣者斷然不賣，交易不成，歸家納悶。悶之不已，忽然想著吽家中原有，何用將錢別處尋買？此時無著歡喜處也。」下座。佛會，上堂。「若人散亂心，入于塔廟中，一稱南無佛，皆",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment, asking how the blind of Wu, three thousand li from the capital, could ever see the emperor's dress."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "T/T47/T47n1997.xml",
+        "X/X67/X67n1299.xml",
+        "X/X70/X70n1386.xml",
+        "B/B25/B25n0145.xml",
+        "X/X71/X71n1412.xml",
+        "J/J25/J25nB174.xml",
+        "J/J37/J37nB388.xml",
+        "J/J37/J37nB389.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Dahui Zonggao",
+        "Yuanwu Keqin",
+        "Zhihai Purong Daoping",
+        "Shitian Faxun",
+        "Zhongfeng Mingben",
+        "Gulin Qingmao",
+        "Juelang Daosheng",
+        "Yikui Yuankui",
+        "Xiaotang Yunfen",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed distance that places a sentence, a sound, or a person beyond the reach of everyone present. Zhaozhou Congshen sends the departing monk past the places of buddhas and no-buddhas and bars him, that far out, from misreporting the instruction, Yuanwu Keqin pitches the borrowed claim of a transmission outside the gate past Yazhou at that remove, Zhihai Purong Daoping sings two gates standing that far out where few patch-robed ones pass, Shitian Faxun files the imitators who merely inherit the father's trade at that remove, and Zhongfeng Mingben sets one sentence at the staff tip, one at the sandal sole, and one three thousand li away. Gulin Qingmao pierces the nose-strings of the realm's patch-robed ones and bars the misreport that far out, Juelang Daosheng tells the marked monk the blow is not his affair and orders him back three thousand li, Yikui Yuankui lets only the old barbarian know without grasping and bars the misreport that far out, Xiaotang Yunfen spreads one hair-tip's pattern for those with eyes while its sound differs that far out for those with ears, and Tian'an Sheng asks how the blind of Wu, that far from the capital, could ever see the emperor's dress."
+    }
+  ]
+}

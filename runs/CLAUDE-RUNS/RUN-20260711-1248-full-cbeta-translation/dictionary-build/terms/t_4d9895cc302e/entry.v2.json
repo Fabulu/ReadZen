@@ -1,0 +1,215 @@
+{
+  "Id": "t_4d9895cc302e",
+  "SourceTerm": "老老大大",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "so old and great",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a grand old elder",
+        "well along in years"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 372 hits in 164 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0023c02",
+          "ToLb": "0023c20",
+          "Kwic": "不會末後句。山聞令侍者喚巖頭。問汝不肯老僧那。巖遂密啟其意。山乃休去。至明日陞堂。果與尋常不同。巖撫掌笑云。且喜老漢會末後句。他後天下人。不奈伊何。頌曰。末後句會也無。德山父子太含胡。座中亦有江南客。莫向人前唱鷓鴣。舉密師伯與洞山行次。見白兔子面前走過。密云。俊哉。山云作麼生。密云。如白衣拜相。山云。老老大大。作這箇語話。密云。儞又作麼生。山云。積代簪纓。暫時落薄。頌曰。抗力霜雪。平步雲霄。下惠黜國。相如過橋。蕭曹謀略能成漢。巢許身心欲避堯。寵辱若驚深自信。真情參跡混漁樵。舉嚴陽尊者問趙州。一物不將來時如何。州云。放下著。嚴云。一物不將來。放下箇什麼。州云。恁麼則擔取去。頌曰。不防行細輸先手。自覺心麁愧撞",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "later-raiser",
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Dongshan Liangjie owns the retained deployment: tells his dharma-uncle that so old and great a man should not liken a passing white rabbit to a commoner made minister."
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0368c15",
+          "ToLb": "0368c27",
+          "Kwic": "也無？」「豈有二文殊也！」師云：「文殊，文殊。」師問二新到：「上座曾到此間否？」云：「不曾到。」師云：「喫茶去！」又問那一人：「曾到此間否？」云：「曾到。」師云：「喫茶去！」院主問：「和尚！不曾到，教伊喫茶去，即且致；曾到，為什麼教伊喫茶去？」師云：「院主。」院主應喏。師云：「喫茶去！」師到雲居，雲居云：「老老大大，何不覓箇住處？」師云：「什麼處住得？」雲居云：「前面有古寺基。」師云：「與麼即和尚自住取。」師又到茱萸，茱萸云：「老老大大，何不覓箇住處去？」師云：「什麼處住得？」茱萸云：「老老大大，住處也不識！」師云：「三十年弄馬騎，今日卻被驢撲。」師又到茱萸方丈，上下觀瞻，茱萸云：「平地喫交作什麼？」師云：「只為心麤",
+          "MasterName": "Yunju Daoying",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunju Daoying",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "addressee",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Yunju Daoying owns the retained deployment: asks the wandering Zhaozhou why, so old and great, he has not found a place to settle, then offers him the old temple foundation and is told to keep it himself."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0879a13",
+          "ToLb": "0879b07",
+          "Kwic": "峯云生死海未渡為甚麼覆却船僧無語却回舉似覆船船云何不道渠無生死其僧歡喜復往雪峯峯問還道得也未僧云道得峯云試道看僧云渠無生死只見雪峯從禪牀上走下來把住這僧云此不是汝語僧云不敢實是覆船恁麼道峯云我有二十棒打覆船二十棒老僧自喫不干闍梨事妙喜云是即是不干這僧事二十棒雪峯何須自喫當時杲上座添作四十只打覆船為甚麼如此老老大大不合與人代語老和尚聞而笑曰這漢無狀蓋師資相忘敢爾所謂代語只成教壞他於他何益近時諸方又愛理會宗旨有密室傳授底禪殊不知正是惡口何故此事撥白露淨如千日並照不見香嚴因擊竹作聲忽然大悟便道一擊忘所知又何曾密室傳授來信知唯證乃知難可測如定光往年從雪峯下來廣因參禪一日聞老僧室中舉不是心不是佛不是物他在外頭彷彿有箇動靜",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: adds his own twenty strokes to Xuefeng's twenty for answering in another's mouth, since one so old and great should not have spoken for the monk."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0514b22",
+          "ToLb": "0514c05",
+          "Kwic": "來，便掩卻門云：『多知老翁，莫與相見。』士云：『獨坐獨語，過在阿誰？』樓便開門，纔出，被居士把住，云：『是師多知？是我多知？』樓云：『多知且置，閉門開門，卷之與舒，相較幾何？』士云：『秖此一問，氣急殺人。』樓不語。」師云：「二大老驀劄相逢，如兩陣交鋒，不無勝負。至此石樓輸卻一籌。報恩當時若作伊，便道：『居士老老大大，猶作這箇話會。』待他道：『弄巧成拙。』又道箇：『恰是。』可不完局耶？即為諸人總頌出：兩陣交鋒果是奇，到頭嬴得這些兒；當場一著擬強弱，不避鋒鋩破禁圍。閑翫賞，弄旌旗，收得頭來把尾歸。咄！」示眾，舉：「道吾因南泉云：『法身具四大否？有人道得，與他一腰褌。』吾云：『性地非空，空非性地，此是地大。三大亦然。』",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: answers the stone-tower and layman Pang exchange by saying that were he in the master's place he would call the layman too old and great to still read it that way."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0018b20",
+          "ToLb": "0018c02",
+          "Kwic": "。」僧禮拜，師乃云：「年經六十五，作事多莽鹵，旋爇返魂香，來撾塗毒鼓，聲吞鱉鼻蛇，氣壓藍田虎。」以拂子打圓相，云：「拈出箇胡餅，能超佛與祖。雖然如是，大小雙桂未諳時勢。何以故？甜瓜徹蒂甜，苦瓠連根苦，種艸雖固然，同坑無異土。」漢中府靜明寺嬾石法孫請陞座，僧問：「真心無住，住則成妄。如何是無住根本？」師云：「老老大大還說者箇語話。」進云：「和尚又作麼生？」師震威喝一喝。問：「穿衣喫飯即不問，屙屎放尿事如何？」師云：「大面原來是奤子。」僧禮拜，師乃云：「古有僧問先德：『如何是諸佛出身處？』荅云：『東山水上行。』又有僧問：『如何是諸佛出身處？』荅云：『西河火裏坐。』又有僧問：『如何是諸佛出身處？』荅云：『熏風自南來，殿閣",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: brushes off a monk's question on the non-abiding mind by asking how one so old and great can still talk like this."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0722c21",
+          "ToLb": "0723a05",
+          "Kwic": "也須空盡了。雲溪拄杖口中念念有詞，倏把他十八鬲子都變作三十三天，十類眾生盡往塵沙佛土放光現瑞，何況千金池上魚龍、蝦蟹、蟞蚌、龜螺無不向空裏翻身，一時變換。去，去，去，蘭盆會中地搖六震了也。且道具何等神通，有如此奇特聻？前村蔣公大王切忌道破。」上堂。「和尚病，有不病者麼？有不病者來看和尚麼？老僧看他有分。老老大大錯下名言。若論那不病者，直饒佛眼覷之不及，說甚看他有分來。設有問：『雲溪病，有不病者麼？』荅他道：『無。』『恁麼則和尚全身病也。』荅他道：『老僧病入膏肓，只覓他起處不得。』一病十五日不起，口巴巴的說甚佛法。古人說渠說我，分明話作兩頭。雲溪老漢零零丁丁，只這個有病的若存若亡，這邊那邊安放不下。何況他不病者，",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: rules over the sick-master case that the old one misspoke to grant that someone might come see him, since even a buddha's eye cannot find the unailing one."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0746b06",
+          "ToLb": "0746b19",
+          "Kwic": "常州有，普化邈真翻筋斗。」晚參。舉：「黃檗因南泉問：『黃金為城，白銀為壁，此是甚人居處？』檗曰：『聖人居處。』泉曰：『更有一人居何國土？』檗近前叉手。泉曰：『道不得，何不請王老師道。』檗曰：『更有一人居何國土？』泉曰：『可惜許。』」師曰：「南泉豢龍有術，擊虎無能。黃檗雖見機而作，其奈身雲不普。檢點將來，兩個老老大大以己妨人。設有人問山僧：『更有一人居何國土？』但咄曰：『草裏漢出去。』須知皋亭者裏從來不許倚門傍戶。」至日，上堂。「群陰剝盡，一陽來復，大冶烹金，藍田出玉。撥轉天關并地軸，惟有無位真人一向元無拘束。絲不如竹，竹不如肉，吹回煖律，冰河燄續，虎嘯寒崖，龍吟枯木。兩序大眾，雍雍肅肅，上來下去，如輻輳轂。此時山僧",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment: grades Nanquan's dragon-keeping and Huangbo's timing in the where-does-the-other-one-dwell case as two grand old men hindering each other."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "J/J24/J24nB137.xml",
+        "M/M59/M59n1540.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB177.xml",
+        "J/J33/J33nB294.xml",
+        "J/J36/J36nB362.xml"
+      ],
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Hongzhi Zhengjue",
+        "Yunju Daoying",
+        "Zhaozhou Congshen",
+        "Dahui Zonggao",
+        "Xuefeng Yicun",
+        "Tianyin Yuanxiu",
+        "Pang Yun",
+        "Poshan Haiming",
+        "Liangting Jingting",
+        "Guantao Daqi",
+        "Nanquan Puyuan",
+        "Huangbo Xiyun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A doubled call-out of age and standing, aimed at elders who should know better. Dongshan Liangjie tells his dharma-uncle that so old and great a man should not speak of a white rabbit like a commoner made minister, Yunju Daoying asks the wandering Zhaozhou why, so old and great, he has not found a place to settle, Dahui Zonggao adds twenty strokes to Xuefeng's own twenty for answering in another's mouth, since one so old and great should not have spoken for the monk, and Tianyin Yuanxiu answers the stone-tower and layman Pang exchange by calling the layman too old and great to still read it that way. Poshan Haiming brushes off a question on the non-abiding mind by asking how one so old and great can still talk like this, Liangting Jingting rules that the sick old master misspoke to say someone might come see him, and Guantao Daqi grades Nanquan and Huangbo as two grand old men hindering each other."
+    }
+  ]
+}

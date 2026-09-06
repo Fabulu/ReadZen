@@ -1,0 +1,201 @@
+{
+  "Id": "t_697c1b5ea8bf",
+  "SourceTerm": "四大本空",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:58:27Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the four greats are empty from the start",
+      "AlternateTargets": [
+        "the body's four elements originally empty"
+      ],
+      "SearchAliases": [
+        "the body's four greats empty",
+        "earth, water, fire, and wind empty from the start",
+        "the elemental body without hold"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 181 hits in 117 files representing 113 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0247b27",
+          "ToLb": "0247c11",
+          "Kwic": "霜，豈可道德山低頭歸方丈，未是接人麼？既是沸如湯，豈容得你杜撰差排，逐節生解麼？山僧今復別其說，為伊刮目。」乃云：「去來托缽自全身，步步全提善誘人，明日陞堂不同處，舌頭無骨峭嶙峋。」下座。小參。云：「今日蓋為薦亡說法，與諸人據實商量者件生死大事。還知生死皆汝自身變現而有，非汝四大五蘊而有生死麼？何故聻？四大本空，五蘊非有。因汝不明本空非有，昧卻本來面目，於自身中忽現四大五蘊之相，凡夫認為實有，二乘破有歸空，盡屬斷常二見，便見生死輪迴。如云無常時，拋卻殼漏子一邊，著靈臺智性迥然而去。此是離卻四大五蘊別有，猶為二乘外道之量。須知既是本空非有，又用離作甚麼？愚人除境不除心，智者忘心不除境，但自忘心，同於法界。所以，古",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment, teaching that birth and death are the self's own showings, the four greats and five clusters empty from the start, so that the ordinary and the small-vehicle readings both fall into cut-and-eternal views."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0286a01",
+          "ToLb": "0286b05",
+          "Kwic": "悟須除現業流識此是真實修證工夫不可莾莾蕩蕩作聰明知見以了平生今人學道叅尋知識或一言之下撥動機關便為得手日久月深漸漸疎怠隨逐世緣道力不能勝於業力清濁不分權宜不達忽忽光陰遂成虛度依然埋沒無有出頭日子是真可憐憫者汝須審細若有纖毫凝滯即落今時咄金剛寶劍當頭截莫管人間是與非。示廣儀道人示廣儀道人凡人在病中須觀四大本空五蘊非有生時原不曾帶什麼來死時原不曾帶什麼去湛然不動心境一如直下若能頓了何有生滅去來之相被三世所拘繫也古佛偈云假借四大以為身心本無生因境有前境若無心亦無罪福如幻起亦滅若到者田地虛空粉碎大地平沈無有纖毫障礙處無有纖毫挂念處生亦得死亦得病亦得健亦得調養好亦得不好亦得如此將老僧前來所說一一置於空閒無用之地",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, charging the sick one to see the four greats as empty from the start, bringing nothing at birth and taking nothing at death."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0210c24",
+          "ToLb": "0211a13",
+          "Kwic": "：我純熟了也，針頭覓鐵。下座。結夏，上堂。時臨首夏，三月安居，西天此土，慶無不宜。拈主丈，云：釋迦老子只今在白雲主丈頭上放大光明，演說摩訶大般若，其間若有一字一句不與諸人抽釘拔楔、解粘去縛，我誓不成正覺。然雖如是，也祇道得一半。如何是那一半？卓主丈，云：天闊地闊。謝供萬佛。化主，上堂。三界無法，何處求心？四大本空，佛依何住？桑樹上著箭，柳樹上出汁，鮎魚上竹竿，俊鶻趂不及。竪起拂子，云：看！看！有世界以香飯為佛事，有世界以音聲為佛事，有世界以一切處為佛事。以香飯為佛事，則諸人決定不得食；以音聲為佛事，則諸人決定不得聞；以一切處為佛事，帶累白雲，眉鬚墮落。畢竟如何？秤不如尺。供萬佛，施主請陞座。佛不遠人，即心而證，甚",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, setting the three-worlds-no-law line beside the empty four greats, then lifting the whisk for all to see."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0600b29",
+          "ToLb": "0600c12",
+          "Kwic": "未免觸途狂見。去此二途，如何即是？」師云：「出頭天外望，誰是我般儔？」問：「本色道流，原無一事，為甚衲子入門非棒即喝？為是門庭施設？為是本分生涯？」師云：「分身兩處看。」問：「從古作家慣布漫天網子打鳳羅龍，如何方得出身一路？」師云：「斫額望扶桑，秪要知天曉。」僧問云：「夜間有虎，忽被拖去時如何？」師云：「四大本空，何處下口？」蠱門問：「既是無位真人，因甚向古寺棲泊？」師云：「金鉤拋四海，玉燭續明燈。」問：「既云『羅漢松』，因甚不向齋堂裏應供？」師云：「乞兒籮易滿。」問：「嵩山塔、雲谷塔，左右交參，且道誰主？誰賓？」師云：「含元殿裏問長安。」問：「未過范蠡湖，清波無透路，作麼生與棲真老人相見？」師云：「合掌庵前問世",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, answering the night-tiger question with the four greats empty from the start, asking where the mouth could bite."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0109a22",
+          "ToLb": "0109b06",
+          "Kwic": "炭以消殘臘，關門而避寒魔，何期章居士堅請開示，不無重違前志而到此座子。雖然，爭奈無處啟口，祇得借古人拳而築伊嘴也。」驀拈拂子作過茶埶，云：「會麼？趙州一碗尋常味，如今飲者釋焦枯。」小參。僧問：「冬臧即不問，如何是春生句？」師云：「處處百花香。」進云：「如何是花香意？」師云：「穿過髑髏。」乃云：「五蘊非有，四大本空，何事昨日著冷、今日傷風？」拂子出，云：「老師恁麼道，未夢見祖師意在。如今莫有知祖師意底為山僧雪屈麼？若無，山僧也祇得禮拜拂子去。」小參。「山僧十載旁丘墟，笑月眠雲匹老漁，惱恨東風無定力，依然相送上皇都。法幢隨處建立，乃佛祖本願，何得嬾於斯而更悔於斯？爭奈白髮催人老，青春逼歲除？」小參。「生而不生，羊柬",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment, asking with the five clusters gone and the four greats empty what business yesterday's chill and today's cough have, then faulting his own saying before the whisk."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0673a21",
+          "ToLb": "0673b05",
+          "Kwic": "世音，走入荒艸裏。大眾見麼？昔日法華會上有娑竭龍女，年始八歲，梵行具足，有一寶珠價值三千大千世界，一時獻佛，佛便納受，忽然之間變成男子，坐寶蓮華，往南方無垢世界成等正覺。黃面瞿曇也是乞兒見小利，可惜放過，當時若到善慶腳跟下，好與一頓熱棒。何故？金鱗不得風雷送，怎透龍門萬丈高？」上堂。「三界無法，何處求心？四大本空，佛依何住？盤山老漢大似見處偏枯，怎如善慶者裏一味本分生涯、隨緣粥飯？或時對賓酬醋、或時曳杖徘徊，風敲翠竹而韻入笙簧、日照幽溪而寒光瀲灩，岸柳爆黃金之色、梅花吐白玉之香。正恁麼時，喚甚作三界？將誰為四大？何物是心？何者是佛？德山有棒，只堪燒火；臨濟有口，正好挂壁。善慶恁麼道，還有為人處也無？」喝一喝，云",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Panshan Baoji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, faulting the Panshan line as lopsided and asking what to call the three worlds, whom to take as the four greats, and what thing the heart is."
+        },
+        {
+          "RelPath": "J/J37/J37nB393.xml",
+          "FromLb": "0664c01",
+          "ToLb": "0664c16",
+          "Kwic": "往西方。知他端的處，火內得清涼。咄！」便火。送靈骨入塔。「無縫塔子影團圞，不消借樣也周全，大興自明從此入，平分涌出一枝蓮。」將竹篦召傍僧投靈骨入。光祥等請為亡師起龕。師云：「大哉祗慧！精靈不昧，撒手懸岩，如履平地，亦任攸遊，去來欠少。末後之句且作麼生？」以拄杖擊一擊，便行。舉火：「頂門具眼，通天有路，四大本空，了無一物。火來逼身，作麼回護？莫問院主墮眉鬚，看取丹霞燒木佛。」示眾。「大道從來不遠方，長連床上看心腔，一朝打破泥團子，瓦塊石頭盡放光。」無我雲慧請小參。師云：「禪道佛法在老僧拄杖頭上默示神通。」遂卓一卓，云：「見麼？東方入定南方起，南方入定西方起，西方入定北方起，北方入定中央起，眼根入定耳根起，耳根入",
+          "MasterName": "Huanchu Guangfo",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanchu Guangfo",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB393.xml). Recorded Sayings of Chan Master Huayan Huanchufo. Huanchu Guangfo owns the retained deployment, charging at the pyre that with the four greats empty and not one thing left, the fire pressing the body needs no guarding."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0342a07",
+          "ToLb": "0342a20",
+          "Kwic": "在濁不厭，生也無餘，死也無欠，鎮海明珠，倚天長劍，是甚衲僧閒家具？秪如面目現前又且如何？」良久，云：「一花一國土，一葉一如來。」薦慧聞、慧圓二禪德，請小參。云：「沒來由，沒來由，途路波吒幾十秋，踏得故家田地著，他方此界等浮漚。迷也似浮漚，悟也似浮漚，執持也似浮漚，解脫也似浮漚。」豎拂子，云：「向這裏會去，四大本空，五蘊非有，二不可立，一不可守。李公醉倒街頭，帶累張公喫酒。」喝一喝。復舉：「僧問巖頭：『起滅不停時如何？』頭云：『是誰起滅？』」師云：「這僧投身坑阱，巖頭開籠放鶴。若問山僧：『起滅不停時如何？』向他道：『見月非關指，歸家罷問程。』直令二覺靈知恩有地。」元宵，小參。「遍界難藏覆，覿體露堂堂，有燈不須掛，六",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment, holding that with the four greats empty and the five clusters gone, two cannot stand and one cannot be kept."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J34/J34nB300.xml",
+        "L/L154/L154n1639.xml",
+        "X/X71/X71n1412.xml",
+        "J/J26/J26nB185.xml",
+        "J/J29/J29nB224.xml",
+        "J/J36/J36nB359.xml",
+        "J/J37/J37nB393.xml",
+        "J/J38/J38nB410.xml"
+      ],
+      "RelatedMasters": [
+        "Chaozong Tongren",
+        "Tianyin Yuanxiu",
+        "Gulin Qingmao",
+        "Fushi Tongxian",
+        "Yezhu Fuhui",
+        "Baiyu Jingsi",
+        "Panshan Baoji",
+        "Huanchu Guangfo",
+        "Lianfeng Su"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed inherited saying: the four greats, the body's earth, water, fire, and wind, are empty from the start. Chaozong Tongren teaches mourners that birth and death are the self's own showings, the four greats and five clusters empty from the start, so that the ordinary reading of them as real and the small-vehicle breaking of them into emptiness both fall into cut-and-eternal views, Tianyin Yuanxiu charges the sick one to see the four greats as empty, bringing nothing at birth and taking nothing at death, Gulin Qingmao sets the three-worlds-no-law line beside the empty four greats at the fund-raising seat, then lifts the whisk for all to see, and Fushi Tongxian answers the night-tiger question with the empty four greats, asking where the mouth could bite. Yezhu Fuhui asks with the five clusters gone and the four greats empty what business yesterday's chill and today's cough have, then faults his own saying before the whisk, Baiyu Jingsi faults the old Panshan line as lopsided and asks what to call the three worlds, whom to take as the four greats, and what thing the heart is, Huanchu Guangfo charges at the pyre that with the four greats empty and not one thing left, the fire pressing the body needs no guarding, and Lianfeng Su holds for the two departed elders that with the four greats empty and the five clusters gone, two cannot stand and one cannot be kept."
+    }
+  ]
+}

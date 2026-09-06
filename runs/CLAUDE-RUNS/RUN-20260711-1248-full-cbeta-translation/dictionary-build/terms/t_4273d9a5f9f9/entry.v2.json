@@ -1,0 +1,208 @@
+{
+  "Id": "t_4273d9a5f9f9",
+  "SourceTerm": "天地同根",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:03:22Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heaven and earth share one root",
+      "AlternateTargets": [
+        "sky and ground of a single root"
+      ],
+      "SearchAliases": [
+        "one root with heaven and earth",
+        "the world and I from one root",
+        "all things of one stock"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 231 hits in 123 files representing 122 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0800a13",
+          "ToLb": "0800b07",
+          "Kwic": "去大凡說法要歸其宗說從天涯海角去餉間依舊歸話頭上有般底只管一向說去他方世界餉間都忘却話頭往往如此者多所以出家沙門莫教向袈裟下失却人身既得袈裟披受却三皈五戒三羯磨乃至二百五十大戒遵佛律儀如實而修如實而證便是有地獄也無著你處便是有天堂也無著你處何故染淨二邊俱不相涉為達一切法空悟得不生不滅無去無來無住妙心此心與天地同根萬物一體萬法來我心上一時空了不見般若經中道內空外空內外空空空大空勝義空有為空無為空畢竟空所以永嘉道二十空門元不著一性如來體自同元來此心是箇空萬法底物事無有一事一法到此心上不空心若不空於法不得自在昔有一座主名法明謂大珠和尚曰禪師家多落空珠曰却是座主家多落空法明大驚曰何得落空珠曰經論是紙墨文字紙墨文字者俱空",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, grounding the deathless uncoming mind in the one root, so that every thing arriving on the mind empties at once."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0282b03",
+          "ToLb": "0282b21",
+          "Kwic": "。萬松道。坼殿了相見。然後看天童拈向爾面前築著爾鼻孔。頌云。孤迴迴圓陀陀眼力盡處高峩峩月落潭空夜色重雲收山瘦秋容多八卦位正五行氣和身先在裏見來麼南陽父子兮却似知有西竺佛祖兮無如奈何師云。雪竇道層落落影團團。此一句合頭語也。天童道孤迴迴圓陀陀。萬劫繫驢橛也。眼力盡處高峩峩。三世諸佛護持以為無見頂相。雪竇頌天地同根萬物一體。南泉指花如夢相似。亦云。見聞覺知非一一。山河不在鏡中觀。霜天月落夜將半。誰共澄潭照影寒。試將此頌。比天童月落潭空夜色重。古人大曬有功夫。後來佛鑑一時注破。頌云。無縫塔兮不是影。廓然一入真如境。爍迦羅眼電光流。杳杳冥冥不見頂。此亦眼力盡處高峩峩。天童頌針線貫通云。峩峩青山著秋瘦。毛髮凋殘風骨舊。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained deployment, reading Xuedou's verse of the one root beside the dream-like peony and ranking the two against the moon dropped in the empty pool."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0570a10",
+          "ToLb": "0570a22",
+          "Kwic": "。聞茶板喫茶去，聞浴板洗浴去，聞壽山道：你諸人休去歇去，為什麼不肯與麼去？忽有人出來道：和尚怪某甲不得。向他道：未到壽山，與你三十棒了也。解夏，小參。僧問：鐵作脊梁骨，金鑄堅實心時如何？師云：此去錢塘不遠。進云：壽山門下若有此人，未審如何相待？師云：殷勤送出荒郊外。進云：謝和尚證明。師便喝，僧禮拜。師乃云：天地同根，萬物一體。在谷滿谷，在坑滿坑。量過虗空，虗空猶有其名號；明踰日月，日月猶竝其光輝。獼猴各佩古菱花，樹木皆為獅子吼。塵塵剎剎，密密堂堂。所以道：法王法力超羣生，常以法財施一切。久積淨業稱無量，導眾以寂故稽首。有如是奇特，有如是靈明。但眾生背覺合塵，故諸聖應病與藥。或立結制，或立解制，或現全身，或現半身。但",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, opening the summer's release with the one root, filling valley and pit, out-measuring a space that still has a name and outshining a sun that still casts light."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0513a29",
+          "ToLb": "0513b11",
+          "Kwic": "」師云：「老僧這裏，也無說法者，亦無聽法者。」進云：「如何是人境俱不奪？」師便喝，乃云：「驀劄相逢便舉揚，拈來無事不相當，至誠一念超情念，敢保無虞日月長。天地覆育，父母生成，人所共恩，誰能報答？直須看到父母未生已前，親見一回，到這裏無恩不報、無德不酬，居士還委悉麼？不見當時陸亙大夫參南泉云：『肇法師道：「天地同根，萬物一體。」也甚奇怪。』泉指庭前牡丹云：『大夫！時人見此一株花，如夢相似。』當時南泉大師雖具驅耕夫牛、奪饑人食底手段，未能令大夫慶快去。今日居士若問山僧：『天地同根，萬物一體。』」驀豎起拂子云：「都盧在這裏。」放下拂子左右顧視云：「者裏若還親見得，酬恩報德在其間。」示眾，師云：「今朝臘月一，事事應當急，箇",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, retelling the official's quoting of the line and answering it in his own turn with one lift of the whisk, everything gathered there."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0006c08",
+          "ToLb": "0006c20",
+          "Kwic": "「太平寺裏新開堂，衲子齊來露所長，儘力吐無元字腳，有何佛法可商量？」上堂，僧問：「如何是萬峰境？」師云：「青青翠翠山頭疊。」進云：「如何是境中人？」師豎拄杖，云：「直直條條肩上橫。」進云：「無境無人時如何？」師便打。僧連喝，師連打。僧禮拜，師乃云：「春至百華開，秋來黃葉落，四時尚不遷，誰縛欲誰脫？如是，則知天地同根，萬物一體，聖凡一心，古今一道，事理一揆，更無一絲毫強言巧詐處兩入。向此不悟，轉生人我，妄計是非，輪回是中，自取流轉。今日山僧只得向好肉上剜瘡、虛空裏掘洞。」以拄杖舉起，召眾云：「還見麼？見月休觀指，歸家罷問程。」冬月，一日上堂，師云：「識得一，萬事畢，南山起雲，北山下雨。」震威喝一喝，云：「娑羯羅龍王被山",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment, reading the unhurried seasons through the one root, one mind for sage and commoner and one way for past and present."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0004c23",
+          "ToLb": "0005a07",
+          "Kwic": "這裡又不然。何故？諸兄弟又不曾道：『莫道會佛法，覓個舉話底人也無。』悟上座也不曾召眾兄弟、也不曾道個錯。既不曾道個錯，且更商量什麼即得？」遂拽拄杖下座，一齊打散，歸方丈。立秋上堂。「諺云：『朝立秋，陰颼颼；暮立秋，熱殺秋。』此中大有好消息，所謂治世語言與實相不相違，皆只是世間人未曾一簡點。若他簡點，就要會天地同根、萬物一體有甚麼難？眾中有曾簡點其中消息者，試出分明說看；一總未曾，悟上座試為簡點：『朝暮且置，不知喚什麼作秋，卻說陰颼颼、熱殺秋。』還知麼？不見道，不因夜來鴈，爭見海門秋。」拍香几，下座。上堂。「舉一不得舉二，放過一著，落在第二。盡大地人都道今朝七月一，敢問眾兄弟作麼生舉？若也舉得，盡大地人性命與現前",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, checking the autumn proverb against the one root and finding that whoever screens the saying can meet heaven and earth's one root without trouble."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0243b05",
+          "ToLb": "0243b19",
+          "Kwic": "便啐，乃云：「一葉翩翩下建州，陳君此日正添籌。修齋普供金仙子，瑞氣盈門八百秋。諸人還會麼？山僧今日借路經過，未免因齋慶讚。若有就路還家、覿體歸元者，便知山僧拄杖子本命元辰落處。若知拄杖子本命元辰落處，便知山河大地、草介龍畜本命元辰落處。若知山河大地、草介龍畜本命元辰落處，便知今朝齋主陳君本命元辰落處，所謂天地同根，萬物一體。如無，山僧一發與汝諸人說破。」驀拈拄杖，卓一卓，云：「會麼？一聲雷覺三春夢，仁壽蒼蒼莫可量。」下座。師到神光寺，請上堂。云：「返炤玅峰誰與齊？三千剎海露端倪。何緣吹到神光裏，惹得薰風一杖藜。諸人還知麼？若也知得，別峰與汝諸人相見了也。不妨滿目凝祥，一團和氣。淨佛國土，成佛子住。靈山一會，儼然未",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, tracing the birthday star of staff-holder, household, beasts, and grasses to one resting place and naming it with the one root."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0621a08",
+          "ToLb": "0621b09",
+          "Kwic": "萬壑恣游玩一笻為知己三生綠蘿幔倦飛鳥知還飯檗味永澹清涼吟清涼吟自肯住山年半百橫拈楖𣗖細槎摩誰來隔嶺知擒縱透過當門火一爐長生救生偈長生救生偈羽明道人欲糾同志日省衣食之資一釐救物命之在急難者死而生之危而安之歲得三百六十長生福德人則日有銀三錢六分為行慈之具眾擎易舉施微功鉅誠盛舉也乞言為引喜而述之并說偈曰天地同根萬物一體本來面目無彼無此如何世人迷頭認影以強凌弱戕他肥己止殺己善救生彌良自利利人大祥之祥一士如此士士皆然一邑如此邑邑皆然舉世如此現在樂邦示妙年大德示妙年大德純一死屍觀修行有一半別樣強惺惺知君錯打算薑桂吟薑桂吟喜頭生白髮任徑長蒼苔少室九年壁雪腰人自來春夜春夜歲餘餘此日白髮又迎春九鼎絲懸脈耐寒辨偽真命美",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment, writing the one root at the head of the life-saving verse, that the original face has no this and no other, so sparing lives is sparing one's own stock."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2004.xml",
+        "X/X71/X71n1420.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB177.xml",
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB193.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Wansong Xingxiu",
+        "Xuedou Chongxian",
+        "Chushi Fanqi",
+        "Tianyin Yuanxiu",
+        "Nanquan Puyuan",
+        "Poshan Haiming",
+        "Miyun Yuanwu",
+        "Yinyuan Longqi",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed oneness formula, heaven and earth of one root, inherited from the treatise writer and spent by the turn. Dahui Zonggao grounds the deathless uncoming mind in it, so that every thing arriving on the mind empties at once, Wansong Xingxiu reads Xuedou's verse of it beside the old master's dream-like peony and ranks the two against the moon dropped in the empty pool, Chushi Fanqi opens the summer's release with it, filling valley and pit, out-measuring a space that still has a name and outshining a sun that still casts light, and Tianyin Yuanxiu retells the official's quoting of the line and answers it in his own turn with one lift of the whisk, everything gathered there. Poshan Haiming reads the unhurried seasons through it, one mind for sage and commoner and one way for past and present, Miyun Yuanwu checks the autumn proverb against it and finds that whoever screens the saying can meet the one root of heaven and earth without trouble, Yinyuan Longqi traces the birthday star of staff-holder, household, beasts, and grasses to one resting place and names it, and Yulin Tongxiu writes it at the head of the life-saving verse, that the original face has no this and no other, so sparing lives is sparing one's own stock."
+    }
+  ]
+}

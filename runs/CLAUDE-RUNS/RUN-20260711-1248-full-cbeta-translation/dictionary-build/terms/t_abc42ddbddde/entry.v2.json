@@ -1,0 +1,171 @@
+{
+  "Id": "t_abc42ddbddde",
+  "SourceTerm": "呼喚不回頭",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "call it, it will not turn its head",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "hailed and never turning back",
+        "no calling it back"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 81 hits in 59 files. Guide depth floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0003b24",
+          "ToLb": "0003c14",
+          "Kwic": "有佛世界。以光明為佛事。普照今日也恁麼去也。還會麼。燈連鳳翅當堂照。月印娥眉䫌面看。上堂云。習習春風絲絲春雨。一等沾濡十方周普。甘草得之甜。黃連得之苦。天意發叢林。簷聲鬧窓戶。古德甞云。已不迷。等閑教壞人男女。大眾已既不迷。為甚教壞人男女。還會麼。出身猶可易。脫體道還難。參上堂舉玄沙云。撈籠不肯住。呼喚不回頭。古聖不安排。至今無處所。據普照門下祇成得箇擔版漢。到這裡。却須把得住喚得回。退位相承。借功相見。直得同聲相應。雅合宮商。同道相忘。不分堦級。還會麼。鷺鷥立雪非同色。明月蘆花不似他。上堂云。不墮虛凝體前運步。不迷照用。鬧裡分身。可謂。獨立而不改。周行而不殆。還會麼。機絲不掛梭頭事。文彩縱橫意自殊。上堂",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: raises Xuansha's couplet in hall, the cage that cannot hold it and the call that wins no turn of the head, the old sages arranging nothing so that today it has no dwelling-place, rules that under Puzhao this makes only a plank-carrying fellow, and that here one must rather hold it fast and call it back, shared sounds answering with pitch and measure and equals on the way forgetting rank."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0964b05",
+          "ToLb": "0964b21",
+          "Kwic": "堂。默時說。說時默。寒山逢拾得。拈箇禿掃󰆠。東掃西掃。忽然撞著豐干禪師騎虎出來。放下苕󰆠。把手呵呵大笑。恰似販私鹽底草賊。有什麼共語處。復召大眾云。且道。他笑箇什麼。良久云。東君行正令。花發樹南枝。喝一喝。上堂。撥轉天關。掀翻地軸。氷凌上走馬。劍刃上翻身。未是衲僧行履處。萬年一念。一念萬年。羅籠不肯住。呼喚不回頭。亦未是衲僧行履處。透脫兩重窠臼。別有生機一路。向百草頭上。罷却干戈。山僧甘心。生陷無間地獄。是汝諸人。還自撿責麼。喝一喝云。漆桶參堂去。上堂。今朝正月半。普請大家看。過去燈明如來。在汝諸人脚跟下。放光動地。還見麼。若也見得。神頭鬼面裏。元來有人在。若見不得。切忌撞牆撞壁。復舉明招到招慶。有度上座問。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: spinning the heaven-pivot and overturning the earth-axis, riding horse on the ice and turning over on the sword-blade, rules that still not the patch-robed one's practice-ground, that ten thousand years one thought, one thought ten thousand years, the cage that cannot hold him and the call that does not turn him back, is still not the practice-ground either, and that through two stacked burrows there is another road of live functioning, the feud ended on the hundred-grass tips, himself willing to fall alive into the unbroken hell."
+        },
+        {
+          "RelPath": "X/X69/X69n1359.xml",
+          "FromLb": "0843a07",
+          "ToLb": "0843b04",
+          "Kwic": "持、解黏去縛、抽釘㧞楔、烹佛煅󱰪、轉凡成聖，亦不出此箇端由。所謂善知識者是大因緣，其斯之謂歟？正當恁麼時如何？竚看汗血八駿駒，何啻日馳三萬里？王機宜為弟樞密相公散水陸，請陞座，師示眾云：大人具大見，大智得大用，升大解脫堂，演大解脫義。是故留守樞密大資相公雖示世人有去有來，極其本體不動不變，所以羅籠不肯住，呼喚不回頭，佛祖不安排，至今無處所。塵塵剎剎普現威光，物物頭頭全彰勝相，殊勝中殊勝，奇特中奇特，佗方此界全心淨土，人間天上同一真境。正當恁麼時，且道留守樞密大資相公即今在什麼處？手提殺活金剛劒，誰敢當頭正眼看？上堂，云：千說萬說，不如親見；把手共行，略通一線。打破漆桶，何曾見面？阿耨多羅三藐三菩提也是靈驗。蔣山",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1359.xml). Recorded Sayings of Chan Master Ying’an Tanhua. Ying'an Tanhua owns the retained deployment: bidden to the dais at the water-land rite for the late retired minister's brother, holds that though the man showed the world a going and a coming, his very body moves not and changes not, and so the cage cannot hold him and the call wins no turning of the head, buddhas and patriarchs arranging nothing and no dwelling-place to this day, every mote and every land showing its awesome light and each thing fully declaring its surpassing mark, and asks where the retired minister is just now, the killing-and-living vajra sword in hand and none daring look him full in the face."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0115b18",
+          "ToLb": "0116a13",
+          "Kwic": "，磵底游魚忙不徹，展似眉毛作麼生？分明底事叮嚀說。諸昆仲！且道叮嚀事作麼生？雙手拍開銀世界，縱橫誰辯往來源？上堂。至理不渝，至功不宰，至道不形，至了不辦。於此四句相應，便做箇灑落衲僧，眼不染玄黃，脚不沾泥水，意不緣諸法，舌不親玄旨。到此則圓機普應，玄度該通，淨體無依，靈明絕待。所以玄沙大師云：羅籠不肯住，呼喚不回頭。古聖不安排，至今無處所。諸昆仲！今時禪者不信自心是佛，向外求佛；不信自心具足諸法，向外求法。既昧自心，縱有弘為，皆生死之業耳。又當知求佛求法即有所依，既有所依，於自心不得自在。譬如窮子竛竮辛苦，乞食自濟，昧却衣裏無價寶珠，豈智者乎？夾山大師偈云：勞持生死法，惟向佛邊求。目前迷正理，撥火覓浮漚。無事，久立。",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: cites the great master Xuansha's four lines for the brothers, then faults the men of this age who, not trusting their own mind to be buddha, seek the buddha outside, and not trusting their own mind to hold all dharmas, seek dharmas outside, so that all their vast undertaking turns to the business of birth-and-death, and seeking they get a prop, and by the prop lose freedom in their own mind, like the poor son laboring for food and forgetting the priceless pearl sewn in his coat."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0537a23",
+          "ToLb": "0537b05",
+          "Kwic": "云：『師善射否？』祖云：『善射。』鞏云：『一箭射幾箇？』祖云：『一箭射一群。』看他鉤頭有餌。鞏云：『彼此皆是生命，何得射他一群？』一釣便上。祖云：『你恁麼，何不自射？』驀頭一劄。石鞏到遮裏，露出本來面目，便云：『若教某自射，無下手處。』祖抗聲大喚云：『遮漢曠劫無明從此蕩盡。』鞏便擲下弓箭。正所謂牢籠不肯住，呼喚不回頭，千聖絕安排，至今無住所。你看石鞏是箇俗漢子，於馬祖言下便道無下手處，可不超過曹山了也。」乃舉拂云：「大眾！已上一隊老漢皆是大宗匠，赤手提持。今夜被山僧拂子穿卻鼻孔，擲向諸人面前。還見麼？若見得，便好孤峰絕頂蟠結草庵，無心出世而譽播寰區，無心濟物而德洽湖海。到遮裏年窮歲盡，且道徹頭徹尾一句作麼生道？」喝一",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: threading the story of Shigong the archer and Mazu, one arrow a flock and the demand why not shoot yourself, the great shout that scoured away age-old dark and the fletcher hurling down his bow and arrows, rules it precisely so, the cage that cannot hold him and the call that does not turn him back, the thousand sages arranging nothing and no dwelling to this day, and praises the countryman who at Mazu's word owned no place to lay a hand, surpassing even Caoshan."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0695c22",
+          "ToLb": "0696a06",
+          "Kwic": "？會麼？五色彩霞籠玉像，超然一句報昇平。」蔡司馬、顧農部、沈侍御請上堂：當央直指，未免淆訛；出格全提，卻成鈍置。何似春日融融，消落銀山之雪；春風拂拂，吹開鐵樹之花。木人得趣以高歌；石女知音而密和。此段天機太煞超絕，正當恁麼時，釋迦熱肝膽、達磨冷眼睛，與山僧閒拄杖，又如何分付？噫！到這裏也須是箇羅籠不肯住、呼喚不回頭底漢子，轉得身來，入林不動草、入水不動波，拈一莖草作丈六金身、拈丈六金身作一莖草，方可與他通此消息。從來海嶽歸真化，未有乾坤陷吉人。風雋薦蒼森禪人請上堂：盞子撲落地，碟子成八片；斬釘截鐵人，不肯通一線。昔奯上座住山，這漢太孤絕生。一日賊來索寶，撞著對頭也。奯云：「僧家之寶非君能用。」猶弄死蛇在。賊云：「",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: bidden to the dais by three officials, weighing that the point-straight finger risks confusion and the out-of-pattern full-raise only dulls, that Sakyamuni's liver and gall are hot and Damo's eyes cold, demands for that very moment a man the cage cannot hold and the call does not turn, who can turn his body about, enter the wood without stirring a blade of grass and the water without raising a wave, make one stalk of grass the six-foot golden body and the six-foot body one stalk, and only so receive the news."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0228a09",
+          "ToLb": "0228a23",
+          "Kwic": "水盡從今日去，重樓傑閣鎖何人？」師云：「無毛鷂子潑天飛。」進云：「某甲卻不與麼道。」師云：「汝作麼生？」僧云：「瞎。」師便打，乃云：「打破琉璃殼，迸出鳳凰兒，遍體彰文彩，何天不可飛。堪嘆赤尾梢，淹人虀甕裏。臨濟白拈賊，至今思未已。眾兄弟到來黃檗山中，眉毛廝結，鼻孔相拄，還曾迸出一回也未？如迸出，羅籠不肯住，呼喚不回頭。七通八達，東去西去，縱橫無礙，殺活自繇。吾家種草猶來別，到處逢人驀面欺。更須知有轉身一路始得。如何是轉身一路？汝行荒草裏，我又入深村。」下座。開藏，檀越請上堂。師豎拂云：「三藏十二部，一切修多羅，總在這裏流出。且道這裏從甚麼處流出？脫若會去，翻藏已竟，皇恩祖德一時酬畢。若猶未然，山僧向第二門頭展演去也",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: asking the brothers who came to Mount Huangbo, brows knit and nostrils pressed together, whether they have ever once broken out, holds that burst out, the cage will not hold them and the call will not turn them, seven ways through and eight roads open, going east going west at their own leave to kill and give life, yet they must still know the one road of the turned body, and to the question what that road is, answers that you walk the wild grass and I go deeper into the village."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n1999.xml",
+        "X/X69/X69n1359.xml",
+        "X/X72/X72n1435.xml",
+        "J/J25/J25nB171.xml",
+        "J/J25/J25nB174.xml",
+        "J/J27/J27nB193.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Mi'an Xianjie",
+        "Ying'an Tanhua",
+        "Wuyi Yuanlai",
+        "Tianyin Yuanxiu",
+        "Juelang Daosheng",
+        "Yinyuan Longqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Xuansha's untamed thing, which the cage cannot hold and calling cannot fetch back. Hongzhi Zhengjue raises Xuansha's couplet in hall, the cage that cannot hold it and the call that wins no turn of the head, the old sages arranging nothing so that today it has no dwelling-place, rules that under Puzhao this makes only a plank-carrying fellow and here one must rather hold it fast and call it back, shared sounds answering with pitch and measure and equals forgetting rank, Mi'an Xianjie, spinning the heaven-pivot and overturning the earth-axis, riding horse on the ice and turning over on the sword-blade, rules that still not the practice-ground, that ten thousand years one thought with the cage that cannot hold and the call that does not turn back still not the practice-ground either, and past two stacked burrows another road of live functioning, the feud ended on the hundred-grass tips, Ying'an Tanhua, bidden to the dais at the water-land rite for the late retired minister's brother, holds that though the man showed the world a going and a coming his very body moves not and changes not, so the cage cannot hold him and the call wins no turning of the head, every mote and land showing its awesome light, and asks where the minister is now, the killing-and-living vajra sword in hand, and Wuyi Yuanlai, citing the great master Xuansha's four lines, faults the men of this age who not trusting their own mind to be buddha seek the buddha outside, like the poor son laboring for food and forgetting the priceless pearl sewn in his coat. Tianyin Yuanxiu, threading Shigong the archer and Mazu, one arrow a flock and the demand why not shoot yourself, the great shout that scoured away age-old dark and the bow and arrows hurled down, rules it precisely so, the cage that cannot hold him and the call that does not turn him back, the thousand sages arranging nothing and no dwelling to this day, and praises the countryman who owned no place to lay a hand, Juelang Daosheng, weighing that Sakyamuni's liver and gall are hot and Damo's eyes cold, demands for the moment a man the cage cannot hold and the call does not turn, who turns his body about and enters the wood without stirring a blade of grass and the water without a wave, making one stalk of grass the six-foot golden body, and Yinyuan Longqi, asking the brothers at Mount Huangbo whether they have ever once broken out, holds that burst out the cage will not hold them and the call will not turn them, seven ways through and eight roads open, going east going west, yet still they must know the one road of the turned body, you walk the wild grass and I go deeper into the village."
+    }
+  ]
+}

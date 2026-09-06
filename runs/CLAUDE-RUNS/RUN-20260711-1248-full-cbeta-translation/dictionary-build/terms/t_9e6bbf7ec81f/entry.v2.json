@@ -1,0 +1,233 @@
+{
+  "Id": "t_9e6bbf7ec81f",
+  "SourceTerm": "日月星辰",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T00:27:15Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the sun, moon, and stars",
+      "AlternateTargets": [
+        "the luminaries of the sky"
+      ],
+      "SearchAliases": [
+        "sun moon and stars",
+        "the heavenly lights",
+        "the shining host of the sky"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 382 hits in 155 files representing 152 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0544c15",
+          "ToLb": "0544c29",
+          "Kwic": "：「請和尚不繁辭。」師云：「不得失卻問。」學云：「諾。」師便打。問：「承古有言：『會即事同一家，不會即離牙擘齒。』如何得事同一家？」師云：「亂走作麼？」上堂，云：「從上來且是箇什麼事？如今抑不得已，且向汝諸人道。盡大地有什麼物與汝為對為緣？若有針鋒與汝為隔為礙，與我拈將來。喚什麼作佛作祖？喚什麼作山河大地日月星辰？將什麼為四大五蘊？我與麼道，喚作三家村裏老婆說話。忽然遇著本色行腳漢，聞與麼道，把腳拽向階下，有什麼罪過？雖然如此，據箇什麼道理便與麼？莫趁口快向這裏亂道，須是箇漢始得。忽然被老漢腳跟下尋著勿去處，打腳折，有什麼罪過？既與麼，如今還有問宗乘中話麼？待老漢答一轉了，東行西行。」有僧擬問次，師以拄杖劈口打，",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Yunmen Wenyan owns the retained deployment, asking what they call the rivers and grounds and the luminaries, and what they take as the four elements and five clusters."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0022a01",
+          "ToLb": "0022b05",
+          "Kwic": "家中何所有持此一片石廣大堅且久靈山曾獻佛帝釋聊舉手心中出何物安樂并長壽下座。聖節上堂皇帝以天下為家兆民為子父子一體天下一家王愛於民民敬於王愛敬既同王道無外所以佛言如民得王又云如民之王且王外無民民外無王王在民外民不受賜民在王外王道不廣如何曰民無知曰民如何曰王聖神曰王今上皇帝至神至聖為民父母天寧降誕之節日月星辰連珠合璧江河淮濟激濁揚清𠃵坤造化草木虫魚呈祥瑞顯奇特皆皇帝至德之所感致也伏願南山北壽北嶽齊齡永永萬年無窮無盡遂下禪牀作舞曰會麼山僧舞蹈揚塵萬歲萬歲萬萬歲下座。上堂拈起拄杖卓一下云圎明了知不由心念底死要道墯坈落塹畢竟如何乃靠拄杖下座。上堂舉昔有一秀才見長沙和尚看千佛名經問曰許多佛秖聞其名未審居何國土長沙",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment, reading the linked pearls of the luminaries at the imperial anniversary as the fruit of the sovereign's virtue."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0060a04",
+          "ToLb": "0060a17",
+          "Kwic": "持鉢以謀一飽之計。仰荷虎丘師兄令為眾東語西話，然某道學膚淺，嚴命之辱，不敢固辭，不免借師兄鼻孔出氣，應箇時節。如師兄示眾云：虎丘無可取，只有三轉語，驗盡天下人，非今亦非古。敢問大眾：如何是虎丘三轉語？久參先德，一舉便知，後學初機，如何洞明？如何造入？須知這三轉語，從上若佛若祖、天下老和尚以此應世，乾坤大地、日月星辰、森羅萬象、色空明暗以此建立，四聖六凡、情與無情以此出沒。兄弟家未透得三轉語時，被從上若佛若祖、天下老和尚謾了，乾坤大地、日月星辰、森羅萬象、色空明暗謾了，四聖六凡、情與無情謾了。既一一被謾了，如何得此三轉語現前？除非自家二六時中、四威儀內，一切時、一切處、一動靜、一語默，自己三百六十骨節、八萬四千毛竅，",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, hanging the luminaries with the rivers, the myriad forms, and color and emptiness on the three turns that answer the age."
+        },
+        {
+          "RelPath": "X/X71/X71n1411.xml",
+          "FromLb": "0181b21",
+          "ToLb": "0181c11",
+          "Kwic": "巖中宴坐，天雨寶華，也是臭肉來蠅。少林面壁，斷臂安心，頗類燒錢引鬼。直饒脫去古人窠臼，朝打三千，暮打八百。上堂：德山道：無生死可怖，無涅槃可得，無菩提可證。只是尋常一箇無事人與麼說，事生也事生，爭不怖生死？既怖生死，便有涅槃可得、菩提可證。兄弟！一切語言不可採集。上堂，拈拄杖云：性海無垠，山河大地是浪，日月星辰是浪，三世諸佛浸爛鼻孔。你諸人要得出頭，且緩緩。上堂，僧問：有問趙州：狗子還有佛性也無？州云：無。此意如何？師大笑一聲。問：和尚一笑，某甲莫曉。師云：笑你漆桶不快。問：又問：一切眾生皆有佛性，為甚狗子無佛性？州云：為伊有業識在。還端的不？師云：有甚不端的？問：又有問：狗子還有佛性也無？州云：有。趙州年七百",
+          "MasterName": "Hengchuan Rugong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hengchuan Rugong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1411.xml). Recorded Sayings of Chan Master Hengchuan Xinggong. Hengchuan Rugong owns the retained deployment, calling the rivers and grounds waves of the boundless nature sea, the luminaries waves, and the noses of all buddhas soaked soft in it."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0557c19",
+          "ToLb": "0558a10",
+          "Kwic": "，木佛燒了也，金佛鎔了也，真佛勘破了也，趙州老漢趂出院了也，一去更不再來。咄！上堂。無手人行拳，無舌人解語，忽若無手人打無舌人，無舌人連忙道箇不必。復云：只箇不必，天下衲僧跳不出。上堂：鼓聲昨夜問鐘聲，今日鐘聲答鼓聲。廊下木魚開口笑，賤將佛法作人情。上堂：天高東南，江河淮濟注於海，而海不溢。地傾西北，日月星辰繫於空，而空不低。人人鼻直眼橫，日日晝明夜暗。諸佛不出世，祖師不西來。佛法徧天下，談玄口不開。會麼？釋迦老子在西天，文殊大士居東土。上堂：未曾親近，早隔大千。駕頭已入含元殿，猶向空堦擊靜鞭。上堂：對一說，水流濕，火就燥。倒一說，風從龍，雲從虎。何故？人心難滿，谿壑易盈。結夏，小參。僧問：如來聖制禁足護生，",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, singing the ground tilted northwest with the luminaries tied to the sky, yet the sky never lower."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0244b23",
+          "ToLb": "0244c12",
+          "Kwic": "釋迦鼻孔長多少？法法何曾法？瞞博山一點也不得。諸昆仲，釋迦大士四十九年橫說竪說、逆說順說，誰人奈得渠何？及入涅槃時，以虗空為口、滄溟為舌、日月星辰為莊嚴、山河大地為聽眾，橫說竪說、逆說順說，要且無人得聞。博山今日在此座上橫說竪說、逆說順說，誰人奈得博山何？博山今日不待涅槃，即此座筵以虗空為口、滄海為舌、日月星辰為莊嚴、山河大地為聽眾，橫說竪說、逆說順說，要且無人得聞。者裏有些子誵訛。諸昆仲，過去釋迦大師所說法要無人得聞即且置，現在博山所說法要因甚無人得聞？者裏若緇素得出，許你親見博山，既見博山即見釋迦大師；若緇素不出，縱見釋迦大師，要且不見博山。何以故？有口非干舌，無錢卦不靈。下座。上堂。諸昆仲！靜則埋根千尺，",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, taking the sky as mouth, the sea as tongue, the luminaries as adornment, and the rivers as audience, while no one hears."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0674c05",
+          "ToLb": "0674c18",
+          "Kwic": "「五眼之中，開點底是那一隻眼？」師劈頭打下，乃曰：「爛爛然於漏盡時，一回落在眼裏，昧卻萬古晴空。不以一重去一重，而以一重添一重。無怪乎笑口扯開十丈，指天上下金盆。沐浴小兒，從此過二百四十日，亦罹是患。不可將為小小。國清忝承七鬯，自來膽大心粗。敢道本有光中，不妨更著一點。何也？攬真成立，色相宛然。山河大地，日月星辰，皆妙明真性之所顯現。何過患之有？」隨拈拄杖曰：「木上座聞與麼說，欣慶無量。湧身虛空，高七多羅樹，而作是言：『此固不錯，彼亦不惡。了了根源，見之如昨。一時參畢了無言，彈指門開寶樓閣。有一人焉，於此彈指，應念得入，入已還閉。經行坐臥，常在其中，堂奧宏深，渾無向背。或時高唱摩訶衍，迥出于百非之表。安之以第二位，",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yi'an Shanzan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained deployment, ruling the rivers and the luminaries what the wondrous bright true nature shows, with no fault to find."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0095a02",
+          "ToLb": "0095b05",
+          "Kwic": "彌勒風柯月渚不可不是彌勒黃華翠竹不可不是彌勒見歬大眾不可不是彌勒拈拄杖云拄杖子不可不是彌勒山僧不可不是彌勒如是則見山不是山見水不是水見僧不是僧見俗不是俗見男不是男見女不是女所謂一道平等浩肰大均肰既都是彌勒了喚甚麼作山僧喚甚麼作拄杖子喚甚麼作見歬諸人以至喚甚麼作日月星辰山河大地不若山河大地依舊是山河大地日月星辰依舊是日月星辰以至見山依舊是山見水依舊是水見僧依舊是僧見俗依舊是俗見男依舊是男見女依舊是女所謂是法住法位世間相常住肰既山河大地日月星辰乃至僧俗男女都依舊去了又且如何是彌勒分底身卓拄杖三下喝兩喝云不見道時時示時人時人自不識復喝一喝。晚參示眾舉五祖演和尚云四五百石麥二三千石稻好箇休糧方𦒿婆不得妙千嵒長",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment, letting all be Maitreya and sending the rivers and the luminaries back to being themselves."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0349a04",
+          "ToLb": "0349a18",
+          "Kwic": "絕消息，一味總成真。如何是人中意？」師云：「舉目頓令三界靜，振鈴還使八荒歸。」乃云：「湘南犁耙未辭肩，浙左芒繩又被牽，既爾業緣無避處，搖頭擺腦也徒然。事到如此，寧容推托？只得打起脊項、硬著蹄角，先將東山下左邊底一犁翻轉，南山北嶺松、北嶺南山艸次第耕來，無論祖翁家業、自己田園、墻外底、屋角頭，便是大地虛空、日月星辰、艸木叢林也要一齊翻遍，直得上無可遮、下無可障，自然處處發生、般般成熟，管取三十年後粥足飯足，誰問廬陵米價、山前麥熟？或有箇禪和子道：『僼長老！千年田、八百主，要你著許多死力作麼？』山僧不覺呵呵大笑。且道笑箇什麼？古今無限癡獃子，惟有我儂獃得親。」師省天童，途次長沙萬福院，上堂。問：「遠辭青嶂，乍出長沙，",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment, plowing under even the great earth, the sky, the luminaries, and the grass and trees, till nothing above can shelter and nothing below can block."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0747a02",
+          "ToLb": "0747a15",
+          "Kwic": "呵大笑，曰：「古人恁麼說話，大似欺壓鄉傭，殊不知性海流入義海，一切神通智慧門、一切總持陀羅尼門皆自者裏流出。既無人識得，則貽璧之意與受璧之心何在？山僧即不然，但道：上有四箇字，字字人用得，用得則不無。且道：畢竟是那四箇字？」復以拄杖向空中點三點，曰：「孰其嗣之？我有遺則。」結制，上堂。「盡十方世界是箇火爐，日月星辰、山河大地、草木叢林、人與非人、羽毛鱗甲、飛潛動植皆入此中，鼓動橐籥，亙空紅燄，直得情與無情融為一體。正恁麼時，三世諸佛向火燄裏轉大法輪，火燄為三世諸佛說法，三世諸佛立地聽。聽即不無，且道說甚麼法？」良久，曰：「若將耳聽終難會，眼裏聞聲方始知。」小參。「目前無法，意在目前。不是目前法，非耳目之所到。」驀豎",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment, casting the whole ten directions as one furnace into which the luminaries, the rivers, the grass and trees, and all that flies and burrows enter and melt into one body."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "D/D48/D48n8939.xml",
+        "X/X70/X70n1376.xml",
+        "X/X71/X71n1411.xml",
+        "X/X71/X71n1420.xml",
+        "X/X72/X72n1435.xml",
+        "J/J37/J37nB394.xml",
+        "L/L155/L155n1643.xml",
+        "J/J37/J37nB386.xml",
+        "J/J36/J36nB362.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Foyan Qingyuan",
+        "Chijue Daochong",
+        "Hengchuan Rugong",
+        "Chushi Fanqi",
+        "Wuyi Yuanlai",
+        "Yi'an Shanzan",
+        "Muchen Daomin",
+        "Yuan'an Liao",
+        "Guantao Daqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed list-name for the shining host of the sky, traveling with the rivers and grounds below. Yunmen Wenyan asks what they call the rivers and grounds, the luminaries, and the four elements, then calls his own words a village wife's talk fit to be dragged off the steps, Foyan Qingyuan reads the linked pearls of the luminaries at the imperial anniversary as the fruit of the sovereign's virtue and comes down from the seat to dance his ten thousand years, Chijue Daochong hangs the luminaries with the rivers, the myriad forms, and color and emptiness on the three turns of his senior fellow, Hengchuan Rugong calls the rivers and grounds waves of the boundless nature sea, the luminaries waves, and the noses of all buddhas soaked soft in it, and Chushi Fanqi sings the ground tilted northwest with the luminaries tied to a sky that never lowers, while every nose stays straight and every eye level. Wuyi Yuanlai takes the sky as mouth, the sea as tongue, the luminaries as adornment, and the rivers as audience, and still no one hears, Yi'an Shanzan rules the rivers and the luminaries what the wondrous bright true nature shows, with no fault to find, Muchen Daomin lets all be Maitreya and sends the rivers and the luminaries back to being themselves, Yuan'an Liao plows under even the earth, the sky, the luminaries, and the grass and trees till nothing above can shelter and nothing below can block, and Guantao Daqi casts the whole ten directions as one furnace into which the luminaries and all that flies and burrows enter and melt into one body."
+    }
+  ]
+}

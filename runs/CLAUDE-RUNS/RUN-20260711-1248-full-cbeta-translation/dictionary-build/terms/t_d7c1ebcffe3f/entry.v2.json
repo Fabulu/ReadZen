@@ -1,0 +1,149 @@
+{
+  "Id": "t_d7c1ebcffe3f",
+  "SourceTerm": "如麻似粟",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:44:38Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "as thick as hemp and millet",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "swarming like hemp and millet",
+        "counterfeit practitioners everywhere"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 236 hits in 108 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X73/X73n1448.xml",
+          "FromLb": "0460b14",
+          "ToLb": "0461a09",
+          "Kwic": "師云：聞底事作麼生？進云：非唯觀世音，我亦從中證。師云：有眼如盲猶似可，有耳如聾笑殺人。進云：只如釋迦已滅，彌勒未生，正當與麼時，佛法如何舉論？師云：盡在法昌拄杖頭。進云：學人為什麼不曉？師云：杲日當天，盲人摸地。進云：與麼則大眾沾恩去也。師云：你見箇什麼道理？進云：欲言言不及，林下好商量。師云：亂統禪和，如麻似粟。僧問：世尊出世，先度五俱輪；和尚出世，先度何人？師云：隨泥作佛。進云：學人正在迷途，和尚為什麼不垂方便？師拈起拄杖云：見麼？進云：見。師云：莫道無方便。進云：莫便是和尚為人處也無？師放下拄杖，僧禮拜。師云：邯鄲學唐步。僧問：祖意西來即不問，陞堂演法事如何？師云：家常茶飯。進云：與麼則勞而無功去也。",
+          "MasterName": "Fachang Yiyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X73/X73n1448.xml). Recorded Sayings of Chan Master Fachang Yiyu. Fachang Yiyu owns the retained deployment: dismissing, at the end of a question round that ran from the dharma on his staff's tip to the blind man groping under the noon sun, the questioner's polite retreat with the verdict: disorderly Chan-wanderers, thick as hemp and millet."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0828b27",
+          "ToLb": "0828c13",
+          "Kwic": "一念。師云。起也。乃云。不起一念。未是諸人放身命處。一念纔生。如龍得水。似虎靠山。全體恁麼來。全體如是住。便恁麼領得去。更買百二十䩫草鞵行脚始得。為甚麼如此。我王庫內無如是刀。張侍郎請陞座。僧問。十方同聚會。箇箇學無為。此是選佛場。心空及第歸。時如何。師云。題目道甚麼。進云。分明在目前。師云。柱撰禪和如麻似粟。進云。爭柰一等共攀仙桂樹。要折蟾宮第一枝。師云。這漢今日他白。進云。雖然如是。今夏定作禪狀元。便禮拜。問侍郎見處何似去年。師云。今年去年只隔三百六十年。進云。莫謗侍郎好。侍郎無這箇消息。師云。既無這箇消息。了因又亂道作甚麼。進云。借人口說一兩句。又且何妨。便禮拜。師乃云。借人口說得底。不干自己事。自己胸",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: seated for Minister Zhang while a monk announces the selection-ground for buddhas and the empty-mind graduation, answering with the cooked-up variant — cooked-up Chan-wanderers, thick as hemp and millet — before grading the candidate's examiner ambition as three hundred sixty years off."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0034b08",
+          "ToLb": "0035a05",
+          "Kwic": "也。後來保福問鵝湖：僧堂前且致，望州亭、烏石嶺甚麼處相見來？鵝湖驟步歸方丈，保福便低頭入僧堂。東禪齋云：此二尊宿會，不是相見不相見，試斷看。雪竇顯云：二老是則是，只知雪峰放行，不見雪峯把定。忽有箇衲僧出來問：未審雪竇作麼生？豈不是別機宜、識休咎底漢？還有望州亭、烏石嶺相見底衲僧麼？良久，云：擔板禪和，如麻似粟。薦福信云：古人與麼，只有順水之波，且無逆風之浪。寶林遠云：雪峯是三處相見，保福以兩處問人，鵝湖只解把定，不解放行。若有問寶林：烏石嶺、望州亭甚麼處相見？攔腮便掌。待伊擬議，拽拄杖打出三門，且要與雪峯流通此話。汾陽昭頌云：望州烏石與堂前，相見相逢萬萬千。唯有鵝湖并保福，此時相見解推遷。海印信云：望",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Xuedou Chongxian owns the retained deployment: appraising the two elders of the meeting-place exchange — one only releases, one only holds — and ruling, after a long beat, that whoever asked about Xuedou would be a machine-knowing knower, while board-carrying Chan-wanderers are thick as hemp and millet."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0877b09",
+          "ToLb": "0878a03",
+          "Kwic": "似不好何故字經三寫烏焉成馬引得後來叢林有一般兄弟專以廝禪為事不管道理是不是末後多一句便是羸得禪泐潭湛堂和尚每見師僧在廊下也須與他廝禪則箇常記得山僧一日在實際寮湛堂引官客來閑行見山僧看經便問看甚麼經對云金剛經堂云經中道是法平等無有高下是否對云是又問因甚麼雲居山高寶峰低山對云不見道是法平等無有高下堂云杜撰禪和如麻似粟便出去少間官人問他適來箇上座祇對得是否堂云放屁合著大石調山僧背後聽得暗地歡喜蓋明眼宗師知得你已在正路上行又一日因修鐘樓樓下元有地藏十王塑像普請移出安在三門頭是時山僧亦捧一身堂問你手裏大王姓甚麼山僧云姓梁蓋湛堂姓也堂遂以手作展樸頭脚勢云爭奈姓梁底少這箇對曰雖然少這箇鼻孔不多爭堂云杜撰禪和如麻似粟又一日從馬",
+          "MasterName": "Zhantang Wenzhun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Zhantang Wenzhun owns the retained deployment: finding his young student reading the Diamond Sutra and testing him — the dharma is even, no high no low: then why is Yunju mountain high and Baofeng low — and on the student's quoting the line back, branding it cooked-up Chan-wanderers, thick as hemp and millet, and walking out."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0430a15",
+          "ToLb": "0430b10",
+          "Kwic": "鎮州蘿蔔。進云：學人今日亦如是問，未審師還答否？師云：問箇甚麼？進云：萬法歸一，一歸何處？師云：山門頭，佛殿裏。進云：只如適來道：十字街頭石敢當。與七斤衫相去多少？師云：鐵作秤錘。僧禮拜。僧問：適來禪客已涉繁詞，學人不啟一言，請師答話。師云：答汝了也。進云：一言截斷千江口，萬仞峰頭始得玄。師云：亂統禪和，如麻似粟。僧禮拜，師乃云：番城古郡，澹水名藍，塔聳雲霄，門連市井。大檀越揮金布地，革律為禪；名尊宿建立法幢，廣延儔侶。淨緣際會，正在斯時，拓開無上妙門，顯示真實義諦。有佛處不得住，天高地厚；無佛處急走過，水闊山遙。三千威儀、八萬細行、三百法會，撒向諸人面前，便請一時證入，直得天垂甘露、地涌金蓮，人人頂門上輝大寶",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: branding, after a visiting monk performs his one-word-severs-a-thousand-rivers flourish and bows without a word of his own, the shape: disorderly Chan-wanderers, thick as hemp and millet."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0737c11",
+          "ToLb": "0737c24",
+          "Kwic": "問你：你曾認得西方麼？若認得時，西方無許多般，不容你說頓說漸，說淨說穢，將許多道理配合得的，豈況許多揀擇，許多憎嫌？即今先自不清淨了，臨終安得清淨？古人道得好：『有禪有淨土，猶如戴角虎。』且莫放倒一邊。古人千經萬論，塞壑填溝，祖師西來，不立文字，豈是教你呆椿椿地，一竅不通？單只播弄嘴唇，獨逞伎倆，杜撰長老，如麻似粟，不看經論，不習威儀，自謂徑省，三家村裏兩箇筭沙漢，記將幾句現成本頭，卻也角立門風，自說自道。既稱比丘持戒是本分事，忽略繩趨，放蕩規矩，取玷法門，自招罪過。有等俗士，不識大人境界，不知隨順因緣，耑事繁文，或崇枯簡，將使西天外道不食麻麥及投灰等，反踞如來之上，有是理乎？語言棒喝，都是祖師用的，臨濟賓主、曹洞",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: defending sutra study against the throw-away-everything crowd — counting off the cooked-up elders, thick as hemp and millet, who read no sutras, practice no deportment, call it the shortcut, and set up village gate-mastery on a few memorized set pieces."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0230c26",
+          "ToLb": "0231a09",
+          "Kwic": "孫，只恁麼實法傳將去，玷辱先宗。又有一種道：『者箇說話與高峰「大徹底人本脫生死，因甚命根不斷」話不同。高峰話是體上事，命根是要斷底，者箇尾巴是不要過底，謂之尾大鐵櫺堅，以古人末後一句始到牢關，把斷要津、不通凡聖為證，謂之大法中末後句。』如斯等解，稱鄭、稱楊，豈不鈍置殺人？胡不思大慧、應菴出世時，諸方說法者如麻似粟，豈可全無見解？因甚應菴道：『在今天下無人理會得？』須知不是者箇道理。然雖如是，既是大底過了，因甚尾巴過不得？」便下座。至寶光寺，請陞座。乃云：「地、水、火、風是金剛正體，生、老、病、死乃大解脫門，所以諸佛、眾生同有一病。諸佛不病，為伊惺惺；眾生若病，即非眾生。今日陳居士為祖母謝氏有病，請靈祐舉揚般若，祈",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: dismantling a student's gloss on the broken root-tail with the counterfactual: when Dahui and Ying'an came forth, those teaching in every quarter were thick as hemp and millet — can it be they had no insight at all? so why could none of them handle it?."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0131c10",
+          "ToLb": "0131c24",
+          "Kwic": "兩手分付。」僧纔出作禮，師劈脊一棒云：「且道一半。」僧進前云：「乞和尚全副道將來。」師擲下拄杖云：「要頭截取去。」僧擬議，師托開云：「是甚麼乾矢橛？」便下座。上堂。「冒虛空為鼓，懸日月為槌，打鼓普請鄧山五百木羅漢，夯取柴庄嶺上薪，蒸得米囤峰頭粟，將漁洋缽盂山滿盛香積，憑鄧山翀天飛鳳和聲念摩訶般若，三世諸佛如麻似粟，虛空中懽喜合掌，惟有普賢長子騎卻竹山臥象峰為作證明，曰：『若人會得這一句子，管取參學事畢。』」便下座。上堂。「有句無句，如藤倚樹，不參活句參死句，豈止蹉過河沙數？樹倒藤枯，句歸何處？大地山河生銕鑄，千人萬人把不住。溈山呵呵大笑歸方丈，迢迢相望八千里，往復何嘗行舊路？」喝一喝，云：「此是圓通自在門，萬峰不",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: drumming on an awning of void with sun and moon for drumsticks, summoning five hundred wooden arhats to haul firewood and steam millet — then inverting the measure: the three-times buddhas themselves thick as hemp and millet, applauding in empty space, with only Samantabhadra's eldest son riding the reclining-elephant peak as witness."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X73/X73n1448.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X67/X67n1299.xml",
+        "M/M59/M59n1540.xml",
+        "X/X71/X71n1412.xml",
+        "J/J33/J33nB294.xml",
+        "J/J34/J34nB300.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Fachang Yiyu",
+        "Dahui Zonggao",
+        "Xuedou Chongxian",
+        "Xuefeng Yicun",
+        "Zhantang Wenzhun",
+        "Gulin Qingmao",
+        "Liangting Jingting",
+        "Chaozong Tongren",
+        "Ying'an Tanhua",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "As thick as hemp and millet. Fachang Yiyu, pressed at the end of a question round — the dharma all on his staff's tip, the blind man groping under the noon sun — dismisses the questioner's polite retreat with the verdict: disorderly Chan-wanderers, thick as hemp and millet. Dahui Zonggao, seated for Minister Zhang while a monk announces the selection-ground for buddhas and the empty-mind graduation, answers with the cooked-up variant — cooked-up Chan-wanderers, thick as hemp and millet — before grading the candidate's examiner ambition three hundred sixty years off. Xuedou Chongxian, appraising the two elders of the Wuzhou-ridge meeting in the Classified Anthology — one only releases, one only holds — waits a long beat, then rules: board-carrying Chan-wanderers, thick as hemp and millet. And Zhantang Wenzhun, finding his young student reading the Diamond Sutra and testing him on the dharma's evenness against Yunju's height and Baofeng's lowness, drops the same brand on the answer and walks out — the student, standing behind, secretly delighted that an eyed teacher knows he is already on the right road. Gulin Qingmao, after a visiting monk performs his one-word-severs-a-thousand-rivers flourish without a word of his own, brands the shape: disorderly Chan-wanderers, thick as hemp and millet. Liangting Jingting, defending sutra study against the throw-away-everything crowd, counts them off — cooked-up elders, thick as hemp and millet, who read no sutras, practice no deportment, call it the shortcut, and set up shop as village gate-masters with a few memorized set pieces. Chaozong Tongren, dismantling a student's gloss on Hanyue's broken root-tail, asks the counterfactual: when Dahui and Ying'an came forth, those teaching in every quarter were thick as hemp and millet — can it be they had no insight at all? So why could none of them handle it? And Hanyue Fazang, drumming on an awning of void with sun and moon for drumsticks to summon five hundred wooden arhats from Deng Mountain to haul firewood and steam millet on Rice-Hoard Peak, inverts the measure — the three-times buddhas themselves thick as hemp and millet, applauding in empty space, with only Samantabhadra's eldest son riding the reclining-elephant peak as witness."
+    }
+  ]
+}

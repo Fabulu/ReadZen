@@ -1,0 +1,233 @@
+{
+  "Id": "t_75230eec9da2",
+  "SourceTerm": "達磨西來",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-05T23:57:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "Bodhidharma came from the West",
+      "AlternateTargets": [
+        "the founding crossing from the West"
+      ],
+      "SearchAliases": [
+        "when Bodhidharma crossed to China",
+        "Bodhidharma's coming from the West",
+        "the First Patriarch's arrival from the West"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 627 hits in 208 files representing 202 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0299b01",
+          "ToLb": "0301a05",
+          "Kwic": "咽喉何處出氣𥬇我者多哂我者少喪時光藤林荒󲅭人意滯肌尫舉不顧即差互擬思量何劫悟咄咄咄力韋希禪子訝中眉𡸁抽顧頌抽顧頌鑒咦雲門匡󷹋禪師廣錄卷上雲門匡󷹋禪師廣錄卷中門人明識大師賜紫守堅集室中語要一百八十五則垂示代語二百九十則室中語要室中語要師示眾云盡十方𠀍界乾坤大地以拄杖一畫百雜碎三乗十二分教達磨西來放過即不可若不放過不消一喝。師示眾云西天二十八祖唐土六祖天下老和尚揔在拄杖頭上直饒會得倜儻分明秖在半途若不放過盡是野狐精。師一日云古來老宿皆為慈悲之故有落草之談隨語識人若是出草之談即不與麼若與麼便有重話會語不見仰山和尚問僧近離甚處僧云廬山仰山云曾遊五老峯麼僧云不曾遊仰山云闍棃不曾遊山師云此語皆為慈悲",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment, breaking the ten directions apart with one drawn stroke and granting the crossing no pardon outside a single shout."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0463b01",
+          "ToLb": "0463b15",
+          "Kwic": "十石油麻樹上攤。龐婆云：易！易！百草頭上祖師意。靈照云：也不難，也不易，飢來喫飯困來睡。尋常舉向人，多是愛靈照道得省力，嫌龐翁龐婆說難說易，只是作隨語解，殊不本其宗猷，所以言迹之興，異途之所由生也。若能忘言體意，方見此三人各出一手，共提箇沒底藍兒撈蝦摝蜆，著著有殺人之機，處處有出身之路。示璨上人示璨上人達磨西來，不立文字語句，唯直指人心。若論直指，只人人本有，無明殻子裏全體應現，與從上諸聖不移易絲毫許。所謂天真自性，本淨明妙，含吐十虗，獨脫根塵一片田地。惟離念絕情，迥超常格，大根大智，以本分力量，直下就自根脚下承當，如萬仞懸崖，撒手放身，更無顧藉，教知見解礙倒底脫去。似大死人已絕氣息，到本地上大休大歇，口鼻眼耳初",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment, writing that the crossing set down no written sentence but pointed straight at the mind."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0049c01",
+          "ToLb": "0049c15",
+          "Kwic": "擎杈，趙州喫茶，禾山打皷，歸宗斬蛇。良久，云：慣釣鯨鯢沉巨浸，却嗟蛙步𩥇泥沙。上堂，舉：教中道：大通智勝佛，十劫坐道場。佛法不現前，不得成佛道。師召大眾云：衲僧門下却較些子。何故？道泰不傳天子令，時清休唱太平歌。上堂：佛祖不到處，時人知有時；人知有處，佛祖不知。何故？天高地厚人難見，暗剖衷腸說向誰？上堂。達磨西來，不立文字，直指人心，見性成佛。師召云：大眾！弗詢之謀勿庸，無稽之言勿聽。然雖如是，不因樵子徑，爭到葛洪家？臨安府景德靈隱禪寺語錄臨安府景德靈隱禪寺語錄師於淳祐甲辰七月十四日入院。拈諸山并山門疏云：沖上座幸自可怜生，無端被諸方老宿花擘，醜惡俱露，山門兩序雖欲掩之而不可得。既掩之不可得，却請首座書記錦上鋪花",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, raising the crossing's direct pointing and at once telling the assembly to heed no unchecked sayings."
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0652b20",
+          "ToLb": "0652c08",
+          "Kwic": "未見四祖時。為什麼百鳥銜花獻。師云。富與貴是人之所欲。學云。見後為什麼百鳥不銜花獻。師云。貧與賤是人之所惡。乃云。西天二十八祖也恁麼道。唐土六祖也恁麼道。天下老和尚也恁麼道。獨有太平不恁麼道何故寡不敵眾且道。畢竟如何妙舞更。須知遍拍。三臺須是大家催。上堂云。上是天下是地。南北東西依舊位。釋迦老子弄精魂。達磨西來多忌諱。忽有箇漢出來道。和尚低聲。但向伊道。秖要拋塼引玉。上堂云。山僧今日。將山河大地。盡作黃金□該有情無情。總令成佛去。然後太平不入者保社。何故爭之不足讓之有餘。上堂云。太平不會禪。一向外邊走。臘月三十日。贏得一張口。且道那箇是太平口。自云。兩片皮也不識。上堂舉。寶壽作街坊時。見兩人相諍。一人以手",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzu Fayan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment, singing that the sage of the Sakyas played tricks and the crossing brought many scruples."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0373c07",
+          "ToLb": "0373c20",
+          "Kwic": "死如生龜脫殻，人人終似活剝狐狸，速入阿鼻，永沉無間。古德云：一盲引眾盲，相牽入火坑。圓覺經云：非眾生咎，邪師過謬。豈不見達磨初至少林，面壁九年，水泄不通，二祖立雪斷臂，達磨亦未可信在。二祖告云：請師為我安心。達磨云：將心來，與汝安。二祖云：覓心了不可得。達磨云：與汝安心竟。二祖豁然大悟，本心遍一切處，方會達磨西來之意。次第相傳，至於六祖。如今說法，難竝先賢。有名無實，末學誰知。背覺合塵，難求正見。普菴初精究於華嚴，次熟披於海藏。忽覩彌勒樓開，親見善財行履處。然後淨名方丈之中，通光不二，便見楞嚴七處徵心。知阿難未明此事，當下心開廓徹，實相融通。於心外無心，而三昧現前。向頭上安頭，而提携後進。是以遊戲般若，建立涅槃。重",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu owns the retained deployment, locating the second patriarch's great awakening at the very moment he understood the crossing's intent."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0695a11",
+          "ToLb": "0695b05",
+          "Kwic": "清淨於一切法元無取捨。只貴󷘓身一擲抹過太虛。脫體無依隨處自在。更說甚麼生死涅槃真如煩惱。猶如昨夢。何有於我哉。到這裏却不妨從空放下。更就他尊宿痛鉗鎚下。煆鍊一回。等閑伸出三頭六臂。將從上差別因緣聱訛公案。縛作一束拋在他方世界之外。便乃索空雙手。向閙市門頭孤峯頂上。現神通十八變。使他依門傍戶者斫額有分。所以達磨西來謂之單傳直指。初無委曲。後來法久成弊生出異端。或五位君臣。四種料揀。三關九帶十智同真。各立門庭互相提唱。雖則一期建立。却不思賺他後代兒孫。一箇箇渾身墮在叅天荊棘中。枝上攀枝蔓上引蔓。但見葛藤遍地無有出期。逗到頭白齒黃。忽然命根子於欲斷未斷之際。返思從前知解毫髮無靈。甘赴死門悔將奚及。近代藂林如此叅學者。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, calling the crossing a single transmission without folds and blaming the later gateposts for the thorns."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0767a20",
+          "ToLb": "0767b03",
+          "Kwic": "名絕相非今古，越聖超凡在此時。」師云：「三十棒。」僧禮拜。陶陳吳居士設茶。師豎拂云：「會麼？圓陀陀，不受纖毫蓋覆；赤灑灑，全無半點囊藏。炤萬象以無私，周法界而光耀。直須迸開頂門正眼，徹見自己家珍。作麼生是自己家珍？」良久云：「秦峰一片雲靉靆，鑑湖幾處水叮鼕。今日是陶陳吳邢眾居士設茶，請山僧說法。若論此事，達磨西來，只要人信得自己。所以大珠見馬祖問云：『阿那個是慧海的寶藏？』祖云：『即今問話的便是，一切具足，無所乏少。』這是第一個信自己的樣子。又大梅參馬祖問云：『如何是佛？』祖云。『即心是佛。』繇是大梅直信自心，向大梅三十年不出山。這是第二個信自己的樣子。」遂豎拂云：「眾居士！若向這裏信得及，說一個成佛也是多的。所",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment, saying the crossing asked only that people trust their own store."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0477a20",
+          "ToLb": "0477b03",
+          "Kwic": "何是祖？」師云：「橫肩兩樣看。」「如何是超佛越祖？」師云：「提起三十棒。」僧一喝，師拍掌三下。病中，上堂。「維摩病在毘耶城，老僧病在聚雲寺，兩箇無孔鐵鎚，一前一後相似。今日若有人問話，但只搖手。如云：『不會。』向道：『老僧感冒傷風，失了聲氣。』」舉隱首座秉拂上堂。「佛無面目，說是說非。祖是白拈，靴裏弄指。達磨西來，不立文字。直指人心，見性成佛。到有一千七百則葛藤，黃面瞿曇，三藏十二部，一切修多羅。又道四十九年未曾說出一字。老僧三十年撞入他家隊裏，惹了一身腥臭。如今只得尋箇替代，各自抽身。大眾有未了公案，待第一座共汝等商量。」解制，上堂。「座下三五百人，各具擇法眼，各有沖天志，恁麼則老僧有望；座下三五百人，各具擇法",
+          "MasterName": "Juyun Chuiwan Guangzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Juyun Chuiwan Guangzhen owns the retained deployment, raising the crossing's no-written-word formula and then counting the briars gathered from it."
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0825c15",
+          "ToLb": "0825c28",
+          "Kwic": "穿沒孔針，具眼衲僧頓識根源，流輩阿師當面錯過。兄弟家有問則問，無問則止，也不得妄生枝節，也不得無風起浪，平常之外更平常，法界人天合仰望。且如仰望個甚麼？眼似銅鈴，口如木鐸。」示眾。舉：「古人道：『若人識得心，大地無寸土。』雲居道：『若人識得心，大地盡是土。』盡是土，無寸土，紅棗甜，黃檗苦。馬師還鄉道不香，達磨西來稱鼻祖。此疑決向杖頭邊，信為道源功德母。」僧問：「悟心底人同一理性，因甚麼所見不同？」師云：「待汝悟心了來向汝道。」出山，示眾。「古人行腳，竿木隨身；雲居出山，一物不帶。赤條條，任意縱橫；脫灑灑，逢場作戲。藏身之處沒蹤跡，佛魔牛馬任人呼。」僧問：「船到江心時如何？」師云：「看風使帆。」進云：「風恬浪靜時如何",
+          "MasterName": "Fangrong Ruxi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Ruxi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. Fangrong Ruxi owns the retained deployment, singing the master's return road failing its scent while the crossing is hailed as first ancestor."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0665c12",
+          "ToLb": "0665c25",
+          "Kwic": "未？」師云：「險。」進云：「西去濟南三百五，無限行人恨路長。」師云：「走殺闍黎。」問：「欽奉覺皇令，掀翻魔外疆，錦衣歸故里，稽首謝君王時如何？」師云：「誰是其人？」進云：「有功之臣為甚麼不賞？」師云：「李陵不是漢家臣。」乃云：「玄玄玄，十四十五月嬋娟；玅玅玅，霜天永夜無私炤；也不玄、也不玅，信口道來無不好。達磨西來的的意，二祖親傳曾斷臂，曾斷臂，血常流，直至而今痛未休。會中還有知痛癢者麼？若有，祖宗門風不至埽地；如無，將謂山僧說玅譚玄。」喝一喝。上堂。問：「開鑿人天眼目，闡揚佛祖宗風。人天眼目即不問，如何是臨濟宗？」師云：「棒打髑髏痛徹髓。」「如何是雲門宗？」師云：「須信山高水又深。」「如何是溈仰宗？」師云：「金鎖",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment, chanting the crossing's very intent handed down with the severed arm whose blood still runs."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "X/X69/X69n1357.xml",
+        "X/X70/X70n1376.xml",
+        "T/T47/T47n1995.xml",
+        "X/X69/X69n1356.xml",
+        "B/B25/B25n0145.xml",
+        "J/J26/J26nB188.xml",
+        "J/J29/J29nB239.xml",
+        "J/J29/J29nB249.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Yuanwu Keqin",
+        "Chijue Daochong",
+        "Wuzu Fayan",
+        "Pu'an Yinsu",
+        "Zhongfeng Mingben",
+        "Ruibai Mingxue",
+        "Juyun Chuiwan Guangzhen",
+        "Fangrong Ruxi",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed event formula that summons the founding crossing as the standing measure of every hall. Yunmen Wenyan breaks the ten directions apart with one drawn stroke and grants the crossing no pardon unless it be passed over in a single shout, Yuanwu Keqin writes that it set down no written sentence but pointed straight at the mind, Chijue Daochong raises the crossing's direct pointing before the assembly and at once tells them to heed no unchecked sayings, Wuzu Fayan sings that the sage of the Sakyas played tricks and that the crossing brought many scruples, and Pu'an Yinsu finds the second patriarch's great awakening the very moment he understood the crossing's intent. Zhongfeng Mingben calls the crossing a single transmission without folds and blames the later schools' gateposts for tangling descendants in thorns, Ruibai Mingxue says the crossing asked only that people trust their own store, Juyun Chuiwan Guangzhen raises the crossing's no-written-word formula and then counts seventeen hundred briars gathered from it, Fangrong Ruxi sings the master's return road failing its scent while the crossing is hailed as first ancestor, and Tian'an Sheng chants the crossing's very intent handed down with the severed arm whose blood still runs."
+    }
+  ]
+}

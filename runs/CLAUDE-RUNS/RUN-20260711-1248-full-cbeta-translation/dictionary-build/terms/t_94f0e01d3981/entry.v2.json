@@ -1,0 +1,232 @@
+{
+  "Id": "t_94f0e01d3981",
+  "SourceTerm": "如藤倚樹",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:12:24Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "like a vine leaning on a tree",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "as the vine leans on the tree",
+        "vine leaning against a tree",
+        "the vine propped on the tree"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 436 hits in 140 files representing 137 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0747b26",
+          "ToLb": "0747c04",
+          "Kwic": "擬推尋劈脊摟。拈得鼻孔失却口。為問普化一頭驢。何似紫胡一隻狗。上堂云。有句無句超宗越格。如藤倚樹銀山鐵壁。及至樹倒藤枯。多少人失却鼻孔。直饒收拾得來。已是千里萬里。只如未有與麼消息時。還透得麼。風暖鳥聲碎。日高華影重。上堂云。大眾。久雨不晴今日晴。乾坤大地放光明。牆壁瓦礫說佛法。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: opens the hall address with it — with-sentence and without-sentence overstep lineage and rule, like a vine leaning on a tree, a silver mountain and an iron wall; when the tree falls and the vine withers, how many lose their nostrils, and even those who gather it back up are already a thousand, ten thousand miles out."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0813c20",
+          "ToLb": "0813c28",
+          "Kwic": "在插鍬處在叉手處。進云。竿頭絲線從師弄。不犯清波意自殊。師云。又却恁麼去也。乃云。有句無句如藤倚樹。碧眼胡兒不知落處。且道。落在甚麼處。驀拈拄杖召大眾云。看看。直下來也。急著眼覷擲下拄杖。出卿歸。上堂舉五祖師翁出隊歸。示眾云。出隊半箇月。眼不見鼻孔。失却祖師禪。拾得箇骨董。且道。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: sets it in the hall — the green-eyed barbarian does not know where it falls — then snaps up the staff, calls the assembly to look, it is coming straight down, get your eyes sharp, and throws the staff down."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0126c14",
+          "ToLb": "0126c20",
+          "Kwic": "僧問：「如何是有句？」師云：「秋風訴愁絕。」僧云：「如何是無句？」師云：「寒月自多情。」僧云：「如藤倚樹時如何？」師云：「風月年年在，人心有變更。」僧拜倒，云：「可知禮也。」師乃拈起拄杖云：「還有不變更者麼？」良久，卓拄杖云：「待樹倒藤枯，再行檢點。」便下座。上堂。舉：「臨濟祖師云：『大凡演唱宗乘，須一句中具三玄門，一玄中具三要，有權有實，有炤有用。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: answers the ask about the vine leaning on the tree with wind and moon year after year while the human heart changes, and the monk bows to the ground: now one knows propriety."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0580b25",
+          "ToLb": "0580b29",
+          "Kwic": "問：「如何是有句？」師擊竹篦一下，云：「轟。」「如何是無句？」師云：「徒勞側耳。」「如何是如藤倚樹？」師云：「古今榜樣。」「樹倒藤枯，句歸何處？」師云：「隨人語脈轉，豈是作家？」「溈山呵呵大笑歸方丈，又作麼生？」師云：「須防爛泥裏有刺。」僧禮拜，師云：「會了禮？不會禮？」進云：「總不恁麼。",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: takes the ask through the pair — one crack of the bamboo whip for the with-sentence, straining the ear for the without — calls the vine-tree the model of old and new, and rules the tree-fall answer one that turns along the speaker's vein, no workman."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0549b04",
+          "ToLb": "0550a02",
+          "Kwic": "如何是二十年前有道心峯云問凡答凡問聖答聖如何是二十年後無道心峯云問凡不答凡問聖不答聖師云山僧春來亦有個口號壬辰年以前有道心壬辰年以後無道心若有人問如何是壬辰年以前有道心人要恁麼我不許恁麼如何是壬辰年以後無道心人要恁麼我便許恁麼晚叅問有句無句如藤倚樹時如何師云描也描得好畫也畫得精進云樹倒藤枯句歸何處師隨聲便打鋪堂問一聞千悟的人因甚命根不斷師云飯與無眼的喫問一念未生前如何受用師云切忌軃跟進云親見相尚又作麼生師云三十棒一棒也較不得師乃云諸人未發問前曾無些子隔礙既發問後便有許多參差且道本無隔礙為甚卻討許多參差各與三十棒還有免得的麼良久驀卓拄杖下座大眾一齊走散檀越請小叅問今日小叅師將何法普施師云此間無老僧目前無闍黎問文殊七佛之師為甚麼出女子定不得師云多少人疑著進云罔明初",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: at late assembly answers the ask that it is drawn well and painted fine, and at the tree-fall question strikes along with the very sound of it."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0673a16",
+          "ToLb": "0673a21",
+          "Kwic": "」師云：「要道便道，有什麼難？」進云：「昔日疏山到溈山，問：『承師有言：「有句無句，如藤倚樹。」忽然樹倒藤枯，句歸何處？』溈山呵呵大笑，意旨如何？」師云：「忍俊不禁。」進云：「今日有問和尚，未審如何指示？」師云：「換手搥胸。」進云：「定光金地遙招手，智者江陵暗點頭。」師云：「還有一句不曾念得。",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: takes the monk's raising of the old story — Shushan's ask and Guishan's loud laugh — and answers that the laugh could not be held back."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0522c08",
+          "ToLb": "0522c12",
+          "Kwic": "山云：『有什麼語輸他？』」師云：「諦審。貴舉石霜辭溈山，纔禮拜起，溈問：『有句無句如藤倚樹，子意如何？』霜無對。」師云：「許你真實。卻到道吾，吾問：『甚處來？』霜云：『溈山來。』吾云：『有什麼言句？』霜遂舉前話。」師云：「也是直頭。吾云：『汝何不道取？』」師云：「旁觀者清。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: raises the other wing of the exchange: Shishuang taking leave of Guishan, asked his understanding of the couplet and giving no answer, rules it true, then follows him on to Daowu."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0148a24",
+          "ToLb": "0148b01",
+          "Kwic": "既知本命元辰落處，自信有物先天地，無形本寂寥，能為萬象主，不逐四時凋。此個風光無限普，人間天上任安閒，更有溈山禪師云：『有句無句，如藤倚樹，癩馬繫枯樁，長年塞斷路。樹倒藤枯，句歸何處，斫卻月中桂，清光應更多。』者兩則語在，會衲僧不妨戽水。」復舉：「當時龐居士問靈照女云：『明明百草頭，明明祖師意，汝作麼會？』靈照云：『老老大大作恁麼語話？",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: cites Guishan's own version — the mangy horse tied to a withered stump blocks the road the whole year, and at the tree-fall bids one cut the cassia in the moon so the clear light will only be more."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0283b12",
+          "ToLb": "0283b21",
+          "Kwic": "車箱入谷無歸路。箭筈通天有一門。且道。向甚麼處去。舉。疎山到溈山便問。承師有言。有句無句如藤倚樹忽然樹倒。藤枯句歸何處溈山呵呵大笑疎山云。某甲四千里賣布單來。和尚何得相弄溈喚侍者取錢。還這上座遂囑云。向後有獨眼龍。為子點破去在後到明昭舉前話昭云。溈山可謂頭正尾正。只是不遇知音疎復問。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained deployment: raises the case whole in his comment record: Shushan crosses four thousand li with his cloth roll to ask it, Guishan laughs loudly, and when Shushan protests being toyed with, Guishan calls his attendant to fetch cash."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0088c24",
+          "ToLb": "0088c30",
+          "Kwic": "」遂發起燒卻庵。與麼來時脫體彰，承言那許共商量？面皮拗轉前情斷，直令伊身沒處藏。疏山問大溈：「承聞和尚道：『有句無句，如藤倚樹。』是否？」溈云：「是。」山云：「忽遇樹倒藤枯，句歸何處？」溈放下泥盤，呵呵大笑，歸方丈。山後到明招，舉前話問，招云：「卻使溈山笑轉新。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: verses the mud-pan version of the exchange — the face twisted round and former feeling severed, leaving that one nowhere to hide."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J34/J34nB299.xml",
+        "J/J40/J40nB494.xml",
+        "B/B27/B27n0152.xml",
+        "J/J26/J26nB187.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB178.xml",
+        "T/T48/T48n2004.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Hanyue Fazang",
+        "Yushan Shangsi",
+        "Yulin Tongxiu",
+        "Tian'an Sheng",
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong",
+        "Wansong Xingxiu",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The hinge of a stock exchange: the sentence leans on the tree like a vine, and the question always follows — when the tree falls and the vine withers, where does the sentence go? The answers refuse to fall with it: loud laughter, a slap on the sound, cassia cut from the moon. The Song hinge: Yuanwu Keqin opens a hall address with it — with-sentence and without-sentence overstep lineage and rule, like a vine leaning on a tree, a silver mountain and an iron wall; when the tree falls and the vine withers, how many lose their nostrils, and even those who gather it back up are already a thousand, ten thousand miles out; Dahui Zonggao sets it and prices it — the green-eyed barbarian does not know where it falls; where does it fall? He snaps up the staff, calls the assembly to look, it is coming straight down, eyes sharp, and throws the staff down; Wansong Xingxiu raises the case whole in his comment record — Shushan crosses four thousand li with his cloth roll to ask it, Guishan laughs loudly, and when Shushan protests being toyed with, Guishan calls his attendant to fetch cash. Later answers to the fall: Hanyue Fazang answers the ask with wind and moon year after year while the human heart changes, and the monk bows to the ground — now one knows propriety; Yushan Shangsi takes the ask through the pair, calls the vine-tree the model of old and new, and rules the tree-fall answer one that turns along the speaker's vein, no workman; Yulin Tongxiu at late assembly answers that it is drawn well and painted fine, and at the tree-fall question strikes along with the very sound; the monk before Tian'an Sheng raises the old story of Shushan's ask and Guishan's laugh, and the master answers that the laugh could not be held back; Tianyin Yuanxiu raises the other wing — Shishuang taking leave of Guishan, asked his understanding of the couplet and giving no answer — rules it true, and follows him on to Daowu; Feiyin Tongrong cites Guishan's own version, the mangy horse tied to a withered stump blocking the road the whole year, and at the tree-fall bids one cut the cassia in the moon so the clear light will only be more; Baichi Xingyuan verses the mud-pan version — the face twisted round and former feeling severed, leaving that one nowhere to hide."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "Id": "t_365652e3f1bd",
+  "SourceTerm": "無上菩提",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:08:13Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "unexcelled awakening",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "supreme awakening",
+        "the unexcelled attainment",
+        "the highest awakening"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 340 hits in 141 files representing 138 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0430b09",
+          "ToLb": "0430b16",
+          "Kwic": "所以首楞嚴經云。佛告阿難。一切眾生從無始來。種種顛倒。業種自然。如惡叉聚。諸修行人。不能得成無上菩提。乃至別成聲聞緣覺。及成外道諸天魔王。及魔眷屬。皆由不知二種根本。錯亂修習。猶如煮砂欲成嘉饌。縱經塵劫。終不能得。云何二種。阿難。一者。無始生死根本。則汝今者。與諸眾生。用攀緣心。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: quotes the Surangama's diagnosis that practitioners fail to attain unexcelled awakening precisely because they do not know the two roots and miscultivate, like cooking sand hoping for rice."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0825a02",
+          "ToLb": "0825a17",
+          "Kwic": "來這箇事上也合理上也合方始謂之應機說法樂營將者豁然有省好大眾信知道佛不遠人即心而證法無所著觸境皆如塵塵爾念念爾法法爾皆吾心之常分非假於他術今日伏承張文煥玉君玉二道友與明講主得得來揮金辨供為他各各知有一段大事因緣不從人得所以請妙喜舉揚般若要結無上菩提因緣又承判縣朝議洎諸尊官諸山禪師同此證明況某此者荷聖恩得還舊觀不知前報世中曾在新淦有何因緣却來這裏了此一段事不數日間說法三會此皆諸上善人宿植德本與般若有緣知道善知識難遇正法難聞所以相會此間證明如是希有殊勝之事因記得昔有一僧在海岸上卓庵常自念度一切有情唯有法施功德無盡若世間財寶布施則有限量居大海邊纔見舡過便叫云且住我問你舡上還帶得一般物也無舟人應曰和尚要甚麼物乃問還有大方廣佛華嚴經也無彼聞是語懵然不知是何言說這僧即授與",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: records the two lay friends and the lecturer coming with gold to ask him to raise the wisdom teaching and forge the karmic bond of unexcelled awakening."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0867b07",
+          "ToLb": "0867b14",
+          "Kwic": "若依此引證謂無梵行。是真梵行。則是謗大般若。入地獄如箭射。更為渠說。而今諸方邪師輩。各各自言。得無上菩提。各說異端。欺胡謾漢。將古人入道因緣。妄生穿鑿。或者以無言無說良久默然。為空劫已前事。教人休去歇去。歇教如土木瓦石相似。去又怕人道坐在黑山下鬼窟裏隨後便引祖師語證據云。了了常知故。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: exposes the false teachers of the day who each announce they have attained unexcelled awakening, each teaching a different end and fooling the crowd while wrongly boring into the ancients' entry-cases."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0966a12",
+          "ToLb": "0966a18",
+          "Kwic": "外無瑕玷，內有珠璣；凡夫少有，佛子得披。覆蔽道體，莊嚴塔基；至待功完行滿，同證無上菩提。」即日取名，偈曰：「本來佛性未曾迷，切忌當頭一著棋；急水灘前穩把舵，欲登彼岸豈為遲？故贈法號彼岸。」解制，上堂。云：「九旬爐韝扇真禪，惡辣鉗錘煉十全，鍛就金剛不懷體，鑊湯爐炭任盤桓，俱向十方行正令，莫孤山埜費心田。",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment: closes the stupa verse with the vow that when the work is complete and conduct is full all will attest unexcelled awakening together, then names the pagoda that same day with a verse on steering the rapids."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0164a15",
+          "ToLb": "0164a21",
+          "Kwic": "神秀書偈于壁曰：「身似菩提樹，心如明鏡臺。時時勤拂拭，莫使惹塵埃。」祖曰：「未見本性，覓無上菩提了不可得。」慧能亦說偈倩書曰：「菩提本無樹，明鏡亦非臺。本來無一物，何處惹塵埃。」祖曰：「亦未見性。」祖至能踏碓處，問曰：「米熟也未？」能曰：「米熟也，猶欠篩在。」祖以杖擊碓三下而去。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: retells the wall-verse night: the Fifth Patriarch rules Shenxiu's polishing verse has not seen the nature, so seeking unexcelled awakening is out of the question, and Huineng answers with no tree and no mirror."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0762b17",
+          "ToLb": "0763a02",
+          "Kwic": "雖然現出宰官相。長老之名四海傳。又李駙馬有偈云。學道須是鐵漢。著手心頭便判。直趣無上菩提。一切是非莫管。又龐居士云。日用事無別。惟吾自偶諧。頭頭非取舍。處處沒張乖。朱紫誰為號。丘山絕點埃。神通并妙用。運水及搬柴。又張拙秀才云。光明寂照遍河沙。凡聖含靈共我家。一念不生全體現。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: cites the prince consort's verse — studying the way calls for an iron man, judge once it touches the chest, go straight for unexcelled awakening and let all rights and wrongs alone."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0445a24",
+          "ToLb": "0445a30",
+          "Kwic": "釋迦參見然燈。」上堂。舉：「古德云：『忍忍！三世如來從此盡。饒饒，萬禍千災從此消。默默！無上菩提從此得。』慈受禪師云：『會得此三轉語，好箇不快活漢。』慈受正是得人一牛，還人一馬，潑水相唾，插嘴廝罵。」卓拄杖云：「平出，平出。」師云：「慈受禪師恁麼批判，初看時似有超宗異目見解，仔細檢點將來，卻是自無決勝之策，一味納幣講和。",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: raises the ancient's three words — bear it and the three-time thus-come ones end here, spare them and the ten thousand ills dissolve here, be silent and unexcelled awakening is gotten here — adding Cishou's praise of the three turning words."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0692a13",
+          "ToLb": "0692a22",
+          "Kwic": "若爾，廣大性量、廣大真用，即此日用見聞覺知而不知不覺，不能廣大真實受用孰之過歟？《經》云：「汝復欲知無始無明，使汝輪轉生死，結根唯汝六根更非他物；汝復欲知無上菩提，令汝速證安樂解脫寂淨玅常，亦汝六根更非他物。」知此，離吾見聞覺知別無片事可得，豈非十方世界囫囫圇圇是一輪見聞覺知玅真如性耶？第眾生日用不知，勞我覺皇出現於世，將錯就錯、從迷指迷，將此見聞覺知分作五時名教，總欲生住異滅復歸一性圓常，因當機有淺深，故乘時有先後。",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: quotes the sutra's other half — the knot-root that turns one through birth and death is the six senses and no other thing, and what speeds one to attest unexcelled awakening is likewise the six senses."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0339b17",
+          "ToLb": "0339b25",
+          "Kwic": "」欽云：「出家乃大丈夫事，非將相之所能為。」都尉便於此放卻身命，裂破鼻孔，遂云：「學道須是鐵漢，著手心頭便判，直取無上菩提，一切是非莫管。」如斯標致，差較些子。』所以道：出群須是英靈漢，敵勝還他獅子兒。你看他是箇血性漢子，直下便乃一刀兩段，佛也不奈他何，說什麼蘊魔、煩惱魔、生死魔？若待披忍辱鎧、操智慧刀、運上品心、發殊勝志，與他共戰一場，然後滅三毒、破魔網、離火宅、超斷岸，不特賊過後張弓，抑且眼花不少。",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: tells how the duke cast body and life off at that point, split his nostrils, and spoke the iron-man verse — go straight and take unexcelled awakening, let all rights and wrongs alone — ruling the bearing nearly there."
+        },
+        {
+          "RelPath": "T/T48/T48n2017.xml",
+          "FromLb": "0970a06",
+          "ToLb": "0970a13",
+          "Kwic": "內教二者：一、明自他性空，無法我二執；不見所供之境，亦無能燒之心。二、惟供三寶，深報四恩，以助無上菩提，不希人天果報。外道二者：一、身見不亡，轉增我慢；迷無作之智眼，起有得之能心。二、惟貪現在名聞，秖規後世福利；或願作剎利之主，或求生廣果之天。所以台教釋《藥王焚身品》云：『境智不二，能所斯亡。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2017.xml). Collection on the Convergence of Myriad Good Deeds. Yongming Yanshou owns the retained deployment: rules on the burning of incense that the inner way offers to aid unexcelled awakening and hopes for no heaven or human reward, while the outer way's greed only swells self-pride."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "M/M59/M59n1540.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J39/J39nB471.xml",
+        "J/J34/J34nB299.xml",
+        "B/B25/B25n0145.xml",
+        "J/J26/J26nB182.xml",
+        "J/J28/J28nB219.xml",
+        "J/J37/J37nB386.xml",
+        "T/T48/T48n2017.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Dahui Zonggao",
+        "Konggu Daocheng",
+        "Hanyue Fazang",
+        "Zhongfeng Mingben",
+        "Wanru Tongwei",
+        "Zhuanyu Guanheng",
+        "Yuan'an Liao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The top of the scale: the records never define it, they price it — a false teacher announces it, a donor's gold buys only its karmic bond, and the Fifth Patriarch rules the very seeking of it out of the question. The claim and the price: Dahui Zonggao exposes the false teachers of his day who each announce they have attained it, each teaching a different end while wrongly boring into the ancients' entry-cases; he also records the two lay friends and the lecturer coming with gold to ask him to raise the wisdom teaching and forge its karmic bond; Zhongfeng Mingben cites the prince consort's verse — studying the way calls for an iron man, judge once it touches the chest, go straight for unexcelled awakening and let all rights and wrongs alone; Yuan'an Liao tells how the duke cast body and life off at just that point, split his nostrils, and spoke the same iron-man line. The gate and the root: Yongming Yanshou quotes the Surangama diagnosis that practitioners fail to attain it precisely because they do not know the two roots and miscultivate, like cooking sand hoping for rice; Zhuanyu Guanheng quotes the other half — the knot-root that turns one through birth and death is the six senses and no other thing, and what speeds one to attest it is likewise the six senses; Hanyue Fazang retells the wall-verse night where the Fifth Patriarch rules Shenxiu's polishing verse has not seen the nature, so seeking it is out of the question, and Huineng answers with no tree and no mirror; Wanru Tongwei raises the ancient's three words — bear it and the three-time thus-come ones end here, spare them and the ten thousand ills dissolve here, be silent and it is gotten here; Konggu Daocheng closes the stupa verse with the vow that when the work is done and conduct full all attest it together; Yongming also rules on the burning of incense — aid it and hope for no heaven or human reward."
+    }
+  ]
+}

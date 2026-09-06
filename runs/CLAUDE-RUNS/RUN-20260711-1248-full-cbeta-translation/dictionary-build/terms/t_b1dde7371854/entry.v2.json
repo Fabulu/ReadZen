@@ -1,0 +1,194 @@
+{
+  "Id": "t_b1dde7371854",
+  "SourceTerm": "有物先天地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:53:53Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a thing ahead of heaven and earth",
+      "AlternateTargets": [
+        "something there before the world"
+      ],
+      "SearchAliases": [
+        "the thing before heaven and earth",
+        "an earlier-than-world thing",
+        "the pre-world thing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 167 hits in 112 files representing 109 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0253a15",
+          "ToLb": "0253b04",
+          "Kwic": "風動，是甚麼動？不是幡動，是甚麼動？仁者心動，大小祖師龍頭蛇尾。諸昆仲，且道那箇是汝等動底心？是緣慮心耶？是本來心耶？若是緣慮心，緣慮無體，動亦成虗。若是本來心，本來從古及今未常變易，無諸動相。若識得無動而動者，迢󳯝嶺南，相去甚遠。若看不破此動底心相，且喜六祖大師在汝等脚跟下共汝商量。卓拄杖，下座。上堂。有物先天地，無形本寂寥，能為萬象主，不逐四時凋。諸昆仲！要知有物先天地，向無形處會取；要知無形本寂寥，向有物處會取；要知能為萬象主，向眉毛上會取；要知不逐四時凋，向陰陽裏會取。於此四句中會去，一生參學事畢；其或未然，扇子𨁝跳上三十三天，觸著帝釋鼻孔，東海鯉魚打一棒，雨似盆傾。此時，雲門大師在博山寺裏經行，博山老人向",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment, voicing the verse and sending each half to be sought in its opposite, then closing the four lines as a lifetime of seeking done."
+        },
+        {
+          "RelPath": "J/J25/J25nB174.xml",
+          "FromLb": "0693c16",
+          "ToLb": "0694a01",
+          "Kwic": "踏破也還難。」觀音殿上堂：古佛堂開不二宗，杖頭指處盡圓通；新年佛法如何道？萬壽峰前祝聖躬。且道祝頌意旨作麼生？龍圖統御三千界，鳳曆弘光萬世隆。蘇司禮初度請上堂：東海曉雞鳴，南海紅日湧；雙徑頂門開，一輪天上迥。秪如光明普照與光未發時還有同別也無？若向這裏會得，始知吾人已生後與未生前曾無變異。所以傅大士云：「有物先天地，無形本寂寥；能為萬象主，不逐四時凋。」祗這不凋的人阿誰不有？直須深參實究，一朝打破羅網，始得定國安邦。畢竟如何為公助發聻？寶杖振開空劫夢，超然頓惺主人公。湖州陳公薦室請上堂：「諸佛與眾生說了生出死之法，細刮龜毛付與人；眾生向諸佛求安身立命之方，擊碎太虛重砌起。只此迷悟兩重關，誰見空花生碓嘴？」復舉：",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB174.xml). Recorded Sayings of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, quoting the verse at the birthday seat and asking who lacks the un-withering one, charging the crowd to break the net."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0450c24",
+          "ToLb": "0451a08",
+          "Kwic": "元旦上堂：「新歲履端開泰運，諸人分上壽添年；法身雖是無增減，也要隨緣驗不遷。」卓拄杖一下云：「拄杖子！你底壽命是增耶？是減耶？你底歲月是遷耶？是不遷耶？卻被拄杖子倒喝一聲道：『和尚莫亂統好。』山僧秪得結舌低聲。今日是元旦令節，且下座與諸兄弟向佛殿裏拈一瓣香祝延聖壽。」鄭汝交刺史誕日請上堂：「傅大士云：『有物先天地，無形本寂寥；能為萬象主，不逐四時凋。』近時有等捏怪邪人道：『虛空世界，萬象森羅，情與非情，盡從我之所生。』然則生身父母推置何地？若還撞入母胎，披此殼漏出來，則生有所生，豈曰獨生？秪如『有物先天地，無形本寂寥』，則知天地非生，我亦非生；萬物無形，我亦無形。又『能為萬象主，不逐四時凋』，則知萬象非主，我亦非",
+          "MasterName": "Xueguan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueguan Zhiyin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Xueguan Zhiyin owns the retained deployment, quoting the verse and faulting the lately-made teachers who claim all things are born from them, asking where that leaves the parents who bore them."
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0780b18",
+          "ToLb": "0780b30",
+          "Kwic": "。問：「雪覆千山，瓊瑤滿地，瑞景重重即不問，慶生一句請師宣。」師云：「曙日發生收地雪，萬林仍是舊時容。」進云：「慶中境色如何？」師云：「珠簾捲夜雨，畫棟映朝雲。」進云：「秖如無生一句又作麼生？」師云：「昨夜眉毛拖地白，明朝依舊接天青。」進云：「與麼則情與無情一齊慶讚去也。」師云：「且喜上座證明。」乃舉云：「有物先天地，無形本寂寥，能為萬象主，不逐四時凋。古人與麼道，忒煞太露筋骨。雖然如是，且王居士慶祝一句作麼生道？」以杖一劃，云：「龜浮綠野連雲出，鶴過秦關帶雪來。」下座。本里眾檀請上堂。問：「五葉流芳即不問，如何是臨濟四喝？」師云：「著一問將來。」「如何是一喝如金剛王寶劍？」師打，云：「未出匣時光已露。」「如何是一喝如",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. Faxi Yin owns the retained deployment, raising the verse and faulting it as far too bare-boned, then cutting the ground once with his staff for the birthday line."
+        },
+        {
+          "RelPath": "J/J39/J39nB454.xml",
+          "FromLb": "0616b12",
+          "ToLb": "0616b25",
+          "Kwic": "，打失布袋，向此中拈一莖艸，涌出玉殿瓊樓，山僧曾得燕休。今幸天寄、笑拈二子繼住，吾無憾矣。汝等但當如是信受、如是奉持，以至未來說壽亦復如是。眾中設有必欲問：山僧壽量多少？」卓拂子，曰：「數目分明。」亙彰、禹先、慈光三禪師為師慶誕，請上堂。「有三禪客從鼓山來，遙知山僧有箇本來面目，抑逼著向人天眾前吐露。若說有物先天地，無形本寂寥，能為萬象主，不逐四時凋者，是亙彰世界，非山僧面目。若說空手把鉏頭，步行騎水牛，人往橋上過，橋流水不流者，是禹先作用，亦非山僧面目。若說三面黧奴腳踏月，兩頭白牯手拏煙，戴冠碧兔立庭柏，脫殼烏龜飛上天者，是慈光一道，又豈是山僧面目？」遂呵呵大笑，曰：「須知山僧無面目，聊借古人鼻孔出氣一上。」拍香臺",
+          "MasterName": "Pin Jixiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pin Jixiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB454.xml). Recorded Sayings of Chan Master Pinjixiang. Pin Jixiang owns the retained deployment, testing the three elders' offers against the verse and refusing each as another's world, not his face, till he owns no face at all."
+        },
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0122c16",
+          "ToLb": "0122c30",
+          "Kwic": "金牛老漢口巴巴地，秪道得個汾陽到底。續上座普為頌出：選佛堂前撾毒鼓，錦江城外唱巴歌，知音不必頻拈舉，無智人前莫亂阿。」元旦，上堂。「一點靈光輝萬里，大千世界明如洗，四野河清海晏時，無人不在雍熙裏。且機樞未露，朕兆未分，日月未著，山川未奠，無佛無祖，絕見絕聞，四聖六凡，情與無情，承誰恩力？」默豎拄杖，云：「有物先天地，無形本寂寥，能為萬象主，不逐四時凋。是甚麼人境界具如是眼腦？」遂爇香，云：「八方有道歌王化，四海無虞樂太平。」佛誕，上堂。問：「今朝四月初八日釋迦老子降誕之辰，諸山合會，迎請和尚登座說法，有何祥瑞？」師云：「一點水墨，兩處成龍。」進云：「一味之水從空透，法雨潤動萬靈根。」師云：「生公道底。」問：「未離兜",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment, answering his own demand of what holds before sun and moon are set by standing the staff in silence, reciting the verse, and asking whose reach and eye this is."
+        },
+        {
+          "RelPath": "J/J29/J29nB249.xml",
+          "FromLb": "0822c11",
+          "ToLb": "0822c24",
+          "Kwic": "，和盤托出，恭請山僧。且道：『受即是？不受即是？』弘濟堂前親切意，長安路上廣流傳。」小參小參小參。師豎拂子，僧問：「和尚陞座，大眾瞻依，拂子未舉時如何？」師云：「寰中天子敕。」進云：「已舉時如何？」師云：「塞外將軍令。」進云：「已舉未舉時如何？」師云：「疑煞天下人。」僧禮拜，師云：「險。」乃云：「古人道：『有物先天地，無形本寂寥，能為萬象主，不逐四時凋。』向這裏會得，則知未有三才二儀，先有本命元辰，主持造化，產育蒼生，凡處同分世界底，莫不均稟這段虛玄靈妙之真光，經寒暑而不變，歷今古而常存，智者知是佛性，迷者喚作精魂。試看日用分明是佛性、是精魂，還辨得也未？昔瑞巖喚主人公惺惺著，今後莫被人瞞，良有以焉。諸方盡道瑞巖喚主",
+          "MasterName": "Fangrong Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fangrong Xi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB249.xml). Recorded Sayings of Chan Master Fangrongxi. Fangrong Xi owns the retained deployment, reading the verse so that before the three powers and the two poles there is already the root star of life, the wise knowing it as the buddha-nature and the lost calling it a ghost-soul."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0261b14",
+          "ToLb": "0261b26",
+          "Kwic": "下，云：「如是知、如是見、如是信解，不生法相，且宿草菴，寶所在近。」喝一喝，下座。一歲旦，上堂。僧問：「豁開戶牖，萬里不掛片雲；杲日騰空，四顧松風滿座。新年頭佛法則不問，如何是梅華一點的消息？」師云：「三日後看取。」進云：「當初迦葉曾註破，一笑陽春遍九垓。」師打，云：「遮場禍事天來大。」僧禮拜，師乃云：「『有物先天地，無形本寂寥，能為萬象主，不逐四時彫。』傅大士恁麼說話，美則美矣，未盡善也。山僧亦有一頌舉似諸人：爆竹一聲催臘去，梅華幾點送春回，禪和拍掌呵呵笑，大地含生脫陰胎。大眾！看看釋迦老子騎佛殿、越山門來拜年也。」下座。解制，上堂。「一期結卻布袋口，露地白牛變作狗，拆卻牛欄在此時，當陽突出看哮吼。還有哮吼底麼？」僧",
+          "MasterName": "Yunwai Ze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Ze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Ze owns the retained deployment, ruling the Layman Fu's words beautiful but not yet perfect and offering his own verse of the firecracker and the plum instead."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X72/X72n1435.xml",
+        "J/J25/J25nB174.xml",
+        "J/J27/J27nB198.xml",
+        "J/J28/J28nB220.xml",
+        "J/J39/J39nB454.xml",
+        "J/J40/J40nB479.xml",
+        "J/J29/J29nB249.xml",
+        "J/J33/J33nB280.xml"
+      ],
+      "RelatedMasters": [
+        "Wuyi Yuanlai",
+        "Juelang Daosheng",
+        "Xueguan Zhiyin",
+        "Faxi Yin",
+        "Pin Jixiang",
+        "Zhufeng Zhenxu",
+        "Fangrong Xi",
+        "Yunwai Ze"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The opening half of the Layman Fu's inherited verse: a thing ahead of heaven and earth, shapeless, lord of the ten-thousand forms, un-withered by the seasons. Wuyi Yuanlai voices the verse at the hall seat and sends each half to be sought in its opposite, the thing ahead of the world in the shapeless place and the shapeless in the thing, till the four lines close a lifetime of seeking, Juelang Daosheng quotes it at the birthday seat and asks who lacks the un-withering one, charging the crowd to break the net and settle the land, Xueguan Zhiyin quotes it and faults the lately-made teachers who claim the whole world is born from them, asking where that leaves the parents who bore them, and Faxi Yin raises it at the patron's celebration, faults it as far too bare-boned, then cuts the ground once with his staff for the birthday line. Pin Jixiang tests the three elders' offers against the verse and refuses each as another's world, not his face, till he owns no face and only borrows the ancients' nostrils to breathe, Zhufeng Zhenxu stands the staff in silence before the signs divide, recites the verse, and asks whose reach and eye this is, Fangrong Xi reads it so that before the three powers and the two poles there is already the root star of life, the wise knowing it as the buddha-nature and the lost calling it a ghost-soul, and Yunwai Ze rules the Layman Fu's words beautiful but not yet perfect, offering his own verse of the firecracker sending the twelfth month off and the plum bringing spring back."
+    }
+  ]
+}

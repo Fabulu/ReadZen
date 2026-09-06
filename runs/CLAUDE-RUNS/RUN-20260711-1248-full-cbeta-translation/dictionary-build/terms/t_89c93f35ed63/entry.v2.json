@@ -1,0 +1,159 @@
+{
+  "Id": "t_89c93f35ed63",
+  "SourceTerm": "大地山河",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-05T23:42:02Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great earth, mountains and rivers",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "earth, mountains, and rivers",
+        "the whole earth with its mountains and rivers"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 546 hits in 218 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0715c23",
+          "ToLb": "0716a10",
+          "Kwic": "未問已前百雜碎。進云。恁麼則只許老胡知也。師云。摸索不著。進云。千聖出來也摸索不著。師云。眼睛突出。乃云。不是目前法。亦非心外機。直下絕承當。當陽無向背。一處明去千百處光輝。一言通時千言百言透脫。非心非佛。拈向一邊。舉古舉今。撥致一處。只諸人分上還證據得麼。若證據得。三世諸佛於中成道。神通變化於中流出。大地山河於中發現。九類四生於中長育。且作麼生是該羅萬有一句。來年更有新條在。惱亂春風卒未休。下座。上堂。僧問。祖意敬意是同是別。師云。兩輪交互照。進云。恁麼則匹上不足也。師云。又被風吹別調中。問如何是涅槃心。師云。萬派悉歸源。進云。如何是差別智。師云。千差俱不動。進云。都來不消得去也。師云。儞放寶劍。在什麼處",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: saying in a hall address that the buddhas of the three times attain the way within it and it emerges from that one place."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0081b07",
+          "ToLb": "0082a04",
+          "Kwic": "壁上天台。且道不動尊居何國土？一鏃破三關，分明箭後路。上堂。心本是佛，造作還非；道不用修，染污不得。只此不染污，是諸佛之所護念。與麼道，早是染污了也。絲毫繫念，三塗業因；瞥爾情生，萬劫覊鎻。所以經云：若以色見我，以音聲求我，是人行邪道，不能見如來。你道那個是如來？銅頭鐵額，鳥嘴魚腮。上堂。見色便見心。大地山河是心。作麼生見。又云。心不見心。無相可得。拈拄杖云。觀世音菩薩變作一條墨漆拄杖子。繞四天下走一遭。回到山僧手裏。却是芭蕉和尚。你有拄杖子。我與你拄杖子。你無拄杖子。我奪却你拄杖子。若作佛法商量。生身陷地獄。靠拄杖。結夏，小參。僧問：大通智勝佛，十劫坐道場，佛法不現前，不得成佛道。此意如何？師云：也無此意，",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: teaching in a hall address that seeing form is seeing mind and that the earth-and-rivers are mind."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0609a17",
+          "ToLb": "0609b13",
+          "Kwic": "待，破塵、破的，透色、透聲。故我報國和尚得此三昧，兩處住山，單傳正印，掃除邪解，扶樹此宗。能事既畢，撒手那邊，末後全提，甚生光彩？且道：與他摩胸告眾、槨示雙趺，是同？是別？拍禪床，云：羚羊掛角千峯上，更有羚羊在上峯。解夏，小參。昔本不曾結，今也何須解？解結本無心，無縛無脫者。恁麼，恁麼，森羅萬象徹底孤危，大地山河通上嶮峻；不恁麼，不恁麼，大陽門下日日三秋，明月堂前時時九夏。恁麼中有不恁麼，不恁麼中却恁麼，一切智通無障礙，拈燈籠來佛殿裡，將山門安燈籠上。敢問大眾：九十日內還得相應也未？其或未然，山僧却有箇方便。驀拈拄杖，卓一下，云：西風一陣來，落葉兩三片。復舉：明招行脚時，到泉州興教坦和尚處，坦上堂云：行脚高士，",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: making the array utterly precarious and the earth-and-rivers steeply dangerous at the summer-release small address."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0135a04",
+          "ToLb": "0135b01",
+          "Kwic": "無位真人分身無量，散在汝諸人面門出入。未證據者，看看，饑同餐，渴同飲，寒同火，睡同衾。若向者裏儱侗瞌睡，未免受無位真人當面熱瞞。竪起拂子，云：諸昆仲，會麼？圓明了知，不因心念。珍重。元旦，上堂。元正嘉運何先兆？遲日晴空光皎皎，悟迷邪正謾商量，是聖是凡誰分曉？現前境界亦何賒？說向西方途路杳，一微塵裏顯全機，大地山河一莖草，幻化場中著眼看，萬法無過隨緣好。然雖如是，應時納祐又作麼生？卓拄杖，云：莫謂袈裟元是舊，春風先到杖頭來。都昌佛殿山長慶寺古愚設齋薦父，請上堂。博山說法二十餘年，即今何故不肯上堂？葢為法門混濫，妄庸者多以上堂為戲具，故博山跛跛挈挈且恁麼過時。今古愚上座為彼亡父敦請不已，却又躲避不過。諸昆仲，輪迴",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: displaying the whole mechanism in a grain of dust and the earth-and-rivers in a single blade of grass at the New Year address."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0418b05",
+          "ToLb": "0419a01",
+          "Kwic": "祖意、教意是同是別？古德云：雞寒上樹，鴨寒下水。又有云：氷塊雪團。雖各具通方正眼，但未免落在同異窠臼裏，俱未知有向上關棙子。若有人問山僧：祖意、教意是同是別？山僧劈面便打。何故？為人須為徹，殺人須見血。結制，上堂。今朝結期煆鍊，大家各宜抖擻。步步緊把芒繩頭，時時牢守布袋口。直須萬里一條鐵，莫學苕谿隄畔柳。大地山河成片雪，忽然變作獅子吼。頓使虗空亦腦裂，驚得須彌顛倒走。三世諸佛古塚精，千七百則棄芻狗。只如恁麼，還當得衲衣下事麼？笑云：也是蝦跳不出斗。至于跳出一句作麼生道？良久，云：醜。下座。于潤甫別駕請上堂。僧問：衝開巨浪百千重，透網金鱗氣勢雄。巨浪衝開即不問，如何是透網金鱗？師云：若是則透網去也。僧轉身云：今此",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: turning the sheet of snow into a lion's roar at the opening of the training season."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0911a21",
+          "ToLb": "0911b05",
+          "Kwic": "若也於中分緇素、辨玄微、論是非，正是取螢火燒須彌；若也總不恁麼，切忌玉石同觀、金沙混積。所以道：『恁麼也不是，不恁麼也不是，恁麼不恁麼總不是。』到者裏，直須別有向上一路，始見衲僧巴鼻。且如何是衲僧巴鼻？烏龜鑽敗壁，雞向五更啼。」示眾。「一句截流，萬機寢削。十方坐斷，無去來今。一道坦然，渾無邊畔。豁開正眼，大地山河無寸土。列回光相，本來夜暗與日明。自是清風生八極，得來明月照乾坤。到者裏，塵塵剎剎全彰古佛家風，法法頭頭總是當人機用。還得麼？果若得到恁麼田地，達磨不來東土，二祖不往西乾，佛法流遍天下，空生枉立巖前。不然，一片白雲橫谷口，許多歸鳥盡迷巢。」喝一喝。示眾。「若論此事，別無奇特，山僧有個方便，不惜眉毛與你諸",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment: opening the straight eye until no inch of soil remains."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0343b29",
+          "ToLb": "0343c13",
+          "Kwic": "。」便歸方丈。行者請益，師云：「三尺浪高魚化龍，癡人猶戽夜塘水。」因雪，示眾。「六華歷亂散長空，誰信看看事不同？一帶好山成玉象，萬林古木化銀龍。遙天忽去渾無影，大地平沉不見蹤，更有一般堪笑處，琉璃殿作水晶宮。大眾！若是諸方，便謂兄弟們做工夫急切有此境界，所謂東西不辨、南北不分，見山不是山、見水不是水，大地山河打成一片純淨潔白田地了也。等待朔風一起，掃盡寒雲，海日高昇，照開碧落，光生大野，氣轉洪鈞，陰崖之沍凍全消，幽壑之層冰頓釋，然後見山依舊是山、見水依舊是水，謂之洞明劫外風光，徹證本來面目。呵呵！與麼匹配，正是陷人阬塹，埋沒人家男女。神鼎門下天地懸殊。豈不見道：道人行處如火消冰，箭既離弦無反回勢。那有許多之遶？",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: reading the snowbound field where mountains are no longer mountains as the earth-and-rivers beaten into one pure-white field."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0497a11",
+          "ToLb": "0497a24",
+          "Kwic": "涼生兩腋。」拈拂子召眾曰：「看看，夏末便是秋初，已證者宜須保護，未悟者猛著精彩，時節既到，其理自彰。且作麼生是自彰的理？一片蠡湖波底月，巧雲穿作花蝴蝶，等閒雲淨碧天寬，四海五湖光皎潔。」往建寧府普明寺，途中除歲示眾。「大盡三十日，小盡二十九。東村王老化紙錢，衲僧鞋破赤腳走。無位真人面門斑，踏殺南山白額虎。大地山河乞命，萬象森羅叫苦。大眾還識無位真人麼？急須努力向前行，自有東君隨步武。」到泉州府崇福寺，請上堂。「為訪知音涉閩巔，相逢喜氣動崇山。波濤萬丈從天瀉，流出分明蠡水源。」拈杖召眾，曰：「有者道：寸步不移，觀大千界如視諸掌。有者道：不越戶閫，天下知識一時相見。檢點將來，多虛不如少實。山僧披寒暑、涉山川，親到崇福",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: having the earth-and-rivers beg for their life under the true man's tread in a year-end address."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0563b04",
+          "ToLb": "0563b19",
+          "Kwic": "。」舉鏡清問曹山：「清虛之理，畢竟無身時如何？」山云：「理即如此，事作麼生？」云：「如理如事。」山云：「謾曹山一人即得，爭奈諸聖眼何！」云：「若無諸聖眼，爭鑑得箇不恁麼？」山云：「官不容針，私通車馬。」頌云：「一片寥寥獻與君，誰知箇裏不容針。目前法法無餘事，把住牢關要見清。識得一，始相親，須教極盡今時去，大地山河作眼睛。」舉夾山參船子。頌云：「一橈打入洪波裏，翻然吞得鉤頭餌。離鉤三寸道將來，不是尋常播皮嘴。收拾絲綸得意歸，藏身處也無窮底。無窮底，覆卻舟兮不是你。」舉洛浦見夾山。頌云：「搖頭擺尾出重淵，浩浩江湖心景寬，夾嶺雲深藏古路，清溪月朗照當天。休草草，更綿綿，無舌人傳語最玄，探取垂鉤千尺意，飄飄一曲浪頭眠。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: capping Cao Shan's exchange on the one and the many by making the earth-and-rivers the very eye."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0781a20",
+          "ToLb": "0781b03",
+          "Kwic": "商量。萬里無雲一輪炤，腳跟紅線絆千行。三十棒，斷愁腸，掃除凡聖，提挈宗綱。山花發笑兮春迴大地，籬菊開殘兮冬有嚴霜。僧問：「曹溪一滴直透龍池。曹溪一滴即不問，如何直透龍池底事？」粟云：「穿過髑髏。」進云：「源遠流長一句作麼生道？」粟云：「但與麼去。」僧便禮拜。直透龍池伸一問，廣慧波濤如海闊，金粟門頭不見人，大地山河俱覆卻。與麼去，真灑落，不立聖凡，烏有圭角？蓬萊高閣兮越州聖境，煙雨樓臺兮福城清樂。僧問：「如何是金粟境？」粟云：「四野桑田。」進云：「如何是境中人？」粟云：「金粟峰頭望。」僧云：「人境已蒙師指示，擊鼓陞堂事若何？」粟云：「瞻之，仰之。」四野桑田不是境，峰頭望底亦非人，當陽拈出無迴互，瞻之仰之覿面陳。電光",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: covering the earth-and-rivers over entirely where no one is seen at the Jinsu gate."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1420.xml",
+        "X/X71/X71n1414.xml",
+        "X/X72/X72n1435.xml",
+        "X/X72/X72n1437.xml",
+        "J/J39/J39nB468.xml",
+        "J/J37/J37nB386.xml",
+        "J/J38/J38nB418.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB188.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Chushi Fanqi",
+        "Liao'an Qingyu",
+        "Wuyi Yuanlai",
+        "Yongjue Yuanxian",
+        "Shanyi Ruchun",
+        "Yuan'an Liao",
+        "Huiyue Xu",
+        "Tianyin Yuanxiu",
+        "Caoshan Benji",
+        "Ruibai Mingxue"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The great earth with its mountains and rivers. Yuanwu Keqin says the buddhas of the three times attain the way within it and it emerges from that one place, Chushi Fanqi teaches that seeing form is seeing mind and that the earth-and-rivers are mind, and Liao'an Qingyu makes the array utterly precarious and the earth-and-rivers steeply dangerous at the summer release. Wuyi Yuanlai displays the whole mechanism in a grain of dust and the earth-and-rivers in a single blade of grass, Yongjue Yuanxian turns the sheet of snow into a lion's roar at the opening of the training season, Shanyi Ruchun opens the straight eye until no inch of soil remains, Yuan'an Liao reads the snowbound field where mountains are no longer mountains as the earth-and-rivers beaten into one, Huiyue Xu has it beg for its life under the true man's tread, Tianyin Yuanxiu caps Cao Shan's exchange by making it the very eye, and Ruibai Mingxue covers it over entirely where no one is seen at the Jinsu gate."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "Id": "t_482c866c4cc4",
+  "SourceTerm": "乾坤大地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T00:19:46Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "heaven and the great earth",
+      "AlternateTargets": [
+        "the whole expanse of the made world"
+      ],
+      "SearchAliases": [
+        "the whole of heaven and earth",
+        "all of sky and ground in one",
+        "the entire world expanse"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 423 hits in 130 files representing 126 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0548c29",
+          "ToLb": "0549a16",
+          "Kwic": "進云。豈無尊貴。師云。不較多。進云。作麼生。師云。作麼生。問凡有言說皆是葛藤。如何是不葛藤。師云。大有人見汝問。問急急相投。請師指教。師云。作麼生道。進云。不會請師道。師云作麼。上堂云。大眾汝等還有鄆州針麼。若有試將來看。有麼有麼。眾無對。師云。若無散披衣裳去也。便下座。上堂。大眾集定。乃以拄杖指云。乾坤大地微塵諸佛。總在裏許。爭佛法覓勝負。還有人諫得麼。若無人諫得。待老僧與汝諫看。時有僧云。請和尚諫。師云。這野狐精。問盡大地人來。師如何接。師云。提綱有路。進云。莫秖這便是指示不。師云。合取狗口。問時中不明。如何得不落緣塵去。師云。閉門哭蒼天。問十二時中如何體悉。師云。不難辨。進云。還有學人入頭處也無。師云",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment, pointing with his staff and gathering the buddhas of every dust of the whole expanse inside it."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0599c29",
+          "ToLb": "0600a15",
+          "Kwic": "林巒。問瑠璃玻璃色。斯由佛光照。如何是佛光照。師云隱不得。過去燈明佛。本光瑞如此。師云。尋言轉更賒。問白浪滔天勢。請師方便渡來看。師云。洪波不沒水。舉棹不張帆。恁麼則海晏河清。師云。斫額望榑桑。乘槎人不顧。師云。許多葛藤還得明了。未分明記取問頭便須覻步究理而參。榑桑不遠。莫向外馳求。當處發生。隨處自現。乾坤大地。皎皎明白。但於十二時中行住坐臥。子細思量看是。誰作障礙。為什麼臨機道不得。只為一切境識不通被他迴換。便隨境走。不能作得主宰。所以一句中三玄三要。四種賓主歷然。地只為多生煩惱雲翳。遮蔽拋擲。今生又不近明眼道人決擇。莫逐日過時。古人云。今生不通。來生窒塞。轉轉不明。思量虛延歲月。枉過時光。在家出家。直教了",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment, telling them the whole expanse arises where they stand, shows itself where they look, and stands bright and clear."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0669a20",
+          "ToLb": "0669b07",
+          "Kwic": "出眾相見。問人天普集佇聽雷音。學人上來。乞師垂示。師云。十萬八千不是遠。進云。恁麼則大眾霑恩也。師云。後五日看。問師唱誰家曲。宗風嗣阿誰。師云。分明記取。進云。恁麼則昔日智門今朝和尚。師云。有甚麼交涉。問如何是和尚為人一句。師云。量才補職。學云。謝師方便。師云。自領出去。師乃云。一問一答。總未有事在。直饒乾坤大地草木叢林。盡為衲僧。異口同聲各置百千問難。也不消長老。彈指一下。並乃高低普應前後無差。曠祖佛之妙靈。廓天人之幽迹。如是則何假覺城東際。五眾咸居古佛廟前。此時參畢。師在杭州靈隱。受疏了。眾請陞座。時有僧問。寶座先登於此日。請師一句震雷音。師云。徒勞側耳。進云。恁麼則一音普遍於沙界。大眾無不盡咸聞。師云",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment, turning every grass and tree of the whole expanse into one patched monk whose questions one finger-flick dismisses."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0040a13",
+          "ToLb": "0040b03",
+          "Kwic": "難逢，更謾諸人一上去也。復拍禪床一下，云：且置是事。復舉：寶公令人傳語思大云：何不下山教化眾生？一向目視霄漢作什麼？思大云：三世諸佛被我一口吞盡，何處更有眾生可度？師云：寶公教人作竊，不是好心。思大口欵未招，贓物先露。二大老雖則名喧宇宙，價重一時，點檢將來。驀拈拄杖卓一下，云：總未知有這一著在。上堂：盡乾坤大地無絲毫許大，是汝諸人橫擔拄杖繞四世界行脚，道我無處不到、無事不知。且道西天那蘭陀寺戒賢論師今日說什麼法？便下座。上堂，舉：風穴示眾云：若立一塵，家國興盛，野老顰蹙；不立一塵，家國喪亡，野老謳歌。於此明得，闍梨無分，全是老僧；於此不明，老僧即是闍梨。闍梨與老僧亦能迷却天下人，亦能悟却天下人。欲識闍梨麼？左邊",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, shrinking the whole expanse to less than a hair's tip while the staff-bearers tramp four worlds claiming nowhere unreached."
+        },
+        {
+          "RelPath": "X/X71/X71n1404.xml",
+          "FromLb": "0001c08",
+          "ToLb": "0001c21",
+          "Kwic": "端一回嗅著，直得喪盡平生。今日人天眾前當陽爇却，奉為見住徑山佛鑑圓照禪師大和尚，用酬法乳。據坐，乃云：釋迦不出世，四十九年說；祖師不西來，少林有妙訣。所以道：法無去來，無動轉相。昨朝乳竇，今日靈巖，曾無動轉之跡，寧有去來之跡？如是則從上佛祖眼睛，天下衲僧鼻孔。驀拈拄杖卓一下，云：總被山僧拄杖子一時穿却，盡乾坤大地更無纖毫透漏。雖然，且道功歸何所？靠主丈云：四海浪平龍睡穩，九天雲靜鶴飛高。復舉：三聖道：我逢人即出，出即不為人。興化道：我逢人則不出，出則便為人。拈云：二大老一人先行不到，一人末後太過，檢點將來，總欠一著。寧上座寄跡巖竇，隱遁過時，無端被人推將出來，做這舉止。出則出已，且道為人不為人？乃云：信手斫方圓，",
+          "MasterName": "Wu'an Puning",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wu'an Puning",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu’an Puning. Wu'an Puning owns the retained deployment, piercing the eyes of the buddhas and ancestors with one stroke of his staff and leaving the whole expanse without a hair-tip of leak."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0556a21",
+          "ToLb": "0556b10",
+          "Kwic": "千言萬言但識取一言，自然言言見諦；千句萬句但識取一句，管取句句朝宗。直下脫根塵、透聲色、泯今古、離去來。水潦和尚被馬祖一踏，踏到起來呵呵大笑，云：百千法門、無量妙義，只向一毫頭上識得根源去，豈不是了事衲僧？趙州道：諸人被十二時辰使。老僧使得十二時辰，你且思量看，行住坐臥、語默動靜，更有什麼物為緣為對？盡乾坤大地何曾有一法繫綴於人？若有針鋒許與我拈將來，我與麼道已是不著便，更說什麼羣陰剝盡、一陽復生？大似藞苴與虗空安耳穴。雖然如是，豈敢違背於他？且道他是阿誰？咄！縮頭去。復舉：僧問清平遵和尚：如何是小乘？平云：錢貫。僧云：如何是大乘？平云：井索。僧問：如何是有漏？平云：笟篱。僧云：如何是無漏？平云：木杓。僧云：覿面",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment, asking what single thing of the whole expanse ever tied itself to a person and daring anyone to fetch him a needle-tip of it."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0054c03",
+          "ToLb": "0054c19",
+          "Kwic": "不見得。雲門偃云：且道牛內納牛外納？直饒你說得納處分明，我更要問你覓牛在。溈山喆云：雲門只解索牛，不解穿他鼻孔。拈拄杖云：三世諸佛、天下老和尚鼻孔，盡被山僧拄杖一時穿却。且道山僧鼻孔在什麼處？良久云：誣人之罪，以罪加之。長慶稜云：你道南泉前頭為人？後頭為人？雪竇顯云：一時穿却。雲峰悅云：說甚納些些？盡乾坤大地，色空明暗，情與無情，總在山僧這裏。放行則隨緣有地，把住則迯竄無門。且道放行好？把住好？昭覺勤云：和光順物，與世同塵，不犯鋒鋩，收放自在，是南泉本分草料。山僧自小養一頭水牯牛，有時孤峰獨立，有時閙市縱橫，不論溪東溪西，一向破塵破的。且道即今在甚麼處？試著眼看。天童傑云：南泉起模畵樣，長慶披沙揀金，雲門鼻",
+          "MasterName": "Yunfeng Wenyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunfeng Wenyue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Yunfeng Wenyue owns the retained deployment, holding color and emptiness, the feeling and the unfeeling, all inside the mountain monk."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0569a21",
+          "ToLb": "0569b11",
+          "Kwic": "葉動，決定有魚行。問：諸上善人皆說不二法門，居士默然，意旨如何？曰：無目不畫眉。問：幻與非幻，未是學人極則處。如何是入理之談？曰：八十翁翁牙不動。琅邪覺和尚云：有句無句，如藤倚樹，樹倒藤枯，好一堆爛柴。妙喜曰：琅邪大似認賊為子，雖然如是，恩大難酬。慈明和尚示眾云：道吾打鼓，四大部洲同參。拄杖橫也，挑括乾坤大地；鉢盂轉也，覆却恒沙世界。且問汝等諸人向甚麼處安身立命？若也知安身立命處，北俱盧洲喫粥喫飯；若也不知，長連牀上喫粥喫飯。五祖演和尚四面示眾云：滿口道得底却不知有，知有底又道不得。且道過在甚麼處？將成九仞之山，莫惜一籄之土。又舉：僧問洞山：如何是善知識眼？山云：紙撚無油。洞山老漢不是無，只是太儉。忽有人問四",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-quoter",
+                "compiler"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Eye. Shishuang Chuyuan owns the retained deployment, lifting his staff crosswise to pick up the whole expanse and turning the bowl to cover the Ganges-sands world."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0900c29",
+          "ToLb": "0901a13",
+          "Kwic": "攢眉。』且與古人還有同異也無？若甄別得出，三家村裏不妨說黃道白；若甄別不出，長連床上喫粥喫飯。」上堂。「乾坤之內，宇宙之間，中有一寶，秘在形山。見青黃底是眼，聽音聲底是耳，聞香臭底是鼻，說言語底是舌。且道寶在什麼所在？」良久，顧左右曰：「你者一隊漆桶，向後莫被人謾好。」上堂。舉：「雲門道：『盡十方世界，乾坤大地，天下老和尚。』以拄杖畫一畫，曰：『百雜碎。』」師曰：「韶陽老子秖解瞻前，不解顧後，至今不得出頭。」以拄杖橫按膝上，曰：「十方世界，乾坤大地，天下老和尚，依位而住。」卓一下。上堂，良久，顧左右曰：「正恁麼時，如何商量？若商量得下，不妨快暢。其或躊躇，山僧挐三道五去也。盡喜一身擔寵辱，孰遺萬卷臥煙霞？」誕日",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment, faulting the Shaoyang old man for looking only ahead, then setting the ten directions, the expanse, and all the old masters back each in place."
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0870c22",
+          "ToLb": "0871a05",
+          "Kwic": "亡，骨露皮穿；行也參、坐也參，聖凡情盡，絕慮忘言。逗到今朝期限滿，緊束腰包過別山，一等共行山下路，眼底各自見風煙。雖然如是，須得雙眼圓明始得。復聽一偈：未會人前休出語，途路窮時莫放過，有人若問鳳林禪，當風劈面與殘唾。與殘唾，惡名從此不教多。」誕日，正果後堂請上堂。「常光獨耀，普映無方，一念初殷，遍周沙界。乾坤大地乃金剛正體，塵塵剎剎即本有風光，阿僧祗劫不越今時，十世古今同歸方寸。」驀拈拂子拂，云：「惟有者個不落數量，豈屬青黃？豎窮三際，橫該二儀，拈起也萬法齊彰，放下也一塵不立。于斯薦得，生佛一源，聖凡同域，無來無去，不滅不生。所以道：『諸法不自生，亦不從他生，不共不無因，是故說無生。』脫或未然，百歲韶華風度嶺，千",
+          "MasterName": "Zhulang Chesheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhulang Chesheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng owns the retained deployment, naming the whole expanse the vajra body itself, whose every dust and land is the light it always owned."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1988.xml",
+        "T/T47/T47n1992.xml",
+        "T/T47/T47n1996.xml",
+        "X/X70/X70n1376.xml",
+        "X/X71/X71n1404.xml",
+        "X/X71/X71n1420.xml",
+        "X/X66/X66n1296.xml",
+        "X/X67/X67n1309.xml",
+        "J/J36/J36nB369.xml",
+        "J/J38/J38nB427.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Fenyang Shanzhao",
+        "Xuedou Chongxian",
+        "Chijue Daochong",
+        "Wu'an Puning",
+        "Chushi Fanqi",
+        "Yunfeng Wenyue",
+        "Shishuang Chuyuan",
+        "Dahui Zonggao",
+        "Zhe'an Jingfan",
+        "Zhulang Chesheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed expanse formula that totals the whole made world for one gesture to handle. Yunmen Wenyan points with his staff and gathers the buddhas of every dust of the whole expanse inside it, daring anyone to stop them trading wins, Fenyang Shanzhao tells them it arises where they stand and shows itself where they look, the whole expanse bright and clear, Xuedou Chongxian turns every grass and tree of the expanse into one patched monk whose hundred thousand questions one finger-flick of the elder dismisses, Chijue Daochong shrinks the whole expanse to less than a hair's tip while the staff-bearers tramp four worlds claiming nowhere unreached, and Wu'an Puning pierces the eyes of the buddhas and ancestors with one stroke of his staff, leaving the whole expanse without a hair-tip of leak. Chushi Fanqi asks what single thing of the whole expanse ever tied itself to a person and dares anyone to fetch him a needle-tip of it, Yunfeng Wenyue holds color and emptiness, the feeling and the unfeeling, all inside the mountain monk, Shishuang Chuyuan lifts his staff crosswise to pick up the whole expanse and turns the bowl to cover the Ganges-sands world, Zhe'an Jingfan faults the Shaoyang old man for looking only ahead, then sets the ten directions, the expanse, and all the old masters back each in place, and Zhulang Chesheng names the whole expanse the vajra body itself, whose every dust and land is the light it always owned."
+    }
+  ]
+}

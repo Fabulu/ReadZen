@@ -1,0 +1,192 @@
+{
+  "Id": "t_b643bfb52bc2",
+  "SourceTerm": "是何言歟",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:22:15Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "what talk is this!",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "what words are these",
+        "what kind of speech is that",
+        "how can you say such a thing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 296 hits in 116 files representing 111 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0747a03",
+          "ToLb": "0747a09",
+          "Kwic": "根身器界是。四百四病是。山河大地是。見聞知覺是。以至一切差別塵緣無有不是者。咄是何言歟。且四大五隂及差別塵緣等。皆是敗壞不安之相。若喚作安閑法。大似指鹿為馬。若不喚作安閑法。亦是指鹿為馬。直饒去此二途別資一路。未免亦是指鹿為馬。要得不指鹿為馬。須是向他真歇和尚未啟口已前。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: runs the list — the four elements are it, the four hundred four illnesses are it, mountains and rivers, seeing and hearing, everything without exception — then spits on his own identification: what talk is this! Call it the ease-teaching and you are calling a deer a horse."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0620c08",
+          "ToLb": "0620c15",
+          "Kwic": "「世尊臘八於正覺山前夜睹明星悟道，喟然歎曰：『奇哉！一切眾生具有如來智慧德相，但以妄想執著而不證得。』」喝一喝，云：「是何言歟？大小世尊眼空四海、傍若無人，者等說話，只好欺壓流俗、誑惑愚人，二千年後難免簡點。只如離兜率、降王宮，豈不是妄想執著耶？入胎降生、大驚小怪、指天指地，豈不是妄想執著耶？棄金輪之位、舍萬乘之國，豈不是妄想執著耶？",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: raises the awakening line that all beings have the thus-come one's wisdom and virtue-attributes, shouts, and asks what talk is this — the World-Honored speaking as if none stood by, talk good only for crowding the crowd, hard to escape inspection two thousand years on."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0532c27",
+          "ToLb": "0533a03",
+          "Kwic": "舉：「僧問趙州：『如何修行得不錯路？』州云：『識心見性是不錯路。』」師云：「咄！咄，是何言歟？大小趙州猶作座主見解，設有問山僧：『如何修行得不錯路？』但向他道：『驀直去。』」示眾。云：「本來是佛，何用他求？直下承當，埋沒自己。儻更遲疑，白雲萬里。」卓拄杖云：「子期去不返，浩浩良可悲。",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained deployment: raises Zhaozhou's answer to the wrong-road ask — know the mind, see the nature, no wrong road — spits twice and asks what talk is this: great and small Zhaozhou still holding the lecture-master's view, and his own answer would be only, go straight ahead."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0572b09",
+          "ToLb": "0573a06",
+          "Kwic": "師云今朝臘月一中州來遠客問把住也凍鎻千山放行也氷河發𦦨請問老和尚把住是放行是師便喝問昔日斷老被高祖打落千丈巖不損一毫承誰恩力師云那裡得者箇消息來師迺云盡大地是箇火坑得何三昧不被燒卻大眾會麼開山祖師面目現在有人出來道祖師恁麼垂慈未免玩人喪德噁是何言歟晚叅僧問一口吸盡西江水的人合向甚麼處行履師云十方無壁落四面亦無門居士問一粒粟中藏世界半升鐺內煮山川半升鐺內煮山川即不問如何是一粒粟中藏世界師云近前來向汝道進云不許夜行剛把火直須當道與人看師云你鬍鬚生在口下因甚眼睛不見進云千峯勢到嶽邊止萬派聲歸海上消師云再犯不容師迺云盡大地是箇火坑得何三昧不被燒卻因甚道玩人喪德一僧云三十年後大有人恁麼問師云何不道驚人之句千古罕聞即顧視左右云山僧為甚昨日不肯今日卻肯眾聳然拱默師云我不輕於",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: when someone calls the founding ancestor's showing of his own face a wasting of people and their virtue, spits — what talk is that! — at the opening of the mountain's founding."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0572b07",
+          "ToLb": "0572b13",
+          "Kwic": "又將神秀『身是菩提樹，心如明鏡臺，時時勤拂拭，勿使惹塵埃』偈，判為執有修行。此凡夫法也，必欲把秀大師作箇凡夫見，是何言歟？不見南嶽讓一日有省，白六祖曰：『某甲有箇會處。』祖曰：『作麼生？』讓曰：『說似一物即不中。』祖曰：『還假修證否？』讓曰：『修證則不無，染污即不得。』祖曰：『祇此不染污，諸佛之所護念。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: defends Shenxiu, whose polishing verse was ruled a common fool's clinging-to-being: to make the great Master Xiu out a common fool — what talk is that! — and brings in Nanyue's something-to-say in support."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0037a04",
+          "ToLb": "0037a10",
+          "Kwic": "又一日，侍本師山行，因石擺擬側，我向前扶之，本師顧云：『汝扶持我耶？』我云：『是何言歟？』此癸丑季冬時話。甲寅二月十二日本師圓逝，我為伴柩三載，至丁巳年，五十二歲，結制本山。「即今看來，三十餘年大似無夢做夢，所以害羞尋嘗不欲向人說。今晚被眾兄弟逼不得已，賣醜一番，只都是與本師相見請益語也。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: walking with his teacher as the stone lurched and stepping up to steady it, is asked whether he means to support him — what talk is that, he answers, in the record of his own later years."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0403b10",
+          "ToLb": "0403b16",
+          "Kwic": "然則博山今日高登華座，大展法筵，敢問：說何法耶？解脫法耶？不思議法耶？不二門法耶？現神力法耶？咄！是何言歟？」良久，云：「維摩大士來也，稽首大士，雖則塵面蓬心，要且起居多福。」上堂。「如是之法，我從佛聞；如是之法，佛從我生。拶出虛空之髓，倒拈莨蕩之針，觸著三世諸佛鼻孔，只得吞聲忍氣，一任諸上座抱大不平。",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment: mounts the high seat at the great feast of the teaching — what teaching will be taught? The freeing? The unthinkable? The non-dual gate? The show of powers? Spit! What talk is that! — and after the long silence greets Vimalakirti come in person."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0028a21",
+          "ToLb": "0028a27",
+          "Kwic": "忽若問金粟即今年多少，秪向他道：『羅公羞把佳絲繫，古路揚眉口嬾開。』」良久，喝一喝，云：「是何言歟？」便下座。上堂。「無明即佛性，萬幅楊煙藏古鏡；煩惱即菩提，千畦麥浪漲前溪。也無佛性、無無明，鬧市紅塵信步行；也無菩提、無煩惱，拈匙把筯隨時好。隨時好，須及早，莫言烏兔尚堪留，蹉過一生空到老。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: gives Lord Luo's birthday ask of the fine thread and the old road, holds the silence long, shouts once — what talk is that! — and steps down."
+        }
+      ],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "J/J36/J36nB359.xml",
+        "J/J39/J39nB452.xml",
+        "B/B27/B27n0152.xml",
+        "J/J25/J25nB171.xml",
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB197.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Baiyu Jingsi",
+        "Lüyan He",
+        "Yulin Tongxiu",
+        "Tianyin Yuanxiu",
+        "Miyun Yuanwu",
+        "Wuyi Yuanlai",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A spit in four graphs: nothing just said survives it. The hall spends it on the Buddha's own awakening line, on Zhaozhou's answer, on flattery of the founder — and then answers on its own feet. Dismissal of the highest: Baiyu Jingsi raises the awakening line — strange, that all beings have the thus-come one's wisdom and virtue-attributes, only deluded grasping keeping them from attesting it — shouts, and asks what talk is this: the great and small World-Honored with eyes empty of the four seas and no one beside him, talk good only for crowding the crowd and fooling the foolish, hard to escape inspection two thousand years on; Lüyan He raises Zhaozhou's answer to the wrong-road ask — know the mind, see the nature, no wrong road — spits twice and asks what talk is this: great and small Zhaozhou still holding the lecture-master's view, and were he asked, he would say only, go straight ahead; Zhongfeng Mingben runs the list — the four elements are it, the four hundred four illnesses are it, mountains and rivers, seeing and hearing, everything without exception — then spits on his own identification: call it the ease-teaching and you are calling a deer a horse. The polite and the local spits: Miyun Yuanwu, walking with his teacher as the stone lurched and stepping up to steady it, is asked whether he means to support him — what talk is that, he answers; Tianyin Yuanxiu defends Shenxiu, whose polishing verse was ruled a common fool's clinging-to-being: to make Master Xiu out a common fool — what talk is that! — and he brings in Nanyue's something-to-say; Yulin Tongxiu, when someone calls the founder's showing of his own face a wasting of people, spits: what talk is that!; Wuyi Yuanlai mounts the high seat at the great feast of the teaching — what teaching will be taught? The freeing? The unthinkable? The gate of not-two? The show of powers? Spit! What talk is that! — and after the long silence: Vimalakirti has come, greet him; Baichi Xingyuan gives Lord Luo's birthday ask of the fine thread and the old road, holds the silence, shouts once — what talk is that! — and steps down."
+    }
+  ]
+}

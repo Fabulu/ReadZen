@@ -1,0 +1,154 @@
+{
+  "Id": "t_5b7a965f8823",
+  "SourceTerm": "逢人則出，出則不為人",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:46:24Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "meeting someone, I come out; coming out, I do not do it for the person",
+      "AlternateTargets": [
+        "on meeting someone I step out; stepping out, it is not for their sake"
+      ],
+      "SearchAliases": [
+        "the come-out-not-for-anyone half",
+        "meeting someone I come out, not for the person",
+        "one half of the two paired hall sayings"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 70 hits in 53 files representing 53 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1407.xml",
+          "FromLb": "0081b20",
+          "ToLb": "0081c13",
+          "Kwic": "來，各與三十拄杖。何也？少喜多嗔。拈府帖，奪佛祖之機，佐雨霖之手。黃鐘大呂，白雪陽春，眼處聞聲有幾人？陞座，拈香祝聖罷，乃云：一佛出世，千佛讚揚，十方坐斷，獨露真常。山蒼蒼，雲蒼蒼，半開半合，隱顯全彰。汝等諸人便恁麼領略得去，新半山一周事畢；其或未然，鍾山橋畔日遲遲，王謝堂前燕子飛。復舉：三聖道：我逢人則出，出則不為人。興化道：我逢人則不出，出則便為人。師拈拄杖，云：同一隻眼，共一隻臂，豎起臨濟正宗則不無二。大老撿點將來，總好與三十拄杖。新半山義出豐年，放過一著。靠拄杖，下座。上堂，拈拄杖示眾云：拄杖子，無向背，東拄西撑，登山涉海，卞璧驪珠，泥團土塊。卓拄杖一下，云：一時粉碎。又卓拄杖一下，云：話在。佛涅槃，上堂。拈",
+          "MasterName": "Xuzhou Pudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuzhou Pudu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1407.xml). Recorded Sayings of Chan Master Xuzhou Pudu. Xuzhou Pudu owns the retained deployment, raising the pair at his half-mountain seat and ruling the two elders one eye and one arm between them, upholding the founding teacher's true line as not two, then sentencing both great elders to thirty staff blows."
+        },
+        {
+          "RelPath": "X/X70/X70n1376.xml",
+          "FromLb": "0041b20",
+          "ToLb": "0041c10",
+          "Kwic": "處得一段奇特因緣，大包剎海而無間，細入隣虗而不遺。以之安時處順，目視霄漢，則泰然自足；以之應人接物，裁事制變，則綽然有餘。當時理會不得，如今理會得也。准擬略露些兒，應箇時節，纔入門來，被鐘魚鼓板惑亂一上，卒討頭鼻不著。縱有通天作略，也無施展處。然雖如是，誰言卞璧無人鑑，我道驪珠到處晶。復舉興化示眾云：我逢人則出，出則不為人。三聖道：我逢人則不出，出則便為人。後來真淨和尚云：看這兩箇老古錐，竊得臨濟些子活計，各自分疆列界。明眼衲僧只得好笑。師云：真淨恁麼批判，只知其一，不知其二，亦使明眼衲僧只得好笑。殊不知二大老共出隻手，破壞臨濟正宗，分文不直。且道新鍾山恁麼批判，還免得明眼衲僧笑也無？試請辨看。當晚小參，僧問：要得寶山寶，",
+          "MasterName": "Chijue Daochong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chijue Daochong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1376.xml). Recorded Sayings of Chan Master Chijue Daochong. Chijue Daochong owns the retained deployment, raising the pair with the later master's ruling that the two old awls stole scraps of the founder's trade, then faulting that ruling itself for knowing one side of two, the two elders putting out one hand together."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0597c19",
+          "ToLb": "0598a09",
+          "Kwic": "罷，提綱云：伏虎巖前，駱駝橋畔，有一句子，去來不以象，動靜不以心，直得囊藏大地，該抹古今，三世佛望風斂影，六代祖却步沉吟。欽上座固是向文彩未彰以前和聲嚼碎，忍俊不禁，且聽拂子點頭，自許臨風對月流出胸襟。擊拂子云：四海五湖歸至化，更看比屋是黃金。復舉興化和尚云：三聖道：逢人則不出，出則便為人。興化則不然，逢人則出，出則不為人。師拈云：二大老所謂一條拄杖兩人舁，被天寧拗作兩橛了也。以拄杖倚左邊，云：且聽各自平分。當晚，小參。佛法本無多子，堂堂日用之間，只因自信不及，却於易處艱難。今夜不免作些方便，為諸人豁開戶牖，拶碎疑團。擊拂子，云：星在秤兮不在盤。復舉：雲門大師示眾云：聞聲悟道，見色明心。觀世音菩薩將錢來買胡餅，放下手却是饅",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueyan Zuqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment, raising the pair and snapping it himself, one staff carried by two men and bent into two pieces by the Tianning master, then leaning the staff to the left and letting each keep his half."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0554a07",
+          "ToLb": "0554a20",
+          "Kwic": "只這箇便是麼？』溈云：『只這箇是什麼？』仰云：『大好燈籠。』溈云：『果然不識。』」師徵云：「汝等參詳也未？且道當時仰山會得西來意恁麼酬？不會西來意恁麼酬？你若道會，溈山又道『果然不識』；若道不會，仰山又道『只這箇便是』。會與不會且置，如何是西來意？」舉：「興化道：『三聖逢人則不出，出則便為人。興化則不然，我逢人則出，出則不為人。』雪巖頌云：『弄晴微雨濕春風，柳自青青花自紅。寄語遊人急回首，歌樓不在畫橋東。』」師徵云：「你看二大老作略，被雪巖翁一頌，徹骨徹髓撒向諸人面前了也。還會麼？若會得，為人也得，不為人也得。如未會，為人也不得，不為人也不得。參。」舉：「僧問趙州和尚：『學人乍入叢林，乞師指示。』州云：『喫粥了也未？』僧云：『",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, raising the pair with the Xueyan master's verse on it, ruling that whoever meets it can teach for people or not while whoever does not can neither."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0575c20",
+          "ToLb": "0576a04",
+          "Kwic": "安居，平等性智。敢問大眾：因什麼到者般田地？還會麼？不因刖足曾三獻，那得連城價倍高？」上堂。「今朝五月一，那事分明極，擬意欲承當，料掉沒交涉。有交涉，八面兵戈一齊出。且道：正當恁麼時，報恩還在裡許也無？」良久，云：「數聲清磬是非外，一箇閒人天地間。」舉：「興化云：『我逢人則不出，出則便為人。』三聖云：『我逢人則出，出則不為人。』此二尊宿，一箇遇文王施禮樂、一箇逢桀紂動干戈，雖則兩得其宜，未免各分疆界。報恩則不然，有時逢人則出，出則便為人；有時逢人則不出，出則不為人。還知報恩落處麼？有意氣時添意氣，不風流處轉風流。」上堂。舉：「德山和尚一日因飯遲，托缽下堂，雪峰見云：『者老漢鐘未鳴、鼓未響，托缽向什麼處去？』看孔著楔。山低頭",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, giving each elder his season, one bowing to King Wen and one raising arms against Jie and Zhou, then reversing both halves at his Baoen seat, at times coming out and teaching for people, at times not coming out and doing nothing for anyone."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0307c19",
+          "ToLb": "0308a02",
+          "Kwic": "點首，曰：『好怪汝。』」良久，曰：「信受如來不思議身，信受如來不思議音聲，信受如來不思議智，自然興起正勤，不怯不退。」拈拄杖，卓一卓，曰：「在耳曰聲，在目曰容。聲應乎耳，可以聽知；容接乎目，亦以儀覿。發揚蹈厲，以拓其智，上下交融，進止有度。總之，開發顯示諸佛正真之道。」再拈拄杖，卓一卓，復舉：「三聖道：『我逢人則出，出則不為人。』興化道：『我逢人則不出，出則便為人。』白雲端和尚拈口：『二尊宿各有一處打得著。』」師曰：「若論據款結案，不道全無銖兩，然則難逃五祖師翁說他語拙。夫舉一隅不以三隅反，則不復也。臨濟家法是你涯際得底？是你刻畫得底？是你汗漫得底？昔人盡其機智，列門庭，製要訣，不過彷彿皮膚，絕非骨髓，依稀名相，何關旨意？二",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment, raising the pair with the Baiyun master's ruling that each elder has one place that lands, weighing the case as not without weight yet unable to escape the Fifth Ancestor grand-teacher's charge of clumsy words."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1407.xml",
+        "X/X70/X70n1376.xml",
+        "X/X70/X70n1397.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB185.xml",
+        "J/J34/J34nB301.xml"
+      ],
+      "RelatedMasters": [
+        "Xuzhou Pudu",
+        "Chijue Daochong",
+        "Xueyan Zuqin",
+        "Tianyin Yuanxiu",
+        "Fushi Tongxian",
+        "Jiqi Hongchu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "One half of the fixed pair of hall sayings from two heirs of the founding teacher's house: meeting someone, I come out; coming out, I do not do it for the person. Xuzhou Pudu raises the pair at his half-mountain seat and rules the two elders one eye and one arm between them, upholding the founding teacher's true line as not two, then sentences both great elders to thirty staff blows, Chijue Daochong raises the pair with the later master's ruling that the two old awls stole scraps of the founder's trade and marked off borders, then faults that ruling itself for knowing one side of two, holding the two elders put out one hand together and broke the founder's line for not a cent, and Xueyan Zuqin raises the pair and snaps it himself, one staff carried by two men and bent into two pieces by the Tianning master, then leans the staff to the left and lets each keep his half. Tianyin Yuanxiu raises the pair with the Xueyan master's verse on it, tells the assembly the verse has scattered the two elders' working to the marrow, and rules that whoever meets it can teach for people or not while whoever does not can neither, Fushi Tongxian gives each elder his season, one bowing to King Wen, one raising arms against Jie and Zhou, then reverses both halves at his Baoen seat, at times coming out and teaching for people, at times not coming out and doing nothing for anyone, and Jiqi Hongchu raises the pair with the Baiyun master's ruling that each elder has one place that lands, weighs the case as not without weight yet unable to escape the Fifth Ancestor grand-teacher's charge of clumsy words, and asks whether the founding teacher's family rule is anything one can bound, carve, or wander loose."
+    }
+  ]
+}

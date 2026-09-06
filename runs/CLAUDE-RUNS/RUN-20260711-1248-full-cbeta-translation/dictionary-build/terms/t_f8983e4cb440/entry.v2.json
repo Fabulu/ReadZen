@@ -1,0 +1,154 @@
+{
+  "Id": "t_f8983e4cb440",
+  "SourceTerm": "唯此一事實，餘二則非真",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:54:38Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "only this one thing is real; the other two are not true",
+      "AlternateTargets": [
+        "this one affair alone is real; the remaining two are not true"
+      ],
+      "SearchAliases": [
+        "the one real thing, the two untrue",
+        "only one fact, the other two not true",
+        "the Lotus line on the one real affair"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 32 hits in 28 files representing 27 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1421.xml",
+          "FromLb": "0671c10",
+          "ToLb": "0672a09",
+          "Kwic": "江淛省丞相達識帖穆爾脩設水陸普度大會，陞座拈香云：此香毓乾坤之正氣，真柱國之長材。擢榦舒光，匝祥芬於龍樓鳳閣；分枝布葉，騰瑞藹於栢府薇垣。拈來價重連城，爇處恩覃沙界。奉為某人虔爇寶爐，供養十方常住、三寶法界、幽顯聖凡，平等資熏，普皆饒益，出生功德，祝延今上皇帝聖躬萬歲萬歲萬萬歲陛下，欽願政教立而姦邪止，八方銷兵革之憂，陰陽調而風雨時，萬姓樂耕桑之業。遂就坐。僧問：大丞相揮金建會，普濟群生，名尊宿據令提綱，願聞極唱。師云：且喜天下太平。進云：與麼則八方銷兵革之憂，萬姓樂耕桑之業。師云：重言不當吃。進云：教中道：釋迦世尊以一大事因緣故出現於世，欲令眾生開示悟入佛之知見。莫不便是者個道理麼？師云：休將鶴唳誤作鸎啼。進云：大丞相方面東南，翊贊中外，廣修勝會，保國安民，所獲福德其量幾何？師云：虗空可量風可繫，無能盡說佛功德。僧禮拜，師乃云：釋迦世尊以一大事因緣故出現於世，種種譬喻演說諸法，欲令眾生開示悟入佛之知見。所以道：我此法印，為欲利益世間故說。唯此一事實，餘二則非真。有道：是法非思量分別之所能解，在所遊方，勿妄宣傳。敢問諸人：且如何說個一大事因緣？竪拂子，云：離却拂子道得，則大丞相脩設水陸普度勝會一期事畢，山僧不必高陞此座，鼓兩片皮，諸人不妨各自散去。其或未然，向第二義門與諸人打葛藤去也。",
+          "MasterName": "Yu'an Zhiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yu'an Zhiji",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1421.xml). Recorded Sayings of Chan Master Yu’an Zhiji. Yu'an Zhiji owns the retained deployment, chaining the Lotus lines at the grand councilor's water-land mass and asking the assembly how to say the one great affair, offering that whoever can say it past the whisk ends the whole service at one stroke."
+        },
+        {
+          "RelPath": "X/X63/X63n1257.xml",
+          "FromLb": "0758a06",
+          "ToLb": "0758a20",
+          "Kwic": "合時，貴在話頭真切，逼拶令悟，非待悟耶？又悟時如披雲見天，而廓落無依，天旋地轉，又是一飜境界。做工夫要緊，要正，要綿密，要融豁。何謂緊？人命在呼吸，大事未明，一口氣不來，前路茫茫，未知何往，不得不緊。古德云：如麻繩著水，一步緊一步。何謂正？學人須具擇法眼，三千七百祖師大有樣子。若毫釐有差，則入邪徑。經云：唯此一事實，餘二則非真。何謂綿密？眉毛與虗空廝結，針劄不入，水洒不濕，不容有毫𨤲間隙。若有毫𨤲間隙，則魔境乘隙而入。古德云：一時不在，如同死人。何謂融豁？世界濶一丈，則古鏡濶一丈；古鏡濶一丈，則火爐濶一丈。決不拘執住在一處，捉定死蛇頭；亦不繫墜在兩頭，漭漭蕩蕩。古德云：圓同太虗，無欠無餘。真到融豁處，則內不見有身心，外不見有世",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X63/X63n1257.xml). Boshan’s Chan Admonitions. Wuyi Yuanlai owns the retained deployment, arming his written charge on straightness with the line, three thousand seven hundred patriarchs for models and a hair's difference the wrong road."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0045b24",
+          "ToLb": "0045c08",
+          "Kwic": "世間一切境界語言轉換，始有獨立自繇分。縱五宗差別之語言，亦無非明人人本分一著；若離人人本分一著，別有差別之智，則隨名相展轉生差別之情識，依舊無自繇分。世尊所云：「清淨法眼、涅槃妙心，付囑摩訶迦葉廣流傳化，無令斷絕。」金口所囑反成顛倒，當知涅槃妙心是大海，差別智是雨滴，滴雖不同，總歸大海，自無差別。所謂「唯此一事實，餘二則非真」，是正宗正旨。若有差別之智勝過涅槃者，是為魔說。古云：「若有一法過於涅槃，我說如夢如幻。」細觀來書，於本分一著尚未親證，當據實呈本分，然後所疑五宗說話不妨開來，貧道方好點化，否則斷不敢細解註也。復蘭嶼吳居士復蘭嶼吳居士承諭，要貧道法語以薦拔先亡者，貧道若有法語，則著我、人、眾生、壽者；若無法語，亦著我、",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, ruling the line the true root purport, the nirvana heart the sea and each differing knowing a raindrop, any raindrop claiming to outrank the sea devil-talk."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0227c24",
+          "ToLb": "0228a08",
+          "Kwic": "將去也。」師云：「少賣弄。」乃云：「山堂兀坐無聊，錯把虛空亂敲。且喜孟春信到，忽然瓦解冰消。輥出一團和氣，放開兩岸逍遙，踏翠佳人賣弄春色，風流和尚不打自招。大眾！且道招箇甚麼？」良久云：「渾身在裏許，三十年後敢保有人證據。」下座。元旦上堂。祝聖畢，乃云：「佛祖家風舊，人間歲月新，擊碎蟠桃核，露出舊時仁。唯此一事實，餘二則非真。所以道：一處真，處處真，塵塵盡是本來人。真實說時聲不現，覿面堂堂沒卻身。且道覿面堂堂為甚麼沒卻身？有人道得，山僧拄杖子兩手分付。」僧云：「秪為分明極。」師云：「不親切。自道去也。能隨萬物變，不逐四時新。拈起也，宇宙風光，森羅顯煥；放下也，家國安怗，河海晏清。不拈不放，畢竟如何？道泰不傳天子令，時清休唱太",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, cracking the new year's peach stone to bare the old-time kernel, spending the line, and ruling that one place true makes every place true and every mote the original person, with the staff handed over to whoever can say why the face-to-face one loses his body."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0624a18",
+          "ToLb": "0624b01",
+          "Kwic": "奚有囊藏？到此須是過量大人、出格漢子始得。信心堅若須彌，行願深如滄海。八風撼之不動，群魔攪之不渾。猶如寶劍精金，愈淬愈銳，愈煉愈新。如來禪、祖師禪，隨處圓成；今時事、那畔事，當時了辦。且如何是山格事？雪後始知松柏操，事難方見丈夫心。」上堂。「仲尼曰：『吾道一以貫之。』老聃云：『抱一而為天下式。』瞿曇道：『唯此一事實，餘二則非真。』大眾！者三箇老漢與麼道，且道：是三耶？是一耶？若道是一，卻又分門列戶；若謂是三，奈何同道是一？到者裏作麼生會？」拈拄杖，云：「仲尼、老聃、瞿曇總被山僧拄杖子穿卻鼻孔了也。且道：拄杖子憑何節目卻能如是？」卓一卓，云：「磊磊落落，煒煒煌煌，豎窮三際，橫遍十方，神通叵測，玅用難量，纔涉擬議，打出腦漿。」僧纔",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, hanging the line beside Confucius's one thread and Laozi's one embrace and asking the hall whether the three old men are three or one, faulting both answers before his staff threads all three noses."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0747b23",
+          "ToLb": "0747c07",
+          "Kwic": "復舊時面目，而祖燈續燄傳輝少見其人，欲請諸方大善知識主盟此事。雖萌此念而未遂其事，寂禪師早示寂矣！一時難得其人。乃劉孝翁同大檀越召病僧說戒羯磨，以為將來得人之張本，用意其善也歟！蓋戒之一字統盡十方三世諸佛法藏，即我釋迦如來說法四十九年、談經三百餘會，末後拈花，原始要終，唯一金剛光明寶戒而已。《經》云：「唯此一事實，餘二則非真」是也。此戒精持佛見、法見尚不可立，況有生死去來迷悟之妄想耶？但生一念求玄求妙、求悟求超越即屬染汙，即名破戒；但穿衣喫飯，日用平常不觸不背，即如如佛也。南泉云：「王老師有一頭水牯牛，擬向溪東，不免犯他官家苗稼；擬向溪西，不免犯他官家苗稼，不如隨分納些些。」趙州云：「有佛處急走過，無佛處不可住。」此二老是",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, reading the line as the one diamond-bright precept behind forty-nine years of teaching and three hundred assemblies, where even the buddha-view and the teaching-view cannot stand."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1421.xml",
+        "X/X63/X63n1257.xml",
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB193.xml",
+        "J/J36/J36nB359.xml",
+        "J/J28/J28nB219.xml"
+      ],
+      "RelatedMasters": [
+        "Yu'an Zhiji",
+        "Wuyi Yuanlai",
+        "Miyun Yuanwu",
+        "Yinyuan Longqi",
+        "Baiyu Jingsi",
+        "Zhuanyu Guanheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Lotus line on the one real affair: only this one thing is real; the other two are not true. Yu'an Zhiji chains the Lotus lines at the grand councilor's water-land mass and asks the assembly how to say the one great affair, offering that whoever can say it past the whisk ends the whole service at one stroke and everyone may go home, Wuyi Yuanlai arms his written charge on straightness with the line, three thousand seven hundred patriarchs for models and a hair's difference the wrong road, and Miyun Yuanwu rules the line the true root purport in his reply to the laywoman Wu, the nirvana heart the sea and each differing knowing a raindrop, any raindrop claiming to outrank the sea devil-talk. Yinyuan Longqi cracks the new year's peach stone at the Wanfu temple seat to bare the old-time kernel, spends the line, and rules that one place true makes every place true and every mote the original person, then dares anyone to say why the face-to-face one loses his body, the staff handed over to whoever can, Baiyu Jingsi hangs the line beside Confucius's one thread and Laozi's one embrace and asks the hall whether the three old men are three or one, faulting both answers before his staff threads all three noses, and Zhuanyu Guanheng reads the line in his ordination-platform notice as the one diamond-bright precept behind forty-nine years of teaching and three hundred assemblies, where even the buddha-view and the teaching-view cannot stand."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Id": "t_f1b2b0e4272c",
+  "SourceTerm": "十世古今",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:15:26Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the ten worlds and all times",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the ten periods of time",
+        "all times past and present"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 263 hits in 136 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0717b26",
+          "ToLb": "0717c13",
+          "Kwic": "盡華藏世界海。窮虛空邊際。都盧是箇金剛眼。且作麼生觀。揉石渡頭風浪靜。三三兩兩釣魚船。下座。上堂。僧問。一大藏教那箇是頭。師云。如是我聞。進云。此是阿難底。如何是和尚底。師云。山僧用得甚快。乃云。一言道合隨處皆真。一句無私全彰寶印。問得也善不問甚奇。烜赫光明本無向背。所以道。無邊剎海。自他不隔於毫端。十世古今。始終不移於當念。不隔處總十方為真境。不移處貫十世於目前。淨躶躶脫塵情。赤灑灑無蓋覆。直得千聖同躔萬機頓赴。還會麼。竿頭絲線從君弄。不犯清波意自殊。下座。上堂。僧問。如何是教外別傳一句。師云。問取燈籠。進云。謝師答話。師云。自領出去。進云。却是禪外別傳也。師云。三千里外過崖州。問學人不恁麼時如何。師云。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: opening his hall address with the tag — no separation and no shifting — then extending it: where there is no separation the ten directions are the true realm, where there is no shifting the ten worlds thread through what is before the eyes."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0829a19",
+          "ToLb": "0829b13",
+          "Kwic": "晝在舌謂之嚐新茗烹來味轉長在身謂之觸本來無垢何妨浴在意謂之思前塵落謝幾多時秦國太夫人說如是法汝等諸人當如是會方知如是之法如是知如是見如是信解不生法相正當恁麼時且道秦國太夫人還有末後句也無又以拂子擊禪床云如是如是。復云圓悟真覺先師與相門三世有大法緣偶然時節到來今日在開福說法李長者所謂無邊剎境自他不隔於毫端十世古今始終不離於當念非是強為法如是故蓋太夫人福足慧足在女流中真大丈夫有所不如非某一己之私實普天之下無有不知者一生游戲般若看箇狗子無佛性話一言之下打破漆桶便能棒打石人頭剝剝論實事如實修行如實悟入乃至造次顛沛無不在規矩中及乎臨啟手足時以平音悟道頌從頭說一遍却向禪床上忽然坐脫去雖三五十年修行老衲也未到這般田地這箇造偽",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: crediting the tag to Elder Li while eulogizing the Duchess of Qin — the boundless realm divides self from other by no hair-tip, the ten worlds never leave the present thought — adding it is not forced, the dharma being thus."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0511a08",
+          "ToLb": "0511b04",
+          "Kwic": "標上座二人死了燒了，即今在什麼處？苟或不知去處，撞入驢胎馬腹與異類中，總不見得是。汝諸人即今在這裡兩脚著地，還知去處麼？若也知得，便見死人面前有活人出身處、活人面前有死人無數，古今即自己、自己即古今，而亦不妨古今自古今、自己自自己、死人自死人、活漢自活漢，然後却向這裡打一箇回合，塵毛剎海自他不隔於毫端，十世古今終始不離於當念。復云：提起即有，放下即無。作如是見，便見親疎。譬如鑄鏡成像，像成後光在甚麼處？通身沒可得，遍界不曾藏。佛法下衰，無甚此時，全仗你後生晚進，發大勇猛，負大志願，赤手扶持，隻肩擔負。兄弟，可惜許法門廣大，莫孤負佛祖建立垂慈法乳之恩，莫孤負國王外護匡扶水土之恩，莫孤負父母師長養育剃度之恩，莫孤負",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: sealing, after telling the assembly that the living stand before the dead and ancient and present are each itself and yet one, that the ten worlds never depart from the present thought."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0688a24",
+          "ToLb": "0688b08",
+          "Kwic": "行即行，是望！答熊青嶼給諫答熊青嶼給諫捧讀來諭，理事雙彰，語義俱密，欲曉衡不宜此一妄動。在衡何當？執事殷殷一念至此，無乃為雲居祖庭久虛其席，欲衡灑掃以待來哲，又似求硃不得，暫借赤土以應其事。此執事為雲居求人切實若此，為國、為家、為身無以二之，欽服！欽服！衡雖沉冥，豈不感悟所示圓通玅旨、聖智境界？古人所謂十世古今，始終不離于當念；十方剎海，自他不隔於毫端。非證此不能說此，是知執事深入此種三昧，乃能說行俱到，真縉紳中古佛也。第圓融不礙行布、行布不礙圓融，理事融通、性相不二，方能超越世出世間思議之表，所以云：「眾生有誠靡不周，而恒處此菩提座。」昔釋迦如來在母腹中轉大法輪，微塵數眾圍遶。既出胎成道之後，復還本國為父舁棺",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: praising a lay patron in a letter with the elders' tag — the ten worlds never leave the present thought, the ten directions' seas divide by no hair-tip — adding that none who has not realized it can say it."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0621b24",
+          "ToLb": "0621c08",
+          "Kwic": "周備，檢點將來，大似向福建人前賣荔枝，未免傍觀者哂。」至玉峰，請上堂。「玉峰突兀，獨露萬象之中；寶塔玲瓏，勢出層霄之外。彌勒閣無殊兜率，曇華亭迥異人間。梵宇參差，影沉碧水；松杉錯落，韻奏笙簧。處處車馬駢闐，時時朱紫合雜。雲封雉堞，偏正何分？月照閭閻，主賓莫辨。於斯會得，無邊剎海自他不隔於毫端；於斯不會，十世古今始終不離於當念。」舉拂子，云：「分明月在梅花上，看到梅花早已遲。」至雲間貝多菴，請上堂。「只者第一義以太虛為紙、大地為硯、九峰為毫、三泖為墨，直教宋石門、趙文度、董玄宰、陳眉公竭其心力、殫其精巧，寫到彌勒下生，以至盡未來際，不能加一毫於其間。須知語言文字之所未及、世智辨聰之所未窮，故曰：口欲譚而辭喪，心欲",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: splitting the formula at the lantern festival — for one who gathers it there the boundless seas divide self from other by no hair-tip; for one who does not, the ten worlds still never leave the present thought — then raising the whisk to show the moon already late on the plum branch."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0684c24",
+          "ToLb": "0685a08",
+          "Kwic": "聲色時，見聞沒可睹，於此見如來，依舊如聾瞽。莫聾瞽，李廣當年射石虎。」晚參。「盡大地是沙門一隻眼，佛佛出世在者眼睛裏、祖祖相承在者眼睛裏、天下老和尚說黃道白在者眼睛裏，百億須彌盧在者眼裏𨁝跳、無邊香水海在者眼裏騰波，佛國天堂出不得者眼睛、三塗地獄壞不得者眼睛。若識得者眼睛，要見無邊剎境自它不隔於豪端，十世古今始終不離於當念，有什麼難？若不識者眼睛，可謂有眼如盲。還識眼睛麼？」遂連叩齒，云：「不合攃沙攃土。」上堂。「昔日僧問雲門：『如何是佛？』門云：『乾矢橛。』者僧沒興，無端上門上戶討得一場骯髒熱悶。又，僧問洞山：『如何是佛？』山云：『麻三斤。』者僧悔氣，本來灑灑落落，自亡討得麻纏紙裹。大眾！沿家覓佛終無所得。設",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: making the formula the proof-sight of the single eye in which every buddha and ancestor performs — see that eye and the boundless realm and the ten worlds are nothing hard; miss it and one has eyes like a blind man."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0641a26",
+          "ToLb": "0641b09",
+          "Kwic": "鬼，不消數盃酒、幾陌紙錢，斷送他千萬里外去也，安得我此堂中有彼提婆達多作首座、善星比丘作西堂、障蔽魔王作後堂、那吒太子作堂主、摩登伽女作悅眾、寶蓮香比丘尼作侍者、維摩不二開士及華嚴諸善知識作鄰對單，令十方邪外為值日服事，則我等有此一會，不消歷三大阿僧秪劫而頓證法身，亦不消承事無邊剎海而偏證三昧也。何故？十世古今不離當念，一念看破、事事圓融，看得破、看不破，燈籠露柱一齊懡㦬，將謂捨此眾生無明業識，別有所謂玅湛總持乎？我但恐你發不起此業識耳。真發得起，如敵勝怨，匹夫一呼出入，九軍龍象蹴蹋，信非驢所能堪也。若捨一法不明，滿足菩提，八萬塵勞門開，則八萬種種智門開矣。上根聞此，一了則一切了，如金剛慧心頓發，則根本無明化為",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: seating Mara's hosts and Vimalakirti's company in one imagined assembly, ruling that the ten worlds do not leave the present thought, that one thought seen through makes everything interpenetrate, and daring them to raise that very deluded consciousness like a foe."
+        },
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0517c20",
+          "ToLb": "0518a04",
+          "Kwic": "有涅槃。不與麼會，今日則有，明日則無。且如何即得？」卓杖曰：「石罅青抽今歲草，山根梅發去年香。」又三月十五日立夏，上堂。「十五日已前，池塘蛙鼓鬧春風，李白桃紅。十五日已後，阡陌兒童歌夏日，麥黃筍綠。正當十五日，閏餘恰逢三月半，夏來春去兩平分。大眾！且道春從何去？夏自何來？者裏會得，于一毫端上現出無邊剎土，十世古今不離當念之頃。若或不爾，有寒暑兮促君壽，有鬼神兮妒君福。」示眾。「春雲時逐曉風開，桃花落盡綠成堆，煦日融融成爛熳，耳聲眼色活如來。法身獨露無遮覆，不識皆由心自迷。諸仁者，不須猜，八剎嵬峨排鐵甕，三山鼎列一江洄。」維揚歸，上堂。「出山剛十日，人事咸周訖。謹報參玄者，竟沒皮寬樹。昨過瓜洲市，見一奇特事。諸人",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: promising at the exact midpoint of spring handing over to summer that on one hair-tip the boundless lands appear and the ten worlds do not leave the instant of the present thought — otherwise the seasons shorten one's life and the spirits envy one's blessing."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "M/M59/M59n1540.xml",
+        "X/X70/X70n1397.xml",
+        "J/J28/J28nB219.xml",
+        "J/J36/J36nB359.xml",
+        "J/J26/J26nB187.xml",
+        "J/J34/J34nB311.xml",
+        "J/J38/J38nB418.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Xueyan Zuqin",
+        "Zhuanyu Guanheng",
+        "Baiyu Jingsi",
+        "Tian'an Sheng",
+        "Juelang Daosheng",
+        "Huiyue Xu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The ten worlds and all times. Yuanwu Keqin opens his hall address with the tag and extends it — where there is no separation, the ten directions are the true realm; where there is no shifting, the ten worlds thread through what is before the eyes; Dahui Zonggao, eulogizing the Duchess of Qin, credits the saying to Elder Li — the boundless realm does not divide self from other by a hair-tip, the ten worlds do not leave the present thought — adding it is not forced, the dharma being thus; and Xueyan Zuqin, after telling the assembly that the living stand before the dead and the dead before the living, ancient and present each itself and yet one, seals it with the reversed variant — the ten worlds never depart from the present thought. Zhuanyu Guanheng praises a lay patron in a letter with the elders' tag, saying none who has not realized it can say it; Baiyu Jingsi splits the formula at the lantern festival — for one who gathers it there, the boundless seas divide self from other by no hair-tip; for one who does not, the ten worlds still never leave the present thought — then raises the whisk and shows the moon already late on the plum branch; Tian'an Sheng makes the formula the proof-sight of the single eye, in which every buddha and ancestor performs — miss the eye and the formula stays hard, an eye like a blind man's; Juelang Daosheng, seating Mara and Vimalakirti in one assembly, rules that the ten worlds do not leave the present thought, that one thought seen through makes everything interpenetrate, and dares them to raise that very deluded consciousness like a foe; and Huiyue Xu, at the exact midpoint of spring handing over to summer, promises that on one hair-tip the boundless lands appear and the ten worlds do not leave the instant of the present thought."
+    }
+  ]
+}

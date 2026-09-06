@@ -1,0 +1,171 @@
+{
+  "Id": "t_ab3d63035bb2",
+  "SourceTerm": "時節若至，其理自彰",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "when the season arrives, the truth shows itself",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "at the due season the principle shines out",
+        "the time come, the truth is plain"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 103 hits in 79 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0418a16",
+          "ToLb": "0418b12",
+          "Kwic": "處得此三昧？山云：曹溪脫印子舉來。邑云：汝道曹溪用此三昧接甚麼人？山云：接一宿覺。山却問：和尚甚處得此三昧？邑云：我於馬大師處得此三昧。師云：中邑拍口和和，且不是馬大師處得此三昧；仰山從西過東、從東過西，且不是曹溪處得此三昧。既然不是，且道從什麼處得此三昧？古人決定言不虗發，諸人也須自悟始得。開爐，上堂。時節若至，其理自彰。日不待火而熱，月不待風而凉。世界闊一丈，古鏡闊一丈，火爐闊一丈。佛大泥多，舡高水漲。下座。上堂，僧問：七十三、八十四時如何？師云：釋迦老子入你鼻孔裏去也。僧禮拜，師乃云：七十三、八十四即不問，釋迦老子無端入你鼻孔裏一句作麼生道？良久，云：海水不生氷。下座。上堂，舉：興化在三聖處常謂人曰：我在南方行脚一",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: opens the winter furnace with the line and lets it stand alone, the sun not waiting for fire to be hot, the moon not waiting for wind to be cool, the world a fathom wide and the old mirror a fathom wide and the furnace a fathom wide, buddha big and mud many, the boat high and the water risen."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0601c12",
+          "ToLb": "0601c28",
+          "Kwic": "旨？」荅：「一盲引眾盲。」頌曰：皮骨從來兩不離，強分內外陷當機，前人遺落今人問，引起諸盲無止時。問：「道也者，不可須臾離也。須臾之間，道在甚麼所在？」荅：「墻壁瓦礫。」頌云：說個須臾便間然，須臾問道孰能諳？信口荅他墻瓦礫，未悟之人正好參。問：「二十年坐破七個蒲團，不明此事，如何一日捲簾忽然大悟？」荅：「時節若至，其理自彰。」頌云：昧卻當人坐臥間，蒲團七破尚蒙然，捲簾若不因時至，其理如何得自彰？勘辨垂代勘辨垂代僧參，師問：「報恩在水鄉，非舟莫至，還有不假舟楫而到者麼？」有時云：「既到報恩，無禪可參、無道可學，畢竟圖箇甚麼？」因春雪不消，師垂問：「古人道：『直待雪消去，自然春到來。』今日已是春，為甚雪不消？」眾下語不契，師",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: asked in his question-and-answer column how one who sat through seven broken cushions without seeing the matter could suddenly awaken at a single roll of the curtain, answers with the line alone, then verses that having lost the very man between sitting and lying, seven cushions broken still benighted, had the curtain not rolled at the season's arrival the truth could never have shown itself."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0806c07",
+          "ToLb": "0806c21",
+          "Kwic": "久廢，意在求人；思公力以護持，飛神遠迓。幸居士願力深厚，意在未睹之先；為道懸心，留神已發之際。雲林泉石，咸有歡聲；地土泥沙，悉皆企仰。居士有忠懿王之大力，山野無德韶老之宗風。福薄才輕，有辜重望，權作斷橋之略彴，暫為黑夜之螢燈，以俟高賢續來禪林，始可興盛。惟祈鑑燭，佛日增輝。幸幸！欲知佛性義，當觀時節因緣。時節若至，其理自彰。古有聞蛙聲、指木樨而悟者，時節因緣也。忠懿王供禮韶國師，建二十七剎，亦時節因緣也。護國之興，賦田千頃，飯僧萬人，房寮六百餘所，煥若天宮，亦時節因緣也。後來田地一旦屬於豪家，房舍變為瓦礫，亦時節因緣也。病朽至此，不過隨緣度日，況欲搆室以為退休之計。不期常住淡薄，雖有缽資之餘，已作雲廚之供，何有贖田之意哉？",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: in his written appeal to a patron for the ruined mountain, sets the paired line and ranges the old cases under it, the frog-croak hearers and the osmanthus pointers all season-and-cause, the loyal prince who served the state teacher and built twenty-seven temples season-and-cause, the thousand acres and ten-thousand monks and six hundred cells like a heaven-palace season-and-cause, and the day the fields fell to the mighty and the cells turned to rubble season-and-cause too, leaving his rotting self to follow conditions."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0533c04",
+          "ToLb": "0533c17",
+          "Kwic": "？莫是昭昭靈靈，認著見聞覺知，觸著動著者是麼？莫是靜悄悄地，終日蒲團，細念纔生，即便遏捺者是麼？莫是錦繡叢中，柳巷花街，披一片，掛一片，以瓢乞食者是麼？莫是寶華王座，萬指圍繞，嘴漉漉地說長道短者是麼？若恁麼摶量，老僧拄杖子未肯點頭在。」良久，云：「年窮時盡，且與你們商量。古人道：『欲識佛性義，當觀時節因緣。時節若至，其理自彰。』若喚作時節會，則辜負老僧拄杖子；若不喚作時節會，又埋沒諸人自己。大眾！且道如何是其理自彰底句？」卓拄杖云：「一聲爆竹度殘年，幾點梅花放春谷。」元旦示眾，師云：「古人道：『今日新年頭，昨日舊年尾。識得本來人，無憂亦無喜。』且道既是本來人，要識得作麼？諸人試道看。」眾無語。師自代云：「眉橫鼻豎。」示眾，舉",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: at the year's end, after the fourfold questioning of what the matter is not, cites the ancients' paired line and warns that to take it as a season-meeting betrays the old monk's staff, while not to take it so buries the hearers' own selves, then demands the sentence in which the truth shows itself and stamps the staff, one firecracker sound seeing the old year over and a few plum blossoms opening in the spring valley."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0678a06",
+          "ToLb": "0678a19",
+          "Kwic": "地獄道？』直饒答得分明，更向它道：『禍不入慎家之門。』若答不得，卻有一偈為作解嘲：『六年冷坐太無端，剛睹明星被眼謾，大底入山無合殺，捏成話杷與人傳。』然雖如是，正法難扶、邪法靈驗，普請大眾同上大雄寶殿，諷經上供，非圖報德酬恩，就地揚它醜拙。」晚參。「天寒人寒，一點不相謾；滴水滴凍，到底全無用。有者便道：『時節若至，其理自彰。』似者般底漢，速向荒郊送。君不見？老丹霞燒木佛，院主鬚眉盡落脫。此事從來今古傳，試問諸人瞥不瞥？若得瞥，洞山好佛已舒光；若未瞥，一班木佛留與丹霞燒火熱。」晚參。「昔有一童子求人學識字，人告之曰：『一字是一畫，二字是二畫，三字是三畫。』童子遂向人前誇識字。後遇一人問之曰：『萬字如何寫？』童子遂欲畫一萬。大",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: at evening instruction in the freezing weather turns the line on the mouthers, that those who simply say when the season arrives the truth shows itself belong sent quick to the open outskirts, for old Danxia burned the wooden buddha and the prior's beard and brows all fell off, a thing handed down from past to present, so catch it in a glance, and Dongshan's good buddha has already spread its light, or the wooden buddhas stay behind for Danxia's fire."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0583a13",
+          "ToLb": "0583a26",
+          "Kwic": "覆著。」師云：「三峰有眼不曾見。」進云：「果然蓋色騎聲，超佛越祖。」師云：「失口道著。」乃云：「大道無拘，觸處成現，一塵一剎一如來，一葉一花一世界，盡謂諸佛眾生一有多種，誰識聖人凡夫二無兩般？明之者，鎔瓶盂釵釧為一金；證之者，攪酥酪醍醐為一味。如水合水以無異，似空合空而不分。所以欲識佛性義，當觀時節因緣。時節若至，其理自彰。即今三春已過，九夏初臨，陰陰夏木全彰堅固法身，漠漠水田永續綿長慧命，亙古今了無變異，窮天地毫沒遮攔。且道如此提唱，是佛法商量？是世諦流布？」驀喝一喝，云：「須識壺中日月長。」謝聖恩老和尚齋，上堂。舉：「昔演祖偈云：『山前一片閒田地，叉手叮嚀問祖翁，幾度賣來還自買，為憐松竹引清風。』沒量大人被片閒田地使得",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: teaching that the great way unbound shows at every touch, one dust one world and one leaf one flower one universe, that the clearer melts pot and bowl, ring and bracelet into one gold and the attainer stirs curds, butter and ghee into one taste, water joining water without difference and space joining space without seam, sets the paired line and reads the season from it, three springs past and the ninth summer just begun, the shading summer trees fully showing the durable dharma-body and the dim water-fields forever extending the long life of wisdom."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0078c29",
+          "ToLb": "0079a11",
+          "Kwic": "代五家沿流至今也要扶持那一半。殊不知，那一半人人本具、個個不無，為甚麼不知？不道你不知，只是你不會。即今天華會上，若聖、若凡，若男、若女，若貴、若賤，若長、若幼。」遂舉拂曰：「還知麼？既知，為甚麼問著那一半便忙然不會？莫道你不會，即三世諸佛也料理不下。故古德也只好旁通一線，道：『欲識佛性義，當觀時節因緣。時節若至，其理自彰。』大眾且道：如何是自彰的理？眾中有倜儻者出來商量看。」僧問：「如何是不識的意旨？」師曰：「恐汝不能皆隨我道。」進曰：「不識意旨蒙師指，滿口道廓然無聖意如何？」師曰：「九月莫道春風多。」進曰：「恁麼則人天皆仰，四眾咸尊去也。」師曰：「鈍漢。」問：「十方雲聚，克志無為，無為的句，乞師垂示。」師曰：「霜葉紅於二",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: at the flower-feast, holding that everyone bears the other half yet asks blankly when questioned on it, and that not even the three-times buddhas can manage it, grants the old worth one side-line only, the paired line itself, and then demands of the assembly what the self-showing truth is, calling for one free spirit to come out and weigh it."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1412.xml",
+        "J/J26/J26nB185.xml",
+        "J/J26/J26nB188.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB187.xml",
+        "J/J40/J40nB494.xml",
+        "J/J27/J27nB190.xml"
+      ],
+      "RelatedMasters": [
+        "Gulin Qingmao",
+        "Fushi Tongxian",
+        "Ruibai Mingxue",
+        "Tianyin Yuanxiu",
+        "Tian'an Sheng",
+        "Yushan Shangsi",
+        "Shiyu Mingfang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The promise masters lean on at furnace-openings and year-ends, that the truth needs no pushing, only the season's arrival. Gulin Qingmao opens the winter furnace with the line and lets it stand alone, the sun not waiting for fire to be hot, the moon not waiting for wind to be cool, the world a fathom wide and the old mirror a fathom wide and the furnace a fathom wide, buddha big and mud many, the boat high and the water risen, Fushi Tongxian, asked how one who sat through seven broken cushions without seeing the matter could suddenly awaken at one roll of the curtain, answers with the line and verses that having lost the very man between sitting and lying, seven cushions broken still benighted, had the curtain not rolled at the season's arrival the truth could never have shown itself, Ruibai Mingxue, in his appeal to a patron for a ruined mountain, ranges the old cases, the frog-croak hearers and the osmanthus pointers, the loyal prince who served the state teacher and built twenty-seven temples, all season-and-cause, the thousand acres granted and the ten-thousand monks fed and the six hundred cells built like a heaven-palace, season-and-cause, and the day the fields fell to the mighty and the cells turned to rubble, season-and-cause too, and Tianyin Yuanxiu at the year's end warns that to take it as a season-meeting betrays the old monk's staff and not to take it so buries the hearers' own selves, then stamps the staff, one firecracker sound seeing the old year over and a few plum blossoms opening in the spring valley. Tian'an Sheng at evening instruction turns the line on the mouthers, that those who simply say when the season arrives the truth shows itself belong sent quick to the open outskirts, for old Danxia burned the wooden buddha and the prior's beard and brows all fell off, the thing handed down from past to present, so catch it in a glance or the wooden buddhas stay for Danxia's fire, Yushan Shangsi holds that the great way unbound shows at every touch, one dust one world, one leaf one flower one universe, melting pot and bowl, ring and bracelet into one gold, stirring curds, butter and ghee into one taste, and so with three springs past and the ninth summer just begun, the shading summer trees fully show the durable dharma-body and the dim water-fields forever extend the long life of wisdom, unchanging past ancient and present and hedged by no fence to the world's end, and Shiyu Mingfang at the flower-feast, holding that everyone bears the other half yet asks blankly when questioned, with even the three-times buddhas unable to manage it, grants the old worth one side-line only, the paired line itself, then demands of the assembly what the self-showing truth is and calls for one free spirit to come out and weigh it."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "Id": "t_7b259c466126",
+  "SourceTerm": "不可思議",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "beyond the reach of thinking",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "inconceivable",
+        "beyond thought's measure"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 584 hits in 153 files. Guide depth floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0423a01",
+          "ToLb": "0423a16",
+          "Kwic": "。若一日。若一夜。中間。所得功德無量無邊。不可言說。不可思量。若假使十方三世一切諸佛。十方三世一切諸菩薩。以十方世界微塵數舌。各各皆悉於十方世界微塵數之量。不可說劫。讚揚其人所有功德。亦不能盡。所以者何。法身真如之功德。等虛空界。無邊際故。何況凡夫二乘之人。能稱歎之。一日一夜不多。中間受持人。尚所得功德不可思議。何況若二日。若三日。若四日。乃至百日中。受持讀誦。思惟觀察。不可思議。不可說中不可說。故如論云。復次若人受持此論。觀察修行。若一日一夜。所有功德無量無邊。不可得說。假令十方諸佛。各於無量無邊阿僧祇劫。歎其功德。亦不能盡。何以故。謂法性功德。無有盡故。此人功德。亦復如是。無有邊際。故知信此心宗。成摩訶衍。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: states that one day and night of upholding the treatise yields merit past all weighing, then quotes the treatise's own words."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0792a02",
+          "ToLb": "0792a16",
+          "Kwic": "漢便煩惱五祖和尚道喚作菩薩便歡喜喚作魍魎便煩惱却將菩薩魍魎合作一句喚作菩魍薩魎教你歡喜也歡喜不得煩惱也煩惱不得又道諸佛菩薩畜生驢馬庭前栢樹子麻三斤乾屎橛你是一枚無狀村夫若向這裏透得汝即諸祖諸祖即汝也不干妙喜事我若鼓這兩片皮搖三寸舌說到盡未來際鈎鎻連環相續不斷何故佛說一大藏教皆稱眾生根器所宜都無實義我既證此不可思議之法坐底不可思議立底亦不可思議說底亦不可思議得底亦不可思議不可思議底亦不可思議上來講讚無限勝因蝦䗫跳上梵天蚯蚓驀過東海一切智智清淨無二無二分無別無斷故以拂子擊禪牀一下云有箇頌子舉似大眾軍中有箇菩薩子號曰妙圓張祖燈七月十四始生日揮金辨供結良因不飡酒肉取歡樂欲報劬勞養育恩自念無始曠大劫漂流生死至如今諸根所作不",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: spreads the marker across the dharma he attests and across sitting, standing, and speaking."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0658c11",
+          "ToLb": "0658c24",
+          "Kwic": "，性空寂滅無所作。譬如幻師知幻法，能現種種無量事，須臾示作日月歲，城邑豐饒大安樂。住！住！只如今日眾檀設齋，將甚酬謝？財、法二施等無差別，檀波羅蜜具足圓滿。」請上堂。「南贍部洲持缽，北鬱單越應供，千峰頂上打眠，大洋海底濯足。若識此人，管教有漏而成無漏、凡心而為聖心，改禾莖為粟柄、易短壽作長年。所以道：性海不可思議、法海不可思議、智海不可思議、福海不可思議、解脫海不可思議、三昧海不可思議、色相海不可思議、道湯海不可思議，乃至算數譬喻亦不可思議。雖然，此猶是依報莊嚴邊事，作麼生迥超一句？」揮拂，云：「龜毛影裏風光異，兔角杖頭日月長。」天界覺浪和尚訃至，上堂。舉訃示眾云：「者老漢生平以三寸舌縱橫舒卷，凡聖佛祖、宣尼達磨、",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: piles the marker across eight seas of the teaching, then lifts one line past them all."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0230a17",
+          "ToLb": "0230b03",
+          "Kwic": "解，與人終不言是佛是祖。禪者各各起箇妄念是佛是祖，是經是論，鴉鳴鵲噪雞啼犬吠，此等在那裏發出，與三藏十二部有什麼差別？自是學者于淨白受用處自家點汙，作知解，作凡聖，作一切能所見解。即今聽我所說，各各放下，就此舉一念，看最初一念，念起念滅，若起滅無念，這一念即法身，第二念即報身，第三念即化身。如不思議念，即不可思議佛。如是佛剎境界，無一塵不備、無一念不圓，念念是佛剎微塵、念念是佛剎微塵三昧，理無礙，事無礙，理事無礙，事事無礙。學者舉心動念，不作佛見、不作法見、不作知見見、不作見知見見，饑來喫飯，困來打眠，都不理論，即此無一念處，豈不與虛空等量？祖師西來，不立文字，如來始終，未嘗說一字。古人說：不是心，不是佛，不是物",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: names the very thought that does not weigh the inconceivable buddha in direct instruction to trainees."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0123a02",
+          "ToLb": "0123a16",
+          "Kwic": "繞，未審一耶？一切耶？師云：普。進云：一寸筆頭三尺劒，盡是安󳬛定國人。師云：更不忉忉。僧禮拜，師乃云：孤迥迥，峭巍巍，聖賢罔措；活滾滾，明落落，周帀無餘。有世界以光明為佛事、有世界以莊嚴為佛事、有世界以香飯為佛事、有世界以音聲為佛事、有世界以寂默為佛事，且道報恩這裏以何為佛事？以不可思議為佛事，所謂諸佛出現不可思議、眾生業果不可思議、世界成壞不可思議，此不可思議亦不可思議，是故一為無量、無量為一，大中現小、小中現大，於一毫端現寶王剎、坐微塵裏轉大法輪，畢竟承誰恩力？喝一喝，復舉：南堂靜和尚云：君王了了，將帥惺惺，一回得勝，六國平寧。師云：雖然如是，堯舜之君猶有化在。大勛不豎賞一句作麼生？秋風吹渭水，落葉滿長安。當",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: makes the marker his temple's own Buddha-work, then folds the marker back on itself."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0598a10",
+          "ToLb": "0598a25",
+          "Kwic": "萬法惟識，使瘖復語、瞽重明、病得瘥、瞶者聽，此是諸佛諸祖塵點劫來應時施設土苴緒餘耳。祇如秉拂上座又如何話會？」卓拄杖，云：「孤根自有天然秀，不假陽和分外奇。」眾檀送抱拙大師靈骨入山，請秉拂。「遠客歸故鄉，相逢話更長，恐人聽不見，特舉向當陽。」以拂子畫○相，云：「諸昆仲見麼？適來抱大師向大圓鏡中入無量無邊不可思議禪定，一一定中發無量無邊不可思議智慧，一一慧中放無量無邊不可思議光明，一一光中現無量無邊不可思議國土，一一國中興無量無邊不可思議蓮舟，一一舟中載無量無邊不可思議諸佛，一一諸佛演無量無邊不可思議玅法，復領無量無邊不可思議微塵數世界，若聖若凡、若冤若親，乃至一切山川草木、瓦礫荊棘、水陸空行、情與無情，異口同音",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: chains the marker through samadhi, wisdom, light, lands, boats, and buddhas while sending off a master's ashes."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0643a11",
+          "ToLb": "0643b06",
+          "Kwic": "過人間。竪起拂子，云：無量壽世尊即今在山僧拂子頭上放大寶光，其光清淨，無壞無雜。三世諸佛於此光中成等正覺，轉大法輪；六代祖師於此光中直指單傳，聯芳續𦦨；天下老和尚於此光中各立化門，播揚大教；現前大眾於此光中各務本業，器量堪任；順寂、慧明、通濟、廣福、雲岡長老於此光中始自受生、出家、具戒，六十二年間成就勝業不可思議，所謂以精進攝懈怠，以持戒攝毀禁，以布施攝慳貪，以慈悲攝瞋恚，以禪定攝亂意，以般若攝愚癡，福資善慶，建立大乘，澤及榮枯，全章寶印。能事既畢，奄爾真歸，末後全提，甚生光彩，至竟不離此光而與山僧兩得相見；豈唯與山僧兩得相見，亦與現前大眾兩得相見；豈唯與現前大眾兩得相見，亦與諸山宿德、天下老和尚兩得相見；豈唯與",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: grades a dead elder's sixty-two years of practice past all weighing in a memorial address."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0892b18",
+          "ToLb": "0893a13",
+          "Kwic": "入此門，則見廣大樓閣，清淨道場。綿亘十方，彌綸八極。重重華藏，處處莊嚴。交光相羅，如寶絲網。不相障礙，無壞無離。而使人人除一切障，滅一切惑，及得一切諸總持門。於少時間，入無量劫不動本處。徧遊十方，得徧處定。殊勝境界，隨處現前。所見不忘，所思不亂。原其旨歸，皆由古佛今佛廣大願力之所攝持，不可思議。廣大願力既不可思議，則知佛之壽量亦不可思議。佛之壽量既不可思議，則知所化國土廣愽嚴淨亦不可思議。所化國土既不可思議，則金枝玉葉曄曄騰芳亦不可思議。然此不思議事，非口能宣，非言所及，則故是。只如涓此良辰，特標此額，千祥併集，萬善同歸一句作麼生道？但願春風齊著力，一時吹入我門來。出鄉歸，上堂。法無定相，遇緣即宗，竿木隨身，逢場",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: runs the marker from vow-power to lifespan to lands to the ruling house at a plaque-hanging."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0847b11",
+          "ToLb": "0848a07",
+          "Kwic": "、昆虫草木，但是有形有像、有色有聲者，皆謂之法。以萬事言之，則諸人從生至老，日用之中所作所為，或善或惡，亦皆謂之法也。何者謂之心？心在諸人分上喚作自己，又喚作主人公。十二時受他主使，一切處聽他差排。頂天立地也是他，負海擎山也是他，使汝開口動舌也是他，使汝舉足動步也是他。此心㝡廣㝡微，㝡靈㝡妙，千變萬化，不可思議。遠則充塞天地，近則常在目前。爭奈視之不見，聽之不聞，著意求之，轉求轉遠。顏子有云：仰之彌高，鑽之彌堅，瞻之在前，忽焉在後。也是者箇道理。當其一念未生之際，一真無妄之時，皎皎然如古鏡之光明，無染無汙，昭昭然如止水之澄湛，不動不搖，胡來胡現，漢來漢現，照天照地，鑑古鑑今，無一絲毫隱蔽，無一絲毫障礙，者箇是諸",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment: fixes the marker on the mind itself in its thousand changes at a repentance seat."
+        },
+        {
+          "RelPath": "X/X72/X72n1442.xml",
+          "FromLb": "0027b10",
+          "ToLb": "0028a05",
+          "Kwic": "宗，而子宗之，何切切耶？余答曰：先師不宗二論而不悖二論，是善宗二論者也。今人不見二論而妄逞胸臆，其猶舍繩墨而裁曲直，拋權衡而定重輕，非愚即狂矣。余為此懼，故特為拈出以告。夫真心學般若者，余豈是古而非今哉？葢以聖心釋聖言，有終不容棄者耳。問者唯而退，因併紀之，以誌一時緣起云。金剛演古序金剛演古序原夫般若功德不可思議者，由其照破世出世間諸相，洞見性源故也。眾生隨順無明，長居此岸，流轉生死。菩薩隨順般若，立登彼岸，高證涅槃。葢般若者，度苦海之慈航，破長夜之明炬，諸佛所師，諸天敬奉，可不信哉。世尊二十年中，為諸弟子廣談般若，搜窮二我，直徹三空，微細淘汰。其大般若經凡六百卷，四處一十六會。金剛般若當第二處，第九會，第五百七",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1442.xml). Drafts from Chan Master Weilin’s Traveling Hermitage. Weilin Daopei owns the retained deployment: opens his commentary preface by grounding the prajna merit in the marker."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "M/M59/M59n1540.xml",
+        "J/J36/J36nB359.xml",
+        "J/J25/J25nB163.xml",
+        "X/X71/X71n1420.xml",
+        "J/J37/J37nB392.xml",
+        "X/X71/X71n1414.xml",
+        "X/X70/X70n1382.xml",
+        "X/X70/X70n1403.xml",
+        "X/X72/X72n1442.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Dahui Zonggao",
+        "Baiyu Jingsi",
+        "Guting Shanjian",
+        "Chushi Fanqi",
+        "Hansong Zhicao",
+        "Liao'an Qingyu",
+        "Wuzhun Shifan",
+        "Tianru Weize",
+        "Weilin Daopei"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Thinking and measuring stop here, and the retained turns use that stop. Yongming Yanshou states that one day and night of upholding the treatise yields merit past all weighing before quoting the treatise's own words, Dahui Zonggao spreads the marker across his dharma and across sitting, standing, and speaking, Baiyu Jingsi piles it across eight seas of the teaching and then lifts one line past them all, and Guting Shanjian names the very thought that does not weigh the inconceivable buddha. Chushi Fanqi makes the marker his temple's own Buddha-work and then folds the marker back on itself, Hansong Zhicao chains it through samadhi, wisdom, light, lands, boats, and buddhas while sending off a master's ashes, Liao'an Qingyu grades a dead elder's sixty-two years of practice past all weighing in a memorial address, Wuzhun Shifan runs it from vow-power to lifespan to lands at a plaque-hanging, Tianru Weize fixes it on the mind itself in its thousand changes, and Weilin Daopei opens his commentary preface by grounding the prajna merit in the marker."
+    }
+  ]
+}

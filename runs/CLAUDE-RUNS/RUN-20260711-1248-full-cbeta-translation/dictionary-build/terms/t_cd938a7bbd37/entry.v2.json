@@ -1,0 +1,191 @@
+{
+  "Id": "t_cd938a7bbd37",
+  "SourceTerm": "十萬八千",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a hundred and eight thousand",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "a vast count of leagues",
+        "the whole far distance"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 239 hits in 123 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0728c12",
+          "ToLb": "0729a06",
+          "Kwic": "問忽然卜著時如何師云伏惟。師云大用現前不存軌則僧便問如何是大用現前師乃拈拄杖高聲唱云釋迦老子來也有時以拄杖打火鑪一下大眾眼目定動師乃云火鑪㪍跳上三十三天見麼見麼眾無語師云無智人前莫說打你頭破百裂。師云看看法身變作燈籠超佛越祖之談從你󷗿跟下過也僧云󷗿跟下認得時如何師云鈍置殺我僧云與麼則逈然不在者裏也師云十萬八千。舉槃山語云光境俱忘復是何物師云直饒與麼道猶在半途未是透脫一路僧便問如何是透脫一路師云天台華頂趙州石橋。舉仰山云如來禪即許師兄會僧便問如何是如來禪師云上大人又拈起扇子云我喚作扇子你喚作什麼僧無語師云扇子上說法燈籠裏藏身作麼生僧𨚫問如何是和尚禪師叱云元來秖在者裏。舉雪峰喚僧近前來僧近前峰云去師舉了問僧",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment: runs his room-instruction series, the dharma-body turning into a lantern, talks that surpass buddha and transcend patriarchs passing under the heels, and when the monk asks what if one recognizes it right there, answers dull-me-to-death, and when the monk says then it is utterly not here, answers with the number alone, a hundred and eight thousand."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0197b10",
+          "ToLb": "0198a11",
+          "Kwic": "奪人師云打了不曾嗔冤家難解免問如何是人境兩俱奪師云萬人作一塚時人尽帶悲問如何是人境俱不奪師云問𠁅分明荅𠁅親。師出德山三轉語扵一句中各下三轉問如何是凾盖乹坤句師云大地雪漫漫又云普天匝地又云海底紅塵起如何是截断眾流句師云不通凡聖又云洎合放過又云橫身三界外問如何是随波逐浪句師云要道便道又云有問有荅又云此去西天十萬八千。師舉僧問禾山如何是道山云耕人田不種僧云如何是道中人山云禾熟不臨場因僧問師出語云耕人田不種意旨如何師云大勛不竪賞僧云禾熟不臨場意𣅀如何師云任從風雨爛。師出盤龍和尚問行者接待不易行者云開心椀子盛將來無縫合兒合將去師云撗檐拄杖登霄漢使煞農夫煑粥人。師出僧問如何是祖師西來意荅云風吹日𬉹師又云多年塵土無人拂一身常在",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment: in his phrase-series, sets three turns on each line of Deshan's three phrases, the dharma-body filling heaven and earth as great earth snow-bound and the red dust rising from the sea-floor, the stream-cutting sentence admitting neither commoner nor sage, and the wave-following sentence as say it when you will, where there is asking there is answering, and from here to the western heaven a hundred and eight thousand."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0847a02",
+          "ToLb": "0847a16",
+          "Kwic": "又云：五陰浮雲空去來，三毒水泡虗出沒。若如是者，是為度一切苦厄，乃至無量無邊煩惱知解悉皆清淨，是為清淨法身。若到這箇田地，便能出此入彼，捨身受身，地獄天堂，此界他方，縱橫自在，任意浮沉，應物舒光，隨機逗教，喚作千百億化身。與麼說話，可謂無夢說夢，和泥合水，撒屎撒尿，不識好惡。乃呵呵大笑，云：若向衲僧門下，十萬八千未夢見他汗臭氣在。雖然如是，事無一向，但以假名字引導於眾生。喝一喝。藥多病甚，網細魚稠。道吾打皷，四大部洲同參。拄杖橫也，挑括乾坤大地；鉢盂轉也，覆却恒沙世界。且問汝等諸人向甚麼處安身立命？若也知安身立命處，北俱盧洲喫粥喫飯；若也不知，長連牀上喫粥喫飯。卓拄杖。冬至，云：一冬復一冬，一日復一日，五湖參禪人",
+          "MasterName": "Shishuang Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Chuyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Shishuang Chuyuan owns the retained deployment: laughs aloud that talk of passing through hell and heaven as one pleases and shining light at beings being called the myriad-bodied transformation is dreamless dream-telling, mixing mud with water, pissing and shitting, not knowing good from bad, holding that at the patch-robed monk's gate you have not yet dreamed the sweat-smell of it, though things are never one-sided, and false names are only used to guide beings."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0926c09",
+          "ToLb": "0926c25",
+          "Kwic": "未得安閑。是靜勝工夫未得力也。若許久猶未得力。當求箇徑截得力處。方始不辜負平昔許多工夫也。平昔做靜勝工夫。只為要支遣箇鬧底。正鬧時却被鬧底聒擾自家方寸。却似平昔不曾做靜勝工夫一般耳。這箇道理。只為太近。遠不出自家眼睛裏。開眼便刺著。合眼處亦不缺少。開口便道著。合口處亦自現成。擬欲起心動念承當。渠早已蹉過十萬八千了也。直是無爾用心處。這箇最是省力。而今學此道者。多是要用力求。求之轉失。向之愈背。那堪墮在得失解路上。謂鬧處失者多。靜處失者少。左右在靜勝處。住了二十餘年。試將些子得力底來看則箇。若將樁樁地底。做靜中得力處。何故却向鬧處失却。而今要得省力靜鬧一如。但只透取趙州無字。忽然透得。方知靜鬧兩不相妨。亦不著用",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: writes to a correspondent twenty years settled in stillness-practice that the trouble is being disturbed by noise exactly as if no work had ever been done, yet this matter is only too near, it never leaves the space of one's own eyes, pricking at open eye and present at closed eye, and the moment a thought is roused to undertake it, it has already sneezed past a hundred and eight thousand, so there is nowhere to use the mind, and the way to save strength is to see through Zhaozhou's word No."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0833b01",
+          "ToLb": "0833b19",
+          "Kwic": "。而欲心外別求。故斥之為小見。當知此心本具。說箇疾得成菩提已成剩語。何遲速之有耶。闢曰。然則即今喚甚麼作佛。如指點不出。病在於何。偈曰。天豈容伊坐井窺盡其見量緫成疑󷘓身跳出虛空外剔起眉毛已是遲執之失度必入邪路山無重數。水無重數。善財於彈指聲中見慈氏尊樓閣。又無重數。無位真人路見不平。以拄杖攔空一畫。十萬八千一齊捏聚。却回首高聲唱言。芳草萋萋鸚鵡洲。晴川歷歷漢陽樹。何以如此。豈不見祖師道。執之失度必入邪路。近代有等據師位者。見人說看古人話做工夫孜孜不捨寸隂克究己事者。便遽引此二句。斥之謂之執之失度。乃云。佛法那有遮箇事。一切見成。何不領取。特地做死模樣作麼。闢曰。說得也是。但不究其源。殊不知祖師責其悟後之執",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: verses against those who scold the work on old sayings as clinging-that-misses-the-measure, pitting the man of no position who sees injustice on the road and draws one stroke across the empty sky with his staff, the hundred and eight thousand pinched together in one fist, then turning his head to sing loudly of fragrant grass thick on Parrot Isle and sunlit trees distinct at Hanyang."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0028a25",
+          "ToLb": "0028b08",
+          "Kwic": "雲雷，應龍何處潛深谷？不散傾湫倒嶽來。」以拂子擊香几，云：「大眾！盆傾來也，切須回避。」便下座。上堂。「依經解義，三世佛冤；離經一字，即仝魔說。此一段義，古今宗師不肯為人說破，所以使人行腳無有了日。如今不惜新暑，疏鈔一上，一則顯佛祖受用、一則報諸人殷勤。依經解義，水浸石頭。三世佛冤，苦死者裏。離經一字，十萬八千。即仝魔說，理無曲斷。兄弟家倘向者裏見得分明，要會當時臨濟大師在黃檗室中喫三頓棒底道理，有何難哉？」下座。喜雨，上堂。僧問：「即今興雲布雨，應龍玅用，如何是和尚玅用？」師云：「高高處看不出，低低處看不出。」進云：「古人肯諾不得全時如何？」師云：「金風不度龠，宮商和得齊。」乃云：「四大部洲無邊香海未曾旋乾倒坤",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: glosses the sutra-warning line by line for the assembly in the new summer heat, to read meaning through the sutra, water-soaked stone, to betray the buddhas of the three times, dying-bitter in here, to stray one word from the sutra, a hundred and eight thousand, the same as demon-talk, the principle allowing no crooked verdict, telling the brothers that seeing this clearly makes Linji's three staff-blows in Huangbo's room easy to grasp."
+        },
+        {
+          "RelPath": "L/L153/L153n1638.xml",
+          "FromLb": "0723a02",
+          "ToLb": "0723b05",
+          "Kwic": "夢寐之際將一箇乾矢橛牢牢捏定不得暫時放捨如雞抱卵如龍護珠日久歲深一朝曳斷命根摸着娘生鼻孔便見天地同根萬物一體了也叅。師登座云結制來十日了也十日內在此作麼生還有得些血氣者麼出來舉似老人為你證㨿眾無語良久云有時教你揚眉瞬目有時不教你揚眉瞬目有時教你揚眉瞬目者是有時教你揚眉瞬目者不是子作麼生會且教他去西天十萬八千里踏得脚板濶似鄱陽湖待草鞵繩斷漫漫與你說莫喫他家殘羹剩飯男兒丈夫漢自有驚天氣概何不會取定要依古人蔴三斤乾屎橛做甚麼雲門大師云扇子𨁝跳上三十三天築着帝釋鼻孔東海鯉魚打一棒雨似傾盆子又作麼生會到這所在如蚊子上鐵牛無你下嘴處而今時節衰落眾生福薄肯向這裏如生大病相似一時一刻過活不得逐日揩磨將去少有相應分即今",
+          "MasterName": "Xueqiao Yuanxin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xueqiao Yuanxin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6). Xueqiao Yuanxin owns the retained deployment: on the tenth day of the retreat, asks whether anyone with blood in them will come out and show the old man, and after silence, says sometimes he has them raise brows and blink and sometimes not, so how will you take it, teaching them to go to the western heaven's hundred and eight thousand li and tread the footboard wide as Lake Poyang, waiting for the straw-sandal cord to snap before he talks at length, telling them not to eat other houses' leftover broth and leavings, since a full-grown man has his own sky-startling spirit."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0284a06",
+          "ToLb": "0284a18",
+          "Kwic": "知是不是，是即也大奇。」上堂。僧問：「四大分張，計將安出？」師曰：「計將安出？」僧曰：「爭得不辜於己？」師曰：「岸谷無風，徒勞瞪目。」僧曰：「與麼即不勞究竟也。」師曰：「瞥地。」僧問：「如何是先佛本意？」師曰：「這裡即易。」僧曰：「在學人分上大難。」師曰：「如是用心，真實難得。」僧擬議，師喝出，乃曰：「鬥行則十萬八千也是輸，鬥坐則寸步不移也是輸。何況這裏那裡四大分張，尚圖別生計較，豈先佛世尊之本意？欲得不負先佛，不辜己靈，究竟非什難事？」喝一喝曰：「這裏瞥地，則岸谷無風，何勞瞪目？」上堂。大眾已集，師厲聲曰：「山僧今日大以為不然，此後更不得依諸方樣子施行。設法不嚴，道化日見凌替，罪歸阿誰？未若眾中得一人出來，真贗虛實",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: after the exchange on the four elements splitting apart, rules that in a walking contest a hundred and eight thousand is still a loss and in a sitting contest never moving an inch is still a loss, let alone where the four great elements split apart, still plotting fresh schemes, asking how that could be the first buddha's root intent, and that to not betray the first buddha nor one's own spirit is in the end no hard thing."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "D/D48/D48n8939.xml",
+        "X/X68/X68n1318.xml",
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml",
+        "J/J29/J29nB223.xml",
+        "L/L153/L153n1638.xml",
+        "J/J34/J34nB301.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Foyan Qingyuan",
+        "Shishuang Chuyuan",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Shanhui Huan",
+        "Xueqiao Yuanxin",
+        "Jiqi Hongchu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The round number Chan keeps for how far away it is, and the masters who spend it in four graphs. Yunmen Wenyan, asked what happens if one recognizes it right under the heels, answers dull-to-death-me, and when the monk says then it is utterly not here, answers with the number alone, a hundred and eight thousand, Foyan Qingyuan sets three turns on each of Deshan's three phrases, and to what is the wave-following-across-the-wave sentence answers say it when you will, and where there is asking there is answering, and from here to the western heaven a hundred and eight thousand, Shishuang Chuyuan laughs aloud at talk of pure dharma-bodies and myriad-transformed bodies as dreamless dream-telling and mud-mixing, holding that at the patch-robed monk's gate you have not yet dreamed the sweat-smell of it, and Dahui Zonggao writes to a correspondent twenty years in stillness that this matter is only too near, it does not leave the space of your own eyes, and the moment you rouse a thought to undertake it, it has already sneezed past a hundred and eight thousand. Zhongfeng Mingben verses the man of no position meeting injustice on the road, drawing one stroke across the empty sky with his staff, the hundred and eight thousand pinched together in one fist, then turning his head to sing loudly of fragrant grass on Parrot Isle and sunlit trees at Hanyang, Shanhui Huan glosses the sutra-warning line by line, to read meaning through the sutra, water-soaked stone, to betray the buddhas of the three times, dying-bitter in here, to stray one word from the sutra, a hundred and eight thousand, Xueqiao Yuanxin on the tenth day of the retreat tells theassembly he will teach them to walk to the western heaven's hundred and eight thousand li with a footboard wide as Lake Poyang, waiting for the straw-sandal cord to snap, telling them not to eat other houses' leftover broth, and Jiqi Hongchu rules that in a walking contest a hundred and eight thousand is still a loss and in a sitting contest never moving an inch is still a loss, let alone plotting fresh schemes where the four great elements split apart."
+    }
+  ]
+}

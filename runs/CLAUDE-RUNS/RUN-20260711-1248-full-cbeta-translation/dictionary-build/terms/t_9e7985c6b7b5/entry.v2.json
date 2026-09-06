@@ -1,0 +1,192 @@
+{
+  "Id": "t_9e7985c6b7b5",
+  "SourceTerm": "目顧四方",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:18:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "eyes sweeping the four quarters",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "glanced round the four quarters",
+        "eyes on all four sides",
+        "looked across the four directions"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 315 hits in 172 files representing 169 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0676a01",
+          "ToLb": "0676a08",
+          "Kwic": "更亂蹋步向前。實謂苦屈。諸禪德。看他先覺。未離兜率已降閻浮。未出母胎度人已訖。若言周行七步目顧四方天地之間唯我獨尊。尚有人不放伊過。如今巧說異端。不肯荷負。真可哀愍。所以道。天魔外道是辜恩德漢聲聞一乘是自欺誑人。爾見如此。不平之事便合憤悱驅將去喝將去。隨例道。我不知不會。者般底苦海裏。",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: tells the assembly to look at the first-awakened — not yet left Tusita, already descended; not yet out of the womb, the delivering of beings done — and even granted the seven steps and the eye-sweep, sole-honored between heaven and earth, still there are those who will not let him pass."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0007c27",
+          "ToLb": "0008a03",
+          "Kwic": "」僧頂鞋而出，師云：「大似西施戴箬帽。」師乃云：「今辰是我釋迦老人從摩耶夫人腹中走出，周行七步，目顧四方，一手指天，一手指地，云：『天上天下，惟吾獨尊。』起干戈時節也。後雲門老賊道：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』亦是勾賊破家，不免傍觀者哂。萬峰恁麼告報，未審眾中還有抱不平底麼？",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: has old Sakyamuni walk out of Lady Maya's womb — seven steps, eyes sweeping the four quarters, one finger up one down, sole-honored in heaven and on earth — calls it a season for raising arms, then brings in old thief Yunmen's blow."
+        },
+        {
+          "RelPath": "J/J36/J36nB357.xml",
+          "FromLb": "0584b08",
+          "ToLb": "0584b14",
+          "Kwic": "」下座。佛誕，興安州君然孟居士請上堂。舉：「釋迦初生，一手指天、一手指地，周行七步，目顧四方云：『天上天下，唯吾獨尊。』」師云：「世尊只知進前，不能顧後。」拈拄杖卓一下云：「雲門大師來也，道：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』老雲門恁麼道，美則美矣！善則未善，你諸人作麼生甄別？",
+          "MasterName": "Xiuye Minglin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xiuye Minglin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB357.xml). Recorded Sayings of Chan Master Xiuyelin. Xiuye Minglin owns the retained deployment: raises the birth tableau for a lay patron on the buddha's birthday and rules on it — the World-Honored only knew advancing, not looking back — then raps the staff once for Yunmen."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0495a07",
+          "ToLb": "0495b03",
+          "Kwic": "識神空主人公也不可得為末後無疑誰知數十年前盡被世尊痛阿明叱如斯學者可弗見不善如探湯猛看破浮幻身心向一念未生前當下證得廣大心體連證之一字亦不可得便識得一切佛祖廣大心體方可出生出死方可入死入生方可如釋迦老子於昔年今日纔生下地便現些小神通周行七步目顧四方一手指天一手指地云天上天下惟我獨尊方可如雲門大師順風吹火云我當時若見一棒打殺撩與狗子喫事是恁麼事人須恁麼人苟不如斯生死到來便驗真偽復舉古德云毫釐有差天地懸隔師驀豎如意召大眾云還會麼良久擲如意云黃金自有黃金價終不和沙賣與人癸未誕日檀越請上堂師至座前滌凡劉居士同凉禪等呈祖衣師云兩年福薄勉為人糠麥為糜草作羹時節漸佳慚未輟此衣珍重至誠心便撘衣顧左右云先聖有言此衣表法舉衣云者個是衣喚什麼作法復舉衣云者個是法喚什麼作衣向者裏千眼",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: holds one must first widen to the buddha-ancestors' vast mind before one can live into that scene as Sakyamuni did with his small powers on display — and then to do as Yunmen did, strike him dead and feed him to the dog for the world's peace."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0726a08",
+          "ToLb": "0726b10",
+          "Kwic": "誣謗先宗感果如是。休將閑學解埋沒祖師心。頌古頌古世尊初生。無明滿肚惡纏身纔出娘胎軟廝禁目顧四方周七步不知脚下水泥深文殊答菴摩羅女其力未充將軍有令下重圍八戶風高馬不嘶兩眼忽開天地闊太平無象到今時女子出定花落銀牀春爛熳月沉金帳夜迢遙虛堂寂寞無人共只把檀香盡意燒外道問佛有六通如何是那一通醉乘白鶴登銀闕夢跨青鸞入絳宮酒醒眼開俱不見一川桃李自春風即心是佛硬似純鋼爛似泥甜如崖蜜毒如砒渾侖吞又渾侖吐賺殺江西馬簸箕非心非佛大地眾生成正覺百千諸佛陷泥犁休將此話頻頻舉却恐閻家老子知南泉住菴被人打破碗鑊一把黃金鈍钁頭引他白日鬼來偷",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: verses the ancient scene — ignorance filling the belly and evil wrapped round the body, barely out of the womb held in soft restraint, eyes sweeping the four quarters and seven steps round, not knowing how deep the mud and water underfoot."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0235b20",
+          "ToLb": "0235b26",
+          "Kwic": "相知不用多杯酒，一盞清茶也醉人。」下座。上堂。問：「天上天下，唯我獨尊即不問。目顧四方，周行七步，請師說破。」師云：「流露半邊鼻孔。」進云：「相逢盡說相知話，誰人心與佛心同？」師云：「切忌再昂藏。」問：「㘞地一聲則不問，未出母胎時如何？」師云：「壁立萬仞。」進云：「出胎後如何？",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: is asked straight at the hall — sole-honored set aside, explain the eye-sweep and the seven steps — and answers that the nostril is half exposed, then trades traveler's talk with the questioner."
+        },
+        {
+          "RelPath": "D/D51/D51n8948.xml",
+          "FromLb": "0018b05",
+          "ToLb": "0019a10",
+          "Kwic": "佛涅槃上堂黃靣瞿曇無端出頭𨶒浮大藏小藏橫說豎說分三乗列五教許多閑言長語誑謼閭𨶒不少臨入涅槃好沒合殺却道吾住世四十九年未曾說一字大眾會麼覆水難𠬧。浴佛上堂舉世尊初降生一手指天一手指地周行七步目顧四方曰天上天下唯我獨尊後來雲門大師云吾當時若見一棒打殺與狗子喫却貴圖天下太平師云韶陽老漢徒勞動干戈雲巖則不然當初若見只與摩頂曰佳作仁可知禮也何故養子不及父家門一世衰。解制上堂記得太宋佛󵖌師翁舉岳林振禪師示眾云布袋口開莫有買賣底麼時有僧出云有振云不作貴不作賤作麼生買僧無語振云老僧失利佛󵖌拈云岳林設者問頭恰似從容閑假及乎被者僧道箇有便見荒亂七手八脚一時俱露徑山今日布袋口開有買賣底麼異獸藏頭角靈禽惜羽毛師云佛󵖌師翁是則是爭奈利",
+          "MasterName": "Koho Kennichi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Koho Kennichi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D51/D51n8948.xml). Recorded Sayings of Chan Master Foguo. Koho Kennichi owns the retained deployment: at the bath-buddha hall raises the newborn's scene with Yunmen's blow-and-feed-the-dog line, then rules the Shaoyang old man toiled in vain over spilt water that cannot be gathered."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0533b12",
+          "ToLb": "0533b18",
+          "Kwic": "然則官不容鍼，私通車馬，也要赴箇時節。」卓拄杖一下，云：「二千年前，釋迦老子一手指天、一手指地，周行七步，目顧四方，云：『天上天下，惟吾獨尊。』於四月八日降生淨飯王家，也不出者箇時節。」又卓一下，云：「四十六年前，達公司馬於三月七日誕生，也不出者箇時節。」復卓一下，云：「四生十類，情與無情一齊成等正覺，也不出者箇時節。",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment: raps the staff and sets it two thousand years on — the old man's one finger up one down, seven steps, eyes sweeping, born into Suddhodana's house on the fourth of the fourth — and even that does not step outside this very season."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "J/J26/J26nB177.xml",
+        "J/J36/J36nB357.xml",
+        "B/B27/B27n0152.xml",
+        "B/B25/B25n0145.xml",
+        "J/J27/J27nB193.xml",
+        "D/D51/D51n8948.xml",
+        "J/J37/J37nB390.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Poshan Haiming",
+        "Xiuye Minglin",
+        "Yulin Tongxiu",
+        "Zhongfeng Mingben",
+        "Yinyuan Longqi",
+        "Koho Kennichi",
+        "Chulin Shangrui"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "One beat of the newborn buddha's tableau — eyes sweeping the four quarters between the seven steps and the one finger to heaven — raised on the birthday not to honor it but to price it: Yunmen's blow waits at the end of nearly every telling. The raised tableau and its price: Poshan Haiming has old Sakyamuni walk out of Lady Maya's womb — seven steps, the eye-sweep, one finger up one down, sole-honored in heaven and on earth — and calls it a season for raising arms, before old thief Yunmen's blow; Yulin Tongxiu holds one must first have the buddha-ancestors' vast mind to live into that scene as Sakyamuni did, and only then to do as Yunmen did — strike him dead and feed him to the dog for the sake of peace under heaven; Koho Kennichi raises the same scene at the bath-buddha hall with Yunmen's line, ruling the Shaoyang old man toiled in vain; Chulin Shangrui sets it two thousand years on — born into Suddhodana's house on the fourth of the fourth, and even that does not step outside this very season. The verdicts on the sweep itself: Xuedou Chongxian tells the assembly to look at the first-awakened — not yet left Tusita, already descended; not yet out of the womb, the delivering of beings done — and even if you say seven steps and the eye-sweep, sole-honored between heaven and earth, still there are those who will not let him pass; Xiuye Minglin raises the scene and rules the World-Honored only knew advancing, not looking back; Zhongfeng Mingben verses it — ignorance filling the belly and evil wrapped round the body, barely out of the womb held in soft restraint, eyes sweeping the four quarters and seven steps round, not knowing how deep the mud and water underfoot; Yinyuan Longqi is asked straight — sole-honored set aside, explain the eye-sweep and the seven steps — and answers with the nostril half exposed."
+    }
+  ]
+}

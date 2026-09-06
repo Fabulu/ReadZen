@@ -1,0 +1,232 @@
+{
+  "Id": "t_d3be7a130305",
+  "SourceTerm": "大千沙界",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-05T23:55:23Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great chiliocosm",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the great world of sands",
+        "the myriad-world cosmos",
+        "the thousand-million-world system"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 471 hits in 188 files representing 186 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0515b21",
+          "ToLb": "0515b28",
+          "Kwic": "」復偈云：「堂堂已具丈夫相，就裏還教識得渠，今日分明親指示，不須回顧更躊躕。」卓拄杖下座。四月八上堂，師云：「大千沙界，百億須彌，不動步而到，且道是甚麼人行履處？諸人還知麼？」問答不錄。師乃云：「自從放出拿雲手，隨波逐浪四十九，只為普利於群迷，月印千江隨人走。年年有箇四月八，人人盡稱生悉達，雲門跛腳老阿師，一棒拈來要打殺。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: opens the Buddha's birthday address with the billion Sumerus of the chiliocosm reached without taking a step, asking whose walking-ground that is."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0715c09",
+          "ToLb": "0715c16",
+          "Kwic": "一句透千句百句一時透。拈起也乾坤岌崿。放下也河海晏清。不拈不放又作麼生。萬仞峯頭高著眼。大千沙界一浮漚。遂舉。法燈云。山僧本欲深棲巖竇隱遁過時。蓋緣清涼老人有未了底公案。出來為諸人了却。時有僧問。如何是未了公案。法燈便打云。祖禰不了殃及兒孫。僧云。過在什麼處。法燈云。過在儞殃及我。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: gives the scale its own verse: eye high on the ten-thousand-fathom peak, the great chiliocosm one floating bubble."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0237a16",
+          "ToLb": "0237a23",
+          "Kwic": "佛法無多子，久長難得人，經行及坐臥，嘗在於其中。更無第二人，亦無第二法。為甚麼不會？大千沙界海中漚，一切聖賢如電拂。先知箇甚麼？衲僧行履，霜天皎月，獨露丹心，雪嶺孤松，全彰妙體。正眼看來，猶滯半途。且道如何是歸家一句？」良久云：「真不會時無不會，果先知處有何知？」下座。上堂。",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: cites Yongjia's line that the chiliocosm is a bubble on the sea and every sage a flash of lightning, then asks what there is to first know."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0331c09",
+          "ToLb": "0331c15",
+          "Kwic": "」進云：「如何是第二要？」師云：「百萬軍中聽令號。」進云：「如何是第三要？」師云：「大千沙界一輪照。」進云：「請師盡底掀翻，直指向上一著。」師便打，乃云：「至玄至妙，至難指蹤，電光弗及，石火罔通，回頭轉腦，別是家風，一念知非，耳熱面紅，是甚業畜，為萬物宗？」遂舉拄杖云：「天上有星皆拱北，人間無水弗朝東。",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained deployment: answers the ask for the third of the three essentials with one wheel lighting the whole chiliocosm, striking the monk who then asks for the single upward step to be overturned."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0939b13",
+          "ToLb": "0939b20",
+          "Kwic": "應機設化，猶四序之生成。領悟各殊，其源皆一。」驀拈拄杖示眾，云：「信得及麼？老僧者莖拄杖能覆大千沙界，能持百億須彌。呵呵！尺鷃只知笑大鵬，井蛙那肯信滄海？」下座。上堂。師云：「佛法充洽，由誰可得？孝帝曾得燒香禮拜，金人獲於甘泉浮圖齋，自漢時楚王尚得披服受持。摩騰蘭乃中國沙門之始，直指傳係華夏祖道之初，直至斯時，謦欬而成妙旨，跌蹼以為神通。",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment: lifts the staff and shows the assembly that this one stem can cover the chiliocosm and hold up the billion Sumerus, laughing that the quail only mocks the great roc and the well-frog will not credit the sea."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0173a24",
+          "ToLb": "0173b01",
+          "Kwic": "」乃豎拂子，云：「國祥山下清溪水，流入龍池聲一泒。」復喝一喝。解制，上堂。「湛寂虛玄，蟭螟眼裏橫安大千沙界；廓爾無跡，蚊蠓睫上倒卓百億須彌。一毫穿眾穴，以無餘剎海入微塵而不礙。隨緣不變，刀斧斫不開；不變隨緣，冰生於滴水。以此安居結夏，露柱燈籠咸成正覺；如此禁足護生，蝦蟆蚯蚓悉證圓通。便乃高超十地，不歷僧袛，物我一如，身心平等。",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yun'e Xi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment: closes the retreat with the chiliocosm laid athwart a minnow's eye and the billion Sumerus inverted on the mosquito's lash, one hair threading the many holes."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0800b17",
+          "ToLb": "0801a12",
+          "Kwic": "玄象下列冥庭元氣含於大象大象隱於無形為識物之靈靈中有神神中有身無為變化各稟乎自然你看這座主若見不透如何說得出來窮得諸佛菩薩骨髓現前雖然說得如此依舊只在世尊淨淨潔潔處坐地須一時掃却了方始得法自在方可說不著佛求不著法求不著眾求方可說亦無人亦無佛大千沙界海中漚一切聖賢如電拂方始說得這箇話這一件事你禪和家須是打疊心意識教空勞勞地空來空去空亦不可得到恁麼時便好放身捨命如何見得便是適來僧問乾峯示眾云舉一不得舉二放過一著落在第二你道這箇是怎生古人提起千聖頂𩕳上一著露出一絲毫頭只要人見得當時雲門會得這箇道理便出眾云昨日有人從天台來却往徑山去峯云今日不得普請舊時叢林中日日普請不似今時禪和家十指不沾水百事不干懷著好衣服要受人天供養不生慚愧舊時無這般衲子每人有一柄畬刀一柄鋤頭謂之一",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: rules that only after sweeping every clean seat and ceasing to seek in Buddha, teaching, or community can one say Yongjia's bubble-and-lightning line."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0712a10",
+          "ToLb": "0712a16",
+          "Kwic": "誰為叅禪行脚及了悟者。緫是夢言皆名剩語。由是永嘉謂。了了見無一物。亦無人亦無佛。大千沙界海中漚。一切聖賢如電拂。審如是能與五百年外老永嘉同時。如是了了見得一回。則永嘉說底即我所說。永嘉見底即我所見。永嘉證底即我所證。是謂前無釋迦後無彌勒者也。然後亦無如是說者。亦無如是見者。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: cites Yongjia's line as the test of standing with him five hundred years on, so that what Yongjia said is what the speaker says."
+        },
+        {
+          "RelPath": "J/J38/J38nB427.xml",
+          "FromLb": "0869b26",
+          "ToLb": "0869c03",
+          "Kwic": "若約臨濟兒孫，一味單刀直入，不參隔夜禪、不食隔宿飯，逢佛遇魔，一刀兩斷，大有逕庭，不近人情，以大千沙界作游戲之場，百千萬年視如一日，佛及眾生一體同觀，到者裏略有少分相應。秖如轉天關、迴地軸，何似生一陽復，至節到來，日長一線，佛法長多少？」良久，自代云：「唵嘛呢吽。」元旦，上堂。「昨宵曾送舊，今日又迎新，三陽擎泰運，二氣抱芳辰。",
+          "MasterName": "Zhulang Chesheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhulang Chesheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB427.xml). Recorded Sayings of Chan Master Zhulangsheng of Qingcheng. Zhulang Chesheng owns the retained deployment: takes the chiliocosm as the field of play with a hundred thousand years as one day, one blade cutting through whatever Buddha or demon meets him."
+        },
+        {
+          "RelPath": "J/J39/J39nB449.xml",
+          "FromLb": "0461c08",
+          "ToLb": "0461c16",
+          "Kwic": "「諸方十五結制，鳳山結制念三，不是強列行市，亦非曲調新翻，要逼衲僧別立生涯，獨奮雙拳無例可攀。若是遼天俊鶻，便解擊節衝關，大千沙界絕羅籠，越格風流豈等閒？眾中莫有透關者麼？」良久，云：「直下既無通透路，剋期須辦死心參。」因事示眾。「者條棒，絕疏親，赤條條，亙古今，佛來打，祖來打，透出寒光赤灑灑，有時縱，有時奪，倒用橫拈活潑潑，驀然敲出虛空髓，木人背上流鮮血，可憐撞著刻舟人，受了多少不平。",
+          "MasterName": "Zuliang Chaoqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zuliang Chaoqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB449.xml). Recorded Sayings of Chan Master Zuliangqi. Zuliang Chaoqi owns the retained deployment: rules in verse that no net can hold the chiliocosm and asks whether anyone in the assembly will get through the gate."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB171.xml",
+        "T/T47/T47n1997.xml",
+        "J/J27/J27nB193.xml",
+        "J/J32/J32nB276.xml",
+        "J/J39/J39nB471.xml",
+        "J/J28/J28nB203.xml",
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml",
+        "J/J38/J38nB427.xml",
+        "J/J39/J39nB449.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Yuanwu Keqin",
+        "Yinyuan Longqi",
+        "Buhui Fatong",
+        "Konggu Daocheng",
+        "Yun'e Xi",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Zhulang Chesheng",
+        "Zuliang Chaoqi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The widest scale the records command: the whole world-system of the great chiliocosm, set up only to be carried, lit, covered, shrunk, or played in by a single staff, wheel, eye, or step. The oldest hinge is Yongjia's line that the great chiliocosm is a bubble on the sea and every sage a flash of lightning: Dahui Zonggao prices the right to speak it at sweeping every clean seat and ceasing to seek in Buddha, teaching, or community; Zhongfeng Mingben reads it as the test of standing in Yongjia's own time five hundred years on; Yinyuan Longqi asks what there is to first know once the bubble and the lightning have passed; Yuanwu Keqin gives the scale his own verse, one floating bubble where the eye stands high on the ten-thousand-fathom peak. The scale also works at full size: Tianyin Yuanxiu opens a Buddha's birthday address with the billion Sumerus of the chiliocosm reached without moving a step; Buhui Fatong answers the third of the three essentials with one wheel lighting the whole of it; Konggu Daocheng lifts his staff to cover it and hold the billion Sumerus up; Yun'e Xi lays it athwart a minnow's eye and stands the Sumerus inverted on a mosquito's lash at the closing of the retreat; Zhulang Chesheng takes it as the field of play with a hundred thousand years as one day; Zuliang Chaoqi rules that no net can hold it and calls for the one who will break through."
+    }
+  ]
+}

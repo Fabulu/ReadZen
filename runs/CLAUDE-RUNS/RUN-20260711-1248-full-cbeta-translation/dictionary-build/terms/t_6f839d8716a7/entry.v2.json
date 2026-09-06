@@ -1,0 +1,231 @@
+{
+  "Id": "t_6f839d8716a7",
+  "SourceTerm": "還委悉麼",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-05T23:46:03Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "do you fully take it in?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "do you fully understand it?",
+        "have you fully taken it in?",
+        "do you know it completely?"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 1263 hits in 204 files representing 201 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0714c15",
+          "ToLb": "0714c22",
+          "Kwic": "則孤負諸聖。一向拕泥涉水灰頭土面。則埋沒自己。如今恁麼也得。不恁麼也得。且貴正眼流通。還委悉麼。直饒高步毘盧頂。不稟釋迦文。婢視聲聞。奴呼菩薩底來。也須亡鋒結舌。自餘故是出頭不得。所以道。三世諸佛只言自知。歷代祖師全提不起。一大藏教詮註不及。明眼衲僧自救不了。若據本分草料。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: closes a hall address ruling that proceeding either way still serves the true eye's circulation, then caps the question with a verse that leaves even crown-striding arrivals wordless."
+        },
+        {
+          "RelPath": "J/J39/J39nB447.xml",
+          "FromLb": "0377b28",
+          "ToLb": "0377c06",
+          "Kwic": "從上諸聖莫不以此時節成就，如來以此時節拈花漏逗，達磨以此時節航海東傳，神光以此時節安心少室，大鑒以此時節受衣黃梅。從上諸聖既如是成就，今日山僧亦如是說法。」以拂子擊香案，云：「還委悉麼？若委悉得，喚作佛性義也可，不喚作佛性義也可；喚作時節因緣也可，不喚作時節因緣也可；其或未然，放過不可。」上堂。問：「如何是無欠無餘的？」師云：「眼橫鼻直。」進云：「如何是非同非別的？",
+          "MasterName": "Meixi Fudu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Meixi Fudu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB447.xml). Recorded Sayings of Chan Master Meixi Du of Dongshan. Meixi Fudu owns the retained deployment: strikes the incense table with the whisk and asks the question, then rules that what is fully taken in may be called Buddha-nature or not, a seasonal cause or not, either way."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0003c19",
+          "ToLb": "0003c27",
+          "Kwic": "「欲薦生身父母，須尋本有爺娘，頂𩕳豁開正眼，腳頭腳底全彰，枯骨多年一齊鞭起，覺靈不昧度以慈航，直教箇箇達上方，珊瑚樹語頻伽鳥，欄楯交羅放異光。所以道：剎那契本，三有均資，一念知歸，四恩總報。是汝今日還委悉麼？潑天大路如絃直，努力勤行尚未遲。」上堂。僧問：「如何是蓮峰境？」師云：「門映東溪水。」「如何是境中人？」師云：「扶笻看落花。」進云：「人境且置，達磨西來意若何？」師豎拂，云：「向這裏薦取。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: closes an inaugural hall address asking whether one moment of knowing return repays the four debts of this very day, then gives the straight-road verse."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0339a04",
+          "ToLb": "0339a10",
+          "Kwic": "灼然千尋止水，龍畏難蟠；萬載喬松，鶴迷幽夢。所以道：珠光月魄不是出頭時，此間無老僧，五路頭無闍黎。還委悉麼？月中仙桂和根拔，海底泥牛把角牽。」雲外和尚塔院上梁，示眾。「插茅成梵剎，至人能事之秕糠；築室守先塋，前哲苦心之極致。然而頭頭應用無差，法法施為有自，但得超情離見，不妨規步矩行。恁麼見得徹，豈止煙嵐起色、泉石增光？",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment: caps a pronouncement that here there is no old master and at the five roads no acolyte, closing with the moon-cassia and mud-ox verse."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0818b08",
+          "ToLb": "0818b15",
+          "Kwic": "昔日雖生本不曾生。今日雖滅本不曾滅。既不生又不滅。更喚甚麼作圓明妙性。真妄名相何處安著。還委悉麼。騰身一擲太虛外。鼻孔依前搭上唇。下座。上堂。佛真法身猶若虛空。以拂子擊禪床一下云。應物現形如水中月。復舉起云。釋迦老子來也。還見麼。若道不見。有眼如盲。若道見。且道。在拂子內拂子外拂子中。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: follows a ruling that nothing was ever born or destroyed and no name or mark can seat true and false with the question, a leap-beyond-the-void verse, and descent from the seat."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0793a03",
+          "ToLb": "0793a18",
+          "Kwic": "樹倒藤枯處著到亦不向有句無句處挅根敢問大眾既不向樹倒藤枯處著到又不向有句無句處挅根畢竟那箇是當人安身立命處若也直下知歸三世諸佛諸大祖師天下老和尚同一眼見同一耳聞同一鼻齅同一舌嘗同一身觸同一意思或若塞却眼耳鼻舌身意滅却色聲香味觸法又作麼生商量還委悉麼有句無句如藤倚樹以拂子擊禪牀一下。復云今日伏承子由宣教得得自龍川來為總轄公作大佛事請妙喜老漢普說用資冥福若非宿有種性見得親信得及焉能如是此事信與不信皆由天資信者教伊不信不得不信者教伊信不得如隋末唐初有兩箇強漢一人信佛一人不信佛不信者姓傅名奕信者姓蕭名瑀乃梁武帝之後傅奕在唐高祖朝作太史令嘗上疏請除佛法曰佛在西域言妖路遠漢譯胡書恣其假託使不忠不孝削髮而揖君親游手游食易服以逃租稅偽啟三塗謬張六道恐惕愚夫詐欺庸品乃追懺既往之",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: asks it inside a general discourse after asking what remains to discuss once the six senses are sealed, joining it to the having-a-line, lacking-a-line pair before striking the seat with the whisk."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0003b26",
+          "ToLb": "0003c11",
+          "Kwic": "然居士本意惟求壽命比南山、福德如東海，不若將此馳求之心用在生死際頭，求得生死二字脫然無累，方知壽命福德盡未來際不曾增、盡未來際不曾減，盡未來際不曾生、盡未來際不曾滅，淨裸裸絕承當，赤灑灑無回互。」驀拈拄杖，卓一卓，云：「還委悉麼？體取本來堅密身，永證金剛無量壽。」上堂，師云：「昨日盆傾大雨，今朝杲日麗天，帶累人衣乍乾乍溼，哄得艸鞋增價增錢。忽地乾坤一色，宇宙同源，為復是佛祖誕生？為復是神僊脫陰？問取拄杖子，拄杖子道：『是我敬雲施居士八十老母高陞壽域，所以有如是無量無邊不可說不可說華藏莊嚴海，一一流出無量無邊不可說不可說福德智慧門，一一含容無量無邊不可說不可說壽命聚，一一聚中或現大身、或現小身，或現男形、或現女形，凡有所為悉皆現之。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: suddenly lifts the staff, strikes it once, and asks the question over a never-born, never-destroyed pronouncement, closing with a verse on taking up the originally solid body."
+        },
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0098a24",
+          "ToLb": "0098a30",
+          "Kwic": "拈粒米，藏大千世界。直須橫該豎抹，那容播兩掂觔？因齋慶贊，偶爾成文；竿頭隨身，逢場作戲。諸人還委悉麼？其或不然，今日諸沙彌求進具戒，巨上座請山僧陞座，少間登壇說戒之後，各各須要持缽過堂。」喝一喝，下座。小參。僧問：「若能轉物，即同如來。如何是轉底道理？」師拈拄杖，云：「不可喚作拄杖。",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenfeng Xian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained deployment: asks it of the assembly on an ordination day after ruling the day's writing a passing show, then turns to the novices' precept business should the answer be no."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0004c02",
+          "ToLb": "0004c10",
+          "Kwic": "又不知未作意時，分明覿體現前，纔擬心來乞，說時腳跟下已蹉過了，直饒恁麼見得、領略得，已是言中取則、句裡承當，落在第二句了也。所謂承言者喪、滯句者迷，且作麼生是不承言、不滯句者？還委悉麼？不知誰是個中人，獨自出頭天外舉。」喝一喝，下座。上堂，舉：「汝州西院思明禪師因天平從漪禪師行腳時到參次，乃云：『莫道會佛法，覓個舉話底人也無。』一日，漪在法堂前徐步經行，院見乃召云：『從漪。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: follows the warning that holding words loses them with the question, then the lone-one-beyond-the-sky verse, a shout, and descent from the seat."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0005c27",
+          "ToLb": "0006a06",
+          "Kwic": "所以道。當明中有暗。勿以暗相遇。當暗中有明。勿以明相覩。明暗各相對。比如前後步。還委悉麼。枯龜背上古爻象。艮位依俙變動文。謝都監寺上堂云。衲僧祇麼是家風。隱顯磨礱入混融。師子返擲全歸父。羚羊掛角不同功。所以道。動若行雲。止猶谷神。即用而常寂。居晦而彌明。還會麼。果滿菩提圓。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: sets the question after inherited lines on light within dark and dark within light, closing with the dry-tortoise-back verse on shifting marks in the still position."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "J/J39/J39nB447.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB386.xml",
+        "T/T47/T47n1998A.xml",
+        "M/M59/M59n1540.xml",
+        "J/J26/J26nB177.xml",
+        "J/J34/J34nB298.xml",
+        "J/J10/J10nA158.xml",
+        "T/T48/T48n2001.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Meixi Fudu",
+        "Baichi Xingyuan",
+        "Yuan'an Liao",
+        "Dahui Zonggao",
+        "Poshan Haiming",
+        "Shenfeng Xian",
+        "Miyun Yuanwu",
+        "Hongzhi Zhengjue"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A closing question that turns a finished statement back on the assembly, demanding to know whether what was just given has been fully taken in. Song-era hall records set the hinge: Yuanwu Keqin closes a ruling that proceeding either way still serves the true eye with the question and a verse that leaves crown-striding arrivals wordless; Dahui Zonggao follows his nothing-was-ever-born ruling with the question, a leap-beyond-the-void verse, and descent from the seat, and in a general discourse asks it once the six senses are sealed, before striking the seat with his whisk; Hongzhi Zhengjue sets it after inherited lines on light within dark and dark within light. Later hall records keep the same closing hinge: Meixi Fudu strikes the incense table with the whisk and only then asks, ruling that what is fully taken in may be called Buddha-nature or not; Baichi Xingyuan ends an inaugural hall address on it; Yuan'an Liao caps a no-master-here, no-acolyte pronouncement with it; Poshan Haiming lifts the staff, strikes once, and asks over a never-born, never-destroyed pronouncement; Shenfeng Xian asks it of the assembly on an ordination day before turning to the ceremony's business; Miyun Yuanwu follows the question with a shout and leaves the seat."
+    }
+  ]
+}

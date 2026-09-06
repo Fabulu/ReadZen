@@ -1,0 +1,232 @@
+{
+  "Id": "t_9e86b07e5ae6",
+  "SourceTerm": "若論此事",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-05T23:51:15Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "as for this matter",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "if you speak of this matter",
+        "when it comes to this matter",
+        "to take up this matter"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 708 hits in 202 files representing 197 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0519b16",
+          "ToLb": "0519b22",
+          "Kwic": "所以道『賓則始終賓，主則始終主』。雖然如是，殺人刀、活人劍。」晚參，師拈拄杖云：「若論此事，久參達士未舉先知，晚學初機應當努力。不見趙州和尚道：『我在南方三十年，除二時粥飯是我雜用心處。』諸人作麼生得不雜用心？昔日有一僧問龍牙：『十二時中如何用力？』牙云：『如無手人行拳。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: raises the matter at an evening assembly with the staff in hand, ruling that seasoned adepts know it before it is raised while newer arrivals must strive, then cites Zhaozhou's thirty years in the south besides two meals."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0331b07",
+          "ToLb": "0331b14",
+          "Kwic": "象龍所至，深淵峻石俱靈。然雖如是，欲明石裏無瑕玉，須薦生前不老人。」卓拄杖，下座。晚參。「若論此事，譬如野火燒山一般，星星之火順風一吹，縱使萬壑千峰、枯枝腐草，一時鞠為灰燼。且道：燒盡後如何？青山依舊白雲中。」上元，留兩序兼薦玉菴承公，上堂。「燈月交輝，未為真照；主賓互換，方見作家。",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: opens an evening assembly with the wildfire image: one wind-blown spark and a thousand peaks of dry wood and rotten grass burn to ash at once."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0625a12",
+          "ToLb": "0625a22",
+          "Kwic": "又有般漢，聞山僧恁麼道，便向白鶴江頭死堆堆的坐著，那見青龍者裏浮圖錯落、紺宇玲瓏，九峰拱翠、三泖環碧，綠野橋畔常露格外風光、杏花村中別有一般春色，雕欄璇璣、堂奧之事？大眾！要會堂奧中事麼？梅花雖有先春意，且待寒崖臘後看。」雲板至，上堂。「若論此事，如半臞禪德募鑄雲板相似，務要匠手精敏、模範端正，向大冶爐中化其渣滓、鎔其鈍頑，煆煉得乾乾淨淨，一點夾雜也無，一火鑄成方為大器。懸於青龍香積梁上，使見者聳觀、聞者駭異，大地俱震、二聽莫分，直教人人證耳根圓通、箇箇獲現前三昧。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: opens the address greeting a newly cast cloud plate with the casting itself: the craftsman's hand exact, the mold true, dross melted in the great furnace."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0526b06",
+          "ToLb": "0526b12",
+          "Kwic": "可惜當初放過伊，恨不劈頭與一踏。」驀高聲召眾云：「瞌睡漢休眼眵𥉌，若要報德酬恩，無過先解此法。」陞座。「若論此事，如人上樹，口啣樹枝，一句絕思量，手不攀枝、腳不踏枝，諸法不相借。忽有人問祖師西來意，不荅則違他所問，投明須到；荅他則喪身失命，不許夜行。諸仁者！香嚴老人三百六十骨節、八萬四千毛竅盡被山僧華擘了也，還有為古人出氣者麼？",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: opens a raised seat with the man up the tree, mouth holding the branch, no hand to climb and no foot to stand, one phrase beyond reckoning."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0002c24",
+          "ToLb": "0003a02",
+          "Kwic": "』此四句內亦有一句能縱、能奪、能殺、能活，簡點得出者來方丈通個消息。」下座。上堂。「若論此事，畢竟直不藏曲。諺云不曲，咸謂面赤不如語直。禹門看來即也不然，若據不曲，語直不如面赤。」良久，召眾云：「還會麼？不見道：『心不負人，面無慚色。』」遂湧身震威一喝，下座。上堂，舉：「盤山和尚示眾云：『心月孤圓，光吞萬象，光非炤境、境亦非存，光境俱忘，復是何物？",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: opens a hall address ruling the matter straight without concealment, then turns the proverb that plain speech beats a red face into its opposite."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0155b02",
+          "ToLb": "0155b09",
+          "Kwic": "自然不招地獄果。爾若不造天堂因。自然不受天堂果。一切業緣。皆是自作自受。古人分明向爾道。若論此事。不在言句上。若在言句上。三乘十二分教。豈是無言句。更何用祖師西來。前頭道對一說。這裏却道倒一說。只爭一字。為什麼却有千差萬別。且道。聱訛在什麼處。所以道。法隨法行。法幢隨處建立。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: rules in his case commentary that this matter does not live in word and phrase, else the canon would have sufficed and the First Patriarch's crossing would have been needless."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0219b27",
+          "ToLb": "0219c05",
+          "Kwic": "何故？籬頭落底千千藥，不是神農人不知。」以拄杖卓一卓，喝一喝。駐防眾護法請上堂。「若論此事，如大將出師，紀律嚴明，行伍有序，擊首則尾應，擊尾則首應，擊腹心則首尾俱應。所以，有時把住，水泄不通，神鬼莫測；有時放行，天魔膽落，外道歸降。若是李靖三兄久經行陣的，不妨向者裏奪角衝關，斬將搴旗，掀倒禪床，喝散大眾，亦未為分外。",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: opens an address to the garrison patrons with the image of a great general taking the field, ranks in order, strike the head and the tail answers."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0633a07",
+          "ToLb": "0633a15",
+          "Kwic": "」松禮拜退，師乃云：「機前薦得猶涉纖廉，槌下承當翻成鈍置，何況機鋒相扣、棒喝交馳，喚作激揚直指，轉見迂曲？今則按下雲頭、拗曲作直，為諸仁者婆舌一上。若論此事，如積樹成林、積日成歲、積善成功、積功成德，德積以成道、道積以成無為，無為而無不為耳。既不住無為、不盡有為，以大心為功德海、以智慧為般若舟，自他利濟並登覺岸，正眼觀來猶在半途。正當恁麼時，如何是不離堂奧隨緣應現一句？",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: opens his instruction with the piled-up chain, trees into forest, days into years, good into success, merit into virtue, till doing-by-not-doing."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0751a22",
+          "ToLb": "0751b02",
+          "Kwic": "此一瓣香，全越威音那畔，獨超今世門頭，不須雨露滋培，寧受雲霞覆育，信手拈來，端為供養顯聖堂上傳達磨正宗第四十一世湛然大師大和尚，用酬法乳之恩。」遂斂衣就座。參頭白槌云：「法筵龍象眾，當觀第一義。」師云：「若論此事，無人不具，無剎不彰，圓陀陀包括虛空，活潑潑遍呈萬象，露裸裸全無滲漏，赤條條永絕周遮，左右逢源，隨流得妙。」遂豎拂云：「會麼？於此會得，一雙孤鹿奔山頭。於此不會，獨隻雙鸞棲海底。」乃舉：「昔日法燈禪師云：『山僧本欲潛棲巖壑，養拙過時，柰緣先師有未了公案，今日出來，特為了卻。",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ruibai Mingxue",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: answers the opening gavel of his inaugural seat with it, ruling that no one lacks it and no land fails to show it, round to include the void, lively across the ten thousand forms."
+        },
+        {
+          "RelPath": "X/X70/X70n1401.xml",
+          "FromLb": "0705b01",
+          "ToLb": "0705b07",
+          "Kwic": "正恁麼時，猶是眼中著屑。大眾且道，如何是到家底句？泥牛喫鐵棒，金剛迸出血。若論此事，如大火聚，烈𦦨亘天，曾無少間。世間所有之物，悉皆投至。猶如片雪，點著便消，爭容毫末。若能恁麼提持，剋日之功，萬不失一。儻不然者，縱經塵劫，徒受勞矣。海底泥牛㘅月走，巖前石虎抱兒眠。",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1401.xml). Chan Essentials of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment: opens with the image of a great fire-mass whose blaze leaves no gap, where every thing in the world melts like a snowflake the instant it touches."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB171.xml",
+        "J/J28/J28nB208.xml",
+        "J/J36/J36nB359.xml",
+        "J/J40/J40nB494.xml",
+        "J/J10/J10nA158.xml",
+        "T/T48/T48n2003.xml",
+        "J/J37/J37nB383.xml",
+        "J/J38/J38nB425.xml",
+        "J/J26/J26nB188.xml",
+        "X/X70/X70n1401.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Guxue Zhenzhe",
+        "Baiyu Jingsi",
+        "Yushan Shangsi",
+        "Miyun Yuanwu",
+        "Yuanwu Keqin",
+        "Hanxiu Ruqian",
+        "Jifei Ruyi",
+        "Ruibai Mingxue",
+        "Gaofeng Yuanmiao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A discourse opener that raises the one matter at stake and hands it straight to a concrete image: a fire-mass, a boat poling upstream, a man up a tree, a general taking the field. Song and Yuan openers set the shape: Yuanwu Keqin rules in his case commentary that this matter does not live in word and phrase, or the whole canon would have sufficed and the First Patriarch's crossing would have been needless; Gaofeng Yuanmiao opens with the image of a great fire-mass whose blaze leaves no gap, where everything in the world melts like a snowflake on contact; Tianyin Yuanxiu raises it at an evening assembly with his staff in hand, ruling that seasoned adepts know it before it is raised while newer arrivals must still strive. Later records keep the opening hinge and keep feeding it images: Guxue Zhenzhe likens it at an evening assembly to a wildfire on the mountains that one wind-blown spark reduces to ash across a thousand peaks; Baiyu Jingsi opens the address greeting a newly cast cloud plate with the casting itself, dross melted away in the great furnace; Yushan Shangsi opens a raised seat with the man up the tree, mouth holding the branch, no hand to climb and no foot to stand; Miyun Yuanwu rules it straight without bending and turns the proverb that plain speech beats a red face into its opposite; Hanxiu Ruqian opens an address to the garrison patrons with a great general taking the field, strike the head and the tail answers; Jifei Ruyi opens with the piled-up chain, trees into forest, days into years, good into success, merit into virtue, until doing-by-not-doing; Ruibai Mingxue answers the opening gavel of his inaugural seat with it: no one lacks it, no land fails to show it."
+    }
+  ]
+}

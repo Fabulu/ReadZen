@@ -1,0 +1,194 @@
+{
+  "Id": "t_b2ebbfc277e3",
+  "SourceTerm": "去此二途",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:46:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "past these two ways",
+      "AlternateTargets": [
+        "beyond both courses"
+      ],
+      "SearchAliases": [
+        "leaving both tracks",
+        "off the two paths",
+        "away from either course"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 294 hits in 134 files representing 130 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1350.xml",
+          "FromLb": "0282c17",
+          "ToLb": "0282c23",
+          "Kwic": "上堂：祖師門下絕人行，深險過於萬丈坑。垂手不能空費力，任他堂上綠苔生。上堂：若說佛法供養大眾，未免眉鬚墮落；若說世法供養大眾，入地獄如箭。去此二途，當說什麼？三寸舌頭無用處，一雙空手不成拳。上堂，拈杖喝云：謾區區，休碌碌，無相光明常滿目，短棹孤舟歸去來，五湖四海煙波足。擲拄杖下座。",
+          "MasterName": "Baoning Renyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baoning Renyong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1350.xml). Recorded Sayings of Chan Master Baoning Renyong. Baoning Renyong owns the retained deployment, barring both feeding the crowd by the teaching and feeding it by the world's way, his three-inch tongue useless and his empty hands no fist."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0764a07",
+          "ToLb": "0764a12",
+          "Kwic": "小參云。截斷千差路。坐却是非頭。報化不容身。語默絕消息。正當恁麼時。若有祖師西來意。正是撒土撒沙。若無西來意。大似對面相謾。去此二途。須知他家有出身底路。大眾。灼然不是目前事。亦非目前機。有一句子。千聖覷他不見。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment, barring both having the founding teacher's intent, which is flinging dirt and sand, and lacking it, which is deceiving to the face, then pointing to the escape road past both."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0219b03",
+          "ToLb": "0219b07",
+          "Kwic": "散藏經，上堂。依經解義，三世佛冤；離經一字，還同魔說。去此二途，有箇商量處。舉拂子，云：看，看！有情之本，依智海以還源；含識之流，總法身而為體。處處全彰寶印，頭頭普現威權，明明生佛以前，一一風行草偃，金波自涌，性海無虧，佛日高懸，義天長朗。",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, voicing the pressed pair himself, explaining by the book wrongs the sages of the three ages and leaving the book by one word matches the devil's telling, then answering past both by lifting the whisk."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0248c12",
+          "ToLb": "0249a06",
+          "Kwic": "拽石，以至張弓持杈，語默呵叱，作多種神變。蓋諸祖婆心太切，故以真見真知，覿面當機交付學者，不許佇思，一肩擔荷。學者果見性于機緣動靜之外，了心于文字語默之前，方知諸祖盡力處，恩大難酬。其或不然，千劫萬劫。且若緣見知性，性無性所，因何立見？若緣性知見，見無見所，因何立性？若言不見，即同生盲；若言有見，是為他妄。去此二途，性何所知？這裏縱佛祖舒廣長舌、放大光明，確難下口。何故？以我知見而知見亦無，無亦無，亦無無矣。書書拜母拜母子出家，行腳，失孝養，背慈育，倏忽二十餘年，為罪多矣。雖然百年幻影，無過一期。苟奉如來教、登佛祖位、出生死輪，將無量劫來冤親平等，況父母邪？母既捨子為僧，依佛所言，出家功德莫可涯量",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment, barring both seeing and not-seeing in his own writing and asking what remains to be known."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0050b08",
+          "ToLb": "0050b21",
+          "Kwic": "惜這等俗漢未曾識野僧興味在。若識野僧興味底，不論冬凋夏長，自有靈山花可拈。那管缾罄囊空？自有曹山酒可喫。日暮啼鴉隨杖至，雨餘芳草任盤桓，大眾且道：他的是？山僧的是？」良久，云：「差之毫釐，隔以千里。」上堂。「獅子吼無畏說，百獸聞之皆腦裂。」喝一喝，云：「若喚作獅子吼，換汝眼中睛；不喚作獅子吼，禿汝口中舌。去此二途，如何甄別？」復喝云：「永嘉大師來也，向諸人道：『香象奔波失卻威，龍天寂聽生欣悅。』山僧驀拈拄杖便與趁出。何故？這裏著他不得。且畢竟作麼生？坐石數魚無意智，狂呼童稚捉楊花。」受超果請上堂。「準擬芳村水草齊，垂頭橫臥綠楊西，那知蹤跡難遮掩？又趁春風起耙犁。耙犁既起，萬苦千辛，帶水拖泥，衝煙冒雨。敢問：眾中莫有",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment, barring both calling the shout the lion's roar and refusing to, then ushering out the master who comes to gloss it."
+        },
+        {
+          "RelPath": "J/J29/J29nB233.xml",
+          "FromLb": "0331b28",
+          "ToLb": "0331c11",
+          "Kwic": "一句語中含日月，片言千古振宗風。」師云：「海晏河清。」僧云：「秪如結制開爐，煆煉聖凡，正令當行，千差坐斷。正恁麼時，設有不受煆煉者，和尚又作麼生？」師云：「有甚長處？試舉似看。」僧云：「今日不但人天讚仰，古佛到來也須作禮三拜。」師云：「三十年後有人笑汝在。」乃云：「結在解處，無繩自縛；解在結處，將錯就錯。去此二途，眉鬚墮落，這是叢林古例。金明今日隨例顛倒與諸人結卻去也，且道汝等向甚麼處出氣？」遂以拄杖卓一卓，云：「不是一番寒徹骨，爭得梅花噴鼻香？」下座。臘八日，宦陳上座設齋，請陞座。僧問：「今朝打失娘生鼻，帶累兒孫拖水泥即不問，未離兜率事如何？」師云：「大雪滿長安。」僧云：「恁麼橫身宇宙，到處稱尊。」師云：「泥豬",
+          "MasterName": "Jie'an Jin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jie'an Jin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB233.xml). Recorded Sayings of Chan Master Jie’an Jin. Jie'an Jin owns the retained deployment, barring both tying at the untying place and untying at the tying place, then binding them all under the old falling-eyebrows rule."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0337a26",
+          "ToLb": "0337b02",
+          "Kwic": "歲旦，小參。「年新、月新、日新、時新，三陽開泰，萬物咸新。」驀拈拄杖，云：「唯有山僧拄杖子，不屬陰陽與故新，有時卓在孤峰頂上，壁立萬仞；有時突出十字街頭，和光同塵。若向和光同塵處與拄杖子相見，大似浮雲遮日面；若向壁立萬仞處與拄杖子相見，未免重添眼裏釘。去此二途，畢竟向甚處與拄杖子相見？」卓一下，云：「還會麼？",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, barring both meeting the staff where it blends with the dust and meeting it where it walls ten thousand fathoms, and asking where after all one meets it."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0632c22",
+          "ToLb": "0633a06",
+          "Kwic": "正恁麼時，且道是阿誰分上事？○分明一樣窗前月，纔到梅花便不同。」上堂。「弁岳峰頭浪滔天，太湖波底大火發，烏鴉變作白鷺鷥，醯雞吞卻黃毛獺，碓觜笑咍咍，秤錘鬧聒聒，嚇得湖州城裏、十字街頭石敢當手之舞之、足之蹈之，云：『阿喇喇，阿喇喇。』」便下座。埭谿石缽大師請上堂。「目擊道存，猶為鈍置；指掌意喻，已涉廉纖。去此二途，還有相見者麼？」問：「師登猊座，法戰當陽，敵勝驚群，請師舉唱。」師云：「雨過青山翠，花開流水香。」進云：「庭前柏樹枝枝秀，續葉聯芳事若何？」師云：「水晶甕裏浸波斯。」進云：「覷破慈顏歸故里，兩株丹桂永昌昌。」師云：「閒言語。」乃云：「空裏掛擂鎚，眉端懸寶劍。其把斷也，海岳昏迷；其放開也，春光燦爛。敲唱雙",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, barring both meeting by a glance and pointing at the palm as figure, and asking who can meet past both."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1350.xml",
+        "T/T47/T47n1997.xml",
+        "X/X71/X71n1412.xml",
+        "J/J25/J25nB163.xml",
+        "J/J28/J28nB202.xml",
+        "J/J29/J29nB233.xml",
+        "J/J28/J28nB208.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Baoning Renyong",
+        "Yuanwu Keqin",
+        "Gulin Qingmao",
+        "Guting Shanjian",
+        "Baichi Xingyuan",
+        "Jie'an Jin",
+        "Guxue Zhenzhe",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed barring demand: past these two ways, both laid-out courses barred at once. Baoning Renyong bars both feeding the crowd by the teaching, which costs the eyebrows, and feeding it by the world's way, which shoots the speaker to hell like an arrow, finding his three-inch tongue useless and his pair of empty hands no fist, Yuanwu Keqin bars both having the founding teacher's intent, which is flinging dirt and sand, and lacking it, which is deceiving to the face, then points to the escape road his family owns past both, Gulin Qingmao voices the pressed pair himself at the canon-distribution seat, explaining by the book wrongs the sages of the three ages and leaving the book by one word matches the devil's telling, then answers past both by lifting the whisk for all to see, and Guting Shanjian bars both seeing and not-seeing in his own writing, asking what the nature can know once neither claim stands, since even a buddha's broad tongue finds no mouth here. Baichi Xingyuan bars both calling the shout the lion's roar, which would swap the eyes, and refusing to call it so, which would pluck the tongue, then ushers out the master who arrives to gloss it, Jie'an Jin bars both tying at the untying place, self-bound without a rope, and untying at the tying place, making the error worse, then follows the old rule with eyebrows falling and binds them all the same, Guxue Zhenzhe bars both meeting the staff where it blends with the dust, a cloud shading the sun's face, and meeting it where it walls ten thousand fathoms, a nail added to the eye, asking where after all one meets it, and Baiyu Jingsi bars both meeting by a glance, which still dulls, and pointing at the palm as figure, already thread-fine, asking who can meet past both."
+    }
+  ]
+}

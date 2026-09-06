@@ -1,0 +1,198 @@
+{
+  "Id": "t_fa19943ea8bf",
+  "SourceTerm": "和盤托出",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "served out on the whole tray",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "handed over bowl and all",
+        "the whole tray set out"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 193 hits in 108 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB479.xml",
+          "FromLb": "0118a11",
+          "ToLb": "0118a24",
+          "Kwic": "樞機，恭惟本省文武諸大護法，推願擁山河於百代，衛社稷於千秋，柱石宗門，金湯法化。此瓣香凌霜傲雪四十餘年，今日囊藏不住，只得和盤托出，此是第一回拈向爐中供養本堂御書樓傳臨濟正宗第三十三世上佛下冤本師老和尚，惟冀壽算彌堅，轉不生不滅法輪；德嶽崇高，現無去無來法身。」斂衣就座。上首拍椎竟，師以手作托盤勢，云：「和盤托出大家看，智鑑光寒不夜天，殊勝殿前雄一步，一生竟不受人瞞。眾中有不受人瞞者，試出相見。」乃云：「錦江波煖，喚回天地公心；雪嶺風清，吐出乾坤正氣。孤峰頂上，龍吟虎嘯；選佛堂中，鳳唱鸞吟。應老人命，不顧危亡，於斯開單展缽，建立天童宗旨，闡揚昭覺門庭。所以，法不孤起，仗境方生；道不虛行，遇緣即應。法隨法行，法幢隨處",
+          "MasterName": "Zhufeng Zhenxu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhufeng Zhenxu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB479.xml). Recorded Sayings of Chan Master Zhufengxu of Zhaojue. Zhufeng Zhenxu owns the retained deployment: says at the incense of his abbacy that this stick of incense has stood frost and snow for over forty years and today the bag cannot hide it, so he serves it out on the whole tray, the first time he lifts it into the burner for his teacher of the Linji line, then with his hand forms the tray and tells all to look at what is served out whole, the light of wisdom too cold for a night sky, one bold step before the hall of the excellent, a lifetime never taken in."
+        },
+        {
+          "RelPath": "J/J40/J40nB472.xml",
+          "FromLb": "0002a19",
+          "ToLb": "0002b01",
+          "Kwic": "有不顧危亡的衲僧出眾相見。」一僧纔出，師便喝。進云：「是甚境界？」師復喝，僧亦喝，師打；一僧纔出，師便打。進云：「棒下點開生死路，言中裂破祖師關。」師復打，乃云：「靈源獨耀，迥脫根塵，逼塞太虛，輝騰今古，遍大千皆一妙體，總剎海盡一真乘，情與無情同一寶覺。即今群賢降駕，山僧豈敢囊藏？盡將迦葉微笑的、達磨直指的和盤托出。」舉起拂子云：「會麼？於此會得，頂門正眼頓開，肘後玄符獨露，殺活擒縱，處處鋒鋩，把住放行，渾無滲漏。秪如到恁麼地，還有為人處也無？」擲下拄杖云：「死人遊活路。」維那白椎云：「諦觀法王法，法王法如是。」上堂。問：「快馬一鞭，快人一言，和尚今日陞座又作麼生？」師云：「瞎。」進云：「恁麼則人人鼻孔撩天去也。」",
+          "MasterName": "Dabo Qian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabo Qian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. Dabo Qian owns the retained deployment: asks how he could keep the sack shut with the assembled worthies come down to hear him, and serves out on the whole tray what Kasyapa smiled at and what Bodhidharma pointed straight, raising his whisk so that meeting it there opens the eye at the crown and lays bare the talisman behind the elbow, killing and living, seizing and loosing at every turn with no leak anywhere."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0232a26",
+          "ToLb": "0232b09",
+          "Kwic": "全體現。諸上座！且道即今是甚麼時節？正值五月五，山僧打退鼓，撞破勝負關，踏翻諸佛祖。」下座。彌陀會請上堂。師云：「一念不生，全體剖露；坐立儼然，不墮諸數。於此薦得，各各清淨，各各具足，各各現成，各各圓滿，曷用山僧簸個驢唇東語西話，成得甚麼邊事？雖然如是，權敘數言以慰來意。無位真人乾屎橛，蓮臺古佛爛冬瓜，和盤托出無人委，回首躊躇眼倍花。今日無端盡將西方此土殊相劣形束作一團，拋向諸人面前了也。汝等諸人還會麼？」良久云：「錯腳踏翻淨穢土，縱橫何處不風光？」下座。上堂。師舉：「傅大士云：『有物先天地』，眼花作麼？『無形本寂寥』」，舉拂云：「這箇是甚麼？『能為萬象主』，話作兩截。『不逐四時凋』，元來膽小。若論山僧見處。有物",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: at the Amitabha assembly he convenes verses the true man without rank and the dried shit-stick, the lotus-seat ancient buddha and the rotten winter melon, served out on the whole tray with no one who acknowledges them, looking back hesitant until the eyes double their flowers, then bundles the marks of the west and this soil into one ball and throws it before the assembly."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0051c29",
+          "ToLb": "0052a12",
+          "Kwic": "設，只要大家聲和響順，形直影端，鼓拍相從，法門久賴。會麼？謾道園林花已謝，隔簾尚有數枝紅。」復舉明招到招慶，有度上座，問云：「羅山尋常道諸方盡是󰉓飯，惟有羅山是白飯，上座從羅山來，卻展手云：『白飯請些子。』」招打兩掌，度云：「將謂是白飯，原來只是󰉓飯。」招云：「棒打不死漢。」師云：「可惜羅山好白飯，被明招和盤托出私作人情，究竟勞而無功。超果這裡白飯也有、󰉓飯也有，只是不許多喫。若多喫，則肚裡脹穿，眼睛突出，敢問諸人：還知落處也無？」連卓拄杖，下座。上堂。「種得多生般若根，根根不昧；能修今世人天福，福福全彰。扶護叢林，克興家業，四生九有，賴以提攜，鳳子麟孫，藉斯出現，如是因獲如是果，一回舉見一回新，此乃武原草臣錢老",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Mingzhao Deqian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: raises Mingzhao's white-rice exchange with the seat-crossing monk Du and rules it a pity that Luoshan's good white rice was served out on the whole tray by Mingzhao as a private favor, labor without merit in the end, while at his Chaoguo there is white rice and moldy rice both but eating much is not allowed, since much eating bursts the belly and pushes the eyes out."
+        },
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0459b17",
+          "ToLb": "0459c01",
+          "Kwic": "聳上三十三天、遊遍四天下，直得冰河發燄、鐵樹開花，驀於十字街頭撞著普化掣風掣顛，布袋長汀橫拖倒曳，一時荷負歸來，並作飯香佛事。因齋慶讚即且置，如何是者隊漢著力底句？塵中能作主，化外自來賓。」遠塵上座請上堂。「無賓主句火爐邊，文彩全彰不用宣，大藏五千詮不及，禪流安可妄流傳？把定封疆，將謂深固幽遠，無人能到，和盤托出，便見飯籮邊坐，餓殺者多。詎知舒卷自由，全心即佛；運心平等，全佛即人？」驀豎拂子，云：「向者裏知解稍存，飲水也須防噎。還委悉麼？陶潛不預東林社，今昔蓮宗枉挂名。」臘八，上堂。「睹星悟心，聖賢無兩心；得道失道，天下無二道。無二道，明相告，毘婆尸佛早留心，直至如今不得妙。」歲夜，小參。「一年今日盡是為歲窮，",
+          "MasterName": "Shending Yikui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shending Yikui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Shending Yikui owns the retained deployment: at the seat Yuanchen requests verses that the no-guest-no-host phrase sits by the fire, its pattern wholly shown with no word needed, the whole canon in five thousand scrolls no match for it, and that what was thought deep, hidden, and unreachable, once served out on the whole tray, shows everyone sitting by the rice basket starving to death, since rolling and furling free, the whole mind is buddha."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0742a11",
+          "ToLb": "0742b05",
+          "Kwic": "相涉入。內自見聞覺知。外及山河大地。皆鏡之影像耳。所以大般若中謂色不異空空不異色色即是空空即是色受想行識亦復如是。豈但五蘊是空。至于十八界十二緣四諦六度等。未有一法不與空相應者。然鏡中影像使不達法義者觀之。亦言是空耳。所以永嘉道。心鏡明鑑無礙。廓然瑩徹周沙界。萬象森羅影現中。一顆圓光非內外。永嘉到者裏已是和盤托出了也。當知廣大心體。離言說相離文字相。離凡聖相離修證相。圓裹十虛徧入三際。即生即滅之萬法。不礙無增無減之本源。即增即減之諸塵。不隔無滅無生之實際。萬機莫測千眼難窺。自非頓消情量脫落根塵者。不可與聞也。首楞嚴謂。空與色是色邊際。離與合是受邊際。記與忘是想邊際。生與滅是行邊際。湛合湛是識邊際。且道寶鏡還有邊",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: in his discourse on the treasure mirror teaches that Yongjia, at the one grain of round light neither inside nor out with the myriad images mirrored in it, had already served it out on the whole tray, and that the vast mind-body leaves the marks of words, writing, holy and profane, and practice-verdict behind, wrapping the ten voids and entering the three times."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0501b19",
+          "ToLb": "0502a17",
+          "Kwic": "色線師云恁麼的人來教他地下坐着進云打破十字關掃斷五色線師打云你替他各喫三十棒進云恁麼則說滿天下無口過行遍天下無蹤跡師云更要第二杓師廼云諸佛為一大事因緣出現於世法華會上說已說到一切眾生具有如來智慧德相但以妄想執着而不證得諸佛菩薩所示禮誦講演莊嚴供養音樂梵唄燃燈懸旛仁民澤物種種法門行俱行到常樂我淨涅槃會上和盤托出真如性海華藏玄門七處九會圓融極其圓融行布極其行布作殊勝中殊勝佛事於四十九日中令一切人一切時一切處悉見釋迦文佛王宮降生顯大威光現諸神變廣利眾生滿菩提願若僧若俗折旋俯仰動靜閒忙無一空過者且果滿功圓一句作麼生道一人有慶兆民賴之上首再白椎下座御建孝獻皇后陟天道塲請上堂師拈香云者一炷香從皇太后皇上至信至仁至慈",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: teaches the assembly that every gate the buddhas and bodhisattvas have shown, recitation and lecture, adornment and offering, music and chant, lamps and banners, kindness to people and care for things, was walked to its end, and at the assembly of the nirvana assembly served out on the whole tray the true-suchness ocean and the flower-treasury gate, fused to the utmost and differentiated to the utmost."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0588b17",
+          "ToLb": "0588b29",
+          "Kwic": "訝相逢未有期，須知無去無來者，千里何曾間一絲？大眾！既千里之遙，為何不間一絲？」豎拂，云：「會麼？定光金地遙招手，智者江陵暗點頭。」卓杖，下座。秀州棲真寺語錄秀州棲真寺語錄上堂。拈疏云：「好事不瞞人，對眾親拈出。」復呈云：「大眾會麼？恐有不會，再煩維那宣過。」指法座，云：「峭巍巍壁立萬仞，孤迥迥突露當陽，和盤托出無人會，曲彔重登再舉揚。」喝一喝便陞，拈香畢，維那白椎，云：「法筵龍象眾，當觀第一義。」乃云：「纔入西山又出山，天緣於此孰能攀？去住不生留別念，一道孤光萬境含。所以道：萬法是心光，諸緣惟性曉，本無迷悟人，只要今日了。既是本無迷悟，要了箇甚麼？」豎拂，云：「還會麼？雖然舊閣閒田地，一度嬴來方始休。」白椎，云：",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: pointing at the dharma seat of the Qizhen monastery verses that it stands sheer ten thousand fathoms, lonely and exposed in the open sun, served out on the whole tray with no one who meets it, so he climbs the curule seat again to raise it once more, then drinks and mounts the seat, spreading the incense."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J40/J40nB479.xml",
+        "J/J40/J40nB472.xml",
+        "J/J27/J27nB193.xml",
+        "J/J28/J28nB202.xml",
+        "J/J37/J37nB388.xml",
+        "B/B25/B25n0145.xml",
+        "B/B27/B27n0152.xml",
+        "J/J26/J26nB185.xml"
+      ],
+      "RelatedMasters": [
+        "Zhufeng Zhenxu",
+        "Dabo Qian",
+        "Yinyuan Longqi",
+        "Baichi Xingyuan",
+        "Mingzhao Deqian",
+        "Shending Yikui",
+        "Zhongfeng Mingben",
+        "Yulin Tongxiu",
+        "Fushi Tongxian"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The whole tray served out at once, and the masters who hold nothing back, then ask what was served. Zhufeng Zhenxu says at the incense of his abbacy that this stick of incense has stood frost and snow for over forty years and today the bag cannot hide it, so he serves it out on the whole tray for the first time into the burner for his teacher, then forms the tray with his hand and tells all to look at what is served out whole, Dabo Qian asks how he could keep the sack shut with the assembled worthies come down, and serves out on the whole tray what Kasyapa smiled at and what Bodhidharma pointed straight, Yinyuan Longqi verses the true man without rank and the dried shit-stick, the lotus-seat ancient buddha and the rotten winter melon, served out on the whole tray with no one who acknowledges them, before bundling the far shore and this shore into one ball and throwing it before the assembly, and Baichi Xingyuan rules it a pity that Luoshan's good white rice was served out on the whole tray by Mingzhao as a private favor, labor without merit in the end, while at his Chaoguo there is white rice and moldy rice both but eating much is not allowed. Shending Yikui verses that the no-guest-no-host phrase sits by the fire with its pattern wholly shown and no word needed, the whole canon no match for it, and that what was thought deep, hidden, and unreachable, once served out on the whole tray, shows everyone sitting by the rice basket starving to death, Zhongfeng Mingben teaches that Yongjia, at the one grain of round light neither inside nor out with the myriad images mirrored in it, had already served it out on the whole tray, and that the vast mind-body leaves the marks of words, writing, holy and profane, and practice-verdict behind, Yulin Tongxiu teaches that every gate the buddhas and bodhisattvas have shown was walked to its end, and at the assembly of the nirvana sutra served out on the whole tray the true-suchness ocean and the flower-treasury gate, and Fushi Tongxian, pointing at the dharma seat, verses that it stands sheer ten thousand fathoms, lonely and exposed in the open sun, served out on the whole tray with no one who meets it, so he climbs the curule seat again to raise it once more."
+    }
+  ]
+}

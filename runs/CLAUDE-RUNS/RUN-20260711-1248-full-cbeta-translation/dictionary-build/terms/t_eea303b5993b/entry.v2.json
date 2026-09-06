@@ -1,0 +1,286 @@
+{
+  "Id": "t_eea303b5993b",
+  "SourceTerm": "近離甚處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "where have you just come from?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "lately arrived from where",
+        "from what place have you late departed"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 770 hits in 146 files. Guide depth floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0557a01",
+          "ToLb": "0557a14",
+          "Kwic": "曰：苟如是，即吾宗不墜矣。上堂。師云：末後一句始到牢關，鏁斷要津，不通凡聖。尋常向諸人道：任從天下樂欣欣，我獨不肯。欲知上流之士不將佛祖言教貼在額頭上，如龜負圖，自取喪身之兆；鳳縈金網，趨霄漢以何期？直須旨外明宗，莫向言中取則。是以石人機似汝，也解唱巴歌；汝若似石人，雪曲也應和。指南一路，智者知疏。問僧：近離甚處？曰：荊南。師曰：有一人與麼去，還逢麼？曰：不逢。師曰：為甚不逢？曰：若逢即頭粉碎。師曰：闍黎三寸甚密。雲門於江西見其僧，乃問：還有此語否？曰：是。門曰：洛浦倒退三千里。巖頭全豁禪師巖頭全豁禪師示眾。但明取綱宗，本無實法。不見道，無實無虗。若向事上覰，即疾。若向意根下尋，卒摸索不著。又曰，",
+          "MasterName": "Luopu Yuanan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Luopu Yuanan owns the retained deployment: asks the arriving monk's last station and then presses whether the one who went that way was ever met."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0585b13",
+          "ToLb": "0586a09",
+          "Kwic": "：講青龍疏。師曰：是疏金剛經麼？曰：是。師曰：經文最初兩字喚作什麼字？師曰：如是。師曰：是什麼？奉無對。明招謙代供奉云：昔日靈山，今朝親見。溈山果云：溈山要問明招：昔日靈山，今朝親見，畢竟是個什麼？當時有人下得者一拶，縱使明招通身是眼，也未免一狀領過。雲溪挺代供奉云：和尚人天之師，字也不識。國師問僧：近離甚處？曰：南方。師曰：南方知識以何法示人？曰：南方知識祇道一朝風火散，如蛇退皮，如龍換骨，本爾真性，宛然無壞。師曰：苦哉！苦哉！南方知識說法半生半滅。曰：南方知識即如此，未審和尚此間說何法？師曰：我此間身心一如，身外無餘。曰：和尚何得將泡幻之身同於法體？師曰：你為什麼入於邪道？曰：什麼處是某甲入於邪道處？師曰：",
+          "MasterName": "Nanyang Huizhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyang Huizhong",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Nanyang Huizhong owns the retained deployment: asks a southern traveler what dharma the southern teachers teach and grades their teaching half living and half dead."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0794b13",
+          "ToLb": "0795a07",
+          "Kwic": "無句如藤倚樹是和尚語否安云是這僧理會這箇道理不得便問忽遇樹倒藤枯時如何溈山呵呵大笑僧云某甲三千里賣却布單得三百五十錢做裹足來專為此事和尚何故却笑溈山喚侍者將三百五十錢還這僧布單錢遂囑云他後有獨眼龍為汝點破在後數十年明招和尚出世法嗣羅山羅山嗣巖頭巖頭嗣德山與溈山自隔數代遮僧聞得明招出世在婺州便走去見明招招問近離甚處僧云溈山招云溈山近日有何言句僧云溈山示眾云有句無句如藤倚樹某甲便問忽遇樹倒藤枯時如何溈山呵呵大笑今請和尚為某甲說破明招云添得溈山笑轉新遮僧忽然大悟遂唱衣鉢遙望溈山禮拜懺悔這箇注解不得近傍不得一似天寒一爐火相似鑽入裏頭即燒殺你若背却即凍殺你這箇是一箇喻子你禪和家好看我十七年參後來因薰風自南來殿閣生微凉悟了",
+          "MasterName": "Mingzhao Deqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mingzhao Deqian",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Mingzhao Deqian owns the retained deployment: asks the Guishan-trained monk his last station and then asks what words Guishan has used of late."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0518b03",
+          "ToLb": "0518b15",
+          "Kwic": "這僧麼？」示眾，舉：「臨濟訪平田，路口見一婆使牛，乃問婆：『平田路向什麼處去？』婆便將牛打一棒云：『這畜生諸處走，到這裏不知路。』濟云：『我問你平田路什麼處去？』婆云：『這畜生五歲也，尚使不得。』濟云：『欲觀前人，先觀所使。』便有抽釘拔楔之意。濟至平田，田問：『還見我婆也未？』濟云：『已收下了也。』田云：『近離甚處？』濟云：『江西黃檗。』田云：『情知你見作家來。』濟云：『特來禮拜和尚。』田云：『已相見了也。』濟云：『不然，賓主之禮，合禮三拜。』田云：『既是賓主之禮，禮拜著。』」師云：「我臨濟老人真為大人作略，只是平實問去，隨這婆子張牙露齒，款款道『欲觀前人，先觀所使』，便有抽釘拔楔之意，且道這是贊他？這是蓋覆？及至平",
+          "MasterName": "Pingtian Puan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pingtian Puan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Pingtian Puan owns the retained deployment: asks Linji his last station, hears Jiangxi Huangbo, and answers that he surely met a working hand."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0988b05",
+          "ToLb": "0988b21",
+          "Kwic": "宿聞云。好一釜羹。被兩顆鼠糞污却。師云。三箇擔板漢。一箇較些子。報恩一夏。懸鼓待椎。佛法二字。無人問著。何故不因入水。爭見長人。次日上堂。行住坐臥四威儀中。常有一處險。只是諸人檢點不出。若檢點得出。許爾是箇天津橋上漢。若檢點不出。九十日內枉費精神。且道。那箇一處。卓主丈。險險。上堂。舉。雲門因洞山到。問近離甚處。山云。查渡。門云。夏在甚處。山云。湖南報慈。門云。幾時離彼。山云。八月二十五。門云。放汝三頓棒。山次日問。昨日蒙和尚放三頓棒。不知過在甚麼處。門云。飯袋子。江西湖南。便與麼去。山於言下有省。師云。見亡執謝。方為本色衲僧。洞山錯何似雲門錯。上堂。舉。趙州因。僧辭。州云。甚處去。僧云。諸方學佛法去。州云。",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Yunmen Wenyan owns the retained deployment: asks the arriving Dongshan his last station, hears Chadu, and runs the interview on to the three withheld blows."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0150a13",
+          "ToLb": "0150b08",
+          "Kwic": "何是祖師西來意？山云：待洞水逆流，即向汝道。代僧云：那箇無舌？趙州順世令僧馳拂子與趙王云：此是老僧一生用不盡的。代王拈起拂子云：靈山付囑，何似今日？興化問雲居：權借一問，為探竿影草如何？居三次疊語，不能對。代居云：上大人，丘乙己。翠巖云：一夏以來，為兄弟東語西話，且看翠巖眉毛在麼？師云：遲八刻。玄沙問僧：近離甚處？僧云：瑞巖。沙云：近日有何言句？僧云：常喚主人。公云：惺惺著，他後莫受人謾。沙云：一等弄精魂，就中也奇怪，上座何不且住？僧云：已遷化。沙云：只今喚得應麼？僧無對。代云：終不借他人口。玄沙問鏡清：不見一法是大過患，且道不見箇什麼法？清指露柱云：莫是不見這箇法麼？沙云：浙中清水白米且從汝喫，佛法未夢見在。代䇿",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Xuansha Shibei owns the retained deployment: asks a monk lately from Ruiyan what words Ruiyan has been using of late."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0502b11",
+          "ToLb": "0503a14",
+          "Kwic": "山曰待汝開口堪作什麼還知麼既來到這所在了須自有大方便有大作用有出身底活路始越得伊這圈繢過去果無些些傷鋒犯手處便可謂跳得金剛圈吞得栗棘蓬過得荊棘林許汝天下橫行去纔有些些沾粘犯手且漫漫張大口說大話在。上堂師云但凡叅方須具擇法眼目不要傳言送語問答之際須識來機出言務要斬截目然活鱍鱍地不見光孝慧覺至法眼處眼問近離甚處覺云趙州眼云曾聞趙州有栢樹子話是不覺云無眼云往來皆謂僧問如何是西來祖意州云庭前栢樹子上座何得道無覺云先師實無此語和尚莫謗先師好此是叅方作得主把得住者然法眼當時失却一隻眼我若做法眼纔見慧覺先道無處便云始知上座在趙州住日尚淺所以不知便了又烏用許多葛藤云云此喚作賔看主太原孚上座叅雪峰纔至法堂上顧視雪峰便下看",
+          "MasterName": "Fayan Wenyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fayan Wenyi",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Fayan Wenyi owns the retained deployment: asks Guangxiao Jue his last station, hears Zhaozhou, and cross-examines the cypress-tree saying until Jue denies his teacher ever said it."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0003a02",
+          "ToLb": "0003a17",
+          "Kwic": "後，則如巖頭．睦州．烏臼．汾陽無業．鎮州普化．定上座．雲峯悅．法昌，遇諸大老合，兒孫滿地，今亦寂然無主化者。諸公豈是拖泥帶水說老婆禪乎？然妙喜主張國師，無垢破除，初不相妨也。正法眼藏No.1309第一之上正法眼藏卷第一之上徑山大慧禪師宗杲集并著語繡水春門居士徐弘澤校閱琅邪和尚問舉：和尚近離甚處？舉曰：兩浙船來陸來？曰：船來。船在甚麼處？曰：步下不涉程途一句作麼生道？舉以坐具摵一摵曰：杜撰長老，如麻似粟。便拂袖而出。琅邪問侍者：此是甚麼人？曰：舉上座。琅邪遂親下。旦過堂問：莫是舉上座麼？莫怪適來相觸忤。舉便喝。復問：長老何時到汾陽？曰：某時到。舉曰：我在浙江早聞你名，元來見解只如此，何得名播寰宇",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "compiler",
+                "commentator"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Langye Huijue owns the retained deployment: asks the visiting elder Ju his last station and by boat or by land, and is met with a no-journey line."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0020a17",
+          "ToLb": "0020a29",
+          "Kwic": "所謂草賊大敗之語以進之耶。』德山示眾云：『道得也三十棒，道不得也三十棒。』臨濟聞得謂洛浦曰：『汝去問他，道得為甚麼也三十棒？待他打汝，接住棒送一送，看伊作麼生？』浦如教而問，師便打，浦接住送一送，德山便歸方丈。浦回舉似臨濟，濟曰：『我從來疑著這漢。雖然，你還識德山麼？』浦擬議，濟便打。又僧參，南院問僧：『近離甚處？』僧曰：『襄州。』院曰：『來作甚麼？』曰：『特來禮拜和尚。』院曰：『恰遇寶應不在。』僧便喝，院曰：『向汝道不在，又喝作麼？』僧又喝，院便打，僧禮拜。院曰：『這棒本是汝打我，我且打汝，要此話大行。瞎漢，參堂去。』至如守廓侍者，揀點鹿門，鹿門納款，摧辱華嚴，聲滿天下。鹿門華嚴是皆出世有眾，少不相當，降階下禮。古",
+          "MasterName": "Nanyuan Huiyong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanyuan Huiyong",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Nanyuan Huiyong owns the retained deployment: asks a Xiangzhou monk why he has come and, after the monk's shouts, hands him the stick as the monk's own blow."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0494a06",
+          "ToLb": "0494a19",
+          "Kwic": "，可惜這僧太魯，不能直下頓薦，未免辜他舒州。頌曰：平地起骨堆，分明莫更猜；若能直下會，頑石吼如雷。」舉：「大愚守芝禪師因僧問：『如何是佛？』師云：『鋸解秤錘。』」師云：「大愚調高韻古，這僧拍手相和，卒難搆附。眾中莫有搆得者麼？試請臨風一曲。頌曰：鋸解秤鎚，愁斷山眉，森羅起舞，萬象含悲。」舉：「三聖問僧：『近離甚處？』僧便喝，聖亦喝，僧又喝，聖又喝，僧云：『行棒即瞎！』又喝，聖拈棒，僧轉身作受棒勢，聖云：『下坡不走，快便難逢！』便打，僧云：『這賊！』便出。次有僧問：『適來爭容得者僧？』聖云：『是伊曾見先師來。』」師云：「三聖問者僧，恰似焦磚打著連底凍；者僧謔三聖，亦是赤眼撞著火柴頭。二人雖是平展，未免疑殺傍觀。當時若",
+          "MasterName": "Sansheng Huiran",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Sansheng Huiran owns the retained deployment: asks the question and meets the monk's answering shout with shout for shout until the stick comes down."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X68/X68n1319.xml",
+        "X/X66/X66n1296.xml",
+        "M/M59/M59n1540.xml",
+        "J/J25/J25nB171.xml",
+        "T/T47/T47n2000.xml",
+        "X/X71/X71n1420.xml",
+        "L/L153/L153n1637.xml",
+        "X/X67/X67n1309.xml",
+        "J/J27/J27nB189.xml",
+        "J/J28/J28nB212.xml"
+      ],
+      "RelatedMasters": [
+        "Luopu Yuanan",
+        "Nanyang Huizhong",
+        "Mingzhao Deqian",
+        "Dahui Zonggao",
+        "Pingtian Puan",
+        "Tianyin Yuanxiu",
+        "Yunmen Wenyan",
+        "Xutang Zhiyu",
+        "Xuansha Shibei",
+        "Chushi Fanqi",
+        "Fayan Wenyi",
+        "Huanyou Zhengchuan",
+        "Langye Huijue",
+        "Nanyuan Huiyong",
+        "Sanyi Mingyu",
+        "Sansheng Huiran",
+        "Eryin Mi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The first question an arriving monk meets, and every retained answer is already a test. Luopu Yuanan asks the arriving monk's last station and then presses whether the one who went that way was ever met, Nanyang Huizhong hears South and grades its teachers' dharma half living and half dead, Mingzhao Deqian follows the question by asking what words Guishan has used of late, and Pingtian Puan hears Jiangxi Huangbo from Linji and answers that he surely met a working hand. Yunmen Wenyan runs the question on from Chadu to the three withheld blows, Xuansha Shibei uses it to reach Ruiyan's recent words, Fayan Wenyi follows Zhaozhou with a cross-examination of the cypress-tree saying, Langye Huijue asks the visiting elder Ju by boat or by land, Nanyuan Huiyong hands a shouting Xiangzhou monk the stick as the monk's own blow, and Sansheng Huiran meets the answering shout with shout for shout."
+    }
+  ]
+}

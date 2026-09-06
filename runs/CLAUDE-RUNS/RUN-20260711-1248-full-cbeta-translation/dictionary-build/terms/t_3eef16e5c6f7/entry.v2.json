@@ -1,0 +1,191 @@
+{
+  "Id": "t_3eef16e5c6f7",
+  "SourceTerm": "成等正覺",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:15:34Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "attained full and equal awakening",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "attained perfect awakening",
+        "attained the right and equal awakening",
+        "become fully and equally awake"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 331 hits in 118 files representing 116 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0888a08",
+          "ToLb": "0888a17",
+          "Kwic": "當知此時能該括十方三世乃至塵沙諸佛。六道四生。若凡若聖。若草若木。若有情若無情。乃以拂子擊禪床一下云。盡向這裏成等正覺。無出此時也。又云。始覺合本之謂佛。言以如今始覺合於本覺。往往邪師輩。以無言默然為始覺。以威音王那畔為本覺。固非此理既非此理。何者是覺。若全是覺。豈更有迷。若謂無迷。爭奈釋迦老子於明星現時忽然便覺知得自家本命元辰。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: strikes the seat once with the whisk and rules that the dust-grain buddhas, the six paths and four births, the grass and the trees, the sentient and the insentient all attain it right here — nothing outside this moment."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0721b05",
+          "ToLb": "0721b11",
+          "Kwic": "彼修道者不除我相。是故不能入清淨覺。還知我相麼佛境界是。我相淨意根是。我相乃至坐寶蓮華成等正覺。入微塵裏轉大法輪是。我相自有宗乘以來。分科列段指性說心。敲繩牀搖麈拂。縱橫放肆演唱激揚以至玉轉珠回神出鬼沒。總不出這箇我相。苟能除此我相之外。安有所㕘之話所守之念所存之因所至之果。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: rules the self-aspect the meddler cannot enter the clean awakening through — even seated on the jeweled lotus attaining it, entering a dust-mote to turn the great wheel, that too is the self-aspect."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0262a10",
+          "ToLb": "0262a18",
+          "Kwic": "」乃呈拄杖，云：「大眾見麼？十方三世一切剎土中，若聖、若凡，一齊在山僧拄杖頭上成等正覺、轉大法輪，各各遍入微塵國土，一一國土中各各見有雲外比丘統領佛剎微塵數菩薩摩訶薩眾，於紫雲峰頂演說如是甚深般若波羅密，窮未來際無有間斷，身、語、意業無有疲厭。若能如是見得，各各具足、各各圓滿、各各解脫、各各成現，不資一法、不欠一毫，長期、短期，結制、解制，是甚麼熱碗鳴聲？",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: presents the staff and shows the assembly that through the lands of the ten directions and three times, saint and ordinary alike, all together attain it and turn the great wheel on the mountain monk's staff-tip."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0133c07",
+          "ToLb": "0133c13",
+          "Kwic": "」又喝一喝，云：「一馬生三寅。」又喝一喝，云：「此中一句，能令山河大地、草木風雲、情與無情一時轉大法輪、成等正覺。諸人要會麼？」復喝一喝，云：「向這裏入。」問：「𡎺肋三拳佛降生，指天指地令全行。父子傳燈光燦爛，請師的的示分明。」師以杖畫。進云：「啐啄頓開天地竅，鸞雛衝破碧琉璃。」師以杖于前相外畫一大○。",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: shouts that one word of this can make the mountains, rivers, and earth, the grass, trees, wind, and cloud, the sentient and insentient, turn the great wheel and attain it at once, and bids them enter here."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0865a07",
+          "ToLb": "0865b02",
+          "Kwic": "善財入樓閣門善財心喜入已還閉所言心喜處即是悟入處入已還閉是所證處絕消息所證處既絕消息即是捨方便門自見本來面目故能於樓閣中見百億樓閣百億四天下百億兜率陀天一一皆有彌勒菩薩降神誕生遊行七步觀察十方大獅子孔現為童子居處宮殿出家苦行往詣道場降伏諸魔成等正覺以至轉法輪入涅槃及餘無量不可思議境界然後彌勒菩薩又彈指一聲善財從三昧起彌勒為說此是因緣聚集所見之相如幻如夢如影如像來無所從去無所至既是來無所從去無所至豈可更存有所得心耶若所得心不忘謂之法塵煩惱更過於世間塵勞煩惱十倍能障道眼不明道眼若明一切處活鱍鱍地何故只如祖師道子甚得無生意永嘉曰無生豈有意耶豈不是他活處更看祖師掘第二箇坑子埋他曰若無意誰為分別只這便是金剛圈栗棘蓬直是難吞難透蓋眼前事物須以意識分別然後可以指陳此是僧此是",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: walks Maitreya's full descent in the teaching scene — birth, seven steps, the palace, leaving home, hardship, the seat, subduing the demons, attaining it, turning the wheel, nirvana — to the finger-snap that wakes Sudhana from the concentration."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0488c26",
+          "ToLb": "0489a03",
+          "Kwic": "等無有異。何以故。菩提無相故。若無有相。則無增減。佛子。菩薩摩訶薩。應如是知。成等正覺。同於菩提。一相無相。疏釋云。所以知佛智遍者。無一眾生不有本覺。與佛體無殊故。經云。佛智潛流。即似佛智遍他眾生。今顯眾生自有佛智。故云遍耳。此有三意。一明無一眾生不有。則知無性者。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: quotes the teaching that awakening is signless so attaining it equals awakening, one sign and no sign, and the subcomment that no sentient being lacks the original awakening, identical in body with the buddha."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0113b04",
+          "ToLb": "0114a09",
+          "Kwic": "瓜瓞攸緜真風永繼譬如一燈然百千燈明終無盡其或參不真參悟非實悟假託有身名他人子何殊漢魏之後宮不異諸呂之失筞終歸腐爛必至天亾大眾祇如金剛正體本無變易因甚卻要孕信懷疑著意祈求還委悉麼不得春風華不開華開須𠎥春風力。晚參龍女於一彈指頃疾往南方無垢世界成等正覺且道與禪門立地成佛是同是別若道是同此人眼目未開若道是別此人窮劫流浪永無成佛之期見歬大眾為山僧說道理看。至節小參天寒人寒大家抂者裏日南長至不出十二時靈利漢聞與麼道𠊳飛騰將去有甚麼限其或意𡬾崢嶸心華未綻亟須晝夜研窮㴱究力索坐教冰河發𦦨石筍抽條肰後一是一二是二三是三四是四五是五六是六七是七九九還他八十一若只依稀越國彷彿揚州莫道洞山掇退果桌慈明貼牓僧堂也大難消遣抂復舉雪竇示眾云三分󰐈陰二早過靈臺一點不揩磨貪生逐日區區去喚不回",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: raises the dragon girl speeding to the southern spotless world and attaining it in one finger-snap, then asks whether that is the same or different from the gate's standing-on-the-spot buddhahood."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0498b15",
+          "ToLb": "0499a15",
+          "Kwic": "奉御旨請上堂欽差世襲三品倚賴李自昌官住僧淨行寂芳引座師至法座前左右顧視召眾云會麼若也會得山僧未離江南陞座已竟說法已竟所謂塵說剎說眾生說無間說是真語者實語者如語者如或未然看向第二門頭施展去也便登座拈香云此一瓣香親受靈山記莂𤋲向爐中祝嚴佛心天子成等正覺次拈香云此一瓣香華藏海會早已敷宣𤋲向爐中祝嚴太后百福具備保助皇躬大揚法化次拈香云此一瓣香靈山一會儼然未散𤋲向爐中祝嚴坤甯配天東西承翊團圞頭共展上上機斂衣就座上首白椎云法筵龍象眾當觀第一義師應聲微笑乃云宋時有箇端禪師因見弄師子發明心地遂合彩為衣作師子狀人都呼他為端師子者箇禪師逆行順行作瘋作顛一日至一船邊求附舟官船人云我是高郵去的船端云我就高郵去當時高郵有個秦少游居士是一代聞人久知端師子之名聞其來率縉紳士庶迎請說法端上堂",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: at the first incense — the petal personally received as the prediction at Vulture Peak — burns it praying the Buddha-hearted Son of Heaven to attain full and equal awakening."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "B/B25/B25n0145.xml",
+        "J/J33/J33nB280.xml",
+        "J/J34/J34nB299.xml",
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2016.xml",
+        "L/L155/L155n1643.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Yunwai Xingze",
+        "Hanyue Fazang",
+        "Yongming Yanshou",
+        "Muchen Daomin",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The completion of a buddha's career in four graphs — and in the hall's hands a movable event: the staff is lifted and every saint and ordinary being attains it on the tip, the whisk strikes the chair and all attain it right here, no time but this. The relocation: Dahui Zonggao strikes the seat once with the whisk — the dust-grain buddhas, the six paths and four births, the grass and the trees, sentient and insentient, all attain it right here, nothing outside this moment; Yunwai Xingze presents the staff and shows the assembly that through the lands of the ten directions and three times, saint and ordinary alike, all together attain it and turn the great wheel on the mountain monk's staff-tip; Hanyue Fazang shouts that one word of this can make the mountains, rivers, and earth, the grass, trees, wind, and cloud, the sentient and insentient, turn the great wheel and attain it at once — want to understand? Enter here. The checks on the completion: Zhongfeng Mingben rules the self-aspect — even seated on the jeweled lotus attaining it, entering a dust-mote to turn the great wheel, that too is the self-aspect; Muchen Daomin raises the dragon girl speeding to the southern spotless world and attaining it in one finger-snap, then asks whether that is the same or different from the gate's standing-on-the-spot buddhahood — say same and the eyes are not yet open, say different and one wanders kalpas with no term; Dahui's exposition walks Maitreya's full descent — birth, seven steps, the palace, leaving home, hardship, the seat, subduing the demons, attaining it, the wheel, nirvana; Yongming Yanshou quotes the teaching that awakening is signless, so attaining it equals awakening, one sign and no sign — and no sentient being lacks the original awakening, identical in body with the buddha; Yulin Tongxiu at the incense burns the petal received at Vulture Peak, praying the Buddha-hearted Son of Heaven to attain it."
+    }
+  ]
+}

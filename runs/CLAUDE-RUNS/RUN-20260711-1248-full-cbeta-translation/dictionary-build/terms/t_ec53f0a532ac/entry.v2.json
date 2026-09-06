@@ -1,0 +1,127 @@
+{
+  "Id": "t_ec53f0a532ac",
+  "SourceTerm": "實際理地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:29:46Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the ground of the actual",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the realm of reality",
+        "the ground of true reality"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 227 hits in 125 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0716b27",
+          "ToLb": "0716c14",
+          "Kwic": "背。剎剎爾塵塵爾。句句爾念念爾。還明得麼。若明得去。不費纖毫力。直入解脫門。絕承當一句作麼生道。喝一喝。下座。上堂云。機輪未轉。大地黑漫漫。古鏡當軒。沙界淨裸裸。坐却意根無動轉處。塞却咽喉無吐氣處。却是箇真實底人。提得即天上人間。撥著便氷消瓦解。正當命脈上如何點。八月秋何處熱。下座。上堂云。一即一切。實際理地。一切即一。本來無物。拈起也吒吒沙沙。放下也綿綿密密。三界長時獨露。十方無處容身。孤峯頂上倒行。十字街頭橫臥。目視雲霄則且致。魚行酒肆一句作麼生道。放憨作麼。下座。改昭覺寺為崇寧。勅黃到。開堂師拈。勅黃示眾云。匝地普天皆承恩力。九州四海悉稟威靈。百千法門中殊特法門。無量妙義中真實勝義。如今從天降下。不在",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: building his hall address on it — one is all: the ground of the actual; all is one: originally no thing — picked up dry and crackling, set down dense and continuous, standing alone through the three realms with nowhere in the ten directions to lodge the body."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0026a15",
+          "ToLb": "0026b11",
+          "Kwic": "是法身，翠竹還能應用。座主會麼？云：不了此意。珠曰：若見性人，道是亦得，道不是亦得，隨用而說，不滯是非。若不見性人，說翠竹著翠竹，說黃花著黃花，說法身滯法身，說般若不識般若，所以皆成諍論。座主禮謝而去。妙喜曰：眾中商量道：二尊宿恁麼切磋，一人得其體，一人得其用。得其用者，事上建立；得其體者，理上掃除。所謂實際理地，不受一塵；佛事門中，不捨一法。我為法王，於法自在，或抑或揚，無得無失。恁麼見解，喚作矮子看戲。妙喜見處，也要諸人共知。不見道：破驢脊上足蒼蠅。大寧寬和尚示眾，拈拄杖云：前佛性命，後佛紀綱，總在遮裡。如今用去也，為雲為雨，為瑞為祥，利人利天，出生入死，佗方世界，出沒卷舒。若也通身是口，說不能盡；通身是眼",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Dahui Zonggao owns the retained deployment: mocking the crowd's grading of two worthies as one-gets-body one-gets-use as dwarfs watching a play, then stating the tag — not one dust received, not one dharma abandoned — I am king of the dharma, at ease in it, now repressing, now raising, nothing gained or lost."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0804b07",
+          "ToLb": "0805a01",
+          "Kwic": "養之心真切而致然也。使其憚勞苦畏楚辱。則失利養矣。彼區區為浮幻之利養。而能忘極重之羞惡。較吾儕之希求聖道而不肯死虛妄之偷心者。何如哉。然凡何異聖。聖何異凡。惟偷心而成異耳。道人可不慎諸。或問。做工夫多為昏沉散亂所障。用盡神力屏打不去。無乃根力有所不逮而使之然乎。幻曰。非也當知昏沉散亂全體。是本地風光。其實際理地中無二法也。爾其不委且昏沉散亂初無自性亦無實體。皆是自家一箇參禪底正念不真不切上入來。當知第一念不真切。即從第一念入。第二念不真切。即從第二念入。乃至百千念真切竟無所入。或最後一念稍不真切。則便從最後入矣。若使自最初一念真切。直至心花發明之際。其真切之心了不間斷。則所謂昏沉散亂杳不知其蹤矣。往往不責為道",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: answering a trainee beset by dullness and distraction that these in their whole being are local scenery — in the ground of the actual there is no second dharma — then tracing every leakage to the one un-fervent thought it entered through."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0122b01",
+          "ToLb": "0122b14",
+          "Kwic": "進云：向後與和尚更道。師云：分作兩橛作麼？又，僧問：昔九座大師云：我今日向孤峯絕頂駕一隻鐵船，截斷天下人要津。祇如和尚今日又作麼生？師云：銕船即且置，闍黎要津呈似老僧看。進云：爭奈學人不會何？師云：不會倩人裁。進云：恁麼則剛道是龍猶不信，等閒奪得始驚人。師云：閒言語。乃云：諸昆仲！佛法不是容易，博山三十年來實際理地洞然無礙，事法中較量與理矛盾者尚多，即今與諸昆仲陞堂入室，結箇粥飯因緣，於此座上問來答去，如鳥云空、如鼠云唧，雖有其聲，究竟將來都無實義，豈但無益？恐成賺誤。若是祖師門下客，要知祖師行徑，方有說話分單。明自己底，不知有古佛家風，此人有眼無身；若明得古佛家風，不知自己用處，此人有身無眼。直饒坐斷兩頭，不通凡",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: confessing at the entry-dialogue seat that in thirty years the ground has stood pierced and unobstructed for him, yet in the measure of affairs much still contradicts the principle — so he ties a porridge-and-rice bond with the assembly to ask and answer on this seat."
+        },
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0698b22",
+          "ToLb": "0698c04",
+          "Kwic": "塑釋迦並師真成，上堂。「這瞿曇老漢原是山僧裝模打樣底影子，以何為驗？」遂召云：「世尊！」代應云：「諾！喚作高峰亦得。」復召云：「高峰！」自應云：「諾！喚作世尊亦得。今日一並托出，合作麼生？有意氣時添意氣，不風流處也風流。」上堂。「山僧剛纔陞座，舌頭牙齒相磕，擬道如何若何？又怕千錯萬錯。」拍膝一下。上堂。「實際理地不受一塵，今時門頭不捨一法。今時門頭即置，昔僧問鹿門：『如何是實際理地？』門云：『南贍部洲、北鬱單越。』僧云：『恁麼則事同一家。』門云：『隔須彌在。』若有人問高峰：『如何是實際理地？』但向道：『高峰頂上開禧寺。』若云：『恁麼則天地懸殊？』但向道：『當面蹉過。』『與鹿門是同是別？』『若道別，兩岸蘆花兩岸雪；若",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment: raising the old Lumen exchange — asked the ground, Lumen answered the southern continent and the northern, the monk cried one family, Lumen set a Sumeru between — then answering for himself: were someone to ask Gaofeng, he would say only the Kaixi temple on the peak."
+        },
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0566a09",
+          "ToLb": "0566b03",
+          "Kwic": "師云：洞山道：正中偏，三更初夜月明前，莫怪相逢不相識，隱隱猶懷舊日嫌。此明空劫以前，威音之際，玉兔懷胎，深隱紫微，萬一千巖俱無影象，皆正位中事也。惟騰騰瑞氣，藹藹祥烟，碧梧高聳，丹鳳獨棲，瞻之不及，窺之莫得，恰如佛未出世時，無法可說，無生可度，實際理地不受一塵，曙色未分人皆仰望，所以曹山道不如他也。無端石馬經歷寒潭，尀耐泥龍奔騰巨海，於無見中強見，無聞中強聞，三十二相歷歷分明，十二分教行行布置，向佛事門中不捨一法，及乎天曉總見尋常，故言不如曹山也。林泉雖恁剖判將來，慎勿便以得失勝負而生計較，若解無中能唱出，方知絲竹可傳心。第三十一則無隱身處第三十一則無",
+          "MasterName": "Linquan Conglun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection. Linquan Conglun owns the retained deployment: reading a verse's image as the empty kalpa before Glorious Voice — like the buddha before appearing in the world, no dharma to speak, no being to save, the ground receiving not one dust — until dawn lays out the thirty-two marks and the twelvefold teaching line by line, not one dharma abandoned."
+        },
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0763b10",
+          "ToLb": "0764a09",
+          "Kwic": "靜，有若此水。前波既息，後波不隨。鑑兮鑑兮，清且漣󳬢。六窻洞開，宿雨初霽。止兮止兮，海印三昧。性空銘性空銘自性元空，不可描貌。一念不生，何其昭廓。清淨本然，周遍法界。入此法門，自忘知解。寒灰烈𦦨，槁木陽春。聖凡情盡，覿體全真。白雲山舍銘贈塤書記白雲山舍銘贈塤書記青山之青，白雲之白。舍於兩間，亦孔之適。實際理地，不受一塵。而山而雲，幻影毛輪。舍者為誰，適亦何有。一心不生，萬法無咎。三際一息，大千一區。吾非斯人，其孰與俱。涵春室銘涵春室銘我此環堵，中虗外密。一爐松火，半窻紅日。擁衾而坐，展脚而睡。豈不懷思，立雪斷臂。仰高而跼，俯厚而蹐。融融涵春，乾乾夕惕。山堂銘山堂銘天目之山，綿亘千里。磅礴逶迤，屹然東峙。偉",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment: carving it into his white-cloud hermitage inscription — the blue of mountains, the white of clouds, the ground receiving not one dust, and mountains and clouds themselves wheel-spun illusions, one thought unborn and no dharma at fault."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0005c21",
+          "ToLb": "0006a05",
+          "Kwic": "角者麼？試出來𨁝跳看。」時象崖西堂以兩手作擎空勢，師云：「且喜出來，相共拖犁拽耙。」下座。解夏，上堂，師云：「今朝七月十五，處處追宗薦祖，山僧總不恁麼，單牧一頭水牯。所謂：法無定相，隨遇即宗。以一事明，則千差萬別無不明；以一理契，則萬別千差無不契。然而事也、理也，無不從此法界流出，究竟還歸此法界。所以道：實際理地不受一塵，佛事門頭不捨一法。大眾！正與麼時，德山棒、臨濟喝，麻三斤、乾屎橛，庭前柏樹子、青州布衫重七斤，還當得鬼神茶飯麼？還當得本分艸料麼？試辯別看。若辯別得出，一任擎頭戴角，宇宙縱橫；其或未然，莫將學解生知解，剔起眉毛子細看。」辭院，上堂，師云：「山僧肚裏亂如麻，伎倆無能盡爪牙，千日禪期今日畢，杖頭卓",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: closing his summer-release address on the tag, then asking whether Deshan's stick, Linji's shout, hemp-three-pound and dried-shit-brush, the cypress tree and the seven-pound Qinzhou shirt can still serve as ghost-and-spirit tea-rice and full-measure fodder."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "X/X67/X67n1309.xml",
+        "B/B25/B25n0145.xml",
+        "X/X72/X72n1435.xml",
+        "J/J29/J29nB244.xml",
+        "X/X67/X67n1303.xml",
+        "X/X71/X71n1414.xml",
+        "J/J26/J26nB177.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Wuyi Yuanlai",
+        "Sanshan Denglai",
+        "Linquan Conglun",
+        "Liao'an Qingyu",
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The ground of the actual. Yuanwu Keqin builds his hall address on it — one is all: the ground of the actual; all is one: originally no thing — picking it up dry and crackling, setting it down dense and continuous, standing alone through the three realms with nowhere in the ten directions to lodge the body; Dahui Zonggao, in his anthology voice, mocks the crowd's grading of two worthies as one-gets-body one-gets-use as dwarfs watching a play, then states the tag — not one dust received, not one dharma abandoned — I am king of the dharma, at ease in it, now repressing, now raising, nothing gained or lost; and Zhongfeng Mingben answers a trainee beset by dullness and distraction that these in their whole being are local scenery — in the ground of the actual there is no second dharma. Wuyi Yuanlai confesses at the entry-dialogue seat that in thirty years the ground has stood pierced and unobstructed for him, yet in the measure of affairs much still contradicts the principle; Sanshan Denglai raises the old Lumen exchange — asked the ground, Lumen answered the southern continent and the northern, the monk cried one family, Lumen set a Sumeru between — then answers for himself: were someone to ask Gaofeng, he would say only the Kaixi temple on the peak; Linquan Conglun reads a verse's image as the empty kalpa before Glorious Voice, like the buddha before appearing — no dharma to speak, no being to save, the ground receiving not one dust — until dawn lays out the thirty-two marks and the twelvefold teaching line by line; Liao'an Qingyu carves it into his white-cloud hermitage inscription — the blue of mountains, the white of clouds, the ground receiving not one dust, and mountains and clouds themselves wheel-spun illusions; and Poshan Haiming closes his summer-release address on it, then asks whether Deshan's stick, Linji's shout, hemp-three-pound and dried-shit-brush can still serve as ghost-and-spirit tea-rice and full-measure fodder."
+    }
+  ]
+}

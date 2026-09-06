@@ -1,0 +1,200 @@
+{
+  "Id": "t_860a9cacd5a6",
+  "SourceTerm": "世間相常",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:14:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the world's look stays constant",
+      "AlternateTargets": [
+        "the world keeps its constant look"
+      ],
+      "SearchAliases": [
+        "the world's outward look unchanging",
+        "all appearances constant",
+        "the world's face unchanged"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 230 hits in 118 files representing 117 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0385b06",
+          "ToLb": "0385b18",
+          "Kwic": "諸法寂滅相，不可以言宣。』」師云：「見定如今說話，何處有說不說？不見道：去不到去，來不到來。」舉：「一切真如含一切。」師云：「喚什麼作山河大地？」又云「是諸法空相，不生不滅、不垢不淨。」或拈拄杖示眾云：「拄杖子化為龍，吞卻乾坤了也。山河大地甚處得來？」或畫圓相云：「還有人出得麼？」舉：「教云：『是法住法位，世間相常住。』」師云：「釋迦老子甚處去也。」舉：「僧問投子：『如何是此經？』子云：『《維摩》、《法華》。』又問：『塵中不染丈夫兒時如何？』子云：『不著。』」師云：「不喚作法身，不喚作第一義，亦為說法，亦為說真空。」師齋次，拈起匙箸云：「我不供養南僧，秪供養北僧。」時，有僧問：「為什麼不供養南僧？」師云：「我要鈍置供",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment, raising the teaching's line that the world's look stays constant and asking where old Shakyamuni has gone."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0825c26",
+          "ToLb": "0826a13",
+          "Kwic": "。不得良久。或有人問。畢竟如何。向他道。也無畢竟。也無如何。正當恁麼時。四楞塌地掇在諸人面前眼辦手親底一逴逴得。便能羅籠三界提拔四生。其或未然。自是爾諸人根性遲鈍。且莫錯怪徑山好。上堂舉。肇法師云。諸法不異者。豈曰續鳧截鶴夷嶽盈壑。然後為無異者哉。雲門大師道。長者天然長。短者天然短。又云。是法住法位。世間相常住。乃拈起拄杖云。拄杖不是常住法。師遂拈起拄杖召大眾云。剜出眼裏睛。甚麼處見肇法師不異底法。敲出骨中髓。甚麼處見雲門大師常住底法。擲下云。分身兩處看。下座。上堂。僧問。我宗無語句。實無一法與人時如何。師云。五味鑽秤鎚。進云。何故外揚家醜。師云。爾為甚麼舌頭拄地。進云。却被和尚引著。師便打。問乾峯示眾云。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, retelling Yunmen's couplet and his staff that is no constant thing, then lifting his own staff and asking where the unchanging thing is to be seen."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0121b29",
+          "ToLb": "0121c12",
+          "Kwic": "直入如來地。且無為實相又作麼生？」以拂子向空點云：「東西南北門相似，無限輪鎚擊不開。」喝一喝，便下座。上堂，「天何高，地何極，上下四維無等匹，僧是僧，俗是俗，六六元來三十六。所以世尊云：『未離兜率已降皇宮，未出母胎度人已畢。』實際地上據本，還他鶴長鳧短、松直棘曲，各居方位、任適自性，故曰：『是法住法位，世間相常住。』更請山僧登于此座，鼓兩片皮、掉三寸舌，大似無風起浪、好肉剜瘡，笑殺當年達磨面壁。雖然如是，若作恁麼見解，則平白地上死人真個無數，灼然出得荊棘林纔是好手，只如臨濟大師云：『有時一喝如金剛王寶劍，有時一喝如踞地獅子，有時一喝如探竿影草，有時一喝不作一喝用。』據臨濟四喝，各有功用，總不徒然，山僧也有一喝。」",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, granting each thing its own place and naming the couplet over it, then faulting his own mounting of the seat as raising waves on a windless sea."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0607c02",
+          "ToLb": "0607c16",
+          "Kwic": "地眾生當得度，與此地眾生何殊？』欽師曰：『實無有一法可度眾生者。』帝益深重之。」師云：「諸仁者！你看他一個佛心天子，一個法眼宗師，一唱一酬，兩鏡相照，是法平等，妙密圓明。山僧既膺法席，正當於黃金殿上揭開日月之光華，白玉毫中指出古今之主宰，始不負一人有慶，千載同風。」敲如意，云：「若於遮裏會得，是法住法位，世間相常住，又何有世法、出世法，彼此先後之不平等哉？秪如今日諸護法特請開堂祝聖，共致太平，作麼生道？金輪迥出中天照，萬世謳歌頌聖明。」結椎，下座。結制上堂結制上堂師舉：「妙喜禪師云：『金佛不度爐，木佛不度火，泥佛不度水，真佛屋裏坐。趙州和尚吐心吐膽，恁麼告報也，還有知恩報恩者麼？』」師云：「大小妙喜不識好惡，盡大",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, reading the half into the equality of world's way and beyond-world's way, with no before and after between them."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0561a07",
+          "ToLb": "0561b11",
+          "Kwic": "同音念個晝吉祥夜吉祥晝夜六時恒吉祥一切時中吉祥者。通照沙彌請益法華經中是法住法位世間相常住偈語老僧曰即舉世間眼見金木水火土五行之法略釋可矣如劫初金色属黃其性唯堅校之于今金其相其性皆變而不同便為不住法位今古既已有殊便屬之無常法矣法且無常豈能久住世哉以今金校劫初之金其色其性未嘗有一毫變異故云是法住法位世間相常住耳又如劫初木性唯直其外枝葉唯青唯綠其內色本白即校之于今木其性其相一無有異豈不能久住世哉水火土相性等亦如是校釋然而有生滅法即屬之無常無生滅法即屬之常即如五穀種子等雖生生不已以其色相古今無有變異以生即無生又以古今相續未嘗斷故而色相亦無有異所以為不滅耳然無常離常別有無常者以有異故是真無常矣以無常離常無無常",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment, proving the half with gold and the five elements, whose color and nature have not shifted a hair since the world's start."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0746a08",
+          "ToLb": "0746a22",
+          "Kwic": "滴凍，諸人抵死要道，直得額頭汗出、口裏膠生，只是道不著。九十日後，諸人有一句子在山僧拄杖頭上，今日特為汝等拈出，儘教三十年後天下人道山僧教壞人家男女，不肯因時轉變，必須待價而沽。沽不沽？趙州東壁挂葫蘆，大的大如木杓、小的小如棘蒲，雖然大小平等，就中也費分疏。」以拂子擊禪床，曰：「向者裏分疏得去，是法住法位，世間相常住；其或未然，江北、江南叢林去卜度看，免使他時後日說細說麤。」武夷東苑鏡老和尚忌日，上堂。「武夷山上雲千頃，九曲溪流清莫比，兒孫代代仰高深，此事可憑重為舉。識破不值半文錢，年深月久價彌增，宗門盡是欺心漢，看來無出阿翁上。老胡西來果無傳，千聖不易真實言，叢林此日一爐香，家醜不許外人揚。」上堂。問：「蘆花兩",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment, hanging the half on his staff-tip, where whoever sorts it out there needs no grading while the rest may go gauge it among the river-crossing houses."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0497b22",
+          "ToLb": "0497c08",
+          "Kwic": "周。非三世攝。而能普應三世之法。名曰神通。是故經云。智入三世。而無來往。為三世是眾生情所妄立。非實有故。為智體無形無色。不造不作。而應群品。名之為神。圓滿十方。無法不知。無根不識。名之為通。又云。法華經云。種種性相義。我及十方佛。乃能知是事。聲聞及緣覺。不退諸菩薩。皆悉不能知。此等即是門前三乘也。為未明。世間相常住。是法住法位。為三乘同厭苦集。樂修滅道之心。未明苦集。本唯智起。不了滅道。本自無修無造無作。化諸群品。如幻住世。性絕無明。即是佛故。一念相應一念佛。一日相應一日佛。何須苦死要三僧祇。但自了三界業。能空業處。任運接生。即是佛也。何須變易。方言成佛。龍天變易。豈為佛耶。三乘之人亦變易。何故待三僧祗佛方成",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment, marking the three vehicles as outside the gate precisely for not knowing that the world's look stays constant."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0456c08",
+          "ToLb": "0456c21",
+          "Kwic": "，倩人看院始得。若也放開一線，便見三百、五百，攢攢簇簇，商量向上、向下，全提、半提。果如是，何有宗門事哉？且道：如何是宗門事？崑崙騎象舞三臺。」解夏，上堂。「四月十五結制，高掛缽囊，不許絲毫走作。七月十五解制，橫擔楖栗，從教海角天涯。當處不迷，此世他生不說夢；頓忘諸念，樹凋葉落露金風。所以道：是法住法位，世間相常住。正恁麼時，如何分付？雖然入眼青山好，須信前途有斷津。」晚參。舉：「仰山坐次，大禪佛到，翹一足，云：『西天二十八祖亦如是，唐土六祖亦如是，和尚亦如是，某甲亦如是。』仰山下禪床，打四藤條。」師云：「大眾！仰山為甚不打五藤條、三藤條，只打四藤條？還有人明得落處麼？眾中有般漆桶商量道：『為伊道箇四如是，所以仰山",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment, closing the ninety days with the couplet, the bowl-bag hung high and the staff borne across the shoulder to the ends of the earth."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB311.xml",
+        "L/L153/L153n1637.xml",
+        "J/J36/J36nB362.xml",
+        "T/T48/T48n2016.xml",
+        "J/J26/J26nB182.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Dahui Zonggao",
+        "Feiyin Tongrong",
+        "Juelang Daosheng",
+        "Huanyou Zhengchuan",
+        "Guantao Daqi",
+        "Yongming Yanshou",
+        "Wanru Tongwei"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The second half of the inherited Lotus couplet: the thing rests in its place, the world's look stays constant. Yunmen Wenyan raises the teaching's line that the world's look stays constant and asks where old Shakyamuni has gone, Dahui Zonggao retells Yunmen's couplet and his staff that is no constant thing, then lifts his own staff, carves out the eye and knocks out the marrow, and asks where the unchanging thing is to be seen, Feiyin Tongrong grants each thing its own place, crane long and duck short, pine straight and thorn crooked, then faults his own mounting of the seat as raising waves on a windless sea, and Juelang Daosheng reads the half into the equality of world's way and beyond-world's way, with no before and after between them. Huanyou Zhengchuan proves the half with gold and the five elements, whose color and nature have not shifted a hair since the world's start, and with the five grains, whose ever-renewed seed keeps one look from then till now, Guantao Daqi hangs the half on his staff-tip, where whoever sorts it out there needs no grading while the rest may go gauge it among the river-crossing houses, Yongming Yanshou marks the three vehicles as outside the gate precisely for not knowing that the world's look stays constant, and Wanru Tongwei closes the ninety days with it, the bowl-bag hung high and the staff borne across the shoulder to the ends of the earth."
+    }
+  ]
+}

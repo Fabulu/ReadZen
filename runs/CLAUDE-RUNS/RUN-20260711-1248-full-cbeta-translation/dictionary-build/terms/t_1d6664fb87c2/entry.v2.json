@@ -1,0 +1,187 @@
+{
+  "Id": "t_1d6664fb87c2",
+  "SourceTerm": "三乘十二分教",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:12:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the three vehicles and twelve divisions of the teaching",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the twelvefold teaching",
+        "the three vehicles and twelvefold canon"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 383 hits in 119 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0521a06",
+          "ToLb": "0521a19",
+          "Kwic": "」師遂云：「新戒不會。」興化云：「卻是老僧罪過。」師云：「你語藏鋒。」興化擬議，師便打。至晚，師又云：「我今日問新到，是將死雀就地彈，就窠子裏打。及至你出得語，又喝起了，向青雲裏打。」興化云：「草賊大敗。」師便打。有座主來相看次，師問座主：「講何經論？」座主云：「某甲荒虛，粗習《百法論》。」師云：「有一人於三乘十二分教明得，有一人於三乘十二分教明不得，是同是別？」座主云：「明得即同，明不得即別。」洛浦為侍者，在師後立，云：「座主這裏是什麼所在？說同說別！」師回首問侍者：「汝又作麼生？」侍者便喝。師送座主回來，遂問侍者：「適來是汝喝老僧？」侍者云：「是。」師便打。師問洛浦云：「從上來一人行棒，一人行喝，阿那箇親？」洛浦云",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the retained deployment: quizzing a visiting Hundred Dharmas lecturer with the same-or-different question — one man gains clarity in the canon and one does not — while his attendant Luopu shouts the question off the floor."
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0359c24",
+          "ToLb": "0360a07",
+          "Kwic": "過，自檢校？」師云：「你有什麼事？」師上堂云：「此事如明珠在掌，胡來胡現、漢來漢現。老僧把一枝草作丈六金身用，把丈六金身作一枝草用。佛即是煩惱，煩惱即是佛。」問：「佛與誰人為煩惱？」師云：「與一切人為煩惱。」云：「如何免得？」師云：「用免作麼？」師示眾云：「老僧此間即以本分事接人。若教老僧隨伊根機接人，自有三乘十二分教接佗了也。若是不會，是誰過歟？已後遇著作家漢，也道老僧不辜佗。但有人問，以本分事接人。」問：「從上至今，即心是佛。不即心，還許學人商量也無？」師云：「即心且置，商量箇什麼？」問：「古鏡不磨，還照也無？」師云：「前生是因，今生是果。」問：「三刀未落時如何？」師云：「森森地。」云：「落後如何？」師云：「迥迥",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment: instructing the assembly that he receives people with the fundamental matter alone, and that were he to stoop to their capacity the canon would already have received them — so if they still do not understand, whose fault is it."
+        },
+        {
+          "RelPath": "T/T47/T47n1988.xml",
+          "FromLb": "0546a12",
+          "ToLb": "0546a27",
+          "Kwic": "一如體玄。師云。欠爾一問。問如何是玄中的。師云𡎺。進云。如何即是。師云。速退速退。妨他別人問。問如何是非思量處。師云。識情難測。問鑿壁偷光時如何。師云恰。問一言道盡時如何。師云裂破。進云。和尚作麼生下手拈掇。師云。拈取糞箕掃󰆠來。問如何舉唱即得不負來機。師云。道什麼。進云。還可來意也無。師云。且緩緩師云。三乘十二分教橫說竪說。天下老和尚縱橫十字說。與我拈針鋒許說底道理將來看。與麼道早是死馬醫。雖然如此。且有幾箇到此境界。不敢望爾言中有響句裏藏鋒。瞬目千差風恬浪靜。伏惟尚饗。問如何是透法身句。師云。北斗裏藏身。問如何是本來宗。師云。不問不答。問如何是三界唯心萬法唯識。師云。我今日不答話。進云。為什麼不答話。師云。驢年",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1988.xml). Extensive Record of Chan Master Kuangzhen of Yunmen. Yunmen Wenyan owns the retained deployment: granting in the hall that the canon speaks sideways and every old monk under heaven crosswise, then demanding someone bring him the truth in a needle-tip of speech — adding that even saying so is only a dead horse cured, for few reach that realm."
+        },
+        {
+          "RelPath": "X/X69/X69n1343.xml",
+          "FromLb": "0226a11",
+          "ToLb": "0226b06",
+          "Kwic": "下乞師分。師曰：人平不語，水平不流。僧曰：莫即者箇為當別有？師曰：一言不中，千言不用。僧曰：茫茫宇宙人無數，獨有胡僧笑點頭。師曰：龍峯絕頂，也須親到始得。復曰：佛法至論，非辨口利詞之所為，非神通修證之所得，直饒盡乾坤大地都作一問來，只贏得一場戲論，去道轉遠。祖師西來，只要直指人心，見性成佛，不立文字，乃至三乘十二分教，如將黃葉作金錢，權止小兒啼哭。大道本來空寂，不用安排，圓湛十虗，寧有方所？而今不了，只為目前鑒覺明昧兩岐，如是聽不出聲，見不超色，如斯過患，實可憐生，殊不覺知，認賊為子。是故參玄高士到者裏，直須自看從上來事合作麼生，畢竟將何敵他生死，勿以妄想分別之心，衷私裁斷，以當平生，將為究竟。他時異日，臨命終時，心",
+          "MasterName": "Huitang Zuxin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X69/X69n1343.xml). Recorded Sayings of Chan Master Baojue Zuxin (Huanglong Four Houses Record, No. 2). Huitang Zuxin owns the retained deployment: instructing that the ancestor came from the west only to point straight at mind and complete buddhahood in seeing nature, establishing no words — the canon down to its last division being yellow leaves forged into gold coins, an expedient to stop an infant's crying."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0149a27",
+          "ToLb": "0149b13",
+          "Kwic": "心地。未見本性。不得已而立箇方便語句。如祖師西來。單傳心印。直指人心。見性成佛。那裏如此葛藤。須是斬斷語言。格外見諦。透脫得去。可謂如龍得水。似虎靠山。久參先德。有見而未透。透而未明。謂之請益。若是見得透請益。却要語句上周旋。無有凝滯。久參請益。與賊過梯。其實此事不在言句上。所以雲門道。此事若在言句上。三乘十二分教。豈是無言句。何須達磨西來。汾陽十八問中。此問謂之驗主問。亦謂之探拔問。這僧致箇問頭。也不妨奇特。若不是趙州。也難抵對他。這僧問如何是趙州。趙州是本分作家。便向道。東門西門南門北門。僧云。某甲不問這箇趙州。州云。爾問那箇趙州。後人喚作無事禪。賺人不少。何故他問趙州。州答云。東門西門南門北門。所以只答他趙",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: invoking Yunmen's ruling in his Blue Cliff commentary — were this matter in words and phrases, the canon would hardly be without speech, so why the transmission outside the teaching, why Bodhidharma from the west."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0791b06",
+          "ToLb": "0791b20",
+          "Kwic": "何事二祖曰惟願開甘露門廣度羣品達磨曰諸佛無上妙道曠劫精勤難行能行非忍而忍豈以小德小智輕心慢心欲冀真乘徒勞勤苦二祖聞師誨勵潛取利刀自斷左臂置于師前達磨曰諸佛最初求道為法亡形汝今斷臂吾前求亦可在二祖本名神光遂與易名慧可問曰諸佛法印可得聞乎達磨曰諸佛法印匪從人得二祖曰弟子心不安請師安心達磨曰將心來為汝安二祖推窮三乘十二分教知道這箇不可以有心求不可以無心得不可以語言造不可以寂默通知不得解不得五蘊十八界推窮尋趂不見有體即依實供通云內外中間覓心了不可得達磨曰與汝安心竟二祖於言下豁然大悟如龍得水似虎靠山當恁麼時祖師也不見雪也不見求底心亦不見悟底心亦不見一時空蕩蕩地所以道寥寥不見少林人既一時不見了莫落空麼忽然懸崖撒手死中得活方知道滿",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Bodhidharma",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: retelling the arm-severing audience in a general discourse, where the Second Patriarch exhausts the canon and thereby knows this thing cannot be sought with mind or no-mind, before Bodhidharma will settle his mind."
+        },
+        {
+          "RelPath": "X/X71/X71n1404.xml",
+          "FromLb": "0012b13",
+          "ToLb": "0013a08",
+          "Kwic": "泥教相之病，其柰執病轉深。此處合徹見不立文字，直指人心之要。後於靈山百萬眾前拈一枝花，獨有迦葉領於一笑之頃，便見拂跡成痕，不合更使冬瓜印。吾有正法眼藏、涅槃妙心，分付摩訶大迦葉，𡏖圾堆上重添𡏖圾。當時百萬眾中忽有箇漢翻轉面皮，便見一場敗缺不少。瞿曇入滅之後，迦葉、阿難諸大弟子結集從前四十九年所說之法，列為三乘十二分教，豈特只滿龍宮、盈海藏耶？其有無著、天親、護法、馬鳴等諸菩薩，深慮小根小智者難曉佛理，於是各各造論解釋，號為經律論三藏。漸漸傳來唐土，終未能足。由是玄奘諸師親往西天請經律論，歸來東土，乃見一切人實難曉解，遂製疏造鈔解釋，令一切人容易曉解，積來積去，堆積如山。自此之後，習經律論疏鈔者，執為文字之學，以為究竟之",
+          "MasterName": "Wu'an Puning",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1404.xml). Recorded Sayings of Chan Master Wu’an Puning. Wu'an Puning owns the retained deployment: narrating that after the World-Honored One's nirvana the great disciples from Kasyapa and Ananda compiled the forty-nine years of teaching into the canon, filling not only the dragon palace but the ocean treasury, before the treatise masters glossed it into the three baskets."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0432a17",
+          "ToLb": "0432b12",
+          "Kwic": "月，太平不用將軍威。還知二大老落處麼？若也不知，山僧更說道理一遍：於心所生，即名為色；即色空故，當生不生。拈主丈云：主丈子走入灯籠裏去也。青苗上堂：南無佛陀耶！南無達摩耶！南無僧伽耶！斗充佛座，功德難量。琖子燒香，紫雲靉靆。豈不見祖師道：汝學心地法門如下種子，我說法要譬彼天澤。汝緣合故，當得見道。便恁麼去，三乘十二分教、菩提涅槃、真如解脫，無不透頂透底。其或不然，山僧開方便門，向第二義與諸人露箇消息。言言，祖師心印任它傳；默默，無上菩提從此得。管取今年勝去年，大家記取波羅蜜。復說偈云：異苗翻茂處，深密固靈根。楊廣山前事，今朝喜再論。應真機不借，轉物道常存。湖水添新綠，苔階長舊痕。更看今夜月，和影落前村。上堂，舉楊岐示",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: ruling at the seedling-festival hall address, on the ancestor's seed-and-heavenly-rain teaching, that gone that way the canon with bodhi, nirvana, suchness and liberation is pierced through from top to bottom — or else he opens the expedient gate and shows a second-meaning message."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0728b17",
+          "ToLb": "0729a13",
+          "Kwic": "穽擘𫼡臠攙肋鋼砒钁蛩伎倆天目中峯和尚廣錄卷第四之上叅學門人北庭臣僧慈寂上進法語一法語示雲南通講主示雲南通講主叅玄上上人須達巧方便。不解善思惟。驢年覔不見。要識巧方便麼。三乘十二分教應病與藥觀根逗教是巧方便。一千七百則陳爛葛藤放収殺活逆順卷舒。是巧方便。乃至無邊賢聖前後出興。各各以無作不思議解脫神力。作種種差別佛事。亦不出此巧方便也。何則都緣箇事在諸人分上本來具足元無欠少。自是你從無始曠大劫來。為妄習所纏橫計生死。雖潑天活計頓在目前。剛不領悟。猶向飯籮邊伸手從人乞食。豈不大可哀憫者哉",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: writing to a Yunnan dharma-lecturer that the canon prescribing by illness and matching the capacity is itself the skillful means, as are the seventeen hundred stale koans and all the sages' diverse buddha-work."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0114a07",
+          "ToLb": "0114b04",
+          "Kwic": "非是菩薩捨身命處。你若會得，釋迦老子且過一邊。上堂。縱橫不礙，華藏海中一微塵；逆順何拘，剎竿頭上翻筋斗。無理外之事，無事外之理；無心外之物，無物外之心。在蚌為珠，在龜為兆，在牛為角，在馬為蹏，一一交參，重重攝入。釋迦彌勒雖然卍字當𮌎，文殊普賢也只鼻頭向下。諸人幸自無事，須要護身符子作麼？喝一喝。上堂。三乘十二分教大似屎窖子，你無端刺頭入裏許作麼？來，來，我共你葛藤。拈拄杖，云：百千諸佛、天下老和尚，到這裏亡鋒結舌，你試吐露看。眾皆罔措，師云：賺殺人。上堂：大事未明，如喪考妣；大事已明，如喪考妣。你道有成褫？無成褫？長因送客處，憶得別家時。上堂。聞茶板喫茶去，聞浴板洗浴去，聞壽山道：你諸人休去歇去，為什麼不肯與麼去",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: branding the whole canon in a hall address as much like a manure pit, demanding why they poke their heads into it, and inviting them to tangle — where every buddha and old monk loses tongue and blade."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "J/J24/J24nB137.xml",
+        "T/T47/T47n1988.xml",
+        "X/X69/X69n1343.xml",
+        "T/T48/T48n2003.xml",
+        "M/M59/M59n1540.xml",
+        "X/X71/X71n1404.xml",
+        "X/X71/X71n1412.xml",
+        "B/B25/B25n0145.xml",
+        "X/X71/X71n1420.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Luopu Yuanan",
+        "Zhaozhou Congshen",
+        "Yunmen Wenyan",
+        "Huitang Zuxin",
+        "Yuanwu Keqin",
+        "Bodhidharma",
+        "Dahui Zonggao",
+        "Huike",
+        "Wu'an Puning",
+        "Gulin Qingmao",
+        "Zhongfeng Mingben",
+        "Chushi Fanqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The three vehicles and twelve divisions of the teaching. Linji Yixuan quizzes a visiting Hundred Dharmas lecturer — one man gains clarity in the canon and one does not: are they the same or different? — and when the lecturer answers in doctrine, his attendant Luopu shouts the whole question off the floor; Zhaozhou Congshen tells his assembly he receives people with the fundamental matter alone, and were he to stoop to their capacity the canon would already have received them, so if they still do not understand, whose fault is it; Yunmen Wenyan grants that the canon speaks sideways and every old monk crosswise, then demands someone bring him the truth in a needle-tip of speech — calling this itself only a dead horse cured, for few ever reach that realm; and Huitang Zuxin instructs that the ancestor came only to point straight at mind, establishing no words, the canon down to its last division being yellow leaves forged into gold coins, an expedient to stop an infant's crying. Yuanwu Keqin invokes Yunmen's ruling in his commentary — were this matter in words and phrases, the canon would hardly be without speech, so why the transmission outside the teaching, why Bodhidharma from the west; Dahui Zonggao, retelling the arm-severing audience in a general discourse, has the Second Patriarch exhaust the canon and thereby know this thing cannot be sought with mind or no-mind, before asking Bodhidharma to settle his mind; Wu'an Puning narrates that after the nirvana the great disciples from Kasyapa and Ananda compiled the forty-nine years of teaching into the canon, filling not only the dragon palace but the ocean treasury; Gulin Qingmao, at the seedling festival, rules that gone the ancestor's way, the canon with bodhi and nirvana is pierced through top to bottom, or else he will open the expedient gate and show a second-meaning message; Zhongfeng Mingben writes to a Yunnan lecturer that the canon prescribing by illness and matching capacity is itself the skillful means, as are the seventeen hundred stale koans and all the sages' diverse buddha-work; and Chushi Fanqi brands the whole canon as much like a manure pit, demands why they poke their heads into it, and invites them to tangle — where every buddha and old monk loses tongue and blade."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Id": "t_c760c93c7876",
+  "SourceTerm": "知恩報恩",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:41:31Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "know the kindness, repay the kindness",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "to know and repay a debt of gratitude",
+        "gratitude requited"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 182 hits in 112 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0004a27",
+          "ToLb": "0004b14",
+          "Kwic": "塘水。師乃舉。洞山問雲巖。百年後忽有人。問邈得師真。向他道什麼。雲巖良久云。祇這是。山佇思。巖云。价闍梨。承當此事也大難。他後須是子細。山便辭去。後雲巖忌日。洞山掛真僧問。雲巖道祇這是。未審。還知有也無。山云。若不知有。爭解恁麼道。若知有爭肯恁麼道。師云。老婆心腸。蓋是養兒之道。衲僧手段。還他奪父之機。知恩報恩。句中宛轉。似肯不肯。量外提撕。箇是洞山底。或有人問普照邈得師真。對他道什麼。良久云。心不負人。面無慚色。上堂云。照與照緣。混融不二。心與心法。㳷合無差。所以道。如珠發光。光還自照。還會麼。百草頭上閑和尚。買盡風流不著錢。上堂云。雲斂長空風日和。太平樵牧共高歌。衲僧飯飽無他事。密密機前弄玉梭。所以道。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: appraising the old Yunyan portrait-hanging exchange — the old woman's heart is rearing a child, the monk's method is seizing the father's machine — and ruling the phrase turns in the sentence, half consent half refusal, extra-measure prompting, and that is Dongshan's own."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0815c29",
+          "ToLb": "0816a17",
+          "Kwic": "一回汗出也。便向一莖草上。現瓊樓玉殿。若未端的得一回汗出。縱有瓊樓玉殿。却被一莖草蓋却。師云。一莖草上現瓊樓玉殿。決定可信。瓊樓玉殿被一莖草蓋却。莫被他熱謾。徑山恁麼道。為已得一回汗出者說。若未得一回汗出者。切不得疑著。天申節上堂。稽首能度諸世間。無量殊勝福德聚。金輪統御四天下。普施群生安隱樂。還有知恩報恩底麼。良久云。一年三百六十日。唯有今日最吉祥。上堂舉。百靈問龐居士。石頭得力底句。還曾舉似人否。士云。亦曾舉似人。靈云。舉似阿誰。士自點胸云。龐公。靈云。直是妙德空生。也讚歎不及。居士却問百靈。阿師石頭得力底句。還曾舉似人否。靈云。亦曾舉似人。士云。舉似阿誰。靈戴笠子便行。師云。這箇話端。若不是龐公。幾",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: blessing the sovereign at the emperor's birthday hall — the golden wheel ruling the four continents, granting all beings peace — then demanding whether any one knows the kindness and repays it, and after a long silence answering with the calendar: of the year's three hundred sixty days, today alone is most auspicious."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0727c27",
+          "ToLb": "0728a14",
+          "Kwic": "祝聖云。大眾見麼。祖佛同根本。人天共讚揚。結成寶蓋祥雲。共祝南山聖壽。奉為今上皇帝萬歲萬萬歲。伏願。道超盤古德冠羲軒。位永固於金輪。壽彌堅於劫石。遂陞座云。大眾。時平道泰天清地寧。一人高拱無為。萬物各得其所。普天率土無不承恩。航海梯山均蒙陶鑄。直得塵塵剎剎物物頭頭。放大寶光開正法眼。運般若力復太古風。知恩報恩一句作麼生道。萬靈莫測無為化。處處全開五葉華。道林辭眾上堂云。十虛同一漚。寧分彼此。大千同一塵。豈有去來。若能各人。明見本心顯發妙用。通天作略動靜一如。匝地風光彼此無二。住也浮雲凝於幽谷。去也虛舟泛於長江。去住本自圓成。解脫更無異路。如是則全起全滅。全動全靜。全去全來。全收全放。且出門一句作麼生道。頭頭",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: blessing the sovereign — the whole earth receiving grace, every dust and land emitting the great treasure light — then closing the hall on the one-line demand: no spirit fathoms the doing-of-nothing; everywhere the five-petaled flower fully opens."
+        },
+        {
+          "RelPath": "T/T48/T48n2002A.xml",
+          "FromLb": "0122b08",
+          "ToLb": "0122b25",
+          "Kwic": "未生前。天上天下賊是小人。三拜起來澆惡水。謾將掩彩當慇懃。秋旱上堂。一葉落空索索。天下秋乾剝剝。大眾。若還坐在者裡。總是渴死底漢。且作麼生。討條活路。清涼有箇方便。卓拄杖一下霹靂。一聲滂沱大霔。笑看烏藤倒上樹。臘八上堂。六年落草。野狐精跳。出渾身是葛藤。打失眼睛無覓處。誑人剛道悟明星。清涼恁麼讚歎。喚作知恩報恩。其或不然。年年臘八一甌茶。禮拜燒香鈍置他。正旦上堂。今朝正月初一。一舉上上大吉。吉無不利。春風和氣。散入花梢。百草頭塵塵剎剎轉風流。元宵上堂髑髏前。腦蓋後一點洞明。光影裡走。畢竟如何。咄。然燈古佛轉誵訛。二月一日上堂。大眾無面目漢。面目全該日烘。楊柳眼烟抹杏花腮。其或不然。黃鶯啼不盡。特地下枝來涅槃",
+          "MasterName": "Tiantong Rujing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Cizhou Fangnian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2002A.xml). Recorded Sayings of Monk Rujing. Tiantong Rujing owns the retained deployment: retelling at the winter enlightenment-day the six lost years, the eye lost beyond finding, the liar barely claiming the star — then ruling that Cizhou Fangnian's praise of it is precisely what deserves the name know-and-repay, and if not, a yearly bowl of tea with bows and incense only dulls him."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0402a12",
+          "ToLb": "0402a27",
+          "Kwic": "未微笑時會取；欲明安心之理，須向達磨未開口、二祖未斷臂時會取。於斯時節會得，猶較些子。若待世尊生下時，一手指天，一手指地，周行七步，目顧四方，自云：『天上天下，唯吾獨尊。』便已納敗闕了也。所以雲門大師云：『我當時若見，一棒打死與狗子喫，卻貴圖天下太平。』可謂將此深心奉塵剎，是則名為報佛恩。諸昆仲！其中還有知恩報恩者麼？若有，可請出來與吾相見；其或未然，可趁此手強腳健快須努力，決明此事，始不被天下老和尚舌頭瞞也。」良久，云：「會麼？相逢不飲空歸去，洞口桃花也笑人。」上堂。「諸昆仲！欲參博山禪，於未開口時會得，猶是落二落三了也。稍覺遲疑便合喫痛棒，又何待開口？縱能會得，堪作甚麼？豈不見？從門入者不是家珍，又安可為當",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment: lining up at the Buddha's birthday the birth, the seven steps, Yunmen's one-stroke dog-feeding peace and the offering of the deep heart to the dust-lands — then demanding of the assembly: is there one who knows the kindness and repays it? If so, come out and meet me; if not, settle this while hands are strong and feet are quick."
+        },
+        {
+          "RelPath": "J/J28/J28nB205.xml",
+          "FromLb": "0233a24",
+          "ToLb": "0233b07",
+          "Kwic": "「昨夜降王宮，今朝成佛道，打破太虛空，如何覓得？」師云：「覓得覓不得且置，即今在什麼處？」僧喝一喝，師云：「只者一喝那？」進云：「亙古亙今藏不住，大千沙界絕羅籠。」師云：「為什麼腳跟不點地？」乃云：「今朝四月初八，淨飯王宮生悉達，九龍吐水沐金軀，大地山河光交潔，無端撞著老雲門，特地一棒要打殺。然雖如是，誰是知恩報恩者？若解知恩報恩，則三世諸佛、歷代祖師，總向汝一個鼻孔出氣，又說什麼未降王宮、度人已畢，未出母胎、說法已竟？只如今朝四眾臨筵，請山僧陞座，還是悉達降生了也？還是度人已畢？還是說法已竟？若檢點得出，許你具一隻眼。且道海雲為人一句又作麼生道？千峰勢到嶽邊止，萬派聲歸海上消。」喝一喝，下座。完經期，監寺偕兩序",
+          "MasterName": "Jieweizhou Xingzhou",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. Jieweizhou Xingzhou owns the retained deployment: asking at the Buddha's birthday who is the one who knows-and-repays, then ruling that whoever resolves it draws the three-times buddhas and the successive patriarchs all to breathe through one nostril with him — no need for born-before-the-palace or taught-before-the-womb."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0644c07",
+          "ToLb": "0644c22",
+          "Kwic": "。上座乃嘆曰：「我輩不見唐國知識將四百年矣，今日幸法駕光臨，得與瞻禮，豈非夙緣耶？敢求開示一言半句為金剛種子。」山僧因語之曰：「子能持此難遭希有之心，以明佛祖之道，不惟數百年前之開山面目猶在，抑今日承檀越之供養，則福有攸歸矣。子其勉之。」示大眾示大眾當此像季，身服田衣，宿生善因，極不容易。須要念德修德，知恩報恩，但以深究死生為第一件大事。不圖名，不苟利，除人我見，蕩生滅心，大小和睦，內外恭敬，有善相贊，有過相規，惟道是務，勿管是非，此謂之聖賢之聚會。不然，滴水粒米，無非鐵丸銅汁，可不畏與？當共勉之。示實歸禪人示實歸禪人世有虛頭禪，見他人病，極善開導。或云：一切放下，莫著於病。或云：四大本空，病將安寄？及自家熱病",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: instructing his community that wearing the field-robe in this late age is no small karmic feat: remember the virtue and cultivate the virtue, know-and-repay, with penetrating birth-and-death as the one great matter — otherwise every drop of water and grain of rice is iron pellet and molten copper."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0490a19",
+          "ToLb": "0490b15",
+          "Kwic": "與師翁同條生不與師翁同條死師翁善為隱語云人還知我釋迦如來是何等一個面目令某小󸊯禿最初秪見師翁殺人刀未見師翁活人劍今日某上座不妨顯示令見者聞者知我祖師門下亦有殺人刀亦有活人劍顧視左右云若有問如何是我師翁真面目拈香云急着眼豎法堂方丈上堂師云巍巍堂堂本是圓成無人不承蔭覆奈何有未知恩而今現前眾檀越諸兄弟都是知恩報恩的也須向某上座拄杖頭證明問答不錄師廼云眾居士於甲戌春日纔興一念請先師則報恩法堂蚤已成就待先師來興工動作早是第二門頭施設今日更要某上座建立豈不在第三然而出格大人終不羨一嫌三昔日臨濟大師云第一句中薦得堪與佛祖為師第二句中薦得堪與人天為師第三句中薦得自救不了後來慈明禪師云先寶應恁麼道興化則不然第一句薦得和泥合水",
+          "MasterName": "Yulin Tongxu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxu owns the retained deployment: naming at the abbot's quarters, in the repayment hall his donors built, the radiant perfect fullness everyone shades under, admitting some have not yet known the kindness — the patrons and brothers now present being precisely the knowing-and-repaying ones, who must prove it at the tip of this monk's staff."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2001.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T47/T47n1997.xml",
+        "T/T48/T48n2002A.xml",
+        "J/J27/J27nB197.xml",
+        "J/J28/J28nB205.xml",
+        "J/J38/J38nB425.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Hongzhi Zhengjue",
+        "Dongshan Liangjie",
+        "Dahui Zonggao",
+        "Yuanwu Keqin",
+        "Tiantong Rujing",
+        "Cizhou Fangnian",
+        "Wuyi Yuanlai",
+        "Yunmen Wenyan",
+        "Jieweizhou Xingzhou",
+        "Jifei Ruyi",
+        "Yulin Tongxu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Know the kindness, repay the kindness. Hongzhi Zhengjue, raising the old Yunyan portrait-hanging exchange — Dongshan asked whether the one who said just-this still knows there is; if he did not know, how could he say it, and if he did, how would he consent to — appraises the old woman's heart as rearing a child and the monk's method as seizing the father's machine: know the kindness, repay the kindness — the phrase turns in the sentence, half consent half refusal, extra-measure prompting, and that is Dongshan's own. Dahui Zonggao, at the emperor's birthday hall, bows to the one who delivers all worlds — the golden wheel ruling the four continents, granting all beings peace — then demands: is there one who knows the kindness and repays it? and after a long silence answers with the calendar: of the year's three hundred sixty days, today alone is most auspicious. Yuanwu Keqin, blessing the sovereign — the whole earth receiving grace, dust-motes and lands all emitting the great treasure light — closes the hall on the formula: the one line of knowing-and-repaying, how does it go? No spirit fathoms the doing-of-nothing; everywhere the five-petaled flower fully opens. Tiantong Rujing, at the winter enlightenment-day, retells the six lost years, the eye lost beyond finding, the liar barely claiming the star — then rules that Cizhou Fangnian's praise of it is precisely what deserves the name know-the-kindness-repay-the-kindness, and if not, then a yearly bowl of tea on the eighth, with bows and incense, only dulls him. Wuyi Yuanlai, on the Buddha's birthday, lines up the birth, the seven steps, the one hand to heaven — already a defeat-mark — and Yunmen's declared one-stroke dog-feeding peace, calling it offering this deep heart to the dust-lands, just that named repaying the buddha's kindness, then demands of the assembly: is there one in this who knows the kindness and repays it? If so, come out and meet me; if not, while hands are strong and feet quick, settle this and stop being fooled by old monks' tongues. Jieweizhou Xingzhou, the same birthday elsewhere, asks who is the one who knows-and-repays, then rules that whoever resolves it draws the three-times buddhas and the successive patriarchs all to breathe through one nostril with him — no need for born-before-the-palace or taught-before-the-womb. Jifei Ruyi instructs his community that wearing the field-robe in this late age is no small karmic feat: remember the virtue and cultivate the virtue, know-and-repay, with penetrating birth-and-death as the one great matter — drop name and profit, and every drop of water and grain of rice is sweet; otherwise iron pellets and molten copper. And Yulin Tongxu, at the abbot's quarters of the repayment hall his donors built, names the radiant perfect fullness that everyone shades under, admits some have not yet known the kindness — the patrons and brothers now present are precisely the knowing-and-repaying ones, and must prove it at the tip of this monk's staff."
+    }
+  ]
+}

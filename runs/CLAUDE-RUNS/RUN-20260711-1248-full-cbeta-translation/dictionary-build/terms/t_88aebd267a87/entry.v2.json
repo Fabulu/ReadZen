@@ -1,0 +1,127 @@
+{
+  "Id": "t_88aebd267a87",
+  "SourceTerm": "萬里無寸草",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:18:47Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "ten thousand miles without an inch of grass",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the grassless ten thousand miles",
+        "not an inch of grass for ten thousand li"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 288 hits in 123 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1986B.xml",
+          "FromLb": "0522c19",
+          "ToLb": "0523a04",
+          "Kwic": "龍牙問。如何是祖師西來意。師云。待洞水逆流。即向汝道。龍牙始悟厥旨。華嚴休靜問師。學人無箇理路。未免情識運為。師云。汝還見有理路也無。華嚴云。見無理路。師云。甚處得情識來。華嚴云。學人實問。師云。恁麼則直須向萬里無寸草處去。華嚴云。萬里無寸草處。還許某甲去也無。師云。直須恁麼去。華嚴搬柴次。師把住云。狹路相逢時如何。華嚴云。反側反側。師云。汝記吾言。向南住。有一千人。向北住。止三百而已。欽山參師。師問。甚處來。欽山云。大慈來。師云。還見大慈麼。欽山云。見。師云。色前見。色後見。欽山云。非前後見。師默置。欽山乃云。",
+          "MasterName": "Dongshan Liangjie",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1986B.xml). Recorded Sayings of Chan Master Liangjie of Dongshan, Ruizhou. Dongshan Liangjie owns the retained deployment: ruling, when Huayan honestly admits he has no reasoning-path, that just so he must go to the grassless ten thousand miles — then, when Huayan asks whether he may go there, sealing it: just so, go."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0745b27",
+          "ToLb": "0745c13",
+          "Kwic": "即佛全佛即心。與諸佛把手共行。與祖師同得同用。到箇裏更說什麼結。更說什麼解。二六時中淨裸裸赤灑灑。終日著衣。不曾掛一縷絲。終日喫飯。不曾咬一粒米。所謂動若行雲止猶谷神。豈有心於彼此。那有像於去來。觸處逢渠全機獨脫。正恁麼時如何。白雲本是無心物。等閑出沒太虛空。復云。九十日功圓此日。不須更驗蠟人來。雖然萬里無寸草。袋口今朝己解開。上堂。僧問。趙州訪一菴主云。有麼有麼。主竪起拳頭。州云。水淺不是泊船處。意旨如何。師云。據欵結案。進云。只如又訪一菴主。亦竪起掌頭。州却讚歎禮拜。師云。兩重公案。進云。問答一般。為什麼肯一箇。不肯一箇。師云。大有人到此一似撞著鐵壁。進云。忽有人問和尚有麼有麼。如何祇對。師云。劈脊便棒。進",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: closing his retreat-dissolving verse — ninety days' work complete, no need to test the wax man, and yet though the ten thousand miles hold no inch of grass, the bag's mouth opens today."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0889a07",
+          "ToLb": "0889b03",
+          "Kwic": "，然後徧參遊人門戶，升其堂奧，坐其牀榻，至於自受用三昧．他受用三昧一時具足。儻或倚佗墻壁，看佗眉毛眼睫，終非究竟。既然如是，且作麼生是自家本來面目？良久，云：北人不相鼻，南人不相色。解制，上堂。道無彼我，踏著不嗔；用不停留，了無轍跡。翠巖東語西話，著甚來由？仰山種粟畬田，翻成窠窟。文遠於驢糞裏落節，洞山向萬里無寸草處嚲跟，這一隊漢一時裂下了也。畢竟事作麼生？拈拄杖，卓一下，云：驚起暮天沙上鴈，海門斜去兩三行。謝新舊知事兩堂，秉拂，上堂：衲僧家，無本據，動靜去留，無非活路。進一步，臨機沒回互；退一步，聲色如聾瞽。不進不退，又且如何？前堂首座是果州人，後堂首座是蓬州人，蓬州人自打蓬州鄉談，果州人自打果州鄉談。雖然如是，",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: listing the ancients' moves at the retreat's end — Cuiyan's talking east and west, Yangshan's millet fields, Wenyuan's fall into donkey dung, Dongshan's trailing his heel toward the grassless ten thousand miles — and tearing the whole crew off at once."
+        },
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0256a29",
+          "ToLb": "0256b17",
+          "Kwic": "不妨遮眼也。慈覺道。圓覺楞嚴恒為已伴。況世尊入滅至庚辰歲。已二千一百七十年。豈但千年故紙。仙傳葛由能刻木羊。騎羊上綏山。後遇浮丘公。曰。若不脚下線斷。爾也不得自由。暗合永嘉放四大莫把捉。寂滅性中隨飲啄。諸行無常一切空。即是如來大圓覺。雖然如是。猶欠作云何梵在。46德山學畢第四十六則德山學畢示眾云。萬里無寸草。淨地迷人。八方無片雲。晴空賺汝。雖是以楔去楔。不妨拈空挂空。腦後一槌。別看方便。舉。德山圓明大師。示眾云。及盡去也直得三世諸佛口掛壁上猶有一人呵呵大笑若識此人參學事畢。師云。鼎州德山第九世圓明大師。諱緣密。雲門嗣中唯師傳嗣最廣。師創三句。函蓋乾坤。截斷眾流。隨波",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained deployment: opening his own hall instruction for the Deshan case with the paired warning — the grassless ten thousand miles: clean ground deludes people; eight directions without a wisp of cloud: clear sky cheats you."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0485a07",
+          "ToLb": "0485b02",
+          "Kwic": "兩處成龍。進云：可謂龍得水時添意氣，虎逢山色長威獰。師云：無人處斫額望汝。僧禮拜，師乃云：秋初夏末，東去西去，萬里無寸草處去，出門便是草，擬向甚麼處去？古人事不獲已，開却通天大路，又謂之清淨大寂滅，悔與諸人同出同入，初無絲毫差別、彼我之相，直下會得，九十日內功不浪施，明朝自恣之辰，一任東去西去，只不得向萬里無寸草處去。何故？盖為諸人未曾踏著者一路子，所以前頭大有事在。雪峰云：盡大地是解脫門，把手拽不入。雲門云：盡大地是解脫門，枉作佛法會。却一處不通，兩處失功；兩處不通，觸途成滯。山僧道：盡大地是解脫門，過去、未來、現在三世諸佛盡在裏許，汝諸人亦在裏許。拈主丈云：主丈子亦在裏許，且道還有不在裏許者麼？良久，喝一喝云",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: having opened the ancients' sky-road and named it the great pure extinction, licensing the assembly to go east or west at tomorrow's Pravarana — only not to the grassless ten thousand miles."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0536c17",
+          "ToLb": "0536c30",
+          "Kwic": "事，正是男兒得意時。」示眾。「九年面壁，不逢作者不開拳；三遭痛棒，一遇知音便分付。坐禪成佛，何異蒸砂而作飯？磨磚作鏡，慣將直釣釣獰龍。所以道：事存函蓋合，理應箭鋒拄。若是針芥相投，自然水乳契合。格外承當一句又作麼生道？幾回斫額頻相望，誰是庭前立雪人？」示眾。舉：「洞山云：『初秋夏末，諸兄弟東去西去，只須向萬里無寸草處去。』又云：『萬里無寸草處作麼生去？』石霜云：『出門便是草。』太陽云：『不出門亦是草漫漫地。』」師云：「『萬里無寸草』，只道得一半，出門不出門，總是草裡漢。作麼生是轉身底句？但識目前無異路，何必行從鳥道歸？」師誕，上堂。「在家三十年，騰騰不造惡；出家三十年，兀兀不修善。正當六十時，不起聖凡見，等閒拈一機，",
+          "MasterName": "Luyan He",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Luyan He owns the retained deployment: after raising Dongshan's charge, Shishuang's grass-at-the-door and Ming'an's grass-even-inside, ruling that the formula only says half — out the door or in, they are all men in the grass — and demanding the turning-around phrase."
+        },
+        {
+          "RelPath": "J/J40/J40nB474.xml",
+          "FromLb": "0035b20",
+          "ToLb": "0035c05",
+          "Kwic": "僧傳語大梅云：「馬祖佛法近日不同，又道：『非心非佛。』」梅曰：「這老漢，惑亂人心未有了日，任他非心非佛，我秪是即心即佛。」馬祖聞之曰：「梅子熟也。」拈云：「馬祖翻掌是雲、覆掌是雨，大梅雖是不避風雨，從未勦絕在。且道如何得勦絕去？開口成雙橛，揚眉落二三。」舉：「洞山示眾云：『秋初夏末，兄弟或東或西，直須向萬里無寸草處去。』又云：『只如萬里無寸草處作麼生去？』石霜云：『出門便是草。』大陽云：『直道不出門，亦是草漫漫地。』」拈云：「這三個老漢只知一鼻孔出氣，未免身在草裏。盤山即不然，只如『萬里無寸草作麼生去？』止道：『荊棘叢中過，一葉不沾身。』」白雲祥和尚問僧：「不壞假名而談實相作麼生？」僧云：「遮箇是倚子。」白雲以",
+          "MasterName": "Liaozong Chaojian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB474.xml). Recorded Sayings of Chan Master Liaozong of Panshan. Liaozong Chaojian owns the retained deployment: judging the three old men of the exchange one nostril breathing and themselves standing in the grass, then answering his own question — through the bramble thicket, not one leaf wet."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0535a13",
+          "ToLb": "0535a25",
+          "Kwic": "德云：『一剎那間便轉大法輪。』請問：如何是轉大法輪？」師云：「緊峭草鞋。」僧禮拜，云：「一句迥超千聖外。」師打，云：「回得頭來也是遲。」問：「日來春回氣轉，如何是接木移花一句？」師云：「恰值山僧解制。」進云：「不遇中郎鑑，還同野舍薪。」師云：「恰是。」迺云：「末後一句始到牢關，作家禪客到這裏如何得過？若也向萬里無寸草處去，則平地上死人無數；更或於出門便是草處躲，跟透得荊棘林是好手。可中有箇竿木隨身、逢場作戲底，於恁麼、不恁麼處撥開一線，便見心月孤圓，與鐵樹銀花競彩；慧燈長耀，共金烏玉兔爭輝。果然具如是手腳，不須到諸方室內左挨右拶。慶雲這裏拄杖便兩手分付。何故？眾角雖多，一麟足矣。」敬華蔣居士率子公亮請為兩尊人對靈小參",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: warning in the small-evening instruction that to go to the grassless ten thousand miles leaves dead men beyond count on flat ground, while hiding where grass begins at the door takes a good hand threading brambles — the true performer poles open a line wherever he lands."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1986B.xml",
+        "T/T47/T47n1997.xml",
+        "X/X70/X70n1382.xml",
+        "T/T48/T48n2004.xml",
+        "X/X71/X71n1412.xml",
+        "J/J39/J39nB452.xml",
+        "J/J40/J40nB474.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Dongshan Liangjie",
+        "Yuanwu Keqin",
+        "Wuzhun Shifan",
+        "Wansong Xingxiu",
+        "Gulin Qingmao",
+        "Luyan He",
+        "Liaozong Chaojian",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Ten thousand miles without an inch of grass. Dongshan Liangjie, pressed by Huayan's honest admitting that he has no reasoning-path, rules that just so he must go to the grassless ten thousand miles — and when Huayan asks whether he may go there, seals it: just so, go; Yuanwu Keqin closes his retreat-dissolving verse on it — ninety days' work complete, no need to test the wax man, and yet though the ten thousand miles hold no inch of grass, the bag's mouth opens today; Wuzhun Shifan lists the ancients' moves at the retreat's end and tears them all off at once — Cuiyan's talking east and west, Yangshan's millet fields, Wenyuan's fall into donkey dung, Dongshan's trailing his heel toward the grassless ten thousand miles; Wansong Xingxiu opens his own hall instruction by pairing it — the grassless ten thousand miles: clean ground deludes people; eight directions without a wisp of cloud: clear sky cheats you. Gulin Qingmao, having opened the ancients' sky-road and named it the great pure extinction, licenses the assembly to go east or west at tomorrow's Pravarana — only not to the grassless ten thousand miles; Luyan He, after raising Dongshan's charge, Shishuang's grass-at-the-door and Ming'an's grass-even-inside, rules the formula only says half — out the door or in, they are all men in the grass — and demands the turning-around phrase; Liaozong Chaojian judges the three old men one nostril breathing, themselves standing in the grass, then answers his own question — through the bramble thicket, not one leaf wet; and Yushan Shangsi warns that to go to the grassless ten thousand miles leaves dead men beyond count on flat ground, while to hide where grass begins at the door takes a good hand threading the brambles — the true performer poles open a line wherever he lands."
+    }
+  ]
+}

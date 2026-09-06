@@ -1,0 +1,192 @@
+{
+  "Id": "t_fa6f30cfbb75",
+  "SourceTerm": "未出母胎，度人已畢",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:40:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "before leaving the womb, the delivering of beings was already done",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "not yet born, the delivering done",
+        "before birth the work was finished",
+        "out of the womb not yet, beings delivered already"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 202 hits in 120 files representing 120 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J37/J37nB388.xml",
+          "FromLb": "0448b21",
+          "ToLb": "0448b27",
+          "Kwic": "」師云：「換卻鼻孔，打失眼睛。」乃云：「踞虎頭，收虎尾，第一句下明宗旨。未離兜率，已降王宮；未出母胎，度人已畢，是第二句。世尊不說說，迦葉不聞聞，是第二句。乃至四七二三開士，千七百箇古錐，搖脣鼓舌，盡力提持，亦秪是第二句。然則第一句今日揆長老又如何舉揚？」驀豎拂子，云：「大眾見麼？如我按指，海印發光；",
+          "MasterName": "Yikui Yuankui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yikui Yuankui",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB388.xml). Recorded Sayings of Chan Master Yikui of Shending. Yikui Yuankui owns the retained deployment: runs the school's sentences — crouching the tiger's head, gathering the tiger's tail, the first sentence makes the purport clear; not yet left Tusita, already descended to the royal palace, not yet out of the mother's womb, the delivering already done — the second sentence."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0671a01",
+          "ToLb": "0671a06",
+          "Kwic": "僧擬進語，師連棒打退。問：「未離兜率，已降皇宮。且道承誰恩力？」師云：「馬便搭鞍。」進云：「未出母胎，度人已畢。受度何人？」師云：「驢便拽磨。」進云：「金雞未鳴時作麼生？」師云：「天曉猶瞌睡。」進云：「鳴後又如何？」師云：「日午打三更。」進云：「紅爐力盡無煙燄，萬里平田水自通。」師云：「看腳下。",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: pressed straight — the delivering done before birth, who received it? the donkey straightaway turns the mill; asked further what before the gold cock crows — daybreak and still dozing."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0084c09",
+          "ToLb": "0084c17",
+          "Kwic": "老僧從西階上，向東階下，若有個漢出來道：『老和尚袈裟著地也。』與我同參有分。」師誕日，上堂。「未離兜率，已降王宮，降王宮後，一場懡㦬。未出母胎，度人已畢，出母胎後，一場懡㦬。致使歷代釘樁搖櫓、把纜放船漢，個個盡道不動步而周遍十方，不開口而言滿天下。蒼天，蒼天，總不如東村西舍，胡張三、黑李四，朝隨流水去，暮踏白雲歸。前日有個衡廷道：『人道此是大解脫場，大無礙處。",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: takes the creed to his own birthday hall — the delivering done before birth, and after coming out of the womb? one great embarrassment — and the stake-driving, oar-pulling men of every generation all say it: without stepping, he pervaded the ten directions."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0642a09",
+          "ToLb": "0642a14",
+          "Kwic": "今朝十五，繩頭把住。還是舊店新開？為復別展家風？」師云：「金剛際下翻筋斗。」進云：「世尊未出母胎，度人已畢。和尚年當知命，說法五會，還有優劣也無？」師云：「閻浮提畔笑呵呵。」進云：「昔日世尊，今朝和尚。」師云：「他不入者隊裏。」進云：「誕生本是無修證，歷劫能為主法王。」師云：「更須翻身北斗藏。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: asked to rank it — the World-Honored finished before birth, the master at the age of knowing fate has taught five assemblies, any better or worse? — a laugh at the edge of Jambudvipa."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0130a07",
+          "ToLb": "0130a15",
+          "Kwic": "大須知有從上立地處，莫祇向迦葉門下淹沒。咦！者箇眼如優缽曇華，此宗安得不濫？」浴佛，上堂。「未離兜率，已降王宮；未出母胎，度人已畢。且道淨飯王宮中果有悉達太子麼？當時睹史多天又什麼人說法？作麼生說箇未離已降底道理？」卓拄杖一下，云：「此非你諸人明得底，不如禮拜了退。」繼住芥菴，結夏，上堂。「九十日待汝構取，且構取箇什麼？",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: at the bath-buddha hall turns the creed inside out — was there really a Siddhartha in the Pure-rice king's palace? who then was teaching in Tusita? and how does one say not-yet-left-yet-already-descended?."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0318a12",
+          "ToLb": "0318a19",
+          "Kwic": "且修因結果一句作麼生道？」良久，云：「一超直入如來地，腳踏蓮花步步生。」下座。佛誕，上堂。問：「未出母胎，度人已畢，和尚儼然，將何指示？」師云：「天無私蓋，地無私載。」進云：「世尊出世，度盡眷屬，和尚出世，眷屬還度盡否？」師云：「明眼人難瞞。」進云：「家裏人說家裏話，如何是家裏話？」師云：「金鍾敲動一天星。",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment: at the birth hall — the delivering done, the master stands here in person: what will he point with? heaven covers without partiality, earth carries without partiality."
+        },
+        {
+          "RelPath": "J/J38/J38nB425.xml",
+          "FromLb": "0640a02",
+          "ToLb": "0640a09",
+          "Kwic": "師云：「龍泉聰禪師因僧問云：『今朝四月八，天下叢林皆慶如來降誕，未審如來向甚處降生？』泉於几上畫圓相示之。」師召大眾云：「若有會得者一圈落處，未出母胎，度人已畢，透脫死生，是甚閒事？其或未然，悉達太子又向者圈裏出生，度諸有情；勝茂信濃守暨五位覺靈亦向者圈裏入滅，承佛記莂。雖然，此猶是建化門頭事，若是出格丈夫，超情離見，別有生涯，正當恁麼時，把斷要津，不通凡聖。",
+          "MasterName": "Jifei Ruyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jifei Ruyi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB425.xml). Complete Record of Chan Master Jifei. Jifei Ruyi owns the retained deployment: raises Nanquan, asked where the thus-come one would be born, drawing the circle on the table — grasp where that one circle lands and the delivering was done before birth, and crossing free of birth-and-death a mere idle thing."
+        },
+        {
+          "RelPath": "J/J40/J40nB474.xml",
+          "FromLb": "0031c15",
+          "ToLb": "0031c22",
+          "Kwic": "」便打，乃云：「天不能蓋，地不能載，風不能吹，日不能晒，八面玲瓏，縱橫自在，亙古亙今，無變無壞。既然如是，釋迦老子未離兜率，已降皇宮；未出母胎，度人已畢。且道諸人還知這箇消息也無？若道無，人人具足，箇箇圓成；若道有，即今又在什麼處？還會麼？其或未然，更與通箇消息去也。佛祖機關窮徹底，白雲深處不藏身。」秉拂。乃云：「若論此事，本無言說；",
+          "MasterName": "Liaozong Chaojian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaozong Chaojian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB474.xml). Recorded Sayings of Chan Master Liaozong of Panshan. Liaozong Chaojian owns the retained deployment: sets it under the eight-sided, unchanging pearl — since it is thus, the old man Shakyamuni finished before birth: say no, each endowed, each complete; say yes, and where is it right now?."
+        }
+      ],
+      "SourceTexts": [
+        "J/J37/J37nB388.xml",
+        "J/J26/J26nB187.xml",
+        "J/J27/J27nB190.xml",
+        "J/J36/J36nB359.xml",
+        "J/J38/J38nB406.xml",
+        "J/J38/J38nB410.xml",
+        "J/J38/J38nB425.xml",
+        "J/J40/J40nB474.xml"
+      ],
+      "RelatedMasters": [
+        "Yikui Yuankui",
+        "Tian'an Sheng",
+        "Shiyu Mingfang",
+        "Baiyu Jingsi",
+        "Tianran Hanshi",
+        "Lianfeng Su",
+        "Jifei Ruyi",
+        "Liaozong Chaojian"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The creed: not yet left Tusita, already in the royal palace; not yet out of the womb, the delivering of beings already done. The halls take it up on the buddha's birthday and on their own — and ask: who was delivered? Why then forty-nine years of talk, six years on the snow? Who received it: Tian'an Sheng is pressed straight — the delivering done before birth, who received it? — the donkey straightaway turns the mill; and before the gold cock crows? — daybreak and still dozing; Baiyu Jingsi is asked to rank it — the World-Honored finished before birth, and the master at the age of knowing fate has taught five assemblies: any better or worse? — a laugh at the edge of Jambudvipa; Lianfeng Su at the birth hall — the delivering done, the master stands here in person: what will he point with? — heaven covers without partiality, earth carries without partiality; Tianran Hanshi at the bath-buddha hall turns the creed inside out — was there really a Siddhartha in the Pure-rice king's palace? who then was teaching in Tusita? and how does one say not-yet-left-yet-already-descended? The slot it holds: Yikui Yuankui runs the school's sentences — crouching the tiger's head, gathering the tiger's tail, the first sentence makes the purport clear; not yet left Tusita, already descended to the royal palace, not yet out of the mother's womb, the delivering already done — the second; Shiyu Mingfang takes it to his own birthday hall — and after coming out of the womb? one great embarrassment — so that the stake-driving, oar-pulling, cable-holding, boat-loosing men of every generation all say it: without stepping he pervades the ten directions; Jifei Ruyi raises Nanquan, asked where the thus-come one would be born, drawing the circle on the table — grasp where that one circle lands and the delivering was done before birth, and crossing free of birth-and-death a mere idle thing; Liaozong Chaojian sets it under the eight-sided, unchanging pearl — since it is thus: say no, each endowed, each complete; say yes, and where is it right now?"
+    }
+  ]
+}

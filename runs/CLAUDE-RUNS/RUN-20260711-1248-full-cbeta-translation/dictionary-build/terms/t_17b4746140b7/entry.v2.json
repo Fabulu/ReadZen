@@ -1,0 +1,238 @@
+{
+  "Id": "t_17b4746140b7",
+  "SourceTerm": "雖然如是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-05T23:41:30Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "even so",
+      "AlternateTargets": [
+        "that being so"
+      ],
+      "SearchAliases": [
+        "though this is so",
+        "that being so",
+        "even thus"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 3024 hits in 327 files representing 322 independent works. Evidence floor: 8. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0107b09",
+          "ToLb": "0107b22",
+          "Kwic": "杖卓一卓，云：「向者裏轉一機通一路，則知十五日已前也如是，十五日已後也如是，正當十五日亦復如如是，所以恁麼也得，不恁麼也得，恁麼與不恁麼總得。且道意旨如何？一擘華山分兩路，萬年流水不知春。」復舉：「臨濟栽松次，黃檗云：『深山裏栽許多松作麼？』濟云：『一與山門作境致，二與後人作標榜。』以钁頭築地三下，檗云：『雖然如是，子已喫吾三十棒了也。』濟又築地三下，噓兩聲，檗云：『吾宗到汝，大興於世。』」師云：「山僧偶有一頌，說似大眾：拶著當頭便舉伊，分明覿面展全機，饒伊據令如雷急，更撥些兒獨步歸。」下座。重陽上堂，「今朝九月初九，衲僧要脫窠臼，眼開不用登高，平步大觀宇宙，秪如五臺山上雲蒸飯，佛殿階前狗尿天，是什麼香臭？者裏剖析",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Huangbo Xiyun owns the retained deployment, conceding Linji's planting answer while tallying the thirty blows already received."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0351a05",
+          "ToLb": "0351a20",
+          "Kwic": "句中薦得，遊子返於故鄉；意中薦得，方解事於尊堂。若然者，須是轉身吐氣始得。若能如是，方解百尺竿頭進步。句中無意，意中無句，既能如是，且作麼生轉身吐氣？若也不會，拄杖子為汝吐氣去也。卓拄杖，下座。舉：先百丈禪師示眾云：百丈有三訣，喫茶珍重歇，直下若承當，知君猶未徹。師拈云：百丈與麼道，美則美矣，善則善矣。雖然如是，即有順水之波，且無滔天之浪。山僧即不然，琅琊有三訣：淥水青山月，三冬枯木花，九夏寒巖雪。珍重！慈明圓禪師語嗣汾陽慈明圓禪師語嗣汾陽語要師在崇勝院開堂，白椎罷，師乃云：大眾會麼？宜陽秀水，南嶽石橋；若也不會，山僧謾你諸人去也。所以達磨西來，教外別傳一句。且道別傳箇什麼？直指人心，見性成佛。只如",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Langye Huijue owns the retained deployment, praising Baizhang's verse and then withholding from it the tidal wave his own three secrets must carry."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0648c07",
+          "ToLb": "0649a01",
+          "Kwic": "普為侍者在師後立云座主這裡是什麼所在說同說別師回首問侍者汝又作麼生侍者便喝師送座主回來遂問侍者適來是汝喝老僧侍者云是師便打師聞苐二代德山垂示云道得也三十棒道不得也三十棒師令樂普去問道得為什麼也三十棒待伊打汝接住棒送一送看佗作麼生普到彼如教而問德山便打普接住送一送德山便歸方丈普回㪯似師師云我󴌰來疑著這漢雖然如是汝還見德山麼普擬議師便打。王常侍一日訪師同師於僧堂前看乃問這一堂僧還看經麼師云不看經侍云還斈禪麼師云不斈禪侍云經又不看禪又不斈畢竟作箇什麼師云㹅教伊成佛作祖去侍云金屑雖貴落眼成翳又作麼生師云將為你是箇俗漢。師問杏山如何是露地白牛山云吽吽師云啞那山云長老作麼生師云這畜生。師問樂普云󴌰上來一人行棒一人行",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Linji Yixuan owns the retained deployment, conceding his lingering doubt about the man and immediately asking whether his messenger still sees Deshan."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0013b23",
+          "ToLb": "0013c14",
+          "Kwic": "身？云：與麼，與麼。師云：這箇是長連床上學得底。我且問汝：法身還解喫飯麼？僧無對。師云：須知是學語之流。雪竇顯云：將成九仞之山，不進一簣之土，過在甚麼處？梁山庵主云：雲門直得入泥入水。玄覺云：喚甚麼作飯？圓悟勤云：雲門可謂駈耕夫之牛，奪飢人之食，權衡佛祖，龜鑑宗乘。所以後來尊宿，各出眼目，扶竪大教。雖然如是，只明得法身邊事，未明得法身向上事。且道如何是法身向上事？域中無向背，閫外有權衡。南堂靜頌云：韶陽機鋒，迅雷霹靂。僧問法身，喫飯不喫？學語之流，卒說不出。山河大地聊充饑，四海五湖輕一吸。雲門云：光不透脫，有兩般病：一切處不明，面前有物，是一；又透得一切法空，隱隱地似有箇物相似，亦是光不透脫。又法身亦有兩",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Yuanwu Keqin owns the retained deployment, crediting the later worthies with upholding the way while denying them the affair beyond the truth body's side."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0514a18",
+          "ToLb": "0514b02",
+          "Kwic": "嶂冷，和風纔起萬溪春。」驀擲拄杖下座。示眾，舉：「乾峰云：『舉一不得舉二，放過一著，落在第二。』雲門出眾云：『昨日有人從天台來，卻往徑山去。』乾峰召維那云：『來日不得普請。』」師拈云：「乾峰當時恰似誘人犯法，好與三十棒；雲門雖是見兔放鷹，亦是忘前失後。諸人到此，切不得放過。乾峰末後云『來日不得普請』底句，雖然如是，也是賊過後張弓。」頌云：「漁翁終日在灘頭，釣得金鱗始便休；放去收來風浪穩，坐看明月下滄洲。漫悠悠，千尺絲綸任意浮，活脫鰲頭驚卻餌，蘆花汀裏去藏舟。」示眾，舉：「世尊九十日在忉利天為母說法，及辭天界下，時四眾八部俱往虛空界迎，有蓮華色比丘尼作念云：『我是尼身，必居大僧後見佛。不如用神力變作轉輪聖王，千子",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment, conceding Ganfeng's closing order while calling it a bow drawn only after the thief has gone."
+        },
+        {
+          "RelPath": "X/X72/X72n1440.xml",
+          "FromLb": "0645c21",
+          "ToLb": "0646a11",
+          "Kwic": "日重相見，道愛尤藹然。虔修香積供，請我啟法筵，愧余無法說，何以答高賢？記得昔日僧問馬祖：如何是佛？祖云：即心是佛。一日又云：非心非佛。後來南泉和尚云：不是心，不是佛，不是物。大眾！馬祖、南泉三語還有親疎也無？若揀辨得明白，許渠入門；如或不然，不免道破：親則總親，疎則總疎。為什麼總疎？我王庫中無如是寶刀。雖然如是，只如南泉道：不是心，不是佛，不是物。畢竟是箇甚麼？大眾會麼？觀河不改初年見，謾道昔人非昔人。僧綱亦能上座領諸山請，上堂。鼓山不露頂，一切塵中現，處處得相逢，佛眼覰不見。既相逢，為甚麼不見？會麼？石女登機音軋軋，木人打鼓韻鼕鼕。弟子太充、太圓請上堂。一十四年前，金烏玉兔茫茫去；一十四年後，夢境空花疊疊來。",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Weilin Daopei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1440.xml). Chan Master Weilin Daopei’s Return to the Mountains Record. Weilin Daopei owns the retained deployment, granting the closeness of Mazu's three answers and at once pressing what Nanquan's words finally are."
+        },
+        {
+          "RelPath": "X/X67/X67n1310.xml",
+          "FromLb": "0635a11",
+          "ToLb": "0635b02",
+          "Kwic": "云：溈山喫一盞茶，也被仰山撼動一上，猶幸老而不耄，壯力尚存，不行棒喝，而有過於德山、臨濟之用。若撿點得出，作家師僧。舉：溈山問仰山：即今事且致，自古事作麼生？仰叉手近前。溈云：猶是只今事，自古事作麼生？仰叉手退後。溈云：汝屈我，我屈汝。佛鑑拈云：仰山雖善進前退後、發明古今，其柰溈山向餬餅裏呷汁、壓沙覓油。雖然如是，且道仰山叉手意作麼生？若也知得，行脚事辦；其或未然，老僧不曾辜負諸人，自是諸人辜負老僧。正覺云：仰山進前退後，洞古明今，溈山因甚道彼此相屈？相見錦江頭，相携上酒樓。會醫還少病，知分不多愁。佛海云：近前退後，叉手當𮌎。通古貫今，當機覿面。美則美矣，須知有不落古今事。若道得，彼此不虗屈。不然，切忌驢前馬",
+          "MasterName": "Fojian Huiqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fojian Huiqin",
+              "Roles": [
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1310.xml). Picking Up Jewels from the Eight Directions Collection. Fojian Huiqin owns the retained deployment, conceding Yangshan's advance and retreat while opening the question of what the folded hands intend."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0002b20",
+          "ToLb": "0002c03",
+          "Kwic": "復擊拂云：「一切智智清淨無二、無二分，無別、無斷故，禹門院裡上堂，四大部洲打鼓，南山起雲，北山下雨，且道簑衣箬笠向甚麼處著？有知著落處者，出來對眾通個消息；若也未知，恰是開眼瞌睡。禹門如此告報，莫有不甘底衲僧奮性出來，把腳拽下座前，爛搥一頓，共助無為之化，寧不謂之好事者哉？」又良久，云：「原來一隊郎當漢，雖然如是，逢人切莫錯舉。」擲下拂子。復舉：「波斯匿王問佛云：『勝義諦中還有世俗諦否？若言其有，智不應一；若言其無，智不應二。一二之義，其義云何？』佛言：『大王！汝於過去龍光佛所曾問此義，我今無說，汝亦無聞。無說、無聞，是名一義、二義。』今日忽有人問：『禹門勝義諦中還有世俗諦否？若言其有，智不應一；若言其無，智不應",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, conceding the hall's mood and then warning them never to cite it wrongly to anyone."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0813b14",
+          "ToLb": "0813c01",
+          "Kwic": "謦欬無非佛之妙用。既是佛之妙用。則不從人得。既不從人得。亦不在己躬。既不在己躬。則內不放出外不放入。既外不放入則外息諸緣。內不放出。則內心無喘。既內心無喘外息諸緣。則一切智通無障礙。既無障礙。則一切智智清淨。無二無二分。無別無斷故。正當恁麼時。不是世間法。亦非出世間法。拽取占波國與新羅國鬪額。豈是分外。雖然如是。更有事在。敢問諸人。只如忠國師為甚麼却道。欽師猶被馬師惑。即今莫有定當得出底麼。若定當得出。許爾諸人。盡是出格道人。其或未然。徑山據欵結案去也。良久云。在舍只言為客易臨筌方覺取魚難。上堂。僧問。靈山會上迦葉親聞。少室峯前神光得髓。即今座下誰是知音。師云。裂破舌頭。進云。可謂卞氏場中多巨璞。孟嘗門下足",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, granting that nothing is extra and immediately declaring that an affair still remains for the assembly."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0229a14",
+          "ToLb": "0229a26",
+          "Kwic": "泥牛撞入海，波斯沒處藏也。」師連棒打退。問：「今日結制之期，請問和尚離情絕見一句作麼生道？」師翹腳示之。進云：「恁麼則石人舞掌笑呵呵去也。」師便打。問：「和尚上堂，鐘聲鼓響。鐘鼓響後，聲落何處？」師云：「山僧耳聾。」乃豎拂子云：「三世諸佛、歷代祖師、天下老和尚，都向山僧拂子頭上結制，猶如寶網交羅，互攝互入。雖然如是，更有一人呵呵大笑。且道笑個甚麼？若人拂袖便行，敢保坐斷報化佛頭，掀翻是非窠臼，日消萬兩黃金不為分外。脫或躊躇，未免作死馬醫。十方高人聚會，正值聖制之日。黃檗不循舊例，貴在單刀直入，磕碎露柱燈籠，打翻銀山鐵壁，安南塞北並收，萬境千機頓息。得到與麼田地，速來方丈通箇消息。」喝一喝云：「也是糊餅裏捏汁。」下座。",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, conceding that the whole array gathers on his whisk and then naming the one person who laughs aloud."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J26/J26nB178.xml",
+        "X/X68/X68n1318.xml",
+        "C/C077/C077n1710.xml",
+        "X/X67/X67n1299.xml",
+        "J/J25/J25nB171.xml",
+        "X/X72/X72n1440.xml",
+        "X/X67/X67n1310.xml",
+        "J/J10/J10nA158.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J27/J27nB193.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Feiyin Tongrong",
+        "Langye Huijue",
+        "Linji Yixuan",
+        "Yuanwu Keqin",
+        "Tianyin Yuanxiu",
+        "Weilin Daopei",
+        "Fojian Huiqin",
+        "Miyun Yuanwu",
+        "Dahui Zonggao",
+        "Yinyuan Longqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A concessive hinge that grants what has just been said and at once turns it. Huangbo Xiyun grants Linji's planting answer while counting the thirty blows already taken, Langye Huijue praises Baizhang's three secrets and withholds the tidal wave, Linji Yixuan concedes his lingering doubt about Deshan and asks whether his messenger still sees him, Tianyin Yuanxiu grants Ganfeng's closing order while calling it a bow drawn after the thief has gone, and Fojian Huiqin concedes Yangshan's advance and retreat while opening the question of the folded hands. Yuanwu Keqin credits the later worthies with one side of the truth body and not its upward affair, Weilin Daopei grants the closeness of Mazu's three answers and presses what Nanquan's words finally are, Miyun Yuanwu grants the hall's mood and warns against citing it wrongly, Dahui Zonggao grants that nothing is extra and declares that an affair still remains, and Yinyuan Longqi grants that the whole array knots on his whisk and names the one who laughs aloud."
+    }
+  ]
+}

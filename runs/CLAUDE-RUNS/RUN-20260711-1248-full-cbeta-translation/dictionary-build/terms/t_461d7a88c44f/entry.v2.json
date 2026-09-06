@@ -1,0 +1,172 @@
+{
+  "Id": "t_461d7a88c44f",
+  "SourceTerm": "眼光爍破四天下",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:48:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "eye-flash breaks open the four worlds",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the flash of the eye shatters the four continents",
+        "eyes blazing through the four quarters of the world",
+        "eye-light cracks the fourfold world"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 123 hits in 86 files representing 84 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0830c11",
+          "ToLb": "0830c18",
+          "Kwic": "擊碎蟠桃核。得見箇中仁。箇中仁既見。此道出常情。且道出常情一句作麼生道。還委悉麼。眼光爍破四天下。主盟此道是渠儂。復云。適來蒙堂頭老人舉。僧問香林。如何是衲衣下事。林云。臘月火燒山。師云。此是香林語。堂頭今日舉育王隨摟摗也未敢相許。因甚麼未敢相許。選佛若無如是眼。假饒千載又奚為。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: set to give the line beyond common feeling, gives the cracked peach-stone verse and closes: the eye-flash breaks open the four worlds — the pledge-lord of this way is that one."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0668c12",
+          "ToLb": "0668c19",
+          "Kwic": "』又打。婆聞曰：『趙州合喫婆手裏棒。』州聞哭曰：『可悲可痛！』婆聞歎曰：『趙州眼光爍破四天下。』州令僧問婆：『如何是趙州眼？』婆豎起拳頭。州聞以偈問曰：『當機覿面提，覿面當機疾；報汝淩行婆，哭聲何得失？』婆以偈答曰：『哭聲師已曉，已曉復誰知？當時摩竭國，幾喪目前機。』看這婆子只世間俗婦，尚能洞透佛祖心肝，海會道人豈可不通宗師血脈？",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Wuming Huijing owns the retained deployment: raises the Taishan widow whole — the beatings, her ruling that Zhaozhou deserves her staff, his weeping pitiable-and-painful, her folded-hand praise that his eye-flash breaks open the four worlds — and when he sends to ask what the Zhaozhou eye is, she raises a fist."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0591b13",
+          "ToLb": "0592a12",
+          "Kwic": "流轉師云龍頭蛇尾進云恁麼禮拜和尚去也師云學語之流問如何是本來面目師舉扇示云不得喚作扇僧禮拜師云伶俐衲僧僧舉古德三問求代答示師云歷問將來進云穩坐家堂主人公因甚不識師云何不道幸是大人進云掀翻大海摑碎須彌平地上因甚擡腳不起師云何不道曾問幾人來進云眼光爍破四天下自己眉毛落盡因甚不見師代隨聲便喝師謂僧云我有一方濟世大黃八兩水二碗濃煎頓服你肯喫麼進云某甲無病師云再加四兩一居士作禮云且喜醫王出世師云服後如何進云作風作顛師良久云我不答是肯你不肯你進云待肯堪作甚麼師云渣再煎進云請師珍重師大笑僧作禮師云你禮拜因甚頭不著地僧無語侍僧進云也知和尚年尊師大笑師落堂云昨夜三更時分諸人眼裏各生三株梅樹還知麼維那云謝師證明師云眼裡著不得屑你為甚麼眼裏放得三根梅樹那云大家在者裏師云今日一總放過那禮拜",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: takes the monk's ask — the eye-flash breaks open the four worlds, one's own brows all fallen off: why does one not see? — answers in his place with a shout at the sound, then offers the world-healing prescription of rhubarb eight ounces in two bowls, boiled thick, drunk at once."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0083a08",
+          "ToLb": "0083a15",
+          "Kwic": "」仍為作真贊云：「菩薩面，夜叉心，惡聲流播滿叢林，禹門浪急龍騰處，翻轉山河大地沉。佛也打、祖也打，眼光爍破四天下。阿師大似敗家婆，教得孩兒會相罵。牛頭沒、馬頭回，狂風驟雨滿天來，四方八面相追逼，縱有神通掣不開，行腳僧會不會？腦後一槌百雜碎，沙界眾生結大冤，禿奴忒殺無慚愧，風顛漢，老成魔，諸方那個柰伊何？",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: praises the staff-wielder in verse — bodhisattva face, yaksha heart, ill repute streaming through the groves — he beats buddhas and beats ancestors, the eye-flash breaking open the four worlds: like a family-wrecking wife who taught the child to curse."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0599c12",
+          "ToLb": "0599c20",
+          "Kwic": "禪人請禪人請堂堂之軀，敢未是伊，伊恰是我，我不是伊。咄！直饒恁麼會得，也是瞎驢。這個老禿奴，胸中一字無，拈條楖栗棒，佛祖難近傍。眼光爍破四天下，即今還坐枯藤上。咄！若然會得遮些兒，雙手與你這柱杖。煙霞老漢，兀坐無伴，四十餘年，無思無筭。揚斯白拂，判斷公案，至精至微，非枝非幹。若還撞著箇多口阿師，呵呵大笑云：「饒你文言瀚漫，切忌自毀自贊。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: praises the old man of mists and smoke — not one word in his chest, a chestnut-wood staff in hand that buddhas and ancestors cannot come near — the eye-flash breaks open the four worlds, and he sits now on the withered vine."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0532a14",
+          "ToLb": "0532a20",
+          "Kwic": "』且道與古人相去多少？」小參。「笠下清風，胸次無塵始見；杖頭明月，頂門具眼方窺。汝等各各眼光爍破四天下，還見興化老做處麼？」眾無對。師云：「一似瞎。」復舉：「盤山云：『向上一路，千聖不傳。』慈明云：『向上一路，千聖不然。』大慧云：『向上一路，熱碗鳴聲。』」師云：「三大老總只發明得向下一路。",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment: hands it to the assembly — under the hat a clear wind, a moon on the staff-head, the eye at the crown — you each flash the eye through the four worlds: do you see old Xinghua's doing? The assembly has nothing: just like blind."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0580b08",
+          "ToLb": "0580b12",
+          "Kwic": "問：「指天指地則且置，羅龍打鳳事如何？」師云：「今日打著一箇。」進云：「忽有箇眼光爍破四天下底到來，又作麼生？」師云：「你道山門前幾人坐臥？」進云：「要明今日事，不許外人知。」師云：「賺煞老僧。」僧便喝，師便打。問：「錫標邗上，御賜蕭閒，杯渡琴川，有何祥瑞？」師云：「有眼者見。",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: asked — if one arrives whose eye-flash breaks open the four worlds, what then? — answers: how many sit and lie before your mountain gate?."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J25/J25nB173.xml",
+        "B/B27/B27n0152.xml",
+        "J/J10/J10nA158.xml",
+        "J/J25/J25nB171.xml",
+        "J/J37/J37nB390.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Wuming Huijing",
+        "Yulin Tongxiu",
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Chulin Shangrui",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The widow's verdict: Zhaozhou weeps at her words — pitiable, painful — and she folds her hands: Zhaozhou's eye-flash breaks open the four worlds. He sends a monk to ask what that eye is; she raises a fist. The halls now hand the eye-flash to everyone — and ask why, brows fallen off, one still does not see. The verdict and its verse: Wuming Huijing raises the Taishan widow whole — the beatings, her ruling that Zhaozhou deserves her staff, his weeping pitiable-and-painful, her folded-hand praise that his eye-flash breaks open the four worlds — and when he sends to ask what the Zhaozhou eye is, she raises a fist; Dahui Zonggao, set to give the line beyond common feeling, gives the cracked peach-stone verse and closes: the eye-flash breaks open the four worlds — the pledge-lord of this way is that one. The eye handed round: Yulin Tongxiu takes the monk's ask — the eye-flash breaks open the four worlds, one's own brows all fallen off: why does one not see? — answers in his place with a shout at the sound, then offers a world-healing prescription: rhubarb, eight ounces, two bowls of water, boiled thick, drunk at once — will you take it?; Miyun Yuanwu praises the staff-wielder in verse — bodhisattva face, yaksha heart, his ill repute streaming through the groves — he beats buddhas and beats ancestors, the eye-flash breaking open the four worlds: the master is like a family-wrecking wife who taught the child to curse; Tianyin Yuanxiu praises his old man of mists and smoke — this old bald slave, not one word in his chest, a chestnut-wood staff in hand that buddhas and ancestors cannot come near — the eye-flash breaks open the four worlds, and he sits now on the withered vine; Chulin Shangrui hands it to the assembly — under the hat a clear wind, a moon on the staff-head, the eye at the crown — you each flash the eye through the four worlds: do you see old Xinghua's doing? The assembly has nothing: just like blind; Yushan Shangsi is asked — if one arrives whose eye-flash breaks open the four worlds, what then? — how many sit and lie before your mountain gate?"
+    }
+  ]
+}

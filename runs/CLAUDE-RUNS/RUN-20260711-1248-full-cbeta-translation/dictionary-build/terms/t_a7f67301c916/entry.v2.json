@@ -1,0 +1,171 @@
+{
+  "Id": "t_a7f67301c916",
+  "SourceTerm": "我手何似佛手",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T01:07:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "my hand — how does it resemble the buddha's hand?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "my hand and the buddha's hand",
+        "Huanglong's hand barrier"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 209 hits in 118 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998B.xml",
+          "FromLb": "0943b19",
+          "ToLb": "0943c07",
+          "Kwic": "開。棒了罰錢趁出院。慈明瑯瑯大愚等數人辭汾陽。相讓不肯為參頭。汾陽云。此行不可以戒臘推。聽吾一頌。天無頭吉州城畔展戈矛。將軍疋馬林下過。圓州城裏鬧啾啾。慈明出班云。楚圓何人敢當此記莂。遂領眾拜辭。湛堂準和尚初參真淨。淨問近離甚處。準云大仰。夏在甚處。準云大溈。淨云。甚處人事。準云。興元府。淨展兩手云。我手何似佛手。準罔措。淨云。適來祇對一一靈明天真。及乎道箇佛手便成窒礙。且道病在甚處。準云。某甲不會。淨云。一切現成更教唯會。暹道者久參雪竇。竇欲舉住金鵝。暹聞之夜潛書偈於方丈壁間即遁去。偈曰。不是無心繼祖燈。道慚未廁嶺南能。三更月下離巖竇。眷眷無言戀碧層。又曰。三十餘年四海間。尋師擇友未甞閑。今朝得到無心地。却",
+          "MasterName": "Zhenjing Kewen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhantang Wenzhun",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998B.xml). Dahui Pujue’s Armory of the Chan School. Zhenjing Kewen owns the retained deployment: testing the young Zhantang Wenzhun on his first visit — where from, Great Yang; where spent the summer, Great Wei; what place's man, Xingyuan-fu — then spreading both hands: my hand, how does it resemble the buddha's hand? and on Zhantang's standing at a loss, diagnosing: the answers just now were each one numinous and innate, and the moment buddha-hand was said it became stoppage — where is the sickness? — until the ready-made ruling: everything is complete, whom else should it teach?."
+        },
+        {
+          "RelPath": "X/X70/X70n1388.xml",
+          "FromLb": "0107b10",
+          "ToLb": "0108a05",
+          "Kwic": "到之地、歸者歸無歸之鄉，已過關者掉臂而行、未過關者從門而入，益無所益、為無所為，鼓舞皇風，優游聖世。正當恁麼時如何？蒲團靜倚無餘事，永日寥寥謝太平。復舉：三聖問雪峯：透網金鱗，未審以何為食公案？師拈云：金鱗振𩮻擺尾，搖蕩乾坤；鱉鼻噴毒揚威，崩騰雲霧。諸人要知二大老落處麼？等閑相見處，莫作等閑看。當晚小參。我手何似佛手？十指參差。我脚何似驢脚？四蹄踏地。人人盡有生緣，如何是上座生緣？耳朵兩片皮，牙齒一具骨。恁麼會得，便見積翠老人面目見在，時時與諸人同一飲󲣅、同一受用，不背一人、不向一人，念念與諸人向第二義門談不二法，不住本際、不離本際。雖然如是，因甚十箇有五双？蹉過也不知。拍禪床，云：只為分明極，翻令所得遲。復舉黃龍南",
+          "MasterName": "Huanxi Weiyi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1388.xml). Recorded Sayings of Chan Master Huanxi Weiyi. Huanxi Weiyi owns the retained deployment: answering all three passes at the evening small-instruction: my hand — how does it resemble the buddha's hand? ten fingers uneven; my foot — how does it resemble a donkey's foot? four hooves treading the ground; everyone has a birth-place — ears two sheets of skin, teeth one set of bone; so understanding it, one sees the Jicui old man's face right here, sharing every drink and every enjoyment, betraying no one, favoring no one."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0728a07",
+          "ToLb": "0728b09",
+          "Kwic": "歸自是多情惹是非月落畫堂人去後不堪歡笑只堪悲兜率和尚三關性在甚處赤脚波斯叩海門黑風吹浪暗昏昏三更掣斷青霞鎻笑看驪龍戲子孫四大分散作麼生脫空奮雙拳窮滴滴橫擔片板赤條條夜來得箇揚州夢騎鶴腰錢跨九霄眼光落地向甚處去鐵狗銅蛇正奮瞋風刀火鋸肉成塵茫茫長夜幾經刦舉眼無親怕殺人黃龍三關我手何似佛手也解攀花折柳牀頭脫落秤槌打破竈前熨斗我脚何似驢脚󷘓轉草鞋倒著走遍四大神州寸步那曾踏著人人有箇生緣夜半胡孫駕船撞破黑風白浪踏󷘓水底青天佛手驢脚生緣三關一句齊宣更問如何即是黃龍口裏無涎達磨一日命門人各言所得遂分皮髓云云九年冷坐一旦惺惺是非易辨得失難明分張皮肉骨髓令人路",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: versifying the three passes: the hand too can pluck flowers and snap willows; the scale-weight drops by the bed, the smoothing-iron breaks before the stove; the foot turns the straw sandal and walks it backwards across the four great continents without one step ever treading; the birth-place — a macaque at the tiller at midnight smashing through black wind and white waves; buddha-hand, donkey-foot, birth-place declared in one phrase, and for the ask-what-then: Huanglong's mouth holds no drool."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0033a23",
+          "ToLb": "0033b06",
+          "Kwic": "分，如何辨得主中主？』遂說偈曰：『嗟見今時學道流，千千萬萬認門頭，卻似入京朝帝主，才到潼關即便休。』正切時輩參禪之病。又有一種，打入骨董袋，學相似語者。問他青州布衫，他道：脫不下。問他狗子為甚麼無佛性？他道：若論佛性，非但狗子。又指燈籠問渠，他道：杭州買來底。又問露柱，作麼生道？他說是桐油灰布底。又問：『我手何似佛手？』曰：『月下弄琵琶。』『我腳何似驢腳？』曰：『穿靴水上立。』『人人有箇生緣，上座生緣在甚麼處？』曰：『某甲是秀州人。』倚墻傍壁，弱羽循支，語不離窠臼，安能出蓋纏，情識依通，落在蘊魔界中。又有道：『祖師西來意，極是徑捷，天晴日頭出，雨落地下溼。大盡三十日，小盡二十九，如何是道？墻外底，如何是佛？殿裏底。』",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: diagnosing the curio-bag imitators who learn resemblance-words: asked the hand-question they answer plucking the pipa beneath the moon; asked the foot, standing in boots on the water; asked the birth-place, I am a man of Xiu Prefecture — leaning on walls, weak wings on low branches, words never leaving the ruts, sunk in the aggregate-demon realm."
+        },
+        {
+          "RelPath": "J/J33/J33nB286.xml",
+          "FromLb": "0495b14",
+          "ToLb": "0495b27",
+          "Kwic": "話墮。輪扁得手，要在忘功；承蜩意鉤，貴乎不犯。當暗中有明，佛殿卻跨山門；當明中有暗，山門騎佛殿。得此機用，在天而天、在人而人，一毫頭上現寶王剎、一微塵內轉大法輪，如是君親恩、師長恩、眾生恩，一時報畢。故居學地，須知先聖垂慈，一機、一境、一語、一脈，必要裂破汝面門、乾盡汝識浪。如黃龍禪師每以三句驗人：一云：『我手何似佛手？』二云：『我腳何似驢腳？』三云：『人人有箇生緣。』上座！生緣在甚麼處？生平罕有契其機者，目之黃龍三關，古今拈頌者更多，錯解者不少。今日承此恩力，特將此三句頌出，為諸人應箇時節。『我手何似佛手？』圖窮忽現匕首，祖龍一見魂驚，易水光衝牛斗。『我腳何似驢腳？』虎兕忽遭出柙，黔驢吞卻大蟲，潘閬幾乎笑煞。『人人有",
+          "MasterName": "Yingning Zhijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB286.xml). Recorded Sayings of Chan Master Yingningjing. Yingning Zhijing owns the retained deployment: setting the three passes inside the ancestors' kindness — every device, every setting, every phrase must split the face-gate and dry the consciousness-waves; Huanglong tested people with these three lines, few ever matched his trigger, the school named them the three barriers, many have capped them and many misread them — then, borne by that grace, versifying all three: the map runs out and suddenly the dagger shows; the First Emperor sees it and his soul flies."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0169c16",
+          "ToLb": "0169c28",
+          "Kwic": "師云：「如何是無同無別底意旨？」居士亦驀豎拳，師云：「迦葉微笑，意旨如何？」居士云：「迦葉惱他。」師頷之。僧參，問：「三千里同風即不問，踞坐當軒事若何？」師云：「與你三十棒。」進云：「通身無影像，遍界絕形蹤。」師云：「前言何在？」進云：「禮拜和尚去也。」師云：「自起自倒漢。」師一日與靈嶽敘話次，驀伸手云：「我手何似佛手？」嶽云：「少賣弄。」師又伸腳云：「我腳何似驢腳？」嶽云：「轉見不堪。」師云：「人人有個生緣，你生緣在甚麼處？」嶽云：「覿面不識。」師云：「離了三關又作麼生？」嶽便喝，師云：「好與三十棒。」嶽云：「和尚也不得無過。」師休去。師一晚向正法西堂云：「當時幻有老祖云：欲要賭猜枚，大家出隻手。且道猜底是甚麼枚？」法",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: running the passes live on Lingyue in conversation: the hand thrust out — stop showing off; the foot — worse and worse; everyone has a birth-place, where is yours? — face to face, not recognized; apart from the three passes, what then? — a shout, a good thirty blows, and Lingyue's comeback that the master too is not without fault."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0271a05",
+          "ToLb": "0271a22",
+          "Kwic": "靈雲眼，花下行人那得知？佛果舉：「僧問雲門：『如何是諸佛出身處？』門云：『東山水上行。』天寧即不然，薰風自南來，殿閣生微涼。」薰風纔動頂門開，白玉階前長綠苔，路上行人俱滑殺，弓弦走馬卻歸來。薰風南來，寒毛卓豎，擬涉思惟，無本可據。黃龍室中嘗問僧曰：「人人盡有生緣，上座生緣在何處？」正當問答。復伸手曰：「我手何似佛手？」僧擬答，卻復垂腳曰：「我腳何似驢腳？」三十餘年示此三問，學者莫有契其旨，叢林目之為黃龍三關。我手何似佛手，這箇阿誰沒有？翻轉本來面目，笑渠又不知醜。我腳何似驢腳，何必人前伸縮？未過黃龍關子，不妨被他礙卻。人人有個生緣，鐵壁銀山眼前，拶出虛空骨髓，當下別有青天。雪峰因三聖問：「透綱金鱗以何為食？」師",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: laying out the room-story in prose — thirty-odd years of the three questions, scholars rarely matching, the school naming them the three barriers — then answering in his own verse: my hand — how does it resemble the buddha's hand? this, who lacks it? flip the original face over and laugh that he still does not know shame; not yet past the Huanglong barrier, no wonder it still obstructs."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0167a17",
+          "ToLb": "0167a29",
+          "Kwic": "非裏薦取。』」師云：「釣魚放生。」下座。師一日牽一頭驢上堂，示眾云：「即今有箇現成公案，拈來問汝諸人，若道得一轉語與山僧相契，拄杖、拂子兩手分付。」遂抬腳，云：「我腳何似驢腳？」復舉手，云：「我手何似佛手？」又云：「人人有箇生緣，上座生緣在甚麼處？」眾下語皆不契。師代「我腳何似驢腳」處云：「但禮拜。」師代「我手何似佛手」處：「但禮拜。」師代「上座生緣在甚麼」處：「便騎驢去喫艸。更與頌出，頌云：我手何似佛手，展縮拈提本有，庭前露柱呵呵，蟭螟吞卻北斗。我腳何似驢腳，玄沙嶺頭築著，纔方擬議思量，鷂子新羅已過。人人有箇生緣，晨昏舉止茫然，不是將心特地，秪因要喫要穿。」復云：「錯，錯。」冬至，小參。云：「日往月來，光陰何倏忽？炎涼",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanglong Huinan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment: dragging a donkey up into the hall — a ready-made case: one matching turning-word and the staff and whisk are handed over — lifting the foot, raising the hand with the pass, asking the birth-place; the assembly's answers all missing, so he takes their place at every station with just bow, and versifies the hand-pass: stretching, folding, lifting, laying hold of what was always there."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1998B.xml",
+        "X/X70/X70n1388.xml",
+        "B/B25/B25n0145.xml",
+        "J/J27/J27nB189.xml",
+        "J/J33/J33nB286.xml",
+        "J/J26/J26nB178.xml",
+        "J/J27/J27nB193.xml",
+        "J/J28/J28nB203.xml"
+      ],
+      "RelatedMasters": [
+        "Zhenjing Kewen",
+        "Zhantang Wenzhun",
+        "Huanxi Weiyi",
+        "Huanglong Huinan",
+        "Zhongfeng Mingben",
+        "Sanyi Mingyu",
+        "Yingning Zhijing",
+        "Feiyin Tongrong",
+        "Yinyuan Longqi",
+        "Yun'e Xi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "My hand — how does it resemble the buddha's hand? The pass belongs to Huanglong Huinan's room: he would ask a monk where his birth-place is, and mid-exchange thrust out his hand — my hand, how does it resemble the buddha's hand? — then dangle his foot; thirty-odd years he showed these three questions, scholars rarely matched his intent, and the school named them the three barriers. Zhenjing Kewen ran it on the young Zhantang Wenzhun: where from — Great Yang; where spent the summer — Great Wei; what place's man — Xingyuan-fu; and then the hands spread — my hand, how does it resemble the buddha's hand? — and Zhantang stands at a loss; Zhenjing diagnoses him: your answers just now were each one numinous and innate, and the moment buddha-hand was said it became stoppage — where is the sickness? I don't understand. Everything is ready-made — whom else should it teach? Huanxi Weiyi answers all three in the evening assembly: my hand — how does it resemble the buddha's hand? ten fingers uneven; my foot — how does it resemble a donkey's foot? four hooves treading the ground; everyone has a birth-place — ears, two sheets of skin; teeth, one set of bone; so understanding it, one sees the Jicui old man's face right here, sharing every drink and every enjoyment with you, betraying no one, favoring no one. Zhongfeng Mingben versifies the triad: the hand too can pluck flowers and snap willows; the scale-weight drops by the bed, the smoothing-iron breaks before the stove; the foot turns the straw sandal and walks it backwards across the four great continents without one step ever treading; and the birth-place — a macaque at the tiller at midnight, smashing through black wind and white waves to tread the sky beneath the water; buddha-hand, donkey-foot, birth-place — one phrase declares all three; ask what then? Huanglong's mouth holds no drool. And Sanyi Mingyu turns the pass on the imitators: those who climb into the curio-bag and learn resemblance-words — asked the hand-question, they answer plucking the pipa beneath the moon; asked the foot, standing in boots on the water; asked their birth-place, I am a man of Xiu Prefecture — leaning on walls, weak wings on low branches, words never once leaving the ruts: how could they climb out of the covering tangles, sunk as they are in the aggregate-demon realm. Yingning Zhijing sets the test in the ancestors' kindness: every device, every setting, every phrase must split open your face-gate and dry up your consciousness-waves — thus Huanglong tested people with three lines; few in his life matched his trigger, the school named them the three barriers, and through old and new many have capped them, many misread them; borne by that grace he versifies all three — the map runs out and suddenly the dagger shows; First Emperor sees it and his soul flies. Feiyin Tongrong runs the passes live on Lingyue: talking together, he suddenly thrusts out his hand — my hand, how does it resemble the buddha's hand? Lingyue: stop showing off. The foot comes out — worse and worse. Everyone has a birth-place; where is yours? Face to face, not recognized. Apart from the three passes, what then? Lingyue shouts; a good thirty blows; and Lingyue's comeback — the master himself is not without fault — ends it. Yinyuan Longqi, after laying out the room-story in prose, answers in his own verse: my hand — how does it resemble the buddha's hand? this — who lacks it? flip the original face over, and laugh that he still does not know shame; my foot — how does it resemble a donkey's foot? why stretch and bend it before others; not yet past the Huanglong barrier — no wonder it still obstructs you. And Yun'e Xi drags a donkey up into the hall: a ready-made case — one turning word that matches, and the staff and the whisk are handed over; the foot lifts — my foot, how does it resemble a donkey's foot? — the hand rises — my hand, how does it resemble the buddha's hand? — everyone has a birth-place, where is yours? The assembly's answers all miss, so he takes their place at every station — just bow — and versifies it: the hand stretching, folding, lifting, laying hold of what was always there."
+    }
+  ]
+}

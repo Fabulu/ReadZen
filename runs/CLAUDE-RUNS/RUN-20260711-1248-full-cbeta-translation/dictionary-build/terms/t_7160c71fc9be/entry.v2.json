@@ -1,0 +1,159 @@
+{
+  "Id": "t_7160c71fc9be",
+  "SourceTerm": "第一義諦",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:11:04Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the first-principle truth",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the supreme truth",
+        "the truth of the highest meaning"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 367 hits in 170 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0130c25",
+          "ToLb": "0131a09",
+          "Kwic": "高凌虛，昨夜一竿風吹折，以尺量來五丈餘。』且道與古人相去多少？」師誕日，上堂。「一切人有二種想：一、世諦流布想，二、倒想。一切聖人有世諦流布想而無倒想。我丹霞老僧隨世諦流布，說今年六十有一，說今日十月十四。內外諸公隨世諦流布，都來與老僧慶生。老僧亦隨世諦流布，受於供養禮拜。是老僧與諸公總在世諦中，還有第一義諦麼？若有世諦而無第一義諦，是凡夫法；若舍世諦別有第一義諦，是聲聞法；若即世諦即第一義諦，是菩薩法；若就目前，不是世諦亦非第一義諦，任心所擬，隨緣即宗，無有是非，亦無無是非之量，是如來法。我衲僧家又作麼生？」卓拄杖一下，云：「大眾會麼？老僧六十一年前祇與麼來，即今亦祇與麼，盡未來際亦祇與麼。若在者裏構得，不妨",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: grading at his own birthday feast the four standings from commoner dharma to tathāgata dharma by how each holds worldly truth and this truth together."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0112c15",
+          "ToLb": "0112c28",
+          "Kwic": "乎，無得而稱，爇向爐中，端為祝延今上皇帝聖躬，萬歲！萬歲！萬萬歲！恭願皇風永扇，帝日長明，八方歌有道之君，四海樂無虞之化。者一瓣香，信手拈來，根源有據，次第四回拈出爇向爐中，端為現住天童禪寺傳曹溪正脈三十四世本師密雲悟老和尚，用酬法乳之恩。」遂斂衣就座。上首白椎云：「法筵龍象眾，當觀第一義。」師云：「須知第一義諦，最初一槌打就，若有鋸解不開底衲僧，試出來敲磕看。」僧問：「敲磕當陽即不問，全提向上請師裁。」師舉拂子云：「會麼？」進云：「恁麼則棒頭敲出玉麒麟，撥轉紅爐金鳳子。」師云：「難得者一句。」進云：「昔日密雲，今朝和尚也。」師云：「不勞讚嘆。」進云：「管教洞徹法源底，地覆天翻我不聞。」師打云：「是賞你，是罰你？」",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: answering the gavel-master's opening line at his Tian童 inauguration that this truth was forged by the very first hammer-blow."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0627a13",
+          "ToLb": "0627a26",
+          "Kwic": "為滿朝文武各省尊官并本郡在任官僚，今辰請主鄉紳文學遠近檀那本山耆宿，伏願同明般若正因，共證金剛種智。」又拈云：「此瓣香光吞群象，氣絕諸塵，烈燄堆裏拾來，奔流刃上拈出。爇向爐中供養再住本山傳曹溪正脈南嶽下第三十四世先師密雲大和尚，用酬法乳。」乃斂衣就座。維那白槌，云：「法筵龍象眾，當觀第一義。」師云：「若論第一義諦，未白槌前早已露布了也。還有委悉者麼？若有，不妨出眾與山僧相見。」僧問：「高提祖印，獨振寰中。且道祝聖一句如何展演？」師云：「天高群象正，海闊百川朝。」進云：「恁麼則日月光天德，山河壯帝都。」師云：「一句道著。」進云：「可謂聖明恒慶泰，臨濟又重光。」師云：「誰不恁麼道？」問：「今佛放光明，助發實相義。釋迦老",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment: telling his inauguration assembly that this truth had already been proclaimed in full before the gavel fell."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0683c11",
+          "ToLb": "0683c25",
+          "Kwic": "見也。於末世中能如是行履，超越名跡，非大雄大力、大忍大勇何能臻此？是知足下非從一佛二佛三四五佛而種善根，必從多劫多生多佛法中深種般若善根，乃有如是金剛骨力，其根器廣大可知也。末世佛法重任全賴足下荷擔，此事非細，須勇猛中更加勇猛可也。如有一念懈倦之心，法門失望。祝祝！尊大人抵家父子相聚，此人間第一樂事，就是第一義諦，就是無上大涅槃，不可外此父子別覓佛法，亦不可因父子樂境昧卻此事。世人不得佛法受用者，不過為歡戚憎愛走作故耳！如此兩關若作得主，即憎愛歡戚就是諸佛受用，而諸佛解脫不離君臣父子夫婦之間，可謂世法佛法原是一片。若父子歡喜中無佛法，則佛法即有彼此分段；佛法若有彼此分段，不得周遍常住；佛法既不周遍常住，真如、玅性",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment: writing to a patron that the father-son reunion at home is the first joy of the human world and is itself this truth and unsurpassed great nirvana."
+        },
+        {
+          "RelPath": "J/J39/J39nB468.xml",
+          "FromLb": "0902b19",
+          "ToLb": "0902c02",
+          "Kwic": "千秋并本省文武尊官，高增祿位。此瓣香自松巋花擘之後，復經百城煙水，遍歷諸方，受盡屈辱、喫盡艱辛，今日歸來深棲密遁，詎意法叔古源和尚不容推脫，平將天龍半座勉逼，人天眾前無可回避，此是第一回拈出爇向爐中，耑申供養松巋堂上傳臨濟正宗三十四世上善下權先師老和尚，用酬法乳之恩。」斂衣敷座。維那白椎竟，乃云：「若論觀第一義諦，早是虛空裏掘洞，好肉上剜瘡，欺謾赤子，誑惑閭閻，自古自今名不得、然不得。且道一是甚麼？觀是何物？所以純上座終不為人眼裏添釘，直得風行草偃、水到渠成，把斷要津，不通凡聖，千差坐斷，有無不立，直下令人人頭頂青天、個個腳踏實地，無向無背、無欠無餘。到者裏，三搭不回底由是自負，挨著便轉又是平地喫交。正恁麼時，",
+          "MasterName": "Shanyi Ruchun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB468.xml). Recorded Sayings of Chan Master Shanyi Chun. Shanyi Ruchun owns the retained deployment: calling the very project of observing this truth a hole dug in empty space and a wound cut in good flesh."
+        },
+        {
+          "RelPath": "J/J27/J27nB194.xml",
+          "FromLb": "0316a11",
+          "ToLb": "0316a25",
+          "Kwic": "法於一漚未發之先，易社菴為青蓮禪院；眾居士於一漚未發之先，設最厚伊蒲，兼請山野登無畏床，舉揚般若。」復作怕勢云：「舉則不無，秖恐混著諸公腳頭。」便下座。密言律主請小參。師云：「十字街頭出入，聲色堆裏逃禪，門前一道坦然平。今古行來行去，廊下左右舖店客，羅列八寶七珍。村歌社舞，時時轉根本法輪，語四言三，句句明第一義諦。舖舖打開無盡藏，人人販賣摩尼珠，縱奪自如，收放有在，伸手縮手，許多漏逗，貴買賤賣，不勝郎當。戎馬匆匆不息政，文殊仗劍逼如來，饅頭顆顆馨香現，觀世音將錢來買。驢來馬去洞明劫外春風，犬吠雞鳴露盡生死根本。紅粉佳人一生取辦，恁意廝炒廝煎，赤窮漢子露骨露筋，就裏許多快活。綿綿密密底三拳兩謊，徹頭徹尾者拿三道三。",
+          "MasterName": "Zhangxue Tongzui",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB194.xml). Recorded Sayings of Chan Master Xuezui of Zhaojue. Zhangxue Tongzui owns the retained deployment: finding every phrase of street-quarter small talk illumining it while Guanyin comes buying with cash."
+        },
+        {
+          "RelPath": "J/J37/J37nB394.xml",
+          "FromLb": "0667a25",
+          "ToLb": "0667b07",
+          "Kwic": "之治。」末上拈香曰：「此一瓣香，根源豎窮南岳，枝葉橫亙天台。雲霞莫能絢其璀璨，江河難以澤其光華。炳然透過三法，提盡古人之未到。奇變恢張，百方顯發。爇向爐中供養，開萬世宗眼，集千古大成，即此景德堂上，前住靈巖，後住南岳先師退翁老和尚，用酬法乳之恩。」斂衣就座。維那白椎云：「法筵龍象眾，當觀第一義。」師云：「第一義諦，不必他求。若是摩霄俊鶻，便合乘時。止濼困魚，徒勞激浪。」僧問：「恢弘妙道，端在乘時。超越之作，不勝顒望。」師曰：「曠大劫來，有此一轉。」僧曰：「與麼則把住乾坤無跡，放行祖席輝煌也。」師曰：「不圖驗在今日。」僧曰：「活握玄機後，高提新令威。」師曰：「且要取足觀光。」僧禮拜，師曰：「更須向上轉去。」僧問：「國",
+          "MasterName": "Yi'an Shanzan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB394.xml). Recorded Sayings of Chan Master Yi’an. Yi'an Shanzan owns the retained deployment: telling his inauguration assembly that this truth need not be sought elsewhere."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0506b02",
+          "ToLb": "0506b20",
+          "Kwic": "趙州與跛雲門打做一團分身無數遍一切處直令盡大地若緇若俗開眼也着合眼也着大眾會麼普大眾不會麼庭前栢樹子驀卓拄杖喝一喝下座元旦上堂師拈香云者一炷香從聞思脩入三摩地上同諸佛慈濟下洽羣生悲仰三十二應似帝網交羅四無量心如河海競注焫向爐中供養機緣今上皇帝現天子身作大法檀斂衣就座上首白椎云法筵㡣象眾當觀第一義師起立云第一義諦當陽舉似召大眾云齋時聞皷鳴齊上殿誦無量壽如來再白椎云諦觀法王法法王法如是便下座己亥春詔迎入京供養西苑世祖問心在七處不在七處師云覔心了不可得世祖問悟道的人還有喜怒哀樂也無師云喚什麼作喜怒哀樂世祖問山河大地從妄念而生妄念若息山河大地還有也無師云如人睡醒夢中之事是有是無世祖問如何用工師云端拱無為世祖問如何",
+          "MasterName": "Yulin Tongxu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxu owns the retained deployment: standing up at the New Year hall to hold this truth out in the open, then calling the assembly to rise at the meal-drum and recite the Amitāyus Buddha."
+        },
+        {
+          "RelPath": "J/J29/J29nB235.xml",
+          "FromLb": "0397c05",
+          "ToLb": "0397c19",
+          "Kwic": "深，且道從那裏入？」乃以拄杖三擊云：「七通八達了也。」便進。佛殿，云：「高揖釋迦，不拜彌勒，此是過量人行履。即今新長老禮拜阿誰？」喝一喝，遂展具拜。方丈，云：「生鐵楖栗，頭正尾正，倒弄顛拈，衲僧乞命。忽遇其中人來時如何？敲骨取髓，必行之令。」眾護法請陞座，師至座前，拈疏云：「龜畫馬圖，龍文鳳彩，一一全彰，第一義諦。若也見得，不勞指注；其或未然，卻請維那對眾剖露。」指法座云：「師子王座，師子哮吼，驚起燈王，現身北斗。大眾見麼？」喝一喝，遂陞。拈香云：「此瓣香蓋天蓋地，非古非今，專伸供養本師釋迦牟尼佛、西天東土歷代祖師，伏願燈傳萬億，光照三千；此瓣香瑞滿六合，氣貫紫宸，端為祝延今上皇帝聖躬萬歲萬歲萬萬歲，伏願萬國長明",
+          "MasterName": "Lianyue Daozheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J29/J29nB235.xml). Recorded Sayings of Chan Master Lianyue. Lianyue Daozheng owns the retained deployment: reading his enthronement proclamation so that tortoise-lines and horse-charts, dragon-script and phoenix-brilliance each fully display this truth."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0899a23",
+          "ToLb": "0899b07",
+          "Kwic": "門頭清風滿路、蓬壁下紫氣衝霄，穿心盤子放出摩尼光耀、折腰笤帚盡逞無礙神通，躄者能履、瘖者能言、聵者能聽、盲者能視，但有飯籮裏坐底欲餓殺、海水中坐底欲渴殺。此二般病，世醫拱手、扁鵲攢眉。」召眾曰：「汝等宜各克已丹誠，請顯聖和尚診候厥疾，庶或有瘳。」上堂。「汝先厭離諸小乘法，發心勤求無上菩提，故我今日為汝開示第一義諦。釋迦老子為憐最小之弟，不惜老婆舌頭。然第一義何曾動著？資聖者裏，粥時有粥，飯時有飯，上下交歡，往來相悅。第一義諦，實不相謾。」乃拍膝一下，曰：「春水船如天上坐，老人花似霧中看。」埽顯聖祖塔，兼慶百愚和尚壽，請上堂。「祖翁田地，界畔分明，其真文券約在我法兄掌中握著。若捏聚，則十聖三賢無憩歇之路；若放開，",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: raising Śākyamuni's promise to disclose this truth and then saying it was never once touched — porridge at porridge-time, rice at rice-time — and does not deceive."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J38/J38nB406.xml",
+        "J/J26/J26nB178.xml",
+        "J/J26/J26nB186.xml",
+        "J/J28/J28nB219.xml",
+        "J/J39/J39nB468.xml",
+        "J/J27/J27nB194.xml",
+        "J/J37/J37nB394.xml",
+        "B/B27/B27n0152.xml",
+        "J/J29/J29nB235.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Tianran Hanshi",
+        "Feiyin Tongrong",
+        "Miyun Yuanwu",
+        "Linye Tongqi",
+        "Zhuanyu Guanheng",
+        "Shanyi Ruchun",
+        "Zhangxue Tongzui",
+        "Yi'an Shanzan",
+        "Yulin Tongxu",
+        "Lianyue Daozheng",
+        "Zhe'an Jingfan"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The first-principle truth. Tianran Hanshi grades the four standings at his own birthday feast — keeping worldly truth only is commoner dharma, leaving it for another truth is śrāvaka dharma, worldly truth itself being this truth is bodhisattva dharma, and neither, with the mind free to aim, is tathāgata dharma; Feiyin Tongrong answers the gavel-master's opening line at his Tian童 inauguration saying this truth was forged by the very first hammer-blow, Linye Tongqi says of it that it had already been proclaimed in full before the gavel fell, and Zhuanyu Guanheng writes to a patron that the father-son reunion at home is the first joy of the human world, is itself this truth, is itself unsurpassed great nirvana. Shanyi Ruchun calls the very project of observing it a hole dug in empty space and a wound cut in good flesh, Zhangxue Tongzui finds every phrase of street-quarter small talk illumining it while Guanyin comes buying with cash, Yi'an Shanzan tells the assembly it need not be sought elsewhere, Yulin Tongxu stands up at the New Year hall to hold it out in the open and then calls everyone to rise at the meal-drum and recite the Amitāyus Buddha, Lianyue Daozheng reads his enthronement proclamation so that tortoise-lines and horse-charts, dragon-script and phoenix-brilliance each fully display it, and Zhe'an Jingfan, after raising Śākyamuni's promise to disclose it, says it was never once touched — porridge at porridge-time, rice at rice-time — and that it does not deceive."
+    }
+  ]
+}

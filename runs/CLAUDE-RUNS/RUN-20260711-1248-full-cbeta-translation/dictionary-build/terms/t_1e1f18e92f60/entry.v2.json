@@ -1,0 +1,171 @@
+{
+  "Id": "t_1e1f18e92f60",
+  "SourceTerm": "不問有言，不問無言",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "I ask not of speech, not of silence",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "no asking in words, no asking without them",
+        "not asked in saying, not asked in silence"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 91 hits in 71 files. Guide depth floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0560a03",
+          "ToLb": "0560a15",
+          "Kwic": "「《般若經》。」師云：「作麼生是清淨？」僧云：「甚處不清淨？」師云：「繩床入枇杷樹裏去也。見麼？」僧云：「和尚莫瞞人。」師云：「瞞人且置，你道我作麼生？」僧無對。師云：「這掠虛漢。」師因見僧在殿角立次，乃拍手一下，云：「佛殿露柱走入廚庫去也。」僧回首看。師云：「見你不會，卻來袛候佛殿。」因僧侍立次，師云：「不問有言，不問無言，你作麼生道？」僧無語。師云：「你問我。」僧便問，師喚小師某甲。小師應諾。師云：「你又得箇師弟也。」師問僧：「今日搬柴那？」僧云：「是。」師云：「古人道：『不見一法是你眼睛。』」乃於搬柴處拋下一片柴云：「一大藏教秪說這箇。」師於普請處謂眾云：「今日困，有解問話底，置將一問來。若不問，向後鼻孔遼天，莫道我瞞你",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Yunmen Wenyan owns the retained deployment: turns the ascetic's demand live on an attendant standing at his side, not asking of speech, not asking of silence, so how will you say it, and when the monk has no words, tells him to ask back, and to the monk's question only calls a little novice by name, and when the novice answers, tells the monk he has gained a junior brother."
+        },
+        {
+          "RelPath": "X/X70/X70n1394.xml",
+          "FromLb": "0412a17",
+          "ToLb": "0412b13",
+          "Kwic": "僧著肉汗衫。乃云：上大人，丘乙己，化三千，七十士，爾小生，八九子，佳作仁，可知禮也。師拈云：白雲老人好箇說話，柰何颺在無事甲裏者多矣。瑞巖今日拈來下箇注脚，不唯謝繼一處士，直要穿却天下衲僧鼻孔。乃云：上大人（丘乙己）化三千─七十士│，爾小生╱八九子＼佳作仁●，可知禮也。擲拂子，下座。上堂，舉外道問世尊：不問有言，不問無言。世尊良久，外道云：世尊大慈大悲，開我迷雲，令我得入。師頌云：自把碌磚空裏擲，必端自打自家頭，酌然自痛自難說，自著摩挲歸去休。上堂，舉：子胡示眾云：三十餘年住子胡，二時粥飯氣力麤，每日山上三兩轉，問汝諸人會也無？師拈云：子胡老漢雖無一點佛法身心，猶要敲針作鈎在。若是山僧則不然，三四餘年住瑞巖，是非擔子一",
+          "MasterName": "Duanqiao Miaolun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Duanqiao Miaolun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1394.xml). Recorded Sayings of Chan Master Duanqiao Miaolun. Duanqiao Miaolun owns the retained deployment: raises the case in hall, the ascetic's refusal of speech and silence, the World-Honored's long pause, the ascetic's praise that the cloud of confusion was opened and he entered, then verses the whole happening as throwing one's own brick into empty sky and hitting one's own head with it, plainly hurting oneself and hard to say, rubbing one's own head and going home to rest."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0171b15",
+          "ToLb": "0172a11",
+          "Kwic": "似金愽金。雖然如是，檢點將來，不無滲漏。今日蔡中郎或捧一尊像，請雲門安名，即向道：清淨法身毗盧遮那佛。若云謝師安名，即向道：下坡不走，快便難逢。師云：裴公捧像，黃檗安名，冷地看來，如大家教新婦相似，直是好笑，笑須三十年。妙喜既不能坐斷，未免隨例顛倒，喚作清淨法身毗盧遮那佛。周人以栢，殷人以栗。舉外道問佛：不問有言，不問無言。世尊良久，外道讚嘆云：世尊大慈大悲，開我迷雲，令我得入。外道去後，阿難問佛：外道有何所證，而言得入？世尊云：如世良馬，見鞭影而行。雪竇云：邪正不分，過由鞭影。妙喜云：邪正兩分，正由鞭影。師云：欲識邪正不分麼，誰是外道？誰是世尊？欲識邪正兩分麼，世尊自世尊，外道自外道。此是天寧見處，一任諸方貶剝。舉：僧",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: raises the case with Xuedou's ruling that the fault lay in the whip-shadow and Dahui's that the rightness lay in the whip-shadow, then asks who wants to see right and wrong undivided, who then is the ascetic and who the World-Honored, and who wants them two, the World-Honored being simply the World-Honored and the ascetic the ascetic, calling this his own place seen and letting the schools devalue it as they will."
+        },
+        {
+          "RelPath": "J/J25/J25nB173.xml",
+          "FromLb": "0680b27",
+          "ToLb": "0680c12",
+          "Kwic": "；汝問我善，善不從惡。會麼？」曰：「不會。」師曰：「惡人無善念，善人無惡心。所以道：『善惡如浮雲，俱無起滅處。』」僧於言下大悟。師拈曰：「惡人無善，善人無惡。倏爾言外知歸，翻然不落因果。僧大悟，悟甚麼？獅兒迸斷黃金鎖。據實舉論，俱未免過。畢竟過在甚麼處？閒雲一道凝青嶂，一任風雷鼓復收。」外道問世尊曰：「不問有言，不問無言？」世尊良久。外道讚歎曰：「世尊大慈，開我迷雲，令我得入。」乃作禮而去。阿難白佛：「外道得何道理稱讚而去？」世尊曰：「如世良馬，見鞭影而行。」師拈曰：「此事所謂空谷傳聲，虛堂習聽。秪如世尊良久，昭覺賜棒，還是同是別？若檢點得出，則外道作佛；其或未然，佛即外道。會麼？龍飛鳳舞真奇怪，不中胡僧碧眼看。」馬祖",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB173.xml). Recorded Sayings of Monk Wuming of Shouchang. Wuming Huijing owns the retained deployment: names the matter the empty valley passing sound and the vacant hall rehearsing hearing, then asks whether the World-Honored's long silence and Zhaojue's granted staff are the same or different, ruling that whoever checks this out makes the ascetic a buddha, and failing that the buddha is the ascetic, capping it with dragons flying and phoenixes dancing, truly strange, no good for the western monk's blue eyes."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0171a22",
+          "ToLb": "0171b06",
+          "Kwic": "蓬蒿湯，使者婆子欲產未產之際，纔飲入口便乃瀉下。實非此藥靈驗，全係者婦為苦痛饑渴所逼，故易為飲食耳。雖然如是，若殃崛傳話未到時便乃產下，則瞿曇之蓬蒿湯亦只得風吹日炙，有什麼用處？可見出門便利，偶爾撞彩。若是山僧，待長者云：『當有何法，能免產難？』但云：『盡大地是個女子。』看他又如何折合。」世尊因外道問：「不問有言，不問無言。」世尊良久，外道讚嘆曰：「世尊大慈，開我迷雲，令我得入。」拈云：「世尊良久，填溝塞壑，外道得入，舊瘢著艾，簡點將來，各與草鞋一緉，且要天下人疑著。今日忽有人問山僧：『不問有言，不問無言。』惟豎一指，還與世尊是同是別？」城東老母與佛同生而不欲見佛，每見佛來即便迴避，雖然如此，回顧東西總皆是佛，遂以手掩面",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: rules over the case that the World-Honored's long silence filled the ditches and dams, the ascetic's entering an old scar taking moxa, and checked out each earns a pair of straw sandals, the point being to set the whole world doubting, then turns the demand on himself, that were someone to ask him today the same refusal of speech and silence he would only raise one finger, and asks the assembly whether that is same as the World-Honored or different."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0711a12",
+          "ToLb": "0711a24",
+          "Kwic": "子。橫看成嶺側成峰，直須親到廬山，方識渠儂面目。打著南邊動北邊，誰道東家點燈，西家卻乃暗坐？只苦睦州道底，眼裏無筋；堪笑投子鋒前，桼桶不快。祇如三乘十二分教是破故紙，千七百則公案是爛葛藤，昇上座終日口吧吧地，是故紙邪？是葛藤邪？」震威喝一喝，云：「三尺浪高魚化龍，癡人猶戽夜塘水。」復舉：「昔日外道問世尊：『不問有言，不問無言。』世尊良久，外道讚歎云：『世尊大慈大悲，開我迷雲，令我得入。』外道去後，阿難問佛：『外道有何所證而言得入？』佛云：『如世良馬，見鞭影而行。』」師云：「我有六十拄杖，分作三分：一分、打外道，不合平白受人欺瞞；一分、打世尊，不合容易與人冬瓜印子；一分、昇上座自喫，不合簡點佛祖。若是阿難，且教向世尊右手立地著。",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: after roaring that the twelve-part teaching is old paper and the seventeen-hundred cases rotten vines, raises the case and declares he has sixty staff-strokes in three shares, one share to beat the ascetic, who should not have swallowed the cheat flat and white, one to beat the World-Honored, who should not have handed out winter-melon seals so easily, and one for himself to eat, who should not have put the buddhas and patriarchs on the scales, with Ananda told to go stand at the World-Honored's right hand."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0470a26",
+          "ToLb": "0470b09",
+          "Kwic": "曾舉似人。』士云：『舉似阿誰？』靈戴笠便行。大慧云：『者箇話端，若不是龐公，幾乎錯舉似人。雖然如是，百靈輸他龐公一著。何故？當時若無箇破笠子遮卻髑髏，有甚面目見他龐公？』」師云：「大慧只見錐頭利，不見鑿頭方。殊不知，百靈纔戴笠時，龐公雖有通身手眼，欲見他面目長短、鼻孔淺深，正未得在。」舉：「外道問佛：『不問有言，不問無言。』世尊良久，外道讚歎云：『世尊大慈大悲，開我迷雲，令我得入。』外道去後，阿難問佛：『外道有何所證，而言得入？』世尊云：『如世良馬，見鞭影而行。』雪竇云：『邪正不分，過由鞭影。』大慧云：『邪正兩分，正由鞭影。』」師云：「世尊默對外道，外道便乃得入；語對阿難，阿難卻也茫然。正所謂東土衲僧不及西天外道。若是雪竇",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanru Tongwei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: after weighing Dahui's judgment on Bailings straw hat, raises the case with Xuedou's and Dahui's whip-shadow rulings, then reads its two edges, that silent to the ascetic the ascetic entered, and speaking to Ananda, Ananda blanked, which is just to say the eastern patch-robed monks fall short of the western ascetic."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "X/X70/X70n1394.xml",
+        "X/X71/X71n1420.xml",
+        "J/J25/J25nB173.xml",
+        "J/J26/J26nB178.xml",
+        "J/J26/J26nB187.xml",
+        "J/J26/J26nB182.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Duanqiao Miaolun",
+        "Chushi Fanqi",
+        "Wuming Huijing",
+        "Feiyin Tongrong",
+        "Tian'an Sheng",
+        "Wanru Tongwei"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The demand that rules out both answers in advance, and the long silence that answered it. Yunmen Wenyan turns the demand live on an attendant standing at his side, asking not of speech, not of silence, so how will you say it, and when the monk has no words, tells him to ask back, and to the monk's question only calls a little novice by name, and when the novice answers, tells the monk he has gained a junior brother, Duanqiao Miaolun raises the case and verses the whole happening as throwing one's own brick into empty sky and hitting one's own head with it, plainly hurting, hard to tell, rubbing one's own head and going home to rest, Chushi Fanqi, after weighing Xuedou's fault lies in the whip-shadow against Dahui's rightness lies in the whip-shadow, asks who wants to see right and wrong undivided, who then is the ascetic and who the World-Honored, and who wants them divided, the World-Honored being simply the World-Honored and the ascetic the ascetic, calling this the place he stands and letting the schools devalue it as they will, and Wuming Huijing names the matter the empty valley passing sound and the vacant hall rehearsing hearing, asking whether the World-Honored's long silence and Zhaojue's granted staff are the same or different, for whoever checks it out makes the ascetic a buddha, and failing that, the buddha is the ascetic, dragons flying and phoenixes dancing, truly strange, no good for the western monk's blue eyes. Feiyin Tongrong rules that the long silence filled the ditches and dams, the ascetic's entering an old scar taking moxa, and checked out, each earns a pair of straw sandals, the point being to make the whole world doubt, and that were someone to ask him today the same refusal of speech and silence, he would only raise one finger, same as the World-Honored or different, Tian'an Sheng after his own roaring about old paper and rotten vines declares he has sixty staff-strokes in three shares, one share for the ascetic, who should not have swallowed the cheat flat and white, one for the World-Honored, who should not have handed out winter-melon seals so easily, and one for himself, who should not have put the buddhas and patriarchs on the scales, with Ananda told to go stand at the World-Honored's right hand, and Wanru Tongwei reads the case's two edges, that silent to the ascetic the ascetic entered, and speaking to Ananda, Ananda blanked, which is just to say the eastern patch-robed monks fall short of the western ascetic."
+    }
+  ]
+}

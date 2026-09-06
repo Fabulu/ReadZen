@@ -1,0 +1,191 @@
+{
+  "Id": "t_ca6ec8f2e847",
+  "SourceTerm": "是凡是聖",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:37:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "holy or common?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "saintly or ordinary",
+        "is he a sage or a commoner",
+        "sacred or profane"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 239 hits in 112 files representing 108 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0241b14",
+          "ToLb": "0241b22",
+          "Kwic": "水將杖探。撥草瞻風。尋常用底。忽然跳出箇焦尾大蟲。又作麼生。舉。巖頭到德山。跨門便問。是凡是聖山便喝頭禮拜洞山聞云。若不是豁公。大難承當頭云。洞山老漢不識好惡我當時一手擡一手捺。師云。德山尋常打風打雨。一日巖頭展坐具。德山以拄杖挑向階下。頭下階收坐具便行。次日上德山侍立。山云。",
+          "MasterName": "Wansong Xingxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Wansong Xingxiu owns the retained deployment: sets the case in his commentary — Yantou reaches Deshan, crosses the door, and asks: holy or common? Deshan shouts; Yantou bows; Dongshan: were it not for Huo, hard indeed to carry; Yantou: the old man of Dongshan does not know good from bad — at the time I raised with one hand and pressed down with the other."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0846a28",
+          "ToLb": "0846b06",
+          "Kwic": "還委悉麼。多年曆日無人問。驀地拈來愁殺人。喝一喝。復舉。巖頭參德山。纔跨門便問。是凡是聖。山便喝。頭便禮拜。後有僧舉似洞山。山云。若不是奯公。也大難承當。巖頭聞云。洞山老漢不識好惡。錯下名言。我當時一手擡一手搦。師云。猛虎不識阱阱中身死。蛟龍不怖劍。劍下身亡。巖頭雖於虎阱中有透脫一路。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: after his own shout raises the same case — the threshold question, Deshan's shout, the bow, Dongshan's verdict, Yantou's retort — over the many-years calendar no one asks, suddenly plucked out, it saddens to death."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0949a02",
+          "ToLb": "0949a17",
+          "Kwic": "又問船在甚麼處曰步下又問不涉程塗一句作麼生道舉以坐具摵云杜撰長老如麻似粟拂袖出去覺範可殺欺誣亡沒僧寶傳中具言瑯瑘曾以此舉似慈明明笑曰舉見處纔能自了而汝負墮何以為人於是為作牧童歌此豈古人意果如是乎正似舊日彭諫議作死心塔銘首敘其初見大溈真如如問是凡是聖曰非凡非聖又問莫更別有道理也無死心噓一聲真如云氣急殺人死心云恰是又載一件事甚好笑曰師到棲賢見秀禪師秀問甚處人師曰廣南韶州人問曾到雲門麼曰到又問曾到靈樹麼曰到問如何是靈樹枝條曰長者自長短者自短秀罵云廣南蠻不恁麼師亦罵秀云向北驢只恁麼蓋彭公不曾參禪只作相罵會了覺範公亦然以瑯瑘舉公相見為勝負豈不招謗法之𠍴乎舉公道杜撰長老如麻似粟這裏把瑯瑘托上梵天又曰在浙江早聞你名元來見解只如此何得名播宇宙瑯瑘作禮曰某甲罪過這箇是文殊普賢大",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: retells the pagoda-inscription story: Zhenru met Sixin and asked — holy or common? — neither holy nor common; anything further? — Sixin hissed; that chokes me, said Zhenru; exactly, said Sixin."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0623c24",
+          "ToLb": "0624a01",
+          "Kwic": "」結制，上堂。「青龍今日以天地為爐韝、須彌作鉗錘，扇三昧火、燒二乘炭，不論是佛是祖、是凡是聖，森羅萬象、螻蟻蠛蠓、人我是非、貪嗔癡愛、無始住地無明，一并拈向大爐韝中，只教內不放出、外不放入，東西不辨、南北不分，識不能識、智不能知，鍊成一塊、打作一團，直待虛空粉碎、大地平沉、冰河發燄、枯木糝花，方是箇好消息。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: at the retreat-opening makes heaven-and-earth the furnace and Sumeru the tongs, fans the fire, burns the two-vehicle charcoal — buddha or ancestor, holy or common, the ten-thousand forms, ants and midges, self and other, right and wrong, greed-hate-delusion-love, beginningless abiding ignorance — all thrown into the great furnace."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0931b09",
+          "ToLb": "0931b15",
+          "Kwic": "據實而論，正是窮子未歸，風塵落魄。所以東塔灶無傳火之薪、罌無鼠耗之粒，欲開箇陳年冷飯舖面，不拘是凡是聖、神來鬼來，總教他高懸缽袋、脫卸艸鞋，永歇馳求，頭本不失。雖曰風冷一堂，卻也意明千古，其奈東廝頭三三兩兩，浴鍋裏擾擾紛紛，訕笑者多，相知者少。試問大眾：笑者笑其何事？知者知箇甚麼？",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: opens a stale-year cold-rice shop at the east tower — stove without firewood, jar without grain — no matter holy or common, ghost or god, all taught to hang the bowl-bag high, shed the straw sandals, and rest the chase forever."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0063c27",
+          "ToLb": "0064a05",
+          "Kwic": "」師云：「賴汝流傳。」乃云：「佛法通世法，應用多方活潑潑；護法兼嗣法，杖藜獨步乾坤闊。是凡是聖進前來，驀面一拳都打殺，到這裏，釋迦、彌勒也立下風，臨濟、德山退身有分，說箇消災懺罪可如片雪擲爐中，要見得壽延生已是千華鋪錦上。「山僧此者無別指陳，記得昔日郭功甫居士得法白雲，後到五祖，請陞座，拈香，云：『這一瓣香供養我堂頭法兄禪師，伏願於方廣座上擘開面門，放出先師形相，與他諸人描邈。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: calls them in — holy or common, step forward, one sudden fist beats them all dead — and here Sakyamuni and Maitreya stand downwind, Linji and Deshan step aside."
+        },
+        {
+          "RelPath": "J/J34/J34nB304.xml",
+          "FromLb": "0384b18",
+          "ToLb": "0384c01",
+          "Kwic": "與時寡合與時寡合住山禮樂亡拘束，品字燒開滿面塵。今日偶隨寒澗出，無心翻欲受人嗔。至人不器至人不器入佛入魔休咄咄，是凡是聖總非非。不因喝下聾雙耳，敢向人前逞大機。為道日損為道日損勞而無力唾蒼蒼，可惜光陰逐日忙。向去好留三寸舌，莫教容易罵諸方。讀林間錄二偈讀林間錄二偈颺卻銀盆復痛呵，去來何事不同途？賢哉母氏高風遠，不語低頭媿織蒲。",
+          "MasterName": "Lingshu Rumin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingshu Rumin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB304.xml). Cloud-Cliff Collection of Chan Master Lingshuyuan. Lingshu Rumin owns the retained deployment: verses the finished one: enter buddha, enter demon, stop the tut-tut — holy or common, both are neither; had the shout not deafened both ears, who would dare flaunt the great function before others."
+        },
+        {
+          "RelPath": "J/J39/J39nB465.xml",
+          "FromLb": "0822b10",
+          "ToLb": "0822b16",
+          "Kwic": "然雖如是，且道新長老到來又且如何施設？」喝一喝，大展三拜。方丈。曰：「這箇獅子窟，是凡是聖？一齊從此入，英靈衲子都到來，大棒當頭莫教惜。」塔夫人、金夫人請師上堂。僧問：「昔日已吹無孔笛，今朝猶弄沒絃琴。自我調高人不識，這回猶自覓知音。如何是君？」師曰：「當堂獨坐。」進曰：「如何是臣？",
+          "MasterName": "Ziyong Chengru",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ziyong Chengru",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB465.xml). Recorded Sayings of Chan Master Ziyongru. Ziyong Chengru owns the retained deployment: opens the lion-den to the new abbot: holy or common? all enter here — the heroic patch-robed all arrive; big staff overhead, do not spare it."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2004.xml",
+        "T/T47/T47n1998A.xml",
+        "M/M59/M59n1540.xml",
+        "J/J36/J36nB359.xml",
+        "J/J36/J36nB369.xml",
+        "J/J28/J28nB202.xml",
+        "J/J34/J34nB304.xml",
+        "J/J39/J39nB465.xml"
+      ],
+      "RelatedMasters": [
+        "Wansong Xingxiu",
+        "Dahui Zonggao",
+        "Baiyu Jingsi",
+        "Zhe'an Jingfan",
+        "Baichi Xingyuan",
+        "Lingshu Rumin",
+        "Ziyong Chengru"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The sorting question: Yantou crosses Deshan's threshold and asks it before his foot is down — the shout, the bow. Ask it of Sixin and get neither holy nor common and a hiss; open a furnace or a cold-rice shop on it and holy and common enter together. The threshold and the hiss: Wansong Xingxiu sets the case in his commentary — Yantou reaches Deshan, crosses the door, and asks: holy or common? Deshan shouts; Yantou bows; Dongshan hears of it: were it not for Huo, hard indeed to carry — and Yantou: the old man of Dongshan does not know good from bad; at the time I raised with one hand and pressed down with the other; Dahui Zonggao raises the same case after his own shout — the many-years calendar no one asks about, suddenly plucked out, it saddens to death; and Dahui again, retelling the pagoda-inscription story: Zhenru met Sixin and asked — holy or common? — neither holy nor common; anything further? — Sixin hissed; that chokes me, said Zhenru; exactly, said Sixin. Nobody exempted: Baiyu Jingsi at the retreat-opening makes heaven-and-earth the furnace and Sumeru the tongs, fans the fire, burns the two-vehicle charcoal — buddha or ancestor, holy or common, the ten-thousand forms, ants and midges, self and other, right and wrong, greed-hate-delusion-love, beginningless abiding ignorance — all thrown into the great furnace; Zhe'an Jingfan opens a stale-year cold-rice shop at the east tower — stove without firewood, jar without grain — no matter holy or common, ghost or god, all taught to hang the bowl-bag high, shed the straw sandals, and rest the chase forever; Baichi Xingyuan calls them in: holy or common, step forward — one sudden fist beats them all dead, and here Sakyamuni and Maitreya stand downwind, Linji and Deshan step aside; Lingshu Rumin verses the finished one: enter buddha, enter demon, stop the tut-tut — holy or common, both are neither; had the shout not deafened both ears, who would dare flaunt the great function before others; Ziyong Chengru opens the lion-den to the new abbot: holy or common? all enter here — the heroic patch-robed all arrive; big staff overhead, do not spare it."
+    }
+  ]
+}

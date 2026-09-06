@@ -1,0 +1,221 @@
+{
+  "Id": "t_50ef9722a8e5",
+  "SourceTerm": "周行七步",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "walked seven steps all around",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "paced seven strides roundabout",
+        "the newborn's seven strides"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 278 hits in 156 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0734c16",
+          "ToLb": "0735a10",
+          "Kwic": "乃拈起拄杖云拄杖不是常住法。舉古云一念刼𭣣一切智師拈起拄杖云乾坤大地揔在上頭若透得去拄杖也不見有直饒與麼也是不著便。舉須菩提說法帝釋雨華尊者問曰此華從天得耶帝曰弗也從地得耶帝曰弗也從人得耶帝曰弗也從何得耶帝釋舉手尊者云如是如是師云帝釋舉手處作麼生與你四大五蘊釋迦老子同別。舉世尊初生下一手指天一手指地周行七步目顧四方云天上天下唯我獨尊師云我當時若見一棒打殺與狗子喫却貴󲅭天下太平。舉禾山示眾云有作家戰將麼出來時有僧出云未審彼中還有也無師云格。舉僧問雪峰佛未出世時如何峯橫按拄杖而坐師云常。舉德山問維那有幾人新到那云八人山云喚典座來一時生按過師拈云更說什麼生按過。舉雪峯勘僧什麼處去僧云識得即知去處峰云你是了事人",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment: raises the newborn with one hand to heaven and one to earth, seven strides roundabout and eyes on the four quarters crying that heaven and earth hold him alone honored, and says had he been there he would have clubbed him and fed him to the dogs, to buy the world its peace."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0675c24",
+          "ToLb": "0676a11",
+          "Kwic": "。進云。與麼則聞於未聞。師云。索短不搆深泉。問文殊仗劍其意如何。師云。八十老僧閑灌頂。進云。學人不會。師云。四溟無浪月輪孤。僧良久。師喝云。甚處去也。僧禮拜。師云。放過一著。師乃云。相逢不拈出。舉意便知有。早是不唧𠺕漢。更亂蹋步向前。實謂苦屈。諸禪德。看他先覺。未離兜率已降閻浮。未出母胎度人已訖。若言周行七步目顧四方天地之間唯我獨尊。尚有人不放伊過。如今巧說異端。不肯荷負。真可哀愍。所以道。天魔外道是辜恩德漢聲聞一乘是自欺誑人。爾見如此。不平之事便合憤悱驅將去喝將去。隨例道。我不知不會。者般底苦海裏。有什麼出頭時。上堂云。形興未質。名起未名。形名既兆。遊氣亂清。師拈起拄杖云。大眾。拄杖子是形名雙舉。還有過也",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: holds up the first awakened one who had finished saving beings before leaving the womb, and says that even the seven strides roundabout, the eyes on the four quarters, and the alone-honored between heaven and earth still found someone who would not let him pass."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0016a11",
+          "ToLb": "0016a24",
+          "Kwic": "問：「解開布袋口，放出一群牛，正當恁麼時，如何是慶賞一句？」師便打，進云：「大有人不肯又如何？」師又打，僧一喝，師復打，乃云：「二月十五舊公案，四月初八便結絕，雖然日子卻無多，養就一群如老賊，開門放出諸方去，拶著翻身便返擲。衲僧若不解如此，卻被他人穿你鼻，到此翻思懊悔時，莫言老僧不與說。」遂舉：「世尊初生，周行七步，目顧四方，一手指天，一手指地，云：『天上天下惟我獨尊。』釋迦老漢既如是，汝等諸人猶向老僧更擬討甚麼碗？」拽拄杖下座，一時打散。再住嘉興金粟山廣慧禪寺語錄再住嘉興金粟山廣慧禪寺語錄上堂。「道人踐履絕行蹤，去亦如斯來亦同，來去同同了無異，去來一味舊家風。如是，則大智圓明體無向背，聲和響順、形直影端，在彼在此",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: raises the same birth, then drags his staff down from the seat and scatters the hall in one stroke, since the old man Shakyamuni is already like this, asking what bowl they still mean to beg off the old monk."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0517b03",
+          "ToLb": "0517b16",
+          "Kwic": "棒。」佛誕小參，師云：「諸佛無心出世，祖師豈意西來，祇緣眾生顛倒，垂慈應接凡胎。今晨是我釋迦老子露頭露面底時節，現前大眾，若僧、若俗、若男、若女、若老、若少、若遠、若近，還委悉麼？若委悉得，見聞隨喜者，皆發菩提心；欣懷戀慕者，願成無上道。到遮裏，還有知恩報恩者麼？不見當時世尊初生下時，一手指天，一手指地，周行七步，目顧四方云：『天上天下，惟我獨尊。』便有衲僧氣象。末後有個雲門道：『我當時若見，一棒打殺撩與狗子喫，貴圖天下太平。』雖是逆風把舵，且要報恩有分。何故？一言迥脫，特拔古今。老僧今日有個頌子要與佛祖相見。頌云：『三大阿僧祇劫修，出頭端的振玄猷，可憐跛足韶陽老，盡力掀翻徹骨酬。沒來由，堪笑時人逐浪遊，不是英靈真",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: tells the birthday small meeting that whoever grasps the newborn's one hand up and one down, seven strides roundabout and eyes on the four quarters, already has a patch-robed air, and that Yunmen's clubbing is steering against the wind yet still shares in the debt of gratitude."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0007c23",
+          "ToLb": "0008a05",
+          "Kwic": "子。大眾！當恁麼時，不涉春秋一句作麼生道？僥伊數到劫雲初，不識平天華甲子。」佛誕日，結制，上堂，僧問：「從上佛祖所傳正法眼藏、涅槃玅心，涅槃玅心即不問，如何是正法眼藏？」師云：「瞎。」進云：「瞎。」師云：「是你瞎？是我瞎？」僧頂鞋而出，師云：「大似西施戴箬帽。」師乃云：「今辰是我釋迦老人從摩耶夫人腹中走出，周行七步，目顧四方，一手指天，一手指地，云：『天上天下，惟吾獨尊。』起干戈時節也。後雲門老賊道：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』亦是勾賊破家，不免傍觀者哂。萬峰恁麼告報，未審眾中還有抱不平底麼？有，不妨推倒禪床，喝散大眾，寧不俊哉？如無，且向萬仞峰頭結夏，千軍隊裏安禪，平陂一併拈卻，處處楊華吐煙。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: names this morning the old man Shakyamuni's stepping out of Lady Maya's womb, seven strides roundabout and the alone-honored cry, the season for raising arms, and Yunmen's clubbing the hiring of thieves to break the household that the bystander laughs at, then asks the assembly who among them carries the grievance."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0396c25",
+          "ToLb": "0397a11",
+          "Kwic": "似個甚麼？有眼無耳朵，六月火邊坐，任是同胞生，也須更問過。更問過是甚麼？」良久，卓拄杖子，云：「拄杖子卻辯得。」佛誕日，上堂。「王宮未降，佛事已週，腳跟下好與三十棒；未出母胎，度人已畢，腳跟下好與三十棒；四十九年說夢，取笑旁觀，腳跟下好與三十棒；三百餘會週遮，糢糊正眼，腳跟下好與三十棒；忽遇惡水潑來，即周行七步，目顧四方，自云：『天上天下，唯吾獨尊。』腳跟下好與三十棒。獨有雲門大師云：『我當時若見，一棒打死與狗子喫，卻貴圖天下太平。』雲門用此惡辣手段始能豎立宗乘，若是倚牆靠壁漢又胡足道？博山三十棒略與通信，座中還有下得惡辣手段者麼？」良久，云：「黃金自有黃金價，切莫和沙賣與人。」首座問：「雲門一棒、博山三十棒，是",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment: grades every stage of the buddha's career thirty strokes at the heels, the seven strides at the splash of foul water included, and credits Yunmen's vicious means as the only thing that propped up the school, then offers Boxi's thirty strokes as a first greeting and asks who in the seats can wield such means."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0033a05",
+          "ToLb": "0033a17",
+          "Kwic": "他惡水潑？」師云：「好手手中呈好手。」進云：「此間則不然。」師云：「且道作麼生？」進云：「一條楖栗逞英豪。」師打云：「謝汝證明。」乃云：「花甲年週又紀一，婺光炯炯照深室，雖然不與佛同生，究竟本來原是佛。是汝今日還信得及也無？」卓拄杖，云：「攙前獨自承當去，管取壺中歲月長。」復舉世尊初生，一手指天，一手指地，周行七步，目顧四方，云：「天上天下，惟我獨尊。」後雲門偃云：「我當時若見，一棒打殺與狗子喫，貴圖天下太平。」師云：「世尊瞻前不顧後，雲門氣宇如王，惜乎棒頭短。金粟別無長處，每到四月八，只可殿裏燒香，大展坐具三拜，要伊端坐受供養，施主嘗安樂。」良久，云：「也是就貨還錢。」便下座。超瑛請上堂。僧問：「無盡意菩薩請調御丈",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: raises the birth again with the clubbing after it, rules the World-Honored one watched ahead but not behind and Yunmen's bearing kingly though his staff was too short, and says Jinshan has no other strength than to burn incense in the hall each fourth month, spread his sitting cloth in three bows, and have him sit and receive the offering so the donors rest at ease."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0495a05",
+          "ToLb": "0495a20",
+          "Kwic": "知內守幽閒猶為法塵分別影事今時外道好笑殺人既以曉得走路問話的為悟自心更以識神空主人公也不可得為末後無疑誰知數十年前盡被世尊痛阿明叱如斯學者可弗見不善如探湯猛看破浮幻身心向一念未生前當下證得廣大心體連證之一字亦不可得便識得一切佛祖廣大心體方可出生出死方可入死入生方可如釋迦老子於昔年今日纔生下地便現些小神通周行七步目顧四方一手指天一手指地云天上天下惟我獨尊方可如雲門大師順風吹火云我當時若見一棒打殺撩與狗子喫事是恁麼事人須恁麼人苟不如斯生死到來便驗真偽復舉古德云毫釐有差天地懸隔師驀豎如意召大眾云還會麼良久擲如意云黃金自有黃金價終不和沙賣與人癸未誕日檀越請上堂師至座前滌凡劉居士同凉禪等呈祖衣師云兩年福薄勉為人糠麥為糜草",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: teaches his birthday assembly that only seeing through the floating body and attaining the vast mind-body at the point before the first thought ever arises lets one be born like Shakyamuni that morning long ago, with his small feats, seven strides roundabout, and the alone-honored cry, and like Yunmen blowing on the fire with the wind at his back."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1996.xml",
+        "J/J10/J10nA158.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB177.xml",
+        "J/J27/J27nB197.xml",
+        "J/J28/J28nB202.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Xuedou Chongxian",
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Poshan Haiming",
+        "Wuyi Yuanlai",
+        "Baichi Xingyuan",
+        "Yulin Tongxiu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The newborn's seven strides, and the masters who raise them — and the one who would have clubbed him. Yunmen Wenyan raises the newborn with one hand to heaven and one to earth, seven strides roundabout and eyes on the four quarters, and says had he been there he would have clubbed him and fed him to the dogs to buy the world its peace, Xuedou Chongxian holds up the first awakened one who had finished saving beings before leaving the womb, and says even the seven strides and the alone-honored between heaven and earth still found someone who would not let him pass, Miyun Yuanwu raises the same birth, then drags his staff down from the seat and scatters the hall, since the old man Shakyamuni is already like this, what bowl are they still trying to beg off the old monk, and Tianyin Yuanxiu at the Buddha's birthday small meeting says whoever grasps it already has a patch-robed air, and Yunmen's clubbing steers against the wind yet still shares in the debt of gratitude. Poshan Haiming names the birthday the season for raising arms and Yunmen's clubbing the hiring of thieves to break the household, Wuyi Yuanlai grades every stage of the buddha's career thirty strokes apiece, the seven strides included, and credits Yunmen's vicious means as the only thing that propped up the school, Baichi Xingyuan rules the World-Honored one watched ahead but not behind and Yunmen's staff was too short, so Jinshan can only burn incense in the hall each fourth month and spread his sitting cloth for him to sit and receive the offering, and Yulin Tongxiu teaches that only attaining the vast mind-body before the first thought ever arises lets one be born like Shakyamuni with his small feats and seven strides, and like Yunmen blowing on the fire with the wind at his back."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "Id": "t_9f92fbf68c3a",
+  "SourceTerm": "也不消得",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:33:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "that too is needless",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "no need for that either",
+        "this too is not called for",
+        "even that is uncalled for"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 259 hits in 122 files representing 118 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J29/J29nB244.xml",
+          "FromLb": "0692c02",
+          "ToLb": "0692c08",
+          "Kwic": "」僧便喝，師便打，僧又喝，師又打。問：「人天聚會、凡聖交參，拄杖頭邊有何意旨？」師亦打。進云：「和尚也不消得。」師連打。僧禮拜，師打云：「山僧棒頭頗毒，打殺一窠一窟，一任放去收來，個裡了無回互。無回互，鵓鳩樹上鳴，唱出無生曲，谷谷孤！」上元上堂。「天上月正圓；人間號月半，山僧沒來由，且自閑打算。",
+          "MasterName": "Sanshan Denglai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Sanshan Denglai",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB244.xml). Recorded Sayings of Chan Master Sanshanlai. Sanshan Denglai owns the retained deployment: the monk, beaten twice over, offers that even this beating is needless — the master beats him on and prices his own staff: deadly enough to kill a whole nest and den, let loose or gathered in, no mutual borrowing inside."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0826b12",
+          "ToLb": "0827a05",
+          "Kwic": "今日通判朝議請和尚舉揚般若追薦薌林居士未審還端的也無師云端的進云恁麼則慎終追遠民德歸厚矣師云塵塵爾剎剎爾進云且道薌林居士是生耶死耶師云生耶死耶進云其生也榮其死也哀師云開眼也著合眼也著進云東家人死還許西家人助哀也無師云又且何妨進云蒼天蒼天師云也不消得。僧問跳出金剛圈吞却栗棘蓬如何是和尚為人底一句師云一雨普潤周沙界進云雨過浮雲散明月又依然師云千峯勢到岳邊止万派聲歸海上消進云正是陽和無偏黨曇花再發一枝春師云相隨來也進云只如薌林居士昔日與和尚相見未審最初一句作麼生道師云便是你口裏道底進云恁麼則眾生普聞盡皆成佛去也師云錯下注脚進云自從一見桃花後剎剎塵塵總是渠師云速禮三拜。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: when the mourning-talk of the east family's dead and the west family's grief runs to its cry of the gray heavens, rules that too uncalled for — and to the ask for his one sentence for people gives one rain moistening the whole sand-realm."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0097c06",
+          "ToLb": "0097c12",
+          "Kwic": "僧問：「世尊說法百萬人天，和尚說法百萬人天，是仝？是別？」師云：「兩采一賽。」進云：「恁麼則慶賀去也。」師云：「也不消得。」乃云：「祖師心印如岡如陵，其動也，萬物育焉而不盈；其靜也，百谷密焉而不及。乾坤之內、宇宙之閒，中有一寶祕在形山即且置，今日張護法為男祖保保壽又如何分付？惟願孩兒愚且鹵，無災無患到公卿。",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yezhu Fuhui",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment: asked whether his teaching to a million humans and gods is the same or different, answers two throws, one contest — and when told, then it is celebration, answers: needless — before holding up the founder's mind-seal rising like a ridge, like a mound."
+        },
+        {
+          "RelPath": "J/J32/J32nB276.xml",
+          "FromLb": "0340b17",
+          "ToLb": "0340b23",
+          "Kwic": "」師云：「果金色。」問：「時當四月八，降誕號悉達，重沐瞎驢身，學人添一杓。請師證盟。」師云：「也不消得。」進云：「恁麼則萬里雲消盡，紅日挂當天，頻將一滴水，洗出舊山川。」師云：「那個池無月？誰家樹不春？」乃云：「一念還元諸疫消，家家垂照五雲高，晴空慧日狼煙息，福壽綿如春水潮。分明不藉他人力，善惡兩忘無茂稠，本體春光猶不薦，花香鳥語為誰飄？",
+          "MasterName": "Buhui Fatong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Buhui Fatong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB276.xml). Recorded Sayings of Chan Master Buhui. Buhui Fatong owns the retained deployment: at the fourth month's eighth day, the descent-birth named Siddhartha, re-bathing the blind donkey's body, the student adds one ladle and asks him to certify the vow — needless, he answers, and the exchange runs on to which pool has no moon."
+        },
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0026c24",
+          "ToLb": "0026c30",
+          "Kwic": "若較佛魔不入、凡聖不居，空劫以前拍手高談，尚未蹋步。不見：石火電光已落第二。」以拂子豎起，云：「祇者箇也不消得。」复舉臺山婆子因緣，師云：「古今商量皆謂婆子把斷要津、不通凡聖，被趙州不須矢鏃衝破嚴關。恁麼要見趙州則易，要見婆子則難。」上堂。僧問：「無日月鐙時如何得明？」師云：「疑甚麼？無欠少。",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: rules the holy and the common do not stay, and the hand-clap of before the empty kalpa has not yet one step — sparks and flint-light already fallen to second — then raises the whisk and dismisses even it: just this one, too, is needless, before airing the Taishan widow case."
+        },
+        {
+          "RelPath": "J/J38/J38nB407.xml",
+          "FromLb": "0230b09",
+          "ToLb": "0230b15",
+          "Kwic": "雖然，倘有個頂門具眼底向前道：『者兩人不特現未曾死，昔本不生。』則山僧一段絡索也不消得。何故？花開復花落，春色自年年。」下座。小參。舉：「六祖大師云：『心平何勞持戒？行直何用修禪？』於今者些瞎禿子不識祖師言句，都疑祖師為甚教人不持戒、不修禪，因辟《檀經》為外道偽撰。",
+          "MasterName": "Qianshan Shengren Hanke",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianshan Shengren Hanke",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB407.xml). Recorded Sayings of Chan Master Shengren of Qianshan. Qianshan Shengren Hanke owns the retained deployment: closes his own turn: were someone with the eye at the crown of his head to step forward and say these two not only now never died but from the start were unborn, then this whole knotted rope of the mountain monk's talk is needless — flowers fall and flowers open, the spring colors yearly of themselves."
+        },
+        {
+          "RelPath": "J/J25/J25nB163.xml",
+          "FromLb": "0254c14",
+          "ToLb": "0254c21",
+          "Kwic": "」浦云：「見說道者總忘卻年月也。」溪云：「和尚住持事繁，且容仔細看。」浦云：「打即打會禪漢。」溪云：「也不消得。」浦云：「道者住山事繁。」師拈云：「作家手眼決不尋常，語脈貫通天然自在。爾恁麼道，我不恁麼道；爾不恁麼道，我卻恁麼道。雖不恁麼，卻恁麼的恰好。蛤溪、洛浦，語言返復酬酢，賓主上勘來，主中有賓，賓中有主，賓主歷然。",
+          "MasterName": "Guting Shanjian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guting Shanjian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB163.xml). Selected Record of Chan Master Guting’s Sayings. Guting Shanjian owns the retained deployment: raises the old exchange — the one offers to strike only a chan-knowing fellow, and the answer comes back, needless — and rules the workman's hand and eye anything but common, the word-vein threading through, natural and at ease."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0562a21",
+          "ToLb": "0562a30",
+          "Kwic": "一日，有婆抱一兒來云：「呈橈舞棹即不問，且道婆手中兒甚處得來？」頭便打。婆云：「婆生七子，六箇不遇知音，秖這一箇也不消得。」便拋向水中。頌云：「七子全拋向碧波，擬思量處更淆訛，時人逐眼清流上，秖見憐兒不見婆。」舉雲門須彌山。頌云：「一念不生全體現，有過無過君自看，直饒五眼也難窺，韶陽托出須彌掩。」舉僧問雲門：「如何是最初一句？",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: raises the widow's case whole: of seven sons born, six met no soul that knew their worth — only this one, too, is needless — and she throws him into the water, and his verse sees the age on the clear stream looking only at the dear child, never at the widow."
+        }
+      ],
+      "SourceTexts": [
+        "J/J29/J29nB244.xml",
+        "M/M59/M59n1540.xml",
+        "J/J29/J29nB224.xml",
+        "J/J32/J32nB276.xml",
+        "J/J29/J29nB223.xml",
+        "J/J38/J38nB407.xml",
+        "J/J25/J25nB163.xml",
+        "J/J25/J25nB171.xml"
+      ],
+      "RelatedMasters": [
+        "Sanshan Denglai",
+        "Dahui Zonggao",
+        "Yezhu Fuhui",
+        "Buhui Fatong",
+        "Shanhui Huan",
+        "Qianshan Shengren Hanke",
+        "Guting Shanjian",
+        "Tianyin Yuanxiu"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The wave-off: a monk says even the master's beating is needless — and is beaten again; a congratulation is offered — needless; a ladle added at the bath — needless; even the master's own rope of talk — needless. The formula keeps its hands in its sleeves. The refusals in sequence: at Sanshan Denglai's hall the monk, beaten twice over, offers that even this beating is needless — the master beats him on and prices his own staff: deadly enough to kill a whole nest and den, let loose or gathered in, no mutual borrowing inside; Dahui Zonggao, when the mourning-talk runs to its cry of the gray heavens, rules that too uncalled for, and to the ask for his one sentence for people gives one rain moistening the whole sand-realm; Yezhu Fuhui, asked whether his teaching to a million humans and gods is the same or different, answers two throws, one contest — and when told, then it is celebration, answers: needless — before holding up the founder's mind-seal rising like a ridge, like a mound; Buhui Fatong at the birth-washing is asked to certify the vow as the student adds one ladle on the blind donkey's body — needless, he answers, and the exchange runs on to which pool has no moon; Shanhui Huan rules the holy and the common do not stay, and the hand-clap of before the empty kalpa has not yet one step — sparks and flint-light already fallen to second — then raises the whisk and dismisses even it: just this one, too, is needless; Qianshan Shengren Hanke closes his own turn: were someone with the eye at the crown of his head to step forward and say these two not only now never died but from the start were unborn, then this whole knotted rope of the mountain monk's talk is needless — flowers fall and flowers open, the spring colors yearly of themselves. The ancients waved off too: Guting Shanjian raises the old exchange — the one offers to strike only a chan-knowing fellow, and the answer comes back, needless — and rules the workman's hand and eye anything but common, the word-vein threading through, natural and at ease; Tianyin Yuanxiu raises the widow's case whole: of seven sons born, six met no soul that knew their worth — only this one, too, is needless — and she throws him into the water, and his verse sees the age on the clear stream looking only at the dear child, never at the widow."
+    }
+  ]
+}

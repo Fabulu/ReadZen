@@ -1,0 +1,150 @@
+{
+  "Id": "t_ca67d19dc571",
+  "SourceTerm": "大唐國裏無禪師",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T01:11:14Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "in the whole Great Tang realm there are no Chan masters",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "no Chan masters in the Tang realm",
+        "no masters in all the Great Tang"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 85 hits in 66 source files. Evidence floor met with 7 retained exact deployments from 7 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0068b16",
+          "ToLb": "0069a14",
+          "Kwic": "還有過麼？鼓山珪頌云：剔起便行三萬里，只今休去八千年。分明更為從頭舉，一任諸方取次傳。徑山杲云：倒腹傾腸說向君，不知何故尚沈唫？而今便好猛提取，付與世間無事人。靈巖日云：倒腹傾腸幾箇知？更無絲髮可相依。直饒徹底承當去，也落他家第二機。黃檗運禪師示眾云：汝等諸人盡是噇酒糟漢，與麼行脚，何處有今日？還知大唐國裏無禪師麼？時有僧出云：只如諸方匡徒領眾又作麼生？師云：不道無禪，只是無師。溈山問仰山：作麼生？仰云：鵝王擇乳，素非鴨類。溈云：此實難辨。五祖戒出僧語云：謝和尚說得道理好。石門聰云：黃檗垂示不妨奇特，纔被布衲挨拶著，失却一隻眼。承天宗云：五祖戒眼照四天下，要見黃檗猶未可，若要扶竪正法眼藏，須是黃檗宗師。",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Huangbo Xiyun owns the retained deployment: the origin charge to the assembly: you are all wine-lees-gobbling fellows — wandering like this, where is there a today? Do you know that in the whole Great Tang realm there are no Chan masters? — and on the monk's demand about the honored ones everywhere herding followers, the answering half: not that there is no Chan, only that there are no masters."
+        },
+        {
+          "RelPath": "X/X71/X71n1409.xml",
+          "FromLb": "0262b04",
+          "ToLb": "0263a04",
+          "Kwic": "曰：東門南門，西門北門。東風得意馬蹄疾，一日看盡長安春。舉睦州問僧：近離什麼處？僧便喝。州云：老僧被汝一喝。僧又喝。州云：三喝四喝後作麼生？僧無語。州便打云：這掠虗漢。頌曰：金剛寶劒鋒鋩鈍，踞地狻猊也只寧。不是將軍誇好手，幾乎打破睦州城。舉黃蘗和尚示眾云：汝等諸人盡是噇酒糟漢，與麼行脚何處有今日？還知大唐國裏無禪師麼？時有僧出云：只如諸方匡徒領眾又作麼生？蘗云：不道無禪，只是無師。頌曰：大唐國裏無禪師。噇酒糟，漢河沙，數十二峯前老古錐，參天荊棘無行路。。舉僧問洞山：如何是佛？山云：麻三斤。頌曰：當頭一句沒商量，有藝從來壓當行，拈出雲門乾屎橛，半斤八兩恰相當。舉僧問巴陵：如何是提婆宗？巴陵云：銀椀裏盛雪。頌曰",
+          "MasterName": "Yuejiang Zhengyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1409.xml). Recorded Sayings of Chan Master Yuejiang Zhengyin. Yuejiang Zhengyin owns the retained deployment: raising Huangbo's instruction and capping it in a verse that opens on the tag itself: in the Great Tang realm, no Chan masters — wine-lees gobblers, fellows as many as Ganges sands; before the twelve peaks an old awl, brambles to the sky and no road to walk — Ha!."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0044a18",
+          "ToLb": "0044b04",
+          "Kwic": "居士、靈照。若不是箇菜籃，何處覓他父親？居士曰：『赤土塗牛妳。』非此一端。」黃檗希運禪師，一日捧缽向南泉位上坐，泉入堂見，乃問：「長老甚年行道？」檗曰：「威音王已前。」泉曰：「猶是王老師兒孫，下去。」檗便過第二位，泉休去。師云：「王老師年尊，何不退位，致使後代兒孫向頭上屙，是何道理？」黃檗示眾云：「還知大唐國裏無禪師麼？」時有僧問：「諸方尊宿盡聚眾開法，為甚麼事卻道無禪師？」檗曰：「不道無禪，秪是無師。」師云：「黃檗一時將箇正法眼擉瞎，要津坐斷，卻被箇噇酒糟漢一拶粉碎。」大慈寰中禪師，上堂：「山僧不解荅話，秪能識病。」時有僧出，寰便歸方丈。師云：「不是這僧，爭見國手。且道這僧是甚麼病？我道：『這問便是。』還甘麼？",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: printing the exchange and ruling against its author: Huangbo in one stroke gouged out the true-dharma-eye and sat himself on every critical ford — only to be crushed to powder by one squeeze of a wine-lees-gobbling fellow."
+        },
+        {
+          "RelPath": "L/L154/L154n1640.xml",
+          "FromLb": "0522a11",
+          "ToLb": "0522b15",
+          "Kwic": "某甲萸便歸方丈師云茱萸當時打者僧果錯不錯若錯為甚歸方丈若不錯為甚歸方丈大眾試斷看復云疑殺人。舉溈山云老僧百年後向山下作一頭水牯牛右脇書五字云溈山僧某甲此時若喚作溈山僧又是水牯牛喚作水牯牛又是溈山僧且道喚作甚麼即得師云溈山大似不打自招復云還知金粟落處麼。舉黃檗示眾云汝等諸人盡是噇酒糟漢與麼何有今日還知大唐國裏無禪師麼時有僧云只如諸方匡徒領眾又作麼生檗云不道無禪只是無師師云黃檗大似龍頭蛇尾當時待者僧云只如諸方匡徒領眾又作麼生和聲便打更若擬議劈脊打出卻恁老婆可謂酒糟太多。舉溈山問仰山甚處來仰云田中來溈云田中多少人仰插鍬叉手而立溈云今日南山大有人刈茅仰曳鍬而去師云我若作仰山待溈山問田中多少人便乃出不惟截斷溈山後來老",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1640.xml). Recorded Sayings of Chan Master Miyun Wu. Miyun Yuanwu owns the retained deployment: ruling after the raised exchange that Huangbo is much dragon-head snake-tail — the moment that monk asked what of the honored ones everywhere herding followers, he should have been struck in the very sound of it; any hesitating, a blow across the spine: all that doting kindness, one may say too much wine-lees."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0088a25",
+          "ToLb": "0088b12",
+          "Kwic": "霜刀令已行，救得來遲都末論，貍頭依舊角崢嶸。藥山久不陞座，院主白云：「大眾久思示誨，請和尚為眾說法。」山令打鐘至座前，便歸方丈。主隨後問故，山云：「經有經師、論有論師，爭怪得老僧？」不惜從前兩道眉，全提曲引秪為伊，分明月在梅花上，看到梅華早已遲。黃檗示眾云：「汝等盡是噇酒糟漢，與麼行腳何處有？今日還知大唐國裏無禪師麼？」時有僧問：「諸方尊宿匡徒領眾又作麼生？」檗云：「不道無禪，秪是無師。」手握乾坤劍，胸藏日月旗，機先嘗展演，佛祖莫能窺。噇酒糟漢知不知？大唐國裏無禪師。趙州因僧問：「如何是祖師西來意？」云：「庭前柏樹子。」枝頭底意分明在，徹體還他老趙州，跛鱉盲龜如不薦，且看投子道油油。趙州因僧問：「狗子還有佛性也",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: closing his raising with his own verse: the hand gripping the universe-sword, the breast holding sun-and-moon banners, deployed at the tip of the trigger where buddhas and patriarchs cannot peer in — wine-lees gobblers, do you know it or not? In the Great Tang realm, no Chan masters."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0295c15",
+          "ToLb": "0296a03",
+          "Kwic": "拗折黃龍角，何人不到家。人人有生緣，箇箇被渠穿。今朝全舉似，江南萬斛船。煙塵淨盡信旗通，羽檄遙飛氣概雄。不是將軍多賈勇，太平寰宇絕朦朧。婆子燒菴拈云：「貧居鬧市無人問，富在深山有遠親。還有不受遮般惡水者麼？」卓拄杖，云：「山僧罪過。」衝開碧落松千尺，截斷紅塵水一溪。松韻水聲交互處，大通智勝竟何為。黃檗大唐國裏無禪師拈云：「明修棧道、暗度陳倉則不無，汝等諸人切忌指鹿為馬，山僧今日不惜眉毛下箇註腳去也。」乃擊拂子，云：「大冶精金，應無變色。咄！」天上有星皆拱北，人間無水不朝東。滿盤傾出如相委，何用闍黎飯後鐘。大唐國裏無禪師，舉似分明更莫疑。昨夜嚴風憾林木，今朝普請拾枯枝。溈山水牯牛拈云：「要識溈山僧麼？」以左手拍",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: picking the case up under its own name and ruling: open-repairing the plank-road while secretly crossing at Chencang — that much is granted — but you all beware of calling a deer a horse; today this mountain monk spares no eyebrows and adds a footnote: great-smelter refined gold should show no change of color — Tuh!."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0584a15",
+          "ToLb": "0584b11",
+          "Kwic": "日減精神日不如前而汝不在深以為憂當知我必不久人世得書即來有最要語分付特此至囑師掩死關數月以滅磬山宗自任得書破關過報恩見老和尚不作禮近前叉手云狂兒國士父不容過者個峯頭還是老漢住處麼尚云你且站下腳與你道師驀掀倒香案而出尚高聲云將拄杖來師遙應云劍去久矣翌日老和尚上堂維那擬白椎師喝住云待我問了話白椎便問云昔日大唐國裏無禪師而今大明國裏還有麼尚拈拄杖作打勢云看棒師便喝尚亦喝師復喝一喝轉身云不是狂兒多意氣秪因曾透上頭關便出尚喝一喝師亦喝遙聞維那重白椎師乃高聲云歎你娘的死氣報恩庫房有二貓師攜至方丈問老和尚云那一個好尚指師左手的云者個好師驀擲下而去二貓皆幾死尚問旁人云死了耶移時師復入尚云你又來迺趁出師云老漢真個無殺心至後尚出貓貓",
+          "MasterName": "Yulin Tongxu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxu owns the retained deployment: stopping, as the wild son of the story, the verger before the hammer-fall at his old master's hall and asking the charge turned on his own day: of old, in the Great Tang realm there were no Chan masters — in today's Great Ming realm, are there still any? — then shouting through the master's lifted-staff pose and walking out on his verse: not that the wild son has so much spirit, only that he has once passed the barrier above."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1299.xml",
+        "X/X71/X71n1409.xml",
+        "J/J27/J27nB189.xml",
+        "L/L154/L154n1640.xml",
+        "J/J28/J28nB202.xml",
+        "J/J33/J33nB280.xml",
+        "B/B27/B27n0152.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Yuejiang Zhengyin",
+        "Sanyi Mingyu",
+        "Miyun Yuanwu",
+        "Baichi Xingyuan",
+        "Yunwai Xingze",
+        "Yulin Tongxu"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "In the whole Great Tang realm there are no Chan masters. The charge is Huangbo Xiyun's own instruction: you are all wine-lees-gobbling fellows — wandering like this, where is there a today? Do you know that in the whole Great Tang realm there are no Chan masters? And when the monk demands what, then, of the honored ones everywhere herding followers, the answer that has never been improved on: not that there is no Chan — only that there are no masters. Yuejiang Zhengyin raises the whole exchange and caps it in a verse that opens on the tag itself: in the Great Tang realm, no Chan masters — wine-lees gobblers, fellows as many as Ganges sands; before the twelve peaks an old awl, brambles to the sky and no road to walk. Sanyi Mingyu, printing the exchange, rules against its author: Huangbo in one stroke gouged out the true-dharma-eye and sat himself on every critical ford — only to be crushed to powder by one squeeze of a wine-lees-gobbling fellow. Miyun Yuanwu's verdict is crueller: Huangbo is much dragon-head snake-tail — the moment that monk asked what of the honored ones everywhere, he should have been struck in the very sound of it; any hesitating, a blow across the spine: all that doting kindness — one may say, too much wine-lees. Baichi Xingyuan closes his raising with his own verse: the hand gripping the universe-sword, the breast holding sun-and-moon banners, deployed at the tip of the trigger where buddhas and patriarchs cannot peer in — wine-lees gobblers, do you know it or not? In the Great Tang realm, no Chan masters. Yunwai Xingze picks the case up under its own name: open-repairing the plank-road while secretly crossing at Chencang — that much he grants — but beware of calling a deer a horse; today this mountain monk spares no eyebrows and adds a footnote: great-smelter refined gold should show no change of color — Tuh! And Yulin Tongxu, the wild son of the story, stops the verger before the hammer-fall at his old master's hall and asks the charge turned on his own day: of old, in the Great Tang realm there were no Chan masters — in today's Great Ming realm, are there still any? The old master lifts his staff into a blow-pose — watch the staff! — and the two shout through the rounds until the boy walks out on his verse: not that the wild son has so much spirit — only that he has once passed the barrier above."
+    }
+  ]
+}

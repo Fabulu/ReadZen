@@ -1,0 +1,194 @@
+{
+  "Id": "t_188663bbf443",
+  "SourceTerm": "是法住法位",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:08:17Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the thing rests in its place",
+      "AlternateTargets": [
+        "the way stays where it stands"
+      ],
+      "SearchAliases": [
+        "each thing at its own station",
+        "the way-thing dwelling in position",
+        "things at rest in their station"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 240 hits in 126 files representing 124 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0385b06",
+          "ToLb": "0385b18",
+          "Kwic": "：「教云：『諸法寂滅相，不可以言宣。』」師云：「見定如今說話，何處有說不說？不見道：去不到去，來不到來。」舉：「一切真如含一切。」師云：「喚什麼作山河大地？」又云「是諸法空相，不生不滅、不垢不淨。」或拈拄杖示眾云：「拄杖子化為龍，吞卻乾坤了也。山河大地甚處得來？」或畫圓相云：「還有人出得麼？」舉：「教云：『是法住法位，世間相常住。』」師云：「釋迦老子甚處去也。」舉：「僧問投子：『如何是此經？』子云：『《維摩》、《法華》。』又問：『塵中不染丈夫兒時如何？』子云：『不著。』」師云：「不喚作法身，不喚作第一義，亦為說法，亦為說真空。」師齋次，拈起匙箸云：「我不供養南僧，秪供養北僧。」時，有僧問：「為什麼不供養南僧？」師云：「",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment, raising the sutra's line about the thing resting in its place and asking where old Shakyamuni has gone."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0454c10",
+          "ToLb": "0454c25",
+          "Kwic": "名憶念。分別此彼等。此如來品。初中後思惟如來定性不可得。乃至五求四句皆非是。故偈云。如來無有性。即是世間性。如來無有性。世間亦無性。以如來一性空義。知一切世間法。悉皆無性。同如來義。華嚴演義中。引法華經偈云。未來世諸佛。雖說百千億。無數諸法門。其實為一乘。諸佛兩足尊。知法常無性。佛種從緣起。是故說一乘。是法住法位。世間相常住。於道場知已。導師方便說。今但引兩句。顯諸法無性。成一性義耳。然上三偈。諸釋不同。今直解經文。初一偈。明當佛開權。終歸一實。故云其實為一乘。次偈釋說一乘所以。以唯一性故。謂若有二性。容有兩乘。既唯一性。故說一乘耳。知法常無性者。知即證知。法謂所證知法。即色心等一切法也。常無性者。所證理也。即",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment, setting the couplet inside the one-nature reading, where knowing the law's own no-nature is why one vehicle is taught."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0854b01",
+          "ToLb": "0854b15",
+          "Kwic": "三世諸佛諸代祖師古往今來一切知識目瞪口呿伏聽處分便恁麼會得三世諸佛舌頭即是道端舌頭道端舌頭即是三世諸佛舌頭六代祖師舌頭即是道端舌頭道端舌頭即是六代祖師舌頭天下老和尚舌頭即是道端舌頭道端舌頭即是天下老和尚舌頭忽若塞却眼耳鼻舌身意滅却色聲香味觸法道端又向甚處麼摸索道端應云只在這裏師便打云也不得放過。復云教中道是法住法位世間相常住若了得這兩句世間法與出世間法一網打就何以故佛說一大藏教盡是隨眾生器量而說所以釋迦老子初於正覺山前覩明星現忽然悟道於所證處便見大地一切眾生與他同體平等乃云奇哉一切眾生具有如來智慧德相但以妄想執著而不證得謂我所證處與十方諸佛乃至含蠢蠕動一時同得同證以海印三昧向人人脚跟下一印印定更無纖毫以為透漏以是知",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, saying whoever settles the two lines nets the world's way and the beyond-world's way in one cast."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0209b01",
+          "ToLb": "0209b16",
+          "Kwic": "派暗流注。喝一喝，云：明眼衲僧會不得。上堂：竪四橫三，拈一放七。掣電奔雷，崩崖裂石。稽首金剛神，盡力道不出。因甚如此？識法者懼。達磨祖師忌，拈香云：來不本分來，去不本分去，兩手揑空拳，開口落第二。咄！咄！咄！力圍希熊耳，峰頭花開鐵樹。上堂：如來禪、祖師禪，會則紅塵堆裏七出八沒，不會則黑山鬼窟下且待驢年。是法住法位，世間相常住，釋迦老子因甚麼打失鼻孔？達磨大師從西竺國來，為傳上乘心印，諸人還識上乘人麼？擲下主丈，云：上乘菩薩信無疑，中下聞之必生怪。冬至，上堂。僧問：不逐陰陽消長，不隨四序推遷，是甚麼人？師云：老僧在你脚下。進云：與麼則學人罪過。師云：也是我尋常用底。僧禮拜，師乃云：群陰剝盡，罷三玄戈甲於百草頭邊；",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment, asking how, the thing resting and the world's look constant, old Shakyamuni managed to lose his nose."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0932b18",
+          "ToLb": "0933a12",
+          "Kwic": "未悟。妄見遷流卒莫之已。如小兒旋走見屋廬動。是故聖人垂善巧方便教之令止。謂止者何。息也定也。安住不動寂滅無為者也。外止其境內止其心。止境於外則心無所迷。止心於內則境無所惑。且不惑於境即境惟心。不迷於心即心惟境。心乎境乎止止之義明矣。或曰。心可止乎境可止乎。謂心可止則益其迷。謂境可止則滋其惑矣。如教中謂。是法住法位世間相常住。審如是則心可止乎。境可止乎。不然如是法住法位止也。世間相常住亦止也。子或未至言語道斷心行處滅之地。擬逃吾止止之說。猶日中之避影也。雖然殊不知言語道斷心行處滅。亦未甞不在吾止止之間。是謂無止之止。性體本具。雖三世佛祖見超物表識達機先。未有能出吾止止之義者。天竺靈山法師某講觀之暇。甞搆精舍於越山。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, turning the couplet against stopping and asking whether mind or scene can be stopped when the thing rests and the world's look stays."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0135b03",
+          "ToLb": "0135b16",
+          "Kwic": "走兩步，云：「莫怪老僧行步龍鍾。」僧云：「意旨如何？」師云：「水牯牛大底，老虎也打得倒幾個。」僧不領，師云：「向年撞個師僧來亦曾與麼，直至而今總無消息。」良久，顧左右，云：「具足凡夫法，凡夫不知；具足聖人法，聖人不會。聖人若會，即同凡夫；凡夫若知，即同聖人。不消拈卻凡情聖見，寒則普天匝地寒，熱則普天匝地熱，是法住法位，世間相嘗住，塵塵爾、剎剎爾，亙古亙今，那怕甕中走鱉？雖然如是，因甚又往往干戈相待？」喝一喝，云：「劍為不平離寶匣，藥因救病出金瓶。」上堂。「未離兜率，已降王宮；未出母胎，度人已畢。」拈起拄杖云：「這上座甚麼劫中成佛來？」僧出眾云：「容某甲說道理得麼？」師云：「大喻三千，小喻八百，秪要恰這上座意便了。」僧",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanyue Fazang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment, running the couplet with the whole world cold and the whole world hot, every dust and every land the same from before the sages."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0016a01",
+          "ToLb": "0016a15",
+          "Kwic": "分別。分別若不生，洞然最明白，人人絕覆藏，個個無隱匿。所以道：彌勒真彌勒，化身千百億，時時示時人，時人自不識。且即今各各人人那個是彌勒？若也識，便安怗；其或未然，來年更有新條在，惱亂春風卒未休。」下座。四月旦日上堂。「三春已過，孟夏初臨，山中樹綠，田裡秧青，蠶婦剪桑，農夫催耕，情與無情，一一皆真。所以道：是法住法位，世間相嘗住。若識相嘗住，方堪有本據；其或未然，有寒暑兮促君壽、有鬼神兮妒君福。」下座。佛誕日解制，上堂，僧問：「解開布袋口，放出一群牛，正當恁麼時，如何是慶賞一句？」師便打，進云：「大有人不肯又如何？」師又打，僧一喝，師復打，乃云：「二月十五舊公案，四月初八便結絕，雖然日子卻無多，養就一群如老賊，開門放",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, reading the couplet into the rice shoots and mulberry-picking of early summer, where knowing the constant look gives standing ground."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0841a28",
+          "ToLb": "0841b10",
+          "Kwic": "作麼生？」僧佇思，師震威一喝，僧禮拜，師曰：「切莫忘了龍山這一喝。」問：「古祖家風從此展，龍山祥瑞滿座生。凡聖混融即不問，堂堂獨露意如何？」師曰：「切莫錯過。」曰：「不錯過時如何？」師曰：「道道。」僧擬議，師曰：「原來賺我。」乃曰：「天不非天，地不非地，山原是山，水原是水。眼見色，鼻出氣，耳聽聲，舌知味。是法住法位，世間相常住。若恁麼會，一生參學事畢。天是天，地是地，山是山，水是水。眼見色，鼻出氣，耳聽聲，舌知味。是法住法位，世間相常住。若恁麼會，入地獄如箭射。不見古德道：『無手人行拳，無舌人解語。』且道無舌人說個什麼？無手打個什麼？雖然恁麼提持，未免太煞徑截，令後代兒孫鑽龜打瓦，枉作佛法商量。龍山則不然，有手入行拳",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained deployment, doubling the couplet, heaven not not-heaven and water still water, and ruling that taken one way the study of a lifetime is done, taken the other way you shoot into hell like an arrow."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "T/T48/T48n2016.xml",
+        "M/M59/M59n1540.xml",
+        "X/X71/X71n1412.xml",
+        "B/B25/B25n0145.xml",
+        "J/J34/J34nB299.xml",
+        "J/J10/J10nA158.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Yongming Yanshou",
+        "Dahui Zonggao",
+        "Gulin Qingmao",
+        "Zhongfeng Mingben",
+        "Hanyue Fazang",
+        "Miyun Yuanwu",
+        "Baishan Dekai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The first half of the inherited Lotus couplet: the thing rests in its place, the world's look stays constant. Yunmen Wenyan raises the sutra's line about the thing resting in its place and asks where old Shakyamuni has gone, Yongming Yanshou sets the couplet inside the one-nature reading, where knowing the law's own no-nature is why one vehicle is taught, Dahui Zonggao says whoever settles the two lines nets the world's way and the beyond-world's way in one cast, and Gulin Qingmao asks how, the thing resting and the world's look constant, old Shakyamuni managed to lose his nose. Zhongfeng Mingben turns the couplet against stopping, asking whether mind or scene can be stopped when the thing rests and the world's look stays, Hanyue Fazang runs it with the whole world cold and the whole world hot, every dust and every land the same from before the sages, Miyun Yuanwu reads it into the rice shoots and mulberry-picking of early summer, where knowing the constant look gives standing ground, and Baishan Dekai doubles it, heaven not not-heaven and water still water, and rules that taken one way the study of a lifetime is done, taken the other way you shoot into hell like an arrow."
+    }
+  ]
+}

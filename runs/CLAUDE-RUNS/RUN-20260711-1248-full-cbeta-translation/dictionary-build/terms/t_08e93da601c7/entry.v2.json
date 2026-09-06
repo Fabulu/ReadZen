@@ -1,0 +1,174 @@
+{
+  "Id": "t_08e93da601c7",
+  "SourceTerm": "堪與人天為師",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:30:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "worthy to be a teacher for humans and gods",
+      "AlternateTargets": [
+        "fit to teach humans and gods"
+      ],
+      "SearchAliases": [
+        "the second sentence's teaching rank",
+        "worthy to teach humans and gods",
+        "the middle rung of the three sentences"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 93 hits in 60 files representing 59 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J23/J23nB134.xml",
+          "FromLb": "0526b14",
+          "ToLb": "0526b27",
+          "Kwic": "問：「如何是真佛、真法、真道？乞師開示。」師云：「佛者，心清淨是；法者，心光明是；道者，處處無礙淨光是。三即一，皆是空名而無實有。如真正學道人，念念心不間斷。自達磨大師從西土來，秪是覓個不受人惑底人。後遇二祖，一言便了，始知從前虛用工夫。山僧今日見處與祖佛不別，若第一句中薦得，堪與祖佛為師；若第二句中薦得，堪與人天為師；若第三句中薦得，自救不了。」問：「如何是西來意？」師云：「若有意，自救不了。」云：「既無意，云何二祖得法？」師云：「得者是不得。」云：「既若不得，云何是不得底意？」師云：「為你向一切處馳求，心不能歇。所以祖師言：『咄哉丈夫！將頭覓頭。』你言下便自回光返照，更不別求，知身心與祖佛不別，當下無事，方名得法。",
+          "MasterName": "Linji Yixuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J23/J23nB134.xml). Recorded Sayings of the Five Houses (Selections). Linji Yixuan owns the retained root deployment, holding that his own seeing is no different from the buddhas and ancestors, so that waking in the first sentence makes one their teacher, in the second a teacher for humans and gods, and in the third not even one's own savior."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0668b03",
+          "ToLb": "0668b21",
+          "Kwic": "無師云南天北地僧云恁麼則推窮佛理也師云北地南天問鍾鼓未鳴時如何師云問前不鳴問後打僧擬議師便喝問如何是迦葉門前一盞燈師云孤峯朗月連天照性似寒泉徹底清僧云勞而無功時如何師云日輪當午無私照自是時人見有移問寶劒未出匣時如何師云大洋海底澄心鏡僧云出匣後如何師云天外吒沙獨擺捎師乃云苐一句薦得堪與祖佛為師苐二句薦得堪與人天為師第三句薦得自救不了時有僧問如何是第一句師云大用不揚眉棒下須見血僧云慈悲何在師云送出三門外問如何是第二句師云不打恁麼驢漢僧云將接何人師云如斯爭奈何問如何是第三句師云觧問無人荅僧云即今祗對者是誰師云莫使外人知僧云和尚是第幾句薦得師云月落三更穿市過問維摩一默文殊讚善未審此意如何師云當時聽眾必不如是僧云既不如",
+          "MasterName": "Shoushan Xingnian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Shoushan Xingnian owns the retained deployment, raising the ladder at the hall seat and answering each rung live, great use without lifting a brow and the staff that must draw blood."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0247a08",
+          "ToLb": "0247b11",
+          "Kwic": "矣僧問臨濟大師如何是真佛真法真道乞師開示濟云佛者心清淨是法者心光明是道者處處無礙淨光是臨濟大師當時直截答他句句了然恐人執著即云三即一皆是空名而無實有如真正道人念念心不間斷自達磨大師從西土來秖是覓個不受惑的人後遇二祖一言便了始知從前虛用工夫山僧今日見處與佛祖不別若第一句中薦得堪與佛祖為師若第二句中薦得堪與人天為師若第三句中薦得自救不了僧便問如何是第一句濟云三要印開朱點窄未容擬議主賓分云如何是第二句濟云妙解豈容無著問漚和爭負截流機云如何是第三句濟云但看棚頭弄傀儡抽牽全藉裏頭人臨濟大師到者裏曲垂不少雖逐句下一聯語直是痛快令人𢄶然奈他又向鉢盂上添柄說出三身中有九法顛顛倒倒句義且不照應况佛祖之至理乎一味欲以能所見壓當",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, retelling the ladder and its three couplets, then faulting the master for adding a handle to the bowl with body talk that answers nothing of the truth."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0138c20",
+          "ToLb": "0139a02",
+          "Kwic": "德山、龍潭係石頭派下，其實不是。今更別兩轉語，以見殊異，如洞山問：『淘沙去米？淘米去沙？』但答云：『鳳闕垂簾蹤不見。』如云：『大眾喫個什麼？』但答云：『潭移月影照幽人。』據此兩轉語，雖非洞山全旨，亦見彼宗梗概。是汝諸人還知麼？」便下座。上堂，舉：「臨濟祖師云：『若第一句中薦得，堪與佛祖為師；若第二句中薦得，堪與人天為師；若第三句中薦得，自救不了。』徑山者裏則不然，若向第三句薦得，則石筍抽條；若向第二句薦得，則種麻得豆；若向第一句薦得，漆桶不快。笑看臨濟強分節目，將刀割水，無事望江亭上立，山河無限座中圓。」喝一喝，復舉：「當時越州乾峰禪師示眾云：『舉一不得舉二，放過一著，落在第二。』時雲門文偃禪師在座，云：『昨日有人從天",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, quoting the ladder and reversing it, stone shoots sprouting, hemp returning beans, the lacquer bucket slow, and laughing at the founder for forcing the sections, cutting water with a blade."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0232a12",
+          "ToLb": "0232a25",
+          "Kwic": "議，莫思量。這回拈起更風光，正值洛陽三月裏，鷓鴣啼處百花香。」下座。佛誕上堂。僧問：「世尊未出母胎，度人已竟如何？」師云：「略較些子。」進云：「一番提起一番新。」師云：「漏逗不少。」乃云：「未離兜率，已降王宮；未出母胎，度人已竟。夜半日頭紅，突出頭來。天上天下，唯我獨尊。日午打三更。若也薦得，堪與佛祖為師，堪與人天為師。少涉遲疑，盡是自救不了漢子。所以臨濟大師云：『有一人，論劫在途中，不離家舍；有一人，離家舍，不在途中。那個合受人天供養？』諸上座！山僧舉已舉了，註已註破，脫有撩起便行，不唯透漏釋迦老子頂門，亦乃穿過臨濟大師骨髓。不然，雲門大師來也，莫怪性躁。」便打散，歸方丈。端午上堂。師云：「胸中流出，蓋天蓋地沒遮欄；",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, telling the Buddha-birthday crowd that waking there makes one worthy to teach humans and gods and that a moment's doubt marks one a man who cannot save himself, then threading them through the founder's marrow."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0309b02",
+          "ToLb": "0309b15",
+          "Kwic": "這個是驢前馬後事，曳過旁僧又非公境界。」隨卓拄杖，曰：「劈腹開心，別處即不說也。」下座。到洪山，長老明若同諸院大德請就本寺上堂。「擲缽老僧三十年，千言無一中，豈單單不上人鉤？此時乘聽眾未出三門，與他明白一下。」隨喝一喝，曰：「實謂如斯，北邙山下，千坵萬坵。滹沱家法曰：『第一句薦得，堪與祖佛為師；第二句薦得，堪與人天為師；第三句薦得，自救不了。』不欺人眼底，看此翁言之當否？福嚴直謂不然，第一句他家無你話論處，第二句勸你擔出看，第三句軟嫩嫩地實情無力。」良久，曰：「肯自領過，但請先行。」便下座。到白鶴院，住持玉芝同眾護法居士請上堂。「千年一遇，正在此時。」乃震喝一聲，眾懵然。師曰：「疑情未息，如何遣撥？」良久曰：「諸苦所因",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment, raising the family rule, asking whether the old man spoke truly, and ruling otherwise, no place to talk, a load to carry out, and a soft weak plain truth."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0099a13",
+          "ToLb": "0100a02",
+          "Kwic": "謗佛道高一尺魔高一丈你之伎倆有𥁞我之不采無竆師云閉口㴱藏舌安身處處牢還他石屋老人爭奈猶有者箇抂若是天童即不肰真金須用火試美玉必資沙石瑩磨不遇盤根䥘節無以顯利器非善沒漁人無以遊三十仞呂梁之洪波所以障蔽魔王禮拜金剛齊菩薩我佛萬德莊嚴成就頼有提婆達多。晚參臨濟大師有三句第一句下薦得堪與佛祖為師第二句下薦得堪與人天為師第三句下薦得自救不了請問見歬諸人阿你抂那一句中出來道看若道得是山僧與你證據若道得不是未有參學眼抂良久云恁麼則山僧自收取去也卓拄杖喝一喝歸方丈。晚參天童門下不許交頭接耳說東道西眾竦立師左右顧眎云纔恁麼誡敕你口喃喃作甚麼眾罔措師抴拄杖一時趕𢿨。上堂僧問未有世界先有此性世界壞時此性不壞未審以何三昧得不壞",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment, laying the three sentences before the evening assembly, asking which rung they came out of, ready to vouch for the one who can say, then taking it back for himself with the staff, a shout, and a walk to the quarters."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J23/J23nB134.xml",
+        "C/C077/C077n1710.xml",
+        "L/L154/L154n1639.xml",
+        "J/J26/J26nB178.xml",
+        "J/J27/J27nB193.xml",
+        "J/J34/J34nB301.xml",
+        "L/L155/L155n1643.xml"
+      ],
+      "RelatedMasters": [
+        "Linji Yixuan",
+        "Shoushan Xingnian",
+        "Tianyin Yuanxiu",
+        "Feiyin Tongrong",
+        "Yinyuan Longqi",
+        "Jiqi Hongchu",
+        "Muchen Daomin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The middle rung of the founding teacher's three-sentences ladder: waking in the second sentence makes one worthy to be a teacher for humans and gods. Linji Yixuan sets the ladder in his own seat, holding that his seeing is no different from the buddhas and ancestors, so that waking in the first sentence makes one their teacher, in the second a teacher for humans and gods, and in the third not even one's own savior, Shoushan Xingnian raises the ladder at the hall seat and answers each rung live, great use without lifting a brow and the staff that must draw blood, Tianyin Yuanxiu retells the ladder and its three couplets, then faults the master for adding a handle to the bowl with his nine-fold body talk that answers nothing of the truth, and Feiyin Tongrong quotes the ladder and reverses it at his Jing mountain seat, stone shoots sprouting, hemp returning beans, the lacquer bucket slow, laughing at the founder for forcing the sections, cutting water with a blade. Yinyuan Longqi wears the rung at the Buddha's birthday, telling the crowd that waking there makes one worthy to teach humans and gods and that a moment's doubt marks one a man who cannot save himself, then threading them through the founder's marrow, Jiqi Hongchu raises the family rule at the Hong mountain seat, asks whether the old man spoke truly, and rules otherwise, no place to talk, a load to carry out, and a soft weak plain truth, and Muchen Daomin lays the three sentences before the evening assembly, asking which rung they came out of, ready to vouch for the one who can say and to rule the one who cannot still without a seeker's eye, then taking it back for himself with the staff, a shout, and a walk to the quarters."
+    }
+  ]
+}

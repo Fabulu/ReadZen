@@ -1,0 +1,231 @@
+{
+  "Id": "t_4abf1d3f253b",
+  "SourceTerm": "盡未來際",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:08:19Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "through the whole of future time",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "down to the end of future time",
+        "for all time to come",
+        "through endless future aeons"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 323 hits in 119 files representing 116 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0489c24",
+          "ToLb": "0490a02",
+          "Kwic": "故名一壞一切壞。所以諸佛。知一切法。皆無性故。得成就一切智。起同體悲。相續不斷。盡未來際。廣度有情。以一心無性成佛之理。願一切眾生與我無異。知眾生本來一心不動。常合天真。以無性故。不覺隨緣六趣昇降。抂受妄苦。虛墮輪迴。所以能起大悲。相續度脫。若無此無性之理。則大化不成。",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: holds that the buddhas, knowing all things natureless, attain all-knowing and a same-body compassion unbroken through the whole of future time, delivering beings."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0726c23",
+          "ToLb": "0727a01",
+          "Kwic": "如何是中日分恒河沙等身布施。師云。見成公案。進云。如何是後日分恒河沙等身布施。師云。盡未來際一時收。師乃云。日面月面珠回玉轉。有句無句絲來線去。如來禪父母未生前。祖師意井底紅塵起。透得者。權實句下雙明。透未得者。葛藤窠裏埋沒。透得透不得。總不恁麼時如何。薰風自南來。殿閣生微涼。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: answers the ask about giving Ganges-sands of bodies in the last watch with one stroke — gathered in at once through the whole of future time — then verses the day-face and month-face turn."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0849b21",
+          "ToLb": "0849b28",
+          "Kwic": "於婆子分上也只得半藏。設使山河大地森羅萬象。若草若木。各具廣長舌相。異口同音。從今日轉到盡未來際。於婆子分上亦只得半藏。諸人要識婆子麼。良久云。鴛鴦綉出從君看。不把金針度與人。為高菴悟和尚掛真。拈真㡧示眾云。蓮華峯頂真實說。三塔歸來重泄機。兩處路頭俱剔脫。剎塵無不盡光輝。光輝則是人知有。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: rules that even if mountains, rivers, and every blade of grass each bore a broad long tongue turning from today to the end of future time, on the old woman's share it still buys only half a treasury."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0792a02",
+          "ToLb": "0792a17",
+          "Kwic": "殺人底漢便煩惱五祖和尚道喚作菩薩便歡喜喚作魍魎便煩惱却將菩薩魍魎合作一句喚作菩魍薩魎教你歡喜也歡喜不得煩惱也煩惱不得又道諸佛菩薩畜生驢馬庭前栢樹子麻三斤乾屎橛你是一枚無狀村夫若向這裏透得汝即諸祖諸祖即汝也不干妙喜事我若鼓這兩片皮搖三寸舌說到盡未來際鈎鎻連環相續不斷何故佛說一大藏教皆稱眾生根器所宜都無實義我既證此不可思議之法坐底不可思議立底亦不可思議說底亦不可思議得底亦不可思議不可思議底亦不可思議上來講讚無限勝因蝦䗫跳上梵天蚯蚓驀過東海一切智智清淨無二無二分無別無斷故以拂子擊禪牀一下云有箇頌子舉似大眾軍中有箇菩薩子號曰妙圓張祖燈七月十四始生日揮金辨供結良因不飡酒肉取歡樂欲報劬勞養育恩自念無始曠大劫漂流生死至如今諸根所作不善業積少成多滄海深投誠三寶乞懺悔如湯沃雪火",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: prices his own speech — flap these two skins of lips and the three-inch tongue down to the end of future time, hook-linked and unbroken, and still the whole canon only suits the hearer's capacity with no real meaning."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0702a02",
+          "ToLb": "0702b18",
+          "Kwic": "便是影子也未夢見在。縱使儞傾懸河之智辯。運掣電之神機。自一句至無數句。從今日說到盡未來際。待伊言窮理盡處。我則輕輕引手挾鼻向伊道。料掉沒交涉。既然如是。且作麼生是無位真人。乃屈指數云。今朝十五明朝十六。小盡廿九大盡三十。數到七月半却好九十日。儞等諸人討甚麼碗。天目中峯和尚廣錄卷第一之上校訛捱開麻音釋廕濅則泥眩泝諡軼裨譜裒槩徼覬肓鍼砭劑痾札歹唆俺怎賽序傒譔奎撒裒稡㝢𧶘嶼遯刊斫殞穫霰罹煆煉確峭瞠慄紉脇莂輻湊韜悖翕霍劇鏤燬弁惕暠槖𭦟陬磴隮聆謦欬勵邈蹟夔語錄爇肧寰闔轟驀賺鎚聱拋瞥齩覿儞揣摸黏跟廝繳詬頷溈悄輥顢頇",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: bids one pour out a hanging river of wit and lightning-swift spirit, from one sentence to countless sentences, from today to the end of future time, and when words run dry he gently reaches over and pinches the nose."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0012b27",
+          "ToLb": "0012c04",
+          "Kwic": "諸人分上著不得者等閒家具，便恁休去，多少省力。其或未然，只得將錯就錯，向第二義門打葛藤道：威音王已前赤灑灑，盡未來際淨裸裸，即今各各寒威凜凜，本無彼此人我。既無彼此人我，且道是個甚麼？還委悉麼？從來千聖莫能識，造次凡流豈可名？」下座。解制，上堂，僧問：「今日解制，開門蕩戶，獅象紛紛如何分付？」師便打，進云：「恁麼則無影枝頭一點春。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: takes the second-meaning gate of vine-words — before the King of Sound it was stark bare, through the whole of future time it is stark naked, and right now the cold awe is on each one with no self or other."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0621a09",
+          "ToLb": "0621a15",
+          "Kwic": "無去無來亙古今，不生不滅無淪墜，一塵普現一切剎，一切剎在一塵內，種種方便度眾生，盡未來際作佛事。過去菩薩如是學，現在菩薩得授記，未來菩薩亦復然，共證如來平等智，回向法界諸有情，是則名為不思議。」問：「如何是正中偏？」師云：「臘月藕花鮮。」「如何是偏中正？」師云：「殘雲籠古徑。",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: verses the ancient ones' ways of convenience — no going no coming across past and present, one mote of dust showing every land — delivering beings and doing the awakened one's work through all time to come."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0575a27",
+          "ToLb": "0575b06",
+          "Kwic": "」擊如意，云：「音聲無量、莊嚴無量、飲食衣具無量、智慧眷屬無量，無量為一、一為無量，盡未來際亦復無量。然此猶是限量邊事，祇如不涉限量又作麼生？」擲如意，云：「看看！」解冬，上堂。「圓覺伽藍，豁開戶牖；華嚴剎海，大座當軒。結則普天匝地一時結，解則普天匝地一時解。到者裏，果於百廿日內克期取證，得大總持一任八字打開，鳳凰嶺舞翅翩躚、天馬山輪蹄蹴踏，北五臺、南天台，去者任去、來者任來。",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: runs the limitless as one and one as limitless, through all future time again limitless, then rules this still the limited side of things, throws the ruler-scepter, and calls the assembly to look."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0799c10",
+          "ToLb": "0799c21",
+          "Kwic": "不肖雖與本師大和尚相別兩月，殊不知夜暗晝明，時時省覲；折旋頫仰，步步追隨，遠溯威音已前，直至盡未來際，於其中間豪無間隔，有時拈尾作頭、有時拈頭作尾，君臣道合，賓主交參，一月印千江、千江同一月，況有十方英傑、四海高賢，手眼精明，同心相照，命不才涼德為眾舉揚？大似布鼓雷門，耀螢烈日，固知塵培巨嶽難增鷲嶺之高，然而露滴天池已接曹源正脈，不免更借堂頭老人威光，向無言處演言、無法處說法，直得須彌岌峇、海沸波騰，白鶴峰走下平田淺水，玉几案跳上大梵天宮，驚起空中天鼓，出大音聲，唱如是言：『若人欲識佛境界，當淨其意如虛空，遠離妄想",
+          "MasterName": "Dabian Xianquan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabian Xianquan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Xianquan owns the retained deployment: two months from his teacher yet visiting him night and day in every bow, tracing back before the King of Sound and straight through to the end of future time with not a seam between, one moon printing a thousand rivers."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0908a14",
+          "ToLb": "0908a24",
+          "Kwic": "光裏勒回戰馬，虛空裏穩泛鐵船，以正遍知隨緣鋪設，言堂滿堂、言谷滿谷，簾卷畫樓，清風徐至，苔生古殿，野老謳歌，離一切相不躲根于形名未兆之前，即一切法不滯跡于文彩縱橫之後，皆于往昔無數劫中為大願王，謂有善知識所住之處，恒願親近供養，當勤守護，至盡未來際無有退屈。」拈起拄杖曰：「君不見？霜飛瓦上層層，葉落枝頭片片，惟有此箇癡腸，亙古亙今不變。知不知、薦不薦，少頃缽盂內、匙箸上讜言唐突，切莫生猒，得得為君通一線。」卓拄杖，下座。上堂。",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: raises the vow kings' vow of countless past aeons — where a good friend dwells, always wish to draw near and make offerings, guard it diligently down to the end of future time without bending — then lifts the staff into frost on the tiles."
+        }
+      ],
+      "SourceTexts": [
+        "T/T48/T48n2016.xml",
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1998A.xml",
+        "M/M59/M59n1540.xml",
+        "B/B25/B25n0145.xml",
+        "J/J10/J10nA158.xml",
+        "J/J36/J36nB359.xml",
+        "J/J37/J37nB392.xml",
+        "J/J29/J29nB248.xml",
+        "J/J36/J36nB369.xml"
+      ],
+      "RelatedMasters": [
+        "Yongming Yanshou",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Zhongfeng Mingben",
+        "Miyun Yuanwu",
+        "Baiyu Jingsi",
+        "Hansong Zhicao",
+        "Dabian Xianquan",
+        "Zhe'an Jingfan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The longest lever the records hold: it stretches from this very turn to the end of all future time, and each speaker spends the whole of it — to deliver beings, to gather in every gift at once, or to rule that even endless speech buys only half a treasury. The sweep across all time: Yongming Yanshou holds that the buddhas, knowing all things natureless, attain all-knowing and a same-body compassion unbroken through the whole of future time, delivering beings; Yuanwu Keqin answers the ask about giving Ganges-sands of bodies in the last watch with one stroke — gathered in at once through the whole of future time; Dahui Zonggao prices his own speech: flap these two skins of lips and the three-inch tongue down to the end of future time, hook-linked and unbroken, and still the whole canon only suits the hearer's capacity with no real meaning; Baiyu Jingsi's verse gives the ancient ones' ways of convenience delivering beings and doing the awakened one's work through all time to come. The limit the sweep exposes: Dahui's old woman — even if mountains, rivers, and every blade of grass each bore a broad long tongue turning from today to the end of future time, on her share it buys only half a treasury; Zhongfeng Mingben bids one pour out a hanging river of wit and lightning-swift spirit, from one sentence to countless sentences, from today to the end of future time, and when words run dry he gently reaches over and pinches the nose; Miyun Yuanwu pairs it — before the King of Sound it was stark bare, through the whole of future time it is stark naked, and right now the cold awe is on each one with no self or other; Hansong Zhicao runs the limitless as one and one as limitless, through all future time again limitless, then rules it still the limited side and throws the ruler-scepter; Dabian Xianquan, two months from his teacher, visits him night and day, tracing back before the King of Sound and straight through to the end of future time with not a seam between; Zhe'an Jingfan raises the vow kings' vow to guard the good friend without bending through all future time, then lifts his staff."
+    }
+  ]
+}

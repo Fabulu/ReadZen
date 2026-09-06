@@ -1,0 +1,176 @@
+{
+  "Id": "t_934dfc88a138",
+  "SourceTerm": "不與萬法為侶者是甚麼人",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T01:18:15Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "who is the one who takes none of the myriad dharmas as companion?",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the one who keeps no company with the dharmas",
+        "Layman Pang's uncompanioned one"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 91 hits in 63 source files. Evidence floor met with 7 retained exact deployments from 7 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1303.xml",
+          "FromLb": "0552a01",
+          "ToLb": "0552a16",
+          "Kwic": "儘春秋之改變。四臣不昧，一性圓明。於寶殿欲現心王，令玉燭永調我國。恁麼觀來，有知識那無知識？噓！相識滿天下，知心有幾人？從頭曾遍數，無箇似雙親。第十八則吸盡西江第十八則吸盡西江示眾，云：指空畵空，敢道卒難對副；依實具實，且恁胡亂安排。本非覿面相謾，就裏慈悲太甚，還有冷眼傍觀窺破者麼？舉：龐居士問馬大師：不與萬法為侶者是甚麼人？師云：待汝一口吸盡西江水，即向汝道。師云：襄州居士龐蘊者，衡州衡陽縣人也，字道玄。世本儒業，少悟塵勞，志求真諦。唐貞元初，謁石頭，乃問：不與萬法為侶者是甚麼人？頭以手掩其口，豁然有省。後與丹霞為友。一日，石頭問曰：子見老僧以來，日用事作麼生？士曰：若問日用事，即無開口",
+          "MasterName": "Pang Yun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "respondent"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1303.xml). Elder Linquan’s Commentary and Chanted Remarks on Master Touzi Qing’s Verses on Ancient Cases: Empty Valley Collection. Pang Yun owns the retained deployment: the origin ask: Layman Pang questions Mazu — who is the one who takes none of the myriad dharmas as companion? — answered by the West-River gulp (Touzi Qing capping: even the thousand sages do not know him; Linquan noting the mouth hard as iron, the heart softer than cotton), with the Empty Valley's biography retelling the earlier asking of Shitou and the hand over the mouth."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0413a19",
+          "ToLb": "0413b08",
+          "Kwic": "人是同？是別？若說是同，作麼生說箇同底道理？若說是別，作麼生說箇別底道理？若向這裏融會得去，博山與汝結個同參。諸昆仲！居正而不立正位，泥牛吼海岸之風；垂偏而不住偏方，石女弄珊瑚之影。乞食於三家村裏，謳歌於萬仞峰頭，借松鏡以瀉清光，拾苔錢而嚴富態。有人向三種問荅上徹去，洞上宗風於斯有賴矣。珍重。」茶話。「不與萬法為侶者是甚麼人？紅塵堆裏露全身。了知萬法空無物，那見山河礙眼睛？三歲孩兒頭似雪，神光萬里一條鐵，底事分明說與知，當戶連山也太奇，兼帶位中親迸破，巖前石虎夜生兒。生兒則且置，且道：是甚麼時辰？子丑寅卯，辰巳午未，申酉戌亥，乾三連、坤六斷、離中虛、坎中滿，屈指顛倒數來，依舊寸長尺短。珍重。」荅問荅問僧問：「斷簡殘篇即不",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment: answering the question himself in tea-talk verse: who is the one who takes none of the myriad dharmas as companion? In the red-dust heap the whole body shows; knowing the myriad dharmas empty and thingless, what mountains and rivers could block the eye? — then the three-year-old with the snow-white head and the stone tiger birthing young before the cliff."
+        },
+        {
+          "RelPath": "J/J26/J26nB188.xml",
+          "FromLb": "0806b11",
+          "ToLb": "0806b25",
+          "Kwic": "，應作如是觀。」既知身外之物是虛假，則知自身亦是虛假。從頭觀之，皮肉筋骨皆歸于土，涕唾膿血皆歸于水，煖氣歸火，動轉歸風，四物各離，此身何有？惟有常住真性，充遍十方，不假包胎，凝然獨露。若不向此時究明，辜負己靈，豈大丈夫哉？若待翻個觔斗，則前路茫茫，不知何處安身。今勸老居士，將世出世間一切外累一放放下，看個不與萬法為侶者是甚麼人，一扣扣定，與他輥作一團，行也如是、坐也如是、臥也如是，不可斯須放過。倘或遇境逄緣，觸著磕著，一念相應，寧不為出世大丈夫耶？即現在之龐蘊、楊大年、李都尉把手共行，儒釋一貫，豈不幸哉！是禱！是祝！住弁山復周羽士(三畏)住弁山復周羽士白馬壇上，俱剃度以皈依；黃龍山前，碎瓢囊而證佛。一時捨邪皈正，皆因仰慕上",
+          "MasterName": "Ruibai Mingxue",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB188.xml). Recorded Sayings of Chan Master Rujiu Ruibai. Ruibai Mingxue owns the retained deployment: writing the question to a dying patron as the thing to hold: look into who-is-the-one-who-takes-none-of-the-myriad-dharmas-as-companion, buckle it down with one buckle, roll yourself into one ball with it — walking thus, sitting thus, lying thus, not one half-second letting go — until in some chance meeting of circumstance one thought answers: the present-day Pang Yun walking hand in hand."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0236b19",
+          "ToLb": "0236c03",
+          "Kwic": "間反隔津。」召大眾：「普請同到佛殿拈香，用祝聖壽。」元旦，上堂。召大眾，云：「面門無位真人又添一歲了也，你們今日忙忙彼此拜年，還曾與者漢拜也未？寶華即今為諸人先施榜樣。」起揖，云：「恭喜。」便下座。復有僧問：「正當揖時，無位真人在甚麼處？」師云：「不見道：兒孫得力，室內不知。」上堂。舉：「龐居士問馬祖：『不與萬法為侶者是甚麼人？』祖云：『待你一口吸盡西江水即向你道。』」師云：「萬法不侶，早已帶水拖泥；吸盡西江，畢竟不沾涓滴。龐居士一向擔板，點肋點胸；馬大師格外施機，全縱全奪。須知直饒吸盡西江亦未堪駐足，豈可守箇萬法不侶坐在百尺竿頭？雖然，只如吸盡西江底人與萬法不侶底人，且道是同？是別？」良久，云：「全身脫盡無依倚，只為分明得",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: grading the pair after raising the exchange: not taking the myriad dharmas as companion is already dragging mud and water; swallowing the West River still wets no drop — Pang forever carrying the board, tapped at ribs and chest; Mazu spending machine beyond the gauge, all releasing, all seizing; even the river swallowed whole gives no place to stand, let alone guarding a no-companion state on the hundred-foot pole."
+        },
+        {
+          "RelPath": "J/J28/J28nB203.xml",
+          "FromLb": "0192c15",
+          "ToLb": "0192c30",
+          "Kwic": "拄杖子，我奪卻拄杖子。』」拈云：「用盡自己心，笑破他人口。你有拄杖子，我與你拄杖子，畫蛇添足；你無拄杖子，我奪卻你拄杖子，龜背刮毛。既然如此，且作麼生是你拄杖子？咄！」舉：「雲門上堂，大眾集定。『是大過患，仔細簡點。』眾無對，門代云：『不用別人。』」拈云：「抱薪救火，徒自燒身。」舉：「龐居士問馬大師：『不與萬法為侶者是甚麼人？』大師云：『待汝一口吸盡西江水即向汝道。』」拈云：「龐公無處合伴，馬祖覓箇還稀，直至如今，孤凄冷淡。風穴則不然，不與萬法為侶者是甚麼人？泣露千般艸，吟風一樣松。向這裏見得，便見古人落處；脫或不然，待汝一口吸盡西江水即向你道。」舉：「昔有一僧親近一老宿甚勤，宿每見來即揮手曰：『未在，未在，且去。』如是經久",
+          "MasterName": "Yun'e Xi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB203.xml). Recorded Sayings of Chan Master Yune Xi. Yun'e Xi owns the retained deployment: picking the case up and answering in Fengxue's stead: Old Pang had nowhere to find a mate, and Mazu's find is rarer still — to this very day lonely, cold and quiet — but Fengxue would answer otherwise: the grasses weep dew in a thousand ways, the pines hum one same song in the wind; see it here and you see where the ancients stood."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0325c30",
+          "ToLb": "0326a13",
+          "Kwic": "鐵鋸舞三臺；不見相而見，猛燄爐中飛雪片。如是，則五龍城內、達摩峰前，不隔纖毫，時常覿面。豈不見？紫團居士啟中道：『磬敲螭臥，剖五宗未剖之宗風；麈拂鳳棲，窮千聖無窮之聖諦。』大眾！即今塵已拂了、磬已敲了，作麼生是未剖之宗風、無窮之聖諦？」喝一喝，云：「鐵船未泛龍江上，寶月先輝雁塔前。昔龐居士參馬大師，問：『不與萬法為侶者是甚麼人？』馬大師云：『待汝一口吸盡西江水即向汝道。』龐於言下大悟。大眾！馬大師游刃磅礡，目無全牛；龐居士葉落知秋，動絃別曲。今日忽有問翠巖：『不與萬法為侶者是甚麼人？』但向他道：『待汝推倒五老峰即向汝道。』更為頌出：滄江歲晚問關津，野水連天不見人，不是一回親吸盡，爭明浩浩劫前春？」除夕，上堂。僧問：「一年已盡，",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: running the original — Mazu's blade playing round the ox entire, Pang reading autumn from one falling leaf, one pluck of the string another song — then offering his own barter: if today someone asked Cuiyan this, he would only tell him, when you can push over the Five Old Peaks, then I will tell you."
+        },
+        {
+          "RelPath": "J/J29/J29nB224.xml",
+          "FromLb": "0129c04",
+          "ToLb": "0129c20",
+          "Kwic": "人示自惺禪人至道無難，貴圖委悉。委悉云何？先須立志。志不可轉，有如磐石，搖亦不傾，排亦不退，自然可尊，自然可貴。了達大道，何難何易？即語默而非語默，即理事而非理事，即傳持而非傳持，即紹繼而非紹繼，即惺惺而非惺惺，即寂寂而非寂寂，金烏夜半正當空，便是直下成佛地。示映楚熊居士示映楚熊居士昔道玄問石頭和尚：「不與萬法為侶者是甚麼人？」石頭以手掩其口，道玄有省。後見馬大師，理前問，大師云：「待汝一口吸盡西江水，即向汝道。」道玄即頓悟玄旨。噫嘻！此公若無石頭開發，與夫馬祖格外鉗錘，不過一穿衣喫飯人而已，何有名聞於今日哉？映楚居士欲學玄公，須向一口吸盡西江水處摸索，如摸索得著，可謂今日之玄公也。示佛印優婆私示佛印優婆私臺山婆云：「驀直",
+          "MasterName": "Yezhu Fuhui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pang Yun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB224.xml). Recorded Sayings of Chan Master Yezhu of Mount Song. Yezhu Fuhui owns the retained deployment: retelling the exchange under Pang's courtesy name for a would-be student — Daoxuan asked Shitou, the hand came over the mouth, Daoxuan had a stir; then Mazu and the West River and the sudden grasp — and ruling: without Shitou's opening and Mazu's gauge-breaking tongs, this man would have been nothing but one more dresser and eater, what fame would reach today?."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1303.xml",
+        "J/J27/J27nB197.xml",
+        "J/J26/J26nB188.xml",
+        "J/J34/J34nB300.xml",
+        "J/J28/J28nB203.xml",
+        "J/J28/J28nB208.xml",
+        "J/J29/J29nB224.xml"
+      ],
+      "RelatedMasters": [
+        "Pang Yun",
+        "Mazu Daoyi",
+        "Wuyi Yuanlai",
+        "Ruibai Mingxue",
+        "Chaozong Tongren",
+        "Yun'e Xi",
+        "Guxue Zhenzhe",
+        "Yezhu Fuhui"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Who is the one who takes none of the myriad dharmas as companion? The question is Layman Pang Yun's own: he first asked Shitou — who is the one who takes none of the myriad dharmas as companion? — and Shitou covered his mouth; Pang had a stirring of insight, carried the same question to Mazu, and got the answer no one has improved on: when you can swallow all the water of the West River in one gulp, then I will tell you. The Empty Valley Collection raises the exchange with Touzi Qing's capping line — even the thousand sages do not know him — and Linquan's note: the mouth hard as iron, the heart softer than cotton; then retells the whole life, Xiangzhou's layman Pang Yun of Hengyang, courtesy name Daoxuan, sinking his fortune in the Xiang River and going begging with his wife in bamboo-woven baskets. Wuyi Yuanlai answers it himself in tea-talk verse: who is the one who takes none of the myriad dharmas as companion? In the red-dust heap, the whole body shows; knowing the myriad dharmas empty and thingless, what mountains and rivers could block the eye? — and piles on the three-year-old with a snow-white head and the stone tiger birthing young before the cliff. Ruibai Mingxue writes it to a dying patron as the thing to hold: look into who-is-the-one-who-takes-none-of-the-myriad-dharmas-as-companion, buckle it down with one buckle, roll yourself into one ball with it — walking thus, sitting thus, lying thus, not one half-second letting go; touch it in some chance meeting of circumstance and one thought answers — the present-day Pang Yun, Yang Danian, the Vice-Marshal, walking hand in hand. And Chaozong Tongren grades the pair: not taking the myriad dharmas as companion is already dragging mud and water; swallowing the West River still not wetting one drop — Pang forever carrying the board, tapped at ribs and chest; Mazu spending machine beyond the gauge, all releasing, all seizing; even swallowing the West River whole gives no place to stand, let alone guarding a no-companion state sitting on the hundred-foot pole. Yun'e Xi picks the case up and answers in Fengxue's stead: Old Pang had nowhere to find a mate, and Mazu's find is rarer still — to this very day, lonely, cold and quiet — but Fengxue would answer otherwise: who is the one who takes none of the myriad dharmas as companion? the grasses weep dew in a thousand ways, the pines hum one same song in the wind. Guxue Zhenzhe, after running the original — Mazu's blade playing round the ox entire, Pang reading autumn from one falling leaf, one pluck of the string another song — offers his own barter: if today someone asked Cuiyan this, he would only tell him: when you can push over the Five Old Peaks, then I will tell you. And Yezhu Fuhui, writing to a layman who wants to study the old man, retells it under Pang's courtesy name — Daoxuan asked Shitou, the hand came over the mouth, Daoxuan had a stir; then Mazu and the West River, and the sudden grasp of the purport — and rules: without Shitou's opening and Mazu's gauge-breaking tongs, this man would have been nothing but one more dresser and eater, what fame would reach today? so, would-be student, go swallow the whole river first."
+    }
+  ]
+}

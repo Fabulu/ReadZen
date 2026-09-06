@@ -1,0 +1,197 @@
+{
+  "Id": "t_35a90a9e8398",
+  "SourceTerm": "世間相常住",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the marks of the world abide",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the world's appearances endure",
+        "worldly marks are ever-present"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 190 hits in 104 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB138.xml",
+          "FromLb": "0385b06",
+          "ToLb": "0385b18",
+          "Kwic": "諸法寂滅相，不可以言宣。』」師云：「見定如今說話，何處有說不說？不見道：去不到去，來不到來。」舉：「一切真如含一切。」師云：「喚什麼作山河大地？」又云「是諸法空相，不生不滅、不垢不淨。」或拈拄杖示眾云：「拄杖子化為龍，吞卻乾坤了也。山河大地甚處得來？」或畫圓相云：「還有人出得麼？」舉：「教云：『是法住法位，世間相常住。』」師云：「釋迦老子甚處去也。」舉：「僧問投子：『如何是此經？』子云：『《維摩》、《法華》。』又問：『塵中不染丈夫兒時如何？』子云：『不著。』」師云：「不喚作法身，不喚作第一義，亦為說法，亦為說真空。」師齋次，拈起匙箸云：「我不供養南僧，秪供養北僧。」時，有僧問：「為什麼不供養南僧？」師云：「我要鈍置供養",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB138.xml). Recorded Sayings of Chan Master Yunmen Kuangzhen. Yunmen Wenyan owns the retained deployment: raises the teaching line that the dharma dwells in dharma-position and the marks of the world abide, and with the line still hanging asks where old Shakyamuni has gone, in a run of sutra-raisings that follows his staff turned dragon swallowing heaven-and-earth and his circle no one can exit."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0825c26",
+          "ToLb": "0826a13",
+          "Kwic": "。不得良久。或有人問。畢竟如何。向他道。也無畢竟。也無如何。正當恁麼時。四楞塌地掇在諸人面前眼辦手親底一逴逴得。便能羅籠三界提拔四生。其或未然。自是爾諸人根性遲鈍。且莫錯怪徑山好。上堂舉。肇法師云。諸法不異者。豈曰續鳧截鶴夷嶽盈壑。然後為無異者哉。雲門大師道。長者天然長。短者天然短。又云。是法住法位。世間相常住。乃拈起拄杖云。拄杖不是常住法。師遂拈起拄杖召大眾云。剜出眼裏睛。甚麼處見肇法師不異底法。敲出骨中髓。甚麼處見雲門大師常住底法。擲下云。分身兩處看。下座。上堂。僧問。我宗無語句。實無一法與人時如何。師云。五味鑽秤鎚。進云。何故外揚家醜。師云。爾為甚麼舌頭拄地。進云。却被和尚引著。師便打。問乾峯示眾云。舉",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: raises Sengzhao's no-difference and Yunmen's long-is-naturally-long with the line that the dharma dwells in dharma-position and the world's marks abide, lifts the staff that this is not an abiding dharma, then carves the pupil out of the eye to see Sengzhao's no-difference and knocks the marrow out of the bone to see Yunmen's abiding dharma, throwing the staff down to watch the two places apart."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0497b22",
+          "ToLb": "0497c08",
+          "Kwic": "周。非三世攝。而能普應三世之法。名曰神通。是故經云。智入三世。而無來往。為三世是眾生情所妄立。非實有故。為智體無形無色。不造不作。而應群品。名之為神。圓滿十方。無法不知。無根不識。名之為通。又云。法華經云。種種性相義。我及十方佛。乃能知是事。聲聞及緣覺。不退諸菩薩。皆悉不能知。此等即是門前三乘也。為未明。世間相常住。是法住法位。為三乘同厭苦集。樂修滅道之心。未明苦集。本唯智起。不了滅道。本自無修無造無作。化諸群品。如幻住世。性絕無明。即是佛故。一念相應一念佛。一日相應一日佛。何須苦死要三僧祇。但自了三界業。能空業處。任運接生。即是佛也。何須變易。方言成佛。龍天變易。豈為佛耶。三乘之人亦變易。何故待三僧祗佛方成故",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: counts the line as what the three vehicles outside the gate have not yet understood, since with one mind they hate the truth of suffering and love cultivating cessation, not knowing suffering is only wisdom arising and cessation was never something cultivated, made, or done, so that one thought matching makes one thought a buddha and one day matching makes one day a buddha, with no need to die begging for three asamkhyeya kalpas."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0413b04",
+          "ToLb": "0413b18",
+          "Kwic": "一喝，云：明眼衲僧會不得。上堂：竪四橫三，拈一放七。掣電奔雷，崩崖裂石。稽首金剛神，盡力道不出。因甚如此？識法者懼。達磨祖師忌，拈香云：來不本分來，去不本分去，兩手揑空拳，開口落第二。咄！咄！咄！力圍希熊耳，峰頭花開鐵樹。上堂：如來禪、祖師禪，會則紅塵堆裏七出八沒，不會則黑山鬼窟下且待驢年。是法住法位，世間相常住，釋迦老子因甚麼打失鼻孔？達磨大師從西竺國來，為傳上乘心印，諸人還識上乘人麼？擲下主丈，云：上乘菩薩信無疑，中下聞之必生怪。冬至，上堂。僧問：不逐陰陽消長，不隨四序推遷，是甚麼人？師云：老僧在你脚下。進云：與麼則學人罪過。師云：也是我尋常用底。僧禮拜，師乃云：群陰剝盡，罷三玄戈甲於百草頭邊；一氣潛回，列",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: runs the line against both the Tathagata's Chan and the patriarchs' Chan, meeting it you dive seven times in and out of the red-dust heap, missing it you wait under the black-mountain ghost cave till the year of the donkey, asking why Shakyamuni lost his nostrils, and whether the assembly knows the person of the highest vehicle that Bodhidharma came from the western land to transmit."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0561a07",
+          "ToLb": "0561b11",
+          "Kwic": "同音念個晝吉祥夜吉祥晝夜六時恒吉祥一切時中吉祥者。通照沙彌請益法華經中是法住法位世間相常住偈語老僧曰即舉世間眼見金木水火土五行之法略釋可矣如劫初金色属黃其性唯堅校之于今金其相其性皆變而不同便為不住法位今古既已有殊便屬之無常法矣法且無常豈能久住世哉以今金校劫初之金其色其性未嘗有一毫變異故云是法住法位世間相常住耳又如劫初木性唯直其外枝葉唯青唯綠其內色本白即校之于今木其性其相一無有異豈不能久住世哉水火土相性等亦如是校釋然而有生滅法即屬之無常無生滅法即屬之常即如五穀種子等雖生生不已以其色相古今無有變異以生即無生又以古今相續未嘗斷故而色相亦無有異所以為不滅耳然無常離常別有無常者以有異故是真無常矣以無常離常無無常故",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huanyou Zhengchuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment: answers the novice Tongzhao's question on the verse by glossing it through the five elements seen with the world's eye, gold that if its color and nature had altered since the kalpa's start would be a dharma-position that does not abide and belong to the impermanent, yet matched against kalpa-start gold shows not a hair of variation, so the dharma dwells in dharma-position and the world's marks abide, wood, water, fire, and earth checked the same way."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0121b29",
+          "ToLb": "0121c12",
+          "Kwic": "直入如來地。且無為實相又作麼生？」以拂子向空點云：「東西南北門相似，無限輪鎚擊不開。」喝一喝，便下座。上堂，「天何高，地何極，上下四維無等匹，僧是僧，俗是俗，六六元來三十六。所以世尊云：『未離兜率已降皇宮，未出母胎度人已畢。』實際地上據本，還他鶴長鳧短、松直棘曲，各居方位、任適自性，故曰：『是法住法位，世間相常住。』更請山僧登于此座，鼓兩片皮、掉三寸舌，大似無風起浪、好肉剜瘡，笑殺當年達磨面壁。雖然如是，若作恁麼見解，則平白地上死人真個無數，灼然出得荊棘林纔是好手，只如臨濟大師云：『有時一喝如金剛王寶劍，有時一喝如踞地獅子，有時一喝如探竿影草，有時一喝不作一喝用。』據臨濟四喝，各有功用，總不徒然，山僧也有一喝。」遂",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: grounds the line on the actual ground, returning things as crane-long and duck-short, pine-straight and bramble-curved, each dwelling in its direction and true to its own nature, and therefore says the dharma dwells in dharma-position and the world's marks abide, then laughs that being asked onto this seat to beat two skins and wag a three-inch tongue is raising waves without wind and carving sores in good flesh, the death of old Bodhidharma's wall-facing."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0607c02",
+          "ToLb": "0607c16",
+          "Kwic": "地眾生當得度，與此地眾生何殊？』欽師曰：『實無有一法可度眾生者。』帝益深重之。」師云：「諸仁者！你看他一個佛心天子，一個法眼宗師，一唱一酬，兩鏡相照，是法平等，妙密圓明。山僧既膺法席，正當於黃金殿上揭開日月之光華，白玉毫中指出古今之主宰，始不負一人有慶，千載同風。」敲如意，云：「若於遮裏會得，是法住法位，世間相常住，又何有世法、出世法，彼此先後之不平等哉？秪如今日諸護法特請開堂祝聖，共致太平，作麼生道？金輪迥出中天照，萬世謳歌頌聖明。」結椎，下座。結制上堂結制上堂師舉：「妙喜禪師云：『金佛不度爐，木佛不度火，泥佛不度水，真佛屋裏坐。趙州和尚吐心吐膽，恁麼告報也，還有知恩報恩者麼？』」師云：「大小妙喜不識好惡，盡大",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment: opening the hall for the state after the emperor's dialogue with the Fayan master, strikes his scepter of state that whoever wakes where he points finds the dharma dwelling in dharma-position and the world's marks abiding, with nothing left unequal between worldly and world-transcending dharma or between this and that, before and after, capping the patrons' hall-opening for the sovereign with the golden wheel shining out at mid-heaven and ten thousand ages singing the sage enlightened."
+        },
+        {
+          "RelPath": "J/J39/J39nB466.xml",
+          "FromLb": "0841a28",
+          "ToLb": "0841b10",
+          "Kwic": "佇思，師震威一喝，僧禮拜，師曰：「切莫忘了龍山這一喝。」問：「古祖家風從此展，龍山祥瑞滿座生。凡聖混融即不問，堂堂獨露意如何？」師曰：「切莫錯過。」曰：「不錯過時如何？」師曰：「道道。」僧擬議，師曰：「原來賺我。」乃曰：「天不非天，地不非地，山原是山，水原是水。眼見色，鼻出氣，耳聽聲，舌知味。是法住法位，世間相常住。若恁麼會，一生參學事畢。天是天，地是地，山是山，水是水。眼見色，鼻出氣，耳聽聲，舌知味。是法住法位，世間相常住。若恁麼會，入地獄如箭射。不見古德道：『無手人行拳，無舌人解語。』且道無舌人說個什麼？無手打個什麼？雖然恁麼提持，未免太煞徑截，令後代兒孫鑽龜打瓦，枉作佛法商量。龍山則不然，有手入行拳，有舌人解罵",
+          "MasterName": "Baishan Dekai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baishan Dekai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB466.xml). Recorded Sayings of Chan Master Baishan Kai of Shanxi. Baishan Dekai owns the retained deployment: sings the line twice, first heaven not not-heaven, earth not not-earth, mountain originally mountain, water originally water, eye seeing color and nose breathing out, meet it that way and a lifetime of seeking is done, then heaven is heaven, earth is earth, mountain is mountain, water is water, meet it that way and you shoot into hell like an arrow, before granting the old worthies' handless fist and tongueless speech and adding that Longshan has people with hands make the fist and people with tongues do the scolding."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB138.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T48/T48n2016.xml",
+        "X/X71/X71n1412.xml",
+        "L/L153/L153n1637.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB311.xml",
+        "J/J39/J39nB466.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Dahui Zonggao",
+        "Yongming Yanshou",
+        "Gulin Qingmao",
+        "Huanyou Zhengchuan",
+        "Feiyin Tongrong",
+        "Juelang Daosheng",
+        "Baishan Dekai"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The Lotus line that makes the world itself the abiding dharma, and the masters who raise it only to ask where the buddha went. Yunmen Wenyan raises the teaching that the dharma dwells in dharma-position and the marks of the world abide, then asks where old Shakyamuni has gone, Dahui Zonggao raises Sengzhao's no-difference and Yunmen's long-is-naturally-long with the same line, lifts his staff that this is not an abiding dharma, carves the pupil out of the eye to see Sengzhao's no-difference, knocks the marrow out of the bone to see Yunmen's abiding dharma, and throws the staff down to watch the two places apart, Yongming Yanshou counts the line as what the three vehicles outside the gate have not yet understood, hating suffering and loving cessation while not knowing suffering is only wisdom arising, and Gulin Qingmao runs it against both the Tathagata's Chan and the patriarchs' Chan, meeting it you dive seven times in and out of the red-dust heap, missing it you wait under the black mountain till the year of the donkey, asking why Shakyamuni lost his nostrils and whether anyone knows the person of the highest vehicle. Huanyou Zhengchuan, asked by the novice Tongzhao about the verse, glosses it through the five elements seen by the world's eye, gold that if its color and nature had altered since the kalpa's start would be an unabothing dharma-position and belong to the impermanent, but matched against kalpa-start gold shows not a hair's variation, so the dharma dwells in dharma-position and the marks of the world abide, Feiyin Tongrong grounds it on the actual ground, returning crane-long and duck-short, pine-straight and bramble-curved, each in its place and true to its nature, then laughs that his mounting this seat to beat two skin drums is raising waves without wind and carving sores in good flesh, the death of old Bodhidharma's wall-facing, Juelang Daosheng, opening the hall under imperial gaze, strikes his scepter of state that whoever wakes where he points finds the dharma in dharma-position and the world's marks abiding, with no worldly or world-transcending dharma left unequal, and Baishan Dekai sings both turns, heaven not not-heaven, each thing returned to itself, meet it that way and a lifetime of study is done, heaven is heaven and mountain is mountain, meet it that way and you shoot into hell like an arrow."
+    }
+  ]
+}

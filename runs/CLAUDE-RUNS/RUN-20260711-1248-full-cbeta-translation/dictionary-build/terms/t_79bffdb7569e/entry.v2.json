@@ -1,0 +1,198 @@
+{
+  "Id": "t_79bffdb7569e",
+  "SourceTerm": "從上諸聖",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the sages of the transmission",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the sages down the line",
+        "the worthies of the line"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 427 hits in 128 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0686b06",
+          "ToLb": "0686b23",
+          "Kwic": "聖推出一僧。壽便打。聖云。漝麼為人。瞎却鎮州一城人眼去在。壽便歸方丈。師云。保壽三聖雖發明臨濟正法眼藏。要且只解無佛處稱尊。當時者僧若是箇漢。纔被推出。便掀倒禪床。直饒保壽全機。也較三千里。舉。無業馬祖。僧問如何是佛。云莫妄想。師云。塞却鼻孔。又問。如何是佛。云即心是佛。師云。拄却舌頭。舉。僧問德山。從上諸聖什麼處去。山云。作麼作麼。僧云。勅點飛龍馬。跛鼈出頭來。山便休去。至來日山浴出。其僧過茶舉德山。山撫僧背一下。僧云。者老漢方始瞥地。師云。然精金百煉。須要本分鉗鎚。德山既以已方人。者僧還同受屈。以拄杖一劃云。適來公案且致。從上諸聖什麼處去。大眾擬議。師一時打趁。舉。保福簽瓜次。太原孚上座到來。福云。道得",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: sets Deshan's where-do-the-sages-go case aside and puts the question straight to his own assembly, and when they hesitate he drives them all out with blows."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0848a09",
+          "ToLb": "0848b06",
+          "Kwic": "嬰孩，今朝年已老。未明三八九，難蹈古皇道。手搦黃河乾，脚踢須彌倒。浮生夢幻身，人命夕難保。天堂與地獄，皆由心所造。南山北嶺松，北嶺南山草。一雨潤無邊，根苗壯枯槁。五湖參禪人，可問虗空討。死脫夏天衫，生披冬月襖。分明無事人，特地生煩惱。喝一喝。世尊三昧，迦葉不知；迦葉三昧，阿難不知；阿難三昧，商那和修不知；從上諸聖三昧，互相不知。乃拈拄杖，劃一圓相，云：者箇是什麼？良久，云：路逢劍客須呈劍，不是詩人莫獻詩。即與麼去，早成多事。更乃如何若何，和泥合水？所以靈山會上，迦葉親聞；少室巖前，祖師斷臂。且道斷臂作箇什麼？卓拄杖一下，下座。昨夜漫天總雪，大地一時皎潔。今朝庭際無人，莫道山僧不說。若論此事，汝今已得，更無欠少，",
+          "MasterName": "Ciming Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ciming Chuyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Ciming Chuyuan owns the retained deployment: runs the lineage's samadhis down the line, the buddha's unknown to Kasyapa, Kasyapa's to Ananda, Ananda's to Sanavasa, the sages of the transmission each unknowing the next, then draws one circle with his staff and asks the assembly what it is."
+        },
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0004a08",
+          "ToLb": "0004b11",
+          "Kwic": "言象而罕測影響之士斯何足云所以佛付佛祖付祖更無𢇁髮之異豈有東西之殊不立階梯單傳是事若非靈根頓悟大用現前未免業惑海深妄塵自隔遂拈起拂子示眾云還見麼若見見箇什麼若見箇拂子正是凡夫若言不見此是拂子如何󵘸不見底道理道人到此須是忖量不可輕心取於流轉誠非小事實在悟明所以聖人得此事莫不統三界領四生号令聖凡扶顛拯物大眾從上諸聖入此門中各令啟悟勞生破諸塵妄記得靈山會上四十九年󵘸不盡末後分付飲光少林九年之間畢竟獨許二祖尓後光分震旦道滿寰中臨濟德山威行雷電皆為上祖不了致令殃及子孫遂舉拂子云大眾從上許多賢聖如今揔在山僧拂子頭上各各坐大蓮花󵘸微妙法交光相羅如寶𢇁網還信得及麼若信得及山僧出𠀍一期之事已得周圎其或未然不免自通消息去也十字路頭",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment: opens his abbacy with incense for his teacher and traces the sages of the transmission through this one gate, from what the forty-nine years at Vulture Peak could not exhaust down to the final handing to Kashyapa and the single sanction of the Second Patriarch."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0779a09",
+          "ToLb": "0779a26",
+          "Kwic": "著。正體現成。日用有力量。聞聲見色不生取捨。著著有出身之路。豈不見。僧問九峯。見說和尚親見延壽是否。峯云。山前麥熟也未識。得渠親切用處。便見衲僧巴鼻。所謂殺人刀活人劍。但請長時自著眼看。到出格時。自然知落處也。示禪人示禪人達磨西來不立文字語句。唯直指人心。若論直指。只人人本有。無明殼子裏。全體應現。與從上諸聖。不移易一絲毫許。所謂天真自性本淨妙明。含吐十方獨脫根塵。一片田地唯離念絕情。逈超常格。大根大智。以本分力量。直下就自己根脚下承當。如萬仞懸崖撒手放身更無顧。藉教知見解礙倒底脫去。似大死人已絕氣息。到本分地上大休大歇。口鼻眼耳初無相知。手足項背各不相到。然後向寒灰死火上。頭頭上明。枯木朽株間。物物斯照。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: instructs a trainee that what Daruma pointed to is what everyone already has, fully present inside the shell of ignorance and not shifted by a hair from the sages of the transmission."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0819a21",
+          "ToLb": "0819b08",
+          "Kwic": "心。說此無邊際法。奉為臣子陳亞卿。祝吾君壽地久天長亦無邊際。正當恁麼時。依時及節一句作麼生道。舉起拂子云。將此深心奉塵剎。是則名為報我皇。下座。上堂。正月十四十五。雙徑椎鑼打鼓。要識祖意西來。看取村歌社舞。徽宗皇帝大祥上堂。拈香罷乃就座云。身從無相中受生。猶如幻出諸形像。幻人心識本來無。罪福皆空無所住。從上諸聖。莫不皆從無所住處成就眾生。於無所住處示現降神處胎十月。於無所住處示現誕生。於無所住處示現行七步。於無所住處示現處王宮。於無所住處示現出家。於無所住處示現行菩行。於無所住處示現坐菩提樹下成等正覺。於無所住處示現降伏魔軍。於無所住處示現坐道場轉法輪度有情。於無所住處示現授諸菩薩阿耨多羅三藐三菩提記。於無",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: at the great memorial rite for Emperor Huizong runs the sages of the transmission through the whole ladder of non-abiding, from descent into the womb to the seat under the bodhi tree."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0542a05",
+          "ToLb": "0542a18",
+          "Kwic": "普會之場，亦龍象蹴踏之所。過去諸佛已滅，未來諸佛未生，正當佛法委在今日。且今日事作麼生？若向這裡道得一句，便見譯經臺畔風月常新，大樹堂前樓閣仍舊。昔本不變，今亦何遷？依然廣大門庭、真實寶所。如道不得，看新天寧畫蛇添足去也。」驀拈拄杖卓一下，云：「看，看！即此便是菩提場、是普光明殿、是大安隱幢、是最吉祥地。故從上諸聖吹大法螺、擊大法鼓、轉大法輪、演大法要，無一塵不普現色身、無一剎不成等正覺。究極而論，名雖有種種，而實無種種；相雖有種種，而性無種種。諸仁達得無種種性底落處，則入剎那際平等三昧，始知釋迦老子未離兜率已降王宮、未出母胎度人已畢，十世古今始終不離於當念，無邊剎海自他不隔於毫端，然後於毫端頃不妨廣作佛事，演出無",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: brings his staff down once and points at that very place as the bodhi terrace and hall of universal light, where the sages of the transmission blew the great conch, beat the great drum, turned the great wheel, and set forth the great essence, not one dust failing to show a body, not one land failing to reach awakening."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0289c07",
+          "ToLb": "0289c21",
+          "Kwic": "忖量道：何必。及踏著安隱一片地，從夜半子到人定亥，一切智智清淨無二，無二分、無別、無斷。方省古人道：『舉一則語教汝直下承當，早是撒矢向汝頭上也。』」喝一喝，曰：「將此身心奉塵剎，是則名為報佛恩。」弟子靈善、靈玉請上堂。「古德道：『不信菩提涅槃，是則解空第一。』」喝一喝曰：「丹鳳自騰霄漢去，寒鴉猶噪夕陽西。從上諸聖浩浩商量，都要傍省事徑捷一路走。直至如今，計較未成多少。倚長松，臨綠水，感恩無地。大事本來平等，反作多種奇能，役役趁過光陰。大眾！流言止於智者。二時開單展缽，逐日屙矢送尿。盡將業識作流傳，此道今人棄如土。」月朗大德請上堂。「曹溪一路大不淨坑。自古自今掘了一丈又一丈。何時得息浪停波。更有一項左手把水如光，與",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: at the seat his disciples requested grades the whole line, the sages of the transmission endlessly conferring and all hunting the shortcut of easy dependence, down to today with the reckoning still unfinished."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0017c13",
+          "ToLb": "0017c26",
+          "Kwic": "，徒勞射目。」進云：「說法已竟，大地沾恩。如何是沾恩一句？」師云：「驅雲逐霧，盡在風前。」問：「冬至到來即不問，高提祖印事若何？」師驀豎起拂子。進云：「春色滿園關不住，一枝紅杏出墻來。」師云：「闍黎恁麼聞香逐臭。」乃云：「芙蓉城裏諸知識，一齊擁入我山來，一一威光照天地，為扶祖席共相培。」遂拈起拂子示眾云：「從上諸聖以此傳持祖印，挨至山僧手裏示微妙音，諸人還信得及麼？若信得及，當於此示是何曲調？若信不及……」以拂子打圓相云：「流動摩尼須究取，風波纔動溺舟輕。」復舉：「龍門遠禪師至蔣山上堂云：『一手不獨拍，兩手鳴摑摑，舉意超情念，相看同路陌。摩雲鍾阜高，遍界烏輪赫，妙機速雷電，神珠不在額。珍重人天大導師，衲僧一見喪魂魄",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang owns the retained deployment: welcomes the masters who have flocked in to shore up the ancestral seat, lifts his whisk, and traces the patriarch seal handed down by the sages of the transmission right into the mountain monk's hand, asking the assembly whether they can trust it and what tune this is."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "X/X68/X68n1318.xml",
+        "D/D48/D48n8939.xml",
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J40/J40nB494.xml",
+        "J/J34/J34nB301.xml",
+        "J/J37/J37nB371.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Deshan Xuanjian",
+        "Ciming Chuyuan",
+        "Foyan Qingyuan",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Yushan Shangsi",
+        "Jiqi Hongchu",
+        "Foyuan Chegang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The sages of the transmission as one line, and the masters who lean on it or shake it. Xuedou Chongxian sets Deshan's case aside and puts the where-do-the-sages-go question straight to his own assembly, driving them out with blows when they hesitate, Ciming Chuyuan runs the lineage's samadhis down the line with each sage unknowing the next and draws one circle with his staff, Foyan Qingyuan opens his abbacy by tracing the sages of the transmission through this one gate from Vulture Peak to the Second Patriarch, Yuanwu Keqin writes to a trainee that what everyone already has inside the shell of ignorance is not shifted by a hair from the sages of the transmission, and Dahui Zonggao at the great memorial rite runs them through the whole ladder of non-abiding, from descent into the womb to the seat under the bodhi tree. Yushan Shangsi brings his staff down once and points at that very place as the bodhi terrace where the sages of the transmission blew the great conch and turned the great wheel, Jiqi Hongchu grades the whole line as endlessly conferring and still hunting the shortcut, and Foyuan Chegang lifts his whisk and traces the patriarch seal handed down by the sages of the transmission right into the mountain monk's hand."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "Id": "t_ca90618b6466",
+  "SourceTerm": "妄想執著",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T00:04:20Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "deluded thought and clinging",
+      "AlternateTargets": [
+        "delusive ideation and grasping"
+      ],
+      "SearchAliases": [
+        "deluded clinging",
+        "the twofold obstruction of delusion and grasp",
+        "fixated deluded thinking"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 382 hits in 153 files representing 153 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0854b06",
+          "ToLb": "0854b20",
+          "Kwic": "頭忽若塞却眼耳鼻舌身意滅却色聲香味觸法道端又向甚處麼摸索道端應云只在這裏師便打云也不得放過。復云教中道是法住法位世間相常住若了得這兩句世間法與出世間法一網打就何以故佛說一大藏教盡是隨眾生器量而說所以釋迦老子初於正覺山前覩明星現忽然悟道於所證處便見大地一切眾生與他同體平等乃云奇哉一切眾生具有如來智慧德相但以妄想執著而不證得謂我所證處與十方諸佛乃至含蠢蠕動一時同得同證以海印三昧向人人脚跟下一印印定更無纖毫以為透漏以是知諸佛菩薩法門廣大一證一切證一悟一切悟一了一切了一用一切用却到後來眾生根器狹劣所見亦微如人以針去󰈧上面劄得一箇窟籠兒自謂我這窟籠是不可思議廣大境界便要與人天為師將有所得心傳授與人若他處窟籠差大即以為非何故",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment, reading the pair as the one thing missing from a scene where all beings attain together with him."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0774b16",
+          "ToLb": "0774c05",
+          "Kwic": "向皆無礙，滿目青山。驀拈主丈，云：說破了也，不得錯會。卓一卓，下座。第六日，升座。世尊昔在摩竭陀國阿蘭若法菩提場中，初成正覺，智入三世，悉皆平等。其身充滿一切世間，其音普順十方國土。譬如虗空具含眾像，於諸境界無所分別。此是大開一口，吞盡十方世界了也。又復歎曰：奇哉！我今普見一切眾生，具有如來智慧德相，但以妄想執著而不證得。此又將菩提場中所證所得底，盡情分付諸人了也。汝諸人現在菩提場中，人人頭戴虗空，箇箇脚踏實地，而不成正覺者，何耶？妄想執著未除也，菩提大心未發也。迷則菩提為妄想，悟則妄想為菩提。梵語菩提，此翻曰覺。欲成正覺者，須發菩提心。故經云：菩提心者，猶如種子，能生一切諸佛法故；菩提心者，猶如大地，能持一切諸",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment, telling the assembly they stand in the very field uncrowned because the pair is not yet cleared."
+        },
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0754a18",
+          "ToLb": "0754b13",
+          "Kwic": "海印三昧之變相也。示脫歡達剌罕丞相示脫歡達剌罕丞相諸佛法要惟在自心。於一切人本來具足。不從外得也。然自心之法何法也。乃靈知之至體也。昔裴相國作圓覺略疏序。首先一句謂。血氣之屬必有知。凡有知者必同體。其異類雖昧略於蠢蠕中身相微劣。惟同體之靈知初未甞減少也。世尊初成道時乃云。奇哉眾生具有如來智慧德相。但以妄想執著而不證得。謂智慧德相即自心之靈知也。夫靈知之體猶古鏡中所含之光也。妄想執著猶翳光之塵垢也。鏡雖為塵垢所蔽。而鏡中所含之光初未甞一毫虧損也。一旦垢淨塵消。則本來所有之真光。廓然清淨洞照萬象。豈從外得也。諸佛以是光轉法輪度含識。菩薩以是光修六度集眾善。聖天子以是光統萬邦福海宇。賢宰相以是光沛仁澤宣大政。至若天",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment, likening the pair to the dust and grime over an old mirror's held light."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0227b17",
+          "ToLb": "0227b30",
+          "Kwic": "，會也無？座中若有江南客，不向樽前唱鷓鴣。」下座。臘八上堂。問：「佛佛授受，祖祖相承。且道無形相人來，又作麼生傳授？」師云：「喚他向前來。」進云：「某甲去也。」師云：「什麼處去？」進云：「他家自有通霄路。」師云：「腳跟下好與三十棒。」乃云：「釋迦老子午夜睹星悟，云：『奇哉奇哉。一切眾生俱有如來智慧德相，皆因妄想執著不能證得。』也是憐兒不覺醜，未免話作兩截。黃檗午夜豎剎竿，大家在裏許，無有智慧德相可證，亦無有妄想執著可得。且道與釋迦老子相去多少？有具擇法眼者，出來判斷看。」眾下語不契。復云：「昔日世尊昇忉利天為母說法。說甚麼法？」驀豎拂云：「也只是這箇。今日山僧不動本際，為諸父老談禪。談甚麼禪？也只是這箇。這箇又是箇",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment, ruling the sage's sentence talk cut in two and holding his own midnight pole free of both marks and pair."
+        },
+        {
+          "RelPath": "J/J39/J39nB452.xml",
+          "FromLb": "0535a22",
+          "ToLb": "0535b05",
+          "Kwic": "生，頓超方便。不見水潦和尚參馬祖，問：『佛法的的大意？』被祖攔胸踏倒，忽然大悟，起來呵呵大笑云：『百千法門，無量玅義，只向一毫頭上識得根源去。』諸兄弟！若恁麼，豈不快哉？雖然如是，猶涉程途在。不涉程途一句又作麼生道？當臺寶鑑明如日，一亙晴空絕是非。」示眾。云：「釋迦老子道：『一切眾生具有如來智慧德相，但以妄想執著而不證得。』諸仁者，還知妄想執著麼？不但世間人我是非、塵勞煩惱是妄想執著，直饒念佛持咒、誦經禮懺也是妄想執著，持戒脩身、約教觀心也是妄想執著，六度萬行、迷悟因果也是妄想執著，安禪息慮、打七打五也是妄想執著，乃至綱宗玄要、賓主料揀、正偏回互、事理藏鋒，以要言之，總是妄想執著。且作麼生是智慧德相？還委悉麼？要",
+          "MasterName": "Lüyan He",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lüyan He",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB452.xml). Recorded Sayings of Chan Master Lüyan He. Lüyan He owns the retained deployment, sweeping reciting and vows, the precepts and the watchers, the six ways and cause and effect, down to the fivefold week, all into the block."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0413a25",
+          "ToLb": "0413b07",
+          "Kwic": "師云：「早晨喫了粥，午後更覺饑。」進云：「不饑不寒又是甚麼人分上事？」師云：「墳前石翁仲，廟內鐵山臊。」僧問：「經中道：『念佛想佛，當來畢竟成佛。』和尚尋常禁止，豈不大違教意也？」師云：「相識滿天下，知音沒一人。」僧禮拜。師乃云：「釋迦老子始于正覺山前夜睹明星而悟道，乃云：『一切眾生俱有如來智慧德相，皆因妄想執著而不能證得。』」驀拈拄杖畫○相，云：「智慧德相與妄想執著悉被山僧縛作一團了也。當恁麼時，喚作智慧德相又是妄想執著，喚作妄想執著又是智慧德相，一任刀斫斧劈而常光不昧，東擲西拋而智燄瑩然。汝等諸人還相委悉得麼？」復卓杖一下，云：「於斯承當得去，委地頹綱一時舉起，潑天門戶隻手撐開，堪作吾家種草，可為後學師範；脫",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gusu Zun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. Gusu Zun owns the retained deployment, binding the marks and the pair into one ball with his staff and daring the assembly to name either."
+        },
+        {
+          "RelPath": "J/J37/J37nB386.xml",
+          "FromLb": "0381b21",
+          "ToLb": "0381c05",
+          "Kwic": "得者四喝落處，說甚麼臨濟大師一喝如金剛王寶劍、一喝如踞地獅子、一喝如探竿影艸、一喝不作一喝用，是甚熱碗鳴聲？設或未然，莫道僼上座無相為好。」復喝一喝，下座。佛成道日，秉拂。「大道絕遮欄，其誰趣向？虛空無背面，何處雕鐫？昔日釋迦老子于正覺山中夜睹明星，豁然大悟，便云：『奇哉！一切眾生具有如來智慧德相，但以妄想執著而不證得。』者箇老古錐、徐六擔板只見一邊，殊不知，一切諸佛皆以妄想執著而有如來智慧德相可證。若有如來智慧德相可證，則是眾生妄想執著；若除眾生妄想執著，則無如來智慧德相可證；既無如來智慧德相可證，則內無所證；既無眾生妄想執著可除，則外無所修；外無所修，則無眾生可度；內無所證，則無諸佛可成；既無諸佛可成，亦無",
+          "MasterName": "Yuan'an Liao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuan'an Liao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB386.xml). Recorded Sayings of Chan Master Yuan’an Feng. Yuan'an Liao owns the retained deployment, reversing the sentence so that every buddha stands by the pair in having marks to attain."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0575b07",
+          "ToLb": "0575b21",
+          "Kwic": "」進云：「如何是諸佛出身處？」師云：「速退。」乃云：「假使頂戴百千劫，身為床座遍三千，若不傳法度眾生，畢竟無能報恩者。」豎拂，云：「報恩今日傳法也，大眾一齊擔荷。」擲拂子，下座。臘八，上堂。「堪笑釋迦文，長年摸壁行，雪山今夕午，方得睹明星。自累還自可，那堪又累人？」乃云：「奇哉！眾生皆有如來智慧德相，良繇妄想執著不能證得。若是窺籓不入、據鼎不嘗的，向未有生佛已前轉身，於今時大官路上闊步，終不向葛藤窠裡頭出頭沒。眾中還有如是漢子麼？如無，報恩只得據款結案，為汝諸人指出一條大路。敢問諸人：除卻妄想執著，如何是智慧德相？」舉拂子，云：「會麼？莫待夜行剛把火，直須當道與人看。」歲旦，上堂。僧問：「吳中石佛浮來瑞，靈鷲花香",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment, asking the assembly what the wisdom-and-virtue marks are once the pair is stripped away."
+        },
+        {
+          "RelPath": "J/J37/J37nB390.xml",
+          "FromLb": "0534b10",
+          "ToLb": "0534b23",
+          "Kwic": "緣有卷有舒，把定無高無下。若向諸佛未出世已前為人，墮在劫外；若向祖師西來後為人，落在今時；若向總不恁麼處為人，坐在淨潔地上。」以拂子擊香案，云：「會麼？夾路桃花風雨後，馬蹄無處避殘紅。」臘八日，上堂。「釋迦老子二千年前臘月八日於正覺山前夜睹明星，忽然悟道，便大驚小怪，云：奇哉！一切眾生皆有如來智慧德相，蓋因妄想執著不能證得。光山要問黃面瞿曇：喚什麼作智慧德相？喚什麼作妄想執著？」驀豎起拂子，云：「者箇是妄想執著，那箇是智慧德相？」隨放下，云：「者箇是智慧德相，那箇是妄想執著？」良久，四顧，云：「幸自可憐生，汝等來者裏討什麼碗？」以拄杖旋風打散。知縣徐機宜、州同吳天覺親師座下，躬為舂爨。一日索偈，師衝口曰：「知縣舂碓",
+          "MasterName": "Chulin Shangrui",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chulin Shangrui",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB390.xml). Recorded Sayings of Chan Master Chulin of Beijing. Chulin Shangrui owns the retained deployment, demanding of the yellow-faced sage what he calls the marks and what the pair."
+        },
+        {
+          "RelPath": "J/J34/J34nB306.xml",
+          "FromLb": "0416a26",
+          "ToLb": "0416b09",
+          "Kwic": "承當；破砂盆，要在盡心刮剔。乞鹽覓醬總是你，拋金撒玉總是你，且道你是阿誰？」擊拂子，云：「千年桃李核，剖出舊時仁。」佛成道日，小參。「學般若菩薩最忌妄生異見。作麼生是異見聻？聖凡迷悟是異見，事理真妄是異見。今朝臘月八日，人人盡道釋迦老子於夜半睹明星悟道，歎云：『奇哉！奇哉！一切眾生皆有如來智慧德相，但以妄想執著而不證得。』你道有恁麼事？無恁麼事？若道有，何異九十六種？若道無，有甚釋迦老子？諸仁各各親近善知識來，何不返照一照看？出門便見路，過水便見橋，入山門便見佛殿，上方丈便見長老，是異見？不是異見？智慧德相耶？妄想執著耶？於此諦當得去，便見釋迦老子安身立命處；既見釋迦老子安身立命處，便見自己本命元辰落處；既見自己",
+          "MasterName": "Neishao Zhizhong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Neishao Zhizhong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB306.xml). Recorded Sayings of Chan Master Neishaozhong. Neishao Zhizhong owns the retained deployment, hanging the question on the hall: marks, or the pair?"
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "X/X70/X70n1403.xml",
+        "B/B25/B25n0145.xml",
+        "J/J27/J27nB193.xml",
+        "J/J39/J39nB452.xml",
+        "J/J37/J37nB387.xml",
+        "J/J37/J37nB386.xml",
+        "J/J26/J26nB185.xml",
+        "J/J37/J37nB390.xml",
+        "J/J34/J34nB306.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Tianru Weize",
+        "Zhongfeng Mingben",
+        "Yinyuan Longqi",
+        "Lüyan He",
+        "Gusu Zun",
+        "Yuan'an Liao",
+        "Fushi Tongxian",
+        "Chulin Shangrui",
+        "Neishao Zhizhong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed block naming the paired obstruction that keeps beings from what they already carry. Dahui Zonggao reads the pair as the one thing missing from a scene where all beings attain together with him, Tianru Weize tells the assembly they sit in the very field still uncrowned because the pair is not yet cleared, Zhongfeng Mingben likens the pair to the dust and grime on an old mirror's held light, Yinyuan Longqi rules the sage's sentence talk cut in two and holds that at his own midnight pole there is no mark to attain nor any pair to get, and Lüyan He sweeps every aid into the block: reciting and vows, the precepts and the watchers, the six ways and cause and effect, down to the fivefold week itself. Gusu Zun binds the marks and the pair into one ball with his staff and dares the assembly to name either, Yuan'an Liao reverses the sentence so that every buddha stands by the pair in having marks to attain and none could be crowned without it, Fushi Tongxian asks the assembly what the wisdom-and-virtue marks are once the pair is stripped away, Chulin Shangrui demands of the yellow-faced sage what he calls the marks and what the pair, and Neishao Zhizhong hangs the question on the hall: marks, or the pair?"
+    }
+  ]
+}

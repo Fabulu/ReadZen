@@ -1,0 +1,152 @@
+{
+  "Id": "t_d4cc96a3da65",
+  "SourceTerm": "無邊剎境，自他不隔於毫端",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:56:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "boundless lands: self and other are not a hair-tip apart",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the lands without edge, self and other one hair-tip away",
+        "endless worlds not separated by a hair's breadth",
+        "no gap of a hair-tip between self and other"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 72 hits in 45 files representing 44 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0024a07",
+          "ToLb": "0024a14",
+          "Kwic": "」復敲一下云：「還見麼？」下座。為祝公懶庵居士對靈小參。「生死去來全體現，陰間陽世本無邊。所以道：無邊剎境，自他不隔於毫端；十世古今，始終不離於當念。只因離於不離、隔於不隔，遂乃見倒惑生，妄生分別，於無生見生、無滅見滅，隨境有無，心存取捨，遂致輪迴不息。」乃以拄杖指靈几云：「直須當頭點破，管教全體顯現，一念嘗光現前，永證不生滅地。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: at the little sitting for the dead layman — birth-death going and coming the whole body appears, the dark world and the world of light originally boundless — only because one departs from not-departing and separates from not-separating do inverted views arise."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0575b24",
+          "ToLb": "0575b30",
+          "Kwic": "」乃云：「今日新年頭，昨日舊年尾，新年與舊年，年年只如此。所以道：十世古今，始終不離於當念；無邊剎境，自他不隔於毫端。于此見得，便知佛祖之道本是平夷，大解脫門原無關鑰；於此不見，菩提路上荊棘成林，般若光中迷雲蔽日。」拈拄杖，云：「幸有者箇木上座，迷悟聖凡俱坐斷，新年舊歲總無拘，輕輕撥轉無為化，萬姓謳歌樂有餘。",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: at the year's turn — new year's head, old year's tail — see it here and the way of the buddhas and ancestors is level, the great gate of release without a lock; miss it and the road of awakening bristles with brambles."
+        },
+        {
+          "RelPath": "J/J34/J34nB298.xml",
+          "FromLb": "0105a23",
+          "ToLb": "0105a30",
+          "Kwic": "若道是二，秪有一軀法身。向者裏具隻頂門眼，豈特輝天鑒地？便知十世古今，始終不離於當念；無邊剎境，自他不隔於毫端。其或不然，山僧不妨下箇注腳。世尊降王宮、出母胎，指天指地，云：『天上天下，唯我獨尊。』此是著弊垢衣。臘月八夜睹明星悟道，靈山會上五會說教，雙林樹下入般涅槃，此是著弊垢衣。所以道：著弊垢衣云是佛，纔披珍御復名誰？",
+          "MasterName": "Shenfeng Xian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shenfeng Xian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB298.xml). Recorded Sayings of Chan Master Shenfeng Xian. Shenfeng Xian owns the retained deployment: call it two and there is only one single body of truth; with the crown-eye one would know the ten eras and the boundless lands — or else he footnotes it with the World-Honored pointing to heaven and earth, supreme and alone honored."
+        },
+        {
+          "RelPath": "J/J35/J35nB340.xml",
+          "FromLb": "0763a25",
+          "ToLb": "0763b03",
+          "Kwic": "「三宗未設，無相無名；一念才生，有持有犯。有持有犯，則善惡日增；無相無名，則超然獨脫。所以道：無邊剎境，自他不隔於毫端；十世古今，始終不離於當念。當念不生，萬法無咎；毫端有別，天地縣殊。故昔六祖大師云：『不思善，不思惡。正恁麼時，阿那箇是汝本來面目？』」驀豎拂子，召眾，云：「還委悉麼？若向者裏委悉得去，便見各人安身立命、染淨不著處，亦見古人劈腹剜心、橫身為物處，並及五教三宗不勞分布，彈指領略去也。",
+          "MasterName": "Huijue Yi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huijue Yi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. Huijue Yi owns the retained deployment: turns it to the precepts — no mark no name before they were set; the present thought not arising, the ten thousand things without blame — a hair-tip of difference and heaven and earth fall asunder."
+        },
+        {
+          "RelPath": "J/J28/J28nB218.xml",
+          "FromLb": "0642b16",
+          "ToLb": "0642b22",
+          "Kwic": "夜半木人穿靴來，天明石女戴帽去，住即印去，去即印住，往來不以相，彼此印無心。所謂無邊剎境，自他不隔於毫端；十世古今，始終不離於當念。動若行雲，止猶谷神。」遂喝一喝：「今日與麼告報，還知商山落處麼？若知，老僧解下腰包，炊無米飯，煮木楂羹，與諸兄弟結冬；其或未知，拄杖橫肩不顧人，直入千峰萬峰去。",
+          "MasterName": "Lanshi Ling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lanshi Ling",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB218.xml). Recorded Sayings of Chan Master Lanshi Ling. Lanshi Ling owns the retained deployment: seals it with the wooden man in boots at midnight and the stone woman hatted at daybreak — staying sealed by going, going sealed by staying — then shouts and asks where Shangshan lands."
+        },
+        {
+          "RelPath": "J/J39/J39nB451.xml",
+          "FromLb": "0515a14",
+          "ToLb": "0515a20",
+          "Kwic": "」舉拂子云：「大眾！會麼？於此一毫端上會得，即是一行三昧，千處萬處應用無窮，正是無邊剎境，自他不隔於毫端；十世古今，始終不離於當處。且問大眾：阿那個是當處？」喝一喝，云：「吼聲振破無明窟，曠劫塵勞當下消。」傅居士請上堂。「法道之門無二路，參尋不怠自心開，若人親解懷中寶，亦是靈山僧裏來。",
+          "MasterName": "Chisong Daoling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chisong Daoling",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB451.xml). Recorded Sayings of Chan Master Chisongling. Chisong Daoling owns the retained deployment: lifts the whisk — grasp it on this one hair-tip and it is the one-track settledness applied without end — swaps the couplet's close to the present PLACE and asks the assembly: which one is the present place? The roar shatters the cave of ignorance."
+        }
+      ],
+      "SourceTexts": [
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB185.xml",
+        "J/J34/J34nB298.xml",
+        "J/J35/J35nB340.xml",
+        "J/J28/J28nB218.xml",
+        "J/J39/J39nB451.xml"
+      ],
+      "RelatedMasters": [
+        "Miyun Yuanwu",
+        "Fushi Tongxian",
+        "Shenfeng Xian",
+        "Huijue Yi",
+        "Lanshi Ling",
+        "Chisong Daoling"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The couplet: the field of lands has no edge, yet self and other are not a hair-tip apart; the ten eras run long, yet beginning and end never leave the present thought. Miyun says it over a dead layman's spirit — birth and death going and coming, the whole body present, the dark world and the world of light without boundary — and then asks what it was that parted them. The spending places: Miyun Yuanwu at the little sitting for the dead — birth-death going and coming the whole body appears, the dark world and the world of light originally boundless; therefore it is said: boundless lands, self and other not a hair-tip apart; ten eras of past and present, beginning and end not leaving the present thought — only because one departs from not-departing and separates from not-separating do inverted views and delusion arise, dividing the birthless; Fushi Tongxian at the year's turn — today the new year's head, yesterday the old year's tail, every year only thus — see it here and know the way of the buddhas and ancestors is level and even, the great gate of release without lock or bolt; miss it here and the road of awakening bristles with brambles, thorns filling the light of wisdom; Lanshi Ling seals it with the impossible pair — at midnight the wooden man comes wearing boots, at daybreak the stone woman puts on her hat and goes; staying sealed by going, going sealed by staying, coming and going not by appearance, this and that sealing no-mind — then, after one shout, asks whether they know where Shangshan lands. The footnote and the hair-tip held: Shenfeng Xian sets the frame — call it two and there is only one single body of truth; with the eye at the crown one would not merely light heaven and mirror earth but know the ten eras and the boundless lands — and if not, he will footnote it: the World-Honored descended the royal palace, came out of the womb, pointed to heaven and earth — supreme in heaven and earth, I alone am honored; Huijue Yi turns it to the precepts — before they were set, no mark no name; one thought arises, holding and violating; holding and violating, and good and evil grow by the day; the present thought not arising, the ten thousand things without blame — a hair-tip of difference and heaven and earth fall asunder; Chisong Daoling lifts the whisk — grasp it on this one hair-tip and it is the one-track settledness, applied without end in a thousand places, ten thousand places — and, swapping the couplet's closing word to the present PLACE, asks the assembly: which one is the present place? The roar shattering the cave of ignorance."
+    }
+  ]
+}

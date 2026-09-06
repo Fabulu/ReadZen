@@ -1,0 +1,220 @@
+{
+  "Id": "t_e09f05b88790",
+  "SourceTerm": "無本可據",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no ground to stand on",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "without a base to rely on",
+        "nothing to rest one's ground on"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 241 hits in 130 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0073b02",
+          "ToLb": "0073b18",
+          "Kwic": "佛祖髑髏穿一串，宮漏沈沈密傳箭。人天機要發千鈞，雲陳煇煇急飛電。箇中人，看轉變，遇賤則貴貴則賤。得珠罔象兮至道綿綿，游刃亡牛兮赤心片片。勘辨勘辨仰山寂禪師因溈山問：大地眾生業識忙忙，無本可據，子作麼生知他有之與無？師云：某甲有驗處。時有一僧從面前過，師召云：闍梨！其僧回首，師云：和尚！這箇便是業識忙忙，無本可據。溈云：此是獅子一滴乳，迸散六斛驢乳。草堂清云：古人臨機施設，出在一時，此是因風吹火，用力不多。當時若無僧從面前過，仰山將甚麼語驗他？不遇祖師端的旨，臨機開口卒難應。天童覺頌云：一喚回頭識我不？依俙蘿月又成鉤。千金之子纔流落，漠？塗窮有許愁。仰山問僧：甚處人？云：幽州人。師云：汝還思彼中麼？云：常思。",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Yangshan Huiji owns the retained deployment: asked by Guishan how he knows beings have the busy drifting mind with no ground, demonstrates on a passing monk, calling out to him so that the turn of the head itself is the proof, winning Guishan's praise that this one drop of lion's milk scatters six bushels of donkey's milk."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0811c21",
+          "ToLb": "0812a08",
+          "Kwic": "發無量差別言詞。一一言詞有無量差別妙義。如上塵數衲僧。各各具如是口如是舌如是音聲如是言詞如是妙義。同時致百千問難。問問各別不消。徑山長老咳嗽一聲一時答了。乘時於其中間作無量無邊廣大佛事。一一佛事周遍法界。所謂一毛現神變。一切佛同說經。於無量劫不得其邊際。便恁麼去。鬧熱門庭即得。若以正眼觀之。正是業識茫茫無本可據。祖師門下一點也用不著。況復鉤章棘句展露言鋒。非唯埋沒從上宗乘。亦乃笑破衲僧鼻孔。所以道毫氂繫念三塗業因。瞥爾情生萬劫羈鎖。聖名凡號盡是虛聲。殊相劣形皆為幻色。汝欲求之得無累乎。及其厭之又成大患。看他先德恁麼告報。如國家兵器不得已而用之。本分事上亦無這箇消息。山僧今日如斯舉唱。大似無夢說夢。好肉剜瘡檢",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: grades the imagined host of monks whose myriad mouths, tongues, and voices a single cough of the Jingshan elder would answer at once, each a buddha-work filling the whole realm of dharma, and rules that seen by the true eye all such bustling courtyard religion is exactly the drifting mind with no ground, useless by a hair at the patriarch gate, fit only to bury the school and split a patch-robed monk's sides."
+        },
+        {
+          "RelPath": "X/X68/X68n1318.xml",
+          "FromLb": "0032b04",
+          "ToLb": "0032b17",
+          "Kwic": "有知音，後來僧持問曹山：未審是什麼病？山知他落著，便道：攢簇不得底病。這箇便是知音也。豈似而今無地頭恣意亂道，纔見人問：未審是什麼病？便打入葛藤窠裏，恰似拽鋸相似，你拖去，我又拽來，幾時得歇？於本參中有什麼交涉？這般病，諸人皆有之，只是不會病，酌然攢簇不得。既不會病，變成毛病去。既成毛病，只是業識忙忙，無本可據，到年窮歲盡，總無得力處，豈不哀哉！若踏著攢簇不得底病，便有超生離死之由。這僧又問：一切眾生還有此病也無？山云：有。僧云：既有，因什麼不病？山云：眾生若病，即非眾生。這僧也會推究，又問曹山：和尚還有此病也無？山云：老僧正覓起處不得，不妨險峻。這一句子，難道非曹山如何啟口？雖然，正覓起處不得，諸方具正知正見者",
+          "MasterName": "Ying'an Tanhua",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ying'an Tanhua",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Caoshan Benji",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1318.xml). Continued Essentials from the Sayings of Ancient Worthies. Ying'an Tanhua owns the retained deployment: raises Mingxi's incurable great illness and Caoshan's cannot-be-piled-up verdict as a true meeting of kindred tones, rules that everyone today has the same disease but does not know disease, and that once it turns stubborn it is the busy mind with no ground, stranded at year's end with nothing to hold, while treading the disease opens the way out of birth and death."
+        },
+        {
+          "RelPath": "X/X69/X69n1356.xml",
+          "FromLb": "0535a02",
+          "ToLb": "0535a15",
+          "Kwic": "三乘，指歸實際。若無諸佛說法，誰立十聖三賢。若不禮佛為師，爭獲超凡入聖。法不孤起，緣在眾心。共贊同成，須依知識。知識廼分善惡，迷悟不同。凡情而逐相隨聲，豈辨箇中真偽。真則法身清淨，有作者權化眾生，得箇入頭，方自醒悟，能分緇素，心境一如。偽則色空儱侗，語默瞞頇，談經而不會佛意，說禪而豈入宗通。自己業識茫茫，無本可據，那更與囚人解縛，醉體䭾人。千年暗室不逢燈，更用濃磨墨汁潑。瞽人引路，眾盲而盡墮危坑。邪術治迷，合家而全成疫死。正法者，了心達本，體若虗空。不動步而法徧十方，一剎那而圓成無漏。性相平等，事理皆如。未甞見一眾生，無量光明為眷屬。萬象鏡中無影迹，千燈一室焰重重。若能如是，方表出家。苟或未然，直須自省。是故圓覺經",
+          "MasterName": "Pu'an Yinsu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Pu'an Yinsu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1356.xml). Recorded Sayings of Chan Master Pu’an Yinsu. Pu'an Yinsu owns the retained deployment: sorts true teachers from false in his instruction, the false muddling form and emptiness and slurring word and silence, talking sutras without knowing the buddha's intent, their own consciousness a misty drift with no ground while they presume to untie prisoners and carry drunks, a thousand-year lampless room getting a splash of thick ink, a blind guide leading the whole band into the pit."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0005a01",
+          "ToLb": "0005a14",
+          "Kwic": "中消息者，試出分明說看；一總未曾，悟上座試為簡點：『朝暮且置，不知喚什麼作秋，卻說陰颼颼、熱殺秋。』還知麼？不見道，不因夜來鴈，爭見海門秋。」拍香几，下座。上堂。「舉一不得舉二，放過一著，落在第二。盡大地人都道今朝七月一，敢問眾兄弟作麼生舉？若也舉得，盡大地人性命與現前性命無二無別；若舉不得，未免業識茫茫無本可據。」復舉：「當初唐貞觀時有龐居士，特入深山訪問石頭大師，云：『不與萬法為侶者是什麼人？』頭以手掩其口，居士當下悟旨，述偈云：『有男不婚、有女不嫁，大家團圞頭，共說無生話。』且無生話又作麼生？說眾中有善說者出來，說了散去；無則悟上座略為頌出：『無生之話許誰知？子女團圞未語時，欲會其中消息旨，人人鼻直大頭垂。』",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Shitou Xiqian",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: tests his brothers on the first of the seventh month, whether they can raise the one without raising the two, since to raise it is every being's life no different from the life before them and to fail is the drifting mind with no ground, then raises Layman Pang's visit to Shitou and the hand over the mouth as the working of the birthless word."
+        },
+        {
+          "RelPath": "X/X72/X72n1435.xml",
+          "FromLb": "0131b01",
+          "ToLb": "0131b14",
+          "Kwic": "無纖毫縫罅，博山今日向虗空裏釘橛子、太清中加彩繪，使諸人有所趨向、有所捫摸也。一二二三子抖擻不下，平目復仰視。北斗向南看，兩口一無舌。空容傳聲，虗堂習聽。此是吾宗旨，披拂有餘恨。諸昆仲當知，此偈暗機圓合，金鐘同玉磬和鳴；正按全提，瑞草與瓊枝竝茂。若向者裏會去，平常心與道相宜；若向者裏不會，正是業識茫茫，無本可據。更有一事，在佛殿東南缺了一角，有人補凑得下，博山遺隻履以謝之。珍重！上堂：諸佛祕密藏，祖師󳯝相付。既同本來心，何迷復何悟？言語悉虗妄，形色如朝露。了形色語言，究竟絕依怙。譬如洞庭水，今古清如故。虗空非動搖，太清絕點污。有物終敗壞，無形始清素。諸昆仲，迷鏡裏之頭，徒勞狂怖；昧衣中之寶，枉受竛竮。卓拄杖，云：",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1435.xml). Expanded Record of Chan Master Wuyi Yuanlai. Wuyi Yuanlai owns the retained deployment: sets his verse of the two mouths without a tongue before his cousins, the secret treasury ringing like a bell with a jade chime, ruling that to meet it there the ordinary mind sits well with the way and not to meet it is exactly the drifting mind with no ground, before adding the missing corner of the buddha hall and his single sandal in thanks."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0240c08",
+          "ToLb": "0240c22",
+          "Kwic": "家，若長若幼，聞名睹相，悉皆皈依。故能道滿天下，名垂百世，皆繇知音作者，遞相舉揚而然也。今日山僧海已渡也，山已登也，且道誰是知音？誰是作者？諸人還會麼？沒鼻眠牛橫海島，不須繩索再勾牽。」下座。上堂。云：「學無前後，達者為先；道絕彼此，明之為貴。學未至於達，所學奚益？道未至於明，其道罔然。罔然，則業識茫茫，無本可據；奚益，則被物所轉，誠難解脫。諸人還知麼？只如父母未生已前一著子又作麼生達？死了燒了之後一著子又作麼生明？苟能直下坐斷，兩頭歷落，生死不能籠罩，去住豈可遷移？所謂處生死流，驪珠獨耀于滄海；踞涅槃岸，桂輪孤朗于碧天。山僧今日偶到西院，北山諸善人虔請陞座，不覺逗漏如此，還有明眼衲僧共相證明者麼？如無，山僧自證",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: opens a seat at the west cloister for the north-mountain laity with learning and the way, learning short of attainment profitless and the way short of clarity a muddle, and the muddle the drifting mind with no ground, hard to free, before asking how the step before birth is attained and the step after burning made clear, and offering the pearl shining in the sea of birth and death."
+        },
+        {
+          "RelPath": "J/J29/J29nB239.xml",
+          "FromLb": "0479c29",
+          "ToLb": "0480a13",
+          "Kwic": "得問處，則銀山鐵壁面面通穿，生死無常塵塵透脫；會得答處，則神出鬼沒，當體無痕，瞎棒盲枷全機殺活；若也不會，便見問在答處，答在問處，問答交馳，無你入處。既無入處，且只向入不得處猛加精神，抖擻眉毛，立定腳跟，參來參去，參到能所兩忘，不覺踢倒燈籠，掀翻露柱，目前萬象自森羅，現在活計全豐裕。正眼看來，業識茫茫，無本可據。』」師云：「昨日夜叉心，今朝菩薩面，菩薩與夜叉，不隔一條線。」淨信請就梅苑，上堂。「嚴風陣起，冽氣橫飛，九河結萬里之冰，五嶽鬥六花之雪。繁柯脫落葉，敲碎玉於枯條；積蔓蕭疏枝，點綴珠於乾蒂。凍鱗歇江村之漁父，淨山絕野唱之樵人。無何，孤質更溫，清肌獨熱，厥挺秀於林中，便弄姿於卉裏，紅白半吐，輕軟將芬，可令高",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhongfeng Mingben",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Juyun Chuiwan Guangzhen",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB239.xml). Recorded Sayings of Chan Master Chuiwan. Zhongfeng Mingben owns the retained deployment: in an instruction Chuiwan later raises, runs the cloth-shirt question through the place where one can enter no further, biding spirit at the impossible entry until subject and object both vanish and the lantern is kicked over and the pillars overturned, yet rules by the true eye that all this is still the drifting mind with no ground, while Chuiwan answers that the yaksa heart of yesterday and the bodhisattva face of today are not a thread apart."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X67/X67n1299.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X68/X68n1318.xml",
+        "X/X69/X69n1356.xml",
+        "J/J10/J10nA158.xml",
+        "X/X72/X72n1435.xml",
+        "J/J27/J27nB193.xml",
+        "J/J29/J29nB239.xml"
+      ],
+      "RelatedMasters": [
+        "Yangshan Huiji",
+        "Guishan Lingyou",
+        "Dahui Zonggao",
+        "Ying'an Tanhua",
+        "Caoshan Benji",
+        "Pu'an Yinsu",
+        "Miyun Yuanwu",
+        "Shitou Xiqian",
+        "Wuyi Yuanlai",
+        "Yinyuan Longqi",
+        "Zhongfeng Mingben",
+        "Juyun Chuiwan Guangzhen"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "No ground to stand on, and the masters who say so of a drifting mind. Yangshan Huiji, asked by Guishan how he knows beings have the busy drifting mind with no ground, calls out to a passing monk, and the turn of the head itself is the proof, winning Guishan's praise that this one drop of lion's milk scatters six bushels of donkey's milk, Dahui Zonggao grades the imagined host of monks whose myriad mouths and voices one cough of the Jingshan elder would answer at once, and rules that seen by the true eye all such bustling courtyard religion is exactly the drifting mind with no ground, useless by a hair at the patriarch gate and fit only to bury the school and split a patch-robed monk's sides, Ying'an Tanhua raises Mingxi's incurable great illness and Caoshan's cannot-be-piled-up verdict as a true meeting of kindred tones, rules that everyone today has the same disease but does not know disease, and that once it turns stubborn it is the busy mind with no ground, stranded at year's end with nothing to hold, and Pu'an Yinsu sorts true teachers from false, the false talking sutras without knowing the buddha's intent, their own consciousness a misty drift with no ground while they presume to untie prisoners and carry drunks, like a thousand-year lampless room getting a splash of thick ink, a blind guide leading the whole band into the pit. Miyun Yuanwu tests his brothers on the first of the seventh month, whether they can raise the one without raising the two, since to fail is the drifting mind with no ground, then raises Layman Pang's visit to Shitou as the working of the birthless word, Wuyi Yuanlai sets his verse of the two mouths without a tongue before his cousins, ruling that to meet it there the ordinary mind sits well with the way and not to meet it is exactly the drifting mind with no ground, Yinyuan Longqi opens a seat at the west cloister with learning and the way, learning short of attainment profitless and the way short of clarity a muddle, and the muddle the drifting mind with no ground, hard to free, and Zhongfeng Mingben, in an instruction Chuiwan later raises, runs the cloth-shirt question to the place where one can enter no further, biding spirit at the impossible entry until subject and object both vanish and the lantern is kicked over, yet by the true eye all this is still the drifting mind with no ground, while Chuiwan answers that the yaksa heart of yesterday and the bodhisattva face of today are not a thread apart."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "Id": "t_94182878cda4",
+  "SourceTerm": "直至如今",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-05T23:53:33Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "right down to this very moment",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "straight down to now",
+        "down to this very day",
+        "up to the present moment"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 783 hits in 196 files representing 192 independent works. Evidence floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0729c19",
+          "ToLb": "0729c27",
+          "Kwic": "然後乃可饑則喫飯。健則經行。熱則乘涼寒則向火。雖然如是。趙州道。我在南方三十年。有箇無賓主句。直至如今無人舉得。且無賓主話。火爐頭如何舉得。還委悉麼。衲被幪頭萬事休。此時山僧都不會。褒山珪禪師。為佛眼和尚設齋請。上堂云。還有助哀者麼。僧問。明鏡當臺舉無遺照。只如佛眼和尚。遷化向什麼處去。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: raises Zhaozhou's hearth-side no-guest-no-host line in his own hall address and marks that down to this moment no one has raised it, asking how it could be raised at the fire."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0997b08",
+          "ToLb": "0997b15",
+          "Kwic": "老和尚死去。二十五年。有誰撑門拄戶。雖與松源同日行。不會松源三轉語。父子背馳。面不相覩。直至如今成莾鹵。露冷風高秋意深。久矣無心薦藜黍。中秋上堂。僧問。靈山話月。曹溪指月。意旨如何。師云。欺胡謾漢。僧云。謝三郎有甚麼過。師云。誣人之罪。僧云。恁麼則天上月圓。人間月半。師云。老鴉啄蠣。",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: holds twenty-five years since the old master's death open in a verse, traveling the same day as Songyuan yet missing his three turning words, so staying rough-hewn down to this moment."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0010b06",
+          "ToLb": "0010b13",
+          "Kwic": "施為動轉渾無礙，一點恩波散作霖。」復舉趙州示眾云：「我向南方行腳時，火爐頭有箇無賓主句，直至如今無人舉著。」師云：「趙州與麼道，可謂掬水月在手，弄花香滿衣。今日黃孝廉的的入山，百山火爐頭有箇賓主句，不免對眾舉出。且作麼生是賓主句？還委悉麼？覿面相呈無向背，惟人自肯迺方親。」上堂。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: raises Zhaozhou's line that from the southern pilgrimage to this moment no one has lifted the hearth's no-guest-no-host word, then praises it as scooping the moon from the water."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0109b21",
+          "ToLb": "0109b30",
+          "Kwic": "忽有人問蓮峰：『今日出來，作甚麼即得退身有分？』」復舉：「趙州謂眾云：『我向行腳到南方，火爐頭有個無賓主話，直至如今無人舉著。』」師云：「大小趙州，舊習不忘，賣弄己醜。今日恰遇此個時節，不妨與他頌出：無賓主話若何論，覿露當陽世界吞，越色超聲常顯煥綿延終古逾彌存。」下座。臘八上堂，「三界釋迦尊，極是無面目，一朝禍入身，百世遭罵咄，道個不曾悟，焉能得成佛，漢語胡言誑惑人，罪犯彌天不可述，朝打三千，暮打八百，有甚麼屈辱。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: raises the same Zhaozhou line and rules that the old man's habit of displaying his own shortcomings never left him, then verses it for the season."
+        },
+        {
+          "RelPath": "J/J38/J38nB408.xml",
+          "FromLb": "0254a18",
+          "ToLb": "0254a25",
+          "Kwic": "』」驀豎拄杖云：「者箇有甚麼揀點處？有甚麼和會處？三腳驢子弄蹄行，新婦騎驢阿家牽，口是禍門，直至如今不得妙。不見玄沙大師道：『盡大地是沙門一隻眼。』諸兄弟！秖者一句子直是無下手處，你擬向甚麼處揀點著？到委悉亦是你，不委悉亦是你。一日十二時，從朝至夜，且道腳跟下錯過多少？」橫按拄杖云：「者一棒合是秉拂上座喫。",
+          "MasterName": "Azi Jinwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Azi Jinwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB408.xml). Recorded Sayings of Chan Master Aziwa of Haichuang. Azi Jinwu owns the retained deployment: runs the three-legged donkey and the bride on the donkey with her mother-in-law leading, then marks the mouth as the gate of trouble where down to this moment no one has gotten the marvel."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0847b08",
+          "ToLb": "0847b15",
+          "Kwic": "汝暫舉心塵勞先起。超佛越祖之談。未語已前向諸人。脚跟下蹉過了也。畢竟如何。毘婆尸佛早留心。直至如今不得妙。又卓一下。復舉僧問鏡清。新年頭還有佛法也無。清云有。僧云。如何是新年頭佛法。清云。元正啟祚萬物咸新。僧云。謝師答話。清云。山僧今日失利。又僧問明教。新年頭還有佛法也無。教云無。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: sets the stock couplet that Vipasyin set his mind on it early yet down to this moment no one has gotten the marvel, striking the seat once more."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0222b08",
+          "ToLb": "0222b14",
+          "Kwic": "鷄寒上樹，鴨寒下水。佛成道，上堂：老胡半夜見明星，瞎却平生兩眼睛。直至如今無摸索，一回舉著一傷情。雖然，不經一事，不長一智。王知縣到，上堂。舉王常侍訪臨濟遊僧堂公案，師云：臨濟老絲綸在手，不妨卷舒自如；王常侍明鏡當臺，一點瞞佗不得。只如末後道：將謂是箇俗漢。",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment: marks in the enlightenment-day verse that the old foreigner, blind in both eyes since the midnight morning star, has had nothing to grasp down to this moment, each raising a wound."
+        },
+        {
+          "RelPath": "X/X69/X69n1369.xml",
+          "FromLb": "0760a21",
+          "ToLb": "0760b03",
+          "Kwic": "四藤條，五火杪，三十棒，古人都用了。且聽天寧倒行摩竭令。卓拄杖一下。上堂：毗婆尸佛早留心，直至如今不得妙。又道：妙高峰頂善財，七日不見德雲比丘。又道：文殊、普賢昨夜起佛見、法見，貶向二鐵圍山。此三段義是同是別？有時輥入洪波裏，盡日漫天皷黑風。上堂。西來無意，遍天遍地。",
+          "MasterName": "Dachuan Puji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dachuan Puji",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1369.xml). Recorded Sayings of Chan Master Dachuan Puji. Dachuan Puji owns the retained deployment: strikes the staff, calls the assembly to hear his reversed Magadha order, and deploys the same stock couplet in the hall address that follows."
+        },
+        {
+          "RelPath": "X/X71/X71n1405.xml",
+          "FromLb": "0038a24",
+          "ToLb": "0038b06",
+          "Kwic": "雖然如是，未能坐斷天下人舌頭。微僧今日借水獻花去也，靈山一別，直至如今，以何為驗？遂起身鞠躬叉手云：即日恭惟聖躬萬歲。當晚小參：心同虗空界，示等虗空法。證得虗空時，無是無非法。為甚却道古交如精金，百煉色不回；今交如暴流，倐忽生塵埃？",
+          "MasterName": "Shixi Xinyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shixi Xinyue",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1405.xml). Recorded Sayings of Chan Master Shixi Xinyue. Shixi Xinyue owns the retained deployment: offers the parting at Vulture Peak down to this moment as the greeting before the throne, rising and bowing with folded hands to wish the sacred person ten thousand years."
+        },
+        {
+          "RelPath": "X/X69/X69n1371.xml",
+          "FromLb": "0786b08",
+          "ToLb": "0786b14",
+          "Kwic": "上堂：桃花爛熳紅，靈雲眼中血。不是斷膓人，此恨向誰說？佛生日，上堂。胞胎才出播殃塵，直至如今毒害人。一杓蘭湯無限恨，腕頭何止重千斤。上堂：禁足安居，一句直舉。匝地普天，四月十五。上堂：一葉落，天下秋。回避不及底，眼睛突出。窺󳬇無門底，南州北州。有來由處沒來由。",
+          "MasterName": "Jieshi Zhipeng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jieshi Zhipeng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1371.xml). Recorded Sayings of Chan Master Jieshi Zhipeng. Jieshi Zhipeng owns the retained deployment: marks in the Buddha's birthday verse that from the birth-canal's dust down to this moment it has poisoned people, one ladle of orchid bath carrying a grief beyond weight."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n2000.xml",
+        "J/J28/J28nB202.xml",
+        "J/J26/J26nB178.xml",
+        "J/J38/J38nB408.xml",
+        "T/T47/T47n1998A.xml",
+        "X/X70/X70n1382.xml",
+        "X/X69/X69n1369.xml",
+        "X/X71/X71n1405.xml",
+        "X/X69/X69n1371.xml"
+      ],
+      "RelatedMasters": [
+        "Yuanwu Keqin",
+        "Xutang Zhiyu",
+        "Baichi Xingyuan",
+        "Feiyin Tongrong",
+        "Azi Jinwu",
+        "Dahui Zonggao",
+        "Wuzhun Shifan",
+        "Dachuan Puji",
+        "Shixi Xinyue",
+        "Jieshi Zhipeng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A time-span marker that stretches from a named past event straight to the present, almost always to sharpen what still stands unresolved: a line no one has raised, a marvel no one has gotten, a parting never verified. Song records set the span's work: Yuanwu Keqin raises Zhaozhou's hearth-side no-guest-no-host line and marks that no one has raised it down to this moment; Xutang Zhiyu holds twenty-five years since his late teacher's death open in a verse, missing Songyuan's three turning words to this day; Dahui Zonggao and Dachuan Puji each strike the staff over the stock couplet that Vipasyin set his mind on it early yet no one has gotten its marvel down to this moment; Wuzhun Shifan's enlightenment-day verse leaves the old foreigner nothing to grasp since the morning star. Later records keep the span taut: Baichi Xingyuan and Feiyin Tongrong raise the same Zhaozhou line again, one praising it as scooping the moon from water, one ruling the old man's display of his own shortcomings an unshaken habit; Azi Jinwu runs the three-legged donkey and the bride on the donkey, marking the mouth as the gate of trouble where the marvel is still unclaimed; Shixi Xinyue offers the parting at Vulture Peak down to this moment as the greeting before the throne, rising with folded hands; Jieshi Zhipeng's birthday verse weighs the orchid-ladle grief of a poison carried from the womb to this day."
+    }
+  ]
+}

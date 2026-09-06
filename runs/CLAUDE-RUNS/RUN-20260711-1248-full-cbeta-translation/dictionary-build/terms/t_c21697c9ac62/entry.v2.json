@@ -1,0 +1,191 @@
+{
+  "Id": "t_c21697c9ac62",
+  "SourceTerm": "落在甚麼處",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "where does it land",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "where does it come down",
+        "where has it fallen"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 228 hits in 99 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0827a15",
+          "ToLb": "0827b02",
+          "Kwic": "絲。一斬一切斷。師云。家富小兒嬌。進云。機輪轉處作者猶迷。師云。機輪向甚麼處轉。進云。鷓鴣啼處百華香。師云。引不著。進云。和尚向甚麼處見普化。師云。普化在甚麼處教我見。進云。箭穿紅日影。方是射鵰人。師云。也則引不著。乃云。箭穿紅日影。方是射鵰人。且道箭未離弦紅日影邊。還有這箇消息也無。箭既離弦。這箇消息落在甚麼處。若也知得落處。一鏃破三關。分明箭後路。其或未然。且歸弩下避。上堂舉。僧問芭蕉。不落諸緣。請師直指。蕉云。有問有答。師云。芭蕉雖善用劍刃上事。子細檢點將來。大似日中逃影。辜負這僧。今日或有人問徑山。不落諸緣請師直指。只向他道。猩猩雖能言。畢竟是畜類。上堂。僧問祖師心印。狀似鐵牛之機。則且置。只如九年面",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: takes up the hawk-shooter's arrow through the red sun's shadow in hall, asking whether before the arrow leaves the bowstring there is any news of it at the shadow's edge, and once it has left, where this news lands, for whoever knows the landing-place breaks three passes with one arrowhead and sees the road behind the arrow, and whoever does not had better hide back under the crossbow."
+        },
+        {
+          "RelPath": "X/X72/X72n1432.xml",
+          "FromLb": "0010a06",
+          "ToLb": "0010b04",
+          "Kwic": "當仔細，大家嚴密保安康。更須知有一好事：達磨未來東土，彌陀不在西方。會麼？神心按定從空望，夜半天邊挂夕陽。上堂陞堂入室是如何？祇為西來老達磨，面壁九年不說法。這一句作麼生道？法筵龍象，眾有會者，請出舉看。首座曰：某甲不出，眾却道得。師曰：作麼生道？座曰：家貧顯孝子，國難見忠臣。師曰：道則不無，祇如達磨意落在甚麼處？座曰：某甲不煩多說話，和尚惜取眉毛好。師曰：白雲飛海岳，惹得滿天愁。大眾有疑則問，不可法筵中蹉過。不然，是諸人之咎，非山僧之咎也。珍重！上堂良久，曰：汝等諸人從吾覔箇甚麼？若論佛法各已具足，汝於吾覔脚跟下早是蹉過了也。諸人切莫遠馳求，單單看箇波羅蜜。忽爾頂門突出來，皎然大似天中日。法界虗空成一團，佛法",
+          "MasterName": "Wuming Huijing",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuming Huijing",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1432.xml). Recorded Sayings of Chan Master Wuming Huijing. Wuming Huijing owns the retained deployment: asks his hall what ascending the hall and entering the room amounts to, only for the old man of the west who faced the wall nine years without preaching, invites whoever has it to step out, and when the head seat stays seated and answers that a poor house shows the filial son and a state in trouble shows the loyal minister, rules the words not lacking but asks where Damo's intent lands, taking the white clouds flying sea and peak and bringing a skyful of gloom."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0023b04",
+          "ToLb": "0023b18",
+          "Kwic": "悟上座生平亦只尋嘗看過了，適纔病中體之，可謂斷盡人病。不惟未打徹底人有時為此事急切著忙，有時丟在無事甲裡。設使徹底人於日用現行處，亦未免觸事則因事生心，緣無便依無息念，被寒熱二途打作兩截。今日更為一頌：一番寒了一番熱，服盡多方藥不痊，直得一身白汗出，始覺從前怗怗然。今日禹門重頌出，舉似禪人緊著鞭，且道鞭頭落在甚麼處？」便起身。天封寺舒安律師請小參。「世尊出世說法四十九年，談經三百餘會，至拈花教外別傳方了本懷，故教立戒、定、慧三法，曰：『因戒生定，因定發慧。』爾我既出家，當須出三界、了生死，方始事畢。若但持戒，止免三途；既兼生定，止超六欲；若其發慧，方超三界，故以發慧為主。然今時多言慧，竟不知發慧之繇。如要發慧，須是",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: verses for a sick monk, examined in illness itself, that without full breakthrough one is at times frantic over the matter and at times dropped into the box of no-concern, and even the thorough one is cut in two by cold and heat at the place of daily use, one round of cold and one of heat, every medicine swallowed unhealed, until the white sweat breaks and ease returns, then sings it again and shows it to the monk with the whip pulled tight and asks where the whip-head lands."
+        },
+        {
+          "RelPath": "J/J26/J26nB186.xml",
+          "FromLb": "0627c16",
+          "ToLb": "0627c30",
+          "Kwic": "陳公萱慈壽算遐齡，恒居迪吉。今茲願祝正其時，自是谷聲而響應。雖然，且道融攝一句如何舉唱？」良久，云：「金殿御前班列早，端恭朝拱聖明君。」元旦上堂，拈香云：「元正啟祚，萬物咸新，就中一句，了了分明。且道是甚麼句？」乃插香，云：「以此祝君壽，壽算等須彌。」景星奇和尚至，上堂。「連日天降瑞雪，片片不落別處。且道落在甚麼處？若道落在地上，未出嘗情。若道不落地上，卻又無處著落。脫或未知，幸逢景星和尚到來，宜當端肅焚香，同申拜請。惟冀不捨慈悲，俯垂開示。」誕日上堂。「窮訖歷劫至今日。」舉拂子，云：「個裏未嘗有生死。既然無死亦無生，何用慶吾誕日子？然雖如是，正眼看來，猶未是衲僧省要處。且作麼生是衲僧省要處？」遂擲拂，云：「但得雪",
+          "MasterName": "Linye Tongqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Linye Tongqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB186.xml). Recorded Sayings of Chan Master Linyexi. Linye Tongqi owns the retained deployment: on the arrival of a fellow master in days of falling snow, raises in hall that flake after flake does not fall anywhere else and asks where it lands, for to say it falls on the ground has not left ordinary feeling, and to say it does not fall on the ground leaves it nowhere to come down, and so with incense held straight they bow and ask the guest to show it."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0677b27",
+          "ToLb": "0677c11",
+          "Kwic": "卻最親切。何故？曾聞一飽忘百饑，此是人間第一義。」復云：「昨夜楊岐開舖，撒下珍珠無數，怪來鑒炤多端，紛紛各說相似。有說若西崑之閬風、有說若北荒之明月、有說麵市鹽車、有說梨華萬樹、有說凝月空階、有說玉樓銀世，縱饒說得十成，不及襄陽居士。不見昔日龐公辭藥山出門，道：『好雪片片，不落別處。』既不落別處，且道畢竟落在甚麼處？若知落處，便可坐斷龐公舌頭；不知落處，反笑普賢騎白虎。」晚參。「有一句子舉似大眾。」良久，云：「雖鞭之長，不及馬腹。」晚參。「適來聞鼓聲，上堂要說法，忙促失打點，一字說不出。就此各歸單，看來亦不惡，但炤顧腳跟，恐階前路滑。」說戒，上堂。舉起衣，云：「多子塔前圍繞底只此物，無別物；雞足山中等待底只此物，",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: hears the night likened to Yangqi opening a stall and scattering pearls that every account only half matches, and turns to old Pang bowing out of Yaoshan's door with the words good snow, flake after flake, not falling elsewhere, asking since it does not fall elsewhere where after all it lands, for whoever knows the landing can sit on Pang's tongue and whoever does not will be laughed at by Puxian riding the white tiger."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0514c27",
+          "ToLb": "0515a10",
+          "Kwic": "電捲收。意綢繆，漫看天涯一色秋，這裏若還親薦得，道人無事樂悠悠。」解制上堂，師云：「春山青，春水綠，萬卉榮榮爭秀郁；三三兩兩出林巒，雲水悠悠自奔逐，途中驀撞鐵蛇橫，擬議遭他底塗毒。咦！諸人還過得麼？」僧問：「機關未動，杲日當空，撥轉之時，為什麼乾坤猶礙？」師云：「從黑漆漆地來。」僧喝，師云：「好一喝，且道落在甚麼處？」僧作掌勢云：「和尚猶欠掌在。」師拈棒，僧復喝，師亦喝，乃云：「九十日中眉毛廝結，從今已去，兩眼橫開，爍破山河大地，箇中無去無來。」驀豎拄杖云：「三世諸佛從這拄杖頭上興慈運悲，歷代祖師從這拄杖頭上點化群迷，天下老和尚從這拄杖頭上指東話西。今日山僧一時捉敗，眾中還有不甘者麼？」喝一喝，卓拄杖云：「雲在嶺頭",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: at the loosing of the retreat, after the song of the spring hills and the iron snake across the road, hears the monk shout and grants it a good shout, then asks where it lands, the monk shaping a palm-blow in answer and the master ruling that the monk still owes him a slap."
+        },
+        {
+          "RelPath": "J/J39/J39nB449.xml",
+          "FromLb": "0459b22",
+          "ToLb": "0459c06",
+          "Kwic": "此真實心津濟四生、梯航九有。』故我先師以此真實心住此山、建藂林、立紀綱，待衲子。啟上座，亦依此真實心親覲先師，依此真實心登先師堂、入先師室。」驀拈杖，云：「今將此一真實心懸在拄杖頭上，諸兄剔起眉毛看看，各各證此真實心，依此真實心為棟、為梁，輔弼祖山，日用頭頭無行而不依此一真實心。雖然，且道：如許真實心畢竟落在甚麼處？鳳山突兀亙今古，正法綿綿續萬年。」卓拄杖，便起身。結制，朗然禪德領嘉、秀二邑眾居士設齋，請陞座。師云：「獅子峰頭，懸崖嶮巇；資福堂前，本無異轍。面壁家風，古今不昧。猛烈丈夫到者裡直下搆取，似遼天俊鶻撲地高飛，呼喚不回、羅籠不住，少有衲僧氣息。若是徇途守轍，今日三、明日四，更論長期短限，堪作甚麼？啟上座",
+          "MasterName": "Zuliang Chaoqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zuliang Chaoqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB449.xml). Recorded Sayings of Chan Master Zuliangqi. Zuliang Chaoqi owns the retained deployment: in memory of his late teacher who held the mountain, built the cloister and set its rules by the true mind, himself relying on that mind to enter the teacher's hall and room, hangs that one true mind on the head of his staff for the brothers to lift their brows and see, each attesting it and being its beam and pillar, then asks where after all so many true minds land, Phoenix Mountain abrupt from past to present and the true dharma unbroken ten thousand years."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0534b23",
+          "ToLb": "0534c05",
+          "Kwic": "實事。兄弟時中保養果得，如三家村裏水牯牛相似，不待著意修為，自然一切處得大安樂。其或不爾，眼中猶有屑在，直須出卻始得。」晚參。問：「觸不得，背不得，畢竟喚作箇甚麼？」師云：「昨夜南山虎咬大蟲。」進云：「和尚也須照顧。」師打，云：「者畜生得與麼惡賴。」僧無語，師打，云：「好箇斑斑，牙爪未備。」問：「黃檗棒頭落在甚麼處？」師云：「倚天長劍逼人寒。」進云：「者是古人的。」師云：「你道落在甚麼處？」僧云：「落在臨濟處。」師劈背打，云：「因甚麼忘失自己？」問：「冬至一陽生，因甚麼天氣愈寒？」師云：「得恁麼不識時節？」乃云：「禪家流出場決策，猶如猛將交鋒，任他電光影裏解宣符的，一點不來，猶未出陰界在。不見道：冬至一陽生，君子道",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: asked in the evening assembly where Huangbo's staff lands, answers with the sky-leaning long sword that chills a man, and when the monk calls that the ancients' own, returns the demand, telling him to say where it lands, and when the monk answers it lands at Linji's, strikes him across the back for having forgotten himself."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "X/X72/X72n1432.xml",
+        "J/J10/J10nA158.xml",
+        "J/J26/J26nB186.xml",
+        "J/J26/J26nB187.xml",
+        "J/J25/J25nB171.xml",
+        "J/J39/J39nB449.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Wuming Huijing",
+        "Miyun Yuanwu",
+        "Linye Tongqi",
+        "Tian'an Sheng",
+        "Tianyin Yuanxiu",
+        "Zuliang Chaoqi",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The demand masters put to a shout or a staff-blow the instant it is spent, asking where the thing came down. Dahui Zonggao takes up the hawk-shooter's arrow through the red sun's shadow and asks whether, before the arrow leaves the bowstring, there is any news of it at the shadow's edge, and once it has left, where does this news land, for whoever knows the landing-place breaks three passes with one arrowhead and sees the road behind the arrow, and whoever does not had better hide back under the crossbow, Wuming Huijing asks his hall what ascending the hall and entering the room amounts to, only for the old man of the west who faced a wall nine years without preaching, and when the head seat answers that a poor house shows the filial son and a state in trouble shows the loyal minister, rules the words not lacking but asks where Damo's intent lands, Miyun Yuanwu verses a sick monk through rounds of cold and heat that no medicine cures until the white sweat breaks and ease returns, sings it again today and shows it to the monk with the whip pulled tight, then asks where the whip-head lands, and Linye Tongqi, snow falling for days on the visit of a fellow master, sets flake after flake not falling anywhere else and asks where it lands, for to say it falls on the ground has not left common feeling and to say it does not leaves it nowhere to come down. Tian'an Sheng hears the night compared to Yangqi opening a stall and scattering pearls no account outdoes, and turns to old Pang bowing out of Yaoshan's door saying good snow, flake after flake, not falling elsewhere, and since it does not fall elsewhere, he asks where after all it lands, for whoever knows the landing can sit on Pang's tongue and whoever does not will be laughed at by Puxian riding the white tiger, Tianyin Yuanxiu, the monk shouting after the ninety days' knots, grants it a good shout and asks where it lands, the monk shaping a palm-blow and the master answering the monk still owes him a slap, Zuliang Chaoqi hangs the true mind with which his late teacher held the mountain, built the cloister and set its rules, on the head of his staff for the brothers to see, each to attest it and be its beam and pillar, and then asks where after all so many true minds land, Phoenix Mountain abrupt past to present and the true dharma continuing ten thousand years, and Yushan Shangsi, asked where Huangbo's staff lands, answers with the sky-leaning long sword that chills a man, and told that is the ancients' own, returns the demand, you say where it lands, and when the monk answers it lands at Linji's, strikes him across the back for forgetting himself."
+    }
+  ]
+}

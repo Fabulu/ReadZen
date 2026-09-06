@@ -1,0 +1,192 @@
+{
+  "Id": "t_ac5585fec9e6",
+  "SourceTerm": "東去西去",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:29:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "going east, going west",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "go east and go west",
+        "heading east and west",
+        "eastward and westward going"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 251 hits in 130 files representing 127 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0850b02",
+          "ToLb": "0850b17",
+          "Kwic": "參得又參泐潭準和尚其時會中有箇堅侍者久依揩和尚盡得洞下要領我當時道他是則是然裏面有些不是處如何見得不曾悟在若實有悟由不妨一時得受用其或未然只是箇傳言語漢不干他曹洞事況言悟是建立落在第二頭故不在說也又見一老宿共我商量洞山夏末示眾云初秋夏末兄弟東去西去直須向萬里無寸草處去此話既出一時下語皆不契洞山意有僧傳到石霜霜云何不道出門便是草洞山聞得深喜之云瀏陽有古佛出世老宿商量道此處綿密謂根蔕下事有事有理又喚作無中唱出洞山道直須向萬里無寸草處去是理上問這裏若答他語不活則死在一邊所以石霜就事上答云出門便是草要得血脉不斷又引僧問香嚴如何是道嚴云枯木裏龍吟僧云學人不會嚴云髑髏裏眼睛謂枯木却有龍吟髑髏却有眼睛亦是血脉不斷又道萬里無寸草處去是父母未生已前威音那畔事你纔去這裏開口便落草",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: retells Dongshan's summer-end address — early autumn, summer's end, brothers going east and west, go straight to where for ten thousand li not an inch of grass grows — and rules that once the saying was out no answer met Dongshan's intent, till a monk carried it to Shishuang, who said only: why not say, out the gate is grass."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0767a15",
+          "ToLb": "0767a21",
+          "Kwic": "雖然如是，駕與青龍不解騎者多，又爭怪得山僧？」洞山解夏上堂曰：「秋初夏末，兄弟東去西去，直須向萬里無寸草處去。」良久曰：「秪如萬里無寸草處作麼生去？」顧左右曰：「欲知此事，直須枯木上生花方與他合。」後有舉似石霜，霜曰：「出門便是草。」山聞乃曰：「大唐國裏能有幾人？」師曰：「從苗辨地，因語識人，二俱作家。",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment: quotes Dongshan's retreat-ending address whole, holds the long silence, then asks how one goes at the place of ten thousand li without an inch of grass — and looks left and right before giving it."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0228a13",
+          "ToLb": "0228a20",
+          "Kwic": "眾兄弟到來黃檗山中，眉毛廝結，鼻孔相拄，還曾迸出一回也未？如迸出，羅籠不肯住，呼喚不回頭。七通八達，東去西去，縱橫無礙，殺活自繇。吾家種草猶來別，到處逢人驀面欺。更須知有轉身一路始得。如何是轉身一路？汝行荒草裏，我又入深村。」下座。開藏，檀越請上堂。師豎拂云：「三藏十二部，一切修多羅，總在這裏流出。",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yinyuan Longqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: has what bursts out of the Huangbo mountains past knotted brows and touching nostrils — no net will hold it, no call turns its head: seven passages open, going east and west, across and athwart without hindrance, free to kill and free to give life — with the one road of turning the body still to be known."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0669c08",
+          "ToLb": "0669c14",
+          "Kwic": "「慚媿與諸人共住一冬，山僧從無一字到諸人分上，諸人分上亦不曾受山僧一字教誨。尋常總有一言半句，盡是家常說話。來朝罷爐，東去西去，它時後日，莫道大覺不為人好。」復舉：「黃檗禪師上堂，云：『汝等諸人盡是噇酒糟漢，還知大唐國裏無禪師麼？』時有僧問：『諸方尊宿匡徒領眾又作麼生？』黃檗云『不道無禪，只是無師。』諸人還會黃檗意不？",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: denies the assembly ever took one word of his teaching — tomorrow the furnace ends, going east and west, and in days to come do not say Dajue did nothing for you."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0119c03",
+          "ToLb": "0119c11",
+          "Kwic": "只因九十日內累及諸人，種田底種田，車水底車水，搬磚底搬磚，運土底運土，磨麥底磨麥，春米底春米，乃至執勞負重不勝其煩，以致各人一領汗衫臭如鶻突。今日乘涼風之便，不妨解卻，好東去西去、南來北往，自繇自在。雖然如是，秪如前途忽有猛虎當路坐時，又作麼生折合？試道道看。」眾擬議，師以拄杖一時打散。賓我王居士為薦慈十週，請上堂，僧問：「有物先天地，無形本寂寥，能為萬象主，不逐四時凋。",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: unties the labor-stiffened sweat-shirts for the cool breeze — good to go east and west, come south and go north, free and easy — then asks what they will do when a fierce tiger sits square in the road ahead."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0020b24",
+          "ToLb": "0020b29",
+          "Kwic": "且道：是阿誰行履？若也識得此人，日消他八斗黃金供養未為分外。如無，九夏功成，金風葉動，諸人東去西去，途中忽遇著凌行婆攔胸把住，切忌口裏膠生，莫謂山僧不道破好。」復舉僧問趙州：「如何是道？」州云：「墻外底。」僧云：「不問這箇道。」州云：「你問那箇道？」僧云：「大道。」州云：「大道透長安。",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: prices the walker at eight dou of gold a day, then — nine summers' work done, gold wind stirring the leaves — sends them east and west to meet Widow Ling grabbing the chest, with glue forbidden in the mouth."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0223b02",
+          "ToLb": "0223b08",
+          "Kwic": "』和尚如何解制？」師云：「因甚刺腦入膠盆？」進云：「解制後如何煆煉衲子？」師云：「一任東去西去。」僧禮拜，師乃云：「牢籠不住底，直須透出牢籠；包裹不得底，始解打開包裹。今辰祇陀解制之日，即山僧母難之辰。諸人若知祇陀今日解制底消息，便會得山僧三十一年前出母胎底消息；若會得山僧三十一年前出母胎底消息，便會得祇陀今日解制底消息。",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: asked how the patch-robed are forged once the retreat ends, answers: let them go east and west, one and all — what the cage cannot hold must break through the cage, what wrapping cannot wrap is first to open the wrapping."
+        },
+        {
+          "RelPath": "J/J37/J37nB383.xml",
+          "FromLb": "0211b28",
+          "ToLb": "0211c04",
+          "Kwic": "「三冬結制，無端畫地為牢；百日安禪，大似開眼作夢。看看！逗到今日上元佳節，聖事告圓，打開布袋，恁爾東去西去。去則恁去，只要具個咬豬狗的手段，逢渠即便咬殺，切莫畏刀避箭，鼻孔被人亂穿，他時異日也道向燉煌這裏結冬來。雖然，更聽一偈：處處春光物色新，相逢各自奔前程，草鞋跟斷歸來也，鐵樹花開別是春。",
+          "MasterName": "Hanxiu Ruqian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hanxiu Ruqian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB383.xml). Recorded Sayings of Chan Master Hanxiu. Hanxiu Ruqian owns the retained deployment: at the Upper-Lantern close, the sacred work done, opens the sack: go east and west as you please — only carry the bite that kills pig and dog, meet him and bite him dead, and do not fear the knife or shy from the arrow."
+        }
+      ],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "J/J36/J36nB362.xml",
+        "J/J27/J27nB193.xml",
+        "J/J26/J26nB187.xml",
+        "J/J26/J26nB178.xml",
+        "J/J28/J28nB202.xml",
+        "J/J34/J34nB300.xml",
+        "J/J37/J37nB383.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Guantao Daqi",
+        "Yinyuan Longqi",
+        "Tian'an Sheng",
+        "Feiyin Tongrong",
+        "Baichi Xingyuan",
+        "Chaozong Tongren",
+        "Hanxiu Ruqian"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The stride of the leaving: retreat done, gold wind in the leaves, the brothers go east and west. Dongshan's stock line sends them to where not an inch of grass grows in ten thousand li, Shishuang answers that out the gate is grass — and every generation warns the leaver what waits on the road. The source case and its second head: Dahui Zonggao retells Dongshan's summer-end address — early autumn, summer's end, brothers going east and west, go straight to where for ten thousand li not an inch of grass grows — and rules that once the saying was out no answer met Dongshan's intent, till a monk carried it to Shishuang, who said only: why not say, out the gate is grass; Guantao Daqi quotes the same retreat-ending address, holds the long silence, then asks how one goes at the no-grass place — and looks left and right before giving it. The stride in live mouths: Yinyuan Longqi has what bursts out of the Huangbo mountains past knotted brows and touching nostrils — no net will hold it, no call turns its head: seven passages open, going east and west, across and athwart without hindrance, free to kill and free to give life, with the one road of turning the body still to be known; Tian'an Sheng denies the assembly ever took one word of his teaching — tomorrow the furnace ends, going east and west, and in days to come do not say Dajue did nothing for you; Feiyin Tongrong unties the labor-stiffened sweat-shirts for the cool breeze — good to go east and west, come south and go north, free and easy — then asks what they will do when a fierce tiger sits square in the road ahead; Baichi Xingyuan prices the walker at eight dou of gold a day, then — nine summers' work done, gold wind stirring the leaves — sends them east and west to meet Widow Ling grabbing the chest, glue forbidden in the mouth; Chaozong Tongren, asked how the patch-robed are forged once the retreat ends, answers: let them go east and west, one and all — what the cage cannot hold must break through the cage, what wrapping cannot wrap is first to open the wrapping; Hanxiu Ruqian at the Upper-Lantern close, the sacred work done, opens the sack: go east and west as you please — only carry the bite that kills pig and dog, meet him and bite him dead, and do not fear the knife or shy from the arrow."
+    }
+  ]
+}

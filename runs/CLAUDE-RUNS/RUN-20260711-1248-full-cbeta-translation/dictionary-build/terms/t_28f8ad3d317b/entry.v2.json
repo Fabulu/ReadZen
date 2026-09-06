@@ -1,0 +1,232 @@
+{
+  "Id": "t_28f8ad3d317b",
+  "SourceTerm": "正與麼時",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:01:51Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "right at just such a moment",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "just at that very moment",
+        "at just such a time",
+        "right in such a moment"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 481 hits in 154 files representing 150 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J29/J29nB223.xml",
+          "FromLb": "0023c17",
+          "ToLb": "0023c23",
+          "Kwic": "」便下座。上堂。「耳裏著楔，眼中攃沙，腦後發椎，面門出火，不是其中人，料無說話分。正與麼時，諸人有眼如盲，有耳如聾。」驀豎拂子，顧大眾云：「蒼天蒼天，三冬殘臘日，風雨一天寒。」上堂。僧問：「其中人來時如何？」師云：「不消高揖。」問：「如何是無明？」師云：「此問極親。」進云：「如何是無老死盡？",
+          "MasterName": "Shanhui Huan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanhui Huan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB223.xml). Recorded Sayings of Chan Master Shanhui. Shanhui Huan owns the retained deployment: freezes the address where a wedge is in the ear and sand is in the eyes, ruling that whoever is not the person in it has no share of speech: right at just such a moment the assembly has eyes like the blind and ears like the deaf, then holds up the whisk and cries out to the grey heavens of winter's last days."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0959a13",
+          "ToLb": "0959a19",
+          "Kwic": "上堂。舉昔日有婆子。供養一菴主。經二十年。常令一女子。送飯給侍。一日令女子抱定云。正與麼時如何。主云。枯木倚寒巖。三冬無暖氣。女子歸舉似婆。婆云。我二十年。只供養得個俗漢。遂發起燒却菴。師云。遮箇公案。叢林中少有拈提者。傑上座裂破面皮。不免納敗一上。也要諸方檢點。乃召大眾云。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: raises the old case of the woman who held the hermit fast and asked just at that moment what now, the answer a withered tree leaning on cold cliffs with no warmth through three winters, and the old woman ruling she had fed a worldly man for twenty years."
+        },
+        {
+          "RelPath": "J/J37/J37nB371.xml",
+          "FromLb": "0022b09",
+          "ToLb": "0022b17",
+          "Kwic": "」師云：「雲門老漢通上徹下，匝地普天，明過量機，演過量用。若遇毒手衲僧，向腳跟下一錐，秪教翻成轍跡。正與麼時，風恬浪靜，世樂昇平一句作麼生道？維摩掌中藏世界，普賢毛孔著程途。」藩臺劉大護法捐俸築墉八百餘丈，請上堂。問：「圍墻高築，能方能圓，護法護僧，功歸何所？」師云：「頭頭元是自家底。」進云：「祖席重輝，狐兔潛隱，可謂盡善盡美，全始全終去也。",
+          "MasterName": "Foyuan Chegang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyuan Chegang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB371.xml). Recorded Sayings of Chan Master Foyuan. Foyuan Chegang owns the retained deployment: rules that if a poison-hand adept strikes below the heel it all turns to ruts and tracks, then right at just such a moment the wind is still and the waves quiet, and asks for the one line of a world at peace — Vimalakirti's palm hides a world, Samantabhadra's pores hold the road."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0005c27",
+          "ToLb": "0006a03",
+          "Kwic": "然而事也、理也，無不從此法界流出，究竟還歸此法界。所以道：實際理地不受一塵，佛事門頭不捨一法。大眾！正與麼時，德山棒、臨濟喝，麻三斤、乾屎橛，庭前柏樹子、青州布衫重七斤，還當得鬼神茶飯麼？還當得本分艸料麼？試辯別看。若辯別得出，一任擎頭戴角，宇宙縱橫；其或未然，莫將學解生知解，剔起眉毛子細看。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: demands right in that moment whether Deshan's staff and Linji's shout, the three catties of hemp and the dried shit-stick, the cypress tree before the court and the seven-pound Qingzhou shirt can pass for the tea and rice of ghosts and gods."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0204c13",
+          "ToLb": "0204c20",
+          "Kwic": "老僧尋常痛罵罵你、痛棒打你，你不作無明會，便作佛法會，又何曾夢見我先祖門風？所以古人云：『臨濟之道將墜于地。痛哉！痛哉！』正與麼時，合作麼生？超群須是英靈漢，敵勝還他師子兒。」示眾，舉德山托缽因緣，拈云：「末後句子，德山、巖頭、雪峰總跳不出。」乃喝一喝，云：「大丈夫當為真王，何以假為？」示眾：「當臺明鏡，鑑在何人？",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: asks how it is to be met just at that moment, after citing the lament that Linji's way was about to fall to the ground — surpassing the herd is for the heroic and spirited, winning still belongs to the lion's cub."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0630a03",
+          "ToLb": "0630a09",
+          "Kwic": "直須作而無作、為而無為，世法、佛法并做一團，者邊、那邊混融一致。」豎拂，云：「正與麼時，且道是阿誰分上事？玉兔月中生彩鳳，金雞架上產祥麟。」圓攝五七，請上堂。「諸佛諸祖遞代出興，授受相承，○也只為者箇；天下老凍儂興慈運悲，接物利生，○也只為者箇；山僧今於人天眾前花擘一上，○也只為者箇；",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: lifts the whisk and asks just at that moment on whose account the affair stands — in the moon the jade hare bears a many-colored phoenix, on the golden cock's perch an auspicious unicorn is raised."
+        },
+        {
+          "RelPath": "J/J37/J37nB392.xml",
+          "FromLb": "0569b23",
+          "ToLb": "0569b29",
+          "Kwic": "拄杖亦未肯放過在。到者裏，必須苦其心志、勞其筋骨、餓其體膚、空乏其身，直待一旦豁然，方堪相應。正與麼時，要脫他釋迦老子圈繢則易，要拄杖放過則難。且道：拄杖有甚長處？」卓一卓，云：「百姓日用而不知者，此也。」璧蒼化士歸，請上堂。舉：「黃龍禪師云：『世間有五種不易：一、化者不易；二、施者不易；",
+          "MasterName": "Hansong Zhicao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hansong Zhicao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB392.xml). Recorded Sayings of Chan Master Hansong Cao. Hansong Zhicao owns the retained deployment: sets the price after the long trial of hardship — right at just such a moment shaking free of old Sakyamuni's snare is the easy part and letting the staff pass is the hard — then asks what is so long about the staff and raps it once."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0129b01",
+          "ToLb": "0130a05",
+          "Kwic": "則普天帀地明暗則普天帀地暗要且明不自明暗不自暗所以道當明中有暗勿以暗相遇當暗中有明勿以明相睹不見當時百丈深撥溈山便知落處龍潭吹滅德山忽爾洞然老僧今晚也不用吹滅也不用深撥驀豎拂子云大眾還見麼於此見得徹去人人常光現前個個壁立萬仞順逆卷舒縱橫自在正與麼時且道應時及節一句作麼生道良久云巖上雪消春水󲳃󲊷前玉綻蝶梅香。示眾林臯出眾問云雲影到山賓作主谿聲入海主為賓賓主歷然如何施設師舉如意云還見麼進云敢謂是和尚為人處也無師云知則不問進云騰騰煙雨裏春濤送客新師云且過一邊進云臨濟大師道我於黃檗先師處喫三頓痛棒如蒿枝拂相似為是報恩耶伸冤耶師云你還知麼進云和尚在禹門大師處曾喫棒也無師云老僧忘卻了也進云恁麼則法法盈千古燈燈燄不窮便禮拜師云聽取廼云當臺顯露觸處洞然豈容鑿壁偷光覿面提持隨方",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: runs the address to where each one's constant light stands forth and each stands sheer, then right at just such a moment asks for the line that fits the hour — snow melting on the cliff and spring water swelling, jade cracking before the steps with butterfly-plum fragrance."
+        },
+        {
+          "RelPath": "J/J28/J28nB218.xml",
+          "FromLb": "0638c21",
+          "ToLb": "0638c28",
+          "Kwic": "「今日元宵正月半，燈光匝地普天鑒，一燈點出百千燈，一一光從毫上現。淨裸裸，無回互；赤灑灑，絕承當。衲僧家私，威音已前不曾結，樓至佛前何曾解？正與麼時，行步不須眼定動，坐觀石虎吼雲中。」上堂。「倚天長劍逼人寒，截了舌頭三千里。眾中還有不顧性命者麼？試出來相救。」僧問：「大開爐韝，鍛煉聖凡，今日高登寶座，海眾雲集，未審有何祥瑞？」師云：「花開碧岫山裝面。",
+          "MasterName": "Lanshi Ling",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lanshi Ling",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB218.xml). Recorded Sayings of Chan Master Lanshi Ling. Lanshi Ling owns the retained deployment: shows the naked brightness with no cross-reference and no one to carry it, then right at just such a moment verses that walking needs no steadying of the eye and sitting watches the stone tiger roar in the clouds."
+        },
+        {
+          "RelPath": "J/J29/J29nB248.xml",
+          "FromLb": "0797c18",
+          "ToLb": "0797c25",
+          "Kwic": "無限清風生戶牖，考鐘伐鼓雁堂前，四海高流同聚首，果然一飽忘百饑，知音不用重分剖。正與麼時，大功不宰即且置，全提正令一句作麼生道？」卓拄杖，云：「域中日月縱橫挂，一亙晴空萬古春。」涅槃，上堂。問：「本來不生，因甚世尊降生藍毘尼園？」師云：「秦樓歌夜月。」進云：「本來不滅，因甚麼入滅雙林樹下？",
+          "MasterName": "Dabian Xianquan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabian Xianquan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB248.xml). Recorded Sayings of Chan Master Dabianquan. Dabian Xianquan owns the retained deployment: after the verse that gathers the high stream of the four seas to one meal, sets the great work that does not govern aside and right at just such a moment asks for the one line that fully lifts the edict — sun and moon hung across the realm, one clear sky ten thousand springs."
+        }
+      ],
+      "SourceTexts": [
+        "J/J29/J29nB223.xml",
+        "T/T47/T47n1999.xml",
+        "J/J37/J37nB371.xml",
+        "J/J26/J26nB177.xml",
+        "J/J32/J32nB273.xml",
+        "J/J36/J36nB359.xml",
+        "J/J37/J37nB392.xml",
+        "L/L154/L154n1639.xml",
+        "J/J28/J28nB218.xml",
+        "J/J29/J29nB248.xml"
+      ],
+      "RelatedMasters": [
+        "Shanhui Huan",
+        "Mi'an Xianjie",
+        "Foyuan Chegang",
+        "Poshan Haiming",
+        "Qianyan Yuanzhang",
+        "Baiyu Jingsi",
+        "Hansong Zhicao",
+        "Tianyin Yuanxiu",
+        "Lanshi Ling",
+        "Dabian Xianquan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A time-freeze that halts the address at its hottest instant and asks the assembly to answer for exactly that moment: eyes that do not see, a wind gone still on the very spot, the shout still unpaid. The freeze lands as a demand on the hall: Shanhui Huan stops the address where a wedge is in the ear and sand in the eyes and rules the assembly blind and deaf in that moment; Poshan Haiming asks whether Deshan's staff and Linji's shout, the three catties of hemp and the dried shit-stick, can pass for the ghosts' and gods' tea and rice in it; Qianyan Yuanzhang asks how it is to be met — surpassing the herd is for the spirited hero, winning belongs to the lion's cub; Baiyu Jingsi lifts the whisk and asks whose affair it is in that moment, a jade hare in the moon bearing a phoenix. The rest keep the hinge and stock it differently: Mi'an Xianjie raises the old case of the woman who held the hermit fast and asked just at that moment what now, the answer a withered tree leaning on cold cliffs; Foyuan Chegang finds the wind still and the waves quiet in it and asks for the one line of a world at peace, Vimalakirti's palm hiding a world; Hansong Zhicao prices shaking off old Sakyamuni's snare as easy and letting the staff pass as hard; Tianyin Yuanxiu, each one's constant light standing forth, asks for the line that fits the hour — snow melting on the cliff, spring water swelling; Lanshi Ling verses that in it walking needs no steadying eye and sitting watches the stone tiger roar in the clouds; Dabian Xianquan sets the great work that does not govern aside and asks for the line that fully lifts the edict, sun and moon hung across the realm."
+    }
+  ]
+}

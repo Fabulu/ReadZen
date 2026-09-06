@@ -1,0 +1,222 @@
+{
+  "Id": "t_d22e8032eea9",
+  "SourceTerm": "黃面瞿曇",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T01:30:13Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the yellow-faced Gautama",
+      "AlternateTargets": [
+        "the golden-faced one of the Sakya house"
+      ],
+      "SearchAliases": [
+        "the yellow-faced old sage",
+        "yellow-face Gautama",
+        "the sage called by his yellow face"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 242 hits in 116 files representing 115 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X69/X69n1365.xml",
+          "FromLb": "0664a15",
+          "ToLb": "0664b07",
+          "Kwic": "麼過。龍虵易辯，衲子難瞞。上堂：枯木寒灰，銅崖鐵壁。春到無痕，春歸無跡。桃花紅，李花白。明眼人前，一場狼藉。上堂：初於聞中，入流忘所。圓通路絕，滿面塵埃。洞門無鎻鑰，俗客不曾來。謝冲首座，上堂：普化兩度踢倒飯床，睦州三回教壞。禪子當時放過，至今遂成不了公案。報恩因甚又著箇般漢？車必橫推，理須曲斷。上堂。黃面瞿曇以難信之法一網打就，因甚法華會上五百比丘拂袖下靈山報恩？初無一法與人，不妨易信，使汝諸人進亦佳、退亦佳，不獨與瞿曇相為冰炭，所謂三年無改於父之道，可謂孝矣。上堂：古德道：第一句下，明得可與佛祖為師；第二句下，明得可與人天為師；第三句下，明得自救不了。報恩道：第一句下，明得自救不了；上堂：學道如鑽火，逢煙",
+          "MasterName": "Beijian Jujian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Beijian Jujian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1365.xml). Recorded Sayings of Chan Master Beijian Jujian. Beijian Jujian owns the retained deployment, asking why the hard-to-believe way sent five hundred monks down Vulture Peak and answering that giving no thing at all is easy to believe."
+        },
+        {
+          "RelPath": "X/X70/X70n1382.xml",
+          "FromLb": "0225a17",
+          "ToLb": "0225b09",
+          "Kwic": "不妨於佛法中有箇入處。今時人多是渾崙吞却，所謂顢頇佛性，儱侗真如，如將魚目亂明珠。上堂，舉：大通智勝佛，十劫坐道場。佛法不現前，不得成佛道。既是十劫坐道場，因甚麼佛法不現前，不得成佛道？焦山從來疑著這漢。住慶元府雪竇山資聖禪寺語錄住慶元府雪竇山資聖禪寺語錄侍者如海妙倫等編佛殿迦葉擎拳，阿難合掌，黃面瞿曇全無伎倆。新乳峯一時見了，却燒沉香供養，從教人道是罰是賞。踞方丈。德雲不下妙峰頂，善財七日無處參尋。吽吽！你這一隊漢在這裏眼眨眨地，守待箇什麼？何不瞥去？莫妨我東行西行。拍禪床便起。指法座：千聖頂𩕳上一著子，自古自今少有人踏著、罕有人舉著，山僧今日因行不妨掉臂。陞座祝聖罷，乃云：衲僧行處，不在東西，遇緣",
+          "MasterName": "Wuzhun Shifan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuzhun Shifan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1382.xml). Recorded Sayings of Chan Master Wuzhun Shifan. Wuzhun Shifan owns the retained deployment, entering the buddha-hall and ruling that with Kasyapa's fist and Ananda's palms the yellow-faced one has no tricks at all."
+        },
+        {
+          "RelPath": "X/X69/X69n1368.xml",
+          "FromLb": "0734c01",
+          "ToLb": "0734c15",
+          "Kwic": "突得一句，正是露布纏身。一處不通，兩處失功；兩處不通，觸途成滯。如何得脫灑去？南有雪峰，北有趙州。重九，謝兩藏主，上堂：人間九月又九日，善財去後無消息。何止門前草自青，黃花滿地成狼藉。六祖不會，達磨不識。大藏小藏，以拂子擊禪牀，盡從者裡流出。臘八，上堂：入山還出山，鐵壁復鐵壁。衲僧門下擊拂子，云：不消一擊，黃面瞿曇散宅亡家，盡大地人眼橫鼻直。喝一喝。聖節，散，上堂。六殊勝地，無越此山極殊勝；八吉祥中，唯有今朝最吉祥。於殊勝中顯殊勝，於吉祥中顯吉祥，萬年千載壽，一瓣九天香。佛涅槃，上堂：四十九年已是収拾不上，涅槃會裡欺得當時無人。今日即有，明日即無。若是育王，便與推倒紫磨金軀。何也？死在弟子手中，不為分外。謝後堂秀",
+          "MasterName": "Yanxi Guangwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yanxi Guangwen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1368.xml). Recorded Sayings of Chan Master Yanxi Guangwen. Yanxi Guangwen owns the retained deployment, striking once with the whisk and having the yellow-faced one's house scattered, everyone on earth eyes level and nose straight."
+        },
+        {
+          "RelPath": "X/X70/X70n1400.xml",
+          "FromLb": "0680b21",
+          "ToLb": "0680c11",
+          "Kwic": "今日忍俊不禁，却要向鷺鷥腿上割股。良久，云：便恁麼去。開爐，上堂。豎起拂子，云：遮些火種，自靈山傳至西峰，已得二千二百三十餘載。今日幸遇開爐，特為諸人拈出。以拂子吹一吹，乃擲下，云：照顧燒却眉毛。冬至，上堂。良久，云：一陽來復，萬物咸新。恭惟盲龜跛鼈、鬼怪妖精，莫問前長後短，大家扶起破沙盆。臘八，上堂：黃面瞿曇夜半成道，正是喚奴作郎，嬴得一場好笑。山僧恁麼告報，也是細姑嫌嫂。晚參。參須實參，悟須實悟，動轉施為，輝今耀古。若是操心不正、悟處不真，粧粧點點、鬬鬬釘釘，被人輕輕拶著，未免喚燈籠作露柱。且道如何是實參實悟底消息？良久，云：南山起雲，北山下雨。上堂：西峰今日啟建圓覺長期，有四件切要事告報大眾：第一、不得隔",
+          "MasterName": "Gaofeng Yuanmiao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gaofeng Yuanmiao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1400.xml). Recorded Sayings of Chan Master Gaofeng Yuanmiao. Gaofeng Yuanmiao owns the retained deployment, laughing at the midnight awakening as calling a slave a lord."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0112a10",
+          "ToLb": "0112a24",
+          "Kwic": "尼僧達本還元，作女中英標，隨機答問不妨驚聽，百世之下合有知音。且作麼生知？但向言前諳落處，與他較量不多爭。」下座。四月八日上堂，「今日是釋迦降生之辰，淨頭希賢禪人化施主，為法通結夏設齋，請山僧上堂，然亦無可別說，即釋迦老子纔降生時，便乃一手指天，一手指地，目顧四方周行七步，云：『天上天下唯我獨尊。』者是黃面瞿曇最初為人竭力顯露本來面目，無論聖凡迷悟，人天異類，莫不皆然。然則法通今日一會，而與盡虛空遍法界人及非人，普同結夏大伽藍中，經行坐臥、穿衣喫飯，騰騰任運、任運騰騰，更無可為緣、為對、為障、為礙，不妨與我如來把臂共行，天下宗師一鼻出氣，於一毫端現寶王剎，坐微塵裏轉大法輪，剪覺花於無影樹頭，刮龜毛於鐵牛背上，力用",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment, reading the newborn's first showing as the yellow-faced one's utmost baring of the original face for all kinds alike."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0628c28",
+          "ToLb": "0629a12",
+          "Kwic": "生好？」乃喝，云：「饒你度刃衝流，早落遮箇坑裏。」近菴請小參近菴請小參「英雄不作欺人語，英雄不作欺人事。秪如世尊於諸佛大集會處，絕世英奇不知多少，獨一女人得近佛座入定，文殊稱為大智，乃不知其得何三昧。世尊既命文殊自出其定問之，及文殊用盡神力竟不能出，世尊卻云：『非但一箇文殊，直饒百千文殊亦出不得。』遮黃面瞿曇豈不將人玩弄？復曰：『下方有罔明菩薩始能出之。』罔明至，果一彈指便出彼定。汝等看遮一棚傀儡，各有線索當在何處？世間英雄尚不肯欺人，而出世佛祖肯自欺欺人乎？設使現前有一衲僧突出道：『老漢不得東扯西拽。』或喝一喝、或彈指一下、或拂袖打之。遶如此，還了得此淆訛麼？不如此，畢竟遮段公案如何剖判？汝等試自簡別看。若簡",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Juelang Daosheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Complete Record of Chan Master Juelangsheng of Tianjie. Juelang Daosheng owns the retained deployment, working the seated-woman story till the yellow-faced one stands revealed as toying with the crowd, a stage of puppets with strings to be found."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0630b12",
+          "ToLb": "0630b24",
+          "Kwic": "一拂，云：「容顏甚奇玅，光明照十方。」保童男，請上堂。「梅子生香，新篁解籜，燕正呢喃，薰風滿閣。弁山與麼舉揚，還有為人處麼？若有，道是那一句？若無，治世語言、資生業等，皆於實相不相違背。如檢點不出，山僧曾記得箇希有句子？切須諦聽：白馬紫金鞍，騎出萬人看。問道誰家子？讀書人做官。」佛誕日，上堂。卓拄杖，云：「黃面瞿曇向山僧拄杖頭上降生，放大光明，照十方界，地涌金蓮，自然捧足作獅子吼聲，天上天下唯吾獨尊。山僧向他道：『住，住，少賣弄。即今我龍華寺裏現前緇素壁立萬仞，氣宇如王，以及鱗甲、羽毛、艸木、纖芥莫不皆具，者段光明彌綸宇宙、烜赫古今，無始無終，無有欠少。』黃面瞿曇聞如是說，只得滿面慚惶，藏竄無地。」喝一喝，云：「且道",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, having the yellow-faced one born on his staff-tip and then told to stop his showing off, shamefaced with nowhere to hide."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0314c29",
+          "ToLb": "0315b06",
+          "Kwic": "看話頭，因人而施，初無實法。所以道：『若將實法與人，土也消不得。』今晚一七已滿，毋論工夫得力、不得力，各依單次出班相見。」考畢，師乃云：「參貴真參，悟須實悟。實悟得底，出言吐氣自然如函蓋相稱，箭鋒相拄。諸兄弟皆是英靈倜儻漢子，各各氣宇如王，祇是工夫未到。工夫若到、見地若親，莫說德山、馬祖、黃檗、臨濟，縱使黃面瞿曇到來，且喚伊提艸鞋著。何故？不是從前多意氣，他家曾蹋上頭關。」古雪哲禪師語錄卷一古雪哲禪師語錄卷二嗣法門人傳我等編住翠巖寺語錄一住翠巖寺語錄元旦，上堂。拈香祝聖畢，乃云：「九上三登，持燈覓火；百城遍歷，入海算沙。布毛吹落西子湖，婆兒氣象；腳尖踢破飛鳶嶺，三老生涯。無著、天親，同阬無異土；德山、",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guxue Zhenzhe",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Linji Yixuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Deshan Xuanjian",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Mazu Daoyi",
+              "Roles": [
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment, telling the assembly that even were the yellow-faced one to arrive, he would be told to carry straw sandals."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X69/X69n1365.xml",
+        "X/X70/X70n1382.xml",
+        "X/X69/X69n1368.xml",
+        "X/X70/X70n1400.xml",
+        "J/J26/J26nB178.xml",
+        "J/J34/J34nB311.xml",
+        "J/J36/J36nB359.xml",
+        "J/J28/J28nB208.xml"
+      ],
+      "RelatedMasters": [
+        "Beijian Jujian",
+        "Wuzhun Shifan",
+        "Yanxi Guangwen",
+        "Gaofeng Yuanmiao",
+        "Feiyin Tongrong",
+        "Juelang Daosheng",
+        "Baiyu Jingsi",
+        "Guxue Zhenzhe",
+        "Linji Yixuan",
+        "Deshan Xuanjian",
+        "Mazu Daoyi",
+        "Huangbo Xiyun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "A fixed nickname for the sage, the yellow-faced Gautama, usually spent to fault or to toy with him. Beijian Jujian asks why, when the yellow-faced one netted all with the hard-to-believe way, five hundred monks left Vulture Peak with swept sleeves, and answers that giving no thing at all is easy to believe, the two ways ice and coal to each other, Wuzhun Shifan enters the buddha-hall and rules that with Kasyapa's raised fist and Ananda's palms the yellow-faced one has no tricks at all, Yanxi Guangwen strikes once with the whisk at the winter-eighth day and has the yellow-faced one's house scattered and lost, everyone on earth eyes level and nose straight, and Gaofeng Yuanmiao laughs at the midnight awakening as calling a slave a lord, his own telling no better than the sister-in-law's grudge. Feiyin Tongrong reads the newborn's first showing as the yellow-faced one's utmost baring of the original face, for sage and commoner, lost and awake, humans, heaven, and other kinds alike, Juelang Daosheng works the seated-woman story till the yellow-faced one stands revealed as toying with the crowd, a whole stage of puppets with strings to be found, Baiyu Jingsi has him born on the master's staff-tip, roaring sky-and-earth-alone-honored, then tells him to stop his showing off, leaving the yellow-faced one shamefaced with nowhere to hide, and Guxue Zhenzhe tells the assembly after the week's examination that even were the yellow-faced one to arrive, he would be told to carry straw sandals, like Deshan, Mazu, Huangbo, and Linji before him."
+    }
+  ]
+}

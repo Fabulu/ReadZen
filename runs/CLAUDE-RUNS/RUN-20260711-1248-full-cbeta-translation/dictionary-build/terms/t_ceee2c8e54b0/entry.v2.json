@@ -1,0 +1,244 @@
+{
+  "Id": "t_ceee2c8e54b0",
+  "SourceTerm": "千里萬里",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a thousand and ten thousand miles off",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "worlds apart",
+        "off by a thousand li and more"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 335 hits in 139 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0670c12",
+          "ToLb": "0670c28",
+          "Kwic": "一時趁下。上堂。僧問。如何是翠峯境。師云。有眼底見。學云。如何是境中人。師云。貪觀白浪失却手橈。問如何是和尚家風。師云。客來須看。進云。恁麼則學人得見也。師云。三十年後。問如何是第一義。師云。道士倒騎牛。學云。乞師再垂方便。師云。無孔鐵槌。問道遠乎哉。師云。青山夾亂流。學云。恁麼則得聞於未聞去也。師云。千里萬里。師乃云。大眾前共相詶唱。也須是箇漢始得。若未有奔流度刃底眼。不勞拈出。所以道。如大火聚。近著則燎却面門。亦如按太阿寶劍。衝前則喪身失命。師乃頌云。太阿橫按祖堂寒。千里應須息萬端。莫待冷光輕閃爍。復云看看。便下座。拈古拈古舉。米胡問僧。近離甚處。僧云藥山。米云。藥山近日如何。僧云。大似頑石一般。米云。得",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: answers the monk who leaps from the way-is-near answer to having heard the unheard with the flat verdict that he is a thousand and ten thousand miles off, then tells the assembly that trading turns before them takes a real man."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0667b13",
+          "ToLb": "0667c07",
+          "Kwic": "不惜猶可僧云出後如何師云伏惟尚享僧云忽遇師子吼時如何師云一任野干鳴僧便喝師云果然僧又喝師云放你三十棒僧禮拜師云這瞎漢復云諸上座不得盲喝亂喝者裏尋常向你道賔則始終賔主則始終主賔無二賔主無二主若有二賔二主即是兩个瞎漢所以我若立時你須坐我若坐時你須立坐則共你坐立則共你立雖然如是到這裏急着眼始得若是眼孔定動即千里萬里何故如此如隔窓看馬騎相似擬議即沒交涉諸上座既然於此留心直須子細不要掠虗好他日異時賺着你在諸人若也有事近前無事󳏃重。上堂僧問蓮花未出水時如何師云徧天徧地問出水後如何師云特地一場愁問殺父殺母佛前懺悔殺佛殺祖向什麼處懺悔師云水深一丈問離凡離聖請師一句師云不可錯怪老僧也僧云謝師指示師便打問魚鼓未鳴時如何師云",
+          "MasterName": "Shoushan Xingnian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shoushan Xingnian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Shoushan Xingnian owns the retained deployment: warns the assembly that at this point the eye must fix at once, for a flickering eye is a thousand and ten thousand miles off, like watching a horse through a window, and deliberation has nothing to do with it."
+        },
+        {
+          "RelPath": "X/X69/X69n1357.xml",
+          "FromLb": "0752b12",
+          "ToLb": "0753a08",
+          "Kwic": "坐斷，聖凡路絕，得失情遣，到大休歇場，更喚什麼作生死？胷次等閑，照亦不立，遇緣即宗，拈得出來，蓋天蓋地，據慈悲方便，落草商量，正要令利根人撥去妄緣惡覺知見，徹空空處，空空亦不存心，如太虗森羅萬象，無不包含印定，頭頭處處得大解脫，乃名了事底人，亦尚未當得向上行履。若論向上行履，千聖密傳處，豈止壁立萬仞，隔千里萬里，盡大地拈來，未有一塵許，謂之大用現前，三十二十年長養純熟，便乃契證也。即心即佛，已是八字打開；非心非佛，重向當陽點破。不尋其言，一直便透，方見古人赤心片片。若也踟蹰，當面蹉過也。不與萬法為侶底是什麼人？待你一口吸盡西江水，即向你道多少徑截省要，何不便與麼承當？更入它語言中，則永不透脫。多見學者只麼卜度",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1357.xml). Essentials of the Mind by Chan Master Foguo Keqin. Yuanwu Keqin owns the retained deployment: writes to a patron that even the settled person of affairs has not reached the upward practice, where the thousand sages' secret transmission stands more than wall-like ten-thousand fathoms and a thousand and ten thousand miles apart, yet the whole earth picked up holds not one dust of it."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0157b06",
+          "ToLb": "0158a01",
+          "Kwic": "座不肯，乃云：你問我，我與你道。山云：父母未生以前，鼻孔在什麼處？孚但搖扇而已。我當時若作鼓山，與他掀倒禪牀，見之不思，思之千里。諸仁者！要識南山鼻孔落處麼？良久，犀因翫月文生角，象被雷驚花入牙。無學長老、豫修徒弟固維那請小參，師云：佛法本無玄妙解會，向道直下無事，休去歇去，好箇脫洒衲僧。若亂踏步向前，則千里萬里。若論此事，從與麼來未甞昏味，聲色籠󰋪不住，生死繫縛不得，自由自在，無得無失，一切處解脫，一切處圓滿，淨倮倮絕承當，赤灑灑沒可把，穿却天下人鼻孔，全憑箇一著子。若無箇一著子，老胡又特地西來做什麼？且如石頭、馬祖、百丈、黃檗、臨濟、德山、溈仰、曹洞、雲門、法眼，此等皆是從上宗師，亦不得至今日。所謂埀鈎四海，只",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: sets the dharma with no mystery to grasp, straightaway nothing-to-do, rest and cease, a free-and-easy monk, against one trampling step forward that lands a thousand and ten thousand miles off."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0379a08",
+          "ToLb": "0379b05",
+          "Kwic": "未免對面白雲千萬里。驀喝一喝，下座。秋中行化上堂，師拈拄杖召眾云：終日與山僧同居共處，還識得山僧立地處也未？時常見山僧搖唇鼓舌，還會得山僧真實相為處也未？若識得山僧立地處，則於此深山窮谷臥月披雲，却在十字街頭拖泥帶水；而十字街頭拖泥帶水，却在此深山窮谷臥月披雲。若識得山僧真實相為處，則與大眾耳提面命却千里萬里，而千里萬里未嘗不與大眾耳提面命。還會麼？卓柱杖云：頂上一輪滿，清光何處無？元旦，上堂。眾問話畢，師乃云：參禪流，聽我說，此事非常休倉卒，登山須到絕頂頭，入水須至最深窟。乾坤寬廣實難知，滄海淵深豈易識？不識不知且止，透頂透底一句作麼生道？草樹盡非前度色，藍田日暖玉生光。便舟。化主領崑山眾居士請上堂，師顧左",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Yulin Tongxiu owns the retained deployment: tells the assembly that once they know where the mountain monk truly serves them, being a thousand and ten thousand miles away is still counsel at their ear, and counsel at their ear never fails to be a thousand and ten thousand miles away."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0205b17",
+          "ToLb": "0205b30",
+          "Kwic": "水歸源後，冰復何融？只如仰山、米胡二老宿與麼道，還有為人處也無？若把半斤稱八兩，依然錯認定盤星。」喝一喝。示眾，舉仰山四藤條公案，頌云：「集雲峰下四藤條，虎驟龍奔海岳搖，選佛若無如是眼，如何留得到今朝？」示眾：「大眾！無明這裏只使無明，且無佛法。與你一棒，大煞慈悲；與你一喝，十分直截。你若作棒喝商量，便千里萬里也。久立。」示眾，舉：「法華舉和尚云：『釋迦不出世，達磨不西來，佛法遍天下，談玄口不開。』無明則不然，釋迦太饒舌，達磨太孤絕，諸方明眼人，敢保猶未徹？」示眾，舉：「傅大士云：『夜夜抱佛眠，朝朝還共起，起坐鎮相隨，語默同居止，分毫不相離，如形影相似，欲識佛去處，只這語聲是。』玄沙云：『大小傅大士只認得箇昭",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: tells the assembly that at Wuming's place there is only Wuming and no buddha-dharma, that the staff is great mercy and the shout fully direct, and that taking them as a matter for discussion lands a thousand and ten thousand miles off."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0206a06",
+          "ToLb": "0206b10",
+          "Kwic": "和尚舉峰豎起拂子僧作聽勢峰云早錯會了也僧以目顧視便出峰云雪上加霜師云者僧點頭知尾爭奈落第二機何。舉天奇和尚云世間無法出世間無法透得者個無法歸家穩坐師云奇祖只要盡法不顧無民不肖子孫卻不恁麼世間無法出世間無法透得者個無法正好行󱯾。舉千巖和尚云無明者裏只使無明與你一棒太煞慈悲與你一喝十分直捷若作棒喝商量千里萬里師云不作棒喝商量亦千里萬里且道作無明是佛法是喝一喝。舉千巖和尚舉祖師云父母非我親誰是最親者諸佛非我道誰是最道者雲蓋本云父母非我親無有不親者諸佛非我道無有不道者祖師得第一句雲蓋得第二句有人添得一句許伊鼎足三分無明則不然父母非我親我亦非親者諸佛非我道道亦非我者祖師也不得第一句雲蓋也不得第二句無明碎身作微塵",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment: raises Qianyan's staff-and-shout saying and doubles the miss, for taking them as a matter for discussion is a thousand and ten thousand miles off and refusing to discuss them is a thousand and ten thousand miles off too, and he seals the pair with a shout."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0423b07",
+          "ToLb": "0424a03",
+          "Kwic": "上南山祝。前既不來今不往，兩頭不移中豈續？此中正好悟無生，莫道雙輪如轉軸。假饒壽若須彌盧，我道祇如彈指速。假饒壽若太虗空，也是虗空畵眉目。惟有黧奴不記年，踏破虗空無兩足。三世諸佛不能知，露柱發笑燈籠哭。仁者若要明端的，請看多福一叢竹。上堂。至道玄默，靈智絕依。任你行喝行棒，早已落二落三。更加如何若何，直是千里萬里。所以從上諸佛結舌有分，歷代諸祖舉似無門。昔三祖信心銘云：至道無難，唯嫌揀擇。但莫憎愛，洞然明白。豈不是剖心剖膽說與後人？但既曰唯嫌，便是揀擇；既曰但莫，便是憎愛。况有明白可指，豈為究竟之談？須知至道無難亦無易，無揀擇亦無無揀擇，無憎愛亦無無憎愛，無明白亦無無明白。祇如老僧恁麼道，還免得過也無？老僧雖不落",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: seats the way in silence and the spirit beyond props, grades shout and staff as already fallen to second and third, and any how-about-this piled on top as straight out a thousand and ten thousand miles off."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0758b09",
+          "ToLb": "0758b23",
+          "Kwic": "象之中獨露身，說甚麼撥不撥聻？古人道：『如何是活水龍？』興波不作浪。又道：『忽遇傾湫倒嶽時如何？』切莫打濕了老僧袈裟角。參。」復朱介眉。「掩關靜息，暫避塵勞，於此勒定韁繩，一年兩年，自與世情漸遠，身子將息到八九分，便可學道了也。《楞嚴》云：『縱離一切見聞覺知，內守悠閒，猶是法塵分別影事。』若謂寂滅現前，便千里萬里矣。這悠悠閒閒的，全是生滅種子。來扎云：『靜中一念不生，非有非無，非白非黑，非定非動，正內守悠閒時也。然不能久，旋即識情流轉。』須知介眉正當靜時，正當一念不生時，早只識情流轉，豈待流轉然後為流轉耶？如隔日瘧發時病瘧，不發時也病瘧，終不謂之無病。這識情須是倒斷一回的。《淨名》云：『識情斷者，花不著也。』他寂",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liangting Jingting",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: replies to his correspondent with the Surangama's ruling that guarding inward ease apart from seeing and hearing is still dust-of-mind projection, and warns that calling that cessation-present is at once a thousand and ten thousand miles off."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0281c08",
+          "ToLb": "0281c22",
+          "Kwic": "亦打。」師曰：「寰中天子，塞外將軍，古之既爾，今之亦然。我欲於此建立萬峰宗旨，諸上座不得向三日前後躲根，即今作麼生成褫？」良久，大喝一喝，下座。上堂。舉：「雪峰和尚曰：『望州亭與汝相見了也，烏石嶺與汝相見了也，僧堂前與汝相見了也。』」師曰：「看看，三千大千世界被這老子一時搖動，祥符只是熱不睬。管他齊楚燕趙千里萬里來底，直饒過得太湖登古竹岸了，尚不知什麼處是夫椒山。即使從水平王廟前一逕西來到寨前灣了，不知那裡是祥符寺。極靈利漢子入門看額，認得祥符寺真了。行得三兩步，又被堵泥墻換卻眼睛。及至僧堂前，知客接著，放下腰包，引上方丈，揖侍者通報，尚不許你相見，等閒容你途路邊耽閣。」驀亞身曰：「且道即今與諸人相見也未？」眾擬",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jiqi Hongchu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            },
+            {
+              "MasterName": "Xuefeng Yicun",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: raises Xuefeng's seeing-you-at-every-station saying and sizes up the pilgrims from Qi Chu Yan Zhao a thousand and ten thousand miles away who cross the lake and climb the old bamboo bank yet still do not know where Fujiao mountain is."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T47/T47n1996.xml",
+        "C/C077/C077n1710.xml",
+        "X/X69/X69n1357.xml",
+        "X/X71/X71n1420.xml",
+        "X/X68/X68n1319.xml",
+        "J/J32/J32nB273.xml",
+        "L/L154/L154n1639.xml",
+        "X/X72/X72n1437.xml",
+        "J/J33/J33nB294.xml",
+        "J/J34/J34nB301.xml"
+      ],
+      "RelatedMasters": [
+        "Xuedou Chongxian",
+        "Shoushan Xingnian",
+        "Yuanwu Keqin",
+        "Chushi Fanqi",
+        "Yulin Tongxiu",
+        "Qianyan Yuanzhang",
+        "Tianyin Yuanxiu",
+        "Yongjue Yuanxian",
+        "Liangting Jingting",
+        "Jiqi Hongchu",
+        "Xuefeng Yicun"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Distance doubled to totality, and the masters who grade a wrong turn by it. Xuedou Chongxian answers the monk who leaps from the way-is-near answer to having heard the unheard with the flat verdict that he is a thousand and ten thousand miles off, Shoushan Xingnian warns the assembly that at this point the eye must fix at once or it is a thousand and ten thousand miles off, like watching a horse through a window, Yuanwu Keqin writes to a patron that what the thousand sages secretly transmit stands more than wall-like ten-thousand fathoms, a thousand and ten thousand miles apart, yet the whole earth picked up holds not one dust of it, Chushi Fanqi sets the dharma with nothing to grasp, straightaway nothing-to-do, rest and cease, against one trampling step forward that lands a thousand and ten thousand miles off, and Yulin Tongxiu tells the assembly that where he truly serves them, even a thousand and ten thousand miles away is still counsel at their ear. Qianyan Yuanzhang tells the assembly that at Wuming's place there is only Wuming and no buddha-dharma, so to take the staff and the shout as a matter for discussion is to fall a thousand and ten thousand miles off, Tianyin Yuanxiu raises that saying and doubles the miss, since not discussing them is a thousand and ten thousand miles off too, Yongjue Yuanxian grades shout and staff as already second and third and any how-about-this on top as straight out a thousand and ten thousand miles, Liangting Jingting warns his correspondent that calling the inward quietude cessation-present is at once a thousand and ten thousand miles off, and Jiqi Hongchu sizes up pilgrims from the far provinces who cross a thousand and ten thousand miles and the lake itself and still do not know where the mountain is."
+    }
+  ]
+}

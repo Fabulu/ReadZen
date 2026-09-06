@@ -1,0 +1,191 @@
+{
+  "Id": "t_db20bbbfc7a1",
+  "SourceTerm": "無法可說",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "no dharma can be spoken",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "there is no dharma to teach",
+        "nothing that can be preached"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 218 hits in 115 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0754b19",
+          "ToLb": "0754c13",
+          "Kwic": "問不落二三請師速道師云前三點後三點僧便喝師無喝僧禮拜師云有恁麼瞎漢。上堂云拗折秤衡將什麼定斤兩拈却鉢盂𢁈筯將什麼喫粥飯不如向三家村裏東卜西卜忽然卜着脫却鼻孔。上堂拈拄杖卓一卓喝一喝云你還肯麼你若肯心肝五臟頭目髓腦一時属老僧你若不肯心肝五臟頭目髓腦一時分付擲下拄杖便下座。上堂一切智智清淨無二無二分又道無法可說是名說法且道龍宮海藏甚處得來良久云三要點開天地眼一曲無私豁古今。上堂直上直下如何指南十字縱橫作麼生提綱良久云風散乱雲長空靜夜深明月照䆫前。上堂乃喚維那令昨日四人新到人事新到纔出師云雖是小過令人大怒新到纔展坐具師云當為空王如來作禮便歸方丈。上堂云遍界元正又逢令莭問諸禪人是生是滅紅日長輝玉輪圓󲉞疾熖過鋒眼",
+          "MasterName": "Daowu Wuzhen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Daowu Wuzhen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Daowu Wuzhen owns the retained deployment: holds up the sutra's all-wisdom pure and without duality or division, then its word that no dharma can be said is called preaching, and asks where in all this the dragon-palace ocean-treasury was fetched from, and after a long silence opens the eye of heaven and earth with the three essentials, one tune without partiality vaulting past and present."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0604b01",
+          "ToLb": "0604b16",
+          "Kwic": "千萬里又打云。我早是𨁝跳。入泥坑裏。爾更待火焰上添草。似箇阿師。救得也無。僧禮拜。師云。來來爾還會葛藤麼。僧云。不會。師云。賴爾不會汾陽拾得口。喫飯囌嚕囌嚕。問如何是祖師西來意。師云。徹骨徹髓。此意如何。師云通天通地。師云。諸上座穿耳。胡僧到此土來。便問祖師西來意。假如白馬馱經時。又問箇甚即得。故經云。無法可說。是名說法。且道許說不許說。若道許說。又作麼生說。若道不許。龍宮海藏。白馬馱來。與諸上座商量。祖教兩名。是一是二。量數收得他麼。所以百丈云。佛是過量。人量數管他不著。經云。唯佛不墮諸數。喚作自受用三昧。攬得麼快。須攬取免得被。他天魔外道。詐現吉凶。惑亂真源。珍重。小參云。朕兆未生。誰論凡聖。纔有鋒鋩。便成",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment: turns the formula on the White Horse, asking the assembly where an eared foreign monk arriving now should put the question of the founder's coming, since when the sutras were carried by the White Horse, what question would serve, and whether saying is permitted or not, for if not permitted, the dragon palace and ocean treasury came by horse all the same, and whether founder and teaching are one or two no counting can hold, with Baizhang's word that a buddha is beyond measure."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0660b02",
+          "ToLb": "0660b17",
+          "Kwic": "。以一解千從。攝法無餘故。亦是教外別傳。離此別無奇特。又此宗鏡大意。以妙悟見諦為期。不取依通齊文作解。法既真實。行須契同。唯在心知。不俟言說。為未了者。亦不絕言。究竟相應。終須親省。此是十方諸佛同證同說。古今不易。一際法門。如經云。我不見有一佛國土。其中如來不說此法。是以佛佛道同。心心理合。故知離宗鏡外。無法可說。以凡有言教。俱不出平等性故。終無有二。所以經云。如大師子。殺香象時。皆盡其力。殺兔亦爾。不生輕想。諸佛如來。亦復如是。為諸菩薩。及一闡提。演說法時。功用無二。仰唯聖旨。鑒誡昭然。豈可於平等至教之中起差別解耶。於一真眾生界中生勝劣見耶。若入宗鏡之中。自免斯咎。今所錄者。一一皆是古佛聖教。於無量億劫。捨無",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: rules in the Mirror of the School that this gate the ten-direction buddhas witness and speak alike is one dharma-gate unchanging through past and present, that no buddha-land exists where its tathagata does not preach this, and that outside the Mirror no dharma can be said, since every worded teaching never leaves the even nature and is never two."
+        },
+        {
+          "RelPath": "X/X70/X70n1403.xml",
+          "FromLb": "0837b04",
+          "ToLb": "0837b17",
+          "Kwic": "至墻壁瓦礫等，二六時中熾然演說，無間無斷，無雜無壞，各各有名有相，有文有句。或以一句演出千句萬句，而不見其為多；或以萬句千句演入一句，而不見其為少。所謂法無礙．義無礙．辭無礙．樂說無礙，總在裏許。政不待世尊說說，迦葉聞聞，而情與無情隨類流通去也。忽有箇無面目漢出來道：不是，不是。平等真法界，無佛無眾生。本無法可說，亦無說法者。若言有佛可成，是名謗佛；有法可說，是名謗法。豈不見道：實際理地，不受一塵。一切佛世界，猶如虗空花。若作有法會，名為邪見人。山僧到這裏，直是分踈不下。道有也不得，道無也不得，道非有非無也不得。直饒千佛出頭，有口只堪掛壁。呈主丈云：低聲，低聲。釋迦老子來也，現在主丈頭上判斷此事。要知有法可說麼？",
+          "MasterName": "Tianru Weize",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianru Weize",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1403.xml). Recorded Sayings of Chan Master Tianru Weize. Tianru Weize owns the retained deployment: grants the faceless fellow who steps out crying no, that in the even true dharma-realm there is no buddha and no being, fundamentally no dharma to say and no speaker either, and that calling it a buddha slanders the buddha and a dharma to say slanders the dharma, then confesses that at this point he truly cannot sort it out, saying is not allowed, not-saying is not allowed, and with a thousand buddhas ahead even a mouth is only fit to hang on the wall, before lowering his voice that Shakyamuni has come and is judging the matter atop his staff."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0533b14",
+          "ToLb": "0533b27",
+          "Kwic": "，要行便行、要止便止。眾中有道得一句不涉多途者，合受人天供養。不見古人云：『供養百千諸佛，不如供養一無心道人。』諸人且道無那箇心？無是非心耶？無善惡心耶？無忻上而猒下心耶？無一切心耶？若恁麼會，到磬山無吃棒分在。今日雲陽賀居士設齋，要老僧通箇消息，一則與大眾結箇般若緣，二則冀禧二子行金行玉。老僧說到這裏，又無法可說。且看拄杖子頭上，端坐大悲觀世音，說道：『應以居士身得度者，即現居士身而為說法。應以童男童女身得度者，即現童男童女身而為說法。』且道說什麼法？偈云：雲陽賀氏世植福，從來代代受天祿，今日當齋供佛僧，祈保二子如金玉。大眾珍重！」除夕小參，師云：「自從拈得這烏藤，踏遍清涼返故岑，今住磬山十餘載，未曾打著箇中人。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: at the Yunyang layman He's feast for his two sons, says he has said all he can and again has no dharma to say, so look at the staff-head where Great Compassion sits upright, preaching that those to be delivered by a layman's body are shown a layman's body and those to be delivered by boy or girl are shown boy or girl, and asks what dharma is being said, capping it with a verse praying the two sons turn out gold and jade."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0105a13",
+          "ToLb": "0105a27",
+          "Kwic": "甲供養父母去也。」師曰：「不孝之子。」一僧問：「那吒太子析骨還父、析肉還母，將甚麼說法？」師曰：「冬不寒，臘後看。」上堂。「應以比丘身得度者，即現比丘身而為說法；應以比丘尼身得度者，即現比丘尼身而為說法。正當比丘說法時，眾中無有一比丘尼者；正當比丘尼說法時，眾中無有一比丘者。還會麼？若道默時說、說時默，無法可說是真說法，此等見解只可做得座主使下。我者木上座自從開山本空祖師傳到如今，他不甚肯放人過，今日要與大眾論量。諸大德！既是默時說，者木上座即今現在說法，但不知所說何法？華嚴耶？阿含耶？方等耶？般若耶？法華涅槃耶？試說看。」眾下語，師俱曰：「不是，不是。」維那結椎，曰：「諦觀法王法，法王法如是。」遂下座。為剃度",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: rules that reading silence-as-preaching and no-dharma-as-true-preaching is a view only fit for service under a seat-master, then sets his wooden seat, handed down from the founding ancestor Benkong, against the assembly, asking since it preaches right now while silent, which canon it is preaching, Avatamsaka, Agama, Vaipulya, Prajna, or Lotus and Nirvana, rejecting every attempt, until the monitor strikes and says behold the dharma-king's dharma, such is the dharma-king's dharma."
+        },
+        {
+          "RelPath": "J/J26/J26nB185.xml",
+          "FromLb": "0577a18",
+          "ToLb": "0577b01",
+          "Kwic": "高高處觀之不足，低低處平之有餘，十地尚乃糢糊，三賢豈能洞達？人境不到處，特地全彰；炤用既立後，杳無消息。望州亭、烏石嶺、僧堂前，徒言相見。不是心、不是佛、不是物，枉自猜詳。向上一路，千聖不傳，學者勞形，如猿捉影。且道什麼人方堪擔荷？」以杖架肩，云：「楖栗橫擔不顧人，直入千峰萬峰去。」下座。清明上堂。「報恩本無法可說，執事請我應時節，夜來曾作一篇詩，拈出今朝去塞責。」乃云：「清明時節雨紛紛，路上行人欲斷魂，借問酒家何處有？牧童遙指杏花村。忽有箇漢出來道：『長老大好一篇詩。』咄！報恩口裡道，誰敢道不好？」佛誕，上堂。「今朝正是四月八，淨飯王宮生悉達，只因我佛太欲速，纔出娘胎便󵊣𠶒。毘藍園裡少知音，黃金擲卻無顏色，獨有",
+          "MasterName": "Fushi Tongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fushi Tongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB185.xml). Recorded Sayings of Chan Master Fushi. Fushi Tongxian owns the retained deployment: opens the grave-sweeping day declaring that Bao'en fundamentally has no dharma to say, the stewards asked him only to meet the season, so last night he wrote a poem and this morning hauls it out to fill the bill, then when some fellow praises the abbot's fine poem, barks that it is spoken from Bao'en's own mouth, so who would dare call it bad."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0635c12",
+          "ToLb": "0635c25",
+          "Kwic": "，請山野為眾敷揚第一義。只如第一義作麼生敷揚？」擲拂子，云：「堂前拋出大家看。」密聞禪師請上堂。「春風何太惡？吹坼百花萼。幽蕙吐新芳，夭桃紅灼灼。喜氣動眉梢，華林不寂寞。報爾諸禪人，於中須領略。急領略，莫把右軍鵝，認作支遁鶴。大眾會麼？今是密聞法姪，不憚跋涉，遠抵弁峰，為眾請法。若道有法可說，埋沒先聖；若道無法可說，孤負諸昆。畢竟如何道得恰好去？○看取梅山山上月，剡常照萬家春。」薦親，上堂。「佛真法身猶若虛空，應物現形如水中月。」拈拄杖，云：「山河國土、明暗色空，適被拄杖子攪作一團、混成一塊，無淨薉可分、無凡聖可辯。正恁麼時，總教鱗甲羽毛、醯雞蠛蠓、艸木叢林、沙磧瓦礫，一箇箇放大光明、作大佛事、獲大自在、證大解脫，",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: tells the assembly for his nephew Miwen, who made the long trip to Bianfeng to request the dharma, that to say there is a dharma to teach buries the old sages, and to say there is no dharma to teach betrays the cousins, so after all how to say it just right, pointing them to the moon over Plum Mountain that always lights ten thousand homes in spring."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1992.xml",
+        "T/T48/T48n2016.xml",
+        "X/X70/X70n1403.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB190.xml",
+        "J/J26/J26nB185.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Daowu Wuzhen",
+        "Fenyang Shanzhao",
+        "Yongming Yanshou",
+        "Tianru Weize",
+        "Tianyin Yuanxiu",
+        "Shiyu Mingfang",
+        "Fushi Tongxian",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The line that empties the buddha's forty-nine years, and the masters who quote it and then hand the audience a staff. Daowu Wuzhen holds up the sutra's all-wisdom pure and without duality, then its word that no dharma can be said is called preaching, and asks where the dragon-palace ocean-treasury was fetched from, opening heaven and earth's eye with the three essentials, Fenyang Shanzhao turns the formula on the White Horse that carried the sutras here, asking whether saying is permitted or not, since if not permitted, the dragon palace and ocean treasury came by horse all the same, and whether founder and teaching are one or two no counting can hold, Yongming Yanshou rules that outside the Mirror of the School no dharma can be said, because every worded teaching never leaves the even nature, and Tianru Weize grants the faceless fellow who cries that fundamentally no dharma can be said and no speaker either, that calling it a buddha slanders the buddha, then confesses that at this point he truly cannot sort it out, with a thousand buddhas ahead even a mouth is only fit to hang on the wall. Tianyin Yuanxiu, asked for word at a layman's feast, gets as far as he can and says there is again no dharma to say, so look at the staff-head where Great Compassion sits preaching in a layman's body, Shiyu Mingfang rules that reading silence-as-preaching and no-dharma-as-true-preaching is a view only fit for an abbot's servant, and puts his wooden seat to the assembly to name which canon it is preaching now, Fushi Tongxian opens the grave-sweeping day declaring Bao'en fundamentally has no dharma to say, the stewards asked him only to meet the season, so last night he wrote a poem and this morning hauls it out to fill the bill, and Baiyu Jingsi tells his nephew's assembly that to say there is a dharma to teach buries the old sages, to say there is no dharma to teach betrays the cousins, so how to say it just right, pointing them to the moon over Plum Mountain that always lights ten thousand homes."
+    }
+  ]
+}

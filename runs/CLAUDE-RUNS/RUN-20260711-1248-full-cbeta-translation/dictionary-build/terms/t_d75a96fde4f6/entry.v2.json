@@ -1,0 +1,192 @@
+{
+  "Id": "t_d75a96fde4f6",
+  "SourceTerm": "舉一不得舉二",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:18:25Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "raise the one, don't raise the two",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "lift one, not two",
+        "hold up one and not two",
+        "raise one but never two"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 281 hits in 144 files representing 142 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0826a11",
+          "ToLb": "0826a18",
+          "Kwic": "何故外揚家醜。師云。爾為甚麼舌頭拄地。進云。却被和尚引著。師便打。問乾峯示眾云。舉一不得舉二。放過一著落在第二。意旨如何。師云。駱駝尾上釣冬瓜。進云。還許學人轉身吐氣也無。師云。許爾轉身。爾如何吐氣。僧進前噓一聲。師云。這弄泥團漢。進云。只如雲門道。人從天台來却往徑山去。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: asked the point of Qianfeng's line — raise the one, don't raise the two; let a move pass and you land in second — answers with a winter melon hung on a camel's tail, then grants the turn and strikes."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0005a02",
+          "ToLb": "0005a10",
+          "Kwic": "一總未曾，悟上座試為簡點：『朝暮且置，不知喚什麼作秋，卻說陰颼颼、熱殺秋。』還知麼？不見道，不因夜來鴈，爭見海門秋。」拍香几，下座。上堂。「舉一不得舉二，放過一著，落在第二。盡大地人都道今朝七月一，敢問眾兄弟作麼生舉？若也舉得，盡大地人性命與現前性命無二無別；若舉不得，未免業識茫茫無本可據。」復舉：「當初唐貞觀時有龐居士，特入深山訪問石頭大師，云：『不與萬法為侶者是什麼人？",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: opens a hall address with the rule itself — the whole earth says today is the first of the seventh month; now, brothers, how do you raise the one? Raise it right and every being's life on the whole earth is right here."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0127a16",
+          "ToLb": "0127a23",
+          "Kwic": "若能如是，山僧不妨與汝諸人結制，不妨與汝諸人解制，於本無生死中說有生死，於現有生死中說無生死，主賓互換，棒喝交馳，豈更有第二箇時節？」驀豎拂子，云：「舉一不得舉二，放過一著，落在第二。諸兄弟！爾若喚作第一，蚤已落第二了也；爾若喚作第二，不可更有第一；汝若總不與麼，猶是顢頇佛性，儱侗真如。畢竟作麼生？」擲下拂子，云：「蘇嚕蘇嚕，㗭哩㗭哩。」上堂。",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: suddenly lifts the whisk and sets the terms — call it the first and you have long since fallen to second, call it the second and there can be no further first — before running host and guest swapping through staff and shout."
+        },
+        {
+          "RelPath": "J/J38/J38nB410.xml",
+          "FromLb": "0333b10",
+          "ToLb": "0333b18",
+          "Kwic": "」蘆山通天禪寺語錄蘆山通天禪寺語錄檀樾季蘆余公、姪及人居士、監院寂霞等請師就通天寺開爐。師上堂，拈香祝釐畢，云：「舉一不得舉二，放過一著，落在第二，二由一有，一亦莫守。珠浪塔與望夫塔鬥額，不高低分毫；東施子效西施子顰眉，那有妍醜？就無妍醜、無高低處具一隻眼，則見堂頭和尚於方丈內舌頭不動，聲震如雷；山僧於法空座上搖唇鼓嘴，何曾道著一字？",
+          "MasterName": "Lianfeng Su",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lianfeng Su",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB410.xml). Recorded Sayings of Chan Master Lianfeng. Lianfeng Su owns the retained deployment: takes the rule as the opener at the furnace-lighting and adds that two comes from one but the one must not be kept either — the Pearl-wave pagoda and the husband-watching pagoda butt brows with not a hair of high or low."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0514a17",
+          "ToLb": "0514a24",
+          "Kwic": "』」喝一喝云：「且道目前一句作麼生？殘雪已消千嶂冷，和風纔起萬溪春。」驀擲拄杖下座。示眾，舉：「乾峰云：『舉一不得舉二，放過一著，落在第二。』雲門出眾云：『昨日有人從天台來，卻往徑山去。』乾峰召維那云：『來日不得普請。』」師拈云：「乾峰當時恰似誘人犯法，好與三十棒；雲門雖是見兔放鷹，亦是忘前失後。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: raises the case whole for the assembly — Qianfeng's line, Yunmen out of the crowd with the traveler's news from Tiantai bound for Jingshan, Qianfeng calling the dean over the kitchen steward's work."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0087b23",
+          "ToLb": "0087b30",
+          "Kwic": "於此未徹，且要祖道重興。試問：如何是重興一句？普明一向門朝北，懶得從人復向南。」冬至，上堂。舉乾峰舉一不得舉二話，師曰：「諸人還知乾峰意麼？也是一面送客、一面留人，雲門也只得隨波逐浪。今日山僧要與大眾判去：舉一，過水腳不濕。不得舉二，爛泥裏有刺。放過一著，鵔鷂趕不著。落在第二，即今在甚麼處？",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: at the winter solstice asks who knows Qianfeng's intent and rules it seeing the guest off with one hand while holding him back with the other, with Yunmen only able to go with the waves."
+        },
+        {
+          "RelPath": "J/J27/J27nB191.xml",
+          "FromLb": "0161a28",
+          "ToLb": "0161b04",
+          "Kwic": "」一僧云：「師耳聾麼？」師云：「唔！只可堂裏講話。謝茶。」解制夜，道興師設茶，請示眾。「乾峰道：『舉一不得舉二，放過一著，落在第二。』雲門出眾，云：『昨日有僧天台來，今日卻往徑山去。』」師云：「山僧則不然。」驀舉如意，云：「大眾會麼？如意之法如優曇花，時一現耳。向這裏薦得，則知舉一；其或未然，則落二去也。",
+          "MasterName": "Jinian Jingxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinian Jingxian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. Jinian Jingxian owns the retained deployment: at the tea for the closing night raises the pair — Qianfeng's rule and Yunmen's step out of the crowd with the Tiantai traveler's news."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0008b20",
+          "ToLb": "0008b25",
+          "Kwic": "「書雲令節，喜屆今朝，君子道長，小人道消。若是衲僧活計，端的不在裏許。何也？拄杖如龍活潑潑，風軒竹徑任逍遙。」上堂。「『舉一不得舉二，放過一著，落在第二』，我密雲師翁擲下拄杖云：『落二去也，且一又如何舉？』將蝦釣鱉。又，我本師老人云：『山僧舉一了也。』諸人如何委悉？",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: quotes the rule and cites his grand-master Miyun dropping the staff on this very line — fallen to second, and how would you raise the one? Shrimping to catch turtles."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "J/J10/J10nA158.xml",
+        "J/J38/J38nB406.xml",
+        "J/J38/J38nB410.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB190.xml",
+        "J/J27/J27nB191.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Miyun Yuanwu",
+        "Tianran Hanshi",
+        "Lianfeng Su",
+        "Tianyin Yuanxiu",
+        "Shiyu Mingfang",
+        "Jinian Jingxian",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "Qianfeng's rule of one: raise one thing only — let a move pass and you have landed in second place. Yunmen answered it with yesterday's traveler from Tiantai bound for Jingshan, and the records keep asking how the one is raised at all. The case and its teeth: Tianyin Yuanxiu raises it whole — Qianfeng's line, Yunmen stepping out of the crowd with the traveler's news from Tiantai to Jingshan, Qianfeng calling the dean to bar the kitchen steward from community work tomorrow; Dahui Zonggao, asked its point, answers with a winter melon hung on a camel's tail; Shiyu Mingfang at the winter solstice rules that Qianfeng was seeing the guest off with one hand while holding him back with the other, and Yunmen could only go with the waves. The rule in live hands: Miyun Yuanwu opens a hall address with it — the whole earth says today is the first of the seventh month; now, brothers, how do you raise it? Raise it right and every being's life on the whole earth is right here; Tianran Hanshi lifts the whisk and sets the terms: call it the first and you have long since fallen to second, call it the second and there can be no further first; Lianfeng Su takes it as the opener at the furnace-lighting and adds that two comes from one but the one must not be kept either — the Pearl-wave pagoda and the husband-watching pagoda butt brows with not a hair of high or low, Dongshi aping Xishi; Baichi Xingyuan cites his own grand-master Miyun dropping the staff on this very line — fallen to second, and how would you raise the one? Shrimping to catch turtles; Jinian Jingxian raises the pair over tea at the retreat's closing night."
+    }
+  ]
+}

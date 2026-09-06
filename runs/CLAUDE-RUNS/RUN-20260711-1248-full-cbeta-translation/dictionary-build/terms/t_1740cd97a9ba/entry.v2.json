@@ -1,0 +1,231 @@
+{
+  "Id": "t_1740cd97a9ba",
+  "SourceTerm": "十五日已前",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:02:01Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "before the fifteenth day",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "prior to the fifteenth of the month",
+        "before the full moon day",
+        "the first half of the month"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 421 hits in 141 files representing 138 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J38/J38nB418.xml",
+          "FromLb": "0497a04",
+          "ToLb": "0497a12",
+          "Kwic": "」拈拄杖作舞，云：「山僧拄杖子忍俊不禁，隨例打筋斗。」喝一喝，曰：「住！住！不可莽鹵。」示眾。「十五日已前，煙迷古渡。十五日已後，月映清溪。正當十五日，青松棲白鶴，碧沼綻紅蓮。寒山子，知不知？世情看冷暖，人面逐高低。」七夕，示眾。「今夜七月七，家家收巧喫，金風來樹杪，清涼生兩腋。」拈拂子召眾曰：「看看，夏末便是秋初，已證者宜須保護，未悟者猛著精彩，時節既到，其理自彰。",
+          "MasterName": "Huiyue Xu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huiyue Xu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB418.xml). Recorded Sayings of Chan Master Huiyue Xu. Huiyue Xu owns the retained deployment: sets the triplet for the occasion — smoke blinds the old ford before the fifteenth, the moon mirrors the clear stream after it, and on the day a green pine perches the white crane and the jade pond bursts a red lotus, asking Cold Mountain whether he knows or not."
+        },
+        {
+          "RelPath": "J/J36/J36nB362.xml",
+          "FromLb": "0747c20",
+          "ToLb": "0747c27",
+          "Kwic": "「萬仞懸崖撒得手，不論有句無句，自然呵呵大笑；百尺竿頭進得步，不問南來北來，管取匝匝清風。若是十五日已前、十五日已後，如看走馬燈相似，一隊上來、一隊下去，天台普請、南岳遊山，竿木隨身、逢場作戲，神通遊嬉則不無火滅煙消，腳跟下死獦狚地依舊推不向前、拽不退後，勞他古今知識朝一頓、暮一頓，挨拶到髑髏粉碎時，枯椿上始見半紅半白，自謂果熟香飄。",
+          "MasterName": "Guantao Daqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Guantao Daqi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB362.xml). Recorded Sayings of Chan Master Guantaoqi. Guantao Daqi owns the retained deployment: rules that letting go at the cliff's edge brings the laugh and stepping past the hundred-foot pole the circling wind, then takes before and after the fifteenth as like watching a revolving horse-lantern, one troop coming up as another goes down."
+        },
+        {
+          "RelPath": "J/J38/J38nB414.xml",
+          "FromLb": "0419c05",
+          "ToLb": "0419c10",
+          "Kwic": "「不是心，不是佛，不是物，火燒松樹勢如蛇。者裏道得一轉語，喫棒有分。何故？從前汗馬無人識，只要重論蓋代功。」復舉：「東林正覺禪師上堂：『十五日已前放過一著，十五日已後未可商量，正當十五日試道一句看。』良久，云：『山色翠濃春雨歇，柏庭香擁木蘭開。』」師高聲咄，云：「是甚麼語話？",
+          "MasterName": "Shanduo Zhenzai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shanduo Zhenzai",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB414.xml). Recorded Sayings of Chan Master Zhenzai of Shanduo. Shanduo Zhenzai owns the retained deployment: raises Donglin Zhengjue's hall line that before the fifteenth one move is released, after it nothing can yet be discussed, and on the day itself one is bid to try a line, holding the silence long."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0005b22",
+          "ToLb": "0005b29",
+          "Kwic": "」問：「衲僧共住學無為，誰是心空及第者？」師便打。僧喝一喝，師復打。僧連喝，師連打。僧禮拜，師乃云：「十五日已前，為人膿滴滴地；十五日已後，為人血滴滴地；正當十五日，為人乾暴暴地。朝打三千，暮打八百，畢竟落處如何？黃狗喫食，黑狗遭殃。」清白知客為受業師覺凡入塔，請上堂，師云：「纖塵不染，淨裸裸地絕承當；",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: after beating the questioner through shouts and blows, gives the triplet for working with people — dripping pus before the fifteenth, dripping blood after it, dry and hard on the day itself, three thousand strikes at dawn and eight hundred at dusk."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0006c13",
+          "ToLb": "0006c19",
+          "Kwic": "』通玄道：『還我中心樹子來。』待伊眼目定動，劈脊便棒。」喝一喝，下座。上堂。「十五日已前，誰復重打筭？十五日已後，孰肯定從容？正當十五日，又且如何透脫？」驀拈拄杖云：「龍袖拂開全體現，象王行處絕狐蹤。」卓一卓，下座。上堂。「茲當六月廿五，況是日輪明露，本無雲翳覆藏，爭柰時人不睹。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: sets the triplet as reckoners — who will reckon again before the fifteenth, who will surely be at ease after it, and how to break through on the day itself — then snaps up the staff."
+        },
+        {
+          "RelPath": "T/T47/T47n1997.xml",
+          "FromLb": "0744c27",
+          "ToLb": "0745a05",
+          "Kwic": "語默向上有事在。老僧舌頭短。不能與爾說。還委悉麼。兩仞金剛寶劍一對無孔鐵槌。上堂云。十五日已前。千牛拽不迴。十五日已後。俊鷂趁不及。正當十五日天平地平同明同暗。大千沙界不出當處。可以含吐十虛。進一步。超越不可說不可說香水海。退一步。坐斷千里萬里白雲。不進不退。莫道闍黎老僧。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1997.xml). Recorded Sayings of Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: answers his own ask with the triplet — a thousand oxen cannot drag it back before the fifteenth, the dashing falcon cannot catch up after it, and on the day sky and ground stand level and bright and dark are one, the great chiliocosm not leaving this very spot."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0816c22",
+          "ToLb": "0817a01",
+          "Kwic": "即今或有傍不甘底出來道。和尚也是普州人。又作麼生即向他道。西天斬頭截臂。這裏自領出去。上堂。十五日已前。諸人道得著。徑山道不著。十五日已後。徑山道得著。諸人道不著。正當十五日。又作麼生。良久云。普。上堂。僧問。逼塞虛空時如何。師便喝。進云。文殊普賢來也。師云。逼塞虛空。甚處與徑山相見。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: turns the triplet on the assembly — before the fifteenth all of you can say it and Jingshan cannot, after it Jingshan can and all of you cannot, and on the day itself, what then — holding the silence long."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0002b16",
+          "ToLb": "0002b24",
+          "Kwic": "猶是建化門頭事。且道不落化門。一句作麼生道。良久云。轉身就父無標的。拈却花冠不得名。上堂云。十五日已前。有口說不得。十五日已後。無心却自然。正當十五日。一句作麼生道。良久云。雲籠無縫襖。花笑不萠枝。上堂云。一亘清虛夜正央。桂宮老兔冷噴霜。混融明暗無分處。誰辨箇中偏正方。所以道。正位雖正却偏。",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: opens the record's first address with the triplet — a mouth that cannot speak before the fifteenth, no mind that is yet natural after it — and asks the one line for the day itself, clouds swaddling the seamless jacket."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0145c09",
+          "ToLb": "0145c19",
+          "Kwic": "及乎春來。幽谷野㵎。乃至無人處。百花競發。爾且道更為誰開。6【六】舉雲門垂語云。十五日已前不問汝十五日已後道將一句來自代云。日日是好日。雲門初參睦州。州旋機電轉。直是難湊泊。尋常接人。纔跨門便搊住云。道道。擬議不來。便推出云。秦時𨍏轢鑽。雲門凡去見。至第三回。纔敲門。州云。",
+          "MasterName": "Yuanwu Keqin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yuanwu Keqin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Yuanwu Keqin owns the retained deployment: records Yunmen's stock pronouncement that he does not ask about before the fifteenth and bids a line for after it, with the self-answer given in his place that every day is a good day."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0219a16",
+          "ToLb": "0219a21",
+          "Kwic": "竚看汗血八駿駒，何啻日馳三萬里。卓主丈，喝一喝。中秋，上堂。十五日已前，掘地覓青天。十五日已後，擕籃盛水走。正當十五日，天明日頭出。待得黃昏月到窻，無限清光滿虗空。豈不見寒山子曾有言：巖前獨靜坐，圓月當空耀。萬象影現中，一輪本無照。",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: marks the mid-autumn address with the triplet — digging the ground to find the blue sky before the fifteenth, carrying a basket to gather water after it, and on the day itself the sky brightens and the sun comes out."
+        }
+      ],
+      "SourceTexts": [
+        "J/J38/J38nB418.xml",
+        "J/J36/J36nB362.xml",
+        "J/J38/J38nB414.xml",
+        "J/J26/J26nB177.xml",
+        "J/J10/J10nA158.xml",
+        "T/T47/T47n1997.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T48/T48n2001.xml",
+        "T/T48/T48n2003.xml",
+        "X/X71/X71n1412.xml"
+      ],
+      "RelatedMasters": [
+        "Huiyue Xu",
+        "Guantao Daqi",
+        "Shanduo Zhenzai",
+        "Poshan Haiming",
+        "Miyun Yuanwu",
+        "Yuanwu Keqin",
+        "Dahui Zonggao",
+        "Hongzhi Zhengjue",
+        "Gulin Qingmao"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A calendar triplet that turns the middle of the month into the measure of the work: before the fifteenth a thousand oxen cannot drag it back, after it the falcon cannot catch up, and on the day itself the demand falls — give the one line for now. Song records set the triplet's work: Yuanwu Keqin rules that before the fifteenth a thousand oxen cannot drag it back, after it the dashing falcon cannot catch up, and on the day sky and ground stand level with bright and dark as one; Dahui Zonggao turns it on the assembly — before the fifteenth all of you can say it and Jingshan cannot, after it Jingshan can and all of you cannot; Hongzhi Zhengjue opens the record's first address with a mouth that cannot speak before it and no mind that is yet natural after; Huiyue Xu gives it the season — smoke blinding the old ford before, the moon mirroring the clear stream after, and on the day a green pine perching the white crane, cold mountain asked whether he knows or not. Later records keep the triplet and re-stock it: Shanduo Zhenzai raises Donglin Zhengjue's hall line that before the fifteenth one move is released and after it nothing can yet be discussed; Poshan Haiming works people in it — dripping pus before, dripping blood after, dry and hard on the day itself, three thousand strikes at dawn and eight hundred at dusk; Miyun Yuanwu asks who will reckon again before and who will surely be at ease after, then snaps up the staff; Guantao Daqi takes the two halves as a revolving horse-lantern, one troop coming up as another goes down; Yuanwu Keqin's case record preserves Yunmen's stock pronouncement with the self-answer that every day is a good day; Gulin Qingmao marks mid-autumn with it — digging the ground to find the blue sky before, carrying a basket to gather water after, and on the day the sky brightens and the sun comes out."
+    }
+  ]
+}

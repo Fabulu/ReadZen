@@ -1,0 +1,196 @@
+{
+  "Id": "t_df4246f8b540",
+  "SourceTerm": "逢人則不出，出則便為人",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "meeting men, he does not step out; stepping out, it is at once for them",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "staying in when men come, coming out only to serve",
+        "no exit at the meeting of men, the exit itself the service"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 64 hits in 53 files. Guide depth floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X70/X70n1377.xml",
+          "FromLb": "0582a03",
+          "ToLb": "0582b01",
+          "Kwic": "休，取不得，捨不得。且道是什麼？良久，云：公驗分明。上堂。不著佛求，不著法求，不著僧求，孤舟短棹，任性優游，瞥轉玄關，縱橫玅用，在此了無間然。所以道：動若行雲，止猶谷神。既無心於彼此，寧有象於去來？坐斷千差，壁立萬仞。還委悉麼？大鵬展翅蓋十州，籬邊燕󳭋空啾啾。復舉三聖道：我逢人則出，出則不為人。興化道：我逢人則不出，出則便為人。二老漢丁一卓二，因邪打正，以常住物作自己用，帶累我臨濟正宗，直至于今扶不起。辭眾。只箇長行粥飯僧，江南江北震乾坤。而今又却隨他去，討甚楊岐八世孫。饒州薦福禪院語錄饒州薦福禪院語錄參學光睦等錄入院，指三門云：入門正路，不容回互，千人萬人，當陽蹉過，畢竟落在什麼處？喝一喝。指法座。要行便行，要坐便",
+          "MasterName": "Songyuan Chongyue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1377.xml). Recorded Sayings of Chan Master Songyuan Chongyue. Songyuan Chongyue owns the retained deployment: raises the two old men's paired words, Sansheng's step-out that serves no one and Xinghua's stay-in that at once serves whoever comes, then rules them one nail two spikes, hitting the true by way of the slanted and using the monastery's goods for their own business, and drags the charge home, that they have burdened his Linji orthodox line so it cannot be raised again to this day."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0045c25",
+          "ToLb": "0046a10",
+          "Kwic": "僧擬議，聖又打。師云：「竹上泉通竹下水，澗東花發澗西紅。」三聖慧然禪師至仰山，山問：「汝名甚麼？」聖曰：「慧寂。」山曰：「慧寂是我名。」聖曰：「我名慧然。」山大笑。師云：「仰山向虛空裏穵縫，三聖煉石補天。陳希夷一覺睡千年，至今不知。直是好笑。」三聖上堂云：「我逢人即出，出則不為人。」便下座。興化云：「我逢人則不出，出則便為人。」師云：「三聖不為人，不知誤卻多少人；興化便為人，不知誤卻多少人。還有不誤者麼？相看兩不厭，惟有敬亭山。」桐峰庵主僧問：「和尚這裏忽遇大蟲來時如何？」主便作大蟲吼，僧作怖勢，主大笑。僧曰：「這老賊！」主曰：「爭奈老僧何？」師云：「桐峰不用棒，所以妙。這僧不用喝，所以妙。桐峰大笑，這僧亦大笑。梁山泊裏稱",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: narrates Sansheng opening the hall, the one line and the stepping down from the seat, and Xinghua's stay-in answer, then weighs that Sansheng's not-serving has misled who knows how many and Xinghua's serving has misled who knows how many, and asks whether one who misleads not remains, capping it with the gaze exchanged, never wearying, only Jingting Mountain."
+        },
+        {
+          "RelPath": "J/J28/J28nB205.xml",
+          "FromLb": "0238b16",
+          "ToLb": "0238c01",
+          "Kwic": "非但瞎卻者僧眼，瞎卻鎮州一城人眼去在。」壽便歸方丈。拈云：「城門失火，殃及池魚，帶累這僧，直至如今受屈。我若作保壽，又且不然。當時待彼推出者僧，便歸方丈，管教三聖一場懡㦬。」頌云：「逆浪長風勢潑天，漁舟久慣不愁顛，一聲歌罷歸家去，載得清光月滿船。」三聖云：「我逢人即出，出即不為人。」興化云：「我即不然，逢人則不出，出則便為人。」拈云：「一個行處不見人，一個見人不留跡，且道二老還有優劣也無？具眼者試分析看。」頌云：「風來樹響，水高船長，出入分明，影不孤向。」深、明二上座同過淮河，見牽網者魚跳出，深云：「俊哉，恰似個衲僧相似。」明云：「雖然如是，爭奈當初不撞入網羅好。」深云：「明兄！你猶欠悟在。」明行數里，至中夜方省。拈云：",
+          "MasterName": "Jieweizhou Xingzhou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB205.xml). Recorded Sayings of Chan Master Jieweizhou. Jieweizhou Xingzhou owns the retained deployment: sets the pair, Sansheng's step-out and Xinghua's own-otherwise stay-in, then takes it up, one walking where no man is seen and one meeting men yet leaving no trace, asking whether the two elders rank above or below and bidding the pierced-eye judge, then verses that wind comes and the tree sounds, the water rises and the boat lengthens, going out and staying in plain to see, the shadow not facing alone."
+        },
+        {
+          "RelPath": "J/J34/J34nB301.xml",
+          "FromLb": "0307c20",
+          "ToLb": "0308a02",
+          "Kwic": "信受如來不思議身，信受如來不思議音聲，信受如來不思議智，自然興起正勤，不怯不退。」拈拄杖，卓一卓，曰：「在耳曰聲，在目曰容。聲應乎耳，可以聽知；容接乎目，亦以儀覿。發揚蹈厲，以拓其智，上下交融，進止有度。總之，開發顯示諸佛正真之道。」再拈拄杖，卓一卓，復舉：「三聖道：『我逢人則出，出則不為人。』興化道：『我逢人則不出，出則便為人。』白雲端和尚拈口：『二尊宿各有一處打得著。』」師曰：「若論據款結案，不道全無銖兩，然則難逃五祖師翁說他語拙。夫舉一隅不以三隅反，則不復也。臨濟家法是你涯際得底？是你刻畫得底？是你汗漫得底？昔人盡其機智，列門庭，製要訣，不過彷彿皮膚，絕非骨髓，依稀名相，何關旨意？二尊宿是入室真子，不同門外遊人，只消此兩",
+          "MasterName": "Jiqi Hongchu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "later-raiser"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB301.xml). Recorded Sayings of Monk Jiqi of Nanyue. Jiqi Hongchu owns the retained deployment: raises the pair with the old Baiyun Shouduan's handling, that each of the two worthies has one spot that lands, then rules by the file and the verdict that the words are not wholly without weight yet cannot escape his teacher's grandfather Wuzu's charge of clumsy speech, the Linji family-law no thing to be bounded, etched, or roved through."
+        },
+        {
+          "RelPath": "J/J36/J36nB364.xml",
+          "FromLb": "0806b18",
+          "ToLb": "0806c02",
+          "Kwic": "聳聽人天；慧日重升，光新宇宙。顯揚向上宗猷，揭示曹溪的旨，直使人人親見古佛彌陀，方信安養在近；貴令箇箇識取自己家珍，始知寶所非遙。論什麼撥灰見火、過水逢渠，萬象之中獨露、北斗裏面藏身，赤肉團上無位人，都來與汝不相干。且道昇平共樂承誰恩力？」卓拄杖云：「普天匝地皆安枕，盡向吾皇化育來。」復舉：「興化道：『我逢人則不出，出則便為人。』三聖道：『我逢人則出，出則不為人。』」師云：「二老宿大似南山起雲、北山下雨，圓寧這裏總莫管他出與不出、為人不為人，直截提持，自然磕著。何故聻？白雲乍可來青嶂，明月難教下碧天。」岳樂和碩安親王請師就慶豐廣嗣禪寺資薦世予嘛呢，上堂。問：「向上宗乘即不問，今朝薦召事如何？」師云：「山高雲氣冷。」進云：「且",
+          "MasterName": "Fogu Xingwen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB364.xml). Recorded Sayings of Chan Master Foguwen. Fogu Xingwen owns the retained deployment: raises the pair at the blessing assembly, then rules the two old worthies like clouds rising on the south mountain and rain falling on the north, and at Yuanning's place has done with both, caring nothing for going out or staying in, serving men or not, the direct lift striking home of itself, the white clouds may come to the green cliffs, the bright moon cannot be made to step down from the blue sky."
+        },
+        {
+          "RelPath": "J/J37/J37nB370.xml",
+          "FromLb": "0002c14",
+          "ToLb": "0002c27",
+          "Kwic": "古佛道場，無一道場不為佛事。」呈拄杖，云：「還會麼？皇風成一片，何處不封疆？」晚參。「古有僧夜半大叫云：『我悟也。』傍僧把住云：『你悟個甚麼？』其僧云：『師姑原是女人做。』」師喝云：「如此不知連累多少好人。草堂常有個悟底，只是不肯大驚小，惟且悟個甚麼？眉毛眼上橫，鼻子下頭大。」結制，上堂。舉：「興化道：『我逢人則不出，出則便為人。』三聖道：『我逢人則出，出則不為人。』」師云：「二大老一等共行山上路，眼底各自看風煙，雖然互相激揚，也是泥裏洗土塊。山僧今日出也，且為人是？不為人是？相逢但說三分話，未肯全拋一片心。」晚參。舉：「僧問趙州：『如何是不錯路？』州云：『識心見性是不錯路。』」師云：「那裏是識底心？那裏是見底性？試道看。不然，",
+          "MasterName": "Nouyun Zhenshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xinghua Cunjiang",
+              "Roles": [
+                "utterer",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Sansheng Huiran",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB370.xml). Recorded Sayings of Chan Master Nouyunshi of Caotang. Nouyun Zhenshi owns the retained deployment: at the opening of the retreat raises the pair, rules the two great elders walk the same mountain road yet each sees his own wind-and-mist, and that rousing each other they are still washing a clod in mud, then turns it on himself, that today this mountain monk has stepped out, so is he serving or not, meeting men he tells three parts in ten and will not throw out the whole of one heart."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X70/X70n1377.xml",
+        "J/J27/J27nB189.xml",
+        "J/J28/J28nB205.xml",
+        "J/J34/J34nB301.xml",
+        "J/J36/J36nB364.xml",
+        "J/J37/J37nB370.xml"
+      ],
+      "RelatedMasters": [
+        "Songyuan Chongyue",
+        "Xinghua Cunjiang",
+        "Sansheng Huiran",
+        "Sanyi Mingyu",
+        "Jieweizhou Xingzhou",
+        "Jiqi Hongchu",
+        "Baiyun Shouduan",
+        "Fogu Xingwen",
+        "Nouyun Zhenshi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Xinghua Cunjiang's half of the paired exit-words traded with Sansheng Huiran, fixing when a master steps out and whom the stepping out is for. Songyuan Chongyue raises the two old men's paired words, Sansheng Huiran's step-out that serves no one and Xinghua Cunjiang's stay-in that at once serves whoever comes, then rules them one nail two spikes, hitting the true by way of the slanted and using the monastery's goods for their own business, and drags the charge home, that they have burdened his Linji orthodox line so it cannot be raised again to this day, Sanyi Mingyu narrates Sansheng opening the hall, the one line and the stepping down from the seat, and Xinghua's stay-in answer, then weighs that Sansheng's not-serving has misled who knows how many and Xinghua's serving has misled who knows how many, asking whether one who misleads not remains, the gaze exchanged, never wearying, only Jingting Mountain, and Jieweizhou Xingzhou sets the pair, Sansheng's step-out and Xinghua's own-otherwise stay-in, then takes it up, one walking where no man is seen and one meeting men yet leaving no trace, asking whether the two elders rank above or below and bidding the pierced-eye judge, versing that wind comes and the tree sounds, the water rises and the boat lengthens, going out and staying in plain to see. Jiqi Hongchu raises the pair with the old Baiyun Shouduan's handling, that each of the two worthies has one spot that lands, then rules by the file and the verdict that the words are not wholly without weight yet cannot escape his teacher's grandfather Wuzu's charge of clumsy speech, the Linji family-law no thing to be bounded, etched, or roved through, Fogu Xingwen at the blessing assembly raises the pair and rules the two old worthies like clouds rising on the south mountain and rain falling on the north, and at Yuanning's place has done with both, caring nothing for going out or staying in, serving men or not, the direct lift striking home of itself, the white clouds may come to the green cliffs, the bright moon cannot be made to step down from the blue sky, and Nouyun Zhenshi at the opening of the retreat raises the pair, rules the two great elders walk the same mountain road yet each sees his own wind-and-mist, and rousing each other they are still washing a clod in mud, then turns it on himself, that today this mountain monk has stepped out, so is he serving or not, meeting men he tells three parts in ten and will not throw out the whole of one heart."
+    }
+  ]
+}

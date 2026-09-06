@@ -1,0 +1,159 @@
+{
+  "Id": "t_fb8e99239b56",
+  "SourceTerm": "因齋慶讚",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:03:13Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "by occasion of the feast, to celebrate and praise",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "feast-day celebration",
+        "celebrating on the occasion of the meal offering"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 248 hits in 125 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0540a03",
+          "ToLb": "0540b01",
+          "Kwic": "會那？僧從此悟入。雪竇顯云：邪正不分，過猶鞭影。又云：諸禪德，迷雲既開，決定見佛，還許他同參也無？若共相委知，則天下宗師，並為外道伴侶；如各非印證，則東土衲僧，不如西天外道。翠巖芝云：大小世尊被外道當面塗糊，祇如外道云：令我得入。要且未夢見在。既不曾夢見，為什麼却悟去？楊岐會云：世尊既捨己從人，外道乃因齋慶讚。溈山喆云：外道懷藏寶鏡，世尊親為高提，直得森羅顯煥，萬象歷然。又得阿難金鐘再擊，四眾共聞。然雖如是，大似二龍玩珠，長他智者威獰。雲居齊云：什麼處是外道悟處？眾中道：世尊良久，便是舉鞭處。恁麼會還得否？昭覺勤云：外道因邪打正，世尊看樓打樓，阿難不善旁觀，引得世尊拖泥帶水。若據山僧見處，待他道：不問有言，",
+          "MasterName": "Yangqi Fanghui",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Yangqi Fanghui owns the retained deployment: reading the World-Honored One's long silence before the heretic as yielding himself to another, so that the heretic's entry into the way is a feast-day celebration."
+        },
+        {
+          "RelPath": "T/T48/T48n2003.xml",
+          "FromLb": "0201c19",
+          "ToLb": "0202a05",
+          "Kwic": "。金牛和尚每至齋時。自將飯桶。於僧堂前作舞。呵呵大笑云。菩薩子喫飯來雪竇云。雖然如此。金牛不是好心僧問長慶。古人道。菩薩子喫飯來。意旨如何慶云。大似因齋慶讚。金牛乃馬祖下尊宿。每至齋時。自將飯桶。於僧堂前作舞。呵呵大笑云。菩薩子喫飯來。如此者二十年。且道他意在什麼處。若只喚作喫飯。尋常敲魚擊鼓。亦自告報矣。又何須更自將飯桶來。作許多伎倆。莫是他顛麼。莫是提唱建立麼。若是提唱此事。何不去寶華王座上。敲床竪拂。須要如此作什麼。今人殊不知。古",
+          "MasterName": "Changqing Huileng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinniu Heshang",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2003.xml). Blue Cliff Record by Chan Master Yuanwu Foguo. Changqing Huileng owns the retained deployment: judging Jinniu's twenty years of dancing the rice-bucket before the hall as much like celebrating the feast and playing to the table."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0007a18",
+          "ToLb": "0007b01",
+          "Kwic": "」問：「海浪藏識，境界法身。如何是境界法身？」師云：「進前來向汝道。」僧禮拜，師云：「猶未向汝道，禮拜箇甚麼？」僧喝一喝，師便打。問：「世尊拈華，迦葉微笑，未審笑箇甚麼？」師云：「笑汝不薦。」進云：「薦後如何？」師云：「世尊不拈華，迦葉不微笑。」僧禮拜，師乃云：「華綠椏居士為我釋迦老人成道來山設齋，山僧只得因齋慶讚。」以拄杖畫此○，云：「大眾會麼？」時升吾張居士出眾作禮，卓然而立，師云：「此處會得，虛空粉碎，大地平沉，心、佛、眾生，三無差別。」士展兩手。師復以拄杖畫此○，云：「六年冷地無人問，一點明星是禍胎。」上堂，師云：「昨夜梅華香宇宙，今朝雪子擂長空，就中一點真消息，拈向諸人鼻孔中。」驀呈拄杖，云：「未證據者",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: saying at a feast for Śākyamuni's awakening that the mountain monk can only celebrate the feast, then drawing a circle with his staff and asking if the assembly sees."
+        },
+        {
+          "RelPath": "J/J33/J33nB294.xml",
+          "FromLb": "0722b06",
+          "ToLb": "0722b19",
+          "Kwic": "了也，有什麼用處？雲溪今日失利。」送不疑知客還衡陽，小參。「南嶽石頭，荊州天皇，楚王城畔，汝水東流，這裏偏饒佛法。不疑信子從牡丹花下識得根苗，在寶鏡堂前親從指授，逢渠睹影，直到玄關。巖頭、德山事窮的要，馬祖病、藥山病、曹山病，奇奇怪怪，非世可醫。綿州附子桂州薑，不免就路還家，同他善財採藥。今日適當世尊降誕，因齋慶讚，為伊勸行，指天指地，惟我獨尊，黃面瞿曇一狀領過了也。從來臨濟慣侮黃蘗，有其父必生其子，老漢未會，末後凍儂猶有鄉情，非關智過于師，也只播揚家醜。若是我洞山門下，子順父、臣奉君，個裏獨彰尊貴，唱出還鄉曲調，果然枯木生花。畢竟還鄉曲調如何唱聻？黃鶴樓前鸚鵡洲，此去漢陽不遠。」小參。「寧逢惡賓，莫逢故人，冤家路",
+          "MasterName": "Liangting Jingting",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB294.xml). Recorded Sayings of Chan Master Liangting Ting of Yunxi. Liangting Jingting owns the retained deployment: celebrating the feast on the birth day by indicting the yellow-faced one in a single bill for pointing at heaven and earth."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0642c17",
+          "ToLb": "0643a01",
+          "Kwic": "同行，住則同住，或度水穿雲，或撐門拄戶。」顧左右，云：「一生參學事無成，殷勤抱得栴檀樹。」維新，請上堂。「今朝正月廿六，紛紛好景盈目，不須更問如何，試看新紅嫩綠。若據父母未生前一著子，從本以來無成無壞、無修無證，長短方圓形容他不得、青黃赤白塗污他不得，可謂萬物之祖、諸佛之師。大眾還會麼？會與不會且置，只如因齋慶讚一句作麼生道？」卓拄杖，云：「菩薩子喫飯來。」巨浪靜主請上堂。豎拂云：「黑白未分，此箇先有；世界未成，此箇已具。劫火互天而不壞，旋嵐偃嶽而常寧，迥超釋迦之先，不落彌勒之後。大眾！只如者箇還涉春秋數量也無？放蕩天涯五十年，而今賸得一雙拳，半空雲裏興樓閣，萬仞峰頭泛鐵船，戴角披毛混異類，和泥合水且同躔。愧薄",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment: asking after the parent-before-birth topic what is said for the feast-day phrase, then cracking the staff and answering with Jinniu's own cry to the children of the bodhisattva."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0227a11",
+          "ToLb": "0227a24",
+          "Kwic": "此際，以何為驗？」以拂子擊香几左邊云：「豈不是奇特人？」復擊香几右邊云：「豈不是殊勝事？若向箇裏信得及、作得主，把得住、放得開，便與三世諸佛同一鼻孔出氣，與天地萬物同一根生，與山河大地同一體現。無二無二分，無別無斷故。如是則不求殊勝而殊勝自至，不預津梁而津梁現前。以此營福，何福不臻？以此延生，何生不慶？即今因齋慶讚一句作麼生道？峭壁崚嶒千古峻，林巒蒼翠萬年春。」卓拄杖，下座。上堂。問：「昔日藥山謂高沙彌云：『大有人不受戒亦不作佛，未審是甚麼人？』」師拈拄杖，左邊卓一卓。進云：「只如沙彌具甚麼眼，便道佛戒奚用？」師右邊卓一卓。進云：「今日學人不恁麼道。」師云：「汝又作麼生？」進云：「正好持戒，正好修行。」師打云：「我",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: asking at a donor feast, where trust in the one would breathe through the same nostril as the three-time buddhas, what is said for the feast-day phrase now."
+        },
+        {
+          "RelPath": "X/X72/X72n1439.xml",
+          "FromLb": "0831a15",
+          "ToLb": "0831b11",
+          "Kwic": "云：未在。乃云：木人把板雲中拍，石女含笙水底吹。或有人問：和尚又作麼生？不免向他道：爭敢違背？下座。大悲懺圓滿，弟子林太鼎、陳太育設齋，請上堂。聞聲悟道，見色明心，水不洗水，金不博金。只如雲門云：觀世音菩薩將錢買餬餅，放下手元來却是饅頭。又作麼生？喝云：早知飯是米，何須更忍饑？復云：呪圓三七，功滿一期，因齋慶讚，無願不隨。四海波澄無一事，普天共樂太平時。下座。佛誕日，福城優婆夷弟子鄭道實同男林太鼎設齋，請上堂。師拈拄杖卓一卓，云：悉達今朝恁麼來，火中菡萏又重開，徧空徧界香風起，異種靈苗觸處栽。祇這箇，九龍吐水還洗得著麼？雲門行棒還打得回麼？直饒通身是眼也鑑不出，通身是口讚莫及。且道是箇什麼得恁麼奇特？還委悉麼？",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1439.xml). Chan Master Weilin Daopei’s Fragrant Meal Record. Weilin Daopei owns the retained deployment: sealing the finished three-sevens rite with a feast-day celebration where no wish goes unfollowed and the four seas lie wave-calm."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0700a26",
+          "ToLb": "0700b09",
+          "Kwic": "邀請善友結最勝緣，各各持雲門餅、趙州茶、盧陵米、不溼羹，供養：一、釋迦，二、元和，三、達磨，四、十方羅漢僧，種植金剛甚深般若。般若如大火聚，能容一切頑銅鈍鐵；般若如金剛杵，能碎一切無明窠窟；般若如吹毛劍，能斬一切凡聖等情；般若如聖箭，能透百匝千重。去聖時遙，人心澹薄，學般若菩薩無勇猛心、少決定志。今日山僧因齋慶讚，為菩薩子立箇榜式，如將軍出陣一般，不論如何若何，便請單刀直入。」晚參。「連日欲雨不雨、欲雪不雪，霧露成團，地天交接，禪和眼睛遮得漆黑。山僧問東海龍神借箇霹靂，為諸仁分析。龍神道：『冬月聞雷，恐非時節。』山僧道：『鐵樹開華，又論甚麼時節？』然雖如是，子不語怪力。」晚參。「連日咳嗽，不曾與諸人說話。天帝釋發",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: taking the feast-day turn to post a battle-model for the children of the bodhisattva, single blade straight in like a general taking the field."
+        },
+        {
+          "RelPath": "J/J40/J40nB483.xml",
+          "FromLb": "0223c26",
+          "ToLb": "0224a09",
+          "Kwic": "慧德相，皆因妄想執著而不證得。』所以，法華會上獻珠，記八歲龍女；涅槃會中擲刀，可千數屠兒。人人鼻孔遼天，個個腳跟著地。」以拂子一拂，云：「村歌社舞隨時樂，畦田水口自分明。」郡侯劉公建蘭盆會，請上堂。豎拂子，云：「此是郡侯劉公一片和濟弘仁。」拂一拂，云：「此是眾善信一段報本懃懇。」放下拂子，云：「治平且自因齋慶讚，龍象騰騰，水雲楚楚，一輪紅日正當午，滿盆和樂任飽餐，一派清音信歡舞。五四三，三四五，返魂香，塗毒鼓。」喝一喝，云：「甜瓜徹蒂甜，苦瓠連根苦。」上堂。「九十春光剛已過，欣逢初夏日偏長，擬為得遂翛然志，無端依舊為人忙。且道畢竟為著誰忙？」喝一喝，云：「劍為不平離寶匣，藥因救病出金瓶。」佛誕，上堂。「毘嵐園裏",
+          "MasterName": "Zhufeng Huanmin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB483.xml). Recorded Sayings of Chan Master Zhufeng Min. Zhufeng Huanmin owns the retained deployment: celebrating the feast at the governor's Ullambana basin, where dragons and elephants throng and the full basin's harmony is eaten at will."
+        },
+        {
+          "RelPath": "J/J39/J39nB451.xml",
+          "FromLb": "0512a30",
+          "ToLb": "0512b13",
+          "Kwic": "，聯貫古今，瀰漫上下，令見者、聞者轉煩惱為般若，融世智作真常，將一莖艸成丈六金身，將丈六金身作一莖艸，庶不負檀越願力，祖道重光。」驀拈拂子，云：「即此夏日舒長，熏風匝地，荷池泛綠艤之輕，麥隴吐金莖之秀，原野茵鋪錦繡，丘陵花燦珠璣，者段風光宜人不少，雖則天地玅化，抑乃觸目菩提。仰願大中丞甌卜日下，玉燭增陞，因齋慶讚，扶道弘揚。」復卓拄杖，云：「暫從此日酬高厚，明朝伴我度煙霞。」下座。撫軍王大檀越率文武尊官於五華禪寺懸額，請上堂。「天生良佐輔皇圖，海國枚寧聖教敷。金鼎調元宣至化，龍章蚤徹太平符。額標梵剎垂今古，浴日光天壯佛都。今日乃我大中丞王公結人天緣、舉殊勝典，不惟法門生色，兼使西來大意的體全彰，正道護佛道常興，祖",
+          "MasterName": "Chisong Daoling",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB451.xml). Recorded Sayings of Chan Master Chisongling. Chisong Daoling owns the retained deployment: raising the feast-day celebration before the governor to prop the way, thanking the high office on a summer day of touching-eye bodhi."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1296.xml",
+        "T/T48/T48n2003.xml",
+        "J/J26/J26nB177.xml",
+        "J/J33/J33nB294.xml",
+        "J/J36/J36nB359.xml",
+        "J/J27/J27nB193.xml",
+        "X/X72/X72n1439.xml",
+        "J/J26/J26nB187.xml",
+        "J/J40/J40nB483.xml",
+        "J/J39/J39nB451.xml"
+      ],
+      "RelatedMasters": [
+        "Yangqi Fanghui",
+        "Changqing Huileng",
+        "Jinniu Heshang",
+        "Poshan Haiming",
+        "Liangting Jingting",
+        "Baiyu Jingsi",
+        "Yinyuan Longqi",
+        "Weilin Daopei",
+        "Tian'an Sheng",
+        "Zhufeng Huanmin",
+        "Chisong Daoling"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "By occasion of the feast, to celebrate and praise. Yangqi Fanghui reads the World-Honored One's long silence before the heretic as yielding himself to another, so the heretic's entry is a feast-day celebration, and Changqing Huileng, judging Jinniu's twenty years of dancing the rice-bucket before the hall, calls it much like celebrating the feast and playing to the table. Poshan Haiming, bidden to a feast for Śākyamuni's awakening, says the mountain monk can only celebrate the feast, draws a circle with his staff and asks if the assembly sees; Liangting Jingting, on the birth day, celebrates the feast by indicting the yellow-faced one in a single bill; Baiyu Jingsi closes on the one phrase and answers with Jinniu's own cry — 'children of the bodhisattva, come eat!'; Yinyuan Longqi asks what is said for the feast-day phrase now; Weilin Daopei seals the finished three-sevens with a feast-day celebration where no wish goes unfollowed; Tian'an Sheng takes the feast-day turn to post a battle-model for the children of the bodhisattva, single blade straight in; Zhufeng Huanmin at the Ullambana basin lets dragons and elephants feast on the full basin's harmony; and Chisong Daoling, thanking a governor, raises the feast-day celebration to prop the way."
+    }
+  ]
+}

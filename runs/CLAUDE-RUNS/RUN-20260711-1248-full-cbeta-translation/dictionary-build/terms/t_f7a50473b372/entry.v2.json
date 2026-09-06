@@ -1,0 +1,127 @@
+{
+  "Id": "t_f7a50473b372",
+  "SourceTerm": "狗子還有佛性也無",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:22:58Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "does a dog have buddha-nature, or not",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the dog buddha-nature question",
+        "Zhaozhou's dog and the No"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 253 hits in 112 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0361b18",
+          "ToLb": "0361c03",
+          "Kwic": "云：「又卻人天去也。」師示眾云：「是佗不是不將來，老僧不是不秖對。」僧云：「和尚將什麼秪對？」師長吁一聲。云：「和尚將者箇秪對，莫辜負學人也無？」師云：「你適來肯我，我即辜負你；若不肯我，我即不辜負你。」師示眾云：「老僧今夜答話去也，解問者出來。」有僧才出禮拜，師云：「比來拋塼引玉，只得箇墼子。」問：「狗子還有佛性也無？」師云：「無。」學云：「上至諸佛下至螘子皆有佛性，狗子為什麼無？」師云：「為伊有業識性在。」問：「如何是法身？」師云：「應身。」云：「學人不問應身。」師云：「你但管應身。」問：「朗月當空時如何？」師云：「闍梨名什麼？」學云：「專甲。」師云：「朗月當空在什麼處？」問：「正當二八時如何？」師云：「東東西西",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment: the canonical answer-night: announcing the old monk will answer questions, judging the emerging monk a brick that fetched only a clod, answering the question with No, and defending it — the dog alone lacks what all beings have because karmic consciousness is in him."
+        },
+        {
+          "RelPath": "T/T47/T47n1995.xml",
+          "FromLb": "0659c23",
+          "ToLb": "0660a11",
+          "Kwic": "耕白雲田。七八年來漸成家活。更告諸公。每人出一隻手。共相扶助。唱歸田樂。麁羹淡飯且恁麼過。何也。但願今年蠶麥熟羅睺羅兒與一文。上堂舉南泉云。文殊普賢昨夜三更起佛見法見。各與二十棒。貶向二鐵圍山。白雲則具大慈悲。遂拍手云。曼殊。室利普賢大士不審不審。今後更敢也。無自云。一度被蛇傷。怕見斷井索。上堂云。狗子還有佛性也無。也勝猫兒十萬倍。下座。上堂舉。雪峯問德山。從上諸聖以何法示人。山云。我宗無語句。亦無一法與人。雪峯從此有省。後有僧問雪峯。和尚見德山。得箇什麼便休去。雪峯云。我空手去空手歸。白雲今日說。向透未過者。有兩箇人從東京來。問伊。什麼處來。他却道。蘇州來。便問伊。蘇州事如何。伊道。一切尋常。雖然如是。謾白雲不",
+          "MasterName": "Wuzu Fayan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1995.xml). Recorded Sayings of Chan Master Fayan. Wuzu Fayan owns the retained deployment: making the question his entire hall address and adding one verdict — it also beats a cat a hundred thousand times over — then descending."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0870a05",
+          "ToLb": "0870a21",
+          "Kwic": "看他是箇女流。宛有丈夫之作。能了大丈夫之事。謙禪昨日上來告山僧。子細說些禪病。且與秦國結大眾般若緣。山僧向他道。禪有甚麼病可說禪。又不曾患頭疼。又不曾患脚痛。又不曾患耳聾。又不曾患眼暗。只是參禪底人。參得差別。證得差別。用心差別依師差別。因此差別故。說名為病。非謂禪有病也。如何是佛。即心是佛。有甚麼病。狗子還有佛性也無。無。有甚麼病。喚作竹篦則觸。不喚作竹篦則背。有甚麼病。如何是佛。麻三斤。有甚麼病。如何是佛。乾屎橛。有甚麼病。爾不透了。纔作道理。要透便千里萬里沒交涉也擬心湊泊他。擬心思量他。向舉起處領略。擊石火閃電光處會。遮箇方始是病。世醫拱手。然究竟不干禪事。趙州云。要與空王為弟子。莫教心病最難醫。記得舍利弗問月",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: setting the question in his catalog of the sickness-proof sayings — what sickness is there in mind-is-buddha, in this question, in its No, in the bamboo comb that offends if named and betrays if not."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0209c16",
+          "ToLb": "0209c28",
+          "Kwic": "：「點。」進云：「如何是最初一句？」師云：「如是我聞。」進云：「此是第二句。」師云：「信受奉行。」僧禮拜，師乃云：「諸佛、諸祖只是你諸人自己，若信得及，無明縱有百千大棒也打不著、有百千舌頭也讚歎不及。何故？不見道：第一句中薦得，堪與佛祖為師；如或未然，十二時中也須回光返照看。不是心、不是佛、不是物，是甚麼？狗子還有佛性也無？無是甚麼？如何是佛？麻三斤是甚麼？」上堂，僧問：「如何是南宗？北宗？」師云：「東瓜直儱侗，瓠子曲彎彎。」進云：「學人不會。」師云：「喫了東瓜喫瓠子。」進云：「如何是第一句？」師云：「老僧道不得。」進云：「和尚為甚道不得？」師云：「道得是第二句。」僧禮拜，師乃云：「是法住法位，世間相常住，山是山、水是水、僧",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment: ordering twelve hours of turning the light around on the catalog — not mind, not buddha, not thing: what is it? — then the question, then: what is the No?."
+        },
+        {
+          "RelPath": "X/X70/X70n1397.xml",
+          "FromLb": "0525b08",
+          "ToLb": "0526a04",
+          "Kwic": "口麼？著衣還要問人借手麼？行底、坐底、聞底、見底又是阿誰？一切處、一切時更欠少箇什麼？可謂現成、可謂省力，直下坐斷報化佛頭，如白衣拜相、平地登仙，無第二人、無第二念，盡大地只是一箇自己自是，你自信不及，甘受陸沉，叉手當胸道箇咨和尚也。大屈哉！如今不獲已，向第二義中，略借古人蹊徑，更與你作箇方便。僧問趙州：狗子還有佛性也無？趙州道：無。只遮一箇無字，便是你父母未生前本來面目，便是為你截斷生死夢幻根株底刀子，便是為你照破古今千差萬別底鏡子。只貴向未舉起前，翻身一擲，颺在那邊更那邊，直得洒洒落落，八穴七穿，大用現前，不存軌則。雖然，我恁麼道，也是大海鑿池，虗空釘橛，望他正宗下事，遠之遠矣。作麼生是正宗下事？夜深不如瞌睡好。",
+          "MasterName": "Xueyan Zuqin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X70/X70n1397.xml). Recorded Sayings of Chan Master Xueyan Zuqin. Xueyan Zuqin owns the retained deployment: lending the ancients' path as second-best expedience and ruling that this one No-character is the face before one's parents were born, the knife that cuts the root of birth-and-death dream, and the mirror that sees through all past and present difference."
+        },
+        {
+          "RelPath": "X/X71/X71n1419.xml",
+          "FromLb": "0020b05",
+          "ToLb": "0021a01",
+          "Kwic": "還破得他生死麼？灼然是一點也用不著。儞諸人幸自與佛祖不別，何故甘心下劣，枉受沈淪？你但歇却攀緣、染淨、凡聖、取舍、有無諸念，拈却四大、五蘊、十二處、十八界、和合諸入，有什麼生可貪、死可怖、破與不破來？儞若向外馳求，別要出他生死，一夏又一夏、一秋又一秋，便到彌勒下生也未有成辦時節。珍重！上堂，舉：僧問趙州：狗子還有佛性也無？州云：無。又僧問趙州：狗子還有佛性也無？州云：有。師云：若以無為究竟，後來因甚道有？若以有為諦當，前面因甚道無？者裏捉敗趙州，許儞天上天下。上堂，舉趙州初參南泉，問：如何是道？泉云：平常心是道。州云：還假趣向不？泉云：擬向即差。州云：不擬焉知是道？泉云：道不屬知，不屬不知。知是妄覺，不知是無記。若真達不",
+          "MasterName": "Yuansou Xingduan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X71/X71n1419.xml). Recorded Sayings of Chan Master Yuansou Xingduan. Yuansou Xingduan owns the retained deployment: raising both answers — asked once, No; asked again, Yes — and ruling that if No were final, why the later Yes, if Yes were apt, why the earlier No: catch him out here and heaven and earth are yours."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0067c15",
+          "ToLb": "0067c28",
+          "Kwic": "「圓通門大啟，桔槔累刻不停聲；寶鏡照無私，壺嶠終朝相對面。何必拈槌豎拂，恢張本地風光，鼓舌搖唇，展演衲僧巴鼻？但能一了一切了，一明一切明，歷劫至今常坦然，普請歸家安穩坐。便恁麼去，向國懽手中黑漆拄杖還甘麼？吽吽，相逢莫喜無危路，須信雖平更陷人。」復舉僧問趙州：「狗子還有佛性也無？」州云：「無。」又，僧問：「狗子還有佛性也無？」州云：「有。」師云：「且道：無底是？有底是？說無、說有，畢竟意在於何？這裏覷透，機關七百二十甲子，老趙州正好喚來洗腳。」妙圓請上堂。「治世語言與汝不相干，拋開紫陌紅塵外；佛法奧妙與汝沒交涉，拶出落花流水邊。行住坐臥、喫飯穿衣，且要識取無位真人嘗在面門出入，只如今閒談抵對，歷歷孤明，莫便是無位真人麼？咄",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: raising the same pair and demanding which one is it and where the intent finally rests — see through this and the seven-hundred-twenty-year-old Zhaozhou deserves to be called over for a foot-wash."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0142c02",
+          "ToLb": "0142c15",
+          "Kwic": "舉夾山參船子話畢，乃云：「一橈落水踏翻舟，滿目蘆花兩岸秋，昨夜華亭還說法，雨餘新浪向東流。」師到嘗州廣福院，請上堂。「頭上蔚藍天欲滴，腳底白雲千萬尺，手中拄杖腰下瓢，去去來來無順逆。好消息，踏破草鞋雙腳赤，三頭九臂腦後睛，日日相逢不相識。且道是甚麼人？他與地平磚同胞，本無庶嫡，還會也無？」舉：「僧問趙州：『狗子還有佛性也無？』」師云：「趙州只解四蹄上立柱，不解狗子背上踹橇，山僧今日向狗子背上踹橇去也。」揮拂子，云：「咦！」下座。住杭州淨慈寺語住杭州淨慈寺語上堂。拈香云：「一縷蒼煙祝聖明，九州四海盡昇平，南屏老漢閒無事，白棒掀天破死生。」乃就座。劉長倩居士出云：「兩峰雲起蒼煙迥，一道湖光玉鑑懸，領取眼前玄要句，塔輪尖上吐香煙",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: ruling that Zhaozhou only knew setting posts on four hooves and did not know skating on a dog's back — so today he himself skates there, flourishes the whisk, and cries out."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "J/J24/J24nB137.xml",
+        "T/T47/T47n1995.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J32/J32nB273.xml",
+        "X/X70/X70n1397.xml",
+        "X/X71/X71n1419.xml",
+        "J/J28/J28nB202.xml",
+        "J/J34/J34nB299.xml"
+      ],
+      "RelatedMasters": [
+        "Zhaozhou Congshen",
+        "Wuzu Fayan",
+        "Dahui Zonggao",
+        "Qianyan Yuanzhang",
+        "Xueyan Zuqin",
+        "Yuansou Xingduan",
+        "Baichi Xingyuan",
+        "Hanyue Fazang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Does a dog have buddha-nature, or not? The canonical origin is Zhaozhou's own answer-night: he announces the old monk will answer questions tonight, a monk comes out, bows, is judged a brick thrown to fetch jade that fetched only a clod, and asks; Zhaozhou answers No, and when pressed — every being up to the buddhas and down to ants has buddha-nature, why does the dog alone lack it — because karmic consciousness is in him. Wuzu Fayan makes the question his entire hall address and adds one verdict: it also beats a cat a hundred thousand times over. Dahui Zonggao sets it in his catalog of the sickness-proof sayings — what sickness is there in it, in No, in the bamboo comb that offends if named and betrays if not — and Qianyan Yuanzhang orders twelve hours of turning the light around on it: not mind, not buddha, not thing — what is it? The question, then: what is the No? Xueyan Zuqin, lending the ancients' path as second-best expedience, rules that this one No-character is the face before one's parents were born, the knife that cuts the root of birth-and-death dream, the mirror that sees through all past and present difference; Yuansou Xingduan raises both answers — asked once Zhaozhou said No, asked again he said Yes — and rules that if No were final, why the later Yes; if Yes were apt, why the earlier No: catch him here and heaven and earth are yours; Baichi Xingyuan raises the same pair and demands which one is it, where the intent finally rests — see through this and the seven-hundred-twenty-year old Zhaozhou deserves to be called over for a foot-wash; and Hanyue Fazang rules that Zhaozhou only knew setting posts on four hooves and did not know skating on a dog's back — so today he himself skates there, flourishes the whisk, and cries out."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "Id": "t_8ef7b96ea753",
+  "SourceTerm": "未離兜率，已降王宮",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:38:34Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "before leaving Tushita, already descended to the royal palace",
+      "AlternateTargets": [
+        "not yet gone from Tushita, already in the king's palace"
+      ],
+      "SearchAliases": [
+        "before leaving the Tushita heaven",
+        "already down in the palace",
+        "the birth couplet's first half"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 92 hits in 65 files representing 65 independent works. Evidence floor: 4. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1414.xml",
+          "FromLb": "0296a10",
+          "ToLb": "0296a23",
+          "Kwic": "麼去，法堂前何止草深一丈？放過一著，有箇商量。山門新舊知事，隨年進退因時，請得首座表率、維那舉唱，洗光佛日，重整頺綱。見前諸德一一循規守矩，人人舍短從長，信手揭開釋迦老子青蓮華眼，徐步蹈著達磨大師生鉄脊梁。有底碩學飽參與汝證據，無底良辰美景與汝敷揚。以拂子畫一畫，云：好事不須頻話會，留將和氣暖肝腸。上堂。未離兜率，已降王宮，未出母胎，度人已畢，釋迦老子不唧𠺕。十萬里來，九年面壁，直指人心，見性成佛，達磨大師不唧𠺕。朝往天台，暮歸南岳，撥草擔風，尋師訪道，衲僧家不唧𠺕。拈拄杖卓一下，云：離四句，絕百非，動用揚古路，不墮悄然機。喝一喝。上堂：國師三喚，侍者三應，可謂形直影端。及乎道箇將謂吾孤負汝，却是汝孤負吾，便見分踈不下，且誵",
+          "MasterName": "Liao'an Qingyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liao'an Qingyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1414.xml). Recorded Sayings of Chan Master Liao’an Qingyu. Liao'an Qingyu owns the retained deployment, voicing the couplet and giving Shakyamuni, the founder, and the robe-seeking monk each a not-a-cheep, then lifting the staff and striking once."
+        },
+        {
+          "RelPath": "J/J32/J32nB273.xml",
+          "FromLb": "0220a15",
+          "ToLb": "0220b15",
+          "Kwic": "賢聖，了事凡夫。」真俗流中是箇成佛作祖底漢，恐你學他不得。若學得，豈不偉歟？頌古頌古世尊纔生下，一手指天，一手指地，云：「天上天下，唯吾獨尊。」雲門云：「我當時若見，一棒打殺與狗子喫，貴圖天下太平。」頌曰：結得冤讎報得恩，高提鐵棒打雲門。二千二百餘年後，不謂如今有子孫。世尊未離兜率，已降王宮；未出母胎，度人已畢。日出天歡喜，雲生地起愁。如何人不老，得似水長流。世尊拈花，迦葉微笑。命根欲斷氣未斷，正是臨行撒手時。家活不須分付得，棺材頭哭有親兒。維摩詰問文殊師利：「何等是菩薩入不二法門？」文殊師利曰：「如我意者，於一切法，無言無說，無示無識，離諸問答，是為入不二法門。」於是文殊師利問維摩詰：「",
+          "MasterName": "Qianyan Yuanzhang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "verse-author",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J32/J32nB273.xml). Recorded Sayings of Monk Qianyan. Qianyan Yuanzhang owns the retained deployment, giving the half his own verse, the sun's rise delighting the sky, the clouds' rise grieving the earth, and asking how one could stay unaged like the ever-flowing water."
+        },
+        {
+          "RelPath": "J/J29/J29nB234.xml",
+          "FromLb": "0381b10",
+          "ToLb": "0381b22",
+          "Kwic": "『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』又作麼生？」師云：「知恩解報恩。」進云：「恁麼則臨濟家風今尚在，萬古徽猷正此看。」師云：「眼中著屑。」僧禮退，問：「法筵大啟，四眾雲臻，向上宗風如何舉唱？」師云：「石人頭戴金冠子。」僧禮拜，師便打，乃云：「適來禪者恁麼問，山僧如是答，若也知得落處，便見釋迦老子未離兜率，已降王宮，未出母胎，度人已畢；如或未然，莫怪雲門大師道：『我當時若見，一棒打殺與狗子喫，貴圖天下太平。』秪如釋迦老子纔生下地，便乃露布大人境界，真所謂天中之天、聖中之聖。然則檢點將來，正如嚼飯餧嬰孩，未免傍觀者哂。比若雲門大師正令當行，直得乾坤失色、日月無光，也是為他閒事長無明，要且未見釋迦老子。諸仁者！且道山僧",
+          "MasterName": "Yichu Wuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yichu Wuyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J29/J29nB234.xml). Recorded Sayings of Chan Master Yichuyuan. Yichu Wuyuan owns the retained deployment, holding that whoever knows where the answer lands sees Shakyamuni in the couplet, else the Yunmen master's killing blow buys the world its peace, and faulting the birth show as chewing rice to feed a baby."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0015c07",
+          "ToLb": "0015c21",
+          "Kwic": "放下；狸奴白牯卻知有，憑地昇高。從空放下，無眾生可度；憑地昇高，超佛越祖。超佛越祖，眾生度盡；恒沙佛無眾生可度，諸佛何曾度一人？雖然如是，忽若兩頭坐斷，中間撒開，突出難辨一句又作麼生道？披簑側立千峰外，引水澆蔬五老前。」下座。鄭居士誕日，請上堂。「突出難辨，不容擬議，尋思正眼，豁開洞徹，去來無際。所以道：未離兜率，已降王宮；未出母胎，度人已畢。且道正當恁麼時度個甚麼人？說又恐涉繁詞，諸人各各自悟始得。」卓拄杖，下座。上堂。「子規啼血滿花枝，口口聲聲秪叫歸，不耐時人猶不惺，年年三月又來啼。大眾還委麼？自是不歸，歸便得五湖煙景有誰爭。」卓拄杖，下座。上堂。「聲前一著，人人本自圓成；正體湛然，個個初無向背。秪因不覺，逐色隨聲，捉",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment, voicing the couplet at the birthday seat, asking whom it saves at just that time, and leaving each to wake on their own before the staff falls."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0084c05",
+          "ToLb": "0084c18",
+          "Kwic": "他自未度而度人，為菩薩發心故。果自未度而可度人，為甚大目犍連是神通第一的，度母不得，勞他世尊教供養十方賢聖，仗彼威神方可得度？老僧與汝判去：世尊權衡在手，目連捨重從輕，只知目連母生天，殊不知眾聖賢著賊。還知麼？老僧從西階上，向東階下，若有個漢出來道：『老和尚袈裟著地也。』與我同參有分。」師誕日，上堂。「未離兜率，已降王宮，降王宮後，一場懡㦬。未出母胎，度人已畢，出母胎後，一場懡㦬。致使歷代釘樁搖櫓、把纜放船漢，個個盡道不動步而周遍十方，不開口而言滿天下。蒼天，蒼天，總不如東村西舍，胡張三、黑李四，朝隨流水去，暮踏白雲歸。前日有個衡廷道：『人道此是大解脫場，大無礙處。』被山僧捏住鼻孔，七日不得吐氣，今日卻來為山僧慶壽。壽則",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Altar record of the Stone Rain master. Shiyu Mingfang owns the retained deployment, faulting the descent and the birth each as a blush of shame and preferring Old Zhang of the east village and Black Li of the west, following the stream at dawn and treading white clouds home."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0130a03",
+          "ToLb": "0130a16",
+          "Kwic": "，正是病深不可救藥。大死一回卻活轉來，始知三頭八臂、神出鬼沒，是什麼閒事。」驀豎竹篦子云：「病也病也，還掙扎得出麼？就者裏大有奮迅三昧，祇是不許人知。」以竹篦子擊案。上堂，豎竹篦子云：「有什麼指示？祇是你不肯承當。大須知有從上立地處，莫祇向迦葉門下淹沒。咦！者箇眼如優缽曇華，此宗安得不濫？」浴佛，上堂。「未離兜率，已降王宮；未出母胎，度人已畢。且道淨飯王宮中果有悉達太子麼？當時睹史多天又什麼人說法？作麼生說箇未離已降底道理？」卓拄杖一下，云：「此非你諸人明得底，不如禮拜了退。」繼住芥菴，結夏，上堂。「九十日待汝構取，且構取箇什麼？古人云：『護生須用殺，殺盡始安居。』」豎竹篦子，云：「者箇作麼生殺？」以竹篦擊案，云：「若不揮劍",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment, asking at the bath whether King Suddhodana's palace ever held the crown prince and who then was teaching in Tushita, then striking the staff once and telling them this is not theirs to understand."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0582c01",
+          "ToLb": "0582c13",
+          "Kwic": "佛誕日，圓菩薩戒兼付法孫六吉居士請上堂。問：「三十二相，攙倒浣盆描不就；八十種好，蘸乾香水盡難成。正恁麼時，獨尊之旨向甚麼處著？」師云：「三峰只管看。」進云：「脫珍御，著弊垢，又圖箇甚麼？」師云：「秪為老婆心切。」進云：「二千年前事，今日已見端倪。」師云：「未信你在。」僧便喝，師打，云：「討棒喫。」乃云：「未離兜率，已降王宮；未出母胎，度人已畢。大小棗柏，只見錐頭利，不見鑿頭方。殊不知釋迦老子是箇脫珍御服、著弊垢衣、入泥入水為人底漢。雖契經有云：『淨法界身，本無出沒。』然菩薩若不行於非道，則不名通達佛道。據實而論，兜率內院既有護明大士，淨梵王宮不可無悉達太子，周行目顧自他，降神出胎，說青道黃，還伊度人，說法是法，仍住法位，原",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment, ruling the jujube-cypress master sharp only at the awl's point and blind to the chisel's square, and reading the crown prince as the one who shed the jeweled robe for the patched one and waded into mud and water for people."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1414.xml",
+        "J/J32/J32nB273.xml",
+        "J/J29/J29nB234.xml",
+        "J/J10/J10nA158.xml",
+        "J/J27/J27nB190.xml",
+        "J/J38/J38nB406.xml",
+        "J/J40/J40nB494.xml"
+      ],
+      "RelatedMasters": [
+        "Liao'an Qingyu",
+        "Qianyan Yuanzhang",
+        "Yichu Wuyuan",
+        "Miyun Yuanwu",
+        "Shiyu Mingfang",
+        "Tianran Hanshi",
+        "Yushan Shangsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The first half of the fixed birth couplet: before leaving Tushita, already descended to the royal palace. Liao'an Qingyu sets the half at the hall seat and gives Shakyamuni, the founder, and the robe-seeking monk each a not-a-cheep before the staff strikes once, Qianyan Yuanzhang gives it his own verse, the sun's rise delighting the sky and the clouds' rise grieving the earth, asking only how one could stay unaged like the ever-flowing water, Yichu Wuyuan holds that whoever knows where the answer lands sees Shakyamuni in the couplet, else the Yunmen master's killing blow buys the world its peace, and Miyun Yuanwu voices it at the layman's birthday, asking whom it saves at just that time and leaving each to wake on their own before the staff falls. Shiyu Mingfang faults the descent and the birth each as a blush of shame and prefers Old Zhang of the east village and Black Li of the west, following the stream at dawn and treading white clouds home, Tianran Hanshi presses at the bath of the Buddha whether King Suddhodana's palace ever held the crown prince and who then was teaching in Tushita, then strikes the staff once and tells them this is not theirs to understand, and Yushan Shangsi rules the jujube-cypress master sharp only at the awl's point and blind to the chisel's square, reading the crown prince as the one who shed the jeweled robe for the patched one and waded into mud and water for people."
+    }
+  ]
+}

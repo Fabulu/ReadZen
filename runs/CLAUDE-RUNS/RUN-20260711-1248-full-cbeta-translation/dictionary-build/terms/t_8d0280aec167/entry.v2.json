@@ -1,0 +1,232 @@
+{
+  "Id": "t_8d0280aec167",
+  "SourceTerm": "既然如是",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:12:16Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "since it is so",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "granted that this is so",
+        "that being the case",
+        "since things stand thus"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 338 hits in 128 files representing 125 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0512c01",
+          "ToLb": "0512c08",
+          "Kwic": "到這裏，事絕理絕，超古超今，去亦得、來亦得、行亦得、住亦得。」驀卓拄杖一下云：「都盧收在拄杖頭上，優游自在，放曠逍遙。」喝一喝云：「既然如是，出門一句作麼生道？木人執板林間拍，石女含笙嶺外吹。」到德清縣開封寺，鳴鄒蔡封翁請上堂，師云：「迷封曠劫，開悟剎那，不涉迷悟關頭，別通消息，試道一句看？」良久云：「至道無難，惟嫌揀擇，但莫憎愛，洞然明白。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: strikes the staff once and gathers everything onto the staff-head, roaming free and at ease; since it is so, he asks the line for going out the gate — a wooden man claps the clapper-board in the woods, a stone girl blows the reed-pipe beyond the ridge."
+        },
+        {
+          "RelPath": "J/J40/J40nB472.xml",
+          "FromLb": "0003c06",
+          "ToLb": "0003c14",
+          "Kwic": "」乃云：「張公喫酒李公醉，扶桑人種陝西田，拆東籬、補西壁，續鳧截鶴，者般說話總是懸羊頭、賣狗肉。天津這裏卻不然，山是山、水是水，僧是僧、俗是俗，永字八法分明，決不扭直作曲。既然如是，且道如何保任聻？」復云：「大眾歸堂。」上堂。「畫虎畫皮難畫骨，知人知面不知心。等閑識得淨裸裸、光爍爍，充滿太虛，周遍法界。到這裏，將大千界撮來如粟米大，拋向面前總不見得。且道承誰恩力？",
+          "MasterName": "Dabo Qian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dabo Qian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. Dabo Qian owns the retained deployment: concedes that his Tianjin is otherwise — mountains are mountains, monks are monks, the eight strokes of the character for eternity distinct, never twisting straight into crooked — and since it is so asks how to keep and nourish it, sending the assembly back to the hall."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0842a11",
+          "ToLb": "0842b04",
+          "Kwic": "點進云直得通身手眼也駐脚不得師云僧堂佛殿從你脚跟下走過為甚麼却不知進云天知地知某甲今日敗闕師云蚊子上鐵牛無你下觜處進云任是達磨大師也須來和尚手中乞命師云達磨大師有甚麼過進云只為和尚出他一頭地師云人平不語水平不流進云某甲也車不橫推理無曲斷師云既然如是特地生風起浪作甚麼進云只見錐頭利不見鑿頭方師云也是雪上加霜進云洞眀佛祖大鉗鎚啟迪作家真爐韛師云蒸餅裏計汁進云好手手中誇好手紅心心裏中紅心有甚麼過師云育王退身有分進云某甲到這裏滿口嚼氷霜逢人說不得師云始終作家僧問承師有言蚊子上鐵牛無你下觜處當恁麼時請師答話師云我不答你這話進云和尚話墮也師云普進云相隨來也師云今年春氣早虫󳌬出頭來。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: cross-examines in dialogue — the level person does not speak and level water does not flow — and since it is so asks why one deliberately raises wind and waves."
+        },
+        {
+          "RelPath": "J/J28/J28nB212.xml",
+          "FromLb": "0475a23",
+          "ToLb": "0475b01",
+          "Kwic": "其或未見，卻煩維那宣讀。」宣畢。師陞座。「乾坤天地闊，到處盡光輝，顯露多增色，提持向上機。既然如是，在彼在此，無非本地風光；盈谷盈廛，總是自家境界。正恁麼時，進退一句作麼生道？虎伏深巖風息怒，龍行遍界有雲從。」入院。山門。「慧門廣闢，梵閣重開，不勞斂念彈指，觸處無非妙臺。且道是甚麼人行履？",
+          "MasterName": "Eryin Mi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Eryin Mi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB212.xml). Recorded Sayings of Chan Master Eryin Mi. Eryin Mi owns the retained deployment: after the vow is read out he mounts the seat and verses the wide heaven-and-earth, then since it is so rules that in every place it is the local scenery and one's own territory, asking the advance-and-retreat line at just such a time."
+        },
+        {
+          "RelPath": "J/J28/J28nB220.xml",
+          "FromLb": "0784c11",
+          "ToLb": "0784c18",
+          "Kwic": "今日不敢被蓋囊藏，特對人天眾前轉相付授，務必星分碁布、草偃風行，撐持祖父門墻，宏紹正法眼藏。既然如是，且五葉流芳一句作麼生道？」一卓，云：「但願春風齊著力，枝枝發艷吐輝煌。」下座。弟子機蘭、開文、制一為師誕辰，請上堂。問：「一年一度新，森羅咸稽首，且道如何是慶生句？」師豎拂，云：「龜毛拂子三千丈。",
+          "MasterName": "Faxi Yin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Faxi Yin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB220.xml). Recorded Sayings of Chan Master Faxiyin. Faxi Yin owns the retained deployment: at the open transmission before the assembly — the seal not bagged and hidden but handed on face to face, holding up the founder's wall — since it is so asks the line of the five petals' fragrance, one tap: may the spring wind push together and every branch burst into splendor."
+        },
+        {
+          "RelPath": "J/J35/J35nB340.xml",
+          "FromLb": "0762b18",
+          "ToLb": "0762b25",
+          "Kwic": "」乃云：「鐵漢提鉏取礦，太陽捧日求燈，只因不識自己，所以向外馳尋，生成頂天立地，長就鼻直眉橫，終不履冠戴履，何勞掩耳求聲？明明為汝道破，八兩原來半觔。既然如是，且道不是心、不是佛、不是物畢竟作麼生？」喝一喝，云：「本是膃肭臍，喚作海狗腎。」為穗安居士請上堂。「無扊扅門闥，盡力扣難開；沒關鍵奧堂，放身挨不入。腳下紅絲未斷，手頭瓦子欠靈，一向信二疑三，致令進五退七。",
+          "MasterName": "Huijue Yi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huijue Yi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J35/J35nB340.xml). Recorded Sayings of Chan Master Huijueyi. Huijue Yi owns the retained deployment: concedes the person grown top-of-heaven standing and nose-straight brow-across who never dons cap or shoes, then since it is so asks the after-all-what of not-mind, not-buddha, not-thing — eight ounces turns out half a catty, the fur-seal's navel called sea-dog kidney."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0663b15",
+          "ToLb": "0663b22",
+          "Kwic": "及其既雨，黍秀苗興，擊壤謳歌，惟雨之是喜，不可以名狀得也。若要如是，卻須如是；既然如是，方能如是。不見昔日有一人悟後問古德曰：『此事本來現成，何須教學人百計搜求？』古德曰：『若不如是，子安能有今日也？』幸各勉旃，不煩久立。」晚參。「法離言說，道絕方隅。大海不著死屍，龍門豈有宿客？",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: runs the rain that comes when it must, the millet sprouting and the people singing hand-clapping songs — if you want it thus you must be thus, since it is thus only then can it be thus — then raises the one who asked why seek at all."
+        },
+        {
+          "RelPath": "J/J34/J34nB300.xml",
+          "FromLb": "0238c13",
+          "ToLb": "0238c21",
+          "Kwic": "」僧擬議，師便打，乃云：「淨裸裸坐斷千差，赤灑灑全身獨露，上是天、下是地，左是禪堂、右是方丈，前面是佛殿、者裏是法堂，真箇是無所住大解脫底境界。既然如是，為甚喚作竹篦則觸、不喚作竹篦則背？不見道：莫動著，動著打折你腰。」下座。上堂。刷印僧問：「即心即佛則不問，非心非佛是如何？」師云：「非你境界。」進云：「為甚又道不是心、不是佛、不是物？",
+          "MasterName": "Chaozong Tongren",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chaozong Tongren",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB300.xml). Recorded Sayings of Chan Master Chaozong. Chaozong Tongren owns the retained deployment: concedes the great release of no-dwelling — up is sky and down is earth, left the Chan hall and right the abbot's quarters — and since it is so asks why calling it a bamboo comb bumps and not calling it betrays: move it and the waist gets broken."
+        },
+        {
+          "RelPath": "J/J40/J40nB474.xml",
+          "FromLb": "0026c29",
+          "ToLb": "0027a07",
+          "Kwic": "向這裏緇素分明，不必他求，則知佛祖之道人人有分，元無欠缺，淨裸裸、赤灑灑，攝沙界於毫端，融古今於當處。既然如是，只如超佛越祖一句作麼生道？萬象齊作舞，虛空暗點頭。」張洪宇領眾檀越等請上堂。乃云：「若論這一著子，日月照臨不到，天地覆載不著，十聖不知，三賢未曉。且道許什麼人知？」舉拂子，云：「若向這裏會得去，隨機利物，就語接人，紹隆聖種，擔荷正宗，百千三昧，彈指圓成。",
+          "MasterName": "Liaozong Chaojian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Liaozong Chaojian",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB474.xml). Recorded Sayings of Chan Master Liaozong of Panshan. Liaozong Chaojian owns the retained deployment: rules that the way of buddha and patriarch is everyone's share with nothing lacking, stark naked and bare, the sand-world gathered on a hair-tip and past-and-present melted into this very spot — since it is so, the line past buddha and patriarch: the ten thousand forms dance together and the empty sky secretly nods."
+        },
+        {
+          "RelPath": "J/J28/J28nB202.xml",
+          "FromLb": "0023b28",
+          "ToLb": "0023c06",
+          "Kwic": "一者、灶無柴燒，二者、鍋無米煮，三者、菜麥爛根，四者、床頭積水。我出家兒，高堂廣廈雖則受用，多般默坐思量，鼻孔無處曬，眼也太苦哉。「既然如是，普請大眾佛殿裏燒香，同演蓮經，妙義伏，捲盡濃雲絕點埃，紅輪湧出玉樓臺，普天匝地陽和氣，白牯黧奴笑滿腮。且畢竟以何為驗？」遂舉拂子，打圓相，云：「還見麼？」下座。超輝顧氏請上堂。僧問：「歷劫來事則不問，薦揚一句是如何？",
+          "MasterName": "Baichi Xingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baichi Xingyuan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB202.xml). Recorded Sayings of Chan Master Baichi. Baichi Xingyuan owns the retained deployment: counts the monk's four hardships — no fire under the hearth and water pooled at the bed-head, nowhere to air the nostrils — and since it is so calls the assembly to the buddha hall to burn incense and perform the lotus teaching together, the red wheel rising from the jade tower."
+        }
+      ],
+      "SourceTexts": [
+        "J/J25/J25nB171.xml",
+        "J/J40/J40nB472.xml",
+        "M/M59/M59n1540.xml",
+        "J/J28/J28nB212.xml",
+        "J/J28/J28nB220.xml",
+        "J/J35/J35nB340.xml",
+        "J/J26/J26nB187.xml",
+        "J/J34/J34nB300.xml",
+        "J/J40/J40nB474.xml",
+        "J/J28/J28nB202.xml"
+      ],
+      "RelatedMasters": [
+        "Tianyin Yuanxiu",
+        "Dabo Qian",
+        "Dahui Zonggao",
+        "Eryin Mi",
+        "Faxi Yin",
+        "Huijue Yi",
+        "Tian'an Sheng",
+        "Chaozong Tongren",
+        "Liaozong Chaojian",
+        "Baichi Xingyuan"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "A hand-off hinge: the speaker concedes the whole first half of the turn and immediately spends the concession — the line for leaving the gate, the line past buddha and patriarch, or why the bamboo comb both names and betrays. The demand side: Tianyin Yuanxiu strikes the staff once and gathers everything onto the staff-head, then since it is so asks the line for going out the gate — a wooden man clapping the clapper-board in the woods, a stone girl blowing the reed-pipe beyond the ridge; Eryin Mi verses the wide heaven-and-earth, and since it is so rules that here and there are all the local scenery and one's own territory, asking the advance-and-retreat line; Faxi Yin at the open transmission — the seal not bagged and hidden but handed on face to face — asks the line of the five petals' fragrance, one tap: may the spring wind push together, every branch burst into splendor; Liaozong Chaojian rules the way of buddha and patriarch everyone's share with nothing lacking, and since it is so asks the line past buddha and patriarch — the ten thousand forms dance together and the empty sky secretly nods. The cross-examination side: Dabo Qian concedes that his Tianjin is otherwise — mountains are mountains, monks are monks, the eight strokes of the character for eternity distinct — and since it is so asks how to keep and nourish it, sending the assembly back to the hall; Dahui Zonggao, told the level person does not speak and level water does not flow, asks since it is so why one deliberately raises wind and waves; Huijue Yi concedes the person grown top-of-heaven standing, nose straight and brow across, then asks the after-all-what of not-mind, not-buddha, not-thing — the fur-seal's navel called sea-dog kidney; Tian'an Sheng runs the timely rain and the hand-clapping songs — if you want it thus you must be thus, since it is thus only then can it be thus; Chaozong Tongren concedes the great release of no-dwelling and asks why calling it a bamboo comb bumps and not calling it betrays; Baichi Xingyuan counts the monk's hardships and since it is so calls the assembly to the buddha hall to burn incense and perform the lotus teaching together."
+    }
+  ]
+}

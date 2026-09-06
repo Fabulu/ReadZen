@@ -1,0 +1,205 @@
+{
+  "Id": "t_923437fe8834",
+  "SourceTerm": "出門便是草",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "step out the gate and it is grass",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "grass the moment you leave the door",
+        "no way out of the gate that is bare"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 182 hits in 105 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T48/T48n2004.xml",
+          "FromLb": "0269c25",
+          "ToLb": "0270a11",
+          "Kwic": "一粒生。霜曰。然則這一粒。自何處生。溈大笑歸方丈。晚上堂曰。大眾米裏有蟲。後參道吾。問觸目菩提。吾喚沙彌添淨瓶水。悟如前舉。霜在道吾。兩夏而受印。會昌之厄。混跡潭州瀏陽陶家坊。朝游夕處。大中初有僧。自洞山至舉。洞山初秋夏末。兄弟或東或西。直須向萬里無寸草處去。良久曰。只如萬里無寸草處。又作麼生去。霜曰。出門便是草。僧復舉似洞山。山曰。此是一千五百人善知識語。且大唐國裏能有幾人。囊錐始露住石霜道場。果符悟本之記。二十年海眾千餘。往往長坐不臥。屹若株杌。枯木堂名自茲立焉。僧問撥塵見佛。所問是一。夾山道。若不揮劍漁父棲巢。石霜道。渠無國土何處逢渠。萬松道。入理深談不如石霜。門庭施設猶較夾山百步。莫有兩彩一賽底麼。天童",
+          "MasterName": "Shishuang Qingzhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shishuang Qingzhu",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Wansong Xingxiu",
+              "Roles": [
+                "record-owner",
+                "later-raiser"
+              ]
+            },
+            {
+              "MasterName": "Dongshan Liangjie",
+              "Roles": [
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2004.xml). Wansong’s Commentary and Chanting on Tiantong Jue’s Verse-Comments on the Ancients: Record of the Congrong Hermitage. Shishuang Qingzhu owns the retained deployment: hidden among the potters of Liuyang after the persecution years, answers the monk who carries Dongshan's word of the ten-thousand li without a blade of grass and of how to go even there, with the five graphs alone, step out the gate and it is grass, and when it is carried back, Dongshan rules it the word of a teacher of a thousand five hundred and asks how many such men the great Tang holds."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0832a24",
+          "ToLb": "0832b18",
+          "Kwic": "遂召大眾曰是什麼。上堂山僧略陞此座大眾永息狐疑各各金毛師子去來哮吼全威臨際高聲連喝德山拈棒痛槌縱有一言半句終不別作路岐大眾抖擻精神着瞌睡作麼是甚生次第事你自鈍置山僧恁麼道要人到不要人到試點撿看。上堂舉洞山和尚示眾曰兄弟初秋夏末或東去西去直須向万里無寸草處去始得又曰秖如万里無寸草處作麼生去石霜聞之乃曰出門便是草僧舉似洞山洞山曰大唐國內能有幾人師曰出門便是草閑殺龍門老北去禮文殊南來登五老𩯭髮已蒼浪言歸恨不早獨立秋風前相思望江島好好不用更尋討。上堂什麼物恁麼來休將明鏡挂高臺什麼物恁麼去分明不用當頭舉舉得分明得更難澄潭不許蒼龍盤便恁會太無端遂拍手呵呵大笑云華藏毗盧世界寬。上堂好一隊其中人還見其中事麼若是其中人必見",
+          "MasterName": "Foyan Qingyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Foyan Qingyuan",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Foyan Qingyuan owns the retained deployment: raises Dongshan's summer-end word in hall, the ten-thousand li without a blade of grass and how to go even there, and Shishuang's answer carried back with Dongshan's ruling, then answers with the same five graphs himself, step out the gate and it is grass, it idles the old man of Longmen, north to bow to Wuzhu, south to climb the Five Elders, hair already white, regretting he did not return sooner, standing alone in the autumn wind gazing at the river isle, told plainly to seek no further."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0834b26",
+          "ToLb": "0834c14",
+          "Kwic": "當心即知見。知見即如今。如今即且置。古佛與露柱相交。占波共新羅鬪額。萬里圓光頂後相。雲門北斗裏藏身。睦州擔板趙州喫茶。又作麼生商量。遂喝一喝云。若不喝住。幾乎亂却六十甲子。下座。上堂舉洞山和尚夏末示眾云。初秋夏末。兄弟東去西去。直須向萬里無寸草處去。前後下語者皆不契。有僧傳此語到石霜。霜云。何不道。出門便是草。洞山聞得深肯之。謂瀏陽有古佛出世。師云。萬里無寸草。但請恁麼去。出門便是草。各自有公據。有公據何拘束。清風月下守株人。涼兔漸遙春草綠。中秋上堂。人有心看月。月無心照人。有無成一片。方始得惺惺。驀拈拄杖卓一下云。這箇不可不惺惺。擲下云。若知撲落非他物。始信縱橫不是塵。上堂。纔方八月中秋。又是九月十五。拈",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: raises the case in hall, Dongshan's summer-end word, the searchers whose words all missed, the monk carrying it to Shishuang, his five graphs, and Dongshan's deep assent calling Liuyang the birth of an old buddha, then rules with a verse that the ten-thousand li just go that way, stepping out the gate it is grass, each with his own warrant, and with a warrant why be bound, the stump-keeping man under the clear wind watching the cool hare recede into spring-grass green."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "0994c17",
+          "ToLb": "0995a04",
+          "Kwic": "。長期已滿。布袋頭開。江南江北。依舊水鄉。黃葉黃花。無非秋色。學人便與麼去時如何。師云。掘地深埋。僧云。與麼則楖栗橫擔不顧人。直入千峯萬峯去。師云。露濕草鞋重。僧云。若不垂芳餌。爭知碧沼深。師便喝。僧禮拜。師乃云。一葉落天下秋。認奴作郎。一塵起大地收。猶有跡在。初秋夏末。直須向萬里無寸草處去。乾茅引火。出門便是草。見人富貴常歡喜。莫把心頭似火燒。恁麼恁麼。四路葛藤。一時拈却。不恁麼不恁麼。九旬功用。驗在今宵。十洲三島任遨遊。雁蕩天台從出沒。只如雲門道還我九十日飯錢來。又作麼生。復舉。黃檗因。臨際辭。檗云。甚處去。際云。不是河南便是河北。檗便打。際約住棒。遂與一掌。檗呵呵大笑。喚侍者。將百丈先師禪板拂子來。際亦",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: at the long session's end with the bag opened, after the exchange on burying the spade deep and the wet grass-shoes heavy, tells the assembly that one leaf falls and the whole sky is autumn, one speck rises and the whole earth is gathered, yet a trace remains, early autumn late summer one must go to the place of no blade of grass, dry thatch takes fire, step out the gate and it is grass."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0005c24",
+          "ToLb": "0006a07",
+          "Kwic": "喝，云：「且道悟上座一喝與古人相去多少？莫有端的者，試端的看。」良久，復喝一喝，下座。上堂。「六月日頭真個熱，赤肉團邊如火逼，試問現前眾弟兄，無位真人徹未徹？若也已徹，向無陰陽地上豎去橫來；若也未徹，未免來日熱如今日。」下座。上堂，舉：「洞山云：『兄弟東去西去，直須向萬里無寸草處去。』石霜聞云：『何不道出門便是草？』又有老宿云：『直得不出門，亦是草漫漫地。』」師驀拈拄杖云：「者一隊老古錐將謂發明本分，卻不知翻成分外，以致後人向東去、西去，千里、萬里，出門、不出門，是草、非草處商量。禹門今日不惜手腳……」以拄杖畫一畫，云：「為汝諸人一時畫斷，令汝等個個如大象王，縱步自繇；人人如真師子，奮起全威哮吼一聲，師子兒聞咸皆聳",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: raises the whole line in hall, Dongshan's going east and west to the place of no blade of grass, Shishuang's why not say step out the gate and it is grass, and the old master's extension that even not going out it is grass everywhere, then judging that this crew of old augers meant to illumine the original lot and instead turned it into something extra, so that later folk bargain over east and west, a thousand li and ten thousand, out the gate and not out, grass and not-grass, he snatches up the staff and draws one stroke to cut it through for them all."
+        },
+        {
+          "RelPath": "X/X71/X71n1412.xml",
+          "FromLb": "0485a03",
+          "ToLb": "0485a17",
+          "Kwic": "來大惠和尚道：二大老相見，如日月麗天，龍象蹴踏。未審還端的也無？師云：土上加泥又一重。進云：瑯瑘後遇慈明舉此話，慈明云：舉見處才能自了，是汝負墮，為復肯伊不肯伊？師云：一點水墨，兩處成龍。進云：可謂龍得水時添意氣，虎逢山色長威獰。師云：無人處斫額望汝。僧禮拜，師乃云：秋初夏末，東去西去，萬里無寸草處去，出門便是草，擬向甚麼處去？古人事不獲已，開却通天大路，又謂之清淨大寂滅，悔與諸人同出同入，初無絲毫差別、彼我之相，直下會得，九十日內功不浪施，明朝自恣之辰，一任東去西去，只不得向萬里無寸草處去。何故？盖為諸人未曾踏著者一路子，所以前頭大有事在。雪峰云：盡大地是解脫門，把手拽不入。雲門云：盡大地是解脫門，枉作佛法會",
+          "MasterName": "Gulin Qingmao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gulin Qingmao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1412.xml). Recorded Sayings of Chan Master Gulin Qingmao. Gulin Qingmao owns the retained deployment: at the mutual-invitation close, after the dialogue on the two elders meeting like sun and moon in the sky, tells the brothers that early autumn late summer, going east and west, to the place of no blade of grass, step out the gate and it is grass, so where then will you go, the ancients forced by circumstance having opened the great road through to heaven, and next day at the invitation rite they may go east and west as they please, only not to the place of no blade of grass, since they have never yet trodden that one path."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0544b18",
+          "ToLb": "0544c01",
+          "Kwic": "云：『阿那箇山可住？』居云：『阿那箇山不可住？』洞云：『與麼則國內總被闍黎占卻也。』居云：『不然。』洞云：『與麼則子得箇入路。』居云：『無路。』洞云：『若無路，爭得與老僧相見？』居云：『若有路，即與和尚隔生也。』洞云：『此子已後，千人萬人把不住。』」師拈云：「今時人要覓箇山子住，且看雲居踏山樣子。若不如斯，出門便是草漫漫。雖然，不是洞山老漢也勘驗他不出，可謂作家相見，如珠走盤、盤走珠，縱橫無礙。豈比迷頭認影，敲冰索火，緣木求魚者同日語哉？今日有人踏山來，我且問你：『有路來？無路來？』若有路來，要且不合雲居老人；謂無路來，又不合洞山和尚；若有路無路，磬山道箇俱隔。如是作麼生合得古人去？試道看。」舉：「玄沙一日見三人新",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: turns the five graphs on the Yunju mountain-surveying case after reciting the dialogue on which mountain can be lived on and there being no road, ruling that anyone today hunting a mountain to live on should study Yunju's manner of treading the hills, for were it not so, out the gate it is grass stretching everywhere, the two ancients meeting like a pearl rolling in the bowl and the bowl rolling round the pearl, nothing like the head-lost shadow-chasers who strike ice for fire."
+        },
+        {
+          "RelPath": "J/J27/J27nB190.xml",
+          "FromLb": "0094b01",
+          "ToLb": "0094b14",
+          "Kwic": "誰共我遊山好？遊山好，遊山好，試問遊山有何好？名韁利鎖不能牽，秋林落葉隨風掃。大眾！今日齋主特為求福故，請山僧登座。為甚麼只管長歌短唱？」乃驀拈拄杖，曰：「看看，此是莊嚴百福身，時人盡向外頭討。不向外頭討，還向裏頭討得麼？」復擊拄杖，曰：「且喜助歌聲有鳥，勸君一念早回頭，家家有個來時道。來時道，無玄奧，須信出門便是草。為甚麼道不出門亦是草聻？路逢死蛇莫打殺，無底籃子盛將歸，又作麼生？」卓拄杖，曰：「阿誰共我遊山好？」壽紹南老居士請師顯教寺上堂。「乾坤之內、宇宙之間，中有一寶，秘在形山。古人可謂藏頭露尾，今日特為大眾全身顯露。祖師道：『在眼曰見，在耳曰聞，在鼻嗅香，在口談論，在手執捉，在足運奔。』此是寶在六門顯現處，為",
+          "MasterName": "Shiyu Mingfang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Shiyu Mingfang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB190.xml). Dharma Platform of Chan Master Shiyu. Shiyu Mingfang owns the retained deployment: at the feast where the patron asks why the mountain monk only sings long and short, striking the staff on the hundred-blessings body that folk seek outside, sings the coming-road song, that the road they came by has no dark recess, believe that step out the gate it is grass, and why do they say not going out is also grass, meet a dead snake on the road, do not kill it, carry it home in the bottomless basket, then what."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "T/T48/T48n2004.xml",
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1998A.xml",
+        "T/T47/T47n2000.xml",
+        "J/J10/J10nA158.xml",
+        "X/X71/X71n1412.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB190.xml"
+      ],
+      "RelatedMasters": [
+        "Shishuang Qingzhu",
+        "Wansong Xingxiu",
+        "Dongshan Liangjie",
+        "Foyan Qingyuan",
+        "Dahui Zonggao",
+        "Xutang Zhiyu",
+        "Miyun Yuanwu",
+        "Gulin Qingmao",
+        "Tianyin Yuanxiu",
+        "Shiyu Mingfang"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The rear half of the pair Dongshan set at summer's end, and the line of masters who wore it after Shishuang first said it. Shishuang Qingzhu, hiding among the potters of Liuyang after the persecution years, answers the monk who carries Dongshan Liangjie's word of the ten-thousand li without a blade of grass with the five graphs alone, step out the gate and it is grass, and when it is carried back Dongshan rules it the word of a teacher of a thousand five hundred, while Wansong Xingxiu, who keeps the record, ranks its principle-talk past Jiashan's and still grants the gate-display a hundred-step lead, Foyan Qingyuan raises the same word in hall and answers it with the same five graphs himself, idling the old man of Longmen who north would bow to Wuzhu and south climb the Five Elders, hair already white, regretting he did not return sooner, Dahui Zonggao raises the pair and rules that the ten-thousand li just go that way, stepping out the gate it is grass, each with his own warrant, the stump-keeping man under the clear wind watching the cool hare recede into spring-grass green, and Xutang Zhiyu at the opening of the bag at retreat's end makes dry thatch take fire, one leaf falling and the whole sky autumn, a speck of dust rising and the whole earth gathered in. Miyun Yuanwu raises the whole line of old augers, Shishuang's word and the old master's extension that even not going out the gate it is grass everywhere, and judging that they meant to illumine the original lot and instead turned it into something extra, so that later folk bargain over going east and west, a thousand li and ten thousand, out the gate and not out, grass and not-grass, he draws one stroke with the staff and cuts it through for them all, Gulin Qingmao at the mutual-invitation close tells the brothers that early autumn and late summer, going east and west, to the place of no blade of grass, step out the gate and it is grass, so where then will you go, the ancients having opened the great road through to heaven, and next day at the invitation rite they may go east and west as they please, only not to the place of no blade of grass, Tianyin Yuanxiu turns the five graphs on Yunju's mountain-surveying, that anyone hunting a mountain to live on should study Yunju's manner of treading the hills, for were it not so, out the gate it is grass stretching everywhere, the two of them meeting like a pearl rolling in the bowl, and Shiyu Mingfang sings the coming-road song at the feast, that the way they came has no dark recess, believe that step out the gate it is grass, and why do they say not going out is also grass, meet a dead snake on the road, do not kill it, carry it home in the bottomless basket."
+    }
+  ]
+}

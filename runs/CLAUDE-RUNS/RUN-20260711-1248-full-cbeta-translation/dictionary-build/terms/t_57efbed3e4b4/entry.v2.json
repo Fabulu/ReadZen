@@ -1,0 +1,238 @@
+{
+  "Id": "t_57efbed3e4b4",
+  "SourceTerm": "東西南北",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "all quarters at once",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "everywhere at once",
+        "any direction you please"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 529 hits in 185 files. Guide depth floor: 7. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0733a17",
+          "ToLb": "0733b11",
+          "Kwic": "起拄杖云拄杖不是途說話不是途。舉法身喫飯幻化空身即法身師云乾坤大地何處有也物物不可得以空噇空若約點撿來將謂合有與麼說話。舉應化非真佛亦非說法者師曰應化之身說即是法身說亦喚作覿體全真以法身喫法身又云飯不是法身拄杖不是法身有時云宗門七縱八橫殺活臨時僧便問如何是殺師云冬去春來僧云冬去春來時如何師云橫擔拄杖東西南北一任打野榸。示眾云任你橫說豎說未是宗門苗裔若據宗門苗裔是甚熱椀鳴三乘十二分教說夢達磨西來說夢若有老宿開堂為人說法將利刀殺却百千萬箇有什麼過又云將謂合有與麼說話底道理一日云拈槌豎拂彈指揚眉一問一荅並不當向上宗乘僧便問如何是向上宗乘師云地下閻浮大家捴道得秖如閙市裏坐朝時猶肉案頭𦭘坑裏蟲子還有超佛越祖之談麼",
+          "MasterName": "Yunmen Wenyan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunmen Wenyan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Yunmen Wenyan owns the retained deployment: answers what comes after winter turns to spring with the staff carried across the shoulders and free wandering in all quarters."
+        },
+        {
+          "RelPath": "T/T47/T47n1992.xml",
+          "FromLb": "0596c10",
+          "ToLb": "0596c25",
+          "Kwic": "者。即便齩殺。有何方便。入得汾陽門。得見汾陽人。若見汾陽人者。堪與祖佛為師。不見汾陽人。盡是立地死漢。如今還有人。入得門麼。快須入取免得辜負平生。不是龍門客。切忌遭點額。那箇是龍門。客一齊點下。舉起拄杖云。速退速退。上堂云。乾坤寬廓。宇宙橫鋪。衲僧分上。左穿右穴。樵父檐柴。醫王辨價。藥多病甚。網細魚稠。東西南北。衝霜蹈雪。不避寒暄。要明斯事也。須是箇一刀兩斷漢始得。只恁麼哄哄恫恫地爛。冬瓜相似。有什麼成辦。齩斷兩頭。猶是惹泥帶水。豈更因循可惜許兄弟。正法難聞。正因難發。何不自省去。譬如兩陣相逢。不讓先手。掣鼓奪旗。快須與徹。人人慷慨。各各英豪大丈夫兒。莫教辜負行心虛消信施。山雲廣闊。有什麼休時。若不自智玄通決定",
+          "MasterName": "Fenyang Shanzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Fenyang Shanzhao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1992.xml). Recorded Sayings of Chan Master Wude of Fenyang. Fenyang Shanzhao owns the retained deployment: pictures the seeker crossing frost and snow through all quarters to cut the one thing in two."
+        },
+        {
+          "RelPath": "T/T47/T47n1996.xml",
+          "FromLb": "0683a22",
+          "ToLb": "0683b09",
+          "Kwic": "我不似雲門為蛇畫足。直言向爾道。問者如蟲蝕木。答者偶爾成文。然雖恁麼瞎却衲僧眼。作麼生免得此過。諸仁者要會麼。還爾趙州喫粥。未拈却者僧喫粥了。雪竇與爾拄杖子。歸堂。舉。雲門大師云。盡十方世界乾坤大地。天下老和尚。以拄杖一畫云。百雜碎。師云。者老漢。是即是。要且未有出身之路。如今拄杖在雪竇手裏復橫按云。東西南北甚處得來。舉。僧問投子。如何是十身調御。投子下繩床立。又問。凡聖相去多少。投子下繩床立。師云。此公案。諸人無不委知。若漝麼舉。天下衲僧盡為念話社家。雪竇莫有長處也無。試為大眾舉看。凡聖相去多少。投子下繩床立。如何是十身調御。投子下繩床立。且道與前來舉底同別。若道一般。許上座具一隻眼。若云別有奇特。也許上",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1996.xml). Recorded Sayings of Chan Master Mingjue. Xuedou Chongxian owns the retained deployment: holds the staff sideways in his own hand and asks where the quartered world comes from."
+        },
+        {
+          "RelPath": "T/T48/T48n2001.xml",
+          "FromLb": "0044a14",
+          "ToLb": "0044b01",
+          "Kwic": "去也。山云。作麼作麼。廓云。勅點飛龍馬。跛鼈出頭來。山便休。來日浴出。廓過荼與德山。山撫廓背一下。廓云。這老漢今日方始瞥地。山又休。師云。在家尊貴。不受一點塵埃驀路相逢。別是一般光彩。德山廓侍者。皆是十成了事底人。為什麼被天童撿點。還相委悉麼。衲僧奪得連城壁。秦主相如懡㦬歸。上堂閑若雲。虛若谷。善應無方。東西南北。局中生殺路纔迷。爛却斧柯歸不得。若是箇漢。時行即行。時止即止。去也恁麼去。去無所去。來也恁麼來。來無所來。諸人還體悉得麼。高提黑白前前著。贏盡縱橫十字機。上堂密密住其中。靈然空不空。一牛纔飲水。五馬不嘶風。位裏亡消息。機頭有變通。三千大千事。彈指入圓融。上堂。三界唯心唯心三界。一切法空觀自在。處處",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Hongzhi Zhengjue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2001.xml). Extensive Record of Chan Master Hongzhi. Hongzhi Zhengjue owns the retained deployment: sets responding with no fixed direction against the life and death bred inside the board of the quarters."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0814a16",
+          "ToLb": "0814b10",
+          "Kwic": "道須自得方為道清畏人知始是清師云烏龜入水進云有時冷地思量著暗寫愁腸付與誰師云你作麼生思量僧舉起拳云只這箇師云這箇且止那箇如何進云只如和尚尋常室中道喚作竹篦即觸不喚作竹篦即背不得下語不得無語畢竟如何師云也無畢竟也無如何進云飜身獅子大家看師云也無飜身獅子進云只如僧問雲門樹凋葉落時如何門云體露金風意旨如何師云東西南北四維上下進云樓閣千家月江湖萬里秋便禮拜僧問南泉道釋迦彌勒猶是他奴未審意旨如何師云汝名宗妙進云畢竟他是阿誰師云元來不識在進云識得也落二落三師云既識得為甚麼落二落三進云只如五祖一日陞堂云釋迦彌勒猶是他奴且道他是阿誰便下座意旨如何師云適來向你道了進云今日小出大遇師云速禮三拜僧禮拜。師乃云釋迦彌勒猶是他奴畢竟無人",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: answers the tree-bare leaves-fall case with all quarters, four diagonals, and above and below."
+        },
+        {
+          "RelPath": "X/X67/X67n1299.xml",
+          "FromLb": "0032a03",
+          "ToLb": "0032b04",
+          "Kwic": "拋向諸人懷裏了也。圓通今日路見不平，為古人出氣。以手拍禪床一下，云：須知海嶽歸明主，未信乾坤陷吉人。參。雪竇顯頌云：泥佛不度水，神光照天地。立雪如未休，何人不雕偽。金佛不度鑪，人來訪紫胡。牌中數箇字，清風何處無。木佛不度火，常思破竈墮。杖子忽擊著，方知辜負我。白雲端云：併却泥佛金木佛，趙州放出遼天鶻。東西南北謾擡頭，萬里重雲只一突。鼓山珪云：金佛木佛泥佛，度鑪度水度火。盡入趙州紅鑪，烈焰光中煅過。一聲白雪陽春，萬古無人能和。徑山杲云：九十七種妙相，顧陸丹青難狀。趙州眼目精明，覰見心肝五臟。禪林類聚卷第二禪林類聚卷第三伽藍殿堂塔廟丈室門戶橋路(并附)伽藍殿堂塔廟丈室門戶橋路",
+          "MasterName": "Baiyun Shouduan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyun Shouduan",
+              "Roles": [
+                "utterer",
+                "verse-author"
+              ]
+            },
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1299.xml). Classified Anthology of the Chan Grove. Baiyun Shouduan owns the retained deployment: looses Zhaozhou's falcon through ten-thousand-mile clouds to bolt in any quarter."
+        },
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0090a04",
+          "ToLb": "0090b01",
+          "Kwic": "伊提上挈下。巖云：與麼則與和尚出隻手去也。師云：見與師齊，減師半德；見過於師，方堪傳授。雲巖當時也欠一著，待他道：我有箇折脚鐺子，要伊提上挈下。抽身便出。雪後始知松柏操，事難方見丈夫心。鑄佛，上堂。僧問：如何是金佛不度罏？師云：填溝塞壑。進云：如何是木佛不度火？師云：正是時。進云：如何是泥佛不度水？師云：東西南北十萬八千。乃云：泥佛浸了也，木佛燒了也，金佛鎔了也，真佛勘破了也，趙州老漢趂出院了也，一去更不再來。咄！上堂。無手人行拳，無舌人解語，忽若無手人打無舌人，無舌人連忙道箇不必。復云：只箇不必，天下衲僧跳不出。上堂：鼓聲昨夜問鐘聲，今日鐘聲答鼓聲。廊下木魚開口笑，賤將佛法作人情。上堂：天高東南，江河淮濟注",
+          "MasterName": "Chushi Fanqi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Chushi Fanqi owns the retained deployment: meets the clay-Buddha question with all quarters and one hundred and eight thousand."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0395a11",
+          "ToLb": "0395b07",
+          "Kwic": "：我適來見一塊石有九十九條縫。師與一秀才話次，謂云：你合會得天地同根，萬物一體。進云：某甲何嘗不會？師云：為甚殺生食肉？修殿公務作禮，師云：釋迦老子向灰瓦上轉大法輪，什麼人得聞？眾無語，師云：好生看取。壁侍司作禮，云：請和尚答一轉語。師云：問將來。進云：聞的事作麼生？師云：逼塞虗空無縫殿，東西南北月輪紅。江上歸，師問眾云：大地無寸土是什麼人境界？一僧進云：和尚家風。師云：如何大地無寸土是山僧家風？僧不能答。師代云：常州．湖州．杭州。僧問：大地山河即不問，一毛頭上事如何？師云：吞取七箇八箇。進云：不會。師云：吐却兩箇三箇。僧問：如何是萬法歸一？師云：天圓地方。進云：一歸何處？師云：",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Yulin Tongxiu owns the retained deployment: fills the seamless hall to bursting with the moon wheel red in every quarter."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0265c26",
+          "ToLb": "0266a09",
+          "Kwic": "『依稀似曲纔堪聽，又被風吹別調中。』徑山大師與麼道，美則美矣，只是忒儉。山僧今日也有數語與諸大眾諳箇時節：老祖無米又無鹽，禪和來到總隨緣，頭頭妙，處處禪，搬柴挈米擔磨肩，進既無門退無路，頂𩕳一竅常通天。禪！禪！不用思惟計較，非干文字語言，按牛喫艸底一任按牛喫艸，噇飯打眠的一任噇飯打眠，堂內堂外打成一片，東西南北捏匾搓圓。還有一樁事，不得不為諸人說破：山上地溼，腳冷便須穿鞋。」上堂。「古人道：『恩重山丘，五鼎三牲未足酬；親得離塵垢，子道方成就。』成就則且置，作麼生說箇離塵垢底道理聻？莫是廣營福田以求出世麼？莫是一性圓明、了無生滅麼？莫是形有老少、佛性常住麼？若恁麼，當知皆是佛之影子、人天福報。見解依通則不無，若要",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunwai Xingze",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: rolls hall inside and outside into one piece and kneads the quarters flat and round."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0953a17",
+          "ToLb": "0953a30",
+          "Kwic": "無枝葉，豈黏水泥？非色非空，不即不離。拈爇爐中，敬為同方設化，共處利生，諸山耆宿，護法宰官，伏願一聞正法，共樂無生。」末拈香云：「此瓣香，荊棘林中獲得，顛倒世裏拈出。爇向爐中，供養臨濟正傳第三十一世上敏下樹本師和尚，用酬法乳之恩。」斂衣坐。上首白椎，云：「法筵龍象眾，當觀第一義。」師云：「打破鴻濛現二儀，東西南北化分枝，恒沙世界恒沙佛，百萬須彌百萬師，在處顯身在處應，隨方入手隨方施，祇園此日重拈示，不識誰來展笑眉？有麼？有麼？」問：「選佛場開接上機，利生幢豎引迷歸，不勞彈指十方集，特睹杖頭第一威。請問和尚：如何是一著工夫？」師打，云：「打開腦蓋，腳跟流血，金公服藥，劉婆發熱。」進云：「如何是則桑樹上著箭，柳樹上出漿",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Konggu Daocheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment: splits the primal mass into the two modes and branches it into the quarters of myriad worlds."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "C/C077/C077n1710.xml",
+        "T/T47/T47n1992.xml",
+        "T/T47/T47n1996.xml",
+        "T/T48/T48n2001.xml",
+        "M/M59/M59n1540.xml",
+        "X/X67/X67n1299.xml",
+        "X/X71/X71n1420.xml",
+        "X/X68/X68n1319.xml",
+        "J/J33/J33nB280.xml",
+        "J/J39/J39nB471.xml"
+      ],
+      "RelatedMasters": [
+        "Yunmen Wenyan",
+        "Fenyang Shanzhao",
+        "Xuedou Chongxian",
+        "Hongzhi Zhengjue",
+        "Dahui Zonggao",
+        "Baiyun Shouduan",
+        "Zhaozhou Congshen",
+        "Chushi Fanqi",
+        "Yulin Tongxiu",
+        "Yunwai Xingze",
+        "Konggu Daocheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Four graphs that sweep the whole of space, and the masters who swing them loose from geography. Yunmen Wenyan answers winter's passing with a staff carried across the shoulders and free wandering in all quarters, Fenyang Shanzhao pictures the seeker crossing frost and snow through all quarters to cut the one thing in two, Xuedou Chongxian holds the staff sideways in his own hand and asks where the quartered world comes from, Hongzhi Zhengjue sets responding with no fixed direction against the life and death bred inside the board of the quarters, and Dahui Zonggao answers the tree-bare leaves-fall case with all quarters, four diagonals, and above and below. Baiyun Shouduan looses Zhaozhou's falcon through ten-thousand-mile clouds to bolt in any quarter, Chushi Fanqi meets the clay-Buddha question with all quarters and one hundred and eight thousand, Yulin Tongxiu fills the seamless hall to bursting with the moon wheel red in every quarter, Yunwai Xingze rolls hall inside and outside into one piece and kneads the quarters flat and round, and Konggu Daocheng splits the primal mass into the two modes and branches it into the quarters of myriad worlds."
+    }
+  ]
+}

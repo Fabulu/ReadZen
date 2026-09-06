@@ -1,0 +1,135 @@
+{
+  "Id": "t_18c58e69a6d2",
+  "SourceTerm": "無欠無餘",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T00:59:40Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "lacking nothing, exceeding nothing",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "nothing lacking, nothing in excess",
+        "complete and perfect as it is"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 166 hits in 111 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "B/B25/B25n0145.xml",
+          "FromLb": "0734a20",
+          "ToLb": "0734b14",
+          "Kwic": "藂林。或指一喝為賓為主為照為用。或指一棒為全提為正令為機用為門庭。又謂之擊石火閃電光摩尼珠金剛劒。又謂之擘破面門露出肝膽當陽舉似覿面相呈。又謂臨濟三百六十骨節。只是這一喝。德山八萬四千毛孔不出這一棒。又云。臨濟多却這一喝。德山剩了這一棒。又云。無邊剎海十世古今塵沙義門百千三昧。總在這一棒一喝內。全𭣣全攝無欠無餘。更有一等超宗異目不存機境者。喚作蚯蚓鳴粥飯氣揚塵播土掣風掣顛認精魂弄捏怪。乃至奇言妙語與奪抑揚鼓引學人。向他一棒一喝之下邪知曲解者。今古以來比比皆是。與麼較量他古人立地處。又何啻認驢鞍橋作阿爺下頷。既不識古人用處。而欲趣向自己真正面目。大似隔靴抓癢。嗟乎古人一片生鐵心肝。未開口已前早是落在儞髑髏裏了也。",
+          "MasterName": "Zhongfeng Mingben",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (B/B25/B25n0145.xml). Extensive Record of Zhongfeng Mingben of Tianmu. Zhongfeng Mingben owns the retained deployment: ruling in his treatise that the boundless ocean-lands, ten-times past-and-present, dust-grain dharma-gates and hundred-thousand samadhis all sit inside the one shout and the one stick — wholly gathered, wholly taken in, lacking nothing, exceeding nothing — then scorning the freak-tricksters who since the old days have passed off worm-cry and dust-tossing as that grasp."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0507b12",
+          "ToLb": "0508a15",
+          "Kwic": "云我與汝安心竟當恁麼時則未見更有箇指心說話兼有箇見性成佛底影子然而在明眼人亦自見得也止是與慧可大師印正得箇無所得心者裏便是直指心體處葢言爾我人人本有底心本來沒有形相十方求之終不可得如人迷方謂東為西方實不轉只是湛然不動原與太虛同體本來不曾生本來不曾滅無方無圓無大無小不垢不淨不增不減無在無不在無是無不是無欠無餘徧一切處而非一切處汝等還要見親切心體麼只是如今現在者裏歷歷孤明惺惺不昧聽老僧說法者是故楞嚴經云空生大覺中如海一漚𤼵有漏微塵國皆依空所生可見十方一切微塵國土皆出在太虛空中者太虛又出在大覺海中止似一漚泡耳又云大圓滿覺應跡西乾心包太虛量週沙界大槩此心與大覺原同一體馬祖所謂即心即佛者此也如何見得葢謂認得此廣大",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huike",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment: instructing on the mind everyone originally has — no shape to find in the ten directions, unmoving, one body with the void, never born nor extinguished, neither square nor round, neither soiled nor clean, neither increasing nor decreasing, nowhere present yet nowhere absent — lacking nothing, exceeding nothing, everywhere yet not a place: the one listening to this old monk right now, lone and bright."
+        },
+        {
+          "RelPath": "X/X72/X72n1439.xml",
+          "FromLb": "0827b17",
+          "ToLb": "0828a13",
+          "Kwic": "，思故鄉。拍禪床，云：這裏是什麼所在？大家總在裏許，切忌開眼尿床。復舉：文殊菩薩一日令善財採藥，曰：是藥者採將來。善財徧觀大地無不是藥，却來白曰：無有不是藥者。文殊曰：是藥者採將來。善財乃于地上拈一莖草度與文殊，文殊接得呈起，示眾曰：此藥亦能殺人，亦能活人。師云：盡大地是病，盡大地是藥，以如是藥治如是病，無欠無餘，自然恰好。善財可謂善採，文殊可謂善用，若有服之者，直令佛法禪道人我貢高，是非憎愛諸病頓起，通身慶快，許渠作箇洒落底衲僧。雖然，也只醫得箇有病的，忽遇箇無病的來作麼生醫？莫將無事為無事，往往事從無事生。師到南山，二勝和尚請上堂。賣松風於臘月，煞不知時；撾布鼓于雷門，尤堪捧腹。雖然，祇得將錯就錯，向虗空裏",
+          "MasterName": "Weilin Daopei",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (X/X72/X72n1439.xml). Chan Master Weilin Daopei’s Fragrant Meal Record. Weilin Daopei owns the retained deployment: raising the medicine case — Sudhana finding nothing on the whole earth that is not medicine, plucking one stalk of grass for Wenshu, who holds it up as medicine that can also kill and also give life — and ruling: the whole earth is sickness, the whole earth is medicine; with such medicine treating such sickness, lacking nothing, exceeding nothing, just right; though it only cures the one who has the sickness."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0250a01",
+          "ToLb": "0250a14",
+          "Kwic": "也得一分功德，毀罵也得一分功德，慶讚也沒量罪過，毀罵也沒量罪過。且道如何得折中去？」眾無語。師云：「功德天、黑暗女、有智主人，二俱不受。是事且止，今日應時慶誕一句作麼生道？」良久云：「環繞溪山千古翠，親承雨露萬年春。」下座。冬至上堂。師云：「這邊不許長立，那畔豈可久居？放出陽春一段，頭頭法法咸舒。東湧西沒，無欠無餘，一任風吹日炙，何妨電掣雷驅。有時若隱若顯，知他是智是愚？有時或順或逆，縱橫奚束奚拘。有馬騎馬，無馬騎驢。秪如驢馬俱無時，騎個甚麼？且喜閩南春信早，梅花國裏樂無虞。」下座。臘八上堂。師云：「星前瞥脫較些兒，忽睹明星悟已遲，老倒瞇𥊚眼著屑，令人錯認兩莖眉。諸人還知麼？山僧今日向釋迦老子頂𩕳上展演爪牙，於諸人",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: releasing the solstice season at his winter-solstice hall — this side does not allow long standing, that side will not brook dwelling — letting out one stretch of spring: surging east, sinking west, lacking nothing, exceeding nothing, at the mercy of wind and sun, free before lightning and thunder; ride the horse if there is one, the donkey if not, and when neither, what do you ride?."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0259c22",
+          "ToLb": "0260a06",
+          "Kwic": "鼻孔，夫子眼睛，俱在者裏和盤托出。還有委悉得者麼？如無，不免煩他維那宣讀一過。」舉法衣云：「從上老古錐遺下者具皮毛，後代兒孫透到臨末稍頭，箇箇少者一杓惡水，不得今朝解脫不下。看！看！山僧入者蟲豸去也。」搭衣云：「不入驚人浪，難逢稱意魚。」指法座，云：「大眾會麼？者箇寶華王座，常在諸人頂𩕳上安著，不寬不狹、無欠無餘。汝等諸人要推推不開、要上上不得，何不直下與麼去？如或未能，山僧為你拈卻。」便陞。拈香祝聖訖，復拈香，云：「生平扶弱不扶強，不涉恩讎獨主張，雪老冰枯紅燄發，一爐香散海雲忙，奉為磬山第二代松際先師授和尚，爇向爐中，從教炙地熏天去也。」斂衣就座，維那白椎，云：「法筵龍象眾，當觀第一義。」喝一喝，云：「直饒向",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: pointing, before mounting it at his inauguration, at the jeweled flower-king seat that rests forever on the crown of every one present — not wide, not narrow, lacking nothing, exceeding nothing; unpushable-away and unclimbable-up — and asking why not go straight down like this, or else the mountain monk will lift it off for you."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0418a25",
+          "ToLb": "0418b07",
+          "Kwic": "順關頭休昧道。」進云：「如何是第二要？」師云：「莫隨時事改腔調。」進云：「如何是第三要？」師便打。僧問：「如何是奪人不奪境？」師豎起拄杖。進云：「如何是奪境不奪人？」師掉轉拄杖。進云：「如何是人境兩俱奪？」師放下拄杖。進云：「如何是人境俱不奪？」師和聲便打，僧禮拜。師乃云：「各人己躬下一著子，可謂圓同太虛，無欠無餘。」遂卓拄杖，云：「直下明得，自是不求福而福自至、不求壽而壽自永，何妨到處豎法幢、隨方興教化？然雖如是，也要人天樂助、緇素欣從，纔得舉一言而賢愚敬信、行一令而中外無違。敢問大眾：且互相成禠一句作麼生展演？」良久，擲下拄杖，云：「天上有星皆拱北，人間無水不朝東。」上首結槌，師下座。德宗禪人挂鐘，請上堂。僧",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. Gusu Zun owns the retained deployment: ruling, after the four exchanges of deprivation and non-deprivation have run to their last shout, that each person's own single move beneath himself is truly round and whole like the great void, lacking nothing, exceeding nothing — then striking the staff and demanding the one line of mutual completing."
+        },
+        {
+          "RelPath": "J/J39/J39nB460.xml",
+          "FromLb": "0728b23",
+          "ToLb": "0728c06",
+          "Kwic": "。」進云：「如何是萬善境？」師云：「孤松秀北嶺，叢菊綻東籬。」進云：「如何是境中人？」師云：「手持山藤杖，身著割截衣。」進云：「人境已蒙親指示，向上一路，請師別通消息。」師便打。進云：「莫非是和尚家風麼？」師云：「汝未識痛痒在。」僧彈指一下，師云：「果然話墮也。」乃云：「一切眾生自從威音劫前與佛祖同成證覺，無欠無餘，只因一點妄想不了，返墮愚迷，不知不覺。是故佛祖設種種方便、百千法門，使一切眾生箇箇惺悟自心本來面目。所以如來為一大事因緣故出於世，乃謂此也。汝等諸人不識自心是佛，向外馳求，為之小知小見，說箇成佛成祖，亦成剩語。」喝一喝，曰：「會麼？翻身跳出白雲窟，提起眉毛亦是遲。」維那結槌畢，下座。開爐，上堂。「盡十",
+          "MasterName": "Huizhou Hao",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB460.xml). Recorded Sayings of Chan Master Huizhou Hao of Wanshan, Luanzhou. Huizhou Hao owns the retained deployment: tracing completeness behind the beginning at his summer's close: every being, from before the Bhishma-sounding kalpa, realized enlightenment together with the buddha-ancestors, lacking nothing, exceeding nothing — only one speck of unresolved delusion and they fell back unknowing, hence the hundred thousand devices to wake each to the face they already are."
+        },
+        {
+          "RelPath": "J/J39/J39nB471.xml",
+          "FromLb": "0940b17",
+          "ToLb": "0940b30",
+          "Kwic": "者，獲福無量；參悟深窮者，見性明心。三世諸佛同一鼻孔，歷代祖師共把鉗錘，總要一箇信字而已矣。何故獨說箇信字？信者，道源功德毋；信者，諸善之本；信者，究竟解脫之方向；信者，成佛作祖之徑路。信得及，一言透徹，三藏明了；信得及，諸佛眾生一體同觀，佛性種子無二無別；信得及，三世諸佛把手併行，十方如來同塔趺坐，迷與悟無欠無餘，凡與聖無剩無虧。識得者箇天真明妙，從來不增不減、不垢不淨、無去無來、無死無生，只因眾生而有種種差別，貪愛執著妄生顛倒，起諸善惡業緣，故此而有六道四生者，輪迴生死苦惱也。所以，慈仁大覺釋迦文佛愍念眾生，設權方便，開宗演教，末後拈花，首傳迦葉，燈燈續燄，祖祖相傳，而至吾師六十九世仍授吾儕，揮弘法化，道利群情",
+          "MasterName": "Konggu Daocheng",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J39/J39nB471.xml). Recorded Sayings of Chan Master Daodeng of Konggu. Konggu Daocheng owns the retained deployment: instructing on faith: trust it through, and the three-times buddhas walk arm in arm, the ten-direction tathagatas sit together in one stupa — delusion and enlightenment lacking nothing, exceeding nothing, commoner and sage at par — while love's insistence on the innate bright wonder is what makes the six roads of turning."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "B/B25/B25n0145.xml",
+        "L/L153/L153n1637.xml",
+        "X/X72/X72n1439.xml",
+        "J/J27/J27nB193.xml",
+        "J/J33/J33nB280.xml",
+        "J/J37/J37nB387.xml",
+        "J/J39/J39nB460.xml",
+        "J/J39/J39nB471.xml"
+      ],
+      "RelatedMasters": [
+        "Zhongfeng Mingben",
+        "Huanyou Zhengchuan",
+        "Huike",
+        "Weilin Daopei",
+        "Yinyuan Longqi",
+        "Yunwai Xingze",
+        "Gusu Zun",
+        "Huizhou Hao",
+        "Konggu Daocheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Lacking nothing, exceeding nothing. The tag is Sengcan's: the Xinxin Ming line 圓同太虛，無欠無餘 — round and whole like the great void, nothing short of it, nothing over it — and the masters keep it welded to that void-roundness. Zhongfeng Mingben, weighing the ancestor's instruments, rules that the boundless ocean-lands, the ten-times past-and-present, the dust-grain dharma-gates and the hundred-thousand samadhis all sit inside the one shout and the one stick — wholly gathered, wholly taken in, lacking nothing, exceeding nothing — and then turns on the freak-show tricksters he says have filled the ages since, mistaking worm-cry and dust-tossing for that grasp. Huanyou Zhengchuan, instructing without punctuation, follows the mind everyone originally has — no shape to find anywhere in the ten directions, unmoving, one body with the void, never born, never extinguished, neither square nor round, neither large nor small, neither soiled nor clean, neither increasing nor decreasing, nowhere present yet nowhere absent — lacking nothing, exceeding nothing, everywhere-yet-not-a-place: the one listening to this old monk right now, lone and bright. Weilin Daopei, raising the medicine case — Sudhana finds nothing on the whole earth that is not medicine, plucks one stalk of grass and hands it to Wenshu, who holds it up: this medicine can also kill, can also give life — rules: the whole earth is sickness, the whole earth is medicine; with such medicine treating such sickness, lacking nothing, exceeding nothing, just right; though it only cures the one who has the sickness — if a sickness-less one comes, how do you treat him? Yinyuan Longqi, at the winter solstice, releases the season: this side does not allow long standing, that side will not brook dwelling; letting out one stretch of spring, everything unfolds — surging east, sinking west, lacking nothing, exceeding nothing, at the mercy of wind and sun, free before lightning and thunder; ride the horse if there is a horse, ride the donkey if there is none — and when there is neither horse nor donkey, what do you ride? Yunwai Xingze, at his inauguration, points at the seat before mounting it: this jeweled flower-king seat rests forever on the crown of every one of you, not wide, not narrow, lacking nothing, exceeding nothing; you cannot push it away, you cannot climb up it — why not go straight down like this? If you cannot yet, this mountain monk will lift it off for you. Gusu Zun, after running the four exchanges of deprivation and non-deprivation to their last shout, rules: each person's own single move beneath himself is truly round and whole like the great void, lacking nothing, exceeding nothing. Huizhou Hao, closing the summer, traces it behind the beginning: every being, from before the Bhishma-sounding kalpa, realized enlightenment together with the buddha-ancestors, lacking nothing, exceeding nothing — only one speck of unresolved delusion and they fell back, unknowing; hence the hundred thousand devices, all to wake each to the face they already are. And Konggu Daocheng, instructing on faith: trust it through, and the three-times buddhas walk arm in arm, the ten-direction tathagatas sit in one stupa; delusion and enlightenment lack nothing, exceed nothing, commoner and sage stand at par — know this innate bright wonder, never increased, never soiled, and the six roads of turning are only love's insistence."
+    }
+  ]
+}

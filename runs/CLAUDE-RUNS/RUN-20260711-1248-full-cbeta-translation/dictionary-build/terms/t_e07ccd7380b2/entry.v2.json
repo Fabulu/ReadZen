@@ -1,0 +1,191 @@
+{
+  "Id": "t_e07ccd7380b2",
+  "SourceTerm": "東海鯉魚打一棒",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:33:21Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "a carp of the eastern sea takes one blow",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "strike the eastern-sea carp once",
+        "one blow for the eastern sea's carp",
+        "the eastern sea carp struck with a staff"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 276 hits in 140 files representing 138 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0536c24",
+          "ToLb": "0537a02",
+          "Kwic": "汝擬向者裏進一步則迷理、退一步則失事，要得進不迷理、退不失事去麼？」驀豎起扇子，云：「看，看！雲門扇子𨁝跳上三十三天，觸著帝釋鼻孔；東海鯉魚打一棒，雨似盆傾。山僧慣持者道真言，還有信受奉行者麼？」良久，云：「但辦肯心，必不相賺。」小參。「爾輩進一叢林、入一保社，到處人家鍋子闊狹、杓柄短長，固是瞞你不得，且飯是米做一句，因甚卻不知落處？",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yushan Shangsi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: springs the fan up — see, see! the fan leaps to the heavens, touches Sakra's nostril, the eastern-sea carp takes its blow, the rain like a basin pouring — I am used to holding this true word, he says, is there anyone to receive and live it? Only bring a willing mind and it will not cheat you."
+        },
+        {
+          "RelPath": "B/B27/B27n0152.xml",
+          "FromLb": "0550b13",
+          "ToLb": "0551a12",
+          "Kwic": "步所以道懸崖撒手自肯承當絕後再甦欺君不得今人到千峯絕頂不惟不進步反退轉身來云吾已死而得活了以了不可得為究竟以擎拳竪指為透祖師關盡是懸崖縮腳種種自欺去他古人遠之遠矣卓拄杖云有志之士自知好惡晚叅師拈扇子云跛腳阿師道扇子𨁝跳上三十三天築著帝釋鼻孔東海鯉魚打一棒雨似盆傾端的有恁麼事麼僧進語不契師迺云怪不得天下旱便歸關室晚叅舉趙州勘婆話師云僧問臺山路如何云驀直去僧便去如何云好個師僧又恁麼去也前來師僧也恁麼後來趙州也恁麼那裡是勘破處一僧作禮云打鼓普請看師云儱侗禪和如麻似粟一僧云昨日晴今日雨師云三十棒且待別時一僧云車不橫推理無曲斷師云多少人恁麼道打出去也師乃云聽取山僧重說頌言十五日前用錐便十五日後用鉤捷正當十五日鉤錐一齊歇一個失錢遭罪一個弄巧成拙是他過量人荒草深深入晚叅師云看破玄",
+          "MasterName": "Yulin Tongxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yulin Tongxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (B/B27/B27n0152.xml). Recorded Sayings of National Master Puji Yulin. Yulin Tongxiu owns the retained deployment: at the evening sitting has the lame teacher say it — the fan leaps, the carp takes its blow, the rain pours — and asks whether it really is so; the monk's answer misses, and he rules: no wonder the world is in drought, and goes back to his room."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0799a09",
+          "ToLb": "0799b02",
+          "Kwic": "信寺如山主請普說僧問欲言其一纖塵不立欲言其多萬象森羅不落數量請師直截師云露進云直得文殊維摩撒手歸去師云劒去久矣爾方刻舟進云舉一不得舉二放過一著落在第二未審意旨如何師云東家點燈西家暗坐進云爭奈官不容針私通車馬師云扇子𨁝跳上三十三天𡎺著帝釋鼻孔東海鯉魚打一棒雨似盆傾又作麼生進云有意氣時添意氣不風流處也風流師云放屁合著大石調。師乃云舉一明三目機銖兩明眼衲僧一透透得見得徹把得住作得主拈來便用展縮自由只在門前未知門內句在若是箇脫洒底漢聊聞舉著更不向言句上作活計亦不向機境上著到露躶躶絕承當赤洒洒沒窠窟直饒便恁麼明得徹得信得用得切忌向衲僧門下過且道衲僧門下有甚麼長處千箇成群萬箇作隊睡則一處睡夢則各自做。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: answers the needle-and-horse-cart exchange by reciting the saying whole — the fan leaps, the carp takes its blow, the rain pours — and what then? — and when the monk answers in high style, dismisses it as a fart set to the Great Stone tune."
+        },
+        {
+          "RelPath": "L/L155/L155n1643.xml",
+          "FromLb": "0092a05",
+          "ToLb": "0092b11",
+          "Kwic": "也豎起拂子云豈不是芳艸綠象王回顧落華紅左右顧眎云象王回顧也擿下拂子云豈不是落華紅諸仁者若向者裏大開夢眼信得及去則百城烟水一步全收法界高流剎那參徧其或未肰起身云流水落華隨我去夕陽芳艸動人愁。晚參舉扇子云雲門大師道扇子𨁝跳上三十三天築著帝釋鼻孔東海鯉魚打一棒雨似盆傾千嵒長和尚云扇子𨁝跳入一十八重地獄築著閻羅王鼻孔閻羅王惡發道你󱘓了見成粥飯晝夜鼓兩片皮𡚶譚般若合󱘓我手中鐵棒被山僧一喝卻入扇子裏去也諸人還見麼若見拈取扇子來不見炎炎暑天用箇甚麼師云一人高出雲天一人㴱入地府簡點將來二俱不了乃以扇子擊香几云扇子𨁝跳入你諸人毛孔裏去築著暜贒菩薩鼻孔正值暜贒菩薩乘六牙白象王坐真金妙寶蓮華師子之座與十方同行諸大開士歬後圍繞說海印旋陀羅尼無量陀羅尼門以為眷屬暜贒菩薩亦不惡發但輕輕拈起扇子",
+          "MasterName": "Muchen Daomin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Muchen Daomin",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L155/L155n1643.xml). Recorded Sayings of Chan Master Hongjue Min. Muchen Daomin owns the retained deployment: raises Yunmen's saying at the evening sitting and sets Qianyan's counter beside it: the fan leaps into the eighteenfold hells, strikes the King of Death on the nose, the king rages — you have eaten your share of congee and rice."
+        },
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0848a29",
+          "ToLb": "0848b08",
+          "Kwic": "迹所不能迹無迹。言所不能言無言。既無言又無迹。雲門手中扇子。勃跳上三十三天。築著帝釋鼻孔。東海鯉魚打一棒。雨似盆傾。畢竟是何宗旨。喝一喝云。山斷疑休去。峯高又起來。復舉。龍牙頌云。一切名山到因脚。辛苦年深與󰣿著。而今年老不能行。手裏把箇破木杓。白雲端和尚云。龍牙老人可謂熟處難忘。師云。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: where tracking cannot track and words cannot speak, Yunmen's fan in hand still leaps and strikes, the carp still takes its blow, the rain still pours — what, after all, is the purport? A shout."
+        },
+        {
+          "RelPath": "J/J10/J10nA158.xml",
+          "FromLb": "0007c19",
+          "ToLb": "0007c27",
+          "Kwic": "以拄杖子作丈六金身用，復可以丈六金身作拄杖子用，然後拄杖子𨁝跳上三十三天，觸著帝釋鼻孔，東海鯉魚打一棒，雨似盆傾，汝等諸人切莫向古廟裡去躲，一棒打折你驢腰，莫言不道。」下座。上堂。「本來無物可評論，未悟之人妄見分，忽若迸開頂門眼，大地山河一口吞。」下座。立春上堂。「無影枝頭一點春，可憐大地盡埋塵，陳年宿債昨宵盡，錯謂今朝又是新。",
+          "MasterName": "Miyun Yuanwu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Miyun Yuanwu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J10/J10nA158.xml). Recorded Sayings of Chan Master Miyun. Miyun Yuanwu owns the retained deployment: rules the staff may be used as the sixteen-foot golden body and the golden body as the staff — then the staff-child leaps to the heavens, touches Sakra's nostril, the carp takes its blow, the rain pours: do not go hide in the old temple, one blow will break your donkey's back."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0540c23",
+          "ToLb": "0540c29",
+          "Kwic": "及至天明都走向無生國裏，剛剛剩得一條楖栗拄杖，橫拈倒用都合其宜。一觸觸著帝釋鼻孔，東海鯉魚打一棒，雨似傾盆。或云：『遮是雲門扇子，不是德山拄杖。』若道是雲門扇子，又是德山拄杖？若道是德山拄杖，又是雲門扇子。即今在山僧手裏。」驀卓一下云：「諸人還定奪得出麼？若定奪得出，也有權也有實、也有照也有用，殺活縱奪總在遮裏。",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: dawns to a single chestnut-wood staff left over, held crosswise, used upside down, all fitting — one touch touches Sakra's nostril, the carp takes its blow, the rain like a basin pouring — and someone asks whether that is Yunmen's fan and not Deshan's staff."
+        },
+        {
+          "RelPath": "J/J26/J26nB187.xml",
+          "FromLb": "0687c23",
+          "ToLb": "0687c30",
+          "Kwic": "江何言哉？龍蛇宅焉。海何言哉？寶藏興焉。予何言哉？拄杖子𨁝跳上三十三天，築著帝釋鼻孔，東海鯉魚打一棒，雨似盆傾。設有道：『前面說的都出典章，此話是何章句？』」乃呵呵笑云：「可謂仁者見之謂之仁、智者見之謂之智，百姓日用而不知。」上堂。「本是淨琉璃缾，注卻一器清水，應用無不具足，無端著鹽、著醬，攪為酥酪醍醐，雖然美之至也，已失水性之自然矣。",
+          "MasterName": "Tian'an Sheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tian'an Sheng",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB187.xml). Recorded Sayings of Chan Master Tian’an Sheng. Tian'an Sheng owns the retained deployment: runs rivers and sea — the dragon-and-snake dwell in the river, the treasure-store rises in the sea — what do I say? the staff-child leaps to the heavens, the carp takes its blow, the rain pours; asked which canon this clause comes from, he laughs: the benevolent see it and call it benevolence."
+        }
+      ],
+      "SourceTexts": [
+        "J/J40/J40nB494.xml",
+        "B/B27/B27n0152.xml",
+        "M/M59/M59n1540.xml",
+        "L/L155/L155n1643.xml",
+        "T/T47/T47n1998A.xml",
+        "J/J10/J10nA158.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB187.xml"
+      ],
+      "RelatedMasters": [
+        "Yushan Shangsi",
+        "Yulin Tongxiu",
+        "Dahui Zonggao",
+        "Muchen Daomin",
+        "Miyun Yuanwu",
+        "Tianyin Yuanxiu",
+        "Tian'an Sheng"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The second half of Yunmen's fan saying: the fan leaps to the Thirty-Three Heavens and staves in Sakra's nostril — a carp of the eastern sea takes one blow, and the rain pours like a basin. Held up at drought-time, swapped onto a staff, judged wrong three times over. The saying recited and tested: Yushan Shangsi springs the fan up — see, see! the fan leaps to the heavens, touches Sakra's nostril, the eastern-sea carp takes its blow, the rain like a basin pouring — I am used to holding this true word, he says, is there anyone to receive and live it? Only bring a willing mind and it will not cheat you; Yulin Tongxiu at the evening sitting has the lame teacher say it and asks whether it really is so; the monk's answer misses — no wonder the world is in drought, he rules, and goes back to his room; Dahui Zonggao answers the needle-and-horse-cart exchange by reciting it whole — and what then? — and when the monk answers in high style, dismisses it as a fart set to the Great Stone tune; Muchen Daomin raises it at the evening sitting and sets Qianyan's counter beside it: the fan leaps into the eighteenfold hells, strikes the King of Death on the nose, the king rages — you have eaten your share of congee and rice; Dahui again, where tracking cannot track and words cannot speak: Yunmen's fan in hand still leaps and strikes, the carp still takes its blow, the rain still pours — what, after all, is the purport? A shout. The blow moved onto the staff: Miyun Yuanwu rules the staff may be used as the sixteen-foot golden body and the golden body as the staff — then the staff-child leaps to the heavens, touches Sakra's nostril, the carp takes its blow, the rain pours: do not any of you go hide in the old temple — one blow will break your donkey's back; Tianyin Yuanxiu dawns to a single chestnut-wood staff left over — held crosswise, used upside down, all fitting — one touch touches Sakra's nostril, the carp takes its blow, the rain like a basin pouring, and someone asks whether that is Yunmen's fan and not Deshan's staff; Tian'an Sheng runs rivers and sea — what does the river say? the dragon-and-snake dwell there; what does the sea say? the treasure-store rises there; what do I say? — the staff-child leaps to the heavens, the carp takes its blow, the rain pours; and asked which canon this clause comes from, he laughs: the benevolent see it and call it benevolence."
+    }
+  ]
+}

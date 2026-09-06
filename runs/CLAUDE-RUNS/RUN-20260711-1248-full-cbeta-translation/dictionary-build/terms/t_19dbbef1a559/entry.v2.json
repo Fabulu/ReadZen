@@ -1,0 +1,192 @@
+{
+  "Id": "t_19dbbef1a559",
+  "SourceTerm": "不疑之地",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curate A4",
+  "WrittenUtc": "2026-09-06T00:40:50Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the ground of no doubt",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the place beyond doubting",
+        "the ground where doubt has ended",
+        "doubt-free ground"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 188 hits in 114 files representing 112 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "T/T47/T47n1998A.xml",
+          "FromLb": "0932a07",
+          "ToLb": "0932a14",
+          "Kwic": "至禱至禱。悟時亦無時節。亦不驚群動眾。即時怗怗地。自然不疑佛不疑祖。不疑生不疑死。得到不疑之地。便是佛地也。佛地上本無疑。無悟無迷。無生無死。無有無無。無涅槃無般若。無佛無眾生。亦無恁麼說者。此語亦不受。亦無不受者。亦無知不受者。亦無恁麼說不受者。居仁如是信得及。佛亦只如是。",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1998A.xml). Recorded Sayings of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: writes it plain — not doubting the buddha, not doubting the ancestors, not doubting life, not doubting death, reaching the ground of no doubt, and that itself is the buddha-ground: on the buddha-ground there is no doubt to begin with, no awakening, no delusion, no birth, no death, no nirvana, no prajna, no buddha, no beings."
+        },
+        {
+          "RelPath": "T/T47/T47n1999.xml",
+          "FromLb": "0973a11",
+          "ToLb": "0973a20",
+          "Kwic": "不是衲僧分上事。行棒行喝。敲床竪拂。揚眉瞬目。不是衲僧分上事。透出兩重關。逗到不疑之地。正好朝打三千。暮打八百。且道過在什麼處。欲得不招無間業。莫謗如來正法輪。天童語錄終密菴和尚小參密菴和尚小參參學小師崇岳了悟等編解夏小參。釋迦不說說。迦葉不聞聞。天河風浪靜。星斗位區分。",
+          "MasterName": "Mi'an Xianjie",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Mi'an Xianjie",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n1999.xml). Recorded Sayings of Monk Mi’an. Mi'an Xianjie owns the retained deployment: sets the price of arrival — through the two-fold barrier, arrived at the ground of no doubt, just right for three thousand blows at dawn and eight hundred at dusk: and where is the fault? To avoid the unbroken karma, do not slander the thus-come one's true wheel."
+        },
+        {
+          "RelPath": "T/T47/T47n2000.xml",
+          "FromLb": "1006b09",
+          "ToLb": "1006b17",
+          "Kwic": "僧云。行軍是佛法中人。問著便惡發。行軍云。爾作惡發會那。僧便喝。行軍亦喝云。鉤在不疑之地。復喚左右認取者僧著。師云。人言王母池邊有一株樹。名曰蟠桃。三千年開花。三千年結果。更待三千年方纔成熟。且道。與行軍有相見分麼。卓主丈。參。雪竇謙和尚遺書至。上堂。敲雲夢破。漱玉舟移。",
+          "MasterName": "Xutang Zhiyu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xutang Zhiyu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T47/T47n2000.xml). Recorded Sayings of Monk Xutang. Xutang Zhiyu owns the retained deployment: raises the army-marcher's exchange — the monk shouts, the marcher shouts back and hooks him at the ground of no doubt, then calls his attendants to take note of that monk — and comments that by the Queen-Mother's pool the peach tree flowers three thousand years and fruits three thousand years: still waiting."
+        },
+        {
+          "RelPath": "J/J38/J38nB406.xml",
+          "FromLb": "0160c30",
+          "ToLb": "0161a07",
+          "Kwic": "』豈不是平日依倚處盡情吐露？所以南泉為人為徹，更云：『道不屬知，不屬不知。知是妄覺，不知是無記。汝若深造不疑之地，猶如太虛，廓然無礙，安可強是非耶？』州乃大悟。若因此便謂前仲春猶寒語尚未會在，則依語生解矣。人固有應機無滯，悟非不真，而向背之情未泯，歡喜之心未忘，明眼人前終不謂向後無事，所以當面相欺，背後著楔，不為無故。",
+          "MasterName": "Tianran Hanshi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianran Hanshi",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J38/J38nB406.xml). Recorded Sayings of Chan Master Tianran of Mount Lu. Tianran Hanshi owns the retained deployment: gives the source teaching — Nanquan for Zhaozhou: the way belongs not to knowing, not to not-knowing; knowing is false awareness, not-knowing blank record; go deep into the ground of no doubt and it is like great space, open and unblocked — and Zhaozhou woke greatly."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0960a20",
+          "ToLb": "0960a27",
+          "Kwic": "』蓉擬進語，子以拂子驀口摵曰：『汝發意來早有三十棒也。』蓉忽開悟，禮拜便行。子曰：『且來，闍黎。』蓉不顧。子曰：『汝到不疑之地耶？』蓉掩耳而出。」師曰：「天下之事當與天下共之。芙蓉當時見投子道：『寰中天子還假堯舜禹湯也無？』便掩耳而去。可令天下人復聞白雪之高，再睹清風之穆。投子縱有神機，技癢無益。芙蓉既落他彀中，被他調度，欲聚十方世界為鐵，鑄不得一箇錯字。",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhe'an Jingfan",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: raises Furong leaving after the awakening — Touzi calls after him and he does not turn — were you arriving at the ground of no doubt? — hands over the ears and out — and rules the world's affairs belong to the world."
+        },
+        {
+          "RelPath": "J/J26/J26nB178.xml",
+          "FromLb": "0107c28",
+          "ToLb": "0108a03",
+          "Kwic": "三聖出云：『爭敢滅卻和尚正法眼藏。』攔頭把柁。臨濟云：『已後有人問汝，作麼對他？』鉤到不疑之地。三聖便喝。盡大地人亡鋒結舌。臨濟云：『誰知吾正法眼藏，向者瞎驢邊滅卻。』蛇口佛心。臨濟尋常，如鐵牛踞地，無敢摩其鋒角；末後被個不孝之子，直推向萬丈深坑，至今翻身不得。還有相扶者麼？",
+          "MasterName": "Feiyin Tongrong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Feiyin Tongrong",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB178.xml). Recorded Sayings of Chan Master Feiyin. Feiyin Tongrong owns the retained deployment: raises Linji entrusting the eye and Sansheng's shout hooked to the ground of no doubt — the whole earth's people lose their edge and tie their tongues — with Linji's who-would-know close."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0569c12",
+          "ToLb": "0569c17",
+          "Kwic": "」師云：「不是，不是。」宗無語。師云：「我看你一肚子疑。」進云：「實不疑。」師云：「切忌坐在不疑之地。」進云：「不疑尚不可得，何坐之有？」師笑云：「又問他作甚麼？」進云：「不問，焉知不疑？」師云：「又坐也。」宗又無語。師云：「直須究竟始得。」宗禮拜。僧問：「盡大地是一箇眼睛，為甚麼隔窗不見？",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: reads a monk's belly as one bellyful of doubt — truly no doubt, says the monk — beware of sitting in the ground of no doubt — doubt is not even attainable, so what sitting? — and the master laughs: why ask him again?."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0007b17",
+          "ToLb": "0007b24",
+          "Kwic": "吾教中亦有授受之源，燈燈相續，師資之禮亦復如是。總之，祭埽中為活計，不明生死大事因緣，則祭埽何益也？畢竟將大事因緣看到不疑之地，方可君恩、親恩、三宗九族恩一時報畢。大眾！且報恩一句作麼生道？將此深心奉塵剎，是則名為報佛恩。」喝一喝，下座。上堂，僧問：「峰巒挺秀，鶴不停機，未審夜來還許歸巢否？」師云：「松樹下一場懡㦬。",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Poshan Haiming",
+              "Roles": [
+                "record-owner",
+                "utterer"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: asks it at the graves: see the great affair of birth and death through to the ground of no doubt, and only then can the sovereign's grace, the parents' grace, the grace of the three schools and nine clans be repaid all at once — offering the deep heart to the dust-lands."
+        }
+      ],
+      "SourceTexts": [
+        "T/T47/T47n1998A.xml",
+        "T/T47/T47n1999.xml",
+        "T/T47/T47n2000.xml",
+        "J/J38/J38nB406.xml",
+        "J/J36/J36nB369.xml",
+        "J/J26/J26nB178.xml",
+        "J/J25/J25nB171.xml",
+        "J/J26/J26nB177.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Mi'an Xianjie",
+        "Xutang Zhiyu",
+        "Tianran Hanshi",
+        "Zhe'an Jingfan",
+        "Feiyin Tongrong",
+        "Tianyin Yuanxiu",
+        "Poshan Haiming"
+      ],
+      "RelatedTerms": [],
+      "ClaimAnchors": [],
+      "Explanation": "The ground where the doubt-mass breaks: Nanquan taught Zhaozhou that the way is neither knowledge nor unknowing — go deep into the ground of no doubt and it is like great space. But Tianyin warns a monk not to sit there, and the hooks keep dropping into it — Sansheng hooked there, the army-marcher hooked there. The teaching and the term: Dahui Zonggao writes it plain — not doubting the buddha, not doubting the ancestors, not doubting life, not doubting death, reaching the ground of no doubt, and that itself is the buddha-ground: on the buddha-ground there is no doubt to begin with, no awakening, no delusion, no birth, no death, no being, no non-being, no nirvana, no prajna, no buddha, no beings; Mi'an Xianjie sets the price of arrival — through the two-fold barrier, arrived at the ground of no doubt, just right for three thousand blows at dawn and eight hundred at dusk: and where is the fault? To avoid the unbroken karma, do not slander the thus-come one's true wheel; Tianran Hanshi gives the source teaching — Nanquan for Zhaozhou: the way belongs not to knowing, not to not-knowing; knowing is false awareness, not-knowing blank record; go deep into the ground of no doubt and it is like great space, open and unblocked — and Zhaozhou woke greatly; Poshan Haiming asks it at the graves: see the great affair of birth and death through to the ground of no doubt, and only then can the sovereign's grace, the parents' grace, the grace of the three schools and nine clans be repaid all at once — offering the deep heart to the dust-lands. The hooks and the sitting: Xutang Zhiyu raises the army-marcher's exchange — the monk shouts, the marcher shouts back and hooks him at the ground of no doubt, then calls his attendants to take note of that monk — and comments that by the Queen-Mother's pool the peach tree flowers three thousand years and fruits three thousand years: still waiting; Zhe'an Jingfan raises Furong leaving after the awakening — Touzi calls after him and he does not turn — were you arriving at the ground of no doubt? — hands over the ears and out — and rules the world's affairs belong to the world; Feiyin Tongrong raises Linji entrusting the eye and Sansheng's shout hooked to the ground of no doubt — the whole earth's people lose their edge and tie their tongues — with Linji's who-would-know close; Tianyin Yuanxiu reads a monk's belly as one bellyful of doubt — truly no doubt, says the monk — beware of sitting in the ground of no doubt — doubt is not even attainable, so what sitting? — and the master laughs: why ask him again?"
+    }
+  ]
+}

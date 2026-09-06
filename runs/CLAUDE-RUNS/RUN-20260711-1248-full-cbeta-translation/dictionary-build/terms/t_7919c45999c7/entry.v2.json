@@ -1,0 +1,244 @@
+{
+  "Id": "t_7919c45999c7",
+  "SourceTerm": "不生不滅",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "neither arising nor perishing",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "beyond birth and death",
+        "never born, never extinguished"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 428 hits in 141 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X66/X66n1298.xml",
+          "FromLb": "0927b13",
+          "ToLb": "0928a15",
+          "Kwic": "偈頌上之上上之下禪門諸祖師偈頌上之下五峯老釋子昇錄通明因緣四則通明因緣四則唐高宗帝遣內侍薛簡馳書詔六祖禪師，師辭疾不赴。簡遂問師：如何是大乘見解？師曰：明與無明，其性無二。無二之性，即是佛性。佛性者，處凡愚而不減，在賢聖而不增，住煩惱而不亂，居禪定而不寂，不斷不常，不來不去，不住中間及其內外，不生不滅，性相如如，常住不遷，名之曰道。簡曰：師說不生不滅，何異外道？師曰：外道說不生不滅者，以滅止生，以生顯滅。我說不生不滅者，本自無生，今則無滅，所以不同外道。你欲會心要，但一切善惡都莫思量，自然得入清淨心體，湛然常寂，妙用恒沙。簡蒙指教，豁然開悟，拜辭歸闕，表奏師語。帝復詔：潭州太守王尚書參長沙和尚，書才入",
+          "MasterName": "Huineng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huineng",
+              "Roles": [
+                "utterer",
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1298.xml). Gāthās and Verses of the Chan Gate’s Patriarchs. Huineng owns the retained deployment: tells the imperial envoy that his teaching differs from the outsiders' because it was never born and so is never extinguished."
+        },
+        {
+          "RelPath": "J/J24/J24nB137.xml",
+          "FromLb": "0360b26",
+          "ToLb": "0360c09",
+          "Kwic": "師便起去。師示眾云：「至道無難，唯嫌揀擇。才有言語是揀擇，老僧卻不在明白裏。是你向什麼處見祖師？」問：「和尚既不在明白裏，護惜什麼處？」師云：「我亦不知。」學云：「和尚既自不知，為什麼道不在明白裏？」師云：「問事即得禮拜退。」師示眾云：「法本不生，今則無滅。更不要道：才語是生、不語是默。諸人！且作麼生是不生不滅底道理？」問：「草是不生不滅麼？」師云：「者漢只認得箇死語。」問：「至道無難，唯嫌揀擇。才有言語是揀擇，和尚如何示人？」師云：「何不盡引古人語？」學云：「某甲只道得到者裏。」師云：「只這至道無難唯嫌揀擇。」上堂示眾云：「看經也在生死裏，不看經也在生死裏。諸人！且作麼生出得去？」僧便問：「只如俱不留時如何？」",
+          "MasterName": "Zhaozhou Congshen",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhaozhou Congshen",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J24/J24nB137.xml). Recorded Sayings of Zhaozhou. Zhaozhou Congshen owns the retained deployment: grants the dharma was never born and so is not now extinguished, then asks the assembly to point to the deathless principle."
+        },
+        {
+          "RelPath": "C/C077/C077n1710.xml",
+          "FromLb": "0625b17",
+          "ToLb": "0625c11",
+          "Kwic": "便溺他使得四大風水自由一切色是佛色一切聲是佛聲自己滓穢諂曲心盡透過三句外得說此語菩薩清淨弟子明白所有言說不執無有一切照用不拘清濁有病不喫藥是愚人無病喫藥是聲聞人定執一法名定性聲聞一向多聞名增上慢聲聞知他名有學聲聞沈空滯寂及自知名無學聲聞貪嗔癡等是毒十二分教是藥毒未銷藥不得除無病喫藥藥變成病病去藥不消不生不滅是無常義涅槃經云有三𢙣飲一欲得四眾圍遶二欲得一切人為我門徒三欲得一切人知我是聖人及阿羅漢迦葉經云一欲求見未來佛二欲求轉輪王三欲求剎利大姓四欲得婆羅門大姓乃至厭生死求涅槃如是𢙣欲先須斷之秖如今但有取染𨔝念盡名𢙣欲盡属六天捴被波旬管問二十年中常令除糞如何師云但息一切有無知見但息一切貪求箇箇透過三句外是名除",
+          "MasterName": "Baizhang Huaihai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baizhang Huaihai",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (C/C077/C077n1710.xml). Recorded Sayings of Ancient Venerable Masters. Baizhang Huaihai owns the retained deployment: calls the deathless the very meaning of impermanence once sickness has gone and the medicine is not yet dropped."
+        },
+        {
+          "RelPath": "X/X66/X66n1296.xml",
+          "FromLb": "0723a18",
+          "ToLb": "0723b16",
+          "Kwic": "道：智不到處切忌道著，道著即頭角生。合作麼生行履？吾便抽身入僧堂，泉便歸方丈。五磊權云：前輩與麼說話，大似病鳥棲蘆，太殺無轉。智者裏則不然，智不到處，正好道著：雨灑巖花，風生殿角。診候臨時，應病與藥。看孔著楔，解粘去縛。天馬挨開大施門，震動乾坤星斗落。道吾因雲巖不安，乃問：離此殻漏子向甚麼處相見？巖曰：不生不滅處相見。吾曰：何不道非不生不滅處，亦不求相見？雪竇顯云：侍者！與我記取者一問。昭覺勤，別云何處不逢渠。雲居莊云：不生不滅與非不生不滅處，總無相見分。若問雲居：脫却殻漏子向甚麼處相見？只向他道：什麼處不相見？驀拈拄杖劃一劃，下座。白巖符云：者兩個漢尋常出一言、吐一語，如鐵蒺黎，誰敢咬嚼？為甚到者裏却似個",
+          "MasterName": "Yunyan Tansheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yunyan Tansheng",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Daowu Yuanzhi",
+              "Roles": [
+                "questioner",
+                "case-figure"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X66/X66n1296.xml). Compilation of the School Gate’s “Raising Old Cases”. Yunyan Tansheng owns the retained deployment: answers Daowu that apart from the leaky shell they meet where nothing arises or perishes, and is at once pressed past even that place."
+        },
+        {
+          "RelPath": "X/X73/X73n1445.xml",
+          "FromLb": "0369b12",
+          "ToLb": "0370a12",
+          "Kwic": "頌第一句。一理本常行，道你一分更，信志依智用。死句兩平平。頌第二，轉換句。換句耀古今。生機最幽深，人我皆無著。同道盡知音。頌第三句慈定。隱顯放毫光。纖塵應真常。萬般同剎佛。海會實堂堂。第五問：作麼生契會？一分流注，二分轉側，三分同詮海會。乞和尚慈悲，逐句答出三分法性。師云：若是一分，且信本來具足，不生不滅，無去無來，一日相應，一日佛性。若是二分，知其自由自在，機鋒並無阻滯，應用隨方，喚作二分佛性。若是三分佛性，具足色相，名無得物之功，行絕離塵之用，應現自在，舒卷無妨。如此理論，且略而言之。若盡說，未有了期。德彥咨和尚細說德彥咨和尚：更乞為某子細說，要知深淺，惟願和尚不倦慈悲。師云：若與麼，諸佛菩薩．祖師",
+          "MasterName": "Xuansha Shibei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuansha Shibei",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X73/X73n1445.xml). Expanded Record of Chan Master Xuansha Shibei. Xuansha Shibei owns the retained deployment: opens his three-part buddha-nature answer with trust in what is originally complete, beyond arising and perishing."
+        },
+        {
+          "RelPath": "X/X67/X67n1309.xml",
+          "FromLb": "0009a04",
+          "ToLb": "0009a17",
+          "Kwic": "法身。諸仁者，若也信得去，不妨省力。可謂善財入彌勒樓閣，無邊法門悉皆周遍，得大無礙，悟法無生，是謂無生法忍。無邊剎境，自佗不隔於毫端；十世古今，始終不離於當念。且問諸人，阿那箇是當念？只如諸人，無明之性即是汝本覺妙明之性，葢為不了生死根源，執妄為實，隨妄所轉，致墮輪回，受種種苦。若能回光返照，自悟本來真性不生不滅，故曰無明實性即佛性，幻化空身即法身。只如四大五蘊不淨之身，都無實義，如夢如幻，如影如響，從無量劫來流浪生死，貪愛所使，無暫休息，出此入彼，積骨如毗富羅山，飲乳如四大海水。何故？為無智慧，不能了知五蘊本空，都無所實，逐妄受生，貪欲所拘，不得自在故。所以世尊云：諸苦所因，貪欲為本。若滅貪欲，無所依止。汝等",
+          "MasterName": "Ciming Chuyuan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Ciming Chuyuan",
+              "Roles": [
+                "utterer"
+              ]
+            },
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "compiler"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1309.xml). Treasury of the True Dharma Eye. Ciming Chuyuan owns the retained deployment: teaches that turning the light back one awakens the original nature beyond arising and perishing, which is why the nature of ignorance is buddha-nature."
+        },
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0801b17",
+          "ToLb": "0802a11",
+          "Kwic": "門下又却不然却要諸天捧花無路外道潛覰無門所以道群靈一源假名為佛一源中具無量無邊不可說不可說差別異旨能卷能舒能造化萬物萬物造化他不得這箇是人人本有之性一味清淨平等法門我若把這法門從今日說到盡未來際無有窮盡今日如公山主得得來揮金辨供齋我清淨禪眾盡是他平日去赴緣事一文文聚得來要結清眾緣他雖年運已往尚能留心要學不生不滅之法其志可嘉舊時趙州和尚年八十尚自行脚聞欽山有語云幸字脚羅沙石上種油麻乃云南方有五味禪遂得得來欽山問此話山云須是還我師資禮始得趙州遂如法禮拜起問幸字脚羅沙石上種油麻意旨如何山云是你祖翁也不識其時巖頭聞得謂欽山曰你後生長老受他古佛禮拜將來教你短命絕嗣去政信山主方年六十從脚下履踐將去忽然打破漆桶亦未為晚因做得",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Dahui Zonggao",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: praises the aged patron who still sets his heart on learning the deathless dharma, holding up Zhaozhou at eighty as the mark."
+        },
+        {
+          "RelPath": "T/T48/T48n2016.xml",
+          "FromLb": "0439b17",
+          "ToLb": "0439c03",
+          "Kwic": "外境。隨境了別。妍醜自分。纔生忻厭之情。便起塵勞之迹。故遠法師云。本端竟何從。起滅有無際。一微涉動境。成此頹山勢。但內一不生。則無諸有。欲塞煩惱之窟穴。截生死之根株。但能內觀一念無生。則空華三界。如風卷烟。幻影六塵。猶湯沃雪。廓然無際。唯一真心矣。進趣大乘方便經云。佛言。一實境界者。謂眾生心體。從本已來。不生不滅。乃至一切眾生心。一切二乘心。一切菩薩心。一切諸佛心。皆同不生不滅。真如相故。乃至盡於十方虛空。一切世界求心形狀。無一區分而可得者。但以眾生無明癡闇熏習因緣。現妄境界。令生念著。所謂此心不能自知。妄自謂有。起覺知想。計我我所。而實無有覺知之相。以此妄心畢竟無體。不可見故。若無覺知。能分別者。則無十方三",
+          "MasterName": "Yongming Yanshou",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongming Yanshou",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (T/T48/T48n2016.xml). Record of the Mirror of the School. Yongming Yanshou owns the retained deployment: grounds the one reality in the sutra's formula that the mind-essence of every being from ordinary to buddha is from the very start beyond arising and perishing."
+        },
+        {
+          "RelPath": "X/X72/X72n1437.xml",
+          "FromLb": "0425a05",
+          "ToLb": "0425b01",
+          "Kwic": "人間光照夜。劉長卿文學請上堂。今日乃劉長卿文學命老僧陞座演法，特薦故室陳氏。陳氏昔日恁麼生而實無所生，陳氏今日恁麼滅而實無所滅。拈拄杖，卓一卓，云：老僧卓杖作聲，是聲之生也，生從何來？卓已聲滅，是聲之滅也，滅從何去？既無來去，則知生是幻生、滅是幻滅；既知生是幻生、滅是幻滅，則知原未甞有生、原未甞有滅。識此不生不滅底，則陳氏女不勞彈指，入七寶池坐勝蓮花去也。陳氏且置，只如衲僧到此又作麼生？且莫揚聲大呌，眼空四海，老僧祇分付渠在門外止宿、園中運糞。何以故？青原山上鈯斧子，從來不肯妄流傳。卓拄杖，下座。師到興福寺，陳曉人居士請上堂。諸方浩浩競談禪，老僧長抱白雲眠，今朝却被陳居士，無端拉出畵堂前。諸仁者！要老僧說禪麼？且",
+          "MasterName": "Yongjue Yuanxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yongjue Yuanxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1437.xml). Expanded Record of Chan Master Yongjue Yuanxian. Yongjue Yuanxian owns the retained deployment: shows at a woman's memorial that her life birthed and died in illusion, so knowing what never arose nor perished seats her on the lotus without lifting a finger."
+        },
+        {
+          "RelPath": "X/X72/X72n1444.xml",
+          "FromLb": "0266a17",
+          "ToLb": "0266b12",
+          "Kwic": "分成六和合。如能獲悟，則一根若返源，六用成解脫。又云：尚非其一，何處有六？一六既非，三七何有？不可以迷為解，自起深疑也。八問：身中十二宮辰，此本玄門外道執色身為自己者，作此說也。不聞老子云：吾有大患，為吾有身。若能了悟，能依之色身不有，則所依之十二宮辰何在？亦不可執無有身，落於斷見。何則？人人有法身常住，不生不滅，備之在我，終不繇他。儒云：未知生，焉知死？又云：天開於子，地闢於丑，人生於寅。究之於未分已前、混沌已後，惟一虗空，何有十二宮辰？天地可譬人身，虗空可譬法身。迷成兩途，悟惟一致。所謂三魂七魄、十二宮辰，不可執其定有定無也。拙衲管見如此，惟大王鑒之。於文字語言之前，自知曠劫已來，無有一物一名可稱外有。直下孤明",
+          "MasterName": "Zhanran Yuancheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhanran Yuancheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X72/X72n1444.xml). Recorded Sayings of Chan Master Zhanran Yuancheng. Zhanran Yuancheng owns the retained deployment: answers in his treatise that everyone owns a dharmabody that abides beyond arising and perishing, complete in oneself and never owed to another."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X66/X66n1298.xml",
+        "J/J24/J24nB137.xml",
+        "C/C077/C077n1710.xml",
+        "X/X66/X66n1296.xml",
+        "X/X73/X73n1445.xml",
+        "X/X67/X67n1309.xml",
+        "M/M59/M59n1540.xml",
+        "T/T48/T48n2016.xml",
+        "X/X72/X72n1437.xml",
+        "X/X72/X72n1444.xml"
+      ],
+      "RelatedMasters": [
+        "Huineng",
+        "Zhaozhou Congshen",
+        "Baizhang Huaihai",
+        "Yunyan Tansheng",
+        "Daowu Yuanzhi",
+        "Xuansha Shibei",
+        "Ciming Chuyuan",
+        "Dahui Zonggao",
+        "Yongming Yanshou",
+        "Yongjue Yuanxian",
+        "Zhanran Yuancheng"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Neither born nor extinguished, and every retained turn refuses to let that become a doctrine. Huineng tells the imperial envoy that his teaching differs from the outsiders' because it was never born and so is never extinguished, Zhaozhou Congshen grants the dharma was never born and then asks the assembly to point to the deathless principle, Baizhang Huaihai calls the deathless the very meaning of impermanence once sickness has gone and the medicine is not yet dropped, Yunyan Tansheng answers Daowu that apart from the leaky shell they meet where nothing arises or perishes, and Xuansha Shibei opens his three-part buddha-nature answer with trust in what is originally complete beyond arising and perishing. Ciming Chuyuan teaches that turning the light back awakens the original nature beyond arising and perishing, Dahui Zonggao praises an aged patron who still sets his heart on learning the deathless dharma, Yongming Yanshou grounds the one reality in the sutra's formula that the mind-essence of every being from ordinary to buddha never arose, Yongjue Yuanxian shows at a woman's memorial that knowing what never arose nor perished seats her on the lotus, and Zhanran Yuancheng answers in his treatise that everyone owns a dharmabody abiding beyond arising and perishing."
+    }
+  ]
+}

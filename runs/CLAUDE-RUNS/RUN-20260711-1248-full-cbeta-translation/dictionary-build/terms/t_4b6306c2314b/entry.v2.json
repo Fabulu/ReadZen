@@ -1,0 +1,177 @@
+{
+  "Id": "t_4b6306c2314b",
+  "SourceTerm": "隨分納些些",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-06T01:03:30Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "take in one's share, a little at a time",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "take in a little at a time",
+        "accept one's portion as it comes"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 156 hits in 102 source files. Evidence floor met with 8 retained exact deployments from 8 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "M/M59/M59n1540.xml",
+          "FromLb": "0940b02",
+          "ToLb": "0940b16",
+          "Kwic": "壽永處高堂受子子孫孫恭敬次願丞相暨闔府貴眷福足慧足因深果深不盡功德追薦孺人湯氏超昇佛地山僧有四句頌子且要孺人一靈不昧知有此段大事因緣云脫却無明殼漏子抹過斷常生死坑靈光一點照天地歷劫何嘗有變更。妙明居士李太尉請普說妙明居士李太尉請普說師云南泉和尚道牽牛向溪東放不免犯他國王水草牽牛向溪西放不免犯他國王水草不如隨分納些些釋迦老子乘六牙香象降摩耶夫人胎示現誕生示現行七步示現處天宮示現逾城出家示現雪山勤苦六年示現明星現時成等正覺乃至說一大藏教權實頓漸隨諸眾生根器所宜而為說法為求最上乘者說一切種智為諸菩薩說六波羅蜜令其各證無生法忍為聲聞緣覺說十二緣生四諦真理令其各得八解六通證寂滅樂為諸天說一切諸行皆悉無常一切樂具皆悉襄謝令其各",
+          "MasterName": "Dahui Zonggao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (M/M59/M59n1540.xml). General Discourses of Chan Master Dahui Pujue. Dahui Zonggao owns the retained deployment: answering the layman Li's request with Nanquan's saying, then unfolding the take-in as Shakyamuni's whole course — mounting the six-tusk elephant down into Lady Maya's womb, the birth and the seven steps, the palaces, the flight over the wall, six snow-mountain years, the morning star and the awakening, and a whole storehouse taught to each being's capacity."
+        },
+        {
+          "RelPath": "X/X67/X67n1307.xml",
+          "FromLb": "0865b11",
+          "ToLb": "0866a06",
+          "Kwic": "天下人舌頭去在。但向道：若要坐斷天下人舌頭，正合將火來燒却。今日公案恰與一般。我當時若見德山道：如是，如是，善自護持。震聲一喝，拂袖便行，兒孫也未見斷絕。第六十則南泉水牯第六十則南泉水牯舉：南泉垂語云：王老師牧一頭水牯牛，擬向溪東去，不免官家苗稼；擬向溪西去，不免官家苗稼。爭如隨分納些些？總不見得。天童拈云：南泉牧牛可謂奇特，直得一切處關防不得。為甚麼如此？是他隨分納些些。師云：這箇公案，諸方大行。洞山道：露地白牛，牧人懶放。南泉却自小牧水牯牛，且道他意作麼生？溈山懶安初參百丈，問：學人欲求識佛，何者",
+          "MasterName": "Hongzhi Zhengjue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X67/X67n1307.xml). Elder Wansong’s Commentary and Chanted Remarks on Master Tiantong Jue’s Picking Up Ancient Cases: Record of Requests for Instruction. Hongzhi Zhengjue owns the retained deployment: picking Nanquan's herding up in his note: rare — a whole life walking in the grass, past every fence, free beyond holding, because his left is square and his right is round; it is his taking-in-a-little — sorrow he shares with them, joy he joins."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0011a11",
+          "ToLb": "0011a25",
+          "Kwic": "日破其籓籬，去其墻塹，拈五印土為新羅國，將兜率天為震旦方，十方世界融為一剎，各不留礙，亦不相參。來來來，無所來，曉雲南陌白銀堆。去去去，無可去，夜深葉落塘南樹。不來不去兩無交，華影橫窗月色嬌，一枕松風鶴夢醒。」拂一拂云：「飛過湖山十二橋。」結制，上堂。「蝸牛角上三千界，雲月谿山共一家，知是業緣無避處，不如隨分納些些。古人到恁麼田地，也秖是萬不得已。山僧三十年前卻是我累著他，三十年後卻是他累著我，所以投老領眾，扶病渡江，子細理會將來，東西南北、上下四維，就是千佛出世，也是回避不得。山僧沒奈何，只得和康糶米，攙水賣油去也。」豎拂子云：「西余師子子湖狗、雲門胡餅曹山酒，攝無量劫為須臾頃，撮十方世界針鋒首，隨事建立，渾然大",
+          "MasterName": "Sanyi Mingyu",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Sanyi Mingyu owns the retained deployment: opening the retreat on the snail-horn world where cloud-moon and stream-mountains are one family: knowing the karma-bond has no hiding place, better take in one's share, a little — the ancients at that stage simply had no alternative; thirty years ago he burdened it, thirty years on it burdens him, so the old man leads the assembly across the river sick, mixing chaff into the rice and water into the oil."
+        },
+        {
+          "RelPath": "J/J34/J34nB311.xml",
+          "FromLb": "0608a16",
+          "ToLb": "0608a29",
+          "Kwic": "悟中迷。』若向遮裏一一透得過，始能勘破從上佛祖敗闕，更不向從上佛祖納敗闕也。秪如今日徑山全提一句又作麼生？」擊如意，云：「擊開劫外無私眼，印破古今凡聖心。」太倉惠明禪人設供請上堂太倉惠明禪人設供請上堂舉：「南泉和尚云：『王老師自小養一頭水牯牛，擬向溪東牧，不免犯國王水草；擬向溪西牧，不免犯國王水草。不如隨分納些些，總不見得。』」師云：「遮偷懶撈天漢，好與一頓痛棒。既有個牛兒，便當隨處放牧，但勿犯人苗稼，使他水足草足，自然不東觸西觸矣。如我山中許多大眾，必求饑餐渴飲，豈可空腹高心，強謂隨分納些些即飽足也？又況國王水土，如天地養物，曾不限人，孰不取足以負其大檀施乎？還有為南泉雪屈者麼？惠明禪人從太倉來，於此設供，請山僧",
+          "MasterName": "Juelang Daosheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J34/J34nB311.xml). Recorded Sayings of Chan Master Juelang. Juelang Daosheng owns the retained deployment: raising Nanquan's water-buffalo saying - Old Wang has herded one water buffalo since youth; graze him east of the stream and he trespasses the king's grass, graze him west and he trespasses too; better take in a little share, in sum nothing is gained - and ruling in his own voice: this lazy sky-scraping shirker deserves one sound thrashing; with a beast of one's own, graze him anywhere, only spare the crops - water enough, grass enough - and there will be no more jogging east and jogging west."
+        },
+        {
+          "RelPath": "J/J40/J40nB494.xml",
+          "FromLb": "0577a19",
+          "ToLb": "0577b02",
+          "Kwic": "仙逝。今孝嗣伯仲不改其道，仍請山僧對太翁之靈說法，可謂以孝傳家者也。試看即今心香藹蔚、智燭煒煌，畢竟太翁一靈安在？」驀豎拂子，云：「此時若蹉過，餘日定難逢。」便下座。實賢知客領本城缺口門眾信請上堂。舉：「昔南泉和尚上堂曰：『自小養一頭水牯牛，擬向溪東牧，不免犯他國王水草；擬向溪西牧，不免犯他國王水草。不如隨分納些些，總不見得。』」乃云：「大小南泉慣向異類中行，雖解隨分納些些，本分草料要且未夢見在。後來雲門拈云：『且道牛裏納？牛外納？直饒你說得納處分明，我更問你覓牛在。』這箇隨摟搜漢，棒折也未肯放在。若總與麼，曹溪路上何止浪湧千尋？天寧自小亦畜得一頭水牯牛，一任溪西溪東從不犯人苗稼，而今露迥迥地橫臥當陽，且道畢竟鼻孔",
+          "MasterName": "Yushan Shangsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J40/J40nB494.xml). Recorded Sayings of Monk Yushan. Yushan Shangsi owns the retained deployment: raising the case for the city congregation and grading it: big Nanquan is used to walking among the other-kind — he may understand taking-in-a-little, but the original-portion fodder he has not yet dreamed of; and Yunmen, demanding whether the ox takes in inside or outside and then asking to be shown the ox, is a rummager whose staff should break before he is let go."
+        },
+        {
+          "RelPath": "J/J25/J25nB171.xml",
+          "FromLb": "0543c04",
+          "ToLb": "0543c18",
+          "Kwic": "未生前，那箇是本來面目？』後寶壽罔措。一日在市，見二人相爭，有一人相勸云：『你得恁麼無面目。』壽遂大悟。」師拈云：「得恁麼無面目。噫！錦繡叢中撞著，白雲堆裏活埋。洞見本地風光，面目依然長在。」舉：「南泉示眾云：『王老師自小養得一頭水牯，欲擬向溪東牧，不免食他國王水草；欲擬向溪西牧，亦不免食他國王水草，不如隨分納些些，總不見得。』」師拈云：「把住則坐臥空園，放行則雲山萬里。混塵俗而不流，超潔白而無住。縱橫自在，左右逢源，何須道擬向東、擬向西而不自由也？且喜隨分納些些。雖然，切忌動著，動著則三十棒。」舉：「溈山普請次，值板鳴，有一僧拍手呵呵大笑歸去。溈山云：『奇哉！此是觀音入理之門。』至晚，問其僧：『適來你見箇什麼道理",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB171.xml). Recorded Sayings of Monk Tianyin. Tianyin Yuanxiu owns the retained deployment: holding the raised case to the light in his picking-up: holding fast, one sits and lies in an empty garden; letting go, cloud-mountains for ten thousand miles; mixed into the dusty crowd without sinking, past the pure white without dwelling — why call east or west unfree? and one delights in taking-in-a-little; even so, beware of stirring — stir it, and thirty blows."
+        },
+        {
+          "RelPath": "J/J27/J27nB192.xml",
+          "FromLb": "0186a21",
+          "ToLb": "0186b04",
+          "Kwic": "座請上堂。師纔入法堂，顧視左右云：「大眾有甚麼事麼？」眾無語。遂陞座云：「法門寥落，祖道垂秋，若要扶起，全賴大休。休則不無，作麼生說個扶的道理？」作抖身勢，云：「抖擻多年穿破衲，襤毿幾片逐雲飛。」復舉：「南泉云：『王老師自小養一頭水牯牛，擬向溪東牧，不免食他國王水草；擬向溪西牧，亦不免食他國王水草。如今不免隨分納些些，總不見得。』」師云：「山僧亦有一頭水牯牛，也不向溪東牧，也不向溪西牧，也不隨分納些些，不使奔逸，不縱驕奢，得放下且放下，是甚曲調？歸堂喫茶。」下座。上堂。「一不是，二也非，守真志滿，逐物意移。」擲拂子，下座。僧出眾云：「大眾證明。」師云：「證明個甚麼？」僧便喝，師便打。結制，本寺眾勤舊請上堂。「封起拄",
+          "MasterName": "Daxiu Zhu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB192.xml). Recorded Sayings of Chan Master Daxiu Zhu. Daxiu Zhu owns the retained deployment: refusing the whole pasture after raising the case: this mountain monk also has one water-buffalo — not herded east of the stream, not west, not even taking-in-a-little; no stampeding, no pampering, put it down wherever it can be put down — what tune is that? back to the hall for tea."
+        },
+        {
+          "RelPath": "J/J27/J27nB198.xml",
+          "FromLb": "0453a14",
+          "ToLb": "0453a27",
+          "Kwic": "住！且莫草草匆匆，雲月是同，溪山各異，截斷天下人舌頭則不無，闍黎爭教無舌人解語？』浦無語，山便打，浦從此服膺。諸兄弟！還知他洛浦在夾山手裏落節麼？」良久云：「羅龍須是調龍手，豈受尋常落地欺？」上堂，師舉：「南泉禪師云：『王老師自小牧一頭水牯牛，擬向溪東牧，未免食他國王水草；擬向溪西牧，未免食他國王水草，不如隨分納些些總不見得。』」師拈云：「溪東牧、溪西牧，知其背、知其觸，不如隨分納些些，縱踰矩兮從所欲。諸兄弟！若曉得孔子道底，便可移性復情；若曉得南泉道底，便可返道合常；若曉得山僧道底，墮坑落塹。」復卓拄杖云：「出了也免死，停囚長智。」便下座。孝廉聞子將、嚴印持、鄒孟陽、王元建、方子凡，同錢機山相國，沈彥威、余集生兩中",
+          "MasterName": "Yingshan Zhiyin",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "person-discussed"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB198.xml). Recorded Sayings of Chan Master Xueguan. Yingshan Zhiyin owns the retained deployment: capping the case in verse with the Analects let in: herding east, herding west, one knows the turning-away and the touching; better take in one's share, a little — even past the rule, follow what the heart wants; he who understands Confucius' saying can shift the nature and restore the feeling, he who understands Nanquan's can return to the Way and join the constant — and he who understands this mountain monk's falls into pit and ditch."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "M/M59/M59n1540.xml",
+        "X/X67/X67n1307.xml",
+        "J/J27/J27nB189.xml",
+        "J/J34/J34nB311.xml",
+        "J/J40/J40nB494.xml",
+        "J/J25/J25nB171.xml",
+        "J/J27/J27nB192.xml",
+        "J/J27/J27nB198.xml"
+      ],
+      "RelatedMasters": [
+        "Dahui Zonggao",
+        "Nanquan Puyuan",
+        "Hongzhi Zhengjue",
+        "Sanyi Mingyu",
+        "Juelang Daosheng",
+        "Yushan Shangsi",
+        "Tianyin Yuanxiu",
+        "Daxiu Zhu",
+        "Yingshan Zhiyin"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "Take in one's share, a little at a time. The formula is Nanquan Puyuan's own: Old Wang has herded one water-buffalo since childhood — drive him east of the stream and he eats the king's water and grass; drive him west and he eats it too; better take in one's share, a little at a time — on the whole, not to be seen. Dahui Zonggao, answering the layman Li's request, quotes the saying and then unfolds the take-in as Shakyamuni's whole course: mounting the six-tusk elephant down into Lady Maya's womb, the birth and the seven steps, the palaces, the flight over the wall, six years on the snow mountain, the morning star and the awakening, and at last a whole storehouse taught according to each being's capacity — the top-vehicle given the omniscient knowing, the bodhisattvas the six perfections. Tiantong Jue, picking the case up in his note, rules Nanquan's herding rare: a whole life walking in the grass, past every fence, free beyond holding — why so? because his left is square and his right is round; it is his taking-in-a-little — sorrow he shares with them, joy he joins. Sanyi Mingyu, opening the retreat, finds nowhere to dodge: on a snail's horn three thousand worlds, cloud-moon and stream-mountains one family; knowing the karma-bond has no hiding place, better take in one's share, a little — the ancients at that stage simply had no alternative; thirty years ago he burdened it, thirty years on it burdens him, so the old man leads the assembly across the river sick, mixing chaff into the rice and water into the oil. And Juelang Daosheng, raising Nanquan's herding saying at the Huiming tea-offering — Old Wang has herded one water-buffalo since youth; graze him east of the stream, he trespasses the king's grass; graze him west, he trespasses too; better take in a little share, in sum nothing is gained — rules in his own voice: this lazy sky-scraping shirker deserves one sound thrashing; with a beast of one's own, graze him anywhere, only spare the crops — water enough, grass enough — and there will be no more jogging east and jogging west. Yushan Shangsi, raising the case for the city congregation, grades it: big Nanquan is used to walking among the other-kind — he may understand taking-in-a-little, but the original-portion fodder he has not yet dreamed of; and Yunmen, demanding whether the ox takes in inside or outside and then asking to be shown the ox, is a rummager whose staff should break before he is let go. Tianyin Yuanxiu holds the case to the light: holding fast, one sits and lies in an empty garden; letting go, cloud-mountains for ten thousand miles; mixed into the dusty crowd without sinking, past the pure white without dwelling — why call east or west unfree? and one delights in taking-in-a-little; even so, beware of stirring — stir it, and thirty blows. Daxiu Zhu refuses the whole pasture: this mountain monk also has one water-buffalo — not herded east of the stream, not west, not even taking-in-a-little; no stampeding, no pampering, put it down wherever it can be put down — what tune is that? back to the hall for tea. And Yingshan Zhiyin, capping the case in verse, lets the Analects in: herding east, herding west, one knows the turning-away and the touching; better take in one's share, a little — even past the rule, follow what the heart wants; he who understands Confucius' saying can shift the nature and restore the feeling, he who understands Nanquan's can return to the Way and join the constant — and he who understands this mountain monk's falls into pit and ditch."
+    }
+  ]
+}

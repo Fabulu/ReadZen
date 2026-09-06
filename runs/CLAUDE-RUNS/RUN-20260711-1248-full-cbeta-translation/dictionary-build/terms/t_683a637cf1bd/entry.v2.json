@@ -1,0 +1,194 @@
+{
+  "Id": "t_683a637cf1bd",
+  "SourceTerm": "無形本寂寥",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "r8 fresh10k curation agent A1",
+  "WrittenUtc": "2026-09-06T02:08:32Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "shapeless, of itself still and empty",
+      "AlternateTargets": [
+        "formless and still from the root"
+      ],
+      "SearchAliases": [
+        "the shapeless still half",
+        "formless, empty and still from the start",
+        "the still shapeless thing"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 155 hits in 110 files representing 107 independent works. Evidence floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "D/D48/D48n8939.xml",
+          "FromLb": "0512a06",
+          "ToLb": "0512b12",
+          "Kwic": "下轉使心地不安且作麼生是法身良久云任是僧繇手難𦘕志公󷹋󳏃重。上堂云若論此事󵘸什麼龍樹馬鳴提婆鶖子辯似懸河智如流水莫能知之摩竭掩室眾手難淘淨名默然如何即是百丈卷蓆諸方云云祖師面壁叢林浩浩到者裏若辨得出山僧與你一條拄杖若辨不出山僧有通方句且道作麼生是通方句良久云手󷹷隻履西天去󳏃重。上堂舉先聖道有物先天地無形本寂寥能為万象主不逐四時凋師云好箇頌却成兩橛若有人點撿得出許你具一隻眼󳏃重。上堂云若欲求佛即心是佛若欲求道無心是道無心故非法而不生即心故歷刼而常堅若然者法法無𭅒心心不断所以古德道君但隨緣得似風飛砂走石不乖空但於事上通無事見色聞聲不用聾󳏃重。上堂云春風䬃䬃古佛嘉猷淥水潺潺道人活計若與麼會貶向崖州本色衲僧如何",
+          "MasterName": "Langye Huijue",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Langye Huijue",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (D/D48/D48n8939.xml). Recorded Sayings of Ancient Venerable Masters. Langye Huijue owns the retained deployment, raising the old sage's verse at the hall seat and faulting it as a fine verse that falls in two pieces, offering the single eye to whoever can check it out."
+        },
+        {
+          "RelPath": "J/J27/J27nB191.xml",
+          "FromLb": "0159a23",
+          "ToLb": "0159b05",
+          "Kwic": "氣、無氣，及燒胞始叫一聲舉家相慶；亦不知有內六根、外六塵、中六識，乃至物我之名、聖凡之號，混混沌沌，七竅未鑿，渾然一際。大眾！蓋此初生時節，非獨山僧如是，要且若男、若女莫不如是。然則何以佛是佛、水牯牛是水牯牛、吾人是吾人？諸仁者！知麼？鏡分金殿燭，山答石樓鐘。」冬至小參。舉：「古云『有物先天地』，甚麼物？『無形本寂寥』，強叨叨。」師拈拄杖，云：「我今為眾親拈出。」乃卓一卓，云：「從來只麼赤條條。赤條條，似吾曹，能為萬象主，不逐四時凋。諸仁者，好生觀，剎剎塵塵絕覆藏，為渠非物非非物，切忌從中道短長。」乃舉：「昔有僧問一老宿云：『一陽來復，日長一線，未審佛法長多少？』宿云：『長一線。』後復有一老宿云：『一線長。』」師拈云",
+          "MasterName": "Jinian Jingxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Jinian Jingxian",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB191.xml). Recorded Sayings of Chan Master Xiangtian Jinian. Jinian Jingxian owns the retained deployment, pressing the old saying half by half at the winter-solstice small meeting, then lifting the staff, striking once, and answering with his own red-bare verse."
+        },
+        {
+          "RelPath": "J/J27/J27nB197.xml",
+          "FromLb": "0410c25",
+          "ToLb": "0411a12",
+          "Kwic": "，春風倏有倏無，若從這裏會去，佛法天地懸殊；不從這裏會去，向甚麼處會？纔涉思惟，成群作隊。不思惟處意如何？行人更在青山外。今日博山親歷其境，有一首偈分明舉似大眾。偈曰：三腳驢子弄蹄行，踏破蒼苔知幾層，正恁麼時誰會意？白雲深處坐禪僧。」卓拄杖，云：「咦！誰是其人？珍重。」上堂。舉拂子，云：「『有物先天地，無形本寂寥，能為萬象主，不逐四時凋。』古人恁麼道，獨步全提，至微至著，超規越矩，方圓可成。先賢朱晦翁嘗以此偈示門人，曰：『吾儒無此等語。』晦翁可謂知言也。諸人還知麼？月渚風林，流出現成公案；鶯聲鳥語，宣揚不二法門。雲中之木馬長嘶，山外之泥牛倒走，毋居正位，不犯當頭，坐斷十方，不通凡聖。然雖如是，更須知有向上一縫子始",
+          "MasterName": "Wuyi Yuanlai",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wuyi Yuanlai",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB197.xml). Essentials of the Recorded Sayings of Master Wu Yi of Boshan. Wuyi Yuanlai owns the retained deployment, raising the verse in the collected-essentials record, ruling the old saying a lone walk that holds everything forth, and seconding Zhu Xi's admission that his own school has no such words."
+        },
+        {
+          "RelPath": "L/L154/L154n1639.xml",
+          "FromLb": "0158a10",
+          "ToLb": "0158b14",
+          "Kwic": "歲盡時如何師指爐云一炷清香徧十方進云時節因緣休蹉過徹骨知寒有幾人師云看腳下師廼云今年除歲也恁麼舊年除歲也恁麼明年除歲也恁麼直饒你除到眼光落地四大分張也只是恁麼老僧四十年來叅之究之研之窮之猶是恁麼大眾又作麼生此事要實悟實證實行實踐始得到者裏拄杖子𨁝跳出來道今夜是什麼時節說者些牽牽蔓蔓話不見道有物先天地無形本寂寥能為萬象主不逐四時凋師驀喝一喝云也是牽蔓說話畢竟直截一句如何道召大眾云各各歸堂喫茶去和聲擲下拄杖。元旦示眾師云好個新正日雨打千山溼人人有生緣者裏無間歇傾湫倒嶽鎮常靜一念萬年終不回左右顧視召大眾云伏惟珍重。示眾師拈拄杖云白日照消千嶂雪清風吹散一天雲道人活計隨時用信手拈來不是塵有知音者出來遞相醻唱得否僧",
+          "MasterName": "Tianyin Yuanxiu",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Tianyin Yuanxiu",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (L/L154/L154n1639.xml). Recorded Sayings of Chan Master Tianyin Xiu. Tianyin Yuanxiu owns the retained deployment, telling the year-end assembly that after forty years of probing the affair is still just so, reciting the verse, then shouting and calling even it rambling talk, sending them all back to the hall for tea."
+        },
+        {
+          "RelPath": "J/J28/J28nB219.xml",
+          "FromLb": "0707b01",
+          "ToLb": "0707b15",
+          "Kwic": "才識而憐病僧之樸蠢，欲一二字伴於案頭以見病僧樸蠢之真，病僧亦不敢以樸蠢自鄙，即將樸蠢獻於高明，冀高明鑑方外之實處，以見二十年之相與唯此不二之蠢念。若夫公高奇深妙處，自有大方明眼宗師為公發揚之。予何能言之？予何能言之？贈幼潛王公序贈幼潛王公序原夫大塊形於萬物，竟古而不墜者，善藏故也。古德云：「有物先天地，無形本寂寥，能為萬物主，不逐四時凋。」無形本寂寥，即善藏也，由善藏故能主、能不息耳！《詩》云：「上天之載，無聲無臭。」此亦藏義。《書》云：「至誠如神。」此明由藏而後有大用，是則克明德於天下者，皆從止善安定中來。大抵世出世法不論知頑小大，未有不由靜而動、隱而現。老氏云：「重為輕根，靜為躁君」是也。又云：「俗人昭昭，我獨",
+          "MasterName": "Zhuanyu Guanheng",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Zhuanyu Guanheng",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J28/J28nB219.xml). Recorded Sayings of Monk Zhuanyuheng of Purple Bamboo Grove. Zhuanyu Guanheng owns the retained deployment, writing the half for a lay patron as the good hiding, since by hiding well it can master and never rest, and backing the reading with the Ode and the Document."
+        },
+        {
+          "RelPath": "J/J39/J39nB450.xml",
+          "FromLb": "0481c22",
+          "ToLb": "0482a04",
+          "Kwic": "多開口，得便宜處失便宜。」卓拄杖，下座。上堂。僧問：「如何是永證金剛不壞身？」師打，云：「昨夜星曉，今朝鶴鳴。」僧以手作圓相，云：「九十六種圓相與者箇是同？是別？」師云：「別則各別，同則總同。」進云：「恁麼飯是米做。」師云：「不是飽飧人不知。」僧作禮，師一喝，豎拄杖，云：「見麼？有物先天地。」擲下杖，云：「無形本寂寥。」復舉杖，云：「於此會得，能為萬象主，方知不逐四時凋。既不逐四時凋，如何春生、夏長、秋收、冬藏、山河大地、明暗色空、草木叢林、纖洪長短，者箇能為萬象主？且道：主人公在甚麼處安身立命？」眾一喝，師云：「諸人若於此一喝中薦得，春來處處百花香，夏至熏風枕簟涼，秋日菊開金布地，冬時雪霰滿禪房。到這裏，不免放開",
+          "MasterName": "Minshu Ruxiang",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Minshu Ruxiang",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J39/J39nB450.xml). Recorded Sayings of Chan Master Minshu. Minshu Ruxiang owns the retained deployment, lifting the staff on the first half, dropping it on the shapeless half, lifting it again on the lower lines, and asking where the master of the ten-thousand forms settles."
+        },
+        {
+          "RelPath": "J/J37/J37nB387.xml",
+          "FromLb": "0419c28",
+          "ToLb": "0420a11",
+          "Kwic": "養，但將此句展微誠。」師打，云：「一禮一答從今決，切忌隨流取次來。」僧便喝，師復打。僧問：「過去心不可得，現在心不可得，未來心不可得，未審何物方可得？」師便打。進云：「恁麼則歷歷無回互，明明絕覆藏去也。」師云：「案山子未肯相許在。」進云：「用許作麼？」師云：「若不親遭許，終成客作兒。」乃云：「有物先天地，無形本寂寥，能為萬物主，不逐四時彫。言前薦得，始知自己本命元辰著落處；知得自己落處，始知山僧落處；知得山僧本命元辰著落處，始知從上佛祖本命元辰落處；知得從上佛祖本命元辰，可謂不離夢宅而高登正覺之場，匪隔幻身而獲具真常之體。」遂召左右，云：「且道如何是真常體？」良久，云：「三冬寒夜煖如火，六月炎天冷似冰。」下座。結制",
+          "MasterName": "Gusu Zun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Gusu Zun",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J37/J37nB387.xml). Recorded Sayings of Chan Master Gusuzun. Gusu Zun owns the retained deployment, reciting the verse and holding that to meet it before words is to know where one's own root star of life stands, and so where the old teachers' stands."
+        },
+        {
+          "RelPath": "J/J36/J36nB359.xml",
+          "FromLb": "0625b05",
+          "ToLb": "0625b18",
+          "Kwic": "云：「馬師病裏竭力提持，全身為人，叵耐不遇知音。當時待他與麼道，但云：『也知大師善病。』管教那賣簸箕漢滿面慚惶，無地容身。儻有僧曰：『青龍者般說話，也是同病相憐。』祇向他道：『金烏急，玉兔速，擬思一箭過天竺。』咄！咄！咄！三十年來弄馬騎，等閒那怕驢兒撲。」愛愚宗居士八旬，請上堂。「有物先天地，是箇甚麼物？無形本寂寥……」畫○云：「者箇聻？能為萬象主。溢目昭然，那箇是主？不逐四時凋。因甚春至花開，秋回葉落？古人者樣說話，好似杭州人撐船。」卓拄杖，云：「青龍只有者箇，攀躋莫及，鑽仰彌堅，放之周遍法界，斂之在一毫端。夫子不識，達磨茫然，說甚鍾離、洞賓、鬼谷、神仙？畢竟如何？從來不假壺公術，袖裏乾坤別有天。」上堂。「潺潺流水",
+          "MasterName": "Baiyu Jingsi",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Baiyu Jingsi",
+              "Roles": [
+                "utterer",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J36/J36nB359.xml). Recorded Sayings of Chan Master Baiyu. Baiyu Jingsi owns the retained deployment, interrogating the verse line by line at the eighty-year birthday seat, drawing a circle for the shapeless half, and faulting the ancients' way of talking as a Hangzhou boatman's patter."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "D/D48/D48n8939.xml",
+        "J/J27/J27nB191.xml",
+        "J/J27/J27nB197.xml",
+        "L/L154/L154n1639.xml",
+        "J/J28/J28nB219.xml",
+        "J/J39/J39nB450.xml",
+        "J/J37/J37nB387.xml",
+        "J/J36/J36nB359.xml"
+      ],
+      "RelatedMasters": [
+        "Langye Huijue",
+        "Jinian Jingxian",
+        "Wuyi Yuanlai",
+        "Tianyin Yuanxiu",
+        "Zhuanyu Guanheng",
+        "Minshu Ruxiang",
+        "Gusu Zun",
+        "Baiyu Jingsi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The second half of the Layman Fu's inherited verse: without form, of itself still and empty. Langye Huijue raises the old sage's verse at the hall seat and faults it as a fine verse that falls in two pieces, offering the single eye to whoever can check it out, Jinian Jingxian presses the old saying half by half at the winter-solstice small meeting, then lifts the staff, strikes once, and answers with his own red-bare verse, Wuyi Yuanlai raises it in the collected-essentials record, rules the old saying a lone walk that holds everything forth, and seconds Zhu Xi's admission that his own school has no such words, and Tianyin Yuanxiu tells the year-end assembly that after forty years of probing the affair is still just so, recites the verse, shouts, and calls even it rambling talk, sending them all back for tea. Zhuanyu Guanheng writes the half for a lay patron as the good hiding, since by hiding well it can master and never rest, backing the reading with the Ode and the Document, Minshu Ruxiang lifts the staff on the first half, drops it on the shapeless half, lifts it again on the lower lines, and asks where the master of the ten-thousand forms settles, Gusu Zun recites the verse and holds that to meet it before words is to know where one's own root star of life stands, and so where the old teachers' stands, and Baiyu Jingsi interrogates the verse line by line at the eighty-year birthday seat, draws a circle for the shapeless half, and faults the ancients' talk as a Hangzhou boatman's patter."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Id": "t_4871c3defb43",
+  "SourceTerm": "西來大意",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "Claude r8 fresh curation A2",
+  "WrittenUtc": "2026-09-05T23:55:51Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "the great intent of the coming from the west",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "the great meaning of the coming from the west",
+        "why the first ancestor came from the west"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 283 hits in 118 source files. Evidence floor met with 10 retained exact deployments from 10 independent works. No lamp work was retained.",
+      "Occurrences": [
+        {
+          "RelPath": "L/L153/L153n1638.xml",
+          "FromLb": "0687b15",
+          "ToLb": "0688b04",
+          "Kwic": "提起話頭看個父母未生前那個是我本來面目若不苦心叅究受他施主供養滴水難消切須仔細。甲申元旦諸護法暨大眾請祝聖上堂師陞座拈香畢乃云且道新年頭佛法如何舉揚村村蠶麥熟處處稻花香忽聞爆竹聲隨云爆竹一聲天地老塔前無處不光輝即此是法即此是道大眾久立珍重。恒輝禪人供眾請上堂古者道平常心是道喜怒罵詈咳唾掉臂無非是祖師西來大意此事不論初機晚學只要一個信得及若是夙有靈根猛自提撕忽然正眼豁開方見老人眉毛端的。臘八日譚埽菴居士為薦誥封夫人徐氏請上堂師陞座維那白椎竟師喝一喝什麼第一義第二義今日埽菴居士為亡過誥封夫人徐氏曾於病中發心請老人說法普利一切夫說法者聽法者如夢如幻無有是處而徐氏夫人仗此勝因超生天界作天眷屬不墮人間受諸苦惱",
+          "MasterName": "Xueqiao Yuanxin",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (L/L153/L153n1638.xml). Recorded Sayings of Chan Master Xueqiao Xin (Vols. 1–6). Xueqiao Yuanxin owns the retained deployment: telling a donor-feast assembly that coughing, spitting and swinging the arms are all the ancestor's westward intent, needing only one who truly trusts it."
+        },
+        {
+          "RelPath": "J/J33/J33nB280.xml",
+          "FromLb": "0262b20",
+          "ToLb": "0262c04",
+          "Kwic": "羅漢慈，解結縛故；行如來慈，度眾生故。」喝一喝。上堂。「實際理地，不受一塵。靈光獨耀，無古無今。佛事門頭，不缺一法。直撞橫沖，七通八達。兩行滯貨一齊收，千林萬壑冷湫湫。落日紅霞千嶂錦，西風黃葉一聲鳩。」卓拄杖，喝一喝。結制，上堂。橫按拄杖，云：「汝等聞有箇雲外長老出世，各各頂笠腰包，來到遮裏參禪學道，擬會西來大意。錯了也。殊不知山僧從無量劫來常在你頂門打坐，寸步不離，你要見則得，欲覓則不得。你擬向玄妙處覓山僧，山僧不在玄妙處；你向平常處覓山僧，山僧不在平常處；你向了不可得處覓山僧，山僧不在了不可得處；你向一切處見山僧，山僧不在一切處。你若見得山僧，與山僧孝順，山僧與你永出塵勞，高超十地，舉心動念皆成海印發光，語",
+          "MasterName": "Yunwai Xingze",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J33/J33nB280.xml). Recorded Sayings of Chan Master Yunwaize of Shending. Yunwai Xingze owns the retained deployment: telling trainees who came to fathom the westward intent that they are already wrong, since he has sat at their crown-door for measureless kalpas, seeable but not findable."
+        },
+        {
+          "RelPath": "J/J28/J28nB208.xml",
+          "FromLb": "0315c05",
+          "ToLb": "0315c17",
+          "Kwic": "問：「大事未明，名為結制；大事已明，始為解制。正當解制一句作麼生道？」師云：「雪晴山脊現。」進云：「謝師指示。」師云：「杓卜聽虛聲。」僧便喝，師云：「好一喝，祇是你不知落處。」問：「結制與解制，不同亦不異，如何是無同異底句？」師云：「屋角梅華開已遍，谿邊弱柳正揚眉。」乃云：「春日晴，春鳥鳴，春華吐蕊春樹萌，西來大意十分明，演若迷頭心自惸。不須惸，迦葉峰前路坦平，春江浩淼春水盈，春風無恙片帆輕，況值九旬功告成？住者仍住行者行，舟行、陸行，遠行、近行，一任迢迢，東浙與南京，芒鞋蹋破歸來也，依舊雙眉眼上橫。然雖如是，中途或遇卒風暴雨，前面是焦尾大蟲，後面是南山鱉鼻，左邊是萬丈懸崖，右邊是無底深阬，當恁麼時，進不得、退不得，",
+          "MasterName": "Guxue Zhenzhe",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J28/J28nB208.xml). Recorded Sayings of Chan Master Guxue Zhe. Guxue Zhenzhe owns the retained deployment: singing the westward intent wholly clear in a spring verse where flowers bud and trees sprout."
+        },
+        {
+          "RelPath": "J/J40/J40nB472.xml",
+          "FromLb": "0007a09",
+          "ToLb": "0007a21",
+          "Kwic": "：「如何是國泰民安第二句？」師云：「臣忠子樂，子孝父心歡。」進云：「如何是風調雨順第三句？」師云：「村翁連夜醉，野老共雲閑。」進云：「恁麼則乾坤盡顯無生意，大地齊彰劫外春。」師云：「澣州出密棗。」乃云：「歲首敘寒溫，陽和四野分，春風潑地起，煖氣傍岩升，乾坤毛骨散，甦醒凍中情。到恁麼時，羽毛轉向上宗乘，百草萌西來大意。且道爾腳跟下骨董抽芽也未？金馬石前蘭疊翠，白猿洞菊馨香。」上堂。問：「五峰八石即不問，如何是中盤寺裏主人公？」師云：「德峰。」進云：「如何是主人的作用？」師云：「迎賓待客。」進云：「恁麼則徹底玲瓏去也。」師云：「堂前休教缺香燈。」張婆子問：「生從何來？」師喝，進云：「死從何去？」師亦喝，進云：「如何是不來",
+          "MasterName": "Dabo Qian",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J40/J40nB472.xml). Recorded Sayings of Chan Master Daboqian. Dabo Qian owns the retained deployment: having the westward intent sprout in a hundred grasses at the New Year and asking the assembly whether the bones at their heels have budded yet."
+        },
+        {
+          "RelPath": "J/J26/J26nB177.xml",
+          "FromLb": "0012c17",
+          "ToLb": "0013a01",
+          "Kwic": "。如將梵位直授凡庸，更不如何若何，是謂之知痛癢。近來去聖時遙情竇日鑿，又將棒喝處穿鑿不少，以打處云痛，切審痛底是誰？可憐生，不獨不會吾祖棒喝之旨，且不會鼻祖西來之意也。然而鼻祖以言句定旨，蓋疏通執心執性之謂；後以棒喝定旨，蓋疏通嚼言嚼句之謂，豈是以打處痛處云知痛癢也耶？若如是會，則吾祖者條棒早已拗折了也，西來大意早已抹殺了也，又安繼於今日哉？」復豎拄杖召大眾，云：「還會麼？千鈞之弩不為鼷鼠而發機。」追嚴，上堂，師云：「苦雨盆傾下，愛河長欲波，魚龍沉巨浸，孤兔隱湥坡。竹杖落塵少，芒鞋增價多，亡靈承此力，彼岸忽經過。所以道：處生死流，驪珠獨耀於滄海；踞涅槃岸，桂輪孤朗於碧天。正恁麼時，不涉二途一句作麼生道？隨順世緣",
+          "MasterName": "Poshan Haiming",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB177.xml). Recorded Sayings of Chan Master Poshan. Poshan Haiming owns the retained deployment: warning that reading the ancestral stick by where it hurts has long since snapped the stick and blotted out the westward intent."
+        },
+        {
+          "RelPath": "J/J26/J26nB182.xml",
+          "FromLb": "0443a22",
+          "ToLb": "0443b04",
+          "Kwic": "上堂。「一大藏教有奇特事，笑倒街頭趙十四；一大藏教無奇特事，鐵牛踏出虛空髓。澄澄剎海月孤圓，歷歷雲山盡流翠，子規啼血喚人歸，癡頑正被無明醉。道不離人人自離，寒山拾得槌胸背，靈山空費老婆心，少林直指阿誰會？大眾！且道：那吒忿怒、菩薩慈悲，相去多少？」豎拂子云：「一點水墨，兩處成龍。」上堂。「十五日已前，總有西來大意，諸佛玄機不得舉著。何故？過去已過去。十五日已後，雖是白鷺下田千點雪，黃鸝上樹一枝花，亦不得道著。何故？未來猶未來。正當十五日，天是天、地是地，僧是僧、俗是俗，穿衣喫飯、運水搬柴，未嘗欠少一絲毫。為甚十箇有五雙，不知落處？如如不妨放開一線，使汝諸人得箇入路。」豎拂子云：「拂子𨁝跳上天，變成金翅鳥王，將兩翼",
+          "MasterName": "Wanru Tongwei",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J26/J26nB182.xml). Recorded Sayings of Chan Master Wanru. Wanru Tongwei owns the retained deployment: ruling in a hall address that before the fifteenth day the westward intent wholly exists yet cannot be brought up, and after it cannot be spoken of either."
+        },
+        {
+          "RelPath": "J/J34/J34nB299.xml",
+          "FromLb": "0126a17",
+          "ToLb": "0126b01",
+          "Kwic": "師召眾云：「信得及麼？若信得，止宿草菴，且居門外；若信不及，三峰且與你葛藤。」推倒几案，下座。上堂。「一大藏教閑葛藤，千七百則絆殺人。三玄本無安排，五位何來等級？松風澗水自談玄，卻笑區區論權實。咄！未跨船舷，痛與三十。」上堂。「山又青，水又綠，早便起，夜便宿。桃紅李白競紛披，看來春事十分足。無位真人手段強，西來大意傾十斛。堪嗟臨濟小廝兒，風流千古誠難續。」喝一喝，云：「白雪陽春，聊和一曲。」上堂。僧問：「一人辦心，諸天辦供，未審辦甚麼心？」師云：「上人不可不會。」僧云：「某甲實實不會。」師云：「每日甚麼人將飯與你噇？」僧無語，師云：「你既無心我也休。」便下座。晚參。「亂石危松護竹扉，住山人老共忘機，晝長無個消閑",
+          "MasterName": "Hanyue Fazang",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J34/J34nB299.xml). Recorded Sayings of Monk Sanfeng Zang. Hanyue Fazang owns the retained deployment: pouring the westward intent out by the bushel where the rankless true person's means are strong."
+        },
+        {
+          "RelPath": "J/J36/J36nB369.xml",
+          "FromLb": "0905a10",
+          "ToLb": "0905a25",
+          "Kwic": "。」祖師。「視東說西，觀南指北，煮石筍為羹，採漚花釀蜜，似者般沒意智漢，且看一款收下。」遂炷香作禮。據室。「從上大老，盡向者裏設陷虎阱，樹看狗牌，萬舉而無遺籌失策者，未免缺王道之儀。新長老不用此等器具，何也？待得雪消暖自來，庭前何必齊腰立。」上堂。拈護法疏：「句高郢上陽春，彩布法中靈瑞。通融東魯真傳，開演西來大意。或有未得深知，再聽重宣此義。」同門疏。「衫袖長短，被底破穿。家裏敢論家裏事，外人未許擅流傳。」指法座。「未有世界，先有此座。佛亦不拘，祖亦不管。踏著路頭不厭高，自然開口驚天下。」遂陞座，拈王臣檀護香畢，次拈曰：「此一瓣香，根埋塵點劫前，葉布恒沙界內，專為本師釋迦文佛。伏願身雲現處，普覆高低；法雨施時，",
+          "MasterName": "Zhe'an Jingfan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J36/J36nB369.xml). Recorded Sayings of Chan Master Zhe’an Fan. Zhe'an Jingfan owns the retained deployment: having his enthronement proclamation announce that he opens and expounds the westward intent, reading it aloud at the dharma seat."
+        },
+        {
+          "RelPath": "L/L153/L153n1637.xml",
+          "FromLb": "0497a15",
+          "ToLb": "0498a03",
+          "Kwic": "得閒忙伊不得前後伊不得難易伊不得始終伊不得人我伊不得親疎伊不得損益伊不得寤寐伊不得異同伊不得男女伊不得老少伊不得得失伊不得新故伊不得迷悟伊不得固必伊不得高低伊不得貴賤伊不得果如是信得會得則無往而非道也客又曰然則某意念不動時還是道否師驀以手插向腰間摸得箇虱子擲向地云阿啞阿啞跌殺我耶跌殺我耶便休。有客問西來大意師指古鏡云是這箇客曰奈某不會何師云為汝未曾用工磨得客曰某作麼生用工即得師云即目前古鏡聻復急索曰還我西來大意來客有省曰我會也我會也師云會即不無試說來客乃指古鏡曰某既會矣奚又止在是師頷之。客有問某心緒萬端不能歸一何也師曰不見永明壽禪師謂未達境唯心起種種分別達境唯心已分別即不生客曰我會也師曰怎生會客云三界",
+          "MasterName": "Huanyou Zhengchuan",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (L/L153/L153n1637.xml). Recorded Sayings of Chan Master Huanyouchuan. Huanyou Zhengchuan owns the retained deployment: answering a guest's question on the westward intent by pointing at the ancient mirror, then urgently demanding the intent handed back until the guest awakens."
+        },
+        {
+          "RelPath": "J/J27/J27nB193.xml",
+          "FromLb": "0226b19",
+          "ToLb": "0226c02",
+          "Kwic": "。」師云：「死水裏浸殺。」僧喝，師便打。問：「打板坐禪，撾鼓上堂，無非者箇。何謂萬古碧潭空界月，再三撈摝始應知？」師云：「看腳下。」進云：「磕著撞著去也。」師云：「向甚麼處去？」僧噓一聲，師擉退，乃云：「新長老，乍開爐，烈焰烜天孰敢摸？擬欲進前身已喪，那堪回首更躊躕。草鞋拄杖丟過一邊，禪板蒲團錯用工夫。拈卻西來大意，放下東壁葫蘆。掀翻是非窠臼，坐斷報化佛顱。無端打失娘生鼻，天上人間不可摸。正當與麼時，還有為人處也無？剪碎白雲飛片片，打翻明月落家家。」復云：「把住布袋口，須彌丁倒走。日午打三更，面南看北斗。更擬問如何，白棒劈脊摟。直下解翻身，已落渠儂後。且不落人後作麼生道？」驀豎拂云：「惟有這著子，古今無蓋覆。」喝",
+          "MasterName": "Yinyuan Longqi",
+          "Curated": true,
+          "ContextMasters": [],
+          "AttributionNote": "Source record (J/J27/J27nB193.xml). Recorded Sayings of Chan Master Yinyuan. Yinyuan Longqi owns the retained deployment: tossing the westward intent away with the gourd on the east wall and smashing the nest of right and wrong at the new furnace."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "L/L153/L153n1638.xml",
+        "J/J33/J33nB280.xml",
+        "J/J28/J28nB208.xml",
+        "J/J40/J40nB472.xml",
+        "J/J26/J26nB177.xml",
+        "J/J26/J26nB182.xml",
+        "J/J34/J34nB299.xml",
+        "J/J36/J36nB369.xml",
+        "L/L153/L153n1637.xml",
+        "J/J27/J27nB193.xml"
+      ],
+      "RelatedMasters": [
+        "Xueqiao Yuanxin",
+        "Yunwai Xingze",
+        "Guxue Zhenzhe",
+        "Dabo Qian",
+        "Poshan Haiming",
+        "Wanru Tongwei",
+        "Hanyue Fazang",
+        "Zhe'an Jingfan",
+        "Huanyou Zhengchuan",
+        "Yinyuan Longqi"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The great intent of the coming from the west. Xueqiao Yuanxin tells a donor-feast assembly that coughing, spitting, swinging the arms — all of it is the ancestor's westward intent, needing only one who truly trusts it, Yunwai Xingze tells trainees who came to fathom it that they are already wrong, for he has sat at their crown-door for measureless kalpas, closer than seeking, and Guxue Zhenzhe sings it wholly clear in a spring verse where flowers bud and trees sprout. Dabo Qian has it sprouting in a hundred grasses at the New Year, Poshan Haiming warns that reading the stick by where it hurts has long since blotted it out, Wanru Tongwei rules that before the fifteenth day it wholly exists and cannot be brought up, Hanyue Fazang pours it out by the bushel where the rankless true person's means are strong, Zhe'an Jingfan's enthronement proclamation announces that he opens and expounds it, Huanyou Zhengchuan answers a guest's question by pointing at the ancient mirror and then urgently demands the westward intent handed back — and the guest awakens — and Yinyuan Longqi tosses it away with the gourd on the east wall and smashes the nest of right and wrong."
+    }
+  ]
+}

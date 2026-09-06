@@ -1,0 +1,256 @@
+{
+  "Id": "t_73d682d24270",
+  "SourceTerm": "叉手而立",
+  "CorpusBaselineSha256": "8ea7e8ab756138567783a1d3f9e01648885c1732a782ba601ba478742adddaff",
+  "CreatedBy": "A3 r8 fresh curation",
+  "WrittenUtc": "2026-09-06T00:30:00Z",
+  "Senses": [
+    {
+      "SenseKey": null,
+      "MasterName": null,
+      "PreferredTarget": "standing with arms crossed in salute",
+      "AlternateTargets": [],
+      "SearchAliases": [
+        "crossed-arm stand",
+        "the crossed-arms standing answer"
+      ],
+      "Status": "preferred",
+      "Validation": "multi-source",
+      "Note": "Exact corpus count: 305 hits in 135 files. Guide depth floor: 6. Lamps do not control this sense.",
+      "Occurrences": [
+        {
+          "RelPath": "X/X71/X71n1420.xml",
+          "FromLb": "0092a14",
+          "ToLb": "0092b09",
+          "Kwic": "吹。仲尼云：吾禱久矣。復舉宋太宗皇帝因入寺問僧云：看什麼經？僧云：仁王護國經。帝云：既是寡人經，因什麼落在卿手裏？僧無對。後來雪竇代云：皇天無親，惟德是輔。師云：若問永祚，但以頂戴。經云：萬歲，萬歲。上堂，舉：南泉問黃檗：黃金為世界，白銀為壁落，是什麼人居處？檗云：是聖人居處。泉云：更有一人居何國土？檗叉手而立，泉云：道不得，何不問王老師？檗却問：更有一人居何國土？泉云：可惜許。師云：二大老，一人無事生事，一人將錯就錯，直是好笑。當時若作黃檗，待他道：更有一人居何國土？但道：這野狐精。設使南泉通身是口，也須飲氣吞聲。初祖忌拈香。這漢西來，特地癡獃。不立文字，虗張意氣。直指人心，轉見病深。見性成佛，翻成窠窟。靈山直",
+          "MasterName": "Huangbo Xiyun",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Huangbo Xiyun",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Nanquan Puyuan",
+              "Roles": [
+                "questioner"
+              ]
+            },
+            {
+              "MasterName": "Chushi Fanqi",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X71/X71n1420.xml). Recorded Sayings of Chan Master Chushi Fanqi. Huangbo Xiyun owns the retained deployment: meets Nanquan's golden-world question with crossed arms and a stand instead of words, hands Nanquan's own question back when told to ask the old teacher Wang, and draws Chushi Fanqi's ruling that one of the two old worthies made something of nothing and the other took error for error."
+        },
+        {
+          "RelPath": "X/X70/X70n1392.xml",
+          "FromLb": "1032b17",
+          "ToLb": "1033a13",
+          "Kwic": "過時，為緣天童先師有箇銕絲網子，颺在壁角落頭，無人著眼覰著，未免拈向鵝湖深處一網看下。良久，云：小出大過。小參。說玄說妙，鴆毒不堪，待客全□□□□□□□，㘽鬚。山僧不循古人途轍，不落今時窠臼，要道一句，起佛祖膏肓，開人天眼目。良久，云：劍去久矣。舉：溈山示眾云：仲冬嚴寒年年事，󳫴運推移事若何？仰山近前叉手而立，溈云：我也知你答者話不得。却問香嚴云：你作麼生？嚴云：某甲偏答得者話。溈再如前問，嚴亦近前叉手而立，溈云：賴遇寂子不會。師拈云：溈山大似村媼弄兒孫，仰山既成安排，香嚴又成計較。諸人會麼？誰家別館池塘裏，一對鴛鴦𦘕不成？臘八，上堂。一切眾生本曾不迷，悟之一字甚處得來？堪笑老瞿曇，鏡上又添埃。西巖和尚忌日祝",
+          "MasterName": "Yangshan Huiji",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Yangshan Huiji",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Xiangyan Zhixian",
+              "Roles": [
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Guishan Lingyou",
+              "Roles": [
+                "questioner"
+              ]
+            },
+            {
+              "MasterName": "Yuejian",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X70/X70n1392.xml). Recorded Sayings of Chan Master Yuejian. Yangshan Huiji owns the retained deployment: steps forward in the crossed-arm stand to answer Guishan's midwinter question, which Guishan knows he cannot answer in words, while Xiangyan claims he alone could answer it yet answers in the same crossed-arm stand, drawing Guishan's relief that Jizi does not understand and Yuejian's ruling that Guishan dotes on his grandchildren like a village granny."
+        },
+        {
+          "RelPath": "J/J27/J27nB189.xml",
+          "FromLb": "0044a05",
+          "ToLb": "0044a19",
+          "Kwic": "墮眉須。師云：「時天實寒，大地人凍死幾半，獨丹霞有出身之路，不致為害。院主為常住惜責任，當言這是常理。祗如寮舍僧徒鑪煨，榾柮熾炭閒談，院主為客計則吝，為主計則奢。還知丹霞眉鬚被火燎卻，賴得院主救取一半麼？是則龍女頓成佛，非則善星生陷墜。」丹霞訪龐居士，見女子靈照洗菜次，霞曰：「居士在否？」女子放下菜籃，叉手而立。霞又問：「居士在否？」女子提籃便行。霞遂回。須臾居士歸，女子乃舉前話，士曰：「丹霞在麼？」女曰：「去也。」士曰：「赤土塗牛妳。」師云：「維摩會上散花天女，與舍利弗用盡神力，顯箇不思議解脫法門，不如靈照一箇菜籃，十八代先靈同受供養。丹霞只見菜籃，惜乎不見居士、靈照。若不是箇菜籃，何處覓他父親？居士曰：『赤土",
+          "MasterName": "Lingzhao",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Lingzhao",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Danxia Tianran",
+              "Roles": [
+                "questioner",
+                "person-discussed"
+              ]
+            },
+            {
+              "MasterName": "Sanyi Mingyu",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J27/J27nB189.xml). Recorded Sayings of Chan Master Sanyi Yu. Lingzhao owns the retained deployment: asked by Danxia whether her father is home, sets down the vegetable basket and stands with crossed arms, and when he asks again she picks up the basket and walks off, drawing Sanyi Mingyu's ruling that her one basket outdoes the scattering-goddess's whole feat of inconceivable release, since Danxia saw only the basket and not the father."
+        },
+        {
+          "RelPath": "J/J33/J33nB281.xml",
+          "FromLb": "0346a04",
+          "ToLb": "0346a18",
+          "Kwic": "。」頌曰：「破後打開沒意志，唯恐築碎娘生鼻。阿誰鼠豹露爪牙，透出棺材氣味息？」第二十五世萬峰蔚禪師，謁千巖，巖問：「將什麼與老僧相見？」師豎拳云：「這裏與和尚相見。」巖問：「死了、燒了，在何處安身立命？」師云：「漚生漚滅水還在，風息波平月映潭。」巖問：「不是心、不是佛、不是物，是個什麼？」師以坐具打圓相，叉手而立。又斫松次，師拈圓石作獻珠勢，云：「請師酬價。」巖曰：「不值半文錢。」師云：「瞎。」巖云：「你也瞎，我也瞎。」師云：「瞎！瞎！」巖命師為首座而付囑。拈云：「者老漢叉手而立，拈石作珠，若不無中生有，難以分座。」頌曰：「瞎瞎同條坐斷機，何勞分座弄精魂？張三李四問王老，笑殺傍觀不二門。」第二十六世寶藏持禪師，久",
+          "MasterName": "Wanfeng Shiwei",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Wanfeng Shiwei",
+              "Roles": [
+                "utterer",
+                "respondent",
+                "case-figure"
+              ]
+            },
+            {
+              "MasterName": "Qianyan Yuanzhang",
+              "Roles": [
+                "questioner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J33/J33nB281.xml). Recorded Sayings of Chan Master Zizhouchuan of Tanxi. Wanfeng Shiwei owns the retained deployment: meets Qianyan's not-mind-not-buddha-not-thing question by striking a circle with his sitting cloth and standing with crossed arms, then in the pine-cutting offers a round stone as a pearl up for a price, trades rounds of blind with the master, and is named first seat with the transmission."
+        },
+        {
+          "RelPath": "X/X68/X68n1319.xml",
+          "FromLb": "0556b03",
+          "ToLb": "0556b16",
+          "Kwic": "行解人萬中無一箇見解言語，總要知通。若識不盡，敢道輪回去在。為何如此？蓋為識漏未盡。汝但盡却今時，始得成立，亦喚作立中功轉功就他去，亦喚作就中功親他去。我所以道：親人不得度，渠不度親人。恁麼譬喻，尚不會薦取渾圇底，但管取性亂動舌頭。不見洞山道：相續也大難。洛浦元安禪師洛浦元安禪師師到夾山，不禮拜，乃當面叉手而立。山曰，雞棲鳳巢，非其同類。出去。師曰，自遠趨風，請師一接。山曰，目前無闍黎，此間無老僧。師便喝。山曰，住住，且莫草草悤悤。雲月是同，溪山各異。截斷天下人舌頭即不無，闍黎爭教無舌人解語。師佇思，山便打，因茲服膺。一日問山：佛魔不到處如何體會？山曰：燭明千里像，闇室老僧迷。又問：朝陽已昇，夜月不現時",
+          "MasterName": "Luopu Yuanan",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Luopu Yuanan",
+              "Roles": [
+                "utterer",
+                "section-subject"
+              ]
+            },
+            {
+              "MasterName": "Jiashan Shanhui",
+              "Roles": [
+                "questioner",
+                "addressee"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X68/X68n1319.xml). Imperially Selected Recorded Sayings. Luopu Yuanan owns the retained deployment: arrives at Jiashan without bowing and stands facing him with crossed arms, is told a rooster perched in a phoenix nest is not of its kind and ordered out, asks only to be received from afar, and drinks at the words no novice before me and no old monk here."
+        },
+        {
+          "RelPath": "X/X69/X69n1360.xml",
+          "FromLb": "0931a13",
+          "ToLb": "0931b09",
+          "Kwic": "佛祖，冷笑衲僧，只知掩鼻偷香，不覺空招罪犯。幸逢聖主，獲覩清光，誤蒙巨霈雲恩，特賜佛海禪號，山川增秀，慧日重輝，御樓前正令全提，金殿上鐘頓覺，亦未曾欠闕，四海不為多，智鑑洞明，心花燦發，西江吸盡，北斗橫身。當恁麼時如何？豈不見僧問投子和尚：如何是十身調御？投子下禪牀叉手而立。只如投子下下禪牀叉手而立，且道是何宗旨？無事打鼓普請看。又不見肅宗皇帝問忠國師：如何是十身調御？國師云：檀越蹋毗盧頂上行。帝曰：朕不會。國師云：陛下莫錯認自己清淨法身。大眾，且道清淨法身與十身調御相去多少？若也緇素得出，未免袖頭打領；若也緇素不出，未免腋下剜襟。而今忽有人問靈隱：如何是十身調御？提起袈裟角云：還會麼？此乃貧道向",
+          "MasterName": "Touzi Datong",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Touzi Datong",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Xiatang Huiyuan",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (X/X69/X69n1360.xml). Expanded Record of Chan Master Xiatang Huiyuan. Touzi Datong owns the retained deployment: answers the monk's question on the ten-body steersman by stepping down from the Chan bench and standing with crossed arms, a doubled stance Xiatang Huiyuan raises to ask his own assembly what principle it holds, with nothing to do but beat the drum and set them all to work."
+        },
+        {
+          "RelPath": "J/J25/J25nB156.xml",
+          "FromLb": "0058c02",
+          "ToLb": "0058c19",
+          "Kwic": "，涅槃地獄有何形，不知度盡無遺影，一陣香風起少林。德山托缽德山托缽平地洪濤起德山，雪峰隨浪挈波瀾，岩頭突出翻潮手，倒嶽傾湫鬧一番。仰山一二三子偈仰山一二三子偈一二二三子，大鵬纔展翅，平目覆仰視，虛空誰把住？兩口無一舌，塵塵剎剎說，此是吾宗旨，言中無別事。雪竇與李殿院并羽士秀才同坐李問三教中誰尊竇下禪床叉手而立李云何不道竇云對夫子而難言雪竇與李殿院并羽士秀才同坐，李問：「三教中誰尊？」竇下禪床叉手而立。李：「云何不道？」竇云：「對夫子而難言。」試問教中誰是貴，側身叉手獨稱尊，這軀寶相人人具，何獨三家村裏尋。馬祖離四句絕百非馬祖離四句絕百非勞倦頭痛卻不會，一盤托出不辜人，復云頭白與頭黑，可是饒金與益金。達摩大師",
+          "MasterName": "Xuedou Chongxian",
+          "Curated": true,
+          "ContextMasters": [
+            {
+              "MasterName": "Xuedou Chongxian",
+              "Roles": [
+                "utterer",
+                "respondent"
+              ]
+            },
+            {
+              "MasterName": "Wuhuan Xingchong",
+              "Roles": [
+                "later-raiser",
+                "record-owner"
+              ]
+            }
+          ],
+          "AttributionNote": "Source record (J/J25/J25nB156.xml). Recorded Sayings of Chan Master Wuhuan. Xuedou Chongxian owns the retained deployment: seated with the court censor Li and a Daoist scholar, answers which of the three teachings is honored by stepping down from the bench and standing with crossed arms, and to the why-not-say-it replies it is hard to speak before the Master, with the record's verse crowning him who stands sideways with crossed arms alone honored."
+        }
+      ],
+      "ClaimAnchors": [],
+      "SourceTexts": [
+        "X/X71/X71n1420.xml",
+        "X/X70/X70n1392.xml",
+        "J/J27/J27nB189.xml",
+        "J/J33/J33nB281.xml",
+        "X/X68/X68n1319.xml",
+        "X/X69/X69n1360.xml",
+        "J/J25/J25nB156.xml"
+      ],
+      "RelatedMasters": [
+        "Huangbo Xiyun",
+        "Nanquan Puyuan",
+        "Chushi Fanqi",
+        "Yangshan Huiji",
+        "Xiangyan Zhixian",
+        "Guishan Lingyou",
+        "Yuejian",
+        "Lingzhao",
+        "Danxia Tianran",
+        "Sanyi Mingyu",
+        "Wanfeng Shiwei",
+        "Qianyan Yuanzhang",
+        "Luopu Yuanan",
+        "Jiashan Shanhui",
+        "Touzi Datong",
+        "Xiatang Huiyuan",
+        "Xuedou Chongxian",
+        "Wuhuan Xingchong"
+      ],
+      "RelatedTerms": [],
+      "Explanation": "The crossed-arm stand as a whole answer, and the masters who gave it, raised it, or read it. Huangbo Xiyun meets Nanquan's golden-world question by crossing his arms and standing, and when told if you cannot say it, why not ask the old teacher Wang, he hands the very question back, drawing Chushi Fanqi's ruling that one of the two old worthies made something out of nothing and the other took error for error, Yangshan Huiji steps forward in the crossed-arm stand to answer Guishan's midwinter question he is known unable to answer, while Xiangyan claims he alone could answer it yet steps forward in the same stand, Lingzhao, asked for her father, sets down the vegetable basket and stands with crossed arms, and when Danxia asks again she picks up the basket and walks off, and Wanfeng Shiwei meets Qianyan's not-mind-not-buddha-not-thing question by striking a circle with his sitting cloth and standing with crossed arms, trading rounds of blind with the master until he is named first seat. Luopu Yuanan arrives at Jiashan without bowing and stands facing him with crossed arms, is told a rooster perched in a phoenix nest is not of its kind, and drinks at the words no novice before me and no old monk here, Touzi Datong answers the question on the ten-body steersman by stepping down from the Chan bench and standing with crossed arms, a doubled gesture Xiatang Huiyuan raises to ask his own assembly what principle it holds before beating the drum and setting everyone to work, and Xuedou Chongxian, seated with the court censor Li and a Daoist scholar, answers which of the three teachings is honored by stepping down from the bench and standing with crossed arms, and to the why-not-say-it replies it is hard to speak before the Master."
+    }
+  ]
+}
