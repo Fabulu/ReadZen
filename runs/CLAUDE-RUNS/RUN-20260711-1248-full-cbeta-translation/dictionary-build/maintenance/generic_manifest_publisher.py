@@ -9,6 +9,7 @@ import os
 import shutil
 import subprocess
 import tempfile
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
@@ -45,6 +46,13 @@ def contained(root: Path, raw: str) -> Path:
 def canonical_entry_sha(value: Any) -> str:
     body = json.dumps(value, ensure_ascii=False, indent=2) + "\n"
     return hashlib.sha256(body.encode("utf-8")).hexdigest()
+
+
+def punctuation_key(term: str) -> str:
+    return "".join(
+        char for char in unicodedata.normalize("NFKC", term)
+        if not unicodedata.category(char).startswith("P") and not char.isspace()
+    )
 
 
 class ManifestPublisher:
@@ -99,11 +107,19 @@ class ManifestPublisher:
         expected = {
             row["id"]: row["entrySha256"] for row in m["products"]
         }
+        retirements = m.get("retirements", [])
+        punctuation_retirements = any(
+            row.get("canonicalProductId") for row in retirements
+        )
         if {
             row["id"]: row["entrySha256"]
             for row in authority.get("products", [])
         } != expected:
             raise PermissionError("authority product set differs from manifest")
+        if punctuation_retirements and set(authority.get("retirements", [])) != {
+            row["id"] for row in retirements
+        }:
+            raise PermissionError("authority retirement set differs from manifest")
         for review in m["reviews"]:
             document = read(self._bound(review))
             reviewed_rows = document.get("boundProducts", document.get("products"))
@@ -121,8 +137,71 @@ class ManifestPublisher:
                     "bound independent review does not cover this cohort's "
                     "exact product set"
                 )
+            if punctuation_retirements and (
+                set(document.get("retireIds", [])) != {row["id"] for row in retirements}
+                or document.get("publicBeforeSha256") != m.get("publicBaselineSha256")
+            ):
+                raise PermissionError("bound independent review does not cover retirement set")
 
         terms = self._path(m["termsRoot"])
+        public = self._path(m["publicRoot"])
+        if retirements:
+            baseline = m.get("publicBaselineSha256")
+            if not baseline or sha(public / "termbase.v2.json") != baseline:
+                raise ValueError("retirement public baseline drift")
+            if not isinstance(m.get("expectedPublicEntryCount"), int):
+                raise ValueError("retirement expected public count required")
+            if not isinstance(m.get("expectedUniqueHeadwords"), int):
+                raise ValueError("retirement expected unique headword count required")
+            public_by_id = {
+                row["Id"]: row
+                for row in read(public / "termbase.v2.json")["Entries"]
+            }
+            retired_seen: set[str] = set()
+            for row in retirements:
+                identity = row["id"]
+                if identity in retired_seen or identity in expected:
+                    raise ValueError(f"duplicate/overlapping retirement: {identity}")
+                retired_seen.add(identity)
+                existing = public_by_id.get(identity)
+                if existing is None or canonical_entry_sha(existing) != row["publicEntrySha256"]:
+                    raise ValueError(f"retirement public entry drift: {identity}")
+                canonical_id = row.get("canonicalProductId") or (
+                    "t_" + hashlib.sha256(existing["SourceTerm"].encode("utf-8")).hexdigest()[:12]
+                )
+                if canonical_id not in expected or canonical_id == identity:
+                    raise ValueError(f"retirement lacks canonical product: {identity}")
+                canonical_row = next(
+                    product for product in m["products"]
+                    if product["id"] == canonical_id
+                )
+                replacement = read(
+                    self._path(canonical_row["sourceDir"]) / "entry.v2.json"
+                )
+                old_term = existing["SourceTerm"]
+                new_term = replacement.get("SourceTerm")
+                if new_term != old_term:
+                    aliases = {
+                        alias
+                        for sense in replacement.get("Senses", [])
+                        for alias in sense.get("SearchAliases", [])
+                    }
+                    if (
+                        not row.get("canonicalProductId")
+                        or replacement.get("Id") != canonical_id
+                        or not isinstance(new_term, str)
+                        or punctuation_key(new_term) != punctuation_key(old_term)
+                        or old_term not in aliases
+                    ):
+                        raise ValueError(f"retirement headword drift: {identity}")
+                target = terms / identity / "entry.v2.json"
+                if target.is_file():
+                    if sha(target) != row.get("termsBaselineSha256"):
+                        raise ValueError(f"retirement terms drift: {identity}")
+                elif target.parent.exists():
+                    raise ValueError(f"retirement terms entry missing: {identity}")
+                elif row.get("termsBaselineSha256") is not None:
+                    raise ValueError(f"retirement terms missing: {identity}")
         seen: set[str] = set()
         for row in m["products"]:
             identity = row["id"]
@@ -161,8 +240,9 @@ class ManifestPublisher:
             raise ValueError("Windows Node cwd must be an existing directory")
         return {
             "products": expected,
+            "retirements": {row["id"]: row for row in retirements},
             "termsRoot": terms,
-            "publicRoot": self._path(m["publicRoot"]),
+            "publicRoot": public,
             "roster": roster,
             "nodeScript": node_script,
             "nodeCwd": node_cwd,
@@ -170,6 +250,8 @@ class ManifestPublisher:
 
     @staticmethod
     def _windows_path(path: Path) -> str:
+        if os.name == "nt":
+            return str(path.resolve())
         completed = subprocess.run(
             ["wslpath", "-w", str(path.resolve())],
             check=True, text=True, capture_output=True,
@@ -198,6 +280,29 @@ class ManifestPublisher:
             ):
                 shutil.copy2(public / name, output / name)
             shutil.copytree(public / "termbase", output / "termbase")
+            if state["retirements"]:
+                rich = read(output / "termbase.v2.json")
+                before = len(rich["Entries"])
+                retired_terms = {
+                    row["SourceTerm"] for row in rich["Entries"]
+                    if row["Id"] in state["retirements"]
+                }
+                rich["Entries"] = [
+                    row for row in rich["Entries"]
+                    if row["Id"] not in state["retirements"]
+                ]
+                if before - len(rich["Entries"]) != len(state["retirements"]):
+                    raise ValueError("retirement stage count drift")
+                write(output / "termbase.v2.json", rich)
+                legacy = json.loads((output / "termbase.json").read_text(encoding="utf-8"))
+                legacy_before = len(legacy)
+                legacy = [
+                    row for row in legacy
+                    if row.get("SourceTerm") not in retired_terms
+                ]
+                if legacy_before - len(legacy) != len(retired_terms):
+                    raise ValueError("retirement legacy count drift")
+                write(output / "termbase.json", legacy)
             cohort_terms = temporary / "terms"
             cohort_terms.mkdir()
             for row in m["products"]:
@@ -217,6 +322,14 @@ class ManifestPublisher:
             ]
             self.node_runner(command, state["nodeCwd"])
             self._verify_public(output, state["products"])
+            if state["retirements"]:
+                staged = read(output / "termbase.v2.json")["Entries"]
+                if any(row["Id"] in state["retirements"] for row in staged):
+                    raise ValueError("retired ID survived stage rebuild")
+                if (len(staged) != m["expectedPublicEntryCount"]
+                        or len({row["SourceTerm"] for row in staged})
+                        != m["expectedUniqueHeadwords"]):
+                    raise ValueError("retirement stage count/headword drift")
             files = {}
             for path in sorted(output.rglob("*.json")):
                 files[str(path.relative_to(output))] = sha(path)
@@ -340,6 +453,15 @@ class ManifestPublisher:
                     os.replace(prepared / name, target / name)
                 self.failure_hook(f"terms:{identity}")
 
+            for identity in state["retirements"]:
+                target = terms / identity
+                if target.exists():
+                    shutil.copytree(
+                        target, transaction / "terms-backup" / identity)
+                    installed_terms.append(identity)
+                    shutil.rmtree(target)
+                self.failure_hook(f"retire:{identity}")
+
             for relative, digest in receipt["outputSha256"].items():
                 target = public / relative
                 backup = transaction / "public-backup" / relative
@@ -358,6 +480,14 @@ class ManifestPublisher:
                 self.failure_hook(f"public:{relative}")
 
             parity = self._verify_public(public, state["products"])
+            if state["retirements"]:
+                installed = read(public / "termbase.v2.json")["Entries"]
+                if any(row["Id"] in state["retirements"] for row in installed):
+                    raise ValueError("retired ID survived installation")
+                if (len(installed) != m["expectedPublicEntryCount"]
+                        or len({row["SourceTerm"] for row in installed})
+                        != m["expectedUniqueHeadwords"]):
+                    raise ValueError("retirement installed count/headword drift")
             audit = m.get("integrityCommand")
             if audit:
                 subprocess.run(audit, cwd=public, check=True)
@@ -372,6 +502,7 @@ class ManifestPublisher:
                 "products": state["products"],
                 "publicParity": parity,
                 "termsInstalled": list(state["products"]),
+                "termsRetired": list(state["retirements"]),
                 "lineageRosterUnchanged": True,
                 "hardPass": True,
                 "installedUtc": datetime.now(timezone.utc).isoformat(),
