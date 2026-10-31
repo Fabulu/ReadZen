@@ -54,7 +54,36 @@ public sealed class DictionaryStore : IDictionaryStore
             }
         }
 
-        // No v2 file yet — migrate from the legacy termbase.json (or seed) in memory.
+        // Public repositories keep rich entries in shards so no single Git blob
+        // grows beyond the hosting limit. Local edited dictionaries still use v2.
+        var shardRoot = Path.Combine(root, "termbase");
+        if (Directory.Exists(shardRoot))
+        {
+            var shards = Directory.GetFiles(shardRoot, "*.json");
+            if (shards.Length > 0)
+            {
+                var file = new DictionaryFile { SchemaVersion = CurrentSchemaVersion };
+                foreach (var shard in shards.OrderBy(path => path, StringComparer.Ordinal))
+                {
+                    var json = await File.ReadAllTextAsync(shard, Encoding.UTF8, ct);
+                    var part = JsonSerializer.Deserialize<DictionaryFile>(json, ReadOpts)
+                        ?? throw new InvalidDataException($"Invalid dictionary shard: {shard}");
+                    file.Entries.AddRange(part.Entries);
+                }
+
+                var indexPath = Path.Combine(root, "termbase.index.json");
+                if (File.Exists(indexPath))
+                {
+                    using var index = JsonDocument.Parse(await File.ReadAllTextAsync(indexPath, Encoding.UTF8, ct));
+                    var expected = index.RootElement.GetProperty("Terms").GetArrayLength();
+                    if (file.Entries.Count != expected)
+                        throw new InvalidDataException("Dictionary shard count differs from its index.");
+                }
+                return Normalize(file);
+            }
+        }
+
+        // Older repositories without rich shards still use the legacy projection.
         var legacy = await LoadLegacyAsync(root, ct);
         return Normalize(MigrateFromLegacy(legacy));
     }

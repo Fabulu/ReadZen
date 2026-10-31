@@ -147,6 +147,26 @@ public class DictionaryStoreTests : IDisposable
     }
 
     [Fact]
+    public async Task Load_ReadsRichPublicShardsWhenV2IsAbsent()
+    {
+        var source = SampleFile();
+        var shardRoot = Path.Combine(_tempDir, "termbase");
+        Directory.CreateDirectory(shardRoot);
+        await File.WriteAllTextAsync(Path.Combine(shardRoot, "009.json"),
+            JsonSerializer.Serialize(source), new UTF8Encoding(false));
+        await File.WriteAllTextAsync(Path.Combine(_tempDir, "termbase.index.json"),
+            JsonSerializer.Serialize(new { Terms = new[] {
+                new[] { source.Entries[0].SourceTerm, source.Entries[0].Senses[0].PreferredTarget }
+            } }), new UTF8Encoding(false));
+
+        var loaded = await _svc.LoadAsync(_tempDir);
+
+        var entry = Assert.Single(loaded.Entries);
+        Assert.Equal(2, entry.Senses.Count);
+        Assert.Equal("reviewed-unnamed", Assert.Single(entry.Senses[0].Occurrences).ActorAttribution?.Status);
+    }
+
+    [Fact]
     public void ComputeId_IsDeterministicAndTrimInsensitive()
     {
         Assert.Equal(DictionaryStore.ComputeId("水牯牛"), DictionaryStore.ComputeId("  水牯牛 "));
