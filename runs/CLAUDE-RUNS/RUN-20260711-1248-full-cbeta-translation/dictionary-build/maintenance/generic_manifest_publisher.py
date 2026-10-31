@@ -263,12 +263,72 @@ class ManifestPublisher:
                         graph_variant_ok = common_proof_ok and (
                             single_variant_ok or multi_variant_ok
                         )
+                    genitive_variant_ok = False
+                    genitive_ref = row.get("genitiveVariantProof")
+                    if genitive_ref:
+                        proof = read(self._bound(genitive_ref))
+                        exhaustion_ref = {
+                            "path": proof.get("oldExactExhaustionPacketPath"),
+                            "sha256": proof.get("oldExactExhaustionPacketSha256"),
+                        }
+                        if all(exhaustion_ref.values()):
+                            exhaustion = read(self._bound(exhaustion_ref))
+                            old_hits = exhaustion.get("allExactHits", [])
+                            new_occurrences = [
+                                occurrence
+                                for sense in replacement.get("Senses", [])
+                                for occurrence in sense.get("Occurrences", [])
+                            ]
+                            genitive_variant_ok = (
+                                proof.get("schemaVersion")
+                                == "one-family-genitive-variant-public-replacement-proof.v1"
+                                and proof.get("newCanonicalId") == canonical_id
+                                and proof.get("newCanonicalTerm") == new_term
+                                and proof.get("oldPublicId") == identity
+                                and proof.get("oldPublicTerm") == old_term
+                                and proof.get("oldPublicCanonicalEntrySha256")
+                                == row["publicEntrySha256"]
+                                and proof.get("sourceBytesPreserved") is False
+                                and len(new_term) == len(old_term) + 1
+                                and any(
+                                    new_term == old_term[:index] + "之" + old_term[index:]
+                                    for index in range(len(old_term) + 1)
+                                )
+                                and exhaustion.get("schemaVersion")
+                                == "unsupported-exact-headword-corpus-exhaustion.v1"
+                                and exhaustion.get("id") == identity
+                                and exhaustion.get("term") == old_term
+                                and exhaustion.get("publicBaselineEntrySha256")
+                                == row["publicEntrySha256"]
+                                and exhaustion.get("admittedExactFamilies") == 0
+                                and len(old_hits)
+                                == exhaustion.get("exactCount", {}).get("hits")
+                                and all(
+                                    hit.get("disposition", "").startswith((
+                                        "excluded-", "unadmitted-",
+                                    )) for hit in old_hits
+                                )
+                                and proof.get("fullOldHeadwordSearchAlias") == old_term
+                                and len(new_occurrences) == 1
+                                and proof.get("retainedSource")
+                                == new_occurrences[0].get("RelPath")
+                            )
+                            if genitive_variant_ok:
+                                genitive_variant_ok = (
+                                    new_occurrences[0].get("ClaimText") == new_term
+                                    and new_term in new_occurrences[0].get("Kwic", "")
+                                    and hashlib.sha256(
+                                        new_occurrences[0]["Kwic"].encode("utf-8")
+                                    ).hexdigest() == proof.get("retainedKwicSha256")
+                                    and proof.get("sourceVerified", {}).get("ok") is True
+                                )
                     if (
                         not row.get("canonicalProductId")
                         or replacement.get("Id") != canonical_id
                         or not isinstance(new_term, str)
                         or (punctuation_key(new_term) != punctuation_key(old_term)
-                            and not graph_variant_ok)
+                            and not graph_variant_ok
+                            and not genitive_variant_ok)
                         or old_term not in aliases
                     ):
                         raise ValueError(f"retirement headword drift: {identity}")
