@@ -40,6 +40,17 @@ subprocess.run(
     ["python", "scripts/audit-dictionary-integrity.py"],
     cwd=checkout, check=True,
 )
+subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=checkout, check=True)
+subprocess.run([
+    "git", "add", "--", "termbase.json", "termbase.v2.json",
+    "termbase.index.json", "termbase",
+], cwd=checkout, check=True)
+staged = git(checkout, "diff", "--cached", "--name-only").decode().splitlines()
+if not staged or any(
+    name not in {"termbase.json", "termbase.v2.json", "termbase.index.json"}
+    and not name.startswith("termbase/") for name in staged
+):
+    raise RuntimeError(f"Unexpected staged publication files: {staged}")
 before = json.loads(git(checkout, "show", "HEAD:termbase.v2.json"))["Entries"]
 after = json.loads((checkout / "termbase.v2.json").read_text(encoding="utf-8"))["Entries"]
 old = {entry["Id"]: entry for entry in before}
@@ -49,4 +60,5 @@ print(json.dumps({
     "added": sorted(new.keys() - old.keys()),
     "retired": sorted(old.keys() - new.keys()),
     "changed": sorted(key for key in old.keys() & new.keys() if old[key] != new[key]),
+    "stagedFiles": staged,
 }, ensure_ascii=False))
