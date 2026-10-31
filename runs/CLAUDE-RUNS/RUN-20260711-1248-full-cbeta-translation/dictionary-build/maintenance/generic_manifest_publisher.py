@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import hashlib
 import json
 import os
@@ -186,11 +187,88 @@ class ManifestPublisher:
                         for sense in replacement.get("Senses", [])
                         for alias in sense.get("SearchAliases", [])
                     }
+                    graph_variant_ok = False
+                    graph_proof_ref = row.get("graphVariantProof")
+                    if graph_proof_ref:
+                        proof = read(self._bound(graph_proof_ref))
+                        differing = [
+                            index for index, (left, right) in
+                            enumerate(zip(old_term, new_term)) if left != right
+                        ] if len(old_term) == len(new_term) else []
+                        common_proof_ok = (
+                            proof.get("schemaVersion") == "dictionary-graph-variant-merge-proof.v1"
+                            and proof.get("canonicalId") == canonical_id
+                            and proof.get("canonicalTerm") == new_term
+                            and proof.get("sourceBytesPreserved") is True
+                            and isinstance(proof.get("retainedOccurrences"), list)
+                            and bool(proof["retainedOccurrences"])
+                            and len({
+                                (item.get("relPath"), item.get("fromLb"), item.get("toLb"))
+                                for item in proof["retainedOccurrences"]
+                            }) == len(proof["retainedOccurrences"])
+                            and 1 <= len(differing) <= 2
+                            and all(
+                                unicodedata.category(term[index]).startswith("L")
+                                for term in (old_term, new_term)
+                                for index in differing
+                            )
+                        )
+                        single_variant_ok = (
+                            proof.get("retireVariantId") == identity
+                            and proof.get("variantTerm") == old_term
+                            and len(differing) == 1
+                        )
+                        variant_ids = proof.get("retireVariantIds")
+                        variant_terms = proof.get("variantTerms")
+                        inputs = proof.get("inputs")
+                        multi_variant_ok = False
+                        if (isinstance(variant_ids, list)
+                                and isinstance(variant_terms, list)
+                                and isinstance(inputs, list)
+                                and len(variant_ids) == len(variant_terms)
+                                and len(set(variant_ids)) == len(variant_ids)
+                                and dict(zip(variant_ids, variant_terms)).get(identity) == old_term
+                                and set(variant_ids) == {row["id"] for row in retirements}
+                                and {item.get("id") for item in inputs if isinstance(item, dict)}
+                                == {canonical_id, *variant_ids}):
+                            input_by_id = {item["id"]: item for item in inputs}
+                            if all(
+                                input_id in public_by_id
+                                and canonical_entry_sha(public_by_id[input_id])
+                                == item.get("entrySha256")
+                                for input_id, item in input_by_id.items()
+                            ):
+                                protected = (
+                                    "RelPath", "FromLb", "ToLb", "Kwic",
+                                    "MasterName", "ContextMasters",
+                                    "ActorAttribution", "ClaimText",
+                                )
+                                def occurrence_key(item: dict[str, Any]) -> tuple[str, ...]:
+                                    return tuple(json.dumps(
+                                        item.get(field), ensure_ascii=False,
+                                        sort_keys=True,
+                                    ) for field in protected)
+                                before = Counter(
+                                    occurrence_key(occurrence)
+                                    for input_id in input_by_id
+                                    for sense in public_by_id[input_id]["Senses"]
+                                    for occurrence in sense["Occurrences"]
+                                )
+                                after = Counter(
+                                    occurrence_key(occurrence)
+                                    for sense in replacement["Senses"]
+                                    for occurrence in sense["Occurrences"]
+                                )
+                                multi_variant_ok = before == after
+                        graph_variant_ok = common_proof_ok and (
+                            single_variant_ok or multi_variant_ok
+                        )
                     if (
                         not row.get("canonicalProductId")
                         or replacement.get("Id") != canonical_id
                         or not isinstance(new_term, str)
-                        or punctuation_key(new_term) != punctuation_key(old_term)
+                        or (punctuation_key(new_term) != punctuation_key(old_term)
+                            and not graph_variant_ok)
                         or old_term not in aliases
                     ):
                         raise ValueError(f"retirement headword drift: {identity}")
